@@ -1,0 +1,286 @@
+<document xml:lang="fao" id="no_id"><header><title>Evnafrøði A</title><genre code="facta"/><author><unknown/></author><wordcount>6627</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/midnam/laerugreinar/evnafroedi/evnafroedi-a/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem">Nám</p>
+<p type="listitem">Próvstovan</p>
+<p type="listitem">Snar</p>
+<p type="listitem">Námsætlanir</p>
+<p type="listitem">Office 365</p>
+</list><p>{$logoLinkText}</p>
+<list><p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+</list><p>Miðnám</p>
+<p type="title">Námsætlan til miðnám:</p>
+<p type="title">Evnafrøði A</p>
+<p type="title">Seinast broytt:</p>
+<p>12. mars 2015</p>
+<p type="title">Viðmerking:</p>
+<p>Rætting i próvtøkuhátti B í tíðini fyri upprudding og próvtalsgeving til hvønn einstaka próvtakara.</p>
+<p type="title">1. Samleiki</p>
+<p>Alt livandi og eisini alt tað materiella, vit menniskju hava og vilja hava, er gjørt av evnum, sum kunnu umgerast við evnafrøðiligum reaktiónum. Evnafrøðingurin kannar og greinar eginleikar hjá evnum og fortreytirnar fyri, at hesi kunnu umgerast.</p>
+<p>Sum vísindagrein hevur evnafrøðin ein týðandi leiklut, serliga tá ið talan er um at skilja og at skapa framburð í sambandi við t.d. biotøkni, nanotøkni, nýggj materiali, heilivág og matvøruframleiðslu. Evnafrøðilig gransking hevur tí ein avgerandi leiklut í tilveruni hjá einstaka menniskjanum, og harumframt í tí tøkniliga og búskaparliga framburðinum í samfelagnum. Evnafrøðilig gransking hevur eisini stóran týdning í sambandi við, at ætlanin um burðardyggan framburð verður borin á mál.</p>
+<p>Í samspæli við aðrar lærugreinar er evnafrøði sum náttúruvísindalig lærugrein við til at fremja framburð í nýtíðar heimsmyndini.</p>
+<p>Fatan av hugtøkum og evnafrøðiligari vitan mennist gjøgnum sampælið millum eygleiðingar og royndir øðrumegin og ástøði og myndlagerð hinumegin. Henda sínámillum ávirkan er týdningarmikil fyri undirvísingina í evnafrøði.</p>
+<p type="title">2. Endamál</p>
+<p>Í evnafrøði á A-stigi fær næmingurin innlit í háttaløg, hugtøk og lógir í lærugreinini, vitan um og fatan av, at øll evni eru bygd upp av atomum.</p>
+<p>Næmingurin fær vitan um týðandi evni og eginleikar teirra, umframt eina fatan av samfelagsliga og tøkniliga týdninginum evnafrøðin hevur, bæði í dag og í søguligum høpi. Arbeiðið við lærugreinini gevur næmingunum eina fatan av, at evnafrøðilig vitan og nýskapan verða nýtt til gagns fyri menniskjað og náttúruna, men at óhóskandi nýtsla av evnum kann skaða bæði heilsu og umhvørvi.</p>
+<p>Í undirvísingini í evnafrøði á A-stigi fær næmingurin kunnleika til náttúruvísindaligan hugsanarhátt og háttalag. Tað kvantitativa sjónarmiðið er av stórum týdningi, og næmingurin fær innlit í, at evnafrøði í samspæli við aðrar lærugreinar kann lýsa og loysa trupulleikar. Einstaki næmingurin verður sostatt førur fyri at fara grundandi og ábyrgdarfult fram í sambandi við ítøkilig greiðsluevni av náttúruvísindaligum slag.</p>
+<p>Næmingurin ognar sær lestrarførleika í arbeiði sínum í lærugreinini, sum leggur støði undir framhaldandi náttúruvísindaligum lestri.</p>
+<p type="title">3. Stig og tímatal</p>
+<p>Undirvísingin í evnafrøði á A-stigi (2 ára gongd) fevnir um 250 klokkutímar.</p>
+<p type="title">4. Øki</p>
+<p>Fakliga innihaldið í lærugreinini er lutað sundur í kjarnaøki og ískoytisøki. Kjarnaøki eru kravd øki, ið fevna um umleið 80% av klokkutímatalinum á hvørjum floksstigi. Ískoytisøki eru valfrí øki, sum lærari og næmingar í einstaka flokkinum velja í felag. Ískoytisøki fev</p>
+<p type="title">Kjarnaøki</p>
+<p>Kjarnaøkini í evnafrøði á A-stigi eru at skilja sum tað mest neyðuga fyri, at stigið í lærugreinini skal verða rokkið. Námsætlanin lýsir gongdina frá 0 til A.</p>
+<p>Nøkur kjarnaøki eru tey somu á A sum á bæði C- og B-stigi, men munur er á teirri fakligu dýpd, sum verður væntað á teimum ymisku stigunum.</p>
+<p type="title">Bygnaður hjá evnum</p>
+<p>Økið fevnir um intra- og intermolekýlarar bindingar. Elektronbýti í atomum, eisini orbitalhugtakið verður viðgjørt reglubundið við atliti at skeiðbundnu skipanini hjá grundevnunum og elektronbygnaðinum í molekylum. Atomorbitalhybridisering eins væl og sigma- og pimolekylorbitalar verða umrødd.</p>
+<p>Hesi sløg av bindingum verða gjøgnumgingin: kovalent binding (elektronparbinding) og ionbinding. Í hesum sambandi verður elektronegativitetshugtakið viðgjørt. Kunnleikin um stand og loysingarviðurskifti, m.a. møguleikin at blanda polar og ikki-polar evni, verður viðgjørdur, við tað at van der Waals-bindingar, hydrogenbinding og jon-dipolbindingar verða tiknar við.</p>
+<p type="title">Evnafrøðilig mongdarrokning</p>
+<p>Mongdarrokning í relatión til reaktiónstalvu, har loysingar, føst evni og gassevni verða tikin við.</p>
+<p type="title">Evnafrøðilig reaktiónssløg</p>
+<p>Almenna tiltakið um reaktiónsordan verður sett fram. Kinetikkurin fyri reaktiónir við nulta, fyrsta og øðrum ordan verður viðgjørdur. Dømi um reaktiónsmekanismur verða umrødd. Hvussu skjótleikatalið er bundið av temperaturinum (Arrheniuslíkningin) verður viðgjørt, aktiveringarorka verður tikin við.</p>
+<p>Katalysuhugtakið verður lýst við dømum um homogena og heterogena katalysu og verður sett í samband við aktiveringarorku hjá einari reaktión. Nýtsla av katalysatorum, m.a. enzymum, í ídnaðinum verður umrødd.</p>
+<p>Fyrsti høvuðssetningur í termodynamikkini og hugtakið støðufunktión verður viðgjørt við serligum atliti at entalpihugtakinum og molara reaktiónsentalpi. Annar høvuðssetningur í termodynamikkinum, m.a. støðufunktiónirnar Gibbs-orka og entropi, verður gjøgnumgingin við atliti at stabilitetshugtakinum og treytini fyri evnafrøðiligari javnvág. Tá ið støðufunktiónirnar verða gjøgnumgingnar, verður hugtakið standardstøða viðgjørt. Konduktivitetur, m.a. lóg Kohlrausch, og kolligativir eginleikar, osmotiskt trýst, kókimarkshækking og frostmarkslækking hjá loysingum verða viðgjørd.</p>
+<p>Javnvágarlógin verður grundað á termodynamikkin. Tann kvantitativa viðgerðin av evnafrøðiligari javnvág og skjóting av javnvág fevnir um homogenar eins væl og heterogenar skipanir. Gjøgnumgongdin fevnir um:</p>
+<list><p type="listitem">sýru-basujavnvágir har protolysa í veikum sýrum og basum verður tikin við, puffaraloysingar, amfolyttar og Bjerrumritmynd,</p>
+<p type="listitem">upploysiligheitsjavnvágir fyri loftsløg og jonsambond, og</p>
+<p type="listitem">kompleksjavnvágir, redoxjavnvágir og koblaðar javnvágir.</p>
+</list><p>Hvussu javnvágarkonstanturin er bundin av temperaturinum verður viðgjørt kvantitativt. Týdningurin, javnvágarhugtakið hevur fyri tøkniliga nýtslu, verður umrøddur.</p>
+<p>Viðgerðin av bygnaði og evnafrøðiligum eginleikum hjá lívfrøðiliga virknum sambondum við atliti at evna- og orkuflutningi fevnir um protein, coenzym, saccharid, nukleotid, nukleinsýrur og lipid. Termodynamiska lýsingin av orkuviðurskiftunum í nøkrum útvaldum bioorganiskum reaktiónum verður viðgjørd kvalitativt við DG- ella DS-metingum. Proteinsyntesan verður umrødd, og gjøgnumgongdin av glycolysuni, citrónsýruringrásini og andingarketuni kann verða gjørd sum yvirlit <em type="italic">. </em></p>
+<p type="title">Kunnleiki til evni</p>
+<p>Viðgerðin í lívrunnari evnafrøði skal fevna um reglubundna gjøgnumgongd av týðandi lívrunnum evnabólkum og reaktiónssløgum, hvussu vanlig lívrunnin evni eru, og hvønn týdning tey hava. Hesir evnabólkar verða umrøddir reglubu</p>
+<p>Hesi reaktiónssløgini verða viðgjørd: substitutión, additión, eliminatión, kondensatión, brenning og polymerisatión, og dømi um reaktiónsmekanismur verða sett fram. Isomerihugtøkini strukturisomeri og stereoisomeri (geometrisk isomeri og optisk isomeri) verða viðgjørd.</p>
+<p>Hvussu vanlig ólívrunnin evni eru, og hvønn týdning tey hava, verður eisini umrøtt, dømi um ringrás atomanna í náttúruni verða nevnd. Týdningarmikil ólívrunnin sambond verða viðgjørd við atliti at viðkomandi kunnleika um evnini, leiklutur teirra í dagliga lívinum, og tøknifrøðini verður tikin við. Í sambandi við tey valdu evnini skal eitt hóskandi úrval av metallum og ikki-metallum viðgerast.</p>
+<p>Spektroskopisk eyðmerking av lívrunnum evnum við IR og 1 H-NMR verður viðgjørd.</p>
+<p type="title">Royndarstovutøkni og trygd</p>
+<p>Royndararbeiði skal geva næmingurin kunnleika til vanligt royndarstovuarbeiði og góðan royndarstovusið. Í hesum sambandi verða vanda- og trygdarviðurskiti viðgjørd, so lærast kann at arbeiða á eina skynsaman hátt í royndarstovuni.</p>
+<p>Royndarstovuarbeiði fevnir um kvantitativ og kvalitativt arbeiði, syntesir, separatión, í hesum sambandi spektrofotometri, kemikaliur og trygd.</p>
+<p type="title">Ískoytisøki</p>
+<p>Ískoytisøki eru valfrí øki, sum lærari og næmingar í einstaka flokkinum semjast um í felag. Ískoytisøki kunnu styðja og lýsa eitt ella fleiri kjarnaøki frá øðrum sjónarhornum og vera við til at menna førleikar næmingsins samsvarandi teimum førleikamálum, ið ásett eru. Endamálið við ískoytisøkjum er harumframt at geva skúlum og útbúgvingarbreytum rúm fyri serligum eyðkennum og arbeiðsháttum. Dømi um ískoytisøki kunnu vera:</p>
+<list><p type="listitem">Umhvørvið (vakstrarhúsárinið, ozonlagið)</p>
+<p type="listitem">Protein, feitt, sukur og alkoholir</p>
+<p type="listitem">Heilsa og kostur</p>
+<p type="listitem">Litevni</p>
+<p type="listitem">Elektrokemi</p>
+<p type="listitem">Loftevni</p>
+<p type="listitem">Komplekskemi / kompleksjavnvágir</p>
+<p type="listitem">Redox líkavektir</p>
+<p type="listitem">Biodiesel, bioethanol</p>
+<p type="listitem">Brint í orkuhøpi</p>
+<p type="listitem">Týdningarmikil ólívrunnin sambond</p>
+<p type="listitem">Ringrásir hjá carbon og nitrogen</p>
+<p type="listitem">Umhvørvið (umhvørvislóggáva og umsiting).</p>
+<p type="listitem">Plast</p>
+<p type="listitem">Medicinalkemi (Heiluvágsevnafrøði)</p>
+</list><p type="title">5. Førleikamál</p>
+<p>Førleikamálini í evnafrøði eru býtt sundur í støðisførleikar og fakligar førleikar.</p>
+<p type="title">Støðisførleikar</p>
+<p>Støðisførleikar eru grundleggjandi førleikar, sum menniskju ogna sær tíðliga í lívinum, men sum mugu stimbrast og mennast alt lívið. Støðisførleikar hava avgerandi týdning fyri, at kunnleiki, vitan og førleikar verða ment í øllum lærugreinum. Støðisførleikar eru við til at menna sannkenning, virðing, hugflog og evni til støðutakan og sjálvvirkni. Undirvísingin skal virka fyri, at næmingurin fær hug og sinni at læra og geva sítt íkast til kjak og loysnir.</p>
+<p>Í hesum sambandi eru fýra støðisførleikar lýstir við atliti at teimum fortreytum, sum eru galdandi fyri lærugreinina. Í øllum lærugreinum skal næmingurin læra:</p>
+<list><p type="listitem">at virða</p>
+<p type="listitem">at samskifta</p>
+<p type="listitem">at kanna</p>
+<p type="listitem">at skapa</p>
+</list><p type="title">At virða</p>
+<p>At virða er at virka fyri góðari samveru millum menniskju og fyri góðum samanspæli millum menniskju, náttúru og umhvørvi. Virðing fremur tryggleika og trivnað, ið eru fortreytir fyri gagnligari menning. Undirvísingin skal virka fyri, at hvør einstakur næmingur verður sæddur og hoyrdur, og at hann kennir seg at hava virði og týdning, har hann er.</p>
+<p>Førleikin <em type="italic">at virða </em>snýr seg í evnafrøði um at virða tær grundleggjandi reglur, ið náttúran og tað náttúruskapta umh</p>
+<p type="title">At samskifta</p>
+<p>Førleikin <em type="italic">at samskifta </em>snýr seg í evnafrøði um førleikan at bera fram sína hugsan og sína vitan munnliga og skrivliga og at lesa. Lærugreinin evnafrøði hevur ein týðandi leiklut í at menna førleikar næmingsins at samskifta um náttúruvísindi, so at hann dugir at nýta evnafrøðilig hugtøk um evnafrøðilig viðurskifti. At samskifta um náttúruvísindi snýr seg eisini um at rokna og at nýta tøknilig amboð, ið tæna samskiftinum millum manna sum heild. </p>
+<p>Førleikin at bera fram hugsanir sínar munnliga og skrivliga verður mentur við miðvíst at arbeiða við og venja í ymiskum samskiftisstøðum. Í lærugreinini skal næmingurin frá fyrsta degi verða vandur við at tala, skifta orð, lýða á, próvføra og bera fram egnar metingar.</p>
+<p>Førleikin <em type="italic">at lesa og skriva </em>er avgerandi fortreyt fyri øllum samskifti og lærdómi í lívinum. At skriva er at skipa hugsan og menna hugskot; at lesa er at skyna á og tulka. Í evnafrøði merkir hetta m.a., at næmingurin frá fyrsta degi skal venja seg við at lesa náttúrufrøðiligar tekstir á ávísum torleikastigi og at gera grein fyri sínum eygleiðingum og viðrakingum á skrift á einum rímiliga fjøltáttaðum, samanhangandi máli, ið evnar at knýta saman einfaldar samanhangir. Næmingurin skal duga at lesa og skilja vegleiðingar, talvur, farmyndir, farstrikur og ímyndir. </p>
+<p>Førleikin <em type="italic">at rokna </em>snýr seg í evnafrøði um førleikan at lesa hagtøl, fata bygnað, frymlar og úrtøkiligar skipanir. At rokna er eisini at hugsa skilvíst og loysa greiðsluevni. Hesir førleikar eru fortreyt fyri at skilja og taka støðu til mangar gerandistekstir og ymisk gerandismál, og tí hevur undirvísingin í evnafrøði ein avgerandi leiklut í hesi menning. </p>
+<p>Førleikin <em type="italic">at nýta tøknilig amboð </em>er í evnafrøði at duga at nýta kunningartøkni, ið er ein fortreyt fyri øllum fjarskifti, umframt at nýta starvsstovuútgerð, ið er ætlað hesum floksstigum. Við venjingum skal næmingurin læra at nýta útgerðina rætt og trygt. Við venjingum ognar næmingurin sær eisini vitan og mennir síni evni at skriva tekstir. Hesin førleiki snýr seg í stóran mun um at duga at finna viðkomandi upplýsingar á internetinum og at taka niður tilfar ella avrita tilfar inn í eitt tekstskjal ella rokniark og at goyma sítt tilfar í skipaðum skjáttubygnaði, so at til ber at handfara eina ávísa mongd av ymiskum tilfari. Ein vandalig meting av upplýsingum av internetinum er eisini partur av støðisførleikunum. </p>
+<p type="title">At kanna</p>
+<p>Vit kanna umhvørvið fyri at klára okkum í lívinum. At kanna er at eygleiða, undrast, finna svar og gera royndir. Lærarar skulu geva gætur, at hesir førleikar verða mentir frá lægsta til hægsta stig.</p>
+<p>Førleikin <em type="italic">at kanna </em>snýr seg í evnafrøði um at eggja forvitni næmingsins og stimbra hug og dirvi hansara til at seta spurningar og at leita sær ráð og vitan um evnafrøðilig viðurskifti. Næmingurin skal læra at leita upp og ogna sær viðkomandi vitan og kunnleika í bókmentum, handbókum, tíðarritum, á internetinum o.s.fr., umframt at gera verkligar royndir í starvsstovu og úti í náttúruni. Næmingurin verður eggjaður til at síggja gagn og gleði í náttúrufrøðiligum og evnafrøðiligum viðurskiftum og til at fregnast um spurningar av nevnda slag, sum bjóða forvitninum av. Við dømum og venjingum skal næmingurin læra at nýta vísindaliga framferðarháttin og at handfara keldutilfar á sakligan, siðiligan og munadyggan hátt. </p>
+<p type="title">At skapa</p>
+<p>Forvitni, spæl og hugflog eru serligir eginleikar, sum lærarin skal varða um og gera gagn av í undirvísingini. At skapa er eisini ein førleiki, ið kann vinnast við lærdómi. Næmingurin skal læra at hugsa, tala og skriva sjálvstøðugt og at menna hugskot síni, og hann skal kenna seg at hava ein virknan </p>
+<p>Førleikin <em type="italic">at skapa </em>snýr seg í evnafrøði um at gera næmingin tilvitaðan um og líta á egin evni, so at hann gerst førur fyri sjálvur at byggja víðari á tað, sum lært er. Næmingurin skal læra, hvussu náttúruvísindalig, tøknilig og evnafrøðilig nýbrot hava verið við til at broytt náttúru, umhvørvi, mentan og samfeløg. </p>
+<p>Næmingurin evnar at orða spurningar og at seta fram tilhugsanir, sum kunnu verða kannaðar, próvføra og skifta orð um hetta við atliti at øðrum evnafrøðiligum upplýsingum. Tað merkir, at næmingurin skal vera við í samrøðum, samskifta um hugskot og tosa um spurningar og hugsandi loysnir við onnur.</p>
+<p>Næmingurin skal læra, at verkligar royndir og frágreiðingar um alis- og evnafrøðilig viðurskifti eru ein partur av skapandi tilgongdini, sum byggir á hugflog, íblástur og treystleika. Við atliti at búningarstigi og serligu gávum næmingsins verður arbeitt miðvíst við skapandi tilgongdum, sum fremja íblástur og stimbra hugflog. Við at arbeiða við myndlum lærir næmingurin at meta um dygdina í avrikum hjá sær sjálvum og øðrum.</p>
+<p type="title">Fakligir førleikar</p>
+<p>Næmingurin dugir:</p>
+<list><p type="listitem">at greiða frá sambandinum millum struktur og teir evnafrøðiligu/fysisku eginleikarnar hjá lívrunnum og ólívrunnum evnum, umframt greiða frá nýtsluni av hesum evnum í gerandisdegnum og í tøknifrøðiligum samanhangi</p>
+<p type="listitem">at knýta saman eygleiðingar, myndlar og súmbolframsetingar</p>
+<p type="listitem">at greiða frá evnafrøðiligum hugtøkum á makroskopiskum, molekylerum og symbolskum støði, og í hesum sambandi duga at nýta evnafrøðiligar myndlar til at lýsa evnafrøðilig hugtøk</p>
+<p type="listitem">at skráseta og eftirviðgera dátur og eygleiðingar, greina, meta um og miðla royndarúrslit, bæði skrivliga og munnliga og í einstøkum føri eisini at leggja fram eina tulking av einari heldur torskildari ivamálsorðing</p>
+<p type="listitem">at greiða frá og viðgera evnafrøðiliga javnvág á kvalitativum og kvantitativum grundarlag, og í hesum sambandi útrokna skjótingar í javnvág</p>
+<p type="listitem">at gera útrokningar, ið byggja á termodynamiskar dátur, við tí fyri eyga at meta um gongdina av einari evnafrøðiligari reaktión og treytirnar fyri javnvág</p>
+<p type="listitem">at fáa til vega, meta um og nýta evnafrøðiligar upplýsingar úr ymiskum keldum</p>
+<p type="listitem">at greina og rokna út evnafrøðiligar ivamálsorðingar, og miðla evnafrøðiliga vitan skrivliga og munnliga bæði á fakmáli og á gerandismáli</p>
+<p type="listitem">at handfara kemikaliu í starvsstovu og heima á skynsaman hátt</p>
+<p type="listitem">sjálv/ur at gera og gjøgnumføra einfaldar evnafrøðiligar royndir, harímillum at gera og mótprógva tilhugsanir (hypotesur) og sjálv/ur velja starvsstovuútgerð</p>
+<p type="listitem">at nýta sína evnafrøðiligu vitan til at eyðmerkja, umframt at kjakast um einfaldar evnafrøðiligar ivamálsorðingar, við atliti at t.d. tøkni og øðrum viðkomandi viðurskiftum</p>
+<p type="listitem">at lesa ein evnafrøðitekst og greiða frá teimum týdningarmestu fakligu hugtøkunum og teirri fakligu próvførsluni</p>
+<p type="listitem">at tvinna ástøði og starvsstovuroyndir saman</p>
+<p type="listitem">at skjalsanna starvsstovuarbeiðið og bera fram evnafrøðiligu vitan sína, bæði skrivliga og munnliga til ymiskar málbólkar</p>
+<p type="listitem">at perspektivera sína fakligu vitan, eisini í mun til og í samstarvi við aðrar lærugreinar</p>
+<p type="listitem">at vísa, at hann skilir samanhangin millum tey ymisku partsøkini í evnafrøði,</p>
+<p type="listitem">at vísa vitan um samleika og háttaløg í evnafrøði</p>
+<p type="listitem">at eyðmerkja, greiða frá og fyrihalda seg til evnafrøðiligar ivamálsorðingar í gerandisdegnum og í tí kjaki, ið er uppi í tíðini</p>
+<p type="listitem">at nýta ta vitan, ið er fingin í fakinum til at skilja og meta um týdningin, ið evnafrøðin hevur fyri menniskjað og umverðina í samanspæli við framburðin á tí samfelagsliga og tøkniliga økinum.</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
+<p type="title">Eftirmetingar</p>
+<p>Einstaki næmingurin skal eftirmetast ávegis í undirvísingargongdini við støði í antin skrivligum ella munnligum framløgum. Næmingurin eigur at hava eina greiða fatan av støðu síni í mun til fakligu málini í lærugreinini, og hann eigur at fáa vegleiðing um, hvussu og hvørjum arbeiðast skal við fyri at røkka málunum.</p>
+<p type="title">Próvtøkuhættir</p>
+<p>Hildnar verða ein munnlig og ein skrivlig próvtøka.</p>
+<p type="title">Skrivliga próvtøkan</p>
+<p>Skrivliga próvtøkan varir 5 tímar, og uppgávurnar í próvtøkuraðnum verða settar innan kjarnaevnini í lærugreinini.</p>
+<p type="title">Munnliga próvtøkan</p>
+<p>Leiðsla skúlans velur fyri hvønn flokk/valbólk ein av niðanfyri nevndu munnligu próvtøkuháttum. Fyri báðar próvtøkuhættir er galdandi, at próvhoyrari orðar uppgávuspurningarnar, sum á fjølbroyttan hátt umboða førleikamálini í námsætlanini og annars taka støði í bæði kjarnaøkjum og ískoytisøkjum, sum arbeitt hevur verið við í undirvísingini.</p>
+<p>Somu uppgávuspurningar kunnu í mesta lagið verða nýttir tvær ferðir í sama flokki/valbólki. Fylgiskjøl og annað tilfar kunnu verða nýtt oftari, eftir vild próvhoyrarans.</p>
+<p>Próvtøkuspurningar og -uppgávur skulu sendast próvdómaranum og verða honum í hendi í seinasta lagi 5 dagar undan próvtøkuni.</p>
+<p type="title">Próvtøkuháttur A</p>
+<p>Til munnligu próvtøkuna sambært próvtøkuhátti A er spurningurin grundaður á eina uppgávu, sum fevnir bæði um ástøði og royndararbeiði innan eitt og sama øki. Fylgiskjøl skulu hoyra til uppgávuna. Næmingarnir skulu verða kunnaðir um uppgávurnar – tó ikki um fylgiskjølini – framman undan próvtøkuni, tó ikki áðrenn próvtøkan er kunngjørd. Skilagott er, at hvør próvtøkuspurningur hevur undirspurningar, sum til samans geva próvtakaranum møguleika at vísa, at hann lýkur fakligu førleikamálini. Í próvtøkuspurninginum eru eisini fylgiskjøl, sum kunnu vera myndir, talvur, grafar o.tíl. Tilfarið skal bæði vera kent og ókent. Royndararbeiðið skal í mest møguligan mun vera partur av uppgávunum. Tól og útgerð frá undirvísingini kunnu eisini verða nýtt.</p>
+<p>Próvtøkuspurningarnir skulu tí:</p>
+<list><p type="listitem">fevna um øll temu, fakligu málini og kjarnaøki, umframt ískoytisøki</p>
+<p type="listitem">vísa, hvar denturin er lagdur í undirvísingini</p>
+<p type="listitem">fevna um fakið í síni heild</p>
+<p type="listitem">í hóskandi tali samsvara talinum av próvtakarum.</p>
+</list><p>Í stórum flokkum kann gerast neyðugt, at onkrir próvtøkuspurningar koma fyri tvær ferðir. Tá kann vera skilagott at skifta undirspurningarnar, hóast próvtøkuspurningarnir hoyra til sama tema. Allir próvtøkuspurningar skulu leggjast fram, tá ið próvtøkan byrjar, og seinasti próvtakarin skal í minsta lagi hava fýra spurningar at velja ímillum.</p>
+<p>Próvtøkuspurningurin skal geva próvtakaranum møguleikar:</p>
+<list><p type="listitem">greitt at síggja, hvat skal svarast, og hvat kann svarast</p>
+<p type="listitem">at greiða frá og sundurgreina úrslit frá venjingum</p>
+<p type="listitem">at greiða frá, hví og hvussu ávíst háttalag er valt</p>
+<p type="listitem">at vísa sínar førleikar at samantvinna ástøði og venjingar</p>
+<p type="listitem">at greina og greiða frá evnfrøðiligum spurningum og samanhangum, og vísa eina evnafrøðiliga fatan á einum hægri stigi</p>
+<p type="listitem">at evna at seta fakligu vitan sína í frásjón.</p>
+</list><p>Próvhoyringin varir 30 minuttir, íroknað próvdøming. Fyrireikingartíðin er 30 minuttir, íroknað útflýggjan av tilfari umframt vegleiðing.</p>
+<p>Í fyrireikingini kann próvhoyrarin brúka loyvdar hjálparmiðlar.</p>
+<p>Undir próvhoyringini kann próvhoyrarin brúka notur, sum hann hevur gjørt í fyrireikingartíðini, próvtøkuspurningin, umframt egnar notur frá undirvísingini.</p>
+<p>Próvtakarin skipar sjálvur fyrireikingartíðina. Próvhoyringin byrjar við, at próvtakarin leggur fram. Síðani er próvhoyringin ein samrøða millum próvtakara og próvhoyrara. Próvdómarin kann seta spurningar og luttaka í samrøðuni, um hetta fellur natúrligt. Próvhoyringin verður býtt javnt millum framløgu og samrøðu.</p>
+<p type="title">Próvtøkuháttur B</p>
+<p>Munnliga próvtøkan sambært próvtøkuhátti B er í tveimum pørtum. Próvtøkuspurningurin er grundaður á eina uppgávu, sum fevnir um eina kenda starvsstovuroynd og eina ástøðiliga uppgávu. Næmingarnir skulu verða kunnaðir um tað, sum farið verður til próvtøku í (starvsstovuroynd og ástøðiligan part), men ikki hvussu partarnir í próvtøkuspurninginum eru settir saman (greipaðir). Starvsstovuroyndin og ástøðiliga uppgávan skulu fevna um ymisk øki. Ástøðiligi parturin verður kunngjørdur próvtakaranum beint fyri fyrireiking til ástøðiligu próvtøkuna. Próvtøkutíðin til starvsstovuroyndina er 2 tímar hjá í mesta lagi 8 próvtakarum, og 20 minuttir fyri hvønn próvtakara til ástøðiliga partin. Fyrireikingartíðin til ástøðiliga partin er 20 minuttir.</p>
+<p>Fyrsti partur av próvtøkuni er starvsstovuroynd, har upp til 8 próvtakarar gera eina kenda roynd innan fyri 2 tímar. Próvtakararnir hava atgongd til øll hjálparamboð, umframt egnar frágreiðingar og loggbók, ið hava týdning fyri ta ítøkiligu royndina.</p>
+<p>Tá ið hvør einstakur próvtakari hevur drigið og skilt próvtøkuspurningin í sambandi við starvsstovuroyndina, fær hann 15 minuttir at fyrireika seg, tó ikki í sjálvari starvsstovuni. Síðani fara próvtakararnir í starvsstovuna, har próvhoyrari og próvdómari ganga millum próvtakararnar. Í fyrsta spurnarumfari skulu próvtakararnir greiða frá ætlan síni við starvsstovuarbeiðinum og møguligum trygdartiltøkum. Samrøðan millum próvhoyrara og próvtakarar er støði undir einari heildarmeting av vitan og førleikum hjá einstaka próvtakaranum. Samrøðan kann fara fram eftir fylgjandi leisti:</p>
+<list><p type="listitem">Hvat vil próvtakarin vísa við royndini?</p>
+<p type="listitem">Próvtakarin greiðir frá starvsstovuroyndini, meðan hon fer fram</p>
+<p type="listitem">Próvtakarin greiðir frá ástøði og hugtøkum, ið eru knýtt at royndini</p>
+<p type="listitem">Próvtakarin umrøður ástøðiliga innihaldið í próvtøkuspurninginum</p>
+<p type="listitem">Møguliga vísa, hvussu nevndu evni verða sett í frásjón.</p>
+</list><p>Upprudding og próvtalsgeving til hvønn próvtakara er íroknað teir 135 minuttirnar (15 + 120 min.), fyrri parturin av próvtøkuni hevur vart.</p>
+<p>Seinni partur av próvtøkuni fer fram beint eftir fyrra part, har raðfylgjan er avtalað frammanundan. Próvtøkan er ein samrøða millum próvhoyrara og próvtakara.</p>
+<p type="title">Dømingargrundarlag</p>
+<p type="title">Skrivliga próvtøkan</p>
+<p>Dentur verður lagdur á, at próvtakarin dugir at nýta sína evnafrøðiligu vitan í sambandi við nýggj greiðsluevni, og at saman við próvtøkusvarinum liggja frágreiðing, reaksjónskema, figurar og evnafrøðiligir frymlar í slíkum vavi, at hugsanarhátturin greitt kemur til sjóndar.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans.</p>
+<p type="title">Munnliga próvtøkan</p>
+<p>Tilfarið, ið er grundarlag undir munnligu próvtøkuni, skal í síni heild síggja til, at øll faklig mál í lærugreinini eru umboðað.</p>
+<p>Próvtakarin skal, við støði í fakligu tilgongdini og støðisførleikunum, sýna evni til sjálvstøðugt at leggja fram og viðgera tilfar við støði í próvtøkuspurningi/um. Hann skal sýna, at hann dugir at taka fram týðandi tættir í ti</p>
+<p>Dømingin er grundað á, í hvønn mun avrik próvtakarans lýkur fakligu førleikamálini. Dentur verður lagdur á, at próvtakarin dugir at orða seg neyvt og greitt og at nýta fakligu frøðiheitini í lærugreinini, umframt at hann sýnir fakligt yvirlit, m.a. við at taka upp í fakligu samtaluna týðandi evnafrøðilig evni og at seta tey í frásjón.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans.</p>
+<p type="title">Próvtalslýsingar</p>
+<p type="title">Skrivligt A-stig</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p>Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Próvtøkusvarið er greitt, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið er neyvt, tulkingin er sera væl grundað við neyvari og greinandi eygleiðing. Próvtakarin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini evnafrøði. Viðløgdu útrokningar og tilfar annars stuðlar próvtøkusvarinum sera væl. Sjónarmiðini eru væl lýst og vísa sera gott innlit í lærugreinina. Fá og týdningarleys brek kunnu koma fyri.</p>
+<p>Gott</p>
+<p>Próvtøkusvarið er samanhangandi og væl skipað. Málið er skilligt og fjølbroytt. Tulkingin er góð við greinandi eygleiðingum. Próvtakarin brúkar tey amboð, ið natúrliga eru knýtt at lærugreinini evnafrøði, og viðlagda útrokningartilfarið stuðlar próvsvarinum væl. Sjónarmiðini eru týðulig og vísa gott innlit í lærugreinina. Framsetingin er hóskandi skipað. Onkur brek koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Próvtøkusvarið er heldur trilvandi og hongur ikki væl saman, er so dánt væl skipað, skilligt, men bæði fak- og málsligir veikleikar eru. Greiningin er somuleiðis veik og tulkingin ógreið, og fakliga eygleiðingin veik. Týðandi brek koma fyri.</p>
+<p type="title">Munnligt A-stig</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p>Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Framløgan er greið, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Próvtakarin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini evnafrøði. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Fá og týdningarleys brek kunnu koma fyri.</p>
+<p>Gott</p>
+<p>Framløgan er samanhangandi og væl skipað. Málið í framløguni er skilligt og fjølbroytt. Tulkingin er góð við greinandi eygleiðingum. Próvtakarin brúkar tey amboð, ið natúrliga eru knýtt at lærugreinini evnafrøði, og er virkin í fakligu samrøðuni. Sjónarmiðini eru týðilig og meting próvtakarans av próvtilfarinum er væl grundað. Framsetingin er hóskandi skipað. Onkur brek koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men bæði fak- og málsliga veik. Greiningin er veik, og tulkingin ógreið, og fakliga eygleiðingin veik. Próvtakarin er við í fakligu samrøðuni, men týðandi brek koma tó fyri.</p>
+<p type="title">7. At skipa undirvísing</p>
+<p>Í hesum parti av námsætlanini verður í stuttum greitt frá teimum didaktisku meginreglum, ið eru støði undir skipan av undirvísing. Hvør einstøk námsætlan myndar didaktiska sjónarmiðið, og saman mynda allar námsætlanirnar tann felags didaktiska pallin, har undirvísing verður útint.</p>
+<p>Undirvísingin tekur altíð støði í teimum førleikum, ið næmingurin hevur við sær av tí stigi, hann kemur. Námsætlan og útbúgvingarbygnaður skulu tryggja, at fortreytir fyri fjøltáttaðari undirvísing eru til staðar.</p>
+<p type="title">Didaktiskar meginreglur</p>
+<p>Undirvísingin er tematisk. Temuni hava støði í evnafrøðiligum spurningum, ið hava tøkniligan ella samfelagsligan týdning. Ymisku evnini verða vald soleið</p>
+<p>Undirvísingin verður løgd soleiðis tilrættis, at hon skiftir ímillum ymiskar undirvísingarhættir, ið skulu tryggja ein stigvøkstur, frá eini meira lærarastýrdari undirvísing, til eina undirvísing, har næmingurin sjálvstøðugur kann arbeiða, bæði ástøðiliga og verkliga, við smærri evnafrøðiligum spurningum, samstundis sum hann eisini gerst tilvitaður um stigvøksturin í síni egnu læring. Hetta kann gerast við, at arbeitt verður á ymiskum taksonomiskum stigum, og við at brúka týpuorð, so sum <span type="quote">"lýs"</span>, <span type="quote">"greið frá"</span>, <span type="quote">"greina"</span>, <span type="quote">"røð um"</span>, <span type="quote">"met um"</span> o.s.fr.</p>
+<p>Umráðandi er, at einstaki næmingurin, virkin og á nýskapandi hátt mennir síni munnligu evni at miðla við samrøðu, at leggja fram o.s.fr.</p>
+<p>Í undirvísingini er umráðandi, at førleikarnir <em type="italic">at lurta </em>, <em type="italic">at tala </em>, <em type="italic">at lesa </em>og <em type="italic">at skriva </em>renna saman í eina heild. Í teirri ávísu undirvísingargongdini ber til at leggja høvuðsdent á eitt av kjarnaøkjunum. Tað kann t.d. vera <em type="italic">bygnaðurin í evnum, evnafrøðilig reaktiónssløg </em>ella <em type="italic">kunnleiki um evni </em>. </p>
+<p>Av stórum týdningi er tað, at kjarnaøkini umskarast, tá ið tað ber til, og tá ið tað verður mett at vera hóskandi. Sum dømi kundu partar úr kjarnaøkinum <em type="italic">bygnaðurin í evnum </em>verið samskipaðir við pørtum úr kjarnaøkinum <em type="italic">evnafrøðilig reaktiónssløg </em>. Vitan á hesum øki kundi verið við til at gjørt fatanina av evnafrøðini meira fjøltáttaða. </p>
+<p>Munnligi tátturin í lærugreinini skal vera raðfestur høgt, og samrøðan er kjarnin í hesum tátti. Munnligar framløgur skulu skipast inn í undirvísingartilgongdina, so næmingurin stigvíst venur seg við at leggja fram. Dentur verður lagdur á, at næmingurin sameinir munnligar framløgur við egin skrivlig verk, nýtslu av KT-amboðum, ymiskar samskiftishættir o.s.fr. Á tann hátt verður retoriski førleikin hjá næminginum mentur.</p>
+<p>Skrivligi tátturin skal eins og tann munnligi vera skipaður inn í undirvísingina í evnafrøði. Á henda hátt kann næmingurin ogna sær góðar skriviførleikar og menna teir. Somuleiðis verður arbeitt miðvíst við at menna førleikan at rokna í undirvísingini í evnafrøði. Umframt at hetta styrkir um tvørfakliga samstarvið, fer næmingurin so hvørt at fáa eina greiðari fatan av týdninginum, hesir førleikar hava fyri alt skrivligt og formligt samskifti, og samstundis mennir hetta evnini hjá næminginum at orða seg bæði munnliga og skrivliga.</p>
+<p type="title">Stigvøkstur</p>
+<p>Stigvøkstur merkir støðuga framtøku av einum lægri stigi á eitt hægri. Í læringartilgongdini verður farið frá tí lætta til tað torføra, frá tí einfalda til tað tor-greidda og frá tí ítøkiliga til tað úrtøkiliga. Stigvøksturin er oftast tíðartreytaður.</p>
+<p>Undir stigvøkstrinum liggur eisini kravið um vaksandi ábyrgd og virknari luttøku.</p>
+<p>Umráðandi er í hesum sambandi, at ljós verður varpað á teir leiklutir, sum næmingur og lærari kunnu hava hvør sær. Samrátt verður um, hvat ið er best at gera, og hvussu hetta verður gjørt, so næmingurin fær ávirkan á undirvísingina og á egnu læring.</p>
+<p>Stigvøksturin kemur serstakliga til sjóndar í teimum førleikamálum, sum lýst eru í námsætlanini. Málini lýsa framúravrikið (hægsta próvtal) og eru bindandi, soleiðis at skilja, at lærari og næmingur altíð arbeiða fram ímóti at náa teimum ásettu málunum so væl sum gjørligt. Fyri at tryggja stigvøkstur er neyðugt, at sett verða ávegismál, sum hjálpa næminginum fram móti endaligu málunum. Umráðandi er eisini, at lærarin er tilvitaður um fortreytirnar hjá einstaka næminginum og tillagar undirvísingina eftir einstaka næminginu</p>
+<p type="title">At læra at læra</p>
+<p>Næmingurin skal gerast tilvitaður um, hvat tað í grundini er at læra. Eisini skal næmingurin gerast tilvitaður um ymiskar læringarhættir, og hvat endamálið við læringini er.</p>
+<p>Undirvísingin skal sostatt ikki bert savna seg um tað, sum lært verður, men eisini um, hvussu lært verður. Umráðandi er, at hugtakið <em type="italic">læring </em>verður lýst og viðgjørt í flokkinum, so næmingurin gerst tilvitaður um, hvat hugtakið ber í sær. Næmingurin skal regluliga gerast varugur við, hvussu læringartilgondin er ætlað, og hann skal verða eggjaður til at umhugsa sína egnu støðu í henni. Dentur skal eisini leggjast á heimaarbeiði, og tann týðandi leiklut hetta hevur í fakligu menningini. </p>
+<p>Næmingurin skal frá fyrsta degi skilja týdningin av lærugreinini evnafrøði. Tá ið arbeitt verður við ymiskum evnum og táttum, verða ymiskir førleikar mentir. Næmingurin skal fáa fatan av, hvat hesir førleikar kunnu verða brúktir til, eisini uttan fyri skúlans gátt. Undirvísingin í evnafrøði skal gera næmingin tilvitaðan um, at hann í lærugreinini mennist og gerst førur fyri at arbeiða greinandi og kritiskt við teimum ymisku evnunum og táttunum, sum arbeitt verður við. Eisini skal næmingurin verða tilvitaður um, at hann í lærugreinini mennir sær førleikarnar at koma til orðanna í nógvum ymiskum viðurskiftum, ið so ella so eru knýtt at evnafrøðiligum spurningum.</p>
+<p type="title">Arbeiðshættir</p>
+<p>Undirvísingin verður løgd tilrættis, so royndararbeiði og ástøði eru samantvinnað, samstundis sum:</p>
+<list><p type="listitem">dagliga undirvísingin skiftir millum ymisku læringsrúmini,</p>
+<p type="listitem">valdi arbeiðshátturin ger næmingin mest møguliga virknan og sjálvstøðugan,</p>
+<p type="listitem">næmingurin sjálvur ger flestar møguligar royndir,</p>
+<p type="listitem">næmingurin arbeiðir sambært bæði tí induktiva og hypotetisk-deduktiva-falsifikatiónsháttinum,</p>
+<p type="listitem">næmingurin leggur munnliga fram til kjak,</p>
+<p type="listitem">næmingurin eygleiðir í starvsstovuni, og</p>
+<p type="listitem">næmingurin skrivliga skjalprógvar arbeiði, sum t.d frágreiðingar og starvsstovuloggbók.</p>
+</list><p>Í minsta lagi 1/3 av undirvísingini verður nýttur at gera kanningar og royndir. Íroknað er bæði arbeiðið undan og eftir kanningina ella royndina. Journalir og/ella rapportir verða altíð skrivaðar.</p>
+<p>Evnafrøði er náttúruvísindalig lærugrein, har undirvísingin skiftir millum ástøði og royndir. Royndararbeiðið er altíð ein fastur partur av undirvísingini. Tað merkir, at samstundis sum ástøðiligi parturin verður gjøgnumgingið, verður royndararbeiðið gjørt í royndarstovuni. Tí skal tætt samband vera millum tað ástøðiliga og tær royndir, ið tema/evni vilja lýsa. Í flestu førum er tað ein fyrimunur, at næmingurin ger royndararbeiðið, sum síðan verður støði undir einum tema, heldur enn at næmingurin fyrst lýsir temað ástøðiliga, fyri síðan at gera royndararbeiðið. Starvsstovuarbeiðið fevnir m.a. um at gera royndir:</p>
+<list><p type="listitem">ið verða gjørdar við støði í givnari (útflýggjaðari) vegleiðing,</p>
+<p type="listitem">sum eru venjing við ítøkiligum kanningarháttum,</p>
+<p type="listitem">sum skulu testa hypotesu í sambandi við eina givna roynd,</p>
+<p type="listitem">og um sjálvstøðugt at leggja til rættis royndir, testa hypotesur og viðgera úrslit frá egnum royndum.</p>
+</list><p>Næmingarnir skulu í sambandi við royndararbeiðið ogna sær vanligar royndarstovuførleikar, umframt læra um vanlig trygdarviðurskifti í royndarstovu. Hugtakið royndararbeiði fatar um ymiskt virksemi hjá næminginum, sum t.d.:</p>
+<list><p type="listitem">at venja ítøkiligar arbeiðshættir og at nýta tøkni,</p>
+<p type="listitem">at eygleiða, kanna og máta, bæði í royndarstovuni og í náttúruni</p>
+<p type="listitem">royndir, ið skulu testa og/ella endurskoða hypotesur.</p>
+</list><p>Sýnisroyndir og greiningar av royndarúrslitum frá øðrum keldum kunnu nýtast sum íblástur í undirvísingini, men verða ikki roknaðar sum partur av næmingaroyndararbeiðinum.</p>
+<p>Eyðsýnt er at byrja eina undirvísingargongd við eini kvalitativari roynd, fyri at eggja og kveikja forvitni næmingsins. Seinni kann royndin verða víðkað til eina kvantitativa roynd ella lagast á annan hátt.</p>
+<p>Allar royndir skulu skjalprógvast í einari loggbók. Hesar skulu innihalda fullfíggjaðar viðmerkingar, ið styðja eina møguliga vegleiðing, so alt frá royndini er skjalfest. Loggbókin skal vera soleiðis háttað, at hon kann verða nýtt sum egið viðkomandi tilfar í sambandi við eina próvtøku. Loggbókin verður eisini nýtt sum støði undir møguligum royndarstovufrágreiðingum.</p>
+<p>Við at nýta myndatól og/ella videoupptakara kann næmingurin skapa eitt visuelt úrslit, ið seinni kann verða nýtt sum skjalprógv í sambandi við framløgur av ymiskum slag, royndarstovufrágreiðingar o.tíl.</p>
+<p>Umframt at arbeitt verður við ymiskum sløgum av royndum, skulu hesar bæði vera kvalitativar og kvantitativar. Í sambandi við kvantitativu royndirnar skal dentur verða lagdur á rokning/meting av úrslitunum, óvissur av mátingum, umframt møguleikan at endurtaka royndina.</p>
+<p>Starvsstovuarbeiðið hjá einstaka næminginum eigur í vavi at fevna um umleið 15 % av útbúgvingartíðini.</p>
+<p>Arbeiðshættir skulu veljast so, at teir eru við til at røkka teimum málum, ið sett eru. Í øllum kjarnaøkjum er umráðandi at leggja arbeiðið til rættis, so at ein líðandi stigvøkstur verður tryggjaður. Hetta verður m.a. gjørt við, at týðandi evni og viðurskifti verða tikin upp í undirvísingina.</p>
+<p>Í evnafrøði verða ymiskir arbeiðshættir nýttir, so at fjølbroytni í lærugreinini kann verða framt miðvíst. Arbeiðshættir kunnu fevna um lærarafyrilestur, einstaklingsverkevni, næmingaframløgu, samrøður í flokkinum, bólka- og toymisarbeiði, verkætlanarevni o.tíl. Tá ið arbeiðshættir verða valdir og lagdir til rættis, er eyðsæð, at lærarin hugsar um stigvøkstur í undirvísingarháttunum, har byrjað verður við lærarastýrdari undirvísing. So hvørt næmingarnir búnast og gerast meira sjálvstøðugir, verður hesin lærarastýrdi undirvísingarháttur at minka.</p>
+<p>Næmingarnir skulu ikki einans duga at fyrihalda seg til boðskap <em type="italic">frá </em>lærara og floksfeløgunum, men í eins stóran mun duga at miðla vitan og boðskap <em type="italic">til </em>lærara, floksfelagar og móttakarar uttan fyri flokshølið umframt skúlans gátt. </p>
+<p>Arbeiðshættirnir eru tískil neyvt samantvinnaðir við serligum atliti at, hvussu arbeiðsuppgávurnar og venjingarnar hjá næminginum verða útintar.</p>
+<p>Endamálið við teimum ymisku arbeiðsháttunum er at menna aðrar førleikar enn teir reint fakligu, tað eru førleikar sum t.d. at leita upp og ogna sær viðkomandi vitan, at kanna gjølla, at arbeiða sjálvstøðugt, at seta sær mál og at arbeiða evnislagað og miðvíst, at arbeiða tíðaravmarkað, at samstarva, at samhugsa, at brúka og hugsa vitan í nýggjum høpi, at leggja til rættis og evna til eitt avrik, at gera uppgávuorðingar, at brúka ymisk háttaløg, at hugsa nýtt og verkseta, at hugsa djúpari og breiðari um ávíst evni, umframt at taka á seg ábyrgd og at sýna virðing.</p>
+<p>Lærari má altíð gera sær sjálvum og næmingum greitt, hvat endamálið við ávísum arbeiðshátti er.</p>
+<p type="title">Samstarv</p>
+<p>Evnafrøði er partur av yvirskipaða kravinum um samstarv millum tvær ella fleiri lærugreinar. Samstarvast skal við ymiskar lærugreinar um ymisk evni, eitt nú menning av skapandi evnum og KT-førleikum, undirvísing í evnum, sum spretta úr nærumhvørvinum, knýtt at náttúrufrøðiligum fyribrigdum, ið kunnu stuðla upp undir og geva íblástur til evni </p>
+<p>Tvørfakligt samstarv kann vera meira ella minni bindandi – frá fullkomnari samkoyring millum lærugreinar við felags tímum og felags tvørfakligum verkætlanum, til bert at fevna um avtalur millum lærarar um at fylgjast í lesnaði (lesa parallelt), t.e. at taka upp somu evni í fleiri lærugreinum samstundis, og soleiðis geva næmingunum fleiri ymiskar tilgongdir til sama spurning um somu tíð.</p>
+<p>Tvær høvuðsgrundgevingar eru fyri tvørfakligum samstarvi: 1) ein almenn, ið snýr seg um førleikarnar, næmingurin skal ogna sær og bjóða fram á arbeiðsmarknaðinum, og 2) ein námsfrøðilig, ið snýr seg um skiftandi arbeiðshættir og at geva næminginum innlit í tvørfakligar samanhangir.</p>
+<p>Tvørfakligt samstarv skal hjálpa næminginum at síggja lærugreinarnar sum partar av størri heild, og tað letur samstundis upp fyri øðrum og fjølbroyttari sjónarmiðum. Harumframt eru evnini at samstarva og síggja samanhangir avgerandi, tá ið næmingurin fer undir víðari lestur ella út á arbeiðsmarknaðin. Tí er umráðandi, at undirvísingin í evnafrøði á A-stigi verður sjónliga skipað, so at næmingurin veit, at lærugreinin er framhald av evnafrøði C-stig.</p>
+<p type="title">Avrik</p>
+<p>Skrivliga arbeiðið er ein natúrligur partur av undirvísingartilgongdini og fevnir um fylgjandi evni:</p>
+<list><p type="listitem">loggbók í sambandi við royndarstovuarbeiði og kanningar</p>
+<p type="listitem">frágreiðingar, ið m.a. byggja á loggbókina</p>
+<p type="listitem">annað skrivligt arbeiðið, eitt nú verkætlanir ella ritgreinar um ymisk evni</p>
+</list><p>At skriva loggbók og frágreiðingar í sambandi við royndir og kanningar, er ein týdningarmikil partur í náttúruvísindaligu fakunum. Eyðsýnt er, at bæði lívfrøði, evnafrøði og alisfrøði samstarva um at læra næmingin hetta, við støði í einum felags frymli til frágreiðingar og loggbók, og at nýta felags frøðiheiti, har tað ber til og er rætt at gera. Eisini er skilagott í ávísum føri at samstarva við lærugreinina føroyskt, sum kann gera sítt til, at bøtt verður um orðingar og miðlan, tá ið frágreiðingar verða skrivaðar.</p>
+<p>Skrivliga arbeiðið skal:</p>
+<list><p type="listitem">økja um møguleikan hjá næminginum at ogna sær hegni at arbeiða náttúruvísindaliga,</p>
+<p type="listitem">venja evnini hjá næminginum at miðla náttúruvísindaligar upplýsingar rætt og neyvt,</p>
+<p type="listitem">venja evnini hjá næminginum at greiða frá, greina og røða um royndarúrslit og náttúruvísindaligar spurningar,</p>
+<p type="listitem">geva næminginum møguleika at fara í dýpdina við náttúruvísindaligum spurningum,</p>
+<p type="listitem">skapa støði undir endaligu royndini.</p>
+</list><p>Siðvenjan í sambandi við skrivligt arbeiði í evnafrøði hevur í stóran mun verið at skriva loggbók og frágreiðingar. Ein stórur partur av skrivliga avrikinum kann vera av hesum slag. Men eisini onnur sløg av skrivligum avrikum eru hóskandi, sum t.d.</p>
+<list><p type="listitem">arbeiðsuppgávur – samandrátt av arbeiðssetningi, plakat- og reklamutekstir, loysa uppgávur og venja lykilshugtøk, so sum <span type="quote">"at greiða frá"</span>, <span type="quote">"at røða um"</span>, <span type="quote">"at greina"</span> og <span type="quote">"at meta um"</span>,</p>
+<p type="listitem">uppgávur í miðlan, sum taka samanum og miðla fakligu vitanina hjá næminginum til ein givnan málbólk – minilex, greitt prosasvar til persón, ið ikki hevur fakligan kunnleika, grundgeva fyri og ímóti einum orðaðum spurningi, uppskot til lesarabræv ella tílíkt,</p>
+<p type="listitem">í sambandi við onnur avrik og aðrar uppgávur í miðlan kann vera tørvur á skrivligum skjalprógvum til eitt nú tekstir til PowerPoint, synopsu til film, handrit til útvarpssending, blaðgreinar og faldarar.</p>
+</list><p>Næmingarnir eiga altíð at føra loggbók í sambandi við royndir og kanningar. Frágreiðingar verða skrivaðar í onkrum av f</p>
+<p>Havast skal í huga, at skrivligu avrikini, í so stóran mun sum til ber, skulu nýtast sum støði undir próvtøkuni. Tí er neyðugt at hava eitt hóskandi tal av skrivligum avrikum, og at hesi breitt umfata fakligu økini.</p>
+<p>Skrivligi og skapandi parturin av lærugreinini letur upp fyri tvørfakligum samstarvi, og við tí øðrvísi skrivligum avrikum. Heldur enn at lata eitt avrik inn bara í evnafrøði, kann talan vera um tvørfakligt samstarv, t.d. eina afturlýtandi framsýning, eina røð av fyrilestrum, eina heimasíðu ella eina ritgerð. Ein grundgeving fyri, at skrivligt og skapandi arbeiði kann vera partur av tvørfakligum samstarvi, er, at næmingurin lærir, at tað at skriva væl (t.e. greitt og uttan stórvegis villur) ikki bara er eitt krav í lærugreinini føroyskum, men eitt alment krav, ið er knýtt at øllum skrivligum samskifti í øllum lærugreinum.</p>
+<p>Næmingurin skal hava venjing í at skriva so, at hann eisini skrivliga kann vera partur av toymisarbeiði og verkætlanum. Á tann hátt kann næmingurin mennast til at geva og taka ímóti viðmerkingum til skrivlig upprit, sum verða løgd fram, á mennandi hátt. Kunningartøknin letur harumframt upp fyri munagóðum og ítøkiligum møguleikum í sambandi við vegleiðing og umrøðu í sjálvari skrivitilgongdini.</p>
+<p type="title">Samrøða</p>
+<p>Munnliga miðlanin verður best styrkt, um einstaki næmingurin so nógv sum gjørligt sleppur til orðanna. Hetta kann fáast í lag við, at lærari og næmingur samrøða sínámillum, og at næmingar samrøða, tveir og tveir og í bólki. Eisini kann hetta verða gjørt við, at einstaki næmingurin av og á sleppur at leggja fram tilfar úr tíðarritum o.tíl., ella at halda stuttar fyrilestrar. Eisini framløgur í smærri bólkum kunnu stimbra munnliga táttin hjá næminginum, sum á henda hátt fær venjing í at brúka móðurmálið í lærugreinini.</p>
+<p type="title">Lesing</p>
+<p>Næmingurin skal haldast til at lesa ymisk sløg teksti í evnafrøði, so sum greinar í dagbløðum, populerum náttúruvísindaligum tíðarritum, úrdráttum úr fakbókum og faktíðarritum, tilfari av internetinum o.tíl. Hetta fyri at kjarnaøki og ískoytisøki skulu verða betur lýst.</p>
+<p>Eitt gott lesiumhvørvi á skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum lesivanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini.</p>
+<p type="title">Lívlong læring</p>
+<p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
+<p type="listitem">Sitemap</p>
+<p type="listitem">Legal</p>
+</list></body></document>

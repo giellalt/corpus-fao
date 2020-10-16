@@ -1,0 +1,732 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>19256</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2018.10 Virkisætlan fyri mótstøðuføri móti antibiotika í heilsuverkinum í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Virkisætlan fyrimótstøðuføri móti antibiotikaí heilsuverkinum í Føroyum</p>
+<p>www.himr.fo</p>
+<p>Heilsu- og innlendismálaráðið</p>
+<p xml:lang="dan">I S B N 978-99918-970-7-3</p>
+<p xml:lang="dan">Oktober 2018</p>
+<p>9 7 8 9 9 9 1 8 9 7 0 7 3</p>
+<p>Virkisætlan fyrimótstøðuføri móti antibiotikaí heilsuverkinum í Føroyum</p>
+<p>Heilsu- og innlendismálaráðið</p>
+<p xml:lang="dan">Oktober 2018</p>
+<p>Virkisætlan fyri mótstøðuføri móti antibiotika í heilsuverkinum í Føroyum</p>
+<p>© Heilsu- og innlendismálaráðið 2018</p>
+<p>ISBN 978-99918-970-7-3</p>
+<p>Umbrotið, prentað og heft: Føroyaprent</p>
+<p>FORMÆLI</p>
+<p>Tíðin er komin til, at vit í Føroyum eiga at hava eina heildarætlan fyri antibiotikanýtslu eins og flestu norðurlendsku grannalondini, sum antin hava ella eru í ferð við at orða eina ætlan. Fakfólk innan heilsuøkið í Føroyum hava ávarað um vandan við antibiotikamótstøðuføri, sum seinastu tíðina hevur víst seg her heima eins og úti í heimi. Fakfólkini hava eftirlýst eina føroyska ætlan fyri økið.</p>
+<p>Heimsheilsustovnurin WHO hevur varskógvað heimin um stóru avbjóðingarnar, ið standa fyri framman orsaka av ovurnýtsluni av antibiotika. Stóra avbjóðingin er, at fleiri av teimum antibiotikabólkunum, sum hava verið fyriskrivað at basa/niðurbróta ígerðir, nú eru minni virknir, tí bakteriur eru vorðnar meira mótstøðuførar. Ein sannroynd er, at hóttanin av antibiotikamótstøðuføri er ein veruleiki, sum vit ikki kunna síggja burtur frá, tí er tað av størsta týdning, at eisini vit her í Føroyum taka ábyrgd og gera munandi átøk, soleiðis at av leiðingin verður sum minst fyri borgararnar.</p>
+<p>Ein serstøk avbjóðing í Føroyum er, at eitt lutfalsliga stórt tal av sjúklingum verða sendir av landinum til viðgerðar og koma í samband við eitt størri tal av sjúklingum, enn um teir vórðu viðgjørdir og verandi í Føroyum. Hetta er ein stór avbjóðing fyri føroyska heilsuverkið sæð í mun til smittuvandan og antibiotikamótstøðuføri. Føroyska heilsuverkið merkir longu avleiðingarnar av hesum.</p>
+<p>Antibiotikamótstøðuføri verður eisini tikið í álvara í londunum kring okkum. Bo Könberg, fyrrverandi politikari, hevur skrivað Könbergfrágreiðingina, sum varð handað á norðurlendskum ráðharrafundi í 2014. Í frágreiðingini eru 14 tilmælir, sum snúgva seg um ymisk økir innan heilsuøkið.</p>
+<p>Frágreiðingin hjá Könberg hevur verið við til at seta mál á norðurlendsku dagsskránna á teimum afturvendandi ráðharrafundunum, millum annað tilmælið um antibiotikanýtslu og anti biotikamótstøðuføri. Samstarvað verður landanna millum um trupulleikar innan antibiotika økið.</p>
+<p>Ein arbeiðsbólkur varð settur at orða eina virkisætlan fyri antibiotikamótstøðuføri í heilsuverkinum í Føroyum. Bólkurin varð mannaður við fakfólki frá kommunulæknaøkinum, sjúkra hús verkinum, apoteksverkinum eins og umboðum frá Heilsu og innlendismálaráðnum. Arbeiðs bólkurin fór til verka í desember mánað 2017.</p>
+<p>Tað er mín vón, at arbeiðið við hesi ætlan fer at vísa á og fyrireika bæði politiska myndugleikan og heilsuverkið til avbjóðingina at tálma hóttanina av antibiotikamótstøðuføri. Harvið verða við til at fyribyrgja vanlukkuligar avleiðingar, ið kunnu standast av antibiotikamótstøðuføri, okkara borgarum og framtíðar sjúklingum at frama.</p>
+<p><em type="bold">Sirið Stenberg </em></p>
+<p><em type="italic">Landsstýriskvinna</em> </p>
+<p>INNIHALDSYVIRLIT</p>
+<p>1. Inngangur .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .</p>
+<p>1.1 Ein alheims trupulleiki . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>1.2 Arbeiðssetningur.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>1.3 Arbeiðsbólkurin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>1.4 Tilmælir, ið ikki eru fevnd av arbeiðssetninginum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>2. Samandráttur og tilmælir . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>2.1 Tilmælir og kostnaður.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>3. Nýtslan av antibiotika í heilsuverkinum í Føroyum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p xml:lang="dan">3.1 Smalspektrað- og breiðspektrað antibiotika . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>3.2 Lýsing av antibiotikanýtsluni í heilsuverkinum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>4. Antibiotikamótstøðuføri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>4.1 Avbjóðingar fyri føroyska sjúkrahúsverkið . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>4.2 Lýsing av støðuni í dag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>4.3 Smittuverja . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>5. Skipan og stýring av antibiotikanýtsluni í heilsuverkinum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>5.1 Skipan av einum antibiotikaráði.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>5.2 Skipan av Antibiotic Stewardship Program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>5.3 Mettar útreiðslur til íverksetan av Antibiotic Stewardship Program.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>6. Útbúnaður, serkunnleiki og ráðgeving innan diagnostikk í heilsuverkinum . . . . . . . . . . . . . . . . . . .</p>
+<p>6.1 Støðan í dag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>6.2 Avbjóðingar fyri heilsuverkið í mun til tøkni og serkunnleika . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>6.3 Avbjóðingar fyri føroyska heilsuverkið í mun til ráðgeving . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>7. Upplýsingarframtøk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>7.1 Kunning mótvegis borgarunum um týdningin av at tálma antibiotikanýtsluna.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>7.2 Tørvur á kunning til borgarar um vandan av mótstøðuføri.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>7.3 Avbjóðingar fyri føroyska sjúkrahúsverkið.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>7.4 Uppskot um upplýsingarframtøk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>8. Upplýsingarframtøk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>Fylgiskjal 1 – Skriv frá Føroya Tannlæknafelag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>Fylgiskjal 2 – Skriv frá Landsdjóralæknanum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>Fylgiskjal 3 – Ein útgreining av antibiotika nýtsluni í Føroyum .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .</p>
+<p>Fylgiskjal 4 – Útgerð í kommunulæknaviðtalum.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>Fylgiskjal 5 – Orðalisti.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+<p>Fylgiskjal 6 – Leinkjur . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p>1.</p>
+<p>Heimurin stendur í dag yvir fyri eini stórari hóttan frá mótstøðuførum bakterium. Millum serfrøðingar á økinum verður umrøt</p>
+<p>Antibiotika er heilivágur, sum drepur bakteriur ella tálmar bakteriuvøkstur, sum verður brúkt til fyri byrging ella viðgerð av</p>
+<p>1.1 EIN ALHEIMS TRUPULLEIKI</p>
+<p>ígerð. Óskynsom nýtsla av antibiotika hevur við sær, at bak teriur nar gerast mótstøðuførar, og megnar antibiotika tá ikki at basa bakteriunum.</p>
+<p>Líknandi tilmælir og vegleiðingar eru longu skrivað í nøkrum av okkara grannalondum. Vit hava nærlisið hesi og tikið tað við, sum vit meta er viðkomandi fyri okkum í hesum arbeið inum.</p>
+<p>Hinvegin eru fjølmótstøðuførar bakteriur eitt lokalt fyribrigdi, sum mugu handfarast í mun til ávísu støðuna. Í Føroyum kunna vit ikki bara gera tað sama, sum gjørt verður í okkara grannalondum, tí vit hava ikki tær somu mótstøðuføru bakteriurnar.</p>
+<p>Harumframt skal atlit takast til, at flutnings og samfelagsbygnaðurin er ymiskur millum lond. Føroyar er eitt lítið samfelag, tí er tað umráðandi at vera í tøttum samstarvi við hini Norður londini. Til dømis er Norðurlanda ráðið eitt forum, har vit kunna koma við okkara íkasti til hetta arbeiðið og harvið eisini fáa stuðul frá teimum til arbeiðið móti mót støðu førum bakterium her í Føroyum.</p>
+<p>Norðurlond eru frammarlaga á nógvum økjum innanfyri heilsu og skipan av heilsuverki. Á antibiotikaøkinum vilja tey ganga á odda, har vilja vit eisini vera við.</p>
+<p>WHO hevur útnevnt antibiotika mótstøðuføri sum eina av størstu hóttanum móti heilsuni hjá mannaættini. Sambært áðurnevndu Bo Könbergrapportini frá 2014, doyggja 25.000 fólk um árið í Evropa av mót støðu førum bakterium. Støðan er uppaftur verri uttanfyri Norður lond, og støðan er versnandi. Framrokningar eru gjørdar sum siga, at í 2050 kunnu fjøl mót støðu førar (multi resistentar) bakteriur og mikrobur verða orsøk til 10 milliónir deyðs føll (Tølini fevna eisini um HIV, Tuberkulosu og malaria).</p>
+<p>Bo Könbergrapportin leggur afturat, at síð ani 1987 er ikki nýggj antibiotika ment og at út litini fyri, at tað verða ment nýggj anti biotika í fram tíðini eru vánalig. Insitamentið hjá heili vágs fyritøkum at menna nýggj antibiotika er veikt, tí møguleikarnir at vinna pening upp á antibiotika, sum verður givið sum stutt íðar viðgerð, eru ikki eins góðir sum lang tíðar heili vágur, t.d. kolesterol heili vágur, sum skal takast restina av  lív inum.</p>
+<p>Bo Könbergrapportin var startskotið til eitt felags norðurlenskt átak móti mótstøðuførum bakterium. Úrslitið, sum spurdist burturúr, var eitt arbeiðsskjal, nevnt <span type="quote" xml:lang="dan">“12 konkrete tiltag”</span>, sum kom út í apríl 2017. Hetta skjalið greiður frá 12 átøkum, sum norður lensku londini skulu seta í verk fyri at niðurberja hóttanina frá mótstøðuførum bakterium á fólkaheilsuna.</p>
+<p>Serliga er talan um hóttan fyri norður lendingar, men sum eisini kann vera við í bardaganum móti hóttanini um allan heimin. Ein av høvuðsboðskapunum er, at antibiotika nýtslan skal minka munandi, og nýtslan í ávísum Norðurlondum skal minka niður í eina helvt. Ein annar av høvuðsboð skap inum er, at heilsuverkini skulu sam starva við stovnar fyri djóraheilsu fyri at røkka málunum, tí 60% av smittum/ ígerðum hjá fólki stava frá djórum.</p>
+<p xml:lang="dan">World Health Organisation (WHO) http://www.who.int/drugresistance/documents/surveillancereport/en/  Nordisk Råd 2014 – Bo Kønberg: The Future Nordic Co-operation on Health</p>
+<p>1.2 ARBEIÐSSETNINGUR</p>
+<p>Heilsu og innlendismálaráðið setti ein arbeiðs bólk at skriva eitt tilmæli til politisku skipan ina, sum snýr seg um, hvat føroyska sam felagið skal gera í bardaganum móti mót støðu førum bakterium, við grundarlagi í fylgj andi punktum:</p>
+<p type="listitem">•  Antibiotikanýtsluhagtøl frá Apoteksverkinum</p>
+<p type="listitem">•  Hagtøl yvir antibiotikamótstøðuføri•  Antibiotika- stewardship á øllum</p>
+<p>Arbeiðsbólkurin, sum hevur orðað hesa virkisætlan, varð soleiðis mannaður:</p>
+<p type="listitem">•  Djóni Sandberg Joensen, kommunulækni og formaður í arbeiðsbólkinum •  Shahin Gaini, serlækni, PhD,</p>
+<p>Landssjukrahúsið •  Hans Petur Nielsen, serlækni, Suðuroya</p>
+<p>sjúkrahús •  Lena Lambaa, smittuverjufrøðingur,</p>
+<p>Landssjukrahúsið •  Súsanna Kass Kristiansen, farmaseutur,</p>
+<p>Apoteksverkið •  Ingrid Petersen, sjúkrarøktarfrøðingur/</p>
+<p>sjúkrahúsunum•  Tøkni innan diagnostikk</p>
+<p type="listitem">•  Leiðreglur og reglugerðir í skynsamari antibiotikaviðgerð</p>
+<p type="listitem">•  Upplýsingarframtøk</p>
+<p>1.3 ARBEIÐSBÓLKURIN</p>
+<p>Arbeiðsbólkurin varð samansettur við fakfólki við serkunnleika innanfyri infektiónsmedisin, smittu verju, Antibiotic Stewardship Program og onnur við heilsu fak ligum kunn leika  til  før oyska  heilsu verkið, umframt umboð frá Heilsu og inn lendismála ráð num. Fakfólkini, ið hava sitið í bólk inum, kenna til føroysk viður skifti og før oyska  heilsuverkið.</p>
+<p>kliniskur samskipari, Klaksvíkar sjúkrahús •  Irena Nolsø, fulltrúi, Heilsu- og</p>
+<p>innlendismálaráðið •  Kristianna Larsen á Lofti, leiðslufulltrúi,</p>
+<p>Heilsu- og innlendismálaráðið/samskipari fyri virkisætlanina</p>
+<p>Miðlanir, sum bólkurin hevur havt til taks, eru fakfólk við seráhugamálum fyri evninum og sum arbeiða við evninum í gerandis deg num.</p>
+<p>Antibiotic stewardship er ein skrá ella eitt amboð, sum verður brúkt til at tryggja betri sjúklingagongd og minni nýtslu av antibiotika. Endamálið er at tálma nýtsluni av antibiotika, so nógv, sum tað letur seg gera. Við hesi skránni er møguligt at sleppa undan óneyðugum hjáárinum av antibiotikaviðgerð.</p>
+<p>1.4 TILMÆLIR, IÐ IKKI ERU FEVND AV ARBEIÐSSETNINGINUM</p>
+<p>Tannlæknar, djóralæknar og umboð fyri mat vøru ídnaðin í Føroyum eru ikki við í arbeiðs  bólkinum.</p>
+<p>Tannlæknar ávísa eisini antibiotika til síni viðskiftafólk. Tannlæknar ávísa uml. 5% av samlaðu antibiotikanýtsluni í Føroy um. Tí varð avgjørt at fáa umboð frá Føroya Tannlækna felag at greiða frá antibiotikanýtsluni hjá tannlæknunum og um felags átøk eru sett at tálma nýtsluna av antibiotika á teirra øki.</p>
+<p>Ein frágreiðing frá Føroya Tannlæknafelag er í fylgiskjali 1. Har verður greitt frá, hvussu tannlæknar nýta antibiotika. Eisini verður greitt frá um ávísingar av antibiotika, at hesar eru gjølla umhugsaðar og í samráð við lækna, har tað er neyðugt. Tað verður eisini víst á, at tørvur er á greiðari vegleiðingum til fyribyrgjandi antibiotikavið gerð til alloplastik og hjartastent/pacemakarasjúklingar.</p>
+<p>Somuleiðis varð Landsdjóralæknin boðin á fund við arbeiðsbólkin, har greitt varð frá nýtslu av antibiotika til djór í Føroyum. Frágreiðing frá Landsdjóralæknanum er í fylgiskjali 2. Frá greiðingin vísur á, hvussu tryggjað verður, at leivdir av antibiotika ikki enda í matinum, vit eta. Eisini verður víst á, at tað hevur ikki verið møguligt at fáa yvirlit yvir nýtsluna av anti biotika til tey ymisku djórasløgini, men væntandi verður hetta tøkt í heyst (2018). Eisini verður vís á, at vit eiga at endurskoða reglurnar um ávising av heilivági.</p>
+<p>Arbeiðsbólkurin er sannførdur um, at hóast tannlæknar og djóralæknar ikki eru við í hesum arbeiðinum, so eiga hesi at verða partar í arbeiðinum frameftir at tálma antibiotika nýtsluni í Føroyum.</p>
+<p>Í Bo Könbergfrágreiðingini <span type="quote" xml:lang="dan">“12 konkrete til tag”</span> skrivar hann um <span type="quote" xml:lang="dan">“One health”</span> hugtakið, sum er felags hugsan fyri politisk átøk innanfyri humana, veterinera og um hvørvis økið, at hetta samstarvið er avger andi fyri at kunna koma hóttanini frá mótstøðuførum bakterium til lívs. Tí verður mett, at tørvur er á, at umboð fyri djóralækna</p>
+<p>2.</p>
+<p>Eitt uppskot um heildarætlan fyri arbeiðið</p>
+<p type="listitem">– at minka um antibiotikamótstøðuføri – er</p>
+<p>gjørt við grundarlagi í eygleiðingum av verandi antibiotikanýtslu í Føroyum, samanborið við støð  una í okkara grannalondum.</p>
+<p>Til at røkka málinum um eina skynsama anti biotikanýtslu, er neyðugt við fleiri átøkum og fokus á antibiotikanýtslu, um framt raðfestingum í mun til starvsfólkaorku, útbúnaði og tøkni.</p>
+<p>Nýtslan av antibiotika í heilsuverkinum í Føroyum</p>
+<p>Hagtølini hjá Apoteksverkinum vísa, at megin parturin, umleið 90%, av anti biotika verður ávíst til borgarar/sjúklingar í primera heilsugeiranum. Tað vil siga hjá kommunulæknum/serlæknum, tann læknum og djóralæknum. Restin av antibiotika nýtsluni í Før oyum, tað vil siga 10%, verður ávíst í sjúkra hús verkinum.</p>
+<p>Samlaða nýtslan av antibiotika í Føroyum er á einum rímiligum støði, um vit samanbera við nýtsluna í okkara grannalondum. Samlaða nýtslan í Føroyum er minni enn í Danmark, men størri enn nýtslan í Noreg og Svøríki, sum bæði hava havt sjóneykuna á anti biotikanýtslu í mong ár.</p>
+<p>At dentur hevur verið lagdur á antibiotikanýtslu, hevur havt við sær, at nýtslan á primera heilsugeiranum er minkað seinastu árini. Hinvegin er nýtslan í sjúkrahúsverkinum økt. Á sjúkrahúsinum er størri vandi fyri, at bólkar (koloniir) við fleiri bakteriusløgum fjølgast á sama staði, umframt at vandi er fyri, at bakteriurnar verða fluttar millum sjúk lingarnar. Innlagdir sjúklingar eru ofta illa fyri við lægri immunverju, tí er smittu vandin størri á sjúkrahúsunum enn í primera heilsugeiranum.</p>
+<p>Harumframt hava vit eina serliga avbjóðing á sjúkrahúsunum í Føroyum, tí lutfalsliga nógvir sjúklingar verða viðgjørdir á sjúkrahúsum uttanlands. Tá sjúklingarnir koma heim aftur frá viðgerð uttanlands og verða lagdir innaftur á sjúkrahús í Føroyum, vísa kanningar, at sjúk lingarnir ofta hava bakteriur heimaftur við sær, sum framman undan ikki vóru á sjúkra hús unum. Soleiðis kunna hesar bakteriur spjaðast til aðrar sjúk lingar á sjúkrahúsinum, og soleiðis verða fleiri mótstøðuførar bakteriur drignar við inn á føroysku sjúkrahúsini.</p>
+<p>Antibiotikamótstøðuføri í Føroyum</p>
+<p>Tilburðir av mótstøðuførum bakterium verða regluliga staðfestir á sjúkrahúsunum í Før oyum. Allir sjúklingar, sum verða útskrivaðir frá útlendskum sjúkrahúsum bein leiðis til sjúkra hús í Føroyum, verða avbyrgdir og kannaðir fyri mótstøðuføru bakteriurnar VRE, MRSA, ESBL og CPE.</p>
+<p>Sum nevnt omanfyri, hevur føroyska heilsuverkið serligar avbjóðingar av, at nógvir sjúklingar koma frá útlendskum sjúkrahúsum inn á føroysku sjúkrahúsini. Umleið 1.600 sjúklingar eru í viðgerð uttanlands árliga. Allir verða tó ikki innlagdir á sjúkrahús í Føroyum aftan á viðgerð uttanlands, men ein stórur partur av sjúklingunum hava ávíst samband við heilsu verkið aftan á uppihald á sjúkrahúsi uttanlands.</p>
+<p>Í løtuni starvast ein smittuverjufrøðingur í sjúkra húsverkinum. Arbeiðsbólkurin metir, at tørvur er á at styrkja smittu verjuorganisatiónina í sjúkrahúsverkinum við ein um  starvi.</p>
+<p>Í øðrum lagi metir arbeiðsbólkurin, at um smittuverjuorganisatiónini verður ment við tveimum nýggjum størvum, verður møguligt at røkka øllum heilsuverkinum. Harum framt verður møguligt at veita yvir skipaðar tænastur og ráðgeving til onnur øki sum til dømis bústovnar, dagstovnar og skúlar. Hetta hevði virkað til at minka um út breiðslu av mótstøðu førum bakterium.</p>
+<p>Umstøðurnar til smittuverju í sjúkra húsverkinum eru ikki nøktandi í løtuni, men nýggi bygn ingurin á Landssjúkrahúsinum fer at betra um umstøðurnar við isolatiónsstovum og eina stovum við vesi. Sera um ráðandi er, at tað ikki eru ov nógvir sjúklingar innlagdir á deild unum í senn, </p>
+<p>Góðar umstøður at avbyrgja smittaðar sjúklingar hevur sera stóran týdning, tá ið eitt útbrot við smittandi sjúkum og mót støðuførum bakterium skal tálmast. Tí er tað sera týdn ingar mikið við fleiri einastovum við vesi á sjúkrahúsinum.</p>
+<p>Skipan og stýring av antibiotikanýtsluni</p>
+<p>Sum liður í hesum arbeiðinum, er ein av niður støðunum hjá arbeiðsbólkinum, at anti biotika ráð verður sett at stuðla undir skipan og stýring av antibiotikanýtsluni í Føroyum.</p>
+<p>Eitt antibiotikaráð eigur at verða sett. Tað vil siga, eitt yvirskipað ráð, sum hevur til enda máls at hava eftirlit við nýtsluni av anti biotika og at fylgja við støð uni við víkjandi  antibiotika mót støðu føri.  Anti biotikaráðið skal verða ráð gev andi hjá politiska myndug leikanum  og  heilsu myndug leikanum og skal seta í verk leið reglur og fyriskip anir fyri antibiotikanýtslu.</p>
+<p>Antibiotikaráðið skal verða mannað við viðkomandi fakfólkum innan sjúkra húsverkið, primera heilsugeiranum, umframt einum formanni og einum fakligum skrivara. Heilsu verkið (Antibiotic Stewardship Programme eindin) skal regluliga gera frágreið ingar  til  Anti biotika ráðið  við  við komandi yvirlitum yvir nýtsluna av antibiotika og støðuna við víkjandi antibiotika mótstøðu føri í Føroyum.</p>
+<p>Antibiotic Stewardship Programm (ASP) eigur at verða sett á stovn í heilsuverkinum við tí endamáli at tálma nýtsluna av antibiotika, samstundis at tryggja betri sjúklinga við gerð og færri mótstøðuførar bakteriur. Mælt verður til, at Antibiotic Steward ship Programm skal røkjast av eini eind, mannað við mikrobiologi, infektións medisinara, kommunu lækna,  farma seuti,  smittu verjufrøð ingi og sjúkrarøktarfrøðingi.</p>
+<p>Høvuðsuppgávurnar hjá eindini skal vera at fáa til vega og greina neyðug hagtøl um anti biotikanýtslu og mótstøðuføri, bæði fyri primera geiran og sjúkrahúsini. Harumframt skal toymið regluliga kunna allar við komandi partar og seta átøk í verk eftir tørvi. Toymið skal vera í tøttum samstarvi við klinisku farmasiina.</p>
+<p>Serkunnleiki, ráðgeving og útbúnaður innan diagnostikk í heilsuverkinum</p>
+<p>Hóast rannsókarstovan/mikrobiologiin á Lands sjúkrahúsinum hevur verið í stórari menn ing sein astu árini, er framhaldandi tørvur á at dagføra verandi tól, harumframt at út vega nýggjari tøkni innan økið.</p>
+<p>Tá talan er um at avmarka óneyðuga nýtslu av antibiotika og at minka um antibiotikamót støðuføri, er alneyðugt, at viðkomandi tøkni, tól og starvsfólk eru til taks, fyri at vera før fyri at staðfesta sjúkuorsøkir skjótast gjørligt, soleiðis at sjúklingar verða settir í røttu við gerð beinanvegin.</p>
+<p>Tørvur er á at útvega nýggjari tøkni inn an rannsóknarøkið, sum kann gera tað møguligt hjá rannsóknarstovuni at gera fleiri kann ingar, umframt at verða skjótari at stað festa sjúku orsøkir. Hetta hevði havt við sær skjótari svartíðir, og at fleiri kanningar høvdu kunnað verið gjørdar í Føroyum í staðin fyri at senda nógvar kanningar av land inum.</p>
+<p>Tørvur er eisini á at førleikamenna yngri bioanalytikarum skjótast gjørligt. Eitt generatións skifti er ávegis á rannsóknarstov uni á Landssjúkrahúsinum, har nakrir bio analytikarar, sum hava serkunnleika í at gera ávísar kanningar, skjótt fara frá fyri aldur.</p>
+<p>Betri kanningarmøguleikar og skjótari svartíðir høvdu havt við sær eina betring í viðgerðar góðskuni umframt skynsamari antibiotika nýtslu.</p>
+<p>Flutningur til Landssjúkrahúsið av royndartilfari frá Klaksvíkar sjúkra húsi, Suðuroyar sjúkra húsi og frá kommunulæknunum eig ur at setast í fastar karmar og skipast soleiðis, at royndir nar koma fram á skjótasta hátt.</p>
+<p>Á primera økinum er sera umráðandi, at kommunulæknar hava atgongd til skjóta og góða tænastu frá rann sóknar økinum og mikrobiologisku ráð gev ing ini á Landssjúkra h</p>
+<p>Arbeiðsbólkurin staðfestur eisini, at umráð andi er at halda fast í samstarvinum við Statens Serum Institutt til torgreiddar greiningar og til torgreidda tulking og ráðgeving. Statens Serum Institutt umsitur eisini skráir og umsjón fyri Danmark, Grønland og Føroyar.</p>
+<p>Fortreytin fyri at víðka tænasturnar innan rann sóknarøkið er sjálvsagt eisini raðfesting og dagføring av verandi serfrøði á økinum, umframt at tørvur er á mikrobiologiskari og molekylerbiologiskari serfrøði á hægri støði.</p>
+<p>Fleiri kanningarmøguleikar á rannsóknarøkinum hava við sær fleiri uppgávur og øktan tørv á starvs fólkaorku. Hetta merkir fleiri bioanalytikarar til rannróknar stovuna/ mikrobiologiina umframt infektións medisin ara, mikrobiolog og møguliga molekyler biolog.</p>
+<p>Í løtuni starvast ein yvirlækni í infektiónsmedisini í sjúkrahúsverkinum. Skal sjúkrahús verkið hava infektiónsmedisinskan førleika tøkan allar gerandisdagar, skulu trý størv setast. Við fýra infektiónsmedisinarum er møguligt at hava eina vaktarskipan, soleiðis kann tann infektións medisinski førleikin verða tøkur alt samdøgrið og allar dagar í árinum.</p>
+<p>Møguligt er eisini at seta infektiónsmedisinsku tænastuna saman við til dømis infektións medisinarum, mikrobiologum og mole kylerbiologum.</p>
+<p>Sum áður nevnt er infektiónsmedisinskur førleiki ikki altíð tøkur á Lands sjúkrahús inum, tí bert ein yvirlækni er settur á økinum, og eingin kliniskur mikrobiologur er á sjúkrahúsinum. Hetta avmarkar orkuna til at veita fakliga læknaliga ráðgeving, harafturat at gera og dag føra leiðreglur og fyri skipanir til antibiotikaviðgerð.</p>
+<p>Tørvur á antibiotikaviðgerðum og støðan viðvíkjandi antibiotikamótstøðuføri og onnur serlig viður skifti eru ikki eins í øllum londum ella økjum. Sum dømi skal ein sjúk lingur við ígerðar sjúku úr Japan, ikki neyð turviliga hava sama heilivág, sum ein sjúklingur úr Føroyum, hóast hesir fáa staðfest somu sjúkuavgerð. Tí er tað um ráðandi, at vit í Føroyum hava okkara egnu leiðreglur og fyriskipanir um antibiotikaviðgerð, bæði til sjúkrahúsverkið og til primera heilsugeiran.</p>
+<p>Arbeiðsbólkurin mælir til, at leiðreglur og fyriskipanir verða savnaðar á einum stað og gjørdar tøkar hjá øllum viðkomandi pørtum.</p>
+<p>Upplýsingarframtøk</p>
+<p>Upplýsing og kunning til borgaran um skynsama antibiotikanýtslu og avleiðingar av anti biotikamótstøðuføri kann verða við til at minka um eftirspurningin eftir antibiotika millum borgarar, og harvið trýstið á kommunulæknar at ávísa antibiotika. Norska Folkehelse instituttet metir, at kunningar átøk um antibiotikanýtlsu og antibiotika mótstøðuføri kunnu verða við til at minka antibiotikanýtsluna við 4% til 6%.</p>
+<p>90% av antibiotikanýtsluni er í primera heilsu geiranum. Kanningar uttanlands vísa, at tað ofta er eitt trýst frá borgarum á kommunu læknarnar, um at ávísa antibiotika, hóast tað í nógvum førum ikki er neyðugt. Hetta kemst av, at borgarin er sann førdur um, at fyri seg er antibiotika besta  við gerðin.</p>
+<p>Tað er sera týdningarmikið, at læknin í hvørjum einstøkum føri kunnar sjúklingin um skyn sama antibiotikanýtslu.</p>
+<p>Handingsplan mot antibiotikaresistens i helsetjenesten – https://www.regjeringen.no/contentassets/915655269bc04a47928fce917e4b25f5/handlingsplan-antibiotikaresistens.pdf Upplýsingarframtøk eiga at verða sett í verk, og kunningartilfar gjørt tøkt til borgaran. Kunn ingartilfar eigur at verða gjørt á før oyskum. Í Danmark og hinum Norðanlondunum eru stovnar, sum gera kunningartil far, sum møguliga kann umsetast til føroyskt og tillagast føroysk viðurskifti.</p>
+<p>Koppseting og reinføri eru við til at minka um smittuvandan og harvið eisini um tørvin á og eftirspurningin eftir antibiotika. Tí er tað eisini umráðandi, at upplýst verður um tilboðini, sum eru um koppseting mótvegis smittandi sjúkum og um tý</p>
+<p>2.1 TILMÆLIR OG KOSTNAÐUR</p>
+<p>Niðurstøðurnar hjá arbeiðsbólkinum taka útgangsstøði í støðuni, sum hon er í dag á økinum. Tað hevur ikki áður verið nøkur ávís yvirskipað ætlan við endamálinum at tálma anti biotika nýtsluna og antibiotikamót støðu føri innan heilsuverkið í Føroyum.</p>
+<p>Hetta hevur verið og er framvegis á breddanum í okkara grannalondum, og metur ar beiðs bólkurin, at tað er neyðugt, at hetta eis ini verður sett á breddan í Føroyum.</p>
+<p>Tilmælini hjá arbeiðsbólkinum kunnu býtast í tveir høvuðsbólkar.</p>
+<p>Fyrsti parturin er tað yvirskipaða arbeiðið og skipan av eftirlitinum við antibiotikanýtsluni  og antibiotikamótstøðuføri – skipan av einum Antibiotikaráðið og eini Antibiotic Steward ship Programme eind.</p>
+<p>Við hesi raðfestingini kann eitt grundar lag fáast at skipa arbeiðið við at tálma antibiotika nýtsluna og eygleiða antibiotikamót støðu føri í Føroyum. Til dømis at skipa eftir litið, gera vegleiðingar, fyriskipanir og upp lýsingarframtøk.</p>
+<p>Næsti parturin eru viðurskiftir, sum hava við sjúkustaðfestingina at gera. At styrkja fak liga serkunnleikan, og gera íløgur í nýggjan útbúnað og dagføring av verandi út búnaði.</p>
+<p>Mælt verður til í fyrstu atløgu at seta 2 mió. kr. av til:</p>
+<p type="listitem">•  økja um talið á bioanalytikarum</p>
+<p type="listitem">•  førleikamenna bioanalytikarar•  dagføra útbúnað og dagføra verandi</p>
+<p>útbúnað</p>
+<p>Mælt verður til í fyrstu atløgu at miða ímóti at seta 3 mió. kr. av til:</p>
+<p type="listitem" xml:lang="dan">•  infektiónsmedisinskan førleika, molekylerbiologiskan førleika og smittuverjufrøðing</p>
+<p type="listitem">•  ein farmaseut og ein farmakonom til Antibiotic Stewardship Programme</p>
+<p>eindina</p>
+<p>Við hesi raðfesting kann arbeiðið byrja við at menna og betra førleikarnar hjá heilsuverk inum at staðfesta sjúkuorsøkir.</p>
+<p>Ein fortreyt fyri at seta eina skipan í verk innan heilsuverkið í Føroyum, at hava eftirlit við antibiotikanýtsluni og antibiotika mótstøðu førinum, er, at økt verður um fak liga ser kunn leikan á økinum. Sum lýst í verkætlanini er tørvur á eini øking í talinum av infektións medisinarum, bioanalytikarum og smittuverjufrøðingum umframt at mælt verður til at seta ein mikrobiolog og ein mole kylerbiolog, bæði hálv størv.</p>
+<p>Hvussu nógv størv talan er um, veldst um, hvørja tænastu/tænastustøðið heilsuverkið skal veita. Tað er eisini ein sannroynd, at ser frøðin er trupul at fáa til vega, tí kann væntast, at tað fer at taka rúma tíð at rekruttera viðkomandi starvsfólk. Har umframt er talan eisini um eina skipan, sum skal byggjast upp frá grundini. Hetta tekur tíð, og kann gerast stigvíst.</p>
+<p>Í talvuni á síðu 13 eru øll tilmælini við útreiðslu metingum skipað í somu raðfylgju, sum í fylgjandi kapitlum 3 til 7:</p>
+<p><em type="bold">3.1</em>Skráseta eftir heilsuorsøkÍ sambandi við skráseting av antibiotikanýtslu skal </p>
+<p>heilsuorsøk eisini skrá setast. Hetta hevur við sær eyka</p>
+<p>skráseting hjá heilsu starvs-fólki, umframt møguligar</p>
+<p>til lagingar  í  sjúklinga skránni Torført at meta um kostnað</p>
+<p><em type="bold">3.2</em>Skráseting av antibiotika, </p>
+<p>sum verður beint burtur umframt innihaldi í smærri</p>
+<p>goymslunum kring landið Hetta er ein uppgáva hjá Antibiotic Stewardship Programme eindini</p>
+<p><em type="bold">4.1</em>Tillaga Cosmic/managongdir at gera tað møguligt at </p>
+<p>skráseta/ <span type="quote">”flagga”</span> Tað vil siga, skráseta tilburðir av mótstøðuførum bakterium</p>
+<p>í sjúklingajournalina, soleiðis at móttakandi deild hevur</p>
+<p>møguleika at seta smittu-forðandi tiltøk í verk, tá sjúk</p>
+<p>lingurin verður innlagdur Hetta krevur ikki tillaging í skipanini</p>
+<p><em type="bold">4.2</em>Skráseting og hagtøl í Cosmic.Gera greiðar mannagongdir fyri skráseting og </p>
+<p>rapportering av tilburðum við mótstøðu førum  bakterium.</p>
+<p>Hetta er ein uppgáva hjá Antibiotic Stewardship</p>
+<p>Programme eindini</p>
+<p><em type="bold">4.3</em>Seta ein smittuverjufrøðing </p>
+<p>afturat Til tess at styrkja smittuverju- organisatiónina at fevna um alt heilsuverkið í Føroyum</p>
+<p>600.000 kr. /árið</p>
+<p><em type="bold">4.4</em>Koppseta heilsustarvsfólkKoppseta øll heilsustarvsfólk, </p>
+<p>sum hava sjúklingakontakt Torført at meta um kostnað. Helst ikki ein týðandi upp-hædd</p>
+<p><em type="bold">5.1</em>AntibiotikaráðSeta á stovn eitt anti</p>
+<p>biotika ráð, sum skal fylgja við gongdini í nýtsluni av</p>
+<p xml:lang="dan">antibiotika og antibiotika-mótstøðuføri</p>
+<p>100-200 t. kr. um árið til fundarvirksemi</p>
+<p><em type="bold">5.2</em>Seta í verk eina Antibiotika </p>
+<p>Stewardship Programme eind</p>
+<p>At viðgera antibiotika hagtøl og eftirlit við mót støðu-føri. Kunning um nýtslu og</p>
+<p>1.6 mió. kr.</p>
+<p>mótstøðuføri. Seta í verk átøk at  basa  anti biotikamót støðu</p>
+<p>føri. Ein farma seutur og ein farma konomur</p>
+<p><em type="bold">6.1</em>Styrkja infektiónsmedisinska </p>
+<p>serkunnleikan innanfyri 3-6 ár við trimum størvum</p>
+<p>Tørvur er á tilsamans trimum infektiónsmedisinarum, skal tænastan vera tøk allar</p>
+<p>gerandisdagar í árinum í dagtímunum</p>
+<p>2 mió. kr. /ár</p>
+<p><em type="bold">6.2</em>Styrkja infektiónsmedisinska </p>
+<p>serkunnleikan innanfyri 8-12 ár við fýra størvum</p>
+<p>Tørvur er á tilsamans fýra infektións medisinarum, skal tænastan vera tøk alt</p>
+<p>samdøgrið (vaktarskipan) 3 mió. kr./ár</p>
+<p><em type="bold">6.3</em>Hálvt mikrobiologiskt starv á </p>
+<p>hægri støði í mikrobiologiini Kann eisini røkjast av hálvum infektiónsmedisinara500 t. kr./ár</p>
+<p><em type="bold">6.4</em>Hálvt molekylerbiologiskt starv á hægri støði í </p>
+<p>mikrobiologiini Hetta kann til dømis samskipast við einum</p>
+<p>500 t. kr./ár</p>
+<p>parttíðarstarvi á Fróskapar-setrinum,  Heilsu frøðiligu</p>
+<p>Starvsstovuni ella Inova</p>
+<p><em type="bold">6.5</em>Reglulig dagføring av tøkni </p>
+<p>sum heild Dagføring av verandi útbúnaði og íløgur í nýggjan útbúnað</p>
+<p>Torført at meta um kostnað</p>
+<p><em type="bold">6.6</em>Implementera nýggj </p>
+<p>automatiserað PCR-tól Framkomið tól til mikrobiologiskar kanningar1 mió. kr.</p>
+<p><em type="bold">6.7</em>Seta í verk patogensekventeran í </p>
+<p>sjúkrahús verkinum Viðkomandi í sambandi við handfaring av útbrotumTorført at meta um kostnað</p>
+<p><em type="bold">6.8</em>Mannað mikrobiologiina alt samdøgriðAt fáa skjótari svartíðir og optimering av nýtsluni av </p>
+<p>tólunum. T.v.s. 3-5 størv 1.5 mió. kr.</p>
+<p><em type="bold">6.9</em>Tryggja skjótan flutning av royndartilfari frá KS og </p>
+<p>SS umframt frá primera heilsugeiranum</p>
+<p>Soleiðis, at sjúklingar verða settir í røttu viðgerð skjótast</p>
+<p>gjørligt Innanfyri játtanina hjá viðkomandi stovni/eind</p>
+<p><em type="bold">6.10</em>Føroyskar vegleiðingar </p>
+<p>(instruksir) Vegleiðingarnar skulu varðveitast sentralt og vera tøkar hjá øllum viðkomandi</p>
+<p>heilsustarvsfólki v.m. Hetta er ein uppgáva hjá Antibiotic Stewardship Programme eindini</p>
+<p><em type="bold">6.11</em>Ein infektiónsmedisinsk seingjardeildVið møguleika fyri uml. 6-8 seingjarplássum (harav tvær </p>
+<p>háisolatiónsstovur) Torført at meta um kostnað</p>
+<p><em type="bold">7.1</em>Kunning til sjúklingar/ borgararKunning frá læknum, kunningar tilfar  til </p>
+<p>dømis í bíðihølum hjá kommunulækna, á sosialum</p>
+<p>miðlum, filmsbrot 50.000 kr./árið</p>
+<p><em type="bold">7.2</em>Kunning til heilsustarvsfólkLuttøka á árliga globala antibiotika-átakinum í viku 46 50.000 kr./árið </p>
+<p><em type="bold">7.3</em>Kunning til heilsustarvsfólk </p>
+<p>o.o. Skipa fyri felags norðurlendskari reinførisviku í viku 38</p>
+<p>50.000 kr./árið Arbeiðsbólkurin hevur handað lands stýriskvinnuni hesa ætlan við vón um, at politikarar fara at seta ætlanina frammarlaga í tí politisku raðfestingini. Bólkurin hevur í sínum arbeiði strembað fram í móti at greina hetta álvarsmál so gjølla, at eingin ivi skal vera um, at tørvur er á broyting og ný hugsan innan antibiotika. Skula vit í Føroyum frameftir kunnað viðgera fólk við ígerðar sjúkum, so fleiri ikki fara at doyggja av van ligum ígerðarsjúkum, er neyðugt, at politisk rað festing av tilmælunum verður sett frammar laga.</p>
+<p>3. HEILSUVERKINUM Í FØROYUM</p>
+<p>Øll søla av antibiotika í Føroyum verður av greidd borgarum frá apotekunum. Tað er tí møgu ligt at fáa nágreiniligar upp lýsingar um nøgdina av heilivági, sum verður heintaður á apotek unum. Tað vil siga, tað sum borgarar/sjúklingar heinta á apotekunum. Tað er ikki allur heilivágur, ávístur av lækna, sum verður heintaður. Mett verður tí, at nøgdin av heili vági, sum apotekið selur, er ein rættari mynd av samlaðu nýtsluni, enn nøgdin, sum er ávíst av lækna.</p>
+<p>Antibiotikanýtslan í primera heilsugeiranum fevnir um allan antibiotikaheilivág, sum er ávístur frá kommunulæknum, ser lækn um, tannlæknum og djóralæknum. Anti biotikanýtslan á sjúkra húsunum fevnir um nýtsluna á øllum trimum sjúkrahúsunum.</p>
+<p>Antibiotikanýtslan, viðgjørd í sambandi við hesa virkisætlanina, fevnir um allan antibiotika heilivág, sum er fevndur av anatomiska, terapeutiska og kemiska (ATC) klass anum J01. Eisini er metronidazol (P01AB01) og vancomycin (A07AA09) við í upp gerðini. Antiviralur heilivágur (til viðgerð av virus), heilivágur fyri tuberkulosa og svampa heilivágur eru ikki við í hesum arbeið inum.</p>
+<p>Í Føroyum verður antibiotikanýtslan bert skrá sett við ATCflokkingini bæði í primera heilsu geir anum og á sjúkrahúsunum. Í øðrum londum, eitt nú í Danmark, verða eisini heilsuorsøk (indikation), aldur, kyn o.a. skrásett í sambandi við ávísing av antibiotika.</p>
+<p><em type="italic">Tað hevði bøtt munandi um møgu leikar nar at gera eftirmetingar av við gerðargóðskuni, um skrá seting eisini fevndi um heilsuorsøk.</em> </p>
+<p><em type="italic">Sambært eindini Heilsukunning og Dygd kann tað gerast møguligt at skráseta heilsuorsøk í THS (Talgildu Heilsuskipanini) í sambandi við ávísing av heili vági. Tað hevur við sær, at heilsu  starvsfólk skulu gera eina eyka skrá seting í mun til tað, sum gjørt verður í dag. Harafturat skulu smærri tillagingar gerast í skipanini.</em> </p>
+<p><em type="italic">Arbeiðsbólkurin mælir tí til, at heilsuorsøk verður skrásett í sambandi við ávísing av anti biotika (tilmæli 3.1).</em> </p>
+<p>3.1 SMALSPEKTRAÐ- OG BREIÐSPEKTRAÐ ANTIBIOTIKA</p>
+<p>Antibiotika er felags heiti fyri heilivág, ið verður nýttur til at viðgera ígerðir, sum standast av bakterium. Fleiri ymisk sløg av bak terium eru orsøk til ígerðir hjá sjúklingum.</p>
+<p>Antibiotika er býtt upp eftir hvørjum bakterium, tað er virkið ímóti. Smalspektrað anti biotika er virkið móti fáum útvaldum bakterium, og hevur við sær minni vanda fyri menn ing av mótstøðuførum bakterium. Breiðspektrað antibiotika er virkið móti fleiri ymiskum bak terium/bakteriusløgum og hevur størri vanda fyri at elva til mótstøðu førar  bakteriur.</p>
+<p>Fyrimunurin við breiðspektraðum antibiotika er m.a., at tað kann brúkast til viðgerð, har trupult er at staðfesta, hvørjar bakteriur hava elvt til ígerð. Vandin við breið spektraðum anti biotika er, at hesir antibiotikabólkar kunnu eisini gera av við gagnligar og óskaðiligar bakteriur, sum til dømis tær góðu og natúrligu tarm bakteriurnar.</p>
+<p>Fyri at seta sjúklingar í røttu viðgerð skjótast gjørligt, er neyðugt fyrst at staðfesta sjúkuorsøkina. M</p>
+<p>Svarið av útgreiningini er avgerandi fyri, hvat fyri heilivág sjúklingurin skal hava, eisini snýr hetta seg um lív ella deyða hjá sjúk ling inum. Tí eru vit í Føroyum í eini serstøðu, tá talan er um at fáa staðfest, hvat slag av heilivági sjúklingurin skal hava.</p>
+<p>Greiningin av samlaðu antibiotikanýtsluni í Føroyum vísir, at vit brúka lutfalsliga meira av ávísum breiðspektraðum antibiotika í mun til ávís smalspektrað antibiotika, saman borið við okkara grannalond. Ein orsøk kann m.a. vera omanfyrinevndi trupul leiki við staðfesting av sjúkuorsøk.</p>
+<p>Í teimum førum har læknin metir, at sjúkling urin hevur tørv á viðgerð beinan vegin, er sum oftast neyðugt at brúka breiðspektraða anti biotika, tá sjúkuorsøkin ikki er staðfest.</p>
+<p>Okkara grannalond hava í fleiri ár lagt stóran dent á at nýta smalspektrað anti biotika fram um breiðspektrað antibiotika. Arbeiðsbólkurin metir, at tað er sera umráðandi, at dentur verður lagdur á at arbeiða miðvíst við at optimera nýtsluna av antibiotika og at minka um nýtsluna av breiðspektraðum antibiotika, eisini í Føroyum. Hetta kann millum annað gerast við at raðfesta á diagnostiska økinum, bæði við starvs fólka orku og dagførdum tólum og útgerð. Á henda hátt at ávirka, at bíðitíðin at fáa svar upp á kanningar, gerst so stutt sum gjørligt, so tað í minni mun er neyðugt at seta sjúklingar í viðgerð við breiðspektraðum antibiotika. Tað vil siga, at soleiðis verður sjúklingurin settur í røttu og bestu viðgerð skjótast gjørligt.</p>
+<p>3.2 LÝSING AV ANTIBIOTIKA-NÝTSLUNI Í HEILSUVERKINUM</p>
+<p>Nýtslan er gjørd upp í DDD (defined daily dosages/dosur um døgnið). Fyri primera heilsu geiran eru hagtølini gjørd upp í DDD/1000 íbúgvar um dagin (DID). Hagtølini fyri sjúkra húsini eru gjørd upp í DDD/100 seingjar dagar. WHO (World Health Organisation) ásetur DDD fyri tey ymsu evnini. Eindin DDD verður brúkt globalt og ger tað møguligt at saman líkna anti biotika nýtsluna  ímillum  lond.</p>
+<p>Mynd 3.1 Frágreiðing um antibiotikanýtsluna í primera heilsugeiranum og á sjúkrahúsunum hevur síðani 2012 verið fráboðað í DANMAP rapport ini, sum Statens Seruminstitut saman við øðrum stovnum gevur út eina ferð um árið.</p>
+<p>Í arbeiðsbólkinum er semja um, at Føroyar framhaldandi skulu samstarva við DANMAP, viðvíkjandi eftirliti og fráboðan av anti biotikanýtslu og mótstøðuføri. Samstundis verður lagt upp til at kanna, hvørjir aðrir møgu leikar eru fyri samstarvi við líknandi skipanir í øðrum londum.</p>
+<p>Sambært hagtølunum hjá Apoteks verkinum, verða umleið 90% av anti biotika ávíst til borgarar/sjúklingar í primera heilsu geiranum. Tað vil siga hjá kommunulæknum/serlæknum, tann læknum og djóralæknum og 10% av anti biotika nýtsluni í Føroyum, verður ávíst á sjúkra hús verkinum. Hóast hetta er minni parturin av samlaðu nýtsluni, er anti biotika nýtslan á sjúkra hús verkinum ein týðandi partur í mun til arbeiðið at minka um antibiotikanýtsluna og mótstøðuføri. Ein orsøk er, at á sjúkrahúsunum eru fleiri ymiskar bak teriur á lutfalsligum smáum umráðum, har tættleikin av sjúklingum er stórur, tí er vandin fyri smittu eisini stórur (selektiónstrýst).</p>
+<p>Samlaða antibiotikanýtslan fyri bæði primera heilsugeiran og sjúkrahúsini í Føroyum var 15,65 DID í 2016, hetta er 15% lægri enn samlaða nýtslan í Danmark, sum var 18,47 DID sama tíðarskeið. Saml aða antibiotika nýtslan er lægri í Føroyum samanborið við fleiri onnur lond í Evropa.</p>
+<p>Nýtslan í primera heilsugeiranum</p>
+<p>Nýtslan av antibiotika hevur verið minkandi seinastu árini í primera heilsugeiranum. Nýtslan er fallin frá 14,5 DID í 2012 til 13,7 DID í 2017.</p>
+<p>Nýtslan av antibiotika liggur lutfalsliga lágt í primera heilsugeiranum, ein óvissa er tó í tølunum, sum møguliga í veruleikanum eru eitt sindur hægri enn hagtølini vísa. Het</p>
+<p><em type="italic">Talan er tó ikki um týðandi nøgdir av antibiotika, sum ikki eru skrásettar í nýtslu hag tølunum. Arbeiðsbólkurin umrøddi, at hetta kann loysast við at gera greiðar manna gongdir á økinum. Mælt verður til, at innihaldið í smærru goymslunum, umframt tað, sum verður beint burtur, onkursvegna verður skrásett, og mannagongdir mugu gerast hesum viðvíkjandi (tilmæli 3.2). Upplagt er, at ein Antibiotika Stewardship eind tekur sær av tílíkum uppgávum (sí kapittul 5 – Antibiotika Stewardship á øllum  sjúkra hús unum).</em>  </p>
+<p>Samlað antibiotikanýtsla á primergeiranumMynd 3.2</p>
+<p>14.8</p>
+<p>14.6</p>
+<p>14.4</p>
+<p>14.2</p>
+<p>13.8</p>
+<p>13.6</p>
+<p>13.4</p>
+<p>13.2</p>
+<p>Ár</p>
+<p>Nýtslan á sjúkrahúsunum</p>
+<p>Í 2016/17 varð framt eftirlit við anti bio tikanýtsluni á Landssjúkrahúsinum. Allir innlagdir sjúklingar í antibiotikaviðgerð vórðu skrásettir. Hetta varð gjørt í sambandi við eina verkætlan, sum hevði til endamáls at seta í verk Antibiotika Stewardship Programme á Landssjúkrahúsinum. Arbeiðssetn ingurin til hesa virkisætlan legg ur upp til, at eftirlit skal verða við nýtsluni á øllum trimum sjúkrahúsunum í Føroyum.</p>
+<p>Nýtslan á Landssjúkrahúsinum hevur verið vaksandi frá 2010 til 2016, tó sæst ein stabilisering av nýtsluni í 2017 samanborið við 2016. Hetta er líknandi mynstrinum vit síggja í okkara grannalondum.</p>
+<p>Samlaða nýtslan er vaksin 64% frá 2010 til 2017 á Landssjúkrahúsinum. Í serligum fokusi eru breiðspektraðu cefuroxim, ciprofloxacin og meropenem. Nýtslan av cefuroxim er 25% av samlaðu nýtsluni á Lands sjúkra húsinum í 2017. Ciprofloxacin er stabil seinastu tvey ár ini, 9% av samlaðu nýtsluni í 2017 og nýtslan av meropenem er 4% bæði í 2016 og 2017.</p>
+<p>Umráðandi er, at arbeitt verður við at minka um nýtsluna av breiðspektraðum antibiotika bæði í primera heilsugeiranum og á sjúkra húsunum. Tað vil siga, antibiotika so sum cephalospor inum, quinolonum og meropenem. Ein útgreinað lýsing av antibiotikanýtsluni í Føroyum er í fylgiskjali 3.</p>
+<p>Skandinavisku londini hava lutfalsliga høga nýtslu av smalspektraðum pensillinum. Hesi londini hava eisini í fleiri ár arbeitt við at fáa eina skynsamari nýtslu av antibio tika bæði á primera heilsugeiranum og á sjúkrahúsunum. Norra, Svøríki og Danmark hava sett sum mál at minka antibiotika nýtsluna, bæði samlaðu nýtsluna og nýtsluna av breiðspektraðum antibiotika.</p>
+<p>Betalactamasefølsom penicillin (Vpenicillin) er framvegis størsti bólkur, ið varð nýtt ur við 4,3 DID, sum svarar til 31% av saml aðu nýtsluni. Sulfonamidir er 3. størsti bólk urin av antibiotika, ið varð nýttur í 2017 svarandi til 9% av samlaðu nýtsl uni.</p>
+<p>Í Føroyum hava vit lutfalsliga høga nýtslu av sulfonamidum í mun til okkara grannalond, men orsakað av mótstøðuføri hjá um leið einum triðingi av borgarunum, eru sulfona midir ikki besta valið at nýta til viðgerð.</p>
+<p>Hóast høga mótstøðuføri fyri sulfonamidum, verður tað, í størri mun enn í okkara granna londum, brúkt til viðgerð av bløðru ígerð í staðin fyri pivmecillinam, sum er fyrsta val til viðgerð av bløðruígerð. Í høvuðs heitum er orsøkin til hetta, at tað er stað fest, at ein partur av føroyingum hevur CTD (Carnitin Transporter Deficiency).</p>
+<p>Samlað antibiotikanýtsla á LSMynd 3.3</p>
+<p>Àr Viðgerð við pivmecillinam kann hava við sær, at carnitinstøði í kroppinum lækkar, tí kann viðgerð við pivmecillinam verða sera vandamikil fyri fólk við CTD. Sum avleið ing av hesum hevur Landslæknin álagt lækn unum, at skráseta carnitinstøðið hjá sjúk ling inum á ávísing ina, hvørja fer pivmecillinam verður ávíst.</p>
+<p>Av tí, at tað eru fleiri føroyingar, sum enn ikki hava latið seg kannað fyri CTD, og/ella at kanningarúrslitið ikki er skrásett í sjúklingaskránni, hevur hetta við sær, at tað er lættari og skjótari</p>
+<p>Orsakað av avmarkingum í ávísingum av pivmecillinam, verður í nøkrum førum breið spektrað antibiotika nýtt til viðgerð av bløðruígerð. Tað er ikki greitt, hvussu nógvir sjúk lingar fáa breiðspektrað antibiotika, orsakað av vandanum viðvíkjandi CTD.</p>
+<p>Ein møgulig loysn á hesa støðuna kundi verið, at allir føroyingar, sum ikki eru kannaðir fyri CTD, verða kannaðir, og úrslitini skrásett í sjúklingaskránna hjá viðkom andi  persónum.</p>
+<p>4. ANTIBIOTIKAMÓTSTØÐUFØRI</p>
+<p>Ígerð, sum er elvd av mótstøðuførum bakterium, kann hava við sær álvarsamar sjúkur, ser liga hjá sjúkum og veikum persónum. Tá ið bakteriur eru mótstøðuførar, er trupult, og í summ um førum ógjørligt, at viðgera við antibiotika. Innleggingartíðin verður sum oftast longd munandi. Hetta hevur stórar fíggjar ligar avleiðingar fyri samfelagið og ikki minst fyri sjúk lingin, sum noyðist at vera heimanífrá og missir nógva arbeiðstíð.</p>
+<p>Eins og í londunum uttan um okkum, eru til burðir av mótstøðuførum bak terium støð ugt vaksandi. Tilburðir av mót støðuførum bakterium verða regluliga stað festir á sjúkrahús unum í Føroyum. Allir sjúklingar, sum verða útskrivaðir frá út lendskum sjúkrahúsum bein leiðis til sjúkra hús í Føroyum, verða kannaðir fyri fýra mótstøðu førar bakteriur MRSA, VRE, ESBL og CPE. Tilburðir við hesum smá verum verða neyvt fylgdir og skrásettir av smittu verjufrøðingi. Í Føroyum varð tann fyrsti tilburðurin av mót støðuførum stafylokokkum, tann sokall aða MRSA (Staphylococcus aureus), sum finst á húð og slímhinnum, funnin í 2004. Síðani eru 56 tilburðir staðfestir, har teir flestu eru funnir í primera heilsugeir anum. ESBL enzymir finnast ser liga í tarmbakterium  <em type="italic">E. coli og K. pneumonia</em>, sum eru mótstøðuførar ímóti øllum penicillinum, 2. og 3. generatións cephalospor inum, stundum fluorkinolonum og aminoglykosidum. ESBL kann elva til fleiri álvarsliga ígerðsjúkur. ESBL verður við jøvnum millum bilum staðfest bæði í primera heilsu geiranum og á sjúkrahúsunum. Tað verða stað festir ein til tríggir tilburðir í miðal um mánaðin. </p>
+<p>CPE (Carpapenemaseproduserandi organisma) er heitið á einum bólki av fjøl mótstøðu førum bakterium, sum elva til ígerð og eru truplar at viðgera, tí tær eru mótstøðuførar mót vegis fleiri sløgum av antibiotika.</p>
+<p>Mynd 4.1</p>
+<p xml:lang="dan">Úr kanning, sum William Smith, Árni E. Lisberg, stud.med. og Høgni Djurhuus, stud. med. gjørdu í 2016 «<em type="italic">VRE udbrud på Landssygehuset – effekten af bred og smalspektret antibiotika».</em> </p>
+<p>Mynd 4.2</p>
+<p>CPE er ikki staðfest í Føroyum enn. Tó verður hildið eitt vakið eyga við CPE, tí í Dan mark er ein vaksandi trupulleiki av hesum smáverum.</p>
+<p>VRE (Vancomysin mótstøðuførir enterokokkar) er harafturímóti ein stórur trupulleiki í Føroy um. Sum sæst á Mynd 4.1 varð fyrsti tilburðurin av VRE funnin í apríl 2015. Tað var ikki møguligt at fáa tamarhald á bakteriuni, og VRE varð spreitt út til allar deildir á Lands sjúkra húsinum. 1. februar 2016 varð steðgað við at kanna sjúk lingar fyri VRE, tí VRE var endemisk, t.v.s., at hon er blivin ein varandi partur av um hvørv inum á sjúkrahúsinum. Síðani eru einans sjúklingar kannaðir fyri VRE, um teir koma frá einum útlendskum sjúkrahúsi. VRE er ein enterokokkur, sum er natúrligur partur av tarmfloruni. Hon kann elva til bløðruígerð og aðrar álvarsamar ígerðarsjúkur.</p>
+<p>4.1 AVBJÓÐINGAR FYRI FØROYSKA SJÚKRAHÚSVERKIÐ</p>
+<p>Føroyska heilsuverkið hevur serligar avbjóð ingar viðvíkjandi mótstøðuførum smáver um. Før oyska heilsuverkið sendir sjúklingar til viðgerð uttanlands umleið 2.800 ferðir árliga, tó mest til Danmarkar. Nógvir av sjúk lingunum verða innlagdir á sjúkrahús í Føroyum, tá ið teir koma aftur úr viðgerð  uttan lands. Tí er sera trupult at</p>
+<p>Hetta ger, at tað føroyska sjúkrahúsverkið</p>
+<p type="listitem">– í flestu førum Landssjúkrahúsið – verður</p>
+<p>sera viðbrekið. Støðan við VRE í 2015 vísir, at smittuverjueindin eigur at verða styrkt, soleiðis at tilbúgvingin verður nóg sterk og til reiðar at tálma útbrotum av mót støðuførum smáverum ella serliga smittandi ígerðar sjúkum.</p>
+<p><em type="italic">Tað er umráðandi at fyribyrgja smittu av mótstøðuførum bakterium, bæði frá Føroyum til Danmarkar/útlond og úr Danmark/útlondum til Føroyar. Tí er eisini tørvur á at skipa kunning millum sjúkrahús betri, enn hon er í dag.</em> </p>
+<p><em type="italic">Við kunning um allar sjúklingar, sum frammanundan eru kannaðir fyri mótstøðuførar bakteriur, er bert neyðugt at kanna og avbyrgja teir sjúklingar, sum ikki eru kannaðir frammanundan. Hetta hevði verið við til at minka um arbeiðstrýstið á sjúkrahúsinum (tilmæli 4.1 og 4.2).</em> </p>
+<p>Umstøðurnar á Landssjúkrahúsinum eru ikki nøktandi, tá talan er um smittuverju. Talið á seingjarplássum er avmarkað, og tað mangla einastovur við vesi, soleiðis at sjúk lingar við smittueyðkennum kunnu avbyrgjast.</p>
+<p>Mynd 4.3</p>
+<p>Antibiotikapolitikkur,  antibiotika mótstøðuføri og trupulleikar av fjølmótstøðu førum bak terium eiga at vera eitt týðandi góðsku og trygdar parametur, tá tað før oyska heilsuverkið skal avgera, hvar føroyskir sjúk lingar skulu fáa viðgerð og stað festa sjúkuavgerð uttanfyri Føroyar.</p>
+<p>Er talan um sjúkrahús uttanlands, antin í Dan mark ella í øðrum londum, sum eru eins við víkj andi góðsku og førleika, men hava færri trupulleikar av fjølmótstøðuførum bakterium, fáa føroyskir sjúklingar eina tryggari viðgerð bæði uttanlands og í Føroyum, um sjúklingarnir verða sendir til tey <span type="quote">“reinastu”</span> sjúkrahúsini uttanlands. Tað vil siga, tey sjúkrahúsini, sum hava minst trupul leikar av fjølmótstøðuførum bakterium.</p>
+<p>4.2 LÝSING AV STØÐUNI Í DAG</p>
+<p>Við tølum frá Rannsóknarstovuni á Landssjúkrahúsinum hevur smittuverju frøðingur ført yvirlit yvir MRSA, ESBL og VRE tilburðir. Tilburðir av ESBL hava verið støðugir seinastu trý árini. Í 2015 varð tann fyrsti tilburðurin av VRE funnin á Landssjúkra húsinum. Tilburðar av VRE, funnir eftir 1. feb. 2016, eru antin sjúklingar, komnir frá útlendskum sjúkrahúsum ella sjúk lingar við t.d. staðfestari bløðruígerð ella sárígerð. MRSA hevur verið skrásett í Føroyum síðani 2007. Í 2004 vórðu teir fyrstu tilburðirnir funnir, men ein reglulig skráseting byrjaði í 2007, tá Landssjúkrahúsið setti ein smittuverjufrøðing í starv. Í 2007 varð eitt útbrot í primera heilsugeiranum, eitt átak varð framt, og vórðu fleiri tilburðir staðfestir og viðgjørdir. Síðani 2007 hevur einki útbrot verið, bert einstakir tilburðir, sum eisini eru viðgjørdir.</p>
+<p>Eins og føroyska sjúkrahúsverkið, sendir grønlandska sjúkrahús verkið sjúklingar til við gerðir uttan lands, eisini har verða flestu sjúk lingar nir sendir til Danmarkar. Í Grønlandi hava tey somu trupulleikar sum í Føroyum við vandanum fyri at innflyta mótstøðuførar bakteriur. Frá 2000 til 2016 høvdu tey í Grønlandi staðfest tveir tilburðir við VRE, 76 tilburðir við ESBL og 28 tilburðir við MRSA. Føroyska sjúkrahúsverkið sendir nærum dupult so nógvar sjúk lingar til við gerð uttanlands samanborið við grønlendska sjúkrahúsverkið.</p>
+<p>4.3 SMITTUVERJA</p>
+<p>Almennu smittufyribyrgjandi leiðreglurnar venda sær til alt heilsuverkið. Høvuðsstevnu bólk urin eru starvsfólk á sjúkra húsum, røktarheimum og øðrum stovnum við røkt alt sam døgrið, sum til dømis heimatæn astan, heilsutænastur, klinikkir og líknandi stovnar.</p>
+<p>Almennar smittufyribyrgjandi leiðreglur kunnu eisini fylgjast á sosialum og námsfrøðiligum stovnum, til dømis stovnar til børn, ið bera brek, endurmenningar </p>
+<p>Yvirskipaða málið er at minka smittuvandan fyri sjúklingar/borgarar, starvsfólk og aðrar persónar við sambandi til føroyska heilsu verkið. Leiðreglurnar venda sær tí nágrein iliga mót vegis fyribyrging og at steðga smittu, við at fylgja almennu smittufyri byrgj andi  leið reglunum,  sum  eru:</p>
+<p type="listitem">•  At leggja til rættis arbeiðsgongdina</p>
+<p type="listitem">•  Hondreinføri •  At brúka arbeiðsklæðir</p>
+<p type="listitem">•  At brúka verju so sum eingangsfyriklæði, handskar og munnbind</p>
+<p type="listitem">•  At reingera, desinfisera og sterilisera •  At handfara rein og skitin klæðir</p>
+<p type="listitem">•  At handfara burturkast •  At hagreiða matvørur</p>
+<p>Borgarar, sjúklingar, avvarðandi, vitjandi  og onnur við tilknýti ella sum á annan hátt hava samband við heilsuverkið, fáa upplæring í smittufyribyrgjandi leið reglunum, ser liga hond reinføri, tá mett verður, at tørvur er á tí.</p>
+<p>Tað er ábyrgdin hjá arbeiðsgevarunum, í samstarvi við smittuverjufrøðingin, at syrgja fyri og at meta um, hvørt vegleiðingarnar verða fylgdar. Á Landssjúkrahúsinum eru veglei ðing ar til ymiskar mannagongdir á PLI har allar hava Statens Serum Institut, SSI, sum tilvísing.</p>
+<p>Smittuleiðirnar í heilsuverkinum eru:</p>
+<p type="listitem">•  Kontaktsmitta (beinleiðis/óbeinleiðis)</p>
+<p type="listitem">•  Luftborin smitta •  Stunguskaðar</p>
+<p type="listitem">•  Vehikelborin smitta  (føðsla, vatn, medisin o.l.)</p>
+<p>Tær almennu smittufyribyrgjandi leiðreglurnar skulu altíð fylgjast í røktini og í við gerð ini. Er talan um mótstøðuføra smáveru hjá innløgdum sjúklingi, skulu serligar smittu fyribyrgj andi leiðreglur fylgjast. Hetta merkir, at sjúklingurin skal avbyrgjast á eina stovu, at starvs fólkini nýta handskar, eingangs svintu/kittil og munnbind, tá tað er neyðugt. Hesar serligu leiðreglur verða ikki nýttar í viðgerðarstøðum í primera heilsugeiranum, men tað verður altíð mælt til at fylgja teimum almennu smittufyribyrgjandi leiðreglunum óansæð, um sjúk ling urin/ borgarin er berari av mótstøðuførum smáverum ella ikki, bæði tá arbeitt verður í primera heilsugeiranum ella á sjúkra húsunum.</p>
+<p>Smittufyribyrgjandi tiltøk eiga eisini at verða sett í verk uttanfyri heilsuverkið so sum á vøggu stovum, barnagørðum, skúlum um framt kunning til foreldur.</p>
+<p><em type="italic">Mælt verður til at styrkja smittu verjueindina við at seta ein smittuverjufrøðing afturat. Árligu útreiðslurnar eru mettar at vera umleið 600 t. kr. (tilmæli 4.3).</em> </p>
+<p><em type="italic">Við tveimum smittuverjufrøðingum hevði verið møguligt at veitt tæn astur til alt heilsu verkið. Í løtuni er ein smittuverjufrøðingur settur á Lands sjúkrahúsinum, sum veitir tænastur til Heilsu og  innlendismála ráðið,  sjúkra húsverkið og primera heilsugeiran. Við tveimum smittuverjufrøðingum hevði verið møguligt at raðfest á primera heilsugeiranum. Til dømis kundu tænastur verið veittar eldri borgarum, við betri kunning um smittufyribyrgjandi átøk innan koppingarevni fyri beinkrím og bløðruígerð. Hetta hevði verið við til at minka um antibiotikanýtsluna umframt innlegg ingar á sjúkrahúsini. </em></p>
+<p><em type="italic">At fyribyrgja ígerð, ið stendst av krími, skulu tiltøk gerast árliga, áðrenn krímtíðin byrjar. Tað vil siga, tiltøk fyri heilsu starvsfólkum, um at lata seg kopp seta fyri beinkrím. Eisini at kunna al menningin um smittuverjandi tiltøk, um tekin eru um beinkrím. Mælt verður til, at øll heilsustarvsfólk, sum hava sam band við sjúklingar, fáa tilboð um kopp seting fyri beinkrím (tilmæli 4.4).</em> Fleiri seingjarpláss eru neyðug á deildunum á Landssjúkrahúsinum og útgerð manglar, t.d. isolatiónsvognar, sum eru til hvørja isolatiónsstovu. Antibiotic Stewardship Programme og antibiotikaráðið er al neyðugt til tess at tálma nýtsluna av anti biotika, men hett</p>
+<p>5. NÝTSLUNI Í HEILSUVERKINUM</p>
+<p>Í fleiri londum hava sjúkrahús sett skipanir í verk at skipa og stýra antibiotikanýtsluna. Tað vísir seg, at tílíkar skipanir hava við sær, at nýtslan av breiðspektraðum antibiotika minkar, uttan at tað hevur avleiðingar fyri viðgerðina.</p>
+<p>Arbeiðsbólkurin metir, at tørvur er á eini skipan, sum kann veita ráð geving og vegleiðing til politiska myndug leikan og til heilsu myndugleikan at stýra anti biotikanýtsluni og at eygleiða antibiotika mótstøðuføri innan alt heilsuverkið í Føroyum.</p>
+<p>5.1 SKIPAN AV EINUM ANTIBIOTIKARÁÐI</p>
+<p><em type="italic">Arbeiðsbólkurin mælir til, at eitt yvirskipað ráð verður sett at eygleiða støðuna við víkj andi antibiotikanýtslu og anti biotika mótstøðuføri  í  Føroyum. Har umframt skal ráðið eisini fylgja við, hvat rørir seg innanfyri økið uttanlands (til mæli  5.1).</em> Antibiotikaráðið skal eygleiða støðuna viðvíkjandi antibiotikanýtslu og anti biotikamót støðu føri í heilsuverkinum í Føroyum við grundarlagi í frágreiðingum og upp lýsingum frá heilsuverkinum og apoteks verkinum. Tørvur verður á ávísari serfrøði, fyri at kunna fram leiða hesar frágreiðingar og upp lýsingar. Hetta arbeiðið verður í fleiri londum skipað í eind um, eisini kallað Antibiotic Stewardship Programme. </p>
+<p>Við grundarlagi í frágreiðingunum og upplýsingunum, sum ráðið fær og í samsvari við al tjóða tilmælir á økinum, skal ráðið ráðgeva politiska myndugleikan og heilsuverkið í Føroyum viðvíkjandi antibiotikanýtslu og anti biotikamótstøðuføri.</p>
+<p>Um møguligt skal antibiotikaráðið samstarva við samsvarandi ráð í okkara grannalondum.</p>
+<p>Mælt verður til, at Antibiotikaráðið verður mannað við kommunulækna, infektiónsmedisinara/mikrobiologi, serlækna í skurð, serlækna í anæstesi, farmaseuti og smittuverju frøðingi.</p>
+<p>5. Skipan og stýring av antibiotikanýtsluni í heilsuverkinum</p>
+<p>Í fleiri londum hava sjúkrahús sett skipanir í verk at skipa og stýra antibiotikanýtsluna. Tað vísir seg, at tílíkar skipanir hava við sær, at nýtslan av breiðspektraðum antibiotika minkar, uttan at tað hevur avleiðingar fyri viðgerðina.</p>
+<p>Arbeiðsbólkurin metir, at tørvur er á eini skipan, sum kann veita ráðgeving og vegleiðing til politiska myndugleikan og til heilsumyndugleikan at stýra antibiotikanýtsluni og at eygleiða antibiotikamótstøðuføri innan alt heilsuverkið í Føroyum.</p>
+<p>5.1 Skipan av einum antibiotikaráði</p>
+<p>Arbeiðsbólkurin mælir til, at eitt yvirskipað ráð verður sett at eygleiða støðuna viðvíkjandi antibiotikanýtslu og antibiotikamótstøðuføri í Føroyum. Harumframt skal ráðið eisini fylgja</p>
+<p>við, hvat rørir seg innanfyri økið uttanlands (tilmæli 5.1).</p>
+<p>Antibiotikaráðið skal eygleiða støðuna viðvíkjandi antibiotikanýtslu og</p>
+<p>antibiotikamótstøðuføri í heilsuverkinum í Føroyum við grundarlagi í frágreiðingum og upplýsingum frá heilsuverkinum og apoteksverkinum. Tørvur verður á ávísari serfrøði, fyri at kunna  framleiða hesar frágreiðingar og upplýsingar. Hetta arbeiðið verður í  fleiri londum</p>
+<p>skipað í eindum, eisini kallað Antibiotic Stewardship Programme. Við grundarlagi í frágreiðingunum og upplýsingunum, sum ráðið fær og í samsvari við altjóða tilmælir á økinum, skal ráðið ráðgeva politiska myndugleikan og heilsuverkið  í Føroyum viðvíkjandi antibiotikanýtslu og antibiotikamótstøðuføri.</p>
+<p>Um møguligt skal antibiotikaráðið samstarva við samsvarandi ráð í okkara grannalondum. Mynd 5.1</p>
+<p>Mynd 5.1</p>
+<p>Infektiónsmedisinara / mikrobiolog /Medisinskur serlækni</p>
+<p>Serlækni í skurð</p>
+<p>kommunulækni</p>
+<p>Serlækni í anæstesi</p>
+<p>Smittuverjufrøðingur</p>
+<p>Leiðari av Antibiotika Stewardship Eind / farmaseutur</p>
+<p>5.2 SKIPAN AV ANTIBIOTIC STEWARDSHIP PROGRAM</p>
+<p><em type="italic">Antibiotic Stewardship Programme verður nýtt á ymiskan hátt í teimum ymisku londunum, og verður mælt til, at vit í Føroyum skipa eina Antibiotic Steward ship Programme eind innan heilsu verkið, sum er tillagað føroysk viður skifti (tilmæli 5.2).</em> </p>
+<p>Eindin skal í høvuðsheitum hava ábyrgdina av fylgjandi uppgávum:</p>
+<p type="listitem">•  Fáa hagtøl úr skipanini hjá Apoteksverkinum•  Gera mánaðarlig yvirlit yvir antibiotika</p>
+<p>nýtsluna í primera heilsugeiranum og á sjúkrahúsunum</p>
+<p type="listitem">•  Gera mánaðarligar frágreiðingar og kunning um antibiotikanýtsluna og anti</p>
+<p>Antibiotic Stewardship Program er ein vælkend skipan, ið verður nýtt fyri at økja um góðskuna av antibiotika nýtsluni. Antibiotic Stewardship Program er eitt íverk setanaramboð til at tryggja betri sjúklingaviðgerð og færri mótstøðuførar bakteriur. Skipanin verður oftast stýrd av einum tvørfakligum bólki við læknum, sjúkrarøktarfrøðingum, farmaceutum og mikro biologum.</p>
+<p>biotikamótstøðuføri í sjúkrahúsverkinum •  Hvønn ársfjórðing gera frágreiðingar</p>
+<p>og kunning um antibiotikanýtsluna og antibiotikamótstøðuføri í primera</p>
+<p>heilsugeiranum •  Skipa fyri, at átøk verða sett í verk at náa</p>
+<p>ásettum málum •  At syrgja fyri, at antibiotikaráðið er</p>
+<p>kunnað við viðkomandi og dagførdari vitan um økið</p>
+<p>Virksemið hjá Antibiotic Stewardship Program eindini eigur at verða skipað og stýrt av  Anti biotikaráðnum.</p>
+<p>Grundarsteinurin í arbeiðinum hjá Antibiotic Stewardship Program eindini eru hag tøl og annað tilfar frá apoteksverkinum og sjúk lingaskránni, umframt eygleiðingar á  við gerð ar støðum  í  heilsuverkinum.</p>
+<p>Mynd 5.2</p>
+<p>Antibiotikaráð</p>
+<p>Antibiotika Stewardship Programme eind</p>
+<p>Primeri heilsugeirinSjúkrahúsverk Føroya -Sjúkrahúsini</p>
+<p>Mynd 5.2 Ar beiðs bólkurin er samdur um, at talan er um eina kliniska eind, tað vil siga, ikki eina fyri sitingarliga  eind.</p>
+<p>Harafturat er talan um eina tvørfakliga eind við serfrøðingum innan sjúkrahúsverkið, primera heilsugeiran og apoteksverkið.</p>
+<p>Mynd 5.2 vísir, hvussu arbeiðs bólkurin mælir til, at arbeiðið við Antibiotic Stewardship Program verður skipað undir einum Anti biotika ráði og skal fevna um alt heilsuverkið.</p>
+<p>Mett verður at tørvur er á, at Antibiotic Stewardship Program eindin og Antibiotikaráðið hava fundir umleið hálva hvørt ár, annars eftir tørvi.</p>
+<p>Eindin ger frágreiðingar og tilmælir til ráðið um antibiotikanýtslu og antibiotikamótstøðu føri. Ráðið tekur síðan støðu til, um møgulig tilmælir og/ella átøk skulu setast í verk.</p>
+<p>Væntast kann, at ávísir serfrøðingar fara at ganga aftur í antibiotikaráðnum og Antibiotic Stewardship Programme eindini. Orsakað av, at vit hava avmarkaðan fakkunnleika í før oyska heilsuverkinum, er í onkrum førum neyðugt, at sami persónur gongur aftur í báðum støðum.</p>
+<p>5.3 METTAR ÚTREIÐSLUR TIL ÍVERKSETAN AV ANTIBIOTIC STEWARDSHIP PROGRAM</p>
+<p>Góðsku og menningarstjórin á Hillerød Hospital er ein teirra, ið byrjaði Antibiotic Stewardship Program í Danmark. Landssjúkra húsið hevur í samskifti við áður nevnda góðsku og menningarstjóra gjørt eina meting av tørvinum í sambandi við, at Antibiotic Stewardship Program verður sett í verk í Føroyum samanborið við, hvussu ar beið ið er skipað í Danmark.</p>
+<p>Mett verður, at í sambandi við íverksetan ina er tørvur á tveimum fulltíðarsettum farmaseutum, ella einum farmaseuti og einum aka dem ikara í menning og íverksetan. Væntast kann, at íverksetanartíðarskeiðið er um leið eitt ár. Mettar útreiðslur av hesum eru um leið 1.6 mió. kr.</p>
+<p>Til framhaldandi rakstur av Antibiotic Steward ship Program eindini verður mett, at tørvur er á einum farmaseut og einum farma konomi at </p>
+<p>Metingin er gjørd við grundarlagi í, at klinisk farmasitænasta verður veitt á øllum deildum. Eis ini er útgangsstøðið, at Antibiotic Stewardship Program ikki hevur við sær  fleiri  upp gávur  hjá  smittu verju frøð inginum og kunningarsjúkrarøktarfrøðingin um, sum framman undan starv ast við líknandi uppgávum í sjúkrahúsverkinum.</p>
+<p>6. RÁÐGEVING INNAN DIAGNOSTIKK Í HEILSUVERKINUM</p>
+<p>Tað føroyska heilsuverkið liggur landafrøð iliga langt burtur frá rannsóknar miðstovum, og fakligari serfrøði, bæði innanfyri læknavísindi og rannsóknarvísindi.</p>
+<p>Harumframt eru vit eitt lítið samfelag við avmarkaðari orku til viðkomandi serfrøði, hetta hevur við sær, at ein lutfalsliga stórur partur av sjúklingum verða sendur á sjúkrahús uttan lands til sjúkugreining og viðgerð. Avleiðingin av hesum er, at vit sannlíkt eru meira útsett fyri vandum av innfluttum mót støðuførum bakterium samanborið við hini grannalondini.</p>
+<p>At hava nøktandi ráðgeving innan sjúkrahúsverkið er ein týdningarmikil liður í arbeiðinum at basa antibiotikamótstøðuførið í Føroyum.</p>
+<p>Hóast altjóða ávaringar frá WHO um av leið ingarnar av anti biotikamótstøðuføri, starv ast í dag bert ein infektiónsmedi sinsk ur ser lækni innan heilsu verk ið í Før oyum, hesin er stað  sett ur á Lands sjúkra hús inum. Tað er tí avmark að orka til fakliga læknaliga ráð geving í infektións medisini, um framt at dag føra og fyri sita leið reglur og manna gongdir til antibiotika við gerð.</p>
+<p>6.1 STØÐAN Í DAG</p>
+<p>Í løtuni er ein infektiónsmedisinari í starvi í heilsuverkinum. Hetta merkir, at tað er ein avmarkaður partur av ársins gerandisdegi, at infektiónsmedisinskur førleiki er tøkur til viðgerð og ráðgeving í sjúkrahúsverkinum í Føroyum, orsakað av øllum uppgávunum, sum eru tengdar at yvirlæknastørvunum, sum til dømis fyrisiting, eftirútbúgving, skeiðs luttøka  o.s.fr.</p>
+<p>Viðvíkandi læknaligari ráðgeving í kliniskari mikrobiologi, er eingin serlækni í klin iskari mikro biologi í Føroyum, tað vil siga, tilboðið finst ikki í føroyska heilsuverk inum í dag. Infektións medisinarar kunnu partvís fremja hesa ráðgeving, men tað letur seg bert gera, um í minsta lagi trý infektións medisinsk størv verða sett í sjúkra hús verkinum. Við trimum infektiónsmedisinarum, hevði verið møguligt, at 50% av tí eina infektiónsmedisinska starv inum fevndi um kliniska mikrobiologi.</p>
+<p>Rannsóknarstovan á Landssjúkrahúsinum hevur eina mikrobiologiska eind, sum ger mikro biologiskar greiningar bæði fyri føroysku sjúkrahúsini og primera heilsugeiran.</p>
+<p>Tørvur á framhaldandi menning innan diagnostiska økið</p>
+<p>Seinastu 46 árini er ein stór menning farin fram innan diagnostikk á rann sóknarstovuni og á mikrobiologiska økinum. Nýggir ný mótans tøkniligir diagnostiskir kann ingar hættir,  ser liga  innan fyri  molekyler biologi og MALDITOF tøkni eru settir í verk.</p>
+<p>Virksemi í mikrobiologiini á Landssjúkrahúsinum í dag:</p>
+<p type="listitem">•  Klassisk dyrkan av sjúkuelvandi bakterum og teirra mótstøðuføri fyri antibiotika</p>
+<p>(útsáðan á agarplátur)•  Sjóneykukanning av sóttreinsaðum</p>
+<p>vætum, bakterium og krystallum  (vát- og litað tilfar)</p>
+<p type="listitem">•  Kanning av mótstøðuførum bakterium, bæði við klassiskari dyrkan og molekyler</p>
+<p>biologiskum kanningarháttum (BD MAX) fyri MRSA, ESBL, VRE, og CPE</p>
+<p type="listitem">•  Kanningar við blóðdyrkanartóli (BD BACTEC FX), sum kann staðfesta</p>
+<p>bakteriu vøkstur í blóðfløskum•  Kanning fyri álvarsligan lungnabruna við</p>
+<p>molekylerbiologiskum kanningarhátti (BD MAX), t.d. fyri Legionersjúku, nátasjúku,</p>
+<p>køldum lungnabruna (mycoplasma) og lungna bruna (clamydia pneumonia)</p>
+<p type="listitem">•  Kanning við molekylerbiologiskum tóli (Alere i) fyri beinkrím A, beinkrím B og</p>
+<p>RSV virus•  Immunologisk kanning (antistof/</p>
+<p>antigen-kanning í landi) fyri PUT LUT (Pneumokokk bakteriu og Legioner</p>
+<p>bakteriu)•  Kanningar við massaspektrometri (Bruker</p>
+<p>MALDI-TOF), sum kann eyðmerkja fleiri túsund ymiskar bakteriur upp á fáar</p>
+<p>minuttir</p>
+<p>Dentur verður lagdur á at fáa tøkni, sum ger tað møguligt at fáa skjót og røtt svar upp á kanningar, soleiðis at sjúkuorsøk kann staðfestast skjótast gjørligt. At bíða óneyð uga leingi eftir, at sjúklingur fær staðfest sjúkuorsøkina, kann fáa avleið ingar fyri við gerðina og út litini fyri viðgerðarúrslitið.</p>
+<p>Í mun til staðfesting av sjúkuorsøk, útlitum fyri viðgerðini, handfaring av útbrotum, avbyrg ing v.m. er avgerandi fyri at fáa skjótt og neyvt svar upp á kanningar.</p>
+<p>Mikrobiologiska økið á Rannsóknarstovuni á Landssjúkrahúsinum hevur í nógv ár havt dugna ligar bioanalytikarar, sum fram haldandi nema sær førleikar innan mikrobiologi. Eitt generatións skifti er í gongd nú, har nýggir bioanalytikarar skulu lærast upp, og tað tekur fleiri ár at koma á eitt høgt fakligt støði.</p>
+<p>Mikrobiologiska økið á Rannsóknarstovuni tørvar lokalan førleika á hægri støði í mun til at tulka og planleggja, umframt at hava tøkn iliga, mikrobiologiska og strategiska ábyrgd. Ein stigvísur vøkstur í nøgd av kanningum, saman við øktum torleika ger, at tørvur er bæði á lokalum mikrobiologiskum og molekylerbiologiskum førleika á hægri støði, umframt uppraðfesting av mikrobiolog iskum  bioanalytikarum.</p>
+<p>Í løtuni er eingin mikrobiologur settur í føroyska heilsuverkinum. Eitt 20% mole kylerbiolog iskt verkætlanarstarv hevur verið í uml. 2 ár á Landssjúkrahúsinum.</p>
+<p>Av tí, at vit senda lutfalsliga nógvar sjúklingar uttanlands til sjúkugreining og viðgerð á sjúkra húsum, har trupulleikar eru við mótstøðu førum bakterium, hava vit stóran tørv á við kom andi tøkni og før leikum, at fremja sjúkugreining. Hetta fyri at finna teir sjúklingar, sum eru sjúkir ella koma heimaftur við vandamiklum mótstøðu førum bak terium, tá teir koma aftur til før oyska heilsu verkið aftan á viðgerð og sjúkugreining uttanlands.</p>
+<p>Læran um molekylær biologi, sum er tann allarminsti ’byggisteinurin’ í biologiini, m.a. protein og kolvetni.</p>
+<p>Flestu føroysku sjúklingarnir, sum verða sendir til sjúkugreining og viðgerð uttanlands, verða sendir til Region Hovedstaden, sum seinastu árini hevur havt størst trupulleikar av mót støðu førum bakterium í Norður londum.</p>
+<p>Har hevur verið serliga stórt útbrot við VRE, sum rakti okkum í Føroyum meint í 2015, sum vit síðani hava haft stórar trupulleikar av. Nú í 20172018 er eitt nýtt útbrot í Keyp mannahavn við einum frábrigdi av VRE bakteriuni, sum verður nevnt VVE (vancomycin variable <em type="italic">Enterococcus faecium</em>). </p>
+<p>Molekylerbiologiskir kanningarhættir kunnu skjótt eyðmerkja smittuketur, tá út brot av sjúkum skal handfarast nú og í fram tíðini. Hesir kanningarhættir eru eisini týdningar miklir, tá talan er um at kanna fyri fjøl mótstøðu førar bakteriur, tá sjúklingar koma aftur aftan á kanning og/ella viðgerð á  við gerðar støðum  uttanlands.</p>
+<p>Samstarv við Statens Serum Institut</p>
+<p>Fólkagrundarlagið í Føroyum, umframt vant andi serkunnleika innan heilsuverkið, hevur við sær, at føroyska heilsuverkið hevur tørv á at samstarva við størri kanningarstovur  uttan lands.</p>
+<p>Rannsóknarstovan, mikrobiologiska økið og smittuverjan í sjúkrahúsverkinum samstarva við Statens Serum Institut (SSI) í Keyp mannahavn. Serligar kanningar, bæði innan fyri klass iska dyrkan, staðfestandi kann ingar, svampakanningar, serlogiskar/ andevnis kanningar  og  molekylær biologiskar kanningar verða enn gjørdar á Statens Serum Institut í Keypmanna havn.</p>
+<p>Fyrimunurin við at senda kanningar til Statens Serum Institut er høga góðskan, og at Statens</p>
+<p>Langa bíðitíðin kemst av, at tilfar skal flytast til Danmarkar við posti (postur verður ikki sendur í viku skiftinum), og at Statens Serum Institut ikki ger kanningararbeiði í viku skift unum. Har umframt er talan um kostnaðarmiklar kanningar umframt flutnings útreiðslur til kann ingar á SSI.</p>
+<p>Hóast longu bíðitíðina er tó eingin ivi um, at vit mugu fasthalda tætta fakliga samstarvið og samstarv um greiningar v.m. við Statens Serum Institut, eisini frameftir. Tað er umráðandi, at vit hava atgongd til aðrar neyðugar og eisini torgreiddar greiningar og til meira torgreidda tulkan og ráðgeving á hægri støði, sum serfrøðingar á Statens Serum Institut kunnu hjálpa okkum við.</p>
+<p>Statens Serum Institut hevur serfrøðingar innanfyri øll mikrobiologisk, infektiónsmedisinsk og smittuverjuserøkir. Vit mugu eisini frameftir vera partur av eftirlitinum við serliga vanda miklum ella óvanligum sjúku elvandi smáverum. Eftirlitið fyri Danmark, Føroyar og Grønland er mið savnað á Statens Serum Institut.</p>
+<p>Støðan í primera heilsugeiranum (hjá kommunulæknum)</p>
+<p>Kommunulæknar eru fyrstir at møta borgarum, tá hesir kenna seg sjúkar. Læknin metir um støðuna út frá tí, ið sjúklingurin greiðir frá. Síðani ger læknin kanningar og setir sjúklingin í viðgerð, um mett verður, at tað er neyðugt. Hjá kommunulæknanum er avbjóðingin, tá tað snýr seg um ígerðir, at upp á stutta tíð (1015 min.) skal kommunulæknin:</p>
+<p type="listitem">•  Staðfesta, at eingin lívhættislig støða er</p>
+<p type="listitem">•  Staðfesta fokus •  Staðfesta møguligt virkisevni</p>
+<p type="listitem">•  Meta um gongdina •  Tilmæla átøk</p>
+<p>Molekylerbiologi (DNA/PCR-kanning) – DNA-kanning, sum eyðmerkir bakteriuna – (PCR (Polymerase Chain Reaction) er ein ílegu kanningarteknikkur) Størsti parturin av okkara sjúklingum eru ikki álvarsama sjúkir og verða frískir innan fyri stutta tíð uttan viðgerð. Harafturímóti eru fleiri sjúklingar stúrnir um sína støðu og vænta, at onkur viðgerð er, sum kann gera tey skjótt frísk. Ofta hava sjúklingar kravt at fáa anti biotika útskrivað. Sum áður nevnt, so hevur fokus ikki verið á yvir forbrúki av antibiotika og hjá árini sum antibiotika mótstøðuføri. Tí hava læknar útskrivað antibiotika, uttan at hava tikið atlit til hjáárin og mótstøðuføri. Eisini hevur tað víst seg, at um lækni fyriskrivar og setir sjúklingin í antibiotikaviðgerð, kann viðtalan avgreiðast skjótt, og sjúklingurin ferð nøgdur avstað. Slík viðurskifti skapa trýst mót vegis viðgerð við antibiotika, og sjúklingurin fær eina skeiva mynd av veru leikanum.</p>
+<p>Tær klinisku vegleiðingarnar, sum eru gjørdar seinastu árini, hava haft hesi viðurskiftini í huga við teimum fortreytum, at ovur nýtsla av antibiotika fer fram í primera heilsugeiranum. Før oyskir kommunulæknar hava ikki veg leiðingar, sum eru gjørdar til føroysk viður skifti. Tann fakligi stovnurin, sum stendur okkum nærmast, er Dansk Selskab for Almen Medicn (DSAM), sum ger kliniskar vegleiðingar til al ment praktiserandi læknar í Danmark. DSAM hevur givið eina vegleiðing um ígerðir í andaleiðini, sum fevnir sera væl um hetta økið og sum er sett í verk millum kommunulæknar í Føroyum. Hetta er serliga tí, at eitt audit um ígerðir í andaleiðini bleiv gjørd nýliga við hesari vegleiðing sum grundar lagi. Hetta var stutt eftir, at veg leiðingin varð givin út.</p>
+<p>Fleiri yvirlitsgreinar eru skrivaðar um at hand fara ígerðir. Mest tøkt hjá føroyskum komm unu læknum er ‘Månedskrift for Almen Praksis’ og ‘Rationel Farmakoterapi’. Hesi tíðarrit við gera ofta kliniskar trupulleikar innanfyri ígerðarsjúkur, oftast við tí grundleggjandi enda máli at fáa skynsamari antibiotikanýtslu. Hesi hava uttan iva stóra ávirkan á kliniska ar beiðið hjá kommunu læknum í Føroyum.</p>
+<p>6.2 AVBJÓÐINGAR FYRI HEILSUVERKIÐ Í MUN TIL TØKNI OG SERKUNNLEIKA</p>
+<p>Talið økist av sjúklingum, sum eru raktir av fleiri sjúkum samstundis. Tað vil siga, sjúk lingar við álvarsomum ígerðarsjúkum ella ígerðareftirsjúkum umframt upprunasjúkum.</p>
+<p>Sjúklingar við sjálvórinssjúkum, giktasjúkum, húðsjúkum, krabbameini og vevnaðar sjúkum, hava niðursetta órinsverju, og eru tí í størri vanda fyri smittu av mót støðu førum  bakterium.  Trupul leikar kunnu stinga seg upp í sambandi við viðgerð av sjúklingum, sum eru í serliga stórum vanda fyri at fáa lívshóttandi ígerðir afturat teirra upprunasjúku. Talan er í høvuðsheitum um:</p>
+<p type="listitem">•  sjúklingar, sum eru í viðgerð fyri krabbamein</p>
+<p type="listitem">•  sjúklingar, sum eru í viðgerð við biologiskum heilivági</p>
+<p type="listitem">•  sjúklingar, sum eru í viðgerð fyri at halda órini niðri</p>
+<p type="listitem">•  sjúklingar, sum hava fingið vevnað</p>
+<p>Harumframt hevur ein hægri miðalaldur á sjúklingum víst seg at hava við sær, at tað eru fleiri sjúklingar við blóðeitran (sepsis). Hetta setur økt krøv til heilsuverkið um torgreiddan mikrobiologiskan diagnostikk, so røtt viðgerð kann setast í verk skjótast gjørligt. Tí, sum áður nevnt, kann tað hava stóran týdning í mun til útlitini fyri viðgerðina og heilsubót hjá tí einstaka sjúklinginum.</p>
+<p>Avleiðingin av longu svartíðunum á týdningar miklar sjúkustaðfestandi rannsóknar kann ingar uttanlands, er í summum førum, at læknar í føroyska heilsuverkinum meta tað verða neyðugt, at seta sjúklingar í viðgerð beinanvegin. Tá svar kemur upp á royndirnar, er úrslitið ikki longur við komandi fyri viðgerðina.</p>
+<p>Hetta hevur við sær, at tað verða tiknar ov fáar týdningarmiklar sjúkustaðfestandi mikro biologiskar royndir, sum annars høvdu verið framdar við skjótari svartíðum.</p>
+<p>Jú fleiri greiningar verða settar í verk í Føroyum, jú skjótari svartíðir fáa vit, og sannlíkt verða fleiri viðkomandi royndir tiknar av sjúklingum, tá illgruni er um lívshóttandi ígerð. Tað kann hava stóran týdning fyri sjúklingin, at røttu kanningarnar verða tiknar og grein aðar skjótast gjørligt.</p>
+<p>Vantandi førleikar á hægri støði innan sjúkrahúsverkið</p>
+<p>Sjúkrahúsverkið vantar førleikar á hægri støði innan infektións, mikrobiologiska og  molekyler biologiskavísind.</p>
+<p>Infektiónsmedisinskir serlæknar eru samskiparar innan diagnostikk, við gerð, hand faring av umfarssjúkum, antibiotikaráð geving í sambandi við smittusjúkur, lívshótt andi hættisligar smittu sjúkur, mikrobiolog iskan diagnostikk og handfaring av fjøl mótstøðuførum bakterium. Í dag starvast ein infektiónsmedisinari innan sjúkrahús verkið.</p>
+<p>Tað føroyska sjúkrahúsverkið hevur tørv á minst trimum infektiónsmedisinskum serlæknum, skal infektiónsmedisinski førleikin vera tøkur í dagtímunum allar gerandis dagar í árinum. Við fýra infektionsmedisinsk um ser læknum í sjúkrahúsverkinum hevði verið møgu ligt við eini vaktarskipan. Tað vil siga, førleikin hevði verið tøkur í sjúkra hús verkinum alt samdøgrið allar dagar í árinum.</p>
+<p>Sum kunnugt er trupult at fáa serlæknar í starv í føroyska sjúkrahúsverkinum. Tó eru útlit fyri, at innanfyri tey næstu 610 árini eru tveir føroyskir infektiónsmedisinarar, sum hava møguleika fyri at starvast í føroyska sjúkrahúsverkinum, treytað av, at økið verður raðfest og umstøðurnar eru til tað. Økið innan mikrobiologi, mótstøðuførar bakteriur, viðgerð, antibiotikaval, komandi nýggjar ókendar smittandi sjúkur, nýggjar <span type="quote">«gamlar afturvendandi»</span> sjúkur og fjøl  mótstøðuførar bakteriur er sera torgreitt. Hetta ger, at tørvurin á infektiónsmedisinskum førleika í Føroyum er sera stórur.</p>
+<p><em type="italic">Neyðugt er við munadyggum diagnostikki, viðgerð og fyribyrging av smittandi sjúkum í Føroyum. Mett verður, at tørvur er á 34 infektiónsmedisinskum serlæknum, sum eru knýttir at eini seingjadeild við stovum, sum kunnu avbyrgjast, hetta verður møguligt í nýggja bygninginum á Landssjúkrahúsinum, sum eftir ætlan verður liðugur í 2021.</em> </p>
+<p><em type="italic">Við trimum infektiónsmedisinarum er tænastan tøk allar gerandisdagar í árinum. Við 4 infektiónsmedisinarum er møgu ligt at hava eina vaktarskipan innan økið. Tað vil siga, at tænastan er tøk alt sam døgrið alt árið (tilmæli 6.1 og 6.2).</em> </p>
+<p><em type="italic">Mett verður, at tørvur er á hálvum mikro biologiskum starvi á hægri støði í mikrobiologiini í sjúkrahúsverkinum (tilmæli 6.3). Er ikki møguligt at seta ein mikrobiolog í starv, kann hetta starvið røkjast av einum infektiónsmedisinara, treytað av, at tað eru í minsta lagi tríggir infektiónsmedisinarar settir í sjúkra húsverkinum.</em> </p>
+<p>Í løtuni er eingin mikrobiologur í starvi í sjúkrahúsverkinum. Ein mikrobiologur starv ast í Føroyum í egnari mikrobiologiskari starvs stovu, sum ger heilsufrøðiligar kanningar.</p>
+<p><em type="italic">Harafturat verður mett, at tørvur er á at seta eitt hálvt molekylerbiologiskt starv í mikrobiologiini i sjúkrahúsverkinum (tilmæli 6.4). Hetta starvið er væl egnað at sameina við einum hálvum starvi á til dømis Fróðskaparsetrið Føroya, Heilsu frøðiligu starvsstovuni ella á Granskingar setrinum  Inova.</em> </p>
+<p>Á Landssjúkrahúsinum er í løtuni settur ein molekylerbiologur í eitt verkætlanarstarv svar andi til 20%. Sjúkrahúsverkið metir, at útlit eru fyri at fáa molekylerbiologar í starv í Føroyum.</p>
+<p>Tól og tøkni</p>
+<p>Ein vælvirkandi mikrobiologisk rannsóknastova við skikkaðum serkunnleika og viðkomandi og dagførdari tøkni og tólum, svarar til eitt <span type="quote">«vælvirkandi sløkkilið»</span>, klárt at setast í verk, tá smittsjúkuhóttandi alheims farsótt av virus ella mótstøðuførum bak terium gera um seg. Førleikin at staðfesta sjúkuorsøk er avgerandi, tá útbrot skulu steðgast við avbyrging og viðgerð, tá álvarsligar sjúkur gera um seg so sum alheims farsóttir.</p>
+<p>Ein rannsóknarstova við nýmótans og dagførdari molekylerbiologiskari tøkni umframt ser kunnleika á hægri støði innan kliniska mikrobiologi og molekylerbiologi og nøktandi tal av skikkaðum mikrobiologiskum bioanalytikarum, kann setast í gongd sera skjótt, tá tørvur gerst á tí.</p>
+<p>Tøvur á dagføring av tólum og nýggjum tólum</p>
+<p>BD max tól</p>
+<p>Við til dømis BD max tólum er møguligt innan fáar dagar at rætta forritini til at eyðmerkja nýggjar vandamiklar sjúkur ella nýggjar mótstøðuførar bakteriur, sum gera um seg altjóða, og eru á veg til Føroyar.</p>
+<p>PCR tól</p>
+<p><em type="italic">Tørvur er á nýggjum sjálvvirkandi PCR tólum (ískoyti til núverandi BD max pall), sum kunnu gera mikrobiologiskar kanningar fyri lívshóttandi sjúkuelvandi smáverur, serliga við andaleiðsígerð, neuro ígerð og eyðmerking av mótstøðuførum bakterium, sum gera um seg, til dømis MRSA, VRE, ESBL, CPE og aðrar hóttanir, sum koma í framtíðini (tilmæli 6.6).</em> </p>
+<p>Somu tól skulu brúkast til sjúkugreining, tá kend ella ókend virus skulu staðfestast í fram tíðini. Dømir kunnu vera SARS, fuglakrím, krím, MESARS, Ebola, Lassa o.s.fr.</p>
+<p>MALDI-TOF tøkni</p>
+<p><em type="italic">Tørvur er á framhaldandi at dagføra tól og tøkni, umframt at gera íløgur í nýggj tól og tøkni bæði innan sjúkrahúsverkið og primera heilsugeiran (tilmæli 6.5).</em> </p>
+<p><em type="italic">Verandi MALDITOF tøkni skal framhaldandi dagførast, so hvørt tøknin mennist (tilmæli 6.5).</em> </p>
+<p xml:lang="dan">Patogensekventeran</p>
+<p>Av samlaðu nýtsluni av antibiotika, verður størsti parturin ávístur í primera heilsu geiranum. Umráðan</p>
+<p>Tær greiningar, sum ikki verða framdar í kommunulæknaviðtalunum, verða framdar á Rannsóknarstovuni. Til hesar kanningar er tørvur á skjótum svari og harvið eisini skjót um flutningi av royndunum.</p>
+<p><em type="italic">Patogensekventeran eigur at vera møgu lig at fremja í sjúkrahúsverkinum í Føroyum (DNA sekventering av ókendum smáverum) (tilmæli 6.7).</em> </p>
+<p>Hetta er treytað av, at í minsta lagi eitt hálvt molekylerbiologiskt starv verður sett í sjúkra hús verkinum, umframt íløgu í eitt sek venteringstól. Ein annar møguleiki er sam starv við Inova, sum hevur fakligan førleika og tól. Hetta skal tó kannast nærri, um tað er møguligt, í løtuni ger Inova ikki kanningar við smáverum.</p>
+<p>Patogensekventeran er viðkomandi í sambandi við handfaring av sjúkuútbrotum, og tá ser ligar torgreiddar sjúkuelvandi smáverur skulu staðfestast.</p>
+<p>Skjótari svartíðir í sambandi við sjúkuavgerð</p>
+<p><em type="italic">Uppraðfesting av arbeiðsorkuni í mikrobiologiini í sjúkrahúsverkinum, soleiðis at eindin veitir tænastur alt samdøgrið, harvið verða tólini brúkt mest møguligt alt árið (til mæli 6.8).</em> </p>
+<p><em type="italic">Tørvur er á skjótari og tryggari flutningsskipan til royndartilfarið, ið sent verður frá Klaksvíkar sjukrahúsi, Suðuroyar sjúkrahúsi og primera heilsugeiranum til mikro biologiina á Landssjúkrahúsinum (tilmæli 6.9).</em> </p>
+<p>Tænastur, sum primeri heilsugeirin tørvar</p>
+<p>Primeri heilsugeirin tørvar skjóta mikrobiologiska tænastu til landdyrkan í sambandi við illgruna um bløðrubruna. Svar skal helst vera tøkt dagin eftir, um dyrkanin er positiv. Svar viðvíkjandi antibiotikamótstøðuføri skal helst vera tøkt innan tveir dagar. Hetta krevur skjótan flutning av roydartilfari.</p>
+<p>Nógv antibiotika verður brúkt til bløðrubruna. Sjúkueyðkennini fyri bløðrubruna eru tey somu, sum til aðrar týdningarleysar støður í bløðruni, sum ikki koma av bakterium. Landstixkanningin hjá kommunulækn anum, staðfestur um talan er um bakteriellan bløðrubruna, men er ikki nóg ná greinilig. Besta kanningin er landdyrkan, sum eisini staðfestur, hvør bakteria talan er um, og harvið hvør viðgerð er best.</p>
+<p>Eisini er stórur tørvur á skjótari PCR sjúkuavgerð til torgreiddar andaleiðsbrunar.</p>
+<p>Hosti er eitt sjúkutekin, sum ofta kemur fyri í primera heilsugeiranum. Nógv antibiotika verður nýtt í sambandi við hosta, tí sjúklingurin ofta hostar í longri tíðarskeið, og hevur ampa av hostanum. Í tílíkum førum verður ofta yvirviðgjørt við antibiotika, hóast støðan hjá sjúklinginum ikki batnar av við gerðini. Sum er, tekur tað meira enn eina viku hjá kommunulæknanum, at fáa svar upp á hesar kanningar. Tí kunnu kann ingar nar bert brúkast til at staðfesta eitt møgu ligt útbrot av sjáldsomum bakterium, og ikki at staðfesta sjúkuorsøk hjá einstaka sjúklinginum.</p>
+<p>Primeri heilsugeirin hevur eisini tørv á møguleikanum at staðfesta útbrot av beinkrími ella RSV virus at fyribyrgja, at ov nógvir sjúk lingar verða sett í royndarviðgerð, orsakað av illgruna um bakteriellan bruna.</p>
+<p>Harafturat hevur primeri heilsugeirin tørv á mikrobiologiskari ráðgeving í teimum førum, mótstøðuførar bakteriur eru staðfestar.</p>
+<p>Mótstøðuførar bakteriur verða javnan stað festar í primera heilsugeiranum, tá er um ráðandi at viðkomandi mikrobiologisk ráð geving er tøk, at vegleiða og kunna um møgu ligar viðgerðir, smittufyribyrging, eftirlit og uppfylging. Landslæknaembætið hevur nakrar av hesum uppgávum, men tørvur er eisini á mikrobiologiskari/ infektións medisinskari  ráð geving.</p>
+<p>6.3 AVBJÓÐINGAR FYRI FØROYSKA HEILSUVERKIÐ  Í MUN TIL RÁÐGEVING</p>
+<p>Ein avbjóðingin er at fáa øll føroysk heilsustarvsfólk at brúka somu mannagongd (reglu gerð) í sínum arbeiði, sum javnan verður dagført. Hetta fyri at byrgja uppfyri, at læknar brúka ymiskar mannagongdir (reglu ge</p>
+<p>Smittandi ígerðsjúkur skulu viðgerast sambært lokalum viðgerðarvegleiðingum. Viður skiftir, sum ávirka, hvussu man skal við gera lokalt, eru m.a.:</p>
+<p type="listitem">•  Lokal mikrobiologi (hvørjar bakteriur og virus eru í samfelagnum)</p>
+<p type="listitem">•  Mótstøðuføri (hvussu mótstøðuførar eru tær lokalu bakteriurnar)</p>
+<p type="listitem">•  Eru nógvar ella fáar fjølmótstøðuførar bakteriur í samfelagnum</p>
+<p type="listitem">•  Hvørjar ígerðarsjúkur gera um seg lokalt •  Eru lokalar umfarssjúkur</p>
+<p type="listitem">•  Eru talan um djóra-insektbornar sjúkur•  Skal hædd takast fyri serligum vanda</p>
+<p>táttum•  Eru serlig íleguviðurskifti at taka hædd</p>
+<p>fyri í sambandi við ígerðir og anti biotika-tilbúningum (CTD er dømi í Føroyum)</p>
+<p type="listitem">•  Hvørjir antibiotikatilbúningar eru tøkir</p>
+<p>Munurin, sum er millum Føroyar og londini rundanum okkum eins og í einum al heims høpi, ger, at tað slepst ikki undan at hava serligar føroyskar mannagongdir fyri, hvussu vit skulu handfara eftirlit, diagnostikk, viðgerð og smittuverju í Føroyum. Tað krevur vitan, hag tøl og serkunn leika á staðnum at gera rættar og viðkom andi mannagongdir fyri antibiotika viðgerðir í<em type="italic"> Føroy</em>um. </p>
+<p>Sjúklingar við ígerðum kunnu ikki samanberast við aðrar sjúklingar, sum til dømis sjúk lingar við hjartasjúkum, giktasjúkum, krabbameini ella aðrar ikkismittandi sjúkur.</p>
+<p>Sum dømi kann nevnast, at ein japanskur sjúk lingur, við krabbameini, hjartasjúku ella gikta sjúku, kann viðgerast á sama hátt (tað vil siga, við sama heilivági og somu við gerðar veg leiðing),  sum  ein  føroyskur sjúklingur við somu sjúku.</p>
+<p>Men ein japanskur sjúklingur við til dømis meningitis ella blóðeitran (ella aðrari sjúku, ið stendst av bakteriu) kann í útgangsstøði ikki viðgerast á sama hátt, sum ein til svarandi før oyskur sjúklingur. Orsøkin til tað er, at bakteriurnar helst eru ymiskar í Føroyum og í Japan. Mótstøðuføri og koppingarætlanir eru ymiskar. Djór og smákykt, sum kunnu smitta menn iskjur, eru ymisk í Føroyum og Japan (t.d. Japanskur encephalitis frá mýggja bitum). Hin vegin kunnu sjúklingar í Før oy um fáa nátasjúku, nakað, sum ikki kemur fyri í Japan.</p>
+<p>Av tí, at bakteriur og mótstøðuføri eru ymisk í ymiskum londum/økjum, er neyð ugt at vit í Føroyum hava okkara egnu mannagongdir fyri sjúkustaðfesting og viðgerð. Manna gongdir, sum taka atlit til føroysk viður skifti.</p>
+<p><em type="italic">Mælt verður til, at vit í Føroyum hava egnar vegleiðingar um antibiotikaviðgerð í heilsu verkinum (tilmæli 6.10). Allar vegleiðingar skulu miðsavnast á sama stað og verða tøkar hjá øllum við kom andi pørtum. Til dømis kunnu vegleið ingarnar liggja í PLIskránni ella á eini viðkomandi heimasíðu, sum allir við komandi partar hava lætta atgongd til.</em> </p>
+<p>Vegleiðingarnar skulu dagførast og endurskoðast regluliga, umleið hálva hvørt ár. Hetta skal gerast í einum samstarvi millum Antibiotikaráðið og Antibiotika Stewardshipeindina, sí eisini kapittul 5.</p>
+<p>Økið er torgreitt, tí setur tað stór krøv til infektiónsmedisinska førleikan í Føroyum at kunna veita hesa tænastu á nøktandi støði. Hetta er eisini grundarlagið undir tilmæl inum (tilmæli 6.1 og 6.2) um, at talið av infektiónsmedisinarum eigur at økjast til 34 serlæknar í infektións medisin í Føroyum. Endamálið er at menna heilsu verkið til at kunna veita eina trygga føroyska tæn astu í infektiónsmedisini við ráðgeving, sjúkustaðfesting og viðgerð av infektións sjúkling um í Føroyum.</p>
+<p><em type="italic">Verða stig tikin til at økja um talið av serlæknum í infektiónsmedisini, verður somuleiðis mælt til, at ein infektiónsmedisinsk seingardeild verður stovnsett. Seingjardeildin kundi til dømis verið staðsett undir Medisinska deplinum, har tað kann gerast møguli</em> </p>
+<p>Ein serdeild innan infektiónsmedisin fer at lyfta fakliga støðið, bæði hjá læknum og røktar starvs fólkum,  viðvíkjandi  hand faring av álvarsligum smittandi sjúkum, lívs hóttandi smitt andi sjúkum og fjølmótstøðu førum bakterium frameftir. Við hesum gerst møguligt at viðgera álvarsligar sjúkar sjúklingar á høgum støði við betri við gerðar útlitum, enn vit kunnu bjóða í dag. Ein tílík deild skal hava minst 23 serlæknar í infektións medisin.</p>
+<p>Markið fyri infektiónssjúkur flytur seg alla tíðina, tí nýggjar bakteriur stinga seg upp við nýggjum bakteriu og virussjúkum og álvarsligum farsóttum, sum koma nærum á hvørjum ári. Tað koma ikki nýggjar ókendar hjartasjúkur ella krabbameinssjúkur hvørt ár. Hetta setur sera stór krøv til dagføring av bæði starvsfólkum og mannagongdum.</p>
+<p>7.</p>
+<p>Gongdin við vaksandi antibiotika mótstøðuføri hevur við sær, at tørvur er á at styrkja smittu verjuna í øllum samfelagnum.</p>
+<p>Upplýsingarframtøk um antibiotikanýtslu, antibiotikamótstøðuføri, møguleikar fyri kopp seting ímóti smittandi sjúkum og reinføri, hava við sær, at bæði heilsu starvs fólk og borgarar gerast tilvitað um vandan við ovur nýtslu av antibiotika. Tað vil siga, við upp lýsingar fram tøkum  til  heilsu starvsfólk innan øll øki, til dømis heilsu verkið, skúlaverkið, dagstovnar, eldra  økið og fleiri. Umframt upplýsingar fram tøk mótvegis borgarum sum heild.</p>
+<p>Seinastu árini hevur vitanin um av leiðingarnar av ovurnýtsluni av antibiotika verið nógv frammi, serliga millum heilsufakfólk.</p>
+<p>7.1 KUNNING MÓTVEGIS BORGAR-UNUM UM TÝDNINGIN  AV AT TÁLMA ANTIBIOTIKANÝTSLUNA</p>
+<p>Upplýsing og kunning til borgaran um skynsama antibiotikanýtslu og avleiðingar av anti biotikamótstøðuføri kann verða við til at minka um eftirspurningin eftir antibiotika millum borgarar og harvið minka trýstið frá borgarum á kommunu læknar um at ávísa anti biotika. Norska Folkehelseinstituttet metir, at kunningarátøk um antibiotika nýtslu  og  antibiotika mótstøðu føri, kunnu verða við til at minka antibiotikanýtsluna við 4%6%.</p>
+<p>Koppseting ímóti smittandi sjúkum er eisini við til at minka nýtsluna av antibiotika. Heilsu  verkið veitir tilboð um ókeypis koppseting ímóti ávísum smittandi sjúkum til borgarar. Til dømis tilboðið um koppseting av børnum ímóti ávísum barnasjúkum og kopp seting ímóti beinkrími til borgarar, eldri enn 67 ár og fyritíðarpensjónistar.</p>
+<p>Reinføri er ein týðandi partur av arbeiðinum at minka um smittu og harvið antibiotikanýtsluna. Arbeitt verður við at kunna um týdningin av reinføri, og tiltøk verða gjørd at betra um rein føri á øllum almennu stovnum. Í størsta mun er kunningin og tiltøkini viðvíkjandi rein føri gjørd til starvsfólk heldur enn brúkarar og/ella borgarar.</p>
+<p>Tørvurin á hugburðsbroyting mótvegis nýtslu av antibiotika er stórur. Tað hevur al stóran týdning, at borgarin verður kunnaður um skynsama antibiotikanýtslu og um til boðini, sum eru um koppseting ímóti ávísum smittandi sjúkum.</p>
+<p>Kunningin mótvegis borgarunum um antibiotika, antibiotikanýtslu og anti biotika  mótstøðuføri, er á donskum. Kommunulæknar kunnu velja at fáa danskt tilfar, plakatir og smá rit at leggja fram í viðtaluhølunum, sum kunning til borgararnar.</p>
+<p>7.2 TØRVUR Á KUNNING TIL BORGARAR UM VANDAN AV MÓTSTØÐUFØRI</p>
+<p>Tørvur er á, at upplýsandi tilfar verður framleitt á føroyskum um antibiotikanýtslu, antibiotika mótstøðuføri, týdningin av koppseting ímóti smittandi sjúkum og reinføri. Kunn andi tilfar til borgarar á føroyskum og til føroysk viðurskifti eigur skjótast gjørligt at fáast til vega, og orka má leggjast í hetta arbeiðið.</p>
+<p>Tilfar til borgarar eigur at vera lætt lesiligt, tá kunnað verður um antibiotika; nær tørvur er á antibiotika, og nær sjúklingurin sjálvur kann basa sjúkuni. Tað vil siga,</p>
+<p>Tað er sera umráðandi at fáa boðskapin fram um týdningin av, at antibiotika verður brúkt skynsamt, og um avleiðingarnar av óskynsamari antibiotikanýtslu.</p>
+<p>Í sambandi við umfarssjúkur, er reinføri ein sera týdningarmikil og einfaldur háttur at fyri byrgja smittu. Týdningarmikið er, at børn og vaksin vaska sær væl um hendurnar, áðrenn farið verður at eta, og um nomið verður við eygu, nøs og munn.</p>
+<p>Upp lýsingar fram tøk  kunnu  lættliga  gerast til brúkarar/búfólk og avvarðandi á barnagørðum, skúl um, ellisheimum og øðrum stovn um, har nógv fólk savnast.</p>
+<p>7.3 AVBJÓÐINGAR FYRI FØROYSKA SJÚKRAHÚSVERKIÐ</p>
+<p>Sum nevnt so er avbjóðing, at tað finst onki kunningartilfar um antibiotika og antibiotika mótstøðuføri á føroyskum. Sjóneykan hevur ikki verið sett á trupulleikan við antibiotika mótstøðuføri í Føroyum á sama mun, sum í hinum Norðanlondunum.</p>
+<p>Hagtøl vísa, at 90% av antibiotikanýtsluni verður útskrivað hjá kommunulæknunum (í primera heilsugeiranum). Kanningar uttan lands vísa, at kommunulæknar ofta kenna seg kroystar av borgarum, sum vilja hava antibiotika, hóast læknarnir vita, at talan ikki eru um bakteriur, men um virus, har antibiotika ikki ger mun. Tað kann ofta vera trupult hjá læknanum at fáa fólk at góðtaka, at tørvur ikki er á viðgerð við antibiotika. Tað er tí av al stórum týdningi, at kunningartiltøk verða sett í verk, soleiðis at borgarar gerast meira til vitaðir um trupulleikan við antibiotikamótstøðuføri og harvið minka um eftirspurnigin eftir anti biotika.</p>
+<p>Í Danmark og hinum Norðurlondunum eru myndugleikar, sum hava ábyrgdina av at gera kunn ingartilfar til borgararnar. Ábyrgdin at gera kunningartilfar í Føroyum eigur at vera hjá viðkomandi serkunnleika. Tað vil siga, serkunnleikin innan infektións medisin, smittu verjufrøði og farmaci. Arbeiðsbólkurin hevur mælt til, at ein anti biotika stewardship eind verður sett á stovn. Hendan eindin hevur allar nevndu førleikar, og er arbeiðsbólkurin samdur um, at ábyrgdin fyri at gera kunningartilfar liggur best hjá hesi eindini. Talan er um kunn ingar til far, sum skal framleiðast á føroyskum, um framt tilfar, sum skal umsetast (í høvuðs heit um úr donskum) og tillagast til føroysk viður skiftir.</p>
+<p>Antibiotika stewardship eindin skal skipa fyri, at tilfar verður framleitt á føroyskum. Eisini, at tað tilfar, sum biðið verður um frá okkara grannalondum, verður umsett, tillagað føroysk viðurskifti og býtt út til viðtalu hølir o.l. í Føroyum.</p>
+<p>7.4 UPPSKOT UM UPPLÝSINGARFRAMTØK</p>
+<p><em type="italic">Arbeiðsbólkurin er samdur um, at kunningartilfar skal framleiðast á føroyskum. Men mett verður eisini, at nógv gott og viðkomandi tilfar finnist á millum annað donskum og norður lendskum máli. Tí mælir arbeiðs bólkurin til, at miðað verður eftir at brúka viðkomandi útlendskt tilfar, tá tað letur seg gera. Tá verður talan í høvuðs heitum um, at tilfar skal umsetast og til lagast føroysk viðurskifti. Hetta kann eisini hugsast at vera bæði bíligari og skjótari, enn at framleiða egið tilfar (tilmæli 7.1).</em> </p>
+<p>Uppskot um upplýsingarframtøk:</p>
+<p>Kunning frá lækna</p>
+<p type="listitem">•  Tað hevur alstóran týdning, at læknin í hvørjum einstøkum føri kunnar sjúklingin</p>
+<p>um, hví tað er neyðugt ella ikki neyðugt, at hann fær ella ikki fær antibiotika, tá hann</p>
+<p>vendir sær til lækna. •  Faldari skal gerast við kunning um</p>
+<p>týdningin av koppseting og tilboðum um koppseting</p>
+<p type="listitem">•  Faldari, ið er umbiðin uttanlands, sum snýr seg um týdningin av antibiotika</p>
+<p>mót støðu føri og um týdningin av at lata børnini koppsetast, skal orðast og</p>
+<p>umsetast til føroyskt.</p>
+<p>Faldarin skal útflýggjast við 5viku kanning av børnum. Tá heilsufrøðingur kemur á heima vitjan, skal faldarin gjøgnumgangast saman við foreldrunum. Heilsfrøðingurin</p>
+<p>Gigni skipar harafturat regluliga fyri at savna foreldur til kunnandi fund, har foreldrini saman fáa kunning um týdn ingin og antibiotikanýtslu, týdningin av kopp seting av børn unum og kunning um reinføri. Á hesum fundi kundu umboð frá kommunulæknum, smittu verju frøðingur og umboð fyri Gigni greitt frá, hvussu samstarvið um henda trupulleika kann fyribyrgjast og virka í praksis.</p>
+<p>Filmsbrot</p>
+<p type="listitem">•  Vit mæla til, at arbeitt verður við at gera eitt kunnandi filmsbrot um trupulleikan</p>
+<p>við óskynsamari antibiotikanýtslu og anti-biotikamótstøðuføri. Filmsbrotið kann til</p>
+<p>dømis verða víst í <span type="quote">“Gevið gætur”</span> í Kring-varpið Føroya og deilt á sosialu miðlunum.</p>
+<p><em type="italic">Luttøka í árliga globala antibiotika átakinum í viku 46 (tilmæli 7.2)</em> </p>
+<p>Kunning til borgaran (plakatir, smárit, kunningarskermar)</p>
+<p type="listitem">•  Mælt verður til at biðja um loyvi til at brúka viðkomandi tilfar so sum plakatir og smárit frá danska Sundhedsstyrelsen,</p>
+<p><em type="italic">Gera tilfar klárt til antibiotikadagin í november í samstarvi við “antibiotikaellerej” í Dan mark. Gera avtalu um at fáa partar av danska tilfarinum umsett til føroyskt, so leiðis at vit hava somu átaks økir sum í Danmark.</em> </p>
+<p>sum so skal umsetast føroyskt. Í fyrsta umfari verður mælt til at umseta donsku</p>
+<p>faldararnar, sum vórðu gjørdir í sambandi við  anti biotika vikuna í 2017 í Danmark.</p>
+<p>Talan er um fylgjandi faldarar:</p>
+<p type="listitem">•  Ígerðarsjúka í andaleiðini hjá børnum</p>
+<p type="listitem">•  Hosti hjá vaksnum •  Bløðrubruni hjá kvinnum</p>
+<p>Í hesum føri er í høvuðsheitum talan um kunn ingartilfar, sum skal vera tøkt í viðtaluhølum hjá kommunulæknum og hjá 1870.</p>
+<p>Sosialir miðlar</p>
+<p type="listitem">•  Í mun til kunning til borgarar verða sosialir miðlar ofta nýttir, og mæla vit til at nýta</p>
+<p>Reinføri á stovnum</p>
+<p type="listitem">•  Framhaldandi at hava sjóneykuna á týdningin av reinføri, serliga hondreinføri millum annað á røktarheimum, barna</p>
+<p>gørðum, vøggustovum og skúlum og tílíkum stovnum. Hetta við tí endamáli</p>
+<p>at fyri byrgja smittu, og harvið minka um nýtsluna av antibiotika.</p>
+<p>facebook síðuna hjá Lands sjúkra húsinum og hinum báðum sjúkra hús unum, ella</p>
+<p>gera ein facebook-, instagram- ella twittersíðu, har kunnandi tilfar um anti</p>
+<p>biotika nýtsu  og  antibiotika mótstøðu føri verður lagt út.</p>
+<p><em type="italic">Luttaka í árligu norðurlendsku reinførisvikuni (tilmæli 7.3)</em> </p>
+<p><em type="italic">Í norðurlendskum høpi verður skipað fyri reinførisviku í viku 38. Endamálið við tiltakinum er at leggja áherðslu á týdn ingin av reinføri á stovnum og arbeiðs plássum. Arbeiðsbólkurin mælir til, at vit í Føroyum eisini eru við í hesum tiltakinum.</em> </p>
+<p><em type="italic">Í hesum sambandi er tørvur á at gera viðkomandi tilfar, um praktiska handfaring av smittum, sum ofta koma fyri í dag stovnum og skúlum.</em> </p>
+<p>Gigni – Heilsufrøði til børn &amp; ung   Globalt antibiotikaátak viku 46 – 12.- 18. november</p>
+<p>8. FYLGISKJØL</p>
+<p>FYLGISKJAL 1 – SKRIV FRÁ FØROYA TANNLÆKNAFELAG</p>
+<p><em type="italic">Klaksvík 25. juni 2018</em> </p>
+<p>Frá Føroya Tannlæknafelag</p>
+<p>Takk fyri at Tannlæknafelagið er tikið við upp á ráð viðvíkjandi gerð av vegleiðing um anti biotikanýtslu í Føroyum.</p>
+<p>Sum avtalað á fundinum, skrivi eg stutt, hvussu tannlæknar brúka antibiotika.</p>
+<p>Øll ordinatión av antibiotika er gjøllað um hugsað av tannlæknanum. Tannlæknin metir í hvørjum einstøkum føri um aktuellu støð una. Metingin verður onkuntíð gjørd í sam ráð við lækna, og onkuntíð er støðan tikin av lækna. Antibiotika verður ikki brúkt sum rutina.</p>
+<p>Eingin grund er til at uppfinna djúpa tallerkin fleiri ferð. Tannlæknar í FO hella seg mikið væl upp at donsku vegleiðingunum á promedicin.dk og brúka eisini National kliniisk retnings linje for brug af antibiotika ved tandlægebehandling (NKR).</p>
+<p>Tannlæknar brúka mest phenoxymytylpenicillin og metronidazol, alternativ er clindamycin.</p>
+<p>Amoxicillin verður brúkt um bak teriæmi ikki skal koma fyri (t.d. sum endocarditisprofylaksa).</p>
+<p>Vit brúka í høvuðsheitum antibiotika:</p>
+<p xml:lang="dan">Fyribyrgjandi antibiotika:</p>
+<p type="listitem">•  Tá antibiotika verður brúkt profylaktiskt verður givið: vaksin: 2g amoxicillin</p>
+<p>1)  fyribyrgjandi 2)  sum viðgerð av ígerð í/frá tonnum ella í/frá tannhaldi ella umliggjandi vevnaði.</p>
+<p>(børn 50mg/kg) •  1 tíma áðrenn viðgerð, við allergi verður</p>
+<p>givið: vaksin 500mg clarithromycin  (børn 7,5mg/kg)</p>
+<p type="listitem">•  1 tíma áðrenn viðgerð.</p>
+<p>Fyribyrgjandi antibiotika verður brúkt, tá opererað verður í inficeraðum øki, ella um talan er um stór inngreb (frakturkirurgi ella ortokir). Her verður profylaktiskt antibiotika brúkt, eisini um pt. annars er frískur.</p>
+<p>Er vandi fyri infektiøsum endocarditis (t.e. hevur pt.: áður haft endocarditis, kunstigar hjarta klaffar, ávísan viðføddan hjartafeil) verður antibiotikaprofylaksa eisini brúkt.</p>
+<p>Patientarnir, sum skulu hava endocarditisprofylaksu, hava aloftast skrivlig ella munnlig boð frá lækna um støðuna.</p>
+<p>Seinnu árini hava fleiri alloplastikpatientar og hjartastent/pacemakara patientar somu munn ligu boð frá lækna um antibiotikapro fylaksu so og so leingi (varierar nakað) aftan á alloplastik ella hjartaoperatión. Her hevði verið gott við greiðari vegleiðing.</p>
+<p>Antibiotikaprofylaksa av immuns upprimer aðum patientum, medicinskt kompromitter aðum patientum og annars al ment veikum patientum, her vurderar tann læknin í hvørjum ein støkum føri evt. í samráð við lækna, í hvønn mun neyðugt er við antibiotika profylaksu. Immuns upprimer aðir patientar hava oftast onkur leys munnlig boð frá lækna. Í hesum patient bólkinum má vur derast, um profylaksan er amoxicillin ein gangs dosis (ella alternativ), ella um pt. skal dekkast inn við antibiotikakuri.</p>
+<p xml:lang="dan">Terapeutiskt antibiotika:</p>
+<p>Sum oftast er hetta sum liður í viðgerð av abcess, talan kann tó vera um aðra akutta ígerð.</p>
+<p>Antibiotika verður givið:</p>
+<p type="listitem">•  Um almennstøðan hjá patientinum er ávirkað (fepur, adenitis, trismus, vaksandi hevilsi, dánilsi).</p>
+<p type="listitem">•  Um vurderað verður, at infektiónin kann spreiða seg.</p>
+<p type="listitem">•  Um abcessin er stór.•  Um abcessin ikki kann drenerast.</p>
+<p type="listitem">•  Um pt. er í ávísari hemostatika viðgerð (t.d. kollagen), sum økir um vandan fyri</p>
+<p>infektión.•  Um individuel meting av tannlækna</p>
+<p>viðgerð saman við heilsustøðuni hjá patientinum talar fyri</p>
+<p type="listitem">•  antibiotikaviðgerð.•  Um talan er um osteomyelitis,</p>
+<p>osteonekrosu, aktinomykosu ella aggresivan parodontitis. Hetta</p>
+<p type="listitem">•  er specialistuppgáva.</p>
+<p>Vanliga verður givið: phenoxymethylpenicillin 660mg saman við metronidazol 500mg, 3xdgl í 3 dagar. Alternativ er clindamycin 300mg, 3xdgl í 3 dagar. Tó kunnu 3 tey síðstu punkt ini krevja aðra behandling, evt. av sertannlækna ella í samráð við sertannlækna ella lækna.</p>
+<p><em type="bold">Ógvislig akut nekrotiserandi gingivitis/</em> <em type="bold">paro dontitis</em> við ávirkaðum almenntilstandi, fepuri og/ella um pt. er HIV positivur: </p>
+<p>Depuratión skal supplerast við metronidazol 500mg 3xdgl í 6 dagar ella til grøðing.</p>
+<p><em type="bold">Marginal parodontitis:</em> </p>
+<p>Her kann hjá vaksnum supplerast við metronidazol, um nøktandi úrslit ikki fæst við  kon  ventionellari  paviðgerð.</p>
+<p><em type="bold">Antibiotikabrúk í samband við exartikulatión/avulsión av vaksnamanna tonnum:</em> </p>
+<p>Her er neyðugt hjá tannlæknanum at geva anti biotika. Vaksin og børn yvir 12 ár: phenoxymethylpenicillin 600mg 3xdgl í 7 dagar (alternativ: clindamycin 300mg 3xdgl í 7 dagar).</p>
+<p>Børn undir 12 ár: phenoxymethylpenicillin (3366mg/kg/døgn p.o deilt á 24 skamtar/ døgn í 7 dagar) evt amoxicillin (4090mg/ kg/døgn p.o. deilt á 3 skamtar/døgn í 7 dagar). (Við allergi:</p>
+<p>Clindamycin: Børn&gt;30kg 15mg/kg (tó ikki meir enn vaksnamannadosis) deilt á 3 skamt ar/døgn í 7 dagar).</p>
+<p>Eg snakki út frá einum patienthópi, har ein stórur partur av patientunum eru úti sigl arar, og ein partur (kanska ikki so stórur) býr temmiliga isolerað á útoyggj. Hetta gevur av bjóð ingar, sum krevja individuellar vurderingar, sum neyðugt er at hava møguleika at gera (læknar eru í akkurát somu støðu).</p>
+<p>Hetta var í stuttum tað, haldi eg. Vóni ikki eg havi gloymt nakað. Eg rokni tó við at síggja</p>
+<p>Vegleiðingina, áðrenn hon endaliga verður viðtikin. Kanska kunnu starvsfelagir mínir fáa høvi at kommentera fyri mær áðrenn enda liga  viðtøku.</p>
+<p>Vit vilja sjálvandi vera við í arbeiðinum at mini mera menningina av mótstøðuførum bak  terium. Vit eru absolutt innforstaðin við at behandla so smalspektrað og so stutt,sum til ber.</p>
+<p>Sum eg skilti á fundinum, so bleiv meir antibiotika brúkt í DK enn í FO. Í DK skriva tann  læknar 6% av antibiotikainum út. Tann læknar í FO standa fyri uml. 5% av saml aðu nýtsl uni. Um hædd verður tikin fyri, at tannstøðan í FO er verri enn í DK, so gleðist eg eina lítla løtu um, at føroyskir tann læknar klára seg væl. Og vit vilja gera tað upp aftur betur.</p>
+<p>Vh Jonna Sjúrðaberg</p>
+<p><em type="italic">forkvinna í Tannlæknafelagnum</em> </p>
+<p>FYLGISKJAL 2 – SKRIV FRÁ LANDSDJÓRALÆKNANUM</p>
+<p>FYLGISKJAL 3 – EIN ÚTGREINING AV ANTIBIOTIKA NÝTSLUNI Í FØROYUM</p>
+<p><em type="bold">Antibiotikanýtsla á primera heilsugeiranum </em></p>
+<p>Samlaða antibiotikanýtslan var 13,9 døgndosir pr. 1000 íbúgvar um dagin (DID) í 2016. Nýtslan í 2017 var 13,7 DID. Nýtslan er fallin frá 14,5 DID í 2012 til 13,7 DID í 2017. Hagtølini frá 2015 kunnu verða ivasom vegna nýggja skipan á apoteks verkinum hetta árið. Primergeirin stendur fyri 90% av samlaðu nýtsluni og hevur tí stóra ávirkan á nýtslu mynstrið í landinum.</p>
+<p>Samanbering av samlaðu antibiotikanýtsl una við onnur Norðurlond sæst í mynd 3.1 frá Nomesco (Nordic MedicoStatistical Committee). Hesin figururin vísur tó nýtsluna fyri bæði primera og sekundera geiran saman. Samlaða nýtslan av antibiotika sær út til at verða fallandi frá 2005 til 2015 í Føroyum. Tó síggja vit eisini, at penicillinir eru fallandi samanborið við, at penicillinir eru vaksandi í Danmark frá 20052015. Í fleiri ár hevur í Danmark verið stórt fokus á antibiotikanýtsluna, sum sæst á nýtsluni av meira smalspektraðum antibiotika. Samlaða nýtslan í Norra og Svøríki er tó lægri enn nýtslan í Føroyum. Eisini hava hesi londini haft fokus á antibiotikanýtsluna í fleiri ár. <em type="bold">Nýtslan av ávísum antibiotikatilbúningum </em></p>
+<p>I 2017 var betalactamasefølsom penicillin (Vpenicillin) framvegis størsti bólkur, ið varð nýttur við 4,3 DID, sum svarar til 31% av saml aðu nýtsluni. Næst mest nýtti bólkur er pen icillinir við víðkaðum spektrum, ein nýtsla á 1,8 DID, sum svarar til 13% av samlaðu nýtsluni. Samlaði bólkurin av penicillinum, bæði smalspektrað og við víðk aðum spektrum, er í alt 8,35 DID, sum svarar til 61% av samlaðu nýtsluni og fram vegis er størsti parturin av antibiotikanýtsluni.</p>
+<p>Meðan betalactam følsom penicillinir hava verið fallandi síðani 2010, hava kombinatións penicillini innihaldandi betalactamasuhemmarum verið vaksandi. Kombinatións penicillin ini eru vaksin frá 0,19 DID í 2010 til 0,82 DID í 2017, </p>
+<p>Samlað antibiotikanýtsla á primergeiranum</p>
+<p>14.8</p>
+<p>14.6</p>
+<p>14.4</p>
+<p>14.2</p>
+<p>13.8</p>
+<p>13.6</p>
+<p>13.4</p>
+<p>13.2</p>
+<p>Ár Makrolidir er næststørsti bólkurin, ið verður nýttur í Føroyum á primerageiranum. Í 2017 var 1,4 DID av makrolidum svarandi til 10% av samlaðu nýtsluni.</p>
+<p>Sulfonamidir er 3. størsti bólkurin av antibiotika, ið verður nýttur. Í 2017 var 1,2 DID nýtt svarandi til 9% av samlaðu nýtsluni. Nýtslan av sulfonamidum er lág í okkara granna londum. Orsøkin til, at nýtslan av sulfona midum er relativ høg í Føroyum, er, at fleiri ókompli seraðar UVI verða við gjørdar við sulfonamidum. Í okkara granna londum verður UVI ofta við gjørt við pivmecillinam. Orøkin til, at pivmecillinam ikki verður nýtt líka ofta í Føroyum, er grund að á CTD sjúkuna.</p>
+<p>Samanborið við Danmark, er stórur vøkstur av penicillinum við víðkaðum spektrum, hetta er grundað á meira nýtslu av Selexid. Í Dan mark verður selexid viðmælt sum fyrsta val til viðgerð av UVI. Eisini sæst, at nýtslan av sulfona midum minkar í samsvari við, at nýtslan av Selexid økist í Danmark.</p>
+<p>Tetracyclinir er 4. størsti bólkurin, ið verður nýttur. Í 2017 var 1.2 DID nýtt, sum er 9% av samlaðu nýtsluni. Viðgerð fyri akne hjá ungum er framvegis drívmegin fyri nýtsluni av Tetracyclin.</p>
+<p>Fluoroquinolonir er eisini við í teimum ofta nýttu antibiotikaviðgerðunum. National Health Authority bólkar fluoroquinolonir undir <span type="quote" xml:lang="dan">“kritisk antibiotika”</span>, ið elva til resistens. Fluoroquinolonir skulu bert nýtast í ávís um førum eftir viðgerðavegleiðingar.</p>
+<p>Nýtslan av fluoroquinolonum var 0,4 DID í 2010. Í 2013 var nýtslan 0,48 DID. Fluoroquinolonir er í stórum fokus í okkara granna londum, og hevur nýtslan í Danmark seinastu árini verið minkandi. Nýtslan er ikki broytt nógv seinastu 3 árini, tó kundi tað sæð út til, at nýtslan veksur heldur enn at minka í Føroyum. Grundin til hendan vøkstur í 2013 kann verða, tí pivmecillinam ikki varð skrásett til nýtslu frá 2010 til 2013, tá hetta aftur varð loyvt, men bert, um sjúklingurin hevði eitt carnitinvirði yvir 10.</p>
+<p><em type="bold">Antibiotikanýtsla á sjúkrahúsunum </em></p>
+<p>Sjúkrahúsmynstrið er seinastu árini broytt. Færri seingjardagar og sjúklingarnir, ið verða innlagdir, eru sjúkari. Í miðal eru sjúklingarnir innlagdir færri dagar. Selektións trýstið fyri antibiotikaresistens veksur í sam svari við vaksandi aktivitetin á hospital inum. Hóast 90% av samlaðu antibiotikanýtsluni er í primerageiranum, er sekeltións trýstið munandi størri á hospitalunum. Í øðrum london, har tey fylgja resistensi sera tætt, síggja tey stóran vøkstur av resistentum bakterium á hospitalunum sein astu  árini.</p>
+<p>Samlaða antibiotikanýtslan er vaksin frá 36 DBD í 2012 til 56 DBD í 2017. Nýtslan er stabiliserað seinastu tvey árini. Hagtølini frá 2015 kunnu verða ivasom vegna nýggja skipan á apoteksverkinum hetta árið.</p>
+<p>Í eini verkætlan á Landsjúkrahúsinum vórðu allir innlagdir sjúklingar kannaðir og noter aðir, um teir vóru í antibiotikaviðgerð. Endamálið við verkætlanini var at implementera Antibiotic Stewardship Program á Landssjúkrahúsinum. Nýtslan bleiv skráðsett áðrenn og aftan á implementeringina. 41% av sjúklingunum vóru í penicillinviðgerð í fyrra tíðarskeiðinum og 51% í seinna tíðarskeiðinum. 25% av sjúklingunum, ið vóru í antibiotikaviðgerð á Lands sjúkra húsinum vóru í viðgerð við cefalosporinum áðrenn implementeringina, og talið fall til 19% eftir implementeringina. Hendan verkætlanin vísti, hvussu nógv nýtslan broyttist meira rationelt við Antibiotic Stewardship Program.</p>
+<p>Àr</p>
+<p>DANMAP setur serliga fokus á 3. breiðspektraða antibiotika á Lands sjúkrahús inum, cefuroxim, ciprofloxacin og meropenem, sum koma undir bólkin ‘kritiske antibiotika’. Sam bært DANM</p>
+<p>Cefuroxim er møguliga minkandi seinastu árini, men er nýtslan tó nógva ferðir hægri enn málið, Region Hovedstaden hevur sett sær um nýtsluna av cefalosporinum. Í 2017 er er nýtslan 142 DBD. Nordsjællands Hospital hevur sett sum mál, at tað ikki skal nýtast meira enn 25 DDD/1000 seingjardagar av cefalosporinum og quinolonum. Um vit samanbera nýtsluna av cefuroxim á Landssjúkrahúsinum við hetta málið, nýta vit á leið 6 ferðir meira av breiðspektraðum cefuroxim.</p>
+<p>Nýtslan av ciprofloxacin var 8% av samlaðu nýtsluni í 2016 og 9% av samlaðu nýtsluni í 2017. Nýtslan av meropenem var 4% í bæði 2016 og 2017.</p>
+<p>Samlaða nýtslan er vaksin 64% frá 2010 til 2017 á Landssjúkrahúsinum. Í serligum fokusi eru breiðspektraðu cefuroxim, ciprofloxacin og meropenem. Nýtslan av cefuroxim er 25% av samlaðu nýtsluni á Landssjúkrahúsinum í 2017. Ciprofloxacin er stabil seinastu tvey árini, 9% av samlaðu nýtsluni í 2017 og nýtslan av meropenem er 4% bæði í 2016 og 2017.</p>
+<p>Umráðandi er, at arbeitt verður við at minka um nýtsluna av breiðspektraðum antibiotika bæði í primera heilsugeiranum og á sjúkrahúsunum. Tað vil siga,  antibiotika so sum cephalosporinum, quinolonum og meropenem.</p>
+<p>Ein útgreinað lýsing av antibiotikanýtsluni í Føroyum er í fylgiskjali 3. Skandinavisku londini hava lutfalsliga høga nýtslu av smalspektraðum pensillinum. Hesi londini hava eisini í fleiri ár arbeitt við at fáa eina skynsamari nýtslu av antibiotika bæði á primera heilsugeiranum og á sjúkrahúsunum. Norra, Svøríki og Danmark hava sett sum mál at  minka antibiotikanýtsluna, bæði samlaðu nýtsluna og nýtsluna av breiðspektraðum antibiotika.</p>
+<p>Beta-lactamase-følsom penicillin (V-penicillin) er framvegis størsti bólkur, ið varð nýttur við 4,3 DID, sum svarar til 31% av samlaðu nýtsluni.  Sulfonamidir er 3. størsti bólkurin av antibiotika, ið varð nýttur í 2017 svarandi til 9% av samlaðu nýtsluni. Í Føroyum hava vit lutfalsliga høga nýtslu av sulfonamidum í mun til okkara grannalond, men orsakað  av mótstøðuføri hjá umleið einum triðingi av borgarunum, eru sulfonamidir ikki besta valið at nýta til viðgerð.</p>
+<p>Hóast høga mótstøðuføri fyri sulfonamidum, verður tað, í størri mun enn í okkara grannalondum, brúkt til viðgerð av bløðruígerð í staðin fyri pivmecillinam, sum er fyrsta val til viðgerð av bløðruígerð. Í høvuðsheitum er orsøkin til hetta, at tað er staðfest, at ein partur av føroyingum hevur CTD (Carnitin Transporter Deficiency).</p>
+<p>Viðgerð við pivmecillinam kann hava við sær, at carnitin-støði í kroppinum lækkar, tí kann viðgerð við pivmecillinam verða sera vandamikil fyri fólk við CTD. Sum avleiðing av hesum hevur Landslæknin álagt læknunum, at skráseta carnitin-støðið hjá sjúklinginum á ávísingina, hvørja fer pivmecillinam verður ávíst.</p>
+<p>Av tí, at tað eru fleiri føroyingar, sum enn ikki hava latið seg kannað fyri CTD, og/ella at kanningarúrslitið ikki er skrásett í sjúklingaskránni, hevur hetta við sær, at tað er lættari og skjótari hjá læknunum at ávísa sulfonamidir.</p>
+<p xml:lang="dan">J01 D, Cefalosporin og carbapenem nýtsla LS</p>
+<p>31.00%</p>
+<p>30.00%</p>
+<p>29.00%</p>
+<p>28.00%</p>
+<p>27.00%</p>
+<p>26.00%</p>
+<p>25.00%</p>
+<p>24.00%</p>
+<p>23.00%</p>
+<p>22.00%</p>
+<p>Ár</p>
+<p>FYLGISKJAL 4 – ÚTGERÐ Í KOMMUNULÆKNAVIÐTALUM</p>
+<p>Tilfar, sum allar kommunulæknaviðtalur í landinum sum krav skulu hava:</p>
+<p type="listitem">•  CRP •  StrepA</p>
+<p type="listitem">•  Stix •  Tympanometri</p>
+<p>Tilfar til at taka fylgjandi royndir:</p>
+<p type="listitem">•  Landdyrkan</p>
+<p type="listitem">•  Potanir •  Klamydia/gonococ</p>
+<p type="listitem" xml:lang="dan">•  Ekspektorat</p>
+<p>Møguleika til at ávísa til laboratoriið at gera kanning fyri:</p>
+<p type="listitem">•  Patogenar tarmbakteriur •  Ebstein Barr virus: akut eisini í vakt so leingi laborantur er inni á sjúkrahúsinum.</p>
+<p>FYLGISKJAL 5 – ORÐALISTI</p>
+<p>OrðFrágreiðing</p>
+<p xml:lang="dan">AgensEvni</p>
+<p>AknePirrur – ein húðsjúka, sum ofta rakar tannaringar</p>
+<p>AnamnesaSjúkrasøga Anatomiska terapeutiska kemiska (ATC)Klassifisering av heiluvági Antibiotic Stewardship Program (ASP)Eitt program, ið er ætlað at rationalisera antibiotikanýtsluna AuditEin vísindarligur kanningarháttur</p>
+<p>Beiðspektrað penicillinPenicillin, ið rakar breitt Clostridium difficileEin bakteria</p>
+<p>CTDCarnitin Transportar Defekt DANMAPDonsk raport um antibiotika og resistens (latin út árliga)</p>
+<p>EbolaEitt sera vandamikið virus EndemiskÚtbrot av umfarssjúku lokalt</p>
+<p>EnterokokkarEnterokokker – ein bakteria, sum er partur av tí normalu tarmflorini hjá</p>
+<p>menniskjum og djórum</p>
+<p>HumanAv fólki Know-howVitan um</p>
+<p>Koloniserað Eru berari av LandrásígerðBruni í landrásini</p>
+<p>LassaEitt sera vandamikið virus</p>
+<p>MALDI-TOF tøkniEin kanningarháttur MikrobeMikroorganisma</p>
+<p>MonitoreraðHava eftirlit við MRSAMethicillin Staphylococcar Areus Mulitresistentar Staphylococcar Areus</p>
+<p>Multimorbidar grunnsjúkurFólk, sum hava fleiri kroniskar sjúkur Multiresistentar bakteriurBakteriur, ið hava útviklað resistens fyri flestu ella øllum antibiotika</p>
+<p>NomescoNordic Medico-Statistical Committee OrdineraÚtskriva heilivág</p>
+<p>ParakliniskMátingar av sjúku PatogenSjúkuagens – sjúkuelvandi</p>
+<p>PCRPolimerase Chain Reaction – gen-opformeringsteknikkur PLIDatabase til kliniskar vegleiðingar á Landssjúkrahúsinum</p>
+<p>Primeri heilsugeirin Heilsuverkið uttanfyri sjúkrahúsini</p>
+<p>SARSEitt andaleiðssyndrom, atvolt av virusígerð SelektiónstrýstTrýst í selekterar – klára at standa ímóti</p>
+<p>SepsisLívshættisligur tilstandur við ígerð, sum hevur spjatt seg til blóðið Smaltspektrað penicillinPenicillin, ið bert rakar nakrar ávísar bakteriur</p>
+<p xml:lang="dan">SSIStatens Serum Institut</p>
+<p>TarmfloraInnvølagróður (lívvirkisligar bakteriur í gørnunum) UVIUrinvejsinfektion – Bløðrubruni</p>
+<p xml:lang="dan">VeterinærAv djóri VREVancomycin-resistente enterococcar</p>
+<p>WHOHeimsheilsustovnurin</p>
+<p>FYLGISKJAL 6 – LEINKJUR</p>
+<p>Leinkjur til útlendskar tilvísingar:</p>
+<p><em type="bold">Antibiotikavejledning Lommeformat (FO) í PLI á Landssjúkrahúsinum: </em></p>
+<p type="listitem" xml:lang="dan">•  http://heimabeitid/sites/pli/Sider/Antibiotikavejledning. Antibiotic Stewardship Program</p>
+<p type="listitem">•  Antibiotikaviðgerð (Antibiotikabehandling) – mannagongd (FO) í PLI á Landssjúkrahúsinum. •  http://heimabeitid/sites/pli/Sider/Antibiotikaviðgerð-(Antibiotikabehandling)-mannagongd.</p>
+<p xml:lang="dan">Antibiotic Stewardship Program</p>
+<p><em type="bold">Útlenskar instruksir t.d. frá Norðanlondum: </em></p>
+<p type="listitem" xml:lang="dan">•  Medicin.dk (DK)--&gt; Vejledning i brug af antibiotika</p>
+<p type="listitem" xml:lang="dan">•  http://pro.medicin.dk/Specielleemner/Emner/318019 •  Dsam.dk (DK) --&gt; Kliniske vejledninger</p>
+<p type="listitem" xml:lang="dan">•  http://www.dsam.dk/flx/vejledninger/kliniske_vejledninger/ •  Rads.dk (DK) (Behandlingsvejledning for hensigtsmæssig anvendelse af antibiotika i almen</p>
+<p xml:lang="dan">praksis, nedre luftvejsinfektioner, akut bronkitis, pneumoni, kol-exacerbration)•  http://rads.dk/media/3995/beh-antibiotika-lrti-quick-guide-267963.pdf</p>
+<p type="listitem" xml:lang="dan">•  http://rads.dk/media/4094/antibiotika-bgn-11-259761.pdf •  Infmed.dk (DK) --&gt; guidelines</p>
+<p type="listitem" xml:lang="dan">•  http://www.infmed.dk/guidelines •  Infektion.net (SE) --&gt; vårdprogram</p>
+<p type="listitem" xml:lang="dan">•  http://infektion.net/v%C3%A5rdprogram-infektionssjukdomar •  Norska HeLandssjúkrahúsiðedirektoratet (NO)--&gt; nasjonale retningslinier</p>
+<p><em type="bold">Sjúkrahús (NO): </em></p>
+<p type="listitem" xml:lang="dan">•  https://heLandssjúkrahúsiðedirektoratet.no/retningslinjer/antibiotika-i-sykehus</p>
+<p xml:lang="dan"><em type="bold">Praksis (NO): </em></p>
+<p type="listitem" xml:lang="dan">•  https://heLandssjúkrahúsiðedirektoratet.no/retningslinjer/nasjonal-faglig-retningslinje-forantibiotikabruk-i-primerheLandssjúkrahúsiðetjenesten</p>
+<p><em type="bold">Innan smittuverju:</em> </p>
+<p type="listitem">•  www.ssi.dk</p>
+<p type="listitem">•  www.sst.dk•  www.cdc.gov</p>
+<p>Virkisætlan fyrimótstøðuføri móti antibiotikaí heilsuverkinum í Føroyum</p>
+<p>www.himr.fo</p>
+<p>Heilsu- og innlendismálaráðið</p>
+<p xml:lang="dan">I S B N 978-99918-970-7-3</p>
+<p xml:lang="dan">Oktober 2018</p>
+<p>9 7 8 9 9 9 1 8 9 7 0 7 3</p>
+</body></document>

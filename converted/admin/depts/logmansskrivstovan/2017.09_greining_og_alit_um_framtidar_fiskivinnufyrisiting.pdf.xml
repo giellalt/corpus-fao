@@ -1,0 +1,714 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>11954</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2017.09 Greining og álit um framtíðar fiskivinnufyrisiting.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">GREINING OG ÁLIT </em></p>
+<p><em type="bold">UM </em></p>
+<p><em type="bold">FRAMTÍÐAR FISKIVINNUFYRISITING </em></p>
+<p><em type="bold">FISKIMÁLARÁÐIÐ UM HEYSTJAVNDØGUR 2017 </em></p>
+<p>INNIHALDSYVIRLIT</p>
+<p><em type="italic">INNIHALDSYVIRLIT ..................................................................................................................................... 2 </em></p>
+<p><em type="italic">FYRIMÁLI .................................................................................................................................................... 4 </em></p>
+<p><em type="italic">1. FISKIVINNUFYRISITINGIN Í FØROYUM ................................................................................................... 6 </em></p>
+<p><em type="italic">1.1. Fiskimálaráðið ................................................................................................................................. 6 </em></p>
+<p><em type="italic">1.1.1. Lógarheimild og játtan ............................................................................................................. 6 </em></p>
+<p><em type="italic">1.1.2. Bygnaður .................................................................................................................................. 7 </em></p>
+<p><em type="italic">1.1.3. Virkisøki ................................................................................................................................... 7 </em></p>
+<p><em type="italic">1.2. Vørn ................................................................................................................................................ 9 </em></p>
+<p><em type="italic">1.2.1. Lógarheimild og játtan ............................................................................................................. 9 </em></p>
+<p><em type="italic">1.2.2. Bygnaður ................................................................................................................................ 10 </em></p>
+<p><em type="italic">1.2.3. Virkisøki ................................................................................................................................. 11 </em></p>
+<p><em type="italic">1.3. Havstovan ..................................................................................................................................... 12 </em></p>
+<p><em type="italic">1.3.1. Lógarheimild og játtan ........................................................................................................... 12 </em></p>
+<p><em type="italic">1.3.2. Bygnaður ................................................................................................................................ 13 </em></p>
+<p><em type="italic">1.3.3. Virkisøki ................................................................................................................................. 13 </em></p>
+<p><em type="italic">2. FISKIVINNUFYRISITINGIN Í ÍSLANDI ..................................................................................................... 16 </em></p>
+<p><em type="italic">2.1. Atvinnuvega- og nýsköpunarráðuneytið ...................................................................................... 16 </em></p>
+<p><em type="italic">2.1.1. Lógarheimild og játtan ........................................................................................................... 16 </em></p>
+<p><em type="italic">2.1.2. Bygnaður ................................................................................................................................ 16 </em></p>
+<p><em type="italic">2.1.3. Virkisøki ................................................................................................................................. 17 </em></p>
+<p><em type="italic">2.2. Fiskistofa ....................................................................................................................................... 18 </em></p>
+<p><em type="italic">2.2.1. Lógarheimild og játtan ........................................................................................................... 18 </em></p>
+<p><em type="italic">2.2.2. Bygnaður ................................................................................................................................ 18 </em></p>
+<p><em type="italic">2.2.3. Virkisøki ................................................................................................................................. 19 </em></p>
+<p><em type="italic">2.3. Landhelgisgæsla Íslands ................................................................................................................ 20 </em></p>
+<p><em type="italic">2.3.1. Lógarheimild og játtan ........................................................................................................... 20 </em></p>
+<p><em type="italic">2.3.2. Bygnaður ................................................................................................................................ 20 </em></p>
+<p><em type="italic">2.3.3. Virkisøki ................................................................................................................................. 21 </em></p>
+<p><em type="italic">2.4. Hafrannsóknastofnun ................................................................................................................... 22 </em></p>
+<p><em type="italic">2.4.1. Lógarheimild og játtan ........................................................................................................... 23 </em></p>
+<p><em type="italic">2.4.2. Bygnaður ................................................................................................................................ 23 </em></p>
+<p>2</p>
+<p><em type="italic">2.4.3. Virkisøki ................................................................................................................................. 23 </em></p>
+<p><em type="italic">3. FISKIVINNUFYRISITINGIN Í NOREGI ..................................................................................................... 25 </em></p>
+<p xml:lang="dan"><em type="italic">3.1. Nærings- og fiskeridepartementet ............................................................................................... 25 </em></p>
+<p><em type="italic">3.1.1. Lógarheimild og játtan ........................................................................................................... 25 </em></p>
+<p><em type="italic">3.1.2. Bygnaður ................................................................................................................................ 25 </em></p>
+<p><em type="italic">3.1.3. Virkisøki ................................................................................................................................. 27 </em></p>
+<p xml:lang="dan"><em type="italic">3.2. Fiskeridirektoratet ........................................................................................................................ 27 </em></p>
+<p><em type="italic">3.2.1. Lógarheimild og játtan ........................................................................................................... 28 </em></p>
+<p><em type="italic">3.2.2. Bygnaður ................................................................................................................................ 28 </em></p>
+<p><em type="italic">3.2.3. Virkisøki .............................................................................................</em></p>
+<p><em type="italic">3.3. Kystvakta ....................................................................................................................................... 32 </em></p>
+<p><em type="italic">3.3.1. Lógarheimild og játtan ........................................................................................................... 32 </em></p>
+<p><em type="italic">3.3.2. Bygnaður ................................................................................................................................ 32 </em></p>
+<p><em type="italic">3.3.3. Virkisøki ................................................................................................................................. 33 </em></p>
+<p xml:lang="dan"><em type="italic">3.4. Havforskningsinstituttet ............................................................................................................... 34 </em></p>
+<p><em type="italic">3.4.1. Lógarheimild og játtan ........................................................................................................... 34 </em></p>
+<p><em type="italic">3.4.2. Bygnaður ................................................................................................................................ 34 </em></p>
+<p><em type="italic">3.4.3. Virkisøki ................................................................................................................................. 35 </em></p>
+<p><em type="italic">4. SAMANBERANDI GREINING ................................................................................................................. 37 </em></p>
+<p><em type="italic">4.1. Markamót millum stjórnarráð og undirskipaðar stovnar ............................................................. 37 </em></p>
+<p><em type="italic">4.2. Markamót millum undirskipaðar stovnar ..................................................................................... 39 </em></p>
+<p><em type="italic">5. UPPSKOT TIL FRAMTÍÐAR FISKIVINNUFYRISITING............................................................................... 40 </em></p>
+<p><em type="italic">5.1. Fiskimálaráðið ............................................................................................................................... 40 </em></p>
+<p><em type="italic">5.2. Sjófeingisfyrisiting ......................................................................................................................... 45 </em></p>
+<p><em type="italic">5.2.1. Stjórin..................................................................................................................................... 46 </em></p>
+<p><em type="italic">5.2.2. Fyrisitingareindin ................................................................................................................... 47 </em></p>
+<p><em type="italic">5.2.3. Eftirlitsdeildin ......................................................................................................................... 47 </em></p>
+<p><em type="italic">5.2.4. Loyvis- og hagtalsdeildin ........................................................................................................ 47 </em></p>
+<p><em type="italic">5.2.5. KT- og samskiftisdeildin ......................................................................................................... 48 </em></p>
+<p><em type="italic">5.3. Vørn .............................................................................................................................................. 49 </em></p>
+<p><em type="italic">5.4. Havstovan ..................................................................................................................................... 50 </em></p>
+<p><em type="italic">5.5. Samanumtøka ............................................................................................................................... 51 </em></p>
+<p><em type="italic">6. UPPSKOT TIL VERKSETANARÆTLAN..................................................................................................... 53 </em></p>
+<p><em type="italic">HEIMILDARFÓLK ...................................................................................................................................... 55 </em></p>
+<p>3</p>
+<p>FYRIMÁLI</p>
+<p>Høgni  Hoydal,  fiskimálaráðharri,  avgjørdi  í  vár,  at  farast  skuldi  undir  at  fyrireika skipanarligar og bygnaðarligar broytingar í føroysku fiskivinnufyrisitingini. Í uppriti um setning at gera greining og álit um framtíðar fiskivinnufyrisiting, sum fiskimálaráðharrin staðfesti hin 12. apríl 2017, er tilgongdin ásett eftir hesum setningi:</p>
+<p>- At  lýsa  skipan  og  bygnað  í  verandi  fiskivinnufyrisitingum  í  Føroyum,  Íslandi  og Noregi.</p>
+<p>- At  greina  samanberandi  skipan  og  bygnað  í  verandi  fiskivinnufyrisitingum  í Føroyum, Íslandi og Noregi.</p>
+<p>- At gera uppskot til nýggja skipan og bygnað fyri føroyska fiskivinnufyrisiting í mun til  tær  uppgávur  og  heimildir,  ið  verða  lagdar  til  fiskimálaráðharran  sambært lógaruppskoti um fyrisiting av  sjófeingi,  sum  eftir ætlan kemur í gildi 1. januar 2018.</p>
+<p>- At gera uppskot til verksetanarætlan fyri nýggja skipan og bygnað fyri føroyska fiskivinnufyrisiting.</p>
+<p>Sum  lið  í  fyrireikingunum  at  tilevna  eina  greining  og  álit  um  eina  framtíðar fiskivinnufyrisiting  í  Føroyum  hava  fundir  verið  við  avvarðandi  myndugleikar  í  Íslandi, Noregi og Føroyum.</p>
+<p>Í  Íslandi  vóru  fundir  í  Reykjavík  týsdagin  9.  mai  2017  við  ávikavist <em type="italic">Atvinnuvega-  og </em></p>
+<p><em type="italic">nýsköpunarráðuneytið</em>, <em type="italic">Hafrannsóknastofnun</em>  og <em type="italic">Landhelgisgæsla  Íslands</em>.  Somuleiðis </p>
+<p>var fundur sama dag í Hafnarfjörður við <em type="italic">Fiskistofa</em>. </p>
+<p>Í  Noregi  vóru  fundir  í  Bergen  hósdagin  1.  juni  2017  við <em type="italic">Fiskeridirektoratet</em>, </p>
+<p><em type="italic">Havforskningsinstituttet</em> og <em type="italic">Kystvakta</em>. Harumframt var fundur í Oslo fríggjadagin 2. juni </p>
+<p>2017 við <em type="italic">Nærings- og fiskeridepartementet</em>. </p>
+<p>Í Føroyum var fundur í Tórshavn fríggjadagin 7. juli 2017 í Fiskimálaráðnum við Vørn.</p>
+<p>Undirritaðu,  sum  hava  staðið  fyri  hesum  verki  hava  nomið  sær  hollan  kunnleika  um fiskivinnufyrisitingarnar  í  okkara  grannalondum  –  Íslandi  og  Noregi  –  har  vit  vóru</p>
+<p>4 serstakliga  væl  móttikin  í  einum  opnum  og  upplýsandi  anda.  Teirra  áralongu  royndir vístu  seg  at  vera  avgerandi  til  tess  at  tilevna  hesa  greining  og  hetta  álit  á  einum  so tryggum og eftirfarandi grundarlagi, sum gjørligt.</p>
+<p>Í viðgerðini hevur tað verið neyðugt at avmarka hesa greining og álit til ikki at fevna um framtíðarætlanirnar í Fiskimálaráðnum um at skipa ein Matís stovn í Føroyum og eina føroyska veðurstovu. Tískil verður eitt nú framtíðin hjá veðurstøðini sum deild í Vørn ikki viðgjørd.</p>
+<p>Loksins verða spurningar, ið hava við fyrisitingarligar mannagongdir og tilgongdir heldur ikki viðgjørdir vegna tess, at teir somuleiðis verða mettir at liggja uttan fyri setningin at gera greining og álit um framtíðar fiskivinnufyrisiting, sum fiskimálaráðharrin staðfesti hin 12. apríl 2017.</p>
+<p>Í Fiskimálaráðnum um heystjavndøgur 2017</p>
+<p>Herluf Sigvaldsson   Heri Joensen</p>
+<p>Ingibjørg Thomsen   Andras Marr Poulsen</p>
+<p>5</p>
+<p>1. FISKIVINNUFYRISITINGIN Í FØROYUM</p>
+<p>Í  hesum  parti  verður  fiskivinnufyrisitingin  í  Føroyum  lýst.  Greitt  verður  frá Fiskimálaráðnum,  Vørn  og  Havstovuni.  Serligur  dentur  verður  lagdur  á  lóg  og  játtan, bygnað og virkisøki.</p>
+<p>1.1. Fiskimálaráðið</p>
+<p>Fremsta uppgávan hjá Fiskimálaráðnum er at vera fyrisiting hjá fiskimálaráðharranum, harundir at virka sum umboð hjá honum og taka avgerðir hansara vegna, eitt nú tá ið samráðst verður um fiskirættindi.</p>
+<p>Fiskimálaráðharrin  er  ovasti  fyrisitingarligi  myndugleikin  á  hansara  málsøkjum. Uppgávan  hjá  ráðnum  er  umvegis  regluverk  at  skipa  málsøkini  í  deildir  og  stovnar. Sostatt er Fiskimálaráðið yvirskipað leiðsla og myndugleiki hjá undirskipaðum stovnum. Harumframt er Fiskimálaráðið kærumyndugleiki.</p>
+<p>Hóast ráðið skal virka yvirskipað innan málsøkini, stendur ráðið fyri avgreiðslum vendar ímóti borgaranum, harundir at avgreiða royndarloyvir og studningar.</p>
+<p>1.1.1. Lógarheimild og játtan</p>
+<p>Fiskimálaráðharrin er tilnevndur sambært § 27, stk. 2, í stýrisskipan Føroya og fyrisitur málsøkini  bjarging,  búnaðarmál,  fiskirannsóknir  og  gransking,  fiskiveiðieftirlit, fiskivinnumál, hvalamál, inntøkutrygd fiskimanna, tilbúgving og trygd eftir § 33, stk. 1, í stýrisskipan Føroya og Fráboðan nr. 109 frá 18. september 2015 um býti av málsøkjum landsstýrisins millum landsstýrismenninar, sum seinast broytt við fráboðan nr. 17 frá 21. mars 2017.</p>
+<p>Á  løgtingsfíggjarlógini  hevur  Løgtingið  játtað  Fiskimálaráðnum  14,1  mió.  kr.  at  útinna hetta virksemi. Fiskimálaráðið umsitur harumframt hesar árligu játtanirnar (1.000 kr.):</p>
+<p type="listitem"> Stuðul til bjargingarfeløg  2.000</p>
+<p type="listitem"> Fiskivinnuráð og nevndir</p>
+<p type="listitem"> Upplýsing um grind</p>
+<p type="listitem"> Hvalagransking    1.080</p>
+<p type="listitem"> Fiskivinnuroyndir   8.600</p>
+<p type="listitem"> Flutningsstuðul    2.200</p>
+<p type="listitem"> Útlán og virknar veðhaldsútreiðslur               -100</p>
+<p>6</p>
+<p>1.1.2. Bygnaður</p>
+<p>Fiskimálaráðið er skipað í eina stjórnarskrivstovu, eina fíggjar- og starvsfólkadeild, eina fiskivinnustovu og eitt samráðingartoymi.</p>
+<p>Stjórnarskrivstovan  er  felagsheitið  fyri  skrivstovuna  hjá  fiskimálaráðharranum, aðalstjóranum og skrivara teirra. Aðalstjórin er umsitingarligi leiðarin í Fiskimálaráðnum. Hann  er  ovasti  ráðgevin  hjá  fiskimálaráðharranum  og  hevur  ábyrgdina  av  dagligu leiðsluni,  rakstrinum  og  menningini  í  Fiskimálaráðnum.  Stjórnarskrivstovan  umsitur lutvíst búnaðarmál.</p>
+<p>Fíggjar-  og  starvsfólkadeildin  hevur  ábyrgd  av  fíggjarlógarfyrireiking  og  fíggjarstýring, bókhaldi, roknskaparreglugerð, rakstri, KT, starvsfólkamálum, skjalaskráseting, reingerð og  viðlíkahaldi.  Deildin  umsitur  málsøkini  bjarging,  tilbúgving  og  trygd  og  lutvíst búnaðarmál.</p>
+<p>Á fíggjar- og starvsfólkadeildin eru fimm starvsfólk, harav eitt teirra er niðursetta tíð.</p>
+<p>Fiskivinnustovan  hevur  ábyrgd  av  fiskirættindasamráðingum  við  onnur  lond  og økisfelagsskapum fyri fiskivinnuumsiting, umframt annað fiskivinnupolitiskt samstarv í norðurlondum,  útnorðri  og  altjóða.  Fiskivinnustovan  hevur  ábyrgd  av  menning  og dagføring av fiskivinnulóggávu og kunngerðum, sum skipa fiskiskapin, ið vinnan virkar eftir,  umframt  fiskivinnugransking,  ið  Fiskimálaráðið  luttekur  í.  Tað  verður  gjørt  við grundarlagi  í  skipanunum  fiskivinnuroyndir  og  royndarloyvi.  Fiskivinnustovan  umsitur málsøkini  fiskirannsóknir  og  gransking,  fiskiveiðieftirlit,  fiskivinnumál,  hvalamál  og inntøkutrygd fiskimanna.</p>
+<p>Á fiskivinnustovuni eru sjey starvsfólk, harav tvey teirra eru niðursetta tíð.</p>
+<p>Samráðingartoymið hevur ábyrgdina av strandarlandasamráðingum um uppsjóvarfiskasløgini  svartkjaft,  norðhavssild  og  makrel.  Samráðingartoymið  kann umboða  Fiskimálaráðið  í  altjóða  málum,  ið  kunna  setast  í  samband  við  handils-  og marknaðarpolitisk viðurskifti.</p>
+<p>Í samráðingartoyminum eru tvey starvsfólk.</p>
+<p>1.1.3. Virkisøki</p>
+<p>Her  kann  viðmerkjast,  at  Jacob  Vestergaard,  fiskimálaráðharri,  í <em type="italic">delegatiónsskrivi</em>  tók avgerð um at flyta fyrisitingina av fiskiloyvum til Vørn tann 16. august 2012. Í hesum sambandi vóru tvey starvsfólk flutt til Vørn. Síðani eru fleiri <em type="italic">delegatiónsskriv</em> send Vørn og verða í dag øll loyvir og allar eftirkanningar eftir lógini um vinnuligan fiskiskap gjørdar á Vørn. Eingi starvsfólk eru flutt í hesum sambandi. Ein orsøk til hetta er, at tað krevst </p>
+<p>7 neyvari stýring við kunngerðum, tá ið øki verða flutt til ein stovn og hevur hetta kravt nógva orku av starvsfólkunum eitt nú á fiskivinnustovuni.</p>
+<p>Fiskivinnustovan hevur sum áður sagt ábyrgd av fiskirættindasamráðingum við onnur lond  og  økisfelagsskapum  fyri  fiskivinnuumsiting,  umframt  annað  fiskivinnupolitiskt samstarv í norðurlondum, útnorðri og altjóða.</p>
+<p>Fiskivinnustovan  hevur  ábyrgd  av  menning  og  dagføring  av  fiskivinnulóggávu  og kunngerðum, sum skipa fiskiskapin, ið vinnan virkar eftir, umframt fiskivinnugransking, ið  Fiskimálaráðið  luttekur  í.  Tað  verður  gjørt  við  grundarlagi  í  skipanunum fiskivinnuroyndir og royndarloyvi.</p>
+<p>Fiskivinnustovan hevur ábyrgdina av yrkisligu ráðgevingini í Fiskimálaráðnum viðvíkjandi fiskivinnumálum,  sum  skal  stuðla  undir  fiskivinnupolitiskar  avgerðir  hjá fiskimálaráðharranum,  og  umsitur  og  mennir  fiskivinnulóggávuna  –  í  høvuðsheitum lógina um vinnuligan fiskiskap. Hetta fevnir harumframt um at skipa fyri, at kunngerðir verða gjørdar í samsvari við lógarásetingarnar. Virksemið á fiskivinnustovuni er sostatt fylgjandi:</p>
+<p type="listitem"> Vegna  Fiskimálaráðið,  fylgja  og  luttaka  í  fiskivinnupolitiskum  og  yrkisligum</p>
+<p>tilgongdum, sum røra seg í millumlanda og altjóða høpi</p>
+<p type="listitem"> Ábyrgdina av fiskivinnupolitikkinum í millumlanda og altjóða høpi</p>
+<p type="listitem"> Ábyrgdina  av  fiskirættindasamráðingum  við  onnur  lond  og  samráðingum  í</p>
+<p>økisfelagsskapum fyri fiskivinnuumsiting</p>
+<p type="listitem"> Ábyrgdina av føroysku luttøkuni í øðrum fiskivinnupolitiskum og yrkisligum høpi</p>
+<p>eitt nú útnorður, norðurlendskum, millumlanda og altjóða</p>
+<p type="listitem"> Útnorðurráðið í fiskivinnupolitiskum og yrkisligum høpi</p>
+<p type="listitem"> Norðurlendskt samstarv</p>
+<p type="listitem"> Samskipa luttøkuna hjá fiskimálaráðharranum í norðurlendska samstarvinum og</p>
+<p>í øðrum høpi</p>
+<p type="listitem"> Umsita fiskiídnaðarmál, harundir marknaðarviðurskifti í breiðum høpi</p>
+<p type="listitem"> Treytir  í  sambandi  við  sølu  av  fiski,  harundir  umhvørvismerking,  sporføri  og</p>
+<p><span type="quote" xml:lang="dan">”branding”</span></p>
+<p type="listitem"> Varða av granskingar- og menningarpolitikkinum hjá Fiskimálaráðnum</p>
+<p type="listitem"> Samskipa kunning um fiskivinnupolitisk og yrkislig viðurskifti</p>
+<p type="listitem"> Umsita játtanirnar til fiskivinnuroyndir og upplýsing um grind</p>
+<p type="listitem"> Ábyrgd av flutningsstuðli og inntøkutrygd fiskimanna, ið er lagt til ALS at umsita</p>
+<p>Samráðingartoymið hevur ábyrgdina av strandarlandasamráðingum um uppsjóvarfiskasløgini  svartkjaft,  norðhavssild  og  makrel.  Samráðingartoymið  kann</p>
+<p>8 umboða  Fiskimálaráðið  í  altjóða  málum,  ið  kunnu  setast  í  samband  við  handils-  og marknaðarpolitisk viðurskifti.</p>
+<p>1.2. Vørn</p>
+<p>Vørn er stovnur undir Fiskimálaráðnum, ið umsitur virksemi eftir lógini um vinnuligan fiskiskap,  harundir  umsiting  av  fiskiloyvum,  fiskidøgum  og  fiskiveiðieftirlit.  Harafturat umsitur Vørn leiting og bjarging á sjónum og veðurtænastu.</p>
+<p>1.2.1. Lógarheimild og játtan</p>
+<p>Sambært  løgtingslóg  nr.  28  frá  10.  mars  1994  um  vinnuligan  fiskiskap,  fyrisitur  Vørn fiskiveiðieftirlitið – eftirlit á sjógvi og landi.</p>
+<p>Harafturat  røkja  vaktarskipini,  Brimil  og  Tjaldrið,  hjá  Vørn  uppgávur  fyri umhvørvismyndugleikar og Sjóvinnustýrið.</p>
+<p>Játtanin til Vørn í 2017:</p>
+<p><em type="bold">1.000 kr. Játtan </em></p>
+<p><em type="bold">Fiskiveiðieftirlit (íroknaðar 26 mió. kr. til rakstur av vaktarskipunum) </em></p>
+<p>40.900</p>
+<p><em type="bold">Sjóbjarging / MRCC </em>11.900 <em type="bold">Veðurtænasta </em>4.400 <em type="bold">Tyrlutænasta </em>30.100 <em type="bold">Tilsamans 87.300 </em></p>
+<p>Her kann viðmerkjast, at um so var, at Tjaldrið skuldi havt sama virksemi sum Brimil, vildi tað ført við sær, at útreiðslurnar  høvdu hækkað við umleið 10  mió. kr. árliga, serliga orsakað av, at ein manning afturat skuldi umborð á Tjaldrið og fleiri útreiðslur høvdu verið til olju og annan rakstur.</p>
+<p>Kostnaðurin av at reka umsitingina av fiskiloyvum og eftirlitinum á landi er umleið 15 mió. kr. árliga, og kann raksturin býtast upp soleiðis:</p>
+<p>9</p>
+<p><em type="bold">Heiti Roknskapur 2016 </em></p>
+<p><em type="bold">Lønir o.a. </em>7.700 <em type="bold">Ferðing o.a. </em> <em type="bold">Telefon og satellitsamskifti </em>1.000 <em type="bold">Keyp av KT-tænastum </em>2.200 <em type="bold">Aðrar rakstrarútreiðslur </em>1.200 <em type="bold">Keyp av útbúnaði </em> <em type="bold">Húsaleiga </em>1.500 <em type="bold">Tilsamans 15.000 </em></p>
+<p>1.2.2. Bygnaður</p>
+<p>Stjóri</p>
+<p>GóðskuleiðariFíggjardeild</p>
+<p>2 fólk</p>
+<p>Løgdeild 2 fólkSamskipari</p>
+<p>GoymsluleiðariFiskiveiðieftirlit</p>
+<p>8 fólkVeðurstøðinMRCC</p>
+<p>17 fólk</p>
+<p>Vaktarskip 36 fólk</p>
+<p>Tað  sum  er  mest  viðkomandi  í  hesi  frágreiðing  er  deildin  fyri  fiskiveiðieftirlit.  Á  hesi deildini starvast:</p>
+<p>Deildarstjóri   Eftirlitsfólk    Fulltrúar   Skrivstovufólk</p>
+<p><em type="bold">Tilsamans    </em></p>
+<p>10 Fleiri av starvsfólkunum fáast við fleiri ymiskar uppgávur so tað kann verða trupult neyvt at meta um tal av starvsfólkum á hvørjum øki. Tískil er talið av starvsfólkum einans at meta sum ein leyslig meting.</p>
+<p>1.2.3. Virkisøki</p>
+<p>Virkisøkið hjá Vørn er býtt í trý. Leiting og bjarging, loyvisskipan og fiskiveiðieftirlit, og veðurtænasta.</p>
+<p>Fiskiveiðieftirlit á sjónum verður útint av vaktarskipum hjá Vørn og donsku sjóverjuni. Og kann henda uppgávan best samanberast við tað, sum sjóverja í øðrum londum tekur sær av. Umframt at útinna eftirlit í føroyskum sjógvi, luttaka føroysku vaktarskipini eisini í altjóða sjógvi. Her er serliga talan um NAFO og NEAFC skipanarøkini.</p>
+<p>Av uppgávum innan fyrisiting av fiskivinnulóggávu kunnu nevnast:</p>
+<p type="listitem"> Skráseting av fiskidøgum</p>
+<p type="listitem"> Skráseting av kvotum og hjáveiðikvotum</p>
+<p type="listitem"> Eftirlit og skráseting av kvotum á fjarleiðum</p>
+<p type="listitem"> Eygleiðaraskipan</p>
+<p type="listitem"> Fylgisveinaeftirlit við skipum</p>
+<p type="listitem"> Góðkenning av innvigingarskipanum</p>
+<p type="listitem"> Eftirlit við upp- og umskiping av frystum fiski <em type="italic">(Port State Control)</em> </p>
+<p type="listitem"> Eftirlit við avreiðingum hjá føroyskum skipum í útlendskum havnum</p>
+<p type="listitem"> Eftirlit  við  fiskiloyvum,  heruppií  fiskidøgum,  eginkvotum,  felagskvotum  og</p>
+<p>hjáveiðikvotum</p>
+<p type="listitem"> Avgreiða avhendingar av kvotum og fiskidøgum millum føroysk skip á heima- og</p>
+<p>á fjarleiðum</p>
+<p type="listitem"> Umsita fiskiloyvi, t.e. útskriva fiskiloyvir og ymsar eftirkanningar í sambandi við</p>
+<p>flyting av loyvum</p>
+<p type="listitem"> Skráseta avreiðingar- og vektarseðlar</p>
+<p type="listitem"> Krevja  gjøld  inn  í  sambandi  við  veiðigjøld  (uppsjóvarfiskiskapur  og  botnfiskur  í</p>
+<p>Barentshavinum)</p>
+<p type="listitem"> Eftirlit við fiskiskapinum hjá fremmandum skipum í føroyskum sjógvi</p>
+<p type="listitem"> Veiðidagbókaskipanin</p>
+<p type="listitem"> Tryggja, at avreiðingar um innvigingarskipanir á virkjum í Føroyum og uttanlands,</p>
+<p>eru í samsvar við veiðidagbøkurnar</p>
+<p>11 Álagt  er  Vørn  at  samstarva  við  eftirlitsmyndugleikar  í  øðrum  londum.  Av  øðrum uppgávum hjá Vørn, sum liggja upp at omanfyristandandi virksemi eru:</p>
+<p type="listitem"> Samstarva við MRCC um luttøku av skipunum hjá Vørn í leiti- og bjargingarátøkum</p>
+<p type="listitem"> Samstarva  við <em type="italic">Arktisk  Kommando  Forbindelseselement  Færøerne</em>  um  eftirlit  í </p>
+<p>føroyskum sjóøki</p>
+<p type="listitem"> Vørn hevur eisini sáttmála við Tryggingarfelagið Føroyar um samstarv. Uppgávur</p>
+<p>í hesum sambandi, snúgva seg mest um sleip og kavarahjálp</p>
+<p type="listitem"> Vørn  hevur  eisini  sáttmálar  við  aðrar  myndugleikar  um  eftirlit  við  eitt  nú</p>
+<p>burturkasti frá skipum og øðrum</p>
+<p>1.3. Havstovan</p>
+<p>Havstovan hevur sum endamál, at vera granskingarstovnur á hægsta vísindaliga støði. Skilja vistfrøðina í føroyskum sjógvi, við bestu gagnnýtslu fyri eyga. Styrkja grundarlagið fyri  ráðgeving  til  myndugleikarnar.  Menna  samstarvið  við  fiskivinnuna.  Við gjøgnumskygni støðugt at kunna um granskingarúrslit.</p>
+<p>Havstovan  skal  undir  lívfrøðiliga  burðardyggum  fyritreytum  gera  kanningar  av  livandi tilfeinginum og umhvørvi tess í føroyskum sjógvi og á havleiðum har føroyska fiskivinnan hevur  áhugamál.  Hetta  skal  verða  grundarlag  undir  at  kunna  landsins  myndugleikar, fiskivinnu  og  almenningin  um  granskingarúrslit,  og  ráðgeva  um  at  gagnnýta  livandi tilfeingið og umhvørvi tess.</p>
+<p>1.3.1. Lógarheimild og játtan</p>
+<p>Sambært  lóg  um  vinnuligan  fiskiskap  skal  Havstovan  á  hvørjum  ári  geva fiskimálaráðharranum  upplýsingar  viðvíkjandi  støðuni  í  fiskastovnunum  á  føroysku landleiðunum  og  á  havleiðum  uttan  fyri  føroysku  landleiðirnar,  sum  føroysk  fiskifør gagnnýta, og skal gera vísindaligar tilráðingar og metingar samsvarandi endamálinum í lógini.</p>
+<p>Játtanin til Havstovuna í 2017:</p>
+<p><em type="bold">1.000 kr. Játtan </em></p>
+<p><em type="bold">Havstovan </em>14.350 <em type="bold">Rakstur av Magnus Heinason </em>10.800 <em type="bold">Útgerð til Magnus Heinason (íløga) Tilsamans </em>25.750 </p>
+<p>12 Afturat  játtanini  fær  Havstovan  uttanhýsis  fígging  millum  4  og  7  mió.  kr.  árliga  til gransking, sum atknýttir granskarar standa fyri.</p>
+<p>1.3.2. Bygnaður</p>
+<p>Virksemið  á  Havstovuni  er  býtt  í  deildirnar  Botnfiskadeildin,  Uppsjóvardeildin, Umhvørvisdeildin, Tøkniliga deild, Fuglakanningarstøðin og Umsitingin.</p>
+<p>Starvsfólkatalið  á  Havstovuni  er  í  løtuni  34  starvsfólk,  harav  ein  stjóri,  trý  starvsfólk  í umsitingini, fimtan granskarar og onnur akademisk starvsfólk og trettan havlívfrøðiligir atstøðingar og onnur hjálparfólk. Av teimum eru 25 í føstum størvum, meðan restin er lønt  av  verkætlanum.  Eisini  eru  tvey  parttíðarsett  sum  royndartakarar  á landingarstøðum. Harumframt telur manningin á Magnusi Heinasyni fjúrtan fólk.</p>
+<p>1.3.3. Virkisøki</p>
+<p>Virkisøkini á Havstovuni eru víðfevnd. Ein týðandi partur eru afturvendandi kanningar, ið  verða  gjørdar  á  sama  hátt  ár  um  ár.  Slík  tíðarrøð  eru  neyðug  fyri  at  fáa  til  vegar dagførda  vitan  um  tilfeingi  og  tess  umhvørvi  og  fyri  at  skilja  tær  náttúrugivnu broytingarnar.  Sum  dømi  kunnu  nevnast  stovnsmetingar  og  lívfrøðiligar  kanningar  av fiski  og  sjófugli,  havfrøðiligar  kanningar,  ætikanningar,  vistfrøðiligar  kanningar  og yngulkanningar.  Hesar  kanningar  eru  grundarlag  undir  árligu  tilmælunum,  og  tað  er eisini í hesum starvi, at meginparturin av vitanini um tað livandi tilfeingið og umhvørvið verður fingin til vegar.</p>
+<p>Afturat hesum kanningunum hevur Havstovan ymiskt tíðaravmarkað virksemi, eitt nú granskingarverkætlanir  av  ymiskum  slagi,  ið  vinna  ella  myndugleikar  hava  tørv  á,</p>
+<p>13 tíðaravmarkað  áherðsluøki,  ið  stovnurin  ella  Fiskimálaráðið  meta  átrokandi  ella verkætlanir, ið gerast best saman við øðrum granskingarstovnum.</p>
+<p type="listitem"> <em type="italic">Stovnsmetingar </em></p>
+<p>Í  lógini  um  vinnuligan  fiskiskap  er  álagt  Havstovuni  á  hvørjum  ári  at  lata  tilmæli  um fiskiskap á landleiðini fyri komandi fiskiár. Eitt av grundarløgunum undir tilmælunum eru stovnsmetingar og veiðihagtøl av botnfiski. So hvørt, sum vitanin økist um vistfrøðiligu viðurskiftini, verður hon tikin við í tilmælini. Hetta fevnir bæði um magakanningar av fiski,  viðurskiftini  hjá  føði  í  sjónum  og  atferð  hjá  fiski.  Við  at  taka  inn  kunnleika  um stovnarnar  og  umhvørvi  teirra,  kunnu  tilmælini  og  forsagnirnar  gerast  betri  enn  við siðbundnu stovnsmetingunum einsamøllum. Havstovan er væl við í so máta og í tann mun  ráðini  eru  til  tað,  vil  stovnurin  leggja  orku  í  hesi  viðurskifti,  fyri  at  lata  so  góð heildartilmæli sum gjørligt úr hondum.</p>
+<p>Uppsjóvar vistskipanin er í broyting, og hetta ávirkar tilgongd og ferðing hjá uppsjóvar fiskastovnunum. Tá ið samráðast skal um okkara part av hesum tilfeingi, má vitan til. Vitan, ið fevnir um fiskastovnarnar sjálvar, umhvørvi teirra og ávirkan frá umhvørvinum á stovnarnar. Væl meira verður nú gjørt við kanningar av útbreiðslu av uppsjóvarfiski, magakanningar og umhvørvinum hjá uppsjóvarfiski í føroyskum sjóøki. Kanningarnar av uppsjóvarfiski eru nú skipaðar í egna deild, og fleiri fólk eru sett at taka sær av økinum, umframt at fólk, ið eru knýtt at øðrum deildum á Havstovuni eisini partvís fáast við hesar kanningar, ið eru tengdar at uppsjóvarfiski og tess vistskipan.</p>
+<p>Ein  týðandi  partur  av  stovnsmetingum  er  at  fáa  til  vegar  upplýsingar  um  einstøku árgangirnar í veiðuni, býtt upp á skipabólkar. Tað verður gjørt bæði fyri botnfiskastovnar og uppsjóvarstovnar og er sera tíðarkrevjandi.</p>
+<p>Fyri at gera eina fullfíggjaða stovnsmeting er neyðugt at fáa til vegar samlaðu veiðuna í tali og vekt fyri hvønn aldursbólk fyri hvørt fiskaslag. Hesar upplýsingar kunnu fáast við at taka stakroyndir av landaðari veiðu. Til hesar stakroyndirnar hevur Havstovan fólk á landingarstøðum, sum máta longd og vekt av einstøkum fiskum og senda Havstovuni tilhoyrandi  nytrur  til  aldursgreining  saman  við  upplýsingum  um  fiskifar  og  veiðiøki. Tilfarið  gevur  virðismiklar  upplýsingar  um  støddir  av  teimum  einstøku  árgangunum, vøkstur, tilgongd og eisini um veiðimynstrið hjá ymisku pørtunum av flotanum.</p>
+<p>Afturat  hesum  upplýsingum  frá  veiðuni  er  eisini  neyðugt  at  fáa  upplýsingar  um fiskastovnar frá rannsóknum við Magnusi Heinasyni og leigaðum skipum. Upplýsingar um  stovnarnar  av  uppsjóvarfiski  verða  fingnar  til  vegar  við  akustiskum  (ekkó-) kanningum  og  við  troling.  Tað  verður  gjørt  í  samstarvi  við  rannsóknarskip  úr  øðrum</p>
+<p>14</p>
+<p>londum. Upplýsingar um stovnarnar av botnfiski fáast frá yvirlitstrolingum hjá Magnusi Heinasyni, ið geva okkum eitt mát fyri gongdina í støddini á stovnunum.</p>
+<p type="listitem"> <em type="italic">Verkætlanir </em></p>
+<p>Summar verkætlanir gerast best saman við øðrum granskingarstovnum. Hetta eru eitt nú verkætlanir, ið ikki eru avmarkaðar til føroyskt sjóøki, men hava felags áhuga tvørtur um landamørk. Tá finna granskarar í ymiskum londum og granskingarstovnum saman at kanna  ávís  evni  í  felag.  Hesin  møguleikin  er  øktur  munandi,  síðani  Føroyar  fóru  uppí granskingarsamstarvið  hjá  ES.  Umframt,  at  slíkar  verkætlanir  geva  Havstovuni  nógv yrkisliga, so eru tær við til at skapa </p>
+<p>Týdningurin av tíðaravmarkaðu verkætlanunum skal ikki undirmetast. Tær stuðla undir kjarnuvirksemið á stovninum, eru við til at menna førleikan hjá starvsfólkunum, og tær eru  eisini  við  til  at  menna  granskingarnetverkið  úteftir.  Eisini  fíggjarliga,  eru  tær  ein týdningarmikil partur av stovninum.</p>
+<p>15</p>
+<p>2. FISKIVINNUFYRISITINGIN Í ÍSLANDI</p>
+<p>Í hesum parti verður fiskivinnufyrisitingin í Íslandi lýst. Greitt verður frá <em type="italic">Atvinnuvega- og </em></p>
+<p><em type="italic">nýsköpunarráðuneytið</em>, <em type="italic">Fiskistofa</em>, <em type="italic">Landhelgisgæsla  Íslands</em>  og <em type="italic">Hafrannsóknastofnun</em>. </p>
+<p>Serligur dentur verður lagdur á lóg og játtan, bygnað og virkisøki.</p>
+<p>2.1. Atvinnuvega- og nýsköpunarráðuneytið</p>
+<p><em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em> varð sett á stovn í 2012 eftir at íslendska fiski- </p>
+<p>og  landbúnaðarmálaráðið  varð  lagt  saman  við  íslendska  ídnaðar-,  orku-  og ferðavinnumálaráðnum. <em type="italic">Atvinnuvega-  og  nýsköpunarráðuneytið</em>  kann  sigast  at  vera tvíbýtt,  við  einum  ráðharra  fyri  fiskivinnu  og  landbúnaði  og  einum  ráðharra  fyri ferðavinnu, ídnaði og nýskapan. </p>
+<p>Íslendska fiskivinnufyrisitingin er samansett á tann hátt, at talan er um fimm ymiskar eindir annaðhvørt beinleiðis í <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em> ella sum stovnar undir  tí.  Hesar  fimm  eindir  eru <em type="italic">Skrifstofa  sjávarútvegs  og  fiskeldis</em>  og <em type="italic">Skrifstofa </em></p>
+<p><em type="italic">alþjóðamála</em>,  ið  eru  deildir  í <em type="italic">Atvinnuvega-  og  nýsköpunarráðuneytið</em>  og  undir  einum </p>
+<p>verða  her  nevndar  <span type="quote">“íslendska  fiskimálaráðið”</span>, <em type="italic">Fiskistofa</em>, <em type="italic">Hafrannsóknastofnun</em>  og </p>
+<p><em type="italic">Landhelgisgæsla  Íslands</em>,  sum  tó  er  stovnur  undir <em type="italic">Dómsmálaráðuneytið</em>.  Hesar  fimm </p>
+<p>eindirnar verða lýstar nærri niðanfyri.</p>
+<p>2.1.1. Lógarheimild og játtan</p>
+<p><em type="italic">Atvinnuvega-  og  nýsköpunarráðuneytið</em>  er  sett  á  stovn  sambært <em type="italic">Lög  um  Stjórnarráð Íslands</em>  og  hevur  sínar  heimildir  sambært <em type="italic">Forsetaúrskurður  um  skiptingu stjórnarmálefna milli ráðuneyta í Stjórnarráði Íslands</em>. </p>
+<p><em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em> hevði í 2015 eina játtan á 799 mió. ISK. <em type="italic">Skrifstofa sjávarútvegs  og  fiskeldis</em>  er  deildin  í  stjórnarráðnum,  sum  situr  fyri  fiskivinnuni  og </p>
+<p>alivinnuni. <em type="italic">Skrifstofa alþjóðamála</em>, ið varð skipað 1. september 2017, varðar sum deild av strandarlandasamráðingum, tvíliðaðum samráðingum um fiskirættindi, samráðingum  í  økisfelagsskapum  fyri  fiskivinnuumsiting,  umframt  aðrari  altjóða samvinnu bæði viðvíkjandi fiskivinnu og landbúnaði. </p>
+<p>2.1.2. Bygnaður</p>
+<p>Íslendska fiskimálaráðið er sum sagt partur av <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em>. Skipanin er hon, at í <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em> eru tveir ráðharrar. Ein fyri </p>
+<p>16 fiskivinnu og landbúnað og ein fyri ferðavinnu, ídnað og nýskapan. Talan er tó bert um ein aðalstjóra fyri alt <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em>. Tað starvast umleið tíggju fólk  í <em type="italic">Skrifstofa  sjávarútvegs  og  fiskeldis</em>  og  tvey  fólk  í <em type="italic">Skrifstofa  alþjóðamála</em>,  ið samanlagdar  samsvara  nøkulunda  við  føroyska  fiskimálaráðið.  Av  teimum  eru  ein triðingur  løgfrøðingar,  meðan  hini  starvsfólkini  eru  búskaparfrøðingar  ella  hava útbúgvingar innan fyri fiskivinnu. Sí annars bygnað</p>
+<p>2.1.3. Virkisøki</p>
+<p>Íslendska fiskimálaráðið hevur yvirskipaðu ábyrgdina av fiskivinnumálum, gransking av fiskastovnum og umsiting og gagnnýtslu av hesum stovnum saman við øðrum sjófeingi og  tilfeingi  á  havbotninum.  Harafturat  hevur  íslendska  fiskimálaráðið  ábyrgd  av  at umsita sjálvi havøkini har hetta tilfeingi er. Eisini hevur íslendska fiskimálaráðið ábyrgd av gransking og reglugerðum um framleiðslu av sjógæti, harundir koma reglugerðir um útflutning og innflutning av hesum vørum, eins og reglugerðir um stuðul til gransking, menning og nýskapan innan fiskivinnuna.</p>
+<p>Afturat  hesum  hevur  íslendska  fiskimálaráðið  ábyrgd  av  strandarlandasamráðingum, tvíliðaðum  samráðingum  um  fiskirættindi,  samráðingum  í  økisfelagsskapum  fyri fiskivinnuumsiting,  umframt  aðrari  altjóða  samvinnu  bæði  viðvíkjandi  fiskivinnu  og landbúnaði.</p>
+<p>Íslendska  fiskimálaráðið  hevur  ein  lóggávu  leiklut  á  tann  hátt,  at  lógir  og  reglugerðir verða fyrireikaðar og tilevnaðar har.</p>
+<p>17 Íslendska  fiskimálaráðið  virkar  eisini  sum  kærumyndugleiki,  har  borgarar  kunnu  kæra avgerðir,  ið  Fiskistofa  hevur  tikið.  Hóast  hesa  støðu  sum  kærumyndugleiki  tekur ráðharrin ongantíð lut í viðgerðini. Tað eru løgfrøðingarnir, sum viðgera og taka støðu til tær. Á hendan hátt hevur borgarin eitt rættarstig at royna, áðrenn eitt møguliga dýrt og langt rættarmál.</p>
+<p>Sum  heimildarfólkini  søgdu,  er  ein  sokallaður  verjugarður  millum  íslendska fiskimálaráðið  øðrumegin  og  ávikavist <em type="italic">Fiskistofa</em>  og <em type="italic">Hafrannsóknastofnun</em>  hinumegin. Við  øðrum  orðum,  íslendska  fiskimálaráðið  hvørki  leggur  seg  útí  ella  roynir  at  ávirka avgerðir hjá hesum báðum stovnum. </p>
+<p>Leggjast  skal  at  enda  afturat,  at  íslendska  fiskimálaráðið  hevur  eisini  ábyrgdina  av alimálum, umframt fiskiskapi í áum og vøtnum.</p>
+<p>2.2. Fiskistofa</p>
+<p><em type="italic">Fiskistofa</em> varð stovnað í 1992 til tess at flyta stýrisuppgávur, sum fyrr høvdu ligið hjá </p>
+<p>táverandi  íslendska  fiskimálaráði  út  úr  hesum  ráðið. <em type="italic">Fiskistofa</em>  hevur  umleið  67  fólk  í føstum  størvum.  Høvuðssætið  er  í  Akureyri,  meðan  aðrar  deildir  eru  í  Hafnarfjörður, Stykkishólmur, Ísafjörður, Höfn og Vestmannaeyjar. </p>
+<p><em type="italic">Fiskistofa</em>  er  ein  sjálvstøðugur  útinnandi  stovnur  undir <em type="italic">Atvinnuvega-  og nýsköpunarráðuneytið</em>  og  hevur  ábyrgd  mótvegis  fiskimálaráðharranum. <em type="italic">Fiskistofa</em> </p>
+<p>hevur  útinnandi ábyrgdina av íslendsku lógini um fyrisiting av sjófeingi og tilhoyrandi lóggávu, dagligari fyrisiting av fiskivinnuni, eins og umsjón og eftirliti við, at reglugerðir um fiskivinnufyrisiting verða framdar í verki.</p>
+<p>2.2.1. Lógarheimild og játtan</p>
+<p><em type="italic">Fiskistofa</em>  er  sett  á  stovn  sambært <em type="italic">Lög  um  Fiskistofu</em>  og  virkar  samsvarandi  hesi  lóg. </p>
+<p>Játtanin var 1.064,5 mió. ISK í 2015.</p>
+<p>2.2.2. Bygnaður</p>
+<p><em type="italic">Fiskistofa</em> er skipað á tann hátt, at talan er um fýra deildir undir stjóranum á <em type="italic">Fiskistofa</em>. </p>
+<p>Tær eru sjálv deildin hjá stjóranum á <em type="italic">Fiskistofa</em>, sum umsitur fíggjarmál, starvsfólkamál og góðskueftirlit. Síðan er talan um eina laksa- og sílaveiðideild, eina veiðieftirlitsdeild og eina tænastu- og upplýsingardeild. </p>
+<p>Á <em type="italic">Fiskistofa</em>  starvast  umleið  67  fólk.  Áleið  helvtin  av  hesum  starvsfólkunum  eru eftirlitsfólk, meðan hini eru serliga forritarar og løgfrøðingar. Her kann nevnast, at tað </p>
+<p>18 starvast  tíggju  til  tólv  forritarar  á <em type="italic">Fiskistofa</em>,  sum  hava  ábyrgdina  av  at  menna  og samskipa talgildu skipanina við kvota- og veiðiupplýsingum. Eftirlitsfólkini eru býtt í tveir bólkar, eftirlitsfólk á landi og eftirlitsfólk á sjónum. Sí annars bygnaðin niðanfyri. </p>
+<p>2.2.3. Virkisøki</p>
+<p>Sum greitt er frá omanfyri hevur <em type="italic">Fiskistofa</em> ábyrgd av dagligari umsiting av fiskivinnuni. Meira nágreiniliga fevna uppgávurnar hjá <em type="italic">Fiskistofa</em> um: </p>
+<p type="listitem"> Skriva út fiskiloyvi og  tilluta kvotur til íslendsk fiskifør, eins og at skráseta hesi</p>
+<p>rættindi</p>
+<p type="listitem"> Skriva út fiskiloyvi til útlendsk fiskifør, sum fiska í íslendskum sjóøki</p>
+<p type="listitem"> Flyta og skráseta flytingar av kvotum millum fiskifør</p>
+<p type="listitem"> Savna inn, skráseta, viðgera og býta út kunning um veiðu og virði av veiðu hjá</p>
+<p>íslendskum fiskiførum eins og at hava umsjón við dagligu veiðuni hjá hesum somu fiskiførum</p>
+<p type="listitem"> Umsjón  við  fiskiskapi  hjá  íslendskum  og  útlendskum  fiskiførum  í  íslendskum</p>
+<p>sjóøki/løgdømi</p>
+<p type="listitem"> Umsjón við fiskiskapi, framleiðslu og viðgerð umborð á fiskiførum, sum viðgera</p>
+<p>veiðuna umborð</p>
+<p type="listitem"> Umsjón  við  landingum,  viging  og  skráseting  av  veiðu  hjá  íslendskum  og</p>
+<p>útlendskum fiskiførum</p>
+<p type="listitem"> Skriva út elektroniskar veiðidagbøkur og hava eftirlit og umsjón við teimum</p>
+<p>19</p>
+<p type="listitem"> Skriva  út  aliloyvi  og  elektroniskar  framleiðslu  dagbøkur  eins  og  umsjón  við</p>
+<p>alivinnuni</p>
+<p type="listitem"> Umsjón við útflutningi og flutningi av fiski eins og loyvisbrøv til útflutning</p>
+<p>Tað  hevur  við  sær,  at <em type="italic">Fiskistofa</em>  hevur  eftirlitsfólk  bæði  á  sjógvi  og  á  landi.  Her  er samstarv  millum <em type="italic">Fiskistofa</em>  og <em type="italic">Landhelgisgæsla  Íslands</em>  á  tann  hátt,  at  eftirlitsfólk  frá </p>
+<p><em type="italic">Fiskistofa</em> fara út við skipunum hjá <em type="italic">Landhelgisgæsla Íslands</em> at kanna fiskiskapin hjá bæði </p>
+<p>íslendskum  og  fremmandum  fiskiførum.  Eisini  eru  nøkur  eftirlitsfólk,  sum  eru serútbúgvin at fara longri túrar við verksmiðjuskipum. Harumframt fremja eftirlitsfólk kanningar av landingum, fiskavirkjum og øðrum framleiðslueindum á landi.</p>
+<p><em type="italic">Fiskistofa</em>  umsitur  skipanina  við  umsetiligum  kvotum  í  Íslandi,  sonevnda <em type="italic">Individual transferable quota</em>, sum hevur verið í nýtslu síðan 1984. Eisini umsitur hon eftirlitið við </p>
+<p>júst hvat hvørt einstakt fiskifar hevur fiskað av hvørjum einstøkum fiskaslagi. Allar hesar upplýsingar  verða  lagdar  í  eina  telduskipan,  sum  er  tøk  á  heimasíðu  stovnsins  til almenningin at síggja. Hesar upplýsingar verða dagførdar dagliga.</p>
+<p>2.3. Landhelgisgæsla Íslands</p>
+<p><em type="italic">Landhelgisgæsla Íslands</em> er íslendska vaktar- og bjargingartænastan, ið virkar sum ein </p>
+<p>ikki-hernaðarligur  stovnur,  sum  uppiheldur  íslendska  lóg  á  íslendskum  havleiðum  og løgdømi. Hann hevur harumframt ábyrgd av leiting og bjarging, trygd á sjónum, eins og trygdareftirliti í sjóøkinum kring Ísland.</p>
+<p>2.3.1. Lógarheimild og játtan</p>
+<p><em type="italic">Landhelgisgæsla Íslands</em> virkar sambært <em type="italic">Lög um Landhelgisgæslu Íslands</em>. Játtanin í 2016 </p>
+<p>til <em type="italic">Landhelgisgæsla Íslands</em> var 3.592 mió. ISK. Her kann nevnast, at umleið 30 prosent av samlaðu útreiðslunum hjá <em type="italic">Landhelgisgæsla Íslands</em> fara til fiskiveiðieftirlit. </p>
+<p>2.3.2. Bygnaður</p>
+<p><em type="italic">Landhelgisgæsla Íslands</em> er stovnur undir <em type="italic">Dómsmálaráðuneytið</em> og er tað ráðharrin, sum </p>
+<p>tilnevnir stjóran í <em type="italic">Landhelgisgæsla Íslands</em>. Stjórin verður tilnevndur fyri eitt fimm ára skeið  í  senn  sambært <em type="italic">Lög  um  Landhelgisgæslu  Íslands</em>.  Stjórin  hevur  ábyrgdina  av dagligu leiðsluni av stovninum og ráðgevur <em type="italic">Dómsmálaráðuneytið</em> um mál, sum viðkoma stovninum. </p>
+<p>20 Starvsfólkatalið  á <em type="italic">Landhelgisgæsla  Íslands</em>  er  skiftandi  frá  130  –  170  starvsfólk.  Av teimum  eru  manningar  á  átjan  fólk  til  hvørt  sjóverjuskip,  ið  eru  fýra  í  tali,  umleið  40 starvsfólk á flogdeildini, her er talan  um eitt  flogfar og tvær  tyrlur,  og umleið fjúrtan starvsfólk á sjálvari rakstrarmiðstøðini á landi. Sí annars bygnaðin niðanfyri. </p>
+<p>2.3.3. Virkisøki</p>
+<p>Virkisøkið hjá <em type="italic">Landhelgisgæsla Íslands</em> fevnir um hesar uppgávur: </p>
+<p type="listitem"> Veita trygd á sjónum sambært íslendskari lóg og altjóða skyldum Íslands eitt nú</p>
+<p>semjum við onnur lond</p>
+<p type="listitem"> Uppihalda  lóg  á  sjónum,  heruppií  fiskiveiðieftirlit,  eins  og  at  veita  hjálp  til  teir</p>
+<p>myndugleikar, sum uppihalda lóg á landi</p>
+<p type="listitem"> Leiti- og bjargingartænasta til sjófólk og skip, eins og aðrar flutningsmøguleikar á</p>
+<p>sjónum</p>
+<p type="listitem"> Leiti- og bjargingartænasta til flogflutning</p>
+<p type="listitem"> Leiti- og bjargingartænasta á landi</p>
+<p type="listitem"> Bráðfeingis sjúkraflutningur</p>
+<p type="listitem"> Veita hjálp til løgregluna annars</p>
+<p>21</p>
+<p type="listitem"> Veita  hjálp  um  vanligt  samskifti  ikki  virkar  eitt  nú  orsakað  av  ísi,  kava,</p>
+<p>náttúruvanlukkum ella ógvisligum veðri annars</p>
+<p type="listitem"> Eftirlit á sjónum sambært lógini um sjótrygd og øðrum líknandi lógum</p>
+<p type="listitem"> Boða frá og beina burtur reka, minur, bumbur og líknandi, sum er til vanda fyri</p>
+<p>sjóferðslu, eins og at beina burtur bumbur á landi</p>
+<p type="listitem"> Sjómáting,  kortlegging,  fráboðanir  til  sjófólk,  fyrireiking  av  streymtalvum,</p>
+<p>siglingarleiðum og aðrar fráboðanir um sigling</p>
+<p type="listitem"> Móttaka fráboðanir frá skipum eins og ásett í lóg um fremmandafólk og eftirlit</p>
+<p>við sjómørkum Íslands</p>
+<p><em type="italic">Landhelgisgæsla  Íslands</em>  hevur  eftirlitsskip,  eftirlitsflogfør,  eins  og  tyrlur,  sum  verða </p>
+<p>nýttar bæði til leiting, bjarging og annars eftirlit nærri landi. Á rakstrarmiðstøðini á landi verða  øll  íslendsk  fiskiskip  eygleidd  umvegis  einari  kravdari  sporskipan.  Øll  minni  før verða fylgd umvegis VHF-skipan við fráboðanum hvørt 30. sekund. Størri før verða fylgd umvegis  fylgisvein  einaferð  um  tíman.  Fremmand  skip,  sum  virka  í  íslendskum  sjóøki verða eisini fylgd samsvarandi tvíliðaðum semjum. Afturat hesum fær <em type="italic">Landhelgisgæsla </em></p>
+<p><em type="italic">Íslands</em> kunning um sporing frá NEAFC. </p>
+<p>Eftirlitsfólk frá <em type="italic">Landhelgisgæsla Íslands</em> fara umborð á 200 til 400 skip árliga til tess at hava  eftirlit  við  veiðu,  veiðiamboðum  og  trygdarútgerð  við  tilhoyrandi  váttanum  og skjølum. </p>
+<p><em type="italic">Landhelgisgæsla  Íslands</em>  hevur  løgreglumyndugleika  og  hevur  myndugleika  at  gera </p>
+<p>handtøkur eins og at nýta vald um neyðugt.</p>
+<p>Her  kann  eisini  nevnast,  at  seinastu  árini  eru  tvær  broytingar  farnar  fram  í  mun  til virkisøkið  hjá <em type="italic">Landhelgisgæsla  Íslands</em>.  Hesar  eru  øktan  dent  á  verju  ímóti  altjóða yvirgangi eins og øktan dent á eftirlit við dálking á sjónum. </p>
+<p>2.4. Hafrannsóknastofnun</p>
+<p><em type="italic">Hafrannsóknastofnun</em>  varð  stovnaður  í  1965  og  er  stovnur  undir <em type="italic">Atvinnuvega-  og nýsköpunarráðuneytið</em>. <em type="italic">Hafrannsóknastofnun</em>  hevur  sum  uppgávu  at  fremja </p>
+<p>havlívfrøðiliga  gransking  og  at  ráðgeva  íslendska  fiskimálaráðnum  við  vísindaligum tilráðingum við støði í stovnsins gransking av sjófeingi og havumhvørvinum.</p>
+<p>22</p>
+<p>2.4.1. Lógarheimild og játtan</p>
+<p><em type="italic">Hafrannsóknastofnun</em>  er  settur  á  stovn  sambært <em type="italic">Lög  um  Hafrannsóknastofnun, rannsókna- og ráðgjafarstofnun hafs og vatna</em> og virkar samsvarandi henni. Játtanin í </p>
+<p>2015 var 1.776 mió. ISK.</p>
+<p>2.4.2. Bygnaður</p>
+<p>Sambært  omanfyrinevndu  lóg  er  tað  íslendski  fiskimálaráðharrin  sum  setir  stjóran  á</p>
+<p><em type="italic">Hafrannsóknastofnun</em>. Stjórin verður settur fyri fimm ár í senn. Á <em type="italic">Hafrannsóknastofnun</em> </p>
+<p>eru  umleið 130 starvsfólk. <em type="italic">Hafrannsóknastofnun</em> hevur tvey havrannsóknarskip, fimm deildir kring um í Íslandi og eina havbúnaðarroyndarstovu. Sí annars bygnaðin niðanfyri. </p>
+<p>2.4.3. Virkisøki</p>
+<p>Virkisøkið hjá <em type="italic">Hafrannsóknastofnun</em> er í høvuðsheitum býtt í trý høvuðsøki. Talan er um eitt havumhvørvisøki, eitt sjófeingisøki og eitt ráðgevandi øki. At enda er eisini eitt fjórða øki,  sum  er  samansett  av  deildum,  ið  stuðla  virkseminum  hjá  teimum  trimum høvuðsøkjunum. </p>
+<p>23 Havumhvørvisøkið  á <em type="italic">Hafrannsóknastofnun</em>  hevur  ábyrgdina  av  at  granska  sjálvt havumhvørvið,  eitt  nú  hitan  í  sjónum,  føðsluevni  og  saltinnihaldið  í  sjónum.  Afturat hesum kemur havjarðfrøði og taravistfrøði, eins og æti, yngul, ungfiskur og gransking av havbotninum saman við lívi og vøkstri í djúphøvum. Harafturat tekur havumhvørvisøkið á <em type="italic">Hafrannsóknastofnun</em> sær av størri verkætlanum, har granskað verður í sjóvarfalli og streymi umvegis fylgisveinar, vetursetu og várgýting hjá djóraæti, eins og kanningar av gýting hjá mest týdningarmiklu fiskastovnunum. </p>
+<p>Sjófeingisøkið á <em type="italic">Hafrannsóknastofnun</em> kannar teir fiskastovnar, sum verða troyttir kring Ísland,  krabbadjór,  lindjór  og  havsúgdjór.  Størsti  parturin  av  virkseminum  hjá sjófeingisøkinum  er  í  sambandi  við  stovnsmetingar  og  mest  loyvdu  veiðu  fyri  hvønn fiskastovn. Størri verkætlanir hjá sjófeingisøkinum fevna um árligar botnfiskakanningar, kanningar  av  djúpvatnsrækjum,  hummara  og  jákupsskel.  Harafturat  verður lodnustovnurin  og  sildastovnurin  kannaður  árliga.  Av  nýggjari  kanningum  hjá sjófeingisøkinum  á <em type="italic">Hafrannsóknastofnun</em>  kann  nevnast  fleirstovnakanningar,  har kannað verður, hvussu stovnar í íslendskum sjóøki ávirka hvønn annan. </p>
+<p>Ráðgevandi økið á <em type="italic">Hafrannsóknastofnun</em> eftirmetir og endurskoðar stovnsmetingar og fyrireikar  formligu  tilráðingarnar  viðvíkjandi  mest  loyvdu  veiðu  og  burðardyggum umsitingarætlanum til íslendsku stjórnina. </p>
+<p>Seinasta økið á <em type="italic">Hafrannsóknastofnun</em>, ið er tað fjórða, er sum sagt ein samanseting av deildum.  Hetta  eru  deildir  so  sum  myndladeild,  ið  hevur  sum  uppgávu  at  fáast  við støddfrøðiligar  myndlar  innan  fiskiveiðu  og  vistfrøði  viðkomandi  fyri  stovnsmetingar, eins  og  at  loysa  ymsar  trupulleikar  í  mun  til  tey  háttaløg,  sum  verða  nýtt  til stovnsmetingar.  Síðani  er  ein  tøknilig  deild,  sum  umsitur  uppseting,  viðlíkahald  og royndir av granskingartólum og amboðum. At enda er eitt fiskiveiðisavn, har allar bøkur og  vísindaligar  greinar  innan  havvísindi,  ið  eru  viðkomandi  fyri  granskarar  hjá </p>
+<p><em type="italic">Hafrannsóknastofnun</em>, verða savnaðar. </p>
+<p><em type="italic">Hafrannsóknastofnun</em> luttekur eisini í altjóða granskingarsamstarvi um stovnsmetingar </p>
+<p>og kanningar. Afturat hesum luttekur <em type="italic">Hafrannsóknastofnun</em> í altjóða fiskirættindasamráðingum,  eitt  nú  strandarlandasamráðingum  um  svartkjaft, norðhavssild og makrel. </p>
+<p>24</p>
+<p>3. FISKIVINNUFYRISITINGIN Í NOREGI</p>
+<p>Í  hesum  parti  verður  fiskivinnufyrisitingin  í  Noregi  lýst.  Greitt  verður  frá <em type="italic">Nærings-  og </em></p>
+<p xml:lang="dan"><em type="italic">fiskeridepartementet</em>, <em type="italic">Fiskeridirektoratet</em>, <em type="italic">Kystvakta</em>  og <em type="italic">Havforskningsinstituttet</em>. </p>
+<p>Serligur dentur verður lagdur á lóg og játtan, bygnað og virkisøki.</p>
+<p xml:lang="dan">3.1. Nærings- og fiskeridepartementet</p>
+<p><em type="italic">Nærings- og fiskeridepartementet</em> hevur ábyrgdina av altjóða handli, vinnu og fiskivinnu. </p>
+<p>Tað hevur tveir ráðharrar, ein ráðharra fyri altjóða handil og vinnu og ein ráðharra fyri fiskivinnu. Eins og í Íslandi, er ein partur av <em type="italic">Nærings- og fiskeridepartementet</em>, ið virkar sum norskt fiskimálaráð. </p>
+<p><em type="italic">Nærings-  og  fiskeridepartementet</em>  hevur  ábyrgdina  av  at  tilevna  framtíðar  vinnu-  og </p>
+<p>sjógætispolitikk. Afturat hesum koma øll øki, sum eru viðkomandi í mun til virðisøking. Málið hjá norsku stjórnini í mun til vinnu- og sjógætispolitikk er at fáa sum mest burturúr virðisøking í norska búskapinum.</p>
+<p>3.1.1. Lógarheimild og játtan</p>
+<p>Sambært norsku grundlógini er tað norski kongurin, sum ásetir ymisku stjórnarráðini í Noregi. <em type="italic">Nærings- og fiskeridepartementet</em> varð sett á stovn við kongaligari fyriskipan 13. desember 2013. Síðani eru tað ráðharrarnir, sum skipa virksemið inni í ráðnum. Játtanin hjá <em type="italic">Nærings- og fiskeridepartementet</em> í 2017 er 677,8 mió. NOK. </p>
+<p>3.1.2. Bygnaður</p>
+<p>Sum sagt omanfyri, er <em type="italic">Nærings- og fiskeridepartementet</em> samansett á tann hátt, at talan er um tveir ráðharrar, ein fyri altjóða handil og vinnu og ein fyri fiskivinnu. <em type="italic">Nærings- og </em></p>
+<p><em type="italic">fiskeridepartementet</em>  er  skipað  á  ein  hátt,  sum  endurspeglar  hetta  býtið.  Hesir  báðir </p>
+<p>ráðharrarnir  hava  síðan  tveir  sokallaðar <em type="italic">statssekretærer</em>  undir  sær,  sum  eitt  slag  av varamonnum,  eins  og  ein  politiskan  ráðgeva.  Afturat  teimum  kemur  ein  sokallaður </p>
+<p xml:lang="dan"><em type="italic">Departementsråd</em>  og <em type="italic">Assisterende  departementsråd</em>. <em type="italic">Departementsråd</em>  er  hægsti </p>
+<p>embætismaður  í <em type="italic">Nærings-  og  fiskeridepartementet</em>  og  samsvarar  við  ein  føroyskan aðalstjóra. Sí annars bygnaðin niðanfyri. </p>
+<p>25 Í <em type="italic">Nærings- og fiskeridepartementet</em> eru sum víst omanfyri, níggju deildir ella ráð, harav ein  av  teimum  er <em type="italic">Fiskeri-  og  havbruksavdelingen</em>,  ið  virkar  sum  norskt  fiskimálaráð. </p>
+<p><em type="italic">Fiskeri- og havbruksavdelingen</em> er síðani býtt í tríggjar undirdeildir. Tær eru: </p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Havbruks- og miljøforvaltning </em></p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Næringsutvikling - fiskeri og havbruk </em></p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Fiskeriforvaltning </em></p>
+<p>Í  alt  starvast  umleið  350  fólk  í <em type="italic">Nærings-  og  fiskeridepartementet</em>  og  40  av  teimum starvast  í <em type="italic">Fiskeri-  og  havbruksavdelingen</em>.  Talan  er  ikki  um  eitt  greitt  starvsfólkabýti millum  starvsfólk,  sum  starvast  fyri  handils-  og  vinnumálaráðharran  og fiskim</p>
+<p>Tó so, tey sum starvast í <em type="italic">Fiskeri- og havbruksavdelingen</em> fáast fyri tað mesta við tey mál, sum  fiskimálaráðharrin  hevur  ábyrgdina  av.  Av  teimum  40,  sum  starvast  í <em type="italic">Fiskeri-  og </em></p>
+<p>26 <em type="italic">havbruksavdelingen</em>  er  talan  um  fyrst  og  fremst  løgfrøðingar,  búskaparfrøðingar  og </p>
+<p>fiskivinnufrøðingar og síðani samfelagsfrøðingar, havlívfrøðingar og onnur.</p>
+<p>3.1.3. Virkisøki</p>
+<p>Sum greitt frá omanfyri eru tríggjar undirdeildir í <em type="italic">Fiskeri og havbruksavdelingen</em>. </p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Havbruks- og miljøforvaltning </em></p>
+<p>Hendan  undirdeildin  hevur  ábyrgdina  av  alimálum,  umhvørvismálum  og burðardyggleika í alivinnuni. Íroknað er dálking og frárensl frá alivirkjum, fiskaheilsa og vælferð, fóður og tøkni, eins og ávís altjóða mál í mun til ES og EBS.</p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Næringsutvikling - fiskeri og havbruk </em></p>
+<p>Hendan  undirdeildin  hevur  ábyrgdina  av  luttøku  í  fiskivinnu  og  veiðu  sambært</p>
+<p><em type="italic">Deltakerloven</em>  eins  og  sjálvum  býtinum  av  sjófeinginum.  Harafturat  hevur  hendan </p>
+<p>undirdeildin ábyrgdina av bygnaðinum í skipaflotanum, loyvisskipanum, atgongdaravmarkingum,  eins  og  búskaparligum  og  samfelagsligum  skipanum  innan fiskivinnuna. Undirdeildin hevur eisini ábyrgdina av reglugerðum í mun til alivinnu eins og  búskaparliga  menning  innan  alivinnuna,  bygnaðinum  í  vinnuni,  loyvum, framleiðsluavmarkingum, økisnýtslu og ognarviðurskiftum.</p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Fiskeriforvaltning </em></p>
+<p>Hendan  undirdeildin  umsitur  altjóða  fiskivinnumál.  Undirdeildin  hevur  ábyrgdina  av millumtjóða  samráðingum  og  semjum  um  fiskirættindi,  eins  og  samráðingum  í økisfelagsskapum  fyri  fiskivinnuumsiting.  Eisini  hevur  hon  ábyrgdina  av  ólógligum fiskiskapi, harundir altjóða samstarvi innan økið. Hinvegin er tað <em type="italic">Fiskeridirektoratet</em>, sum umsitur  millumtjóða  semjur  um  eftirlit.  Undirdeildin  tekur  sær  eisini  av  málum viðvíkjandi havrætti og málum, sum hava við tann verkliga partin av <em type="italic">Havressurslova</em>. </p>
+<p xml:lang="dan">3.2. Fiskeridirektoratet</p>
+<p><em type="italic">Fiskeridirektoratet</em> var sett á stovn í Bergen í ár 1900 og er í dag stovnur undir <em type="italic">Nærings- og  fiskeridepartementet</em>  og  virkar  sum  høvuðsráðgevandi  og  útinnandi </p>
+<p>umsitingarstovnur fyri norsku fiski- og alivinnuna. Endamálið hjá <em type="italic">Fiskeridirektoratet</em> er at  fremja  lønandi  og  virðisøkjandi  vinnuvirksemi  ígjøgnum  burðardygga  og brúkaravenda  umsiting  av  sjófeingi  og  havumhvørvi.  Høvuðsuppgávurnar  hjá </p>
+<p>27</p>
+<p><em type="italic">Fiskeridirektoratet</em>  fevna  um  stýrisuppgávur  innan  fiski-  og  alivinnu,  regluáseting, </p>
+<p>leiðbeining og eftirlit.</p>
+<p>3.2.1. Lógarheimild og játtan</p>
+<p>Norska skipanin við konginum sum ovasta fyriskipara av bygnaðinum við stjórnarráðum hevur við sær, at tað er ikki nøkur serstøk lóg, sum gevur heimildir til <em type="italic">Fiskeridirektoratet</em>. Hóast  onga  lóg  er  skipanin  hon,  at <em type="italic">Nærings-  og  fiskeridepartementet</em>  avhendar myndugleika  og  heimildir,  sum  fevna  um  stýrisuppgávur  til <em type="italic">Fiskeridirektoratet</em>  við heimild í <em type="italic">Havressurslova</em>. </p>
+<p>Afturat hesum ger <em type="italic">Nærings- og fiskeridepartementet</em> árliga eitt sokallað <em type="italic">tildelingsbrev</em>, sum  útgreinar,  hvussu <em type="italic">Nærings-  og  fiskeridepartementet</em>  ynskir,  at  játtanin  til </p>
+<p><em type="italic">Fiskeridirektoratet</em>  verður  nýtt  og  hvussu <em type="italic">Fiskeridirektoratet</em>  skal  raðfesta  innan  sínar </p>
+<p>heimildir. Samlaða játtanin hjá <em type="italic">Fiskeridirektoratet</em> í 2017 er 486 mió. NOK. </p>
+<p>3.2.2. Bygnaður</p>
+<p>Høvuðssætið  hjá <em type="italic">Fiskeridirektoratet</em>  liggur  í  Bergen.  Harumframt  er  talan  um  fimm økisdeildir, <em type="italic">Region Nord</em>, <em type="italic">Region Nordland</em>, <em type="italic">Region Midt</em>, <em type="italic">Region Vest</em> og <em type="italic">Region Sør</em>. Tær vóru sjey í tali í 2015, men talið er lækkað orsakað av bygnaðarbroytingum seinastu árini. </p>
+<p>Somuleiðis  verður  miðað  ímóti  at  fara  frá  28  staðbundnum  skrivstovum  til  20 staðbundnar  skrivstovur  í  2017,  eins  og  at  ætlanin  er  at  flyta  alt  skipanarligt eftirlitsvirksemi og málsviðgerð, sum fer fram í fyrstu atløgu, út til økini.</p>
+<p>Tað  eru  um  423  starvsfólk  tilsamans  í <em type="italic">Fiskeridirektoratet</em>.  Av  teimum  eru  219  úti  á økisdeildunum og 204 á høvuðssætinum í Bergen. Sí annars bygnaðin niðanfyri. </p>
+<p>28</p>
+<p>Bygnaðurin  er  skipaður  við  fimm  deildum  á  høvuðssætinum  hjá <em type="italic">Fiskeridirektoratet</em>  í Bergen, <em type="italic">Ressursavdelingen</em>, <em type="italic">Kyst-  og  havbruksavdelingen</em>, <em type="italic">Statistikkavdelingen</em>, </p>
+<p><em type="italic">Administrasjonsavdelingen</em>  og <em type="italic">IT-avdelingen</em>.  Afturat  teimum  fimm  deildunum  eru <em type="italic">Personal-  og  organisasjonsutviklingsstaben</em>  og <em type="italic">Kommunikasjonsstaben</em>.  Ovastur  er <em type="italic">Fiskeridirektøren</em>. </p>
+<p>3.2.3. Virkisøki</p>
+<p>Í høvuðsheitum fevna uppgávurnar hjá <em type="italic">Fiskeridirektoratet</em> um: </p>
+<p type="listitem"> At veita serkøna ráðgeving til <em type="italic">Nærings- og fiskeridepartementet</em> í sambandi við </p>
+<p>lógar- og kunngerðarsmíð. Talan kann vera um greiningar, hagtøl og ráðgeving annars</p>
+<p type="listitem"> At áseta og útinna reglur fyri virksemið hjá fiski- og alivinnuni</p>
+<p type="listitem"> At útinna politiskar avgerðir</p>
+<p type="listitem"> At viðgera umsóknir og kærur</p>
+<p type="listitem"> At útinna eftirlit</p>
+<p type="listitem"> At kunna ymiskar áhugabólkar og almenningin</p>
+<p>29</p>
+<p>Tær ymisku deildirnar á <em type="italic">Fiskeridirektoratet</em> eru lýstar meira neyvt niðanfyri. </p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Ressursavdelingen </em></p>
+<p><em type="italic">Ressursavdelingen</em>  er  samansett  av  fýra  undirdeildum,  nevniliga <em type="italic">fartøy-  og deltakerseksjonen</em>, <em type="italic">kontrollseksjonen</em>, <em type="italic">reguleringsseksjonen</em> og <em type="italic">utviklingsseksjonen</em>. </p>
+<p><em type="italic">Fartøy- og deltakerseksjonen</em> umsitur vinnulig fiskiloyvir, serloyvir og atgongdarrættindi. </p>
+<p>Eisini  umsitur  hon  yvirlitið  yvir  fiskifør  og  sjófólk.  Afturat  hesum  virkar  hendan undirdeildin í <em type="italic">Ressursavdelingen</em> sum kærumyndugleiki í mun til avgerðir, sum eru tiknar á økisdeildunum hjá <em type="italic">Fiskeridirektoratet</em>, ið fella undir virksemið hjá hesi undirdeild. </p>
+<p><em type="italic">Kontrollseksjonen</em> hevur ábyrgdina av at samskipa samlaða eftirlitsvirksemið viðvíkjandi </p>
+<p>sjófeingi hjá <em type="italic">Fiskeridirektoratet</em>, eins og at gera váðagreiningar og váðastaðfestingar í sambandi við eftirlitsvirksemi. </p>
+<p><em type="italic">Reguleringsseksjonen</em>  fyrireikar  reglugerðir  við  stuttum  skotbrái,  tá  ið  neyðugt  er  at </p>
+<p>stongja og opna økir í norskum sjóøki. Sostatt fylgir <em type="italic">reguleringsseksjonen</em> við gongdini í fiskivinnuni,  umlutar  kvotur  og  steðgar  fiskiskapi  í  økjum  har  útrokningar  vísa,  at kvoturnar  eru  uppi.  Eisini  luttekur <em type="italic">reguleringsseksjonen</em>  í  samráðingum  um  kvotur innanhýsis í Noregi og altjóða fiskirættindasamráðingum. </p>
+<p><em type="italic">Utviklingsseksjonen</em> hevur ábyrgdina  av at royna nýggja umhvørvisvinarliga útgerð og </p>
+<p>veiðiamboð at fiska við, eins og at halda við líka verkligu eginleikarnar í mun til fiskivinnu hjá hesi undirdeild. Hon hevur eisini ábyrgdina av at menna nýggj <em type="italic">harvest models</em> í mun til sjófeingi. </p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Kyst- og havbruksavdelingen </em></p>
+<p>Eins og <em type="italic">Ressursavdelingen</em>, er <em type="italic">Kyst- og havbruksavdelingen</em> býtt í undirdeildir, nevniliga </p>
+<p xml:lang="dan"><em type="italic">arealseksjonen</em>, <em type="italic">tildelingsseksjonen</em> og <em type="italic">tilsynsseksjonen</em>. </p>
+<p><em type="italic">Fiskeridirektoratet</em> hevur partsábyrgd av, at alivinnan í Noregi verður umsitin á ein hátt, </p>
+<p>sum  gagnar  vinnuni  og  umhvørvinum  í  framtíðini.  Tískil  mennir <em type="italic">Kyst-  og </em></p>
+<p><em type="italic">havbruksavdelingen</em>  lógir  og  reglugerðir,  viðger  kærur  og  hevur  eftirlit  við  alivinnuni, </p>
+<p>eins og hon umsitur strandarøki. <em type="italic">Kyst- og havbruksavdelingen</em> hevur tætt samstarv við </p>
+<p><em type="italic">Mattilsynet</em>, <em type="italic">Havforskningsinstituttet</em>, <em type="italic">Miljødirektoratet</em> og kommunurnar. </p>
+<p><em type="italic">Arealseksjonen</em> tekur sær av økis- og náttúruvarðveiting. <em type="italic">Arealseksjonen</em> skal eisini hava </p>
+<p>eftirlit við lívfrøðiligum fjølbroytni og ójavnum, eins og møguligum hoyringum um spill og lekar í sambandi við alivinnuna.</p>
+<p><em type="italic">Tildelingsseksjonen</em> hevur yrkisliga ábyrgd av útluting og rættindum eftir alilógini. </p>
+<p>30 <em type="italic">Tilsynsseksjonen</em>  hevur  eftirlit  við  rakstrinum  hjá  alifyritøkum.  Eisini  hevur <em type="italic">tilsynsseksjonen</em>  ábyrgd  av  fyribyrgjandi  átøkum  í  mun  til,  hvussu  umhvørvið  verður </p>
+<p>ávirkað.</p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Statistikkavdelingen </em></p>
+<p><em type="italic">Statistikkavdelingen</em>  er  býtt  í  tvær  undirdeildir,  nevniliga <em type="italic">analyse-  og formidlingsseksjonen</em> og <em type="italic">Norsk Fisheries Monitoring Centre</em>. </p>
+<p><em type="italic">Analyse- og formidlingsseksjonen</em> hevur ábyrgd av at savna og góðskutryggja taltilfar til </p>
+<p>fiski- og alivinnuhagtøl, eins og til kanningar um vinningsføri. Hagtølini verða nýtt bæði í  sambandi  við  umsiting  og  eftirlit.  Eisini  framleiðir <em type="italic">analyse-  og  formidlingsseksjonen</em> almenn  norsk  hagtøl,  sum  verða  brúkt  til  gransking.  Afturat  hesum  fæst <em type="italic">analyse-  og </em></p>
+<p><em type="italic">formidlingsseksjonen</em> við umrokningartættir og altjóða skyldir í mun til frágreiðingar. </p>
+<p><em type="italic">Norsk  Fisheries  Monitoring  Centre</em>  eftir  hetta  FMC  hevur  eftirlit  við  øllum  fiskiskapi  í </p>
+<p>norskum  og  altjóða  sjóøki.  Sum  partur  av  hesum  eftirliti,  fylgir  og  mennir  FMC elektronisku  fráboðanarskipanina.  Harundir  koma  fráboðanir  um  knattstøðu  og fiskiskap.</p>
+<p type="listitem" xml:lang="dan"> <em type="italic">Administrasjonsavdelingen </em></p>
+<p>Hendan  deildin  hevur  ábyrgd  av  starvsfólkum,  fíggjarstýring,  bókhaldi,  skjalasavni  og øðrum innanhýsis viðurskiftum.</p>
+<p type="listitem" xml:lang="dan"> <em type="italic">IT-avdelingen </em></p>
+<p><em type="italic">Fiskeridirektoratet</em>  hevur  sína  egnu  KT-deild,  sum  hevur  ábyrgdina  av  at  menna  KT</p>
+<p>loysnir, ið eru serliga snikkaðar til endamálið. KT-deildin hevur eisini sum uppgávu at viðlíkahalda ymisku KT-skipanirnar og forritini, eins og at ráðgeva ymisku brúkarunum í</p>
+<p xml:lang="dan"><em type="italic">Fiskeridirektoratet</em>. </p>
+<p>Afturat teimum fimm omanfyrinevndu deildunum kemur <em type="italic">Personal- og </em></p>
+<p><em type="italic">organisasjonsutviklingsstaben</em>, sum avgreiðir lønarviðurskifti, sjúkrafráveru, </p>
+<p>starvsetanir, menning av starvsfólki og starvsfólkapolitikk. Og <em type="italic">Kommunikasjonsstaben</em>, sum  í  høvuðsheitum  tekur  sær  av  samskifti  úteftir  hjá <em type="italic">Fiskeridirektoratet</em>  eitt  nú netmiðlar,  innanhýsis  samskiftisráðgeving,  bóklingar  og  kunningartilfar.  Her  kann nevnast,  at  ein  russiskur  tulkur  er  settur  í  starv  at  taka  sær  av  russiska  partinum  av heimasíðuni hjá <em type="italic">Fiskeridirektoratet</em>. </p>
+<p>31</p>
+<p>3.3. Kystvakta</p>
+<p><em type="italic">Kystvakta</em>  er  ein  deild  í <em type="italic">Sjøforsvaret</em>  og  fevna  uppgávurnar  í  høvuðsheitum  um </p>
+<p>fiskiveiðieftirlit, umhvørvisvernd, leiting og bjarging, umframt tolleftirlit.</p>
+<p>3.3.1. Lógarheimild og játtan</p>
+<p><em type="italic">Kystvakta</em>  virkar  eftir  serligari  lóg,  nevniliga <em type="italic">Kystvaktlova</em>.  Sambært  hesari  lóg  hevur <em type="italic">Kystvakta</em> í friðartíð ábyrgd av at tryggja norskan sjálvsavgerðarrætt og norskt yvirvald. </p>
+<p>Játtanin í 2017 er 1.106 mió. NOK.</p>
+<p>3.3.2. Bygnaður</p>
+<p><em type="italic">Kystvakta</em> er sum sagt ein deild í <em type="italic">Sjøforsvaret</em>, ið er undir norska Verjumálaráðnum. Sí </p>
+<p>annars bygnaðin niðanfyri.</p>
+<p>Í  2017  hevði <em type="italic">Kystvakta</em>  trettan  ymisk  vaktarskip,  eins  og  tvær  tyrlur.  Tey  trettan vaktarskipini  hava  eftirlit  við  ymiskum  pørtum  av  norskum  sjóøki  og  eru  útgjørd </p>
+<p>32</p>
+<p>samsvarandi, millum annað hava tey góða sleipiorku og kunnu taka sær av oljudálking. Her kann nevnast, at vaktarskipini hjá <em type="italic">Kystvakta</em> eru fækkað seinastu árini. Eisini hevur </p>
+<p><em type="italic">Kystvakta</em> atgongd til tvey eftirlitsflogfør hjá norska flogvápninum, eins og at fjarstýrd </p>
+<p>flogfør verða nýtt til eftirlitsvirksemi.</p>
+<p>Talan er um 26 manningar til tey trettan vaktarskipini og hava øll trettan vaktarskipini heimahavn í Sortland í Norðurnoregi, har <em type="italic">Kystvakta</em> hevur høvuðsstøð. </p>
+<p>3.3.3. Virkisøki</p>
+<p>Sum  víst  á  omanfyri  eru  høvuðsuppgávurnar  hjá <em type="italic">Kystvakta</em>  fiskiveiðieftirlit  á  sjónum, umhvørvisvernd,  leiting  og  bjarging,  umframt  tolleftirlit.  Størsti  parturin  av  tíðini  og orkuni  hjá <em type="italic">Kystvakta</em>  fer  til  fiskiveiðieftirlit  á  sjónum  og  hevur <em type="italic">Kystvakta</em>  fullan løgreglumyndugleika uttanfyri 12 fjórðingar. Her kann nevnast, at av tí, at talan er um so sera stór økir, verða nógvar váðametingar gjørdar. </p>
+<p>Uppgávurnar hjá <em type="italic">Kystvakta</em> fevna annars um: </p>
+<p type="listitem" xml:lang="dan"> Sjúkraflutning</p>
+<p type="listitem"> Tolleftirlit</p>
+<p type="listitem"> Granskingarsamstarv</p>
+<p type="listitem"> Sleiping</p>
+<p type="listitem"> Kavarahjálp til skip</p>
+<p type="listitem" xml:lang="dan"> Umhvørvistilbúgving</p>
+<p>Sambært <em type="italic">Kystvaktlova</em> hevur <em type="italic">Kystvakta</em> heimild til at útinna eftirlit fyri fleiri almennar stovnar  í  Noregi.  Tískil  samstarvar <em type="italic">Kystvakta</em>  tætt  við  løgreglu,  tollmyndugleikar, </p>
+<p><em type="italic">Kystverket</em>, ið hevur ábyrgd av skipaferðslu í norskum sjóøki og <em type="italic">Sjøfartsdirektoratet</em>, sum </p>
+<p>er norska Sjóvinnustýrið.</p>
+<p>33</p>
+<p xml:lang="dan">3.4. Havforskningsinstituttet</p>
+<p><em type="italic">Havforskningsinstituttet</em> er ráðgevandi granskingarstovnur beinleiðis undir <em type="italic">Nærings- og fiskeridepartementet</em>.  Stovnurin  hevur  sjálvstøðugan  og  óheftan  leiklut  í  mun  til  allar </p>
+<p>yrkisligar spurningar.</p>
+<p>3.4.1. Lógarheimild og játtan</p>
+<p>Skipanin í mun til lógarheimild er tann sama, sum fyri <em type="italic">Fiskeridirektoratet</em> og ger <em type="italic">Nærings- </em></p>
+<p><em type="italic">og  fiskeridepartementet</em>  eisini <em type="italic">tildelingsbrev</em>  til <em type="italic">Havforskningsinstituttet</em>.  Játtanin  til <em type="italic">Havforskningsinstituttet</em> í 2017 er 947,2 mió. NOK. Afturat hesum kemur ein serlig játtan </p>
+<p>til rakstur av seks havrannsóknaskipum og at byggja eitt nýtt havrannsóknarskip í 2017. Hendan upphæddin er í 2017 áljóðandi 1.290,8 mió. NOK.</p>
+<p>3.4.2. Bygnaður</p>
+<p><em type="italic">Havforskningsinstituttet</em> hevur høvuðssæti í Bergen. Harafturat er ein deild í Tromsø, </p>
+<p>granskingarstøðir í Austevoll, Matre, Flødevigen og minni støðir í Porsanger og Rosendal. Í  2016  vóru  umleið  715  starvsfólk  á <em type="italic">Havforskningsinstituttet</em>.  Meira  enn  helvtin  av teimum  starvaðust  í  Bergen.  Umleið  157  starvsfólk  á <em type="italic">Havforskningsinstituttet</em>  vóru beinleiðis knýtt afturat havrannsóknaskipum og síðan vóru millum 60 og 30 starvsfólk á hinum støðunum. </p>
+<p>Eisini  er  nakað  av  virksemi  hjá <em type="italic">Havforskningsinstituttet</em>  í  Oslo.  Bygnaðurin  á </p>
+<p><em type="italic">Havforskningsinstituttet</em> skal stimbra samskifti og tryggja skjótt samskifti millum ymsu </p>
+<p>partarnar av <em type="italic">Havforskningsinstituttet</em>, eins og at virka verður tvørnámsliga fyri at tryggja heildarmyndina serliga í mun til ráðgeving. Sí annars bygnaðin niðanfyri. </p>
+<p>34</p>
+<p>3.4.3. Virkisøki</p>
+<p>Uppgávurnar hjá <em type="italic">Havforskningsinstituttet</em> fevna um at: </p>
+<p type="listitem"> Granska hav- og strandarumhvørvið og havlívfrøðina</p>
+<p type="listitem" xml:lang="dan"> Ráðgeva <em type="italic">Nærings-  og  fiskeridepartementet</em>, <em type="italic">Fiskeridirektoratet</em>, <em type="italic">Mattilsynet</em>, </p>
+<p>aðrar myndugleikar, fiski- og alivinnu og aðra vinnu, í mun til at umsita hav- og strandartilfeingi og umhvørvi</p>
+<p>35</p>
+<p type="listitem"> Ymiskar tænastur til <em type="italic">Miljødirektoratet</em>, <em type="italic">Oljedirektoratet</em>, <em type="italic">Utenriksdepartementet</em> </p>
+<p>og aðrar avvarðandi stovnar</p>
+<p type="listitem"> Tilbúgvingarleiklut  í  sambandi  við  bráðfeingis  hendingar,  eitt  nú  oljulekar,</p>
+<p>taraendurkveiking, lekar av ymsum slagi í sambandi við alivirksemi</p>
+<p type="listitem"> Ráðgeva í sambandi við fiskirættindasamráðingar</p>
+<p type="listitem"> Luttaka í norskum sendinevndum í sambandi við fiskirættindasamráðingar</p>
+<p type="listitem"> Luttaka í altjóða granskingarsamstarvi</p>
+<p type="listitem"> Luttaka í altjóða ráðgeving til eitt nú ymiskar stovnar undir Sameindu tjóðum, so</p>
+<p>sum UNEP og UNESCO</p>
+<p>36</p>
+<p>4. SAMANBERANDI GREINING</p>
+<p>Í  hesum  parti  verður  ein  samanberandi  greining  gjørd  av  ávikavist  markamótunum millum stjórnarráð og undirskipaðar stovnar og markamótunum millum undirskipaðar stovnar hjá Føroyum, Íslandi og Noregi.</p>
+<p>4.1. Markamót millum stjórnarráð og undirskipaðar stovnar</p>
+<p>Tá ið hugt verður eftir fiskivinnufyrisitingunum í Føroyum, Íslandi og Noregi, kemur tað rættiliga greitt fram, at markamótini millum stjórnarráð og undirskipaðar stovnar eru lík í summum førum og ólík í øðrum førum.</p>
+<p>Í  Føroyum  og  Íslandi  eru  markamótini  millum  ávikavist  Fiskimálaráðið  og  Vørn  og</p>
+<p><em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em> í Reykjavík og <em type="italic">Fiskistofa</em> í Akureyri rættiliga lík. Í </p>
+<p>báðum  førum  liggja  allar  stýrisuppgávur  í  vanligum  skipanum  viðvíkjandi fiskivinnufyrisiting  hjá  Vørn  og <em type="italic">Fiskistofa</em>,  meðan  allar  stýrisuppgávur  í  serskipanum liggja hjá Fiskimálaráðnum og <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em>. </p>
+<p>Bæði í Føroyum og í Íslandi verður fiskiskapurin skipaður í kunngerðum, sum avvarðandi fiskimálaráðharrar staðfesta og sum ávikavist Vørn og <em type="italic">Fiskistofa</em> útinna sín myndugleika sambært.  Í  Føroyum  og  í  Íslandi  fer  sostatt  øll  regluskapan  fram  í  ávikavist Fiskimálaráðnum og <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em>. </p>
+<p>Eisini kæruskipanirnar í Føroyum og Íslandi eru líkar. Í báðum førum kunnu reiðarafeløg kæra  avgerðir  í  fiskivinnumálum,  sum  Vørn  og <em type="italic">Fiskistofa</em>  hava  tikið  til  ávikavist Fiskimálaráðið og <em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em>, sum síðani í fyrisitingini taka endaligar avgerðir í málunum. </p>
+<p>Í Noregi hinvegin er skipanin hon, at allar stýrisuppgávur viðvíkjandi fiskivinnufyrisiting eru,  uttan  mun  til  um  tær  eru  í  vanligum  skipanum  ella  serskipanum  lagdar  til</p>
+<p><em type="italic">Fiskeridirektoratet</em>  í  Bergen  at  sita  fyri.  Við  øðrum  orðum,  tað  er <em type="italic">Fiskeridirektoratet</em> </p>
+<p>saman við sínum økisdeildum kring landið, sum situr fyri norsku fiskivinnuni og verða øll viðurskifti við norsk reiðarafeløg greidd har.</p>
+<p>Heimildirnar hjá <em type="italic">Fiskeridirektoratet</em> eru antin ásettar í kunngerðum ella siðvenju, ið er komin til síðani stovnurin var settur á stovn í Bergen í ár 1900 og tá hevði eitt rættiliga leyst tilknýti til Oslo. Í Noregi er tað antin fiskimálaráðharrin ella ein avvarðandi stjóri, sum staðfestir tílíkar kunngerðir. </p>
+<p><em type="italic">Nærings-  og  fiskeridepartementet</em>  í  Oslo  hevur  yvirskipaðu  ábyrgdina  av </p>
+<p>fiskivinnufyrisitingini í Noregi og ásetir í kunngerðum løgfrøðiligar karmar og regluverk,</p>
+<p>37 sum <em type="italic">Fiskeridirektoratet</em> virkar eftir. <em type="italic">Fiskeridirektoratet</em> afturímóti hevur víðar heimildir at  áseta  reglur  viðvíkjandi  fiskivinnufyrisiting  sambært  hesum  kunngerðum  og  hevur enntá heimild sambært teimum í ávísum førum eftirfylgjandi at broyta tær í tøkniligum viðurskiftum  viðvíkjandi  fiskiskapi  eitt  nú  í  mun  til  fiskileiðir,  fiskasløg,  fiskiskip  og veiðiamboð. </p>
+<p>Økisdeildirnar hjá <em type="italic">Fiskeridirektoratet</em> eru fyrstu  dyr hjá norsku fiskivinnuni og viðgera tær sostatt øll vanlig mál í mun til reiðarafeløg. Eru norsk reiðarafeløg ósamd um viðgerð og niðurstøðu er vanliga mannagongdin í Noregi í kærumálum hon, at kært verður til </p>
+<p><em type="italic">Fiskeridirektoratet</em>,  sum  síðani  í  grundregluni  í  fyrisitingini  tekur  endaliga  avgerð  í </p>
+<p>málinum.</p>
+<p>Hóast hesa skipan kann <em type="italic">Nærings- og fiskeridepartementet</em> í grundregluni altíð leggja seg út í málsviðgerð hjá <em type="italic">Fiskeridirektoratet</em>, antin av eintingum ella tí at eitt ávíst reiðarafelag hevur vent sær hagar og at <em type="italic">Nærings- og fiskeridepartementet</em> heldur tað hava grein í sínum máli. Hinvegin er vanliga mannagongdin hon, at <em type="italic">Fiskeridirektoratet</em> ráðførir seg altíð  í  ivamálum  við <em type="italic">Nærings-  og  fiskeridepartementet</em>,  áðrenn  avgerð  verður  tikin  í tílíkum málum. </p>
+<p>Samanumtikið  kann  sostatt  verða  sagt,  at  Fiskimálaráðið  og <em type="italic">Atvinnuvega-  og </em></p>
+<p><em type="italic">nýsköpunarráðuneytið</em>  eru  regluskapandi  myndugleikar  og  í  stýrisuppgávum  í </p>
+<p>serskipanum  útinnandi  myndugleikar,  meðan  Vørn  og <em type="italic">Fiskistofa</em>  eru  útinnandi myndugleikar  í  stýrisuppgávum  í  vanligum  skipanum.  Hinvegin  er <em type="italic">Nærings-  og </em></p>
+<p><em type="italic">fiskeridepartementet</em>  regluskapandi  myndugleiki,  meðan <em type="italic">Fiskeridirektoratet</em>  er  bæði </p>
+<p>regluskapandi myndugleiki og í stýrisuppgávum í vanligum skipanum og stýrisuppgávum í serskipanum útinnandi myndugleiki.</p>
+<p>Tá  ið  ræður  um  markamótini  millum  Fiskimálaráðið, <em type="italic">Atvinnuvega-  og </em></p>
+<p><em type="italic">nýsköpunarráðuneytið</em>  og <em type="italic">Nærings-  og  fiskeridepartementet</em>  øðrumegin  og  ávikavist </p>
+<p>Havstovuna, <em type="italic">Hafrannsóknastofnun</em>  og <em type="italic">Havforskningsinstituttet</em>  hinumegin,  eru  tey meinlík.  Talan  er  í  øllum  trimum  førum  um  vísindaligar  stovnar,  sum  fáast  við havlívfrøðiligar  tilráðingar  til  avvarðandi  stjórnarráð.  Tískil  verða  hesi  markamót  ikki viðgjørd nærri. </p>
+<p>Sama  er  støðan  viðvíkjandi  markamótunum  millum  Fiskimálaráðið, <em type="italic">Atvinnuvega-  og </em></p>
+<p><em type="italic">nýsköpunarráðuneytið</em>  og <em type="italic">Nærings-  og  fiskeridepartementet</em>  øðrumegin  og  ávikavist </p>
+<p>Vørn, <em type="italic">Landhelgisgæsla Íslands</em> og <em type="italic">Kystvakta</em> hinumegin, sum eru meinlík í verki og tískil ikki  verða  viðgjørd  nærri.  Her  eigur  tó  at  verða  viðmerkt,  at  meðan  Vørn  er  ein undirskipaður  stovnur  hjá  Fiskimálaráðnum  er <em type="italic">Landhelgisgæsla  Íslands</em>  ein undirskipaður  stovnur  hjá <em type="italic">Dómsmálaráðuneytið</em>,  meðan <em type="italic">Kystvakta</em>  er  ein  deild  í </p>
+<p xml:lang="dan"><em type="italic">Sjøforsvaret</em>. </p>
+<p>38</p>
+<p>4.2. Markamót millum undirskipaðar stovnar</p>
+<p>Tá ið ræður um markamót millum undirskipaðar stovnar í Føroyum, Íslandi og Noregi kann verða sagt, at tey yvirskipað eru rættiliga lík í uppgávubýtum.</p>
+<p>Um vit samanbera tær tríggjar stovnsheildirnar hjá hesum londum, nevniliga Vørn og Havstovan  í  Føroyum; <em type="italic">Fiskistofa</em>, <em type="italic">Landhelgisgæsla  Íslands</em>  og <em type="italic">Hafrannsóknastofnun</em>  í Íslandi og at enda <em type="italic">Fiskeridirektoratet</em>, <em type="italic">Kystvakta</em> og <em type="italic">Havforskningsinstituttet</em> í Noregi eru allir hesir stovnar í markamótum og sostatt í sínámillum uppgávubýtum líkir. </p>
+<p>Við  øðrum  orðum,  talan  er  um  trý  grundleggjandi  sløg  av  uppgávum,  sum  hesir undirskipaðu stovnar býta sínámillum. Tey eru at sita fyri fiskivinnu og hava eftirlit við henni á landi, at hava eftirlit við fiskivinnu á sjónum og loksins at veita havlívfrøðiligar tilráðingar.</p>
+<p>Tað er á skipanarliga økinum, at Føroyar víkja frá Íslandi og Noregi, sum hvørt við annað eru meinlík, nevniliga, at Vørn í Føroyum samsvarar við eina samanlagda <em type="italic">Fiskistofa</em> og </p>
+<p><em type="italic">Landhelgisgæsla  Íslands</em>  í  Íslandi  ella  eitt  samanlagt <em type="italic">Fiskeridirektoratet</em>  og <em type="italic">Kystvakta</em>  í </p>
+<p>Noregi.</p>
+<p>39</p>
+<p>5. UPPSKOT TIL FRAMTÍÐAR FISKIVINNUFYRISITING</p>
+<p>Í hesum parti verður eitt uppskot til eina framtíðar føroyska fiskivinnufyrisiting tilevnað við íblástri úr íslendsku og norsku fiskivinnufyrisitingunum. Sostatt verður her skotið upp at skipa eina føroyska sjófeingisfyrisiting sum nýggjan stovn undir Fiskimálaráðnum, ið fær dagligu ábyrgdina av at sita fyri føroysku fiskivinnuni. Eftir hesum uppskoti, eins og greitt verður frá niðanfyri, fer ein framtíðar føroysk fiskivinnufyrisiting tískil at fevna um Fiskimálaráðið sum yvirskipaðan myndugleika  og nýstovnaða sjófeingisfyrisiting, Vørn o</p>
+<p>5.1. Fiskimálaráðið</p>
+<p>Sambært  uppskotinum  verður  Fiskimálaráðið  skipað  av  nýggjum  sum  eitt  <span type="quote">“reint”</span> stjórnarráð, har allar stýrisuppgávur verða lagdar til eina nýstovnaða sjófeingisfyrisiting, uttan mun til um tær eru í vanligum skipanum ella serskipanum. Harumframt verða øll kærumál løgd til kærunevnd.</p>
+<p>Tað hevur í høvuðsheitum við sær, at Fiskimálaráðið fer á sínum málsøkjum burturav at standa fyri <em type="italic">policymaking</em>, lógarfyrireiking, kunngerðarsmíð, altjóða samvinnu, heruppií altjóða  samráðingum,  og  øðrum  virksemi,  sum  eftir  vanligari  fatan  liggur  hjá  einum stjórnarráði. </p>
+<p>Í  einum  nýskipaðum  Fiskimálaráði  fara  politisku  mál  fiskimálaráðharrans  og landsstýrisins  sostatt  at  fáa  størri  rúmd  og  raðfesting  og  verða  meira  sjónlig  í samfelagnum vegna tess at:</p>
+<p>- Daglig málsviðgerð í mun til borgarar, felagsskapir og vinnufeløg fær minni rúmd eftir avhending til eina nýstovnaða sjófeingisfyrisiting sambært fyriskipan.</p>
+<p>- Kærumál frá borgarum, felagsskapum og vinnufeløgum fáa minni rúmd eftir at tey verða løgd til kærunevnd sambært lóg.</p>
+<p>- Mál, ið hava við framtíð og menning at gera verða raðfest og sett í hásæti.</p>
+<p>- Altjóða samvinna verður somuleiðis raðfest og sett í hásæti.</p>
+<p>Nú  Fiskimálaráðið  er  eitt  av  landsins  minstu  stjórnarráðum  við  aðalstjóra  og  einans fimtan starvsfólkum í føstum størvum og eftir hesum uppskoti verður skorið nakað niður</p>
+<p>40 í  starvsfólkatali  eftir  at  ávíst  starvsfólkatilfeingi  verður  flutt  í  eina  nýstovnaða sjófeingisfyrisiting verður hildið sum meginuppskot, at ráðið átti heldur at verðið skipað við toymum enn deildum.</p>
+<p>Í slíkari toymisskipan verða uppgávurnar í Fiskimálaráðnum, ið natúrliga hoyra saman lagdar  sum  øki  í  hvørt  toymi  sær.  Við  øðrum  orðum,  Fiskimálaráðið  kundi  hóskandi verðið skipað við hesum toymum:</p>
+<p>1. Eitt fiskivinnutoymi, ið fær ábyrgdina av at ráðgeva í <em type="italic">policymaking</em>, at fyrireika lógaruppskot,  at  fyrireika  uppskot  til  kunngerðir,  at  standa  fyri  dagliga samskiftinum  á  sínum  øki  við  Havstovuna  og  eina  nýstovnaða  føroyska sjófeingisfyrisiting,  umframt  at  takast  við  onnur  mál,  sum  stinga  seg  upp  í Fiskimálaráðnum á fiskivinnuøkinum. </p>
+<p>2. Eitt landbúnaðartoymi, ið fær ábyrgdina av at ráðgeva í <em type="italic">policymaking</em>, at fyrireika lógaruppskot,  at  fyrireika  uppskot  til  kunngerðir,  at  standa  fyri  dagliga samskiftinum á sínum øki við Búnaðarstovuna og Búnaðargrunnin, umframt at takast  við  onnur  mál,  sum  stinga  seg  upp  í  Fiskimálaráðnum  á landbúnaðarøkinum. </p>
+<p>3. Eitt tilbúgvingartoymi, ið fær ábyrgdina av at ráðgeva í <em type="italic">policymaking</em>, at fyrireika lógaruppskot,  at  fyrireika  uppskot  til  kunngerðir,  at  standa  fyri  dagliga samskiftinum  á  sínum  øki  við  Vørn  og  allar  aðrar  avvarðandi  leikarar  innan tilbúgving  í  Føroyum,  umframt  at  takast  við  onnur  mál,  sum  stinga  seg  upp  í Fiskimálaráðnum á tilbúgvingarøkinum. </p>
+<p>4. Eitt  fíggjartoymi,  ið  fær  ábyrgdina  av  øllum  innanhýsis  viðurskiftum  í Fiskimálaráðnum eitt nú fíggjarlógarfyrireiking, játtanareftirliti, hølisviðurskiftum,  KT-skipanum,  skjalaskráseting,  bókhaldi,  heimasíðum, umframt  skipanarligum  viðurskiftum  við  undirskipaðar  stovnar  hjá Fiskimálaráðnum.</p>
+<p>5. Eitt  HR-toymi,  ið  fær  ábyrgdina  av  starvsfólkaviðurskiftum  og  at  skipa  fyri starvsfólkamenning og røkt.</p>
+<p>6. Hitt føroyska samráðingartoymið, ið varð skipað í Fiskimálaráðnum á sumri 2013, heldur fram sum óbroytt og fær eftir hesum uppskoti ábyrgdina av øllum altjóða samráðingum, sum Fiskimálaráð</p>
+<p>41 tvíliðaðum  samráðingum  um  fiskirættindi  og  samráðingum  í  økisfelagsskapum fyri fiskivinnuumsiting.</p>
+<p>Við omanfyristandandi í huga verður tískil skotið upp, at bygnaðurin í einum nýskipaðum Fiskimálaráði verður ásettur eins og endurgivin niðanfyri.</p>
+<p>Í eini toymisskipan sum hesari í uppskoti omanfyri vísa starvsfólkini í Fiskimálaráðnum skipanarliga til aðalstjóran og starvsliga til avvarðandi toymisleiðara. Toymisleiðararnir vísa bæði skipanarliga og starvsliga til aðalstjóran. Eisini ganga starvsfólkini aftur antin</p>
+<p>42 sum toymisleiðarar, toymissamskiparar ella toymislimir í teimum ymsu toymunum. Við øðrum orðum, í førum har tað er fullgott fyri Fiskimálaráðið og tað einstaka starvsfólkið, kann tað starvsfólkið í grundregluni verða toymisleiðari í einum toymi, toymissamskipari í einum øðrum toymi og toymislimur í einum triðja toymi.</p>
+<p>Sostatt verður lagt upp til eina elviliga og mennandi skipan, har starvsfólk kunnu taka avbjóðingar á seg antin sum toymisleiðarar, toymissamskiparar ella toymislimir í teimum ymsu toymunum í einari broytiligari samanseting í tann mun støðan í Fiskimálaráðnum tilskilar tað og ynski hjá tí einstaka starvsfólkinum um ávísa yrkisleið somuleiðis er lokið.</p>
+<p>Umframt  omanfyri  uppskotnu  toymisskipan  verður  eisini  skotið  upp,  at  skrivari fiskimálaráðharrans og samskiparin í fiskivinnugransking verða skipað sum serstøk størv í  Fiskimálaráðnum,  har  skrivarin  vísir  skipanarliga  til  aðalstjóran  og  starvsliga  til fiskimálaráðharran,  meðan  samskiparin  vísir  bæði  skipanarliga  og  starvsliga  til aðalstjóran.</p>
+<p>Flestu stjórnarráð í Føroyum hava leiðslufundir, deildarfundir og starvsfólkafundir. Tað er  eisini  verandi  skipan  í  Fiskimálaráðnum.  Sum  áður  umrøtt  er  Fiskimálaráðið  við aðalstjóra  og  einans  fimtan  starvsfólkum  eitt  av  landsins  minstu  stjórnarráðum  og verður eftir hesum uppskoti enntá skorið nakað niður í starvsfólkatali.</p>
+<p>Tískil verður ikki hildið, at tað er burðardygt fyri ta samlaðu starvsfólkaorkuna í ráðnum at  hava  bæði  leiðslufundir,  deildarfundir  og  starvsfólkafundir  á  einum  so  lítlum starvsfólkagrundarlagi. Av hesi orsøk verður skotið upp at leggja nevndu tríggjar fundir saman  í  ein  vikuligan  ráðsfund,  har  øll  luttaka.  Eftir  hesi  skipan  hava  ymsu  toymini harafturat javnan toymisfundir, har aðalstjóri og/ella fiskimálaráðharri verða bodnir á fund eftir tørvi og øvugt.</p>
+<p>Tað er ikki sørt lítið at ivast í, at toymisskipanin í uppskoti í mun til verandi deildarskipan í  Fiskimálaráðnum  hevur  eisini  við  sær  aðrar  fyrisitingarligar  fyrimunir.  Tveir grundleggjandi  høvuðsfyrimunir  mega  vera  nevndir  í  hesum  sambandi.  Tann  eini høvuðsfyrimunurin er, at <span type="quote">“vit”</span> og <span type="quote">“tit”</span> mentanin, sum er rættiliga vanlig í eini og hvørjari deildarskipan fer at vera meira fjar, samstundis sum starvsfólkini fara at hugsa og síggja seg meira sum eitt samansjóðað felagslið í Fiskimálaráðnum. Hin høvuðsfyrimunurin er, at  líkindi  vera  til  eina  munandi  størri  vitanarspjaðing  millum  starvsfólkini  í Fiskimálaráðnum, nú tey ganga aftur í fleiri toymum í eini blandingsskipan.</p>
+<p>---</p>
+<p>43 Sum  hjáuppskot  verður  hildið,  at  tað  ber  eisini  til  at  gera  tillagingar  í  verandi deildarskipan í Fiskimálaráðnum heldur enn at fara til eina fullfloygda toymisskipan. Ein grundleggjandi  høvuðsgrundgeving  kundi  verið,  at  tá  ið  hugsað  verður  um  starvsliga tilvísingar eina, vera tað heilir seks toymisleiðarar, sum í tí dagliga fara at vísa beinleiðis til  aðalstjóran,  umframt  samskiparan  í  fiskivinnugransking.  Sostatt  kann aðalstjórastarvið gerast alt ov margfalt og strongt.</p>
+<p>Í  eini  deildarskipan  í  Fiskimálaráðnum,  sum  tillagað,  verður  sostatt  skotið  upp,  at bygnaðurin verður skipaður eins og endurgivin niðanfyri.</p>
+<p>Í  uppskotnu  deildarskipanini  í  Fiskimálaráðnum  omanfyri,  sum  tillagað,  verða  sostatt tríggjar  deildir,  nevniliga  ein  altjóðadeild,  ein  tilfeingisdeild  og  ein  fíggjardeild. Ábyrgdarbýtið millum deildirnar verður lýst niðanfyri í samanbering við fyrr uppskotnu toymisskipanina.</p>
+<p>Fiskimálaráðharri</p>
+<p>Aðalstjóri</p>
+<p>AltjóðadeildTilfeingisdeildFíggjardeild</p>
+<p>1. Altjóðadeildin  fær  ábyrgdina  av  samsvarandi  málum  sum  hitt  føroyska samráðingartoymið,  nevniliga  ábyrgdina  av  øllum  altjóða  samráðingum,  ið Fiskimálaráðið  varðar  av,  eitt  nú  strandarlandasamráðingum,  tvíliðaðum samráðingum  um  fiskirættindi  og  samráðingum  í  økisfelagsskapum  fyri fiskivinnuumsiting.</p>
+<p>2. Tilfeingisdeildin fær ábyrgdina av samsvarandi málum sum fiskivinnutoymið og landbúnaðartoymið, nevniliga ábyrgdina av at ráðgeva í <em type="italic">policymaking</em>, at fyrireika </p>
+<p>44 lógaruppskot,  at  fyrireika  uppskot  til  kunngerðir,  at  standa  fyri  dagliga samskiftinum  á  sínum  øki  við  Havstovuna,  eina  nýstovnaða  føroyska sjófeingisfyrisiting,  Búnaðarstovuna  og  Búnaðargrunnin,  umframt  at  takast  við onnur  mál,  ið  stinga  seg  upp  í  Fiskimálaráðnum  á  fiskivinnuøkinum  og landbúnaðarøkinum.</p>
+<p>3. Fíggjardeildin  fær  ábyrgdina  av  samsvarandi  málum  sum  HR-toymið, fíggjartoymið og tilbúgvingartoymið, nevniliga ábyrgdina av starvsfólkaviðurskiftum og at skipa fyri starvsfólkamenning og røkt; ábyrgdina av øllum  innanhýsis  viðurskiftum  í  Fiskimálaráðnum  eitt  nú  fíggjarlógarfyrireiking, játtanareftirliti,  hølisviðurskiftum,  KT-skipanum,  skjalaskráseting,  bókhaldi, heimasíðum, umframt skipanarligum viðurskiftum við undirskipaðar stovnar hjá Fiskimálaráðnum og at enda ábyrgdina av at ráðgeva í <em type="italic">policymaking</em>, at fyrireika lógaruppskot,  at  fyrireika  uppskot  til  kunngerðir,  at  standa  fyri  dagliga samskiftinum  á  sínum  øki  við  Vørn  og  allar  aðrar  avvarðandi  leikarar  innan tilbúgving  í  Føroyum,  umframt  at  takast  við  onnur  mál,  ið  stinga  seg  upp  í Fiskimálaráðnum á tilbúgvingarøkinum. </p>
+<p>Eins  og  í  uppskotnu  toymisskipanini  verða  í  uppskotnu  deildarskipanini  skrivari fiskimálaráðharrans  og  samskiparin  í  fiskivinnugransking  skipað  sum  serstøk  størv  í Fiskimálaráðnum,  har  skrivarin  vísir  skipanarliga  til  aðalstjóran  og  starvsliga  til fiskimálaráðharran,  meðan  samskiparin  vísir  bæði  skipanarliga  og  starvsliga  til aðalstjóran.</p>
+<p>Harumframt  heldur  skipanin  við  leiðslufundum,  deildarfundum  og  starvsfólkafundum fram óbroytt í uppskotnu deildarskipanini í Fiskimálaráðnum.</p>
+<p>5.2. Sjófeingisfyrisiting</p>
+<p>Fiskivinnunýskipanin  sum  kjølfest  í  nýggjari  sjófeingislóg  fer  at  hava  nógvar  nýggjar uppgávur við sær og broyta virksemið hjá verandi fiskivinnufyrisiting munandi.</p>
+<p>Tað er  serliga við  hesum veruleika í huga, at  skotið verður upp at seta eina føroyska sjófeingisfyrisiting á stovn, sum fær ábyrgdina av øllum stýrisuppgávum bæði teimum í vanligum skipanum og teimum í serskipanum.</p>
+<p>Í hesum sambandi eigur eisini at vera havt í huga, hvussu okkara grannalond hava raðfest sínar sjófeingisfyrisitingar. Í Íslandi er lutfallið í starvsfólkum í fiskivinnumálum millum</p>
+<p><em type="italic">Atvinnuvega- og nýsköpunarráðuneytið</em> øðrumegin, og <em type="italic">Fiskistofa</em> hinumegin, 1:6, meðan </p>
+<p>í  Noregi  er  lutfallið  í  starvsfólkum  í  fiskivinnumálum  millum <em type="italic">Nærings-  og </em></p>
+<p>45 <em type="italic">fiskeridepartementet</em>  øðrumegin,  og <em type="italic">Fiskeridirektoratet</em>  hinumegin,  1:11.  Í  Føroyum </p>
+<p>afturímóti,  er  lutfallið  í starvsfólkum  í  fiskivinnumálum  millum  Fiskimálaráðið øðrumegin, og Vørn hinumegin, 1:0,7.</p>
+<p>Havast skal í huga, at tá ið heitið sjófeingisfyrisiting verður brúkt í uppskotinum skal tað ikki vera at skilja sum eitt uppskot til endaligt stovnsheiti, men heldur eitt ávegis hugtak til at lýsa eitt uppskot til ein framtíðar stovn undir Fiskimálaráðnum. Fleiri uppskot til stovnsheiti kundu verið uppá tal eitt nú sum sagt <span type="quote">“sjófeingisfyrisiting”</span>, ella í styttri líki <span type="quote">“sjófeingi”</span>, samanber Jarðfeingi, <span type="quote">“fiskivinnustýri”</span> ella <span type="quote">“fiskivinnustova”</span>.</p>
+<p>Skotið verður upp, at ein føroysk sjófeingisfyrisiting fær ein bygnað sum umframt stjóra fevnir  um  eina  tænastueind,  nevniliga  fyrisitingareind,  og  tríggjar  deildir,  nevniliga eftirlitsdeild, loyvis- og hagtalsdeild, og KT- og samskiftisdeild.</p>
+<p>Sostatt verður skotið upp, at bygnaðurin verður skipaður eins og endurgivin niðanfyri.</p>
+<p>5.2.1. Stjórin</p>
+<p>Stjórin hevur yvirskipaðu leiðsluna og ábyrgdina av sjófeingisfyrisitingini. Hann skipar og mennir stovnin ígjøgnum sína leiðsluheimild frá Fiskimálaráðnum til tess at alt tilfeingi stovnsins kann verða nýtt á ein munadyggan og burðardyggan hátt.</p>
+<p>Stjóri</p>
+<p>Fyrisitingareind</p>
+<p>EftirlitsdeildLoyvis- og</p>
+<p>hagtalsdeild KT- og</p>
+<p>samskiftisdeild</p>
+<p>46 Sum ovasti leiðari á sjófeingisfyrisitingini útinnir stjórin eisini í verki avvarðandi ásetingar í sjófeingislóg innanfyri heimildirnar, sum honum eru tillutaðar frá Fiskimálaráðnum.</p>
+<p>5.2.2. Fyrisitingareindin</p>
+<p>Í  fyrisitingareindini  vera  øll  innanhýsis  viðurskifti  í  sjófeingisfyrisitingini  eitt  nú fíggjarviðurskifti, starvsfólkaviðurskifti, hølisviðurskifti, skjalaskráseting og bókhald.</p>
+<p>Harumframt virkar fyrisitingareindin sum skrivstova hjá stjóranum við fíggjarfulltrúa og skrivstovufólkum.</p>
+<p>5.2.3. Eftirlitsdeildin</p>
+<p>Í  eftirlitsdeildini  verður  føroyska  fiskiveiðieftirlitið  fyrisitið  og  framt  samsvarandi sjófeingislóg.  Hóast  sjófeingisfyrisitingin  verður  eftirlitsmyndugleikin  bæði  á  sjógvi  og landi fara eftirlitsmenninir á deildini fyrst og fremst at fremja sínar eftirlitsuppgávur á landi  eitt  nú  tá  ið  fiskifør  landa  í  Føroyum  ella  uttanlands,  meðan  Vørn  vegna sjófeingisfyrisitingina og í samstarvi við hana fer at fremja eftirlitsuppgávurnar á sjónum við  undantakið  av  verksmiðjuskipum,  har  eftirlitsfólk  frá  sjófeingisfyrisitingini  fara  at fremja eftirlitið við framleiðslunum umborð.</p>
+<p>Í altjóða samráðingum og samstarvi um fiskirættindi fara starvsfólk frá eftirlitsdeildini at verða umboðaði í føroyskum sendinevndum sum serfrøðingar í eftirlitsmálum.</p>
+<p>Við nýggju sjófeingislógini verður stóra broytingin á eftirlitsøkinum hon, at farið verður frá fiskidagaskipan til eina kvotaskipan fyri øll fiskifør, undantiknir bólkarnir 4, 4T og 5. Tað  broytir  virksemið  hjá  eftirlitinum  munandi.  Størri  vandi  verður  fyri  útblaking, slepping og skiljing, og tískil er neyðugt við øktari orku og fleiri eftirlitsfólkum til at hava eftirlit við hesum og krevur tað samsvarandi fíggjarliga raðfesting.</p>
+<p>5.2.4. Loyvis- og hagtalsdeildin</p>
+<p>Í loyvis- og hagtalsdeildini verður loyvisskipanin fyrisitin og framd. Deildin fevnir sostatt um uppgávurnar at skriva út loyvi til loyvishavarar, at skipa fyri uppboðssølum, at halda skil á øllum formligum viðurskiftum í fiskivinnuni, eitt nú loyvum í mun til miðsavnan og í tí sambandinum at savna saman upplýsingar um reiðarafeløg, fiskifør og fiskiskap til tess at gera hagtøl um ávikavist ognarviðurskifti og vei�</p>
+<p>47 Í  altjóða  samráðingum  og  samstarvi  um  fiskirættindi  fara  starvsfólk  frá  loyvis-  og hagtalsdeildini at verða umboðaði í føroyskum sendinevndum sum serfrøðingar innan fyrisiting av sjófeingi.</p>
+<p>Deildin fær eisini ábyrgdina av at skipa fiskiskapin í mun til stongdar leiðir eitt nú at seta bráðfeingis veiðibann í gildi fyri ávísan fiskiskap, heruppií at stongja ávísar leiðir.</p>
+<p>Harumframt fær deildin ábyrgdina av stýrisuppgávum í serskipanum eitt nú at sita fyri royndarfiskiskapi eftir ávísum fiskasløgum og at sita fyri menningarkvotum.</p>
+<p>Samanumtikið fer deildin at fáa fleiri heimildir til at áseta ítøkiligar reglur fyri føroyskan fiskiskap  innanfyri  karmin  av  kunngerðum,  sum  verða  smíðaðar  eftir  nýggju sjófeingislógini.</p>
+<p>Við sjófeingislógini verður ein tann størsta broytingin í mun til verandi lóg um vinnuligan fiskiskap, at rættindi fyri tey størru skipini ikki longur verða knýtt afturat einum fiskifari. Tað  førir  við  sær,  at  øll  telduskipanin  og  mannagongdir  annars  skulu  broytast,  tí  alt virksemi higartil er grundað á fiskifør.</p>
+<p>Samstundis kann roknast við, at tað verða fleiri leikarar í fiskivinnuni, og sostatt skulu ognarviðurskiftini  eftirkannast  í  fleiri  reiðarafeløgum  enn  nú.  Slíkt  krevur  ofta  drúgva viðgerð, sum aftur krevur nógva orku. Við øðrum orðum, skil skal bæði haldast á hvør hevur hvørji rættindi og hvørji fiskifør hava hvørji fiskiloyvi.</p>
+<p>Við  sjófeingislógini  verða  eisini  reglurnar  um  miðsavnan  broyttar  munandi  í  mun  til verandi  lóg  um  vinnuligan  fiskiskap.  Hámark  verður  sett  fyri  samlaðu  rættindini  hjá hvørjum reiðarafelag sær, bæði av samlaða fiskiskapinum og í einstøkum bólkum. Tað førir eisini við sær eyka orku og virksemi.</p>
+<p>5.2.5. KT- og samskiftisdeildin</p>
+<p>Í KT- og samskiftisdeildini verða skipanir mentar og viðlíkahildnar, sum eru neyðugar fyri at skipa føroyska fiskiskapin. Serliga verður hugsað um skipanir í serritbúnaði, ið fevna um loyvishavarar antin sum einstaklingar ella feløg, kvotur, fiskidagar og fiskifør teirra, umframt veiðu.</p>
+<p>Hugsandi verður ein telduskipan ment  við einum netdepli, har hvørt reiðarafelag fær sína egnu vangamynd, ein <span type="quote">“mín síða”</span> við øllum viðkomandi  virksemi og hagtølum fyri fiskifør, kvotur, fiskidagar, dagførda veiðu í tonsatali á fiskasløg, umframt upplýsingum, sum kunnu siga, um felagið gongur ásetingunum um miðsavnan og øðrum viðurskiftum ov nær.</p>
+<p>48 Bæði í Íslandi og Noregi løgdu heimildarfólkini dent á hvussu týdningarmikið tað er at hava innanhýsis KT-fólk, tá ið tað ræður um at forrita serritbúnað, dagføra, menna og halda hann við líka til eina nútíðarliga sjófeingisfyrisiting. Harumframt vísti tað seg at vera  bæði  munandi  tryggari  og  minni  kostnaðarmikið  at  hava  KT-fólkini  starvssett  á stovninum heldur enn at knýta seg og binda seg afturat einari ávísari KT-fyritøku langt fram í tíðina.</p>
+<p>Í  KT-  og  samskiftisdeildini  vera  harafturat  allar  samskiftisskipanir  hjá sjófeingisfyrisitingini  eitt  nú  heimasíða  stovnsins  sum  miðlar  týðandi  upplýsingar  um stovnin og virksemi hansara.</p>
+<p>Eisini  fevnir  heimasíðan  um  dagførdar  upplýsingar  um  loyvishavarar,  uppboðssølur, kvotur, fiskidagar, fiskifør og veiðihagtøl sum amboð at skipa føroyska fiskiskapin og at fullkunna borgaran.</p>
+<p>Samanumtikið verður tí hildið, at serkøn starvsfólk eiga at verða sett í starv, ið hava skil fyri hagfrøði, forritan og miðling samstundis sum samstarvið við avvarðandi KT-fyritøkur verður gjørt upp á hesum øki. Sum áður sagt verður mett, at meira fæst fyri játtanina um  serkøn  starvsfólk  verða  sett  í  fast  starv  at  taka  sær  av  hesum  viðurskiftum. Somuleiðis verður hildið, at umsitingarparturin, eitt nú samskiftis- og </p>
+<p>5.3. Vørn</p>
+<p>Í uppskotinum verður lagt upp til, at Vørn verður í størstan mun ein <span type="quote">“rein”</span> vaktar- og bjargingartænasta <em type="italic">(coastguard)</em>  eins  og  í  grannalondum  okkara  og  aðrastaðni  í heiminum.  Vørn  fer  sostatt  at  halda  fram  at  vera  <span type="quote">“løgreglan”</span>  á  sjónum  og  uppihalda føroyska  lóg  har,  serstakliga  innanfyri  sjóvinnu,  sjófeingi,  jarðfeingi  og  umhvørvi, umframt at standa á odda fyri tilbúgving, leiting, bjarging og øðrum seruppgávum eitt nú sleiping. </p>
+<p>Sum  fyrr  umrøtt,  verður  ein  týðandi  lutur  í  virkseminum  hjá  Vørn  at  fremja fiskiveiðieftirlit  á  sjónum  í  samstarvi  við  sjófeingisfyrisitingina  sum  avvarðandi myndugleika. Tað er tí sera umráðandi, at vaktarskipini verða fíggjarliga raðfest til tess, at tey til eina og hvørja tíð kunnu verða fullvirkin á føroyskum havleiðum og somuleiðis endurnýggjaði, tá ið áneyðir eru fyri tí.</p>
+<p>Við hesi broyting verður meginluturin av starvsfólkatilfeinginum hjá Vørn á landi fluttur til  sjófeingisfyrisitingina.  Í  grundregluni  verður  talan  um  starvsfólk  og  játtan  hjá løgdeildini, deildini fiskiveiðieftirlitið og lutvíst fíggjardeildini, sum verða flutt og síðani</p>
+<p>49 býtt  millum  deildirnar  eftirlitsdeildin  og  loyvis-  og  hagtalsdeildin,  umframt fyrisitingareindin í sjófeingisfyrisitingini.</p>
+<p>Hóast hesa broyting verður starvsfólkatilfeingi á  landi, sum er beinleiðis knýtt afturat rakstrinum av vaktarskipunum hjá Vørn ikki flutt úr stovninum. Heldur ikki verða nakrar broytingar uppskotnar í mun til aðrar deildir í bygnaðinum hjá Vørn. Eftir broytingina verður bygnaðurin hjá Vørn sum niðanfyri lýstur.</p>
+<p>5.4. Havstovan</p>
+<p>Í hesum uppskoti verður lagt upp til, at Havstovan skipanarliga og bygnaðarliga heldur fram óbroytt.</p>
+<p>Tá ið ræður um samstarvið millum Havstovuna og Fiskimálaráðið í altjóða samráðingum um fiskirættindi eigur at verða umhugsað, um ein serlig játtan eigur at verða sett á stovn hjá Havstovuni til hesar samráðingar.</p>
+<p>Somuleiðis fer ein nýggj sjófeingislóg at krevja munandi meira av Havstovuni í mun til stovnsrøkt á føroyskum havleiðum og eigur tískil eisini at verða umhugsað at raðfesta hetta øki samsvarandi.</p>
+<p>Stjóri</p>
+<p>SamskipariGóðsku</p>
+<p>leiðari</p>
+<p>Fíggjareind</p>
+<p>VaktarskipMRCCVeðurstøðinGoymsluleiðari</p>
+<p>50 Við  øðrum  orðum,  við  nýggju  sjófeingislógini  verður  Havstovuni  álagt  nógvar  nýggjar uppgávur, heruppií gransking, stovnsmeting og ráðgeving um at umsita sjófeingi.</p>
+<p>Eisini  verður  lagt  upp  til  fleiri  kanningar  av  føroyska  sjófeinginum  og  tess  umhvørvi, menning av reiðskapi, øktum samstarvi við vinnuna, eitt nú eitt samstarvsráð og greiðari mannagongdir fyri ráðgeving um stovnsrøkt og umsiting av burðardyggari fiskivinnu.</p>
+<p>Í hesum sambandi skal Havstovan gera tilmæli um mest loyvdu veiðu við støði í langtíðar umsitingarætlanum eins og fiskidagatal skal ásetast fyri bólkarnar 4, 4T og 5.</p>
+<p>Sostatt  verður  lagt  upp  til,  at  Havstovan  ger  eina  støðulýsing  av  fiskastovnum  og havumhvørvinum, eins og eitt tilmæli um mest loyvdu veiðu fyri hvønn einstakan stovn við støði í langtíðar umsitingarætlanum, umframt onnur havlívfrøðilig tilmæli.</p>
+<p>Fyri bólkarnar 4, 4T og 5 verður lagt upp til, at Havstovan ger eina árliga eftirmeting av, hvussu nógv fiskiførini undir fiskidagaskipanini hava ávirkað veiðitrýstið, treytað av, at hagtalsgrundarlagið undir tí brúkta fiskidagatalinum og veiðuni eru nøktandi.</p>
+<p>Sum áður nevnt fara hesi átøk sum heild at krevja eina avgerandi og munandi fíggjarliga raðfesting til Havstovuna og er tað serliga botnfiskadeildin talan verður um.</p>
+<p>5.5. Samanumtøka</p>
+<p>Undir viðgerðini av hesum uppskoti til eina framtíðar føroyska fiskivinnufyrisiting hevur spurningurin verið settur, um tað yvirhøvur er neyðugt at skipa ein nýggjan stovn undir Fiskimálaráðnum. Í hesum sambandi hevur eisini verið ført fram, at tilgongdin at flyta stýrisuppgávur út úr Fiskimálaráðnum er longu framd við fiskiloyvum og veiðiloyvum til Vørn.</p>
+<p>Tað  er  lítið  at  ivast  í,  at  flytingarnar  av  stýrisuppgávum  í  vanligum  skipanum  eitt  nú fiskiloyvum og veiðiloyvum frá Fiskimálaráðnum til Vørn hava havt stórar broytingar við sær bæði fyri Fiskimálaráðið sum yvirskipaðan myndugleika og Vørn sum undirskipaðan stovn. Í Fiskimálaráðnum eru eisini stýrisuppgávur eftir, sum ikki eru fluttar úr ráðnum og verður her serliga hugsað um stýrisuppgávur í serskipanum eitt nú royndarfiskiskapur eftir ávísum fiskasløgum og menningarkvotur, umframt umboðan í altjóða samráðingum um fiskirættindi á serfrøðingastøði. Afturat hesum koma so øll kærumálini, sum tó ikki eru stýrisuppgávur.</p>
+<p>Tað er ein  sannroynd, at heimildarfólkini úr  Íslandi og Noregi, ið hava veitt holl ráð í tilevningini  av  hesum  uppskoti  hava  ikki  verið  í  iva.  Skal  ein  fiskivinnutjóð  hava  eina støðuga og trygga fyrisiting av sjófeingi, ið er grundfest í meginregluni um løgræði, er</p>
+<p>51 neyðugt  at  hava  ein  vælskipaðan  stovn  undir  Fiskimálaráðnum,  sum  burturav  hevur dagligu ábyrgdina av hesum øki.</p>
+<p>Í viðgerðini er tað eisini komið greitt fram, at líkindi eru til, at tað neyvan hevur verið ein fullgóð tilgongd at flyta stýrisuppgávur frá Fiskimálaráðnum til Vørn. Eisini er ivi sáddur um, hvørt tað er skilagott, at føroyska fiskiveiðieftirlitið liggur í Vørn. Sum áður umrøtt eigur Vørn at vera burturav ein vaktar- og bjargingartænasta og sostatt ikki ein stovnur, sum situr fyri sjófeingi. Við øðrum orðum, tað bendir tískil ikki sørt á, at uppgávurnar hjá Vørn,  ið  gjørdust  alt  ov  margfaldar,  tá  ið  avtornaði,  kunnu  hava  strongt  stovnin avgerandi í týðandi málum samstundis sum stovnurin hevur verið fyri stórum sparingum á fíggjarlógini tey nógvu seinnu árini.</p>
+<p>Tað er á hesum støði, at skotið verður upp at skipa eina føroyska sjófeingisfyrisiting sum sjálvstøðugan  stovn  undir  Fiskimálaráðnum  og  mega  fyrimunirnir  sigast  at  vera avgerandi fleiri í tali enn vansarnir. Eisini eigur at vera havt í huga, at tá ið landbúnaðurin hevur sín egna stovn, nevniliga Búnaðarstovuna og oljuvinnan somuleiðis sín egna stovn, nevniliga Jarðfeingi, so átti fiskivinnan sum høvuðsvinna í Føroyum eisini at havt sín egna stovn.</p>
+<p>Lat tað tó verða sligið fast, at hóast ein føroysk sjófeingisfyrisiting verður skipað undir Fiskimálaráðnum sum sjálvstøðugur stovnur og fær ábyrgdina av at sita fyri tí føroyska sjófeinginum,  so  verður  tað  framvegis  fiskimálaráðharrin,  ið  sambært  stýrisskipan Føroya, sum hevur evstu ábyrgdina av økinum.</p>
+<p>Nú føroyska fiskivinnufyrisitingin er ein samanhangandi heild verður eisini neyðugt at taka stigið fult út og skipa bygnaðin í Fiskimálaráðnum av nýggjum. Sum áður umrøtt, kann tað antin gerast í einari toymisskipan ella einari deildarskipan sum tillagað.</p>
+<p>52</p>
+<p>6. UPPSKOT TIL VERKSETANARÆTLAN</p>
+<p>Í hesum parti verður ein lýsing framd av teimum átøkum, ið skulu til fyri at seta í verk eina framtíðar føroyska fiskivinnufyrisiting. Átøkini verða lýst í stigum niðanfyri.</p>
+<p>1. Upprit  um  eina  framtíðar  føroyska  fiskivinnufyrisiting  verður  fyrireikað  og  lagt fram á landsstýrisfundi til politiska støðutakan. Høvuðsmálið í uppritinum verður at seta á stovn eina føroyska sjófeingisfyrisiting sum ein nýggjan sjálvstøðugan stovn undir Fiskimálaráðnum.</p>
+<p>2. Ein fyribilssettur stjóri verður settur á sjófeingisfyrisitingini. Hann fær ábyrgdina a</p>
+<p>3. Aðalstjórin í Fiskimálaráðnum ásetir í samráð við stjóran á Vørn og fyribilssetta stjóran  á  nýstovnaðu  sjófeingisfyrisitingini  nýggju  markamótini  millum Fiskimálaráðið,  Vørn  og  nýstovnaðu  sjófeingisfyrisitingina.  Ásetan  av  nýggjum markamótum fevnir um:</p>
+<p>a. At  býta  virkisøkið  av  nýggjum  millum  Fiskimálaráðið  og  nýstovnaðu sjófeingisfyrisitingina,  har  tær  síðstu  stýrisuppgávurnar  viðvíkjandi fiskivinnumálum  í  Fiskimálaráðnum  verða  fluttar  í  nýstovnaðu sjófeingisfyrisitingina.</p>
+<p>b. At  býta  virkisøkið  av  nýggjum  millum  Vørn  og  nýstovnaðu sjófeingisfyrisitingina, har fiskiveiðieftirlit á landi og fyrisiting av sjófeingi annars verða flutt í nýstovnaðu sjófeingisfyrisitingina.</p>
+<p>c. At  býta  starvsfólkatilfeingið  av  nýggjum,  har  ávíst  tal  av  starvsfólkum  í Fiskimálaráðnum verður flutt í nýstovnaðu sjófeingisfyrisitingina. Leiðslan í  Fiskimálaráðnum  eigur  at  nágreina  ítøkiliga  hesa  flyting,  áðrenn  nøkur stig verða tikin.</p>
+<p>d. At  býta  starvsfólkatilfeingið  av  nýggjum,  har  ávíst  tal  av  starvsfólkum  í Vørn  verða  flutt  í  nýstovnaðu  sjófeingisfyrisitingina  samsvarandi starvsfólkatalinum  í  løgdeildini,  deildini  fiskiveiðieftirlitið  og  lutvíst fíggjardeildini samanlagt.</p>
+<p>53 e. At gera uppskot til nýggja høvuðskontu – Sjófeingisfyrisitingin – undir § 5 Fiskivinnumál á løgtingsfíggjarlógini, har ein ávís raðfesting  samsvarandi nýggjum  krøvum  sambært  sjófeingislógini  á  3,5  mió.  kr.  verður  framd. Ítøkiliga er talan  um ein stjóra á 700 tkr., tvey skrivstovufólk á 600  tkr., tvey eftirlitsfólk á 800 tkr., tvey KT-fólk á 900 tkr. og ein KT- og hagfrøðing á  500  tkr.  Harumframt  verða  flytingar  samsvarandi  omanfyrinevndu starvsfólkaflytingum og íroknaðum útreiðslum frá ávikavist høvuðskontu 5.11.1.05.  Fiskimálaráðið  (Rakstrarjáttan)  og  høvuðskontu  5.34.2.01. Fiskiveiðieftirlitið (Rakstrarjáttan) til nýstovnaða høvuðskontu Sjófeingisfyrisitingin.  Leggjast  skal  eisini  uppfyri,  at  KT-útreiðslurnar  hjá Vørn í dag til KT-fyritøkur, sum ítøkiliga fara til serritbúnað og KT-stuðul eru  áleið  1,5  mió.  kr.  árliga.  Tær  verða  eftir  hesi  ætlan  spardar  burtur  í longdini.</p>
+<p>f. At nýstovnaða sjófeingisfyrisitingin í fyrstu atløgu yvirtekur bygningin hjá Vørn  Yviri  við  Strond  3  til  møguliga  onnur  varandi  loysn  er  funnin, samstundis sum stjórin á Vørn saman við starvsfólkum beinleiðis knýttum afturat rakstrinum av vaktarskipum flyta í annan bygning hjá Vørn.</p>
+<p>4. Ein raðfesting á 1,5 mió. kr. verður framd á høvuðskontu 5.34.3.01. Havstovan (Rakstrarjáttan) samsvarandi nýggjum krøvum sambært sjófeingislógini. Ítøkiliga er  talan  um  ein  granskara  til  botnfiskadeild  á  600  tkr.,  1,3  havlívfrøðiligan atstøðing á 600 tkr. og 0,5 granskara til uppsjóvardeild á 300 tkr.</p>
+<p>5. Lýst verður eftir stjóra til sjófeingisfyrisitingina. Talan er um eitt stjórastarv, ið er sera týdningarmikið fyri føroysku høvuðsvinnuna og samstundis eitt av teimum mest ábyrgdarfullu størvunum hjá landinum á stovnsstigi eins og tað altíð fer at hava stóran politiskan áhuga millum fólk. Tískil verður hildið, at starvið eigur at verða eitt tænastumannalíknandi starv í 38. lønarflokki við møguleika at verða áramálssett við teimum tillagingum, sum í tí liggur.</p>
+<p>6. Kærumálini hjá Fiskimálaráðnum verða løgd til kærunevnd sambært lóg.</p>
+<p>7. Bygnaðurin  í  Fiskimálaráðnum  verður  skipaður  av  nýggjum  antin  í  einari toymisskipan ella einari deildarskipan sum tillagað.</p>
+<p>54</p>
+<p>HEIMILDARFÓLK</p>
+<p><em type="bold">Ísland </em></p>
+<p>Annas Jón Sigmundsson, ráðgjafi, Atvinnuvega- og nýsköpunarráðuneytið</p>
+<p>Guðmundur Rúnar Jónsson, varðstjóri, Landhelgisgæsla Íslands</p>
+<p>Halldór B. Nellett, skipherra, Landhelgisgæsla Íslands</p>
+<p>Jóhann Guðmundsson, skrifstofustjóri, Atvinnuvega- og nýsköpunarráðuneytið</p>
+<p>Sigurgeir Þorgeirsson, ráðgjafi, Atvinnuvega- og nýsköpunarráðuneytið</p>
+<p>Þorsteinn Hilmarsson, sviðsstjóri, Fiskistofa</p>
+<p>Þorsteinn Sigurðsson, sviðsstjóri, Hafrannsóknastofnun</p>
+<p xml:lang="dan"><em type="bold">Noreg </em></p>
+<p xml:lang="dan">Aksel Eikemo, direktør for Ressursavdelingen, Fiskeridirektoratet</p>
+<p xml:lang="dan">Jonny Høgset, fiskerioffiser, Kystvakta</p>
+<p xml:lang="dan">Kjell Nedreaas, forsker fiskeridynamikk, Havforskningsinstituttet</p>
+<p>Olav Lekve, kommunikasjonsdirektør, Fiskeridirektoratet</p>
+<p xml:lang="dan">Per Sandberg, direktør for Statistikkavdelingen, Fiskeridirektoratet</p>
+<p xml:lang="dan">Vidar Landmark, ekspedisjonssjef, Nærings- og fiskeridepartementet</p>
+<p><em type="bold">Føroyar </em></p>
+<p>Jan Klein Olsen, løgfrøðingur, Vørn</p>
+<p>Jóhan Hendrik Ellefsen, løgfrøðingur, Vørn</p>
+<p>Jóhan Simonsen, deildarstjóri, Vørn</p>
+<p>55</p>
+</body></document>

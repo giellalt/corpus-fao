@@ -1,0 +1,969 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>20980</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>vmb-frágreiðing-við-tilmæli-20190426.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Frágreiðing og tilmæli um dagførda, nøktandi og útbygda veðurtænastu í Føroyum </em></p>
+<p>Menning av veðurtænastuni</p>
+<p xml:lang="isl">26 apríl 2019</p>
+<p><em type="bold">Úrskurður, niðurstøða </em></p>
+<p>Tað er stórur tørvur á og stuðul til arbeiði at fáa ein dagførdan føroyskan veðurstovn.</p>
+<p>Tað  verður  mett,  at  við  eini  meirupphædd  uppá  góðar  3  mió  kr.,  frá  einari  árliga upphædd á umleið 5 mineyügtó kr. til umleið 8 mió kr., er møguleiki at fáa byrjan á eina dagførda, útbygda og nøktandi føroyska veðurtænastu við betri og meira álítandi veðurforsagnum  fyri  allar  Føroyar  og  føroysk  áhugaøki,  betri  miðling  og  luttøku  í kanningum og granskingum av veðri, veðurlagi og veðurlagsbroytingum til gagns fyri sjóvinnu, vinnu á landi, flogferðslu, tilbúgving og tað føroyska samfelagið sum heild.</p>
+<p><em type="italic">Veðurstøðin á Boðanesi,  Hoyvíksvegur 69, Tórshavn. </em></p>
+<p><em type="bold">Veðurmenningarbólkurin </em></p>
+<p xml:lang="isl">Rúnar Alix Rasmussen, veðurfrøðingur, MSc</p>
+<p xml:lang="isl">Hanus Kjølbro, veðurkønur, Sjónám</p>
+<p xml:lang="isl">Bárður A. Niclasen, lektari í alisfrøði, Ph.D., Náttúruvísindadeildin, Fróðskaparsetrið</p>
+<p>Andras M. Poulsen, tilbúgvingarsamskipari, Fiskimálaráðið</p>
+<p>Jóannes Heimustovu, samskipari, Vørn.</p>
+<p xml:lang="isl"><em type="bold">Innihaldsyvirlit </em></p>
+<p xml:lang="isl"><em type="italic">Samandráttur ....................................................................................................................................... 4 </em></p>
+<p><em type="italic">Fororð ................................................................................................................................................... 6 </em></p>
+<p xml:lang="isl"><em type="italic">1. Inngangur ....................................................................................................................................... 6 </em></p>
+<p><em type="italic">1.1. Yvirtøku av Veðurtænastuni frá DMI  1.2. Veðurtænastan fyri flogferðslu  </em></p>
+<p xml:lang="isl"><em type="italic">2. Veðurtænasta og tilbúgving. .......................................................................................................... 8 </em></p>
+<p><em type="italic">2.1. Tilbúgvingin í Føroyum  2.2. DMI og tilbúgving  </em></p>
+<p><em type="italic">3. Veðurtænastuviðurskifti og førleikar í Føroyum – tilfeingi og førleikar ...................................... 10 3.1. Útbúgving  </em></p>
+<p><em type="italic">3.2. Gransking í veðri, veðurlagi og veðurlagsbroytingum  3.3. Veðurmodel fyri Føroyar (downscaling)  </em></p>
+<p><em type="italic">3.4. Veðurmátingar  3.5. Miðling av veðrinum í Føroyum  </em></p>
+<p><em type="italic">3.6. Veðurlæra sum lærugrein í føroyskum skúlum  3.7. Fundir við ymsar stovnar, feløg v.fl.  </em></p>
+<p xml:lang="eng"><em type="italic">3.7.1. Atlantic Airways ........................................................................................................ 15 3.7.2. Búnaðarstovan .......................................................................................................... 16 </em></p>
+<p><em type="italic">3.7.3. Fiskaaling .................................................................................................................. 17 3.7.4. Fróðskaparsetur Føroya ........................................................................................... 18 </em></p>
+<p><em type="italic">3.7.5. Havstovan ................................................................................................................. 18 3.7.6. Jarðfeingi .................................................................................................................. 19 </em></p>
+<p><em type="italic">3.7.7. Kringvarp Føroya, KVF .............................................................................................. 21 3.7.8. Landsverk .................................................................................................................. 21 3.7.9. MRCC ........................................................................................................................ 22 </em></p>
+<p><em type="italic">3.7.10. SEV ............................................................................................................................ 23 3.7.11. Umhvørvisstovan/Orka ............................................................................................ 24 </em></p>
+<p><em type="italic">3.7.12. Vága Floghavn ........................................................................................................... 24 3.8. Viðmerkingar, ynski og ráð frá ymsum feløgum, felagsskapum, miðlahúsum v.fl.  </em></p>
+<p><em type="italic">3.8.1. Bóndafelag Føroya .................................................................................................... 26 3.8.2. Hiking.fo .................................................................................................................... 27 </em></p>
+<p><em type="italic">3.8.3. Smyril-Line ................................................................................................................ 27 3.8.4. Visit Faroe Islands ..................................................................................................... 28 </em></p>
+<p><em type="italic">4. Viðkomandi samskifti og vitjanir í grannalondum ....................................................................... 28 4.1. Vitjanir í grannalondum  </em></p>
+<p xml:lang="isl"><em type="italic">4.2. Samskifti við Veðurstovu Íslands  </em></p>
+<p><em type="italic">4.3. Samskifti við ymsar veitarar - forrit, veðurdata/grafikki og veðurradar  </em></p>
+<p><em type="italic">5. Endurskoðan av sáttmála við DMI................................................................................................ 31 </em></p>
+<p><em type="italic">6. Ein føroyskur veðurstovnur - hugsjón, endamál og uppgávur ..................................................... 32 </em></p>
+<p><em type="italic">7. Skipan av veðurstovni .................................................................................................................. 32 7.1. Samleiki  </em></p>
+<p><em type="italic">7.2. Bygnaður  7.3. Vaktarskipan, útbúgving, gransking, teldur v.m.  </em></p>
+<p xml:lang="nno"><em type="italic">7.4. Mátingar, data  </em></p>
+<p xml:lang="est"><em type="italic">8. Tilmæli .......................................................................................................................................... 35 </em></p>
+<p><em type="italic">8.1. Viðmerkingar til <span type="quote">“Fyribils uppskot til rakstrarætlan fyri ein dagførdan veðurstovn”</span>:  </em></p>
+<p><em type="italic">9. Ymisk skjøl, viðlagt: ...................................................................................................................... 38 </em></p>
+<p><em type="italic">Fylgiskjal A. Veðurtænasta í Føroyum, setan av arbeiðsbólki og lýsing av arbeiðssetningi .............. 39 </em></p>
+<p><em type="italic">Fylgiskjal B. Tíðindaskriv frá Fiskimálaráðnum um menning av føroysku veðurtænastuni ............... 41 </em></p>
+<p><em type="italic">Fylgiskjal C. Stutt frágreiðing frá Vørn um Veðurtænastuna ............................................................. 42 </em></p>
+<p><em type="italic">Fylgiskjal D. Kostnaðarætlan fyri høvuðsbólkar úr uppskoti um sáttmála við DMI ........................... 44 </em></p>
+<p><em type="italic">Fylgiskjal E. Fyribils meting av møguligari rakstrarætlan fyri ein dagførdan veðurstovn .................. 45 </em></p>
+<p><em type="italic">Fylgiskjal F. Samskifti við stovnar, virki og felagsskapir ..................................................................... 46 </em></p>
+<p xml:lang="isl"><em type="italic">Fylgiskjal G. Nakrar slóðir ................................................................................................................... 51 </em></p>
+<p xml:lang="isl"><em type="bold">Samandráttur </em></p>
+<p>Uppskotið  um  yvirtøku  av  veðurtænastuni  varð  viðtikið  í  2008,  og  formliga  varð  veðurtænastan yvirtikin frá DMI 1. apríl 2009. Í lógini  um yvirtøku av veðurtænastuni stendur m.a.: “.. <em type="italic">Sum frálíður </em></p>
+<p><em type="italic">er  ætlanin  at  víðka  virksemið  við  tveimum  veðurfrøðingum,  og  verður  samlaði  kostnaðurin  hjá landinum av veðurtænastuni tá mettur at verða kr. 6.000.000,00 ..</em>”. </p>
+<p>Veðurtænastan er nú ein partur av Vørn og hevur eina rakstrarjáttan uppá umleið 5 mió kr. árliga. Sum er starvast eingin veðurfrøðingur í Føroyum og veðurforsagnir v.m. verða keyptar frá danska veðurstovninum, DMI, fyri uml. 1,9 milliónir um árið.</p>
+<p>Í  mai  2018  setti landsstýrismaðurin  innan  málsøkið  <span type="quote" xml:lang="isl">“veðurtænasta”</span> ein  arbeiðsbólk  at  gera  eina ætlan  um  dagførda,  útbygda  og  nøktandi  veðurtænastu  í  Føroyum.  Lýstur  var  arbeiðssetningur, harundir, at arbeiðsbólkurin skal koma við eini ávegis frágreiðing við einum fyribils tilmæli tann 1. oktober 2018.</p>
+<p>Arbeiðsbólkurin sum stutt kallar seg veðurmenningarbólkurin (VMB) fór rættiliga til verka í juni 2018 og hevur havt fundir og samskifti við fleiri føroyskar stovnar og virki umframt fundir og samskifti við viðkomandi stovnar í grannalondunum.</p>
+<p>Niðurstøðan av hesum fundum, samrøðum og samskifti er, at tað er tørvur á og stórur stuðul til arbeiði at fáa ein dagførdan føroyskan veðurstovn.</p>
+<p>Viðvíkjandi navn fyri eina útbygdari og nøktandi føroyska veðurtænastu meta vit at <span type="quote" xml:lang="isl">“Veðurstovan”</span> ella ”<em type="italic">Veðurstova  Føroya</em>”  er  gott  og  samsvarar  við  Havstovan,  Umhvørvisstovan,  Hagstovan, Búnaðarstovan v.fl. og eisini Veðurstofa Íslands. </p>
+<p>Bygnaðarliga  meta  vit,  at  tað  ikki  er  grundarlag  og  heldur  ikki  neyðugt  at  gera  ein  nýggjan</p>
+<p>sjálvstøðugan stovn, men at <span type="quote" xml:lang="isl">“Veðurstovan”</span> verður ein partur av øðrum stovni – ein deild. Vit nýta</p>
+<p>tó orðið veðurstovn um Veðurstovu Føroya, hóast skipanin møguliga verður sum deild.</p>
+<p>Mett verður, at Havstovan, Fróðskaparsetrið og Umhvørvisstovan ivaleyst eru teir stovnar, har mest samvirkanarárin ella synergi er viðvíkjandi gransking og kanningum, soleiðis at betri møguleikar eru at  troyta  tilfeingið  og  førleikarnar.  Viðvíkjandi  vaktartænastu  og  tilbúgving  verður  mett,  at  mest samvirkanarárin er við Vørn/MRCC.</p>
+<p>Vit hava havt fund við Vørn og fingið frágreiðing um, at teir við eini løgujáttan í 2017 og sparingum av  lønarupphædd  hava  fingið  veðurstøðirnar  kring  landið  dagførdar  og  sett  upp  tvær  nýggjar veðurstøðir, á Eiði og Borðan, so tað nú eru 6 veðurstøðir í Føroyum. Á veðurstøðini á Boðanesi eru gjørdar stórar ábøtur á ognina, so hon nú er í rættiliga góðum standi. Mett verður, at við núverandi upphædd á umleið 5 mió kr. árliga, er møguleiki at reka núverandi skipan við 6 veðurstøðum, einari radiosondustøð á Boðanesi, avtalu við DMI ella annan veðurstovn v.m. Mátingar síggjast <em type="italic">á vedrid.fo </em></p>
+<p>Vit hava havt samráðingar við DMI um endurskoðan og dagføring av sáttmálanum, soleiðis, at tað verður  møguleiki  at  </p>
+<p>Fyri at fáa ein dagførdan veðurstovn, verður neyðugt við nøkrum veðurfrøðingum og hartil koma útreiðslur til servara-teldur og/ella mini-super-teldur v.m. Harumframt eru ynski um fleiri mátingar kring landið, bæði til kanningar og tilbúgving.</p>
+<p>Fyri  at  hækka  um  trygdina  hevur  AA  keypt  og  sett  upp  veðurradara  á  Sornfelli.  Við  hesum veðurradara eru betri møguleikar at meta um vandamiklan turbulens, og tyrluflogskiparnir eru sera fegnir um nýggja veðurradaran, sum hevur <span type="quote">“kollvelt tyrluflúgvingina í Føroyum”</span>. AA metir, at aðrir stovnar, virki og eisini vanlig fólk kunnu fáa stóra gleði av hesum data. Roknað verður við, at data sum frálíður kunnu síggjast av almenninginum.</p>
+<p>Tað skal viðmerkjast, at vit (VMB) hava lagt stóran dent á at øll data eru <span type="quote">“frí-data”</span>, tá vit meta, at tað hevur størst gagn fyri samfelagið. Um veðurstovan møguliga skal yvirtaka radaran frá AA, er eitt mál fyri seg. Mett verður at neyðugt er við trimum radarum, um allar Føroyar skulu røkkast.</p>
+<p>Vit hava gjørt eina fyribils meting av eini møguligari rakstrarætlan fyri komandi ár, og  tað verður fyribils mett, at við einari meirupphædd uppá góðar 3 mió kr., frá einari árliga upphædd á umleið 5 mió kr. til góðar 8 mió kr., er møguleiki at fáa gongd á eina dagførda, útbygda og nøktandi føroyska veðurtænastu  við  betri  og  meira  álítandi  veðurforsagnum  fyri  allar  Føroyar  og  føroysk  áhugaøki, betri miðling og luttøku í kanningum og granskingum av veðri, veðurlagi og veðurlagsbroytingum til gagns fyri sjóvinnu, vinnu á landi, flogferðslu, tilbúgving og tað føroyska samfelagið sum heild.</p>
+<p>Tað skal viðmerkjast, at her er ikki roknað við einari krevjandi vaktarskipan sum 24-7-365, men meira 12-7-365  og  til  byrjan  12-5-250  -  so  eykavakt,  um  veðrið  ella  onnur  viðurskifti  krevja  tað.  Um stovnurin  skal  hava  vaktarskipan  alt  døgnið,  24-7-365,  verður  leysliga  mett,  at  samlaði  árligi kostnaðurin so verður uml. 10 mió kr.  Um íløgur skulu gerast í fleiri veðurradarar, vil tað eisini krevja eina serjáttan.</p>
+<p><em type="bold">Fororð </em></p>
+<p>Jóladag  2016  fór  herviliga  ódnin  URD  fram  við  Føroyum  við  metvindi  og  nógvum  skaðum  kring landið. Eftir tað  var í miðlunum tosað um at  menna veðurtænastuna, og ein lítil bólkur gjørdi  av egnum ávum eitt uppskot til Fiskimálaráðið “<em type="italic">Menning av veðurtænastuni  -í nútíð og framtíð</em>”, 16. januar 2017, Rúnar Alix Rasmussen, Bárður A. Niclasen og Hanus Kjølbro. </p>
+<p>Á  fíggjarlógini  fyri  2018  var  ein  játtan  til  veðurmenningarbólkin,  og  vit  settu  rættiliga  skjøtul  á arbeiðið í juni mánað í 2018, og 5. oktobur 2018 handaði VMB <span type="quote">"Ávegis frágreiðing og fyribils tilmæli"</span> til Landsstýrismannin:</p>
+<p xml:lang="nno"><em type="italic">https://www.fisk.fo/fo/kunning/tidindi/landsstyrismadurin-fingid-handad-avegis-fragreiding-ogfyribils-tilmaeli-fra-vedurmenningarbolkinum/ </em></p>
+<p>Frágreiðingin var mest grundað á kanningar av førleikum og tørvi í Føroyum og fyribils samráðingar við DMI. Niðurstøðan var, at “t<em type="italic">að er stórur tørvur á á einum betri veðurstovni, og vit vóna, at tað nú </em></p>
+<p><em type="italic">veruliga verður settur skjøtul á til gagn fyri tað føroyska samfelagið</em>.” </p>
+<p>Ávegis frágreiðing var væl móttikin og fekk góða umtalu í t.d. KVF, har nakrir  tíðindastubbar tóku støði  í  ávegis  frágreiðingini.  Fiskimálaráðið  metti  tó,  at  málið  skuldi  kannast  meira  gjølla,  og  at Veðurmenningarbólkurin  skuldi  halda  áfram  við  arbeiðinum  í  2019,  og  so  kann  vónandi  setast rættiligur skjøtul í 2020.</p>
+<p>Síðani “<em type="italic">Ávegis frágreiðing</em>” hava vit gjørt uppskot um nýggjan dagførdan sáttmála við DMI, so betri </p>
+<p>møguleikar verða at gera veðurforsagnir í Føroyum og kanningar/gransking av veðurmodellum.</p>
+<p>Vit  hava  eisini  havt  enn  fleiri  fundir  og  samskifti  við  stovnar,  feløg  og  virki  umframt  viðkomandi stovnar í grannalondum. Eisini hava vit gjørt fyribils kanningar av ymiskum viðurskiftum av týdningi t.d. limaskap í altjóða felagsskapum, forrit v.m.</p>
+<p>Vit  meta  í  bólkinum,  at  arbeiðið  hevur  gingið  væl  og  undirtøkan  og  stuðulin  hevur  verið  stórur. Serstakliga er tað positivt, at tað finnast fólk í Føroyum við røttu útbúgving og áhuga/ágrýtni, so møguleiki er at seta føroyskar veðurfrøðingar/veðurkøn í starv, so eitt munagott stig kann takast fyri at fáa gongd á at menna eina dagførda, útbygda og nøktandi føroyska veðurtænastu.</p>
+<p xml:lang="isl"><em type="bold">1. Inngangur </em></p>
+<p>Vit hava ikki her kannað søguna hjá veðurtænastuni, men á einari ferð á Veðurstøðini á Boðanesi komu  vit  fram  á  eina  søguliga  frágreiðing  frá  1999  av  Vagn  Erik  Michelsen<em type="italic">: “Veðurvánirnar  fyri </em></p>
+<p><em type="italic">Føroyar ...! Um veðurtænastuna – hvussu hon kom í, hvussu hon hevur ment seg, og hvussu hon virkar í roynd</em>”, sí viðlagda skjal nr. 1. Har stendur mangt áhugavert, m.a.: <em type="italic">Longu á sumri 1866 sendi Scottish Meteoroligical Society sjótermometur til Guldberg, lækna, í Havn, Olaf Pálsson í Reykjavík og A. C. Thorlacius á Stykkishólmi. Móti endanum av 1866 varð so stovnað ein veðurfrøðilig mátistøð í Havn, ið heintaði upplýsingar fyri Scottish Meteorological Society. Mált varð í urtagarðinum vestan fyri Færø Amts Hospital (1829-1924) i fimtan ár, frá 1867 til 1881. Vindferðin varð skrivað niður á Skansanum og er at finna í Skansajournalunum 1782-1902. </em></p>
+<p xml:lang="vep"><em type="italic">....... </em></p>
+<p><em type="italic">Danmarks  Meteorologiske  Institut  stovnsetti  sostatt  1.  april  1872  í  Havn  sína  fyrstu  málistøð  nr. 33071, nevnd Tórshavn Skúli, sum helt áfram við málingum hjá Louis Bergh, har hann nú sjálvur kom at virka fyri DMI, til hann fór til Danmarkar í 1903 eftir at hava verið fyrstilærari her i 36 ár. Realskúlin var  norðan  fyri  kirkjuna,  har  H.  N.  Jacobsens  Bókahandil  nú  er.  Regnmálarin  stóð  vestanfyri,  í urtagarðinum, tað sum í dag nevnist Boisensgarður. </em></p>
+<p xml:lang="vep">.......</p>
+<p><em type="bold">1.1. Yvirtøku av Veðurtænastuni frá DMI </em></p>
+<p>Uppskotið um yvirtøku av Veðurtænastuni varð viðtikið í 2008, sí viðlagda skjal 2,3,4, og formliga varð Veðurtænastan yvirtikin frá DMI 1. apríl 2009, skjal 5. Veðurtænastan er nú ein partur av Vørn og  hevur  eina  rakstrarjáttan  (2019-2021)  uppá  umleið  kr.  5  mió  kr.  árliga  til  fylgjandi,  sambært fíggjarlógini:</p>
+<p type="listitem">• <em type="italic">Radiosonderingar tvær ferðir um samdøgrið </em></p>
+<p type="listitem">• <em type="italic">Innlesir veðurforsagnir á telefonsvarara fýra ferðir um samdøgrið </em></p>
+<p type="listitem">• <em type="italic">Umsitur veðurstøðirnar: </em>Akraberg, Mykines, Fugloy, Borðan, Eiði og Tórshavn<em type="italic"> </em></p>
+<p>umframt eisini avtalu við DMI um veðurforsagnir v.m., og kr. 500 tús. til at menna  eina føroyska veðurtænastu. Hetta arbeiðið byrjaði í 2018, tá játtanin varð hækkað við 300 tús. kr. til at menna eina føroyska veðurtænastu.<em type="italic"> </em></p>
+<p>Í lógini um yvirtøku av Veðurtænastuni stendur m.a.: “<em type="italic">Sum frálíður er ætlanin at víðka virksemið við </em></p>
+<p><em type="italic">tveimum veðurfrøðingum, og verður samlaði kostnaðurin hjá landinum av veðurtænastuni tá mettur at verða kr. 6.000.000,00</em>.”, og hevði minnilutin viðmerkingar. <em type="italic">“... varð søkt eftir veðurfrøðingi at halda  fram  í  starvinum,  men  tað  eydnaðist  ikki  at  fáa  nakran  skikkaðan  at  taka  av  avbjóðingini. Grundgevingin segðist vera, at avbjóðingin var ikki nóg stór fyri útbúnar veðurfrøðingar, sum ynsktu fjølbroyttar og avbjóðandi arbeiðsuppgávur og eitt fyri teirra starvsøki mennandi fakligt umhvørvið at starvast í. Tí er undrunarvert, at tað í uppskotinum um yvirtøku av málsøkinum einki verður sagt um,  hvussu  landsstýrissamgongan  ætlar  at  skipa  eina  komandi  føroyska  veðurtænastu bygnaðarliga, innihaldsliga, hvørjar framtíðarætlanirnar eru við yvirtøkuni, og í hvønn mun ætlanin er at raðfesta málsøkið á fíggjarlógini komandi árini.</em> </p>
+<p><em type="italic">Føroyar eru fiskivinnutjóð og hava eisini týðandi flogvinnu, so neyvan nakrastaðni í verðini eru fólkið og virksemi tess so nógv tengd at veðurforsagnum sum her. Tí er upplagt, at vit sjálvi fyrisita júst hesum  málsøki.  Tí  fer  minnilutin,  hóast  omanfyristandandi  viðmerkingar  og  við  teirri  vón,  at viðmerkingarnar fara at verða tiknar við í komandi fyrireikingararbeiðið, tá føroyska veðurtænastan verður skipað, at mæla tinginum til at taka undir við uppskotinum. ....” </em></p>
+<p>Sum er, starvast eingin veðurfrøðingur í Føroyum, og veðurforsagnir v.m. verða keyptar frá danska veðurstovninum, DMI, fyri uml. 1,9 milliónir um árið.</p>
+<p><em type="bold">1.2. Veðurtænastan fyri flogferðslu </em></p>
+<p>Tað  skal  viðmerkjast  at  yvirtøkan  av  veðurtænastuni  tann  1.  apríl  2009  ikki  umfatar</p>
+<p xml:lang="dan">”<em type="italic">flyvemeteorologiske tjenester”: </em></p>
+<p xml:lang="isl">Brot  úr  ”  SAMARBEJDSAFTALE  mellem  Færøernes  Fiskeriministerium  (FF)  og  Danmarks Meteorologiske Institut (DMI)” frá 1. apríl 2009 (skjal 5):</p>
+<p xml:lang="vep">“.....</p>
+<p xml:lang="dan"><em type="italic">1. Ved lagtingslov nr. 53 af 7. juni 2008 blev det besluttet, at de færøske myndigheder overtager sagsområdet vejrtjeneste med virkning fra 1. april 2009. </em></p>
+<p xml:lang="dan"><em type="italic">Sagsområdet  omfatter  ikke  flyvemeteorologiske  tjenester  i  henhold  til  luftfartslovgivningen,  for hvilke  den  meteorologiske  myndighed  for  civil  luftfart,  Statens  Luftfartsvæsen  (SLV),  udpeger  en leverandør  (service  provider).  DMI  er  p.t.  af  SLV  udpeget  som  service  provider  på  det luftfartsmeteorologiske  område.  Endvidere  omfatter  det  overdragne  sagsområde  ikke specialservicering af forsvaret i det færøske område. </em></p>
+<p><em type="italic">….” </em>Vit hava, sum er, onga áskoðan um yvirtøku av “<em type="italic">flyvemeteorologiske tjenester</em>”, og hava ikki sett okkum fyri at lýsa hesi viðurskifti í hesi frágreiðing. </p>
+<p>Men tað er eyðsæð, at flogferðslan skal hava neyvar og serstakar veðurforsagnir, sum kanska ikki eru so lættar at gera í Føroyum, sum støðan er nú. Men uppá sikt eru vónir um betri forsagnir av mjørka, turbulensi, vindi, avfalli, hita v.m.</p>
+<p xml:lang="isl"><em type="bold">2. Veðurtænasta og tilbúgving. </em></p>
+<p><em type="bold">2.1. Tilbúgvingin í Føroyum </em></p>
+<p>Í  tilbúgvingarhøpi  verður  verður  skilt  ímillum  skaðahendingar,  ið  eru  menniskjaskaptar  og skaðahendingar, ið eru náttúruskaptar.</p>
+<p xml:lang="nno"><em type="bold">Nátttúruskaptar hendingar </em></p>
+<p>Veðurfyribrigdi Smittandi sjúka</p>
+<p type="listitem" xml:lang="isl">• Ódnarveður</p>
+<p type="listitem">• Stórkavi og nógv regn</p>
+<p type="listitem" xml:lang="isl">• Alheimsfarsóttir</p>
+<p type="listitem" xml:lang="isl">• Húsdjórasjúkur og <span type="quote" xml:lang="fra">“zoonosur”</span></p>
+<p xml:lang="nno"><em type="bold">Menniskjaskaptar hendingar</em> </p>
+<p>Vanlukkur (ótilætlaðar hendingar) Trygdarhóttanir (Tilætlaðar hendingar)</p>
+<p type="listitem">• Vanlukkur við flutningsførum á sjógvi og á</p>
+<p xml:lang="isl">landi</p>
+<p type="listitem">• Vanlukkur við vandamiklum evnum á landi</p>
+<p type="listitem">• Dálkingarvanlukkur á sjónum</p>
+<p type="listitem" xml:lang="isl">• Kjarnorkuvanlukkur</p>
+<p type="listitem" xml:lang="smn">• Telduálop (Cyberálop)</p>
+<p type="listitem" xml:lang="sme">• Yvirgangsálop</p>
+<p>Í skjalinum <span type="quote">”Tilbúgvingin í Føroyum”</span>, ið varð latið landsstýrismanninum í tilbúgvingarmálum í 2017,</p>
+<p>verður ført fram, at ofta verður ov lítið av orku og peningi nýtt til fyribyrging og eftirlit, hóast tað er her mannalív, umhvørvi og virði best kunnu verjast. Tað verður víst til tilbúgvingarpyramiduna, sí niðanfyri, ið vísir, hvussu fyribyrging og harnæst eftirlit í eini góðari tilbúgving minka um talið av hendingum, sum krevja, at tilbúgvingarátøk verða sett í verk og eisini minkar um vandan av hvørjari einstakari  hending.  Tað  er,  tá  ið  óhappini  henda,  at  vandin  fyri  at  missa  mannalív  og  virði  gerst veruleiki</p>
+<p>Ein  vælvirkandi  veðurtænasta  er  fyrst  og  fremst  fyribyrgjandi,  men  kann  eisini  gerast  alneyðug  í einum størri átaki, tá støða skal takast til, hvussu ein hending skal loysast á útinnandi og stýrandi støði. Tað er alneyðugt, at borgarar og vinnurekandi fáa ávaringar í rímiligari tíð, soleiðis tey hava møguleikan  at  seta  í  verk  fyribyrgjandi  átøk  í  mun  til  komandi  ódnarstormar  og  onnur veðurfyribrygdi,  men  tað  kann  eisini  gerast  alneyðugt  í  sambandi  við  eitt  átak,  at  átakseindirnar javnan fáa kunning, um veður samstundis, sum átakið ferð fram.</p>
+<p>Sum  dømi  kann  hugsast,  at  eitt  skip  er  í  neyð,  og  tyrla  og  skip  eru  á  veg  til  knattstøðuna,  har neyðstadda  skipið  er  í  sambandi  við  bjarging.  Um  talan  er  um  ivaveður,  er  alneyðugt  hjá bjargingarmanningini at vita, hvørji veðurútlit eru, so bjargingararbeiðið kann leggjast til rættis og samstundis  minka  um  vandan fyri,  at bjargingarfólk  koma til  skaða  ella  í  ringasta føri  lata  lív.  Vit</p>
+<p>minnast  øll  syrgiligu  vanlukkuna  í 1992,  tá  ið tyrlan <span type="quote" xml:lang="vep">“Vípan”</span>  fór  úr  Klaksvík  við einum  sjúklingi  til</p>
+<p>Havnar og á veg aftur til Klaksvíkar rendi seg í eitt grovt kavaæl. Eitt annað hugsað dømi kann vera, at ein størri eldur er í einum býi ella størri bygd, og tað er avgerandi hjá átaksleiðsluni at vita, hvussu vindurin  væntandi  fer  at  liggja,  soleiðis  at hædd kann  verða  tikið fyri hesum,  beinanvegin  átakið byrjar.  Tað  verði  seg  í  sambandi  við  avgerðina  um  ein  ávaring,  sokallaði  bráðfeingisboð,  skulu varpast út við kunning um, hvussu vanlig fólk skulu fyrihalda seg til vandan og í sambandi við hvussu átaksleiðslan skal skipað sjálvt átaksøki fyri at tryggja at t.d. viðgerðarstaður og bráflutninsstaður ikki verða staðsett á einum møguligum vandaøki.</p>
+<p>Vanligt verður øll tilrættarlegging av tilbúgving deild í trý (3) stig. Stig eitt (1) er ráðleggingararbeiðið, ið skal gerast áðrenn eina møguliga skaðahendingin. Stig tvey (2) er tilrættarlegging av tí, ið skal henda undir sjálvari skaðahendingini og síðsta til allarseinast stig trý (3), sum lýsir, hvat skal gerast eftir skaðahendingina.</p>
+<p>ÁÐRENN (1): Tað er alneyðugt at hava eina mynd av, hvat kann henda orsaka av einari skaðahending. Hetta  verður  gjørt  við  at  gera  váðametingar,  fyribyrgjandi  átøk  í  mun  til  eyðmerkta  váðan  og tilbúgvingarætlanir í teimum førum, tað verður mett neyðugt í mun til vandan. Í hesum arbeiði kann hugsast gransking innan veðurfyribrygdi, menning av veðurmodellum og so framvegis, kann vera eitt  gott  íkast  í  hesum  týdningarmikla  arbeið</p>
+<p>UNDIR (2): Tá ein skaðahending er veruleiki, kann tað gerast alneyðugt fyri bjargingararbeiðið, at stýrandi og útinnandi støði hava eina mynd av veðrinum teir næstu tímarnar. Tí er eisini alneyðugt, at ein føroysk veðurtænasta kann geva hesa mynd, óansæð nær á døgninum skaðahendingin er. Í løtuni  er  samstarvsavtala  við  DMI  um  at  veita  hesa  tænastu,  og  verður  hon  brúkt,  tá  ið  MRCC samskipar bjargingarátøk innan fyri føroyskt sjóøki. Eisini er hendan tænasta brúkt í sambandi við størri hendingar á landi. Hendingar uttanlands kunnu eisini hava ávirkan á, hvat ein økismyndugleiki skal leggja av ætlanum. Tað kann verða ein kjarnorkuvanlukka í Evropa, ella sum vit hava sæð tvær ferðir tey seinastu árini, tá ið eldgos hava verið í Íslandi, har avvarðandi myndugleikar hava brúk fyri at fáa eina mynd av, hvussu luftdálkingin væntast at ferðast.</p>
+<p>AFTANÁ  (3):  Aftan á  eina  skaðahending,  tað  kann  vera  ein  størri ódn,  tá  ið  nógv  hús  hava fingið stóran skaða, er umráðandi at borgarin fær eina so vanliga tilveru, sum vanligt. Tí er umráðandi, at kunning er tøk til borgarar, myndugleikar og ikki minst vinnurekandi, so ein kann leita sær vitan, um vandin er av ella ikki.</p>
+<p><em type="bold">2.2. DMI og tilbúgving </em></p>
+<p>DMI  veitur  í  dag,  sum  omanfyri  er  lýst,  føroyskum  myndugleikum  eina  bráðfeingistænastu,  har løgregla  og  MRCC,  ið  eru  samskipandi  myndugleikar,  kunnu  leita  sær  vitan  um  veðrið  komandi tímarnar,  um  tað  gerst  neyðugt.  Aftrat  hesum  umsitur  DMI  tsunamitilbúgvingina  fyri  ríkið,  ið  er skipað á tann hátt, at døgnvaktin á DMI móttekur fráboðan frá IPMA (Instituto Português do Mar e</p>
+<p>da Atmosfera) í Portugal og sendur hesi boð víðari til løgregluna, ið somuleiðis hevur døgnvakt og til Jarðfeingi.</p>
+<p>Eisini ber til at fáa eina mynd av, hvussu eitt øskuskýggj úr Íslandi ferðast. Her brúkar DMI skipanina ARGOS  at  gera  forsøgnir  fyri,  hvussu  dálkingin  væntandi  ferðast,  sum  er  sera  hent  vitan  hjá avvarðandi myndugleikum t.d. í mun til fólkaheilsu, flogferðslu, vatnveiting o.s.fr.</p>
+<p><em type="bold">3. Veðurtænastuviðurskifti og førleikar í Føroyum – tilfeingi og førleikar </em></p>
+<p xml:lang="dan"><em type="bold">3.1. Útbúgving </em></p>
+<p>Tá tað kemur til útbúgving av veðurfrøðingum, so er yvirskipað krøv og kunning at finna frá WMO.</p>
+<p>Hvussu hetta er skipað í einstøku londunum kring okkum er ymiskt. Í Danmark eru krøvini ein 3 ára</p>
+<p>Bachelor  í  <span type="quote" xml:lang="isl">“Fysik  og  Geofysik”</span>  frá  Københavns  Universitet.  WMO  sertifikat  sum  vaktar</p>
+<p>veðurfrøðingur  kann  bert  fáast  á  DMI.  Tað  tekur  eitt  hálvt  bæði  við  teori  og  praksis,  áðrenn viðkomandi er til reiðar at hava egnar vaktir. Tað skal tilskilast, at ein so eisini fær sertifikat sum flúgvi-veðurfrøðingur. Ein útbúgving sum vaktar-veðurfrøðingar til vanligar veðurvánir fyri land- og havøki  í  Føroyum,  hevði  kanska  tikið um helvtina  av tíðini. Men  tann útbúgvingin   er  ikki  á DMI, longur.</p>
+<p>Í  Noregi  er  heiti  meteorologur/veðurfrøðingur  ikki  vart,  men  vanliga  gongdin  er  at  taka  eina kandidatútbúgving í Meteorologi ið krevur eina bachelorútbúgving innan sama evni, ella eina breiða bachelor  við  ávísum  skeiðskrøvum.  Eftir  hetta  er  so  ein  upplæringartilgongd  á  Meteorologisk institutt, ið líkist henni á DMI. Hesi fáa heitið Statsmetorolog, og tað er eitt vart heiti í Noregi.</p>
+<p>Tað er ikki møguligt at lesa veðurfrøði á universitetsstøði í Føroyum, tí vit hava ikki fólk/førleikar til tað. Møguleiki er at taka grundleggjandi skeið innan stødd- og alis- og verkfrøði, sum saman við eini serliga tilevnaðari lestrarleið, við partvísum uttanlandslestri, kunnu geva atgongd til víðari lestri eitt nú innan veðurfrøði.</p>
+<p>Um ein Veðurstova verður veruleiki, so gerst tað møguligt, um lesandi og fígging eru til tað, at menna eina útbúgving innan veðurfrøði saman við Veðurstovuni, á sama hátt sum tað fyrr hevur verið gjørt viðv. útbúgving innan jarðalisfrøði saman við Jarðfeingi ella havfrøði saman við Havstovuni.</p>
+<p>Í verandi støðu veit veðurmenningarbólkurin um nakrar føroyingar, ið eru útbúnir veðurfrøðingar, og  hava/fáa  masterútbúgving  innan  veðurfrøði,  umframt  nøkur,  ið  hava  master/phd  útbúgving innan havfrøði, ið fakliga liggur ógvuliga tætt at veðurfrøði, umframt nøkur, ið hava ein bachelor innan  geofysik.  Afturat  hesum  eru  eisini  lærarar  í  veðurlæru  á  sjómansskúlunum,  ið  hava  hollar royndir og vitan, tá tað kemur til at tulka forsagnir og at miðla hesa vitan. Vit eru tí av teirri fatan, at tað er møguligt at seta á stovn, og við verandi tilfeingi, menna eina føroyska veðurstovu, ið kann betra um miðling og gransking innan veðurviðurskifti í Føroyum.</p>
+<p><em type="bold">3.2. Gransking í veðri, veðurlagi og veðurlagsbroytingum </em></p>
+<p>Stórur partur av tí, ið fer fram í Føroyum bæði innan vinnu og frítíðarvirksemi, er tengt at veðrinum. Av tí sama finnast nógv ymisk átøk, ið hava brúk fyri mátingum, forsøgnum og vitan um veðrið. Sum dømi kunnu nevnast forsøgn av vindorkuframleiðslu, hálkuforsøgn fyri  vegsaltarar hjá Landsverki,</p>
+<p xml:lang="eng">1a WMO-No. 1083, Guide to the Implementation of Education and Training Standards in Meteorology and Hydrology,</p>
+<p xml:lang="isl">Volume I – Meteorology<em type="italic">, https://library.wmo.int/pmb_ged/wmo_1083_en.pdf u</em>mframt í:  </p>
+<p xml:lang="eng">1b WMO-No. 49, Technical Regulations Basic Documents No. 2 Volume I – General Meteorological Standards and</p>
+<p xml:lang="eng">Recommended Practices:<em type="italic"> https://library.wmo.int/doc_num.php?explnum_id=5778  </em> </p>
+<p xml:lang="nob"><em type="italic"> https://studier.ku.dk/bachelor/fysiske-fag/specialiseringer/geofysik/  https://www.dmi.dk/job-og-karriere/bliv-meteorolog/  www.uib.no/studier/MAMN-GEOF/MAMN-GFMET </em> </p>
+<p>vindviðurskifti og innflúgvingarturbulensur við flogvøllin, vindviðurskifti og innsigling fyri størri skip í føroyskar havnir, innsavnan av vitan um lokalt veður og bestu ættir til gongutúrar í fjøllunum av Hiking.fo v.m.</p>
+<p>Samstundis eru fleiri onnur átøk, ið høvdu fingið gagn av, at veðurviðurskiftini í Føroyum vóru betri skipað.  Nøkur  dømi  eru:  samanhangur  millum  vøkstur  og  veður  (Búnaðarstovan),  kanningar  av veðurlagið í hæddunum (Jarðfeingi), frárenning og rák á firðunum (Fiskaaling), gransking innan  hav- og lívfrøði (Havstovan og Setrið). Orkujavnvág í Føroyum við 100% varandi orku (Setrið, SEV og OrkaUmhvørvisstovan). Ein afturvendandi táttur á fleiri stovnum, ið vit hava samskifti við, er ynskið um lættari atgongd til mátingar, ið hava høga góðsku.</p>
+<p>Tað  er  tískil  óheppið,  at  eingin  samskipandi  almenn  eind  ella  áhaldandi  gransking  hevur  verði  í føroyskum veðurviðurskiftum higartil. Hetta sagt, so hevur tað gjøgnum tíðirnar verið fleiri ymiskar royndir gjørdar, fyri at bøta um nøkur av hesum viðurskiftum, veri tað verkætlanir á stovnum ella átøk frá eldsálum. Vit kunnu í dag í tann mun data enn eru atkomilig og eru dokumenterað, gleðast um  hvønn  vørr,  ið  er  gjørdur  á  hesum  øki.  Uttan  ein  stovn/stovu,  ið  hevur  áhaldandi  ábyrgd  og fígging til endamálið, so er vandi fyri, at virðini av fleiri av hesum átøkum við tíðini fjara út í sandin.</p>
+<p>Vit hava enn ikki eitt skipað yvirlit yvir alla tær kanningar, ið eru gjørdar innan veður og veðurlag í Føroyum. Tað mesta av tí, vit hava funnið, eru einstakar kanningar í sambandi við verkætlanir t.d. havnir,  flogvallir,  bygningar,  vatn-  og  vindorkuútbyggingar,  veðurnorm  v.m.  Gransking  innan havfrøð</p>
+<p><em type="bold">3.3. Veðurmodel fyri Føroyar (downscaling) </em></p>
+<p>Frá alisfrøði ber til at sameina líkningar fyri rørslu og termodynamiskar eginleikar, so til ber at rokna út, hvussu veðrið verður í framtíðini, givið at vit vita, hvussu veðrið er í byrjunarstøðuni. Hetta krevur tó so nógva rokniorku, at verulig veðurmodel mugu gerast einfaldari – hetta bæði við at einfalda líkningarnar og at viðkomandi broytingar í rúmi og stað bert verða endurgivin við miðalvirðum fyri ávís øki ella kassar. Í hvørjum av hesum kassum verður so roknað miðaltrýst, hiti, væta, vindur v.m.. Hægri upploysn merkir smærri kassar og vanliga betur samsvar við veruleikan.</p>
+<p>Vanliga mannagongdin viðv. veðurforsagnum er, at stórir nationalir stovnar, so sum NOAA (National Oceanic and Atmospheric Administration), ella millumtjóða veðurstovnar  t.d. ECMWF (European Centre  for  Medium-range  Weather  Forecasts)  savna  inn  allar  tøkar  og  álítandi  veðurmátingar ígjøgnum  WMO-GTS  v.m.  og  koyra  grov-skala  veðurmodell  fyri  alla  jørðina.  Hesi  modell  gera forsagnir við eini upploysn horisontalt á umleið 10-20 km og vertikalt upp í yvir 100 løg. Nationalir veðurstovnar fáa so atgongd til hesar forsagnir og út frá teimum gera egnar forsagnir við eini hægri upploysn til egin øki. Sum dømi so koyrir DMI fyri stórt øki í Norðuratlantshavi við eini upploysn á umleið  2,5  km  horisontalt  og  65  vertikalum  løgum.  DMI  koyrir  eisini  eitt  ikki-operationelt  lokalt modell fyri Føroyar við einari upploysn á 750 m horisontalt.</p>
+<p>Ein  tænasta,  ið  gerst  alt  meiri  vanlig,  er  at  koyra  fleiri  ymisk  modellir  fyri  sama  øki  (ensemble forecast), og á tann hátt fáa eina meting um óvissuna í forsøgnini.</p>
+<p>Tað finnast ymisk forrit til at gera veðurmodell, og nøkur av hesum kunnu koyrast á vanligum teldum til  kanningar/granskingarendamál.  Eitt  slíkt  dømi  er  WRF  (Weather  Research  and  Forecasting Model), sum t.d. hevur verið brúkt av lesandi á Setrinum. Skulu slík modell koyrast operationelt við høgari upploysn, so krevur hetta væl meiri av roknikraft, enn ein vanlig telda kann klára. Nevnast kann, at hetta er sama modellið, ið SEV  hevur fingið eina ráðgevandi fyritøku at koyra fyri seg, í sambandi við vindorkukanningar í Føroyum.</p>
+<p>Veðurforsagnir fyri eitt øki sum Føroyar, har ætt og fjallalendið hevur stóra ávirkan á lokala veðrið, kunnu  gerast  neyvari  við  at  økja  upploysingina  í  modellinum.  Ein  annar  háttur  at  gera  lokalar veðurforsagnir neyvari, er við at leggja so nógvar lokalar mátingar inn sum gjørligt, tí hetta bøtir um neyvleikan  av  byrjunarstøðuni  og  tískil  eisini  forsøgnini.  Eitt  annað,  ið  kann  styrkja  um  eina operationella tænastu er, at hava ymisk óheft modell, sum kunnu nýtast um standardmodellið ikki viðgerð ávísar hendingar á rættan hátt.</p>
+<p>Ætlanin  er,  at  føroyski  veðurstovnurin  skal  fáa  umstøður  til  at  koyra  slík  lokal  modell  til granskingarendamál og við tíðini eisini til stutttíðar forsagnir. Ætlanin er ikki, at veðurstovan skal hava  superteldu/teldu-teyggju,  tí  hetta  verður  ov  kostnaðarmikið.  Heldur  er  hugsanin  at  hava sterkar teldur/servarar til egið brúk, meðan operationellar forsagnir koyra hjá veitara, sum í fyrstu syftu er DMI.</p>
+<p xml:lang="isl"><em type="bold">3.4. Veðurmátingar </em></p>
+<p>Veðurmátingar hava verið gjørdar í Føroyum gjøgnum longri tíð og av fleiri ymiskum aktørum. Elstu føroysku  teldutøku  mátingarnar frá DMI  eru  úr Tórshavn og  byrja  í 1873.  Hesar  innihalda tó  ikki mátingarnar,  ið  landslæknin  gjørdi  vegna  Scottish  Meteorological  Society  1867-1872.  Enn  eldri niðurskrivað  tilfar  finst  um  føroysk  veðurviðurskifti.  DMI  hevur  ígjøgnum  tíðirnar  virkað  sum høvuðsábyrgdari  viðv.  veðurviðurskiftunum  í  Føroyum,  og  verið  partur  í  nógvum  ymiskum</p>
+<p>Eftir yvirtøkuna í 2009 er tað Vørn, ið hevur staðið fyri teimum mátingunum og sonderingum, sum DMI áður gjørdi. Seinastu árini hevur Vørn ment hesa tænastu (sí<em type="italic"> http://www.vedrid.fo), </em>men enn er ymiskt, ið ikki heilt riggar eftir ætlan, t.d. teldusamskifti via DMI og út til aðrar veðurstovnar.    </p>
+<p>Landsverk  hevur  í  fleir  ár  havt  umfatandi  veðurmátingar:  25  veðurmátingar  í  sambandi  við vegakervið og havnir, 4 aldumátingar og 7 vatnstøðumátingar. Áður vóru t.d. eisini regnmátingar og frárenningar  partur  av  mátiarbeiðinum  hjá  Landsverki,  umframt  veðurmátingar  á  støðum,  ið  ikki beinleiðis  høvdu  við  vegakervið  ella  havnir  at  gera.  Sum  dømi  kann  nevnast,  at  mátingarnar  frá Landsverki 1981-2001 eru dokumenteraðar, teldutøkar og til taks at geva teimum, ið ynskja atgongd.</p>
+<p>Á  flogvøllinum  eru  eisini  veðurmátingar  við  høgari  góðsku  veðurdata  frá  sensorum  við  og  kring vøllin. Atlantic Airways ger mátingar, ið kunnu nýtast til METAR, á trimum støðum: á Vága Floghavn, við tyrlupallin í Klaksvík og tyrlupallin í Froðba</p>
+<p>Aðrir stovnar hava gjørt ymiskar veðurmátingar, men tað mesta av hesum hevur verið kanningar í sambandi  við  átøk/verkætlanir  yvir  styttri  tíð.  Dømi  eru  Landsverk,  SEV,  Umhvørvisstovan, Jarðfeingi, Fiskaaling, Fróðskaparsetrið, Búnaðarstovan, Havstovan, Røkt o.fl. Tað mesta av hesum finst bert endurgivið í frágreiðingum, ið ikki eru teldutøkar ella alment atkomiligar. Tað er okkara vón, at ein føroysk veðurstova kann gerast ein miðdepil, ið savnar og ger slíkt tilfar tókt fyri øll.</p>
+<p>Veðurvánirnar  fyri  Føroyar...!  Um  veðurtænastuna –  hvussu  hon  kom  í,  hvussu  hon  hevur  ment  seg  og</p>
+<p>hvussu hon virkar í roynd. Vagn Erik Michelsen, Viðskerin/Dimmalætting nr. 85, 8. maj 1999.</p>
+<p><em type="bold">3.5. Miðling av veðrinum í Føroyum </em></p>
+<p>Miðling av veðrinum í Føroyum hevur verið í útvarpinum síðan seinnapartin av 50unum. Føroyingar lurtaðu  eisini  eftir  norskum  útvarpi,  og  har  var  eisini  at  hoyra  um  veðrið.  Tað  vóru  serliga útróðrarmenn og fólk við tilknýti til landbúnað (<em type="italic">seyður, hoyggj, torv, fuglafleyg o.s.fr.</em>), sum lurtaðu. Eisini í fiskastykkjunum kring landið var neyðugt at fáa veðurtíðindini við. </p>
+<p>Við menningini í tøknini er í dag munandi fleiri møguleikar at fylgja við veðrinum. Á internetinum eru nógvar heimasíður við veðri – grafikkurin er sera góður, og tað ber væl til at fáa góða hylling á, hvat fyriferst í luftini.</p>
+<p>Tær føroysku útvarpsstøðirnar senda veðurtíðindi fleiri ferðir hvønn dag.</p>
+<p>Byrjandi  við  útvarpinum  hjá  Kringvarpi  Føroya,  so  er  veðrið  partur  av  mestsum  hvørjari tíðindasending. Veðrið  er  sett  aftast  í  sendingini –  uttan  so  at  okkurt ringt  veður  er  ávegis.  Tey  í útvarpinum hjá Kringvarpi Føroya fáa veðurtíðindini frá DMI. Tey umseta veðurtíðindini eftir einum føstum leisti.</p>
+<p>Síðan  september  2017 hevur  veðurmaður  (<em type="italic">fráfarin  sjómansskúlalærari</em>) verið  í  morgunsendingini hvønn  mánamorgun.  Hann  hevur  greitt  frá  veðrinum  fyri  komandi  vikuna.  Hann  hevur  kryddrað veðurtíðindini við ymiskum forvitnisligum, ið hevur við veðrið at gera.  </p>
+<p>Tá ið illveður hevur verið – ein ódn hevur verið ávegis – hevur stormradio verið við veðurfólki í studio ella telefon at dagføra støðuna.</p>
+<p>Sjónvarpið hjá Kringvarpi Føroya hevði eitt skifti veðurtíðindi í samstarvi við Storm í Noregi (<em type="italic">goldið </em></p>
+<p><em type="italic">av einum sponsori í Føroyum</em>). Hetta er ikki longur.  </p>
+<p>Bert í einum blaði, sum enn kemur út á pappíri – verður skrivað um veðrið. Tað er í Norðlýsinum. Har hava tey havt ein veðurmann (<em type="italic">sjómansskúlalærari í starvi</em>) síðan 2010. Hann skrivar bæði um veðrið,  hvussu  tað  fer  at  vera  næstu  dagarnar,  men  eisini  um  onnur  viðurskifti  kring  veðrið (<em type="italic">veðurlagsbroytingar, tekin í sól og mána o.s.fr.</em>). Tíðindastubbarnir um veðrið eru fyri tað mesta bæði  í  tí  prentaða  blaðnum,  sum  kemur  út  eina  ferð  um  vikuna,  og  á  teirra  heimasíðu <em type="italic">(www.nordlysid.fo).</em>  </p>
+<p>Aðrir  tíðindaportalar  skriva  eisini  um  veðrið.  Í  Sosialinum  <em type="italic">(www.in.fo)</em> er  skrivað  fleiri  ferðir  um vikuna  um,  hvussu  veðrið  fer  at  vera  næstu  dagarnar.  Er  illveður  á  veg,  so  er  tættari  ímillum veðurtíðindini. </p>
+<p>Á  síðum  sum  t.d.<em type="italic"> www.portal.fo </em>og  á<em type="italic">  www.vp.fo  </em>og<em type="italic">  www.jn.fo  </em>eru  eisini  fleiri  ferðir  um  vikuna skrivað um veðrið. Vanlig veðurtíðindi nakrar ferðir um vikuna, og so eitt sindur meiri enn tað, tá ið okkurt er áfatt. Hetta eru millum teir mest vitjaðu portalar í Føroyum.  </p>
+<p xml:lang="isl">Tíðindafólkini á portalum leita eftir upplýsingum um veðrið á alnetinum.</p>
+<p>Eitt annað er á øllum omanfyri nevndu portalum og á øðrum portalum eisini. Tað eru leinkjur til útlendskar portalar við veðri. Hesir portalar eru <em type="italic">m.a. www.belgingur.is, www.theyr.is, www.yr.no,</em> </p>
+<p><em type="italic">www.windy.com og www.earth.nullschool.net. </em>Tað eru aðrir eisini, men hasir eru teir mest vitjaðu </p>
+<p>av føroyingum.</p>
+<p>Eingin føroysk veðurtænasta er enn. Men føroyingar kanna veðrið hóast tað. Landsverk hevur sett upp nógvar støðir at máta veðrið fram við landsvegnum. Mátingarnar – t.e. vindur, ætt, hiti o.s.fr. – er til øll at síggja <em type="italic">á www.lv.fo. E</em>isini er ein forsøgn fyri tað næsta døgnið at síggja á síðuni. </p>
+<p>Vørn hevur eina heimasíðu<em type="italic"> www.vedrid.fo. </em>Har eru tøl frá mátistøðum kring landið, sum vísa vind, hita v.m.. Har er eisini ein 48-tíma forsøgn fyri ymisk støð í landinum. </p>
+<p>Veðurmenningarbólkurin (<em type="italic">VMB</em>) hevur keypt økisnavnið<em type="italic"> www.vedur.fo. T</em>að er m.a. ætlanin at nýta hesa til ítøkiligar veðurforsagnir eftir føroyskum leisti. </p>
+<p>Úlendskt sjónvarp sæst í Føroyum, har sum veðrið fyri okkara leiðir viðhvørt er ein partur (<em type="italic">BBC, NRK, </em></p>
+<p xml:lang="nob"><em type="italic">DR og TV2</em>). </p>
+<p><em type="bold">3.6. Veðurlæra sum lærugrein í føroyskum skúlum </em></p>
+<p>Veðurlæra er lærugrein í sjómansskúlunum í Føroyum. Eitt sindur er eisini um veðurlæru í onkrari framhaldsdeild,  í  miðnámskúlum  og  á  læraraskúlanum.  Men  mest  er  í  sjómansskúlunum –  t.e.  í Vinnuháskúlanum og Sjónámi.</p>
+<p>Byrjandi við lægstu nautisku útbúgvingini – dugnaskaparskeið í sigling – so eru 10 tímar í veðurlæru. Hendan útbúgvingin er á sjómansskúlunum og í kvøldskúla kring landið.</p>
+<p>Í  skiparaútbúgvingini  eru  umleið  100  tímar  til  veðurlæru.  Til  skipsførara  verður  ikki  undirvíst  í veðurlæru. Tað var tað fyri 15 árum síðan, men tað bleiv slept í 2004.</p>
+<p>Undirvísarar í veðurlæru á sjómansskúlum og kvøldskúlum eru vanliga útbúnir skipsførarar.</p>
+<p>Flogskiparar – tey ið flúgva tyrlu og flogfør – hava eisini fingið undirvísing í veðurlæru uttanlands. Talan er um væl drúgvari undirvísing í veðurlæru, enn tann á sjómansskúlum.</p>
+<p><em type="bold">3.7. Fundir við ymsar stovnar, feløg v.fl.  </em></p>
+<p>Vit hava í fyrstu atløgu havt samskifti/fundir við stovnar og virki, sum beinleiðis nýta veðurdata, gera granskingar innan veður/veðurlag og/ella gera veðurmátingar, umframt KVF, sum er størsti miðlari av  veðurtíðindum/veðurforsagnum  í  Føroyum:  Atlantic  Airways,  Fiskaali</p>
+<p>Áðrenn fundirnar hava vit sett nakrar standard spurningar (eftir leisti) :</p>
+<p type="listitem">• <em type="italic">í hvønn mun tit nýta veðurdata, nýta veðurforsagnir, hava ella hava havt sáttmála við aðrar </em></p>
+<p><em type="italic">stovnar viðv. veðurdata, veðurforsagnir, kanningar um veður, veðurlag v.m. </em></p>
+<p type="listitem">• <em type="italic">kt-skipan, servara-teldur v.m. Her hugsa vit serliga um tit gera granskingar, modell-royndir </em></p>
+<p><em type="italic">v.m. á servara-teldu ella mini-super-teldu.</em> </p>
+<p type="listitem">• <em type="italic">alment um stovnin </em></p>
+<p type="listitem">• <em type="italic">ynski ella tankar og ráð í sambandi við ein føroyskan veðurstovn. </em></p>
+<p>Umframt hesar stovnar/virki hava vit eisini fingið íkast frá ymsum feløgum, felagsskapum v.fl., sí 3.7.</p>
+<p>Niðurstøðan av hesum samrøðum/samskifti og íkasti er, at</p>
+<p type="listitem">• tað er stórur stuðul til arbeiði at fáa ein dagførdan føroyskan veðurstovn</p>
+<p type="listitem">• tað  eru  bert  Landsverk  og  SEV,  ið  hava  sáttmálar  viðv.  veðurdata,  og  mett  var,  at  hesir</p>
+<p>sáttmálar vóru ógvuliga sámiligir</p>
+<p type="listitem">• ongin stovnur ger beinleiðis granskingar/kanningar um veður, veðurlag</p>
+<p type="listitem">• tað eru fleiri stovnar, íð gera veðurmátingar og stórt ynski um betri samskipan, og eisini ynski</p>
+<p>um fleiri veðurmátingar</p>
+<p type="listitem">• stórt ynski um betri veðurforsagnir, har eisini verður tikið atlit til streym, sjóvarfall v.m.</p>
+<p type="listitem">• tað eru nakrir stovnar/virki (Fiskaaling, Setrið, Havstovan) sum møguliga kundu havt áhuga í</p>
+<p>einari mini-super-teldu</p>
+<p xml:lang="eng"><em type="italic">3.7.1. Atlantic Airways </em></p>
+<p xml:lang="nno"><em type="italic">https://www.atlantic.fo/ </em></p>
+<p><em type="italic">Alment um stovnin: </em></p>
+<p>Atlantic Airways røkir flogferðavinnu millum Føroyar og útheimin, tyrluflúgving við ferðafólki millum oyggjarnar,  umframt  at vera  ein partur  av tilbúgvingini  á  landi og  sjógvi.  Sambært  avtalu  millum Fiskimálaráðið  og  Atlantic  um  leiting,  bjarging  og  sjúkraflutning,  hevur  Atlantic  Helicopters  fulla tyrlumanning á vakt alt samdøgrið, allar dagar í árinum. Atlantic hevur somuleiðis eina skipan við tilkalling av flogskiparum til bráðfeingis sjúkraflutning við flogfari til sjúkrahús í útlandinum.</p>
+<p><em type="italic">Brúk av veðurtænastum: </em></p>
+<p>Flogskiparar  hava  atgongd  til  viðkomandi  veðurmátingar  eftir  METAR  (Meteorological  Terminal Aviation Routine Weather Report) formatinum. Í Føroyum verða gjørdar mátingar, ið kunnu nýtast til METAR, á trimum støðum: á Vága Floghavn, við tyrlupallin í Klaksvík og tyrlupallin í Froðba. METAR eru vanliga tøkar tvær ferðir um tíman – t.e. 20 og 50 minuttir yvir hvønn heilan tíma. Um ásettar broytingar  eru  í  veðrinum,  verða  SPECI-mátingar  sendar.  METAR/SPECI  verða  antin  gjørdar automatiskt ella av veðurobservatøri í torninum á Vága Floghavn. Allar mátingar frá Vága Floghavn verða sendar sendar til DMI, ið so kann brúka hesar til at gera stutttíðarforsøgnir fyri flogvøllin og eisini til vanligu veðurvánir fyri Føroyar.</p>
+<p>Flogskiparar hava somuleiðis atgongd til TAF (Terminal Aerodrome Forecast), ið eru veðurforsagnir gjørdar serstakt til flogferðslu. Hesar eru vanliga tøkar hvønn 3. tíma og eru galdandi upp til 9 tímar fram  og  á  størri  flogvøllum,  t.d.  Kastrup  (EKCH)  í  upp  til  24  tímar.  Um  broytingar  eru  í veðurforsagnum  kunnu  sendast  AMD  (amended).  Í  Føroyum  verða  hesar  gjørdar  av  DMI  fyri flogvøllin (EKVG) og fyri tyrlupallin í Froðba (EKFA).</p>
+<p>Umframt omanfyrinevndu MEAR/SPECI og TAF/AMD, er lógarkrav, at flogskiparar á flogførum eisini hava atgongd til kort yvir veðrið í ymsari hædd eftir leiðini, har teir skulu flúgva. Í dag er møguli</p>
+<p>Undir fráferð og lending hava flogskiparar samskifti við tornið, ið m.a. gevur teimum kunning um veðurlíkindini.</p>
+<p>Tornið  eru  opið,  tá  ið  vanlig  flogferðsla  er.  Er  tyrlan  boðsend  uttan  fyri  vanliga  flogtíð,  nýta flogskipararnir appir til at fáa upplýsingar um veður og vind. Teir meta, at hetta als ikki er nøktandi.</p>
+<p>Atlantic hevur sostatt nógv brúk fyri veðurtænastum, men einki gjald verður givið fyri hesar, annað enn  hald  av  ávísum  appum.  Tá  ið  Føroyar  í  2009  yvirtóku  veðurtænastuna  frá  DMI,  var</p>
+<p>“<em type="italic">flyvemeteorologiske  tjenester” </em>undantikið.  Tað  er  sostatt  formelt  DMI,  sum  hevur  ábyrgd  av </p>
+<p>veðurforsagnum til flogferðsluna, og tí verður onki goldið til DMI fyri hesar tænastur. Men tað er tó bert  partvís  galdandi  fyri  tyrlutænastuna,  soleiðis  er  tað  Atlantic  Airways  sum  hevur  borið  allan kostnað  av  veðurstøðum  í  Froðba  og  Klaksvík,  og  tað  er  eisini  Atlantic,  sum  hevur  goldið  fyri veðurradara, sum er keyptur fyri at betra um trygdina, serliga í sambandi við bjargingarátøk.</p>
+<p><em type="italic">Ynski til ein føroyskan veðurstovn </em></p>
+<p>- Góða og skjóta kunning baseraða á framkomna tøkni, so sum veðurradarar, ið siga, hvar skýggj</p>
+<p xml:lang="nno">og avfall eru, og metingar um vind og turbulens.</p>
+<p>- Betri forsagnir, serliga eru vindviðurskifti tætt at landi og millum oyggjarnar, sum í verandi støðu</p>
+<p>eru alt ov óneyv.</p>
+<p><em type="italic">Tankar og ráð viðv. nýggjum veðurstovni </em></p>
+<p>- Góðir veðurfrøðingar og veðurmodel eru hent at hava, men vitan heldur enn gitan er tað, ið ger</p>
+<p>munin í neyðstøðu. Tískil er tað avgerandi at nýggj tøkni, so sum veðurradarar, gerast partur av eini nýggjari veðurtænastu. Ein føroyskur veðurstovnur kundi umsiti eina slíka tænastu, ið bleiv atkomilig fyri øll on-line uttan gjald. Sum dømi um frambrot innan regularitetin hjá flogførunum, so er tað RNP-tøknin (<em type="italic">Requiered Navigation Performance</em>), sum hevur gjørt stóra munin og ikki servitan hjá flogskiparunum. </p>
+<p>- Til bjarging og trygd sum heild er tað altumráðandi at hava góða tøkni, so at tey, ið skulu seta</p>
+<p>lívið í váða fyri at bjarga øðrum, kunnu tað so upplýst og vandaleyst sum gjørligt.</p>
+<p xml:lang="isl"><em type="italic">3.7.2. Búnaðarstovan </em></p>
+<p xml:lang="nno"><em type="italic">http://www.bst.fo/ </em></p>
+<p><em type="italic">Alment um stovnin </em></p>
+<p>Búnaðarstovan  er  fakmálastovnur  í  landbúnaðarmálum  undir  Fiskimálaráðnum.  Búnaðarstovan umsitur  landsjørðina  (festijørðina-<span type="quote">"kongsjørðina"</span>),  ið  er  uml.  helvtin  av  føroyska  lendinum. Harumframt  umsitur  Búnaðarstovan  tær  stuðulsskipanir,  ið  eru  til  landbúnaðin  á Løgtingsfíggjarlógini.  Somuleiðis  rekur  Búnaðarstovan  Heygshaga  í  Kollafirði  sum  royndarbrúk, skipar fyri ávísum landbúnaðarroyndum, undirvísing, gransking og ráðgeving; og í hesum sambandi eisini luttøku í altjóða granskingarverkætlanum.</p>
+<p><em type="italic">Í  hvønn  mun  tit  nýta  veðurdata,  nýta  veðurforsagnir,  hava  ella  hava  havt  sáttmála  við  aðrar stovnar viðv. veðurdata, veðurforsagnir, kanningar um veður, veðurlag v.m.: </em></p>
+<p>Gamla Royndarstøðin í Hoyvík hevði eina veðurstøð standandi, ið máldi ávís data; m.a. hita, avfall, og sóltímar. Óvist er hvussu vorðið var við ætt og vindstyrki.</p>
+<p>Tá Royndarstøðin flutti í Kollfjarðardal í 1987, hildu veðurmátingar fram her norðuri við m.a. avfalli og hita.</p>
+<p>Gamla veðursmáttan fór av elli fyri nøkrum árum síðani, og í samstarvi við Landsverk (LV) varð keypt ein  nýmótans  støð  í  2016.  Her  eru  tó  trupulleikar  við  henni,  tí  m.a.  avfalsmátingarnar  og vindmátingarnar eru ikki rættar. Mátingarnar av hita tykjast at vera í lagi</p>
+<p>Sum landbúnaðarstovnur er áhugi í landbúnaðarmeteorologiskum mátingum, tulkingum av data, og forsøgnum.  Hettar  er  galdandi  fyri  ymisk  viðurskifti,  alt  frá  lýsing  av  vakstrarperioduni  og umstøðunum  ta  árstíðina  (min.-maks.  temp.,  avfall,  vind,  sóltímar,  innstráling,  døgngradir, tetraterm o.s.fr. bert fyri at nevna onkur viðkomandi parametur) til spáan um vánirnar fyri góðari ræsing og kjøtterra v.m. Eisini er sera áhugavert at kunna fylgja ymiskleikanum kring landið (í 2018 var  úrtøkan  t.d.  væl  undir  miðal  í  miðøkinum,  bæði  tá  talan  er  um  gras  og  um  slaktivekt,  hetta orsakað av vánaligum og vátum veðri, meðan úrtøkan til gras hinvegin eisini er lág á t.d. Viðareiði, men  orsakað  av  ov  lítlari  vætu.  Í  Gásadali,  hinvegin,  siga  tey  frá  sera  góðari  úrtøku  í  2018). Áhugamálini eru soleiðis mong.</p>
+<p>Vit, eins og onnur, sum ikki eru universitet, eru illa roynd av DMI, tá tað snýr seg um atgongd til føroyskar veðurdata; serliga orsakað av teirra kravi um gjald.</p>
+<p><em type="italic">kt-skipan, servara-teldur v.m. Her hugsa vit serliga um tit gera granskingar, modell-royndir v.m. á servara-teldu ella mini-super-teldu. </em></p>
+<p>Búnaðarstovan er partur av Landsneti, og sostatt er alt okkara teldukervi í teirra hondum. Vit hava tó  ætlan  um  t.d.  egnan  GIS-dátu  servara  hjá  Landsneti.  Vit  gera,  sum  er,  ongar  veðurfrøðiligar simuleringar e.tíl., men tað kundi ivaleyst verið ein viðkomandi og áhugaverdur táttur í atknýti til eitt komandi GIS-virksemi; t.d. hugsa vit um eitt sokallað <span type="quote">"Taðingaratlas"</span> t.v.s. eina GIS-skipan yvir designeraði  lendi  til  at  gagnnýta  avgassaði  tøð  á  frá  tí  komandi  biogass  verkinum.  Her  kundi veðurdata, so sum hiti og avfall, verið viðkomandi parametur í sambandi við t.d. taðingartíðarskeið, taðingarmongd o.s.fr.</p>
+<p><em type="italic">Ynski ella tankar og ráð í sambandi við ein føroyskan veðurstovn </em></p>
+<p>Búnaðarstovan  hevur  avgjørt  landbúnaðarfakligan  áhuga  í  eini  mentari  veðurfrøðitænastu  í Føroyum, sum stovnurin hevði kunna vent sær til eftir tørvi, bæði viðvíkjandi dátum, forsagnum, ráðum og tulkingum.</p>
+<p>Búnaðarstovan metir ikki, at støðin í Kollafirði, sum partvís eisini hýsir Fiskaaling, er vælegnað at hýsa einum veðurstovni. Teir eru í ferð við ymsar umvælingar og broytingar av bygningum.</p>
+<p><em type="italic">3.7.3. Fiskaaling </em></p>
+<p xml:lang="nno"><em type="italic">http://fiskaaling.fo/ </em></p>
+<p><em type="italic">Alment um stovnin </em></p>
+<p>Fiskaaling  er  alment  partafelag,  sum  granskar  og  veitir  tænastur  og  vitan  til  alivinnuna.  Nógv  av granskingingini  fevnir  um  náttúrugivnu  karmarnar  har  aling  er,  umframt  karmarnar  á  møguliga nýggjum aliøkjum. Veðurdata eru ein týðandi partur av hesum arbeiði.</p>
+<p><em type="italic">Í hvønn mun tit nýta veðurdata og/ella nýta veðurforsagnir: </em></p>
+<p>Fiskaaling nýtir veðurdata í gransking av firðum, sundum og vágum, serliga í mun til alivinnuna. Tí hava vit stóran áhuga í at fáa so góðar data sum til ber.</p>
+<p>Tá ið Fiskaaling granskar aldu og streym, hava vinddata stóran týdning. Sum er brúkar Fiskaaling vinddata frá vindmátarum Landsverks, sum tey hava sett fram við vegakervinum, men hesar støðir eru settar, so tær í besta mun lýsa koyrilíkindi, og ikki hvussu vindurin er á firðum, sundum og vágum. Tí hevði verið best, um veðurstøðir vóru settar upp, sum eru staðsettar veðurfrøðiliga, so tær best lýsa vindin á firðum, sundum og vágum.</p>
+<p>Rákið í firðum, sundum og vágum er eisini nógv ávirkað av, hvussu nógv feskvatn rennur út. Útboðið av regndátum er sera avmarkað, og tí vera ov nógv fyrivarni í útrokningunum.</p>
+<p>Regnmátingarnar mugu tí betrast munandi, og seta upp í nógv fleiri støðum.</p>
+<p><em type="italic">Hava ella hava tit havt sáttmála við aðrar stovnar viðv. veðurdata, veðurforsagnir, kanningar um veður, veðurlag v.m. </em></p>
+<p>Fiskaaling hevur ikki sáttmála við aðrar stovnar viðv. veðurdata veðurforsagnir, kanningar um veður, veðurlag v.m.</p>
+<p><em type="italic">Viðvíkjandi kt-skipan, servara-teldur v.m. Her hugsa vit serliga um tit gera granskingar, modellroyndir v.m. á servara-teldu ella mini-super-teldu. </em></p>
+<p>Fiskaaling  ger  modell-royndir  á  egnum  servara  og  PhD  studentar  á  Fiskaaling  nýta  eisini  teir teldufasalitetir, sum universitetini teir lesa á, bjóða.</p>
+<p><em type="italic">Ynski ella tankar og ráð í sambandi við ein føroyskan veðurstovn. </em></p>
+<p>Fiskaaling hava brúk fyri meira meteorologiskum røttum og kontinuerligum veðurdátum. Fiskaaling er í ferð við at menna eitt 3D hydrodynamiskt modell fyri sundalagið, og hevur ætlanir um at gera hetta fyri alt landið. Neyðugt er við einum vindmodellið til at dríva hydrodynamiska modellið. Tískil hava vit sera stóran áhuga í, at eitt háupploysiligt vindmodell verður gjørt fyri Føroyar.</p>
+<p>Um supertelda ella mini-supertelda verður fingin til vega at gera veðurmodell á, er áhugavert, um fiskaaling eisini kann koyra modell á hesi teldu. Modell, hugsað verður um, eru fjarðarák (ROMS) og annars modell av aldu og ráki í firðum, í sundum og vágum.</p>
+<p><em type="italic">3.7.4. Fróðskaparsetur Føroya </em></p>
+<p><em type="italic">https://www.setur.fo/ </em></p>
+<p><em type="italic">Lýsing av stovninum </em></p>
+<p>Fróðskaparsetur  Føroya,  vanliga  kallað  Setrið,  hevur  sum  er  einki  fólk  í  starvi  innan  veðurfrøði. Hinvegin  so  eru  starvsfólk  á  Náttúruvísindadeildini,  ið  hava  stóran  áhuga  fyri  veður,  aldu  og streymmátingum. Førleikar eru á Setrinum til at koyra teldumodel, so at til ber at gera alduvánir fyri Føroyar umframt forsagnir av sjóvarfallsráki. Eisini eru sterkir førleikar innan KT viðurskifti, so sum heimasíður, datagrunnar og onnur slík viðurskifti.</p>
+<p>Setrið  hevur  ikki  útbúgving,  ið  gevur  kompetansu  innan  veðurfrøði,  men  hevur  fleiri  skeið  innan stødd-  og  alisfrøði,  ið  eru  kravd  til  víðarilestur  á  slíkum  útbúgvingum.  Lesandi,  ið  taka  opnar útbúgvingar innan náttúruvísind, kunnu taka fleiri skeið eftir egnum ynski og sostatt tilevna sær eina útbúgving ið líkist/samsvarar við veðurfrøði. Sum dømi kann nevnast, at ein lesandi á masterstigi hevur tikið skeið innan veðurfrøði á Universitetinum í Bergen.</p>
+<p><em type="italic">Tørvur á veðurtænastum </em></p>
+<p>Setrið hevur, sum partur av ávísum verkætlanum, keypt veðurmátingar ella model data (hindcasts) frá  DMI,  men  hetta  er  ikki  ein  fastur  táttur  í  virkseminum.  Sostatt  eru  ongar  fastar  útreiðslur  til veðurtænastur, sjálvt um gransking fer fram, ið vildi havt gagn av slíkum tænastum, um tær vóru tøkar fyri einki.</p>
+<p><em type="italic">Ynski til ein føroyskan veðurstovn </em></p>
+<p>- Lætta atgongd til nýggjar mátingar</p>
+<p>- Góðskutryggjan av mátiskipan og mátingum - Skipan og greinan av nýggjum og eldri mátingum</p>
+<p>- Hjálp í sambandi við undirvísing innan veðurfrøði</p>
+<p><em type="italic">Tankar og ráð </em></p>
+<p>- Setrið ynskir samstarv, men hevur undir verandi karmi ikki pláss at hýsa einum slíkum stovni - Atgongd til munandi roknikraft, um stovnurin far slíka</p>
+<p>- Higartil  gott  samstarv  við  Belgingur  <em type="italic">(www.belgingur.is),  </em>ið  hava  áhuga  í  at  menna  eina </p>
+<p>forsagnarskipan fyri veður, streym og aldu.</p>
+<p xml:lang="nob"><em type="italic">3.7.5. Havstovan </em></p>
+<p xml:lang="nno"><em type="italic">http://hav.fo/ </em></p>
+<p><em type="italic">Alment um stovnin: </em></p>
+<p>Havstovan hevur til endamáls at gera kanningar av føroyskum havumhvørvi og tí livandi tilfeingi, har er,  og  at ráðgeva  og  kunna  landsins  myndug<em type="italic">á www.hav.fo.</em> </p>
+<p><em type="italic">Tørvur á veðurtænastum: </em></p>
+<p>Tørvur er á vanligum veðurvánum og siglingarlíkindum í sambandi við havrannsóknir o.t., men hesar verða ikki keyptar til endamálið. Verandi tænastur á ymiskum heimasíðum t.d. ocean.dmi.dk  nøkta hendan  tørvin.  Til  granskingarendamál  hevur  stovnurin  brúk  fyri  atgongd  til  veðurmátingar  av ymiskum slag umframt úrslit frá veðurlagsmodelum. Flestu av hesum eru alment atkomulig og uttan kostnað  og  kunnu  tí  nýtast  beinleiðis.  Í  øðrum  førum  fæst  atgongd  til  data  ígjøgnum  samstarv  í verkætlanum.</p>
+<p><em type="italic">Ynski til ein føroyskan veðurstovn: </em></p>
+<p>Serlig ynski til ein føroyska veðurstovn høvdu verið, at:  1) fingið lætta atgongd til lokalar mátingar,  2) mátingar skulu hava høga góðsku, 3) skipan og greinan av eldri veðurmátingum, og  4) gott um tætt samstarv kundi verið millum Havstovuna og veðurstovnin í sambandi við evni innan veðurlagsgransking</p>
+<p><em type="italic">Tankar og ráð: </em></p>
+<p>Nakrir tankar, ið komu fram í samskiftinum, vóru at: A) Umráðandi at starvsfólk á nýggja stovninum fingu góð arbeiðskor og avbjóðingar t.d. lættliga kundu samstarva við aðrar granskarar innan viðkomandi øki  B) Kostnaðurin av stovninum kundi verðið nakað lægri, um hann gjørdist partur av øðrum stovni, ið hevði líknandi kompetansu og krøv til umsiting og teldukervi v.m.  C) Ikki undirmeta starvsfólkabyrðina, tá tað kemur til at reka stóra teldu/rokniorku, umframt at halda tung telduforrit koyrandi  D) Kanna møguleikar at søkja eksterna/EU fígging til servitan í sambandi við byrjan av eini slíkari tænastu  E) Nýggja rannsóknarskipið fer at hava eina veðurstøð umborð. Hendan kann útbyggjast og møguliga gerast partur av tænastuni frá einum slíkum stovni.<em type="italic"> </em></p>
+<p><em type="italic">3.7.6. Jarðfeingi </em></p>
+<p xml:lang="nno"><em type="italic">http://jf.fo </em></p>
+<p><em type="italic">Um Jarðfeingi </em></p>
+<p>Jarðfeingi er stovnur undir Uttanríkis- og vinnumálaráðnum.</p>
+<p>Endamálið  hjá  Jarðfeingi  er  at  fyrisita,  granska,  ráðgeva  og  breiða  út  kunnleika  um  kolvetni  og jarðfrøðilig náttúruvirði.</p>
+<p>Jarðfeingi  fyrisitur  lóggávuna  innan  leiting  eftir  og  framleiðslu  av  kolvetnum.  Hetta  merkir,  at stovnurin ráðgevur landsstýrismanninum og almennum stovnum.</p>
+<p>Jarðfeingi  granskar  í  jarðfrøði  og  náttúrulandafrøði  á  landi,  á  havbotninum  og  í  undirgrundini. Jarðfeingi er jarðfrøðiligt savn fyri Føroyar, og tað merkir, at stovnurin røkir savn av føroyskum grót- og steinsløgum, umframt at stovnurin skipar fyri framsýningum og undirvísing.</p>
+<p><em type="bold">Veðurdata</em>  eru  týdningarmikil  partur  av  nógvum  av  teimum  uppgávunum,  sum  vit  arbeiða  við  á </p>
+<p>Jarðfeingi. Hetta fevnir um framleiðslu av eftirfarandi veðurforsagnum, men minst líka nógv um at vit hava brúk fyri góðum veðurdata í sambandi við t.d. kanningar, betri samfelagsgagn av jarðfeingi, útbygging av grønari orku og avmarking av vandum.</p>
+<p><em type="bold">Veðurforsagnir  skapa  trygd</em>.  Planlegging  av  t.d.  feltarbeiði  og  felttúrum,  bæði  á  landi  og  sjógvi, </p>
+<p>krevja ofta veðurforsagnir. Jú betri forsagnir, - jú meir fæst burtur úr tíðini uttandura. Vit brúka ofta forsagnir, sum fara einar 4 – 5 dagar fram. Ofta skulu fleiri fólk avstað at gera eitthvørt arbeiði og tað er umráðandi, at óvæntað illveður, mjørki ella annað ikki ger arbeiðið ótrygt.</p>
+<p><em type="bold">Nýtsla  av  veðurdata  til  kanningar.</em>  Veðurdata  vera  nýtt  í  sambandi  við  kanningararbeiði  og </p>
+<p>gransking.  Tørvur  er  m.a.  á  30  árs  normalum,  mánaðarhagtøl  og  nágreinilig  eldri  veðurdata  um avfall, temperatur og nógv onnur onnur hagtøl. Ofta kundi verið gott at fingið nágreinilig data heldur e</p>
+<p><em type="bold">Grundvatn  er  virðismikið  jarðfeingi,  bæði  til  orku  og  drekkivatn</em>.  Kanningar  verða  gjørdar  av </p>
+<p>grundvatni í Føroyum. Slíkar kanningar tørva veðurmátingar av ymsum slag, sum t.d. avfalsmátingar og mátingar av frárenning. Hetta at nýta grundvatn kann gerast virðismikið jarðfeingi fyri føroyska samfelagið og ein treyt fyri at koma á mál við burðardyggari nýtslu av grundvatni til bæði drekkivatn og  orku,  verður  at  skilja  vatnjavnvág  og  vatnrenslið  inni  í  fjallinum.  Vit  hava  brúk  fyri avfalsmátistøðum uppi í hæddunum og mátingum av guvan, sum ongantíð eru gjørdar í Føroyum.</p>
+<p><em type="bold">Jarðvandar er ein hóttan í øllum fjallaøkjum</em>. Skriðulop og omanlop av alskynsslag er vandamál í </p>
+<p>øllum  fjallaøkjum,  og  hesin  vandin  økist  fyri  tað  føroyska  samfelagið  orsakað  av  øktari  ferðslu, býarbygging  undir  brattlendi  og  veðurlagsbroytingum.  Tað  er  umráðandi,  at  neyðug  veðurdata verður innsavnað, so útbygging fær tikið hædd fyri jarðvandum.</p>
+<p><em type="bold">Arktiski parturin av Føroyum hevur mestsum ongar veðurmátingar</em>. Veðurmátingar vísa, at Føroyar </p>
+<p>hava  tempererað  veðurlag  frá  sjóvarmálanum  og  upp  í  umleið  150  metra  hædd.  Flest  allar veðurstøðir  í  Føroyum  liggja  í  hesum  økjunum  og  máta  tískil  ikki  hita,  avfall  og  vind  í  tí  ovara partinum  av  Føroyum,  sum  fevnir  um  næstan  80  %  av  samlaða  føroyska  arealinum.  Tað  er týdningarmikið,  at  vit  kenna  meir  til  veðurviðurskifti  í  hesum  øki,  tí  júst  her  á  markinum  millum tempererað og arktiskt veðurlag økist erosión av bæði vindi, avfalli og biti.</p>
+<p><em type="bold">Hvussu  laga  vit  okkum  til  veðurlagsbroytingar?</em>  Mátingar  í  Føroyum  og  kring  allan  heim  vísa,  at </p>
+<p>veðurlagsbroytingar henda, og at samfeløg skulu finna hættir at laga seg til slíkar broytingar. Tað er alneyðugt  at  hava  veðurdata  úr  Føroyum,  sum  vísa  hvørjar  broytingar  henda.  Hvussu  broytist avfalsmynstrið og t.d. vindmynstrið og hvørjar eru ekstremhendingarnar? Bert góð data yvir langa tíð kunnu geva tílíkt innlit.</p>
+<p><em type="bold">Jarðfrøðilig</em> <em type="bold">ráðgeving krevur góð veðurdata. </em>Jarðfeingi veitir jarðtøkniliga ráðgeving í sambandi við </p>
+<p>ymiskar  størri  verkætlanir,  sum  t.d.  tunnilsútbyggingar,  vindmyllur,  tyrvingarpláss  og  annað.  Slík ráðgeving krevur viðhvørt data um lokal veðurviðurskifti, sum t.d. frárenning í veitum og áum og avfall. Tað styrkir nógv um planlegging av hesum ofta stóru verkætlanunum, um veðurdata eru tøk.</p>
+<p><em type="bold">Grøn  orka  til  føroyska  samfelagið</em>.  Veðurdata  um  t.d.  avfall,  vind  og  temperatur  verða </p>
+<p>grundarsteinar undir at planleggja hópin av møguleikum fyri grønari orku til føroyska samfelagið. Tað er upplagt, at ein veðurtænasta er við til at skipa slíkar data, so tær verða gjørdar á rættan hátt og yvir langa tíð.</p>
+<p><em type="bold">Etur erosiónin tað føroyska lendið?</em> Vit vita, at erosiónin er hørð nógvastaðni í Føroyum og at ein </p>
+<p>triðingur av tí føroyska arealinum er bert. Er hetta ein vaksandi trupulleiki, ella eru broytingar at síggja onkrastaðni? Hóast tað føroyska arealið er lítið, vita vit sera lítið um heilsustøðuna so at siga fyri  tað  føroyska  økið.  Kortlegging  saman  við  betri  veðurdata  frá  fleiri  økjum  er  ein  av grundarsteinunum til at skilja hesa støðu betri.</p>
+<p><em type="bold">Viðmerkingar um data.</em> Tær flestu dataseriurnar úr føroyska økinum eru torførar at fáa fatur á, og </p>
+<p>ofta eru tær bert tiknar í stutta tíð. Tað verður stórt virði í at fleiri data verða innsavnað úr hesum økinum, sum tað føroyska samfelagið kann hava gagn av bæði í sambandi við góðar veðurforsagnir og í sambandi við ú</p>
+<p><em type="italic">3.7.7. Kringvarp Føroya, KVF </em></p>
+<p xml:lang="nno"><em type="italic">http://kvf.fo </em></p>
+<p xml:lang="deu"><em type="italic">Um KVF </em></p>
+<p>Kringvarp Føroya hevur sum sjálvstøðugur, almennur stovnur ávísar public service-skyldur mótvegis øllum borgarum. Kringvarp Føroya hevur ein týðandi leiklut at miðla og mynda føroyska mentan. Stovnurin hevur somuleiðis stóran týdning fyri fólkaræðið í landinum, tí hann í virksemi sínum varpar ljós á og elvir til kjak um samfelagsviðurskifti.</p>
+<p>KVF er týðandi miðlari av øllum veðurvánum og hevur skyldu sambært §14 í lógini um Kringvarp at taka lut í almennum tilbúgvingarskipanum.<em type="italic"> </em></p>
+<p><em type="italic">KVF og veðrið frá DMI </em></p>
+<p>KVF fær veðurtíðindi til útvarpið frá DMI, tey verða umsett eftir einum leisti, og tey eru broytt seinni árini. Tað hava verið brúktir stórar upphæddir upp á lang- og millumbylgjusendarar, men nú hevur tað  minni  týdning.  Øll  skipini  hava  góða  útgerð  við  internet  v.m.,  so  tey  fáa  veðurvánir  v.m. ymsastaðni  frá.  Fyrr  var  soleiðis  vanligt,  at  skipini  gjørdu  vart  við,  um  okkurt  ikki  var  heilt  rætt  í veðurvánunum, men nú á døgum kemur tað næstan ikki fyri, at tey hoyra frá skipunum – og tað er neyvan tí, at veðurvánirnar altíð eru rættar nú á døgum.</p>
+<p>Higartil hava veðurtíðindi verið lagað til fiskiflotan, men KVF metir, at tað kanska nú er tíð at gera broytingar  her,  so  veðurvánirnar meira  verða fyri  vanliga  borgaran. Tó  ikki  so,  fiskiflotin  skal  ikki gloymast, og vónandi kunnu enn betri veðurvánir gerast í tíð sum kemur.</p>
+<p><em type="italic">Nýggir møguleikar og ráð viðvíkjandi veðurstovni </em></p>
+<p>KVF hevur góðar møguleikar at gera sendingar kring landið við <span type="quote" xml:lang="fra">“LiveU”</span>.</p>
+<p>Viðvíkjandi veðurforsagnir í sjónvarpi eru nógvir møguleikar, og veðurmenningarbólkurin (VMB) og KVF vóru samdir um, at hetta er eitt øki sum skal raðfestast høgt. Ætlanin er, at VMB seinni í ár fer at kanna ymsar møguleikar, DR, TV2 v.m.</p>
+<p xml:lang="isl"><em type="italic">3.7.8. Landsverk </em></p>
+<p xml:lang="nno"><em type="italic">http://www.landsverk.fo/ </em></p>
+<p><em type="italic">Lýsing av stovninum: </em></p>
+<p>Landsverk hevur nógvar ymiskar uppgávur t.d. ábyrgd av almennum bygningum, landshavnum og tyrlupallum,  men  serliga  er  tað  landsvegakervið  í  Føroyum,  sum  fyllir  nógv.  Sum  partur  av  teirra tænastu  verða  mátingar  gjørdar  av  eini  røð  av  veðurstøðum  kring  landið.  Landsverk  hevur  gjørt veðurmátingar síðan miðskeiðis í áttatiárunum, aldumátingar síðan seinast í sjeytiárunum umframt at  staðið  fyri  fleiri  vatnstøðumátingum,  kanningum  av  frárenning,  umframt  kanningar  av  hálku, skuggakasti  og  ferðslu  v.m.  Stovnurin  bjóðar  eina  røð  av  mátingum,  sum  nógvir  ymiskir  bólkar  í samfelagnum dagliga gagnnýta. Til dømis taka fjølmiðlar upplýsingar beinleiðis niður av heimasíðuni og kunngera hesar fyri Føroya fólki.</p>
+<p>Stovnar, virki og einstaklingar kunnu eisini venda sær til Landsverk við fyrispurningum um atgongd til eldri mátingar. Kommunur og byggivinna hava somuleiðis áhuga í upplýsingum, tá ið t.d. havnir, vindmyllur og bygningar skulu byggjast og viðlíkahaldast. Av og á verður Landsverk biðið um at seta upp veðurstøðir, har kannast skal, um ráðiligt er at byggja í ávísum øki. Landsverk hevur í dag 27 fastar veðurstøðir, ið liggja spjaddar um alt landið. Tveir teknikkarar eru í starvi hjá Landsverki, ið millum annað halda veðurstøðirnar koyrandi og saman við einum forritara syrgja fyri, at mátingar áhaldandi koma inn og eru tøkar á heimasíðuni og á appum. Veðurstøðirnar, ið hava fastan streym, vera mettar at kosta kr. 600.000 stykki, tá ið alt tilfar, tól og arbeiðstíð eru roknað við, meðan </p>
+<p><em type="italic">Tørvur á veðurtænastum: </em></p>
+<p>Data frá veðurstøðunum hjá Landsverki kunnu bert brúkast til at spáa um koyrilíkindi nakrar tímar fram. Av tí at vegirnir helst skulu saltast, áðrenn tað gerst hált, alla tíð á samdøgrinum, so hevur verið neyðugt at brúka eina enn betri hálkuávaringarskipan. Tann skipan, Landsverk brúkar í dag, er upprunaliga ment av danska Vejdirektoratet og krevur forsagnir frá DMI fyri at rigga. Hendan skipan brúkar lokalu mátingarnar og forsøgnina frá DMI fyri at spáa um koyrilíkindini í upp til 24 tímar fram. Afturat hesum keypir Landsverk 48 tíma meteorogram frá DMI fyri støðina á Boðanesi í tveimum hæddum (0m og 350m). Hesar tænastur kosta áleið 120.000,- árliga.</p>
+<p><em type="italic">Ynski til ein føroyskan veðurstovn: </em></p>
+<p>- Góðar lokalar forsagnir</p>
+<p>- Mátingar, ið eru skjótt tøkar fyri allar brúkarar - At hesin møguliga við tíðini kann levera tænastuna, ið nú verður keypt frá DMI</p>
+<p><em type="italic">Telduviðurskifti: </em></p>
+<p>Landsverk  hevur  ikki  tørv  á  sterkari  roknikraft  til  teirra  mátiskipan  og  forsagnir.  Sum  er,  brúkar Landsverk 4 virtuellir servarar á Electron til endamálið.</p>
+<p><em type="italic">Tankar og ráð í sambandi við ein Føroyskan veðurstovn: </em></p>
+<p>- Veðurmátingar kunnu gerst í samstarvi við Landsverk</p>
+<p>- Veðurstovnurin kundi havt til uppgávu at eftirkanna føroyskar mátingar á landi og sjógvi</p>
+<p xml:lang="vep"><em type="italic">3.7.9. MRCC </em></p>
+<p xml:lang="nno"><em type="italic">http://www.mrcc.fo </em></p>
+<p><em type="italic">Lýsing av stovninum </em></p>
+<p>MRCC (Maritime Rescue Coordination Centre) fyri Føroyar virkar saman við Tórshavn Radio, sum ein eind í samtakinum Vørn undir Fiskimálaráðnum. MRCC Tórshavn hevur ábyrgdina fyri íverksetan og samskipan av leiting og bjarging á føroyskari havleið. Á enskum verður hetta kalla SAR (Search and Rescue).</p>
+<p>Samstarvsavtalur eru við Atlantic Helicopters og Arktisk Kommando, umframt MRCC Aberdeen og JRCC Iceland, um talan er um veiting av hjálp í sambandi við størri neyðstøður.</p>
+<p>Aðrar  uppgávur  hjá  MRCC  Tórshavn  fevna  m.a.  um  at  taka  ímóti  fráboðan  um  oljudálking  á føroyskum havleiðum, sjúkraflutning við tyrlu, avgreiða boð um yvirgang á føroyskum skipum (ISPS - <em type="italic">International Ship and Port Facility Security - Code</em>), og at gera og lýsa siglingarávaringar. </p>
+<p>Vanliga  virkisøki  hjá  MRCC  Tórshavn  er  havleiðin  úr  fjøruni  og  út  á  200  fjórðingamarkið  ella miðlinjuna  millum  lond.  Støðin  er  mannað  alt  samdøgrið  og  allar  dagar.  Støðin  hevur  skipaðar mannagongdir við eksternari skoðan.</p>
+<p><em type="italic">Tørvur á veðurtænastum </em></p>
+<p>MRCC hevur undir verandi avtalu við DMI, atgongd til veðurfrøðing, ið er á vakt. Hesin møguleiki verður brúktur tá neyðstøður eru, har brúk er fyri slíkari tænastu. Tænastan er ókeypis í støðuni og er fevnd av vanliga DMI-Vørn haldinum.</p>
+<p>Tórshavn Radio sendir veðurforsagnir út á VHF arbeiðsrásum umframt MF (millumbylgju) og á Navtex, tvær ferðir um samdøgrið og lesur inn á telefonsvarara. Harumframt sendir Tórshavn Radio vind-og stormávaringar  eftir  tørvi.  Hava  tí  tørv  á  veðurforsagnum  tvær  ferðir  um  samdøgrið  og  vind-og stormávaringum eftir tørvi.</p>
+<p>Eisini hevur MRCC eina teldutøka leitiskipan kalla SARIS (Search and Rescue Information System) har havstreymar og sjóvarfall við føroysku leiðirnar fara at verða lagdar inn. Veðurviðurskiftini mugu í verandi skipan leggjast inn manuelt fyri tríggjar teir seinastu dagarnar. Eftir ætlan skal nýggj og nógv betrað leitiskipan skipan setast í verk, har alt er teldutøkt, og hendan skipan fær væntandi brúk fyri veitan av veðurobservatiónum og -forsagnum.</p>
+<p><em type="italic">Tankar og ráð í sambandi við ein føroyskan veðurstovn: </em></p>
+<p>- Ynski er at hava ein veðurfrøðing í sambandi við eina neyðstøðu. Í verandi støðu er plásstrot,</p>
+<p>men vónandi verður bygt út innan alt ov langa tíð.</p>
+<p xml:lang="vep"><em type="italic">3.7.10.SEV </em></p>
+<p xml:lang="nno"><em type="italic">http://sev.fo </em></p>
+<p><em type="italic">Stutt um SEV: </em></p>
+<p>Elfelagið SEV er interkommunalur felagsskapur, sum allar kommunur í Føroyum eiga í felag og hava ræði  á  umvegis  aðalfund,  har  hvør  kommuna  hevur  atkvøðurætt  svarandi  til  íbúgvaratal  í kommununi. SEV eigur og rekur føroyska elnetið og hevur veitingarskyldu til allar borgarar og virki í Føroyum. SEV hevur sett sær fyri at øll orkuframleiðsla skal koma frá varandi orkukeldum í 2030.</p>
+<p><em type="italic">Núverandi brúk av veðurtænastum: </em></p>
+<p>Tá meiri og meiri máttur skal fáast úr teimum óstøðugu grønu orkukeldunum, so hevur SEV tørv á at fáa forsagnir, ið duga at spáa um, hvussu nógv orka kann væntast komandi tímarnar. Til hetta endamál  samstarvar  SEV  við  veitaran  ENFOR  (enfor.dk)  um  at  menna  eina  slíka  forsagnarskipan. Sum partur av hesum samstarvi keypir SEV veðurforsagnir, men bert fyri nakrar fáar túsund krónur árliga.</p>
+<p>SEV letur eisini gera vindmátingar í sambandi við planlegging av drift vindmyllulundum. Hetta tekur Kjeller Vindteknik sær av í løtuni (vindteknikk.no).</p>
+<p xml:lang="isl"><em type="italic">Gransking innan veður og veðurlag: </em></p>
+<p>SEV er ikki granskingarstovnur, men hevur latið nógvar kanningar verða gjørdar innan viðkomandi evni  í  sambandi  við  vind-  og  vatnorkuútbyggingar.  Frameftir  verður  væntandi  tørvur  á  at  gera kanningar innan vind-, sól-, sjóvarfalsstreym- og alduorku til elframleiðslu. Eisini verður tørvur á at kenna árinini, ið veðurlagsbroytingar kunnu hava á framtíðar orkuskipanina.</p>
+<p><em type="italic">Ynski til ein føroyskan veðurstovn: </em></p>
+<p>Enn betur lokalar veðurforsagnir til dagligu driftina av netinum og elframleiðsluni. Føroyski stovnurin kundi eisini yvirtikið nakrar veitingartænastur í sambandi við veðurmátingar, ið SEV letur gera.</p>
+<p><em type="italic">Tankar og ráð í sambandi við skipan av einum veðurstovni </em></p>
+<p>Fyri at fáa eitt mennandi og áhugavert arbeiðsumhvørvi er neyðugt, at starvsfólk kunnu samstarva við starvsfólk á øðrum stovnum. Tey, ið ganga á vakt, áttu at kunna gjørt hetta saman við øðrum vaktarskipanum eitt nú í sambandi við tilbúgving á landi ella á sjógvi. Tey, ið granska, áttu at kunna gjørt hetta í samstarvi við annan granskingarstovn. Viðvíkjandi KT, so nýtir SEV bert tænastur frá Elektron til backup, meðan restin verður klárað av egnum starvsfólki.</p>
+<p xml:lang="isl"><em type="italic">3.7.11.Umhvørvisstovan/Orka </em></p>
+<p xml:lang="nno"><em type="italic">http://us.fo/ </em></p>
+<p>Tað er enn ikki eydnast at fáa íkast frá Umhvørvisstovan/Vernd, hóast Vernd má metast sum ein stovnur, ið til tíðir skal nýta veðurforsagnir og/ella veðurdata, veðurkanningar v.m. Vit hava heldur ikki fingið íkast frá Umhvørvisstovan/Skógrøkt</p>
+<p><em type="italic">Alment um stovnin: </em></p>
+<p>Orka  er  deild  á  Umhvørvisstovuni,  ið  vegna  landsstýrismannin  umsitur  elveitingareftirlit  eftir elveitingarlógini frá 2007, umframt at veita almenna ráðgeving innan hesi evnisøki. Harundir falla at geva loyvi til elframleiðslu úr vatni og vindi og skipa fyri útbjóðingartilfari í hesum sambandi. Orka fremur eisini átøk til at kunna brúkarar um varandi orkumøguleikar, so sum jarðhita og sólorku, og meiri  rætta  orkunýtslu,  sum  at  flyta  yvir  til  elbilar  og  hitapumpur.  Orka  hevur  umsitið  ymiskar verkætlanir í hesum samanhangi eitt nú <span type="quote" xml:lang="isl">"Ferð á grøna orku"</span> og <span type="quote" xml:lang="isl">"Orkuskiftið"</span>.</p>
+<p><em type="italic">Keyp av veðurtænastum: </em></p>
+<p>Fáa dagsvirðir frá DMI viðvíkjandi mátingum í Føroyum. Hetta kostar áleið 10.000,- árliga. Orka letur kanningar og vindmátingar gera í sambandi við vindmylluútbjóðingar og keypir neyðuga serfrøði til endamálið. Umhvørvisstovan stendur eisini fyri dálkingarkanningum, so sum roykspjaðing v.m., har keyp av mátingum ella serfrøði kann vera ein partur.</p>
+<p><em type="italic">Gransking viðkomandi fyri veðurlag: </em></p>
+<p>Stovnurin fremur gransking til frama fyri at røkka endamálinum, at øll orka á landi skal koma frá varandi  orkukeldum  innan  2030.  Mesta  av  hesum  hevur  higartil  knýtt  seg  at  vindmyllulundum, pumped storage (<em type="italic">har regnviðurskifti eru avgerandi</em>), orkunýtsla í sethúsum og jarðhitaskipanir, men í komandi tíðum verða kanningar av sólorku (<em type="italic">har innstráling, skýggj, sýni v.m. eru umráðandi</em>) eisini ein partur av orkukanningunum. Hesin stovnurin er tískil ein týðandi brúkari av veðurmátingum og viðkomandi stovnur hjá eini nýggjari føroyskari veðurstovu at arbeitt saman við. </p>
+<p><em type="italic">Ynski til ein føroyskan veðurstovn: </em></p>
+<p>- Góðar lokalar forsagnir av vindi og turbulensi til brúk í sambandi við vindmyllulundir</p>
+<p>- Góðar lokalar forsagnir av øðrum orkuviðkomandi parametrum sum regn og sól</p>
+<p><em type="italic">Tankar og ráð í sambandi við ein føroyskan veðurstovn: </em></p>
+<p>- Veðurmátingar hava riggað illa síðani føroysku yvirtøkuna, tó hava mátingarnar frá Tórshavn og</p>
+<p>Flogvøllinum verið nýtiligar</p>
+<p>- Tað átti at verið tosað við tryggingarfeløgini um, í hvønn mun tey eru áhugað í at taka lut í at</p>
+<p>menna eina betri tilbúgving.</p>
+<p>- Tað er umráðandi at tætt samstarv er við ein altjóða veðurstovn. - Staðseting  kundi  verið  núverandi  hús  á  Boðanesi,  men  tengt  at  øðrum  stovni,  tó  mugu</p>
+<p>starvsfólkini ikki isolerast ov nógv, tí hetta hevur negativa ávirkan á trivna.</p>
+<p><em type="italic">3.7.12.Vága Floghavn </em></p>
+<p xml:lang="nno"><em type="italic">https://www.fae.fo/ </em></p>
+<p><em type="italic">Um Vága  Floghavn </em></p>
+<p>P/f  Vága  Floghavn  er  eitt  alment  partafelag,  sum  stendur  fyri  rakstrinum  av  Vága  Floghavn.  Tey umleið 30 starvsfólkini virka fyri, at tað skal vera gott og trygt at ferðast um flogvøllin, sum er portrið millum Føroyar og útheimin.</p>
+<p>Aðrar  týðandi uppgávur eru  at  virka fyri,  at hava  ein  rakstur  á  sunnum  handilsligum  grundarlagi, útbygging av flogvøllinum og farstøðini, eins og støðug menning av virkseminum annars.</p>
+<p>Fyritreytirnar  fyri  loftvegis  sambandinum  ímillum  Føroyar  og  umheimin  er  eru  batnaðar  nógv seinastu tíðina. Í desember 2011, bleiv flogbreytin longd frá 1250 metrum til 1799 metrar. Longda flogbreytin  merkir  at  flogvøllurin  nú  kann  taka  ímóti  nógv  størri  flogførum  enn  fyrr.  Nýggj innflúgvingartól hava eisini bøtt munandi um reglusemið á flogvøllinum.</p>
+<p>Vága Floghavn arbeiðir tætt saman við almennum myndugleikum, saman við føroyskari ferðavinnu og føroyskum vinnulívið annars til tess at fremja vøkstur umvegis flogvøllin í Vágum.</p>
+<p><em type="italic">Í  hvønn  mun  tit  nýta  veðurdata,  nýta  veðurforsagnir,  hava  ella  hava  havt  sáttmála  við  aðrar stovnar viðv. veðurdata, veðurforsagnir, kanningar um veður, veðurlag, kt-skipan v.m </em></p>
+<p>Á Flogvøllinum eru mátingar av veðurdata, frá sensorum við og kring vøllin:</p>
+<p>Vindmátarar, tveir staðsettir á vøllinum, ein á fjallinum Skeiðin, Sørvágsfjørður.</p>
+<p>Skýhæddarmátarar, staðsettir í Sørvági og Miðvági. RVR mátingar (Runway Visual Range), tveir við vøllin.</p>
+<p>2 m / græs hita/væta, frá tveimum mátarum, við vøllin. Barometur standur, við vøllin.</p>
+<p>Burtursæð frá vindmátaraútgerðini, sum er frá ED Service, so er øll MET útgerð frá Vaisala. Hava ringar  royndir  av  sonic  vindmátarum,  sum  ofta  verða  oyðilagdar  av  fugli,  og  tí  verður  cup anemometer frá ED service nýtt. Verður kalibrerað minst annað hvørt ár.</p>
+<p>Veðurdata  verða  brúkt  til  flogfør  og  tyrlur,  sum  hava  radio  samskifti  við  Tornið  á  Flogvøllinum  í sambandi við fráferð og komur.</p>
+<p>Tornið  sendir  eisini  hesar  veðurupplýsingar  út  í  tí  stóru  verð,  sum  METAR,  SPECI  og  Synop. Flogvøllurin er eisini góðkendur at senda út AUTOMETAR, tá Tornið ikki er manna.</p>
+<p>KT-skipanin  SAVS2000  er  frá  Insero.  Skipanin  hevur  ein  høvuðs-servarateldu  til  innheintan  og viðgerð av data, sum síðani verða víst á ein stuktureraðan hátt, so lætt er at fáa yvirlit og innlit av veðrinum á ymsar háttir. Øll veður data verða goymd á hesum servara í min 1 mánað, METAR o.a. verða tó goymd longur.</p>
+<p>Naviair/Vága Floghavn hevur avtalu við DMI um veðurforsagnir, t.d. fær Tornið á flogvøllinum TAFF regluliga frá DMI sum tekur støðu í veðrinum á Flogvøllinum.</p>
+<p>Gransking verður ikki gjørd á Vága Floghavn sum so. Tó hevur Floghavnin saman við Force Technolicy í  dk  arbeitt  við  at  víðari  menna  eina  turbulens  ávaringarskipan,  sum  við  data  frá  lokalu vindmátarunum skal ávara um turbulens í sambandi við flúgving við Vága Floghavn.</p>
+<p>Vága Floghavn hevur gjørt skriv sum viðgerð søguna um hesa TWI skipan: “<em type="italic">Arbeiði við at meta um </em></p>
+<p><em type="italic">meldurin/turbulensin  við  Vága  Floghavn  eftir  vanlukkuna  við  Golfstream  flogfarinum  hjá  donsku verjuni</em>”. Hetta skriv er viðlagt, sí kapitul 7. </p>
+<p><em type="italic">Ynski, tankar og ráð til ein føroyskan veðurstovn: </em></p>
+<p>Veðurtænastan  á  Flogvøllinum  er  ikki  á  føroyskum  hondum:    “ <em type="italic">....Sagsområdet  omfatter  ikke </em></p>
+<p xml:lang="dan"><em type="italic">flyvemeteorologiske  tjenester  i  henhold  til  luftfartslovgivningen,  for  hvilke  den  meteorologiske myndighed for civil luftfart, Statens Luftfartsvæsen (SLV), udpeger en leverandør (service provider). DMI er p.t. af SLV udpeget som service provider på det luftfartsmeteorologiske område.</em> “, men hóast </p>
+<p>tað, vónar Vága Floghavn, at ein føroyskur veðurstovnur verður skipaður og dagførdur.</p>
+<p>Tað er eyðsæð, at flogferðslan skal hava neyvar og serstakar veðurforsagnir, sum kanska ikki er so lætt at gera í Føroyum, sum støðan er nú. Men uppá sikt eru kanska vónir um betri forsagnir av mjørka, turbulensi, vindi v.m. Eisini kundi verið virðismikið við betri mátingum, t.d. við radara, lokalt afturat tí radara, sum er settur upp á Sornfelli.</p>
+<p><em type="bold">3.8. Viðmerkingar, ynski og ráð frá ymsum feløgum, felagsskapum, miðlahúsum v.fl. </em></p>
+<p>Millum  manna  eru  nógvar áskoðanir um, hvussu ein veðurtænasta skal skipast, og hvat er av</p>
+<p>mesta  týdningi:  fleiri  mátingar,  betri  forsagnir,  betri  miðling  v.m.  Vit  hava  á  heimasíðuni</p>
+<p><em type="italic">https://vedur.fo/ </em>skrivað, at “<em type="italic">Øll eru vælkomin at skriva til okkum, um tey hava eitt gott hugskot, </em></p>
+<p><em type="italic">viðmerkingar ella spurningar</em>”. Tað eru tó bert komin fá íkast.  </p>
+<p>Vit  hava  sent  beinleiðis  teldupost,  sí  fylgiskjal  F,  til  nøkur  feløg,  felagsskapir  v.fl.  um  teir  hava</p>
+<p>“<em type="italic">viðmerkingar, ráð ella ynski</em>” til eina Veðurstovu Føroya: </p>
+<p type="listitem">• Bóndafelag Føroya, Føroya Fiskimannafelag, Hiking.fo, Strandfaraskip Landsins, Visit Faroe</p>
+<p xml:lang="eng">Islands</p>
+<p type="listitem">• Dimma,  jn.fo,  in.fo,  Norðlýsið,  Norðoya  Portalurin,  Portal.fo,  Sandoyar  Portalurin,</p>
+<p>Suðuroyarportalin, Vágaportalurin</p>
+<p type="listitem">• Vinnuhúsið, Ferðavinnufelagið, Føroya Reiðarafelag, Handilsvinnufelagið,</p>
+<p>Havbúnaðarfelagið, Oljuvinnufelagið, Reiðarafelagið fyri Handilsskip, Smyril-Line</p>
+<p>Her hava vit fingið fleiri áhugaverd íkast, sí niðanfyri. Tað hevur ikki verið møguleiki hjá okkum, at fáa eitt veruligt prát ella fund við øll áhugaði, men tað kann gerast seinni, og er kanska eisini eitt arbeiði sum Veðurstova Føroya skal gera, tá hon einaferð kemur at virka.</p>
+<p>Tað eru óivað onnur feløg, felagsskapir, virki, bólkar v.fl., ið vit kundu havt skrivað til, men vit meta, at vit sum er hava eitt rættiliga gott grundarlag til at meta um støðuna – tað liggur eitt stórt arbeiði fyri framman.</p>
+<p><em type="italic">3.8.1. Bóndafelag Føroya </em></p>
+<p><em type="italic">Um Bóndafelag Føroya og Jarðir </em></p>
+<p xml:lang="nno"><em type="italic">http://www.bondi.fo </em></p>
+<p>Bóndafelag  Føroya  er  fakfelagið  hjá  bóndum  í  Føroyum.  Felagið  varð  stovnað  í  1957  av  nøkrum festibøndum, til tess at virka fyri betri umstøðum hjá bøndum. Endamál felagsins er a) At menna samkenslu og samhald millum bøndur. b) At fremja kunnleika, dugnaskap og siðmenning hjá limum og øll góð eyðkenni, sum fedrarnir hava givið okkum til arvar, og sum merkja okkum sum rættar føroyingar  og  álitismenn.  c)  At  verja  rættindi,  lunnindi  og  jarðir  bónda.  d)  At  stimbra  vinnuveg limanna soleiðis, at samstundis sum framleiðsla teirra verður sum mest og best má úrtøka teirra í peningi verða hareftir.</p>
+<p>Bóndafelagið og Óðalsfelagið hava saman stovnað Sp/f Jarðir, sum er eitt samstarv teirra millum fyri at fáa betri og meiri skipaði viðurskiftir í sambandi við tí alsamt vaksandi ferðavinnuni, sum eisini sóknast eftir betri fyriskipan við eitt nú gongd í haga v.m.</p>
+<p>Tann  1.  apríl  2019  høvdu  nevndirnar  í  Bóndafelag  Føroya  og  Føroya  Óðalsfelag  felags  fund,  sum</p>
+<p>somuleiðis  var  stovnandi  aðalfundur  fyri  smápartafelagið  <span type="quote" xml:lang="isl">“Jarðir”</span>.  Hetta  eitt  felag,  ið  Føroya</p>
+<p>Óðalsfelag og Bóndafelag Føroya hava sett á stovn. Heimstaður felagsins er Tórshavn.</p>
+<p>Endamál felagsins er at eiga og reka fast ogn, ferðavinnu, handil o.a. virksemi í hesum sambandi.</p>
+<p>Hetta nýggja felagið hevur eina nevnd, ið umboðar bæði feløgini og áhugamál tess, og skal hetta felagið frameftir arbeiða miðvíst við at menna og samskipa ferðavinnutilboð, bæði til føroyingar og útlendingar.</p>
+<p>Eftir ársaðalfundin hjá Føroya Óðalsfelag, sum verður miðskeiðis í apríl, fer Sp/f Jarðir undir ítøkiligar samráðingar um samstarv við Hiking.fo. Aðalmálið er at tilrættisleggja ein hóskandi felags leist fyri at samskipa og bjóða út ymisk ferðavinnutilboð, eitt nú gongd í haga.</p>
+<p><em type="italic">Ynski, tankar og ráð til ein føroyskan veðurstovn, stutt: </em></p>
+<p>Mátingar  yvir  ár,  helst fleiri  ár eru altíð  áhugaverdar,  serliga  avfall,  regn í  gróðrartíðini, umframt temperatur og sóltímar.</p>
+<p>Veðrið er sera ymiskt frá stað til stað í Føroyum, tí er umráðandi at fáa mátingar so nógvastaðni sum møguligt, tá ber til at meta um, hvar tað ber til at hava ymiskum slagi av grøði.</p>
+<p>Hetta er frá einum landbúnaðarligum sjónarmiði.</p>
+<p><em type="italic">3.8.2. Hiking.fo </em></p>
+<p><em type="italic">https://hiking.fo/ </em></p>
+<p><em type="italic">Um hiking.fo </em></p>
+<p>At ganga fjallatúrar í føroysku náttúruni er vorðið eitt alsamt vaksandi ítriv millum bæði føroyingar og útlendskar gestir seinastu árini. Við hesum í huga byrjaði hiking.fo í 2017 við tí endamáli at skipa fyri fjallatúrum og við einari heimasíðu, har møguleiki er at fáa upplýsingar um føroyskar fjallatúrar eins og krøv og loyvi, faktuellar upplýsingar o.a. um hvønn túrin sær er at finna - millu</p>
+<p>Hiking.fo var heiðrað sum Ársins Átak 2017.</p>
+<p><em type="italic">Ynski, tankar og ráð til ein føroyskan veðurstovn, stutt: </em></p>
+<p>Hiking.fo hevur verið í flestu føroysku bygdum kring allar oyggjarnar og tosað við nógv veðurkøn fólk fyri at fáa staðfest hvør ætt er best í hvørjari bygd kring landi til fjallatúrar v.m. Ein vitan, sum kann hava  stóran  týdning  bæði  hjá  ferðaleiðarum,  øðrum  professionellum  og  vanligum  brúkarum.</p>
+<p>Umframt  “<em type="italic">bestu  ætt</em>”  fekk  hiking.fo  eisini  stóra  vitan  um  “<em type="italic">ringastu  ætt</em>”  frá  teimum  veðurkønu. </p>
+<p>Hetta verður ikki nýtt beinleiðis av hiking.fo, men er annars av stórum áhuga.</p>
+<p>Tað er møguligt, at Veðurstova Føroya kann fáa ágóða av hesum arbeiði.</p>
+<p xml:lang="nno"><em type="italic">3.8.3. Smyril-Line </em></p>
+<p xml:lang="nno"><em type="italic">http://www.smyrilline.fo/ </em></p>
+<p xml:lang="isl"><em type="italic">Um Smyril-Line </em></p>
+<p>Høvuðsvirksemi felagsins er fólka- og farmaflutingur í Norðuratlantshavi.</p>
+<p>Pf Smyril Line varð stovnað í 1982 og rekur fýra stór ferðamanna- og farmaskip, sum sigla fast til Føroya og sigla havn í havn kring allar Føroyar fleiri ferðir um vikuna, og eru stórir, fastir brúkarar av veðurstovum, sum varða av Føroya økið.</p>
+<p>Skiparar á Smyril-Line hava gjørt sær nakrar tankar og ráð, sum teir meta brúk er fyri til tess at betra um veðurtænastuna kring Føroyar og á føroyskum havøki:</p>
+<p><em type="italic">Ein samandráttur av tankar og ráð frá skiparum á skipum hjá Pf Smyril Line í sambandi við ein føroyskan </em>v<em type="italic">eðurstovn.  </em></p>
+<p>1: Tørv er á neyvari aldumátingum frá fleiri alduboyum kring Føroyar.</p>
+<p>2: Øll veðurdata skulu savnast í einari føroyskari veðurstovu fyri at fá neyvari veðurdata.</p>
+<p>3:  DMI  sendir  fráboðanir  um  vind  sum  miðalvind,  sum  er  sera  óneyvt  á  teimum  ymisku  lokalu støðunum kring Føroyar. Hetta skal betrast um við: a: Savna fleiri nágreinilig veðurdata frá vindmátarum á teimum lokalu støðunum har skipaferðsla er.</p>
+<p>b: Góðar og neyvar veðurforsagnir fyri væntaðar hvirlur, tá vindurin loypur ætt í ætt í havnum har skipaferðsla er. c: Hvussu hátta hvirlur seg í ymiskum støðum á ymiskum ættum.</p>
+<p>d:  Hvussu  ávirka  tær  ymsu  ættirnar  sjógv,  sýnið,  avfall  o.s.v.  í  firðum,  sundum  og  um  nes  og tangar (streingir), við atliti til sjóvarfall, vindstig osfv.</p>
+<p>4:  Hvussu  er  at  liggja  við  tær  ymisku  atløgubryggjunum  á  teimum  ymisku  ættunum.  Her  verður serliga  hugsað  um  súg,  rennisúg,  meldurhvirlur  og  glaður,  og  hvussu  broytist  hetta  við sjóvarfallinum.</p>
+<p>5: Ynskiligt við interaktivum kortum í passaligum málistokki um allar Føroyar, har ið ein kann tasta tíðspunkt  inn  og  síggja  tey <em type="italic">væ</em>ntaðu  líkindini.  Til  dømis  er  illa  liggjandi  á  Fuglafirði  á  útnyðringi. Súgurin ávirkast eisini av sjóvarfallinum.  </p>
+<p>6: <em type="italic">Á </em>interaktivum kortum eiga eisini íður, afturundirgerðir, streingir, boðar osfv at vera við.  </p>
+<p>7: Neyvt samstarv við aðrar veðurstovnar. Ísland og Norra kundi gjørt data grundarlagið og góðskuna betur.</p>
+<p xml:lang="eng"><em type="italic">3.8.4. Visit Faroe Islands </em></p>
+<p xml:lang="smn"><em type="italic">https://www.visitfaroeislands.com/ </em></p>
+<p xml:lang="nno"><em type="italic">https://www.instagram.com/visitfaroeislands/ </em></p>
+<p xml:lang="nno"><em type="italic">https://www.facebook.com/VisitFaroeIslands/ </em></p>
+<p><em type="italic">Stutt viðmerking fra Visit Faroe Islands </em></p>
+<p>Vit sum arbeiða við ferðavinnuni hava sjálvandi ein áhuga í at tænastan verður ment, so hon eisini verður eitt gott ískoyti til eina meiri effektiva ferðafólkakunning. Her verður fyrst og fremst hugsað um, at tænastan og kunningin verður atkomi</p>
+<p><em type="bold">4. Viðkomandi samskifti og vitjanir í grannalondum </em></p>
+<p>Í  arbeiði  okkara  hava  vit  havt  nakar  viðkomandi  vitjanir  í  grannalondum  og  samskifti  við  ymsar veitarar  av  forrit,  veðurdata/grafikki  og  veðurradar.  Vit  fingu  ikki  vitjað  Veðustovu  Íslands,  men væntandi verður høvi til tað seinni í ár.</p>
+<p xml:lang="isl"><em type="bold">4.1. Vitjanir í grannalondum </em></p>
+<p>Vit hava havt fleiri fundir við DMI í  sambandi við endurskoðan av sáttmála. Harumframt  hava vit eina meira almenna vitjan á DMI tann 1. nov. 2018. Í sama skifti vitjaðu vit:</p>
+<p type="listitem" xml:lang="nob">• TV2-vejr, Keypmannahavn</p>
+<p type="listitem">• Vento Maritime í Keypmannahavn.</p>
+<p>Í marts 2019 vóru vit á vitjan hjá</p>
+<p type="listitem" xml:lang="nno">• Norsk Meteorologisk Institutt (NMI), met.no í Oslo,</p>
+<p type="listitem" xml:lang="nno">• Kjeller Vindteknikk, Noreg</p>
+<p type="listitem" xml:lang="nob">• Joint GEOMETOC Support Center (JGSC), Danmark fyrr kallað Forsvarets Center for Operativ</p>
+<p xml:lang="ron">Oceanografi.</p>
+<p>Tað  er  gjørd  fundarfrásøgn  frá  ymsum  fundum  við  veðurstovnar  v.fl.:  “<em type="italic">upprit-frá-fundum</em></p>
+<p><em type="italic">veðurstovnar-vfl-2018nov-2019mar.pdf</em>”, mest á donskum. Hetta er viðlagt sum skjal 13. Her finst </p>
+<p>eisini partur av samskifti við Veðustovu Íslands, á enskum.</p>
+<p>Her er stutt upprit av fundinum við NMI:</p>
+<p><em type="bold">Stutt sum stovnin, NMI: </em></p>
+<p>Høvuðssætið liggur í Oslo við regionalum miðstøðum í Bergen og Tromsø og lokalum skrivstovum í Bodø, Bardufoss, Svalbard og Ørlandet. Á stovninum eru 420 fulltíðar ársverk, harav 124 arbeiða í vaktartænastu. Arbeiðsbyrðan til forsagnartænastur liggur mest innan flogferðslu til sivil og militert endamál,  síðan  vanliga  veðurtænastu  á  landi og sjógvi,  og  í  minni  mun  til  vinnuligar  kundar.  Tey koyra modell fyri veður, aldu, streym og ísviðurskifti fyri lokal øki. Føroyar liggja ikki í hesum øki.</p>
+<p><em type="bold">Viðkomandi viðurskifti fyri ein Føroyskan veðurstovn: </em></p>
+<p>-     Stovnurin  samskipar  arbeiðið  millum  ymisku  deldirnar  við  Google  tænastum,  ið  innihalda teldupost, chat-bólkar, video samrøður v.m. Hesin háttur hevur fyri tey verið bíligari enn at hava egin fólk og forrit til endamálið. -     Tey  hava  ment  sína  egnu  grafisku  skipan  DIANA  at  vísa  úrslit  frá  forsagnum.  Hendan  er freeware, men hevur ongan support. Teirra arbeiðsstatiónir koyra Ubuntu-Linux. DIANA er væl  egna  til  brúk  av  veðurfrøðingum,  men  til  sjónvarp  verður  brúkt  eitt  forrit,  ið  kallast Metacast. -     Tey  sleppa  ymiskt  tal  av  ballón-sondum  vetur  og  summar.  Arbeitt  verður  ímóti,  at  øll sondering gerst automatisk fyri at spara pening. -     Eftir teirra fatan loysir tað seg tíðum betur at brúka roknimegi til ensemblu-forsagnir, við nakað  grovari  upploysn,  heldur  enn  at  koyra  einstøk  modell  við  so  høgari  upploysn  sum gjørligt. -     Fleiri flogvallir hava eisini serstaka turbulens-forsagnir, har háloyst og roknitung CFD-modell SIMRA, er koyrt fyri einstøku økini. -     Stovnurin er partur av einum átakið kallað United Weather Centre, har ymiskir veðurstovnar við tíðini fara at koyra teirra modell saman. Føroyska økið er í, ella liggur á rondini á, fleiri av hesum  økjum.  Hetta  samstarvið  er  tískil  áhugavert  fyri  ein  føroyskan  veðurstovn  at  verið partur av via DMI.       -     Stovnurin brúkar ymiskar nútímans miðlar at koma nærri brúkaranum, t.d. egna heimasíðu, Yr.no (verðinskenda samstarvið við NRK), Twitter og Facebook v.m. Hesi átøk krevja ymiskt, alt  frá  automatikki  til  ein  virknan  redaktiónsbólk.  Nevnast  kann,  at  Facebook  krevur lutfalsliga nógv, tí her er nógv samskifti við brúkarar. -     Tendensurin er, at produktini gerast automatiserað, og fólk i</p>
+<p>Tey á met.no eru sera áhugað í samstarvið. Til dømis eru tey opin fyri at lata ein føroyskan stovn fáa forcing-data til lokal hav-modell.</p>
+<p>Annars kann stutt sigast, at tað er stórur stuðul til stovnan av Veðurstovu Føroya. NMI hevur ikki beinleiðis áhuga at gera sáttmála við Føroyar, sum DMI. Vento Maritime hevur stóran áhuga at gera sáttmála við Føroyar, men tað er eitt lítið virki, uttan náttarvakt, so tað kom ongantíð til veruligar samráðingar.  JGSC  (FCOO)  hevur  stóra  vitan  um  Føroyar  og  eru  frammaliga  viðvíkjandi  tøkni  og gransking og eru vælviljað fyri samstarv á ymsum økjum. Kjeller Vindteknnik eru ógvuliga frammaliga viðvíkjandi gransking og gera ymiskt arbeiði í Føroyum, t.d. vindatlas fyri Føroyar.</p>
+<p xml:lang="isl"><em type="bold">4.2. Samskifti við Veðurstovu Íslands </em></p>
+<p>Vit hava havt samskifti við Veðurstovu Íslands (Icelandi Meteorological Office) og mett verður, at har eru góðir møguleikar til framtíðar samstarvi á fleiri økjum, sí skjal 13. Hóast Ísland er nógvar ferðir størri enn Føroyar hava teir eisini  avbjóðingar viðvíkjandi útbúgving av veðurfrøðingum, so neyðugt er, at taka partar av útbúgvingini uttanlands. Super-teldan hjá DMI stendur í Íslandi og  IMO hevur fingið møguleika at nýta super-telduna til teirra egna HARMONIE-NEA modell. Økið umfatar, sum er, ikki Føroyar, men tað kann lætt broytast, so tað eisini umfatar Føroyar. IMO eru væl nøgdir við IBL, sí 4.3 niðanfyri.</p>
+<p><em type="bold">4.3. Samskifti við ymsar veitarar - forrit, veðurdata/grafikki og veðurradar </em></p>
+<p xml:lang="isl"><em type="italic">Furuno veðurradar </em></p>
+<p xml:lang="nob"><em type="italic">http://www.furuno.dk/da/produkter/meteorologiske-radar/ </em></p>
+<p>Vit hava havt samskifti við furuno.dk, sum er veitari av veðurradara til Atlantic Airways.</p>
+<p>Furuno.dk metir, at tríggir veðurradarar eru nóg mikið til at røkka allar Føroyar. Umframt radaran á Sornfelli  hevði  ein  radara  í  Suðuroy,  kanska  best  í  Akrabyrgi/Sumba  og  ein  radari  norðarlaga  á Streymoy, Eysturoy ella Kalsoy týtt, at allar Føroyar kunnu síggjast av veðurradara.</p>
+<p>Veðurradarin hjá Atlantic er av slagnum WR-21X0 og kann skyna á hvat slag av avfalli er í skýnum (regn, kavi, heglingur v.m.). Hesin kostar uml. kr. 2 mió Tað finst ein bíligari veðurradari WR-110, sum ikki skynir á slagið av avfalli. Hesin kostar uml. kr. 1,2 mio. Furuno metir, at hesir kunnu nýtast sum eyka veðurradarar.</p>
+<p>Ein service avtala kostar uml. kr. 70.000 árliga.</p>
+<p>Furuno metir, at ein veðurradari heldur frá uml. 8 ár (konservativt) til 10 ár (realistisk).</p>
+<p xml:lang="nob"><em type="italic">IBL forrit </em></p>
+<p xml:lang="nno"><em type="italic">https://www.iblsoft.com/ </em></p>
+<p>Viðvíkjandi  visualisering  av  veðurdata  finst  ymiskt  forrit,  t.d.:  Ninjo  (DMI,  DWD  v.fl.,</p>
+<p xml:lang="fkv"><em type="italic">http://www.ninjo-workstation.com/)</em>, Diana (NMI~met.no, ókeypis), SmartMet (FMI, ókeypis), IBL </p>
+<p xml:lang="isl">(UKMO, veðurstofa  Íslands, JGSC(FCOO)) og W3DX (KNMI, Holland).</p>
+<p>DMI  nýtir  Ninjo  og  sambært  nýggja  sáttmálan  er  møguleiki  hjá  Veðurstovuni  at  fáa  atgongd  til remote-Ninjo. Tað er tí kanska eyðsæð eisini at nýta Ninjo lokalt í Føroyum. Men Ninjo verður vanliga roknað sum rættiliga trupult og torgreidd at nýta, so møguliga kann okkurt annað forrit nýtast. DMI hevur ikki áhuga at tillaga Ninjo lokalt í Føroyum.</p>
+<p>Vit hava tosað við Veðustofu Íslands viðvíkjandi IBL, og tey eru fegin um tað.</p>
+<p>Tað  er  ringt  at  gera  neyva  kostnaðarmeting  av  IBL.  Men  kostnaðurin  er  uml.  kr.  200.000  fyri grundmodul og so koma nøkur modul afturat, sum kosta uml. kr. 20.000 fyri hvørt. Afturat tí kemur útreiðslur til lisens, sum árliga er umleið 20% av modul-kostnaðinum.</p>
+<p>Tað er møguleiki at fáa ein test-lisens í 3 mánaðir ókeypis.</p>
+<p>IBL  metir,  at  IBL  ikki  er  vælegnað  til  Kringvarp,  hóast  tað  altíð  er  okkurt,  ið  kann  nýtast.  Í  staðin viðmæla teir t.d. Visual Cortex (UKMO) og Ask Visual (DWD &amp; týskar kringvarpsrásir).</p>
+<p xml:lang="nob"><em type="italic">Metdesk </em></p>
+<p xml:lang="smn"><em type="italic">https://www.metdesk.com/ </em></p>
+<p>Metdesk  hava  fleiri  frálíkar  veður-heimasíður,  t.d<em type="italic">. https://www.wxcharts.com/,  </em>har  nakrar  eru almennar og aðrar krevja lisens. Mett verður, at tað kundi verið virðismikið, at fingið eina avtalu við Metdesk, so Veðurstovan hevur atgongd til betri forsagnir fyri Føroyar.  </p>
+<p>Vit hava havt drúgt samskifti við Metdesk viðvíkjandi grafikki/data til Føroyar, eisini við tí í huga at</p>
+<p>ætlanin var at byrja “<em type="italic">ítøkiligar veðurforsagnir eftir einum føroyskum tillaganum leisti</em>”. Men hóast </p>
+<p>Metdesk í fleiri førum hevur sagt, at nú hava teir eitt produkt til okkum, sum vit kunnu royna, er enn onki úrslit komið.</p>
+<p>Vit  rokna  tó  við,  at  møguliga  kemur  okkurt  úrslit  seinni  í  ár.  Vit  hava  heldur  ikki  fingið  nakra kostnaðarmeting av lisensi v.m.</p>
+<p><em type="bold">5. Endurskoðan av sáttmála við DMI </em></p>
+<p>Frá  byrjan  av  arbeiðinum  hjá  Veðurmenningarbólkinum  var  mett,  at  neyðugt  var  at  endurskoða sáttmálan  við  DMI  og  fáa  nýggjan  sáttmála  við  DMI/annan  veðurstovn –  sí  ávegis  frágeiðing  frá oktober 2018<em type="italic">: “Fyri at Veðurstovan kann gera munagott arbeiði bæði viðvíkjandi veðurforsagnir og </em></p>
+<p><em type="italic">gransking,  er  neyðugt  við  einum  góðum  samstarvi  við  aðrar  veðurstovnar.  Vit  eru  byrjaðir  at endurskoða sáttmálan, sum Fiskimálaráðið hevur við DMI, og vit vóna, at vit kunnu fáa ein nýggjan </em></p>
+<p><em type="italic">dagførdan sáttmála 1. apríl 2019. Møguliga verða eisini sáttmálar gjørdir við aðrar veðurstovnar.” </em></p>
+<p>Eftir samráðingar í Fiskimálaráðnum heystið 2018 metti Fiskimálaráðið, at tað í fyrsta umfari var best at  endurskoða  sáttmálan  við  DMI,  og  so  kunnu  tað  møguliga  seinni  gerast  sáttmálar  við  aðrar veðurstovnar/veitarar.</p>
+<p>Veðurmenningarbólkurin hevur saman við DMI gjørt uppskot um nýggjan sáttmála, sí viðlagda skjal</p>
+<p xml:lang="dan">10 “<em type="italic">Samarbejdsaftale mellem Fiskimálaráðið og Danmarks Meteorologiske Institut af 1. juli 2019</em>”. </p>
+<p>Í nýggja sáttmálanum eru nú 5 <span type="quote" xml:lang="deu">”DELAFTALER”</span>:</p>
+<p type="listitem" xml:lang="dan">• DELAFTALE 1. Udsigter og varsler</p>
+<p type="listitem" xml:lang="nob">• DELAFTALE 2. Interface til WMO</p>
+<p type="listitem" xml:lang="est">• DELAFTALE 3. Klimastatistik</p>
+<p type="listitem" xml:lang="dan">• DELAFTALE 4. Infrastruktur til færøsk vagt-vejrtjeneste</p>
+<p type="listitem" xml:lang="nob">• DELAFTALE 5. Data og Modeller</p>
+<p>Tær tríggjar fyrstu eru endurskoðan/dagføring av uppruna sáttmálanum, meðan DELAFTALE 4+5 eru nýggjar. Samlaði kostnaðurin av nýggja sáttmálanum er eitt sindur lægri enn núgaldandi sáttmáli, uml. kr. 1,8 mió, sí <span type="quote">“Fylgiskjal D. Kostnaðarætlan fyri høvuðsbólkar..”</span> í mun til kr. 1,9 mió. Tað skal tó viðmerkjast, at sáttmálin enn ikki er undirskrivaður– eftir ætlan verður tað tann 20. juni – so tað kunnu enn koma smávegis broytingar í sáttmálanum.</p>
+<p>Mett  verður,  at  uppskotið  er  hampiliga  gott,  hóast  vit  ikki  fingu  alt  tað,  sum  vit  høvdu  vónað – atgongd til super-teldu v.m. Men á flestu økjum er nýggi sáttmálin betri enn tann gamli frá 2009, og við hesum sáttmála ber betri til at gera veðurforsagnir, kanningar v.m. í Føroyum. Tað eru eisini nú betri møguleikar at broyta sáttmálan og uppsagnartíð</p>
+<p>Samstundis  er  eisini  gjørt  nýtt uppskot  um  “<em type="italic">AFTALE  mellem  Fiskimálaráðið  og  Danmarks </em></p>
+<p xml:lang="nob"><em type="italic">Meteorologiske  Institut  vedr.  bistand  til  Search  And  Rescue  (SAR)</em>”,  sí  viðlagda  skjal  11.  Hesin </p>
+<p>sáttmálin er ókeypis og verður mettur at styrkja møguleikarnar hjá MRCC í sambandi við leiting og bjarging á sjónum (SAR). Tað skal tó viðmerkjast, at í gamla sáttmálanum við DMI var nevnt, at “<em type="italic">DMI skal yde støtte til MRCC i forbindelse med eftersøgnings- og redningsoperationer</em>”, men tað var eitt </p>
+<p>sindur ógreitt hvat gerast skuldi, meðan nýggja uppskotið er meira greitt.</p>
+<p><em type="bold">6. Ein føroyskur veðurstovnur - hugsjón, endamál og uppgávur </em></p>
+<p>Hugsjónin er at gera bestu og mest álítandi veðurforsagnir fyri allar Føroyar og føroysk áhugaøki, miðla  hetta  á  besta  hátt  umframt  at  menna  og  taka  lut  í  kanningum  og  granskingum  av  veðri, veðurlagi og veðurlagsbroytingum til gagn fyri tað føroyska samfelagið.</p>
+<p>Tað eru nógv evni og øki, sum hava áhuga og skulu raðfestast á besta hátt, so vit samfelagsliga fáa</p>
+<p>størsta ágóða við tí tilfeingi, sum tøkt er:</p>
+<p type="listitem">• betri veðurvánir fyri allar Føroyar - ”Veðrið á bygd og í bý, ”útlit fyri havleiðirnar um</p>
+<p>Føroyar”, um hálku á vegakervinum, tilbúgving, stuðul til bjargingarátøk o.s.fr., og seinni</p>
+<p>kanska eisini fyri onnur/øll føroysk áhugaøki,</p>
+<p type="listitem">• betri miðling av veðurforsagnum til KVF og aðrar miðlar, appir til snildfon v.m.</p>
+<p type="listitem">• undirvísing í veðurfrøði í samstarvi við Fróðskaparsetrið og aðrar stovnar/skúlar ,</p>
+<p type="listitem">• granskingar um veðurlag í Føroyum, veðurlagsbroytingar, og teirra ávirkan í framtíðini,</p>
+<p type="listitem" xml:lang="nno">• veðurlagsgransking innan framtíðar vatn-, vind- og sólorkupotentiali</p>
+<p type="listitem">• veðurmodel fyri Føroyar (downscaling, í fyrstu atløgu mest við fokus á vind, hvirlur og</p>
+<p>turbulens), men uppá sikt eisini meira neyva vitan um avfall kring landið, mjørka og hita</p>
+<p type="listitem">• samskipan av føroyskum veðurmátingum,</p>
+<p type="listitem">• talgilding av eldri veðurmátingum og annað áhugavert tilfar,</p>
+<p type="listitem">• skráseting av lokalum fyribrigdum,</p>
+<p type="listitem" xml:lang="isl">• heimasíðu v.m.</p>
+<p>Hetta verður gjørt í samstarvi við føroyskar stovnar, við aðrar veðurstovnar umframt millumtjóða og altjóða felagsskapir.</p>
+<p><em type="bold">7. Skipan av veðurstovni </em></p>
+<p><em type="bold">7.1. Samleiki </em></p>
+<p>Veðurtænastan er nú partur av Vørn og liggur í Havn og hevur bert fáar uppgávur. Viðvíkjandi navni</p>
+<p>er “<em type="italic">Veðurtænastan</em>” ella ”<em type="italic">Veðurtænasta Føroya</em>” eitt gott navn, og samsvarandi nøvn verða brúkt </p>
+<p>nógvastaðni  (Weather  Service,  Wetterdienst,  Vejrtjenesten,  o.s.fr),  men  um  vit  hugsa  um  eina</p>
+<p>dagførda,  útbygda  og  nøktandi  føroyska  veðurtænastu  er  heitið  ”<em type="italic">Veðurstova  Føroya</em>”  betri  og </p>
+<p xml:lang="isl">samsvarar við Havstovuna, Umhvørvisstovan, Hagstovuna, Búnaðarstovan v.fl. og eisini Veðurstofa</p>
+<p>Íslands. Tað enska navnið kann so kanska verða <span type="quote" xml:lang="eng">“Faroese Meteorological Office”</span> (FMO).</p>
+<p>Niðanfyri  verður  heitið  <span type="quote" xml:lang="isl">“Veðurstovan”</span>  ella  bara  <span type="quote">“stovnurin”</span>  nýtt,  tá  vit  tosa  um  sjálvan  stovnin.</p>
+<p>Heitið  <span type="quote" xml:lang="isl">“Veðurtænastan”</span>,  kann  so  nýtast  um  tann  partin  av  stovninum,  sum  beinleiðis  ger</p>
+<p xml:lang="isl">veðurforsagnir.</p>
+<p xml:lang="isl"><em type="bold">7.2. Bygnaður  </em></p>
+<p>Bygnaðarliga  meta  vit,  at  tað  ikki  er  grundarlag  og  heldur  ikki  neyðugt  at  gera  ein  nýggjan sjálvstøðugan stovn, men at Veðurstovan verður ein partur av øðrum stovni – ein deild. Vit nýta tó orðið veðurstovn um Veðurstovu Føroya, hóast skipanin møguliga verður sum deild.</p>
+<p>Tað  verður  mett,  at  Havstovan  og  Fróðskaparsetrið  ivaleyst  eru  teir  stovnar,  har  mest samvirkanarárin ella synergi er viðvíkjandi gransking og kanningum, soleiðis at betri møguleikar eru at  troyta  tilfeingið  og  førleikarnar.  Viðvíkjandi  vaktartænastu  og  tilbúgving  verður  mett,  at  mest samvirkanarárin  er  við  Vørn/MRCC.  Men  tað  eru  eisini  aðrir  møguleikar  sum  t.d.  Jarðfeingi  og Umhvørvisstovan, har eisini kann hugsast at verða eitt gott samvirkaárin og stimbrandi og mennandi umhvørvi. Vit hava eisini vitjað á Sjónámi har góðar umstøður eru, og ivaleyst eisini samvirkaárin frá teim lesandi á skúlanum og fiskivinnuni v.fl.  Onnur øki eru eisini, men vit hava ikki her átikið okkum at kanna allar møguleikar, ið eru.</p>
+<p>Tað verður ikki mett, sum er, at “<em type="italic">veðurtænasta í fríari vinnu (freelance)</em>” er ein loysn, sum einsamøll </p>
+<p>er nøktandi fyri føroyska samfelagið, men hugsast kann, at við tíðini so latast upp møguleikar fyri freelance-veðurfrøðingum, sum eru samskipaðir av einum almennum stovni.</p>
+<p>Fleiri  freelance  veðurtænastur  finnast  kring  heimin,  og  onkur  av  teimum  kann  óivað  gera veðurforsagnir  til  Føroyar  á  sama  hátt,  sum  t.d.  DMI  nú  ger.  Vit  vóru  soleiðis  á  vitjan  á  Vento Maritime  í  Keypmannahavn.  Teir  høvdu  áhuga  at  gera  sáttmála  viðvíkjandi  veðurforsagnum  til Føroyar, men mett var, at virkið enn er ov lítið.</p>
+<p><em type="bold">7.3. Vaktarskipan, útbúgving, gransking, teldur v.m.  </em></p>
+<p>Samanbera vit við DMI (uml. 250 fólk) og IMO (næstan 150 fólk – tó fleiri til øki, sum ikki hava áhuga í Føroyum) er eyðvíst, at tað als ikki er møguleiki fyri nøkrum samsvarandi í Føroyum. Men verður væl skipað fyri, kann ein minni stovnur eisini gera munagott arbeiði fyri føroyska samfelagið.</p>
+<p>Á DMI verður vanliga roknað við, at ein vaktarskipan 24-7-365 krevur 5-6 fólk, og á MRCC eru 12 fólk til fulla vaktarskipan við tveimum fólkum. Tað er ivaleyst ikki neyðugt, at ein dagførdur veðurstovnur hevur eina døgnskipan, í staðin kundi ein loysn uppá sikt møguliga verið 12-7-365 og tilkallivakt, um veðrið ella onnur viðurskifti krevja tað (ódnarveður, tilbúgving, bjargingartiltøk v.m). Nú á døgum eru beinleiðis veðurforsagnirnar frá veðurmodellunum so mikið góðar, at undir vanligum umstøðum er møguleiki at nýta automatprodukt – sum eftir sáttmála møguliga kunnu eftirkannast av øðrum veðurstovni, um eingin veðurfrøðingur er á vakt í Føroyum.</p>
+<p>Leysliga mett kundi eini 4-5 veðurfrøðingar verið nøktandi til eina tílíka vaktartænastu. Harumframt er ivaleyst neyðugt við fólkum til umsiting, gransking, undirvísing, mátingar, KT v.m., um stovnurin skal gera munagott arbeiði. Sum nevnt meta vit, at best er um Veðurstovan verður partur av øðrum stovni, so fólk til umsiting og møguliga KT eru í høvuðsstovninum.</p>
+<p>Veðurfrøðingar, sum eru vaktgangandi, skulu til tíðir eisini arbeiða við gransking v.m., tá tað annars er trupult at hava eina góða vaktarskipan, og eisini er neyðugt, at granskingararbeiðið mennist.</p>
+<p>Á  netinum  finnast  nógvar  forsagnir  frá  ymsum  veðurmodellum,  men  ein  á-vakt-veðurfrøðingur  í Føroyum skal hava meira og betri data enn vanligur borgari og eisini góð amboð.</p>
+<p>DMI  hevur  veðurtænastur  í  Keypmannahavn,  Karup,  (Skrydstrup)  og  Kangerlussuaq  og  ein superteldu standandi í Íslandi. Tað eru ógvuliga stórar mongdir av data, sum flytast millum tey ymsu</p>
+<p>støðini, og har verður granskingarnetið ella “<em type="italic">forskningsnettet</em>” nýtt, , sí t.d. skjal 8: “<em type="italic">Når Danmarks </em></p>
+<p xml:lang="dan"><em type="italic">Meteorologiske  Institut  (DMI)  placerer  sin  supercomputerinstallation  i  Island,  bliver netværksforbindelsen  afgørende.  DeIC,  NORDUnet  og  islandske  RHnet  leverer  den  livline,  der forbinder meteorologerne i Danmark med den nye supercomputer. DMI adskiller sig fra mange af de øvrige brugere af forskningsnettet ved at anvende nettet til produktion. Derfor var det afgørende for DMI, at NORDUnet og DeIC kunne levere en dubleret linje hele vejen til Island.</em>”  </p>
+<p>Tað verður at kannað, um føroyskur veðurstovnur kann nýta hetta granskingarnet.</p>
+<p>Á  DMI,  t.d.,  hava  granskarar  beinleiðis  atgongd  til  super-telduna  í  Íslandi,  meðan  á-vakt</p>
+<p>veðurfrøðingar  vanliga  hyggja  eftir  data  á  einum  lokalum  Ninjo-servara,  har  data  eru  frá  ymsum veðurmodellum, havfrøðismodellum, mátingar, satellitdata v.m.</p>
+<p>Vit hava kannað møguleikarnar fyri at flyta øll hesi data til Føroyar. Men tað verður ógvulig trupult tí nógv av hesum data, serliga satellitdata, eru ógvuliga rúgvismikil. Í staðin er uppskot til sáttmála við DMI um remote-Ninjo, so til ber at síggja data grafisk sum liggja á DMI. Hartil er í uppskotinum møguleiki at fáa atgongd til modelldata frá veðurmodellunum DMI-HARMONIE-NEA og ECMWF, so tað er møguleiki í Føroyum at nýta hesi data til ymsar kanningar, føroyskt veðurmodell v.m.</p>
+<p>Í samráðingum við DMI royndu vit at fáa sáttmála um, at Føroyar skuldu kunna fáa atgongd til supertelduna hjá DMI. Men tað var ikki møguligt. Í staðin kann ein loysn verða at nýta mini-super-teldu</p>
+<p>fyri at stimbra kanningararbeiðið. Hetta kann møguliga skipast á sama hátt sum Landsverk, har teir hava servara-teldur á einari datamiðstøð. Í vissum førum er neyðugt ella stórur fyrimunur at nýta eina veruliga super-teldu, og tað kann so gerast við, at keypa sær atgongd til super-teldu ella í einum samstarvi, har  onnur  veðurstova  kann  gera  kanningar  á  super-teldu ella  gevur  atgongd til  superteldu. DMI hevur nevnt, at um tað er eitt felags prosjekt, so kann Veðurstovan ella aðrir fáa atgongd til super-teldu. Havstovan hevur soleiðis havt møguleika at nýta super-teldu hjá DMI.</p>
+<p>Við  remote-Ninjo  kunnu  vaktar-arbeiðspláss  gerast  ymsastaðni  í  landinum.  Á  DMI  er  eitt  vaktar</p>
+<p>arbeiðspláss ikki serliga kostnaðarmikið – tvær teldur, 4 skermar, eitt gott skrivaraborð og 2-3 stólar</p>
+<p type="listitem">– umleið kr. 50.000. Her er tó ikki íroknað møguligar útreiðslur til uppsetan, ritbúnað, breiðband og</p>
+<p>húsaleigu.</p>
+<p>Umfram remote-Ninjo verður eisini roynt at fáa data/grafik frá øðrum veitara, t.d. Metdesk. Hetta fyri at gera møguleikarnar betri at gera veðurforsagnir, og eisini at tryggja, at tað eru onnur data, um okkurt teknisk brek er við data frá DMI. Tað er tó altíð møguleiki, at nýta veðurforsagnir sum er á netinum, men í vanliga arbeiðinum er neyðugt við betri amboðum.</p>
+<p>Í  neyðstøðum  ella  til  tilbúgvingarendamál  er  ein  fyrimunur,  um  tað  er  møguleiki,  at  ein veðurfrøðingur kann taka beinleiðis lut í tilbúgvingini á MRCC. Í dagliga virkinum er tó ikki neyðugt at vaktar-veðurtænasta er á MRCC.</p>
+<p>Høvuðstovnurin  verður  miðdepil  fyri  fyrisiting,  gransking,  mátingum,  KT,  modelarbeiði  og undirvísing og eisini við einari vaktar-veðurtænastu (sum kann nýtast til vaktarbeiði, undirvísing, KVF v.m.)</p>
+<p>Vanliga vil á-vakt-veðurfrøðingur eisini hava møguleika fyri at gera annað arbeiði (gransking v.m.). Men í øllum førum skal tann, sum er á vakt, altíð raðfesta vaktartænastuna fremst.</p>
+<p>Í stutttíðarhøpi er ikki roknað við einari krevjandi vaktarskipan sum 12-7-365, men meira 12-5-250, og so eykavakt, um veðri�</p>
+<p xml:lang="nno"><em type="bold">7.4. Mátingar, data </em></p>
+<p>Viðvíkjandi mátingum er tað avgerandi neyðugt, at mátingarnar, ið Vørn nú umsitur, verða meira samskipaðar við aðrar stovnar, serliga Landsverk og eisini við SEV, Havstovuna, Umhvørvisstovuna, Jarðfeingi og Atlantic Airways/Flogvøllin.</p>
+<p>Ein møguleiki er, at Landsverk, sum hevur umfatandi veðurmátingar og aldumátingar, fær teknisku ábyrgdina av rakstri av mátingum, men tó so, at Veðurstovan hevur eftirlit við dygd av mátingum og ábyrgd av, hvar og hvørjar mátingar skulu gerast.</p>
+<p>Øll data skulu verða <span type="quote">“frí-data”</span>, t.v.s. ókeypis á sama hátt sum á DMI: “<em type="italic">Nu skal DMI's data være gratis. </em></p>
+<p xml:lang="dan"><em type="italic">Det er resultatet, efter en aftale om initiativer for Danmarks digitale vækst. Frisættelse af vejr- og klimadata  fjerner  en  barriere  og  giver  muligheder  i  en  verden,  hvor  data  er  det  nye  guld.  Fuldt udfoldet vil frie vejr- og klimadata være en 24/7-service, så virksomheder og erhverv, iværksættere, kommuner, beredskaber og forsyninger kan basere deres forretning, drift og styresystemer på en sikker og troværdig leverance</em>". … ” <em type="italic">Hidtil har DMI taget betaling for de værdifulde  data om vejr, klima og hav, men med den nye aftale er der nu afsat ialt 82 mio. kr. til, at alle kvit og frit kan få adgang. Og forventningen er, at investeringen hurtigt giver samfundsøkonomisk gevinst.</em> ” </p>
+<p>Stovnurin  skal  menna  samstarvið  við  aðrar føroyskar  stovnar  sum  Fróðskaparsetrið,  Havstovuna, Umhvørvisstovuna,  Landsverk,  Jarðfeingi,  KVF,  Vørn/MRCC,  Vága  Floghavn/Atlantic  Airways, Fiaskaaling, Búnaðarstovuna, SEV v.fl.</p>
+<p xml:lang="est"><em type="bold">8. Tilmæli </em></p>
+<p>Tað varð rættiliga skjótt greitt, at tað er stórur tørvur á einum føroyskum veðurstovni, og vit vóna, at tað nú veruliga verður settur skjøtul á til gagn fyri tað føroyska samfelagið.</p>
+<p>Serstakliga er tað positivt, at tað finnast fólk í Føroyum við røttu útbúgving og áhuga/ágrýtni, so møguleiki er at seta veðurfrøðingar/veðurkøn í starv, so eitt munagott stig kann takast fyri at fáa eina dagførda, útbygda og nøktandi føroyska veðurtænastu.</p>
+<p>Vit havt fleiri fundir við føroyskar stovnar/virki og hevur undirtøkan og stuðulin verið stórur, og uttan undantak  meta  teir,  at  tað  kann  verða  til  stórt  gagn  fyri  føroyska  samfelagið  at  menna  føroyska veðurstovnin eftir føroyskum leisti.</p>
+<p>Vit hava havt samráðingar við DMI um endurskoðan og dagføring av sáttmálanum, soleiðis, at tað verður  møguleiki  at  gera  veðurforsagnir  her  í  Føroyum  á  sama  hátt  sum  á  DMI,  og  at  menna granskingararbeiðið  t.d.  við  veðurmodellum,  downscaling.  Eftir  ætlan  verður  hesin  sáttmálin galdandi frá 1. juli 2019. Nýggi sáttmálin við DMI er í fyrstu atløgu næstan  á sama kostnaðarstigi sum nú – tó eitt sindur bíligari. Men sáttmálin er nú gjørdur soleiðis, at tað verður lættari at gera sparingar her.  Mett verður tó, at tað eisini við einari útbygdari veðurstovu verður neyðugt við einum sáttmála við DMI ella annan veitara.</p>
+<p>Vit hava havt fund við Vørn og fingið frágreiðing um, at teir við eini løgujáttan í 2017 og sparingar av lønarupphædd  hava  fingið  veðurstøðirnar  kring  landið  dagførdar  og  sett  upp  tvær  nýggjar veðurstøðir, á Eiði og Borðuni, so tað nú eru 6 veðurstøðir í Føroyum. Á veðurstøðini á Boðanesi eru gjørdar stórar ábøtur á ognina, so hon nú er í rættiliga góðum standi.</p>
+<p>Mett  verður,  at  við  núverandi  rakstrarjáttan  er  møguleiki  at  reka  núverandi  skipan  við  6 veðurstøðum, einari radiosondustøð á Boðanesi, avtalu við DMI ella annan veðurstovn v.m.</p>
+<p>Fyri at fáa ein dagførdan veðurstovn verður neyðugt við nøkrum veðurfrøðingum og útreiðslur til servara-teldur og/ella mini-super-teldur v.m. Harumframt eru ynski um fleiri mátingar kring landið, bæði til kanningar og tilbúgving – og her møguliga fleiri veðurradarar, so tyrlutilbúgvingin verður betri og tryggari.</p>
+<p>Vit hava gjørt eina fyribils meting av møguligari rakstrarætlan fyri komandi ár, sí fylgiskjal E. <em type="italic">Fyribils </em></p>
+<p><em type="italic">meting av møguligari rakstrarætlan fyri ein dagførdan veðurstovn.</em> </p>
+<p>Tað verður soleiðis fyribils mett, at vit við eini meirupphædd uppá góðar 3 mió kr., frá einari árliga upphædd  á  umleið  5  mió  kr.  til  umleið  8  mió  kr.,  kunnu  fáa  gongd  á  eina  dagførda,  útbygda  og nøktandi føroyska  veðurtænastu  við  betri  og  meira  álítandi  veðurforsagnum fyri  allar  Føroyar  og føroysk  áhugaøki,  betri  miðling  og  luttøku  í  kanningum  og  granskingum  av  veðri,  veðurlagi  og veðurlagsbroytingum til gagn fyri tað føroyska samfelagið.</p>
+<p>Tað skal viðmerkjast, at her er ikki roknað við einari krevjandi vaktarskipan sum 24-7-365, men meira 12-7-365  og  til  byrjan  12-5-250  -  so  eykavakt,  um  veðrið  ella  onnur  viðurskifti  krevja  tað.  Um stovnurin  skal  hava  vaktarskipan  alt  døgnið,  verður  leysliga  mett,  at  samlaði  árligi  kostnaðurin verður uml. 10 mió kr, sí fylgiskjal E.</p>
+<p><em type="bold">8.1. Viðmerkingar til <span type="quote">“Fyribils uppskot til rakstrarætlan fyri ein dagførdan veðurstovn”</span>: </em></p>
+<p>Ad 1) Høvuðsstovnur, høli</p>
+<p>Tað verður mett, at veðurstovan í stóran mun er sjálvvirkin, men at høvuðsstovnurin vil hava ymsar útreiðslur til umsiting, lokalt KT, høli v.m. Tað finnast nýtilig høli, sum antin eigast av landi/høvuðsstovni ella kunnu leigast.</p>
+<p>Ad 2) Veðurmenningarbólkurin</p>
+<p>Tá ið veðurstovan er byrjað, verður arbeiðið hjá veðurmenningarbólkurin tikið yvir av veðurstovuni. Men  fyrsta  árið  kann  veðurmenningarbólkurin  gera  neyðugt  arbeiði,  til  veðurstovan  rættiliga  er komin í gongd.</p>
+<p>Ad 3) Sáttmáli við DMI</p>
+<p>Fyri at veðurstovan kann gera munagott arbeiði bæði viðvíkjandi veðurforsagnir og gransking, er neyðugt við einum góðum samstarvi við aðrar veðurstovnar. Vit hava endurskoðað sáttmálan, sum Fiskimálaráðið  hevur  við  DMI,  og  eftir  ætlan  verður  hesin  galdandi  frá  1.  juli  2019.  Við  nýggja sáttmálanum ber betri til at gera veðurforsagnir í Føroyum, og betri møguleikar at gera kanningar og  veðurmodell  í  Føroyum.  Tað  eru  eisini  nú  munandi  betri  møguleikar  at  broyta  sáttmálan  og uppsagnartíðirnar  er  eisini  styttri,  so  tað  er  lættari  at  gera  sparingar  um  Veðurstovan  yvirtekur partar av arbeiðinum hjá DMI.</p>
+<p xml:lang="isl">Ad 4) Sáttmáli við annan veitara</p>
+<p>Roknað verður við, at vit fáa onkra avtalu við Metdesk ella annan veitara, so Veðurstovan hevur betri møguleikar at gera betri og meira álítandi veðurforsagnir. Hetta gevur eisini tryggleika um trupulleikar eru við data/grafikki frá DMI.</p>
+<p xml:lang="deu">Ad 5) Radiosonderingar, rakstur/útbúnaður</p>
+<p>Roknað verður við, at radiosonderingar halda áfram sum higartil. Av DMI verður sagt, at góðskan ikki er av tí besta, og verður Veðurstovan at kanna, hvussu góðskan kann betrast.</p>
+<p>Møguleikar fyri at gera veðurmátingar frá flogførum, AMDAR (<em type="italic">Aircraft Meteorological Data Relay</em>) verður at kanna. So verður kanska møguleiki at fáa fleiri og betri mátingar og samstundis spara 50<em type="italic">2  um  døgnið,  kosta  næstan  1  mió  kr.  um  árið</em>). Kanska verður so eisini minni dálking av umhvørvinum. 100%  av  teimum  dagligu  radiosonderingunum  (</p>
+<p xml:lang="isl">Ad 6) Veðurstøðir, rakstur/útbúnaður - núverandi</p>
+<p>Núverandi  veðurstøðir  eru  dagførdar  í  2017  og  mett  verður,  at  tær  eru  nøktandi  til  upprunaliga endamálið – betri mátingar og forsagnir fyri havleiðirnar. Veðurstøðirnar fara framhaldandi at krevja útreiðslur  til  viðlíkahald  og  dagføring  umframt  rakstur,  men  mett  verður,  at  tað  kann  gerast  við núverandi rakstrarupphædd.</p>
+<p xml:lang="isl">Ad 7) Aðrar veðurmátingar, veðurradari v.m.</p>
+<p>Fleiri stovnar hava nevnt, at tað hevði verið virðismikið við fleiri mátingum, so betri møguleiki er at kortleggja vind, avfall v.m. kring landið. Mátingar verða samskipaðar við aðrar stovnar, og verða “frídata”.</p>
+<p>Fyri  at  hækka  um  trygdina  hevur  AA  tikið  sett  upp  ein  veðurradara  á  Sornfelli,  soleiðis,  at  betri møguleikar  eru  at  meta  um  vandamiklan  turbulens  v.m.  Tyrluflogskiparnir  eru  fegnir  um</p>
+<p>veðurradaran, sum hevur <span type="quote" xml:lang="est">“kollvelt”</span> tyrluflúgvingina í Føroyum. AA metir, at aðrir stovnar, virki og</p>
+<p>eisini vanlig fólk kunnu fáa stóra gleði av hesum data. Roknað verður við, at data sum frálíður kunnu síggjast av almenninginum.</p>
+<p>Tað skal viðmerkjast, at vit (VMB) hava lagt stóran dent á at øll data eru <span type="quote">“frí-data”</span>, tá vit meta, at tað hevur størst gagn fyri samfelagið.</p>
+<p>Sum nevnt í kapittul 4.3 røkkur radarin hjá Atlantic ikki Føroyar og Furuno.dk metir, at við trimum  veðurradarum ber til at røkka allar Føroyar. Ein veðurradar er rættiliga kostnaðarmikil, frá umleið 1,3-2,o mió kr. og tað verður ivaleyst neyðugt við einari serjáttan um fleiri veðurradarar skulu setast upp.</p>
+<p>Um ein dagførdur veðurstovnur kann yvirtaka veðurradaran frá AA, er eitt mál fyri seg. Veðurradarin hjá AA var keyptur fyri umleið 2 mió kr.</p>
+<p xml:lang="est">Ad 8) Lønarútreiðslur</p>
+<p>Ringt er at meta um lønarútreiðslur, tá stovnurin er um at mennast. Tað er ógvuliga viðkvæmt við einum stovni við so fáum fólki, sum hava førleikar sum veðurkøn/veðurfrøðingar, so tað er neyðugt at gera eina ætlan um, hvat skal gerast, um fólk fara í farloyvi, finna annað starv v.m. Vónandi eru ungfólk, sum vilja taka eina útbúgving sum veðurfrøðingar, men tað er ein tung útbúgving, sum tekur langa  tíð,  og  tað  kann  tí  verða  neyðugt  at  nýta  fólk,  sum  hava  tikið  eina  líknandi  útbúgving,  t.d. havfrøðingar v.m.</p>
+<p xml:lang="isl"><em type="italic">Ad 9) </em>Útbúnaður, skeið, ráðstevnur v.m. einstaklingar  </p>
+<p>Fyri at menna gransking verður neyðugt við góðum útbúnaði, luttøku í ráðstevnum, fundum v.m. Mett  verður,  at  neyðugt  verður  við  góðum  samstarvi  við  aðrar  veðurstovnar,  t.d.  DMI,  bæði viðvíkjandi  gransking  og  veðurforsagnir,  t.d.  luttøku  í  skeiðum  fyri  at  fáa  førleika  sum  vaktarveðurfrøðingar eftir altjóða góðkenning (WMO).</p>
+<p>Ad 10) Mini-super-teldur, kt-skipan, databasa</p>
+<p>Roknað verður við, at stovnurin skal hava eina líknandi telduskipan, sum Landsverk hevur, t.v.s., at servara-teldur,  mini-super-telda  standa  á  einari  teldu-miðstøð,  sum  granskarar  og  á-vaktveðurfrøðingar kunnu nýta. Teldur til vaktartænastu og veðurmodell, skulu hava eina ávísa stødd og</p>
+<p><span type="quote">“frí-data”</span> krevur eisini teldur av góðari góðsku.</p>
+<p xml:lang="isl">Ad 11) Forrit, kt-hjálp, heimsiða</p>
+<p>Tað verður ivaleyst neyðugt at keypa neyðug forrit, t.d. IBL og kt-hjálp og hjálp til heimasíðu, serliga í byrjanini.</p>
+<p xml:lang="isl">Ad 12) Felagsskapir, WMO v.fl.</p>
+<p>Tað eru fleiri felagsskapir, sum kundu verið viðkomandi at gerast limir í t.d. WMO, ECMWF og EUMETSAT. Men tað er sera kostnaðarmikið. Kostnaðurin fyri Danmark er umleið 85 mió kr. um árið. Tað er serliga EUMETSAT, sum er sera kostnaðarmikið, omanfyri 70 mió kr. Sjálvt um gjaldið er eftir tjóðarinntøku, verður t</p>
+<p xml:lang="deu">Ad 13) Ymiskt.</p>
+<p>Tá stovnurin er nýggjur, er ikki lætt at meta um útreiðslur, og tí er neyðugt, at hava eina rættiliga stóra upphædd til ymiskt.</p>
+<p><em type="bold">9. Ymisk skjøl, viðlagt: </em></p>
+<p>1.  <span type="quote">“Veðurvánirnar fyri Føroyar ...!”</span> Um veðurtænastuna – hvussu hon kom í, hvussu hon hevur ment seg og hvussu hon virkar í roynd, 1998, Vagn Erik Michelsen. (11 síður)</p>
+<p>“<em type="italic">Veðurvánirnar fyri Føroyar eftir Vagn Erik Michelsen.pdf</em>” </p>
+<p>2.  Uppskot til løgtingslóg um broyting í løgtingslóg um ræði á málum og málsøkjum (Yvirtøka av málsøkinum veðurtænasta). 13-03-2008. Er stytt í støðum. (3 síður)</p>
+<p> “<em type="italic">logtings-uppskot-2008mar-vedurtænasta.pdf</em>” </p>
+<p>3.   Kunning til landsstýrið um yvirtøku av veðurtænastuni, 18-11-2008. (3 síður)  “<em type="italic">um-yvirtøku-019.08 Skjal H-3.pdf</em>” </p>
+<p>4.  Felags yvirlýsing í sambandi við yvirtøku av málsøkinum "veðurtænasta.”, marts 2009. (2 síður)  “<em type="italic">Felags yvirlýsing í sambandi við yvirtøku av málsøkinum Veðurtænasta.pdf</em>” </p>
+<p>5.   Samarbejdsaftale mellem Færøernes Fiskeriminisetrium (FF) og Danmarks Meteorologiske Institut, frá 1. apríl 2009. (9 síður, ikki alment)</p>
+<p xml:lang="tur"><em type="italic"> <span type="quote" xml:lang="nob">“Samstarvsavtala FF og DMI.pdf”</span> </em></p>
+<p>6.   Rakstrarjáttan fyri veðurtænastuna, 2017 (1 síða)</p>
+<p xml:lang="tur"><em type="italic"> <span type="quote" xml:lang="sma">“vedurtænastan-rakstrarjattan-2017-5.31.1.04+07.pdf”</span> </em></p>
+<p>7.   Rakstrarjáttan fyri veðurtænastuna, 2018 (4 síður)</p>
+<p xml:lang="tur"><em type="italic"> <span type="quote" xml:lang="sma">“vedurtænastan-rakstrarjattan-2018-5.31.1.04+07.pdf”</span> </em></p>
+<p xml:lang="dan">8.  Forskningsnettet bliver livline for DMI’s supercomputer i Island (3 síður)  <em type="italic"><span type="quote" xml:lang="nno">“NORDUnet-DMI-TL-2015okt.pdf”</span></em> </p>
+<p>9.  Undirskrivað skjal: ”<em type="italic">Veðurtænasta í Føroyum setan av arbeiðsbólki og lýsing av </em></p>
+<p xml:lang="isl"><em type="italic">arbeiðssetningi”. (2 síður)</em> </p>
+<p xml:lang="tur"><em type="italic"><span type="quote">“Veðurtænasta-í-Føroyum-setan-av-arbeiðsbólki-og-lýsing-av-arbeiðssetningi-20180509.pdf”</span> </em></p>
+<p>10.  Uppskot um nýggjan sáttmála við DMI: “Samarbejdsaftale mellem Fiskimálaráðið og Danmarks</p>
+<p xml:lang="dan">Meteorologiske Institut af 1. juli 2019”. (13 síður, ikki alment) ”<em type="italic">FISK-DMI-samarbejdsaftale-2019jul01-FINALdraft-v0416.pdf</em>” </p>
+<p>11. Uppskot um nýggjan sáttmála við DMI: “<em type="italic">AFTALE mellem Fiskimálaráðið og Danmarks </em></p>
+<p xml:lang="dan"><em type="italic">Meteorologiske Institut vedr. bistand til Search And Rescue (SAR)</em>”. (2 síður, ikki alment) </p>
+<p xml:lang="smj">” <em type="italic">FISK-DMI-aftale-SAR-20190701-FINAL-draft-v0415.pdf</em>” </p>
+<p>12.  Notat frá Vága Floghavn viðvíkjandi “<em type="italic">Arbeiði við at meta um meldurin/turbulensin við Vága </em></p>
+<p><em type="italic">Floghavn eftir vanlukkuna við Golfstream flogfarinum hjá donsku verjuni</em>”. (5 síður, ikki </p>
+<p xml:lang="eng">alment)</p>
+<p xml:lang="tur"><em type="italic"><span type="quote">“meting-av-turbulensi-við-Vága-Floghavn.pdf”</span> </em></p>
+<p>13.  Fundarupprit/-stikkorð frá ymsum fundum við veðurstovnar v.fl. mest á donskum og samskifti við Veðustovu Íslands. (26 síður, ikki alment) “upprit-frá-fundum-veðurstovnar-vfl-2018nov</p>
+<p>2019mar.pdf”  <em type="bold">Fylgiskjal  A.  Veðurtænasta  í  Føroyum,  setan  av  arbeiðsbólki  og  lýsing  av arbeiðssetningi </em></p>
+<p><em type="italic">Undirritað 9. mai 2018. Mál 17/00054-15 </em></p>
+<p>Landsstýrið  hevur  raðfest  stigvísa  menning  av  føroyskari  veðurtænastu,  og  í  2018  er  játtanin hækkað við 300-túsund kr. til menning av arbeiðinum. Við  hesum  verður  ítøkiligt  stig  tikið  til  at  seta  niður  ein  arbeiðsbólk  at  gera  eina  ætlan  um dagførda, útbygda og nøktandi veðurtænastu í  Føroyum. Ætlanin verður gjørd samsvarandi tí arbeiðssetningi, ið lýstur er niðanfyri. Arbeiðsbólkur:</p>
+<p>Landsstýrismaðurin  innan  málsøkið  <span type="quote" xml:lang="isl">“veðurtænasta”</span>  hevur  tikið  avgerð  um  at  seta  hesi  fólk  í</p>
+<p>arbeiðsbólkin:</p>
+<p type="listitem" xml:lang="isl">• Rúnar Alix Rasmussen, veðurfrøðingur, MSc</p>
+<p type="listitem" xml:lang="isl">• Hanus Kjølbro, veðurkønur, Sjónám</p>
+<p type="listitem" xml:lang="isl">• Bárður A. Niclasen, lektari í alisfrøði, Ph.D., Náttúruvísindadeildin, Fróðskaparsetrið</p>
+<p type="listitem">• Andras M. Poulsen, samskipari í tilbúgvingarmálum, Fiskimálaráðið</p>
+<p type="listitem">• Jóannes Heimustovu, samskipari, Vørn.</p>
+<p>Rúnar Alix Rasmussen verður formaður í bólkinum. Væntast kann, at formaðurin í stóran mun umboðar bólkin í samskifti millum bólkin og myndugleikarnar, so sum Fiskimálaráðið og Vørn. Fiskimálaráðið og Vørn tryggja, at bólkurin fær møguleika at samráðast ella samskifta formligt við DMI, IMO og NMI um møguligar loysnir - til góðkenningar av landsstýrinum.  Bygnaðarliga verður bólkurin settur av Fiskimálaráðnum.  Bólkurin  verður  fíggjaður  av  konto  5.31.1.07  á  Løgtingsins  fíggjarlóg  2018:  V<em type="italic">eðurtænastan </em></p>
+<p xml:lang="fin"><em type="italic">(rakstrarjáttan).</em>  </p>
+<p>Áðrenn skjøtul verður settur á arbeiðið, skulu limirnir í arbeiðsbólkinum gera eina rakstrarætlan, ið fevnir um útreiðslusløg viðvíkjandi lønarsamsýning, skrivarahjálp, ferðing, ymsar tænastur o.a. Henda rakstrarætlan skal góðkennast av Fiskimálaráðnum og Vørn, áðrenn farið verið til verka. Skjótast  møguligt  eftir  góðkenning  skal  fíggjarleiðarin  í  Fiskimálaráðnum  og  leiðslan  á  Vørn vegleiða limirnir í arbeiðsbólkinum um, hvussu farast skal fram ítøkiliga í sambandi við nýtslu av peningi til hetta arbeiðið.” Arbeiðssetningur: Arbeiðsbólkurin  skal  gera  frágreiðing  til  landsstýrismannin,  ið  lýsir  eina  ætlan  um  dagførda, útbygda og nøktandi veðurtænastu í Føroyum.  Frágreiðingin skal fevna um tilmæli innan hesi evni og øki: 1. Eina føroyska veðurtænastu, sum er lagað til føroysk viðurskifti og tørvin hjá føroyska brúkaranum. 2. Gransking og undirvísing innan veðurfrøði og veðurlagsbroytingar við serstøkum atliti at føroyskum viðurskiftum. 3. Menning av veðurmodelli fyri Føroyar (downscaling, í fyrstu atløgu mest við fokus á vind, hvirlur og turbulensi), eins og samskipan av føroyskum veðurmátingum.</p>
+<p>4. Núverandi avtalur, sum Veðurtænastan og aðrir føroyskir stovnar hava við DMI, NMI ella aðrar veðurstovnar. Hvussu kunna hesar avtalur betrast og/ella broytast. 5. Menning av einari føroyskari heimasíðu við tilfari um veður og veðurtænastu burturav. Partur av hesum arbeiði kann eisini fevna um talgildan av gomlum viðkomandi tilfari. 6. Bygnaður. Hvørjir bygnaðarligir møguleikar eru:</p>
+<p>o í stutttíðarhøpi o í langtíðarhøpi. Dømi um møguleikar: <span type="quote" xml:lang="isl">“veðurtænasta í fríari vinnu (freelance)”</span>, “á</p>
+<p>vakt-veðurfrøðingur”, <span type="quote" xml:lang="isl">“veðurtænastudeild”</span>, <span type="quote">“stovnur (høvuðssæti og deildir)”</span>, aðrir møguleikar. Týðandi er, at bólkurin ikki viðgerð uppskot við atliti at landafrøði í Føroyum, men evnar uppskot til, ið ikki hava tilknýti til ávís øki í landinum. Arbeiðsbólkurin kann gera tilmæli um onnur evni, um mett verður, at tey hava týdning fyri at lýsa evn</p>
+<p><em type="bold">Høgni Hoydal </em></p>
+<p><em type="italic">Landsstýrismaður </em><em type="bold">Fylgiskjal  B.  Tíðindaskriv  frá  Fiskimálaráðnum  um  menning  av  føroysku  veðurtænastuni </em></p>
+<p xml:lang="kal"><em type="italic">14. juni 2018 </em></p>
+<p>Landsstýrið hevur raðfest stigvísa menning av føroyskari veðurtænastu, og í 2018 er játtanin hækkað til menning av arbeiðinum.</p>
+<p>Við hesum verður ítøkiligt stig tikið til hetta við setan av einum arbeiðsbólki, ið skal kanna ymsar møguleikar og gera eina frágreiðing til landsstýrismannin um eina ætlan um dagførda, útbygda og nøktandi veðurtænastu í Føroyum.</p>
+<p>Frágreiðingin skal fevna um tilmæli innan hesi evni og øki:</p>
+<p>1. Eina føroyska veðurtænastu, sum er lagað til føroysk viðurskifti og tørvin hjá føroyska brúkaranum. 2. Gransking og undirvísing innan veðurfrøði og veðurlagsbroytingar við serstøkum atliti at føroyskum viðurskiftum. 3. Menning av veðurmodelli fyri Føroyar (downscaling, í fyrstu atløgu mest við høvuðsdenti á vind, hvirlur og turbulensi), eins og samskipan av føroyskum veðurmátingum. 4. Kanning av møguligum sáttmálum, sum Veðurtænastan og aðrir føroyskir stovnar hava við DMI, NMI ella aðrar veðurstovnar. Hvussu kunna hesar avtalur betrast og/ella broytast. 5. Menning av einari føroyskari heimasíðu við tilfari um veður og veðurtænastu burturav. Partur av hesum arbeiði kann eisini fevna um talgildan av gomlum viðkomandi tilfari.</p>
+<p>6. Bygnaður. Hvørjir bygnaðarligir møguleikar eru:</p>
+<p xml:lang="isl">o í stutttíðarhøpi og í langtíðarhøpi.</p>
+<p>Dømi um møguleikar: <span type="quote" xml:lang="isl">“veðurtænasta í fríari vinnu (freelance)”</span>, <span type="quote">“á-vakt-veðurfrøðingur”</span>, <span type="quote" xml:lang="isl">“veðurtænastudeild”</span>, <span type="quote">“stovnur (høvuðssæti og deildir)”</span>.</p>
+<p>Arbeiðsbólkurin kann eisini kanna onnur evni, um mett verður, at tey hava týdning fyri at lýsa økið. Tað er eisini roknað við, at bólkurin kann fara at gera ítøkiligar veðurforsagnir eftir einum føroyskum tillagaðum leisti. Hetta kann vónandi byrja heystið 2018 - í fyrsta umfari, tó møguliga bert sum ein stuttur tekstur.</p>
+<p>Játtanin  til  veðurtænastuna  fyri  2018  er  4,8  mió  kr.  Yvirtøkan  av  veðurtænastuni  varð  samtykt sambært løgtingslóg nr. 53 frá 7. juni 2008 og varð veðurtænastan yvirtikin frá DMI 1. apríl 2009.</p>
+<p>Landsstýrismaðurin  innan  málsøkið  <span type="quote" xml:lang="isl">“veðurtænasta”</span>  hevur  tikið  avgerð  um  at  seta  hesi  fólk  í</p>
+<p>arbeiðsbólkin:</p>
+<p xml:lang="isl">Rúnar Alix Rasmussen, veðurfrøðingur, MSc Hanus Kjølbro, veðurkønur, Sjónám</p>
+<p>Bárður A. Niclasen, lektari í alisfrøði, Ph.D., Náttúruvísindadeildin, Fróðskaparsetrið Andras M. Poulsen, tilbúgvingarsamskipari, Fiskimálaráðið</p>
+<p>Jóannes Heimustovu, samskipari, Vørn.</p>
+<p>Rúnar Alix Rasmussen verður formaður í bólkinum. Arbeiðsbólkurin er farin undir arbeiðið, og skal koma við eini ávegis frágreiðing tann 1. oktober 2018 við einum fyribils tilmæli til landsstýrismannin. Bólkurin heldur áfram við arbeiðinum alt árið og væntandi eisini í komandi ár.</p>
+<p><em type="bold">Fylgiskjal C. Stutt frágreiðing frá Vørn um Veðurtænastuna </em></p>
+<p xml:lang="isl">Yvirtikin 1. apríl 2009</p>
+<p>Tá vóru tríggir mans í starvi: Arnfinnur Jacobsen leiðari, Jógvan á Argjaboða og Leif Guðmundson.</p>
+<p>Teir skipaðu seg sjálvir, hetta við:</p>
+<p type="listitem" xml:lang="nno">• at senda upp sondu kl 11 og kl 23 UTC,</p>
+<p type="listitem">• heinta upplýsingar yvir uppringd sambandi frá Fugloy, Mykinesi, Akrabergi, Tórshavn kundi</p>
+<p>avlesast beinleiðis,</p>
+<p type="listitem">• passa  sjálvvirkandi  telefonsvaran,  sum  síðan tíðliga  2011  hevur  ligið  á telebutlaranum  hjá</p>
+<p>Vørn Yviri við Strond.</p>
+<p>Jógvan á Argjaboða gavst 31. juli 2011. Leif Guðmundson andaðist 04. mai 2014. Arnfinnur Jacobsen gavst 15. juni 2016.</p>
+<p>Uppgávurnar hjá Jógvan á Argjaboða og Leif Guðmundson eftir at teir góvust, blivu partvíst loystar við útveiting til ANSNI.</p>
+<p>Útveitingin til ANSNI vardi til ársskiftið 2015 – 2016.</p>
+<p>Síðan tá hava 5-6 persónar í øðrum starvi hjá Vørn sent sonduna. MRCC hevur tikið sær av at innlesa á sjálvvirkandi telefonsvaran tlf:31 22 10 .</p>
+<p>Síðan 2016 hevur verið arbeitt við at skifta útgerðina á mátistøðunum.  Í august 2018 er so skift í Fugloy, Tórshavn, Mykinesi, og Akrabergi. Harafturat er nú ein mátistøð við Lorðanstøðina á Eiði og ein oman fyri Nólsoyarvita. Arbeitt verður eisini við seta upp myndatól við mátistøðirnar. Eiði og Tórshavn eru komin koyra. Myndirnar síggjast á<em type="italic"> www.vedrid.fo </em>, men verða ikki goymdar. </p>
+<p>Data verður sent sjálvvirkandi yvir GSM og goymt í databasa sum liggur hjá Vørn. Data er atkomuligt hjá øllum á heimasíðun<em type="italic">i www.vedrid.fo </em></p>
+<p>Á  heysti  2017  bleiv  Oddmar  Kruse  settur  í  starv  sum  teknikari  hjá  Vørn/MRCC.  Hetta  hevur Veðurstøðin/Veðurtænastan eisini notið gott av.</p>
+<p xml:lang="isl"><em type="bold">Annað: </em></p>
+<p>Bygningurin hjá Veðurstøðini við Hoyvíksveg 69 í Tórshavn er høvuðsumvældur eftir yvirtøkuna. So sum skift vindeygu, bjálvaður, klædningur skiftur og innan er sett í stand og málað.</p>
+<p>El.fo hevur leverað útgerð og staðið fyri arbeiðinum at seta upp nýggju mátistøðirnar.</p>
+<p>Sondirnar iMet-4s eru keyptar frá InterMet í Suðurafrika. Byrjaðu við hesum modelli á vári 2018. Áðrenn var tað iMet-2. Plaga keypa 800 stk um árið. Seinast kostaði tað 78.000 EUR</p>
+<p>Ballónir TA 700 og TA 300 verða nú keyptar frá Aage Christensen. Kostar uml 100.000 kr. um árið.</p>
+<p>Fønix leverar eitt sett à 8 fløskir helium ca 5-6 vikur ímillum. Fløskuleiga fyri settið er góðar 2.000 kr um mánaðin og helium kostar um 44.000 kr fyri settið.</p>
+<p xml:lang="isl"><em type="bold">Avtalur: </em></p>
+<p>DMI. Kostar umleið 1.900.000 kr um árið.</p>
+<p>Søfartsstyrelsen DK: Eiði, Nólsoy, Mykinesi og Akrabergi. Kostar tilsamans umleið 26.000 kr um árið.</p>
+<p>Leiga Fugloy kostar umleið 12.000 kr um árið.</p>
+<p>Aðrar fastar útreiðslur eru t.d. SEV, olja og telefonlinjur</p>
+<p><em type="bold">Fíggjarár 2017, Veðurtænastan </em></p>
+<p>  <em type="bold">Roknskapur 2017 Játtan 2017 </em></p>
+<p xml:lang="isl">11  Lønir v.m. 335.321 936.000</p>
+<p>14  Keyp av vørum og tænastum 2.831.036 3.464.000</p>
+<p xml:lang="nno">15  Keyp av útbúnaði, netto 950.530</p>
+<p>16  Leiga, viðlíkahald og skattur</p>
+<p xml:lang="isl">19  Ymsar rakstrarútreiðslur -3.813</p>
+<p>21  Søla av vørum og tænastum</p>
+<p>71  Innanh. flyt. millum almennar stovn. (útr) 143.434</p>
+<p>75  Keyps-mvg</p>
+<p> <em type="bold">Tilsamans</em> <em type="bold">4.256.568</em> <em type="bold">4.400.000 </em></p>
+<p xml:lang="isl"><em type="bold">Fíggjarár 2010, Veðurtænastan, Rakstur </em></p>
+<p>  <em type="bold">Roknskapur 2010 Játtan 2010    </em></p>
+<p xml:lang="isl">11 Lønir v.m. 1.207.676 1.236.000</p>
+<p>14 Keyp av vørum og tænastum 3.259.058 2.474.000</p>
+<p xml:lang="nno">15 Keyp av útbúnaði, netto 11.879 1.030.000</p>
+<p>16 Leiga, viðlíkahald og skattur 31.679</p>
+<p>63 Vanligar flytingarinntøkur</p>
+<p>71 Innanh. flyt. millum almennar stovn. (útr) 96.146</p>
+<p>75 Keyps-mvg</p>
+<p> <em type="bold">Tilsamans</em> <em type="bold">4.606.439</em> <em type="bold">4.740.000 </em> <em type="bold">  </em></p>
+<p><em type="bold">Fylgiskjal D. Kostnaðarætlan fyri høvuðsbólkar úr uppskoti um sáttmála við DMI </em></p>
+<p>Úr uppskoti til nýggjan sáttmála millum Fiskimálaráðið og DMI, eftir ætlan galdandi frá 1. juli 2019</p>
+<p xml:lang="nob">Aftaler Fast basispris  Kommentar, kort beskrivelse</p>
+<p xml:lang="dan">Kapacitetsomkostninger 485.201 kr. Kapacitetsomkostninger dækker medfinansiering af DMI’s bagvedliggende infrastruktur for at kunne drive et meteorologisk institut og levere ydelser til Færøerne. 1% af omkostninger.</p>
+<p xml:lang="dan">Delaftale 1: Udsigter og varsler</p>
+<p xml:lang="nno">997.559 kr. farvandsudsigter 4 gange i døgnet</p>
+<p xml:lang="dan">1-døgns landudsigt 3 gange i døgnet</p>
+<p xml:lang="dan">5-døgns landudsigt 1 gange i døgnet</p>
+<p xml:lang="nob">Delaftale 2: Interface til WMO</p>
+<p xml:lang="nob">64.740 kr. Videresendelse af måledata til det globle GTS-system (Global Telecommunication System)</p>
+<p xml:lang="est">Delaftale 3: Klimastatistik</p>
+<p xml:lang="nob">64.740 kr. Diverse klimastatistikker til Hagstovan, WMO m.fl.</p>
+<p xml:lang="deu">Delaftale 4: Infrastruktur</p>
+<p xml:lang="nob">125.000 kr. remote-Ninjo til Færøerne</p>
+<p xml:lang="dan">Delaftale 5: Data og modeller 50.276 kr. Sikkerhed for at Færøerne er indenfor DMI’s modelområde. Mulighed for at kunne få relevante data til Færøerne.</p>
+<p xml:lang="nob">Total 1.787.516 kr.</p>
+<p xml:lang="dan"><em type="italic">Tabel 1. Samlede årlige udgifter til kapacitetsomkostninger og samtlige delaftaler, jf. rammeaftale. </em></p>
+<p xml:lang="dan"><em type="italic">Såfremt delaftale 1 skulle ændres til ’nat+WHD+fe’ vil omkostningerne, med basis i 2019 priser, blive reduceret  med  anslået  ca.  315.000  kr.  om  året.  Ved  overgang  til  ’nat+WHD+fe.land’  ville </em></p>
+<p xml:lang="nob"><em type="italic">reduktionen, med basis i 2019 priser, være omkring 210.000kr. på årsbasis. </em><em type="bold">UPPSKOT.</em> </p>
+<p><em type="bold">Fylgiskjal  E.  Fyribils  meting  av  møguligari  rakstrarætlan  fyri  ein  dagførdan veðurstovn </em></p>
+<p xml:lang="isl"><em type="bold">Núverandi fíggjarætlan: </em></p>
+<p xml:lang="nno"><em type="bold">Rakstrarætlan í kr 1000 </em>Æ Æ M M M </p>
+<p xml:lang="tur"><span type="quote">"útbygd"</span></p>
+<p xml:lang="isl"><em type="bold">Núverandi fíggjarætlan </em> <em type="bold"></em> <em type="bold"></em> <em type="bold"></em> <em type="bold"></em> </p>
+<p><em type="bold">Broytingar í mun til núverandi</em> </p>
+<p xml:lang="nob">nr.  Virksemi    2023  "útbygd”</p>
+<p>Høvuðsstovnur, høli</p>
+<p xml:lang="isl">Veðurmenningarbólkur - - - - -</p>
+<p>Sáttmáli við DMI/annan veðurstovn - - - - -1.100</p>
+<p>Sáttmáli við annan veitara</p>
+<p>Radiosonderingar, rakstur/útbúnaður</p>
+<p xml:lang="isl">Veðurstøðir – núverandi, rakstur/útbúnaður</p>
+<p xml:lang="isl">Aðrar veðurmátingar, veðurradar v.m.</p>
+<p xml:lang="isl">Lønarútreiðslur 2.100 2.100 2.100 2.400 4.000</p>
+<p xml:lang="isl">Útbúnaður, ferðir v.m. einstakl.</p>
+<p>10  Mini-super-teldur, kt-skipan, datagrunnur</p>
+<p xml:lang="isl">11  Forrit, kt-hjálp, heimasiða</p>
+<p xml:lang="isl">12  Felagsskapir, WMO v.fl.</p>
+<p xml:lang="swe">13  Ymiskt</p>
+<p><em type="bold">Útreiðslur, broytingar</em> <em type="bold">3.400</em> <em type="bold">3.200</em> <em type="bold">3.000</em> <em type="bold">3.300</em> <em type="bold">5.000</em> </p>
+<p><em type="bold">Útreiðslur í alt</em> <em type="bold">8.350</em> <em type="bold">8.150</em> <em type="bold">7.950</em> <em type="bold">8.250</em> <em type="bold">9.950</em> </p>
+<p><em type="italic">Talva  C.1.  Fyribils  meting  av  møguligari  rakstrarætlan  fyri  komandi  4  ár  fyri  ein  dagførdan </em></p>
+<p><em type="italic">veðurstovn og <span type="quote">“útbygdan”</span> veðurstovn við vaktarskipan 24-7-365. Øll tøl eru bert ein fyribils meting. <span type="quote" xml:lang="nno">“Æ”</span>  er ætlan og <span type="quote" xml:lang="smn">“M”</span> er meting. Allir útreiðslur eru í 2020-peningi.</em> </p>
+<p>Tað skal viðmerkjast, at her er ikki roknað við einari krevjandi vaktarskipan sum 12-7-365, men meira 12-5-250,  og  so  eykavakt  um  veðrið  ella  onnur  viðursk<em type="bold"> </em></p>
+<p>7) Viðvíkjandi veðurradara er ein tílíkur rættiliga kostnaðarmikil og vil krevja eina serjáttan.</p>
+<p><em type="bold">Fylgiskjal F. Samskifti við stovnar, virki og felagsskapir </em></p>
+<p>Í arbeiði okkara hevur verið eitt stórt samskifti við fleiri føroyskar stovnar og virki, umframt fundir og samskifti við viðkomandi stovnar í grannalondunum.</p>
+<p>Her skal bert standard (eftir leisti) teldupostur sendir til stovnar, virki v.fl. takast við.</p>
+<p xml:lang="nob"><em type="italic">Standard teldupostur til stovnar, juni+august 2018 </em></p>
+<p><em type="italic">Subject: Menning av veðurtænastuni – fundir í viku 35/36 </em></p>
+<p><em type="italic">Sent til: KVF, sum er størsti miðlari av veðurtíðindum/veðurforsagnum í Føroyum, Atlantic Airways, Fiskaaling, Búnaðarstovan,  Fróðskaparsetur  Føroya,  Havstovan,  Jarðfeingi.  Kringvarp  Føroya,  Landsverk,  MRCC,  SEV, Umhvørvisstovan/Orka og Vága Floghavn. </em></p>
+<p xml:lang="som"><em type="italic">Hey, </em></p>
+<p><em type="italic">Nú eru vit aftur byrjaðir eftir summarfrí og vóna, at vit kunnu fáa ein fund saman, har vit kunnu tosa um ymsar  møguleikar  og  hoyra  um  hvønn  áhuga  og  hugskot  tit  hava  til  ein  góðan  føroyskan  veðurstovn,    sí tíðindaskriv frá Fiskimálaráðnum 14 juni 2018, vedur.fo. </em></p>
+<p><em type="italic">Vit hugsa okkum fundar í hesum tíðarskeiðum, t.d.: </em></p>
+<p xml:lang="vep"><em type="italic">... </em></p>
+<p><em type="italic">Uppskot til fundarøð við føroyskar stovnar um <span type="quote">“Menning av veðurtænastuni”</span>. Frá veðurmenningarbólkinum </em></p>
+<p><em type="italic">(VMB) luttaka Bárður A. Niclasen, Rúnar Alix Rasmussen og møguliga onkur annar úr bólkinum eisini. Fundar verða á Fróðskaparsetur Føroya, Sjóvinnuhúsið, Vestara Bryggja 15, 100 Tórshavn. </em></p>
+<p><em type="italic">Um tíðarskeiðið ikki passar hjá tykkum, vóna vit, at møguleiki er at finna eitt betri tíðarskeið. </em></p>
+<p><em type="italic">Tað hevði verið gott um vit kundu fingið info áðrenn fundin, um </em></p>
+<p type="listitem">• <em type="italic">í hvønn mun tit nýta veðurdata, nýta veðurforsagnir, hava ella hava havt sáttmála við aðrar stovnar </em></p>
+<p><em type="italic">viðv. veðurdata, veðurforsagnir, kanningar um veður, veðurlag v.m.  </em></p>
+<p type="listitem">• <em type="italic">kt-skipan, teldur v.m. </em></p>
+<p><em type="italic">Niðanfyri  stutt  status/yvirlit  um  hvussu  tað  gongur  við  arbeiðinum  hjá  Veðurmenningarbólkinum  (VMB). Langt er á mál, men sjálvir halda vit nú, at tað gongur sera gott og spakuliga framá. </em></p>
+<p xml:lang="som"><em type="italic">Vinarliga, </em></p>
+<p xml:lang="kmr"><em type="italic">xx </em></p>
+<p xml:lang="vep">--------------------</p>
+<p xml:lang="nno"><em type="italic">Status primo august 2018. Menning av veðurtænastuni – info, update </em></p>
+<p><em type="italic">Vit hava nú arbeitt í nakrar fáar mánaðir, og eg haldi, at tað gongur sera gott. Serliga gott er, at tað nú finnast fleiri ungfólk, sum vilja arbeiða sum veðurfrøðingar í Føroyum – og kanska finst onkur annar aðrastaðni. </em></p>
+<p><em type="italic">Men  langt  er  á  mál,  og  sum  tað  stendur  í  tíðindaskrivi  frá  Fiskimálaráðnum  14  juni  2018,  vedur.fo:".. Arbeiðsbólkurin er  farin  undir  arbeiðið,  og skal  koma  við  eini  ávegis  frágreiðing  tann  1.  oktober  2018  við einum fyribils tilmæli til landsstýrismannin. Bólkurin heldur áfram við arbeiðinum alt árið og væntandi eisini í komandi ár. ..." </em></p>
+<p><em type="italic">Vit hava gjørt eina fyribils verkætlan: </em></p>
+<p><em type="italic">Hava havt fundir við KVF, DMI og Landsverk, </em></p>
+<p><em type="italic">Rokna  við,  at  vit  ultimo  august  skulu  hava  fundar  við  fleiri  føroyskar  stovnar:  Havstovan,  Jarðfeingi, Havstovan,  Umhvørvisstovan,  Fiskaaling,  SEV,  Búnaðarstovan  og  Flogvøllurin/Atlan</em></p>
+<p><em type="italic">Sjónám, Fróðskaparsetrið og <span type="quote">“tey ungu”</span>. Kanska eisini fundar við Føroya Tele/Elektron/Formula v.fl. </em></p>
+<p><em type="italic">Kanska verður onkur fundur í útlandi medio september? </em></p>
+<p><em type="italic">1. oktober 2018 eini ávegis frágreiðing við einum fyribils tilmæli til landsstýrismannin, sí vedur.fo. </em></p>
+<p xml:lang="nob"><em type="italic">Fra oktober til des. 2018: fundar við: DMI, IMO, DNMI. DR, TV2, (ECMWF, Belgingur ?), rapport, tilmæli v.m. </em></p>
+<p><em type="italic">Tað  er  eisini  roknað  við,  "at  bólkurin  kann  fara  at  gera  ítøkiligar  veðurforsagnir  eftir  einum  føroyskum illagaðum leisti. Hetta kann vónandi byrja heystið 2018 - í fyrsta umfari, tó møguliga bert sum ein stuttur tekstur." </em></p>
+<p><em type="italic">April 2019. Kanska nýggj avtalu við DMI – á 10-ára degnum fyri yvirtøkuna í 2009. </em></p>
+<p><em type="italic">Nú vita vit ikki hvussu tilmæli verður, men eg kundi hugsað mær, at veðurmenningarbólkurin (VMB) heldur áfram, og at vit longu í komandi ár kunnu byrja við at seta veðurfrøðingar/veðurkønar, og at tey ungu fáa møguleika fyri at taka lut, um áhugi/møguleiki er til tað. Kanska er møguleiki eisini at koma á skeið uttanlanda fyri at fáa førleikar sum vakt-veðurfrøðingur. Eisini skulu vit hugsa um teldur og arbeiðspláss. rar,2018, primo august. </em></p>
+<p xml:lang="vep"><em type="italic">------------------------------------ </em></p>
+<p xml:lang="deu"><em type="italic">xx den 2018-06-15 12:31: </em></p>
+<p xml:lang="som"><em type="italic">Hey, </em></p>
+<p><em type="italic">Fiskimálaráðið  hevur  nú  sett  ein  arbeiðsbólk,  ið  skal  kanna  møguleikarnar  fyri  at  menna  tí  føroysku veðurtænastuna, sí viðfest tíðindaskriv. </em></p>
+<p><em type="italic">Hugsjónin er at fáa betri veðurvánir fyri allar Føroyar: </em></p>
+<p type="listitem">• <em type="italic">veðrið á bygd og í bý, </em></p>
+<p type="listitem">• <em type="italic">útlit fyri havleiðirnar um Føroyar, </em></p>
+<p type="listitem">• <em type="italic">útlit fyri flogferðsluna, </em></p>
+<p type="listitem">• <em type="italic">hálku á vegakervinum, </em></p>
+<p type="listitem">• <em type="italic">stuðul til bjargingartiltøk osfr. </em></p>
+<p><em type="italic">Tað eru fleiri evni og øki, sum skulu kannast: </em></p>
+<p><em type="italic">  1) Eina føroyska veðurtænastu, sum er lagað til føroysk viðurskifti og tørvin hjá føroyska brúkaranum. </em></p>
+<p><em type="italic">  2)  Gransking  og  undirvísing  innan  veðurfrøði  og  veðurlagsbroytingar  við  serstøkum  atliti  at  føroyskum viðurskiftum. </em></p>
+<p><em type="italic">  3) Menning av veðurmodelli fyri Føroyar (downscaling, í fyrstu atløgu mest við høvuðsdenti á vind, hvirlur og turbulensi), eins og samskipan av føroyskum veðurmátingum. </em></p>
+<p><em type="italic">  4) Kanning av møguligum sáttmálum, sum Veðurtænastan og aðrir føroyskir stovnar hava við DMI, NMI ella aðrar veðurstovnar. Hvussu kunna hesar avtalur betrast og/ella broytast. </em></p>
+<p><em type="italic">  5) Menning av einari føroyskari heimasíðu við tilfari um veður og veðurtænastu burturav. Partur av hesum arbeiði kann eisini fevna um talgildan av gomlum viðkomandi tilfari. </em></p>
+<p><em type="italic">  6) Bygnaður. Hvørjir bygnaðarligir møguleikar eru: </em></p>
+<p xml:lang="isl"><em type="italic">í stutttíðarhøpi og í langtíðarhøpi. </em></p>
+<p><em type="italic">         Dømi  um  møguleikar:  <span type="quote" xml:lang="isl">“veðurtænasta  í  fríari  vinnu  (freelance)”</span>,  <span type="quote">“á-vakt-veðurfrøðingur”</span>, </em></p>
+<p xml:lang="vep"><em type="italic"><span type="quote" xml:lang="isl">“veðurtænastudeild”</span>, <span type="quote">“stovnur (høvuðssæti og deildir)”</span>. </em></p>
+<p><em type="italic">Tað er eyðsæð, at flogferðslan skal hava neyvar og serstakar veðurforsagnir, sum kanska ikki er so lætt at gera í Føroyum, sum støðan er nú. Men uppá sikt eru kanska vónir um betri forsagnir av mjørka, turbulensi, vindi v.m. </em></p>
+<p><em type="italic">Tað er týdningarmikið fyri arbeiði okkara, at vit fáa eitt gott samstarv um veðurforsagnir fyri flogferðsluna, og skjóta vit upp, at vit fáa ein fund saman, har vit kunnu tosa um ymsar møguleikar og um ymisk áhugamál í hesum sambandi. </em></p>
+<p><em type="italic">Fundurin verður kanska saman við øðrum stovnum, og verður ivaleyst á Fróðskaparsetur Føroya, t.d. stutt áðrenn ella stutt eftir summarfrítíðina.  </em></p>
+<p><em type="italic">Sum ein partur av okkara kanning vilja vit eisini fegin fáa at vita í hvønn mun tit (standard): </em></p>
+<p type="listitem">• <em type="italic">nýta veðurdata, nýta veðurforsagnir, hava ella hava havt sáttmála við aðrar stovnar viðv. veðurdata, </em></p>
+<p><em type="italic">veðurforsagnir, kanningar um veður, veðurlag v.m. </em></p>
+<p><em type="italic">Við vón um gott samstarv. </em></p>
+<p xml:lang="som"><em type="italic">Vinarliga, </em></p>
+<p xml:lang="som"><em type="italic">Xx </em></p>
+<p xml:lang="vep">--------------------------------------------------------------------------------------------------</p>
+<p><em type="italic">Standard teldupostur til stovnar, virki og felagsskapir, 28-03 til 03-04 2019 </em></p>
+<p><em type="italic">Subject: Veðurstova Føroya, komandi – hugskot, ynski og ráð </em></p>
+<p xml:lang="som"><em type="italic">Hey xx, </em></p>
+<p><em type="italic">Ætlaninin er, at vit komandi ár skulu menna føroysku veðurtænastuna og vónandi verður Veðurstova Føroya skjótt sett á stovn, sí niðanfyri. </em></p>
+<p><em type="italic">Veðurmenningarbólkurin hevur virkað síðani juni 2018, og 5. oktobur 2018 handaði VMB <span type="quote">"Ávegis frágreiðing og fyribils tilmæli"</span> til Landsstýrismannin, sí niðanfyri. </em></p>
+<p><em type="italic">Vit skulu nú gera <span type="quote">“endaliga frágreiðing”</span>, síðst í apríl 2019, og í tí  sambandi vilja vit fegin vita um tit hava nøkur  hugskot,  ynski  ella  ráð  til  Veðurstovu  Føroya  ella  kanska  onkrar  viðmerkingar  til  okkara  <span type="quote">"Ávegis frágreiðing og fyribils tilmæli"</span> frá okt. 2018 – kanska serliga um hugsjón, endamál og skipan av stovninum. </em></p>
+<p><em type="italic">Best hevði kanska verið um vit kundi fingið eitt prát um tað, men ivasamt um tað er møguleiki fyri tí áðrenn </em></p>
+<p><em type="italic">frágreiðingin skal latast. Men <span type="quote">“ynski/ráð”</span> v.m. verður tikið upp aftur tá Veðurstova Føroya kemur at virka, so </em></p>
+<p><em type="italic">um tit ikki hava nøkur ráð/ynski nú kemur møguleikin seinni. </em></p>
+<p xml:lang="som"><em type="italic">Vinarliga, xx </em></p>
+<p xml:lang="dan"><em type="italic">Er sent til: </em></p>
+<p type="listitem">• <em type="italic">Bóndafelag Føroya, Føroya Fiskimannafelag, Hiking.fo, Strandfaraskip Landsins, Visit Faroe Islands </em></p>
+<p type="listitem">• <em type="italic">Dimma, in.fo/sosialurin, jn.fo, Norðlýsið, Norðoya Portalurin, Portal.fo, Sandoyar Portalurin, </em></p>
+<p><em type="italic">Suðuroyarportalin, Vágaportalurin </em></p>
+<p type="listitem">• <em type="italic">Vinnuhúsið, Ferðavinnufelagið, Føroya Reiðarafelag, Handilsvinnufelagið, Havbúnaðarfelagið, </em></p>
+<p><em type="italic">Oljuvinnufelagið, Reiðarafelagið fyri Handilsskip,  </em></p>
+<p><em type="italic">Um onkur manglar, kunnu tit vinarliga siga frá til okkum. </em></p>
+<p xml:lang="nob"><em type="italic">News </em></p>
+<p><em type="italic">http://www.in.fo/news-detail/nu-skulu-vit-ikki-longur-spyrja-utlendingar-hvussu-vedrid-er-i-foeroyum/ </em></p>
+<p xml:lang="isl"><em type="italic">Veðurmenningbólkur (VMB) </em></p>
+<p><em type="italic">Arbeiðsbólkur settur av Fiskimálaráðnum: </em></p>
+<p><em type="italic">Rúnar Alix Rasmussen, veðurfrøðingur, MSc, </em><em type="italic">Runar.Alix.Rasmussen@vedur.fo </em><em type="italic">Hanus Kjølbro, veðurkønur,Sjónám, </em><em type="italic">hanus@sjonam.fo </em><em type="italic">Bárður A. Niclasen, lektari í alisfrøði, Ph.d., Fróðskaparsetur Føroya, </em><em type="italic">bardurn@setur.fo </em><em type="italic">Andras Marr Poulsen, tilbúgvingarsamskipari, Fiskimálaráðíð, </em><em type="italic">Andras.Poulsen@fisk.fo </em><em type="italic">Jóannes Heimustovu, samskipari, Vørn, </em><em type="italic">joannesh@vorn.fo </em></p>
+<p><em type="italic">Skal kanna møguleikar og gera eina frágreiðing til Landsstýrismannin um eina dagførda, útbygda og nøktandi veðurtænastu í Føroyum, sí tíðindaskriv frá 14. juni 2018, </em><em type="italic">https://vedur.fo/menning/menu/news</em></p>
+<p xml:lang="nno"><em type="italic">20180614-ts-fra-fisk.html https://vedur.fo/menning/menu/contact.html </em></p>
+<p><em type="italic">Veðurtænastan – sáttmáli við DMI. </em></p>
+<p><em type="italic">Føroyska veðurtænastan var yvirtikin frá DMI tann 1. apríl 2009. Samstundis varð sáttmáli gjørdur við DMI um at halda áfram við at veita veðurtænastur til Føroyar. Hesin sáttmáli er enn galdandi. Verður vónandi dagførdur í mai 2019. </em></p>
+<p><em type="italic">Ávegis frágreiðing og fyribils tilmæli frá VMB, 1-10-2018 </em></p>
+<p><em type="italic">5. oktobur 2018 handaði VMB <span type="quote">"Ávegis frágreiðing og fyribils tilmæli"</span> til Landsstýrismannin: </em></p>
+<p><em type="italic">https://www.fisk.fo/fo/kunning/tidindi/landsstyrismadurin-fingid-handad-avegis-fragreiding-og-fyribilstilmaeli-fra-vedurmenningarbolkinum/ </em></p>
+<p><em type="italic">Frágreiðingin er mest grundað á kanningar av førleikum og tørvi í Føroyum og fyribils samráðingar við DMI. Tað verður mælt til, at Veðurstova Føroya byrjar sum skjótast, og tað verður mett: </em></p>
+<p><em type="italic">".. at við eini meirupphædd uppá góðar 3 mió kr., frá einari árliga upphædd á 4,8 mió kr. til umleið 8 mió kr., er møguleiki at fáa eina dagførda, útbygda og nøktandi føroyska veðurtænastu við betri og meira álítandi veðurforsagnum fyri allar Føroyar og føroysk áhugaøki, betri miðling og luttøku í kanningum og granskingum av veðri, veðurlagi og veðurlagsbroytingum til gagns fyri sjóvinnu, vinnu á landi, flogferðslu, tilbúgving og tað føroyska samfelagið sum heild." </em></p>
+<p><em type="italic">Vit  hava  í  ávegis  frágreiðing  í  fyrstu  atløgu  havt  samskifti/fundir  við  stovnar/virki,  sum  beinleiðis  nýta veðurdata, gera granskingar innan veður/veðurlag og/ella gera veðurmátingar, umframt KVF, sum er størsti miðlari  av  veðurtíðindum/veðurforsagnum  í  Føroyum:  Atlantic  Airways,  Fiskaaling,  Búnaðarstovan, Fróðskaparsetur  Føroya,  Havstovan,  Jarðfeingi.  Kringvarp  Føroya,  Landsverk,  MRCC,  SEV, Umhvørvisstovan/Orka og Vága Floghavn. </em></p>
+<p><em type="italic">Ein føroyskur veðurstovnur - hugsjón, endamál og uppgávur </em></p>
+<p><em type="italic">Hugsjónin er at gera bestu og mest álítandi veðurforsagnir fyri allar Føroyar og føroysk áhugaøki, miðla hetta á  besta  hátt  umframt  at  menna  og  taka  lut  í  kanningum  og  granskingum  av  veðri,  veðurlagi  og veðurlagsbroytingum til gagn fyri tað føroyska samfelagið. </em></p>
+<p><em type="italic">Tað eru nógv evni og øki, sum hava áhuga og skulu raðfestast á besta hátt, so vit samfelagsliga fáa størsta ágóða við tí tilfeingi, sum tøkt er: </em></p>
+<p type="listitem">• <em type="italic">betri veðurvánir fyri allar Føroyar - <span type="quote">”Veðrið á bygd og í bý, ”útlit fyri havleiðirnar um Føroyar”</span>, um </em></p>
+<p><em type="italic">hálku á vegakervinum, tilbúgving, stuðul til bjargingarátøk o.s.fr., og seinni kanska eisini fyri onnur/øll føroysk áhugaøki, </em></p>
+<p type="listitem">• <em type="italic">betri miðling av veðurforsagnum til KVF og aðrar miðlar, appir til snildfon v.m. </em></p>
+<p type="listitem">• <em type="italic">undirvísing í veðurfrøði í samstarvi við Fróðskaparsetrið og aðrar stovnar/skúlar , </em></p>
+<p type="listitem">• <em type="italic">granskingar um veðurlag í Føroyum, veðurlagsbroytingar, og teirra ávirkan í framtíðini, </em></p>
+<p type="listitem" xml:lang="nno">• <em type="italic">veðurlagsgransking innan framtíðar vatn-, vind- og sólorkupotentiali </em></p>
+<p type="listitem">• <em type="italic">veðurmodel fyri Føroyar (downscaling, í fyrstu atløgu mest við fokus á vind, hvirlur og turbulens), </em></p>
+<p><em type="italic">men uppá sikt eisini meira neyva vitan um avfall kring landið, mjørka og hita </em></p>
+<p type="listitem">• <em type="italic">samskipan av føroyskum veðurmátingum, </em></p>
+<p type="listitem">• <em type="italic">talgilding av eldri veðurmátingum og annað áhugavert tilfar, </em></p>
+<p type="listitem">• <em type="italic">skráseting av lokalum fyribrigdum, </em></p>
+<p type="listitem" xml:lang="isl">• <em type="italic">heimasíðu v.m. </em></p>
+<p><em type="italic">Hetta verður gjørt í samstarvi við føroyskar stovnar, virki og felagsskapir, við aðrar veðurstovnar umframt millumtjóða og altjóða felagsskapir. </em></p>
+<p><em type="italic">Fyribils skráseting av veðurfyribrigdum og vitan hjá veðurkønum kring landið </em></p>
+<p><em type="italic">Hetta hevur stóran týdning og áhuga millum fólk, men er ikki beinleiðis arbeiði hjá VMB. Men fyrr byrjað verður, betri er, og krevur heldur ikki so stóra orku, so tað kann kanska/vónandi byrja í 2019. Heldur áfram í komandi árum. </em></p>
+<p xml:lang="isl"><em type="bold">Fylgiskjal G. Nakrar slóðir </em></p>
+<p>Tað finst ein mongd av tilfari á netinum um veðurfrøði, veðurforsøgnir v.m. Her eru bert nakrar fáar slóðir, mest frá týðandi ella avvarðandi stovnum:</p>
+<p xml:lang="eng"><em type="bold">World Meteorological Organization</em> (<em type="bold">WMO</em>) </p>
+<p xml:lang="nno"><em type="italic">http://www.wmo.int </em></p>
+<p>er  ein  millumlanda  samskipan,  nú  við  191 limalondum og økjum.  CH-1211 Geneva 2, Switzerland</p>
+<p xml:lang="eng"><em type="bold">International Civil Aviation Organization (ICAO) </em></p>
+<p xml:lang="eng">The  International  Civil  Aviation  Organization (ICAO) is a UN specialized agency, established by States in 1944 to manage the administration and governance  of  the  Convention  on  International Civil Aviation (Chicago Convention). 999 Robert-Bourassa Boulevard, Montréal, Québec H3C 5H7, Canada</p>
+<p xml:lang="eng">https://www.icao.int</p>
+<p xml:lang="vep"><em type="bold">NORDMET </em></p>
+<p xml:lang="nno"><em type="italic">http://blog.fmi.fi/nordmet/ </em></p>
+<p xml:lang="eng">NORDMET  is  co-operation  between  the  Nordic National  Meteorological  Services  in  the  field  of Infrastructure.  Aim  is  to  achieve  better  cost efficiency  by  sharing  resources  in  such  areas  as observation,  information  management,  product development, production, training and education.</p>
+<p xml:lang="dan">http://www.dmi.dk/nyheder/arkiv/nyheder2018/september/klimaforandringernoedvendiggoer-internationalt-samarbejde/</p>
+<p xml:lang="deu"><em type="bold">EIG EUMETNET </em></p>
+<p xml:lang="eng">is  a  grouping  of  31  European  National Meteorological Services that provides a framework to organise co-operative programmes between its Members in the various fields of basic meteorological activities. <em type="bold"> </em></p>
+<p xml:lang="nno"><em type="italic">http://eumetnet.eu http://eumetnet.eu/members-partners </em></p>
+<p xml:lang="eng"><em type="bold">EUMETSAT  -  MONITORING  WEATHER  AND CLIMATE FROM SPACE </em></p>
+<p xml:lang="eng">EUMETSAT is a global operational satellite agency at the heart of Europe. Our  purpose is to gather accurate  and  reliable  satellite  data  on  weather, climate  and  the  environment  around  the  clock, and to deliver them to our Member States, to our international partners, and to users world-wide.</p>
+<p xml:lang="fkv">https://www.eumetsat.int</p>
+<p xml:lang="deu"><em type="bold">ECMWF </em></p>
+<p xml:lang="eng"><em type="italic">http://www.ecmwf.int </em></p>
+<p>European  Centre  for  Medium-Range  Weather Forecasts, Reading, UK samarbeiði  millum  22  limalond  í  Europa.  Vanliga tær  veðurprognosur,  sum  verða  mest  nýttar  her um leiðir.<em type="bold"> </em></p>
+<p xml:lang="nno"><em type="bold">Weather warnings: Europe</em> <em type="bold"> </em><em type="italic">http://www.meteoalarm.eu </em><em type="bold">DMI </em></p>
+<p xml:lang="eng">Danish Meteorological Institute ,  Danmarks Meteorologiske Institut Lyngbyvej 100, DK-2100 Copenhagen Ø,</p>
+<p xml:lang="kal"><em type="italic">http://www.dmi.dk </em></p>
+<p xml:lang="est">Tel. +45 3915 7500<em type="bold"> </em></p>
+<p xml:lang="isl"><em type="bold">Veðurstofa Íslands </em></p>
+<p xml:lang="nno"><em type="italic">http://www.vedur.is </em></p>
+<p xml:lang="isl">Icelandic Meteorological Office (IMO) Veðurstofa Íslands  | Bústaðavegi 7-9, 108 Reykjavík, Sími 522 6000<em type="bold"> </em></p>
+<p xml:lang="nno"><em type="bold">Norsk Meteorologisk Institutt (NMI) </em></p>
+<p xml:lang="fkv">https://www.met.no/</p>
+<p xml:lang="nob">Norwegian Meteorological Institute  Det Norske Meteorologiske Institutt Blindern, 0313 OSLO. Allégaten 70, 5007 Bergen Langnes, 9293 Tromsø</p>
+<p xml:lang="nno"><em type="bold">Yr </em></p>
+<p xml:lang="fkv">https://www.yr.no/</p>
+<p xml:lang="nob">samarbeiði  millum  NRK  (Norsk  Rikskringkastning (NRK) og NMI.<em type="bold"> </em></p>
+</body></document>

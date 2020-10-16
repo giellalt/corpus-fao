@@ -1,0 +1,479 @@
+<document xml:lang="fao" id="no_id"><header><title>Føroyskt 1-9</title><genre code="facta"/><author><unknown/></author><wordcount>8108</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/foeroyskt-1-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem">Nám</p>
+<p type="listitem">Próvstovan</p>
+<p type="listitem">Snar</p>
+<p type="listitem">Námsætlanir</p>
+<p type="listitem">Office 365</p>
+</list><p>{$logoLinkText}</p>
+<list><p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+</list><p>Fólkaskúli</p>
+<list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
+<p type="listitem" xml:lang="dan">Danskt 3-10</p>
+<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Føroyskt 1-9</p>
+<p type="listitem">Handarbeiði 4-10</p>
+<p type="listitem">Handaverk og list 1-7</p>
+<p type="listitem">Heimkunnleiki 6-10</p>
+<p type="listitem">Heimstaðarlæra 1-3</p>
+<p type="listitem">Ítróttur 1-9</p>
+<p type="listitem">Kristnikunnleiki og átrúnaður 1-9</p>
+<p type="listitem">Landafrøði 7-9</p>
+<p type="listitem">Lívfrøði 7-9</p>
+<p type="listitem">Myndlist 1-10</p>
+<p type="listitem">Náttúra- og tøkni 4-6</p>
+<p type="listitem">Samfelagsfrøði 7-9</p>
+<p type="listitem">Smíð 4-10</p>
+<p type="listitem">Støddfrøði 1-10</p>
+<p type="listitem">Søga og samtíð 4-9</p>
+<p type="listitem">Tónleikur 1-10</p>
+</list></p>
+<p type="listitem">Vallærugreinar</p>
+<p type="listitem">Kravd undirvísingarevni</p>
+<p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
+<p type="listitem">Frymlar fyri ársætlan</p>
+<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
+<p type="listitem">Um nýggjan próvtalsstiga</p>
+<p type="listitem">Kunning um námsætlanir</p>
+<p type="listitem">Synopsupróvtøka í føroyskum og donskum</p>
+<p type="listitem">Kunngerð um próvtalsstiga í fólkaskúlanum</p>
+<p type="listitem">Vegleiðing í at nýta próvtalsstigan</p>
+</list><p type="title">Námsætlan til fólkaskúla:</p>
+<p type="title">Føroyskt 1-10</p>
+<p type="title">Seinast broytt:</p>
+<p>23. feb 2017</p>
+<p type="title">Viðmerking:</p>
+<p>Tíðarkarmarnir um skrivligu próvtøkuna eru gjørdir greiðari</p>
+<p type="title">1. Samleiki</p>
+<p>Lærugreinin føroyskt tekur støði í næminginum í síni heild, varðar um vitbornu evnini, eins og tey kensluligu og sosialu. Lærugreinin er miðdepil í søgu- og nútíðarhøpi, eins og í føroyskum og altjóða samanheingi.</p>
+<p>Við at síggja móðurmálið og mentanina í einum søguligum og tjóðarligum høpi, fær næmingurin innlit í og verður tilvitaður um føroyska samfelagið. Altjóða perspektiv í føroyskum er við til at menna mentanarfatan, tolsemi og virðing fyri fólki úr øðrum mentanum.</p>
+<p>Kjarnin í lærugreinini byggir á eitt breitt úrval av føroyskum tekstum, bæði munnligum, skrivligum og samansettum tekstum, har samspæl er millum skrift, ljóð og mynd. Lærugreinin byggir sostatt á víðkaða teksthugtakið, har omanfyri nevndu teksthugtøk eru umboðað.</p>
+<p type="title">2. Endamál</p>
+<p>Undirvísingin í føroyskum hevur til endamáls, at næmingurin:</p>
+<list><p type="listitem">mennir sínar lesi- og skriviførleikar umframt síni samskiftisevni</p>
+<p type="listitem">ognar sær vitan um føroyskar bókmentir, umframt innlit í norðurlendskar og alheims bókmentir</p>
+<p type="listitem">skapar sær eina heildarfatan av føroyskum máli og málrøkt, bæði í samtíðini og í søguligum høpi</p>
+<p type="listitem">verður tilvitin um málið sum samskiftisamboð og samskiftismiðil</p>
+<p type="listitem">verður tilvitin um málsligt fjølbroytni og stíllegur</p>
+<p type="listitem">mennir góðar og hóskandi arbeiðsvanar, læringarhættir og vandna og kritiska hugsan</p>
+<p type="listitem">mennir síni skapandi evni</p>
+<p type="listitem">mennir sín samleika við sjálvsáliti og tryggleika í egnari mentan fyri eyga</p>
+<p type="listitem">mennir sína virðing og sítt tolsemi fyri øðrum mentanum</p>
+<p type="listitem">mennir síni vitbornu, kensluligu og felagsligu evni</p>
+<p type="listitem">fær lagt støði undir lívslanga læring, umhugsni og virkni í samfelagsligum høpi.</p>
+</list><p type="title">3. Stig og tímatal</p>
+<p>Undirvísingin í føroyskum fevnir um øll árini í fólkaskúlanum, frá 1. til 10. flokk. Klokkutímatalið, undirvíst verður, er í 1. og 2. flokki 330 á hvørjum floksstigi, 270 í 3. flokki, 180 í 4., 5. og 6. flokki, 150 í 7., 8. og 9. flokki og 120 klokkutímar í 10. flokki.</p>
+<p>Stig</p>
+<p>10</p>
+<p>Klokkutímatal</p>
+<p>330</p>
+<p>330</p>
+<p>270</p>
+<p>180</p>
+<p>180</p>
+<p>180</p>
+<p>150</p>
+<p>150</p>
+<p>150</p>
+<p>120</p>
+<p type="title">4. Øki</p>
+<p>Fakliga innihaldið í lærugreinini er lutað sundur í kjarnaøki og ískoytisøki. Kjarnaøki eru kravd øki, ið fevna um umleið 80% av klokkutímatalinum á hvørjum floksstigi. Ískoytisøki eru valfrí øki, sum lærari og næmingar í einstaka flokkinum velja í felag. Ískoytisøki fevna um umleið 20% av klokkutímatalinum á hvørjum floksstigi. Næmingurin fer til skrivliga próvtøku í kjarnaøkjum og til munnliga próvtøku í bæði kjarnaøkjum og ískoytisøkjum.</p>
+<p type="title">Kjarnaøki</p>
+<p>Lærugreinin føroyskt hevur 4 ymisk kjarnaøki, ið eru tey somu frá lægsta til hægsta stig. Økini umskarast og virka fyri ein stóran part saman í undirvísingini:</p>
+<p>Stig</p>
+<p>Kjarnaøki</p>
+<p>1-10</p>
+<p>Talaða málið</p>
+<p>Skrivaða málið</p>
+<p>Samansettir tekstir</p>
+<p>Málkunnleiki</p>
+<p type="title">Talaða málið</p>
+<p>Kjarnaøkið <em type="italic">talaða málið </em>snýr seg um at koma til orðanna, at lurta og at rannsaka talaða málið. At samskifta væl og skiljandi og at duga at lýða á eru avgerandi felagsligir og mentanarligir førleikar. Støðan, samskift verður í, skapar karm um samskiftisháttin. Undirvísingin skal tí fevna um ymisk tekstsløg, sum hvørt á sín hátt skulu styrkja fatanina av ymiskum munnligum samskiftisháttum og av leiklutum teirra samskiftandi. Arbeitt verður við kjakmentan, mállæru, samskifti og próvførslu. </p>
+<p type="title">Skrivaða málið</p>
+<p>Kjarnaøkið <em type="italic">skrivaða málið </em>snýr seg um at lesa og skriva føroyskt. At lesa og skriva eru javnskipaðar lærutilgongdir, har næmingurin mennir skriviførleikan við at lesa og lesiførleikan við at skriva. Hugur næmingsins at lesa og skriva skal stimbrast og somuleiðis tilvitan hansara um lesi- og skrivitilgongdina. Arbeitt verður á støðugt hækkandi torleikastigi í mállæru og rættskriving og samvirkanini millum snið, innihald og ætlan við einum teksti. Harumframt verða grundleggjandi bókmentafrøðilig hugtøk og háttaløg viðgjørd virkisliga. Tekstatilfarið myndar eitt fjølbroytt úrval av fagur- og yrkisbókmentum, ið umboða ymisk bókmentarák og tíðarskeið í føroyskari bókmentasøgu, sett í samband við norðurlendskar og aðrar heimsbókmentir. Arbeitt verður við hugtøkini at greina tekst, at meta um og tulka tekst, umframt at seta tekst í frásjón. Tekstatilfarið eigur í mest møguligan mun at verða lisið á føroyskum máli. </p>
+<p type="title">Samansettir tekstir</p>
+<p>Kjarnaøkið <em type="italic">samansettir tekstir </em>snýr seg bæði um at lesa og at skapa tekstir. <em type="italic">Samansettir tekstir </em>sipar til víðkaða tekstahugtakið, har tekstir kunnu vera settir saman av t.d. skrift, ljóði og myndum. Arbeitt verður við ymiskum framsagnarháttum, samsvarandi</p>
+<p type="title">Málkunnleiki</p>
+<p>Kjarnaøkið <em type="italic">málkunnleiki </em>fevnir um mállæru, málsøgu og málrøkt. Næmingurin fær innlit í málið sum skipan og tilknýti tess til mentan og samleika. Arbeitt verður á støðugt hækkandi torleikastøði í grundleggjandi mállæru, og arbeitt verður eisini við málrøktarspurningum. Føroysk málsøga frá norrønari tíð til nútíðina verður viðgjørd, og í hesum høpi verður eisini komið inn á norðurlendska málfelagsskapin. Í samband við norðurlendska málfelagsskapin verður arbeitt við norðurlendskum tekstum á upprunamáli, umboðandi ymisk tekstsløg, so næmingurin bæði hoyrir og lesur norðurlendsku málini. </p>
+<p type="title">Ískoytisøki</p>
+<p>Ískoytisøki eru valfrí øki, sum lærari og næmingar í einstaka flokkinum semjast um í felag. Ískoytisøki kunnu styðja og lýsa eitt ella fleiri kjarnaøki frá øðrum sjónarhornum og vera við til at menna førleikar næmingsins samsvarandi teimum førleikamálum, ið ásett eru. Endamálið við ískoytisøkjum er harumframt at geva skúlum og útbúgvingarbreytum rúm fyri serligum eyðkennum og arbeiðsháttum.</p>
+<p type="title">5. Førleikamál</p>
+<p>Í lærugreinini føroyskum eru førleikamálini lutað sundur í støðisførleikar og fakligar førleikar.</p>
+<p type="title">Støðisførleikar</p>
+<p>Støðisførleikar eru grundleggjandi førleikar, sum menniskju ogna sær tíðliga í lívinum, men sum mugu stimbrast og mennast alt lívið. Støðisførleikar hava avgerandi týdning fyri, at kunnleiki, vitan og førleikar verða ment í øllum lærugreinum. Støðisførleikar eru við til at menna sannkenning, virðing, hugflog og evni til støðutakan og sjálvirkni. Undirvísingin skal virka fyri, at næmingurin fær hug og sinni at læra og geva sítt íkast til kjak og loysnir.</p>
+<p>Í hesum sambandi eru fýra støðisførleikar lýstir við atliti at teimum fortreytum, sum eru galdandi fyri lærugreinina. Í øllum lærugreinum skal næmingurin læra:</p>
+<list><p type="listitem">at virða</p>
+<p type="listitem">at samskifta</p>
+<p type="listitem">at kanna</p>
+<p type="listitem">at skapa</p>
+</list><p type="title">At virða</p>
+<p>At virða er at virka fyri góðari samveru millum menniskju og fyri góðum samanspæli millum menniskju, náttúru og umhvørvi. Virðing fremur tryggleika og trivnað, ið eru fortreytir fyri gagnligari menning. Undirvísingin skal virka fyri, at hvør einstakur næmingur verður sæddur og hoyrdur, og at hann kennir seg at hava virði og týdning, har hann er.</p>
+<p><em type="italic">Førleikin at virða </em>snýr seg harumframt um at virða og menna føroyskt mál sum samskiftismiðil og sum mentanar- og vitanarbera. Undirvísingin leggur dent á, at næmingurin skilir tær ymisku fortreytirnar, ið øll menniskju hava í lívinum, og lærir at virða tørv og sjónarmið hjá øðrum, uttan mun til aldur, kyn, húðarlit og lívsáskoðan. Næmingurin skal eisini virða sín egna tørv og tað nátturutilfeingið, vit øll eru bundin at. Hann skal læra at virða tær skyldur og tey rættindi, sum fólkaræði byggir á, har ímillum teir sáttmálar, ið Sameindu Tjóðir hava samtykt í sambandi við barnarættindi og mannarættindi annars. Eisini skal næmingurin hava virðing fyri, at ymiskar mentanir og samfeløg kunnu byggja á onnur virði enn hansara egnu. </p>
+<p type="title">At samskifta</p>
+<p>At samskifta snýr seg um førleikan at bera fram hugsanir sínar munnliga og at lesa og skriva. Lærugreinin føroyskt hevur høvuðsleiklutin í hesi menning. At samskifta snýr seg eisini um at rokna og at nýta tøknilig amboð, ið tæna samskiftinum millum manna.</p>
+<p><em type="italic">Førleikin at bera fram hugsanir sínar munnliga </em>verður mentur við miðvíst at arbeiða við munnligum venjingum í ymiskum samskiftisstøðum. Næmingurin skal frá fyrsta degi verða vandur við at tala, skifta orð, lýða á, próvføra og bera fram egnar metingar. </p>
+<p><em type="italic">Førleikin at lesa og skriva </em>er avgerandi fortreyt fyri øllum samskifti og lærdómi í lívinum. At skriva er at skipa hugsan og menna hugskot, at lesa er at skyna á og tulka. Á 2. floksstigi skal næmingurin duga bæði at lesa og skriva lættari tekstir. </p>
+<p><em type="italic">Førleikin at rokna </em>snýr seg um evnini at lesa hagtøl, fata bygnað, frymlar og úrtøkiligar skipanir. At rokna er eisini at hugsa skilvíst og loysa vandamál. Hesir førleikar eru fortreyt fyri at skilja og taka støðu til mangar gerandistekstir, og tí hevur undirvísingin í føroyskum sín avgerandi lut í hesi menning. </p>
+<p><em type="italic">Førleikin at nýta tøknilig amboð </em>er í føroyskum at duga at nýta kunningartøkni, ið er ein fortreyt fyri øllum fjarskifti. At kenna og virða etisku reglurnar, tá ið samskift verður við kunningartøkni. Við venjingum skal næmingurin á 2. floksstigi duga at nýta teldu til tekstframleiðslu og sum leitingaramboð. </p>
+<p type="title">At kanna</p>
+<p>At kanna er ein íborin førleiki. Børn kanna umhvørvið fyri at klára seg í lívinum. At granska er at eygleiða, undrast, finna svar og gera royndir. Lærarar skulu geva gætur, at hesir førleikar verða mentir frá lægsta til hægsta stig.</p>
+<p><em type="italic">Førleikin at kanna </em>snýr seg í føroyskum um at eggja forvitni næmingsins og stimbra hug og dirvi hansara at seta spurningar og at leita sær ráð og vitan um mál og bókmentir. Frá 1. floksstigi skal næmingurin læra at leita upp og ogna sær viðkomandi vitan á bókasøvnum, í bókmentum, handbókum, á internetinum o.s.fr. Næmingurin skal eggjast til at síggja gagn og gleði í yrkis- og fagurbókmentum og til at fregnast um mál- og bókmentafrøðiligar spurningar, sum bjóða forvitninum av. Við dømum og venjingum skal næmingurin læra at nýta vísindaliga framferðarháttin og at handfara keldutilfar á ein sakligan og siðiligan hátt, og harvið virða meginreglurnar fyri upphavsrætt. </p>
+<p type="title">At skapa</p>
+<p>Forvitni, spæl og hugflog eru serligir eginleikar, sum lærarin skal varða um og gera gagn av í undirvísingini. At skapa er eisini ein førleiki, ið kann vinnast við lærdómi. Næmingurin skal læra at hugsa, tala og skriva sjálvstøðugt og at menna hugskot síni, og hann skal kenna seg at hava ein virknan lut í egnari menning og læringartilgongd.</p>
+<p><em type="italic">Førleikin at skapa </em>snýr seg í føroyskum um at gera næmingin tilvitaðan um og líta á egin evni, so hann gerst førur fyri sjálvur at byggja víðari á tað, sum lært er. Næmingurin skal læra, hvussu bókmentalig og listarlig nýbrot hava broytt lívsáskoðanir og mentan. Næmingurin skal læra, at tekstframleiðsla er ein skapandi tilgongd, sum byggir á hugflog, íblástur og treystleika. Við atliti at búningarstigi og serligu gávum næmingsins verður arbeitt miðvíst við skapandi tilgongdum, sum fremja íblástur og stimbra hugflogið. Við at gera sær fyrimyndir skal næmingurin læra at meta um dygdina í avrikum hjá sær sjálvum og øðrum. </p>
+<p type="title">Fakligir førleikar</p>
+<p>Føroyskt hevur ávegismál fyri 2., 4. og 6. floksstig og endalig mál fyri 9. og 10. floksstig. Ávegismálini eru vegleiðandi, tó soleiðis at skilja, at um munandi frávik koma fyri, skal hetta fráboðast leiðslu skúlans, sum við støði í lýsta tørvinum hevur skyldu til at seta neyðug tiltøk í verk. Um endaligu málini verða eftirmett við próvtøku, eru tey bindandi.</p>
+<p type="title" xml:lang="dan">2. floksstig</p>
+<p type="title">Talaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at lurta, tá ið talað verður</p>
+<p type="listitem">at lurta eftir søgum og sagnum</p>
+<p type="listitem">at royna seg við rími, rútmu, sangi, kvøðing og øðrum</p>
+<p type="listitem">at seta orð á egnar kenslur og hugsanir</p>
+<p type="listitem">at brúka kropsmál og rødd at samskifta við</p>
+<p type="listitem">at nýta málið sum amboð í samrøðu, samstarvi, bókaframløgu, smáverkætlan og leiki</p>
+<p type="listitem">at nýta málið sum vitanarbera og sum miðil í loysn á trupulleikum og í undirhaldi.</p>
+</list><p type="title">Skrivaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at lesa upp og at lesa innantanna</p>
+<p type="listitem">at lesa ymisk tekstsløg, ið hóska til aldurin</p>
+<p type="listitem">at tosa um innihald og snið í lættari tekstum</p>
+<p type="listitem">at skriva lesilig orð við hond</p>
+<p type="listitem">at skriva upplivingar sum stuttar søgur</p>
+<p type="listitem">at skriva frágreiðandi og í tíðarrøð</p>
+<p type="listitem">at umhugsa og endurskoða tað skrivaða</p>
+<p type="listitem">at stava tey vanligastu orðini rætt</p>
+<p type="listitem">at brúka aldurshóskandi handbøkur og orðabøkur</p>
+<p type="listitem">at nýta telduna sum amboð.</p>
+</list><p type="title">Samansettir tekstir</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at tosa um, hvussu orð og mynd virka saman í myndabókum og øðrum myndamiðlum</p>
+<p type="listitem">at arbeiða skapandi við orðatilfari, ljóði, myndum og tekningum í sambandi við lesing, skriving og tekning.</p>
+</list><p type="title">Málkunnleiki</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at flokka orð í orðaflokkarnar: navnorð, sagnorð og lýsingarorð</p>
+<p type="listitem">at skilja ímillum eintal og fleirtal</p>
+<p type="listitem">at skilja ímillum nútíð og tátíð.</p>
+</list><p type="title" xml:lang="dan">4. floksstig</p>
+<p type="title">Talaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at lurta og spyrja um tað, ið sagt verður frá</p>
+<p type="listitem">at fata samskifti í mun til boðbera, móttakara, miðil og støðu.</p>
+</list><p type="title">Skrivaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at lesa hart og endurgeva egnan og annans tekst</p>
+<p type="listitem">at tekna, svara skrivligum spurningum ella á annan hátt vísa, at tað lisna er skilt</p>
+<p type="listitem">at finna høvuðsinnihaldið í yrkis- og fagurbókmentaligum tekstum</p>
+<p type="listitem">at skilja høvuðstættirnar í skaldskapi av mannamunni</p>
+<p type="listitem">at gera skrivligar viðmerkingar til tað, hann hevur sæð, hoyrt ella lisið</p>
+<p type="listitem">at skriva orð og styttri setningar við skilligari handskrift</p>
+<p type="listitem">at nýta fjølbroytt orðatilfeingi</p>
+<p type="listitem">at leita fram tilfar á bókasavni og interneti</p>
+<p type="listitem">at nýta orðabøkur og handbøkur, bæði prentaðar og teldutøkar</p>
+<p type="listitem">at brúka rættstavara á teldu, soleiðis at stavað verður rætt</p>
+<p type="listitem">at nýta teldu sum amboð og leita fram upplýsingar.</p>
+</list><p type="title">Samansettir tekstir</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at tosa um fagurfrøðiliga leiklutin og endamálið við samansettum tekstum</p>
+<p type="listitem">at skapa eina samanhangandi frásøgn við at seta saman orð, ljóð og mynd.</p>
+</list><p type="title">Málkunnleiki</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at brúka orðabøkur til at flokka orð í allar orðaflokkar, og at benda navnorð, sagnorð og lýsingarorð</p>
+<p type="listitem">grundleggjandi orðalagslæru, t.e. grundlið, umsøgn og ávirki</p>
+<p type="listitem">at seta punktum og komma millum einfaldar setningar.</p>
+</list><p type="title" xml:lang="dan">6. floksstig</p>
+<p type="title">Talaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at nýta talumálið klárt og skilliga í t.d. kjaki, samrøðu, framløgu, verkætlan og leiki</p>
+<p type="listitem">at fata og lýsa samskifti í mun til boðbera, móttakara, miðil og støðu</p>
+<p type="listitem">at lurta virkin og seta greinandi og metandi spurningar.</p>
+</list><p type="title">Skrivaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at skilja og greina ymiskar tekstir við grundleggjandi bókmentafrøðiligum hugtøkum</p>
+<p type="listitem">at skilja og greina høvuðstættirnar í skaldskapi av mannamunni</p>
+<p type="listitem">ymiskar lesihættir sum t.d. at snarlesa, nærlesa, punktlesa og vísa, at tað lisna er skilt</p>
+<p type="listitem">at gera metingar og niðurstøður av tí, hann hevur sæð, hoyrt ella lisið</p>
+<p type="listitem">at skriva sjálvstøðugt og málsliga rætt við fjølbroyttum orðatilfeingi</p>
+<p type="listitem">at skriva tekstbrot við skilligari og stinnari handskrift</p>
+<p type="listitem">at nýta tekstviðgerðarforrit</p>
+<p type="listitem">at nýta orðabøkur og handbøkur, bæði prentaðar og teldutøkar</p>
+<p type="listitem">at brúka rættstavara á teldu, so at stavað verður rætt</p>
+<p type="listitem">at nýta teldu sum amboð og leita fram upplýsingar</p>
+<p type="listitem">at skriva blindskrift við teldu.</p>
+</list><p type="title">Samansettir tekstir</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at skilja og greina ymiskar samansettar tekstir</p>
+<p type="listitem">at tosa um ymiskar málsligar stíllegur í sambandi við samansettar tekstir, so sum sms- og kjattmál</p>
+<p type="listitem">at skapa eina samanhangandi frásøgn við at seta saman orð, ljóð og mynd.</p>
+</list><p type="title">Málkunnleiki</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at brúka orðabøkur til rætta málnýtslu, so sum bendingar og samansetingar av orðum</p>
+<p type="listitem">orðalagslæru og at greina setningar</p>
+<p type="listitem">at seta tekn</p>
+<p type="listitem">at síggja staðbundnan málføramun í føroyskum</p>
+<p type="listitem">at vísa á kunnleika til norðurlendsku grannamál okkara, serliga norskt og íslendskt, bæði í talu og á skrift.</p>
+</list><p type="title" xml:lang="dan">9. floksstig</p>
+<p type="title">Talaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at nýta talumálið skilliga og málsliga rætt í t.d. kjaki, samrøðu, framløgu, verkætlan og leiki</p>
+<p type="listitem">at meta um og lýsa samskifti í mun til boðbera, móttakara, miðil og støðu</p>
+<p type="listitem">at meta um munnligar framløgur hjá sær sjálvum og øðrum.</p>
+</list><p type="title">Skrivaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">grundleggjandi greining og tulking av ymiskum tekstsløgum, umframt at seta tekst í frásjón</p>
+<p type="listitem">grundleggjandi greining av skaldskapi av mannamunni</p>
+<p type="listitem">at tillaga lesihættir til lesiendamál, tekstslag og miðil, umframt at nýta ymiskar strategiir viðvíkjandi lesifatan</p>
+<p type="listitem">at meta um skrivlig avrik og framløgur hjá sær sjálvum og øðrum</p>
+<p type="listitem">at skriva ymisk fagur- og yrkisbókmentalig tekstsløg</p>
+<p type="listitem">at skriva frásøgukent, gera viðmerkingar og grundgeva</p>
+<p type="listitem">at orða seg málsliga rætt og greitt í ymiskum málsligum stíllegum við fjølbroyttum orðatilfeingi</p>
+<p type="listitem">at nýta orðabøkur, rættstavara og leitiskipanir á teldu</p>
+<p type="listitem">at nýta tekstviðgerð og framløguforrit.</p>
+</list><p type="title">Samansettir tekstir</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">grundleggjandi greining og tulking av ymiskum samansettum tekstum</p>
+<p type="listitem">at grundgeva fyri egnari nýtslu av miðlum</p>
+<p type="listitem">at greiða frá og nýta í verki ymiskar málsligar stíllegur í samansettum tekstum, so sum sms- og kjattmál</p>
+<p type="listitem">at nýta ymiskar miðlar, keldur og fagurfrøðilig amboð í egnum tekstum.</p>
+</list><p type="title">Málkunnleiki</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at vísa á grundleggjandi innlit í føroysku málskipanina</p>
+<p type="listitem">at vísa á staðbundnan málføramun í føroyskum</p>
+<p type="listitem">at vísa á innlit í føroyska málsøgu í høvuðsheitum</p>
+<p type="listitem">at vísa á málskyldskap við hini norðurlendsku málini, serliga norskt og íslendskt</p>
+<p type="listitem">at vísa á kunnleika til norðurlendsku grannamál okkara, serliga norskt og íslendskt, bæði í talu og á skrift.</p>
+</list><p type="title" xml:lang="dan">10. floksstig</p>
+<p type="title">Talaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at tosa greitt og skilliga, at kjakast og duga at leggja fram á einum málsliga rættum, beinraknum og fjølbroyttum máli</p>
+<p type="listitem">at meta og greina samskifti í mun til boðbera, móttakara, miðil og støðu.</p>
+</list><p type="title">Skrivaða málið</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">gjølliga greining og tulking av ymiskum tekstsløgum, umframt at seta tekst í frásjón</p>
+<p type="listitem">gjølliga greining av skaldskapi av mannamunni</p>
+<p type="listitem">at tillaga lesihættir til lesiendamál, tekstslag og miðil, umframt at nýta ymiskar strategiir viðvíkjandi lesifatan</p>
+<p type="listitem">at meta um skrivlig avrik og framløgur hjá sær sjálvum og øðrum</p>
+<p type="listitem">at skriva ymisk fagur- og yrkisbókmentalig tekstsløg</p>
+<p type="listitem">at orða seg málsliga rætt og greitt í ymiskum málsligum stíllegum við fjølbroyttum orðatilfeingi</p>
+<p type="listitem">at nýta orðabøkur, rættstavara og leitiskipanir á teldu</p>
+<p type="listitem">at nýta tekstviðgerð og framløguforrit.</p>
+</list><p type="title">Samansettir tekstir</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">gjølliga greining og tulking av ymiskum samansettum tekstum</p>
+<p type="listitem">at grundgeva fyri egnari nýtslu av miðlum</p>
+<p type="listitem">at greina og nýta í verki ymiskar málsligar stíllegur í samansettum tekstum, so sum sms- og kjattmál</p>
+<p type="listitem">at greiða frá og nýta ymiskar miðlar, keldur og fagurfrøðilig amboð í egnum tekstum.</p>
+</list><p type="title">Málkunnleiki</p>
+<p>Næmingurin dugir</p>
+<list><p type="listitem">at greiða frá og vísa grundleggjandi innlit í føroysku málskipanina</p>
+<p type="listitem">at greiða frá staðbundnum málføramuni í føroyskum</p>
+<p type="listitem">at greiða frá føroyskari málsøgu í høvuðsheitum</p>
+<p type="listitem">at greiða frá málskyldskapi við hini norðurlendsku málini, serliga norskt og íslendskt</p>
+<p type="listitem">at vísa á kunnleika til norðurlendsku grannamál okkara, serliga norskt og íslendskt, bæði í talu og á skrift.</p>
+</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
+<p type="title" xml:lang="dan">9. floksstig</p>
+<p type="title">Eftirmetingar</p>
+<p>Einstaki næmingurin skal ávegis og javnan eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir og royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslagið og arbeiðssemið hjá næminginum eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini.</p>
+<p>Eftirmetingarnar skulu skjalfestast skrivliga.</p>
+<p>Einstaki skúlin ger skrivligar reglur fyri, nær og hvussu eftirmetingarnar verða framdar, og hvussu eftirmetingarnar verða latnar næmingunum.</p>
+<p type="title">Próvtøkuhættir</p>
+<p>Hildnar verða ein skrivlig og ein munnlig próvtøka. Til munnligu próvtøkuna gera lærari og skúlaleiðsla av, hvørt flokkur fer til munnliga próvtøku sambært próvtøkuhátti A ella próvtøkuhátti B, synopsypróvtøkuháttinum.</p>
+<p type="title">Skrivlig próvtøka</p>
+<p>Skrivliga próvtøkan fevnir um máluppgávu og framseting.</p>
+<p>Máluppgávan fevnir um staviførleika, málførleika og lesifatan.</p>
+<p>Tíðarkarmarnir fyri royndirnar eru hesir:</p>
+<list><p type="listitem">Máluppgáva 90 minuttir</p>
+<p type="listitem">Framseting 3,5 tímar</p>
+</list><p>Uppgávurnar verða settar við støði í kjarnaøkjunum í lærugreinini!</p>
+<p>Næmingur kann leita sær hjálp á internetinum, í lærubókum, uppgávum og øðrum lærutilfari.</p>
+<p>Næmingi er ikki loyvt at samskifta við onnur enn umsjónarfólk, sum eru stødd í hølinum.</p>
+<p>Skúlastjórin kann bjóða serligar próvtøkutreytir til næming við skerdum virkisførleika, tíðarkarmurin til royndina kann tá tó í mesta lagi verða øktur við 1/3 av tíðini.</p>
+<p>Eitt samlað próvtal verður givið fyri staviførleika, málførleika og lesifatan, har hvør parturin telur 1/3.</p>
+<p>Eiitt próvtal verður givið fyri framseting.</p>
+<p type="title">Munnlig próvtøka</p>
+<p>Í seinasta lagi 1. oktober taka lærari og leiðsla skúlans avgerð um, hvørt flokkur til munnligu próvtøkuna árið eftir fer til próvtøku sambært próvtøkuhátti A ella B. Undirvísingin í lærugreinini verður skipað og løgd til rættis samsvarandi tí próvtøkuhátti, sum verður valdur.</p>
+<p type="title">Próvtøkuháttur A</p>
+<p>Próvhoyringin varir 20 minuttir, íroknað próvdøming. Fyrireikingartíðin er 40 minuttir, íroknað útflýggjan av tilfari og vegleiðing.</p>
+<p>Próvtøkuspurningarnir verða settir við støði í evnum, økjum o.tíl., bæði úr kjarnaøkjum og ískoytiøkjum, sum hava verið viðgjørd í 8. og 9. flokki. Próvhoyringin fevnir um framløgu próvtakarans, upplestur og fakliga samtalu millum próvtakara og próvhoyrara. Samtalan tekur støði í framløgu og viðgerð próvtakarans av tilfari, sum er knýtt at próvtøkuspurninginum, og sum próvtakarin hevur arbeitt við í fyrireikingartíðini.</p>
+<p>Próvtakarin verður próvhoyrdur í lisnum og ólisnum tilfari, sum kann fevna um styttri tekstir, brot úr størri bókmentaverki ella onnur tekstsløg (filmar, myndir o.s.fr.). Høvuðsdenturin í próvhoyringini verður lagdur á ólisna próvtøkutilfarið.</p>
+<p>At lesa upp velur næmingurin eitt brot úr próvtøkuupplegginum, ið svarar til uml. 1/3 ns. Er próvtøkuuppleggið annað tekstslag enn skrivaður tekstur, velur lærarin ein tekst til næmingin at lesa upp.</p>
+<p>Próvtøkutilfar og próvtøkuspurningar verða send próvdómaranum til góðkenningar sambært próvtøkukunngerðini.</p>
+<p type="title">Dømingargrundarlag í sambandi við at próvtøkuháttur A verður nýttur</p>
+<p>Próvhoyrt verður í lisnum og ólisnum tilfari, og ólisna tilfarið skal vera valt soleiðis, at tað í tema ella á annan hátt er knýtt at evnum, økjum o.tíl., sum arbeitt hevur verið við í undirvísingini í 8. og 9. flokki. Lisna tilfarið, ið er próvtøkugrundarlag undir munnligu próvtøkuni, fevnir um 80-100 ns av styttri tekstum á bundnum máli, óbundnum máli og yrkisbókmentum. Tekstirnir skulu vera bæði av eldri og yngri uppruna, og skulu í síni heild síggja til, at øll faklig mál í lærugreinini eru umboðað. Harumframt verða til próvtøku givin upp tvey ritverk, har annað skal vera føroyskt upprunaverk, t.d. skaldsøga, yrkingasavn, eitt langt kvæði, leikrit ella eitt yrkisrit..</p>
+<p>Lisna og ólisna tilfarið skulu vera skyld í evni, tíðarhøpi ella tekstslag. Ólisna tilfarið, sum er umleið 3 normalsíður ella samsvarandi tí, skal greinast og tulkast. Ein normalsíða er 1300 bókstavir. Lisna tilfarið verður brúkt til at seta ólisna tilfarið í samanhang. Próvtakarin skal við støði í fakligari tilgongd og støðisførleikum sýna evni sjálvstøðugt at leggja fram og viðgera tilfar við støði í próvtøkuspurninginum. Próvtakarin skal sýna, at hann dugir at taka fram týðandi tættir í tilfarinum, seta teir í samband við tættir í undirvísingini og seta próvtøkutilfarið í frásjón.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans. Í metingini skal størri denturin verða lagdur á evni próvtakarans at viðgera ólisna tilfarið.</p>
+<p type="title">Próvtøkuháttur B – synopsupróvtøkuháttur</p>
+<p>Próvtøkuháttur B er synopsupróvtøkuhátturin, har næmingurin fer í dýpdina við evninum, áðrenn farið verður upp til próvtøku.</p>
+<p>Fakligu økini í próvtøkuhátti B eru tey somu sum í próvtøkuhátti A, men tilgongdin er øðrvísi, t.e. val av tilfari í sambandi við próvtøkuna og fyrireikingin til próvtøkuna.</p>
+<p>Munnliga próvtøkan varir 24 minuttir, íroknað próvdøming. Eingin fyrireikingartíð er.</p>
+<p>Próvhoyringin verður skipað við framløgu, upplestri og samrøðu millum próvtakara og próvhoyrara/próvdómara.</p>
+<p>Í framløguni skal próvtakarin lýsa arbeiðið og arbeiðstilgongdina. At lesa upp hevur próvtakarin valt eitt tekstbrot, ið svarar til uml. 1/3 normalsíðu. Er próvtøkuuppleggið annað tekstslag enn skrivaður tekstur, velur próvtakarin tekstbrot úr einum prosateksti at lesa upp.</p>
+<p>Próvhoyringin tekur støði í framløgu próvtakarans av próvtøkutekstinum og í fakligari samtalu millum próvhoyrara og próvtakara.</p>
+<p type="title">Dømingargrundarlag í sambandi við at próvtøkuháttur B verður nýttur</p>
+<p>Próvhoyrt verður í lisnum og ólisnum tilfari, og ólisna tilfarið skal vera valt soleiðis, at tað í tema ella á annan hátt er knýtt at evnum, økjum o.tíl., sum arbeitt hevur verið við í undirvísingini í 8. og 9. flokki. Lisna tilfarið, ið er próvtøkugrundarlag undir munnligu próvtøkuni, fevnir um um 80-100 ns av styttri tekstum á bundnum og óbundnum máli, umframt yrkisbókmentum. Tekstirnir skulu vera bæði av eldri og yngri uppruna, og skulu í síni heild síggja til, at øll faklig mál í lærugreinini eru umboðað. Harumframt verða til próvtøku givin upp tvey ritverk, har tað eina skal vera føroysk upprunaverk, t.d. skaldsøga, yrkingasavn, leikrit, eitt langt kvæði ella eitt yrkisrit.</p>
+<p>Lisna tilfarið, og tilfarið, sum næmingurin sjálvur hevur valt at arbeiða við til próvtøkuna, skulu vera skyld í evni, tíðarhøpi ella tekstslag. Sjálvvalda tilfarið, sum kann vera 3-10 ns ella samsvarandi tí, skal greinast og tulkast. Ein normalsíða er 1300 bókstavir. Lisna tilfarið verður brúkt til at seta ólisna tilfarið í samanhang.</p>
+<p>Í metingini av synopsu próvtakarans verður hugt eftir, hvussu væl synopsan er skipað, eitt nú við atliti at greidleika, innihaldi, málburði, keldulista, stav- og teknseting.</p>
+<p>Í metingini av munnligu framløguni verður dentur lagdur á greiðan málburð, fjølbroytta og trygga nýtslu av viðkomandi hugtøkum, at framløgan er samanhangandi og at upplesturin er greiður og flótandi og vísir persónligu fatan próvtakarans av tí lisna.</p>
+<p>Í samlaðu metingini verður dentur lagdur á evni próvtakarans at tulka tekst, meta um hann og at seta hann í frásjón, umframt evnini at lýsa samspælið millum mál, innihald, tekstslag og høpi. Eisini verður mett um greinandi førleikar próvtakarans í sambandi við bókmentir og onnur tekstsløg.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans. Í metingini verður størri denturin lagdur á munnligu framløgu próvtakarans.</p>
+<p type="title">Próvtalslýsingar</p>
+<p type="title">Føroyskt skrivligt í 9. flokki</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p xml:lang="dan">Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Málburðurin er smidligur, fjølbroyttur og rættur við ongum ella bert fáum týdningarleysum villum. Næmingurin er kunnigur við tekstslag, heldur seg til evnið og byggir avrikið skilvíst upp. Næmingurin handfer bæði stavseting og teknseting á tryggan hátt. Innihaldið er ríkt og sera væl skipað, bæði í mun til innihald og tekstslag. Onkur smávegis, men týdningarleys lýti kunnu koma fyri.</p>
+<p>Gott</p>
+<p>Málburðurin er skilligur, tó við fleiri villum. Næmingurin er sum heild kunnigur við tekstslag. Næmingurin handfer stavseting, teknseting og setningsbygnað á hampiliga tryggan hátt. Innihaldið er hampiliga væl skipað, bæði í mun til innihald og tekstslag. Onkur lýti kunnu koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Málburðurin er heldur veikur við fleiri sjónskum villum. Kunnleikin til tekstsløg er ivasamur. Næmingurin er heldur trilvandi, tá ið tað snýr seg um stavseting, teknseting og setningsbygnað. Próvførslan er grunn, og avrikið er illa bygt upp. Næmingurin viðger evnið – harumframt tekstin – sera trilvandi, men tó á nóg góðan hátt. Næmingurin hevur lítið innlit í lærugreinina og hevur heldur ikki tak á háttalagi. Megnar illa at nýta vitan og hugtøk úr lærugreinini.</p>
+<p type="title">Føroyskt munnligt í 9. flokki, tá ið próvtøkuháttur A verður nýttur</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p xml:lang="dan">Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Munnliga framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Framløgan er væl skipað. Fá og týdningarleys lýti kunnu koma fyri</p>
+<p>Gott</p>
+<p>Munnliga framløgan er samanhangandi og væl skipað. Málið í framløguni er skilligt og fjølbroytt. Tulkingin er góð, við greinandi eygleiðingum. Næmingurin brúkar tey amboð, ið natúrliga eru knýtt at føroysklærugreinini, og er virkin í fakligu samrøðuni. Sjónarmiðini eru týðilig, og meting næmingsins av próvtilfarinum er væl grundað. Framsetingin er hóskandi skipað. Onkur lýti koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Munnliga framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men málsliga veik. Greiningin er veik og tulkingin ógreið. Evnini at síggja sambond millum mál, innihald og tekstslag eru veik. Næmingurin er við í fakligu samrøðuni. Týðandi lýti koma fyri.</p>
+<p type="title">Føroyskt munnligt í 9. flokki, tá ið próvtøkuháttur B verður nýttur</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p xml:lang="dan">Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Munnliga framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Synopsan er framúr væl skipað og orðað, og próvtakarin evnar greidliga at taka fram týðandi tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Fá og týdningarleys lýti kunnu koma fyri</p>
+<p>Gott</p>
+<p>Munnliga framløgan er samanhangandi og væl skipað. Málið í framløguni er skilligt og fjølbroytt. Tulkingin er góð, við greinandi eygleiðingum. Næmingurin brúkar tey amboð, ið natúrliga eru knýtt at føroysklærugreinini, og er virkin í fakligu samrøðuni. Sjónarmiðini eru týðilig. Synopsan væl skipað og orðað, og próvtakarin evnar at taka fram tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Onkur lýti koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Munnliga framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men málsliga veik. Greiningin er veik og tulkingin ógreið. Evnini at síggja sambond millum mál, innihald og tekstslag eru veik. Synopsan er heldur veikt orðað og skipað, og próvtakarin evnar so </p>
+<p type="title" xml:lang="dan">10. floksstig</p>
+<p type="title">Eftirmetingar</p>
+<p>Einstaki næmingurin skal ávegis og javnan eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir og royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslagið og arbeiðssemið hjá næminginum eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini.</p>
+<p>Eftirmetingarnar skulu skjalfestast skrivliga.</p>
+<p>Einstaki skúlin ger skrivligar reglur fyri, nær og hvussu eftirmetingarnar verða framdar, og hvussu eftirmetingarnar verða latnar næmingunum.</p>
+<p type="title">Próvtøkuhættir</p>
+<p>Hildnar verða ein skrivlig og ein munnlig próvtøka. Til munnligu próvtøkuna gera lærari og skúlaleiðsla av, hvørt flokkur fer til munnliga próvtøku sambært próvtøkuhátti A ella próvtøkuhátti B, synopsypróvtøkuháttinum.</p>
+<p type="title">Skrivlig próvtøka</p>
+<p>Skrivliga próvtøkan er ein uppgáva í framseting.</p>
+<p>Skrivliga próvtøkan varir 4 tímar, og uppgávurnar í upptøkuraðnum verða settar í kjarnaøkjum í lærugreinini.</p>
+<p>Loyvt er at nýta hjálparmiðlar.</p>
+<p type="title">Dømingargrundarlag í sambandi við skrivligu próvtøkuna</p>
+<p>Í dømingini av framsetingini verður dentur lagdur á, í hvønn mun próvtakarin lýkur tey mál, sum eru sett í lærugreinini. Próvtakarin skal duga at taka fram týðandi tættir í tilfarinum, skipa svarið miðvíst, síggja próvtøkutilfarið í frásjón og orða seg rætt, fimt og fjølbroytt.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans í framseting.</p>
+<p type="title">Munnlig próvtøka</p>
+<p>Í seinasta lagi 1. oktober taka lærari og leiðsla skúlans avgerð um, hvørt flokkur til munnligu próvtøkuna árið eftir fer til próvtøku sambært próvtøkuhátti A ella B. Undirvísingin í lærugreinini verður skipað og løgd til rættis samsvarandi tí próvtøkuhátti, sum verður valdur.</p>
+<p type="title">Próvtøkuháttur A</p>
+<p>Próvhoyringin varir 20 minuttir, íroknað próvdøming. Fyrireikingartíðin er 40 minuttir, íroknað útflýggjan av tilfari og vegleiðing.</p>
+<p>Próvtøkuspurningarnir verða settir við støði í evnum, økjum o.tíl., bæði úr kjarnaøkjum og ískoytiøkjum, sum hava verið viðgjørd í 10. flokki. Próvhoyringin fevnir um framløgu próvtakarans, upplestur og fakliga samtalu millum próvtakara og próvhoyrara. Samtalan tekur støði í framløgu og viðgerð próvtakarans av tilfari, sum er knýtt at próvtøkuspurninginum, og sum próvtakarin hevur arbeitt við í fyrireikingartíðini.</p>
+<p>Próvtakarin verður próvhoyrdur í lisnum og ólisnum tilfari, sum kann fevna um styttri tekstir, brot úr størri bókmentaverki ella onnur tekstsløg (filmar, myndir o.s.fr.). Høvuðsdenturin í próvhoyringini verður lagdur á ólisna próvtøkutilfarið.</p>
+<p>At lesa upp velur næmingurin eitt brot úr próvtøkuupplegginum, ið svarar til umleið 1/3 ns. Er próvtøkuuppleggið annað tekstslag enn skrivaður tekstur, velur lærarin ein tekst til næmingin at lesa upp.</p>
+<p type="title">Dømingargrundarlag í sambandi við at próvtøkuháttur A verður nýttur</p>
+<p>Próvhoyrt verður í lisnum og ólisnum tilfari, og ólisna tilfarið skal vera valt soleiðis, at tað í tema ella á annan hátt er knýtt at evnum, økjum o.tíl., sum arbeitt hevur verið við í undirvísingini í 10. flokki. Lisna tilfarið, ið er próvtøkugrundarlag undir munnligu próvtøkuni, fevnir um 100-120 ns av styttri tekstum á bundnum máli, óbundnum máli og yrkisbókmentum. Tekstirnir skulu vera b�</p>
+<p>Lisna og ólisna tilfarið skulu vera skyld í evni, tíðarhøpi ella tekstslag. Ólisna tilfarið, sum er umleið 4 normalsíður ella samsvarandi tí, skal greinast og tulkast. Ein normalsíða er 1300 bókstavir. Lisna tilfarið verður brúkt til at seta ólisna tilfarið í samanhang.</p>
+<p>Próvtakarin skal við støði í fakligari tilgongd og støðisførleikum sýna evni sjálvstøðugt at leggja fram og viðgera tilfar við støði í próvtøkuspurninginum. Próvtakarin skal sýna, at hann dugir at taka fram týðandi tættir í tilfarinum, seta teir í samband við tættir í undirvísingini og seta próvtøkutilfarið í frásjón.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans. Í metingini skal størri denturin verða lagdur á evni próvtakarans at viðgera ólisna tilfarið.</p>
+<p type="title">Próvtøkuháttur B – synopsupróvtøkuháttur</p>
+<p>Próvtøkuháttur B er synopsupróvtøkuhátturin, har næmingurin fer í dýpdina við evninum, áðrenn farið verður upp til próvtøku.</p>
+<p>Fakligu økini í próvtøkuhátti B eru tey somu sum í próvtøkuhátti A, men tilgongdin er øðrvísi, t.e. val av tilfari í sambandi við próvtøkuna og fyrireikingin til próvtøkuna.</p>
+<p>Munnliga próvtøkan varir 24 minuttir, íroknað próvdøming. Eingin fyrireikingartíð er.</p>
+<p>Próvhoyringin verður skipað við framløgu, upplestri og samrøðu millum próvtakara og próvhoyrara/próvdómara.</p>
+<p>Í framløguni skal próvtakarin lýsa arbeiðið og arbeiðstilgongdina. At lesa upp hevur próvtakarin valt eitt tekstbrot, ið svarar til uml. 1/3 normalsíðu. Er próvtøkuuppleggið annað tekstslag enn skrivaður tekstur, velur próvtakarin tekstbrot úr einum prosateksti at lesa upp.</p>
+<p>Próvhoyringin tekur støði í framløgu próvtakarans av próvtøkutekstinum og í fakligari samtalu millum próvhoyrara og próvtakara.</p>
+<p type="title">Dømingargrundarlag í sambandi við at próvtøkuháttur B verður nýttur</p>
+<p>Próvhoyrt verður í lisnum og ólisnum tilfari, og ólisna tilfarið skal vera valt soleiðis, at tað í tema ella á annan hátt er knýtt at evnum, økjum o.tíl., sum arbeitt hevur verið við í undirvísingini í 10. flokki. Lisna tilfarið, ið er próvtøkugrundarlag undir munnligu próvtøkuni, fevnir um um 100-120 ns av styttri tekstum á bundnum og óbundnum máli, umframt yrkisbókmentum. Tekstirnir skulu vera bæði av eldri og yngri uppruna, og skulu í síni heild síggja til, at øll faklig mál í lærugreinini eru umboðað. Harumframt verða til próvtøku givin upp tvey ritverk, har tað eina skal vera føroysk upprunaverk, t.d. skaldsøga, yrkingasavn, leikrit, eitt langt kvæði ella eitt yrkisrit.</p>
+<p>Lisna tilfarið, og tilfarið, sum næmingurin sjálvur hevur valt at arbeiða við til próvtøkuna, skulu vera skyld í evni, tíðarhøpi ella tekstslag. Sjálvvalda tilfarið, sum kann vera 3-10 ns ella samsvarandi tí, skal greinast og tulkast. Ein normalsíða er 1300 bókstavir. Lisna tilfarið verður brúkt til at seta sjálvvalda tilfarið í samanhang.</p>
+<p>Í metingini av synopsu próvtakarans verður hugt eftir, hvussu væl synopsan er skipað, eitt nú við atliti at greidleika, innihaldi, málburði, keldulista, stav- og teknseting.</p>
+<p>Í metingini av munnligu framløguni verður dentur lagdur á greiðan málburð, fjølbroytta og trygga nýtslu av viðkomandi hugtøkum, at framløgan er samanhangandi og at upplesturin er greiður og flótandi og vísir persónligu fatan próvtakarans av tí lisna.</p>
+<p>Í samlaðu metingini verður dentur lagdur á evni próvtakarans at tulka tekst, meta um hann og at seta hann í frásjón, umframt evnini at lýsa samspælið millum mál, innihald, tekstslag og høpi. Eisini verður mett um greinandi førleikar próvtakarans í sambandi við bókmentir og onnur tekstsløg.</p>
+<p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans. Í metingini verður størri dentur</p>
+<p type="title">Próvtalslýsingar</p>
+<p type="title">Føroyskt skrivligt í 10. flokki</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p xml:lang="dan">Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Málburðurin er smidligur, fjølbroyttur og rættur við ongum ella bert fáum týdningarleysum villum. Næmingurin er kunnigur við tekstslag, heldur seg til evnið og byggir avrikið skilvíst upp. Næmingurin handfer bæði stavseting og teknseting á tryggan hátt. Innihaldið er ríkt og sera væl skipað, bæði í mun til innihald og tekstslag. Onkur smávegis, men týdningarleys lýti kunnu koma fyri.</p>
+<p>Gott</p>
+<p>Málburðurin er skilligur, tó við fleiri villum. Næmingurin er sum heild kunnigur við tekstslag. Næmingurin handfer stavseting, teknseting og setningsbygnað á hampiliga tryggan hátt. Innihaldið er hampiliga væl skipað, bæði í mun til innihald og tekstslag. Onkur lýti kunnu koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Málburðurin er heldur veikur við fleiri sjónskum villum. Kunnleikin til tekstsløg er ivasamur. Næmingurin er heldur trilvandi, tá ið tað snýr seg um stavseting, teknseting og setningsbygnað. Próvførslan er grunn, og avrikið er illa bygt upp. Næmingurin viðger evnið – harumframt tekstin – sera trilvandi, men tó á nóg góðan hátt. Næmingurin hevur lítið innlit í lærugreinina og hevur heldur ikki tak á háttalagi. Megnar illa at nýta vitan og hugtøk úr lærugreinini.</p>
+<p type="title">Føroyskt munnligt í 10. flokki, tá ið próvtøkuháttur A verður nýttur</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p xml:lang="dan">Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Munnliga framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Framløgan er væl skipað. Fá og týdningarleys lýti kunnu koma fyri</p>
+<p>Gott</p>
+<p>Munnliga framløgan er samanhangandi og væl skipað. Málið í framløguni er skilligt og fjølbroytt. Tulkingin er góð, við greinandi eygleiðingum. Næmingurin brúkar tey amboð, ið natúrliga eru knýtt at føroysklærugreinini, og er virkin í fakligu samrøðuni. Sjónarmiðini eru týðilig, og meting næmingsins av próvtilfarinum er væl grundað. Framsetingin er hóskandi skipað. Onkur lýti koma fyri.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Munnliga framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men málsliga veik. Greiningin er veik og tulkingin ógreið. Evnini at síggja sambond millum mál, innihald og tekstslag eru veik. Næmingurin er við í fakligu samrøðuni. Týðandi lýti koma fyri.</p>
+<p type="title">Føroyskt munnligt í 10. flokki, tá ið próvtøkuháttur B verður nýttur</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p xml:lang="dan">Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Munnliga framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Synopsan er framúr væl skipað og orðað, og próvtakarin evnar greidliga at taka fram týðandi tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Fá og týdningarleys lýti kunnu koma fyri</p>
+<p>Gott</p>
+<p>Munnliga framløgan er samanhangandi og væl skipað. Málið í framløguni er skilligt og fjølbroytt. Tulkingin er góð, við greinandi eygleiðingum. Næmingurin brúkar tey amboð, ið natúrliga eru knýtt at føroysklæ</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Munnliga framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men málsliga veik. Greiningin er veik og tulkingin ógreið. Evnini at síggja sambond millum mál, innihald og tekstslag eru veik. Synopsan er heldur veikt orðað og skipað, og próvtakarin evnar so dánt at taka fram tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Næmingurin er við í fakligu samrøðuni. Týðandi lýti koma fyri.</p>
+<p type="title">7. At skipa undirvísing</p>
+<p>Í hesum parti av námsætlanini verður í stuttum greitt frá teimum didaktisku meginreglum, ið eru støði undir skipan av undirvísing. Hvør einstøk námsætlan myndar didaktiska sjónarmiðið, og saman mynda allar námsætlanirnar tann felags didaktiska pallin, har undirvísing verður útint.</p>
+<p>Undirvísingin tekur altíð støði í teimum førleikum, ið næmingurin hevur við sær av tí stigi, hann kemur. Námsætlan og útbúgvingarbygnaður skulu tryggja, at fortreytir fyri fjøltáttaðari undirvísing eru til staðar.</p>
+<p type="title">Didaktiskar meginreglur</p>
+<p>Í undirvísingini er umráðandi, at førleikarnir <em type="italic">at lurta </em>, <em type="italic">at tala </em>, <em type="italic">at lesa </em>og <em type="italic">at skriva </em>renna saman í eina heild. Í teirri ávísu undirvísingargongdini ber til at leggja høvuðsdent á eitt av kjarnaøkjunum, tað kann vera <em type="italic">talaða málið </em>, <em type="italic">skrivaða málið </em>, <em type="italic">samansettar tekstir </em>ella <em type="italic">málkunnleika </em>. </p>
+<p>Av stórum týdningi er tað, at kjarnaøkini umskarast, tá ið tað ber til, og tá ið tað verður mett at vera hóskandi. Sum dømi kundu partar úr kjarnaøkinum <em type="italic">málkunnleiki </em>verið samskipaðir við pørtum úr kjarnaøkinum <em type="italic">skrivaða málið </em>. Á tann hátt kundi vitan um málsøgu verið við til at gjørt fatanina av eldri føroyskum tekstum meira fjøltáttaða, samstundis sum vitan um málsins bygnað t.d. kundi verið nýtt í tekstgreining. </p>
+<p>Munnligi tátturin skal vera raðfestur høgt, og samrøðan er kjarnin í hesum tátti. Munnligar framløgur skulu skipast inn í undirvísingartilgongdina, so næmingurin stigvíst venur seg við at leggja fram. Dentur verður lagdur á, at næmingurin sameinir munnligar framløgur við egin skrivlig verk, nýtslu av KT-amboðum, ymiskar samskiftishættir o.s.fr. Á tann hátt verður retoriski førleikin hjá næminginum mentur.</p>
+<p>Skrivligi tátturin skal eins og tann munnligi í stóran mun vera skipaður inn í dagligu undirvísingina og í fakligu heildina. Á henda hátt kann næmingurin menna seg í skrivitilgongdini og í stigum ogna sær góðar skriviførleikar. Somuleiðis skal verða borið so í bandi, at skrivlig avrik í øðrum lærugreinum eisini kunnu vera partur av skrivligum avrikum í lærugreinini føroyskum. Umframt at hetta styrkir um tvørfakliga samstarvið, gevur tað næminginum eina greiðari fatan av tí týdningi, skriviførleiki hevur fyri alt skrivligt samskifti, og samstundis mennir tað evnini hjá næminginum at orða seg bæði munnliga og skrivliga.</p>
+<p type="title">Stigvøkstur</p>
+<p>Stigvøkstur merkir støðuga framtøku av einum lægri stigi á eitt hægri. Í læringartilgongdini verður farið frá tí lætta til tað torføra, frá tí einfalda til tað torgreidda og frá tí ítøkiliga til tað úrtøkiliga. Stigvøksturin er oftast tíðartreytaður. Undir stigvøkstrinum liggur eisini kravið um vaksandi ábyrgd og virknari luttøku. Umráðandi er í hesum sambandi, at ljós verður varpað á teir leiklutir, sum næmingur og lærari kunnu hava hvør sær. Samrátt verður um, hvat ið er best at gera, og hvussu hetta verður gjørt, so næmingurin fær ávirkan á undirvísingina og á egnu læring.</p>
+<p>Stigvøksturin kemur serstakliga til sjóndar í teimum førleikamálum, sum lýst eru í námsætlanin</p>
+<p type="title">At læra at læra</p>
+<p>Næmingurin skal gerast tilvitaður um, hvat tað í grundini er at læra, og hvat endamálið við læringini er. Eisini skal næmingurin gerast tilvitaður um ymiskar læringarhættir.</p>
+<p>Undirvísingin skal sostatt ikki bert savna seg um tað, sum lært verður, men eisini um, hvussu lært verður. Umráðandi er, at hugtakið <em type="italic">læring </em>verður lýst og viðgjørt í flokkinum, so næmingurin gerst tilvitaður um, hvat hugtakið ber í sær. Næmingurin skal regluliga gerast varugur við, hvussu læringartilgondin er ætlað, og hann skal verða eggjaður til at umhugsa sína egnu støðu í henni. Dentur skal eisini leggjast á heimaarbeiði, og tann týðandi leiklut hetta hevur í fakligu menningini. </p>
+<p>Næmingurin skal frá fyrsta degi skilja tann týdning sum lærugreinin føroyskt hevur fyri skynsemið. Tá ið arbeitt verður við ymiskum sløgum av tekstum, verða ymiskir førleikar mentir. Næmingurin skal fáa greiða fatan av, hvat hesir førleikar kunnu verða brúktir til, eisini uttan fyri skúlans gátt. Undirvísingin í føroyskum skal gera næmingin tilvitaðan um, at hann í lærugreinini mennist og gerst førur fyri at arbeiða greinandi og kritiskt við teimum ymisku sløgunum av tekstum, skrivaðum eins væl og munnligum. Eisini skal næmingurin verða tilvitaður um, at hann í lærugreinini føroyskum mennir sær førleikarnar at koma til orðanna í nógvum ymiskum tekstsløgum og samskiftisstøðum.</p>
+<p type="title">Arbeiðshættir</p>
+<p>Arbeiðshættir skulu veljast so, at teir eru við til at røkka teimum málum, ið sett eru. Í øllum kjarnaøkjum er umráðandi at leggja arbeiðið til rættis so, at ein líðandi stigvøkstur verður tryggjaður. Hetta verður m.a. gjørt við, at týðandi tekstir og tekstsløg verða tikin upp í undirvísingina.</p>
+<p>Í føroyskum skulu ymiskir arbeiðshættir verða nýttir so, at fjølbroytni í lærugreinini kann verða framt miðvíst. Arbeiðshættir kunnu fevna um lærarafyrilestur, einstaklingsverkevni, næmingaframløgu, samrøður í flokkinum, bólka- og toymisarbeiði, verkætlanarevni o.tíl. Tá ið arbeiðshættir verða valdir og lagdir til rættis, er eyðsæð, at lærarin hugsar um stigvøkstur í undirvísingarhættunum, har byrjað verður við lærarastýrdari undirvísing. So hvørt sum næmingarnir búnast og gerast meira sjálvstøðugir, verður hesin lærarastýrdi undirvísingarformur at minka.</p>
+<p>Næmingarnir skulu ikki einans duga at fyrihalda seg til boðskap <em type="italic">úr </em>tekstum, <em type="italic">frá </em>lærara og floksfeløgunum, men í eins stóran mun duga at miðla vitan og boðskap <em type="italic">til </em>lærara, floksfelagar og móttakarar uttan fyri flokshølið umframt skúlans gátt. </p>
+<p>Arbeiðshættirnir eru tískil neyvt samantvinnaðir við serligum atliti at, hvussu bæði munnligi og skrivligi tátturin verða útintir.</p>
+<p>Endamálið við teimum ymsu arbeiðsháttunum er at menna aðrar førleikar enn teir reint fakligu, tað eru førleikar sum t.d. at leita upp og ogna sær viðkomandi vitan, at granska, at arbeiða sjálvstøðugt, at seta sær mál og at arbeiða evnislagað og miðvíst, at arbeiða tíðaravmarkað, at samstarva, at samhugsa, at brúka og hugsa vitan í nýggjum høpi, at leggja til rættis og evna til eitt avrik, at gera uppgávuorðingar, at brúka ymisk háttaløg, at hugsa nýtt og verkseta, at hugsa djúpari og breiðari um ávíst evni, umframt at taka á seg ábyrgd og hava virðing.</p>
+<p>Lærari má altíð gera sær sjálvum og næmingum greitt, hvat endamálið við ávísum arbeiðshátti er.</p>
+<p type="title">Samstarv</p>
+<p>Lærugreinin føroyskt er partur av yvirskipaða kravinum um samstarv millum tvær ella fleiri lærugreinir. Samstarvast skal við ymiskar lærugreinir um ymisk evni, eitt nú menning av skapandi evnum og KT-førleikum, undirvísing í føroyskari søgu, tekstframleiðslu, bókmentaligum hugtøkum og almennari málfrøði og máls</p>
+<p>Tvørfakligt samstarv kann vera meira ella minni bindandi – frá fullkomnari samkoyring millum lærugreinir við felags tímum og felags tvørfakligum verkætlanum, til bert at fevna um avtalur millum lærarar um at fylgjast í lesnaði (lesa parallelt), t.e. at taka upp somu evni í fleiri lærugreinum samstundis, og soleiðis geva næmingunum fleiri ymiskar tilgongdir til sama spurning.</p>
+<p>Tvær høvuðsgrundgevingar eru fyri tvørfakligum samstarvi: 1) ein almenn, ið snýr seg um førleikarnar, næmingurin skal ogna sær og bjóða fram á arbeiðsmarknaðinum, og 2) ein námsfrøðilig, ið snýr seg um skiftandi arbeiðshættir og at geva næminginum innlit í tvørfakligar samanhangir.</p>
+<p>Tvørfakligt samstarv skal hjálpa næminginum at síggja lærugreinarnar sum partar av størri heild og letur samstundis upp fyri øðrum og víðari sjónarmiðum. Harumframt eru evnini at samstarva og síggja samanhangir avgerandi, tá ið næmingurin fer undir víðari lestur ella út á arbeiðsmarknaðin.</p>
+<p type="title">Skrivlig avrik</p>
+<p>Skrivligi parturin letur upp fyri tvørfakligum samstarvi og við tí øðrvísi skrivligum avrikum. Heldur enn at lata eitt avrik inn, bara í føroyskum, kann talan verða um tvørfakligt samstarv, t.d. eina blaðútgávu, eina tvørfakliga ritgerð, ella eina heimasíðu.</p>
+<p>Ein grundgeving fyri at skrivligt arbeiði kann vera partur av tvørfakligum samstarvi er, at næmingurin lærir, at tað at skriva væl (t.e. greitt og uttan stórvegis villur) ikki bara er eitt krav í lærugreinini føroyskum, men eitt alment krav, ið er knýtt at øllum skrivligum samskifti.</p>
+<p>Næmingurin skal hava venjing í at skriva, so at hann eisini skrivliga kann vera partur av toymisarbeiði og verkætlanum. Á tann hátt kann næmingurin mennast til at geva og taka ímóti viðmerkingum til skrivligu uppritini, sum verða løgd fram, á mennandi hátt. Kunningartøknin letur upp fyri munagóðum og ítøkiligum møguleikum í sambandi við vegleiðing og umrøðu í sjálvari skrivitilgongdini.</p>
+<p type="title">Samrøða</p>
+<p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri móðurmálinum sum eitt intellektuelt amboð, ið skal víðka sjónarringin hjá næminginum. Allir flokkar skulu tí gera royndir við málinum, eitt nú við sínámillum tosi og við tí at siga frá.</p>
+<p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðatilfeingi og talugávur verða ment. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
+<p type="title" xml:lang="dan">Lesing</p>
+<p>Næmingurin skal haldast til at lesa nógv, bæði í skúlanum og framíhjá. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini.</p>
+<p type="title" xml:lang="dan">Lívlong læring</p>
+<p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
+<list><p type="listitem" xml:lang="dan">All rights reserved</p>
+<p type="listitem" xml:lang="dan">Contact us</p>
+<p type="listitem">Sitemap</p>
+<p type="listitem">Legal</p>
+</list></body></document>

@@ -1,0 +1,1391 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>18837</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2001.04 Til menning og til mátt kunningartøkni framhaldsútbúgvingum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="dan">T I L   M E N N I N G   O G   T I L   M Á T T</p>
+<p xml:lang="dan">INNGANGUR<em type="italic"></em> </p>
+<p>1.1 Kunningarsamfelagið</p>
+<p>1.2 Avbjóðingin hjá skúlunum</p>
+<p xml:lang="dan">NEVNDARARBEIÐIÐ<em type="italic"></em> </p>
+<p>2.1 Tilnevning og setningur</p>
+<p>2.2 Ymsir tættir í nevndararbeiðinum</p>
+<p>NÁMSFRØÐILIGIR TÆTTIR<em type="italic"></em> </p>
+<p>3.1 Tíðarrák</p>
+<p>3.2 Krøv til útbúgving og undirvísing</p>
+<p>3.3 »Eg haldi, at eg kanska ikki eri motiverað í dag«</p>
+<p>3.4 Tann »lærandi« skúlin</p>
+<p>3.5 Lærandi ungdómurin</p>
+<p xml:lang="dan">3.6 »...utvecklingen beror inte på användingen av datorer«</p>
+<p>3.7 Hvat eigur so at eyðkenna kunningartøkniligan førleika?</p>
+<p>KUNNINGARTØKNI Á ÚTBÚGVINGARSTOVNINUM<em type="italic"></em> </p>
+<p>4.1 Útgerð sum heild</p>
+<p xml:lang="dan">4.2 Net, nærnet og internet</p>
+<p>4.3 Ritbúnaður</p>
+<p>4.4 Hugsjónir</p>
+<p>4.5 Dømi um KT-nýtslu í undirvísingini</p>
+<p>4.6 Førleikakrøv</p>
+<p>FORTREYTIRNAR FYRI KT-NÝTSLU Í SKÚLUNUM<em type="italic"></em> </p>
+<p>5.1 Eftirútbúgving av lærarunum</p>
+<p>5.2 Vegleiðarar í KT-kortinum</p>
+<p>5.3 Menningarætlanir</p>
+<p>5.4 KT-útbúgvingar á hægri stigi</p>
+<p>5.5 Siðsemiligir spurningar</p>
+<p>5.6 Tøknin</p>
+<p>TILMÆLI NEVNDARINNAR<em type="italic"></em> </p>
+<p>6.1 Tilmælini</p>
+<p>1. KT-depilin, samskifti og skúlanet</p>
+<p xml:lang="dan">2. Eftirútbúgving</p>
+<p>3. KT-vørða útbúgving</p>
+<p>4. Hægri KT-útbúgving</p>
+<p>5. KT-grunnur</p>
+<p>6. KT og skúlaleiðsla</p>
+<p>7. Endurnýggjan av KT-útgerð á skúlunum</p>
+<p>8. Tilfar í undirvísingini</p>
+<p>9. Reglugerðir</p>
+<p>6.2 Tíðar- og rakstrarætlan 2001–2005</p>
+<p>SAMANDRÁTTUR<em type="italic"></em> </p>
+<p>FYLGISKJØL<em type="italic"></em> </p>
+<p><em type="bold">1</em> </p>
+<p xml:lang="dan">INNGANGUR</p>
+<p>Í fleiri ár hevur verið tosað og skrivað um broytingarnar, ið føra okkum inn í sonevnda kunningarsamfelagið. Aftanfyri hetta heitið liggur ein nýggj støða, har ein víttfevnandi menning innan tøknina spríkir út í allar krókar í samfelagnum og eftir stuttari tíð kollveltir stóran part av tilveru okkara, bæði á arbeiðsplássunum og í frítíðini.</p>
+<p>Forteytirnar fyri hesi tøkniligu menning eru at finna í sera skjótu útbreiðsluni av kunningartøkni. Sambært seinastu uppgerðunum eru til dømis 45-50% av føroysku húsarhaldunum knýtt í internetið, fleiri enn 14.000 hava fartelefon, og 400-500 føroyskar fyritøkur hava heimasíðu. Fyri 5 árum síðani vóru hesir møguleikar ikki til. Politiskt er latið upp fyri kapping á fjarskiftisøkinum, soleiðis at vit í skrivandi stund hava fleiri útbjóðarar. Ongin ivi kann vera um, at kappingin sum heild fer at lækka prísirnar, bøta um tøknina og økja um tær ymsu tænasturnar, eins og gongdin hevur verið í londunum kring okkum.</p>
+<p>Út frá hesum støði verður fjarsamskiftið sum heild digitaliserað. Kunningartøknin er digital, telefonsambandið er somuleiðis í stóran mun digitaliserað, eins og digitalisering fer fram innan útvarp og sjónvarp. Hetta fer at merkja, at tey ymsu samskiftissløgini renna saman í eina felags tøkni, ið fevnir um ljóð, myndir, skrift og talu.</p>
+<p>Við hesum samskiftismøguleikum er eingin longur avbyrgdur, men heldur ein partur av tí stóra netinum, har ið vit kunnu koma fram í mongum ymsum samanhangum og leita upp alskyns tilfar, ið krevur vandni av hvørjum einst</p>
+<p>Fremsta uppgávan hjá teimum ymsu útbúgvingunum er at búgva næmingarnar til ta tilveru, sum bíðar teimum eftir lokna skúlagongd. Tí mugu KT-amboð verða ein natúrligur partur av gerandisdegnum á skúlanum, soleiðis at næmingarnir fáa góðan kunnleika til tey, ikki einans við undirvísing <em type="italic">í</em>KT, men gjøgnum undirvísing <em type="italic">við</em>KT. </p>
+<p>Ein miðvís og samskipað menning av kunningartøkni í fólkaskúlanum er farin fram seinnu árini, soleiðis at næmingarnir so hvørt fáa teir førleikar, ið eru neyðugir. Fyri at samskipa hesa menning er ein KT-depil settur á stovn, ið skipar fyri eftirútbúgving av lærarum, e-posti, stevnum og heimasíðum hjá skúlunum, eins og ráðgeving í sambandi við telduinnkeyp. KT-depilin luttekur eisini í norrønum samstarvi.</p>
+<p>Skal ein samsvarandi menning eisini fara fram innan útbúgvingarnar aftaná fólkaskúlan, skal arbeiðast miðvíst við stevnumiðum, serliga á tveimum økjum:</p>
+<p type="listitem">•neyðuga útgerðin má verða tøk á skúlunum</p>
+<p type="listitem">•lærararnir mugu hava førleika at nýta hesa útgerð í undirvísingini</p>
+<p>1.1 Kunningarsamfelagið</p>
+<p>1.2 Avbjóðingin hjá skúlunum Øktur førleiki hjá lærarunum at taka teldutøknina inn í undirvísingina kemur neyvan einans við at taka eina eftirútbúgving innan KT. Royndir bæði her heima og uttanlands vísa, at námsfrøðin sum heild má broytast við atliti at størri denti á toymisarbeiði og verkætlanum, har einstaki næmingurin er í miðdeplinum og hevur ábyrgd fyri egnari læring. Tað er alneyðugt, at skúlarnir leita nýggjar leiðir í undirvísingini og eru opnir fyri teimum skiftandi rákunum í ungdómsmentanini. Samstundis hevur nýggja tøknin stórar møguleikar í sær fyri fjøltáttaðari undirvísing og innihaldi. Har tøkt – men ofta ótíðarhóskandi – tilfar fyrr hevur sett mark fyri, hvat kann takast upp í undirvísingina, er nú latið upp fyri nýggjum, dagførdum tilfari, sum er atkomiligt í einum hópi av dátugrunnum.</p>
+<p>Nevndin er tí sannførd um, at eitt livandi námsfrøðiligt orðaskifti um kunningartøkni í undirvísingarhøpi er alneyðugt, og at skúlarnir arbeiða við nágreiniligum ætlanum um, hvussu teir skipa seg við KT. Skipað eigur at verða fyri eftirútbúgvingarskeiðum innan KT, bæði fakrættaðum serskeiðum og meiri almennandi skeiðum, men tað verður felags strembanin millum starvsfólkið á hvørjum einstøkum útbúgvingarstovni, ið fer at geva tøknini rætta og hóskandi leiklutin í gerandisdegnum.</p>
+<p>Men henda stremban eigur sjálvsagt ikki einans at snúgva seg um kunningartøkni. Tøknin er jú bert eitt amboð í undirvísingini og í skúlamenningini sum heild. Tí mugu útbúgvingarstøðini í sínum virkisætlanum hugsa breitt um menningarmøguleikar og finna eina skilagóða nýtslu av kunningartøkni í hesum høpi. Hetta setir krøv til skúlarnar, soleiðis at teir støðugt mugu seta sær nýggj mál og virka út frá teimum rákum, ið ávirka samfelagið og borgarar tess.</p>
+<p>Petur Zachariassen, formaður</p>
+<p>Naina JacobsenLinjon Jacobsen</p>
+<p>Doris DjurhuusRegin Ellingsgaard</p>
+<p>Heri KragesteenMarianna Norðoy</p>
+<p>Hans Andreas Dam Joensen, skrivari</p>
+<p xml:lang="dan"><em type="bold"></em>NEVNDARARBEIÐIÐ </p>
+<p>Nevndin hevur havt 14 fundir. Fyrsti fundur varð hildin 27. oktober 2000, har landsstýrismaðurin legði fyri og umrøddi endamálið og arbeiðssetningin hjá nevndini. Seinasti fundur varð hildin 19. apríl 2001.</p>
+<p>Arbeiðið hjá nevndini skal í ávísan mun síggjast sum eitt framhald av tí áliti, sum ein nevnd lat úr hondum í mars 1998 um KT í fólkaskúlanum. Endamálið er at víðka skipaðu nýtsluna av KT til vinnu-, miðnáms- og hægri skúlar. Í arbeiðssetningi nevndarinnar verður biðið um, at komið verður við tilmæli til eina virkisætlan um, hvussu útbreiðslan av KT-nýtsluni kann økjast munandi meira á vinnu-, miðnáms- og hægri</p>
+<p>Arbeiðssetningur nevndarinnar hevur annars verið:</p>
+<p>1)Kortleggja støðuna á KT-økinum í vinnu-, miðnáms- og hægri skúlum í dag:</p>
+<p>2.1 Tilnevning og setningur</p>
+<p>Hvussu eru umstøðurnar á skúlunum til at nýta telduna í undirvísingini? Hvussu nógvar teldur o.a eru á hvørjum skúla? Um møguligt býtt upp í aldur og stødd. Hvussu nógv verður teldan nýtt til undirvísing, í hvørjum lærugreinum og hvørjar skráir verða nýttar? Telduflokkar? Hvussu eru telduviðurskiftini skipað á skúlunum (upplæring/undirvísing av lærarum, skeið fyri lærarum, røkt o.a.)?</p>
+<p>2)Fortreytir fyri KT á vinnu-, miðnáms- og hægri skúlum, m.a.:</p>
+<p>Fíggjarligar Tøkniligar Kunnleikastøði hjá lærarunum Krøv til læraraútbúgvingina (eftirútbúgving/skeið fyri lærarar o.a.)</p>
+<p>3)Hvussu eiga vit at bera í bandi fyri at koma munandi víðari?</p>
+<p>Hvat skal gerast og av hvørjum, fyri at røkka so langt sum gjørligt? Hvat kann gerast innan fyri eitt ár, tvey ár o.s.fr. til og við 5 ár fram? Hvørjar eru tær fíggjarligu avleiðingarnar av virkisætlanini (og fyri hvønn)?</p>
+<p>Biðið varð eisini um, at virkisætlanin í tilmæli nevndarinnar inniheldur eina fullfíggjaða ætlan um, hvussu tryggjað verður, at talan verður um flest allar lærarar og lærugreinir á tí einstaka skúlanum, og hvussu mannagongdin áhaldandi kann mennast.</p>
+<p>Hesi vóru tilnevnd sum nevndarlimir: Petur Zachariassen, Fróðskaparsetur Føroya, formaður Naina Jacobsen, Studentaskúlin og HF-skeiðið í Eysturoy Linjon Jacobsen, Tekniski Skúlin í Klaksvík Doris Djurhuus, Handilsskúlin á Kambsdali Regin Ellingsgaard, leiðari KT-depilin Heri Kragesteen, Føroya Læraraskúli Marianna Norðoy, Sjúkrasystraskúli Føroya Hans Andreas Dam Joensen, undirvísingarleiðari, Mentamálastýrið, sum skrivari Nevndin varð biðin um, at álitið verður handað landstýrismanninum í seinasta lagi 1. mars 2001.</p>
+<p>Nevndararbeiðið hevur gingið væl, og full semja er í nevndini um tey tilmæli, sum koma fram í álitinum.</p>
+<p>Nevndin hevur stuðlað seg til tilfar, ið er komið inn frá skúlunum viðvíkjandi KTútgerðini. Fyri at fáa eina mynd av støðuni hjá lærarunum, varð stílað fyri kunningarfundum í januar 2001, har nevndin greiddi frá arbeiði sínum og legði upp til orðaskifti um, hvussu KT verður nýtt í undirvísingini. Á hesum fundum komu nógv áhugaverd sjónarmið fram, sum nevndin hevur lagt sær í geyma í arbeiði sínum.</p>
+<p>Nevndin kom skjótt fram til, at teir ymsu útbúgvingarstovnarnir sum heild longu hava keypt eitt rættiliga stórt tal av teldum, og gjørt íløgur í netútgerð. Eisini eru fólk á summum skúlum, sum umsita tøknina, eftir ymiskum treytum.</p>
+<p>Hinvegin er enn ikki nøkur skipað eftirútbúgving av lærarunum at nýta hesar teldur sum eitt natúrligt amboð í gerandisdegnum á skúlanum. Hetta sær nevndin sum ta størstu avbjóðingina, og hevur tí lagt høvuðsdentin á henda spurningin í sínum tilmæli. Í sambandi við eina ætlaða eftirútbúgving innan KT hevur Mentamálastýrið stuðlað 4 fólkum at luttaka í eini royndarverkætlan í Danmark (Gymnasie-it) fyri at fáa eina meting av, í hvønn mun henda útbúgving kann nýtast til føroyskar lærarar, og hvørjar tillagingar skulu gerast, um ein felags eftirútbúgving skal fara fram. Talan er jú um lærarar, sum undirvísa í nógvum ymiskum útbúgvingum, og sum tí ikki altíð nýta KT við sama endamáli. Her verður millum annað hugsað um vinnuútbúgvingarnar, har næmingurin fær uppvenjing í telduni sum partur av eini arbeiðsgongd (t.d. til stýring av eini maskinu ella sum simulator), samanborið við útbúgvingar, har teldan mest verður nýtt til at læra mest vanligu skrivstovuforritini, ella sum leitiamboð eftir ymsum fakligum tilfari.</p>
+<p>Eisini hevur nevndin umrøtt aðrar fortreytir, sum mugu vera í lagi, um KT skal hava eitt hóskandi pláss á skúlunum. Tí hevur nevndin eisini viðgjørt spurningin,</p>
+<p>Leikluturin hjá KT-deplinum hevur verið nógv umrøddur, við tað, at nevndin metir, at ein KT-eftirútbúgving eigur at vera samskipað av einum stovni, ið eisini tekur sær av post- og stevnuskipan, eins og námsfrøðiligari leiðbeining. Í tann mun fleiri uppgávur verða lagdar til KT-depilin, heldur nevndin tað vera sjálvsagt, at hetta má síggjast aftur á játtanini til stovnin.</p>
+<p>Fyri at fáa eina lýsing av fjølmiðlanýtsluni hjá teimum ungu, varð Birgir Kruse, lærari, biðin um at koma á fund, har hann greiddi frá, hvussu nógv ymsir</p>
+<p>arbeiðinum fjølmiðlar í dag fylla í gerandisdegnum hjá teimum ungu. Tað er greitt, at føroyskur ungdómur eisini í hesum høpi er partur av einum alheims ráki, har hin einstaki kann koma sær fram á netinum, og velja í millum eina óavmarkaða mongd av tilfar. Tøkniliga rennur saman millum teir ymsu miðlarnar, soleiðis at vit fara at fáa ein felags miðil í hvørjum húsarhaldi. Frælsi til at velja í hesi óendaligu rúgvuni av tilfari setir sín dám á uppvaksandi ættarliðið, og hetta mugu útbúgvingarstovnarnir hava fyri eyga í námsfrøðini.</p>
+<p>Nevndin hevur umrøtt, hvussu umráðandi tað er, at einstøku útbúgvingarstøðini seta sær stevnumið og finna eitt hóskandi arbeiðslag við kunningartøknini. Tí verður tað eisini ein týðandi uppgáva at eggja leiðslunum at gera virkisætlanir á økinum, og annars gera royndir við nýggjum undirvísingarhættum.</p>
+<p>Innrættingin av skúlunum við atliti at kunningartøkni er somuleiðis ein spurningur, ið hevur upptikið nevndina nógv. Her tykist hugskotið um ”open learning centre”, ið hevur verið frammalaga í námsfrøðiliga orðaskiftinum seinnu árini, at vera best í tráð við krøvini um eitt liðiligt umhvørvi, har einstaki næmingurin er í miðdeplinum og pláss er fyri nýggjum undirvísingargongdum. Nevndin hevur stuðlað seg til tilfar úr Bretlandi og Danmark um henda innrættingarháttin og ta námsfrøði, ið er knýtt at henni. Tann <span type="quote">”opni skúlin”</span> er eitt umhvørvi, ið ikki minst eigur at verða roynt við atliti at kunningartøknini.</p>
+<p>Nevndin hevur vitjað á Handilsskúlanum á Kambsdali, sum hevur havt sonevndar telduflokkar seinnu árini. Høvi var at práta við næmingar og lærara í einum slíkum flokki, og gav hetta nevndini eina góða mynd av fyrimunum og veikleikum við hesi skipan. Tað eigur at verða virðismett, at skúlar gangar nýggjar leiðir á hesum øki, men samstundis heldur nevndin tað eisini vera umráðandi, at undirvísingin hevur rúmar námsfrøðiligar karmar, og at lærararnir fáa neyðuga eftirútbúgving í KT.</p>
+<p>Í tøkniligu spurningunum hevur nevndin roynt at innhugsa nýggjastu fyribrigdini, bæði tá ið talan er um fjarskifti og um nýggjastu telduloysnirnar. Soleiðis sum skjótleikin er á økinum, er tó trupult at síggja nógv ár fram í tíðina. Tí eiga avvarðandi partar í samstarvi við myndugleikarnar støðugt at ráðleggja, hvussu KT kann skipast í undirvísingarhøpi, og verða við til at skapa nøktandi karmar fyri virkseminum.</p>
+<p>NÁMSFRØÐILIGIR TÆTTIR</p>
+<p>Mong munnu minnast gomlu fimmannaførini við 4 hesta Solo-motori í við umstýring. Tað var ikki trupult at brúka motorin, steðgaði hann upp kundi tað vera tí tendringin var gliðin, rusk var í karboratorinum ella at tendriproppurin trongdi til ein blýant. Hetta er ikki til longur, hugsa vit um teir nýggjastu motorarnar. Karburatorar eru ikki til á teim flestu nýggju motorunum, men elektronisk innspræning. Og ert tú so óheppin at taka pólskógvin av akkumulatorinum, fær tú ikki tendrað fløguspælaran aftur, hevur tú ikki eina kodu sum fortelur telduni, ið er bygd inn í lurtið, at tú hevur rættin til tað.</p>
+<p>Vit hoyra við regluligum millumbilum, t.d. at radarsimulatorskeið er á Føroya Sjómansskúla, og vita, at starvsvenjingin í skúlatíðini hjá navigatørunum kann verða avloyst av at standa á brúnni á einum simu</p>
+<p>Vit liva í einari tíð við nógvum og skjótum broytingum og avbjóðingum. Kanska serliga á tí tøkniliga og tøknifrøðiliga økinum. Til ber at gera kanningar á sjúkrahúsinum við framkomnum tólmenni, ið eisini er ført fyri at leiðbeina læknan undir eini skurðviðgerð. Innan upplýsing, samskifti og stýringar av ymiskum slagi gera tøknin og tøknifrøðiligu landnámini nógv og skjótt um seg.</p>
+<p>Samtíðin setur síni krøv til okkum – ikki bert í gerandisdegnum, men kanska serliga tá vit hugsa um skúla og útbúgving. Ein av stóru spurningunum, ið allir lærarar seta sær er: hvørja vitan, hvønn førleika og hvørjar kompetansur eru neyðugar at hava við sær inn í framtíðina? Hvat eiga skúlarnir at geva næmingunum møguleika fyri at læra seg, so tey eru væl brynjað til framhaldandi lestur og arbeiði?</p>
+<p>Tá ið hugsað verður um undirvísing og læru í nútíðarsamfelagnum - ið onkur nevnur hyperkompleksa samfelagið ella postmodernaða samfelagið - so liggur í hesum heitum ein roynd at siga, at nógv nýtt hendir við skjótari ferð, og at vit verða noydd til at umhugsa skúla, læru og kompetansur øðrvísi enn fyri bert fáum árum síðani. Tí eitt er, at tøkni og vitan broytast, men tann heimur vit liva í, ger, at eisini vit broytast í sinni og skinni – og ikki minst ungdómurin. Samstundis sum siðbundin eyðkenni hvørva, bæði samfelagsliga og í heimi og skúla, er neyðugt, at ungdómurin mennir nýggjar kompetansur. Verðin er stór og møguleikarnir óteljandi!</p>
+<p>Yvirskriftin til vinstru sipar til nakað, ið næmingur á studentaskúla í Týskalandi sigur við ein lærara, tá hann heldur næmingin hava lítlan áhuga í undirvísingini. Tílík dømi um meting av sær sjálvum hoyrdu vit valla í 60’árunum. Vit skulu ikki</p>
+<p>undirvísing</p>
+<p>ikki eri motiverað í dag…” taka fyri givið, at tað, sum skúli og lesiætlanir krevja, eisini er umráðandi fyri tey ungu í dag. So nógv annað er, sum dregur, og sum tú mást hugsa um. Tað er m.a. í hesum ljósi, vit eiga at skilja týdningin, ið verður lagdur í undirvísingar- og arbeiðshættir, ið geva møguleika fyri sjálvsvirksemi, og at duga at leita upp og viðgera vitan av ymiskum slagi, umframt at gerast førur fyri at endurnýggja og útbyggja sína vitan, bæði sum einstaklingur og saman við øðrum. Hetta merkir ikki, at skúlin skal loypa á leistum fyri øllum nýggjum. Heldur eiga vit at minnast til, at vit læra í so nógvum samanhangum, serliga við góðum KT-vendum tilgongdum, og at skúlar og lærarar sum heild mugu endurskoða innihald og arbeiðshættir, ið brúkast kunnu, og leggja útbúgvingarnar til rættis saman við lesandi og næmingum.</p>
+<p>Tey, ið fáast við at granska í ungdómsspurningum, tosa um, at okkara samtíð ber dám av einari mentanarligari tilgongd, við øktum refleksiviteti. Her verður hugsað um møguleikan fyri og tað neyðuga í at fyrihalda seg til sín sjálvan og sítt lív. Mentanin gevur okkum í støðugt vaksandi mun vitan, sum ger okkum før fyri – næstan sum við einum videotóli – at hyggja at, avmynda og tematisera okkum sjálvi. Ung í dag hava støðugt fleiri sekunderar royndir, royndir ið ikki byggja á nakað sjálvupplivað, sonevndar miðlaðar royndir, og sum koma áðrenn okkara egnu royndir. Myndaliga sæð ganga nógv runt við einum miðlapakka í høvdinum. Dømi um hetta er t.d. spurningurin um seksualitet. Ættarliðið, ið vaks upp í 50og 60-árunum, stríddist við at fáa eina vitan um, hvat seksualitetur var. Ung í dag hava øvugta trupulleikan, tey <span type="quote">“vita”</span> longu alt. Og høvuðstrupulleikin er heldur, um tað ber til at liva upp til alt tað, ið miðlar hava givið teimum av upplýsingum um spurningin. Annað dømi er, at ung foreldur í dag oftast eru sera tilvitandi um, hvussu uppalingin av teirra børnum eigur at vera. Uppalingin gerst til eina <span type="quote">“verkætlan”</span>, har hon áður bygdi á siðvenju og royndir frá einum ættarliði til tað næsta. Tað ber til at siga, at lívið í dag í lítlan mun er lagna, men heldur nakað, ið tú kanst skapa, evna til, soleiðis sum tú kundi hugsað tær tað. Í hesum viðfangi ber til at tosa um mentanarliga fríseting, ið bæði rúmar møguleikum, men eisini setir krøv, tí onki kemur av sær sjálvum.</p>
+<p>Eyðkenni, ið til tíðir verða brúkt um nútíðarungdómin, so sum, at tey eru “óttaleys”, <span type="quote">“sjálvsentrerað”</span>, <span type="quote">“orðarík”</span> og <span type="quote">“sappandi”</span>, oftast í einum negativum tónalagi. Men hugsa vit um nakað av tí, ið krevst av ungfólki í floyminum av øllum tí nýggja, er heldur orsøk til at skilja hesi eyðkenni sum nakað positivt. Tað er umráðandi at duga at seta orð á tankar, kenslur og ætlanir, og tað er ein fyrimunur skjótt at lodda dýpið á teimum tilboðum, ið internetið ella parabolsjónvarpið hava. Og tá tú ikki longur kanst brúka annara ráð og siðvenju, ja, so er umráðandi at hugsa sjálvur. Talan er við øðrum orðum um nútíðarførleikar í góðari merking.</p>
+<p>Hesir spurningar eru frammaliga innan sálarfrøðiliga og námsfrøðiliga gransking og royndarvirksemi í londunum uttan um okkum. Her heima hava vit higartil verið meiri varin, tó at onkrir glottar eru. Støðugt meira verður gjørt burturúr at skilja, hvussu vit læra, minnast og leggja til rættis, og roynt verður at finna fram til undirvísingar- og arbeiðshættir, ið røkka nøkur ár fram. Hugtakið læring verður í</p>
+<p>3.4 Tann <span type="quote">“lærandi”</span> skúlin dag brúkt, heldur enn hugtakið <span type="quote">"frálæra"</span> ella <span type="quote" xml:lang="dan">"innlæring"</span>. Grundin til, at so er, er, at innlæruhugtakið leggur høvuðsdentin á eina síðu av læruni, nevniliga ta síðuna, ið snýr seg um hvussu vit tilogna okkum tað, ið longu er til, meir og minni óvirkin. Læring vísir til eina virkna gongd, har vit sum lærandi sjálvi virkin menna okkara førleikar. Tað, vit hava lært okkum, kemur ikki bert til okkara sum áfylla ella ávirkan uttanífrá. Heldur er talan um, at vit við okkara virksemi í víðastu merking sjálvi skapa, taka til okkum, gera um og gera til okkara tað, ið finst í ávísum læruhøpi. Læring er ikki bert nakað, ið hendir innan í høvdinum á tí einstaka, men fer fram í einum sosialum og mentanarligum samanhangi og sæst aftur í hesum høpi.</p>
+<p>Tær avbjóðingar, ið ung í dag møta, seta m.a. hesi krøv til undirvísingar- og arbeiðshættirnar á skúlunum í sambandi við læringina: í undirvísingini eigur tann lærandi sjálvur – og í samstarvi við onnur – at</p>
+<p type="listitem">•gera informatión um til vitan</p>
+<p type="listitem">•kanna og skilja aktuella veruleikan og aktuellu verðina</p>
+<p type="listitem">•skilja, skifta orð um og taka støðu til virði, bæði annans og egin</p>
+<p type="listitem">•læra at kanna og skilja, hvussu vit kunnu ávirka tað, sum hendir</p>
+<p>rundan um okkum</p>
+<p type="listitem">•víðari-  og eftirútbúgva seg</p>
+<p>Tað er og verður av støðugt størri týdningi, at útbúgvingarnar leggja størri dent á undirvísingar- og arbeiðshættir, ið stuðla undir, at tann lesandi ella næmingurin lærir í felagsskapi við onnur, og gerst tryggur við hugsanina, at vit læra fyri lívið, ikki bert til próvtøkuna ella vinnulívið í smalari merking.</p>
+<p>Tað eru tey, ið gera vart við, at tað gevur onga meining at leggja dent á, at ungdómar læra seg t.d. ávísar tekstviðgerðarskipanir, tí, áðrenn tú veitst av, verða tey yvirhálað av nýggjum og broyttum útgávum. Heldur eigur denturin at liggja á, at skilja og duga at brúka grundreglurnar fyri slíkum skipanum, ið tó eisini broytast, men ikki við somu ferð. Tyngdin eigur ikki at liggja á einari ávísari skipan við einum ávísum fo</p>
+<p>Til ber at vísa á nøkur eyðkenni, ið tilrættalegging og innihald av undirvísing, útbúgving og gransking eiga at verða merkt av:</p>
+<p type="listitem">•grundleggjandi nýtsluførleika og støðugari dagføring</p>
+<p type="listitem">•vita hvar meir vitan kann fáast</p>
+<p xml:lang="dan">inte på användingen af datorer”</p>
+<p>kunningartøkniligan førleika?</p>
+<p type="listitem">•duga at leita á søvnum og støðum, brúka leitingarteldur</p>
+<p type="listitem">•brúka ráðstevnur og samstarv um netið, m.a. til framhaldandi eftirútbúgving</p>
+<p type="listitem">•hava kunnleika til forrit innan lærugreina- og granskingarøki, ið eru í tráð við</p>
+<p>grundleggjandi sjónarmiðini um tað, ið undirvísingin/granskingin eigur at leggja dent á</p>
+<p type="listitem">•kritiskt tilvit um kunningartøkni</p>
+<p>Eru teir skúlar, vit her tosa um, førir fyri at fremja tann hugsanarhátt um læru og undirvísing í hyperkompleksa samfelagnum, ið her er nomið við? Nýggja rákið er fyri ein part longu veruleiki, eitt nú í teimum samanhangandi verkætlanunum í altjóða høpi, ið skúlarnir leggja fyri almenningin. Men greiðasta tekinið um, at vit eru á veg inn eina nýggja øld, eru tó tær broytingar, ið eru ásettar við lóg fyri fólkaskúlan, har sjálvsvirksemi, samstarv og fjølbroytt undirvísing í einum demokratiskum samanhangi eru nøkur av mest týðandi lyklaorðunum. So er bert eftir at ganga longur fram á hesi leið.</p>
+<p>KUNNINGARTØKNI Á ÚTBÚGVINGARSTOVNUNUM</p>
+<p>Mentamálastýrið sendi á heysti 2000 út spurnarblað, sum skuldi verða við at lýsa støðuna viðvíkjandi KT-útgerð á teimum ymsu útbúgvingarstovnunum eftir fólkaskúlan. Við KT-útgerð verður her hugsað um teldur, teldunet, internetsamband og ymisk hjálparamboð til teldurnar. Talyvirlitið frá kanningini er at finna sum fylgiskjal C.</p>
+<p>Samlaða talið av teldum á skúlunum undir einum má sigast at vera hampiliga nøktandi. Til teir tilsamans 2000 næmingarnar eru umleið 600 teldur, soleiðis at í meðal eru 3,5 næmingar um hvørja teldu. Tó eru einar 100 av hesum teldum so mikið gamlar, at tær standa fyri útskifting. Ein fittur partur av hesi útskifting fer fram í 2001.</p>
+<p>Handilsskúlarnir hava mestu útgerðina, bæði tá ið tað snýr seg um teldur, sum skúlin eigur, og net til næmingateldur. Orsøkin til hetta er í ávísan mun, at KT er ein týðandi lærugrein í handilsskúlaútbúgvingunum, bæði sum kravd lærugrein og sum vallærugrein. Harafturat hava hesir skúlar mett, at kunningartøknin eigur at verða nýtt sum amboð í hinum lærugreinunum eisini. Somuleiðis er skipað fyri sonevndum telduflokkum, har hvør einstakur næmingur keypir sær eina farteldu, sum hann rindar fyri í útbúgvingartíðini (2 ár). Hesir flokkar hava fast net- og internetsamband, sum skúlin hevur ábyrgdina av. Eisini Studentaskúlin á Kambsdali hevur roynt seg við eini tilsvarandi skipan.</p>
+<p>Aldurin á teldunum hevur rættiliga stóran týdning, so hvørt sum nýggj forrit koma fram, ið krevja nógva maskinorku og sum taka nógv pláss á harðdiskinum. Nýggj forrit verða jú tilevnað til nýggjar teldur. Eisini krevur internetnýtslan rímiliga nýggja útgerð. Tí er rættiliga avmarkað, hvat teldur, ið eru meira enn 5 ára gamlar, kunnu nýtast til.</p>
+<p>Teldurnar á hvørjum einstøkum skúla er knýttar saman í nærnet, haðani samband víðari fæst til internetið. Í nærteinum liggja felags skipanir og felags tilfar hjá brúkarunum, eisini nevnt innannet. Slíkar netskipanir krevja, at køn fólk umsita sær, og tí hava skúlarnir hvør í sínum lagi sett telduvørðar til hetta. Sum komið verður inn á aðrastaðni í álitinum, gerst hetta ein alt meira týðandi fortreyt fyri, at tøknin kann nýtast á fullgóðan hátt í undirvísingini, og tí eiga fólk við hollari útbúgving at taka sær av hesum arbeiði og fáa neyðugu arbeiðstíðina til hetta. Frammanundan verður skipað fyri eini útbúgving fyr</p>
+<p>Upplýsingarnir frá skúlunum benda á, at enn er rættiliga avmarkað, hvussu nógv serforrit, ið eru keypt til undirvísingarbrúk. Í hesum liggur avgjørt ein veikleiki, tí hetta er tekin um, at gagnnýtslan av teldunum í undirvísingini er ov lítil, sum er. Í ein ávísan mun verður internettilfar nýtt í dagligu undirvísingini, har talan er um leiting eftir upplýsingum. Einstakir skúlar hava tó fingið fatur á serforritum til nógvar ymsar lærugreinir, ið teir hava góðar royndir við. Umráðandi er, at skúlin hevur serkøn fólk at finna fram til slík forrit, eins og hetta kundi verið eitt arbeiðsøki hjá KT-deplinum.</p>
+<p>Sjómansskúlarnir og maskinmeistaraskúlin eru tó í eini serligari støðu á hesum øki. Í teirra útbúgvingum er CBT (Computer Based Training) ein kravdur partur av undirvísingini. Talan er um eina rúgvu av forritum, har næmingurin kann fáa venjing í at stýra einum skipi ella hava eftirlit við motorum. Hesi forrit avspegla tær umstøðurnar, ið næmingarnir koma fyri, tá ið teir fara út í vinnuna, og geva sostatt eina góða uppvenjing í teimum ymsu arbeiðsuppgávunum.</p>
+<p>Fíggjarliga kann ritbúnaðurin vera tyngjandi fyri skúlarnar. So at siga allar teldur hava Windows-stýriskipan, sum verður uppstigað við jøvnum millumbilum, eins og Office-forrit og líknandi. Útreiðslurnar í hesum sambandi liggja ávikavist um 1000 og 1500 krónur fyri hvørja telduna. Eisini eru summi undirvísingarforrit rættiliga dýr, upp til einar 100.000 krónur. Slíkar útreiðslur er vanliga ikki lagt upp fyri í fíggjarætlanunum hjá skúlunum, men so hvørt sum tøknin ger innrás í hvørja skúlastovu, mugu skúlarnir hava slíkar upphæddir í geyma í rakstrarætlanum sínum. Tað kann neyvan leggjast nóg stór áherðsla á, hvussu stóran týdning hesi forrit hava fyri nýtsluna av kunningartøkni í undirvísingarhøpi – tólbúnaðurin einsamallur hevur ikki stórvegis endamál.</p>
+<p>Í fáum førum benda spurnarbløðini á, at skúlarnir hava lagt sær serligar ætlanir um, hvussu kunningartøknin skal gerast partur av undirvísingini í framtíðini. Tá ið hugsað verður um, hvussu nógv, ið krevst av einstaka skúlanum fíggjarliga og fyriskipanarliga, er umráðandi, at leiðslurnar á skúlunum leggja eina virkisætlan, har:</p>
+<p type="listitem">•yvirskipaðu stevnumiðini eins og serstøku málini verða sett upp</p>
+<p type="listitem">•lýst verður, hvussu tey kunnu røkkast eftir ávísum áramáli.</p>
+<p>Ein slík ætlan kann eitt nú fevna um eftirútbúgving av lærarunum, undirvísingina, umsiting skúlans, bókasavn, nærnet og internet, tólbúnað og ritbúnað. Sett kann verða upp, hvørji mál skúlin hevur í løtuni og hvørji mál skulu røkkast innan t.d. 3 ár.</p>
+<p>Harafturat kann útbúgvingarstaðið gera avtalur við ymsar partar um stuðul og tænastur til KT-útgerð. Tað er umráðandi, at leiðslurnar á skúlunum hava eygu fyri nýggjum møguleikum og samstarvi á hesum fakøkinum, sum broytist dag frá degi.</p>
+<p>Tó gera fleiri skúlar vart við tørvin á eftirútbúgving av lærarunum, antin út frá einum felags leisti ella við serligum skeiðum í einstøku lærugreinunum. Júst hesin tørvur eigur at verða nøktaður, um fortreytirnar hjá kunningartøkni í undirvísingini skulu vera í lagi komandi árini.</p>
+<p>Hóast tað enn er avmarkað, í hvussu stóran mun skúlarnir hava tikið tøknina til sín, finst rættiliga nógv av teldutøkum undirvísingartilfari. Hini norðurlondini hava sett á stovn serlig søvn, har greitt verður frá hesum tilfari og gjørt heimasíðir til endamálið. Í hesum londum hava flestu skúlar eisini á síni heimasíðu tilvísingar</p>
+<p>4.4 Hugsjónir</p>
+<p>4.5 Dømi um KT-nýtslu í undirvísingini til ymiskt teldutøkt tilfar á netinum. Harafturat kunnu skúlarnir við einum árligum gjaldi fáa atgongd til dátugrunnar, ið hava serligan áhuga fyri undirvísingina. Í Danmark (og í Føroyum) verður Skolernes Databaseservice <em type="italic">(www.sdbs.dk). </em>Eisini finst heimasíðan Fagenes Infoguide, </p>
+<p><em type="italic">www.infoguide.dk, </em>við nógvum góðum tilvísingum. </p>
+<p>Í Noregi hava myndugleikarnir sett á stovn heimasíðuna Nettgymnaset. Hetta er ein sera fjølbroytt heimasíða, har víst verður á tilfar til flestallar lærugreinir og evnisøki. Heimasíðan finst á:<em type="italic">www.nettgymnaset.com/bibliotek/.</em> </p>
+<p>Svenska heimasíðan Skoldatanätet er somuleiðis sera fjøltáttað, við tilvísingum til lærugreinirnar, samstarv, uppslagsverk, skeið, mentanartiltøk v.m. Hon leggur eisini stóran dent á, at brúkararnir læra at nýta tilfar á netinum á ein vandnan hátt. <em type="italic">Hon finst á www.skolverket.se/skolnet/</em> </p>
+<p>Ísland hevur sítt Mentanet, har bæði verður víst til lærugreinatilfar, tíðindi, mentan og til samstarv millum skúlar í ymsum londum:<em type="italic">www.ismennt.is</em> </p>
+<p><em type="italic">Føroyska heimasíðan www.skulin.fo</em>til endamálið er enn avmarkað til fólkaskúlarnar. </p>
+<p>Ein felags inngongd til norðurlendsku nettilvísingar finst á:<em type="italic">www.odin.dk</em> </p>
+<p>Fyri undirvísingina í fremmandamálum er fongur í nógvum løtubærum tilfari, ið liggur frammi á netinum, men eisini eldri tekstir finnast í mongum tekstasøvnum á netinum. Tí er lagamanni at taka slíkt tilfar inn í undirvísingina, geva næmingunum venjing í at finna tað, og gera sær sínar metingar av tí.</p>
+<p>Somu fyrimunir eru eisini til staðar, bæði í samfelagsligu lærugreinunum og í náttúrulærugreinum. Tó eigur tilfarið ikki einans at verða sæð í mun til einstøku lærugreinirnar, men eisini sum partur í einum tvørfakligum samstarvi, har møguleikar eru fyri tí.</p>
+<p>Enn er rættiliga misjavnt, hvussu nógva eftirútbúgving lærararnir hava fingið í teldunýtslu. Studentaskúlarnir og handilsskúlarnir hava bert hildið styttri innanhýsis skeið, vanliga fyri lærugreinirnar hvør sær. Hetta ger, at nógvir lærarar kenna seg ótryggar við nýggja miðilin, og nýta hann sjáldan í undirvísingini. Í nøkrum førum eru royndir gjørdar at taka telduna inn sum eitt gerandisamboð í undirvísingini, men heldur ikki í slíkum førum hava umstøður verið til eftirútbúgving, sum er neyðug, um frálæran skal verða í tráð við teir møguleikar, ið kunningartøknin leggur upp til.</p>
+<p>Sum heild er myndin tí tann, at ymiskt er frá einum lærara til annan, hvussu nógv kunningartøknin verður tikin inn í undirvísingina. Hetta kann ikki sigast at vera nøktandi fyri skúlarnar, har málið má vera, at næmingurin hevur somu atgongd til kunningartøknina, sama hvør skúlin ella lærarin er.</p>
+<p>FORTREYTIR FYRI KT-NÝTSLU Í SKÚLUNUM</p>
+<p>Nevndin hevur frammanfyri staðfest, at KT-útgerðin í stóran mun er nøktandi í framhaldandi útbúgvingunum aftaná fólkaskúlan. Hin vegin verður mett, at ein skipað eftirútbúgving av øllum lærarunum enn vantar.</p>
+<p>Ein slík eftirútbúgving innan KT eigur at leggja høvuðsdentin á námsfrøðiligu spurningarnar, t.e. hvørja ávirkan nýtsla av KT hevur á:</p>
+<p type="listitem">•lærugreinirnar og menning teirra</p>
+<p type="listitem">•egna undirvísing</p>
+<p type="listitem">•menningina av skúlanum sum heild</p>
+<p>Tað er umráðandi, at lærararnir fáa beinleiðis førleikar til dagligu undirvísingina, og at arbeiðast kann víðari í tímunum við sama tilfari, sum verður nýtt í eftirútbúgvingini innan KT.</p>
+<p>Í skúlaárinum 2000/2001 hevur verið arbeitt við eini royndarverkætlan í Danmark, har skipað verður fyri eini felags KT-eftirútbúgving á miðnámsskúlunum, nevnd <em type="italic">Gymnasie-IT</em>, sum verður sett í verk við fullari megi í skúlaárinum 2001/2002. Í hesi útbúgving koma allir luttakarar inn á hesi høvuðsøki: </p>
+<p type="listitem">•Grundleggjandi teldufatan</p>
+<p type="listitem">•Tekstviðgerð, uppseting og framløga</p>
+<p type="listitem">•Grundleggjandi førleikar í at nýta hóskandi ritbúnað</p>
+<p type="listitem">•Tilrættislegging tá ið stórar mongdir av tilfari skulu lesast</p>
+<p type="listitem">•Førleikar í at leita eftir og velja út tilfar á internetinum</p>
+<p type="listitem">•Samskifti við teldu</p>
+<p type="listitem">•Hóskandi arbeiðsvanar við kunningartøkni</p>
+<p>Luttakararnir arbeiða í smáum bólkum, og lata saman við hinum limunum í bólkinum inn 8 partsuppgávur í allari útbúgvingini. Allar uppgávurnar eru tengdar at dagligu undirvísingini hjá einstaka læraranum, og allar uppgávurnar skulu verða latnar inn og góðkendar fyri at fáa <span type="quote">”KT-kortið”</span>.</p>
+<p>Av teimum 8 pørtunum eru teir 3 kravdir, meðan talið á valpørtunum hongur saman við, hvussu nógvir lærugreinapartar, einstaki lærarin skal hava. Um ein lærari undirvísir í tveimum lærugreinum, og sostatt skal hava 2 lærugreinapartar, eru 3 valpartar eftir at taka, sum myndin niðanfyri vísir:</p>
+<p>5.1 Eftirútbúgving av lærarunum</p>
+<p>kravdir partar 3-4 valpartar</p>
+<p>1-2 lærugreinapartar Meðan arbeitt verður við teimum kravdu pørtunum, byrjar arbeiðið samstundis við lærugreinapørtunum, meðan valpartarnir ikki koma fyri fyrr enn kravdu partarnir eru lidnir.</p>
+<p>Til donsku útbúgvingina er prentað skeiðstilfar til kravdu partarnar, og heimasíða finst á internetinum, har tilfarið til lærugreina- og valpartarnar liggur á</p>
+<p><em type="italic">www.gymnasie-it.dk </em>. Til hvønn bólk er knýttur ein vegleiðari, sum luttakararnir </p>
+<p>eru í sambandi við umvegis eina stevnuskipan á netinum. Við hesum fáa luttakararnir venjing í at arbeiða við telduni á netinum, m.a. við at leita eftir upplýsingum.</p>
+<p>Uppgávurnar, ið bólkarnir lata inn, skulu sjóða KT saman í eina fakliga og námsfrøðiliga heild. Ymiskt tilfar um KT og námsfrøði er ætlað sum kjakevni í bólkunum. Handverkið í KT fáa luttakararnir hvør í sínum lagi við ymsum venjingum. Við hesum kann útbúgvingin lagast til førleikan hjá tí einstaka at nýta teldu frammanundan, soleiðis at royndir brúkarar kunnu sleppa undan hesum partinum av útbúgvingini. Annars er tað einstaka partsuppgávan, ið er avgerandi fyri at hava staðið partin.</p>
+<p>Sum heild verður roknað við, at eftirútbúgvingin fer fram samstundis sum hvør luttakari tekur hana inn í arbeiði sítt, bæði <span type="quote">”handverk”</span> og námsfrøði. Ætlandi fara einar 20 vikur til eina slíka gongd. Ilt er tó at siga, hvussu nógva tíð, hvør einstakur luttakari nýtir til eftirútbúgvingina. Tað veldst í stóran mun um royndirnar við teldu frammanundan. Royndir brúkarar kunnu fara <span type="quote">”beinleiðis”</span> til námsfrøðiligu spurningarnar, meðan tey á byrjunarstøði mugu rokna við at nýta nakað av tíð til at læra seg grundleggjandi førleikarnar.</p>
+<p>Vegleiðarar eru knýttir at donsku eftirútbúgvingini í kunningartøkni. Skeið verða hildin fyri teimum, sum skulu røkja hesa uppgávu. Talan er um tvey sløg av vegleiðarum:</p>
+<p type="listitem">•Vegleiðarar, ið undirvísa í øllum sløgum av pørtum</p>
+<p type="listitem">•Vegleiðarar, ið einans undirvísa í lærugreinapørtum</p>
+<p>Førleikin at vegleiða í lærugreinapørtum er treytaður av, at vegleiðarin frammanundan hevur undirvísingarførleika í lærugreinini.</p>
+<p>Førleikin at vegleiða í hinum pørtunum er treytaður av, at viðkomandi hevur undirvísingarroyndir og hevur nýtt kunningartøkni í undirvísing síni.</p>
+<p>Eisini eiga vegleiðararnir at hava tikið KT-kortið frammanundan og hava tikið tey skeið, ið hoyra til eina vegleiðaraútbúgving, her í millum í námsfrøðiligu atlitunum at fjarundirvísing. Tey, sum vegleiða í lærugreinapørtum, taka eitt styttri skeið.</p>
+<p>Nýtslan av kunningartøkni má setast inn í eina yvirskipaða námsfrøðiliga nýskoðan, har skúlarnir seta sær fyri at menna nýggjar undirvísingargongdir. KT eigur sostatt bert at vera ein partur av eini breiðari menningarætlan fyri hvønn einstakan skúla, sum leiðsla og lærarar gera. Sipað verður eitt nú til tey rák, sum finnast í námsfrøðiliga orðaskiftinum viðvíkjandi:</p>
+<p type="listitem">•ráðlegging av undirvísingini</p>
+<p type="listitem">•nýggjum lærara- og næmingaleiklutum</p>
+<p type="listitem">•sundurbýttari undirvísing</p>
+<p type="listitem">•liðiligum undirvísingarhættum</p>
+<p type="listitem">•verkætlanararbeiði</p>
+<p type="listitem">•læraratoymi</p>
+<p type="listitem">•skúlabókasavninum sum námsfrøðiligur tænastudepil</p>
+<p type="listitem">•skúlans umhvørvi</p>
+<p type="listitem" xml:lang="dan">•dygdarmenning</p>
+<p type="listitem">•fjarundirvísing</p>
+<p type="listitem">•skúlasamstarvi</p>
+<p>Við slíkum virkisætlanum, ið ganga nøkur ár fram í tíðina, verður eitt verkevni hvørt ár valt burturúr, ið útbúgvingarstaðið eigur at gera royndir við. Eftirmett verður so hvørt, soleiðis at skúlin kann rætta kósina eftir úrslitunum og annars eisini lata onnur fáa kunnleika um endaligu niðurstøðuna. Á henda hátt verður betri rásarúm fyri <span type="quote">”hinum lærandi skúlanum”</span>, ið støðugt mennir seg í tráð við tað samfelag, sum hann virkar í. Í eini slíkari tilgongd er leikluturin hjá leiðsluni avgerandi, og tí eigur hon at hava neyðug amboð til at eggja starvsfólkunum til at fara í holt við ymsar verkætlanir á skúlanum.</p>
+<p>Sum er, hevur Føroya Handilsskúli eina 2/ára útbúgving til teldustøðing (datamatikara), ið serliga vendir sær til tey, ið vilja fáa eina styttri førleikagevandi útbúgving at nýta í vinnulívi og innan umsiting. Stórur áhugi er fyri at sleppa inn á hesa útbúgvingina. Í desember 2000 fingu teir fyrstu 20 teldustøðingarnir síni prógv, og fleiri flokkar eru á veg. Teldustøðingaútbúgvingin er eitt gott stig á vegnum at nøkta tann stóran tørvin á arbeiðsmegi innan kunningartøkni.</p>
+<p>Kortini er tørvur á fólki við hægri útbúgving á økinum framvegis stórur. Á Fróðskaparsetrinum eru ætlanir um eina BS-útbúgving í kunningartøkni, ið skal skipast sum framhaldslestur hálva arbeiðstíð yvir 2/ ár. Við hesi útbúgving verður eisini vónað, at tey, ið frammanundan hava lokið teldustøðingaprógv, kunnu skoyta uppí og har við fáa eitt BS-prógv.</p>
+<p>Við hægri útbúgvingum innan kunningartøkni er umráðandi at styrkja granskingarumhvørvið á økinum, og harvið menna serkunnleika og góðsku á KT-økinum, ið eisini í stóran mun fer at koma vinnulívinum til góða.</p>
+<p>5.3 Menningarætlanir</p>
+<p>5.4 KT-útbúgvingar á hægri stigi Við kunningartøknini fylgja nýggir møguleikar – møguleikar at koma fram á eina rúgvu av ymsum tilfari og nýggir møguleikar í undirvísingini. Neyðugt er at leggja sær í geyma: hvussu finna vit ávíst tilfar, hvussu meta vit um dygdina, hvussu velja vit burtur úr, og hvussu greina og nýta vit tilfarið?</p>
+<p>Tá ið talan er um tað víttfevnda internetið, er bygnaðurin sum so uttan nakrar fyriskipanarreglur. Har liggja bæði gagnligar og minni gagnligar upplýsingar. Nógv hevur verið tosað um heimasíður, ið innihalda tilfar, sum annars ikki tolir dagsins ljós í vanligum fjølmiðlum, so sum ógvuslig pornografi, pedofili, yvirgangsfelagsskapir, nasisma o.s.v. Tí er sera umráðandi, at skúlarnir gera næmingarnar tilvitandi um siðsemiliga partin, tá ið ferðast verður á netinum. Ofta verður hildið, at til ber at sløkkja telduna, ella annars við tøkniligari hjálp at sálda ávíst tilfar burtur. Hetta er kortini heldur ivasamt, tí at í veruleikanum finst ongin rættilig loysn til hetta endamálið, í mesta lagi kunnu vit fáa ein falskan tryggleika.</p>
+<p>Tí eiga allir næmingar at fáa førleika til at taka dagar ímillum tað tilfar, sum teir verða settir andlit til andlits við. Hetta er sjálvsagt ikki einans galdandi fyri internettilfar, men eisini so mangt annað, ið rekur fram við. Við øðrum orðum eigur fjølmiðlakunnleiki at verða ein týðandi táttur innan allar útbúgvingar, soleiðis at næmingurin í tí samansetta og støðugt umskiftiliga framtíðarsamfelagnum gerst førur fyri – út frá siðsemiligum reglum – at meta um og sálda upplýsingar úr tilfarsfloyminum.</p>
+<p>Harafturat eigur hvør einstakur næmingur at vera tilvitandi um, hvat hann sjálvur kann loyva sær á netinum. Fyrst og fremst er at halda seg til galdandi lógir og reglur, men eisini hugsa seg væl um, hvat ein skrivar til onnur, vísa virðing fyri upphavsrættinum hjá øðrum, ikki breiða út tilfar, ið t.d. snýr seg um harðskap, pornografi, rasismu ella er gudsspottandi. Eisini eiga næmingarnir at vera varir við, at tað er kostnaðarmikið at ferðast á netinum, og at nýtslan tí eigur at vera avmarkað til viðkomandi tilfar.</p>
+<p>Seinasta árini hevur teldan gjørt rættiliga innrás í skúlarnar. Í miðal eru nú frá um 3 til um 7 næmingar um hvørja teldu. Flest allar teldurnar eru bundnar í nærnet skúlans, sum so er bundið í internetið. Henda gongd hevur samband við ta stóru menning, sum bæði tólbúnaður, ritbúnaður og samskiftistøknin hava verið fyri.</p>
+<p>Stóri framvøksturin av <em type="italic">tólbúnaði</em>sæst m.a. í tí sannroynd, sum nevnist <span type="quote">”Moore’sa lóg”</span>: fyri hvørjar 18 mánaðir ella so tvífaldast talið av transistorum í eini mikroflís (til eitt nú prosessarar og teldu-minni). Í meiri enn eina fjórðingsøld hevur man á leið kunna staðfest hesa gongd, og tað verður væntað, at henda <span type="quote">”lóg”</span> fer at halda framhaldandi í kanska 10-20 ár aftrat. Harumframt lækkar framleiðslukostnaðurin av telduútgerð, so gongdin við at fáa eina betri teldu til ein lægri prís fer væntandi at halda fram. </p>
+<p>Viðvíkjandi <em type="italic">ritbúnaðinum</em>(m.a. forritini til stýri- og nýtsluskipanir) hava framstigini ikki verið eins stór og fyri tólbúnaðin. Forritini til eitt nú tekstviðgerð og rokniark eru betrað nakað seinastu árini, men grundleggjandi virka hesi amboð, sum tey gjørdu fyri 10 árum síðani. Stóra framlopið innan ritbúnað seinastu árini er <em type="italic">kagiforritið</em>(browser) til heimasíður á internetinum, eitt amboð, sum bæði hevur latið upp fyri upplýsingafloyminum á netinum og verður brúkt og ment til alt fleiri nýtsluskipanir. Dømi um hesa gongd eru KT-tænastuvirki, sum bjóða fyritøkum telduorku og heimasíðuskipanir til umsiting og aðrar uppgávur, ið annars hava verið koyrdar á teldum inni hjá fyritøkuni. </p>
+<p>Ein týðandi fortreyt fyri ta veldugu framgongd, sum internetið hevur havt, er</p>
+<p><em type="italic">samskiftistøknin</em>, t.e. tey nærnet og fjarnet, sum knýta stóran part av heimsins </p>
+<p>teldum saman. Ein fløskuhálsur í tí sambandi er tann sonevnda <em type="italic">bandbreiddin</em> samskiftislinjunum, t.e. hvussu stóra datanøgd tann einstaka teldan kann móttaka og senda. Sum er, hava tær flestu skúlateldurnar netsamband við eini bandbreidd svarandi til 5-10Kb/s, ið er væl brúkiligt til teldupost, kjatt og heimasíður við teksti og smærri myndum. Um fá ár kann væntast ein bandbreidd til hvørja teldu upp á kanska 500-1000Kb/s, sum fer at gera tað møguligt at síggja sjónvarpssendingar um netið og lættliga skipa fyri sonevndum </p>
+<p><em type="italic">videostevnum</em>, t.e. samskiftið millum tvey ella fleiri pláss á netinum við video</p>
+<p>myndum, ein hentleiki, ið óiva fer at seta rættiliga ferð á <em type="italic">fjarundirvísing</em>. </p>
+<p>Ein stór menning í <em type="italic">tráðleysum samskifti</em>seinasta tíðina kann fáa stóran týdning fyri KT-nýtsluni í skúlunum, bæði við sonevndum tráðleysum nærneti og internetsamskifti um fylgisvein, sí fylgiskjal G. Tað ber til at sleppa at kalla heilt undan leidningum í skúlastovuni: battarídrivnar farteldur við tráðleysum nærneti og einum <span type="quote">”løði-skápi”</span>, sum farteldurnar verða stungnar í fyri at løða battaríini, soleiðis sum onkur skúli í Íslandi hevur roynt. </p>
+<p>Aðrastaðni sæst ein øktur áhugi – eisini í skúlahøpi – fyri at royna aðrar loysnir (enn Windows) til bæði brúkarateldur og ambætarar, sí brotið <span type="quote">”Klænar brúkarateldur”</span> í fylgiskjali G. Á ambætarasíðuni er stýriskipanin <em type="italic">Linux</em>vorðin alt meira vanlig, bæði tí hetta forritið fæst fyri lítið og lætt, og tí at Linux setir minni krøv til tólbúnaðin enn Windows. Á hægri læru- og granskingarstovnum í øðrum londum verða Linux/Unix teldur brúktar í stóran stíl. </p>
+<p>TILMÆLI NEVNDARINNAR</p>
+<p>Ein týðandi partur av eini miðvísari menning innan KT og undirvísing verður, at serkunnleikin er skipaður á einum staði, ið kann veita skúlunum tøkniligan eins væl og námsfrøðiligan stuðul. Frammanundan er KT-depilin settur á stovn at fremja hesi mál fyri fólkaskúlan. Í hesum sambandi er KT-depilin eisini miðstøð fyri post- og stevnuskipanini <em type="italic">SamHøll</em>fyri allar lærarar og næmingar í fólkaskúlanum, eins og fyri KT-eftirútbúgving av lærarunum. </p>
+<p>Mælt verður til, at virkisøkið hjá KT-deplinum verður víðkað til eisini at fevna um útbúgvingarnar aftaná fólkaskúlan, og at stovnurin økir um starvsfólkatalið samsvarandi hesum. Hugsað verður her um arbeiðsorku svarandi til eitt fulltíðarstarv, ið t.d. kann býtast millum 2 fólk í hálvum starvi. Hetta seinna fyri at røkka áhugamálunum hjá teimum rættiliga ymisku útbúgvingunum, ið talan er um. Eisini fara krøvini til umsjón av útgerð og skipanum á KT-deplinum at vaksa so nógv, at ein tøkningur eigur at verða settur til burturav at umsita ambætarar og aðra útgerð á stovninum. Í sambandi við útgerðarkeyp og aðrar spurningar, ið eru knýttir at kunningartøkni, eigur KT-depilin at veita skúlaleiðslunum neyðuga ráðgeving.</p>
+<p>KT-depilin er í holt við at fáa í lag samstarv við onnur lond um menning av KT í skúlahøpi. Longu nú hava brúkarar í SamHøll atgongd til partar av SkoleKom, ið er samsvarandi danska skipanin, og serstakliga hava lærarar á miðnámsskúlunum sýnt hesum møguleika áhuga. Líknandi samstarv er í umbúna við onnur norðurlond.</p>
+<p>Eisini eigur KT-depilin á heimasíðu síni í mest møguligan mun at veita dagliga leiðbeining um undirvísing og KT, ið bæði vendir sær til næmingar og lærarar, t.d. við undirvísingartilfari, skúlaheimasíðum og ymsum dygdarmettum tilfari fyri ung.</p>
+<p>Nevndin ásannar, at stórur tørvur er at menna førleikan innan KT hjá teimum um 250 lærarunum í øllum framhaldandi útbúgvingunum, við serligum denti á at undirvísa við KT. Nevndin metir, at henda eftirútbúgving av lærarunum í mest møguligan mun eigur at vera samskipað. Størsti parturin av eini slíkari eftirútbúgving – <em type="italic">KT-kortið</em>– kann vera felags, og ein minni partur tengdur at lærugreinum, sum einstaki lærarin undirvísir í, ella at undirvísingar- og arbeiðsgongdum, har eitt nú margmiðlar eru av stórum týdningi. </p>
+<p>Mælt verður til at leggja KT-kortið til rættis eftir sama leisti, sum danska eftirútbúgvingin Gymnasie-IT er skipað eftir, bæði tá ið talan er um felags partar, valpartar og lærugreinapartar (sum lýst í kapittul 5). Í hesi eftirútbúgving verður høvuðsdentur lagdur á námsfrøðiligu spurningarnar, ið stinga seg upp, tá ið teldan verður nýtt sum miðil í undirvísingini. Tó verður neyðugt at skoyta upp í til tær lærugreinir, ið ikki finnast í donsku skipanini. Her </p>
+<p>Mælt verður somuleiðis til, at farið verður undir eftirútbúgving í KT-kortinum skúlaárið 2001-2002. Í minsta lagi felags partarnir eiga at verða royndarkoyrdir á onkrum skúla, áðrenn útbúgvingin verður sett í verk í síni heild.</p>
+<p>Nevndin mælir til, at 8-10 lærarar, ið frammanundan starvast innan framhaldandi útbúgvingarnar, gerast vegleiðarar, og fáa neyðugan førleika til at undirvísa í eftirútbúgvingini. Eins og gjørt hevur verið í fólkaskúlanum, kann KT-depilin veita vegleiðurunum leiðbeining og stuðul og samskipa skeiðini í KT-kortinum á teimum ymsu skúlunum.</p>
+<p>Fyri at tryggja, at allir lærarar hava neyðugu útgerðina, tá ið kunningartøknin skal hugsast inn í dagligu undirvísingina, mælir nevndin í fyrsta lagi til, at ein serlig innkeypsskipan verður gjørd, har útbúgvingarstøðini fáa játtað eina farteldu til hvønn lærara. Av upprunaliga keypsprísinum rindar lærarin fylgjandi 3 árini tilsamans uml. 1/3 av upprunaprísinum, svarandi til virðið á telduni eftir hetta tíðarskeið. Aftaná hetta eigur lærarin telduna. Avtalur um hesar teldur eiga eisini at fevna um tøkniligan stuðul, trygging og garanti. Hendan skipan minnir nakað um loysnir hjá KT-eftirútbúgvingini fyri lærarar í Svøríki – IT i skolan (stytt ITiS) – og hjá onkrum amti í Danmark.</p>
+<p>Í øðrum lagi verður mælt til, at játtanin hjá Mentamálastýrinum til útgerð á vinnu-, miðnáms- og hægri útbúgvingum verður økt við 2 mió. kr. um árið komandi tvey fíggjarárini, soleiðis at allir lærarar ráða yvir hvør síni teldu, men fáa hana ikki til ognar.</p>
+<p>Røkt av teldum og eftirlit við KT-útgerðini annars á skúlunum er av grundleggjandi týdningi fyri, at tøknin kann verða nýtt á fullgóðan hátt. Tað arbeiðið, ið skal gerast í hesum sambandi, krevur serligan førleika, og tí eiga fólk at fáa útbúgving til hetta. Harafturat er neyðugt, at lærararnir á skúlunum fáa ráð og leiðbeining um uppseting og nýtslu av ymsum serforritum, dømi um undirvísingargongdir við KT v.m.</p>
+<p>Mælt verður tí til, at skipað verður ein KT-vørða útbúgving, sum í vavi svarar til ta útbúgving, sum fer fram fyri KT-vørðar í fólkaskúlanum. Hetta merkir, at talan verður um eina útbúgving, ið bæði fevnir um ein tøkniligan part, ein námsfrøðiligan part og eina verkætlan, uppá tilsamans 800 tímar. Útbúgvingin verður skipað sum parttíðarútbúgving yvir 2 skúlaár.</p>
+<p>Til tess at menna serkunnleikan innan kunningartøkni sum heild í samfelagnum, er neyðugt at hava hægri útbúgvingar innan hetta øki. Føroya Handilsskúli bjóðar eina 2 1/4 ára útbúgving til teldustøðing (datamatikara), ið serliga leggur seg eftir nýtsluskipanum innan vinnulív og umsiting. Á Fróðskaparsetrinum er ein ætlan um eina BS-útbúgving í kunningartøkni, ið verður skipað sum framhald</p>
+<p>TILMÆLI 3</p>
+<p><em type="bold">KT-vørða útbúgving</em> </p>
+<p>TILMÆLI 4</p>
+<p><em type="bold">Hægri KT-útbúgving</em> lestur hálva arbeiðstíð yvir 2/ár. Henda útbúgvingin vildi givið teldustøðingunum góðar møguleikar fyri at fáa eitt BS-prógv, umframt at hon kundi verði ein góður møguleiki hjá fólki við samsvarandi fortreytum, ið longu eru í eitt nú KT-vinnuni, at ment sín fakliga førleika, við tað at tey kundu arbeitt hálva arbeiðstíð og verið lestrarvirkin hálva arbeiðstíð. </p>
+<p>Nevndin mælir til, at ein neyv samskipan av nevndu útbúgvingum verður gjørd, og at útbúgvingartilboðini hava eitt so fakliga breitt og samfelagsgagnligt innihald sum gjørligt. Í sjálvum sær eru evnisøkini innan kunningartøkni sera broytilig, og tí krevst ein støðug dagføring av útbúgvingunum. Uppi í hægri útbúgvingum á Fróðskaparsetrinum fylgir eisini ein granskingarskylda, sum tað er umráðandi at fáa nøktandi játtanir til. Tað er m.a. ein av fortreytunum fyri samstarvi millum eina føroyska KT-vinnu og útbúgvingarverkið.</p>
+<p>Um kunningartøknin skal mennast í undirvísingarhøpi, er neyðugt at útbúgvingarstøðini eru sinnað at ganga nýggjar leiðir og skipa fyri ymsum royndarvirksemi, her í millum eisini at gera broytingar í innrættingini, soleiðis at hon verður meiri liðilig enn higartil. Eisini er ein stórur tørvur á teldutøkum tilfari, ið kann verða nýtt til undirvísing.</p>
+<p>Fyri at stuðla fíggjarliga uppundir slíkar verkætlanir, sum hava til endamáls at bróta upp úr nýggjum við KT í undirvísingini, ella gera teldutøkt tilfar, skjýtur nevndin upp, at ein grunnur verður settur á stovn.</p>
+<p>Mælt verður til, at ein nevnd, sum umboðar Mentamálastýrið, KT-depilin og útbúgvingarstovnarnar, á hvørjum ári skal taka støðu til umsóknir um stuðul. Í skjali I eru nevnd nøkur hugskot til verkæltanir, sum kundu fingið stuðul á henda hátt. Av tí at virkisøkið hjá grunninum fer at fevna um nógvar ymiskar útbúgvingar, verður mett, at ein munagóð árlig játtan til endamálið helst eigur at liggja um 1 mió. kr. Størri verkætlanir eiga at viðgera evnisøki, sum hava breiðan áhuga millum skúlarnar. Kortini eigur eisini at vera rúm fyri meiri serstøkum verkætlanum, sum gagna ávísum lærugreinum ella útbúgvingum.</p>
+<p>Serliga fyrstu árini verður neyðugt at geva skúlaleiðslunum gott innlit í møguleikar og vandamál, sum kunningartøknin hevur við sær í undirvísingini og skúlaumhvørvinum yvirhøvur. Tað eru leiðslurnar, sum skulu taka avgerðir um verkætlanir og útgerðarkeyp, og sum skulu ganga á odda, tá ið virkisætlanir skulu gerast fyri hvønn einstakan útbúgvingarstovn.</p>
+<p>Kunningartøkni broytist í heilum, so tað er sera umráðandi hjá skúlaleiðslum at fylgja gongdini á økinum og leggja kós eftir hesum broytingum, sum bæði hava týdning fyri námsfrøðiliga og innihaldsliga partin í skúlarbeiðinum. Neyðugt er at hava eina heildarfatan um hesi viðurskifti, m.a. við teimum skjótt skiftandi rákunum millum ung fyri eyga.</p>
+<p>Tí verður mælt til, at serlig innleiðsla verður hildin fyri stjórum og møguliga eisini umsitingarleiðarum. T.d. kann skipast fyri skeiðum, har luttakararnir fáa leiðbeining og tilfar, soleiðis at skúlaleiðslan hevur neyðug amboð at seta í verk ein KT-politikk og eggja starvsfólkunum at fara undir menningarvirksemi, har kunningartøknin er ein týðandi partur. Arbeitt eigur at verða við langtíðarætlanum (3-5 ár) viðvíkjandi KT-nýtslu í skúlanum, har skúlin ger sær greitt, hvørji øki eiga at raðfestast, bæði viðvíkjandi tøkni og námsfrøðiligari menning. Ein felags leistur eigur at verða nýttur til hetta endamál.</p>
+<p>Nevndin metir, at í løtuni er samlaða talið av teldum á skúlunum undir einum rættiliga nøktandi. Talan er tó um tøkni, ið hevur avmarkaða livitíð og skjótt gerst ótíðarhóskandi. Menningin hevur verið so skjót, at eftir 18 mánaðum er orkan tvífaldað (Moore’sa lóg), og prísurin er farin niður. Kemur henda gongdin at halda fram komandi árini, mugu skúlarnir tí hava eina støðuga endurnýggjan av teldunum við í síni virkisætlan.</p>
+<p>Hetta setir stór krøv til fíggjarorkuna hjá skúlunum. Mælt verður tí til, at innkeypini í mest møguligan mun verða samskipað, soleiðis at frægasta útgerðin fæst fyri rímiligan prís.</p>
+<p>Hóast nýggj forrit koma dagliga, er enn rættiliga avmarkað, hvussu nógv av hesum, ið hóska til undirvísing í teimum ymsu lærugreinunum. Serliga er hetta ein trupulleiki, tá ið arbeitt verður við føroyskum evnum og tilfari.</p>
+<p>Tó verður verður meira og meira tilfar lagt á ymsar heimasíður, har næmingar og lærarar kunnu finna tað fram, sum hevur áhuga til undirvísingarevnini. Her kundi verið gjørt eitt miðvíst arbeiði við at leggja føroyskt tilfar út á netið, ið skúlarnir kunnu nýta, og sum verður samskipað á einum staði. Eisini eigur at verða hugsað um tilfar og amboð í sjálvari móðurmálsundirvísingini, eitt nú</p>
+<p>Serligur stuðul eigur tí at verða veittur teimum, sum savna teldutøkt tilfar, sum er viðkomandi fyri undirvísingina, í lærugreinagrunnar á internetinum. Hetta kann t.d. verða gjørt á tann hátt, at ábyrgdarfólk í ymsu lærugreinunum saman við KTdeplinum umsita stevnur til at lofta tí teldutøka tilfarinum, og gera hetta sjónligt og atkomiligt á netinum. Við fyrimynd í donsku skipanini Skolernes Databaseservice (SkoDa) kundi samband somuleiðis verið fingið við dátugrunnar og tænastur, ið krevja serliga atgongd, móti einum felags gjaldi. Føroyski veitarin eigur samstundis at útbyggja samstarvið við SkoDa.</p>
+<p>Í flestu útbúgvingarkunngerðum verður kunningartøknin nevnd sum ein partur av dagligu undirvísingini. Tó verður alsamt neyðugt at dagføra kunngerðirnar á hesum øki, soleiðis at orðingarnar svara til ta menning, ið alla tíðina fer fram innan tøknina.</p>
+<p>TILMÆLI 7 <em type="bold">Endurnýggjan av KT-útgerð</em> <em type="bold">á skúlunum</em> </p>
+<p>TILMÆLI 8</p>
+<p><em type="bold">Tilfar í undirvísingini</em> </p>
+<p>TILMÆLI 9</p>
+<p><em type="bold">Reglugerðir</em> Tá ið talan er um próvtøkuásetingarnar, eigur í størri mun at verða latið upp fyri teldunýtslu í øllum lærugreinum, og at uppgávurnar eru soleiðis tilevnaðar, at tær eru í samljóð við arbeiðshættirnar, ið hava verið nýttir í undirvísingini, og sum annars eru vanligir í tí arbeiðslívi, ið næmingarnir hava í væntu eftir lokna útbúgving. Við hesum í huga eiga sjálvsagt at verða gjørdar royndir við tí í hyggju at skipa próvtøkur og eftirmeting á annan hátt, ásannandi at talan er um eitt øki, sum er sera siðbundið og sum nágreiniligar reglur eru fyri. </p>
+<p>Til tess, at dagliga teldunýtslan er til besta gagn fyri undirvísingina, og er í samljóð við skrivaðar og óskrivaðar reglur um atburð á netinum, eigur hvør einstakur skúli at gera leiðreglur til allar brúkarar av telduútgerðini. Uppskot og dømi um slíkar leiðreglur eiga at vera tøkar á netinum. Spurningurin um siðsemi á netinum er sum heild rættiliga samansettur. Summi halda, at ymsar verndir skulu setast upp fyri hvat næmingarnar kunnu síggja, samstundis sum onnur halda, at næmingar skulu hava frítt at fara á netinum. Skúlin kann ábyrgdast fyri misnýtslu. Tí mugu skúlaleiðsla og lærarar kenna ábyrgd á hesum økinum, og út frá siðsemiligum fyriliti læra næmingarnar góðan <span type="quote" xml:lang="dan">“netskikk”</span>. Nevndin mælir tí til, at næmingarnir fyrst og fremst verða gjørdir tilvitandi um rættan atburð, heldur enn at forboð eru høvuðstátturin í leiðreglunum.</p>
+<p>Viðmerkingar</p>
+<p>Tað økta virksemið á KT-deplinum krevur, at ein teldutøkningur verður settur í starv til at taka sær av ambætarunum, e-posti og stevnuskipanum. Harumframt eiga at verða sett tvey nýggj hálvtíðarstørv til tess at røkja námsfrøðiliga og tøkniliga vegleiðing fyri útbúgvingarnar eftir fólkaskúlan.</p>
+<p>Grundleggjandi eftirútbúgvingin fyri allar lærarar (KT-kortið) verður fyriskipað í</p>
+<p>2001-2005</p>
+<p>Tilmæli 1KT-depilin v.m.</p>
+<p>Tilmæli 2Eftirútbúgving</p>
+<p>Teldur til lærarar</p>
+<p>1.000</p>
+<p>1.000</p>
+<p>1.000</p>
+<p>1.000</p>
+<p>1.200</p>
+<p>1.000</p>
+<p>1.000</p>
+<p>1.300</p>
+<p>1.000</p>
+<p>Tilmæli 3KT-vørðaútbúgving</p>
+<p>Tilmæli 4Hægri KT-útbúgving</p>
+<p>Tilmæli 5KT-grunnur</p>
+<p>Tilmæli 6KT og skúlaleiðsla</p>
+<p><em type="bold">5.4005.8504.2003.250</em> </p>
+<p>Tilmæli 7Endurnýggjan av KT-útgerð</p>
+<p>Tilmæli 8Tilfar í undirvísingini</p>
+<p>Tilmæli 9Reglugerðir</p>
+<p><em type="bold">Tilsamans</em>(1000 kr.) árunum 2002-2003. Fyri hvønn lærara er útbúgvingin mett at taka 100-120 tímar innanfyri eina lestrarhálvu. Kostnaðarmetingin byggir á, at útbúgvingin fer fram í 15 umførum við í miðal 17 lærarum í hvørjum. Uml. 10 vegleiðarar til hesa eftirútbúgving skulu upplærast frammanundan. Nevndin metir, at innleiðslud</p>
+<p>Nevndin mælir til, at hvør einstakur lærari fær eina farteldu, tá ið eftirútbúgvingin til KT-kortið byrjar, og at hann í 3 ár tilsamans rindar 1/3 av innkeypsprísinum. Í kostnaðarmetingini verður roknað við einum nýprísi uppá 15.000 kr., so fyri teir uml. 240 lærararnar krevst ein nettojáttan uppá 2,4 mió. kr., býtt út á 3 ár.</p>
+<p>Tilmælið frá nevndini um teldur til lærararnar fevnir bert um lærarar á framhaldsútbúgvingunum aftaná fólkaskúlan. Ásannandi, at tað umráðandi hjá øllum lærarum í skúlaverkinum at hava teldu tøka, metir nevndin, at myndugleikarnir eisini eiga at umhugsa eina samsvarandi skipan fyri lærarar í fólkaskúlanum.</p>
+<p>Verður útbúgvingin av KT-vørðum gjørd eftir sama leisti sum fyri fólkaskúlalærarar, krevur hon samanlagt eitt hálvt ársverk fyri hvønn lærara, býtt út á tvey skúlaár. Verður roknað við 12 luttakarum, so er endurrindanin av løn mett at verða 2.1 mió, svarandi til 6 ársverk. Haraftrat koma útreiðslur til fyrireiking, skeiðshald, tilfar, ferðakostnað v.m., sum eru mettar til tilsamans uml. 400.000 kr.</p>
+<p>Talan er um eitt starv á Fróðskaparsetrinum, sum hevur verið í umbúna at fáa sett til at samskipa eina KT-útbúgving í BS stigi. Tann, ið settur verður í starvið, skal harumframt menna samstarvið við vinnulív og hægri útbúgvingarstovnar innan kunningartøkni.</p>
+<p>Við atliti at  kunningartøkni og undirvísing í teimum mongu útbúgvingunum, verður neyðugt hjá KT-grunninum at hava eitt munagott grundarlag fyri at fíggja ymsar verkætlanir (sí dømi um verkevni í fylgiskjali J).</p>
+<p>Í innleiðslutíðini skulu skeið/ráðstevnur haldast fyri leiðslunum og tilfar útvegast. Í hesum sambandi verður roknað við vistarskeiðum.</p>
+<p>Sum er, er samlaða upphæddin til útgerð á vinnu-, miðnáms- og hægri skúlunum (tilsamans 4 mió. kr) ov lítil til at nøkta tey krøv, ið eru til útgerð í dag, her í millum eina hóskandi dagføring av telduútgerðini á skúlunum. Tí verður mælt til, at henda játtan verður hækkað við tilsamans 1 mió. kr.</p>
+<p>Stórur tørvur er á teldutøkum føroyskum tilfari. Samsýning eigur tí at vera latin fólki, ið savna inn tilfar og halda skráir og tilfarsgrunnar við líka.</p>
+<p>Í sambandi við, at nógvar reglugerðir fyri tær ymsu útbúgvingarnar skulu dagførast við atliti at KT-nýtslu, verður neyðugt at samsýna kønum fólki fyri nevndararbeiði.</p>
+<p>SAMANDRÁTTUR</p>
+<p>Í arbeiði sínum hevur nevndin lagt mestu orkuna í at viðgera, hvussu útbúgvingarnar gerast førar fyri at nýta kunningartøkni sum eitt natúrligt amboð í dagligu undirvísingini. Útgerðin, ið tó krevur støðuga endurnýgging, stendur longu í ávísan mun á útbúgvingarstøðunum, hevur nevndin staðfest.</p>
+<p>Tað er greitt, at um teldan skal hava ein týðandi leiklut í undirvísingini, mugu námsfrøðilig fyrilit takast fyri hesum. Siðbundna floksundirvísingin kemur at verða avloyst av nýggjum undirvísingarhættum, har einstaki næmingurin er í miðdeplinum. Ein slík broyting verður ikki framd dag frá degi, men krevur eitt miðvíst arbeiði á útbúgvingarstøðunum. Hetta er tó vegurin at ganga, um undirvísingin skal sampakka við samfelagsgongdina, sum er so sjónlig í hesum árum: at hin einstaki gjøgnum ábyrgd fyri egnari læring nýtir teir miðlar, ið eru til taks í einum smidligum skúlaumhvørvi. Lærarin virkar sum vegleiðari í hesi tilgongdini og tryggjar, at tað, ið næmingurin arbeiðir við, er fakliga viðkomandi og avmarkað til eitt evni, sum kann avgreiðast eftir hóskandi tíð. Við øðrum orðum er talan um eina tilgongd, har tann lærandi sjálvur er virkin í at menna sínar førleikar út frá egnum fortreytum. Tó eigur áherðsla at vera løgd á, at skúlin samstundis skal stuðla, at næmingurin lærir í felagsskapi við onnur, og at júst samstarvsevni er ein týðandi førleiki fyri øll, sum taka eina útbúgving.</p>
+<p>Tað er somuleiðis umráðandi, at lærugreinirnar í størri mun enn higartil finna saman í tvørnámsligum samstarvi, og har við royna at knýta ta sundurpettaðu tilveruna í hyperkompleksa samfelagnum saman í yvirskipaðar fakligar spurningar, sum næmingarnir arbeiða við.</p>
+<p>Kunningartøkniligi parturin í teimum ymsu útbúgvingunum krevur, at serkunnleiki er til staðar. Summar uppgávur eiga at verða røktar innan eina felags skipan. Her verður hugsað um post- og stevnuskipanir, umframt serliga tøkniliga og námsfrøðiliga leiðbeining. KT-depilin er frammanundan stovnaður til hetta arbeiðsøkið fyri fólkaskúlan, og tað er natúrligt, at hann fær víðkað sítt virkisøki til hinar útbúgvingarnar í landinum. Tó er eisini neyðugt at hava køn fólk – KTvørðir – á einstaka útbúgvingarstaðnum, ið dagliga kunnu vegleiða lærarum og næmingum í handfaring av teldutøknini. Ein serlig útbúgving má tí, eins og á fólkaskúlaøkinum, skipast fyri KT-vørðirnar.</p>
+<p>Tað verður mett sum sera umráðandi, at hvør einstakur lærari fær eftirútbúgving í kunningartøkni, tað sonevnda KT-kortið, komandi árini. Henda eftirútbúgving eigur í mest møguligan mun at verða knýtt at gerandisdegnum á skúlanum, soleiðis at arbeiðsuppgávurnar snúgva seg um, hvussu lærarin ítøkiliga nýtir KT í undirvísingini, og at tær samstundis elva til umhugsan, hvussu tøknin passar inn í heildina. Hóast talan her er um nógv ymisk útbúgvingarsløg við ymsum læraraførleikum, verður mett, at ein grundleggjandi partur av hesi eftirútbúgving kann vera hin sami fyri allar lærarar. Hafturat hugsar nevndin sær – við støði í danska Gymnasie-IT – at serlig skeið verða hildin í sjálvvaldum evnum og í teimum lærugreinunum, sum hvør einstakur lærari undirvísir í. Tilsamans fevnir eftirútbúgvingin um 8 skeiðspartar, ið allir skulu vera loknir fyri at fáa KT-kortið. Til eftirútbúgvingina í KT-kortinum verða vegleiðarar knýttir, ið frammanundan hava fingið neyðuga upplæring.</p>
+<p>Fyri at tryggja sær, at lærararnir, ið taka KT-kortið, hava neyðugu útgerðina til taks, eigur at verða skipað fyri einum serligum innkeypi av farteldum, soleiðis at hvør einstakur lærari fær eina teldu, og at hann í 3 ár rindar uml. 1/3 av innkeypsprísinum, svarandi til virðið á telduni eftir hesum áramáli. Lærarin eigur síðan telduna. Um henda skipan ikki verður sett á stovn, verður neyðugt at økja munandi um teldukeyp til skúlarnir, ið lærararnir starvast á.</p>
+<p>Hóast nevndin hevur mett, at útbúgvingarstøðini í nógvum førum hava eitt rímiliga nøktandi tal av teldum, verður framvegis neyðugt við íløgum á hesum øki. Umframt at hava dagførdar teldur, mugu tær ymsu neskipanirnar útbyggjast, so hvørt sum tøknin mennist á hesum øki. Tí má tað haldast vera skilagott, at hesar íløgur verða gjørdar í einum felags høpi, og at neyðug ráðgeving kann fáast til vega í hvørjum einstøkum føri.</p>
+<p>Nýtsla av kunningartøkni í teimum ymsu útbúgvingunum er í stóran mun treytað av, hvørji forrit og hvat teldutøkt tilfar, ið finst til undirvísingina. Sum er, sakna lærararnir í mongum førum serlig forrit og tilfar, ið hóskar til skúlabrúk. Serliga trupul er støðan í móðurmálsundirvísingini, við tað at so lítið av teldutøkum tilfari er á føroyskum. Her verður tí neyðugt at gera eitt innsavningararbeiði, og at leggja í tilfarsgrunnar, sum eru lættir at koma fram at. Í samstarvi við útlendskar stovnar ber harafturat til at fáa atgongd til alskyns tilfar á netinum, eitt nú gjøgnum Skolernes Databaseservice. Serlig forrit til ymsu lærugreinirnar koma javnan fram, men her eigur eitt størri upplýsandi arbeiði at verða gjørt, umframt at serkøn fólk kunnu meta um góðskuna á forritunum, áðrenn skúlarnir keypa tey.</p>
+<p>Leikluturin hjá skúlaleiðslunum kann neyvan undirmetast, tá ið gangast skal eftir nýggjum gøtum, eisini við kunningartøkni<span type="quote" xml:lang="dan">“netskikk”</span>.</p>
+<p>Teldur til lærararnar</p>
+<p>Dagførd tøkni</p>
+<p>Teldutøkt tilfar</p>
+<p>Fyriskipan og menning Serligur stuðul eigur at verða veittur verkætlanum, sum á ymsan hátt bróta upp úr nýggjum við KT í undirvísingini. Tí mælir nevndin til at seta ein serligan grunn á stovn við eini nevnd, sum á hvørjum ári tekur støðu til umsóknir um stuðul. Størri verkætlanir eiga at viðgera evnisøki, sum hava breiðan áhuga millum skúlarnar, men rúm eigur eisini at vera fyri meiri serstøkum verkætlanum, sum gagna ávísum lærugreinum ella útbúgvingum.</p>
+<p>Nevndin er sannførd um, at skipað eigur at vera fyri hægri útbúgvingum innan kunningartøkni í Føroyum, til tess at menna serkunnleikan innan kunningartøkni sum heild í samfelagnum. Hesar útbúgvingar, um so tær miða ímóti einum serligum vinnuligum førleika, ella meira akademiskari breidd, eiga at verða samskipaðar so neyvt, sum til ber. Ásannast má, at evnisøkini innan kunningartøkni eru sera broytilig, og tí mugu avvarðandi partar støðugt dagføra innihaldið í útbúgvingunum. Við slíkum hægri útbúgvingum í Føroyum verður eitt granskingarumhvørvi bygt upp, ið eisini eftirútbúgving og vinnulív koma at hava gagn av.</p>
+<p>FYLGISKJØL</p>
+<p>A. Undirstøðukervið í Føroyum B. KT í skúlunum í norðurlondum C. Telduútgerð á skúlunum (spurnablaðskanning) D. Teldunýtsla á skúlanum (spurnablaðskanning) E. Royndir við telduflokkum  F. Krøv til arbeiðs- og lestrarumhvørvi G. Dømi um nýggja tøkniloysnir a. <span type="quote">”Klænar”</span> eginteldur b. Tráðleyst nærnet c. Internetsamband um fylgisvein H. Margmiðlar I. Óynskt tilfar og netskikkur J. Hugskot til verkætlanir a. Fjarundirvísing b. E-læring c. Nýinnrætting av skúlastovum d. Tilfarsgrunnur e. Móðurmálsforrit f. Meting og tillaging av CBT-forritum g. Margmiðlaloysnir í ymsum lærugreinum h. KT-samstarv við grannalond</p>
+<p>Tøkniliga undirstøðukervið</p>
+<p>Tænastuligt undirstøðukervi</p>
+<p>Tøkniligt undirstøðukervi</p>
+<p>Í juni 1999 var gjørd avtala millum Føroyska skúlaverkið og Føroya</p>
+<p>Tele um internetsamband til føroyska skúlaverkið. Tveir</p>
+<p>møguleikar vóru tá fyri sambandi: uppringt samband um vanliga</p>
+<p>telefonlinju (2-tráðað) ella fast samband við 64 Kb/s ella 128</p>
+<p>Kb/s. Umframt stovningargjald er kostnaðurin býttur í tvey: ein fyri</p>
+<p>fast mánaðargjald og ein fyri nýtslu alt eftir hvat skúlin velur.</p>
+<p>Veljast kann millum gjald fyri niðurtikið Mb, ella fast fyri hvørja</p>
+<p>teldu uttan mun til Mb-niðurtøku.</p>
+<p>Sáttmálin er síðani broyttur (nov. 2000), soleiðis at nýtslukostnað</p>
+<p>urin er lækkaður. Skiftandi nýtslukostnaðurin er nú 1,- kr/Mb og</p>
+<p>fasta mánaðargjaldið fyri hvørja teldu er nú:</p>
+<p type="listitem">•Fólkaskúlarnir: kr. 38,</p>
+<p type="listitem">•Miðnáms- og hægru skúlarnir: kr. 60,</p>
+<p>Nú er eisini møguleiki at fáa fast samband upp til 2048 kbit/sek</p>
+<p>eins og til ber at fáa ISDN samband til internetið.</p>
+<p xml:lang="dan">Dømi:</p>
+<p>Ein miðnámsskúli hevur 50 teldur við 256 Kb/s internetsambandi.</p>
+<p>Stovningin kostar um 27.000 kr (íroknað beinara). Mánaðargjaldið</p>
+<p>er 1103 (fast gjald) + 50 x 60 = 4103 kr. Velur skúlin nýtslugjald</p>
+<p>eftir nøgd (1 kr/Mb), hevði hann fyri sama kostnað kunna tikið um</p>
+<p>3000 Mb niður hvønn mánað ella um 150 Mb hvønn skúladag.</p>
+<p>Teir skúlar/útbúgvingarstovnar, sum eru íbundnir við føstum</p>
+<p>sambandi eftir skúlasáttmálanum, eru hesir:</p>
+<p><em type="italic">2048 Kb/s:</em> </p>
+<p>Stovnarnir á Debesartrøð, KT-depilin</p>
+<p><em type="italic">1024 Kb/s:</em> </p>
+<p>Føroya Handilsskúli, Tekniski skúli í Tórshavn</p>
+<p><em type="italic">512 Kb/s:</em> </p>
+<p>Maskinmeistaraskúlin</p>
+<p><em type="italic">256 Kb/s:</em> </p>
+<p>Tórshavnar kommunuskúli</p>
+<p><em type="italic">128 Kb/s:</em> </p>
+<p>Argja skúli, Eysturskúlin,</p>
+<p>Felagsskúlin á Oyrarbakka, Fiskivinnuskúlin,</p>
+<p>Fuglafjarðar skúli, Føroya Fólkaháskúli,</p>
+<p>Føroya Læraraskúli, Hvalbiar skúli,</p>
+<p>Landsmiðstøðin, Miðnámsskúlin í Suðuroy,</p>
+<p>Miðvágs/Sandavágs skúli, Sankta Frans skúli,</p>
+<p>Sjómansskúlin, Sjúkrasystraskúlin,</p>
+<p>Skúlin á Ziskatrøð/Ósáskúlin, Sørvágs skúli,</p>
+<p>Tekniski skúli í Klaksvík, Vágs skúli,</p>
+<p>Venjingarskúlin, Vestmanna skúli,</p>
+<p>Almanna- og heilsuskúlin</p>
+<p xml:lang="dan">Skole Kom</p>
+<p>KT-depilin</p>
+<p>Stev nur Skúlar</p>
+<p>Lærarar og næmingar</p>
+<p>Internetið</p>
+<p>Farin úr skúlanum</p>
+<p>Føroya Tele</p>
+<p>TeleF</p>
+<p xml:lang="dan">Kall</p>
+<p>TeleTech</p>
+<p><em type="italic">Uppringt samband:</em> </p>
+<p>Kollafjarðar skúli, Norðskála/Oyrar skúli,</p>
+<p>Porkeris skúli, Kaldbaks skúli, Sands skúli,</p>
+<p>Tøkniliga undirstøðukervið Mars 2001</p>
+<p>Oyndarfjarðar skúli, Hovs skúli, Skálavíkar skúli,</p>
+<p>Skúvoyar skúli, Funnings skúli,</p>
+<p>Mikladals/Trøllanes skúli, Runavíkar kommunuskúli,</p>
+<p>Fugloyar skúli, Húsavíkar skúli, Dals skúli,</p>
+<p>Sandvíkar skúli, Viðareiðis skúli, Skúlin á Leiti,</p>
+<p>Skúlin í Sernámsdeplinum, Venjingarskúlin Ytri skúli,</p>
+<p>Venjingarskúlin Heimari skúli,</p>
+<p><em type="bold">Smærri skúlar</em> </p>
+<p><em type="bold">Størri skúlar</em> </p>
+<p>Uppringt samband ISDN samband</p>
+<p><em type="bold">Virki</em> <em type="bold">Stovnar</em> <em type="bold">Einstaklingar</em> </p>
+<p>Fast samband 128 Kb / 256 KBb / 512 KBb</p>
+<p><em type="bold">KT-depilin</em> </p>
+<p>Sjúkrasystraskúli Føroya (Almanna- og heilsudeildin, Tvøroyri),</p>
+<p>Velbastaðar skúli, Hoyvíkar skúli, Kvívíkar skúli</p>
+<p>Av teim størru skúlunum, sum hava internetsamband, men ikki</p>
+<p>skúlasáttmála, kunnu nevnast:</p>
+<p>Handilsskúlin á Kambsdali,</p>
+<p>Studentaskúlin og HF-skeiðið í Eysturoy,</p>
+<p>Klaksvíkar HF-skeið,</p>
+<p>Runavíkar skúli (framhaldsdeildin), Stranda skúli,</p>
+<p>Tofta skúli, Eiðis skúli og Leirvíkar skúli.</p>
+<p>e-postur, stevnur og heimasíður hjá skúlunum</p>
+<p>Í støðum sum radiosamband</p>
+<p xml:lang="dan">Nýggir internet-veitarar</p>
+<p>Internet-samband um fylgisvein (niðurtøka)</p>
+<p>Fast samband 128 Kb</p>
+<p>Ryggnetið hjá Føroya Tele</p>
+<p><em type="bold">THOR-IX</em> </p>
+<p xml:lang="dan">Føroyskur internet-knútur</p>
+<p xml:lang="dan">Internet</p>
+<p>sambandið út í heim</p>
+<p>Finnlandier komin út ætlan, nevnd “Kunskapsstrategi för</p>
+<p>Grundleggjandi kunnleiki um kunningarsamfelagið til øll</p>
+<p>Ymiskt brúk av netverki í lestri og undirvísing</p>
+<p>Meira digitalan kapital (menna marknaðin, styrkja</p>
+<p>útjaðaraframleiðsluna við nýggjum arbeiðsplássum)</p>
+<p>Styrktan bygnað fyri kunningarsamfelagið innan</p>
+<p>undirvísing og gransking</p>
+<p>Skráin hevur ein árligan fíggjarkarm uppá 300 mill. FIM</p>
+<p>verða í einum trý ára skeiði nýttar 1,5 milliardir svenskar</p>
+<p>verður KT-átakið skipað gjøgnum “Informations- og</p>
+<p>Næmingar/studentar og KT</p>
+<p>Lærararnirnar og KT</p>
+<p>Lærugreinarnar og KT</p>
+<p>Smidlig atgongd til áhaldandi læring (lívslanga</p>
+<p xml:lang="dan">læring)</p>
+<p>Samskipan av KT-gransking og útbúgving</p>
+<p xml:lang="dan">er komin gerðætlanin “IKT i norsk utdanning Plan for</p>
+<p>Lærarakunnleiki/førleiki er ein grundleggjandi treyt fyri at fáa</p>
+<p>KT í skúlan</p>
+<p>KT í útbúgving skal fyrisitingarliga, fakliga og námsfrøði</p>
+<p>liga birta undir eina útbúgvingarskipan, sum gagnnýtir KT sum</p>
+<p>fak og sum fult út gagnnýtir teir møguleikar, sum finnast í KT í</p>
+<p>sambandi við undirvísing og læring soleiðis, at kunnleika</p>
+<p>tørvurin hjá tí einstaka og hjá sam-felagnum verður nøktaður</p>
+<p>Allir læraraskúlanæmingar skulu í lestrartíðini fremja lestrar</p>
+<p>virksemi, sum gevur fimi og royndir við at menna og at brúka</p>
+<p>KT í undirvísing og læring her uppií eisini KT sum amboð í</p>
+<p>opnum og smidligum læruhættum</p>
+<p>Netstuðlaðar eftir- og framhaldsútbúgvingar fyri lærarar skulu</p>
+<p>mennast og samskipast Í Íslandisnúgva ætlanirnar seg í mestan mun um at taka inter</p>
+<p>netið í nýtslu sum kunningargrunn í skúlaarbeiðinum. Á</p>
+<p>internetinum fer undirvísingartilfar at verða borið miðvíst fram, og</p>
+<p>eisini verður stovnað samskifti millum næmingar, lærarar,</p>
+<p>skúlaleiðarar, arbeiðsgevarar og við øll, sum hava samband við</p>
+<p>útbúgving. Í hesum ætlanum liggur, at vanligir undirvísingarháttir</p>
+<p>mennast til tað, sum kallað verður smidlig undirvísing, og</p>
+<p>næmingarnir fáa undirvísing í smidligum skúlum.</p>
+<p>Verkætlanin hjá Mentamálastýrinum í elektróniskari útbúgving</p>
+<p>2001-2003 er um, at kunningartøkni verður nýtt til fyrimuns fyri</p>
+<p>útbúgving og mentan við tí endamáli at geva íslendsku tjóðini eitt</p>
+<p>undandrag í framtíðarinnar búskapi. Hugtakið <span type="quote" xml:lang="dan">“smidlig”</span> útbúgving</p>
+<p>verður borið fram. Hetta merkir heilt broytt áskoðan á útbúgving</p>
+<p>og undirvísing. Dentur verður lagdur á broyttar undirvísingarháttir</p>
+<p>í teim ymsku fakunum við eftirútbúgvingarskeiðum, sum eru lagað</p>
+<p>eftir teimum tørvum, sum ávísa fakið hevur.</p>
+<p>Miðað verður ímóti miðvísum samarbeiði við onnur lond, tá tað</p>
+<p>snýr seg um smidliga útbúgving. Fólk og skúlar verða stuðlað til</p>
+<p>at taka størri lut í samstarvi við onnur lond um at gagnnýta</p>
+<p>kunningartøkni. Eisini verða fólk eggjað til at framleiða og rætta til</p>
+<p>undirvísingartilfar, so tað kann nýtast á internetinum, og sum er</p>
+<p>savnað í tilfarsgrunnum.</p>
+<p>Úrslit av royndum í miðnámsskúlum við farteldum og tráðleysum</p>
+<p>neti skulu nýtast til at finna veruligar og skynsamar loysnir á</p>
+<p>hesum øki til gagns fyri miðnámsskúlarnar.</p>
+<p>Ætlanir eru somuleiðis um kunningargrunnar, ið hava nágreiniligir</p>
+<p>upplýsingar um skúlaarbeiði, læring og undirvísing á øllum</p>
+<p>skúlastigum, og sum eru atkomuligir á internetinum</p>
+<p>Í Grønlandier komin út ætlan nevnd “Forslag til en national IT</p>
+<p xml:lang="dan">strategi”. Tað er <span type="quote" xml:lang="dan">”IT pillugu siunnersuisoqatigiit”</span> (Grønlands IT</p>
+<p>Råd), sum hevur staðið fyri. Í hesi ætlan er í partinum um</p>
+<p>útbúgving m.a. nevnt hetta: Útbúgving og KT hevur eitt týdningar</p>
+<p>mikið dupult samband:</p>
+<p type="listitem">•Í annað borðið er menning av KT-førleika ein avgjørd</p>
+<p>treyt fyri at kunna fáa nyttu úr kunningartøknini</p>
+<p type="listitem">•Hinvegin gevur KT nýggjar møguleikar í útbúgvingini, so</p>
+<p>sum fjarundirvísing og nýtt undirvísingartilfar, m.a. við at</p>
+<p>nýta internetið</p>
+<p>Í Grønlandi verður mett, at skulu møguleikarnir í internet</p>
+<p>samfelagnum verða gagnnýttir, er tað avgerandi, at øll hava</p>
+<p>neyðuga KT-minstuvitan á brúkarastøði, umframt at ein munandi</p>
+<p>KT-kunnleiki verður bygdur upp.</p>
+<p>Fyri ta grønlendsku útbúgvingarskipanina hevur KT mun-andi</p>
+<p>møguleikar fyri at økja gagnnýtsluna við betri góðsku og øktum</p>
+<p>útbúgvingarmøguleikum.</p>
+<p>Í Álandihava teir í kunningartøkniligum høpi serliga lagt seg eftir</p>
+<p>at hava framkomin forrit til siglingarfrøði og eftirlíknarar</p>
+<p>(simulatorar) til sigling. Sama er tá talan er um um forrit til rokning</p>
+<p>av støðufesti (stabilitet) hjá skipum.</p>
+<p>Álandingar er kendir, serliga frá segltíðini, sum ein sjófarandi tjóð,</p>
+<p>og tí er natúrligt at teir hava funnið sítt serøki í forritanararbeiði</p>
+<p>num.</p>
+<p><em type="bold">Onnur útgerð</em> <em type="bold">Næm./TeldurFar-Næm.Teldu-StýriskipanNær-Inter- Prent- Sjón- Scan-Dig.</em> <em type="bold">Næm.teldu.Tils.&lt;2 ár  2-5 ár  &gt;5 árteldurteldur flokkar98  95  3.xNT 2000netnetarivarpnari uppt. tól</em> </p>
+<p><em type="bold">Klaksvíkar HF-skeð</em>4,13<em type="bold"></em>xxS </p>
+<p><em type="bold">Klaksvíkar Sjómansskúli</em>1,33<em type="bold"></em>xxx </p>
+<p><em type="bold">Tekniski skúli í Klaksvík</em>1,76<em type="bold"></em> </p>
+<p><em type="bold">Stud &amp; HF skeiðí Eysturoy</em>4,48<em type="bold"></em>xxx 4,13<em type="bold"></em> </p>
+<p><em type="bold">Fiskivinnuskúlin</em>1,36<em type="bold"></em> </p>
+<p xml:lang="dan">3,24<em type="bold"></em>x 2,99<em type="bold"></em> </p>
+<p><em type="bold">Føroya Læraraskúli</em>7,13<em type="bold"></em>xxx </p>
+<p>6,06<em type="bold"></em>xxx <em type="bold">Føroya Maskinsskúli</em>3,23<em type="bold"></em>x </p>
+<p><em type="bold">Maskinmeistaraskúlin</em>3,13<em type="bold"></em>?xx </p>
+<p><em type="bold">Sjúkrasystraskúli Føroya</em>4,22<em type="bold"></em> </p>
+<p><em type="bold">Tekniski skúli í Tórshavn</em>2,52<em type="bold"></em> <em type="bold">Fróðskaparsetur Føroya</em>3,12<em type="bold"></em> </p>
+<p><em type="bold">Samanlagt</em>3,55<em type="bold"></em> </p>
+<p><em type="bold">- Setrið</em>3,59<em type="bold"></em>277 163 %-&gt;51,4 30,218,4 </p>
+<p>Teldunýtsla á skúlunum</p>
+<p type="listitem">– frágreiðing frá KT-kanning – februar 2001</p>
+<p>Endamálið</p>
+<p type="listitem">•Viðv. atgongd til internetið á skúlunum, svaraði uml. triðingurin</p>
+<p xml:lang="dan"><em type="bold">D</em> </p>
+<p>Endamálið við kanningini var at lýsa, í hvønn mun miðnáms</p>
+<p>næmingar brúka teldu, forrit og samskifti á teldu við hús og í</p>
+<p>sambandi við skúlaarbeiðið sum heild, fyri at kunna gera eina</p>
+<p>meting av hesum viðurskiftum á miðnámsskúlunum í dag.</p>
+<p>Spurnarkanningin</p>
+<p>Kanningin var gjørd í flokkum á Handilsskúlanum á Kambsdali,</p>
+<p>Studentaskúlanum og HF- skeiðnum í Eysturoy og Tekniska Skúla</p>
+<p>í Klaksvík á vári 2001.</p>
+<p>Flokkarnir vóru:</p>
+<p type="listitem">•ein flokkur á Handilsskúlanum</p>
+<p type="listitem">•ein flokkur á Studentaskúlanum og HF-skeiðnum</p>
+<p type="listitem">•tveir flokkar á Tekniska Skúla.</p>
+<p>Tveir av flokkunum vóru sokallaðir <span type="quote">”telduflokkar”</span>. Teir næmingar í</p>
+<p>hinum flokkunum, sum hava egna teldu til skúlabrúks, hava</p>
+<p>ognað sær hana sjálvir – hetta var ikki nakað krav frá skúlanum.</p>
+<p>Næmingarnir vóru 96 í tali, flestir teirra á 17 til 22 ára aldri.</p>
+<p>Samandráttur:</p>
+<p type="listitem">•Sum heild kan sigast, at ein rættiliga stórur partur (90%) av</p>
+<p>av næmingunum, at tey høvdu ógvuliga avmarkaða ella</p>
+<p>avmarkaða atgongd til netið, bert 21% søgdu seg hava góða</p>
+<p>atgongd. Um tey kundu gjørt alt skúlaarbeiðið uttan atgongd til</p>
+<p>internetið, svaraði gott helvtin játtandi.</p>
+<p type="listitem">•Uml. tveir triðingar hildu, at lærarnir ikki í nóg stóran mun</p>
+<p>dugdu at nýta KT í undirvísingini, og at tey kundu hugsa sær,</p>
+<p>at KT var meira brúkt á skúlunum.</p>
+<p>Teir 96 næmingarnir svaraðu spurnarblaðnum soleiðis:</p>
+<p>1. Tú hevur egna teldu til skúlabrúks (farteldu)?</p>
+<p>2. Hevur tú atgongd til teldu við hús?</p>
+<p>Ja Nei</p>
+<p>36% 64%</p>
+<p>Ja Nei</p>
+<p>90% 10%</p>
+<p>Ja Nei</p>
+<p>70% 30%</p>
+<p>næmingunum hava atgongd til teldu við hús, og flestu teirra</p>
+<p>(70%) hava eisini atgongd til internetið.</p>
+<p type="listitem">•Viðvíkjandi samskiftinum svaraðu 33% av næmingunum, at</p>
+<p>Ja Nei</p>
+<p>33% 67%</p>
+<p>teir samskiftu við hinar næmingarnar í flokkinum á netinum,</p>
+<p>meðan bert 13% samskiftu við lærararnar ella skúlan.</p>
+<p type="listitem">•16% av næmingunum lótu av og á uppgávur inn á netinum.</p>
+<p type="listitem">•Til spurningin um internetnýtsluna við hús søgdu 16% seg</p>
+<p>brúka internetið í uml. 10 tímar um vikuna og bert 4% í meiri</p>
+<p>enn 10 tímar um vikuna.</p>
+<p type="listitem">•Tey forrit, sum næmingarnir í stóran mun brúktu, vóru tey</p>
+<p>Ja Nei</p>
+<p>13% 87%</p>
+<p>vanligu internetforritini, browsaran, e-mail og kjattforrit. Bert</p>
+<p>12% søgdu seg brúka onnur forrit.</p>
+<p type="listitem">•Til spurningin um, hvørji forrit tey kendu og dugdu at brúka,</p>
+<p>3. Hevur tú atgongd til internet, e-mail og kjatt skipan heima?</p>
+<p>4. Samskiftir tú við hinar næmingarnar í flokkinum á netinum?</p>
+<p>5. Samskiftir tú við skúlan/lærara á netinum?</p>
+<p>6. Hvusssu nógvar tímar brúkar tú á netinum við hús um vikuna?</p>
+<p>(ein kross)</p>
+<p>svaraðu uml. 90%, at tey kendu og nýttu tekstviðgerð,</p>
+<p xml:lang="dan">rokniark, internet og e-mail.</p>
+<p type="listitem">•Viðvíkjandi forritanýtslu í skúlaarbeiðinum, svaraðu 94%, at tey</p>
+<p>brúktu tekstviðgerð, men bert uml. helvtin brúkti rokniark og</p>
+<p>internetið, og bert 16% søgdu seg brúka e-mail, 26%</p>
+<p>framløguforrit og 16% myndaforrit.</p>
+<p type="listitem">•Uml. 70% søgdu seg hava lært at brúka forritini á skúlanum</p>
+<p>0 tímar 2 tímar 4 tímar 10 tímar Fleiri</p>
+<p>37% 24% 19% 16% 4%</p>
+<p>ella vóru sjálvlærd, meðan 31% høvdu fingið førleikarnar frá</p>
+<p>vinum.</p>
+<p>11. Hvørji forrit brúkar tú í sambandi við skúlaarbeiðið?</p>
+<p>12. Hevur tú atgongd til teldu/internetið á skúlanum?</p>
+<p>Browsaran E-mailið Kjattið Annað</p>
+<p>50% 54% 45% 12%</p>
+<p xml:lang="dan">Tekstviðgerð Rokniark Framløguforrit Databasa Internet HTML forrit E-mail Myndaforrit Tekniforrit Onnur forrit</p>
+<p>94% 58% 26% 17% 49% 2% 16% 16% 14% 6%</p>
+<p>Ja Nei</p>
+<p>90% 10%</p>
+<p>13. Hvussu er atgongdin til internetið á skúlanum? (ein kross)</p>
+<p>14. Letur tú av og á uppgávur inn á netinum?</p>
+<p>15. Hvusssu nógvar tímar brúkar tú á netinum á skúlanum um</p>
+<p>vikuna?</p>
+<p>16. Hvat brúkar tú internet-sambandið mest til á skúlanum?</p>
+<p xml:lang="dan">Tekstviðgerð Rokniark Framløguforrit Databasa Internet HTML forrit E-mail Myndaforrit Tekniforrit Onnur forrit</p>
+<p>97% 92% 58% 56% 95% 29% 87% 50% 56% 34%</p>
+<p xml:lang="dan">Tekstviðgerð Rokniark Framløguforrit Databasa Internet HTML forrit E-mail Myndaforrit Tekniforrit Onnur forrit</p>
+<p>96% 83% 45% 35% 90% 21% 82% 40% 42% 27%</p>
+<p>Ongin Ógvuliga avmarkað Avmarkað Góð Sera góð</p>
+<p>10% 33% 34% 21% 2%</p>
+<p>Ja Nei</p>
+<p>16% 84%</p>
+<p>Á skúlanum Á skeið Sjálvlærd/ur Frá vinum Á annan hátt</p>
+<p>68% 2% 69% 31% 3%</p>
+<p>0 tímar 2 tímar 4 tímar 10 tímar Fleiri</p>
+<p>44% 25% 21% 3% 7%</p>
+<p>Browsaran E-mailið Kjattið Annað</p>
+<p>52% 46% 33% 17%</p>
+<p>17. Kundi tú gjørt alt skúlaarbeiðið uttan atgongd til internetið?</p>
+<p>18. Heldur tú, at teldan tekur hóskandi tíð á skúlanum?</p>
+<p>19. Heldur tú, at lærarin dugir at nýta KT í undirvísingini?</p>
+<p>20. Kundi tú hugsa tær, at teldan varð meira brúkt á skúlanum?</p>
+<p>Ja Nei</p>
+<p>58% 42%</p>
+<p>Ov lítla tíð Hóskandi tíð</p>
+<p>47% 53%</p>
+<p>Ja Nei</p>
+<p>38% 62%</p>
+<p>Ja Nei</p>
+<p>70% 30% undirvísingin fór at gerast meira áhugaverd við teldu</p>
+<p>undirvísingin fór at gerast meira fjøltáttað og heildarrættað</p>
+<p>undirvísingin við teldu fór at geva nýggjar námsfrøðiligar</p>
+<p>møguleikar, bæði fyri tann góða og tann minni góða næmingin</p>
+<p>møguleikin fyri, at fyrireikingin til undirvísingina kundi</p>
+<p>gerast meira rættað til kunnleikastøðið hjá hvørjum einstøkum</p>
+<p>næmingi</p>
+<p>næmingarnir fóru at fáa hollan kunnleika til teldur og</p>
+<p>teldunýtslu</p>
+<p>gera næmingarnar vælkendar við Internetið, soleiðis at</p>
+<p>teir kundu nýta tað í teirra virki í framtíðini</p>
+<p>møguleiki fór at vera at samskifta og samstarva við aðrar</p>
+<p>skúlar</p>
+<p>gera næmingarnar betur førar fyri at nýta telduna í</p>
+<p>vinnulívinum og aðrastaðni</p>
+<p>skúlin kundi menna seg á teldutøkniliga økinum og fylgja við</p>
+<p>menningini í grannalondunum.</p>
+<p>at teldan í flestu førum skuldi avloysa pappír og blýant</p>
+<p>at notatir kundu skrivast beinleiðis inn á telduna</p>
+<p>at stílar og aðrar uppgávur kundu loysast á telduni og</p>
+<p>sendast lærarunum yvir internetið</p>
+<p>at skapa møguleikar fyri at nýta ymisk framkomin telduforrit,</p>
+<p>so sum bókhaldsforrit, orðabøkur, tekniforrit v.m.</p>
+<p>at næmingarnir kunnu samskifta við hvønn annan og við</p>
+<p>lærararnar yvir skúlanetið og internetið</p>
+<p>at næmingarnir fingu ein møguleika at fyrireika seg til</p>
+<p>framtíðar samfelagið. dønum vístu tó eisini, at næmingar í telduflokkum sum heild vóru</p>
+<p>meira óróligir.</p>
+<p>Næmingar, ið søktu inn á Handilsskúlan á Kambsdali hetta</p>
+<p>skúlaárið, kundu velja, um teir høvdu hug at luttaka í verkætlanini</p>
+<p>ella fara í <span type="quote">”vanligan”</span> flokk, og vísti tað seg, at áhugin var sera</p>
+<p>stórur. Av 48 næmingum, ið vórðu spurdir, ynsktu 45 næmingar at</p>
+<p>ganga í telduflokkinum. 26 næmingar byrjaðu í telduflokkinum</p>
+<p>hetta skúlaárið.</p>
+<p>Í samband við teldukeypið/-leiguna høvdu næmingarnir ein</p>
+<p>leigusáttmála við skúlan, har teir bundu seg til at gjalda eina ávísa</p>
+<p>upphædd hvønn mánað.</p>
+<p>Teldan, næmingarnir keyptu, var ein 100 MHz Toshiba fartelda við</p>
+<p>800 Mb harðdiski, 16 Mb RAM, PCMIA netkorti, 28,8 kb/s</p>
+<p>data/faksmodem og ljóðkorti. Teldurnar høvdu Microsoft Office</p>
+<p>forritini, Netscape, umframt orðabøkur og antivirusforrit. Hetta</p>
+<p>vóru tá sera framkomnar farteldur.</p>
+<p>Í sambandi við verkætlanina søkti skúlin um stuðul frá ymsum</p>
+<p>almennum stovnum og privatum fyritøkum í Føroyum og Danmark</p>
+<p>til tess at lætta um peningaligu byrðuna hjá næmingunum. Tað</p>
+<p>eydnaðist at fáa rættuliga fitt av stuðuli. M.a. kom ein avtala í lag</p>
+<p>við Telefonverkið viðvíkjandi internetsambandi og internetnýtslu.</p>
+<p>Avtalan gekk m.a. út uppá, at næmingarnir fingu atgongd til</p>
+<p>internetið uttan at gjalda stovningargjald. Nevnast kann, at</p>
+<p>internetið var sera nógv nýtt fyrsta árið.</p>
+<p>Sum ein liður í fyrireikingini gjørdu lærararnir eina meting av,</p>
+<p>hvørji forrit kundu nýtast í undirvísingini í hvørjari einstakari</p>
+<p>lærugrein. Skúlin heitti í hesum sambandi eisini á Fróðskapar</p>
+<p>setrið, um at fáa ein føroyskan rættstavara at nýta í sambandi við</p>
+<p>tekstviðgerð á teldu. Lærararnir høvdu havt møguleika fyri at taka</p>
+<p>ymisk telduskeið árini frammanundan telduverkætlanini. Hetta</p>
+<p>vóru skeið í Windows, Word, Excel, teldupostskipanum v.m. Eisini</p>
+<p>valdi leiðslan at hava so nógvar lærarar knýttar at flokkinum sum</p>
+<p>til bar hetta fyrsta árið, fyri at knýta lærarahópin sum mest at</p>
+<p>verkætlanini.</p>
+<p>Í skúlaárinum varð eisini skipað fyri telduskeiðum fyri næming</p>
+<p>unum.</p>
+<p>Lærararnir møttust regluliga at umrøða gongdina í flokkinum, og</p>
+<p>at umrøða forrit sum nýtast kundu í teimum ymsu lærugreinunum.</p>
+<p>Nógvir spurningar tóku seg upp í sambandi við telduverkætlanina,</p>
+<p>m.a. spurningurin um, hvussu próvtøkan skuldi haldast. Stóri</p>
+<p>trupulleikin var – og er – at próvtøkuuppgávurnar verða gjørdar á sama hátt fyri allar skúlar. Skúlin gjørdi onkrar royndir at halda</p>
+<p>royndir, har næmingarnir í telduflokkinum fingu teldutøkar upp</p>
+<p>gávur, meðan hinir næmingarnir fingu vanligar uppgávur. Tá</p>
+<p>lærararnir rættaðu uppgávurnar, skuldu teir leggja upp fyri, at</p>
+<p>næmingarnir í telduflokkinum kundu nýta amboð, ið hinir næm</p>
+<p>ingarnir ikki høvdu til taks.</p>
+<p>Termins- og endaligu royndirnar hetta árið, vístu tó, at ongin</p>
+<p>munur var á, hvussu næmingar við og uttan teldum kláraðu seg til</p>
+<p>próvtøkurnar.</p>
+<p>Trupulleikarnir, sum stungu seg upp í sambandi við undirvísingina</p>
+<p>við teldum, vóru m.a., at arbeiðslagið ikki var nóg gott í flokkinum</p>
+<p>og at tað tók ov langa tíð at koma í gongd við undirvísingina í</p>
+<p>tímunum. Næmingarnir høvdu lyndi til at brúka telduna meira til</p>
+<p>spæl enn sum amboð. Eisini vóru ymsir tekniskir trupulleikar, ið</p>
+<p>darvaðu teldunýtsluni. Hesar trupulleikar vóru tó loystir sum árið</p>
+<p>leið. Aðrir trupulleikar, so sum innrættan av flokshølinum, vóru</p>
+<p>eisini. Ein roynd varð gjørd at snara floksstovuni 90°. Eisini varð</p>
+<p>roynt at seta borðini upp í <span type="quote">”oyggjar”</span>, men nakrir næmingar</p>
+<p>funnust at, at teir høvdu trupult við at síggja talvuna, av tí at nøkur</p>
+<p>sótu við síðuni/rygginum til talvuna. Samskiftið við hinar næm</p>
+<p>ingarnar var darvað av borðuppsetingini, og onkrir næmingar</p>
+<p>hoyrdu ov illa. Ásannast mátti, at trupult var at innrætta stovuna</p>
+<p>til gagns fyri bæði næmingar og lærarar, samstundis sum fyrilit</p>
+<p>skuldi havast fyri káplum og aðrari útgerð. Næmingarnir fingu høvi</p>
+<p>til sjálvir at koma við uppskotum um, hvussu borðuppsetingin</p>
+<p>skuldi vera, og í løtuni sita næmingarnir í vanligu rekkjunum móti</p>
+<p>talvuni.</p>
+<p>Miðskeiðis í skúlaárinum gjørdu næmingar og lærarar eina eftir</p>
+<p>meting av gongdini, og roynt var at bøta um, har trupulleikar vóru.</p>
+<p>Síðst í skúlaárinum gjørdu lærararnir eina størri eftirmeting av</p>
+<p>árinum, og tosaðu um royndirnar, ið gjørdar vóru.</p>
+<p>Læraraeftirmeting av skúlaárinum</p>
+<p>Fyrimunir:</p>
+<p type="listitem">•teldukønir næmingar</p>
+<p type="listitem">•næmingarnir tilogna sær aðrar førleikar</p>
+<p type="listitem">•teldan gott amboð at nýta í undirvísingini, m.a. til leiting</p>
+<p type="listitem">•næmingar læra lærararnar tað nýggjasta innan teldutøkni</p>
+<p type="listitem">•persónlig menning hjá lærarunum</p>
+<p>Vansar:</p>
+<p type="listitem">•órógv í flokkinum</p>
+<p type="listitem">•flokkurin ov stórur (26 næmingar). Telduflokkar áttu at</p>
+<p>verið smærri</p>
+<p type="listitem">•nógvir góðir næmingar kláraðu seg ikki nóg væl</p>
+<p type="listitem">•lesiætlanirnar ikki tillagaðar undivísing við teldum. Trupult at</p>
+<p>røkka pensum</p>
+<p type="listitem">•próvtøkuskipanin ikki tillagað til nýtslu av teldum undir</p>
+<p>próvtøku</p>
+<p type="listitem">•lærarin fingið nýggjan leiklut sum <span type="quote" xml:lang="dan">”katalysator”</span></p>
+<p type="listitem">•tíðarkrevjandi at fyrireika seg til undirvísingina</p>
+<p type="listitem">•lærararnir hava ikki verið nóg væl fyrireikaðir, áðrenn</p>
+<p>byrjað varð uppá verkætlanina, serliga við atliti at námsfrøði</p>
+<p>liga broytta leiklutinum</p>
+<p type="listitem">•næmingarnir hava verið ov bergtiknir av sjálvari telduni, og</p>
+<p>hetta hevur m.a. havt við sær, at trupult hevur verið at fingið</p>
+<p>samband við teir, og at ov nógv tíð er brúkt til spæl v.m.</p>
+<p type="listitem">•næmingarnir meira <span type="quote">”ósosialir”</span>. Brúka ov nógva tíð uppá</p>
+<p>telduna</p>
+<p type="listitem">•onkrir av lærarar brúka telduna ov lítið</p>
+<p>eftir upplýsingum</p>
+<p type="listitem">•hugaðir næmingar</p>
+<p type="listitem">•næmingar læra at loysa teldutrupulleikar og hjálpa hvørjum</p>
+<p>øðrum</p>
+<p>Tosað var um trupulleikarnar og hvussu skúlin kundi fyrireika seg</p>
+<p>til komandi skúlaár. Avrátt varð, at royna skipanina aftur. Tó ynsktu</p>
+<p>lærararnir at sleppa á námsfrøðiligt skeið til tess at fyreika seg til</p>
+<p>undirvísingina við teldum. Eisini varð mett, at skúlin beinanvegin</p>
+<p>skuldi gera næmingunum greitt, at teldan einans er eitt hent</p>
+<p>amboð at brúka í samband við undirvísingina og heimaarbeiðið.</p>
+<p>Lærararnir mettu, at næmingarnir fóru at vera minni bergtiknir av</p>
+<p>telduni sum tíðin leið, og teir gjørdust meira vanir við teldur. Harvið</p>
+<p>fóru trupulleikarnir við spølum, kjatti v.m. at minka. Lærararnir</p>
+<p>høvdu eisini ynski um at gera nakrar avmarkingar við internet</p>
+<p>nýtsluni á skúlanum, so lærarar og næmingar kundu nýta inter</p>
+<p>netið, tá tørvur var á tí. Eisini varð tosað um at banna telduspølum</p>
+<p>á skúlanum.</p>
+<p>Næmingaeftirmeting av skúlaárinum</p>
+<p>Næmingarnir vóru bidnir um at gera skrivligar eftirmetingar av</p>
+<p>skúlaárinum, so nýggir næmingar, ið umhugsaðu at melda seg til</p>
+<p>telduflokk, kundu fáa eina ábending um, hvørjar royndir</p>
+<p>næmingarnir í telduflokkinum høvdu gjørt sær. Allir næmingar vóru</p>
+<p>samdir um, at tað hevði verið eitt spennandi skúlaár og kundu</p>
+<p>mæla øðrum næmingum til at gera tað sama.</p>
+<p>ein fekk nógv størri vitan um teldur</p>
+<p>fyrimunur var at hava teldu heima og í skúlanum</p>
+<p>tað var lættari og meira hugaligt at gera skúlating. Tíð var</p>
+<p>spard við eitt nú at hava teldutøkar orðabøkur</p>
+<p>tað var áhugaverdari at vera í skúla</p>
+<p>man lærdi meira við at hava telduna hjá sær altíð</p>
+<p>næmingar og lærarar kundu læra nakað nýtt saman á telduni</p>
+<p>internetið var ein góður miðil at nýta í sambandi við</p>
+<p>skúlaarbeiði</p>
+<p>teir væntaðu, at teir fóru at hava betri møguleikar fyri at fáa</p>
+<p>arbeiði aftaná lokna skúlagongd</p>
+<p>ein gjørdist meira <span type="quote">”asosialur”</span> av at vera í telduflokki, tí fólk fóru</p>
+<p>ikki so ofta í fríkorter</p>
+<p>tey kundu ynskt fleiri skeið í at nýta tey ymsu forritini</p>
+<p>tey høvdu lyndi til at vera ov nógv á internetinum</p>
+<p><span type="quote">”spælihugurin”</span></p>
+<p>ikki allir lærarar høvdu havt líka stóran áhuga í verkætlanini</p>
+<p>Krøv til arbeiðs- og lestrarumhvørvi</p>
+<p><em type="bold">F</em> </p>
+<p>Krøvini til skúlan og undirvísingina eru nógv broytt síðstu árini. Vit</p>
+<p>skulu ikki so langt aftur – eini 60 ár – fyri at minnast, hvussu</p>
+<p>skúlarnir vóru tá. Flokkarnir vóru ofta stórir og settir saman av</p>
+<p>næmingum í breiðum aldursbólkum. Eisini var vanligt, at ein lærari</p>
+<p>starvaðist á skúlanum. Um vit hugsa um námsfrøðiliga partin, so</p>
+<p>var undirvísingin tað, vit vanliga kalla <span type="quote">”pultsundirvísing”</span> við terping</p>
+<p>og uttanatlæru. Lærarin var strangur, og vit munnu øll óivað hava</p>
+<p>hoyrt frá søgum um børn, sum vóru revsaði á ein hátt, ið</p>
+<p>samfelagið í dag als ikki hevði góðtikið, einans tí tey ikki dugdu</p>
+<p>tað, lærarin hevði álagt teimum.</p>
+<p>Skúlin, skúlaskipanir, lesiætlanir v.m. eru broyttar munandi</p>
+<p>gjøgnum tíðina. Um vit hyggja at krøvunum til skúlarnar í dag, eru</p>
+<p>nógvar og ymsar treytir, sum skúlin skal lúka. Óansæð um talan</p>
+<p>er um innihald í útbúgvingini, ella teir høliskarmar, ið skúlin hevur,</p>
+<p>er tað av stórum týdningi, at skúlin í besta mun kann liva upp til</p>
+<p>nýggju krøvini, sum sett verða viðvíkjandi innrætting. Tí eiga</p>
+<p>leiðsla, almennir myndugleikar og starvsfólk skúlans, at hugsa</p>
+<p>neyvt um fyriskipanarliga partin á skúlanum og skipanina av</p>
+<p>undirvísingini. Eisini skal leggjast upp fyri krøvunum til hvørja</p>
+<p>einstaka lærugrein, og hvørjar treytir, skúlastovan skal kunna lúka,</p>
+<p>hvør útgerð skal vera á skúlanum, og hvørji arbeiðslig krøv verða</p>
+<p>sett til amboð og umhvørvi.</p>
+<p>Neyðugt er eisini at skilja sambandið millum læring, rúm og</p>
+<p>starvshættir. Kunngerðirnar fyri tær ymsu skúlaskipaninar leggja í</p>
+<p>alt størri mun upp til nýggjar frálæruhættir við sundurbýttari og</p>
+<p>tvørfakligari undirvísing og verkætlanum. Eisini verður kravt, at</p>
+<p>kunningartøkni í størri mun skal gerast partur av undirvísingini.</p>
+<p>Hetta hevur samstundis broytt krøvini til leiklut lærarans. Nýggju</p>
+<p>frálæruhættirnir hava ført til nýggj námsfrøðilig hugtøk, so sum</p>
+<p><span type="quote">”tey 3 lærurúmini”</span> og <span type="quote" xml:lang="dan">”open learning centre”</span>. Felags fyri hugtøkini</p>
+<p>er, at tey styðja upp undir frálæruhættirnir og almennu førleikarnar</p>
+<p>hjá næminginum. Næmingurin skal búnast og gerast meira</p>
+<p>sjálvstøðugur, so hann kann taka ábyrgd av egnari læru. Hugtøkini</p>
+<p>koma eisini inn á broyttu frálæruhættirnar, og hvussu nýtslan av</p>
+<p>KT kann skipast í undirvísingini.</p>
+<p>Skúlastovan</p>
+<p>Hyggja vit at eina skúlastovu í dag, so skal hon bæði virka sum</p>
+<p>høli fyri floksundirvísing, bólkaarbeiði, sjálvstøðugum arbeiði,</p>
+<p>arbeiði við verkætlanum, telduundirvísing og arbeiði við øðrum</p>
+<p>amboðum v.m. Harumframt skal stovan verða innrættað soleiðis,</p>
+<p>at hon gerst karmur um góðan trivna hjá flokkinum. Tá teldur skulu setast inn í floksstovuna, má støða eisini takast til,</p>
+<p>hvar teldurnar og telduútgerðin skal vera. Hvussu við káplum og</p>
+<p>netsambandi, skulu teldurnar kunna flytast?</p>
+<p>Fleiri skúlar hava roynt ymsar borðuppsetingar við oyggjum,</p>
+<p>hestaskógvum, klivum v.m. Tað vísir seg tó, at trupult er at finna</p>
+<p>eina loysn, sum er nøktandi til alla undirvísing. Fyri at kunna lúka</p>
+<p>allar áðurnevndar treytir, ið verða settar til undirvísingini í dag, má</p>
+<p>ein meira liðilig loysn finnast til innrætting. Í dag ber til at keypa</p>
+<p>borð, stólar og útgerð, sum lættliga kunnu flytast runt í</p>
+<p>floksstovuni og setast saman alt eftir tørvi. Hetta kann tó vera ein</p>
+<p>dýr loysn, og fíggjarligu karmarnir hjá skúlunum loyva ikki stórari</p>
+<p>útskifting av útgerð. Ein loysn kann verða at broyta verðandi</p>
+<p>uppseting, sí dømi 1 og dømi 2.</p>
+<p>Í dømunum eru smá borð sett fram við vegginum, har til ber hjá</p>
+<p>næminginum at arbeiða við og loysa serligar uppgávur.</p>
+<p>Telduhøli</p>
+<p>Dømi 6 og 7 vísa, hvussu telduhøli kunnu innrættast. Telduborðini</p>
+<p>eru gjørd soleiðis, at pláss er fyri armstuðuli og borðplássi at</p>
+<p>arbeiða á annars. Borðini eru sett á skák og venda móti talvuni og</p>
+<p>sjónvørpuni.</p>
+<p>Í dømi 8 og 9 eru borð sett inn í telduhølið, ið geva møguleika fyri</p>
+<p>undirvísing uttan teldu og pláss at arbeiða við uppgávum.</p>
+<p>Skúlin sum heild</p>
+<p>Ein av avgerðunum, ið skúlin skal taka, tá talan er um teldur og</p>
+<p>onnur amboð, er, um amboðini skulu skipast við miðsavnandi ella</p>
+<p>spjaddum loysnum, ella møguliga við eini samanseting av hesum</p>
+<p>báðum loysnunum. Sum áður nevnt kunnu teldur og onnur amboð</p>
+<p>setast runt um í floksstovunum, men floksundirvísing við teldum</p>
+<p>kann ikki fara fram á henda hátt. Ein loysn kundi verið, at skúlin</p>
+<p>keypti eitt flokssett av farteldum. Hetta hevur m.a. verið roynt í</p>
+<p>Íslandi. Teldurnar standa á rulliborðum, sum lættliga kunnu flytast</p>
+<p>runt á skúlanum. Aftaná undirvísingina verða teldurnar settar í</p>
+<p>serstøk skáp til uppløðing.</p>
+<p><em type="bold">UndirvísingarrúmiðVenjingarrúmiðLestrarrúmið</em> </p>
+<p>Geva vitan/upplýsingar</p>
+<p>Venja/arbeiða við tilfariVerkætlanararbeiði</p>
+<p><em type="bold">Virksemi</em> </p>
+<p>Undirvísa, skipa fyri, greiða frá Venjingar, undirvísarin ger uppgávur Vegleiðari, lesandi setur sær uppgávur</p>
+<p><em type="bold">Læraralutur</em> </p>
+<p>Taka ímótiLærlingurLesandi</p>
+<p>FlokkurEinsæris / í bólkiEinsæris / í bólki</p>
+<p>Framløga, skriva niðurSimuleringar, databasaInternet, samskifti</p>
+<p><em type="bold">Næmingalutur</em> </p>
+<p><em type="bold">Skipan</em> </p>
+<p><em type="bold">KT</em> </p>
+<p>Dømi um open learning centrevið atliti at teimum 3 lærurúmunum:</p>
+<p><em type="italic">øki aøki bøki c</em> </p>
+<p>Øki a:lestrarrúmvið fleiri møguleikum, m.a. til hugna, kjak og lesnað. Eisini er møguleiki fyri at arbeiða við farteldum.</p>
+<p>Øki b:smærri venjingarrúm, har veggirnir kunn flytast, so rúmini kunnu vera skiftandi í stødd</p>
+<p>Øki c:undirvísingarrúm, har talva og innbúgv kann flytast ikki talan um floksundivísing, men heldur fær tann einstaki</p>
+<p>næmingurin høvi til at tilrættisleggja lærugongdina eftir tørvi,</p>
+<p>áhuga og ferð. Hugtakið fevnir eisini um fjarundirvísing.</p>
+<p>Um hugt verður at innrættingini við OLC, er ymiskt frá skúla til</p>
+<p>skúla, hvussu læruumhvørvið er skipað. Tað hevur stóran týdning,</p>
+<p>at skúlin ger sær greitt, hvat endamálið er við OLC og hvønn tørv</p>
+<p>tað skal lúka, samstundis sum tað skal vera hugaligt at arbeiða í OLC. Onkrir skúlar hava valt at skipa OLC sum eitt</p>
+<p><span type="quote">”kafe-umhvørvi”</span>, har m.a. møguleiki er at lesa bløðini. Aðrir skúlar</p>
+<p>knýta OLC at bókasavninum, meðan aðrir hava býtt OLC upp í</p>
+<p>eindir, ið knýttar eru at skúlastovunum. Uppaftur aðrir skúlar hava</p>
+<p>valt liðiligar loysnir, har til ber at broyta uppsetanina eftir tørvi. Ein</p>
+<p>skúli eigur tó at gera sær greitt, at innrættingin av OLC ongantíð</p>
+<p>er endalig, men at broytingar fara fram alla tíðina.</p>
+<p>Í hornunum á myndini eru bólkarúm, sofasett og øki til</p>
+<p>floksundirvísing. Í miðjuni á myndini eru veggir settir upp, men</p>
+<p>hetta øki er tó <span type="quote">”opið”</span> við gjøgnumgongd á tveimum av síðu</p>
+<p>veggjunum. Fram við veggjunum standa skáp og telduútgerð. Inni</p>
+<p>í miðrúminum er møguleiki fyri floksundirvísing, at gera smáar ella</p>
+<p>størri royndir, eitt nú fysikkroyndir. Telduútgerð og onnur útgerð er</p>
+<p>spjødd um alt økið. Dømi 11 er annað dømi um innrætting við</p>
+<p xml:lang="dan">OLC:</p>
+<p>Til ber at lesa meira um <span type="quote" xml:lang="dan">”Open learning Centre”</span> og tey trý</p>
+<p>lærurúmini á <em type="italic">www.uvm.dk</em>og <em type="italic">www.ctu.dk</em> </p>
+<p xml:lang="dan">Kelda ”Det åbne læringscenter – Uddannelsesstyrelsens</p>
+<p xml:lang="dan">temahæfteserie nr. 18 – 2000” r</p>
+<p>Minni umsiting av forritum og brúkaramóti, tí at øll uppseting,</p>
+<p>uppstiging og brúkara-umsiting verður framd á ambætaranum.</p>
+<p>Betri inniluft (viðv. larmi og hita), tí at teldurnar ikki hava diskar</p>
+<p>og blásara. Hesin fyrimunur verður upp aftur størri, um flat</p>
+<p>skíggjar verða brúktir.</p>
+<p>Eginteldurnar halda longri. Ein ikki heilt nýggj telda (100Mhz,</p>
+<p>16Mb minni) er væl brúkilig sum kløn egintelda. Tað eru fyrst</p>
+<p>og fremst ambætarin og netið, sum eru fløskuhálsarnar í</p>
+<p>tílíkari skipan.</p>
+<p>Lægri rakstrarkostnaður roknaður yvir nøkur ár. Ein kløn</p>
+<p>egintelda er nakað bíligari (um 3000 kr) enn ein samsvarandi</p>
+<p>feit PC-telda. Hin vegin má roknast við einum sterkari</p>
+<p>ambætara enn á einum vanligum PC-nærneti. Danmarks Tekniske Universitet hevur í seinastuni útvegað sær</p>
+<p>400 klænar eginteldur til undirvísingarbrúk. Teldurnar eru frá</p>
+<p>teldufyritøkuni SUN (við stýrisskipanini Solaris og nýtsluforritinum</p>
+<p>StarOffice), og tær hava flatskíggja og kortlesara – hvør lesandi</p>
+<p>hevur eitt persónligt <span type="quote" xml:lang="dan">”smartcard”</span> til at logga seg á og av skipanini.</p>
+<p>Serliga lata teir væl at tí batnaðu inniluftini. Teir meta, at ein kløn</p>
+<p>egintelda hevur eina livitíð upp á 6-7 ár mótsett eini vanligari PC</p>
+<p>teldu, sum kanska skal skiftast út eftir trimum árum.</p>
+<p xml:lang="dan">b. Tráðleyst nærnet</p>
+<p>Tá ið brúkarateldur verða bundnar saman í eitt nærnet (LAN) á</p>
+<p>einum skúla ella stovni hevur tað vanliga verið gjørt við at leggja</p>
+<p>kaðal kring húsini við einum enda til hvørja teldu. Á hesum kaðali</p>
+<p>eru so ambætarar og onnur útgerð (prentari, skannari) íbundin. Í</p>
+<p>teimum nýggjastu nærnetunum hevur hvør telda sín egna tráð til</p>
+<p>eina samliboks (switch ella hub), sum er bundin í eitt ryggnet</p>
+<p>(back-bone) ella beinleiðis í ein ambætara.</p>
+<p>Tann vanligasti mátin at skipa eitt tráðleyst nærnet er at seta eina</p>
+<p>antennuboks upp í eini skúlastovu (t.d. við at festa hana í loftið),</p>
+<p>og tað er sambandið millum hesa boks og teldurnar í skúlastov</p>
+<p>uni, sum er tráðleyst, men antennuboksin hevur fast tráðsamband</p>
+<p>við ryggnetið á skúlanum. Í hvørja teldu verður sett eitt serligt net</p>
+<p>kort við antennu, sum samskiftir við antennuboksina (sí mynd).</p>
+<p>Fyrimunirnir við tráðleysum nærneti eru m.a.</p>
+<p type="listitem">•minni íløga til nærnet (sum dagsprísirnir eru)</p>
+<p type="listitem">•tað slepst undan netkaðalum í skúlastovuni</p>
+<p type="listitem">•tú fært netsamband at kalla um allan skúlan (við fáum</p>
+<p>antennuboksum)</p>
+<p>Fleiri skúlar munnu vita hvussu kostnaðarmikið og roksut tað er at</p>
+<p>fáa eitt nærnet lagt inn, í t.d. ein gamlan skúlabygning við betong</p>
+<p>veggjum. Tað er ikki óvanligt, at tað kostar kanska meiri at leggja</p>
+<p>inn nærnet á skúlanum enn tað, sum sjálv útgerðin til eina teldu</p>
+<p>stovu kostar. Og tað er eyðsæð ein stórur lætti at sleppa undan</p>
+<p>netkaðalum í einari fullari skúlastovu, men streymkaðalum slepst</p>
+<p>vanliga ikki undan, uttan so, at koyrt verður uppá battaríið á far</p>
+<p>telduni.</p>
+<p>Seinastu árini hava royndir verið gjørdar við tráðleysum nærneti,</p>
+<p>og nú fæst útgerð á marknaðinum, sum bæði í orku og kostnaði</p>
+<p>gera tað áhugavert hjá skúlum og øðrum at umhugsa eina tílíka</p>
+<p>loysn.</p>
+<p>Royndir á Tekniska skúla í Klaksvík</p>
+<p>Fyri trimum árum síðani kannaði Tekniski skúlin í Klaksvík tráð</p>
+<p>leysar loysnir og valdi at royna eina sonevnda RadioLAN skipan,</p>
+<p>sum m.a. Tekniski Skúlin í Frederikshavn hevði roynt.</p>
+<p>Útgerðin til eina RadioLAN loysn er sett soleiðis saman: a) ein so</p>
+<p>nevndur hubbur (10Base T Hub), sum skal hava samband við net</p>
+<p>ambætaran (Novell), b) frá hubbinum skal fastnet leggjast til eina</p>
+<p>BBL-eind (BackboneLINK), ið er tann antennuboksin, sum er sett</p>
+<p>upp í hølinum, har teldurnar koma at vera og c) eitt netkot við an</p>
+<p>tennu, sum skal setast í teldurnar, umframt eitt serforrit til Radio</p>
+<p>LAN-sambandið í hvørja teldu.</p>
+<p>Hetta radiosambandið – millum antennuboksina og teldurnar –</p>
+<p>røkkur uml. 100 metrar í beinari linju, um tað ikki er nakað, ið ber</p>
+<p>upp fyri. Sambandið røkkur eisini gjøgnum ein vanligan innivegg</p>
+<p>millum tvey høli, men ikki ígjøgnum betongvegg. Tað vil siga, at</p>
+<p>tað bert er neyðugt at seta eina antennuboks (BBL-eind) upp til</p>
+<p>tvær stovur, sum liggja uppat hvør aðrari. Signalið hevur ongan</p>
+<p>trupulleika at ferðast gjøgnum glas og vanligar byggiplátur.</p>
+<p>RadioLAN-samband er við fleiri høli á skúlanum og skúlaheimið,</p>
+<p>so at næmingarnir og lærararnir kunnu hava samband við skúla</p>
+<p>netið og Internetið. Ein fyrimunur er eisini, at teir næmingar, sum</p>
+<p>komu á skúlan við egnari farteldu, nú eisini fingu atgongd til In</p>
+<p>ternetið og skúlanetið sum heild. Harafturat kundi antennuboksin</p>
+<p>uttan nakað hóvasták flytast runt á skúlanum eftir tørvi, eitt nú inn</p>
+<p>í serhølir og verkstøð. Á hendan hátt var skipanin ikki so stað</p>
+<p>bundin, sum verandi fastnetsskipan. Skipanin kann brúkast bæði</p>
+<p>til fast- og farteldur.</p>
+<p>Kostnaðurin fyri skipanina er:</p>
+<p>10Mb T base HUB    kr. 1000</p>
+<p>BBL (BackboneLINK)kr. 6000</p>
+<p>(kann móttaka signal</p>
+<p>frá 100 teldum)</p>
+<p xml:lang="dan">Netkort og antennakr. 2400</p>
+<p>(til hvørja næmingateldu)</p>
+<p>Viðvíkjandi trygd er tað soleiðis, at sendari og móttakari samskifta</p>
+<p>á ávísum frekvensi, sum er settur upp í RadioLAN-skipanini, t.e.</p>
+<p>tú fært bara samband, um antennuboksin kennist við frekvensin á</p>
+<p>tínari teldu. Eisini er Novell-netið sett upp soleiðis, at brúkarateld</p>
+<p>an skal hava eitt Novell-serforrit, og hvør brúkari fær sítt login</p>
+<p>navn og loyniorð fyri at koma á netið.</p>
+<p>Ferðin á RadioLAN netinum er uml. 4 Mb/sek, sum kann vera í</p>
+<p>minna lagi, um brúkarin bert skal brúka nærnetið á skúlanum.</p>
+<p>Viðvíkjandi internetinum er henda ferð ikki nakar fløskuhálsur, tá</p>
+<p>ræður meiri um tað internetsamband, sum skúlin hevur við sín in</p>
+<p xml:lang="dan">ternetveitara.</p>
+<p>Av tí at útgerðin fyri hvønn brúkara er rættiliga kostnaðarmikil,</p>
+<p>hevur skúlin keypt netkort og antennu til farteldurnar (hjá næm</p>
+<p>ingunum), og síðani lænt hana út til næmingarnar, meðan teir eru</p>
+<p>á skúlanum móti veðhaldi. Tá ið næmingarnir eru farnir av skúla</p>
+<p>num, hava teir ongan áhuga í hesi útgerð, sum bert kann brúkast</p>
+<p>til eina RadioLAN-skipan.</p>
+<p>Samanumtikið er Tekniski skúli í Klaksvík sera væl nøgdur við</p>
+<p>hesa loysn við tráðleysum nærneti. Tøkniliga hevur skipanin virkað</p>
+<p>eftir ætlan, og loysnin hevur lætt munandi um útreiðslurnar í íløgu</p>
+<p>av fastneti um allan skúlan.</p>
+<p>c. Internetsamband um fylgisvein</p>
+<p>Tann vanligi mátin hjá skúlum at fáa fast internetsamband er at</p>
+<p>leiga eina fasta linju til ein internetveitara, sum so hevur samband</p>
+<p>víðari út á alheims internetið. Í Føroyum er tað – tøkniliga sæð –</p>
+<p>í høvuðsheitum verandi (kopar)kervi hjá Føroya Tele, sum verður</p>
+<p>brúkt til endamálið og útbygt so hvørt. Til nýggjari meginsambond</p>
+<p>innanlands verður ljósleiðari kortini brúktur, m.a. fer internet</p>
+<p>ferðslan út í heim gjøgnum ljósleiðaran, sum umvegis Tjørnuvík er</p>
+<p>lagdur eftir havsins botni suður til europeiska meginlandið. Úti í</p>
+<p>heimi er tað somuleiðis kopartráðir og ljósleiðarar (bæði til lands</p>
+<p>og havs), sum binda meginpartin av internetinum saman.</p>
+<p>Fylgisveinar hava higartil mest verið brúktir til einvegis samskifti,</p>
+<p>t.d. við at eitt sjónvarpsfelag frá eini sendistøð á jørðini sendir tilfar frá netinum til brúkaran fer um fylgisvein, men</p>
+<p>tilfar frá brúkaranum fer út á netið gjøgnum tráð yvir hav.</p>
+<p><em type="italic">www.europonline.com</em>) sum burt</p>
+<p>fylgisveinaskipanina (Europe Online DVB PCI Card). Sjálvur para</p>
+<p>bolurin er ein vanligur parabolskermur (1,2 m í tvørmáti) við ein</p>
+<p>um LNB (Low Noice Block) høvdi, settur at peika í eystan 19.2 stig</p>
+<p>(ASTRA). Millum høvdið og fylgisveinanetkortið á rundkoyringar</p>
+<p>telduni skal vera ein væl skermaðar kaðal.</p>
+<p>Teldurnar á skúlaheiminum hava samband við annað av teimum</p>
+<p>vanligu netkortunum (A) í rundkoyringartelduni, so tær kunnu</p>
+<p>senda yvir tað vanliga fasta internetsambandið hjá Føroya Tele.</p>
+<p>Hetta kortið (A) hevur so samband við fylgisveinanetkortið (C),</p>
+<p>sum so aftur hevur samband við hitt vanliga netkortið (B), fyri at</p>
+<p>sambandið skal kunna vera báðar vegir.</p>
+<p>Í lýsingini frá útbjóðaranum stendur, at ferðin eigur at vera 2</p>
+<p>MB/sek, men tann størsta ferðin, skúlin hevur mált er 221 Kb/sek</p>
+<p>(t.e. um 11% av lýstu ferðini). Hetta skyldast kanska, at Føroyar</p>
+<p>eru staddar í útjaðaranum á virkisøkinum hjá fylgisveininum. Møg</p>
+<p>uliga er fylgisveinurin og linjurnar hjá veitaranum ovbyrjaðar.</p>
+<p>Útgerðin verður leigað fyri uml. kr. 1400 (200 evrur) um árið. Út</p>
+<p>gerðin varð ordrað um ein millummann í Danmark, tí at belgiska</p>
+<p>fyritøkan kundi ikki uttan víðari selja skipanina uttan fyri ES.</p>
+<p>Samanumtikið er skúlin sum heild sera væl nøgdur við royndirnar.</p>
+<p>Fleiri trupulleikar hava verið, men loysnir hava verið funnar so</p>
+<p>hvørt. Millum fyrimunirnar skal nevnast, at:</p>
+<p type="listitem">•næmingarnir kunnu vera á netinum fyri ein rímiliga lítlan</p>
+<p>kostnað (í mun til frammanundan)</p>
+<p type="listitem">•ferðin á netinum er minst líka góð sum við verandi</p>
+<p xml:lang="dan">internetsambandi</p>
+<p type="listitem">•kostnaðurin fyri íløguna er stak lítil í mun til verandi loysn <em type="italic">multimedia</em>á enskum) er seinastu árini brúkt í </p>
+<p>nógvum og títtum sambandi millum brúkara og skipan</p>
+<p>samskipan av teksti, tekningum og ljóði, men eisini myndir,</p>
+<p>video, <span type="quote">“livandi”</span> tekningar, taktila ávirkan, skráseting av rørslu</p>
+<p>v.m.</p>
+<p>at sambandið og samskiftið byggir á skíggja, knappaborð</p>
+<p>og mús, men eisini á meiri framkomin tól, ið kunnu ávirka</p>
+<p>sansir hjá brúkara, umframt at kunna lesa atburðin hjá</p>
+<p>brúkaranum. hvørva millum ung, og tað er bert ein spurningur um tíð, so er</p>
+<p>analogi bandupptakarin eisini søga. Tað, sum í útbúgvingarhøpi</p>
+<p>sjálvsagt hevur serligan áhuga, er, hvørjar lærumøguleikar</p>
+<p>margmiðlar og margmiðlaskipanir, ja, nýggja tøknin sum heild,</p>
+<p>hevur.</p>
+<p>Dømi um margmiðlamøguleikarnar eru at finna á Lærara</p>
+<p>skúlanum, tá næmingar arbeiða við redigering av tilfari, ið skal</p>
+<p>leggjast fram fyri floksfelagar, ella sum próvtøkuarbeiði. Annað</p>
+<p>dømi eru næmingar, sum í starvslæru sínari velja at arbeiða við</p>
+<p>evninum at vera forelskaður – eitt evni, ið tey halda er av týdningi</p>
+<p>fyri elstu næmingarnar í fólkaskúlanum - og sum eisini man hava</p>
+<p>áhuga hjá næmingum innan framhaldandi útbúgvingarnar! Tey</p>
+<p>seta seg væl og virðiliga inn í evnið, fyrireika spurningar, ið skulu</p>
+<p>setast næmingum og øðrum, fyrireika tær myndaupptøkur, ið</p>
+<p>skulu gerast og fara síðani í gongd. Tosað verður við ung, gentur</p>
+<p>og dreingir, við lærarar og onnur, ið verða mett at hava serliga</p>
+<p>vitan um evnið. Næsta stigið er at samskipa samtalur, tekst og</p>
+<p>myndir í einari heild, ið ger at málbólkurin tímir at hyggja at</p>
+<p>frásøgnini og seta teirra tankar í sving, tvs. tann estetiska</p>
+<p xml:lang="dan">dimensjónin.</p>
+<p>Í hesum døminum um framleiðslu, sum samstundis er ein</p>
+<p>samskiftistilgongd, eru nógvar ymiskar lærutilgongdir virknar,</p>
+<p>bæði tær, ið beinleiðis knýta seg at amboðunum/miðlunum, men</p>
+<p>ikki minni í orðaskiftinum, redigeringini av tí, ið ætlanin er skal</p>
+<p>verða úrslitið. Í redigeringini av veruleikanum so at siga, og her</p>
+<p>kemur eisini ein etiskur táttur inn í bílætið: hvat kunnu vit loyva</p>
+<p>okkum at klippa og hvussu, fyri ikki at gera seg inn á tað, fólk</p>
+<p>hava sagt? Leikluturin hjá undirvísara verður ein annar, tá talan er</p>
+<p>um at arbeiða við margmiðlaframleiðslu. Heildarspurningurin, ið</p>
+<p>arbeiðið byggir á, ger so nógvar ymiskar tættir virknar, í oman</p>
+<p>fyrinevnda dømi tekst, myndir, estetiskan umtanka, etiskt um</p>
+<p>hugsni, kunnleika um málbólkin o.a. ið krevur tætt samstarv</p>
+<p>millum luttakararnar. Tað ber til at siga, at talan er um veruliga</p>
+<p>framleiðslu, um tilgongdir, ið gerast sjónligar í einum úrsliti, ið til</p>
+<p>ber at meta um. Margmiðlamøguleikarnir vísa seg eisini í lidnum</p>
+<p>forritum, ið útbúgvingar longu hava til taks. Her verður hugsað um</p>
+<p>visualiserings- og simuleringsmøguleikarnir, sum t.d. tær á</p>
+<p>maskinmeistara- og sjómansskúlanum.</p>
+<p>Fara vit nærri inn á spurningin um, hvørjir møguleikar, ið lata seg</p>
+<p>upp við at brúka margmiðlar miðvíst sum amboð í undirvísingini,</p>
+<p>ber til at siga, at vit byggja útbúgvingina, sum er merkt av</p>
+<p>framløgu av frammanundan góðkendari vitan,út við</p>
+<p>kanningararbeiði og royndarvirksemi. Framleiðslugongdin, sum</p>
+<p>nevnd er omanfyri, er bæði ein innari sálarlig tilgongd og ein ytri framleiðslugongd. Og tilgongdirnar virka samstundis. Tey lesandi</p>
+<p>arbeiða við sínari ferð eftir einari sjálvvaldari raðfesting. Í mun til</p>
+<p>móttakandi undirvísing er talan um royndarvirksemi, um kanning</p>
+<p>av verðini innan fyri tey mark, ið evni og útbúgving seta, umframt</p>
+<p>førleikan í at brúka tey ymisku framkomnu amboðini. Framleiðslan</p>
+<p>samskipar nógvar ymiskar virksemishættir. Tey lesandi brúka</p>
+<p>teirra vitan og kenslur, tey eru greinandi og heildarskapandi. Í</p>
+<p>tilgongdini er eisini neyðugt at taka støðu og meta um bæði hættir,</p>
+<p>innihald og t.d. fakligt støði.</p>
+<p>Hugsa vit um miðnámsútbúgvingarnar, er greitt at margmiðla</p>
+<p>framleiðsla, og arbeiðið við marg-miðlaskipanum annars, skapar</p>
+<p>møguleika fyri arbeiði og arbeiðsgongdum, ið grundleggjandi</p>
+<p>verða stýrdar av teimum lesandi við undirvísaranum sum</p>
+<p>kompetentum viðleikara, ráðgeva og undirvísara til tíðir. Hugsa vit</p>
+<p>um útbúgvingarnar, ið geva vinnuførleika, so er greitt, at eisini her</p>
+<p>ber til at brúka margmiðlamøguleikarnar í nógv størri mun enn</p>
+<p>higartil, ikki bert, ella fyrst og fremst sum simuleringar, men eisini</p>
+<p>sum starvsstova, sum royndar- og menningarvirksemi í einum</p>
+<p>sjálvgjørdum virtuellum heimi. Sum krevur, at tú fakliga gert eitt</p>
+<p>umfatandi og miðvíst arbeiði av verðini uttan um teg, fyri at kunna</p>
+<p>skapa eina framleiðslu, ið virði er í.</p>
+<p>Royndir úr framhaldsdeildini vísa, at sambandið millum næmingar</p>
+<p>og undirvísara broytist, tá talan er um framleiðsluskapandi arbeiði</p>
+<p>samanborið við vanliga floksundirvísing. Næmingarnir gerast nógv</p>
+<p>meiri sjálvstýrandi og stuðla seg til hvønn annan, bæði í einstaka</p>
+<p>arbeiðsbólkinum og tvørtur um arbeiðsbólkarnar. Lærarar siga</p>
+<p>eisini, at tað í grundini eru næmingarnir sum stýra arbeiðs</p>
+<p>gongdini, meðan avbjóðingin hjá læraranum serliga vísir seg við at</p>
+<p>tryggja, at komið verður í djúpdina, at fáa fatur á meiri/nýggjari</p>
+<p>vitan – við øðrum orðum at geva avbjóðingar, ið eru við til at gera,</p>
+<p>at arbeiðið heldur áfram. Eisini hevur lærarin yvirskipaðu</p>
+<p>stýringina, ið er við til at tryggja støðið og týdningin, og at arbeiðið</p>
+<p>fær ein enda.</p>
+<p>So tað er eisini pláss fyri undirvísaranum í framtíðarskúlanum,</p>
+<p>men einkarrætturin til vitan um neyðugu virksemisførleikarnar</p>
+<p>verður heldur til almannarætt.</p>
+<p>samanhangi og til hvat endamál, verkið kann nýtast til,</p>
+<p>um tað kann tillagast, um tað kann margfaldast o.s.fr.</p>
+<p type="listitem">•Upphavsrættarlógin er galdandi, tá eitt verk er skapt. Eitt</p>
+<p>verk er skapt, tá tað hevur <span type="quote">”verkshædd”</span>, tað vil millum</p>
+<p>annað siga, at tilfarið skal vera upprunaligt og úrslit av</p>
+<p>einum persónligum, sjálvstøðugum og skapandi avriki.</p>
+<p type="listitem">•Eitt verk er sum høvuðsregla vart 70 ár eftir, at upphavs</p>
+<p>maðurin er deyður. Men er talan t.d. um eina ljóðupptøku ella</p>
+<p>eina  mynd, er verkið vart 50 ár frá tí degi, myndin ella</p>
+<p>ljóðupptøkan varð gjørd.</p>
+<p type="listitem">•Avmarkingar eru í einarættindunum hjá upphavsmanninum.</p>
+<p>Tað er t.d. loyvt at endurgeva eftir vanligari siðvenju úr verkum</p>
+<p>og margfalda til egna nýtslu.</p>
+<p type="listitem">•CTU (Center for Teknologistøttet Uddannelse) hevur givið</p>
+<p>Upphavsrættur</p>
+<p>Lógarásetingar</p>
+<p>Óynskt tilfar</p>
+<p>Kelduvandni</p>
+<p>Netskikkur</p>
+<p>Upphavsmaðurin hevur einarætt at ráða yvir sínum</p>
+<p>verki. Tað merkir, at tað er upphavsmaðurin, sum avger, um eintøk kunnu framleiðast, um verkið kann lánast út,</p>
+<p>leigast út ella seljast.</p>
+<p type="listitem">•Tað er eisini upphavsmaðurin, sum avger í hvørjum</p>
+<p>út eina vegleiðing <span type="quote" xml:lang="dan">”Hvad må jeg”</span> við fleiri dømum um</p>
+<p>upphavsrætt og møguleika fyri at spyrja um upphavrætt</p>
+<p><em type="italic">á teirra heimasíðu www.ctu.dk</em> </p>
+<p>Dømi úr vegleiðingini:</p>
+<p>Spurningur:</p>
+<p><em type="italic">Kunnu uppgávur, tekningar og annað tilfar, sum næmingar hava</em> </p>
+<p><em type="italic">gjørt, leggjast út á heimasíðu skúlans?</em> </p>
+<p>Svar:</p>
+<p>Bert við serligum loyvi frá tí, ið hevur upphavsrættin, kann tilfar,</p>
+<p>sum onnur hava gjørt, leggjast út á heimasíðu skúlans.</p>
+<p>Spurningur:</p>
+<p><em type="italic">Kunnu flokksmyndir leggjast út á Internetið?</em> </p>
+<p>Svar:</p>
+<p>Fyri at leggja flokksmyndir út á Internetið, skal loyvi fáast frá bæði</p>
+<p>myndatakaranum og persónunum, sum eru á myndini.</p>
+<p>Spurningur:</p>
+<p><em type="italic">Kunnu edv-forrit og fløgur kopierast til brúk í undirvísingini?</em> </p>
+<p>Svar:</p>
+<p>Bert um loyvisavtalurnar geva loyvi til tess kunnu edv-forrit og</p>
+<p>fløgur kopierast.</p>
+<p>Um talan er um brot á upphavsrættarlógina ábyrgjast lærarar – í</p>
+<p>útgangsstøðinum – fyri brot á lógarreglur um upphavsrættindi.</p>
+<p>Serligar reglur í endurgjaldslóggávuni kunnu tó geva eitt annað</p>
+<p>úrslit. Á sama hátt ábyrgjast næmingarnir eisini fyri síni brot á lógarreglur um upphavsrættindi. Tó kunnu lærararnir og skúlin</p>
+<p>samábyrgjast.</p>
+<p>Millumlanda avtalur eru eisini gjørdar, ið tryggja upphavsrættin</p>
+<p>uttanlands. Tann mest týðandi avtalan av hesum slagi er</p>
+<p>Bernerkonventiónin, sum flestøll lond hava undirskrivað. Henda</p>
+<p>avtala tryggjar, at upphavsrætturin hjá t.d. einum føroyingi verður</p>
+<p>virdur í øðrum londum sambært hesi avtalu. Aðrar avtalur eru</p>
+<p>gjørdar viðvíkjandi upphavsrættinum innan ymisk serøki, eitt nú:</p>
+<p>WIPO Copyright Treaty um upphavsrætt av digitalum tilfari (m.a. á</p>
+<p>internetinum) og WIPO Performance and Phonogram Treaty  um</p>
+<p>upphavsrætt hjá listafólki og tónleikaframleiðarum. Meira um</p>
+<p><em type="italic">hesar sáttmálar er at finna á www.ophavsret.dk/generelt.htm.</em> </p>
+<p>Óynskt tilfar</p>
+<p>Tá ið skúlin ynskir at avmarka atgongdina til ávíst tilfar, kann hann</p>
+<p>umhugsa at nýta ein ella fleiri av niðanfyri nevndu hættum:</p>
+<p type="listitem">•teknisk loysn: skúlin kann leggja inn sáldingarforrit, sum</p>
+<p>avmarka atgongdina hjá næmingunum til óynskt tilfar.</p>
+<p type="listitem">•áseta reglur: skúlin kann áseta leiðreglur um rættindi og</p>
+<p>skyldur hjá næmingum og skúla.</p>
+<p type="listitem">•námsfrøðilig loysn: skúlin kann eggja næmingunum til at</p>
+<p>vísa siðsemiligt fyrilit í sambandi við KT-nýtslu.</p>
+<p>Tveir teir fyrstu hættirnir avmarka atgongdina til óynskt tilfar í</p>
+<p>sambandi við KT-nýtslu í skúlanum, og tann seinasti hátturin lærir</p>
+<p>næmingarnar at handfara óynskt tilfar bæði innan- og uttan</p>
+<p>skúlagátt.</p>
+<p>Skúlin kann velja eina ella fleiri av hesum loysnum, ið tó hvør sær</p>
+<p>bæði hava fyrimunir og vansar við sær:</p>
+<p>Ein teknisk loysn kann gera, at vandin fyri at koma fram á óynskt</p>
+<p>tilfar minkar. Samstundis ger skúlin vart við tann hugburð, ið</p>
+<p>skúlin stendur fyri. Hetta hevur tó fleiri vansar við sær, eitt nú, at</p>
+<p>ein teknisk loysn sampakkar illa við at givið verður næmingi og</p>
+<p>lærara brúkaraábyrgd. Sáldið er ikki so tætt, sum lýsingarnar</p>
+<p>reypa av, soleiðis at væntaða trygdin kanska ikki er til staðar.</p>
+<p>Hesar loysnir eru ofta merktar av amerikanskari áskoðan um, hvat</p>
+<p>er ósømiligt, t.e., at størstur dentur verður lagdur á at steðga tí</p>
+<p>ónærisliga. Tað eggjar summum til lógarbrot - tað kann verða ein</p>
+<p>avbjóðing í at snýta sáldið. Eisini kann eitt sáld steðga keldutilfari,</p>
+<p>sum als ikki er ósømiligt. Fleiri forrit, ið skulu sálda internettilfar,</p>
+<p>steðga t.d. tilfari við orðum sum bróst, ið so forðar fyri, at</p>
+<p>næmingurin kann finna tilfar um bróstkrabba. Eisini kann ein seta spurningin, um slíkar loysnir ikki avmarka grundlógarvard</p>
+<p>rættindi. Heldur ikki verður ábyrgd tikin fyri langtíðarmenningini</p>
+<p>hjá tí einstaka næminginum til at hava siðsemilig fyrilit, tá ið</p>
+<p>ferðast verður á netinum.</p>
+<p>Niðurstøðan av hesum kann vera at skúlin gaman í kann seta</p>
+<p>eftirlits- og sáldingarforrit í teldurnar, men skal samstundis vera</p>
+<p>tilvitandi um, at hetta ikki er ein langtíðar loysn og ikki rokna við</p>
+<p>at tað verjir í stóran mun.</p>
+<p>Ásettar reglur kunnu siga, hvat brúkarin hevur loyvi ella ikki hevur</p>
+<p>loyvi til. Onkuntíð ger skúlin leiðreglur, uttan at vera greiður yvir</p>
+<p>siðsemiliga samanhangið. Ein máti at økja virðingina fyri</p>
+<p>siðsemiligum leiðreglum, er, at tær ikki verða lýstar einsæris frá</p>
+<p>leiðsluni, men verða gjørdar í felag við lærarar og næmingar, út frá</p>
+<p>kunnleikanum um internetið og einari felags fatan av virðis</p>
+<p>grundarlagnum á skúlanum. Eisini kann staðfestast - eins og</p>
+<p>galdandi er fyri tekniskar loysnir – at ásettar leiðreglur fyri</p>
+<p>netnýtslu ikki loysa allar trupulleikar.</p>
+<p>Góður netskikkur verður tó neyvan einans skaptur við ásettum</p>
+<p>reglum. Uppgávan hjá skúlanum er at læra næmingarnar</p>
+<p>siðsemiligan atburð á ymiskan hátt, og har eiga ásettu reglurnar</p>
+<p>sín lut.</p>
+<p>Námsfrøðiliga loysnin er, at stuðla næmingunum í teirra menning</p>
+<p>av siðsemiliga førleika. Í hesum skal eitt miðvíst arbeiði gerast,</p>
+<p>men er samstundis einasta loysnin, sum hevur varandi árin, t.e.,</p>
+<p>at næmingarnir hava fingið tilvit og førleika viðvíkjandi siðsemi</p>
+<p>innan KT-nýtslu. Ein háttur til at læra næmingarnar siðsemi á</p>
+<p>internetinum, er, at teir brúka netið til at finna eitt nú nasistiskt,</p>
+<p>pornografiskt tilfar o.s.fr. og saman við lærara hava orðaskifti um</p>
+<p>hetta. Skúlin kann ikki vera neutralur, tí etiskur og demokratiskur</p>
+<p>førleiki kann bara mennast við orðaskifti.</p>
+<p>Kelduvandni</p>
+<p>Tað verður alt vanligari at vísa til internetheimildir. Havast skal í</p>
+<p>huga, at ein og hvør kann leggja tekst o.a. á internetið – tað er at</p>
+<p>kalla ókeypis og einki eftirlit er, ei heldur verður meting verður</p>
+<p>gjørd av tilfarinum. Tí finst bæði líkt og ólíkt á netinum, eitt nú</p>
+<p>víðgongdar áskoðanir, sum ikki lættliga koma fram at aðrastaðni,</p>
+<p>og mangt annað tilfar av ivasamari góðsku. Eingin ivi er tó um, at</p>
+<p>teir elektronisku miðlarnir hava við sær nógvar møguleikar til at</p>
+<p>bera fram virðismiklar upplýsingar. Men tað er sera umráðandi at</p>
+<p>vera vandin, tá ið tilfar frá netinum verður nýtt.</p>
+<p>: skriva møguliga rithøvunda og yvirskrift á web-síðuni,</p>
+<p>: skriva rithøvunda, e-post adressuna hjá rithøvundanum,</p>
+<p>Legg bara upplýsingar á internetið, sum tú kanst standa</p>
+<p>til svars fyri.</p>
+<p>Avmarka tínar upplýsingar til tað neyðsynta. Tíð og flutnings</p>
+<p>ferð eru ofta avmarkað hjá móttakaranum.</p>
+<p>Legg ikki upplýsingar á internetið, sum onnur hava upphavs</p>
+<p>rætt til, ella tilfar, sum kann metast ósømiligt. ábyrgd fyri tí, so hevur skúlin kortini nakað av ábyrgd, tá skúlin</p>
+<p>setir upp telduútgerð og netsamband til næmingarnar at brúka.</p>
+<p>Verður útgerðin brúkt á óhepnan hátt, hevur skúlin eina moralska</p>
+<p>og juridiska ábyrgd. Tað kann tí vera hóskandi at áseta reglur fyri,</p>
+<p>hvat teldur og internet kann brúkast til á skúlanum, og at</p>
+<p>næmingarnir skriva undir uppá, at teir eru kunnaðir um ásettu</p>
+<p>reglurnar. Brýtur næmingur reglurnar í slíkum førum, hevur hann</p>
+<p>ábyrgd sum einstaklingur.</p>
+<p>Uppskot til leiðreglur fyri netnýtslu skúlans</p>
+<p>Brúkararættindi</p>
+<p>Allir næmingar/lesandi, skeiðluttakarar og starvsfólk á skúlanum</p>
+<p>kunnu nýta teldur og net skúlans.</p>
+<p>Teldur og Internetsamband skúlans eru ætlað til undir</p>
+<p>vísingarendamál, tað vil siga, skulu brúkast í sambandi við</p>
+<p>undirvísing, uppgávuskriving, at leita eftir upplýsingum og annað</p>
+<p>viðkomandi fyri útbúgvingina.</p>
+<p>Sjálvræðisrættur</p>
+<p>Skúlin lesur ikki e-post ella loggar seg á samband hjá næmingum</p>
+<p>og lærarum.</p>
+<p>Tað er galdandi treytað av, at eingin illgruni er um brot á reglurnar.</p>
+<p>Skyldur brúkarans</p>
+<p type="listitem">•Føroyskar og millumtjóða lógir og reglur um upphavsrættindi</p>
+<p>v.m. skulu haldast.</p>
+<p type="listitem">•Ein hvør nýtsla av teldu og neti, sum av skúlanum verður</p>
+<p>mett ólógligt ella skaðiligt fyri umdømi ella virksemi skúlans, er</p>
+<p>bannað.</p>
+<p type="listitem">•Øll skulu vísa góðan netskikk, t.d. vísa virðing og umhugsni á</p>
+<p>samskiftinum í sambandi við e-post, kjatt, stevnir og liknandi.</p>
+<p type="listitem">•Heldur ikki vanæra, hótta ella á annan hátt nerva aðrar</p>
+<p>brúkara á netinum.</p>
+<p type="listitem">•Tað er álagt hvørjum brúkara at vera vandin um Internet</p>
+<p>tilfar. Lærarar eiga at undirvísa í og minna á týdningin av</p>
+<p>kelduvandni.</p>
+<p type="listitem">•Brúkarar skulu virða upphavsrættin.</p>
+<p type="listitem">•Um brúkari varnast brek á teldunum, skal viðkomandi alt</p>
+<p>fyri eitt siga telduvegleiðara skúlans frá.</p>
+<p type="listitem">•Øll eiga at ansa eftir <span type="quote">”innbrotum”</span> ella virusávaringum. Teldu</p>
+<p>vegleiðarin skal kunnast beinanvegin, um illgruni er um</p>
+<p><span type="quote">”innbrot”</span> ella virushóttan.</p>
+<p type="listitem">•Skúlin tilskilar sær rætt til at steðga brúk av teldum og</p>
+<p>neti, sum viðførir óneyðuga overvan av netverki skúlans.</p>
+<p>Ikki taka niður á harðdisk, fílur skulu takast niður á diskil.</p>
+<p type="listitem">•Um reglurnar verða brotnar kann skúlin nokta brúkara</p>
+<p>atgongd til KT-útgerð á skúlanum í styttri ella longri tíð.</p>
+<p>Keldur</p>
+<p>Lóggáva. Yvirlit yvir galdandi lóggávu í Føroyum. § 10. Einarættur.</p>
+<p>Upphavsrættur og einkarættur/Eneret, Ophavsret og Patent,</p>
+<p xml:lang="dan"><em type="italic">www.logting.fo, 6.4. 2001</em> </p>
+<p>Tingmál. Vanlig tingmál. 89 Uppskot til ríkislógartilmæli um at seta</p>
+<p>í gildi fyri Føroyar lóg um upphavsrætt.<em type="italic">www.logting.fo, 6.4. 2001</em> </p>
+<p xml:lang="dan">Ophavsret.dk. Informationsbutik. Samrådet for ophavsret.</p>
+<p xml:lang="dan"><em type="italic">www.ophavsret.dk/, 6.4. 2001</em> </p>
+<p xml:lang="dan">”Hvad må jeg?”,<em type="italic">www.ctu.dk, 6.4. 2001</em> </p>
+<p xml:lang="dan"><span type="quote" xml:lang="dan">”Internet på gott och ont”</span>,<em type="italic">www.skolverket.se, 6.4. 2001</em> </p>
+<p xml:lang="dan">Online publikation. <span type="quote" xml:lang="dan">”Råd og vink til erhvervsskoler på Internettet”</span>.</p>
+<p><em type="italic">www.uvm.dk/pub/, 6.4. 2001</em> </p>
+<p xml:lang="dan">Usenet.dk.<em type="italic">www.usenet.dk/netikette/, 6.4. 2001</em> </p>
+<p type="listitem">•meta um útlendsk forrit til e-læring</p>
+<p type="listitem">•tillaga ávís undirvísingarforrit til føroysk viðurskifti</p>
+<p type="listitem">•gera heimasíðuskipanir við heimligum tilfari til undirvísingar</p>
+<p>brúk</p>
+<p>c. Nýinnrætting av skúlastovum</p>
+<p>Tann siðbundna innrættingin við skúlastovum er í stóran mun eitt</p>
+<p>haft, tá ið royndir hava verið gjørdar við teldufokkum og nýggjum</p>
+<p>námsfrøðiligum arbeiðsháttum annars. Hugsast kann, at onkur</p>
+<p>skúli er sinnaður til, t.d. í sambandi við eina umvæling ella</p>
+<p>møguliga útbygging, at gera nakrar royndir hesum viðvíkjandi, eitt</p>
+<p>nú við at:</p>
+<p type="listitem">•innrætta skúlastovur av nýggjum</p>
+<p type="listitem">•royna nýtt innbúgv og nýggja útgerð við KT-nýtslu fyri</p>
+<p>eyga</p>
+<p type="listitem">•leggja skúlastovur saman</p>
+<p><span type="quote">”ósamtíðis”</span> samskifti, t.d. e-post, e-stevnur og uppgávu</p>
+<p>innlating um netið</p>
+<p><span type="quote">”samtíðis”</span> samskifti, t.d. kjatt og nettala</p>
+<p>videostevnum og møguligum <span type="quote">”elektroniskum talvum”</span> (krevur</p>
+<p>útbygt undirstøðukervi)</p>
+<p><span type="quote" xml:lang="dan">”virtuelt universitet”</span></p>
+<p>Umráðandi er, at tílíkar royndir verða gjølliga skjalfestar, og at</p>
+<p>gjørdar verða greiningar og niðurstøður, ið kunnu koma skúla</p>
+<p>skipanini sum heild til gagns.</p>
+<p>d. Tilfarsgrunnar</p>
+<p>Hóast internetið hevur givið smámálum, seráhugamálum, minni</p>
+<p>lutabólkum o.ø. ein ómetiligan møguleika at gera seg sjónligan</p>
+<p>uppá, so er tað føroyska tilfarið á netinum, sum kann brúkast</p>
+<p>beinleiðis til undirvísingarendamál, rættiliga avmarkað. Góðar</p>
+<p>útlendskar fyrimyndir í so máta, eru danska SkoDa (Skolerens</p>
+<p>Databaservice) og tað svenska <em type="italic">www.skolverket.se</em>. Her hevði </p>
+<p>verið lagamanni hjá áhugaðum lærarum og bókavørðum, í</p>
+<p>samstarvi við KT-depilin, at farið undir verkætlanir við tí í hyggju</p>
+<p>at fyrireika/stovnseta/halda viðlíka</p>
+<p type="listitem">•útbygdar bókasavnsskráir, t.d. til ávísar lærugreinir og</p>
+<p>evnisøki</p>
+<p type="listitem">•teksta- og myndasavn við tilfari frá fjølmiðlum</p>
+<p type="listitem">•verkætlanar- og uppgávusøvn við frágreiðingum o.ø.</p>
+<p>e. Móðurmálsforrit o.tíl.</p>
+<p>Tey allarflestu nýtsluforritini, sum verða brúkt í undirvísingini (t.d.</p>
+<p>til tekstviðgerð og rokniark), hava íbygdar tekstir og vegleiðing á</p>
+<p>einum fremmandamáli, vanliga donskum. Eisini ymisk hjálpiforrit</p>
+<p>til eitt nú rættstaving og mállæru eru heldur ikki tøk á móður</p>
+<p>málinum. Við orðalistum, orðabókum og øðrum teldutøkum</p>
+<p>teksttilfari hevði borið væl til at gjørt ymsar serskipanir og</p>
+<p>tillagingar:</p>
+<p type="listitem">•rættstavingarforrit til yngru flokkarnar</p>
+<p type="listitem">•bendingarskipan á teldu (við grundarlagi í bendingartølunum í</p>
+<p>Føroyskari orðabók)</p>
+<p type="listitem">•rættstaving til Word (møguliga í samstarvi við eina KT-fyritøku)</p>
+<p type="listitem">•týða tekstir og vegleiðingar í SamHøll-forritunum til føroyskt</p>
+<p>Og so átti onkur at fyrireika eina reglugerð, sum ásetir, at eingin</p>
+<p>telda verður seld føroyska skúlaverkinum, uttan at ein knappur á</p>
+<p>knappaborðinum er markaður við  ”Ð” !</p>
+<p>f. Meting og tillaging av CBT-forritum</p>
+<p>CBT er stytting av <span type="quote" xml:lang="dan">”Computer Based Training”</span>. CBT-forrit eru</p>
+<p>serforrit, sum verða nýtt til at læra at brúka einhvørja skipan,</p>
+<p>amboð ella tól. Eitt (radar)simulator, sum sjómansskúlanæmingar</p>
+<p>læra at navigera og sigla við, er eitt vælkent dømi um eitt CBT</p>
+<p>forrit. Serliga eru tað vinnuskúlarnir, sum hava tørv á slíkum</p>
+<p>forritum. Verkætlanir á hesum økinum kunnu t.d. snúgva seg um</p>
+<p>at</p>
+<p type="listitem">•eftirmeta ymisk CBT-forrit til ávíst evnisøki</p>
+<p type="listitem">•tillaga ávís CBT-forrit til føroysk viðurskifti</p>
+<p>g. Margmiðlaloysnir í ymsum lærugreinum</p>
+<p>Framkomin teldutøkni, heimasíðuhugtakið og ymisk serforrit</p>
+<p>(Director, Mediator o.o.) gera tað áhugavert at nýta margmiðlar</p>
+<p>(tekst, ljóð og myndir) í undirvísingini. Royndir hava verið gjørdar í</p>
+<p>Føroyum við margmiðlaloysnum m.a. til teir yngstu flokkarnar í</p>
+<p>fólkaskúlanum. Nógv undirvísingartilfar er væl egnað til at skipa</p>
+<p>við tílíkari tøkni, og góðir møguleikar eru fyri samstarvspartnarum:</p>
+<p>Landsmiðstøðin, KT-depilin og tey ymsu lærugreinufeløgini.</p>
+<p>Verkætlanir á hesum økinum kunnu t.d. vera at</p>
+<p type="listitem">•fyrireika undirvísingartilfar innan lívfrøði til margmiðlar</p>
+<p type="listitem">•skipa ymiskt søguligt keldutifar í eina margmiðlaloysn</p>
+<p type="listitem">•tilevna skipanir til at læra fremmandamál</p>
+<p type="listitem">•tillaga útlendskar skipanir til føroysk viðurskifti</p>
+<p>h. KT-samstarv við grannalond</p>
+<p>Altjóðagerð og økt samstarv við umheimin fær alsamt størri</p>
+<p>týdning í okkara samfelag. Tað er umráðandi, at hesi viðurskifti</p>
+<p>eisini verða tikin upp og viðgjørd í undirvísingarhøpi. Serliga</p>
+<p>samstarv við norðurlond eigur at hava okkara áhuga. Nevnast</p>
+<p>kann, at tað var norðurlendskur stuðul, sum gjørdi tað møguligt</p>
+<p>hjá skúlum og mentanarstovnum í 1994-95 at gera neyðugar</p>
+<p>fyrireikingar til at binda Føroyar í internetið. Verkætlanir kunnu t.d.</p>
+<p>vera at</p>
+<p type="listitem">•gera royndir við fjarundirvísing millum lond</p>
+<p type="listitem">•menna kunningarskipan um mentan og mál í norður</p>
+<p>londum</p>
+<p type="listitem">•skipa fyri ráðstevnu um KT-royndir í undirvísingini <em type="italic">www.mms.foella www.skulin.fo</em> </p>
+</body></document>

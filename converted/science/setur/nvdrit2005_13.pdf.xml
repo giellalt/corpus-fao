@@ -1,0 +1,436 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>5538</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2005_13.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="eng"><em type="bold">  INNLEIÐANDI ELEKTRONIKKUR </em></p>
+<p> <em type="bold">Starvsstovuvenjingar </em></p>
+<p xml:lang="dan">Magnus Danielsen</p>
+<p xml:lang="eng">NVD<em type="italic">Rit</em>  2005:13 </p>
+<p>Heiti / Title<em type="bold">Innleiðandi Elektronikkur  </em></p>
+<p>Starvstovuvenjingar</p>
+<p>Høvundur  / AuthorMagnus Danielsen</p>
+<p xml:lang="eng">Ritslag / Report Type<em type="italic">Undirvísingartilfar/Teaching Material </em></p>
+<p>NVD<em type="italic">Rit</em>2005:13 ©Náttúruvísindadeildin og høvundurin ISSN1601-9741 Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) </p>
+<p xml:lang="eng">y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo</p>
+<p xml:lang="eng"><em type="bold">INNIHALDSYVIRLIT</em> </p>
+<p xml:lang="eng"><em type="bold">I. Operatiónstyrkjarar   s.  4 </em></p>
+<p xml:lang="eng"><em type="bold">II. RC – rásir    s.  6 </em></p>
+<p xml:lang="eng"><em type="bold">III. Einfalt digitalt voltmetur   s.  9 </em></p>
+<p xml:lang="dan"><em type="bold">IV. CMI – Koding til ljósleiðara datasendiskipan s. 18 </em></p>
+<p xml:lang="eng"><em type="bold">V. Databløð (úrtøk)    s.  </em></p>
+<p>Fororð: Hesar síður eru leiðbeiningar til starvsstovuvenjingar í lærugreinini <span type="quote">”digitalur elektronikkur”</span>, ið er innleiðandi elektronikklærugrein í lestri til BSc í ravmagnsverkfrøði á Náttúruvísindadeildini á Fróðskaparsetri Føroya.</p>
+<p xml:lang="eng"><em type="bold">STARVSTOVUVENJING </em></p>
+<p><em type="bold">Inngangur </em></p>
+<p>Í venjingini verður ein operatiónsstyrkjari settur upp í eina streymrás og royndur í tveimum ymiskum uppsetingum:</p>
+<p>− Í fyrru uppsetingini virkar hann sum ein einfaldur styrkjari</p>
+<p>− Í seinnu uppsetingini virkar hann sum ein summatiónsrás og leggur fleiri spenningar saman.</p>
+<p>Uppsetingarnar skulu roynast bæði við telduforritinum PSpice og í eini uppseting av elektronisku lutunum í starvsstovuni.</p>
+<p>Tað er týdningarmikið at fyrireika seg væl og, at <em type="bold">allir teir teoretisku spurningarnir eru svaraðir, </em></p>
+<p><em type="bold">áðrenn møtt verður í starvsstovuni</em>. Tíðin í starvsstovuni er bert 2 tímar. Stutt frágreiðing um </p>
+<p>venjingina skal verða skrivað.</p>
+<p><em type="bold">1. Einfaldur styrkjari </em></p>
+<p>Í myndini er ein operatiónsstyrkjarauppseting víst.</p>
+<p xml:lang="eng">R</p>
+<p xml:lang="eng">− +</p>
+<p xml:lang="eng">R +</p>
+<p xml:lang="eng">E</p>
+<p>+ -</p>
+<p xml:lang="dan">V</p>
+<p xml:lang="eng">−</p>
+<p xml:lang="eng">Mynd 1</p>
+<p>R = 0,5 kΩ Forsýningsspenningarnir,  ið nýttir verða, eru  +10 volt og  −10 volt</p>
+<p><em type="bold">Spurningar at svara áðrenn møtt verður í starvsstovuni: </em></p>
+<p>1.1. Hvussu stórur skal R vera fyri, at styrkingin A=V/E skal hava virðið –10 ? 1.2. Hvussu stór eru approksimativu metningsvirðini á útgangsspenninginum V?</p>
+<p><em type="bold">Spurningar at svara við brúk av teldusimuleringsforritinum PSpice: </em></p>
+<p>1.3. Ger eina uppseting av operatiónsstyrkjaranum í telduni við funnað virðinum fyri R og prenta tekningina (diagrammið) til at seta í frágreiðingina. 1.4. Ger eina simulering av útgangsspenninginum sum funktión av inngangsspenninginum við   –15 volt &lt; E &lt; +15 volt. Prenta myndina til at skjalfesta úrslitið. 1.5. Hvussu stór</p>
+<p><em type="bold">Spurningar at svara í starvsstovuni: </em></p>
+<p>1.7. Ger eina uppseting av styrkjaranum og eina tekning (diagramm) av uppsetingini. 1.8. Máta útgangsspenningin sum funktión av inngangsspenninginum –15 volt &lt; E &lt; +15 volt. 1.9. Hvussu stór er styrkingin í linjurætta økinum? 1.10. Hvat stødd hava metningsvirðini á útgangsspenninginum?</p>
+<p xml:lang="eng">R</p>
+<p xml:lang="eng">R</p>
+<p xml:lang="eng">− +</p>
+<p xml:lang="eng">R +</p>
+<p xml:lang="eng">E</p>
+<p>+ -</p>
+<p xml:lang="dan">V</p>
+<p xml:lang="eng">−</p>
+<p xml:lang="eng">E</p>
+<p>+ -</p>
+<p xml:lang="eng">Mynd 2</p>
+<p>Set virðini á inngangsspenningunum til  E = 2 volt E = 3 volt</p>
+<p xml:lang="dan">Set R = R = R = 1 kΩ</p>
+<p><em type="bold">Spurningar at svara áðrenn møtt verður í starvsstovuni: </em></p>
+<p>2.1. Rokna virði á útgangsspenninginum V</p>
+<p><em type="bold">Spurningar at svara við brúk av teldusimuleringsforritinum PSpice: </em></p>
+<p>2.2. Ger eina uppseting av summatiónsrásini á telduni, prenta tekningina til at seta í frágreiðingina. 2.3. Ger eina simulering av rásini og avger virðið á útgangsspenninginum V.  2.4. Hvussu stórur er feilurin í %.</p>
+<p><em type="bold">Spurningar at svara í starvsstovuni: </em></p>
+<p>2.5. Ger eina uppseting av styrkjaranum og eina tekning (diagramm) av uppsetingini. 2.6. Máta útgangsspenningin sum funktión av inngangsspenninginum 2.7. Hvussu stórur er feilurin í %. 2.8. Hvussu kanst tú útbyggja uppsetingina soleiðis, at forteknið á V verður rætt í einari summatiónsprosess. Set uppsetingina upp og royn hana, um tíðin loyvir tí.</p>
+<p xml:lang="eng"><em type="bold">     STARVSTOVUVENJING </em></p>
+<p><em type="bold">Inngangur </em></p>
+<p>Venjingin skal vísa, hvussu ein kondensator í eini streymrás, sum annars bert inniheldur spenningsgerða og mótstøður, háttar sær.</p>
+<p>Í venjingini verður ein kondensator settur upp í eina streymrás og royndur í tveimum ymiskum førum:</p>
+<p>− Í fyrra føri verður spennigsgerði, ið kann skifta millum tvey spenningsvirði settur til, og</p>
+<p>spenningurin yvir kondensatorin, og streymurin gjøgnum eina av mótstøðunum í rásini verður mátaður.</p>
+<p>− Í seinna føri verður pulsgerði við føstum formi gjørdur, har  trin-spenningur frá spenningsgerða</p>
+<p>er  brúktur til at avgera, nær ein fýrkantaður spenningspulsur verður gjørdur. Hetta verður gjørt við hjálp av kombinatoriskari streymrás, har umframt IC rásir eisini mótstøða og kondensator innganga til at avgera pulslongdina. Skiftið millum lágan og høgan útgangsspenning er ikki skarpt við vanligum IC komponentum. Tí er betur, at IC rásir við Schmitt triggara inngangi verða nýttir.</p>
+<p>Uppsetingarnar skulu roynast bæði við telduforritinum PSpice og í eini uppseting av elektronisku lutunum í starvsstovuni.</p>
+<p>Tað er týdningarmikið at fyrireika seg væl og, at <em type="bold">allir teir teoretisku spurningarnir eru svaraðir, </em></p>
+<p><em type="bold">áðrenn møtt verður í starvsstovuni</em>. Tíðin í starvsstovuni er bert 2 tímar. Stutt frágreiðing um </p>
+<p>venjingina skal verða skrivað.</p>
+<p><em type="bold">1. RC-rás við fýrkants spenningsgerða </em></p>
+<p>Í myndini er ein RC-rás  víst. E er spenningsgerði, ið gevur ein periodiskan fýrkantspenning frá sær</p>
+<p></p>
+<p></p>
+<p></p>
+<p>&lt;≤=</p>
+<p>TtV</p>
+<p>&lt;≤</p>
+<p xml:lang="eng">E</p>
+<p>Tt</p>
+<p xml:lang="eng">TV</p>
+<p>har periodan T &gt;&gt;τ, ið er tíðarkonstanturin fyri rásina. Hetta merkir, at spenningar og streymar</p>
+<p>kunnu verða útroknaðir frá treytini, at E er ein trinspenningur.</p>
+<p><em type="bold">Spurningar at svara áðrenn møtt verður í starvsstovuni:</em> </p>
+<p xml:lang="dan">R=1kΩ</p>
+<p xml:lang="eng">I</p>
+<p xml:lang="dan">R=2kΩ</p>
+<p xml:lang="eng">E</p>
+<p>+</p>
+<p xml:lang="eng">−</p>
+<p>+</p>
+<p xml:lang="eng">R=3kΩ C =</p>
+<p>0,5µF</p>
+<p xml:lang="eng">VC</p>
+<p xml:lang="eng">−</p>
+<p>1.1. Rokna virðið á tíðarkonstantinum τ. 1.2. Finn virðið á VC(0-), VC(0+) og VC(∞) umframt I(0-), I(0+) og I(∞) í tí føri, at E skiftir frá</p>
+<p xml:lang="dan">0V til 5V.</p>
+<p xml:lang="eng">C</p>
+<p>1.4. Svara spurningunum 1.1 til 1.3 í tí føri, at E skiftir frá 5V til 0V.</p>
+<p><em type="bold">Spurningar at svara við brúk av teldusimuleringsforritinum PSPICE:</em> </p>
+<p>1.5. Ger eina uppseting av rásini í telduni við givnum mótstøðum og kondensatorvirði, og har T=5ms.  1.6. Ger simulering av VC(t) og I(t).</p>
+<p><em type="bold">Spurningar at svara í starvsstovuni:</em> </p>
+<p>1.7. Ger eina uppseting av RC-rásini og eina tekning (diagramm) av uppsetingini. ( Ansa eftir, at spenningsgerðin hevur eina innaru mótstøðu, sum skal vera partur av mótstøðuni R soleiðis, at samlaða mótstøðan R = 1 kΩ)</p>
+<p>1.8. Máta spenningin VC(t) og streymin I(t) sum funktión av tíðini t við einum oscilloscopi. I(t) kann verða mátaður t.d. við at máta spenningin yvir R  (verður mátaður við at máta potentialið á báðum endum á R við tveimum kanalum á oscilloscopinum og draga frá). 1.9. Samanber við tey útroknaðu og simuleraðu úrslitini.</p>
+<p><em type="bold">2. RC-rás til gerð av pulsgerða, ið gevur puls við føstum formi. </em></p>
+<p>Í streymrásini í mynd 2 er V1 ein pulsspenningsgerði, sum gevur invertaranum U1A ein spenning, sum broytist frá V1 = 0 volt til V1 = 4 volt. Útgangurin V2 broytist tá tilsvarandi frá o.u. 4 V til 0 V. U2A, sum er ein NAND gate, fær annan inngangsspenningin beinleiðis frá V1, og hin spenningin V’ umvegis R1 og C1 frá V2. Útgangurin V3 verður so inverteraður í invertaranum U3A soleiðis, at endaligi útgangsspenningurin V4 gevur tann ynskta pulsin.  Her er U3A, sum í veruleikanum er ein NAND-gate, brúktur sum invertari við at samankobla inngangirnar (vís hví hann virkar so!).</p>
+<p>Tað eigur at verða lagt merki til, at NAND-gaturnar av slagnum 74132 hava Schmitt triggara í innganginum til tess at fáa ein meira fullkomnan fýrkantpuls á útganginum. Aðrar NAND-gatur eru eisini, t.d. 7400, ið ongan Schmitt triggara hava, men verða ikki brúktar her.</p>
+<p xml:lang="eng">Mynd 2</p>
+<p><em type="bold">Spurningar at svara heima </em></p>
+<p>2.1. Ger frágreiðing um, hvussu rásin virkar við t.d. at skitsera V, V, V’, V og V. 2.2. Rokna virðið á tíðarkonstantinum τ. 2.3. Finn virði á V’(0−), V’(0+) og V’(∞), og formulin fyri V’(t). Ger tekning av  V’(t).</p>
+<p>Invertarin U1A verður her í teoretisku útrokningunum roknaður at hava útgangsvirðini o.u. 3,8 volt í høgari støðu, og 0,2 volt í lágari støðu. Tilsvarandi er lágur skiftispenningur á innganginum á U2A 0,8 volt, og høgur skiftispenningur 2,4 volt.</p>
+<p>2.4. Rokna út breiddina á fýrkantspulsinum á útganginum. (Set skifti inngangsspenningin í U2A til 0,8 V.)</p>
+<p><em type="bold">Spurningar at svara við PSPICE </em></p>
+<p>2.5. Ger eina uppseting av rásini við simuleringsforritinum í telduni við teimum givnu mótstøðunum og kondensatorinum. Prenta rásina. 2.6. Ger simulering av V1, V2, V2’, V3 og V4 sum funktión av tíðini.</p>
+<p><em type="bold">Spurningar at svara í starvsstovuni:</em> </p>
+<p>2.7. Ger eina uppseting av RC-rásini og eina tekning (diagramm) av uppsetingini. 2.8. Máta spenningarnar V1, V2, V2’, V3 og V4 sum funktión av tíðini við oscilloscopinum. Ger tekning av hesum og finn pulsbreiddina á V4. 2.9. Samanber við tær útroknaðu og simuleraðu úrslitini 2.10. Hví gevur Schmitt triggarin ein meira fulkomnan puls á útganginum?</p>
+<p xml:lang="eng"><em type="bold">III. EINFALT DIGITALVOLTMETUR </em></p>
+<p xml:lang="eng"><em type="bold">STARVSTOVUVENJING  </em></p>
+<p><em type="bold">1. Inngangur  </em></p>
+<p>Í venjingini verða prinsippini fyri uppbygging og virkihátti av einum digitalvoltmetri kannað og greind. Digitalvoltmetrið er uppbygt av un<em type="italic">Týdningarmikið er, at hvør eindin sær fyrst </em></p>
+<p><em type="italic">verður uppbygd, kannað og skjalprógvað.</em> Síðan verða tær bundnar saman til eina </p>
+<p>samanhangandi skipan, ið myndar tað samlaða digitalvoltmetr-ið. Tað er ikki skilagott og verður rátt frá at seta alla uppsetingina upp beinanvegin uttan at kanna hvørja undireind sær. Yvirlitið yvir rásina verður lættari mist við at gera tað.</p>
+<p><em type="bold">2. Einføld digitalvoltmeturskipan. </em></p>
+<p>Digitalvoltmetrið er ein skipan, ið mátar ein spenning og umger mátiúrslitið til eitt tal, sum í hesi roynd er eitt binert tal við 8 bittum. Hátturin, digitalvoltmetrið virkar uppá er í stuttum hesin. Ein stýristreymrás (stýriskipan) fær ein elektroniskan bineran teljara at telja upp til eitt talvirði, sum svarar til tann spenningin VX, ið vit skulu máta. Tann bineri 8 bit teljarin telur klokkusignalpulsar frá nul og upp til eitt tal, har hann verður steðgaður av einum signali frá komparatorinum. Komparatorin ger sítt</p>
+<p>Klokkusignal</p>
+<p>Digitalt mát fyri spenninginum V</p>
+<p xml:lang="eng">Komparator 8 bit- binerur teljari</p>
+<p xml:lang="dan">D/A umsetari</p>
+<p>VX</p>
+<p xml:lang="dan">V</p>
+<p>5 volt</p>
+<p>Stýriskipan Stýriteljari</p>
+<p>(3-teljari)</p>
+<p>Mynd 2.1 Yvirlitsrás.</p>
+<p>útgangssignal við at samanbera spenningin VX við eitt analogt spenningssignal V, sum D/A umsetarin ger burtur úr digitala útgangssignalinum frá teljaranum. Tá hetta spenningssignalið V fer upp um VX skal komparatorin steðga binera teljaranum. Teljara-virðið, ið bineri teljarin tá hevur talt upp til, er eitt digitalt mát fyri spenninginum VX.</p>
+<p>Tað digitala voltmetrið verður stýrt av eini stýriskipan til at vera í einum av trimum ymiskum støðum:</p>
+<p>Støða 1: voltmetrið er nullstillað Støða 2: voltmetrið mátar ein spenning Støða 3: voltmetrið verður roynt, um tað er ført fyri at máta upp til fullan spenning, og            um <span type="quote">“displayið”</span> (her ljósdiodur) er í lagi.</p>
+<p>Stýriskipanin fær eitt digitalt signal svarandi til hesar støður frá einum teljara, ið kann telja upp til 3 (trýteljara). Trýteljarin verður hin vegin stillaður við einum trýst-umskiftara, ið gevur honum hondstýrdar spenningspulsar sum inngangssignal.</p>
+<p>Fyrsta trýst gevur 1. støðu, annað trýst gevur 2. støðu, og triðja trýst gevur 3.støðu, og  o verður byrjað av nýggjum. Umframt signalið frá trýteljaranum, fær kontrolskipanin eisini eitt signal frá útganginum av binera teljaranum.Hetta signalið sigur frá, nær bineri teljarin hevur talt upp til maksimum.</p>
+<p>Tað er endamálið við hesi venjing at byggja upp tær ymsu lutskipaninar hvør sær og royna tær. Síðan skulu tær bindast saman til eitt samlað digitalvoltmetur, ið her hevur binera útlesing til 8 ljósdiodur sum detektorar, eina til hvørt einstakt bit.  Venjingin er skipað í:</p>
+<p>1. ein fyrireikingarpart, ið snýr seg um at seta seg inn í tað neyðturvuliga lærubókatilfarið til at kunna skilja og loysa spurningarnar í hesi venjingini (er umfatað av tí sum higartil er gjøgnumgingið),   2. nakrar teoretiskar spurningar í samband við uppbygging av skipanini og <em type="italic">skulu verða </em></p>
+<p><em type="italic">svaraðir áðrenn, møtt verður upp í starvsstovuni, </em> </p>
+<p>3. sjálva starvsstovuvenjingina, sum snýr seg um at uppbyggja skipanina, fáa hana at virka, gera neyðugar mátingar og avlesingar. <em type="italic">Hvør lutskipan sær skal uppbyggjast, roynast og </em></p>
+<p><em type="italic">skjalprógvast áðrenn, tær verða bundnar saman til eina heildarskipan. </em> </p>
+<p>4. og dokumentera bæði uppbygging og úrslit, og skriva eina samanhangandi frágreiðing um úrslitini.</p>
+<p>Viðmerking: tak ikki lutskipaninar sundur aftur beinanvegin, tá tær eru royndar. Tær skulu, tá tær allar eru fingnar at virka, bindast saman í eina samlaða digitalvoltmetur-skipan.</p>
+<p><em type="bold">2.1 3-teljari til funktiónsskiftara. Teljisekvensur 00 01 10 00 ...... </em></p>
+<p>Tveir MS-JK flip-flop, báðir integreraðir í ein <span type="quote" xml:lang="eng">“chip”</span> 74LS76 , hvørs datablað uppgevur sannleikatalvuna í mynd 2.1.1, verða brúktir til henda 3-teljaran. Tveir flip-flop’ar kunnu, tá teir eru hóskandi bundnir saman telja til í mesta lagi 2 = 4 ymsar støður. Í hesi royndini eru bert 3 støður ynsktar, har Q-útgangirnir hava virðini 00 01 10, meðan 11 ikki skal fyrikoma.</p>
+<p><em type="italic">At svara, áðrenn møtt verður í starvstovuni: </em></p>
+<p><em type="bold">Spurningur 1</em>: Konstruera umvendu sannleikatalvuna, talva 1, hjá eini MS-JK flip-flop rás við at </p>
+<p>seta <span type="quote">“0”</span>, <span type="quote">“1”</span> og <span type="quote" xml:lang="eng">“don’t care”</span> støður í talvuna.<em type="italic"> </em></p>
+<p><em type="bold">Spurningur 2:</em> Útfyll talvuna 2 og tíðarfarmyndina mynd 2.1.3. </p>
+<p>Mynd 2.1.1 MS-JK flip-flop 74LS76, partur av datablaði.</p>
+<p><em type="bold">Spurningur 3:</em> Tekna á hesum grundarlagi eina streymrás (diagramm) fyri 3-teljaran, t.e. </p>
+<p>samanbind MS-JK flip-flop rásirnar í mynd 2.1.2 við leiðarum og møguligum (um neyðugt) kombinatoriskum IC rásum (AND, OR og NOT).</p>
+<p><em type="italic">At svara í starvstovuni: </em></p>
+<p><em type="bold">Spurningur 4:</em> Set teljararásina upp í starvsstovuni og royn teljaran við at geva honum (klokku-) </p>
+<p>pulsir inn og hyggja at Q Q við ljósdiodum ella oscilloscopinum.</p>
+<p><em type="bold">2.2 Binerur 8 bit teljari </em></p>
+<p>Ein 8 bit binerur teljari (256-teljari) verður uppbygdur við brúk av einari 74LS393  IC-teljararás, sum víst er í Mynd 2.2.1.  Í 74LS393–rásini eru tveir 4 bit teljarar.</p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 5: </em>Tekna eina streymrás (diagramm) fyri 256-teljaran, t.e. samanbind teljararásirnar </p>
+<p>í mynd 2.2.1 við leiðarum, og vís, hvussu spenningar verða settir til, og hvussu útlesing fer fram.</p>
+<p>/CLR J           Q</p>
+<p xml:lang="eng">Ck</p>
+<p xml:lang="eng">K        /Q        /PR     /CLR J           Q</p>
+<p xml:lang="eng">Ck</p>
+<p xml:lang="eng">K        /Q      /PR</p>
+<p>Mynd 2.1.2   Tveir MS-JK flip-flop’ar   at binda saman til ein trýteljara.</p>
+<p>Q(n) Q(n+1) J(n)  K(n)</p>
+<p>Talva 1.Umvend sannleikatalva              (til at fylla út)</p>
+<p xml:lang="eng">Ck(n) Q  Q J K J K  0 0      0 1      1 0      0 0      0 1      1 0</p>
+<p xml:lang="eng">Ck</p>
+<p xml:lang="eng">Q</p>
+<p xml:lang="eng">Q</p>
+<p>J</p>
+<p xml:lang="eng">K</p>
+<p>J</p>
+<p xml:lang="eng">K</p>
+<p>Talva 2 Sannleikatalva fyri trýteljara.              (til at fylla út)</p>
+<p>Mynd 2.1.3 Tíðarskifti fyri trýteljara                     (til at fylla út)</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 6:</em> Set 256-teljararásina upp í starvsstovuni og royn teljaran við at geva honum </p>
+<p>(klokku-) pulsir inn og hyggja at útgangsbittunum við ljósdiodum og oscilloscopinum.</p>
+<p><em type="bold">2.3 Digital – analog umsetari </em></p>
+<p>Í uppbyggingini av digitalvoltmetrinum, sum í veruleikanum er ein analog-digital umsetari,  verður ein digital-analog umsetari brúktur. Hesin verður konstrueraður við brúk av eini digitalanalog umsetara IC-rás DAC0808 (8 bit), ið gevur ein streym ia á útganginum, ið er proportionalur við digitalvirðið á teimum  8 innkomandi bittunum, og einum operatiónsstyrkjara, t.d. LM741 (u741), ið ger ein útgangsspenning V, sum er proportionalur við hendan streymin. Datablað fyri DAC0808 er partvís víst í mynd 2.3.1, og fyri u741 í mynd 2.3.2.</p>
+<p>Mynd 2.2.1 Tveir binerir teljarar í einari IC-rás 74LS393. Partur av datablaði.</p>
+<p>Mynd 2.3.1 D/A umsetari DAC0808.                     Partur av datablaði. Mynd 2.3.2 Operatiónsstyrkjari          LM741 (u741).   </p>
+<p>Í mynd 2.3.3 er ein streymrás sett upp fyri ein digital-analog umsetara, sum hevur spenningin V á útganginum, ið er proportionalur við streymin ia og harvið eisini við binera talið  0.Q Q Q Q Q Q Q Q  . (Her eru bittini nevnd Q, meðan í datablaðnum stendur A.)</p>
+<p>Fyri DAC0808-rásina er givið, at streymurin</p>
+<p xml:lang="eng">ia = ir [ ½ Q +(½) Q +(½) Q +(½) Q +(½)Q +(½) Q +(½) Q +(½)Q],</p>
+<p>har ir er referensustreymurin sum kemur inn í refensuinngangin (bein 14) á DAC0808.</p>
+<p xml:lang="dan">+ 15V</p>
+<p xml:lang="eng">-Vref        +Vcc                  =+15V Q    Q   Q     Q</p>
+<p xml:lang="eng">Rref          iref       +Vf</p>
+<p>RZ 10 nF</p>
+<p xml:lang="eng">16    15   14   13   12    11   10    9 DAC0808</p>
+<p>1     2     3     4      5     6     7      8</p>
+<p>+</p>
+<p>VZ</p>
+<p xml:lang="dan">1k ohm</p>
+<p xml:lang="eng">−Vcc        Q     Q   Q    Q</p>
+<p>_   •</p>
+<p xml:lang="eng">C</p>
+<p xml:lang="eng">ia</p>
+<p xml:lang="eng">R</p>
+<p xml:lang="dan">- 15V</p>
+<p>-          +15 V  u741 +                      - 15 V</p>
+<p xml:lang="dan"><em type="bold">+    V </em></p>
+<p>_<em type="bold"> </em></p>
+<p xml:lang="eng">Mynd 2.3.3</p>
+<p>Referensuinngangurin <span type="quote">“Vref “ (bein 14) hevur ein sera lítlan inngangsmótstand, ella vit kunnu siga, at hann  er “virtuelt nul”</span>. Hetta merkir, at Iref verður avgjørdur av tí ytru streymrásini, ið er samansett av eini zenerdiodu, ið skapar ein næstan konstantan spenning, og tveimum mótstøðum RZ og Rref.</p>
+<p>Operatiónsstyrkjarin virkar sum ein transresistanskoblaður styrkjari, ið ger ein spenning á útganginum V, sum er proportionalur við Ia . Kondensatorarnir 10 nF og C hava onga beinleiðis ávirkan á úrslitið og eru við í rásini bert fyri at sleppa undan sjálvsvingi í rásini. Tí er valið av teimum eisini ókritiskt.</p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 7: </em>Referensustreymurin Iref =2 mA er ein passandi stødd sambært datablaðnum. </p>
+<p>Zenerspenningurin VZ = 6 volt, og streymurin gjøgnum zenerdioduna er settur at vera 10 IZ  fyri at stabilisera spenningin. Hvussu stórir eru RZ og Rref .</p>
+<p><em type="bold">Spurningur 8:</em> Hvussu stór er mótstøðan R fyri, at útgangsspenningurin í mesta lagi skal vera 10  </p>
+<p>volt.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 9:</em> Set digital-analog umsetaran upp (tað er møguligt, at zenerspenningurin ikke er </p>
+<p>neyvt 6 volt. Í so fall skal R-virðið, sum gevur júst 10 volt út, svarandi til aktuella zenerspenningin finnast í starvsstovuni, meðan RZ og Rref hava óbroytt virði). Royn við givnum valdum bit virðum fyri Q Q Q Q Q Q Q Q  á innganginum um tilsvarandi spenningur V er á útganginum á D/A umsetaranum.</p>
+<p><em type="bold">2.4 Rampu-trapputrinsspenningsgerði, samansettur av teljara og   D/A umsetara </em></p>
+<p>Vit kunnu nú sum víst í mynd 2.4.1 seta útgangsbittini á teljaranum til tilsvarandi inngangsbit í D-A umseraranum og lata teljanan telja frá 0 til 255. Útgangssignalið verður tá ein vaksandi spenningur, sum í trapputrinum veksur frá 0 til 10 volt.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 10:</em> Set rampu-trappuspenningsgerðan saman av 8-bit teljaranum og D/A </p>
+<p>umsetaranum. Máta V sum funktión av tíðini við oscilloscopinum. Tekna úrslitið upp.</p>
+<p>8 bit teljari</p>
+<p xml:lang="eng">Ck reset</p>
+<p>Ljósdiodur (LED)</p>
+<p xml:lang="dan">V</p>
+<p xml:lang="dan">D/A umsetari</p>
+<p xml:lang="eng">Oscilloscope</p>
+<p xml:lang="eng">Mynd 2.4.1</p>
+<p><em type="bold">Spurningur 11: </em>Set eina talvu upp, har spenningurin verður uppgivin fyri hvørt av </p>
+<p>digitalvirðunum á Q-útgongdunum (øll 256 virðini eru ikki neyðug, men uppgev 10 tey fyrstu og 5 tey seinastu virðini). Máta støddina av trapputrinunum, og samanber við, hvat tað teoretiskt skal vera</p>
+<p><em type="bold">2.5 Spenningssamanberari (comparator) og digitalvoltmetur uttan funktiónsskiftara </em></p>
+<p>Vit hava higartil sæð, hvussu ein teljari fær ein spenning at vaksa frá nul til 10 volt. Vit skulu nú gera tann partin av eini stýriskipan, sum ger samlaðu skipanina soleiðis skikkaða, at hon fær teljarin at steðga, tá útgangsspenningurin V er komin upp til virði hjá tí ókenda spenninginum VX , ið endamálið við einum digitalvoltmetri er at máta. Hetta merkir, at útgangsvirði av tí 8 bit binera talinum, sum teljarin vísir júst er eitt mát fyri tí ókenda spenninginum VX. Hetta verður gjørt við einum komparatori, ið verður bygdur upp sum myndin 2.5.1 vísur við einum operatiónsstyrkjara einari Zenerdiodu og einari <span type="quote" xml:lang="eng">“AND-gate”</span>.</p>
+<p>8 bit teljari</p>
+<p xml:lang="eng">reset</p>
+<p xml:lang="eng">Ck</p>
+<p xml:lang="eng">R</p>
+<p><em type="bold">+     -</em> </p>
+<p>Ljósdiodur (LED)</p>
+<p xml:lang="dan">D/A umsetari</p>
+<p>+</p>
+<p>+</p>
+<p xml:lang="dan">V</p>
+<p xml:lang="eng">−</p>
+<p>VX</p>
+<p xml:lang="eng">−</p>
+<p xml:lang="eng">Mynd 2.5.1</p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 12:</em> Hvussu stórur skal zenerspenningurin hjá dioduni vera. Áset eitt hóskandi virði </p>
+<p>fyri mótstøðuna R í komparatorinum.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 13:</em> Set komparatoruppsetingina upp í starvsstovuni og royn við ymsum </p>
+<p>spenningum á innganginum um tilsvarandi biner digitalvirði koma á Q-útgangirnar.</p>
+<p><em type="bold">2.6 Funktiónsskiftaraskipan </em></p>
+<p>Tað seinasta stigið at uppbyggja voltmetrið  er samanbindingin av trýteljaranum gjøgnum stýriskipanina til digitalvoltmetrið. Stýriskipanin er uppbygd av kombinatoriskum rásum. Krøvini til stýriskipanina eru hesi:</p>
+<p>Støða 1: Voltmetrið er nulstillað, tá Q  /Q  Q  /Q = 0101. Hesi virði skulu stýra voltmetrinum, soleiðis at útgangurin á 8 bit teljaranum er 00000000, ella við øðrum orðum, teljarin verður nulstillaður.</p>
+<p>Støða 2: Voltmetrið mátar ein spenning, tá  Q  /Q  Q  /Q = 0110. Hesi virði stýra voltmetrinum soleiðis, at 8 bit teljarin ikki er nulstillaður, og at klokkupulsarnir koma ígjøgnum til teljaran, inntil komparatorsignalið, tá tað fær virðið 0, í hesi støðu avgerð, at klokkusignalið ikki longur  kemur til teljarin.</p>
+<p>Støða 3: Voltmetrið verður roynt svarandi til fullan spenning. Hetta ber við sær, at  Q  /Q  Q  /Q = 1001, og skulu hesi virði stýra voltmetrinum soleiðis, at teljarin telur í hesum føri til útgangurin á 8 bit teljaranum er 11111111. Útgangssignalið á hesum teljaranum skal so fáa teljaran at steðga, t.e. forða klokkusignalinum, at koma til inngangin á teljaranum.</p>
+<p>Hetta verður gjørt við rásini sum víst í mynd 2.6.1.</p>
+<p><em type="bold">                +     - </em></p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 14:</em> Vís hvussu stýriskipanin kann verða uppbygd av t.d. tveimum <span type="quote" xml:lang="eng">“NAND-gate”</span>um </p>
+<p>og einari <span type="quote" xml:lang="eng">“AND-gate”</span> (onkur av teimum hevur eitt stórt tal av inngangum).</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 15:</em> Set stýriskipanina upp soleiðis, at tær trýggjar støðurnar virka. </p>
+<p><em type="bold">2.7 Digitalvoltmetur við funktiónsskiftaraskipan til spenningsmáting, 0stilling og 1-stilling av digitalútganginum. </em></p>
+<p>Samlaða digitalvoltmeturskipanin verður nú roynd</p>
+<p>8 bit teljari</p>
+<p xml:lang="eng">reset</p>
+<p xml:lang="eng">Ck</p>
+<p>Ljósdiodur (LED)</p>
+<p xml:lang="dan">D/A umsetari</p>
+<p>+</p>
+<p>VX</p>
+<p xml:lang="eng">− +</p>
+<p>VX</p>
+<p xml:lang="eng">−</p>
+<p xml:lang="dan">+5 V</p>
+<p>3-teljari</p>
+<p>Stýriskipan</p>
+<p xml:lang="eng">Q  /Q Q  /Q</p>
+<p xml:lang="eng">Mynd 2.6.1</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 16:</em> Máta í støðu 1 spenningin V og støðuna á ljósdiodunum fyri VX = 0, 2, og 5 </p>
+<p>volt.</p>
+<p><em type="bold">Spurningur 17:</em> Máta í støðu 2 spenningin V og støðuna á ljósdiodunum fyri VX = 0, 2, og 5 </p>
+<p>volt.</p>
+<p><em type="bold">Spurningur 18:</em> Máta í støðu 3 spenningin V og støðuna á ljósdiodunum fyri VX = 0, 2, og 5 </p>
+<p>volt.</p>
+<p><em type="bold">3. Starvsstovuútgerð </em></p>
+<p>Til venjingina er henda starvstovuútgerð tøk:</p>
+<p type="listitem">• Digitalur royndarbonkur við innbygdum 5 volt spenningsgerða, klokkuspennings-gerða,</p>
+<p>digitalum 0/1-signal kontaktum, ljósdiodum til lesing av digitalsignalum, og haldarum til IC rásir (<span type="quote" xml:lang="eng">“Integrated Circuit chips”</span>).</p>
+<p type="listitem">• Ossilloskop við tveimum signalrásum</p>
+<p type="listitem">• Spenningsgerði við broytiligum spenningi</p>
+<p type="listitem">• Voltmetur (multimetur)</p>
+<p type="listitem">• Funktiónsspenningsgerði við sinus, trýkant og fýrkantspenningi við broytiligum frekvensi og</p>
+<p>amplitudu</p>
+<p type="listitem">• Tær IC rásir og mótstøður og kondensatorar, ið eru kravdar til venjingina</p>
+<p type="listitem">• Databløð og bøkur til IC rásirnar.</p>
+<p xml:lang="eng"><em type="bold">IV. CMI – KODING TIL LJÓSLEIÐARA DATASENDISKIPAN </em></p>
+<p xml:lang="eng"><em type="bold">STARVSTOVUVENJING </em></p>
+<p><em type="bold">1. Inngangur </em></p>
+<p>Venjingin snýr seg um greining av uppbygging og virkihátti í eini kodingsskipan, ið m.a. verður brúkt í optiskum transmissiónsskipanum. Skipanin er uppbygd av undireindum, sum hvør sær fyrst verður uppbygd og kannað. Síðan verða tær bundnar saman til eina samanhangandi transmissiónsskipan, hvørs transmissiónseginleikar verða kannaðir.</p>
+<p><em type="bold">2. Kodiskipan - endamál og uppbyggjan </em></p>
+<p>Í øllum digitalum tele- og datatransmissiónsskipanum, verða kodingsskipanir nýttar til tess at gera transmissiónina av informatión tryggast og best møguliga. Vanliga, tá informatión skal verða borin frá einum staði til annað, verður hetta gjørt við, at informatiónin verður gjørd um til eitt digitalt signal, ið kann vera binert, t.e. ein røð av <span type="quote">“0”</span><span type="quote">”-um og “1”</span><span type="quote">“1”</span>-um, sum verða send hvørt aftan á annað, t.e. sekventielt (serielt), á eini transmissiónslinju.</p>
+<p>Verður soleiðis tann bineri framburðurin (representatiónin) av signalinum nýttur, býta vit tíðarásin upp í interval av ávísari longd T=1/f, har f verður nevndur klokkufrekvensurin. Í hvørjum av hesum intervallum senda vit eitt signalmynstur (spenningsmynstur), ið er ymiskt fyri <span type="quote">“0”</span> og <span type="quote">“1”</span>, og sigur frá, hvørt av hesum verður sent. Hetta spenningsmynstur nevna vit eina kodu fyri transmissiónina.</p>
+<p>Ein tann mest einfalda, og vit kunnu kanska siga grundleggjandi, kodingin er myndað av, at spenningurin í intervallinum er 0 volt svarandi til logiskt <span type="quote">“0”</span> og V volt  svarandi til logiskt <span type="quote">“1”</span>. Hesa koduna nevna vit ta bineru <span type="quote">“unipolaru NRZ”</span> koduna (<span type="quote" xml:lang="eng">“Non Return to Zero”</span><span type="quote">”). NRZ er víst í mynd 2.1 saman við øðrum kodum. Er spenningurin V volt bert helvtina av einum 1-intervalli verður kodan nevnd “unipolar RZ”</span><span type="quote">“unipolar RZ”</span> (<span type="quote" xml:lang="eng">“Return to Zero”</span>).</p>
+<p>Er logiskt <span type="quote">“0”</span>  myndað av spenninginum  –V/2, og  <span type="quote">“1”</span>  myndað av +V/2 , fáa vit tær tilsvarandi bipolaru ella bert polaru kodurnar.</p>
+<p>Tað er ikki altíð, at transmissiónskodurnar eru so einfaldar við tað, at tað oftast er ynskt, at tær skulu uppfylla ymsar treytir fyri, at  transmissiónin skal gerast so trygg og feilfrí sum gjørligt. Eginleikar í transmissiónini, ið hædd skal takast fyri, kunnu vera av ymiskum slag. Í koparkaðalum er soleiðis ynskt, at miðalvirðið av signalspenninginum skal vera so nær null, sum gjørligt er, av tí at transmissión av einum javnstreymi onga nyttu ger, men bert elvir til eitt orkutap. Tí er ynskt í hesum kaðalum, at tað kodaða signalið verður borið av einum spenningi, ið í meðal er null, t.e. eins ofta er positivur sum negativur. Tí verða polarar kodur valdar til hesa transmissión. Í glasfipurkaðalum er hetta ikki nakar trupulleiki við tað, at signalið her er ljós. Harafturímóti er í øllum digitalum transmissiónsskipanum avgerandi, at tað í móttøkuendanum er møguligt at fáa fatur í einum klokkusignali, ið ger tað møguligt at</p>
+<p>1   0   1   0   0  1   0   1   1   1  0   1   1</p>
+<p>Unipolar NRZ</p>
+<p>Unipolar RZ</p>
+<p xml:lang="eng">Polar NRZ</p>
+<p xml:lang="eng">Polar RZ</p>
+<p xml:lang="eng">CMI</p>
+<p>1   0   1   0   0  1   0   1   1   1  0   1   1</p>
+<p xml:lang="eng">Mynd 2.1</p>
+<p>markera, nær tey digitalu signalmynstrini skulu verða avlisin. Hetta klokkusignalið kann sjálvsagt verða sent í serstakari sendikanal, men er tað ein dýrur máti, sum tí ikki verður nýttur.</p>
+<p>Í veruligum kommunikatiónsskipanum verður klokkusignalið endurskapt úr sjálvum informatiónssignalinum, sum inniheldur ein frekvenskomposant (Fourier komposant) við sama frekvensi, sum klokkusignalið hevur, ella eitt heiltals multiplum av honum. Fyri at tryggja, at ein long røð av nullum ella eitt tølum í tí digitala signalinum ikki skal geva eitt langt tíðarbil har kaðalsignalið, tað veri seg í koparkaðali ella ljósleiðarakaðali, er konstant, og tað tí verður torført at endurskapa klokku-signalið, verður ein ella annar formur fyri koding nýttur, sum ger at signalið, sum sent verður, javnan skiftir við tíðini.</p>
+<p>Í ljósleiðarasendiskipanum verður ofta tann sokallaða CMI kodan (coded mark inversion) brúkt. Hon fæst fram við at brúka hesar reglar (sí mynd 2.1):</p>
+<p>- Logiskt <span type="quote">“0”</span> verður myndað í einum klokkuintervalli sum lágt signal í fyrru helvt av intervallinum og sum høgt signal í seinnu helvt av intervallinum, t.e. tað hendir eitt skift frá lágum til høgt signal í miðjuni av intervallinum. Vit kunnu sostatt siga at <span type="quote">“0”</span> verður umsett til at eita <span type="quote">“01”</span> við einum nýggjum klokkuintervalli, ið bert hevur hálva stødd av grundklokkuintervallinum.</p>
+<p>- Logiskt <span type="quote">“1”</span> verður myndað sum eitt støðugt signal í øllum data- klokkuintervallinum. Hetta skiftir millum at vera lágt og høgt aðruhvørja ferð logiskt <span type="quote">”1” kemur fyri. Vit kunnu sostatt siga at “1”</span><span type="quote">“1”</span> er umsett til <span type="quote">“00”</span> ella <span type="quote">“11”</span> aðruhvørja ferð tað fyrikemur.</p>
+<p>Tí er brúk fyri at gera eitt klokkusignal við dupultum klokkufrekvensi til tess at stýra CMI koduni. Hesa klokku nevna vit CMI-klokkuna.</p>
+<p>Í venjingini verður ein CMI kodari og ein CMI dekodari, hóskandi til brúk í einari ljósleiðaraskipan, uppbygdur við IC rásum og royndur. Av tí at tað her snýr seg um at modulera signalið til eina ljósstrálu frá einum lasara, t.e. sløkkja og tendra hann, brúka vit lágan og høgan spenning frá IC rásunum til at mynda lágt og høgt niveau í CMI koduni, sum víst í mynd 2.1</p>
+<p>Til tess at royna skipanina er brúk fyri einum digitalum inngangssignali, ið er eitt  tilvildarligt býti av <span type="quote">“0”</span> og <span type="quote">“1”</span> á tíðarásinum. Best hevði verið at havt ein tilvildarligan orðgerða ella bitgerða til hetta endamál; men til hesa venjingina byggja vit ein orðgerða við einum føstum 8 ella 16 bit orði, ið verður endurtikið periodiskt, og sum vit kunnu stilla eftir ynski.</p>
+<p>Yvirlitsuppsetingin av skipanini sær út sum víst í mynd 2.2. Úr orðgerðanum kemur ein røð av bittum í NRZ kodu, sum verður umgjørdur til CMI kodu í CMI-kodaranum. Hetta CMI signalið er tað signalið, ið vanliga verður sent gjøgnum ljósleiðaran, sum kortini ikki er við í hesi venjingini. Í móttøkuendanum verður CMI signalið móttikið aftur, og síðan umger CMIdekodarin hesa koduna aftur til NRZ kodu.</p>
+<p><em type="bold">3. Klokkur </em></p>
+<p>Dataklokkan er grundklokkusignalið, ið stýrir datasignalinum. Síðan hava vit eisini brúk fyri einum CMI-klokkusignali við dupult so stórum frekvensi, sum dataklokkan hevur. Eitt slíkt signal kann verða gjørt við ólineerum elektronikki og liggur uttan fyri evni í hesi venjingini. Vit skulu heldur ganga hinvegin og byrja við eini CMI-klokku. Við eini flip-flop IC-rás skapa vit eitt dataklokkusignal við hálvum CMI-klokku frekvensi. Vit velja ein D flip-flop 74LS74(mynd 3.1).</p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni:</em> </p>
+<p><em type="bold">Spurningur 1:</em> Ger eitt diagramm av klokkusignalgerðanum og vís, hvar dataklokka og CMI</p>
+<p>klokka eru.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 2:</em> Bygg klokkusignalgerðan upp og royn hann. </p>
+<p xml:lang="eng">ORÐGERÐI CMI-KODARI CMI-DEKODARI</p>
+<p xml:lang="eng">CMI NRZ NRZ</p>
+<p xml:lang="eng">Mynd 2.2</p>
+<p>74LS74</p>
+<p xml:lang="dan"><em type="bold">D Q /Q </em></p>
+<p>0 0 1 1 1 0</p>
+<p xml:lang="dan">D</p>
+<p xml:lang="eng">− Q</p>
+<p xml:lang="eng">o /Q</p>
+<p xml:lang="eng">Ck</p>
+<p xml:lang="eng">Mynd 3.1</p>
+<p><em type="bold">4. Orðgerði </em></p>
+<p>Í hesi venjing hevði verið best at brúkt ein orðgerða, ið ger tilvildarlig orð, til at royna CMI kodaran og dekodaran við. Hann er ikki tøkur. Í staðin fyri vilja vit byggja ein orðgerða, ið kann gera eina fyriskrivaða røð av bittum, ið síðan verður endurtikin periodiskt. Í byrjanini velja vit 8 bit, sum so eitt í senn við hjálp av einum multipleksara 74LS151 verða send út á útgangin Y. Adressuinngangirnir ABC fáa signal frá binera teljaranum 74LS393 sum víst á mynd 4.1. Orðið, ið verður sent út á Y-útganginum er D, D, D, D, D, D, D, D, ið er sett til logiskt <span type="quote">”0” ella logiskt ”1”</span>, svarandi til orðið, ið vit ynskja.</p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 3</em>: Hvussu kunnu vit broyta orðgerðan við at brúka enable inngangin á </p>
+<p>multipleksaranum , soleiðis at 8 bit røðin, sum vit hava stillað við givnum virðum verður eftirfylgd av 8 nullum, og síðan endurtikið periodiskt.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 4:</em> Set 8 bit orðgerðan upp. Ger broytingina sambært sp.3. Royn orðgerðan, áðrenn </p>
+<p>og aftan á broytingina.</p>
+<p><em type="bold">5. CMI-kodari </em></p>
+<p>Sum tað gongur fram av frágreiðingini í parti 2 og mynd 5.1, ger CMI kodarin brúk av einum klokkufrekvensi, sum er dupult so stórur sum dataklokkufrekvensurin.</p>
+<p>74LS151</p>
+<p><em type="bold">74LS393 </em></p>
+<p xml:lang="eng">CK   QA          QB          QC          QD</p>
+<p xml:lang="dan">CLR EN</p>
+<p xml:lang="eng">A B C</p>
+<p>O</p>
+<p>O</p>
+<p xml:lang="dan">D0               Y D1               Y D2  D3 D4 D5 D6 D7</p>
+<p>O</p>
+<p xml:lang="eng">Mynd 4.1</p>
+<p>Nú er so spurningurin, hvørjir inngangsvariablar stýra, hvørjum virði 0 ella 1, ið CMI útgangurin skal hava í hvørjum CMI-klokkuintervalli.</p>
+<p>Givið er, at datasignalið, ið vit nevna DATA, má vera inngangsvariabul. Vit síggja eisini, at CMI signalið, svarandi til DATA = 0, skiftir í miðjum intervalli. Hetta ger dataklokkan eisini. Tí má dataklokkusignalið <span type="quote" xml:lang="dan">“DKL”</span> vera ein hóskandi inngangsvariabul.</p>
+<p>1        0       0        1        1       1        0        1</p>
+<p xml:lang="dan">DATAKLOKKA = DKL</p>
+<p xml:lang="eng">CMI-KLOKKA</p>
+<p xml:lang="dan">DKL’</p>
+<p xml:lang="eng">CMI     1       0         0       1       1        1       0        1    LEVEL</p>
+<p xml:lang="eng">Mynd 5.1</p>
+<p>CMI signalið svarandi til DATA=1 er konstant í tveimum CMI-klokkuintervallum, men skiftir virði til 0 og 1 aðruhvørja ferð 2 CMI klokkusignal hava verið. Tí mugu vit hava ein variabul, lat okkum nevna hann LEVEL, sum stýrir CMI signalvirðinum í <span type="quote">“1”</span> intervallum, og skiftir virði hvørja ferð eitt DATA=1 kemur inn, men heldur virði tá DATA=0. Level er hinvegin ikki eitt útifrá komandi signal, men má verða gjørt í skipanini. Av tí at LEVEL  bert broytist, tá DATA hevur verið tvær ferðir 1, tá ein CMI klokkupulsur kom, má tann digitala maskinan, sum skapar LEVEL hava 4 støður svarandi til 2 støðuvariablar (2 flip-flop).</p>
+<p>At svara áðrenn møtt verður í starvsstovuni:</p>
+<p><em type="bold">Spurningur 5:</em> Vís, at útgangssignalið CMI = DATA’•DATAKL’ + DATA•LEVEL </p>
+<p>(• er brúkt fyri <span type="quote" xml:lang="eng">“AND”</span>). Allar støður eru vístar á mynd 5.1.</p>
+<p><em type="bold">Spurningur 6:</em> Vís, at tann við CMI- klokkuna synkrona digitala maskinan í mynd 5.2 gevur </p>
+<p>LEVEL signalið. Hetta verður gjørt við at    - finna excitatiónslíkningarnar - skriva yvirgangs/útgangstalvu upp - skriva støðu/útgangstalvu upp - definera støðurnar - tekna støðudiagramm - vís á hvar í mynd 5.2 LEVEL signalið er. DATA</p>
+<p><em type="bold">Spurningur 7:</em> Vís, at ein digital maskina við bert einum D flip-flop, ið er synkron  við </p>
+<p>dataklokkuna DKL eisini kann geva LEVEL signalið. Konstruera hesa maskinuna við at  - definera støðurnar - tekna støðudiagramm - skriva støðu/útgangstalvu upp - skriva yvirgangs/útgangstalvu upp - finna excitatiónslíkningarnar - tekna rásina (diagrammið) upp.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 8:</em> Bygg CMI kodaran við at brúka aðra av loysnunum frá sp.6 ella 7. </p>
+<p>Mynd 5.2 CMI – kodari</p>
+<p xml:lang="dan"><em type="bold">6. CMI  - dekodari  </em></p>
+<p>Ein dekodari er ein digital maskina, sum broytir CMI koduna til eitt datasignal (tað upprunaliga) við NRZ kodu sambært</p>
+<p xml:lang="eng">CMI koda DATA (NRZ-koda) 01 00 00 11 11 11</p>
+<p>Í venjingini ganga vit út frá aðrari av teimum givnu rásunum fyri ein CMI dekodara, sum mynd 6.1 ella mynd 6.2 vísir (uppseting í mynd 6.2 er lættari at fáa at virka).</p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni, svarandi til mynd 6.1: </em></p>
+<p><em type="bold">Spurningur 9:</em> Finn exitatiónslíkningarnar. </p>
+<p><em type="bold">Spurningur 10:</em> Finn yvirgangslíkningarnar (transitiónslíkningarnar) fyri flip-flopparnar. </p>
+<p><em type="bold">Spurningur 11:</em> Skriva yvirgangstalvuna (transitiónstalvuna) upp. </p>
+<p><em type="bold">Spurningur 12:</em> Navngev støðurnar, og skriva støðutalvuna upp. </p>
+<p><em type="bold">Spurningur 13: </em>Tekna støðudiagramm. </p>
+<p><em type="bold">Spurningur 14:</em> Tekna eina tíðarmynd, har CMI datasignal og datasignal, og eitt passandi tal av </p>
+<p>millumsignalum eru tikin við.</p>
+<p><em type="bold">Spurningur 15:</em> Vís, at fyri at fáa hesa uppseting at virka krevst synkronisering av dekodaranum </p>
+<p>til røttu hálvperioduna av dataintervallinum.</p>
+<p><em type="bold">Mynd 6.1   </em>CMI – dekodari, bygdur við flip-floppum<em type="bold"> </em></p>
+<p><em type="bold">Mynd 6.2   </em>CMI – dekodari bygdur við skiftiregisturi<em type="bold"> </em></p>
+<p><em type="italic">At svara áðrenn møtt verður í starvsstovuni, svarandi til mynd 6.2: </em></p>
+<p><em type="bold">Spurningur 16: </em>Skriva sannleikatalvuna upp fyri kombinatorisku rásina DATAinn sum funktión </p>
+<p>av QA,QB,QC,QD og QE útgangirnar  í skiftiregistrinum svarandi til CMI dekoding. Vís at hendan funktiónin kann realiserast við vístu logisku rásini. Vís at útgangsvirði DATA á CMI dekodaranum eru somu data sum inngangsvirði DATA í CMI kodaran.</p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 17: </em>Set rásina av CMI dekodaranum saman sum í mynd 6.1 ella  </p>
+<p>mynd 6.2 , og royn hana.</p>
+<p><em type="bold">7. CMI kodara – dekodara skipan </em></p>
+<p><em type="italic">At svara í starvsstovuni: </em></p>
+<p><em type="bold">Spurningur 18:</em> Fyri at kunna fáa CMI kodara og CMI dekodara at arbeiða saman, er neyðugt at </p>
+<p>gera eitt synkroniseningssignal sum nulstillar teir samstundis, t.d. tá teljarin, ið stýrir bitsekvensinum hevur útgangin 1111. Ger hesa rásina, um uppsetingin í mynd 6.1 verður brúkt. Synkronisering er ikki neyðug til rásini í mynd 6.2.</p>
+<p><em type="bold">Spurningur 19:</em> Samanbind allar lutskipaninar og royn samlaðu skipanina við at samanbera </p>
+<p>bitsamansetingina frá orðgerðanum, og tað CMI dekodaranum gjørda signalið.</p>
+<p><em type="bold">Spurningur 20:</em> Hví skulu D-flip-floppar vera settir í útgangin av CMI kodaranum og í útgangin </p>
+<p>av CMI dekodaranum í mynd 6.2.</p>
+<p><em type="bold">8. Fyrireiking </em></p>
+<p>Áðrenn venjingina verður umframt hesa leiðbeining lisið í lærubókini av J.F.Wakerly:<span type="quote" xml:lang="eng">”Digital Design, Principles and practices”</span>: - 5.6 Multiplexers      - 7.3 Clocked synchronous state-machine analysis  - 7.4 Clocked synchronous state-machine design - 8.4 Counters - 8.5 Shift registers</p>
+<p><em type="bold">9. Starvsstovuútgerð </em></p>
+<p>Til venjingina er henda starvstovuútgerð tøk:</p>
+<p type="listitem">• Digitalur royndarbonkur við innbygdum 5 volt spenningsgerða, klokkuspennings-gerða,</p>
+<p>digitalum 0/1-signal kontaktum, ljósdiodum til lesing av digitalsignalum, og haldarum til IC rásir (<span type="quote" xml:lang="eng">“Integrated Circuit chips”</span>).</p>
+<p type="listitem">• Monteringspláta (<span type="quote" xml:lang="eng">“breadboard”</span>) til montering av komponentum</p>
+<p type="listitem">• Oscilloskop við tveimum signalrásum</p>
+<p type="listitem">• Voltmetur (multimetur)</p>
+<p type="listitem">• Funktiónsspenningsgerði við sinus, trýkant og fýrkantspenningi við broytiligum frekvensi og</p>
+<p>amplitudu</p>
+<p type="listitem">• Tær IC rásir og aðrir komponentar, ið eru kravd til venjingina</p>
+<p type="listitem">• Databløð og bøkur til IC rásirnar.</p>
+</body></document>

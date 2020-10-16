@@ -1,0 +1,37 @@
+<document xml:lang="fao" id="no_id"><header><title>Alisfrøði</title><genre code="facta"/><author><unknown/></author><wordcount>100</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/midnam/laerugreinar/alisfroedi/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem">Nám</p>
+<p type="listitem">Próvstovan</p>
+<p type="listitem">Snar</p>
+<p type="listitem">Námsætlanir</p>
+<p type="listitem">Office 365</p>
+</list><p>{$logoLinkText}</p>
+<list><p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+</list><p>Miðnám</p>
+<list><p type="listitem">Alisfrøði A - Náttúrubreyt</p>
+<p type="listitem">Alisfrøði A - Tøknibreyt</p>
+<p type="listitem">Alisfrøði B - Náttúrubreyt og Fyrireikingarbreyt</p>
+<p type="listitem">Alisfrøði B - Tøknibreyt</p>
+<p type="listitem">Alisfrøði C</p>
+<p type="listitem">Alisfrøði A - Náttúrubreyt (GOMUL)</p>
+<p type="listitem">Alisfrøði A - Tøknibreyt (GOMUL)</p>
+<p type="listitem">Alisfrøði B - Náttúrubreyt og Fyrireikingarbreyt (GOMUL)</p>
+<p type="listitem">Alisfrøði B - Tøknibreyt (GOMUL)</p>
+</list><p type="title">Alisfrøði</p>
+<list><p type="listitem">Alisfrøði A - Náttúrubreyt</p>
+<p type="listitem">Alisfrøði A - Tøknibreyt</p>
+<p type="listitem">Alisfrøði B - Náttúrubreyt og Fyrireikingarbreyt</p>
+<p type="listitem">Alisfrøði B - Tøknibreyt</p>
+<p type="listitem">Alisfrøði C</p>
+<p type="listitem">Alisfrøði A - Náttúrubreyt (GOMUL)</p>
+<p type="listitem">Alisfrøði A - Tøknibreyt (GOMUL)</p>
+<p type="listitem">Alisfrøði B - Náttúrubreyt og Fyrireikingarbreyt (GOMUL)</p>
+<p type="listitem">Alisfrøði B - Tøknibreyt (GOMUL)</p>
+</list><list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
+<p type="listitem">Sitemap</p>
+<p type="listitem">Legal</p>
+</list></body></document>

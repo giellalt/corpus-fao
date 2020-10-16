@@ -1,0 +1,83 @@
+<document xml:lang="fao" id="no_id"><header><title>Fornaldarfrøði C</title><genre code="facta"/><author><unknown/></author><wordcount>1352</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/midnam/laerugreinar/fornaldarfroedi/fornaldarfroedi-c/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem">Nám</p>
+<p type="listitem">Próvstovan</p>
+<p type="listitem">Snar</p>
+<p type="listitem">Námsætlanir</p>
+<p type="listitem">Office 365</p>
+</list><p>{$logoLinkText}</p>
+<list><p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+</list><p>Miðnám</p>
+<p type="title">Námsætlan til miðnám:</p>
+<p type="title">Fornaldarfrøði</p>
+<p>tekstur</p>
+<p type="title">1. Samleiki</p>
+<p>Fornaldarfrøði snýr seg um at skilja griksk-rómversku fornøldina sum grundarlag undir evropeiskari mentan. Í lærugreinini verður arbeitt við forngrikskum og rómverskum tekstum og forngrikskari og rómverskari list. Dentur verður lagdur á hugsanir, hugtøk og virði – umframt bæði skaldskaparlig og listarlig stíleyðkenni – sum hava havt og framvegis hava týdning fyri evropeiska mentan.</p>
+<p type="title">2. Endamál</p>
+<p>Næmingarnir ogna sær eitt dygt mentanarsøguligt innlit við at viðgera týðandi tekstir og list úr grikskari og rómverskari fornøld og við at lesa tekstir, sum seta griksku og rómversku fornøldina í perspektiv. Næmingarnir verða førir fyri bæði at síggja mentanarsøguligu gongdina í yvirliti og við hóskandi hugtøkum at greina og tulka einstakar tekstir og einstøk dømi um list í mentanarsøguligum høpi.</p>
+<p type="title">3. Stig og tímatal</p>
+<p>Í fornaldarfrøði á C-stigi verður undirvíst 75 klokkutímar.</p>
+<p type="title">4. Øki</p>
+<p type="title">Kjarnaøki</p>
+<p>Kjarnaøkini í fornaldarfrøði á C stigi eru:</p>
+<list><p type="listitem">Týddir tekstir úr forngrikskari og rómverskari tíð. Dentur verður lagdur á Grikkaland í klassiskari tíð, t.e. tíðarskeiðinum uml. 500-300 f.Kr., tó so at bæði Homeros og rómverskir tekstir verða tiknir við</p>
+<p type="listitem">Byggilist og myndlist úr forngrikskari og rómverskari tíð</p>
+<p type="listitem">Týðandi partar av søgu, heimspeki og samfelagsviðurskiftum í forngrikskari og rómverskari tíð</p>
+<p type="listitem">Týdningurin, sum Grikkaland í fornøld og Rómverjaríkið hava havt og framvegis hava fyri evropeiska mentan</p>
+</list><p type="title">Ískoytisøki</p>
+<p>Fyri at røkka fakligu málunum verða eisini viðkomandi, útgreinandi tekstir, sum skrivaðir eru seinni í tíðini, lisnir og viðgjørdir. Byggilist og myndlist skulu somuleiðis setast í listasøguligt høpi.</p>
+<p type="title">5. Førleikamál</p>
+<p>Næmingurin dugir:</p>
+<list><p type="listitem">at greina og tulka týddar forngrikskar og rómverskar tekstir umframt forngrikska og rómverska list í søguligum samanhangi</p>
+<p type="listitem">at greiða frá og viðgera týðandi hugtøk og hugsanir í viðgjørdu tekstunum og myndunum</p>
+<p type="listitem">at skilja, hvussu Grikkaland í fornøld og Rómverjaríkið hava havt og framvegis hava týdning fyri evropeiska mentan</p>
+<p type="listitem">at útgreina og meta um spurningar í nútíðini við støði í forngrikskum og rómverskum tekstum</p>
+<p type="listitem">at vera tilvitaður um samleikan hjá lærugreinini.</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
+<p type="title">Eftirmetingar</p>
+<p>Einstaki næmingurin skal eftirmetast ávegis í undirvísingargongdini við støði í antin skrivligum ella munnligum framløgum. Næmingurin eigur at hava eina greiða fatan av støðu síni í mun til fakligu málini í lærugreinini og eigur at fáa vegleiðing um, hvussu og hvørjum arbeiðast skal við fyri at røkka m</p>
+<p>Eftirmetingin verður skjalfest.</p>
+<p type="title">Próvtøkuhættir</p>
+<p>Hildin verður ein munnlig próvtøka. Fyrireikingartíðin er umleið 60 minuttir, og tá er tilfarsútflýggjan og vegleiðing íroknað. Tveir næmingar verða próvhoyrdir um tíman íroknað próvdøming.</p>
+<p>Næmingurin fær útflýggjað og verður próvhoyrdur í tilfari, sum er skift sundur í tveir samanhangandi partar:</p>
+<p>1) einum týddum forngrikskum ella rómverskum teksti, ella broti úr teksti, sum er viðgjørdur í undirvísingini og telur umleið 7 normalsíður</p>
+<p>2) a) einum ókendum perspektiverandi teksti, sum viðger antin Grikkaland í fornøld ella Rómverjaríkið, men er skrivaður seinni í tíðini, og telur umleið 5 normalsíður <em type="italic">ella </em></p>
+<p>b) einum dømi um forngrikska/rómverska byggilist ella myndlist, sum ikki er viðgjørt í undirvísingini. Afturat høvuðsdøminum kunnu leggjast 1-3 perspektiverandi dømi, sum heldur ikki eru viðgjørd í undirvísingini</p>
+<p>Ein normalsíða í óbundnum máli er 1300 bókstavir, ein normalsíða í bundum máli er 30 reglur.</p>
+<p>Næmingurin fær útflýggjað rein eintøk av próvtøkutekstunum.</p>
+<p>Næmingurin skal sjálvur skipa svarið, tí skulu ikki vegleiðandi spurningar fylgja við útflýggjaða tilfarinum. Fylgiskjøl í sambandi við próvtøkutilfarið skulu hava kelduávísing.</p>
+<p>Í fyrireikingarhølinum skal næmingurin hava atgongd til rein eintøk av øllum tilfari, sum hevur verið brúkt í undirvísingini. Harumframt kann næmingurin í fyrireikingarhølið taka við sær egnar uppskriftir umframt annað tilfar, sum næmingurin sjálvur metir seg hava tørv á. Undir próvhoyringini kann næmingurin bert styðja seg til uppskriftir, sum gjørdar eru í fyrireikingartíðini.</p>
+<p>Próvhoyringin fer fram sum ein samrøða millum lærara og næming. Næmingurin skal greina og tulka forngrikska og/ella rómverska tekstin og viðgera hugsanir og hugtøk í tekstinum. Harumframt skal næmingurin seta tekstin og evni í tekstinum í eitt mentanarsøguligt høpi. Perspektiverandi tekstin skal næmingurin duga at útgreina og viðgera og nýta sum støði undir einari samanfatandi meting av griksk-rómversku fornøldini. Dømi um forngrikska/rómverska byggilist ella myndlist skal næmingurin duga at lýsa, tíðarfesta og tulka.</p>
+<p>Bæði í próvhoyringini og í próvdømingini skal høvuðsdentur leggjast á kenda forngrikska ella rómverska tekstin, t.e. fyrra partin í útflýggjaða tilfarinum.</p>
+<p>Givið verður eitt próvtal.</p>
+<p type="title">Dømingargrundarlag</p>
+<p>Próvdømingin er grundað á tey førleikamál, sum sett eru fyri lærugreinina í pkt. 5.</p>
+<p type="title">Próvtalslýsingar</p>
+<p type="title">Munnligt C-stig</p>
+<p>Próvtal</p>
+<p>Heiti</p>
+<p>Lýsing</p>
+<p>12</p>
+<p>Framúr gott</p>
+<p>Munnliga framløgan er greið, samanhangandi og væl skipað. Málið í framløguni er fjølbroytt og neyvt. Próvtakarin er sera virkin í fakligu samrøðuni. Próvtakarin viðger og troytir evnið framúr væl, og evnisviðgerðin er væl grundað við bert fáum ella ongum týðandi manglum. Próvtakarin vísir, at hann hevur gott tak á háttalagi, hevur gott innlit í lærugreinina og dugir væl at nýta vitan og hugtøk úr lærugreinini. Hann megnar væl at flyta seg úr tí ítøkiliga til tað úrtøkiliga.</p>
+<p>Gott</p>
+<p>Munnliga framløgan er greið, rímiliga samanhangandi og hampiliga væl skipað. Málið í framløguni er hampuliga fjølbroytt og gott. Próvtakarin er virkin undir fakligu samrøðuni. Próvtakarin viðger evnið væl, og evnisviðgerðin er rímiliga væl grundað, tó við fleiri manglum. Próvtakarin vísir, at hann hevur tak á háttalagi, hevur innlit í lærugreinina og dugir at nýta vitan og hugtøk úr lærugreinini. Hann megnar at flyta seg úr tí ítøkiliga til tað úrtøkiliga.</p>
+<p>02</p>
+<p>Nøktandi</p>
+<p>Munnliga framløgan er rímiliga væl skipað. Málið í framløguni er nøktandi. Próvtakarin er við í faklig</p>
+<p type="title">7. At skipa undirvísing</p>
+<p type="title">Didaktiskar meginreglur</p>
+<p>Næmingurin eigur at fáa eina fatan av, hvat fornaldarfrøði snýr seg um, hvussu arbeitt verður í lærugreinini, og hvat endamálið er. Undirvísingin skal bæði læra næmingin at lesa og greina forngriksku og rómversku tekstirnar og geva næminginum innlit í mentanina, sum tekstirnir vóru ein partur av. Næmingurin skal læra at skilja einstaka lutin, t.d. tekstin ella standmyndina – ella part av standmyndini og hugtøk í tekstinum – við støði í heildini, og øvugt skilja heildina við støði í einstaka lutinum. Grundleggjandi háttalagið í lærugreinini er sostatt hermenutiskt, og menniskjað verður fatað sum bæði mentanarskapt og mentanarskapandi. Tí er umráðandi, at næmingurin lærir at síggja tey mentanarligu merki, sum Grikkaland í fornøld og Rómverjaríkið hava sett eftir seg í evropeiska siðmenning, t.e. eisini í næmingin sjálvan.</p>
+<p>Fornaldarfrøði er fyrst og fremst ein munnlig lærugrein, og tí verður munnligi tátturin raðfestur høgt. Samrøðan millum lærara og næmingar ella millum næmingar sínámillum er týdningarmikil liður í undirvísingini. Næmingarnir skulu sleppa til orðanna bæði í kjaki og framløgum og sleppa at arbeiða sjálvstøðugt við ávísum fakligum evnum ella spurningum. Næmingarnir skulu ikki bara læra at taka til sín, men eisini læra at geva frá sær og orða seg greitt og samanhangandi um fakligar spurningar.</p>
+<p>Í undirvísingini verður lagt upp fyri ymisku pørtunum í lærugreinini. Ein partur skal verða um list, t.d. myndlist og/ella byggilist, minst ein partur skal snúgva seg um skaldskap, og minst ein partur skal viðgera heimspeki. Lærarin velur sjálvur, hvussu partarnir verða skipaðir og kann t.d. leggja partar saman. Lærarin kann eisini í samráð við næmingarnar velja at leggja høvuðsdent á ein part. Í hvørjum parti verða lisnir ein ella fleiri týðandi tekstir – ella list verður viðgjørd – úr grikskari ella rómverskari fornøld. Harumframt verða tekstirnir settir í søguligt høpi.</p>
+<p type="title">Arbeiðshættir</p>
+<p>Arbeiðshættirnir skulu taka støði í teimum málum, sum sett eru fyri lærugreinina. Arbeiðshættirnir eiga at verða ymiskir, so at fjølbroytni í lærugreinini kemur fram, og so at næmingar fáa roynt seg og ment seg á ymiskan hátt. T.d. kann verða skift millum læraraframløgu, samrøður, kjak, næmingaframløgur, bólkaarbeiði, verkætlanararbeiði o.s.fr. Á henda hátt verður tryggjað, at næmingarnir menna seg bæði alment lestrarliga, fakliga og persónliga.</p>
+<p>Umráðandi er at hugsa um stigvísa menning, t.e. so hvørt sum næmingarnir fáa førleikar í lærugreinini, eigur lærarin at lata partar av undirvísingini taka støði í sjálvstøðugum næmingaarbeiði. Eins og í skúlaskipanini sum heild skal eisini eitt endamál í undirvísingini í Fornaldarfrøði vera at læra næmingarnar at læra og at hugsa um egna lærutilgongd. Ymisku arbeiðshættirnir skulu stuðla upp undir hetta mál, t.d. kunnu næmingarnir eftir leiðbeining læra sjálvir at seta spurningar við støði í tilfarinum í undirvísingini og viðgera tað.</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
+<p type="listitem">Sitemap</p>
+<p type="listitem">Legal</p>
+</list></body></document>

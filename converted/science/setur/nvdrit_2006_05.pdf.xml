@@ -1,0 +1,448 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>5547</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2006_05.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Resonansrásir og filtur </em></p>
+<p><em type="bold">Yvirføringsfunktiónir - nøkur dømi </em></p>
+<p xml:lang="dan">Magnus Danielsen</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+<p xml:lang="eng">NVD<em type="italic">Rit</em>  2006:05 </p>
+<p>Heiti / Title<em type="bold">Resonansrásir og filtur </em></p>
+<p>Yvirføringsfunktiónir - nøkur dømi</p>
+<p>Høvundur  / AuthorMagnus Danielsen</p>
+<p xml:lang="eng">Ritslag / Report Type<em type="italic">Undirvísingartilfar/Teaching Material </em></p>
+<p>NVD<em type="italic">Rit</em>2006:05 ©Náttúruvísindadeildin og høvundurin ISSN1601-9741 Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) </p>
+<p xml:lang="eng">y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo</p>
+<p xml:lang="eng"><em type="bold"> Abstract</em> </p>
+<p xml:lang="eng"><em type="bold">English: </em></p>
+<p xml:lang="eng">This compendium contains a basic treatment of some instances of resonance circuits, filtre synthesis and analysis. Examples of 1st order active filters illustrate the five principle type of filters: low-pass, high-pass, band-stop, band-pass, and all-pass filters, using transimpedence coupled operational amplifiers as active component.</p>
+<p xml:lang="eng">Keyworks:  resonance, filtre, circuit, electronics, operaional amplifier, transfer function, amplitude characteristics, phase characteristics</p>
+<p><em type="bold">Føroyskt: </em></p>
+<p>Hesin bóklingur inniheldur eina grundleggjandi við gerð av nøkrum dømum um resonansrásir, filtur syntesu og filtur greining. Dømi um 1.ordans aktiv filtur við brúk av transimpedans koblaðu operatiónsstyrkjarum sýna tey fimm høvuðssløgini av filtrum: lágpass-, hápass-, bandstop-, bandpass- og <span type="quote" xml:lang="eng">“all-pass”</span>filtur.</p>
+<p>Lyklaorð:   resonans, filtur, streymrás, elektronikkur, operatiónsstyrkjari, yvirføringsfunktión, amplitudukarakteristikkur, fasukarakteristikkur</p>
+<p><em type="bold">Innihaldsyvirlit </em></p>
+<p>síða Abstract</p>
+<p>Inngangur</p>
+<p>Resonansrásir     2.1 Seriuresonansrásin og parallellresonansrásin 7 2.2 Transient sveiggj í resonansrásum   2.3 Umrokning av tapsmótstøðu í reaktansi   millum seriu og parallellmótstøðu   2.4 Tapsfaktorar í resonansrás   2.5 Resonansrásir í nýtslu</p>
+<p>Yvirføringsfunktiónir – syntesa     3.1 Syntesa við støði í amplitudukarakteristikki   og fasukarakteristikki</p>
+<p>Lágpassfiltur</p>
+<p>Hápassfiltur</p>
+<p>Bandstoppfiltur</p>
+<p>Bandpassfiltur</p>
+<p>Allpassfiltur</p>
+<p><em type="bold">1. Inngangur </em></p>
+<p>Elektrisk frekvensfiltur er týðandi partur (komponentur) í hópi av elektriskum skipanum. Tað er torført at nevna nakra elektroniska skipan, har filtur ikki á ein ella annan hátt verður brúkt ella myndar eina týdningarmikla funktión. Hesin bóklingur viðger nøkur dømi um filtur við serligum denti á resonansrásir, syntesu og nýtslu av operatiónsstyrkjarum til aktiv filtur. Til systematiska gjøgnumgongd av almenna støðinum undir filtrum verður víst til lærubøkur í streymrásfrøði, t.d. <span type="quote" xml:lang="eng">”Electric Circuits”</span> av J. W. Nilsson og S. A. Riedel,</p>
+<p>Filtur kunnu býtast upp í fimm høvuðsbólkar:</p>
+<p type="listitem">• Lágpassfiltur lata signal, myndað av lágum frekvensum, fara ígjøgnum, meðan</p>
+<p>háfrekvent signal verða forðað.</p>
+<p type="listitem">• Hápassfiltur lata signal, myndað av høgum frekvensum, fara ígjøgnum, meðan</p>
+<p>lágfrekvent signal verða forðað.</p>
+<p type="listitem">• Bandpassfiltur lata signal í ávísum frekvensøki fara ígjøgnum.</p>
+<p type="listitem">• Bandstoppfiltur forða signalum í ávísum frekvensøki at fara ígjøgnum, meðan signal</p>
+<p>myndað av frekvensum uttan fyri hetta frekvensøki kunnu fara ígjøgnum óforðað.</p>
+<p type="listitem">• <span type="quote" xml:lang="eng">”All-pass”</span> filtur lata signal við øllum frekvensum fara ígjøgnum óforðað uttan at broyta</p>
+<p>støddina, men fasan broytist við frekvensinum.</p>
+<p>Ítøkiliga í hvørjum samanhangi, filtur verða brúkt, kann verða lýst við nøkrum dømum.</p>
+<p>Lágpassfiltur, hápassfiltur og bandpassfiltur koma ofta fyri í samband við styrkjarar, tað kann t.d.  vera til ljóðupptøku ella ljóðendurskapan, har ynskt er bert at avmarkað frekvensøkið, ið brúkt verður at styrkja ella dempa ávís frekvensøki, t.d. bass og diskant.</p>
+<p>Í vanligum radiomóttøkutólum verður tann radiosendistøðin, sum ynskt verður at lurta eftir, vald við at stilla móttakaran á rættan móttøkufrekvens (t.d. hevur millumbyljustøðin hjá útvarpinum frekvensin 531 kHz og FM á Húsareyni frekvensin 89,9 MHz). Fyri at kunna móttaka júst henda frekvensin verður eitt smalt frekvensøki úrvalt við einum bandpassfiltri, sum oftast er uppbygt sum ein resonansrás, ið fær signal ( spenning ella streym) frá antennuni.</p>
+<p>Í ávísum førum er óljóð við ávísum frekvensi, t.d. frá 50 Hz spenninginum á el-netinum (brumm) til stóran ampa fyri elektrisk tól. Er eitt ynskt signal íblandað tílíkt óljóð, ber til at filtrera 50 Hz óljóðið frá við bandstoppfiltri, ið letur alt signalið fara ígjøgnum við undantak av einum smølum frekvensøki rundan um 50 Hz. Hetta kann gerast við resonansrás, ið letur ynskta signalið fara ígjøgnum, meðan 50 Hz brummið verður steðgað. Við hesum báðum dømunum sum baggrund fyri brúk av resonansrásum verður grundleggjandi viðurskiftini hjá resonansrásum viðgjørd í parti 2 í  hesum bóklingi.</p>
+<p>Í summum førum er uppgávan at gera eitt filtur, ið uppfyllir ávísar treytir fyri amplitudukarakteristikki og fasukarakteristikki, t.e. hvørjir partar av signalinum skulu styrkjast, og hvørjir partar skulu dempast sum funktión av frekvensinum, og í hvørjum skapi, ella hvussu fasan skal broytast við frekvensinum.  Hetta kann til dømis vera í samband við tillagan av tónleikinum frá eini styrkjaraskipan, har nakrir (t.d. høgir) tónar eru ynsktir harðari og aðrir veikari. Ger av yvirføringsfunktión við soleiðis tillagaðum amplitudu- og fasukarakteristikki verður nevnt syntesa. Dømi um gerð av yvirføringsfunktión, ið lýsir prinsippini í syntesu, verður viðgjørt í parti 3.</p>
+<p>filtrum. Her verður serstakliga operatiónsstyrkjarin brúktur. Hann vil sum oftast kunna verða tikin fyri at vera ideellur. Til at lýsa hetta verða nøkur dømi um aktiv filtur viðgjørd, har ideellir operatiónsstyrkjarar verða brúktir.</p>
+<p>Í parti 4 er einfalt lágpassfiltur gjørt við einum operatiónsstyrkjara og í parti 5 er tilsvarandi hápassfiltur sett upp eisini við einum operatiónsstyrkjara. Í parti 6 eru lágpassfiltrið og hápassfiltrið sett í parallell til eitt bandstopfiltur. Í parti 7 eru hesi bæði filtrini sett á rað til eitt bandpassfiltur.</p>
+<p>Eitt <span type="quote" xml:lang="eng">”all-pass”</span> filtur er filtur, ið bert broytir fasuna av einum signali sum funktión av frekvensinum, meðan støddin á signalinum er óbroytt. All-pass filtur verða t.d. brúkt í samband við signalviðgerð og simulering av ljóði millum annað í stórum hallum til tónleikaendamál. Eisini er all-pass filtur týdningarmikið í samband við signalvið<span type="quote" xml:lang="eng">”all-pass”</span> filtur, sum er uppbygt við brúki av operatiónsstyrkjarum, viðgjørt.</p>
+<p>Tað eigur at verða viðmerkt, at filtur ofta verða gjørd sum digital filtur, men er hetta evni uttanfyri evni í hesum bóklingi, sum bert viðgerð  analog filtur. Dømini við aktivum filtrum, sum eru við í hesi viðgerð, eru simulerað við Pspice. Tað kann verða ein góð venjing í brúki av Pspice at eftirgera hesa simulering.</p>
+<p><em type="bold">2. Resonansrásir </em></p>
+<p>Resonansrásir kunnu sigast at vera smalbandsfiltur, sum bert loyva signalum (streymum og spenningum) í rásini at hava nevniverda stødd í smølum frekvensintervalli ella frekvensbandi rundan um ein miðfrekvens. Í hesum ritinum verða tey bæði høvuðssløgini av resonansrásum, ið eru nevndar parallell- og seriuresonansrásir, greindar.</p>
+<p>Evnið verður býtt upp í hesar partarnar:  - Definitión av einfaldari seriuresonansrás og parallellresonansrás, og lýsing av streymum og spenningum sum funktión av frekvensinum. - Definitión av resonansfrekvensi og góðskufaktori. - Transienta sveiggjgongdin hjá resonansrásum. - Umrokning av tapsmótstøðu í reaktansi millum  seriumótstøðu og parallellmótstøðu. Hetta hevur týdning fyri at útrokna samlaða orkutapið í eini resonansrás. - Definitión av tapsfaktori og útrokning av samlaðum tapsfaktori fyri eina samansetta resonansrás. - Eginleikar í resonansrásum av týdningi til nýtsluendamál.</p>
+<p><em type="bold">2.1 Seriuresonansrásin og parallellresonansrásin </em></p>
+<p>Ein einføld seriuresonansrás er ein seriubinding av einum kondensatori C, einari sjálvinduktión L og einari mótstøðu R til ein spenningsgerða við spenninginum E, sum mynd 2.1 vísir.</p>
+<p>Ein einføld parallellresonansrás er tann til hesa rás duala rásin, t.v.s. ein parallellbinding av einum kondensatori C, einari sjálvinduktión L og einum konduktansi G til ein streymgerða við streyminum J, sum mynd 2.2  vísir.</p>
+<p>Lata teir brúktu gerðarnir sinus spenning <em type="bold">E</em> og sinus streym <em type="bold">J</em> frá sær við cykliska frekvensinum ω, </p>
+<p>verða tær tilsvarandi støddirnar fyri streymin <em type="bold">I</em> í seriurásini og spenningin <em type="bold">V</em> yvir parallellrásina funnar við ohms lóg fyri vendistreymar, sum formlarnir undir myndunum vísa. Her eru tær nýggju støddirnar cykliski resonansfrekvensurin ω og tilsvarandi resonansfrekvensurin f = ω/2π, </p>
+<p>umframt Q, nevndur góðskufaktorin ella bert góðskan, eisini definerað.</p>
+<p>Í mynd 2.3 og 2.4 er broytingin av modulus av streyminum <em type="bold">I</em> í seriuresonansrásini og spenninginum </p>
+<p><em type="bold">V</em> yvir parallellresonansrásina víst saman við teimum tilsvarandi fasuvinklunum. Vit síggja, at </p>
+<p>broytingin við frekvensinum er eins fyri <em type="bold">I</em> í seriuresonansrásini og <em type="bold">V</em> yvir parallellresonansrásina. </p>
+<p>R             L</p>
+<p xml:lang="eng"><em type="bold">                                                I</em>= <em type="bold">E</em>=        +                               I∠ϕi </p>
+<p>+</p>
+<p><em type="bold">J  </em></p>
+<p><em type="bold">             _</em> </p>
+<p xml:lang="eng">E∠ϕv                                        C</p>
+<p xml:lang="eng">=<em type="bold">                  G       L     C             V</em>=<em type="bold"> </em></p>
+<p><em type="bold">                                                  </em>V∠ϕv </p>
+<p>J∠ϕi<em type="bold">                                        _ </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2.1    Mynd 2.2</em> </p>
+<p xml:lang="eng">                    <em type="bold">E </em></p>
+<p xml:lang="eng">(2.1)<em type="bold"> I </em>=<em type="bold"> I</em> ∠ϕi =                            R + jωL +  1/(jωC) </p>
+<p xml:lang="eng">        <em type="bold">E</em>                      =  ⋅          R    1+ jQ (ω/ω - ω/ω) </p>
+<p>                          <em type="bold">J </em></p>
+<p xml:lang="dan">(2.6) <em type="bold">V </em>= <em type="bold">V</em> ∠ϕv =                             G + jωC +  1/(jωL) </p>
+<p xml:lang="eng">           <em type="bold">J</em>                         =  ⋅             G     1+ jQ (ω/ω - ω/ω ) </p>
+<p xml:lang="dan">_____ (2.2)            ω = 1/ √ (LC)    ,  f = ω /(2π)</p>
+<p xml:lang="eng">_____ (2.3)             Q = 1/R ⋅ √ (L/C)</p>
+<p xml:lang="dan">_____ (2.7)             ω = 1/ √ (LC)    ,  f = ω /(2π)</p>
+<p xml:lang="eng">_____ (2.8)            Q = 1/R ⋅√ (L/C)</p>
+<p xml:lang="eng">               R<em type="bold">I</em>                      (2.4)         =  <em type="bold"> </em>                <em type="bold">E</em>        (1+Q ⋅ (ω/ω - ω/ω))1/2 </p>
+<p xml:lang="eng">(2.5)      ∠(<em type="bold">I</em>/<em type="bold">E</em>) = −Arctg(Q/(ω/ω - ω/ω))  </p>
+<p>               G<em type="bold">V</em>                      (2.9)         =  <em type="bold"> </em>                 <em type="bold">J</em>         (1+Q⋅(ω/ω - ω/ω))1/2 </p>
+<p xml:lang="eng">(2.10)   ∠(<em type="bold">V</em>/<em type="bold">J</em>) = −Arctg(Q/(ω/ω - ω/ω)) </p>
+<p xml:lang="eng">R<em type="bold">I</em> </p>
+<p>0.5</p>
+<p>G<em type="bold">V</em> </p>
+<p> <em type="bold">J</em> </p>
+<p xml:lang="eng"> <em type="bold">E</em> </p>
+<p xml:lang="eng">∠(<em type="bold">V</em>/<em type="bold">I</em>) </p>
+<p xml:lang="eng">∠(<em type="bold">I</em>/<em type="bold">E</em>) </p>
+<p>-</p>
+<p xml:lang="eng">Q=10 Q=10</p>
+<p>-</p>
+<p>0.6 0.7 0.8 0.91.0 1.1 1.2 1.3 1.4 1.5</p>
+<p>0.6 0.7 0.8 0.91.0 1.1 1.2 1.3 1.4 1.5</p>
+<p>ω/ω <em type="bold">   </em>ω/ω </p>
+<p xml:lang="eng"><em type="bold">Mynd 2.3             Mynd 2.4 </em></p>
+<p>Í <em type="italic">seriuresonansrásini</em> við ω = ω (t.e. í resonansinum) verður streymurin í rásini IR=, og </p>
+<p>(2.11) Spenningurin yvir mótstøðuni        RVRIE==</p>
+<p>(2.12)             Spenningurin yvir sjálvinduktiónina  L</p>
+<p xml:lang="eng">j LVj LIEjQER</p>
+<p>ω= ω ==</p>
+<p>(2.13) Spenningurin yvir kondensatorin C</p>
+<p xml:lang="eng">VIEjQEj Cj CR=== −ωω</p>
+<p>Sostatt er spenningurin yvir sjálvinduktión og kondensator faktorin Q størri enn spenningurin E frá spenningsgerðanum og yvir mótstøðuna. Her hendir sostatt eitt slag av spenningsstyrking, sum víst í mynd 2.5a. VL og VC hava mótsætt fortekn og standa vinkulrætt á VR.</p>
+<p>Í <em type="italic">parallellresonansrásini </em>við ω = ω (t.e. í resonansinum) verður spenningurin yvir rásina JVG=, </p>
+<p xml:lang="dan">og</p>
+<p>(2.14) Streymurin í konduktansinum        GIGVJ==</p>
+<p>(2.15) Streymurin í  kondensatorin  C</p>
+<p xml:lang="eng">j CIj CVJjQJG</p>
+<p>ω= ω==</p>
+<p>(2.16) Streymurin í sjálvinduktiónina L</p>
+<p xml:lang="eng">IVJjQJj Lj LG=== −ωω</p>
+<p>Sostatt er streymurin í sjálvinduktión og kondensatori faktorin Q størri enn streymurin J frá streymgerðanum og í konduktansinum. Her hendir sostatt eitt slag av streymstyrking, sum víst í mynd 2.5b. IL og IC hava mótsætt fortekn og standa vinkulrætt á IR.</p>
+<p xml:lang="dan">VL = +jQE</p>
+<p xml:lang="eng">IC = +jQJ</p>
+<p xml:lang="eng">VR = E</p>
+<p xml:lang="dan">VC = −jQE</p>
+<p xml:lang="eng">IL = −jQJ</p>
+<p>Mynd 2.5  a. Spenningar í seriuresonansrásini yvir  mótstøðu (VR) sjálvinduktión (VL) og  kondensator (VC), tá ω = ω (t.e. í</p>
+<p>resonansinum) IR = J</p>
+<p>Mynd 2.5  b. Streymar í parallellresonansrásini í   konduktansi (IG), kondensatori  (IC) og sjálvinduktión (IL), tá ω = ω</p>
+<p>(t.e. í resonansinum)</p>
+<p><em type="bold">2.2 Transient sveiggj í resonansrásum </em></p>
+<p>Sum eitt eyðkennisdømi fyri transient sveiggj í eini resonansrás kunnu vit lýsa <em type="italic">undirkritiskt, </em></p>
+<p><em type="italic">yvirkritiskt og kritiskt</em> dempað sveiggj í seriuresonansrásini, sum er víst í mynd 2.6, har ein </p>
+<p>trinspenningsgerði e(t) = e⋅u(t) er settur til  eina  seriuresonansrás. Støddin e er ein konstantur, og</p>
+<p>u(t) er trinfunktiónin  við virðinum 0, tá t &lt; 0, og 1, tá t &gt; 0. Tann  Laplacetransformeraði streymurin  í rásini verður tá</p>
+<p>(2.17)</p>
+<p>Tann tilsvarandi tíðarfunktiónin i(t) fyri streymin er heft av síðsta liðinum av nevnaranum</p>
+<p xml:lang="eng">e              e         I(s) =   ⋅    =    ⋅              s        R+sL+1/sC         L       s + (ω/Q)s+ω</p>
+<p xml:lang="eng">_________  e  ω  √ (1-1/(4Q)       =    ⋅              Lω  √ (1-1/(4Q)       (s+ω /(2Q)) + ω (1-1/(4Q))</p>
+<p>4Q(1)ω− og kann í víðari greining býtast upp í trý ymisk føri: Q &gt; ½ (<em type="italic">undirkritiskt dempað </em></p>
+<p><em type="italic">sveiggj</em>), Q &lt; ½ (<em type="italic">yvirkritiskt dempað sveiggj</em>) og Q = ½ (<em type="italic">kritiskt dempað sveiggj</em>). </p>
+<p xml:lang="eng">R                   sL</p>
+<p xml:lang="eng"><em type="bold">                                                I</em> </p>
+<p xml:lang="eng">E(s)=    +  e      <em type="bold">    _                                  </em>        s                                              sC </p>
+<p xml:lang="eng">Mynd 2.6</p>
+<p xml:lang="dan"><em type="italic">Undirkritiskt dempað sveiggj,</em> Q &gt; ½ </p>
+<p>Í hesum føri er síðsta liðið í nevnaranum</p>
+<p>4Q(1)ω− &gt; 0 og I(s) hevur tá tveir kompleksar pólar, ið</p>
+<p>eru komplekst konjugeraðir. Tí vil tann til I(s) svarandi tíðarfunktiónin vera eitt dempað sinussveiggj</p>
+<p>(2.18)</p>
+<p>Tann seinasta approksimatiónin er galdandi, tá Q &gt;&gt; 1. Avmynda vit henda streymin sum funktión av tíðini, fæst myndin 2.7</p>
+<p xml:lang="dan">e      _________  i(t)  =    ⋅ exp(-ω /(2Q)t) ⋅  sin(ω  √ (1-1/(4Q)  ⋅ t)              Lω  √ (1-1/(4Q)</p>
+<p xml:lang="dan">≅ e/(Lω) ⋅ exp(-ω /(2Q)t) ⋅  sin(ω ⋅ t)</p>
+<p xml:lang="dan">i(t) ⋅ (L ω  )/e</p>
+<p>m ∆ t                              (m+n)</p>
+<p>-</p>
+<p xml:lang="eng">Mynd 2.7</p>
+<p>    Tíðin (ms)   <em type="bold"> </em> </p>
+<p>Av mynd 2.7 og formulinum fyri i(t) sæst,  at tíðarbilið millum tað m’ta og tað (m+n)’ta maksimið í myndini av i(t) er</p>
+<p>(2.19)</p>
+<p>og lutfallið millum streymamplitudurnar í hesum punktum er</p>
+<p>(2.20)</p>
+<p>Av hesum báðum formlunum finna vit cykliska resonansfrekvensin</p>
+<p>(2.21)</p>
+<p>og góðskuna</p>
+<p>(2.22)</p>
+<p>Heilt tey somu úrslitini fyri góðskuna Q og cykliska resonansfrekvensin ω kunnu finnast fyri eina</p>
+<p>∆t = n⋅(2π/ω)</p>
+<p>im+n /im = exp (-(ω/2Q)∆t)</p>
+<p>ω= m ⋅ π/∆t</p>
+<p>Q = n⋅π/ln(im /im+n)</p>
+<p>parallellresonansrás, ið fær streym frá einum trinstreymgerða, ið er settur parallelt við resonansrásina; bert skulu vit nú í formlinum fyri Q býta im+n /im   um við    vm+n /vm  , har  v er spenningurin yvir teir parallelt samansettu komponentarnar.</p>
+<p xml:lang="dan"><em type="italic">Yvirkritiskt dempað sveiggj,</em> Q &lt; ½ </p>
+<p>Í hesum føri er síðsta liðið í nevnaranum</p>
+<p>4Q(1)ω− &lt; 0, og I(s) hevur tá tveir ymiskar reellar pólar:</p>
+<p>2Q4Qs(1)ω= −±−. Tí vil tann til I(s) svarandi tíðarfunktiónin vera samansett av tveimum</p>
+<p>eksponetialfunktiónum. Hetta úrslit fæst við dekompositión, sum víst her,</p>
+<p>()()</p>
+<p xml:lang="eng">= ⋅ +− ω−⋅ ++ ω− </p>
+<p xml:lang="eng">2Q2Q4Q4Q</p>
+<p xml:lang="eng">I(s)L s(1)s(1)</p>
+<p>ωω</p>
+<p>(2.23)</p>
+<p xml:lang="eng">=⋅−ω−+− ω−++ ω−</p>
+<p>() ()</p>
+<p xml:lang="eng">4Q2Q2Q4Q4Q</p>
+<p xml:lang="eng">e 2L(1)s(1)s(1)</p>
+<p>ωω</p>
+<p>Tann til I(s) svarandi tíðarfunktiónin er tí</p>
+<p>(2.24)</p>
+<p xml:lang="eng">2 Q2Q4Q4Q</p>
+<p>(1)t(1)t</p>
+<p>ei(t)ee2L(1)</p>
+<p>−−−ω−+−ω=⋅−ω−</p>
+<p xml:lang="eng">4Q</p>
+<p xml:lang="eng"><em type="italic">Kritiskt dempað sveiggj,</em> Q = ½ </p>
+<p>Í hesum føri er síðsta liðið í nevnaranum</p>
+<p>4Q(1)ω− = 0, og I(s) hevur tá ein dupultan reellan pól:</p>
+<p>2Qsω= −. Laplacetransformurin fyri streymin I(s) er tí,</p>
+<p>(2.25)</p>
+<p>eI(s)L sω= ⋅+</p>
+<p xml:lang="eng">2Q</p>
+<p>Tann til I(s) svarandi tíðarfunktiónin er</p>
+<p>(2.26)</p>
+<p>2Qtei(t)t eL</p>
+<p xml:lang="dan">ω−= ⋅ ⋅</p>
+<p>Mynd 2.8 vísir gongdina av i(t) sum funktión av tíðini fyri øll trý førini, har Q &gt; ½, Q = ½ og Q &lt; ½. Vit leggja merki til, at tá rásin er kritiskt dempað (Q = ½), fær i(t) skjótast sítt javnvágsvirði.</p>
+<p xml:lang="eng">x 10</p>
+<p xml:lang="eng">Q = 2</p>
+<p xml:lang="eng">Q = 0,5 Q = 0,125</p>
+<p>-</p>
+<p>0.20.40.60.8</p>
+<p>-</p>
+<p xml:lang="eng">x 10</p>
+<p>t    (ms)</p>
+<p>Mynd 2.8 Broyting av streymi i(t) í seriuresonansrás við tíðini svarandi til ymisk Q-virði: Undirkritisk demping Q = 2 (R = 50), kritisk demping Q = 0,5 (R = 200) og yvirkritisk demping Q = 0,125 (R = 800). Í øllum trimum førum er e = 1 V, L = 5 mH og C = 500 nF.</p>
+<p>Tá vit hava við resonansrásir at gera, eru ofta fleiri mótstøður í rásini, har summar eru settar í seriu við, og summar eru settar parallelt við ein reaktans. Tí er ofta brúk fyri at rokna seriumótstøðu, sum víst í mynd 2.9, um til parallellmótstøðu, sum víst í mynd 2.10, ella mótsætt. Serstakan týdning hava hesar umrokningar, tá seriumótstøðan er lítil, t.e. Rs &lt;&lt; Xs , og tá parallellmótstøðan er stór, t.e. Rp &gt;&gt; Xp. Í hesum førum eru approximatiónirnar, ið niðanfyri eru vístar, galdandi og nógv brúktar.</p>
+<p>Úr myndunum fæst, at, um Z í báðum rásum í mynd 2.9 og 2.10 skulu vera eins, verður</p>
+<p>(2.27)</p>
+<p>Úr hesi líkning fæst úrslitið</p>
+<p>(2.28)</p>
+<p>(2.29)</p>
+<p>(2.30)</p>
+<p>(2.31)</p>
+<p xml:lang="dan"><em type="bold">Rs jXs Z Rp jXp Z </em></p>
+<p xml:lang="eng">Mynd 2.9                   Mynd 2.10</p>
+<p xml:lang="dan">                                                jRpXp                RpXp               jRpXp Z = Rs + jXs  = Rp  jXp   =    =      +    <em type="bold">                                       </em>Rp +jXp<em type="bold">           </em>Rp +Xp           Rp +Xp<em type="bold"> </em></p>
+<p xml:lang="eng">RpXp</p>
+<p>Z =  </p>
+<p xml:lang="eng">Rp +Xp</p>
+<p xml:lang="eng">RpXp           Xp Rs      =     ≅   </p>
+<p xml:lang="eng">Rp +Xp             Rp</p>
+<p xml:lang="eng">Rp Xp            Xs      =     ≅   Xp</p>
+<p xml:lang="eng">Rp +Xp</p>
+<p xml:lang="eng">Rp Xp Rs ⋅ Rp  = Xs ⋅ Xp   =     =Z</p>
+<p>Rp +Xp Tapsfaktorin d fyri ein reaktans X, ið er settur í seriu við eina mótstøðu Rs , er defineraður sum lutfallið</p>
+<p xml:lang="eng">(2.32) d = Rs / X</p>
+<p>Tapsfaktorin fyri ein reaktans X, ið er settur parallelt við mótstøðuna Rp , er defineraður sum lutfallið</p>
+<p xml:lang="eng">(2.33) d = X / Rp</p>
+<p>Navnið tapsfaktor stavar frá, at tilknýtt d er eitt orkutap í streymrásini. Brúka vit umskrivingina frá parti 3 fyri seriu impedansar til parallell impedansar er approximativt Rp = X / Rs , og vit síggja, at omanfyri standandi definitiónir av tapsfaktorinum geva sama úrslit.</p>
+<p>Fyri sjálvinduktiónina er soleiðis galdandi, at tapsfaktorin er</p>
+<p>(2.34) d = ωL / Rp = Rs / ωL</p>
+<p>Somuleiðis er galdandi fyri kondensatorin</p>
+<p xml:lang="dan">(2.35) d = ωC Rs = 1/(ωC Rp )</p>
+<p>Vit kunnu sostatt umforma seriu rás til parallell rás og umvent við at brúka hesar formlarnar fyri tapsfaktorarnar soleiðis, sum víst í mynd 2.11.</p>
+<p>Í eini resonansrás eru tveir reaktansar, ωL fyri sjálvinduktiónina og 1/(ωC) fyri kapasitetin. Við cykliska frekvensinum ω = ω , ið er resonansfrekvensurin, eru hesir reaktansar, sum áður nevnt, eins stórir  ωL = 1/(ωC). Tann reciprokki tapsfaktorin d fyri resonansrásina sæst í øllum førum at</p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">s</em> <em type="bold">           L</em> <em type="bold">R</em> <em type="bold">p                L</em> </p>
+<p>Rs          ωL d =   =          ωL           Rp</p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">s</em> <em type="bold">         C</em> <em type="bold">Rp                C</em> </p>
+<p>d =  ωC Rs  =                           ωCRp</p>
+<p xml:lang="eng">Mynd 2.11</p>
+<p>vera góðskufaktorin Q, sum áður er defineraður:</p>
+<p>(2.36) d  = 1/ Q resonansrásini at tilskriva hvørjum av hesum mótstøðum ein tapsfaktor sambært omanfyri standandi. Til at lýsa hetta hyggja vit at trimum dømum.</p>
+<p>Dømi 1: Parallellresonansrás við seriu og parallell mótstøðum við cykliska resonansfrekvensinum ω . Vit rokna samlaða tapsfaktorin út fyri resonansrásina.<em type="bold"> </em></p>
+<p>Tann samlaði javnsetti (ækvivalenti)  paralellkonduktansurin er</p>
+<p xml:lang="eng">(2.37) 1/Rp‘ = 1/Rp  + Rs /(ωL)</p>
+<p>og tilsvarandi tapsfaktorin er</p>
+<p>(2.38) d = ωL/Rp‘      = ωL/Rp + Rs /(ωL)  = 1/Q</p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">s</em> <em type="bold">           L</em> <em type="bold">R</em> <em type="bold">p C</em> </p>
+<p><em type="bold">(</em> ω <em type="bold">L)</em> <em type="bold"></em> </p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">p</em> <em type="bold">                C</em> </p>
+<p>Hetta er júst summin av tapsfaktorunum svarandi til tær báðar mótstøðurnar og tað resiprokka virðið av góðskufaktorinum. Mynd 2.12</p>
+<p> <em type="bold">          L</em> </p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">s</em> </p>
+<p>Dømi 2: Seriuresonansrás við seriu og parallell mótstøðum við cykliska resonansfrekvensinum</p>
+<p>ω. Vit rokna samlaða tapsfaktorin út fyri resonansrásina.<em type="bold"> </em></p>
+<p><em type="bold">Rs           L Rp                C</em> </p>
+<p><em type="bold">(</em>ω<em type="bold">C) Rs             C Rs           L </em></p>
+<p>Tann samlaða javnsetta (ækvivalenta) seriumótstøðan er</p>
+<p xml:lang="eng">(2.39) Rs‘ = Rs  + Rp (ωC)</p>
+<p>og tilsvarandi tapsfaktorurin er</p>
+<p>(2.40) d = ωCRs‘      = ωCRs + 1/ωCRp = 1/Q</p>
+<p xml:lang="eng">Mynd 2.13</p>
+<p>Hetta er júst summin av tapsfaktorunum svarandi til tær báðar mótstøðurnar og tað resiprokka virðið av góðskufaktorinum.</p>
+<p>Dømi 3: Parallellresonansrás (L og C eru parallell) við fleiri seriu og parallell mótstøðum við cykliska resonans-frekvensinum ω . Vit rokna samlaða tapsfaktorin út fyri resonans</p>
+<p>rásina.<em type="bold"> </em></p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">R</em> </p>
+<p xml:lang="eng"><em type="bold">R           L   C  </em></p>
+<p xml:lang="eng"><em type="bold">R</em> <em type="bold">R</em> </p>
+<p xml:lang="eng">M yn d   2 .1 4</p>
+<p>Tann samlaða ækvivalenta parallellmótstøðan er Rp‘ ,  har</p>
+<p xml:lang="eng">(2.41) 1/Rp‘ = R/(ωL)  + 1/R + 1/R + R (ωC) + 1/R</p>
+<p>og tilsvarandi tapsfaktorurin, havandi í huga, at ωL = 1/(ωC), er</p>
+<p xml:lang="eng">(2.42)        d = d + d + d + d + d = ωL/Rp‘                = R /(ωL) +  ωL/R + ωL/R +  R ωC + 1/(R ωC)               = R /(ωL) +  ωL/R + ωL/R +  R/(ωL) + (ωL)/R</p>
+<p xml:lang="eng">= 1/Q</p>
+<p>Hetta er júst summin av tapsfaktorunum svarandi til tær fimm mótstøðurnar og tað resiprokka virðið av </p>
+<p><em type="bold">2.5 Resonansrásir í nýtslu </em></p>
+<p>Resonansrásir verða brúktar til smalbandsfiltur, har tað ræður um at skilja eitt signal við einum smølum frekvensøki frá øðrum signalum. Sum dømi kunnu vit nevna antennuinngangin í einum útvarpsmóttakara.  Tá ræður um,  at gera frekvensbreiddina júst so breiða sum útvarpskanalin er. Á millumbylgjum er hendan frekvensbreiddin B = 9 kHz. Hetta svarar til dømis til, at millumbylgjusendarin hjá Útvarpi Føroya sendir í frekvensøkinum f = 531 kHz ± ∆f , har  ∆f = 4,5 kHz.</p>
+<p>Bandbreiddin B definera út frá virðinum har amplitudan er fallin við faktorinum  er, útroknað við støði í Q,</p>
+<p xml:lang="dan">(2.43) B = 2f / Q</p>
+<p>Tað er tí greitt, at Q í  nevnda útvarpsdømi skal vera á leið 2⋅531000/9000 =118. Ofta verður Q valt</p>
+<p>eitt sindur størri. Til onnur endamál kann brúk vera fyri nógv hægri Q virðum. Tí er av týdningi at kanna eftir, hvaðani tapsmótstøðurnar í eini resonansrás í veruleikanum koma frá.</p>
+<p>tilfarinum, sum spolin er vundin uppá. Magnetiska tilfarið, ið oftast verður brúkt, er nevnt ferritt.</p>
+<p>Kondensatorin er heldur ikki tapsfríur við tað, at leiðararnir til kondensatorpláturnar  hava mótstøðu, og isolerandi tilfarið millum pláturnar er ikki fullfíggjað isolerandi. Men tapini (tapsfaktorin) stavandi frá hesum eru vanliga nógv minni enn tapini, sum nevnd eru at koma fyri í spolanum. Tí taka vit bara spolatapini við her.</p>
+<p>Í einum spola kann mótstøðan í leiðaranum javnsetast (ækvivalerast) við eina seriumótstøðu Rs , meðan orkutapið, sum fer fram í magnetiska ferrittilfarinum kann javnsetast við eina parallellmótstøðu Rp  soleiðis, at samlaði tapsfaktorin d = 1/Q verður virðið sum er funnið í dømi 1 ella dømi 2 (her er at minnast til at ωL = 1/(ωC) ), t.v.s. Q hevur sama virði í eini seriu- og</p>
+<p xml:lang="eng">parallellresonansrás,</p>
+<p>(2.44) Q = 1/d = 1/(ωL/Rp + Rs /(ωL))</p>
+<p>Lata vit nú resonansfrekvensin broytast (við t.d. at broyta C), broytist Q og hevur eitt størstavirði (verður funnið við at differentiera Q sum funktión av ω )</p>
+<p xml:lang="eng">______ (2.45) Qmax  =  ½ ⋅ √ Rp /Rs</p>
+<p>tá ið                               ______  ω = ωr0 =1/ L ⋅ √ Rp⋅Rs</p>
+<p>og  góðskufaktorurin sum funktión av cykliska resonansfrekvensinum ω kann skrivast</p>
+<p xml:lang="eng">(2.46) Q =2Qmax /(ω/ωr0 + ωr0 /ω)</p>
+<p><em type="bold">3. Yvirføringsfunktiónir - syntesa </em></p>
+<p>Í eini streymrás, ið bert verður ávirkað av einum signalgerða (spenningsgerða ella streymgerða) kann ein <em type="italic">yvirføringsfunktión</em> verða definerað sum lutfallið millum støddina á signalinum (streym ella spenning) og signalgerðan.  Treytirnar fyri definitiónini eru: </p>
+<p>- rásin er Laplacetransformerað myndarás ella vendistreymsrás í kompleksari formulering, - eingir óheftir spennings- ella streymgerðar eru í rásini uttan hesin eini, sum ávirkar rásina í einum staði, - heftir spennings- og streymgerðar kunnu væl vera í rásini - byrjunnarspenningar á øllum kondensatorum eru null, og - byrjunnarstreymar í øllum sjálvinduktiónum eru null.</p>
+<p>Í viðgerð av  Laplace-transformeraðum rásum verður ein yvirføringsfunktión <em type="bold">H(s) </em>fyri einhvønn spenning ella streym í rásini definerað sum lutfallið millum tað Laplace-transformeraða signalið (streym ella spenning) og tann Laplace-transformeraða signalgerðan (streym- ella spenningsgerðan). </p>
+<p>Við støði í yvirføringsfunktiónini <em type="bold">H(s) </em>verður <em type="italic">frekvenskarakteristikkurin</em> <em type="bold">H(</em>jω<em type="bold">) </em>defineraður við at seta s = jω.  </p>
+<p><em type="italic">Amplitudukarakteristikkurin  </em>verður defineraður sum tað nummeriska (modulus) virðið av </p>
+<p>frekvenskarakteristikkinum  <em type="bold"> </em><em type="bold">H(</em>jω<em type="bold">)</em> , og verður oftast myndaður logaritmiskt sum A<em type="bold">(</em>jω<em type="bold">) </em>= 20 log<em type="bold">H(</em>jω<em type="bold">)</em>. </p>
+<p><em type="italic">Fasukarakteristikkurir </em>verður defineraður sum fasuvinkulin hjá <em type="bold">H(</em>jω<em type="bold">), </em> t.e. ∠<em type="bold"> H(</em>jω<em type="bold">)</em><em type="italic"> </em></p>
+<p>Ofta verða amplitudukarakteristikkur og fasukarakteristikkur saman  nevndir frekvenskarakteristikkarnir.</p>
+<p>Á eftirfylgjandi síðum verður syntesa av filtri við reellum og kompleksum pólum lýst.</p>
+<p><em type="bold">3.1 Syntesa við støði í amplitudukarakteristikki og fasukarakteristikki </em></p>
+<p>Ein amplitudukarakteristikkur og ein fasukarakteristikkur fastleggja eintýðugt yvirføringsfunktiónina fyri eina streymrás. Hetta er galdandi uttan mun til, um streymrásin hevur reellar ella kompleksar pólar og nullpunkt. Vit vilja her vísa, hvussu yvirføringsfunktiónin fyri eina streymrás verður funnin við støði í hesum við einum hóskandi dømi.</p>
+<p>Amplitudu- og fasukarakteristikkarnir eru givnir í mynd 3.1 og 3.2. Av hesum myndum lesa vit: - Amplitudukarakteristikhallið er 20 dB/dek., tá ω → 0 svarandi til eitt nullpunkt z = 0.</p>
+<p>- Brotkurvan hjá amplitudukarakteristikkinum hevur eitt brot uppá –20 dB/dek. (t.e. hallið broytist –20 dB/dekadu) í  ω = 4 rad/sek, svarandi til pólin p = – 4 rad/sek. At p er negativur sæst av negativa hallinum av fasukarakteristikkinum í ω = 4. - Vit ásanna, at í ω = 400 hevur amplitudukarakteristikkurin eitt spískt maksimum. Hetta svarar</p>
+<p>til kompleksar pólar svarandi til henda frekvensin. - Brotkurvan hjá amplitudukarakteristikkinum hevur eitt brot uppá – 40 dB/dek. í  ω = 400 rad/sek, svarandi til kompleksu pólarnar, hvørs nummerisku støddir eru p= p= 400</p>
+<p xml:lang="dan">rad/sek.</p>
+<p>4rad/sek &lt; ω &lt; 400 rad/sek við virðinum 18 dB, - Asymtotan hjá amplitudukarakteristikkinum hevur hallið −40 dB/dekadu, tá ω → ∞, svarandi</p>
+<p>til,  at polynomiið í nevnaranum hjá H(s)  er tvey stig hægri ordan enn teljarapolynomiið. - Eitt spískt maksimum uppá 32 dB, t.e. 14 dB oman fyri, har tann horisontala 18 dB-asymptotan og asymptotan við – 40dB/dek. halli skerast. Hetta svarar til, at pólarnir p og p eru eitt komplekst pólpar, p =  p* = α + jβ. Herav finst, at cykliski brotfrekvensurin ωn = p = p = α + β = 400 rad/sek. Við tí notatión, sum J.W.Nilsson og S.A.Riedel brúka, finna vit við at brúka standard amplitudukarakteristikkin,</p>
+<p>dB,maxA10 log(4 (1)) 32 18dB∆= − ⋅ζ− ζ=− . Av hesum finna vit, at</p>
+<p>ζ = α / ωn = 0,1 .  Av tí at  ωn = 400 rad/sek finna vit harvið, at α = 40 rad/sek. og β = 398</p>
+<p xml:lang="dan">rad/sek ≅ 400 rad/sek.</p>
+<p>Kompleksu pólarnir hava tí virðini: p ≅ –40  + j400 rad/sek   og    p ≅ –40 – j400 rad/sek</p>
+<p>- Skjóta fasuskiftið uppá –180o rundan um cykliska frekvensin 400 rad/sek, sum víst í mynd 1.2, vísir eisini, at eitt komplekst pólpar er í yvirføringsfunktiónini har nummeriska støddin er 400 rad/sek.  - Fasan gongur móti –180o, tá ω → ∞. - Fasan gongur móti +90o, tá ω → 0.</p>
+<p>-  Við teimum funnu pólunum og nullpunktunum er formurin av  yvirføringsfunktiónini H(s) sostatt:</p>
+<p>Eftir er at gera av, hvat virði K hevur. Á flata strekkinum er 40 &lt; ω &lt; 400 rad/sek, og tí er</p>
+<p xml:lang="eng">s (3.1) H(s) = K ⋅                       (s + 4)⋅(s + 40 – j400)⋅(s + 40 + j400)</p>
+<p>og vit fáa yvirføringsfunktiónina sum funktión av frekvensinum við at seta s = jω</p>
+<p xml:lang="eng">jω (3.2) H(jω) =  K                                (jω + 4)⋅(jω + 40 – j400)⋅(jω + 40 + j400)</p>
+<p>amplitudukarakteristikkurin í hesum øki approksimativt</p>
+<p xml:lang="eng">(3.3) A(ω) = 20 log H(jω) = 18 dB ≅ 20 log (K/ p  ) ≅ 20 log K – 40 log 400 dB</p>
+<p>Herav finst at K = 1,27 ⋅  . Fasan av K finst av, at, tá ið ω → ∞, gongur faktorurin í teljaranum svarandi til nulpunktið út móti faktorurin í nevnaranum svarandi til  pólin p , og ∠H→ − o   = ∠K − ∠(jω) = ∠K – 180o .  Herav finst, at ∠K = 0o  , og K = 1,27 ⋅  .</p>
+<p>Vit kunnu eisini síggja, at fasan er røtt, t.e. +90o , tá ω → 0.</p>
+<p><em type="bold">Cykliskur frekvensur (rad/sek) </em></p>
+<p xml:lang="eng">Mynd 3.1</p>
+<p><em type="bold">Cykliskur frekvensur (rad/sek)</em>Mynd 3.2 Lágpassfiltur er filtur, ið letur lágfrekvent signal, t.e. signal við frekvensum millum 0 og ein markfrekvens sleppa ígjøgnum. Í hesum døminum verður gjøgnumgingið eitt 1. ordans aktivt lágpassfiltur. Streymrásin er víst í mynd 4.1<em type="bold"> </em></p>
+<p>Yvirføringsfunktiónin er</p>
+<p xml:lang="eng">(4.1) RRRj CH(s)RR (1 sC R )C R (s)C R</p>
+<p>Mynd 4.1 Streymrás fyri aktivt lágpassfiltur</p>
+<p xml:lang="eng">ω= −= −= −++</p>
+<p>&amp;</p>
+<p>Seta vit R = R og</p>
+<p>1 1</p>
+<p>R Cω =, umframt s = jω, er</p>
+<p>(4.2)</p>
+<p>H( j )j( j)(1)</p>
+<p xml:lang="eng">ωω = −= −ωω + ω+ω</p>
+<p>Amplitudukarakteristikkurin er</p>
+<p>(4.3)</p>
+<p xml:lang="eng">A( )20 logωω = − ⋅+  ω</p>
+<p>og fasukarakteristikkurin er</p>
+<p xml:lang="eng">(4.4) o</p>
+<p>H 180Arc tanω∠ =−ω Mynd 4.2 vísir tilsvarandi amplitudu og fasukarakteristikkar avmyndaðar sum funktión av frekvensinum f = ω/(2π) við logaritmiskum frekvensási við talvirðum sum givin í myndunum 4.1</p>
+<p>og 4.2. Í myndini eru brotkurvar, ið mynda asymptoturnar, innteknaðar. Nær við frekvensin har henda brotlinja fyri amplitudukarakteristikkin hevur eitt brot, t.e. frekvensin, ið svarar til pólin í filtrinum hevur brotlinjan eitt frávik frá amplitudukarakteristikkinum uppá 3dB. Í teimum punktunum har brotlinjan fyri fasukarakteristikkin hevur brot, t.e. í punktunum f = 1/10 f =  Hz og f = 10 f = kHz, hevur brotlinjan eitt frávik frá fasukarakteristikkinum uppá 6o ,ið er størsta frávikið millum approksimatión og sanna virði.</p>
+<p>Fasukarakteristikkur</p>
+<p>Amplitudukarakteristikkur</p>
+<p>Mynd 4.2 Fasukarakteristikkur og amplitudukarakteristikkur fyri 1.ordans aktivt lágpassfiltur.</p>
+<p>Hápassfiltur er filtur, ið letur háfrekvent signal, t.e. signal við frekvensum millum ein markfrekvens og ∞ sleppa ígjøgnum. Í hesum døminum verður gjøgnumgingið eitt 1. ordans aktivt hápassfiltur.</p>
+<p>Streymrásin er víst í mynd 5.1<em type="bold"> </em></p>
+<p>Yvirføringsfunktiónin er</p>
+<p>(5.1)</p>
+<p>Mynd 5.1 Streymrás fyri 1.ordans aktivt hápassfiltur</p>
+<p xml:lang="eng">RsC RsRH(s)1 sC RRR (s)sCC R</p>
+<p xml:lang="eng">= −= −= −+++</p>
+<p>Hon hevur eitt nulpunkt s = 0, og ein pól</p>
+<p>sR C= − svarandi til pólfrekvensin R Cω = og markfrekvensin f = ω/(2π). Seta vit R = R , umframt s = jω, er</p>
+<p>(5.2) jjH( j )( j)1 j</p>
+<p xml:lang="eng">ω ωωω = −= −ωω + ω+ω</p>
+<p>Amplitudukarakteristikkurin er</p>
+<p>(5.3)</p>
+<p xml:lang="eng">A( ) 20 log20 logωωω =⋅−⋅+  ωω</p>
+<p>og fasukarakteristikkurin er</p>
+<p xml:lang="eng">(5.4) oo</p>
+<p>H 180Arc tanω∠ =+−ω</p>
+<p>Fasukarakteristikkur</p>
+<p>Amplitudukarakteristikkur</p>
+<p>Mynd 5.2 Fasukarakteristikkur og  amplitudukarakteristikkur fyri 1.ordans aktivt hápassfiltur.</p>
+<p>Mynd 5.2 vísir tilsvarandi amplitudu- og fasukarakteristikkar avmyndaðar sum funktión av frekvensinum f = ω/(2π) við logaritmiskum frekvensási við talvirðum, sum givin í myndunum 5.1</p>
+<p>og 5.2. Í myndini eru brotkurvar, ið mynda asymptoturnar, innteknaðar. Nær markfrekvensinum  f = 1,59 kHz, har brotlinjan fyri amplitudukarakteristikkin hevur eitt brot, t.e. nær frekvensinum, ið svarar</p>
+<p>er størsta frávikið millum approksimatión og sanna virði. (Sum tað sæst á myndini fellur fasan undir asymptotiska virðið 180o fyri teir hægstu frekvensirnar. Hetta er orsakað av, at operatiónsstyrkjarin í simuleringini ikki er heilt ideellur, og hevur einki at gera við ástøði fyri hápassfiltrið.)  Í hesum døminum verður gjøgnumgingið eitt aktivt bandstopfiltur samansett sum ein parallellsamanbinding av einum lágpassfiltri og einum hápassfiltri (sí eisini Nillson og Riedel kap.16). Streymrásin er víst í mynd 6.1.</p>
+<p>Operatiónsstyrkjarin U1A við tilhoyrandi mótstøðum R, R og kondensatori C er settur upp sum eitt lágpassfiltur. Tilsvarandi er operatiónsstyrkjarin U2A við tilhoyrandi mótstøðum R, R og kondensatori C settur upp sum eitt hápassfiltur. Signalini frá útgangunum av hesum filtrum verða løgd saman í summatiónsuppsetingini samansett av  styrkjaranum U3A og tilsvarandi mótstøðum R, R og R . Yvirføringsfunktiónin er</p>
+<p xml:lang="eng">Vout               R(1/sC)                R                       R (6.1) H(s) =  = ( −      −     ) ⋅ (−  )</p>
+<p xml:lang="eng">Vin                     R                   R + (1/sC)              R</p>
+<p>Her hava vit brúkt R = R . Seta vit umframt R = R kann H(s) umskipast til</p>
+<p xml:lang="eng">s  + 2/ (RC)s + 1/( RCRC)        (s – z) ⋅ (s – z)      s + 2ζωns + ωn  (6.2)               H(s) =     =   =                                    (s + 1/ (RC)) ⋅ (s + 1/(RC))            (s + ω) ⋅ (s + ω)    (s + ω) ⋅ (s + ω)</p>
+<p xml:lang="dan">har ωn = (–z)( –z) = ω⋅ω  og  ζ = –(z +z)/( 2ωn) = (ω/ω)½</p>
+<p>Mynd 6.1 Streymrás fyri bandstopfiltur, samansett av lágpassfiltri og hápassfiltri</p>
+<p>1</p>
+<p>og tvey kompleks nullpunkt    : z = − ω +jω (ω /ω –1)1/2  og      z = − ω −jω (ω /ω –1)1/2 við tí nummerisku støddini       ω  = z = z= (ω ⋅ω)1/2 = ωn</p>
+<p>Mynd 6.2 vísir tilsvarandi fasukarakteristikk og amplitudukarakteristikk sum funktión av frekvensinum f = ω/(2π) við logaritmiskum f – ási við talvirðum, sum givin í myndini. Í myndina</p>
+<p>eru innteknaðir brotkurvukarakteristikkarnir, ið approksimera karakteristikkarnar. Nær við teir reellu pólfrekvensarnar hevur amplitudukarakteristikkurin frávikið o.u. 3dB, meðan hann nær kompleksu nullpunktini hevur eitt frávik svarandi til ζ = (ω/ ω)1/2.</p>
+<p>Komponentvirðini í myndini geva hesi talúrslit: f = 159 Hz, f = 1590 Hz, f = 503 Hz,</p>
+<p>ζ = 0.316. Svarandi til hetta ζ-virðið verður kurvan at liggja</p>
+<p xml:lang="eng">dB,maxA10 log(4 (1))∆= − ⋅ζ− ζ  =</p>
+<p>4,4 dB lægri enn skerings-punktið millum asymtoturnar (sambært formul (15.88) í Nilsson og Riedel).</p>
+<p>Mynd 6.2 Fasukarakteristikkur og  amplitudukarakteristikkur fyri bandpassfiltur</p>
+<p><em type="bold">7. Bandpassfiltur </em></p>
+<p>Mynd 7.1 Streymrás av bandpassfiltrið samansett av lágpassfiltrið og hápassfiltrið.</p>
+<p>Í hesum døminum verður gjøgnumgingið eitt aktivt bandpassfiltur samansett sum ein raðsamanbinding av einum lágpassfiltri og einum hápassfiltri av sløgunum viðgjørd í parti 4 og 5. Streymrásin er víst í mynd 7.1.</p>
+<p>Operatiónsstyrkjarin U1A við tilhoyrandi mótstøðum R, R og kondensatori C er settur upp sum eitt lágpassfiltur. Tilsvarandi er operatiónsstyrkjarin U2A við tilhoyrandi mótstøðum R, R og kondensatori C er settur upp sum eitt hápassfiltur. Signalini frá útgangunum av hesum filtrum verða faldað við at seta lágpass- og hápassfiltur á rað.</p>
+<p>Yvirføringsfunktiónin er</p>
+<p xml:lang="eng">(7.1) RRj CH(s) () ()RRsC</p>
+<p xml:lang="eng">ω= −⋅ −</p>
+<p>&amp;</p>
+<p>+</p>
+<p>H(s) kann umskipast til</p>
+<p>(7.2)</p>
+<p xml:lang="eng">RssH(s)C R R(s) (s)(s) (s)R CR C</p>
+<p>ω=⋅=+ ω ⋅ + ω+⋅ +</p>
+<p>1 1</p>
+<p>Í síðstu umforming av hesum formuli hava vit sett R = R og R = R.  Her eru tveir reellir negativir polar:    s = − ω = − 1/ (RC) og  s = − ω  = − 1/ (RC) og eitt nullpunkt: s = 0.</p>
+<p>Mynd 7.2 vísir tilsvarandi fasu- og amplitudukarakteristik sum funktión av frekvensinum f = ω/(2π)</p>
+<p>við logaritmiskum f – ási við talvirðum, sum givin á myndini. Í myndina eru innteknaðar brotkurvukarakteristikkarnir, ið approximera karakteristikkarnar. Nær við teir reellu pólfrekvensarnar hevur amplitudukarakteristikkur frávikið o.u.3 dB. Lagt eigur at verða til merkis, at komponentvirðini eru broytt í mun til tilsvarandi virði fyri lágpassfiltur og hápassfiltur í parti 4 og 5 soleiðis, at vit nú hava f &gt; f. Komponentvirðini í myndini geva hesi talúrslit fyri markfrekvensarnar (pólfrekvensarnar): f = 1590 Hz, f =159 Hz</p>
+<p>Mynd 7.2 Fasukarakteristikkur og amplitudukarakteristikkur fyri bandpassfiltur.</p>
+<p><em type="bold">8. <span type="quote" xml:lang="eng">“All-pass”</span> filtur  </em></p>
+<p>Í hesum fimta døminum viðvíkjandi aktivum filtrum verður víst, at í  all-pass filtri er amplitudukarakteristikkurin 0 dB fyri allar frekvensir, og bert fasan skiftir við frekvensinum. Í hesum 1. ordans filtrinum skiftir fasan 180o . Eitt sovorði filtur verður gjørt við at lata H(s) hava ein reellan pól p í vinstra hálvplani og eitt nummeriskt eins stórt reelt nulpunkt z í høgra hálvplani í tí kompleksa s-planinum, t.e. p  = z .</p>
+<p>Í mynd 8.1 er <span type="quote" xml:lang="eng">“all-pass”</span> filtrið uppbygt við brúk av einum operatiónsstyrkjara. Vit kunnu her uppseta knútapunktslíkningar fyri + og – inngangin hjá operatiónsstyrkjaranum:</p>
+<p xml:lang="eng">V+             V+ − Vin</p>
+<p>   +     =  0</p>
+<p xml:lang="eng">R               1/(sC)</p>
+<p xml:lang="eng">V− − Vout                 V− − Vin</p>
+<p>   +     =  0</p>
+<p xml:lang="eng">R                       R</p>
+<p xml:lang="eng">Vout       s − 1/( RC) H(s) =  = </p>
+<p>(8.1)</p>
+<p>(8.2)</p>
+<p>Av hesum fæst yvirføringsfunktiónin</p>
+<p>(8.3)</p>
+<p>Vin         s + 1/( RC)</p>
+<p>1</p>
+<p>avmyndað í kompleksa s-planinum í mynd 8.2.</p>
+<p>Amplitudukarakteristikkurin er</p>
+<p xml:lang="eng">(8.4) A(ω) = 20 log H(jω)= 0 dB</p>
+<p>fyri allar frekvensir, og fasukarakteristikkurin er</p>
+<p>(8.5) ∠H(jω) = φ + φ  = [180o + Arctan ( −ωRC)] − Arctan (ωRC)          = 180o – 2Arctan (ωRC)</p>
+<p>har φ er fasan fyri pólin og φ er fasan fyri nulpunktið. Her skal ansast eftir, tá vinkulin φ verður</p>
+<p>útroknaður við tað, at hann liggur í intervallinum 90o – 180o , sum víst er í mynd 8.2.</p>
+<p>Amplitudukarakteristikkurin og fasukarakteristikkurin eru vístir í mynd 8.3, og sæst, at fasan íalt skiftir frá  180o til 0o. Sostatt gevur hetta filtrið eina reina fasubroyting uttan broyting av signalstøddini.</p>
+<p>Mynd 8.1 Streymrás av aktivum all-passfiltri <em type="bold">s-planur</em> </p>
+<p>φ<em type="bold">                      </em>φ<em type="bold"></em> </p>
+<p>p= -1/( RC)           z = 1/( RC)</p>
+<p>Mynd 8.2   Kompleksur s-planur, ið vísir positivt nulpunkt z og negativan pól p, og   tilsvarandi fasuvinklarnar φ og φ, sum innganga í samlaða fasuvinkulin hjá</p>
+<p>yvirføringsfunktiónini hjá all-passfiltrinum.</p>
+<p>Mynd 8.3   Fasu og amplitudukarakteristikkur fyri eitt all-passfiltur við einum reellum  positivum nullpunkti og einum reellum negativum póli.</p>
+</body></document>

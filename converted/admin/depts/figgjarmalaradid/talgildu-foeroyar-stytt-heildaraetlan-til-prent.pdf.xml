@@ -1,0 +1,246 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>5403</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>talgildu-foeroyar-stytt-heildaraetlan-til-prent.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>HEILDARÆTLANIN 1. OKTOBER 2015</p>
+<p>Innihald</p>
+<p><em type="italic">Heildarætlanin Talgildu Føroyar....................................................................................................................... 3 </em></p>
+<p><em type="italic">Verkætlanarbygnaður ....................................................................................................................................... 4 </em></p>
+<p><em type="italic">Samandráttur og tilmæli .................................................................................................................................. 6 </em></p>
+<p><em type="italic">Visjónin  Talgildu Føroyar - lættari, betri og bíligari fyri samfelagið ............................................................. 10 </em></p>
+<p><em type="italic">Meginreglur fyri Talgildu Føroyar ................................................................................................................... 11 </em></p>
+<p><em type="italic">Lóggáva og rættartrygd .................................................................................................................................. 12 </em></p>
+<p><em type="italic">Talgildar Tænastur - Alt á einum stað ........................................................................................................... 13 </em></p>
+<p><em type="italic">Talgildur Samleiki - Eitt ómakaleyst samleikaprógv ..................................................................................... 14 </em></p>
+<p><em type="italic">Grunddáta og KT-arkitekturur ........................................................................................................................ 17 </em></p>
+<p><em type="italic">Myndugleiki og bygnaður ............................................................................................................................... 18 </em></p>
+<p><em type="italic">Talgildu Føroyar fyri øll ................................................................................................................................... 20 </em></p>
+<p><em type="italic">Átøk og kostnaðarætlan 2016-2020 ................................................................................................................ 22 </em></p>
+<p>Heildarætlanin Talgildu Føroyar</p>
+<p>Farið verður undir at seta skjøtul á at talgilda tænastur til borgarar, vinnu og almenna geiran í Føroyum. Higartil hevur eingin yvirskipað samskipan av talgildingini í Føroyum verið. Hetta hevur við sær, at tað ikki í nóg stóran mun verður hugt eftir heildini, ella møguleikanum at endurnýta verandi skipanir og skráir.</p>
+<p>Endamál: Talgildingin hevur til endamáls at nútímansgera vælferðina og tænasturnar hjá føroyingum og skal  vera við til at skapa kappingarføri, vøkstur og framleiðsluorku,  umframt at tryggja munandi sparingar og effektiviseringar í almenna geiranum.</p>
+<p>Talgildingin hevur við sær, at borgarar og virki samskifta talgilt við almenna geiran , at fyrisitingarligar tænastur hjá tí almenna eru tøkar á netinum, og at veitingar og mannagongdir í almennu fyrisitingini eru talgildar.</p>
+<p>Ein av grundarsteinum undir at talgilda samfelagið er at hava eina trygga talgilda undirskrift.</p>
+<p>Vinnumálaráðið og Fíggjarmálaráðið eru stigtakarar og hava evstu ábyrgd av verkætlanini.</p>
+<p>Heildarætlanin er grundarlag fyri arbeiðið at talgilda Føroyar í árunum 2015-2020.</p>
+<p>Á heimasíðun<em type="italic">i www.talgildu.fo </em>verða einstøku verkætlanarpartarnir útgreinaðir so hvørt sum verkætlanin mennist og verður framd. </p>
+<p>Verkætlanarbygnaður</p>
+<p>Bygnaður Arbeiðið verður skipað sum ein samlað verkætlanarskrá (programm) við yvirskipaðari programmleiðslu og tvørgangandi ráðgeving og fýra fokuseraðum verkætlanum.</p>
+<p>Verkætlanarskráin vísir til stýrisbólkin, sum vísir til landsstýrisfólkini fyri UVMR og FMR.</p>
+<p>Bygnaðurin kann byggjast út eftir tørvi og verður fluttur í ein rakstrarbygnað so hvørt sum verkætlanirnar verða framdar. Hesin bygnaðurin er væl lýstur í verkætlanarsporinum: Myndugleiki og bygnaður.</p>
+<p>Verkætlanin byrjaði í apríl 2015. Sum liður í arbeiðinum hava verið verkstovur, samrøður og ráðførslur við viðkomandi áhugapartar – bæði KT-veitarar, stovnar og kommunur og umboð fyri vinnuna. Royndir úr øðrum londum hava verið gagnnýttar, m.a. luttóku serfrøðingar úr Estlandi og altjóða serfrøðingar, sum hava hjálpt smátjóðum við talgildingarstrategium. Eisini hava fólk frá Fróðskaparsetrinum, stovnum, kommunum og vinnuni tikið lut í arbeiðinum.</p>
+<p>Umframt verkætlanarbólkin hava hesi verið við í arbeiðinum:</p>
+<p>Talgildar tænastur: Durita Tausen, Gjaldstovan og Rókur Tummasarson, Tórshavnar kommuna.</p>
+<p>Talgildi Samleiki: Petur Mittún, Tórshavnar kommuna, Frankie Jensen, Almannaverkið og Bárður Háskor, ráðgevi.</p>
+<p>KT arktitektur og grunddátur: Hans Blaasvær, KT-húsið og Yngvi S. Guttesen, Nema.</p>
+<p>Myndugleiki og bygnaður: Nicolai M. Balle, KT landsins, Birgir av Steinum, KT landsins, Morten Meyerhoff Nielsen, ráðgevi.</p>
+<p>Hesir áhugabólkar, stovnar og fyritøkur hava luttikið í arbeiðinum:</p>
+<p>Heilsumálaráðið, Mentamálaráðið, TAKS, Nám, Studni, Vørn, Akstovan, Heilsufrøðiliga starvsstovan, Landssjúkrahúsið, Klaksvíkar Sjúkrahús, Suðuroyar Sjúkrahús, Apoteksverkið, Almannaverkið, Skráseting Føroya, Umhvørvisstovan, Heilsutrygd, Strandfaraskip Landsins, Hagstovan, Tórshavn kommuna, SEV, umboð fyri útjaðaran, KT-vinnan, POSTA, Føroya Tele, Landsfólkayvirlitið, ALS, Trygdargrunnurin, Vinnustovnurin, Fiskimálaráðið, KT-landsins, Gjaldstovan, Runavíkar kommuna, Kommunufelagið, Landsskjalasavnið, Dátueftirlitið, Elektron, Formula, Nema, EGA – E-Governance Academy (Estland), RIA - Estonian Information System Authority, Cybernetica AS (Estland), Digitaliseringsstyrelsen (Danmark), Statens IT (Danmark), Dr. Jon Thorhallsson - Internal Revenue Advisor (Ísland), Brúkararáðið hjá Landsnet, IRF, Magn, Effo, Trygd, LÍV, Tryggingarfelagið Føroyar, Bank Nordik, Eik, Kringvarp Føroya, Búnaðarstovan, Sjóvinnustýrið og Fróðskaparsetur Føroya.</p>
+<p>Samandráttur og tilmæli</p>
+<p>Avbjóðingin</p>
+<p>Skeiva aldurs- og kynsbýtið er millum størstu avbjóðingar landsins. Komandi árini fer miðalaldurin í Føroyum at hækka og verður einki gjørt, gerst umsitingin ein alsamt tyngri partur av búskapinum. Neyðugt er at finna leiðir til at fjøltátta búskapin, birta upp undir nýggjar vinnur, økja samstarvið og samskipanina millum landsmyndugleikar, kommunur, vinnu og felagsskapir, og menna eina smidliga og effektiva almenna umsiting.</p>
+<p>Royndir úr øðrum londum vísa, at talgilding kann verða partur av loysnini.</p>
+<p type="listitem"> Í Estlandi verður mett, at samfelagsbúskarpaligi vinningurin av at seta í verk talgildan</p>
+<p>samleika og undirskrift, er upp ímóti 2% av BTÚ.</p>
+<p type="listitem"> Danskir myndugleikar vænta, at til ber at spara upp í 3 mia. kr. við at taka burtur</p>
+<p>pappírs-oyðubløð og brøv.</p>
+<p type="listitem"> Í ES verður mett, at endurnýtsla av grunddáta kann geva upp til 2% vøkstur í BTÚ, og</p>
+<p type="listitem"> í Niðurlondum hevur niðurlaging av skrivstovuveldinum givið ein</p>
+<p>samfelagsbúskaparligan vinning upp á 0,9% av BTÚ.</p>
+<p>Samanumtikið er stórur samfelagsligur vinningur við at talgilda. Men tað krevur, at stór tøk verða tikin sum hesi, ið heildarætlanin Talgildu Føroyar 2016-2020, mælir til.</p>
+<p>Loysnin</p>
+<p>Eitt einfaldari regluverk og niðurlaging av skrivstovuveldinum við talgilding kann skapa fíggjarligt rúm til at lofta avbjóðingunum av fólkasamansetingini, til at gera útbúgvingartilboð og góðar karmar fyri nýggjum vinnum.</p>
+<p>Endamálið við heildarætlanini er at geva greið tilmæli um týdningarmestu stigini til at menna talgilda undirstøðukervið, so at almennir myndugleikar og vinnan kunnu nýta talgildingina til at gerast effektivari, og so at borgarin fær betri, skjótari og bíligari tænastur.</p>
+<p>Hetta merkir m.a., at talgildi samleikin verður mentur og rikin sentralt, men tað eru teir einstøku myndugleikarnir, kommunurnar, bankarnir og aðrir partar sum skulu tryggja, at talgildi samleikin gevur atgongd til teirra tænastur, so sum skattur, fráboðan um flyting, netbanki, heilsujournal o.s.fr.</p>
+<p>Hetta merkir eisini, at ein felags talgildur portalur verður mentur og rikin sentralt, og at tað eru eisini teir einstøku myndugleikarnir sum skulu bera so í bandi, at teirra skipanir eru atkomiligar á einum felags borgaraportali, og sum skulu tryggja, at tøknin og KT-nýtslan innan teirra øki eru dagførdar, so at tær hóska til undirstøðukervið, leiðreglurnar og standardirnar, sum heildarætlanin hevur til endamáls at menna.</p>
+<p>Jú betur arbeitt verður samsvarandi heildarætlanini, tess betri verður úrslitið av talgildingini. Hon verður meira fullfíggjað, fleri grunddátur verða endurnýttar, sleppast kann undan dupultskráseting o.s.fr. Í stuttum fæst besta nyttan burtur úr einari felags tilgongd, heldur enn at øll arbeiða hvør í sínum lagi.</p>
+<p>Fyritreytir</p>
+<p>Føroyar eru væl fyri, tá ið mált verður, hvussu nógvir av landsins borgarum hava atgongd til internetið heima (92%). somuleiðis eru útoyggjarnar væl íbundnar, umframt at flest øll hava fartelefon (1,2 fartelefon fyri hvønn íbúgva)</p>
+<p>KT-infrakervið í Føroyum er vælútbygt og almennu KT-skipanirnar eru búnar at knýta saman og at gerast atkomiligar sum sameindar talgildar tænastur til borgarar og vinnu.</p>
+<p>Nytta</p>
+<p>So hvørt sum talgildu loysnirnar í heildarætlanini verða framdar í verki, økist samfelagsligi ágóðin. Tað fer at gerast alsamt lættari og minni tíðarkrevjandi hjá borgarum at avgreiða síni viðurskifti við tað almenna, og tað fer eisini at gera tað munandi lættari hjá fyritøkum og stovnum at tæna kundunum.</p>
+<p>Málið er, at nógv av tí tilfeingið, sum í dag fer til umsiting, skráseting og eftirkanning verður frígivið, soleiðis at stovnar og fyritøkur fáa hugsavnað seg um sínar kjarnutænastur og harvið fáa veitt kundunum eina betri tænastu, bæði innan tað almenna og tað privata.</p>
+<p>Einki er at ivast í, at eitt úrslit av heildarætlanini verður ein effektivari og smidligari almennur geiri, sum alt annað líka, verður bíligari at reka. Tað merkir, at játtaði peningurin til ymisku vælferðarøkini verður skynsamari brúktur.</p>
+<p>Torført er at koma við beinraknum metingum um, júst hvussu nógv kann sparast við at fremja heildarætlanina, men ábendingar fáast við at kaga eftir londum, ið longu hava sett tey átøk í verk, sum verða nevnd í heildarætlanini.</p>
+<p>Í Estlandi metir fíggjarmálaráðið, at samlaða sparingin av at seta talgildu undirskriftina í gildi og fremja hana í verki, er heili 2 prosent av BTÚ. Roknað um til føroysk viðurskifti, svarar tað til eina sparing á umleið 300 mió. kr. árliga. Um bert helmingurin av hesi sparing fæst til høldar í Føroyum, merkir tað eina sparing á 150 mió. kr. Sparingin er roknað sum tann tíðarsparing, ið fæst við at nýta talgildu undirskriftina og atknýttu talgildu tænasturnar.</p>
+<p>So hvørt einstøku ætlanirnar verða nærri projekteraðar, verður lættari at spáa um nyttuvinningin,</p>
+<p>Heildarætlanin 2016-2020</p>
+<p>Heildarætlanin er býtt í fýra megintættir:</p>
+<p>1.<em type="bold"> </em>Talgildur samleiki, undirskrift og fulltrú </p>
+<p>Ein tryggur persónligur lykil og talgild eyðmerking fyri allar borgarar og fyritøkur, sum kann brúkast av øllum veitarum av talgildum tænastum, almennum og privatum. Talgildi samleikin vil eisini geva atongd til persónlig dáta, t.d. skatta- og heilsuupplýsingar og kann brúkast til talgilda undirskrift og til at geva øðrum fulltrú. Tað skal vera ein loysn, gjørd til føroysk viðurskifti, ment við kendari og væl royndari tøkni og skipanum, og loysnin skal vera staðsett í Føroyum.</p>
+<p>Roknað er við teirri fortreytini, at privata vinnan, bankar og onnur, luttaka í fíggingini av loysnini, og at ein autoritativur samleiki verður galdandi fyri øll fólk (p-tal) og fyri allar løgfrøðiligar eindir (V-tal) (sí fylgiskjal 1).</p>
+<p><em type="italic">Virðisskapanin er treytað av, at loysnirnar verða útbreiddar og brúktar (sí fylgiskjal 2).  </em></p>
+<p>2.<em type="bold"> </em>Portalur og talgildar tænastur </p>
+<p>Talgildar loysnir verða settar í verk so líðandi, á einum felags portali, fyri at hækka dygdina og effektivitetin í almennum tænastum. So hvørt sum talgildar, oftast sjálvvirknar skipanir taka yvir, verða pappírs-oyðubløðini tikin burtur og samskiftið verður flutt frá brøvum í talgildu tænasturnar. Tænasturnar skulu vera einfaldar, brúkaravinarligar, persónligar og borgarin og vinnan skulu kenna tað sum eina betri tænastu.</p>
+<p>Hetta fer at minka um skrivstovuveldið, geva viðskiftafólkunum skjótari og betri tænastu og spara orku í almenna geiranum. Tað skal framhaldandi bera til at avgreiða ørindi í telefon ella í einari avgreiðslu hjá teimum, sum hava tørv fyri hesum.</p>
+<p><em type="italic">Virðisskapanin er treytað av brúkaravinaligum tænastum, talgilda samleikanum, samstarvi millum myndugleikar og vinnu og at borgarar og vinna taka talgildu loysnirnar til sín. </em></p>
+<p>3.<em type="bold"> </em>Grunddáta </p>
+<p>Grunddátur eru grundleggjandi upplýsingar, ið verða brúktar av flest øllum almennum myndugleikum, borgarum og virkjum. Hesi fevna í fyrstu atløgu um upplýsingar um persónar, virki, fasta ogn, adressur, topografisk kort, myndakort, matrikulkort og lendisskipanir.</p>
+<p>Fyri at spara tíð og orku hjá øllum pørtum, skulu upplýsingar bara latast og skrásetast eina ferð. Hetta merkir, at myndugleikar ikki kunnu biðja borgarar um upplýsingar, sum annar myndugleiki longu hevur skrásett. Við hesum verður sloppið undan óneyðugum kostnaði av dupultskrásetingum og tá ið upplýsingar bert finnast á einum stað, minkar eisini vandin fyri feilum í málsviðgerðini.</p>
+<p>Neyðugt er at finna loysnir fyri fígging og rakstri av skipanunum, so at myndugleikar ikki skulu senda hvørjum øðrum rokningar fyri at veita atgongd til upplýsingar. Hetta gagnar ongum, og virkar bara forðandi fyri talgildingina.</p>
+<p>Tá talgildingin er komin longur, skulu dátur, ið ikki kunnu sporast aftur til ávísar persónar, eisini kunna gagnnýtast av privatu vinnuni, til at menna nýggjar loysnir og tænastur. Hetta er sjálvandi innan teir karmar, sum persónsdátalógin loyvir. Meginreglan er at grunddátur skal verða atkomuligar og ókeypis hjá øllum.</p>
+<p><em type="italic">Virðisskapanin verður tá ið dátur verða deildar og endurnýttar, í málsviðgerð og í talgildum tænastum. </em></p>
+<p>4.<em type="bold"> </em>KT-arkitekturur - Heldin </p>
+<p>Fortreytin fyri, at grunddátur kunnu verða endurnýttar, er, at skipanirnar samskifta sínámillum við somu standardum í einum felags almennum undirstøðukervi. Hetta kervið, sum vit hava givið navnið Heldin, verður ment og verksett stig fyri stig, við denti á fyrst at knýta teir mest brúktu og virðisskapandi dátugrunnarnar saman.</p>
+<p><em type="italic">Virðisskapanin verður tá ið dátur verða fluttar millum skipanir og endurnýttar. </em></p>
+<p>Visjónin</p>
+<p>Talgildu Føroyar - lættari, betri og bíligari fyri samfelagið</p>
+<p>Stór menning fer fram innan KT og talgilding, og Føroyar eru í fremstu røð á summum økjum. Eitt nú kunnu nevnast <em type="italic">Talgilda Heilsuskipanin</em> og <em type="italic">Búskaparskipan Landsins</em>. Í Føroyum er talgildingin tó í mestan mun farin fram á tann hátt, at einstøku stovnarnir hvør í sínum lagi hava ment sítt talgilda virksemi, heldur enn eftir eini yvirskipaðari ætlan og kós til frama fyri alt føroyska samfelagið.  </p>
+<p>Avleiðingin er, at á summum økjum og geirum eru KT-skipanir ikki nútímansgjørdar og samskifta ikki sínámillum, og vit eru eftirbátur, tá ið tað ræður um talgildar tænastur, har borgarar og vinna kunnu avgreiða síni viðurskifti á netinum. Hetta merkir, at vit hava tungar og tíðarkrevjandi arbeiðsgongdir og nógv dømi um dupultfunktiónir. Hetta hevur við sær, at óneyðug arbeiðsorka, tíð og peningur verða nýtt. Tilfeingi, sum kundu verið brúkt øðrvísi og meira skynsamt.</p>
+<p>Føroyar hava møguleikan at gerast eitt undangonguland innan talgilding av tænastum, um røttu fyritreytirnar eru til staðar. Landsstýrismaðurin í uttanríkis- og vinnumálum og landsstýrismaðurin í fíggjarmálum hava í felag tikið stig til heildarætlanina, og ein verkætlanarbólkur er settur at gera eina 5-ára ætlan fyri at talgilda almennar tænastur. Átakið hevur heitið: <em type="italic">Talgildu Føroyar</em> og hevur til endamáls at: </p>
+<p type="listitem"> Nútímansgera vælferðina og tænasturnar hjá føroyingum</p>
+<p type="listitem"> Útvega fyritreytir fyri effektiviseringum í almenna geiranum</p>
+<p type="listitem"> Skapa størri kappingarføri, vøkstur og framleiðsluorku Høvuðsmál í ætlanini eru:</p>
+<p>Fyri at røkka hesum er ein fyritreyt at:</p>
+<p type="listitem"> Borgarar og virki kunnu samskifta og avgreiða síni viðurskifti við tað almenna - eitt nú</p>
+<p>um borgara- og virkisportalar</p>
+<p type="listitem"> Tænastur hjá tí almenna og hjá vinnuni eru tøkar á netinum</p>
+<p type="listitem"> Veitingar og mannagongdir í tí almenna eru talgildar</p>
+<p>Meginreglur fyri Talgildu Føroyar</p>
+<p>Upplýsingar skulu bara latast eina ferð Myndugleikar kunnu ikki krevja upplýsingar, sum longu finnast í almennum skráum. Hetta skal gera tað tryggari, minka um dupultarbeiði og ikki minst gera tað einfaldari at samskifta við myndugleikar og aðrar tænastuveitarar.  Í dag eru almennar upplýsingar sum navn og bústaður skrásettar í uml. 20 ymiskum skráum. Tað er tvørligt hjá øllum at halda viðlíka, og nógvir feilir koma, tí at upplýsingar ikki verða dagførdar. Tí skulu øll draga almennar upplýsingar úr somu skráum.</p>
+<p>Tú eigur tínar persónligu upplýsingar Tað verður ásett í lóg, hvørjar grundskráirnar eru, hvør hevur ábyrgd av at viðlíkahalda tær, og hvørt upplýsingarnar eru almennar, ella um borgarin í hvørjum føri sær skal geva loyvi til, at upplýsingarnar verða brúktar av einum øðrum myndugleika.</p>
+<p>Talgildingin skal einfalda umsitingina Endamálið við at talgilda skal altíð vera at tryggja mest einføldu, tryggu og skynsomu loysnina. Tað ber í sær, at umsitingarligar siðvenjur, reglur, mannagongdir og bygnaðir mugu endurskoðast, og um neyðugt tillagast, tá ið tænastur verða talgildar.</p>
+<p>Talgildingin skal vera samskipað Almennir myndugleikar hava skyldu at samstarva um at menna talgildar tænastur, millum annað eina felags inngongd, haðani borgarin ella fyritøkan kann velja tær almennu tænasturnar, sum viðkomandi skal brúka.</p>
+<p>Ein talgildur samleiki og ein felags innritan Í framkomna talgilda samfelagnum skal bera til at brúka somu innritan til allar almennar tænastur, og til tær privatu tænasturnar, sum knýta seg í felags kervið.</p>
+<p>Ein evsti almennur myndugleiki borgar fyri trygd og góðsku Føroyum tørva eina samskipaða dátutilbúgving, og hetta gerst alt meiri</p>
+<p>Tí er neyðugt at ein myndugleiki fær evstu ábyrgd av samlaðu KT-trygdini og myndugleika at seta neyðug krøv til teirra, sum skulu veita føroyingum talgildar tænastur á felags kervinum.</p>
+<p>Borgarin í miðdepilin Loysnirnar koma at laga seg eftir tí, sum kennist náttúrligt og einfalt hjá brúkarunum. Tí kunnu tað eisini vera fleiri vegir til somu tænastur, so at tú kanst velja, um tú brúkar høvuðssíðuna, ella fert við fartelefonini ella teldli beint til ta tænastuna, sum tær tørvar.</p>
+<p>Krøv verða sett til góðan og tilvitaðan málburð á teimum pallum, sum bjóða talgildar tænastur. Hetta er eitt øki í støðugari menning, og tí er eisini neyðugt framhaldandi at raðfesta føroyska málið á føroyskum heimasíðum og tænastum hjá føroyskum myndugleikum, bankum og øðrum, ið ynska at gagnnýta almenna kervið. M.a. skulu knøttar og valmyndir, ið ganga aftur á nógvum ymiskum síðum, navngevast við umhugsni, og so vítt til ber samskipast og endurnýtast, so at tænasturnar verða greiðar, samanhangandi og einfaldar at nýta.</p>
+<p>Alt sum kann, skal verða útveitt Talgildingin av samfelagnum førir við sær nógvar nýggjar vitanartungar uppgávur og gevur grundarlag fyri at menna nýggjar KT-loysnir, ið hóska til smá samfeløg. Talgildingin er tí eitt givið høvið at styrkja og fjølga um føroysku KT-vinnuna í breiðastu merking. Les meira um <em type="italic">útveiting her.</em> </p>
+<p>Talgilding fyri øll  Eingin skal verða forðaður í at fáa lut í talgildu Føroyum. Talgildingin skal hinvegin gera tað lættari hjá teimum, ið bera brek, ið eru førleikaskerd, ella sum eru stødd á útoyggj, til skips ella uttanlands at brúka almennu tænasturnar.</p>
+<p>Skipanirnar mugu taka atlit til, at fólk flyta til Føroyar, sum enn ikki eru stinn í føroyskum máli. Hjá teimum má bera til at fáa somu atgongd til tænasturnar á enskum. Hetta kann hjálpa tilflytarum at gerast partur av føroyska samfelagnum. Harafturat kann tað gera tað skjótt og einfalt at brúka føroyskar loysnir í øðrum londum, og tað verður tí lættari hjá føroyskum mennarum at útflyta føroyskar skipanir.</p>
+<p>Lóggáva og rættartrygd</p>
+<p>Fyri at fremja talgildingina í verki, er umráðandi, at talgildingin verður skipað við skynsamari lóggávu.</p>
+<p>Talgildingin fer ikki at geva almennum myndugleikum aðrar upplýsingar enn tær, ið frammanundan verða latnar. Talgildingarlógin skal skapa karmarnar fyri talgilda samskiftinum millum tað almenna, borgarar og vinnu og fer ikki at víðka tær heimildir, sum almennir myndugleikar hava í dag.</p>
+<p>Talgildingarlóg<em type="italic"> </em>Gjørd verður ein talgildingarlóg, sum nágreinar rættindi og skyldur hjá bæði borgarum og tí almenna. Í stuttum snýr talgildingarlógin seg um, at tað almenna fær heimild at talgilda samskiftið við borgarar og vinnu. Lógin fer at halda seg til tær meginreglur, sum frammanundan eru galdandi, serliga í mun til persónsupplýsingar, dátutrygd og rættartrygd. </p>
+<p>Verandi lóggáva<em type="italic"> </em>Fyrsta stigið er at viðgera og meta um ta lóggávu, sum er galdandi í Føroyum, og sum føroyskir myndugleikar hava ræðið á. Metast skal um, hvørt lóggávan í verandi líki forðar fyri talgilding, ella um lóggávan er soleiðis háttað, at talgilding kann fremjast uttan lógarbroyting. Metast skal eisini um, hvørt verandi lóggáva er nøktandi, serliga í mun til <em type="italic">cyber security </em>og viðkomandi heimildir hesum viðvíkjandi.  </p>
+<p>Settur verður ein arbeiðsbólkur, umboðandi øll stjórnarráð, at viðgera og meta um, hvørt forðingar fyri talgilding eru í galdandi lóggávu. Bólkurin skal gera uppskot til dagføringar og tillagingar. Metast skal eisini um, hvørt tað í ávísum førum er skynsamt at varðveita verandi (pappírs) fyrisiting í eini skiftistíð, um økið, sum lóggávan skipar, ikki er búgvið at talgilda.</p>
+<p>Lógartillagingar og dagføringar<em type="italic"> </em>Neyðugar tillagingar og dagføringar kunnu gerast í einum, t.e. við einari samlaðari broytingarlóg. Hetta kann eisini gerast í fleiri umførum. </p>
+<p>Nýggjur lóggávuleistur<em type="italic"> </em>Komandi lógarsmíð skal hava fyrilit fyri, at alt størri partur av fyrisitingini verður talgildur. </p>
+<p>Nýggi lóggávuleisturin verður mentur í samstarvi millum Uttanríkis- og vinnumálaráðið, Fíggjarmálaráðið (Gjaldstovuna) og Løgmansskrivstovuna (Lógardeildina og Dátueftirlitið).</p>
+<p>Talgildar Tænastur - Alt á einum stað</p>
+<p>Ein felags inngongd skal gera tað lættari, skjótari og tryggari at røkka almennum og privatum, talgildum tænastum. Ein trygg innritan, ein talgildur postkassi, ein talgild undirskrift og allar tænasturnar savnaðar á einum stað alt samdøgrið. Ein felags portalur, sum kann brúkast á teldu, teldli og telefon.</p>
+<p>Tænasturnar skulu mennast við borgaranum í miðdeplinum. Fyrsta stig er, at borgarin sjálvur kann velja tær tænastur, honum tørvar. Næsta stig er, at skipanirnar skulu laga seg til hvønn einstakan borgara og skulu bjóða tær tænasturnar, sum eru viðkomandi í mun til t.d. aldur, hjúnastøðu og starv.</p>
+<p>Skjótt syftir seiðir Fleiri talgildar tænastur eru longu rættiliga framkomnar, aðrar eru ávegis; men tað eru eisini nógvir, smáir stovnar og smáar kommunur, sum ikki bjóða talgildar tænastur enn.</p>
+<p>Ein felags portalur kann taka støði í loysnunum, sum rigga væl í dag, og kann so líðandi mennast og bjóða fram pakkaloysnir, so at tað verður lættari og bíligari at talgilda smærri tænastur eisini.</p>
+<p>Føroya fólk eru klár til talgilding Royndir við talgildum tænastum, sum virka í dag, vísa, at fólk eru skjót at taka hesar til sín. Ein felags portalur við afturkenniligum sniði og funkum skal gera tað enn lættari hjá fólki at brúka tænasturnar. Tær skulu frá byrjan sniðgevast við fyriliti fyri teimum fólkunum, sum hava flest avbjóðingar við at røkka talgildu tænastunum.</p>
+<p>Skynsom umsiting At talgilda tænasturnar eftir sama leisti sparir eisini tíð og orku í umsitingunum. Tíð, sum í dag verður brúkt til at skráseta, skipa og leita eftir upplýsingum, kann brúkast til at hjálpa og ráðgeva borgarum og vinnu og til at menna støðugt betri tænastur.</p>
+<p>Stigvís menning Fyrsta stig verður at menna eina lutfalsliga einfalda loysn, ið gagnnýtir verandi portalar og tænastur. Henda kann vera klár at seta í verk í 2017.</p>
+<p>Talgildur Samleiki - Eitt ómakaleyst samleikaprógv</p>
+<p>Borgarar og vinna fara í alsamt størri mun at samskifta og avgreiða síni viðurskifti við tað almenna talgilt umvegis e-tænastur og borgaraportalar, og tí fáa øll sín egna talgilda samleika</p>
+<p type="listitem">– eitt talgilt samleikaprógv.</p>
+<p>Talan verður um ein og sama talgilda samleika, sum kann nýtast til innritan og eyðmerking á portalum og snarskivum, bæði hjá stovnum, myndugleikum og fyritøkum.</p>
+<p>Ein talgildur samleiki ger tað skjótari og einfaldari hjá borgarum at avgreiða síni viðurskifti. Samstundis verða mannagongdir hjá almennum stovnum minni tíðar- og orkukrevjandi, tí sloppið verður undan eitt nú at ljóslesa pappír.</p>
+<p>Seinnu árini er gerandisdagur okkara vorðin alsamt meira talgildur. Flestu upplýsingar verða varðveittar hjá teimum myndugleikum og fyritøkum, vit hava samband við. Vit borgarar goyma eisini upplýsingar okkara á teldum o.ø. talgildum tólum.</p>
+<p>Seinastu árini er tørvurin at kunna eyðmerkja seg talgilt vaksin støðugt. Fleiri og fleiri skipanir eru komnar við onkrum slagi av innritan, tá ið vit skulu hava ella senda upplýsingar til fyritøkur og stovnar.</p>
+<p>Sum tørvurin at geva upplýsingar sínámillum veksur, veksur eisini tørvurin at senda trúnaðarupplýsingar trygt og einfalt. Tí síggja vit, at alsamt fleiri lond seta í verk landsumfevnandi loysnir at eyðmerkja borgarar, fyritøkur o</p>
+<p>Við at seta í verk eina felags, talgilda loysn fyri alt samfelagið, fæst ein einføld skipan. Hetta merkir, at borgarin kann nýta ein og sama hátt til at innrita í skipanirnar.</p>
+<p>Fyri samfelagið er tað stórur fyrimunur, av tí at tað skulu ikki stovnast fleiri ymiskar skipanir fyri tær einstøku tænasturnar, har eyðmerking og innritan er. Tí fer ein felags loysn fyri alt samfelagið at viðføra munandi sparingar fyri allar partar, bæði í tíð og umsiting.</p>
+<p>Talgildi samleikin er samansettur av pørtum, og hvørt land samansetur sína skipan við støði í sínum tørvi. Eins og onnur lond hava vit í Føroyum okkara serligu ynskir. Arbeiðsbólkurin hevur tí gjørt ein myndil fyri eina loysn, sum hóskar fyri Føroyar við støði í hesum kravfestingum:</p>
+<p type="listitem">• Ein felags loysn (breið undirtøka)</p>
+<p>Borgarar, vinna og tað almenna skulu kunna nýta loysnina at samskifta sínámillum. Loysnin skal kunna nýtast í øllum pørtum av samfelagnum, so at borgarin kann nýta talgilda lykilin (samleikan) til at eyðmerkja seg hjá almennum stovnum og privatum fyritøkum. Allir borgarar skulu kunna nýta loysnina.</p>
+<p type="listitem">• Føroyskir førleikar og veitarar</p>
+<p>Føroyskir veitarar verða nýttir, so ein kann tryggja sær, at neyðugir førleikar eru her heima, og so at framtíðar rakstur og menning ikki eru bundin at útlendskari arbeiðsmegi.</p>
+<p type="listitem">• Trygg loysn</p>
+<p>Loysnin skal vera trygg, so at hon lýkur lóggávu og regluverk fyri økið, umframt krøv hjá Fíggjaeftirlitinum um trygd og reglur fyri hvítvask.</p>
+<p type="listitem">• Einføld og brúkaravinarlig</p>
+<p>Loysnin skal vera einføld og løtt at nýta hjá borgarum.</p>
+<p type="listitem">• Framtíðartryggjað og altjóðagjørt</p>
+<p>Loysnin skal vera framtíðartryggjað og smidlig í bygnaði, so at hon kann mennast til nýggjar tørvir. Hon skal eisini vera í samsvari við altjóða standardir og skipanir, so at føroyski, talgildi samleikin í framtíðini skal kunna nýtast í øðrum londum.</p>
+<p type="listitem">• Málið skal vera føroyskt og enskt</p>
+<p>Málið og allur tekstur til brúkaran skal vera á føroyskum. Við fyriliti fyri útlendingum skal tað eisini vera á enskum.</p>
+<p type="listitem">• Ognarskapur og staðseting skulu vera føroysk</p>
+<p>Tað almenna eigur og umsitur teir sentralu partarnar, sum fevna um trygdina. Viðkvæmar upplýsingar og trúnaðarupplýsingar um borgaran og sentralu partarnar av skipanini verða staðsettar í Føroyum. (Talgilt yvirræði).</p>
+<p type="listitem" xml:lang="dan">• Fíggarligt skynsemi</p>
+<p>Samsvar skal vera millum vavið á loysnini og fíggingina. Gerast skal ein skynsom virkisætlan fyri loysnina.</p>
+<p>Talgildi samleikin</p>
+<p>Samleikin er samansettur av eini trygdarkjarnu og átta ymiskum pørtum. Partarnir verða mentir og verksettir stigvíst næstu 3-5 árini.</p>
+<p>Tíðarætlan:</p>
+<p>Grunddáta og KT-arkitekturur</p>
+<p>Upplýsingar skulu bara latast og skrásetast eina ferð. Allir myndugleikar og tænastur skulu heinta upplýsingar úr somu grundskráum, sum verða ókeypis. Trygt samskifti millum skráir fer umvegis Heldina, ið er netverkið, sum heldur Talgildu Føroyar saman.</p>
+<p>Stovnar skulu ikki senda hvørjum øðrum rokningar fyri at veita atgongd til upplýsingar, tí tað gagnar ongum og virkar bara forðandi fyri talgildingina.</p>
+<p>Hjá privatum veitarum gerast eitt nú ókeypis kortdáta eitt nýtt tilfeingi til teirra, sum hava hugflog at menna nýggjar tænastur til føroyska marknaðin og til allan heimin.</p>
+<p>Niðurstøður viðvíkjandi grunddáta</p>
+<p type="listitem"> Grunddáta skulu bert skrásetast einaferð, eitt stað</p>
+<p type="listitem"> Dagførd grunddáta skulu altíð vera tøk</p>
+<p type="listitem"> Tað skal vera ómakaleyst at fáa fatur í grunddáta</p>
+<p type="listitem"> Tað skal vera ókeypis at fáa fatur á grunddáta</p>
+<p type="listitem"> Tað skal vera lætt at finn út av hvørjir upplýsingar eru tøkir og hvussu ein fær fatur í</p>
+<p>teimum</p>
+<p type="listitem"> Tað almenna skal altíð hava fulla atgongd og ræðisrætt yvir almennu skráum</p>
+<p type="listitem"> Skráir við grunddáta eiga at mennast og víðkast við upplýsingum sum hava felags</p>
+<p>áhuga - t.d. telefonnummar hjá persónum</p>
+<p type="listitem"> Eitt hóskandi lógarverk eigur at vera rundanum skráseting og brúki av grunddáta</p>
+<p>Niðurstøður viðvíkjandi KT-arkitekturi</p>
+<p type="listitem"> Samskiftið millum skipanir skal vera einsháttað og bygt á nýmótans standardum</p>
+<p type="listitem"> Samskiftið millum skipanir skal vera trygt</p>
+<p type="listitem"> Avmarkingar skulu ikki vera í, hvar skipanir skulu rekast</p>
+<p type="listitem"> Samskifti millum skipanir skal kunna fara fram umvegis internetið</p>
+<p type="listitem"> Skipaði viðurskifti. Ein almennur mynduleiki eigur at vera, sum heldur skil á samskifti</p>
+<p>millum skipanir – hvør hevur atgongd til hvat, og hvør samskiftir við hvønn</p>
+<p type="listitem"> Tað skal ikki vera neyðugt hjá stovnum at fara í samráðingar við aðrar stovnar ella</p>
+<p>veitarar, hvørja ferð tørvur er á at fáa fatur í upplýsingum hjá hvørjum øðrum</p>
+<p type="listitem"> Tað eigur at verða skrásett, tá skipanir samskifta, men ikki hvat verður samskift</p>
+<p type="listitem"> Tað eigur at vera møguligt hjá einum borgara at síggja, hvør ið hugt eftir upplýsingum</p>
+<p>um hann</p>
+<p>Myndin niðanfyri lýsir Heldina sum ein tryggan part av internetinum. Einans góðkendir stovnar, kommunur og virkir kunnu knýta seg í Heldina, sum er ein miðspjødd, standardiserað loysn, ið ger tað lætt at samskifta millum skipanir, minkar um váðan við stórum, tætt samanknýttum skipanum, og minkar um óneyðugt dupultarbeiði.</p>
+<p>Samansjóðing av grunddátaskráum gjøgnum Heldina:</p>
+<p type="listitem"> ger tað óneyðugt at lata somu upplýsing fleiri ferðir</p>
+<p type="listitem"> ger tað gjørligt at avgreiða síni viðurskifti á einum stað</p>
+<p type="listitem"> ger tað møguligt at síggja alt, sum er skrásett um teg</p>
+<p type="listitem"> kann geva tær innlit í, hvør hyggur eftir upplýsingum um teg</p>
+<p>Heldin heldur Talgildu Føroyar saman</p>
+<p>Myndugleiki og bygnaður</p>
+<p>Í heildarætlanini fyri talgilding eru átøk orðað, sum skulu verksetast næstu árini. Átøkini verða verksett í einari verkætlan, skipað til endamálið. Átøkini hava við sær nakrar rakstraruppgávur, sum skulu handast einum myndugleika so hvørt, sum átøkini eru verksett. Hesin myndugleiki fær ábyrgd av rakstri og menning av talgildingaruppgávum framyvir.</p>
+<p>Verkætlanin, sum fær til uppgávu at verkseta talgildingarátøkini, skal skipast eftir sama leisti, sum verkætlanin handan heildarætlanina fyri talgilding.</p>
+<p>Rakstrarbygnaðurin verður skipaður undir verandi KT-eind hjá landinum, KT Landsins, sum frammanundan hevur førleikar, mannagongdir og royndir, sum tørvur er á, í menning og rakstri av framtíðar talgildingaruppgávunum.</p>
+<p>Rakstrarbygnaður So hvørt talgildingin verður sett í verk, er neyðugt, at viðkomandi myndugleikar fáa ábyrgdina av at røkja tær uppgávur, sum talgildingin hevur við sær. Neyðugt verður við einum myndugleika, sum hevur yvirskipaðu ábyrgdina fyri talgildingini, so at tað verður ein felags kós fyri land, kommunur, vinnu og borgarar. Hesin myndugleikin skal hava ábyrgdina av at leggja ætlanir fyri talgilding, hava umsjón við, at KT lógir og trygdarkrøv verða hildin, gera leiðreglur og politikkir og standa fyri menning, rakstri og support av talgildingaruppgávunum.</p>
+<p>Talan verður um at røkja og menna talgilda samleikan, Heldina og felags loysnirnar innan talgildar tænastur. Í teimum grannalondum, sum eru komin væl áleiðis á talgildingarleiðini, eru stovnar, sum hava myndugleika og ábyrgd av</p>
+<p>Lagt verður upp til, at KT Landsins, sum í dag røkir og mennir KT umhvørvið fyri umleið 60% av landsins stovnum, fær henda myndugleika. KT Landsins hevur frammanundan fleiri av teimum førleikum og royndum, sum eru neyðugar fyri at røkja hesar nýggju uppgávur.</p>
+<p>Myndin niðan fyri er uppskot til ein framtíðar bygnað fyri KT Landsins, har nýggju uppgávurnar, sum standast av talgildingini, eru við.</p>
+<p>Myndugleiki og bygnaður</p>
+<p>Tveir týðandi tættir í nýggja bygnaðinum eru talgildingarráðið og ráðgevandi toymini.</p>
+<p>Talgildingarráðið</p>
+<p>Fyri at tryggja, at allir týðandi áhugabólkar stuðla og eru við í menningini av talgildingini, verður eitt ráð, mannað við fólki frá lands- og kommunumyndugleikum, sett á stovn. Ráðið fær til uppgávu at viðgera og taka støðu til strategiskar spurningar viðvíkjandi talgildingini. Ráðið fær tilmæli til viðgerðar og støðutakan sum stápsfunktiónin ‘ Menning’ orðar. Ráðið kann eisini sjálvt bíleggja viðgerð av strategiskum evnum.</p>
+<p>Ráðgevandi toymið</p>
+<p>Fyri at tryggja, at allir viðkomandi áhugabólkar stuðla og eru við í menningini av einstøku tænastunum, verður eitt ráðgevandi toymi fyri hvørja tænastufunktión, mannað við fólki við tøkniligum førleikum frá viðkomandi áhugapørtum, sett á stovn. Dømi um møguligar áhugabólkar fyri t.d. samleika eru bankar, telefeløg, tøkniligir serfrøðingar, umboð frá viðkomandi stovnum og kommunum og herumframt aðrir serfrøðingar eftir tørvi, sum t.d. løgfrøðingar.</p>
+<p>Toymið fær til uppgávu at tryggja góðsku og munadygd (effektivisering). Tað verður gjørt við at viðgera rakstrar- og menningarspurningar, koma við tilmælum um broytingar og virka sum ráðgevar fyri tænastufunktiónina.</p>
+<p>Talgildu Føroyar fyri øll</p>
+<p>Tøknin skal geva øllum atgongd til okkara talgilda samfelag. Talgildingin skal gera tað lættari hjá teimum við skerdum førleika, teimum, sum eru stødd á útoyggj, til skips ella uttanlands at brúka almennu tænasturnar og aðrar tænastur í felags kervinum.</p>
+<p>At kunna avgreiða síni viðurskifti á netinum er fyri flestu borgarar ein betri tænasta og ein lætti í gerandisdegnum. Tá kann borgarin avgreiða heima, til skips, á sjúkrahúsi ella í øðrum londum, heldur enn at standa í bíðirøð á kommunuskrivstovuni ella hjá almannaverkinum.</p>
+<p>Hjá summum borgarum er talgildingin ein avbjóðing; kanska duga tey ikki nóg væl KT, ella tey bera brek, sum forðar teimum at brúka tænasturnar. Hesir borgararnir skulu eisini fáa góða tænastu og ta hjálp og tann stuðul, sum eru neyðug.</p>
+<p>Nakrir av stóru bólkunum, sum bera brek, eru tey, ið:</p>
+<p type="listitem"> ikki síggja nóg væl ella eru blind</p>
+<p type="listitem"> eru lesiveik</p>
+<p type="listitem"> ikki hoyra nóg væl ella eru deyv</p>
+<p type="listitem"> eru rørslutarnað</p>
+<p type="listitem"> ikki hava lætt við at fata Altjóða standardir eru fyri, hvussu heimasíður og sjálvgreiðslur skulu vera skipaðar, soleiðis at mest sum allir borgarar kunnu fáa gagn av teimum. Nógv ymisk hjálparamboð eru eisini. Alneyðugt er at seta portalin upp soleiðis, at hjálparamboð eru tøk beinanvegin og klár at brúka frá fyrsta degi.</p>
+<p>Fyri tey, sum eru sjónveik, má bera til at vaksa um partar av myndini á skíggjanum, og tað má eisini bera til at fáa tekstin upplisnan. At teksturin verður lisin upp, hjálpir eisini teimum, sum eru lesiveik og orðblind. Ein partur av fólkinum er eisini litblindur. Fyri tey er tað ein hjálp, um litirnir kunnu verða broyttir til at vera í svørt-hvítum, ella um teir kunnu gerast sterkari, so munurin verður størri.</p>
+<p>Tann, sum er deyvur, má kunna lesa alt, sum er á portalinum. Eru t.d. filmsbrot, skulu hesi vera tekstað, soleiðis at deyv skulu fáa kunningina.</p>
+<p>Eru fólk rørslutarnað, soleiðis at tey ikki kunnu brúka amboð sum knappaborð og mús, eru onnur sergjørd ambo</p>
+<p>Hjá tí, sum hevur tað trupult at fata og minnast tað, hann hevur lisið, er umráðandi, at bara tað mest neyðuga stendur á síðuni, og at orðingarnar eru stuttar og greiðar.</p>
+<p>Í summum førum er besta hjálpin, at borgarin kann venda sær til stovnin ella tænastuveitaran við brævi ella koma á gátt á stovninum at fáa avgreitt síni viðurskifti.</p>
+<p>Tey, sum ikki kenna seg trygg, tá ið talan er um KT, kunnu hjálpast á leið og við stuðli í telefon ella á tænastustaðnum avgreiða síni viðurskifti á teldum, sum eru settar upp til tað sama. Kanska hava tey dirvi næstu ferð at royna sjálv.</p>
+<p>Skipanirnar mugu hava fyrilit fyri tilflytarum, sum ikki eru stinnir í føroyskum máli. Hjá teimum má bera til at fáa somu atgongd til tænasturnar á enskum. Hetta kann eisini hjálpa teimum at gerast partur av føroyska samfelagnum.</p>
+<p><em type="bold">Átøk og kostnaðarætlan 2016-2020 </em></p>
+<p><em type="bold">Øki  Verkætlanir 2016  2017  2018  2019  2020  Tilsaman </em></p>
+<p><em type="bold">1. Programskrivstova  2.000 2.000 2.000 2.000 2.000 12.250 2 Talgildar tænastar  6.300 6.400 2.900 2.500 2.000 20.150 </em></p>
+<p>21  Borgaraportalur 5.500 6.000        11.550 22  Sjálvgreiðsla         1.600 23  Rakstur og viðlíkahald     2.500 2.500 2.000 7.000</p>
+<p><em type="bold">3 Talgildur samleiki  7.100  11.000  21.000 4.200 4.200 48.150 </em></p>
+<p>31  Útboð og stovnseting 7.000 8.000  17.000   33.050 32  Rakstur  2.000 2.000 2.000 2.000 8.100</p>
+<p>33  Víðarimenning, víðlíkahald   1.000 2.000 2.000 2.000 7.000</p>
+<p><em type="bold">4 KT Arkitekturur (Heldin)        17.350  </em></p>
+<p>41  Menna og verkseta standardir           10.350 42  Umsiting av heldini       7.000</p>
+<p><em type="bold">5.1. Grunddata, Ognir  3.450 7.250 7.250 5.000 1.000 24.300 </em></p>
+<p>511  Lóg, myndugleiki og organisering            512  Talgilding av analogum tilfari 1.350 1.350 1.350      4.050</p>
+<p>513  Datavask og góðskutryggja         2.700</p>
+<p>Nýtt tinglýsingar- og</p>
+<p>matrikulskipan 1.000 5.000 5.000 5.000 1.000 17.000 515  Projektleiðsla á US        2.400</p>
+<p><em type="bold">5.2 Grunddata, geodata  1.250 1.000 1.000 1.000 1.000 5.350 </em></p>
+<p>521  Lóg, prosess og arbeiðsgongdir</p>
+<p>Foto, matrikel, DTM, topografi</p>
+<p>kort, adressuskrá       3.750 523  kortal.fo og datasamskifti      1.500</p>
+<p>524  Projektleiðsla á US</p>
+<p><em type="bold">5.3 Grunddata, Persónar  1.550 1.350 1.150   5.550 </em></p>
+<p>531  Lógarbroytingar</p>
+<p>532  Góðskutryggja data         1.350 533  Skráseting við føðing            534  IT-arkitektur og standardir</p>
+<p>535  Fríðkeyp av data      3.000 536  Projektleiðsla á US</p>
+<p><em type="bold">5. 4 Grunddata, Virkiskrá  2.000 2.000 2.000 2.000 2.000 10.100 </em></p>
+<p><em type="bold">Tilsaman  29.100  37.450  39.750  19.750  14.900 144.900 </em></p>
+</body></document>
