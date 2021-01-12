@@ -1,454 +1,472 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>7226</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2011.04 Tilmæli um nýggja yrkisútbúgvingarskipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tilmæli um nýggja yrkisútbúgvingarskipan</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>7472</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2011.04 Tilmæli um nýggja yrkisútbúgvingarskipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">2011 </em></p>
 <p>MENTAMÁLARÁÐIÐ</p>
-<p><em type="bold">Innihald </em></p>
-<p><em type="italic">Inngangur .......................................................................................................................................... 3 </em></p>
-<p><em type="italic">Verandi skipan ................................................................................................................................... 4 </em></p>
-<p><em type="italic">Undirvísing í skúla og upplæring á læruplássi ................................................................................. 5 </em></p>
-<p><em type="italic">Samanumtikið ............................................................................................................................... 5 </em></p>
-<p><em type="italic">Uppskot um eindaskipan ................................................................................................................... 6 </em></p>
-<p><em type="italic">Bygnaður ....................................................................................................................................... 6 </em></p>
-<p><em type="italic">Innihald ......................................................................................................................................... 9 </em></p>
-<p><em type="italic">Stakgreinalesnaður og fjarlestur .................................................................................................. 11 </em></p>
-<p><em type="italic">Ávegis royndir, próvtøkur og sveinaroyndir .................................................................................. 12 </em></p>
-<p><em type="italic">Nýskipan  av innihaldinum ........................................................................................................... 12 </em></p>
-<p><em type="italic">Avriksflutningur ........................................................................................................................... 12 </em></p>
-<p><em type="italic">Námsætlanir ................................................................................................................................ 12 </em></p>
-<p><em type="italic">Fíggjarligar avleiðingar ................................................................................................................. 12 </em></p>
-<p><em type="italic">Samanumtikið ............................................................................................................................. 13 </em></p>
-<p><em type="italic">FHS-skipanin .................................................................................................................................... 13 </em></p>
-<p><em type="italic">Upptøkukrøv í mun til lokin prógv ............................................................................................ 14 </em></p>
-<p><em type="italic">Próvtalsspjaðing ...................................................................................................................... 15 </em></p>
-<p><em type="italic">Næmingarensl ......................................................................................................................... 16 </em></p>
-<p><em type="italic">Fráfall ...................................................................................................................................... 17 </em></p>
-<p><em type="italic">Samanumtikið .......................................................................................................................</em></p>
-<p><em type="italic">Fíggjarligar avleiðingar ................................................................................................................. 18 </em></p>
-<p><em type="italic">Niðurstøða ...................................................................................................................................... 18 </em></p>
-<p><em type="italic">Íverksetan.................................................................................................................................... 18 </em></p>
-<p><em type="italic">Tíðar- og arbeiðsætlan ................................................................................................................. 19 </em></p>
-<p><em type="italic">Fylgiskjal 1 ................................................................................................................................... 20 </em></p>
-<p><em type="italic">Arbeiðssetningur og arbeiðsgongd ........................................................................................... 20 </em></p>
-<p><em type="italic">Arbeiðssetningurin er upprunaliga lýstur soleiðis: .................................................................... 20 </em></p>
-<p><em type="italic">Fylgiskjal 2 ................................................................................................................................... 22 </em></p>
-<p><em type="italic">Eindarkostnaður fyri verandi skipan (Kelda: Løgtingsfíggjarlógin) ............................................. 22 </em></p>
-<p><em type="italic">Fylgiskjal 3 ................................................................................................................................... 24 </em></p>
-<p><em type="italic">Hvørjar útbúgvingar hava lærlingar áðrenn teir fara í læru ....................................................... 24 </em></p>
-<p><em type="italic">Fylgiskjal 4 ................................................................................................................................... 25 </em></p>
-<p><em type="italic">Býtið millum skúlagongd og upplæring á læruplássi: ................................................................ 25 </em></p>
-<p><em type="italic">Fylgiskjal 5 ................................................................................................................................... 27 </em></p>
-<p><em type="italic">Frásøgn frá yrkisnevndafundi um eindaskipanina 17. januar 2011 ............................................ 27 </em></p>
-<p><em type="italic">Fylgiskjal 6 ................................................................................................................................... 29 </em></p>
-<p><em type="italic">Myndil av innihaldi í eindaskipanini.......................................................................................... 29 </em></p>
-<p><em type="italic">Fylgiskjal 7 ................................................................................................................................... 30 </em></p>
-<p><em type="italic">Útrokningar frá Teknisku skúlunum uppá sparing í lønartímum – um fari verður til eindaskipan</em> <em type="italic"> ................................................................................................................................................ 30 </em></p>
-<p><em type="italic">Fylgiskjal 8 ................................................................................................................................... 31 </em></p>
-<p><em type="italic">Viðmerkingar til eindakostnað ................................................................................................. 31 </em></p>
-<p><em type="bold">Inngangur </em></p>
-<p>Landsstýriskvinnan  Helena  Dam  á  Neystabø  hevur  síðani  í  september  2010  havt  eina fundarrøð  við  stýrini  fyri  Teknisku  skúlarnar,  Føroya  Handverksmeistarafelag,  Føroya Handverkarafelag, Landsfelag Handverkaranna og Yrkisútbúgvingarráðið fyri at viðgera m.a. spurningar, um yrkisútbúgvingarskipanina við</p>
-<p>a) hvørji skúlaskeið kunnu leggjast niður samskipast b) einum møguligum kravdum støðisári c) færri og betri skipaðum skúlaskeiðum d) einari møguligari stytting av lærutíðini.</p>
-<p>Eftir  hesa  viðgerð  bleiv  settur  ein  arbeiðsbólkur  við  umboðum  fyri  Yrkisútbúgvingaráðið, Teknisku skúlarnar, Føroya Handilsskúla, Mentamálaráðið og Yrkisdepilin.</p>
-<p>Mentamálaráðið og Yrkisdepilin gjørdu eina greining av verandi yrkisútbúgvingarskipan, við tí fyri eyga at gera eitt skynsamt býti av lærlingaútbúgvingunum, sum bodnar eru út á TSK og TST. Næmingatilgondin fyri hvørja einstaka útbúgving var lýst í tølum 10 ár aftur í tíðina, og neyvar  útrokningar  vóru  gjørdar  fyri  at  lýsa  kostnaðin  av  virkseminum  fyri  lærlingarnar  á teknisku skúlunum, treytað av, at alt virksemið var savnað á einum stað.</p>
+<p>Tilmæli um nýggja yrkisútbúgvingarskipan 1</p>
+<p><em type="bold">Innihald </em>Inngangur .......................................................................................................................................... 3 </p>
+<p>Verandi skipan ................................................................................................................................... 4</p>
+<p>Undirvísing í skúla og upplæring á læruplássi ................................................................................. 5</p>
+<p>Samanumtikið ............................................................................................................................... 5</p>
+<p>Uppskot um eindaskipan ................................................................................................................... 6</p>
+<p>Bygnaður ....................................................................................................................................... 6</p>
+<p>Innihald ......................................................................................................................................... 9</p>
+<p>Stakgreinalesnaður og fjarlestur .................................................................................................. 11</p>
+<p>Ávegis royndir, próvtøkur og sveinaroyndir .................................................................................. 12</p>
+<p>Nýskipan av innihaldinum ........................................................................................................... 12</p>
+<p>Avriksflutningur ........................................................................................................................... 12</p>
+<p>Námsætlanir ................................................................................................................................ 12</p>
+<p>Fíggjarligar avleiðingar ................................................................................................................. 12</p>
+<p>Samanumtikið ............................................................................................................................. 13</p>
+<p>FHS-skipanin .................................................................................................................................... 13</p>
+<p>Upptøkukrøv í mun til lokin prógv ............................................................................................ 14</p>
+<p>Próvtalsspjaðing ...................................................................................................................... 15</p>
+<p>Næmingarensl ......................................................................................................................... 16</p>
+<p>Fráfall ...................................................................................................................................... 17</p>
+<p>Samanumtikið ............................................................................................................................. 17</p>
+<p>Fíggjarligar avleiðingar ................................................................................................................. 18</p>
+<p>Niðurstøða ...................................................................................................................................... 18</p>
+<p>Íverksetan.................................................................................................................................... 18</p>
+<p>Tíðar- og arbeiðsætlan ................................................................................................................. 19</p>
+<p>Fylgiskjal 1 ................................................................................................................................... 20</p>
+<p>Arbeiðssetningur og arbeiðsgongd ........................................................................................... 20</p>
+<p>Arbeiðssetningurin er upprunaliga lýstur soleiðis: .................................................................... 20</p>
+<p>Fylgiskjal 2 ................................................................................................................................... 22</p>
+<p>Eindarkostnaður fyri verandi skipan (Kelda: Løgtingsfíggjarlógin) ............................................. 22</p>
+<p>Fylgiskjal 3 ................................................................................................................................... 24</p>
+<p>Hvørjar útbúgvingar hava lærlingar áðrenn teir fara í læru ....................................................... 24</p>
+<p>Fylgiskjal 4 ................................................................................................................................... 25</p>
+<p>Býtið millum skúlagongd og upplæring á læruplássi: ................................................................ 25 2</p>
+<p>Fylgiskjal 5 ................................................................................................................................... 27</p>
+<p>Frásøgn frá yrkisnevndafundi um eindaskipanina 17. januar 2011 ............................................ 27</p>
+<p>Fylgiskjal 6 ................................................................................................................................... 29</p>
+<p>Myndil av innihaldi í eindaskipanini.......................................................................................... 29</p>
+<p>Fylgiskjal 7 ................................................................................................................................... 30</p>
+<p>Útrokningar frá Teknisku skúlunum uppá sparing í lønartímum – um fari verður til eindaskipan ................................................................................................................................................ 30</p>
+<p>Fylgiskjal 8 ................................................................................................................................... 31</p>
+<p>Viðmerkingar til eindakostnað ................................................................................................. 31 3</p>
+<p><em type="bold">Inngangur </em>Landsstýriskvinnan Helena Dam á Neystabø hevur síðani í september 2010 havt eina fundarrøð við stýrini fyri Teknisku skúlarnar, Føroya Handverksmeistarafelag, Føroya Handverkarafelag, Landsfelag Handverkaranna og Yrkisútbúgvingarráðið fyri at viðgera m.a. spurningar, um yrkisútbúgvingarskipanina við serligum atlitið at: a) hvørji skúlaskeið kunnu leggjast niður samskipast b) einum møguligum kravdum støðisári c) færri og betri skipaðum skúlaskeiðum d) einari møguligari stytting av lærutíðini. </p>
+<p>Eftir hesa viðgerð bleiv settur ein arbeiðsbólkur við umboðum fyri Yrkisútbúgvingaráðið, Teknisku skúlarnar, Føroya Handilsskúla, Mentamálaráðið og Yrkisdepilin.</p>
+<p>Mentamálaráðið og Yrkisdepilin gjørdu eina greining av verandi yrkisútbúgvingarskipan, við tí fyri eyga at gera eitt skynsamt býti av lærlingaútbúgvingunum, sum bodnar eru út á TSK og TST. Næmingatilgondin fyri hvørja einstaka útbúgving var lýst í tølum 10 ár aftur í tíðina, og neyvar útrokningar vóru gjørdar fyri at lýsa kostnaðin av virkseminum fyri lærlingarnar á teknisku skúlunum, treytað av, at alt virksemið var savnað á einum stað.</p>
 <p>Støði var tikið í verandi skiftiskipan og virkseminum fyri 2010. Útrokningarnar vóru gjørdar út frá ymiskum krøvum til floksstøddina, sum talvan niðanfyri lýsir:</p>
-<p><em type="bold">Flokkastødd (minst/mest) 0/12 0/12 8/14 10/14  12/16 </em></p>
-<p>Tal á vikum tilsamans</p>
-<p>Sparing í vikum  - - - -</p>
-<p>Sparing í krónum (mió)  1,5 4,8 5,0 5,8</p>
-<p>Fyrsti  teigur  til  vinstru  vísir  verandi  virksemi  við  teimum  treytum,  sum  eru  galdandi  í  dag. Her  sæst,  at  vikutalið  er  589,  um  vit  eins  og  í  dag  ikki  seta  ávís  krøv  til  minsta  talið  á næmingum í flokkinum, men at talið í mesta lagi er 12.</p>
+<p><em type="bold">Flokkastødd (minst/mest) </em><em type="bold">0/12 </em><em type="bold">0/12 </em><em type="bold">8/14 </em><em type="bold">10/14 12/16 </em></p>
+<p>Tal á vikum tilsamans 589 491 281 271 216</p>
+<p>Sparing í vikum 0 -98 -308 -318 -373</p>
+<p>Sparing í krónum (mió) 0 1,5 4,8 5,0 5,8</p>
+<p>Fyrsti teigur til vinstru vísir verandi virksemi við teimum treytum, sum eru galdandi í dag. Her sæst, at vikutalið er 589, um vit eins og í dag ikki seta ávís krøv til minsta talið á næmingum í flokkinum, men at talið í mesta lagi er 12.</p>
 <p>Næsti teigur vísir, at sparast kunnu 1,5 mió. kr., um útbúgvingarnar verða savnaðar á einum stað, og uttan at broyta uppá treytirnar annars. Teir síðstu tríggir teigarnir vísa, hvat sparast kann, um treytirnar til flokkastøddina verða broyttar.</p>
-<p>Metingar vóru harumframt gjørdar av, hvørjar avleiðingar eitt býtið hevði á verandi karmar. Niðurstøðan  av  hesum  varð,  at  umfatandi  íløgur  mátti  gerast  í  um-  og  nýbygging  av verkstøðum,  um  skúlarnir  skulu  nøkta  tørvin  á  tí  vaksandi  virkseminum,  sum  kom  av  at savna útbúgvingarnar á einum stað. Alt eftir hvørjar útbúgvingar talan var um, er talan um íløgur á millum 25 og 35 mió. krónir á báðum skúlunum.</p>
-<p>Hesar  útrokningar  vóru  lagdar  fram  á  fundunum  við  allar  partar  av  vinnuni.  Á  fundinum samdust  luttakararnir  um,  at  áðrenn  støða  varð  tikin  til  at  býta  útbúgvingarnar,  skuldi verandi skiftisskipan endurskoðast. Mett varð, at munandi upphæddir kunnu sparast við at finna  eina  meira  skynsama  loysn  uppá  tey  mongu  skúlaskeiðini,  sum  eru  í  verandi yrkisútbúgvingum. Arbeiðsbólkurin fór tí undir at kanna henda møguleika, og tað er úrslitið av  hesum  arbeiðið,  sum  lýst  er  í  hesum  skjali.  Í  arbeiðinum  at  endurskoða yrkisútbúgvingarskipanina er verandi FHS-skipan eisini viðgjørd.</p>
-<p>Samfelagið  er  lítið  við  avmarkaðum  tilfeingi,  og  um  vit  vilja  varðveita  eitt  hóskandi útbúgvingarútboð  til  okkara  ungdóm,  mugu  útbúgvingarskipanirnar  hava  sum  fyrtreyt,  at tær tryggja ein skynsaman rakstur og eru so liðiligar sum til ber. Ein umráðandi setningur í hesum  arbeiðinum  hevur  tískil  verið  at  tryggja  samanhang  og  stigvøkstur  millum yrkisútbúgvingarskipanina og gymnasialu skipanina.</p>
-<p><em type="bold">Verandi skipan </em></p>
-<p>Verandi  yrkisútbúgvingarskipan  kann  lutast  sundur  í  tøkniligar  útbúgvingar  og  fyristing- handils- og skrivstovuútbúgvingar (FHS). Niðanfyri verða hesar útbúgvingar alment lýstar.</p>
-<p>Endamáli við yrkisútbúgvingum er:</p>
-<p type="listitem"> at miða ímóti at menna tann einstaka og hjálpa viðkomandi til samfelagsliga fatan</p>
-<p type="listitem"> at leggja grundarlag undir framtíðar yrki og framhaldandi útbúgving</p>
-<p type="listitem"> at nøkta tørvin hjá vinnuni, tá ið um ræður fakligan førleika og almennan kunnleika.</p>
-<p>Treytirnar fyri at byrja eina yrkisútbúgving eru,</p>
-<p type="listitem"> at tann, sum verður tikin í læru í einari yrkisútbúgving, skal hava fylgt undirvísingini</p>
-<p>til fráfaringarroynd fólkaskúlans</p>
-<p type="listitem"> at  lærusáttmáli  skal  vera  undirskrivaður  av  báðum  pørtum  og  góðkendur  av</p>
-<p>góðkenningarmyndugleikanum, áðrenn verkliga læran byrjar<em type="bold"> </em></p>
-<p type="listitem"> at verkliga læran fer fram á einum ella fleiri virkjum, ið frammanundan eru góðkend</p>
-<p>sum lærupláss av viðkomandi yrkisnevnd.</p>
-<p>Innihaldið í útbúgvingunum verður lutað sundur í almennar lærugreinir, yrkislærugreinir og vallærugreinir:</p>
-<p type="listitem"> <em type="italic">Yrkislærugreinir</em>  fata  um  verkliga  og  ástøðiliga  undirvísing,  ið  sermerkja  viðkomandi </p>
-<p>útbúgving  og  skulu  veita  almennan  kunnleika  og  fakligan  yrkisførleika. Landsstýrismaðurin ásetur, eftir tilmæli frá yrkisútbúgvingarráðnum og eftir samtykt frá  viðkomandi  yrkisnevnd,  hvørjar  yrkislærugreinir  skulu  verða  tengdar  at  tí  ávísu útbúgvingini. Yrkislærugreinir verða ikki býttar upp í lærugreinastig eins og almennar lærugreinir, men verða lýstar í námsætlanum.</p>
-<p type="listitem"> <em type="italic">Almennar  lærugreinir</em>  skulu  miða  ímóti  at  menna  tann  almenna  kunnleikan. </p>
-<p>Somuleiðis  skulu  almennu  lærugreinirnar  nøkta  krøvini  til  miðnámsútbúgvingar. Endamálið  er,  at  menna  lestrarførleika  og  samfelagsfatan  og  styrkja  persónligu menning næmingsins<em type="italic">. </em>Landsstýrismaðurin ger av, hvørjar almennar lærugreinir skulu verða  í  ávísari  útbúgving.  Almennar  lærugreinir  eru  t.d.  føroyskt,  enskt,  støddfrøði, alisfrøði,  virkisbúskapur  og  sølubúskapur.  Almennu  lærugreinirnar  eru  í  teimum tøkniligu útbúgvingunum vanliga á E-stigi, meðan tær á FHS vanliga eru á C-stigi.    </p>
-<p type="listitem"> <em type="italic">Vallærugreinir</em> skulu miða ímóti at nøkta áhugamál næmingsins, at stuðla áhugan fyri </p>
-<p>framhaldandi útbúgving og menna yrkis- og lestrarførleika hansara. Skúlarnir gera av, hvørjar  vallærugreinir  skulu  verða  bodnar  út  á  skúlunum.  Vællærugreinir  kunnu fevna um bæði yrkislærugreinir og almennar lærugreinir.</p>
-<p><em type="bold">Undirvísing í skúla og upplæring á læruplássi </em></p>
-<p>Yrkisútbúgvingarnar  eru  skipaðar  á  tann  hátt,  at  skift  verður  millum  verkliga  læru  á læruplássi (VL) og skúlagongd í yrkisskúla (SK). Niðanfyri eru dømi um útbúgvingargongd fyri ávikavist handilsútbúgving og tøkniliga útbúgving:</p>
-<p><em type="italic">Skrivstovuútbúgving: samlaða lærutíðin er 4 ár og skúlagongdin 48 vikur. </em></p>
-<p><em type="bold">Stað </em>SK VL SK VL SK VL SK VL SK VL SK <em type="bold">Vikur </em>           </p>
-<p><em type="italic">Elektrikaraútbúgving: samlaða lærutíðin er 4 ár og skúlagongdin 55 vikur. </em></p>
-<p><em type="bold">Stað </em>VL SK VL SK VL SK VL SK VL SK VL <em type="bold">Vikur </em>           </p>
+<p>Metingar vóru harumframt gjørdar av, hvørjar avleiðingar eitt býtið hevði á verandi karmar. Niðurstøðan av hesum varð, at umfatandi íløgur mátti gerast í um- og nýbygging av verkstøðum, um skúlarnir skulu nøkta tørvin á tí vaksandi virkseminum, sum kom av at 4 savna útbúgvingarnar á einum stað. Alt eftir hvørjar útbúgvingar talan var um, er talan um íløgur á millum 25 og 35 mió. krónir á báðum skúlunum.</p>
+<p>Hesar útrokningar vóru lagdar fram á fundunum við allar partar av vinnuni. Á fundinum samdust luttakararnir um, at áðrenn støða varð tikin til at býta útbúgvingarnar, skuldi verandi skiftisskipan endurskoðast. Mett varð, at munandi upphæddir kunnu sparast við at finna eina meira skynsama loysn uppá tey mongu skúlaskeiðini, sum eru í verandi yrkisútbúgvingum. Arbeiðsbólkurin fór tí undir at kanna henda møguleika, og tað er úrslitið av hesum arbeiðið, sum lýst er í hesum skjali. Í arbeiðinum at endurskoða yrkisútbúgvingarskipanina er verandi FHS-skipan eisini viðgjørd.</p>
+<p>Samfelagið er lítið við avmarkaðum tilfeingi, og um vit vilja varðveita eitt hóskandi útbúgvingarútboð til okkara ungdóm, mugu útbúgvingarskipanirnar hava sum fyrtreyt, at tær tryggja ein skynsaman rakstur og eru so liðiligar sum til ber. Ein umráðandi setningur í hesum arbeiðinum hevur tískil verið at tryggja samanhang og stigvøkstur millum yrkisútbúgvingarskipanina og gymnasialu skipanina.</p>
+<p><em type="bold">Verandi skipan </em>Verandi yrkisútbúgvingarskipan kann lutast sundur í tøkniligar útbúgvingar og fyristing- handils- og skrivstovuútbúgvingar (FHS). Niðanfyri verða hesar útbúgvingar alment lýstar. <em type="bold"></em>Endamáli við yrkisútbúgvingum er:  at miða ímóti at menna tann einstaka og hjálpa viðkomandi til samfelagsliga fatan  at leggja grundarlag undir framtíðar yrki og framhaldandi útbúgving  at nøkta tørvin hjá vinnuni, tá ið um ræður fakligan førleika og almennan kunnleika. </p>
+<p>Treytirnar fyri at byrja eina yrkisútbúgving eru,  at tann, sum verður tikin í læru í einari yrkisútbúgving, skal hava fylgt undirvísingini til fráfaringarroynd fólkaskúlans  at lærusáttmáli skal vera undirskrivaður av báðum pørtum og góðkendur av góðkenningarmyndugleikanum, áðrenn verkliga læran byrjar <em type="bold"></em> at verkliga læran fer fram á einum ella fleiri virkjum, ið frammanundan eru góðkend sum lærupláss av viðkomandi yrkisnevnd. </p>
+<p>Innihaldið í útbúgvingunum verður lutað sundur í almennar lærugreinir, yrkislærugreinir og vallærugreinir:  <em type="italic">Yrkislærugreinir </em>fata um verkliga og ástøðiliga undirvísing, ið sermerkja viðkomandi útbúgving og skulu veita almennan kunnleika og fakligan yrkisførleika. Landsstýrismaðurin ásetur, eftir tilmæli frá yrkisútbúgvingarráðnum og eftir samtykt frá viðkomandi yrkisnevnd, hvørjar yrkislærugreinir skulu verða tengdar at tí ávísu 5 útbúgvingini. Yrkislærugreinir verða ikki býttar upp í lærugreinastig eins og almennar lærugreinir, men verða lýstar í námsætlanum.  <em type="italic">Almennar lærugreinir </em>skulu miða ímóti at menna tann almenna kunnleikan. </p>
+<p>Somuleiðis skulu almennu lærugreinirnar nøkta krøvini til miðnámsútbúgvingar. Endamálið er, at menna lestrarførleika og samfelagsfatan og styrkja persónligu menning næmingsins <em type="italic">. </em>Landsstýrismaðurin ger av, hvørjar almennar lærugreinir skulu verða í ávísari útbúgving. Almennar lærugreinir eru t.d. føroyskt, enskt, støddfrøði, alisfrøði, virkisbúskapur og sølubúskapur. Almennu lærugreinirnar eru í teimum tøkniligu útbúgvingunum vanliga á E-stigi, meðan tær á FHS vanliga eru á C-stigi.  <em type="italic">Vallærugreinir </em>skulu miða ímóti at nøkta áhugamál næmingsins, at stuðla áhugan fyri framhaldandi útbúgving og menna yrkis- og lestrarførleika hansara. Skúlarnir gera av, hvørjar vallærugreinir skulu verða bodnar út á skúlunum. Vællærugreinir kunnu fevna um bæði yrkislærugreinir og almennar lærugreinir. </p>
+<p><em type="bold">Undirvísing í skúla og upplæring á læruplássi </em>Yrkisútbúgvingarnar eru skipaðar á tann hátt, at skift verður millum verkliga læru á læruplássi (VL) og skúlagongd í yrkisskúla (SK). Niðanfyri eru dømi um útbúgvingargongd fyri ávikavist handilsútbúgving og tøkniliga útbúgving: <em type="italic">Skrivstovuútbúgving: samlaða lærutíðin er 4 ár og skúlagongdin 48 vikur. </em><em type="bold">Stað </em></p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p><em type="bold">Vikur </em>40 2 2 2 1 1 </p>
+<p><em type="italic">Elektrikaraútbúgving: samlaða lærutíðin er 4 ár og skúlagongdin 55 vikur. </em><em type="bold">Stað </em></p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p>SK</p>
+<p>VL</p>
+<p><em type="bold">Vikur </em>20 10 10 5 10 </p>
 <p>Ymiskt er hvussu býtið er millum vekliga læru og skúla. Flestu tøkniligu útbúgvingarnar taka 4 ár og hava skúlagongd, sum vanliga telir 55 vikur.</p>
-<p><em type="bold">Samanumtikið </em></p>
-<p>Samanumtikið kann sigast, at tøkniligu útbúgvingarnar mynda eina ógvuliga liðiliga skipan, ið hevur  í  sær  námsfrøðiligar  og  aðrar  fyrimunir,  sum  lærlingurin  og  læruplássið  kunnu  hava gagn av. Styttri skúlaskeið geva eisini møguleika fyri, at skúlagongdin lættari kann gerast ein samrunnin  partur  av  verkligu  læruni.  Formliga  samskiftið  og  samstarvið  millum  skúla  og lærupláss er tó ikki nøktandi, og tí virkar skipanin ikki til fulnar. Talan er upprunaliga um eina danska  skipan,  og  út  frá  einum  búskaparligum  sjónarhorni  er  næmingagrundarlagið  í Føroyum  ov  lítið  til  eina  so</p>
-<p>Mett  verður  tó,  at  meginreglan  um,  at  skift  verður  millum  skúlagongd  og  verkliga  læru, hevur námsfrøðiligar fyrimunir í sær, sum vit eiga at varðveita. Fyritreytin fyri hesum er, at vit menna eina mentor- og logbókskipan, sum sameinar og leggur í fastar karmar, tað sum lært  verður  í  skúla  og  á  læruplássi.  Umráðandi  er  eisini,  at  krøv  verða  sett  til  eina meistaraútbúgving, sum kann verða við til at tryggja dygdina í upplæringini.</p>
-<p>Av  tí  at  verandi  FHS-skipan  er  munandi  meira  ástøðilig,  er  hon  skipað  so,  at  næmingurin vanliga  hevur  lokið  eitt  samanhangandi  støðisár,  áðrenn  sáttmálið  verður  gjørdur  við lærupláss. Hetta ein lutfallsliga bílig skipan, sum hevur tann fyrimunin, at næminginum bíðst valið millum at fara í verkliga læru ella at søkja um beinleiðis framhald í einari gymnasialari útbúgving. Mett verður, at FHS-skipanin er eitt gott tilboð til tey, sum ikki hava langskygdar ætlanir, og at hon er við til at eggja fleiri til at fara undir eina gymnasiala útbúgving.</p>
-<p><em type="bold">Uppskot um eindaskipan </em></p>
-<p>Arbeiðsbólkurin hevur gjørt uppskot um at seta í verk eina eindarskipan, sum í stuttum kann sigast at verða ein samanrenning av verandi yrkisútbúgvingarskipan og SIT-skipan. Innihaldið í  verandi  yrkisútbúgvingarskipan  og  SIT-skipan  verður  við  øðrum  orðum  lagt  í  tríggjar skúlaeindir á 20 vikur. Endamálið við hesi tillagingini er at leingja um skúlaeindirnar og leggja tær  í  meira  fastar  karmar.  Endamálið  er  eisini  at  menna  eina  liðiliga  skipan,  sum  bæði  er støði undir yrkisútbúgving og gevur møguleika til víðari lesnað.</p>
-<p><em type="bold">Bygnaður </em></p>
-<p>Skipanin  er  soleiðis  uppbygd,  at  øll  skúlaskeiðini  í  verandi  skiftisskipanini  verða  skipað  í  3 skúlaeindir á 20 vikur ella eitt hálvt ár. Við verandi vikutímatalið (36 t/v) svarar hetta til 720 pultstímar  fyri  hvørja  eind.  Til  samans  gevur  hetta  fyri  tær  tríggjar  eindirnar  2.160  tímar. Trýggjar  tær  fyrstu  eindirnar  skulu  verða  fakliga  støði  undir  einari  yrkisútbúgving.  Men uppskotið  fevnir  eisini  um  eina  fjórðu  eind,  ið  er  ætlað  sum  fyrireiking  til  førleikagevandi lestur. Allar 4 eindirnar geva til samans 2880 pultstímar.</p>
+<p><em type="bold">Samanumtikið </em>Samanumtikið kann sigast, at tøkniligu útbúgvingarnar mynda eina ógvuliga liðiliga skipan, ið hevur í sær námsfrøðiligar og aðrar fyrimunir, sum lærlingurin og læruplássið kunnu hava gagn av. Styttri skúlaskeið geva eisini møguleika fyri, at skúlagongdin lættari kann gerast ein samrunnin partur av verkligu læruni. Formliga samskiftið og samstarvið millum skúla og lærupláss er tó ikki nøktandi, og tí virkar skipanin ikki til fulnar. Talan er upprunaliga um eina danska skipan, og út frá einum búskaparligum sjónarhorni er næmingagrundarlagið í Føroyum ov lítið til eina so samansetta skipan. Tað hevur við sær, at okkara yrkisútbúgvingarskipan kostar lutfallsliga meira enn skipanin í Danmark. 6 </p>
+<p>Mett verður tó, at meginreglan um, at skift verður millum skúlagongd og verkliga læru, hevur námsfrøðiligar fyrimunir í sær, sum vit eiga at varðveita. Fyritreytin fyri hesum er, at vit menna eina mentor- og logbókskipan, sum sameinar og leggur í fastar karmar, tað sum lært verður í skúla og á læruplássi. Umráðandi er eisini, at krøv verða sett til eina meistaraútbúgving, sum kann verða við til at tryggja dygdina í upplæringini. Av tí at verandi FHS-skipan er munandi meira ástøðilig, er hon skipað so, at næmingurin vanliga hevur lokið eitt samanhangandi støðisár, áðrenn sáttmálið verður gjørdur við lærupláss. Hetta ein lutfallsliga bílig skipan, sum hevur tann fyrimunin, at næminginum bíðst valið millum at fara í verkliga læru ella at søkja um beinleiðis framhald í einari gymnasialari útbúgving. Mett verður, at FHS-skipanin er eitt gott tilboð til tey, sum ikki hava langskygdar ætlanir, og at hon er við til at eggja fleiri til at fara undir eina gymnasiala útbúgving.</p>
+<p><em type="bold">Uppskot um eindaskipan </em>Arbeiðsbólkurin hevur gjørt uppskot um at seta í verk eina eindarskipan, sum í stuttum kann sigast at verða ein samanrenning av verandi yrkisútbúgvingarskipan og SIT-skipan. Innihaldið í verandi yrkisútbúgvingarskipan og SIT-skipan verður við øðrum orðum lagt í tríggjar skúlaeindir á 20 vikur. Endamálið við hesi tillagingini er at leingja um skúlaeindirnar og leggja tær í meira fastar karmar. Endamálið er eisini at menna eina liðiliga skipan, sum bæði er støði undir yrkisútbúgving og gevur møguleika til víðari lesnað. </p>
+<p><em type="bold">Bygnaður </em>Skipanin er soleiðis uppbygd, at øll skúlaskeiðini í verandi skiftisskipanini verða skipað í 3 skúlaeindir á 20 vikur ella eitt hálvt ár. Við verandi vikutímatalið (36 t/v) svarar hetta til 720 pultstímar fyri hvørja eind. Til samans gevur hetta fyri tær tríggjar eindirnar 2.160 tímar. Trýggjar tær fyrstu eindirnar skulu verða fakliga støði undir einari yrkisútbúgving. Men uppskotið fevnir eisini um eina fjórðu eind, ið er ætlað sum fyrireiking til førleikagevandi lestur. Allar 4 eindirnar geva til samans 2880 pultstímar. </p>
 <p>Eftir lokna fyrstu eind hava allir næmingar fingið E-stig í almennum lærugreinum. Í teimum báðum framhaldandi eindunum er møguleiki til at lesa E-stigi víðari ella at lesa á C-stigi. Bert næmingar, ið hava lokið almennar lærugreinir á C-stigi kunnu koma inn á fjórðu eindina.</p>
-<p>Um  næmingur  hevur  lærusáttmála  kann  hann,  meðan  hann  stendur  í  læru,  lesa  fjórðu eindina,  tó  við  teirri  treyt,  at  lærusáttmálan  verður  longdur  í  eitt  hálvt  ár.  Fjórða  eindin gevur honum møguleika til at søkja beinleiðis inn á eina gymnasiala útbúgvingarbreyt.</p>
-<p>Yrkislærugreinaparturin  skal  lagast  so,  at  hann  saman  við  teimum  kravdu  almennu lærugreinunum  á  E-stigi  liggur  í  teimum  trimum  fyrstu  eindunum.  Um  næmingar  soleiðis ynskja  eina  yrkisútbúgving  við  almennum  lærugreinum  á  E-stigi,  eru  teir  lidnir  við skúlagongdina, tá triðja eindin er lokin.</p>
-<p>Næmingar  kunnu  koma  inn  í  skipanina  bæði  við  og  uttan  lærusáttmálað.  Næmingar,  sum ikki hava lærusáttmála, kunnu skriva lærusáttmála, tá høvi býðst.</p>
-<p>Næmingar,  sum  ikki  hava  lærusáttmála,  tá  ein  eind  er  lokin,  skulu  halda  fram  í  næstu  og triðju eindini uttan mun til, um teir hava lisið E- ella C-stig. Um næmingur hevur lokið allar tríggjar  skúlaeindirnar,  manglar  honum  verkliga  læru  og  sveinaroyndina.  Umráðandi  er  at hava í huga, at  E-stig bert kann verða støði  undir verkligari læru.  Næmingur, ið hevur  lisið almennar lærugreinir á C-stigi kann halda fram í fjórðu eindini.</p>
-<p>Sveinaroyndin verður vanliga framd sum beinleiðis framhald av triðju eind, tó treytað av, at hon  í  fyrsta lagi  liggur  í tí seinasta árinum, sum  er eftir av verkligu læruni.  Teir næmingar, sum  koma  úr  verkligari  læru  og  beint  í  sveinaroynd,  kunnu  taka  lut  í  einum fyrireikingarskeiði til sveinaroyndina.</p>
+<p>Um næmingur hevur lærusáttmála kann hann, meðan hann stendur í læru, lesa fjórðu eindina, tó við teirri treyt, at lærusáttmálan verður longdur í eitt hálvt ár. Fjórða eindin gevur honum møguleika til at søkja beinleiðis inn á eina gymnasiala útbúgvingarbreyt. 7</p>
+<p>Yrkislærugreinaparturin skal lagast so, at hann saman við teimum kravdu almennu lærugreinunum á E-stigi liggur í teimum trimum fyrstu eindunum. Um næmingar soleiðis ynskja eina yrkisútbúgving við almennum lærugreinum á E-stigi, eru teir lidnir við skúlagongdina, tá triðja eindin er lokin.</p>
+<p>Næmingar kunnu koma inn í skipanina bæði við og uttan lærusáttmálað. Næmingar, sum ikki hava lærusáttmála, kunnu skriva lærusáttmála, tá høvi býðst.</p>
+<p>Næmingar, sum ikki hava lærusáttmála, tá ein eind er lokin, skulu halda fram í næstu og triðju eindini uttan mun til, um teir hava lisið E- ella C-stig. Um næmingur hevur lokið allar tríggjar skúlaeindirnar, manglar honum verkliga læru og sveinaroyndina. Umráðandi er at hava í huga, at E-stig bert kann verða støði undir verkligari læru. Næmingur, ið hevur lisið almennar lærugreinir á C-stigi kann halda fram í fjórðu eindini.</p>
+<p>Sveinaroyndin verður vanliga framd sum beinleiðis framhald av triðju eind, tó treytað av, at hon í fyrsta lagi liggur í tí seinasta árinum, sum er eftir av verkligu læruni. Teir næmingar, sum koma úr verkligari læru og beint í sveinaroynd, kunnu taka lut í einum fyrireikingarskeiði til sveinaroyndina. 8</p>
 <p><em type="italic">Niðanfyri eru dømi um ymiskar møguleikar at skipa útbúgvingargongdina: </em></p>
-<p>Skipanin  er  soleiðis  lagað,  at  fyrsta  og  triðja  eind  altíð  liggja  í  tíðarskeiðinum  augustdesember,  meðan  onnur  og  fjórða  eind  altíð  liggja  í  tíðarskeiðinum  januar-juni. Skúlagongdin (fyrsta eind) byrjar sostatt altíð í august, uttan mun til um næmingurin hevur sáttmála  frammandunan  ella  ikki.  Læruplássið,  lærlingurin  og  skúlin  leggja  einstøku útbúgvingaargongdina til rættis.</p>
-<p>Skipanin  er  lagað  soleiðis,  at  hon  gevur  rúm  fyri  konjunkturbroytingum.  Í  góðum  tíðum verða helst fleiri næmingar inni í skipanini við lærusáttmála, meðan tað í ringum tíðum helst verða færri næmingar, ið hava lærusáttmála. Næmingar, sum ikki hava fingið lærusáttmála, kunnu sostatt halda fram við skúlagongdini.</p>
-<p>Lærupláss,  ið  hava  fleiri  lærlingar,  kunnu  gera  gagn  av  tí  fjølbroytni  í  liggur  í  skipanini, soleiðis at teir ikki allir eru í skúla samtíðis:</p>
-<p><em type="italic">Dømi um hvussu skúlagongdin kann vera ymisk í einum tíðarskeiðið </em></p>
-<p>5 a. og 6 a. eru dømi um útbúgvingargongd, har lærlingar hava lisið fyrstu og aðru eind, og teimum mangla tískil bert triðju eindina. Ì dømi 9 og 10 er lærlingarnir farnir undir verkligu læruna,  áðrenn  skúlagongdin  er  byrjað,  og  í  dømi  11  a.  hava  teir  lisið  fyrstu  eind frammanundan. Soleiðis kunnu lærupláss við fleiri næmingum leggja útbúgvingargongdir til rættis uttan at sleppa øllum lærlingunum í skúla samstundis.</p>
-<p><em type="bold">Innihald  </em></p>
-<p>Lærugreinirnar verða lutaðar sundur í felagslærugreinir, breytalærugreinir og vallærugreinir:</p>
-<p type="listitem"> <em type="italic">Felagslærugreinir</em> eru lærugreinir, ið næmingar hava til felags tvørtur um breytirnar. </p>
-<p>Felagslærugreinirnar eru: føroyskt, støddfrøði, enskt og íverksetan.</p>
-<p type="listitem"> <em type="italic">Breytalærugreinir</em>  eru  lærugreinir,  ið  mynda  eina  ávísa  útbúgvingarbreyt,  men  tær </p>
-<p>kunnu  verða  felags  fyri  summar  breytir.  Breytalærugreinir  fevna  bæði  um yrkislærugreinir  og  um  almennar  lærugreinir,  ið  eru  serliga  viðkomandi  fyri útbúgvingarbreytina.</p>
-<p type="listitem"> <em type="italic">Vallærugreinir</em> skulu nøkta áhugamál næminganna. Tað eru bert næmingar á E-stigi, </p>
-<p>sum skulu velja eina vallærugrein.</p>
-<p>Bæði  skúlarnir  og  vinnan  hava  ført  fram,  at  bókligi  parturin  av  yrkisútbúgvingunum  kann tykjast  ov  tungur.  Mett  verður  tó,  at  tað  er  týdningarmikið  í  einum  fólkaræðisligum samfelagið og í einum altjóðagjørdum heimi, at førleikar í móðurmálinum og í enskum verða mentir.  Støddfrøðin  er  saman  við  breytalærugrein  sum  t.d.  alisfrøði  almennar  kjarnu-  og amboðslærugreinir í tøkniligu útbúgvingunum. Íverksetan er nýggj lærugrein, sum skal hava í sær bæði virkisbúskap og ein samfelagsligan lut.</p>
-<p>Í trimum teimum fyrstu eindunum verður talið á almennum lærugreinum á E-stigi varðveitt, meðan  C-stigi  fær  eina  lærugrein  minni.  Niðafyri  er  dømi  um  lærugreinir  og  tímatal  í ávikavist E- og C-stigi á elbreytini.</p>
+<p>Skipanin er soleiðis lagað, at fyrsta og triðja eind altíð liggja í tíðarskeiðinum augustdesember, meðan onnur og fjórða eind altíð liggja í tíðarskeiðinum januar-juni. Skúlagongdin (fyrsta eind) byrjar sostatt altíð í august, uttan mun til um næmingurin hevur sáttmála frammandunan ella ikki. Læruplássið, lærlingurin og skúlin leggja einstøku útbúgvingaargongdina til rættis.</p>
+<p>Skipanin er lagað soleiðis, at hon gevur rúm fyri konjunkturbroytingum. Í góðum tíðum verða helst fleiri næmingar inni í skipanini við lærusáttmála, meðan tað í ringum tíðum helst verða færri næmingar, ið hava lærusáttmála. Næmingar, sum ikki hava fingið lærusáttmála, kunnu sostatt halda fram við skúlagongdini. Lærupláss, ið hava fleiri lærlingar, kunnu gera gagn av tí fjølbroytni í liggur í skipanini, soleiðis at teir ikki allir eru í skúla samtíðis: <em type="italic"></em>9 </p>
+<p><em type="italic">Dømi um hvussu skúlagongdin kann vera ymisk í einum tíðarskeiðið </em>5 a. og 6 a. eru dømi um útbúgvingargongd, har lærlingar hava lisið fyrstu og aðru eind, og teimum mangla tískil bert triðju eindina. Ì dømi 9 og 10 er lærlingarnir farnir undir verkligu læruna, áðrenn skúlagongdin er byrjað, og í dømi 11 a. hava teir lisið fyrstu eind frammanundan. Soleiðis kunnu lærupláss við fleiri næmingum leggja útbúgvingargongdir til rættis uttan at sleppa øllum lærlingunum í skúla samstundis. </p>
+<p><em type="bold">Innihald </em>Lærugreinirnar verða lutaðar sundur í felagslærugreinir, breytalærugreinir og vallærugreinir:  <em type="italic">Felagslærugreinir </em>eru lærugreinir, ið næmingar hava til felags tvørtur um breytirnar. </p>
+<p>Felagslærugreinirnar eru: føroyskt, støddfrøði, enskt og íverksetan.  <em type="italic">Breytalærugreinir </em>eru lærugreinir, ið mynda eina ávísa útbúgvingarbreyt, men tær kunnu verða felags fyri summar breytir. Breytalærugreinir fevna bæði um yrkislærugreinir og um almennar lærugreinir, ið eru serliga viðkomandi fyri útbúgvingarbreytina.  <em type="italic">Vallærugreinir </em>skulu nøkta áhugamál næminganna. Tað eru bert næmingar á E-stigi, sum skulu velja eina vallærugrein. </p>
+<p>Bæði skúlarnir og vinnan hava ført fram, at bókligi parturin av yrkisútbúgvingunum kann tykjast ov tungur. Mett verður tó, at tað er týdningarmikið í einum fólkaræðisligum samfelagið og í einum altjóðagjørdum heimi, at førleikar í móðurmálinum og í enskum verða mentir. Støddfrøðin er saman við breytalærugrein sum t.d. alisfrøði almennar kjarnu- og amboðslærugreinir í tøkniligu útbúgvingunum. Íverksetan er nýggj lærugrein, sum skal hava í sær bæði virkisbúskap og ein samfelagsligan lut.</p>
+<p>Í trimum teimum fyrstu eindunum verður talið á almennum lærugreinum á E-stigi varðveitt, meðan C-stigi fær eina lærugrein minni. Niðafyri er dømi um lærugreinir og tímatal í ávikavist E- og C-stigi á elbreytini. 10</p>
 <p><em type="bold">ELBREYT (1. – 3. eind) </em></p>
-<p xml:lang="dan"><em type="bold">Felagslærugreinir E C </em></p>
-<p>Føroyskt</p>
-<p>Støddfrøði</p>
-<p xml:lang="dan">Enskt</p>
-<p>Íverksetan<em type="bold"> </em>  </p>
-<p><em type="bold">Samanlagt   </em></p>
-<p xml:lang="dan"><em type="bold">Breytalærugreinir E C </em></p>
-<p>Alisfrøði</p>
-<p>Yrkislærugreinir og sveinaroynd</p>
-<p>Verkætlan</p>
-<p>Vallærugreinir</p>
-<p><em type="bold">Samanlagt   </em></p>
-<p><em type="bold">Tímatal til samans   </em></p>
-<p>Hvør einstaka eindin endar við einari verkætlanargongd. Í fyrstu eindini, har allir næmingar lesa  saman,  er  ein  vika  burturav  til  verkætlanarbeiðið.  Í  aðru  og  triðju  eindini  er verkætlanartíðin  ymisk  fyri  E-  og  C-stigi.  Meðan  E-stigi  hevur  tvær  vikur  til  verkætlan  í endanum av hvørjari eind, hevur C-stigi eina viku verkætlan í endanum av hvørjari eind.</p>
-<p>Verkætlanargongdir  skulu  verða  tvørgreinaligar,  tað  merkir,  at  samstarvað  verður  millum almennar lærugreinir og yrkislærugreinir. Verkætlanararbeiðið skal harumframt hava tilknýti til eitt lærupláss ella eitt virkið, og tað skal enda við einum skrivligum og verkligum avrikið, sum verður partur av innanhýsis eftirmetingini.</p>
-<p>Fyri at gera undirvísingarvirksemið so skynsamt sum til ber, er neyðugt, at næmingar á E- og C-stigi í øllum trimum eindunum samlesa yrkispartin. Tað merkir, at yrkislærugreinirnar eru tær somu fyri eina útbúgvingarbreyt, uttan mun til um næmingar lesa almennar lærugreinir á E- ella C-stigi. Hetta kann lýsast, sum á myndini niðanfyri.</p>
-<p>Fyri at geva næmingum møguleika fyri at  halda fram á gymnasialum stigi ella at fara undir styttri framhaldsútbúgving, verður boðið út ein fjórða eind við almennum lærugreinum á C- og  B-stigi.  Henda  eindin  verður  nevnd  fyrireikingareind,  tí  hon  fyrireikar  næmingar  til framhald. Fjórða eind kann lesast í beinleiðis framhaldi av teimum trimum fyrstu eindunum, men kann eisini lesast eftir lokna yrkisútbúgving. Sí eisini fylgiskjal 6.</p>
+<p><em type="bold">Felagslærugreinir </em></p>
+<p>Føroyskt 80 140</p>
+<p>Støddfrøði 90 175</p>
+<p xml:lang="dan">Enskt 80 140</p>
+<p>Íverksetan <em type="bold"></em>80 140 </p>
+<p><em type="bold">Samanlagt </em><em type="bold">330 </em><em type="bold">595 </em></p>
+<p><em type="bold">Breytalærugreinir </em></p>
+<p>Alisfrøði 80 140</p>
+<p>Yrkislærugreinir og sveinaroynd 1300 1300</p>
+<p>Verkætlan 180 108</p>
+<p>Vallærugreinir 80 0</p>
+<p><em type="bold">Samanlagt </em><em type="bold">1640 </em><em type="bold">1548 </em></p>
+<p><em type="bold">Tímatal til samans </em><em type="bold">2143 </em><em type="bold">2143 </em></p>
+<p>Hvør einstaka eindin endar við einari verkætlanargongd. Í fyrstu eindini, har allir næmingar lesa saman, er ein vika burturav til verkætlanarbeiðið. Í aðru og triðju eindini er verkætlanartíðin ymisk fyri E- og C-stigi. Meðan E-stigi hevur tvær vikur til verkætlan í endanum av hvørjari eind, hevur C-stigi eina viku verkætlan í endanum av hvørjari eind.</p>
+<p>Verkætlanargongdir skulu verða tvørgreinaligar, tað merkir, at samstarvað verður millum almennar lærugreinir og yrkislærugreinir. Verkætlanararbeiðið skal harumframt hava tilknýti til eitt lærupláss ella eitt virkið, og tað skal enda við einum skrivligum og verkligum avrikið, sum verður partur av innanhýsis eftirmetingini.</p>
+<p>Fyri at gera undirvísingarvirksemið so skynsamt sum til ber, er neyðugt, at næmingar á E- og C-stigi í øllum trimum eindunum samlesa yrkispartin. Tað merkir, at yrkislærugreinirnar eru tær somu fyri eina útbúgvingarbreyt, uttan mun til um næmingar lesa almennar lærugreinir á E- ella C-stigi. Hetta kann lýsast, sum á myndini niðanfyri. 11</p>
+<p>Fyri at geva næmingum møguleika fyri at halda fram á gymnasialum stigi ella at fara undir styttri framhaldsútbúgving, verður boðið út ein fjórða eind við almennum lærugreinum á C- og B-stigi. Henda eindin verður nevnd fyrireikingareind, tí hon fyrireikar næmingar til framhald. Fjórða eind kann lesast í beinleiðis framhaldi av teimum trimum fyrstu eindunum, men kann eisini lesast eftir lokna yrkisútbúgving. Sí eisini fylgiskjal 6.</p>
 <p>Niðanfyri er dømi um innihaldið í einari fyrireikingareind, ið gevur møguleika til at søkja inn á annað árið í gymnasialu tøknibreytini:</p>
 <p><em type="bold">Fyrireikingareind (4. eind) </em></p>
-<p>Søga C</p>
-<p xml:lang="dan">Evnafrøði C</p>
-<p>Lívfrøði C</p>
-<p xml:lang="dan">Samskiftistøkni C</p>
-<p xml:lang="dan">Iverksetan E – C</p>
-<p xml:lang="dan">Vællærugrein C</p>
-<p><em type="bold">Tímatal til samans</em>  <em type="bold"></em> </p>
-<p>Havast  skal  í  huga,  at  næmingar  í  fyrireikingareindini  skulu  lesa  lærugreinirnar  uppá  eitt hálvt ár í mun til vanligu tíðina, sum er eitt ár. Hetta krevur meira av næmingunum,  og tí er tað námsfrøðiliga skilagott at avmarka skúlagondina til uml. 600 tímar, so meira rúm verður til heimaarbeiðið.</p>
-<p>Fyrireikingareindin skal í so stóran mun sum til ber lagast so, at næmingar kunnu velja ávísar førleikagevandi  lærugreinir.  Arbeiðast  skal  tí  víðari  við  at  kanna  førleikakrøvini  til viðkomandi framhaldsútbúgvingar.</p>
-<p><em type="bold">Stakgreinalesnaður og fjarlestur </em></p>
-<p>Møguleiki  skal  vera  hjá  næmingum  á  E-  og  C-stigi  at  uppstiga  seg  sum  stakgreinalesandi. Arbeiðast skal við at menna møguleikarnar fyri at bjóða lærugreinum út sum fjarlestur.</p>
-<p><em type="bold">Ávegis royndir, próvtøkur og sveinaroyndir </em></p>
-<p>Eftir  hvørja  eind  verða  innanhýsis  royndir  í  yrkislærugreinum  og  próvtøka  í  almennum lærugreinum.  Yrkisroydirnar  hava  til  endamáls  at  eftirmeta  lokna  undirvísing  í yrkislærugreinum  og  fyrireika  næmingarnar  til  sveinaroyndina.  Póvtøkur  í  almennum lærugreinum eru uttanhýsis og endaligar.</p>
-<p>Sveinaroyndin  er  vanliga  eitt  framhald  av  triðju  eindini,  men  treytin  er,  at  sveinaroyndin liggur í síðsta árinum í lærutíðini. Um triðja eindin liggur, áðrenn komið verður inn í síðsta árið í lærutíðini, verður triðja eindin lisin, men sveinaroyndin tikin, tá næmingurin er komin í fjórða ári. Eitt styttri fyrireikingarskeið liggur altíð frammandunan sveinaroyndini.</p>
-<p><em type="bold">Nýskipan  av innihaldinum </em></p>
-<p>Yrkisútbúgvingarráðið  og  Yrkisnevndirnar  taka  støðu  til  um  verandi  útbúgvingar  til timburmann  og  snikkara  kunnu  samskipast,  og  hvussu  innihaldið  skal  skipast.  Á sama  hátt verða útbúgvingarnar til maskin- og rørsmið skipaðar eftir einum felags leisti. Uppskot hevur verið frammi um, at fyrsta og møguliga onnur eindin er felags fyri hesar báðar útbúgvingar, og at triðja eindin er serstøk fyri hvørja útbúgving. Havast skal huga, at útbúgvingarnar fyrst og fremst skulu lagast til føroyska marknaðin.</p>
-<p><em type="bold">Avriksflutningur </em></p>
-<p>Yrkisliga  innihaldið  í  nýggju  eindarskipanini  er  í  samsvari  við  innihaldið  í  verandi yrkisútbúgvingarskipan,  so  tær  tríggjar  skúlaeindirnar  á  20  vikur  eiga  at  geva  fullan avriksfluting í lærutíðini.</p>
-<p>Í verandi skipan fáa SIT næmingar bert umleið helvtina av skúlagongdini góðskrivað, um teir fara  í  læru.  Í  nýggju  skipanini  fáa  næmingar,  sum  hava  tikið  skúlaeindirnar  góðskrivað  alla skúlagongdina.</p>
-<p><em type="bold">Námsætlanir </em></p>
-<p>Nýggjar  námsætlanir  skulu  orðast  eftir  sama  leisti  sum  námsætlanirnar  í  gymnasialu útbúgvingunum.  Fyri  almennar  lærugreinir  skulu  námsætlanir  verða  felags  fyri  allar útbúgvingarbreytirnar,  so  tær  seta  somu  krøv  til  somu  stigini,  uttan  mun  til  hvørja  breyt talan er um.</p>
-<p><em type="bold">Fíggjarligar avleiðingar </em></p>
-<p>Neyvar útrokningar eru gjørdar við støði í søguligum tølum og í einari meting av tilgongdini til  yrkisútbúgvingarnar  tey  komandi  árini.  Metingarnar  siga  okkum,  at  um  verandi  skipan verður  lagað  so,  at  øll  tey  fyrstu  skúlaskeiðini  fyri  lærlingar  verða  samlisin  við  SIT1,  og eindarskipanin verður sett í verk frá august 2012, kann hon fáa fullan virkna í 2013.</p>
-<p>Útrokningarnar vísa okkum, at við omanfyrinevndu fyritreytum kunnu sparast umleið 6 % av samlaðu  rakstrarjáttanini  til  teknisku  skúlarnar  í  2012  og  umleið  20  %  av  samlaðu raktrarjáttanini í 2013. Hetta svarar til ávikavist 3 mió. í 2012 og 9,7 mió. í 2013.</p>
-<p>Havast  skal  í  huga,  at  skiftistíðin  frá  august  2012  til  januar  2013  er  treytað  av,  at  verandi útbúgvingarvirksemið verður fyrireikað og lagt til rættis, so atlit  verða tikin at verksetingini av nýggju eindarskipanini í august 2012.</p>
-<p><em type="bold">Samanumtikið </em></p>
-<p>Arbeiðsbólkurin hevur viðgjørt fyrimunir og vansar við uppskotinum um eindarskipan í mun til verandi skipan. Í talvuni niðanfyri verður hetta tikið samanum:</p>
-<p><em type="bold">Fyrimunir Vansar </em></p>
-<p type="listitem"> Verandi SIT- og lærlingaskipan renna saman í</p>
-<p>eina skipan</p>
-<p type="listitem"> Skiftið millum skúlagongd og verkliga læru</p>
-<p>verður varðveitt</p>
-<p type="listitem"> Fyrsta eindin er felags fyri allar næmingar</p>
-<p type="listitem"> Almennar lærugreinir kunnu lesast á E- ella C</p>
-<p>stigi</p>
-<p type="listitem"> Almennar lærugreinir verða samlisnar</p>
-<p type="listitem"> Yrkislærugreinir verða felags fyri E- og C-stig</p>
-<p type="listitem"> Sáttmáli kann altíð skrivast</p>
-<p type="listitem"> Skúlaparturin gevur fullan avriksflutning í</p>
-<p type="listitem"> Longri skúlaeindir gerast ein størri avbjóðing</p>
-<p>fyri bókliga veikar næmingar</p>
-<p type="listitem"> Skúlagongdin er løgd í fastari karmar, og gerst</p>
-<p>lærutíðini</p>
-<p type="listitem"> Fyrireikingareind, ið gevur bókligan førleika til</p>
-<p>tí minni liðilig í mun til læruplássið<em type="bold"> </em></p>
-<p type="listitem"> Samlesturin gevur lærarum størri</p>
-<p>námsfrøðiligar avbjóðingar<em type="bold"> </em></p>
-<p>framhaldslestur</p>
-<p type="listitem"> Skúlagongdin er løgd í fastar karmar</p>
-<p type="listitem"> Lættari at leggja til rættis og fyriskipa</p>
-<p>skúlagongdina</p>
-<p type="listitem"> Munandi skynsamari rakstur av</p>
-<p>útbúgvingunum</p>
-<p><em type="bold">FHS-skipanin </em></p>
-<p>Verandi FHS-skipan hevur virkað í mong ár, og helt hon eisini fram, tá Føroya Handilsskúli fór undir royndarskipanina við 3-ára HH. Hóast royndirnar við 3-ára HH hava eyndast væl, er tað framvegis lutfallsliga nógvir næmingar,  leita sær leiðina gjøgnum FHS-skipanina. Millum 50 % og 75 % av hesum næmingum halda fram í HH-skipanini.</p>
-<p>Tá gymnasialu miðnámsútbúgvingarnar vóru endurskoðaðar, varð mælt til ein meira greiðan skilna millum gymnasialu útbúgvingarnar og yrkisútbúgvingarnar. Grundgevingin fyri hesum var  m.a.,  at  útbúgvingarnar  hava  ymisk  endamál:  meðan  yrkisútbúgvingar  fyrst  og  fremst eru støði undir yrkislæru, hava gymnasialar útbúgvingar sum fyrsta og fremsta endamál at fyrireika næmingar til hægri lestur. Tí varð mett, at tað var fakliga og námsfrøðiliga óheppið, at lata tær renna ov nógv saman.</p>
-<p>Við  støði  í  teimum  royndum,  sum  higartil  eru  gjørdar  við  FHS-  og  HH-skipanini,  setti arbeiðsbólkurin  sær  fyri  at  skoða  hesar  útbúgvingar  av  nýggjum.  Heldur  enn  at  byggja  ov avbyrgdar  útbúgvingarskipanir,  eiga  vit  við  okkara  avmarðaða  tilfeingi,  at  skapa  líkindi  fyri samanhangi og liðleika, og á tann hátt varðveita eitt ávíst fjølbroytni í útbúgvingarskipanini.</p>
-<p>Fyri at fáa eina mynd av hvussu sambandið er millum FHS-útbúgvingina og HH-útbúgvingina, og  í  hvønn  mun  útbúgvingarnar  fakliga  røkja  sítt  endamál,  er  neyðugt  at  kanna,  hvussu fortreytirnar  eru  hjá  næmingunum,  tá  teir  søkja  inn  á  útbúgvingarnar,  og  hvussu næmingarenslið er í teimum ymisku útbúgvingunum, og hvussu fakligu fortreytirnar broytast líðandi. Fyri at finna svarini, settu vit hesar spurningar:</p>
-<p>1) Hvørji eru upptøkukrøvini og próvtølini fyri lokin prógv fyri ávikavist FHS, 2-ára HH og 3ára HH? 2) Hvussu nógvir næmingar vóru tiknir inn á ávikavist FHS, 2-ára HH og 3-ára HH frá 2007 til 2010? 3) Hvussu  nógvir  næmingar,  sum  høvdu  lokið  FHS,  søktu  framhald  í  2-ára  HH  frá  2007  til 2010? 4) Hvussu stórur partur av umsøkjarum, sum søktu  víðari  frá FHS í  2-HH, vóru frá 2007 til 2010? 5) Hvussu stórt er fráfallið í ávikavist ávikavist FHS, 2-ára HH og 3-ára HH frá 2007 til 2010? 6) Hvussu  er  lutvísa  spjaðingin  av  miðalpróvtølunum  fyri  ávikavist  FHS,  2-ára  HH  og  3-ára HH frá 2007 til 2010?</p>
-<p><em type="bold">Upptøkukrøv í mun til lokin prógv </em></p>
-<p>Upptøkukrøvini  og  miðalpróvtølini  eftir  lokna  útbúgving  eru  ymisk  fyri  ávikavist  FHS,  2-ára HH og 3-ára HH. Samanbera vit hesi tølini, kunnu vit fáa eina greiða mynd av, hvussu fakligu førleikarnir hjá næmingunum broytast frá teir søkja og til teir hava lokið prógv:</p>
-<p><em type="bold">Upptøkukrøv í mun til miðalpróvtøl  Tórshavn </em></p>
-<p>9,0</p>
-<p>8,5</p>
-<p>8,0</p>
-<p>7,5</p>
-<p>7,0</p>
-<p>6,5</p>
-<p>6,0</p>
-<p>5,5</p>
-<p>5,0</p>
-<p>4,5</p>
-<p>FHS upptøkukrøv</p>
-<p>FHS miðalpróvltøl</p>
-<p>HH2 upptøkukrøv</p>
-<p>HH2 miðalpróvtøl</p>
-<p>HH3 upptøkukrøv</p>
-<p>HH3 miðalpróvtøl</p>
-<p>4,0</p>
-<p><em type="bold">Upptøkukrøv í mun til miðalpróvtøl  Kambsdalur </em></p>
-<p>9,0</p>
-<p>8,5</p>
-<p>8,0</p>
-<p>7,5</p>
-<p>7,0</p>
-<p>6,5</p>
-<p>6,0</p>
-<p>5,5</p>
-<p>5,0</p>
-<p>4,5</p>
-<p>FHS upptøkukrøv</p>
-<p>FHS miðalpróvltøl</p>
-<p>HH2 upptøkukrøv</p>
-<p>HH2 miðalpróvtøl</p>
-<p>HH3 upptøkukrøv</p>
-<p>HH3 miðalpróvtøl</p>
-<p>4,0</p>
-<p>Myndirnar  skulu  lesast  á  tann  hátt,  at  fyrsta  súlan  uttast  til  vinstru  (bláur  litur)  vísir upptøkukrøvini  til  FHS.  Næsta  súlan  frá  vinstru  (reyður  litur)  vísir  miðalpróvtølini  fyri  FHSnæmingar, sum byrjaðu árið fyri. Báðar myndirnar vísa, at næmi</p>
-<p>Triðja súlan (grønur litur) vísir upptøkukrøvini til 2-ára HH, meðan næsta súlan frá høgru (lilla litur)  vísir  miðalpróvtølini  eftir  lokna  útbúgving.  Hóast  munurin  her  gerst  minni,  vísa samanberingar eisini her, at næmingar hava ment seg lutfallsliga nógv eftir lokna útbúgving.</p>
-<p>Uttasta súlan til høgru  (gulur litur) sigur okkum,  at næmingarnir sum søkja  inn á 3-ára  HH eru betri fyri bókliga enn næmingar, sum søkja inn á FHS. Men eisini her vísa próvtølini, at upptøkukrøvini til 3-ára HH eru lægri enn próvtølini eftir lokna útbúgving (appilsin litur).</p>
-<p>Soleiðis er mynstrið tað sama fyri allar útbúgvingarnar, men áhugavert er fyri tað fyrsta, at munurin millum upptøkukrøv og próvtøl er nógv størstur fyri FHS. Harnæst kemur fram, at hóast upptøkukrøvini eru ógvuliga ymisk fyri útbúgvingarnar, so er, tá saman um kemur, ikki serliga stór frávik í miðalpróvtølunum, tá útbúgvingarnar eru loknar.</p>
-<p>Samanumtikið  er  hetta  ein  ábending  um,  at  helst  fleiri  av  teimum  næmingunum,  sum  av byrjan tíð neyvan høvdu verið mettir at verða skikkaðir til eina  3-ára HH útbúgving, kortini koma ígjøgnum við einum góðum úrsliti umvegis FHS-útbúgvingina.</p>
-<p><em type="bold">Próvtalsspjaðing </em></p>
-<p>Talvurnar  niðanfyri  vísa,  hvussu  lutfallsliga  spaðingin  í  miðalpróvtølunum  er  tilsamans  fyri ávikavist FHS, 2-ára HH og 3-ára HH í árunum 2007 til 2010:</p>
+<p>Søga C 105</p>
+<p xml:lang="dan">Evnafrøði C 105</p>
+<p>Lívfrøði C 105</p>
+<p xml:lang="dan">Samskiftistøkni C 105</p>
+<p xml:lang="dan">Iverksetan E – C 60</p>
+<p xml:lang="dan">Vællærugrein C 105</p>
+<p><em type="bold">Tímatal til samans </em><em type="bold">585 </em></p>
+<p>Havast skal í huga, at næmingar í fyrireikingareindini skulu lesa lærugreinirnar uppá eitt hálvt ár í mun til vanligu tíðina, sum er eitt ár. Hetta krevur meira av næmingunum, og tí er tað námsfrøðiliga skilagott at avmarka skúlagondina til uml. 600 tímar, so meira rúm verður til heimaarbeiðið.</p>
+<p>Fyrireikingareindin skal í so stóran mun sum til ber lagast so, at næmingar kunnu velja ávísar førleikagevandi lærugreinir. Arbeiðast skal tí víðari við at kanna førleikakrøvini til viðkomandi framhaldsútbúgvingar.</p>
+<p><em type="bold">Stakgreinalesnaður og fjarlestur </em>Møguleiki skal vera hjá næmingum á E- og C-stigi at uppstiga seg sum stakgreinalesandi. Arbeiðast skal við at menna møguleikarnar fyri at bjóða lærugreinum út sum fjarlestur. 12 </p>
+<p><em type="bold">Ávegis royndir, próvtøkur og sveinaroyndir </em>Eftir hvørja eind verða innanhýsis royndir í yrkislærugreinum og próvtøka í almennum lærugreinum. Yrkisroydirnar hava til endamáls at eftirmeta lokna undirvísing í yrkislærugreinum og fyrireika næmingarnar til sveinaroyndina. Póvtøkur í almennum lærugreinum eru uttanhýsis og endaligar. </p>
+<p>Sveinaroyndin er vanliga eitt framhald av triðju eindini, men treytin er, at sveinaroyndin liggur í síðsta árinum í lærutíðini. Um triðja eindin liggur, áðrenn komið verður inn í síðsta árið í lærutíðini, verður triðja eindin lisin, men sveinaroyndin tikin, tá næmingurin er komin í fjórða ári. Eitt styttri fyrireikingarskeið liggur altíð frammandunan sveinaroyndini.</p>
+<p><em type="bold">Nýskipan av innihaldinum </em>Yrkisútbúgvingarráðið og Yrkisnevndirnar taka støðu til um verandi útbúgvingar til timburmann og snikkara kunnu samskipast, og hvussu innihaldið skal skipast. Á sama hátt verða útbúgvingarnar til maskin- og rørsmið skipaðar eftir einum felags leisti. Uppskot hevur verið frammi um, at fyrsta og møguliga onnur eindin er felags fyri hesar báðar útbúgvingar, og at triðja eindin er serstøk fyri hvørja útbúgving. Havast skal huga, at útbúgvingarnar fyrst og fremst skulu lagast til føroyska marknaðin. </p>
+<p><em type="bold">Avriksflutningur </em>Yrkisliga innihaldið í nýggju eindarskipanini er í samsvari við innihaldið í verandi yrkisútbúgvingarskipan, so tær tríggjar skúlaeindirnar á 20 vikur eiga at geva fullan avriksfluting í lærutíðini. </p>
+<p>Í verandi skipan fáa SIT næmingar bert umleið helvtina av skúlagongdini góðskrivað, um teir fara í læru. Í nýggju skipanini fáa næmingar, sum hava tikið skúlaeindirnar góðskrivað alla skúlagongdina.</p>
+<p><em type="bold">Námsætlanir </em>Nýggjar námsætlanir skulu orðast eftir sama leisti sum námsætlanirnar í gymnasialu útbúgvingunum. Fyri almennar lærugreinir skulu námsætlanir verða felags fyri allar útbúgvingarbreytirnar, so tær seta somu krøv til somu stigini, uttan mun til hvørja breyt talan er um. </p>
+<p><em type="bold">Fíggjarligar avleiðingar </em>Neyvar útrokningar eru gjørdar við støði í søguligum tølum og í einari meting av tilgongdini til yrkisútbúgvingarnar tey komandi árini. Metingarnar siga okkum, at um verandi skipan verður lagað so, at øll tey fyrstu skúlaskeiðini fyri lærlingar verða samlisin við SIT1, og eindarskipanin verður sett í verk frá august 2012, kann hon fáa fullan virkna í 2013. </p>
+<p>Útrokningarnar vísa okkum, at við omanfyrinevndu fyritreytum kunnu sparast umleið 6 % av samlaðu rakstrarjáttanini til teknisku skúlarnar í 2012 og umleið 20 % av samlaðu raktrarjáttanini í 2013. Hetta svarar til ávikavist 3 mió. í 2012 og 9,7 mió. í 2013. 13</p>
+<p>Havast skal í huga, at skiftistíðin frá august 2012 til januar 2013 er treytað av, at verandi útbúgvingarvirksemið verður fyrireikað og lagt til rættis, so atlit verða tikin at verksetingini av nýggju eindarskipanini í august 2012.</p>
+<p><em type="bold">Samanumtikið </em>Arbeiðsbólkurin hevur viðgjørt fyrimunir og vansar við uppskotinum um eindarskipan í mun til verandi skipan. Í talvuni niðanfyri verður hetta tikið samanum: </p>
+<p><em type="bold">Fyrimunir </em></p>
+<p><em type="bold">Vansar </em> Verandi SIT- og lærlingaskipan renna saman í eina skipan  Skiftið millum skúlagongd og verkliga læru verður varðveitt  Fyrsta eindin er felags fyri allar næmingar  Almennar lærugreinir kunnu lesast á E- ella C-stigi  Almennar lærugreinir verða samlisnar  Yrkislærugreinir verða felags fyri E- og C-stig  Sáttmáli kann altíð skrivast  Skúlaparturin gevur fullan avriksflutning í lærutíðini  Fyrireikingareind, ið gevur bókligan førleika til framhaldslestur  Skúlagongdin er løgd í fastar karmar  Lættari at leggja til rættis og fyriskipa skúlagongdina  Munandi skynsamari rakstur av útbúgvingunum  Longri skúlaeindir gerast ein størri avbjóðing fyri bókliga veikar næmingar  Skúlagongdin er løgd í fastari karmar, og gerst tí minni liðilig í mun til læruplássið <em type="bold"></em> Samlesturin gevur lærarum størri námsfrøðiligar avbjóðingar <em type="bold"></em></p>
+<p><em type="bold">FHS-skipanin </em>Verandi FHS-skipan hevur virkað í mong ár, og helt hon eisini fram, tá Føroya Handilsskúli fór undir royndarskipanina við 3-ára HH. Hóast royndirnar við 3-ára HH hava eyndast væl, er tað framvegis lutfallsliga nógvir næmingar, leita sær leiðina gjøgnum FHS-skipanina. Millum 50 % og 75 % av hesum næmingum halda fram í HH-skipanini. </p>
+<p>Tá gymnasialu miðnámsútbúgvingarnar vóru endurskoðaðar, varð mælt til ein meira greiðan skilna millum gymnasialu útbúgvingarnar og yrkisútbúgvingarnar. Grundgevingin fyri hesum var m.a., at útbúgvingarnar hava ymisk endamál: meðan yrkisútbúgvingar fyrst og fremst eru støði undir yrkislæru, hava gymnasialar útbúgvingar sum fyrsta og fremsta endamál at fyrireika næmingar til hægri lestur. Tí varð mett, at tað var fakliga og námsfrøðiliga óheppið, at lata tær renna ov nógv saman.</p>
+<p>Við støði í teimum royndum, sum higartil eru gjørdar við FHS- og HH-skipanini, setti arbeiðsbólkurin sær fyri at skoða hesar útbúgvingar av nýggjum. Heldur enn at byggja ov 14 avbyrgdar útbúgvingarskipanir, eiga vit við okkara avmarðaða tilfeingi, at skapa líkindi fyri samanhangi og liðleika, og á tann hátt varðveita eitt ávíst fjølbroytni í útbúgvingarskipanini.</p>
+<p>Fyri at fáa eina mynd av hvussu sambandið er millum FHS-útbúgvingina og HH-útbúgvingina, og í hvønn mun útbúgvingarnar fakliga røkja sítt endamál, er neyðugt at kanna, hvussu fortreytirnar eru hjá næmingunum, tá teir søkja inn á útbúgvingarnar, og hvussu næmingarenslið er í teimum ymisku útbúgvingunum, og hvussu fakligu fortreytirnar broytast líðandi. Fyri at finna svarini, settu vit hesar spurningar: 1) Hvørji eru upptøkukrøvini og próvtølini fyri lokin prógv fyri ávikavist FHS, 2-ára HH og 3-ára HH? 2) Hvussu nógvir næmingar vóru tiknir inn á ávikavist FHS, 2-ára HH og 3-ára HH frá 2007 til 2010? 3) Hvussu nógvir næmingar, sum høvdu lokið FHS, søktu framhald í 2-ára HH frá 2007 til 2010? 4) Hvussu stórur partur av umsøkjarum, sum søktu víðari frá FHS í 2-HH, vóru frá 2007 til 2010? 5) Hvussu stórt er fráfallið í ávikavist ávikavist FHS, 2-ára HH og 3-ára HH frá 2007 til 2010? 6) Hvussu er lutvísa spjaðingin av miðalpróvtølunum fyri ávikavist FHS, 2-ára HH og 3-ára</p>
+<p>HH frá 2007 til 2010?</p>
+<p><em type="bold">Upptøkukrøv í mun til lokin prógv </em>Upptøkukrøvini og miðalpróvtølini eftir lokna útbúgving eru ymisk fyri ávikavist FHS, 2-ára HH og 3-ára HH. Samanbera vit hesi tølini, kunnu vit fáa eina greiða mynd av, hvussu fakligu førleikarnir hjá næmingunum broytast frá teir søkja og til teir hava lokið prógv: 4,04,55,05,56,06,57,07,58,08,59,02007200820092010 </p>
+<p><em type="bold">Upptøkukrøv í mun til miðalpróvtøl </em></p>
 <p><em type="bold">Tórshavn </em></p>
-<p>50%</p>
-<p>45%</p>
-<p>40%</p>
-<p>35%</p>
-<p>30%</p>
-<p>25%</p>
-<p>FHS HH2 HH3</p>
-<p>20%</p>
-<p>15%</p>
-<p>10%</p>
-<p>5%</p>
-<p>0%</p>
-<p>6 - 77 - 88 - 99 - 1010 - 11</p>
+<p>FHS upptøkukrøv</p>
+<p>FHS miðalpróvltøl</p>
+<p>HH2 upptøkukrøv</p>
+<p>HH2 miðalpróvtøl</p>
+<p>HH3 upptøkukrøv</p>
+<p>HH3 miðalpróvtøl15</p>
+<p>Myndirnar skulu lesast á tann hátt, at fyrsta súlan uttast til vinstru (bláur litur) vísir upptøkukrøvini til FHS. Næsta súlan frá vinstru (reyður litur) vísir miðalpróvtølini fyri FHSnæmingar, sum byrjaðu árið fyri. Báðar myndirnar vísa, at næmingar, sum søkja inn á FHS, altíð hava munandi hægri próvtøl, tá teir hava lokið útbúgvingina árið eftir.</p>
+<p>Triðja súlan (grønur litur) vísir upptøkukrøvini til 2-ára HH, meðan næsta súlan frá høgru (lilla litur) vísir miðalpróvtølini eftir lokna útbúgving. Hóast munurin her gerst minni, vísa samanberingar eisini her, at næmingar hava ment seg lutfallsliga nógv eftir lokna útbúgving.</p>
+<p>Uttasta súlan til høgru (gulur litur) sigur okkum, at næmingarnir sum søkja inn á 3-ára HH eru betri fyri bókliga enn næmingar, sum søkja inn á FHS. Men eisini her vísa próvtølini, at upptøkukrøvini til 3-ára HH eru lægri enn próvtølini eftir lokna útbúgving (appilsin litur).</p>
+<p>Soleiðis er mynstrið tað sama fyri allar útbúgvingarnar, men áhugavert er fyri tað fyrsta, at munurin millum upptøkukrøv og próvtøl er nógv størstur fyri FHS. Harnæst kemur fram, at hóast upptøkukrøvini eru ógvuliga ymisk fyri útbúgvingarnar, so er, tá saman um kemur, ikki serliga stór frávik í miðalpróvtølunum, tá útbúgvingarnar eru loknar.</p>
+<p>Samanumtikið er hetta ein ábending um, at helst fleiri av teimum næmingunum, sum av byrjan tíð neyvan høvdu verið mettir at verða skikkaðir til eina 3-ára HH útbúgving, kortini koma ígjøgnum við einum góðum úrsliti umvegis FHS-útbúgvingina.</p>
+<p><em type="bold">Próvtalsspjaðing </em>Talvurnar niðanfyri vísa, hvussu lutfallsliga spaðingin í miðalpróvtølunum er tilsamans fyri ávikavist FHS, 2-ára HH og 3-ára HH í árunum 2007 til 2010: 4,04,55,05,56,06,57,07,58,08,59,02007200820092010 </p>
+<p><em type="bold">Upptøkukrøv í mun til miðalpróvtøl </em></p>
 <p><em type="bold">Kambsdalur </em></p>
-<p>40%</p>
-<p>35%</p>
-<p>30%</p>
-<p>25%</p>
-<p>20%</p>
-<p>FHS HH2 HH3</p>
-<p>15%</p>
-<p>10%</p>
-<p>5%</p>
-<p>0%</p>
-<p>5 - 66 - 77 - 88 - 99 - 1010 - 11</p>
-<p>Vit  síggja  at  tær  bláu  súlurnar  eru  mest  til  vinstru,  tær  reyðu  súlurnar  seta  upp  í  topp  á miðjuni, og tær grønu súlurnar liggja mest til høgru. Hetta gevur okkum eina mynd av, at teir bókliga sterkastu næmingarnir uttan iva eru í 3-ára HH.</p>
-<p><em type="bold">Næmingarensl </em></p>
-<p>Tær næstu talvurnar, hvussu nógvir næmingar vóru tiknir inn til tær ymisku útbúgvingarnar. Havast skal í huga at 3-ára HH útbúgvingin byrjaði í 2007.<em type="bold"> </em></p>
-<p><em type="bold">Tórshavn</em> </p>
-<p>2006/2007  2007/2008  2008/2009  2009/2010  2010/2011 3 ára HH -     2 ára HH      FHS</p>
-<p><em type="bold">Kambsdalur</em> </p>
-<p>2006/2007  2007/2008  2008/2009  2009/2010  2010/2011 3 ára HH      2 ára HH      FHS</p>
-<p>Tølini  siga  okkum,  at  nógv  flest  næmingar  søkja  inn  á  FHS-útbúgvingina,  men  at  ein lutfallsliga  stórur  partur  eisini  søkir  framhald  á  2-ára  HH.  Hinvegin  kann  sigast,  at  tað  við verandi  skipan  eru  lutfallsliga  fáir  næmingar,  ið  hætta  sær  undir  eina  3-ára  langa  HHútbúgving.</p>
+<p>FHS upptøkukrøv</p>
+<p>FHS miðalpróvltøl</p>
+<p>HH2 upptøkukrøv</p>
+<p>HH2 miðalpróvtøl</p>
+<p>HH3 upptøkukrøv</p>
+<p>HH3 miðalpróvtøl16</p>
+<p><em type="bold">Tórshavn </em></p>
+<p><em type="bold">Kambsdalur </em></p>
+<p><em type="bold"></em>Vit síggja at tær bláu súlurnar eru mest til vinstru, tær reyðu súlurnar seta upp í topp á miðjuni, og tær grønu súlurnar liggja mest til høgru. Hetta gevur okkum eina mynd av, at teir bókliga sterkastu næmingarnir uttan iva eru í 3-ára HH. </p>
+<p><em type="bold">Næmingarensl </em>Tær næstu talvurnar, hvussu nógvir næmingar vóru tiknir inn til tær ymisku útbúgvingarnar. Havast skal í huga at 3-ára HH útbúgvingin byrjaði í 2007. <em type="bold"></em></p>
+<p><em type="bold">Tórshavn </em>2006/2007 2007/2008 2008/2009 2009/2010 2010/2011 3 ára HH - 19 23 26 53 2 ára HH 77 50 51 50 78 </p>
+<p>FHS 85 105 137 106 0%5%10%15%20%25%30%35%40%45%50%6 - 77 - 88 - 99 - 1010 - 11</p>
+<p>FHS HH2 HH30%5%10%15%20%25%30%35%40%5 - 66 - 77 - 88 - 99 - 1010 - 11</p>
+<p>FHS HH2 HH317</p>
+<p><em type="bold">Kambsdalur </em>2006/2007 2007/2008 2008/2009 2009/2010 2010/2011 3 ára HH 21 26 26 50 2 ára HH 52 52 52 50 </p>
+<p>FHS 100 102 100 71</p>
+<p>Tølini siga okkum, at nógv flest næmingar søkja inn á FHS-útbúgvingina, men at ein lutfallsliga stórur partur eisini søkir framhald á 2-ára HH. Hinvegin kann sigast, at tað við verandi skipan eru lutfallsliga fáir næmingar, ið hætta sær undir eina 3-ára langa HHútbúgving.</p>
 <p>Hyggja vit meira nágreiniliga at, hvussu stórur partur av umsøkjarum við FHS-prógvi sluppu inn á 2-ára HH í árunum 2006 til 2010, siga tølini okkum, at í miðal 60 % av næmingunum, sum søkja vera tiknir inn. Áhugavert er, at 40 % av umsøkjarunum verða sostatt ikki mettir at verða førir fyri at gjøgnumføra eina 2-ára HH útbúgving, hóast miðalpróvtølini fyri FHS eru næstan á hædd við miðalpróvtølini fyri 2-ára HH.</p>
-<p><em type="bold">Fráfall </em></p>
-<p>Tað er trupult at siga nakað alment um fráfalli, tí talgrundarlagið er ov lítið. Tó kann sigast við rímiligari vissu, at fráfallið í 2-ára HH er lutfallsliga minni enn í FHS og í 3-ára HH. Hetta hongur  helst saman við, at næmingar eftir lokna FHS útbúgving skulu søkja um framhald á HH, og á tann hátt fer ein umflokking fram, sum er við til at minka um fráfallið.</p>
-<p><em type="bold">Samanumtikið </em></p>
-<p>Greinigin,  sum  gjørd  er  omanfyri,  eigur  at  skoðast  út  frá  teimum  fortreytum,  sum  eru galdandi  fyri  okkara  litla  samfelag,  og  út  frá  málinum  um,  at  so  nógv  ung  sum til  ber  taka eina  miðnámsútbúgving.  Ein  greiðari  skilnaður  millum  FHS  og  gymnasialu  skipanina  hevði helst lækkað talið á HH-næmingum og møguliga eisini haft við sær eina næmingaflyting yvir í tøkniligu yrkisútbúgvingarnar, sum ikki á sama hátt eru lagaðar til eitt beinleiðis gymnasialt framhald.</p>
-<p>Mett  verður,  at  verandi  FHS-skipan  er  við  til  at  varðveita  ein  liðligleika  og  eitt  fjølbroytni, sum eggjar fleiri ungum til at fara undir eina miðnámsútbúgving. Tað er sjónligt, at FHS og 3ára HH venda sær til tveir ymiskar málbólkar, men talan er kortini ikki um ógvuliga ymiskar útbúgvingar,  sum  neyðugt  er  at  greina  meira  sundur.  Hóast  tað  er  eyðkent  fyri  FHSnæmingar, at teir søkja inn á útbúgvingina við lutfallsliga lágum próvtølum, kunnu vit síggja gagn av at varðveita eina skipan, sum hevur  í sær eina umflokking eftir einum støðisári.  Á henda hátt er ein stigvís skipan eisini fyribyrgjandi fyri fráfalli.</p>
-<p>Við eini eitt ára skipan kunnu tey, sum ikki ynskja at taka stóra stigið at fara undir eina trý ára gymnasiala útbúgving, royna seg, og soleiðis virkar FHS tileggjandi fyri teir næmingar, ið eru til styttri málsetningar enn ein 3 ára gymnasialskipan leggur upp til. Havast skal í huga, at talan  er  um  lutfallsliga  ung  fólk,  og  eitt  lutfallsliga  stutt  skotbrá  kann  gera  tað  lættari  at halda ágrytninum uppi og náa fyrisettum málum.</p>
-<p>Eisini  er  tað  ein  royndur  lutur,  at  próvtøkur  virka  tileggjandi  fyri  virkishuga  næminganna. Bæði  í  FHS-  og  HH-skipanini  eru  fleiri  próvtøkur  enn  í  Studentaskúlaskipanini.  Tískil  eru sannlíkindi fyri, at næmingurin er meira virkin í FHS og HH enn í eini trý ára skipan, har eingin próvtøka er fyrr enn í triðja árið er runnið.</p>
-<p>Tískil mælir arbeiðsbólkurin til, at FHS-skipanin verður varðveitt sum ein eitt ára sjálvstøðug støðisútbúgving,  hvørs  endamál  er  at  leggja  støði  undir  yrkisútbúgving,  men  at  FHSútbúgvingin  samtíðis  gevur  førleika  til  at  søkja  beinleiðis  framhald  í  búskaparbreytina  í nýggju  gymnasialu  skipanini.  Innihaldið  í  FHS-útbúgvingini  eigur  at  verða  endurskoðað  og dagført.  Fyri  at  útbúgvingin  eisini  kann  venda  sær  til  fólk,  sum  leingi  hava  verið  burtur  frá útbúgvingarskipanini  og  onnur,  sum  møguliga  hava  ilt  við  at  fara  undir  útbúgving,  eigur møguleiki eisini at vera fyri at skipa FHS sum eina tvey ára gongd.</p>
-<p><em type="bold">Fíggjarligar avleiðingar </em></p>
-<p>Við eini stigvísari skipan verður kostnaðurin fyri hvønn næming lutfalsliga minni enn í øðrum útbúgvingum,  tí  ein  umflokking  fer  fram,  tá  farið  verður  í  2-ára  HH.  Harafturat  er  henda skipan fráfalsfyribyrgjandi og tískil meira effektiv enn aðrar skipanir (sí fylgiskjal 2).</p>
-<p>Mett verður ikki, at ein endurskoðað og dagførd FHS-skipan hevur meirkostna við sær.</p>
-<p><em type="bold">Niðurstøða </em></p>
-<p>Nógv  kann  sparast  við  at  fara  fra  verandi  skiftisskipan  til  eina  eindaskipan  fyri  tøkniligu útbúgvingarnar. Útrokningar vísa at teknisku skúlarnir spara minst 20% av rakstrarjáttanini og svarar hetta til 10 mio. kr. árliga í mun til verandi skipan.</p>
-<p>Tað er eisini semja um at eind 4 eigur at geva møguleika fyri at fara víðari til eina gymnasiala útbúgving  ella  til  eina  styttri  víðari  útbúgving.  Hetta  krevur  tó  eitt  ávíst  forarbeiði,  bæði viðvíkjandi tillaging av eindini og samstarvi við danskar yrkisskúlar.</p>
-<p>Vit hava innan tekniska økið nátt málinum at fáa eina liðiliga og allíkavæl rationella skipan, sum eisini gevur beinleiðis avriksflutning fyri ávísu yrkisútbúgvin</p>
-<p>Viðvíkjandi  merkantilu  útbúgvingunum  mælir  arbeiðsbólkurin  til  at  varðveita  sambandi millum FHS og 2 ára HH útbúgvingina. Samstundis sum FHS verður tillaga til vinnuna.</p>
-<p><em type="bold">Íverksetan </em></p>
-<p>Um  tikið  verður  undir  við  skipanini,  verða  Yrkisnevndirnar  innan  avvarandi  yrkið  kallaðar innaftur    til  fundar.  Yrkisnevndirnar  koma  við  innihaldinum  í  yrkislærugreinunum  og  verða síðani  settar  til  at  gera  innihaldið    í  kunngerð  og  námsætlan  sambært  nýggja  leistinum. Nýggja  eindarskipanin  krevur  bæði  lógar-  og  kunngerðarbroytingar.  Mælt  verður  til,  at  ein nýggj yrkisútbúgvingarlóg verður smíðað.</p>
-<p>Hetta er drúgvført arbeiði,  og nógvir mannatímar skulu til, um  regluverkið skal verða tøkt, áðrenn skipanin verður sett í verk. Uppskot um tíðar- og arbeiðsætlan sæst niðanfyri.</p>
+<p><em type="bold">Fráfall </em>Tað er trupult at siga nakað alment um fráfalli, tí talgrundarlagið er ov lítið. Tó kann sigast við rímiligari vissu, at fráfallið í 2-ára HH er lutfallsliga minni enn í FHS og í 3-ára HH. Hetta hongur helst saman við, at næmingar eftir lokna FHS útbúgving skulu søkja um framhald á HH, og á tann hátt fer ein umflokking fram, sum er við til at minka um fráfallið. </p>
+<p><em type="bold">Samanumtikið </em>Greinigin, sum gjørd er omanfyri, eigur at skoðast út frá teimum fortreytum, sum eru galdandi fyri okkara litla samfelag, og út frá málinum um, at so nógv ung sum til ber taka eina miðnámsútbúgving. Ein greiðari skilnaður millum FHS og gymnasialu skipanina hevði helst lækkað talið á HH-næmingum og møguliga eisini haft við sær eina næmingaflyting yvir í tøkniligu yrkisútbúgvingarnar, sum ikki á sama hátt eru lagaðar til eitt beinleiðis gymnasialt framhald. </p>
+<p>Mett verður, at verandi FHS-skipan er við til at varðveita ein liðligleika og eitt fjølbroytni, sum eggjar fleiri ungum til at fara undir eina miðnámsútbúgving. Tað er sjónligt, at FHS og 3-ára HH venda sær til tveir ymiskar málbólkar, men talan er kortini ikki um ógvuliga ymiskar útbúgvingar, sum neyðugt er at greina meira sundur. Hóast tað er eyðkent fyri FHSnæmingar, at teir søkja inn á útbúgvingina við lutfallsliga lágum próvtølum, kunnu vit síggja gagn av at varðveita eina skipan, sum hevur í sær eina umflokking eftir einum støðisári. Á henda hátt er ein stigvís skipan eisini fyribyrgjandi fyri fráfalli.</p>
+<p>Við eini eitt ára skipan kunnu tey, sum ikki ynskja at taka stóra stigið at fara undir eina trý ára gymnasiala útbúgving, royna seg, og soleiðis virkar FHS tileggjandi fyri teir næmingar, ið eru til styttri málsetningar enn ein 3 ára gymnasialskipan leggur upp til. Havast skal í huga, at 18 talan er um lutfallsliga ung fólk, og eitt lutfallsliga stutt skotbrá kann gera tað lættari at halda ágrytninum uppi og náa fyrisettum málum.</p>
+<p>Eisini er tað ein royndur lutur, at próvtøkur virka tileggjandi fyri virkishuga næminganna. Bæði í FHS- og HH-skipanini eru fleiri próvtøkur enn í Studentaskúlaskipanini. Tískil eru sannlíkindi fyri, at næmingurin er meira virkin í FHS og HH enn í eini trý ára skipan, har eingin próvtøka er fyrr enn í triðja árið er runnið.</p>
+<p>Tískil mælir arbeiðsbólkurin til, at FHS-skipanin verður varðveitt sum ein eitt ára sjálvstøðug støðisútbúgving, hvørs endamál er at leggja støði undir yrkisútbúgving, men at FHSútbúgvingin samtíðis gevur førleika til at søkja beinleiðis framhald í búskaparbreytina í nýggju gymnasialu skipanini. Innihaldið í FHS-útbúgvingini eigur at verða endurskoðað og dagført. Fyri at útbúgvingin eisini kann venda sær til fólk, sum leingi hava verið burtur frá útbúgvingarskipanini og onnur, sum møguliga hava ilt við at fara undir útbúgving, eigur møguleiki eisini at vera fyri at skipa FHS sum eina tvey ára gongd.</p>
+<p><em type="bold">Fíggjarligar avleiðingar </em>Við eini stigvísari skipan verður kostnaðurin fyri hvønn næming lutfalsliga minni enn í øðrum útbúgvingum, tí ein umflokking fer fram, tá farið verður í 2-ára HH. Harafturat er henda skipan fráfalsfyribyrgjandi og tískil meira effektiv enn aðrar skipanir (sí fylgiskjal 2). Mett verður ikki, at ein endurskoðað og dagførd FHS-skipan hevur meirkostna við sær. </p>
+<p><em type="bold">Niðurstøða </em>Nógv kann sparast við at fara fra verandi skiftisskipan til eina eindaskipan fyri tøkniligu útbúgvingarnar. Útrokningar vísa at teknisku skúlarnir spara minst 20% av rakstrarjáttanini og svarar hetta til 10 mio. kr. árliga í mun til verandi skipan. </p>
+<p>Tað er eisini semja um at eind 4 eigur at geva møguleika fyri at fara víðari til eina gymnasiala útbúgving ella til eina styttri víðari útbúgving. Hetta krevur tó eitt ávíst forarbeiði, bæði viðvíkjandi tillaging av eindini og samstarvi við danskar yrkisskúlar.</p>
+<p>Vit hava innan tekniska økið nátt málinum at fáa eina liðiliga og allíkavæl rationella skipan, sum eisini gevur beinleiðis avriksflutning fyri ávísu yrkisútbúgvingina.</p>
+<p>Viðvíkjandi merkantilu útbúgvingunum mælir arbeiðsbólkurin til at varðveita sambandi millum FHS og 2 ára HH útbúgvingina. Samstundis sum FHS verður tillaga til vinnuna.</p>
+<p><em type="bold">Íverksetan </em>Um tikið verður undir við skipanini, verða Yrkisnevndirnar innan avvarandi yrkið kallaðar innaftur til fundar. Yrkisnevndirnar koma við innihaldinum í yrkislærugreinunum og verða síðani settar til at gera innihaldið í kunngerð og námsætlan sambært nýggja leistinum. Nýggja eindarskipanin krevur bæði lógar- og kunngerðarbroytingar. Mælt verður til, at ein nýggj yrkisútbúgvingarlóg verður smíðað. 19 </p>
+<p>Hetta er drúgvført arbeiði, og nógvir mannatímar skulu til, um regluverkið skal verða tøkt, áðrenn skipanin verður sett í verk. Uppskot um tíðar- og arbeiðsætlan sæst niðanfyri.</p>
 <p><em type="bold">Tíðar- og arbeiðsætlan </em></p>
-<p><em type="bold">Uppgávur Tíðarætlan </em></p>
+<p><em type="bold">Uppgávur </em></p>
+<p><em type="bold">Tíðarætlan </em></p>
 <p>Arbeiðsskjalið liðugt og leggjast fyri YÚR/Landsstýriskvinnuna.</p>
 <p>Medio apríl 2011</p>
-<p>Yrkisútbúgvingarráðið viðgerð tilmælið (arbeiðsskjalið) 27. apríl 2011 Yrkisútbúgvingarlógin – FHS – og SIT lógin samanskrivast Mai - juni2011 Yrkisútbúgvingarráðið viðgerð lógina fyrstu ferð ultimo juni 2011 Felagskunngerð August 2011 El kunngerðin/námsætlan* Oktober 2011 Maskin kunngerðin/námsætlan* Oktober 2011 Timbur kunngerðin/námsætlan* Oktober 2011 Bil kunngerðin/námsætlan* Oktober 2011 Hár kunngerðin/námsætlan* Oktober 2011 Klædnaatstøðingur kunngerðin/námsætlan* Oktober 2011 Gastronom atstøðingur kunngerðin/námsætlan* Oktober 2011 Yrkisútbúgvingarráðið fund um kunngerðirnar* Oktober 2011 Fyrisiting kunngerðin/námsætlan* Januar 2012 Smásøla kunngerðin/námsætlan* Januar 2012 Alt arbeiðið liðugt  Februar 2012 *yrkisnevndirnar eiga ein part av hesum arbeiðinum</p>
+<p>Yrkisútbúgvingarráðið viðgerð tilmælið (arbeiðsskjalið) 27. apríl 2011</p>
+<p>Yrkisútbúgvingarlógin – FHS – og SIT lógin samanskrivast</p>
+<p xml:lang="dan">Mai - juni2011</p>
+<p>Yrkisútbúgvingarráðið viðgerð lógina fyrstu ferð ultimo juni 2011</p>
+<p>Felagskunngerð</p>
+<p>August 2011</p>
+<p xml:lang="dan">El kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Maskin kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Timbur kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Bil kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Hár kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Klædnaatstøðingur kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Gastronom atstøðingur kunngerðin/námsætlan*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Yrkisútbúgvingarráðið fund um kunngerðirnar*</p>
+<p xml:lang="dan">Oktober 2011</p>
+<p>Fyrisiting kunngerðin/námsætlan*</p>
+<p>Januar 2012</p>
+<p>Smásøla kunngerðin/námsætlan*</p>
+<p>Januar 2012</p>
+<p>Alt arbeiðið liðugt</p>
+<p>Februar 2012 *yrkisnevndirnar eiga ein part av hesum arbeiðinum 20</p>
 <p>Fylgiskjal 1</p>
-<p><em type="bold">Arbeiðssetningur og arbeiðsgongd </em></p>
-<p>Landsstýriskvinnan  Helena  Dam  á  Neystabø  hevur  síðani  í  september  2010  havt  eina fundarrøð  við  stýrini  fyri  Teknisku  skúlarnar,  Føroya  Handverksmeistarafelag,  Føroya Handverkarafelag, Landsfelag Handverkaranna og Yrkisútbúgvingarráðið fyri at viðgera m.a. niðanfyristandandi  spurningar.  Eftir  hesa  viðgerð  bleiv  settur  ein  arbeiðsbólkur  við umboðum fyri Yrkisútbúgvingaráðið, Teknisku skúlarnar, Mentamálaráðið og Yrkisdepilin.</p>
-<p>Í arbeiðsbólkinum sita:</p>
-<p type="listitem"> Magnus Magnussen, Yrkisútbúgvingarráðið</p>
-<p type="listitem"> Suni Simonsen, Yrkisútbúgvingarráðið</p>
-<p type="listitem"> Egon Øregaard, Tekniski skúli Tórshavn</p>
-<p type="listitem"> Rúni Heinesen, Tekniski skúli Klaksvík</p>
-<p type="listitem"> Sonja Oyrabø Petersen, Føroya Handilsskúli Tórshavn</p>
-<p type="listitem"> Páll Isholm, deildarstjóri Føroya Handilsskúli á Kambsdali</p>
-<p type="listitem"> Mortan Zachariassen, Mentamálaráðið</p>
-<p type="listitem"> Eyðun Gaard, Yrkisdepilin</p>
+<p><em type="bold">Arbeiðssetningur og arbeiðsgongd </em>Landsstýriskvinnan Helena Dam á Neystabø hevur síðani í september 2010 havt eina fundarrøð við stýrini fyri Teknisku skúlarnar, Føroya Handverksmeistarafelag, Føroya Handverkarafelag, Landsfelag Handverkaranna og Yrkisútbúgvingarráðið fyri at viðgera m.a. niðanfyristandandi spurningar. Eftir hesa viðgerð bleiv settur ein arbeiðsbólkur við umboðum fyri Yrkisútbúgvingaráðið, Teknisku skúlarnar, Mentamálaráðið og Yrkisdepilin. </p>
+<p>Í arbeiðsbólkinum sita:  Magnus Magnussen, Yrkisútbúgvingarráðið  Suni Simonsen, Yrkisútbúgvingarráðið  Egon Øregaard, Tekniski skúli Tórshavn  Rúni Heinesen, Tekniski skúli Klaksvík  Sonja Oyrabø Petersen, Føroya Handilsskúli Tórshavn  Páll Isholm, deildarstjóri Føroya Handilsskúli á Kambsdali  Mortan Zachariassen, Mentamálaráðið  Eyðun Gaard, Yrkisdepilin</p>
 <p>Arbeiðsbókurin hevur havt fleiri fundir, eins og skúlarnir hava verið við í arbeiðinum at rokna út fíggjarligar og aðrar avleiðingar av nýggju skipanini.</p>
-<p><em type="bold">Arbeiðssetningurin er upprunaliga lýstur soleiðis: </em></p>
-<p><em type="bold">1. Býti av yrkisútbúgvingunum </em></p>
-<p>Seta upp møgulig alternativ, ið skulu lýsa, hvussu til ber at býta ella samskipa verandi útbúgvingar  og  verkstøð.  Bólkurin  skal  kanna  og  seta  upp  ymisk  alternativ  og  lýsa avleiðingar av ymsum loysnum.</p>
-<p><em type="bold">2. Hvørji skúlaskeið skulu leggjast niður/samskipast </em></p>
-<p>Hvørji  møgulig  skúlaskeið/útbúgvingar,  kundu  verið  niðurløgd  ella  samskipað,  og arbeiðsbólkurin skal lýsa fyrimunir og vansar hesum viðvíkjandi.</p>
-<p><em type="bold">3. Kravt støðisár </em></p>
-<p>Fyrimunir og vansar við at krevja, at allir lærlingar skulu hava eitt støðisár. Bólkurin skal  koma  við  einum  uppskoti  um,  hvussu  ein  møgulig  royndarskipan  við  kravdum støðisári kann verða skipað.</p>
-<p><em type="bold">4. Færri og betri skipað skúlaskeið   </em></p>
-<p>Fyrimunir og vansar við, at lærlingasáttmálar verða skrivaðir einaferð um árið, og at skúlaskeiðini verða longri og færri í tali.</p>
-<p><em type="bold">5. Stytta lærutíðina </em></p>
-<p>Lýsa  hvørjir  møguleikar  eru  fyri  at  stytta  lærutíðina,  m.a.  soleiðis  at  lærlingur  við einum støðisári fær góðskrivað ein størri part av lærutíðini.</p>
+<p><em type="bold">Arbeiðssetningurin er upprunaliga lýstur soleiðis: </em><em type="bold">1. Býti av yrkisútbúgvingunum </em></p>
+<p>Seta upp møgulig alternativ, ið skulu lýsa, hvussu til ber at býta ella samskipa verandi útbúgvingar og verkstøð. Bólkurin skal kanna og seta upp ymisk alternativ og lýsa avleiðingar av ymsum loysnum. <em type="bold">2. Hvørji skúlaskeið skulu leggjast niður/samskipast </em></p>
+<p>Hvørji møgulig skúlaskeið/útbúgvingar, kundu verið niðurløgd ella samskipað, og arbeiðsbólkurin skal lýsa fyrimunir og vansar hesum viðvíkjandi. <em type="bold">3. Kravt støðisár </em></p>
+<p>Fyrimunir og vansar við at krevja, at allir lærlingar skulu hava eitt støðisár. Bólkurin skal koma við einum uppskoti um, hvussu ein møgulig royndarskipan við kravdum støðisári kann verða skipað. <em type="bold">4. Færri og betri skipað skúlaskeið </em></p>
+<p>Fyrimunir og vansar við, at lærlingasáttmálar verða skrivaðir einaferð um árið, og at skúlaskeiðini verða longri og færri í tali. 21 <em type="bold">5. Stytta lærutíðina </em></p>
+<p>Lýsa hvørjir møguleikar eru fyri at stytta lærutíðina, m.a. soleiðis at lærlingur við einum støðisári fær góðskrivað ein størri part av lærutíðini. 22</p>
 <p>Fylgiskjal 2</p>
-<p>Eindarkostnaður fyri verandi skipan<em type="bold"> (Kelda: Løgtingsfíggjarlógin)</em><em type="italic"> </em></p>
-<p><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Føroya Handilsskúla: </em></p>
-<p><em type="italic">Útb. / ár         </em></p>
-<p>FHS 21.366 26.725 28.120 26.907 27.850 24.823 34.615 30.745 HH 26.292 28.446 29.230 32.233 37.288 31.569 38.210 35.150</p>
-<p><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Tekniska Skúlanum í Tórshavn: </em></p>
-<p><em type="italic">Útb. / ár         </em></p>
-<p>SIT1 20.682 37.221 35.276 33.864 31.602 41.570 36.587  39.816</p>
-<p>SIT2 105.750 36.729 42.571 34.750 43.103 55.190 44.204  43.083 Maskinsmiðir  32.711  40.862 54.560 59.167 50.520 53.077  57.115 Smiðir 58.000 66.300 68.750 80.140 56.400 65.200 76.208  67.250 Bilsmiðir 53.167 54.141 53.091 78.920 66.529 60.860 59.363  49.577 Elektrikarar 4.680 49.305 54.333 59.240 75.70 57.280 53.865  55.379 Húsasmiðir 40.468 52.152 51.550 56.790 58.570 53.310 50.313  59.875 Hárfríðkanir 39.200 40.213 48.313 54.670 50.117 51.270 57.125  64.923 Akademiútb. 38.308 31.785 33.500 40.840 47.860 37.390 38.374  44.322</p>
-<p><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Tekniska Skúlanum í Klaksvík:  </em></p>
-<p><em type="italic">Útb. / ár         </em></p>
-<p>SIT1 37.500 50.333 52.040 38.750 42.670 45.590 44.192 44.625 SIT2 50.370 49.750 74.000 35.667 29.466 81.000 80.396 - HT 36.760 42.412 43.930 45.177 52.770 50.205 55.390 41.042</p>
-<p>Lærlingar  54.482 75.238 81.211 103.140 68.960 62.582 77.130</p>
-<p><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Fiskivinnukúlanum í Vestmanna:  </em></p>
-<p><em type="italic">Útb. / ár         </em></p>
-<p>Hvør næm.  32.260 47.960 50.200 46.500 48.110 46.333 55.032 51.066</p>
-<p><em type="italic">Til sammetingar:   Eindarkostnaður (kr.) pr. næming pr. ár á Studentaskúlanum  og HF-skeiðnum í Hoydølum:  </em></p>
-<p><em type="italic">Útb. / ár         </em></p>
-<p>Stud. næm.  39.459 40.862 47.190 46.670 48.620 49.580 54.080 54.261 HF-næm. 36.978 45.792 47.267 42.929 42.879 49.690 50.000 46.296</p>
+<p>Eindarkostnaður fyri verandi skipan <em type="bold">(Kelda: Løgtingsfíggjarlógin) </em></p>
+<p><em type="bold"></em><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Føroya Handilsskúla: </em></p>
+<p><em type="italic">Útb. / ár </em><em type="italic">2003 </em><em type="italic">2004 </em><em type="italic">2005 </em><em type="italic">2006 </em><em type="italic">2007 </em><em type="italic">2008 </em><em type="italic">2009 </em><em type="italic">2010 </em></p>
+<p>FHS 21.366 26.725 28.120 26.907 27.850 24.823 34.615 30.745</p>
+<p>HH 26.292 28.446 29.230 32.233 37.288 31.569 38.210 35.150</p>
+<p><em type="bold"></em><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Tekniska Skúlanum í Tórshavn: </em><em type="bold"></em></p>
+<p><em type="italic">Útb. / ár </em><em type="italic">2003 </em><em type="italic">2004 </em><em type="italic">2005 </em><em type="italic">2006 </em><em type="italic">2007 </em><em type="italic">2008 </em><em type="italic">2009 </em><em type="italic">2010 </em></p>
+<p>SIT1 20.682 37.221 35.276 33.864 31.602 41.570 36.587 39.816</p>
+<p>SIT2 105.750 36.729 42.571 34.750 43.103 55.190 44.204 43.083</p>
+<p>Maskinsmiðir 32.711 43206 40.862 54.560 59.167 50.520 53.077 57.115</p>
+<p>Smiðir 58.000 66.300 68.750 80.140 56.400 65.200 76.208 67.250</p>
+<p>Bilsmiðir 53.167 54.141 53.091 78.920 66.529 60.860 59.363 49.577</p>
+<p xml:lang="dan">Elektrikarar 4.680 49.305 54.333 59.240 75.70 57.280 53.865 55.379</p>
+<p>Húsasmiðir 40.468 52.152 51.550 56.790 58.570 53.310 50.313 59.875</p>
+<p>Hárfríðkanir 39.200 40.213 48.313 54.670 50.117 51.270 57.125 64.923</p>
+<p xml:lang="dan">Akademiútb. 38.308 31.785 33.500 40.840 47.860 37.390 38.374 44.322</p>
+<p><em type="bold"></em><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Tekniska Skúlanum í Klaksvík: </em></p>
+<p><em type="italic">Útb. / ár </em><em type="italic">2003 </em><em type="italic">2004 </em><em type="italic">2005 </em><em type="italic">2006 </em><em type="italic">2007 </em><em type="italic">2008 </em><em type="italic">2009 </em><em type="italic">2010 </em></p>
+<p>SIT1 37.500 50.333 52.040 38.750 42.670 45.590 44.192 44.625</p>
+<p>SIT2 50.370 49.750 74.000 35.667 29.466 81.000 80.396 -</p>
+<p>HT 36.760 42.412 43.930 45.177 52.770 50.205 55.390 41.042</p>
+<p>Lærlingar 54.482 75.238 81.211 103.140 68.960 62.582 77.130</p>
+<p><em type="bold"></em><em type="italic">Eindarkostnaður (kr.) pr. lærling/næming pr. ár á Fiskivinnukúlanum í Vestmanna: </em></p>
+<p><em type="italic">Útb. / ár </em><em type="italic">2003 </em><em type="italic">2004 </em><em type="italic">2005 </em><em type="italic">2006 </em><em type="italic">2007 </em><em type="italic">2008 </em><em type="italic">2009 </em><em type="italic">2010 </em></p>
+<p>Hvør næm. 32.260 47.960 50.200 46.500 48.110 46.333 55.032 51.066</p>
+<p><em type="italic">Til sammetingar: Eindarkostnaður (kr.) pr. næming pr. ár á Studentaskúlanum og HF-skeiðnum í Hoydølum: </em>23 </p>
+<p><em type="italic">Útb. / ár </em><em type="italic">2003 </em><em type="italic">2004 </em><em type="italic">2005 </em><em type="italic">2006 </em><em type="italic">2007 </em><em type="italic">2008 </em><em type="italic">2009 </em><em type="italic">2010 </em></p>
+<p>Stud. næm. 39.459 40.862 47.190 46.670 48.620 49.580 54.080 54.261</p>
+<p>HF-næm. 36.978 45.792 47.267 42.929 42.879 49.690 50.000 46.296 24</p>
 <p><em type="bold">Fylgiskjal 3 </em></p>
 <p><em type="bold">Hvørjar útbúgvingar hava lærlingar áðrenn teir fara í læru </em></p>
 <p>Sambært Yrkisdepilin hava lærlingar, sum fingu lærusáttmála í 2007, hesar útbúgvingar:</p>
-<p>Útbúgvingarslag Støðisútbúgving Yrkis gym. útb. Alm. gym. útb. Útbúgving Tils. SIT1 SIT2 FHS SIF HT HH HIF Stud. HF Næm.</p>
-<p>Tilsamans  var  tilgongdin  í  2007  av  lærlingum  379.  Av  teimum  høvdu  198  eina  útbúgving  áðrenn læran  byrjaði.  Hetta  merkir,  at  umleið  ein  góð  helvt  (52%)  høvdu  eina  av  omanfyri  nevndu útbúgvingunum áðrenn læran byrjaði.</p>
-<p>Innan handils- og skrivstovuøkið  var tilgongdin í 2007 av lærlingum 121.  Av hesum høvdu 36 lokið FHS, 34 HH og 29 aðra útbúgving - tilsamans 99.  Hetta merkir, at umleið 82% innan handils- og skrivstovuøkið høvdu eina  útbúgving áðrenn læran byrjaði. Restin - 22 lærlingar ella 18% - høvdu onga útbúgving áðrenn læran byrjaði.</p>
-<p>Innan handverksøkið  var tilgongdin í 2007 av lærlingum 258.  Av hesum høvdu 59 lokið SIT1 og SIT2 og 23 a<em type="italic"> www.yrkisdepilin.fo </em></p>
+<p>Útbúgvingarslag</p>
+<p>Støðisútbúgving</p>
+<p>Yrkis gym. útb.</p>
+<p>Alm. gym. útb.</p>
+<p xml:lang="dan">Útbúgving</p>
+<p xml:lang="dan">Tils.</p>
+<p>SIT1</p>
+<p>SIT2</p>
+<p>FHS</p>
+<p>SIF</p>
+<p>HT</p>
+<p>HH</p>
+<p>HIF</p>
+<p>Stud.</p>
+<p>HF</p>
+<p>Næm. 198 54 8 47 2 4 40 1 27 15</p>
+<p>Tilsamans var tilgongdin í 2007 av lærlingum 379. Av teimum høvdu 198 eina útbúgving áðrenn læran byrjaði. Hetta merkir, at umleið ein góð helvt (52%) høvdu eina av omanfyri nevndu útbúgvingunum áðrenn læran byrjaði. Innan handils- og skrivstovuøkið var tilgongdin í 2007 av lærlingum 121. Av hesum høvdu 36 lokið FHS, 34 HH og 29 aðra útbúgving - tilsamans 99. Hetta merkir, at umleið 82% innan handils- og skrivstovuøkið høvdu eina útbúgving áðrenn læran byrjaði. Restin - 22 lærlingar ella 18% - høvdu onga útbúgving áðrenn læran byrjaði. Innan handverksøkið var tilgongdin í 2007 av lærlingum 258. Av hesum høvdu 59 lokið SIT1 og SIT2 og 23 aðra útbúgving – tilsamans 82. Hetta merkir, at umleið 32% innan handverk høvdu eina útbúgving áðrenn læran byrjaði. Restin - 176 lærlingar ella 68% - høvdu onga útbúgving áðrenn læran byrjaði. Kelda Tekstur og tøl s. 201 www.yrkisdepilin.fo 25</p>
 <p><em type="bold">Fylgiskjal 4 </em></p>
 <p><em type="bold">Býtið millum skúlagongd og upplæring á læruplássi: </em></p>
-<p><em type="italic">Útbúgvingar á handilsskúla </em></p>
-<p><em type="italic">Skrivstovuútbúgving.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 48. </em></p>
-<p><em type="bold">FHS LP  LP  LP  LP  LP  </em></p>
-<p>valfrítt</p>
-<p>roynd</p>
-<p><em type="italic">Útbúgvingar á tekniskum skúla </em></p>
-<p><em type="italic">Bilsmiðir.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 55. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Bygninssnikkarar.  Samlaða lærutíðin  3 ár og 9 mð.  Skúlavikur íalt 50. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Elektrikarar.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 65. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Hárfríðkarar.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 60. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP </em></p>
-<p>5-5</p>
-<p><em type="italic">Húsasmiðir.  Samlaða lærutíðin  3 ár og 9 mð.  Skúlavikur íalt 47. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Maskinsmiðir.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 55. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Plátu- og konstruktiónssmiðir.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 55. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Rørsmiðir.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 55. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="italic">Stálskipasmiðir.  Samlaða lærutíðin  4 ár.  Skúlavikur íalt 55. </em></p>
-<p><em type="bold">LP  LP  LP  LP  LP  LP </em></p>
-<p><em type="bold">Fylgiskjal 5  </em></p>
+<p>Útbúgvingar á handilsskúla</p>
+<p><em type="italic">Skrivstovuútbúgving. Samlaða lærutíðin 4 ár. Skúlavikur íalt 48. </em></p>
+<p><em type="bold">FHS </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em><em type="bold">6 </em></p>
+<p><em type="bold">LP </em><em type="bold">7 </em>40 2 2 2 1 valfrítt 1 roynd </p>
+<p>Útbúgvingar á tekniskum skúla</p>
+<p><em type="italic">Bilsmiðir. Samlaða lærutíðin 4 ár. Skúlavikur íalt 55. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em><em type="bold">6 </em></p>
+<p><em type="bold">LP </em><em type="bold">7 </em></p>
+<p><em type="bold">LP </em><em type="bold">8 </em></p>
+<p><em type="bold">LP </em>20 5 5 5 5 5 5 5 </p>
+<p><em type="italic">Bygninssnikkarar. Samlaða lærutíðin 3 ár og 9 mð. Skúlavikur íalt 50. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em>20 10 5 10 5 </p>
+<p><em type="italic">Elektrikarar. Samlaða lærutíðin 4 ár. Skúlavikur íalt 65. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em><em type="bold">6 </em></p>
+<p><em type="bold">LP </em>20 10 10 5 10 10 </p>
+<p><em type="italic">Hárfríðkarar. Samlaða lærutíðin 4 ár. Skúlavikur íalt 60. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em>20 10 5-5 10 10 </p>
+<p><em type="italic">Húsasmiðir. Samlaða lærutíðin 3 ár og 9 mð. Skúlavikur íalt 47. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em><em type="bold">6 </em></p>
+<p><em type="bold">LP </em>20 5 5 5 5 7 </p>
+<p><em type="italic">Maskinsmiðir. Samlaða lærutíðin 4 ár. Skúlavikur íalt 55. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em>20 10 10 10 5 </p>
+<p><em type="italic">Plátu- og konstruktiónssmiðir. Samlaða lærutíðin 4 ár. Skúlavikur íalt 55. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em>20 10 10 10 5 26 </p>
+<p><em type="italic">Rørsmiðir. Samlaða lærutíðin 4 ár. Skúlavikur íalt 55. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em>20 10 10 10 5 </p>
+<p><em type="italic">Stálskipasmiðir. Samlaða lærutíðin 4 ár. Skúlavikur íalt 55. </em></p>
+<p><em type="bold">LP </em><em type="bold">1 </em></p>
+<p><em type="bold">LP </em><em type="bold">2 </em></p>
+<p><em type="bold">LP </em><em type="bold">3 </em></p>
+<p><em type="bold">LP </em><em type="bold">4 </em></p>
+<p><em type="bold">LP </em><em type="bold">5 </em></p>
+<p><em type="bold">LP </em>20 10 10 10 5 27 </p>
+<p><em type="bold">Fylgiskjal 5 </em></p>
 <p><em type="bold">Frásøgn frá yrkisnevndafundi um eindaskipanina 17. januar 2011 </em></p>
-<p>Yrkisnevnd Felagsyrkisnevndarfundur Dagur 17.01.2011</p>
-<p>Fundarbyrjan: kl. 13:00 Fundarlok: 15.30 Skrivari OS</p>
+<p xml:lang="dan">Yrkisnevnd</p>
+<p>Felagsyrkisnevndarfundur</p>
+<p>Dagur 17.01.2011</p>
+<p>Fundarbyrjan: kl. 13:00</p>
+<p>Fundarlok: 15.30</p>
+<p>Skrivari</p>
+<p>OS</p>
 <p>Yrkisnevndarlimir</p>
-<p>Karin  Sólsker,  Elisabeth  Maria  Danielsen,  Annika  Sólsker  Poulsen, Herolvur  Hansen,  Heðin  Hansen,  Sofus  T.  Hansen,  Eimi  Fossdalsá, Súsanna  í  Stórhúsi,  Pætur  Niclasen,  Jákup  Tróndheim,  Arndal  á Mýrini,  Dánial  Pauli  Djurhuus,  Sofus  Joensen,  Sjúrður  Holm,  Dánjal Pauli Djurhuus,  Henry Olsen og Torbjørn Hansen</p>
-<p>Skúlaumboð: Janita  Honnudóttir,  Eirikur  Ólason  Simonsen,  Steinfinn  V.  Jacobsen,</p>
-<p>Sjúrður Sólstein, René Jensen og Sonja Oyrabø Petersen</p>
-<p>Aðrir luttakarar Eyðun Gaard (YD) og Mortan Zachariassen (MMR)</p>
-<p><em type="italic">Skrá: </em></p>
-<p>01. Viðger  av  arbeiðsskjalinum  <span type="quote" xml:lang="dan">“Rationaliseringsuppskot  2010”</span>,  ið  leggur  upp  til  at  seta  í  verk eina eindarskipan í staðin fyri verandi SIT-skipan, FHS-skipan og yrkisútbúgvingarskipan</p>
-<p><em type="italic">Fundarfrásøgn: </em></p>
-<p><em type="bold">Ad. 01)</em> Eyðun  og  Mortan  løgdu  fram  uppskot  um  at  seta í  verk  eindarskipan,  har  skúlagongdin er </p>
-<p>skipa í trýggjar skúlaeindir við møguleika fyri einari fjóðru eind, í staðin fyri verandi SIT-skipan, FHSskipan og yrkisútbúgvingarskipan.</p>
+<p>Karin Sólsker, Elisabeth Maria Danielsen, Annika Sólsker Poulsen, Herolvur Hansen, Heðin Hansen, Sofus T. Hansen, Eimi Fossdalsá, Súsanna í Stórhúsi, Pætur Niclasen, Jákup Tróndheim, Arndal á Mýrini, Dánial Pauli Djurhuus, Sofus Joensen, Sjúrður Holm, Dánjal Pauli Djurhuus, Henry Olsen og Torbjørn Hansen</p>
+<p>Skúlaumboð:</p>
+<p>Janita Honnudóttir, Eirikur Ólason Simonsen, Steinfinn V. Jacobsen, Sjúrður Sólstein, René Jensen og Sonja Oyrabø Petersen</p>
+<p>Aðrir luttakarar</p>
+<p>Eyðun Gaard (YD) og Mortan Zachariassen (MMR)</p>
+<p>Skrá: 01. Viðger av arbeiðsskjalinum <span type="quote" xml:lang="dan">“Rationaliseringsuppskot 2010”</span>, ið leggur upp til at seta í verk eina eindarskipan í staðin fyri verandi SIT-skipan, FHS-skipan og yrkisútbúgvingarskipan</p>
+<p>Fundarfrásøgn:</p>
+<p><em type="bold">Ad. 01) </em>Eyðun og Mortan løgdu fram uppskot um at seta í verk eindarskipan, har skúlagongdin er skipa í trýggjar skúlaeindir við møguleika fyri einari fjóðru eind, í staðin fyri verandi SIT-skipan, FHSskipan og yrkisútbúgvingarskipan. </p>
 <p>Á fundinum vóru niðanfyristandandi viðmerkingar gjørdar til uppskoti:</p>
 <p>Karmar á skúlunum</p>
-<p>Skúlaumboði í el- og samskiftisyrkisnevndini vísti á, at eindarskipanin fer at seta munandi størri krøv til  karmarnar  á  skúlunum,  tí  tað  í  mun  til  verðandi  skipan  verða  fleiri  næmingar  inni  á  skúlunum samstundis.  Karmarnir  á  skúlunum  eiga  tí  at  verða  viðgjørdir  nærri  saman  við  skúlunum,  áðrenn skipanin verður sett í verk.</p>
-<p>Ein máti at loysa trupuleikan við karmunum á el-deildini á TST er at skipa skúlagongdina hálvárliga, t.v.s. at næmingar kunnu ta</p>
+<p>Skúlaumboði í el- og samskiftisyrkisnevndini vísti á, at eindarskipanin fer at seta munandi størri krøv til karmarnar á skúlunum, tí tað í mun til verðandi skipan verða fleiri næmingar inni á skúlunum samstundis. Karmarnir á skúlunum eiga tí at verða viðgjørdir nærri saman við skúlunum, áðrenn skipanin verður sett í verk.</p>
+<p>Ein máti at loysa trupuleikan við karmunum á el-deildini á TST er at skipa skúlagongdina hálvárliga, t.v.s. at næmingar kunnu takst inn hálvárliga í staðin fyri bara eina ferð um ári. Á tann hátt verður næmingatrýsti minni, og møguligt verður at seta skipanina í verk innan verðandi karmar.</p>
 <p>Atgongd til eind 3</p>
-<p>Bæði  yrkisnevndalimir  og  skúlaumboð  vístu  á,  at  tað  er  óheppi  um  næmingar  kunnu  taka  allar trýggjar eindirnar uttan lærusáttmála (dømi 15 á bls. 5 í arbeiðsskjalinum). Grundin til tað er, at um tað gongur ov long tíð frá tí at næmingurin hevur gjøgnumført eind 1-3, til hann fer í læru og sleppur upp til sveinaroynd, er vandi fyri at næmingurin hevur gloymt ein stóran part av ástøðini, og harvið ikki er førur fyri at gjøgnumføra sveinaroyndina.</p>
+<p>Bæði yrkisnevndalimir og skúlaumboð vístu á, at tað er óheppi um næmingar kunnu taka allar trýggjar eindirnar uttan lærusáttmála (dømi 15 á bls. 5 í arbeiðsskjalinum). Grundin til tað er, at um tað gongur ov long tíð frá tí at næmingurin hevur gjøgnumført eind 1-3, til hann fer í læru og sleppur upp til sveinaroynd, er vandi fyri at næmingurin hevur gloymt ein stóran part av ástøðini, og harvið ikki er førur fyri at gjøgnumføra sveinaroyndina. 28</p>
 <p>Eyðun og Mortan vístu í hesum sambandi á, at einans næmingar við almennum lærugreinum á c-stigi kunnu halda fram til eind 3 uttan lærusáttmála. Meginparturin av hesum næmingum fer væntandi ikki í læru men heldur á fram til fjóðru eind, við tí endamáli at halda á fram til víðari lestur. Útilokast kann tó ikki at tað verða nakrir næmingar, ið velja at fara í læru eftir at hava gjøgnumført eind 3 og møguliga eind 4. Hjá hesum næmingum verður tí neyðugt at skipa fyri einum sveinaroyndarskeiði í eitt x-antal vikur.</p>
-<p>Skúlaumboði  í  flutningsyrkisnevndini  vísti  á,  at  hesin  trupuleikin  møguliga  kann  loysast  við  at næmingar taka tann teoretiska partin av sveinaroyndini eftir at 3 eind er lokin (bæði næmingar við og uttan lærusáttmála), og síðan tann praktiska partin av sveinaroyndini tá lærutíðin er lokin.</p>
-<p>Eisini  var  víst  á  at  tað  er  óheppi  um  skiftisskipanin,  har  skift  verður  millum  verkliga  læru  og skúlagongd, dettur burtur. Hetta orsaka av at verkliga læran og skúlagongdin styðja hvørja aðra og virka sum  ein heild. Tí má miðast í móti, at næmingar, sum  ætla sær í læru, so skjótt sum  gjørligt finna sær eitt lærupláss, so skift kann verða millum verkliga læru og skúlagongd. Ein møguleiki er at skúlarnir í størri mun hjálpa næmingunum við at finna eitt lærupláss.</p>
+<p>Skúlaumboði í flutningsyrkisnevndini vísti á, at hesin trupuleikin møguliga kann loysast við at næmingar taka tann teoretiska partin av sveinaroyndini eftir at 3 eind er lokin (bæði næmingar við og uttan lærusáttmála), og síðan tann praktiska partin av sveinaroyndini tá lærutíðin er lokin.</p>
+<p>Eisini var víst á at tað er óheppi um skiftisskipanin, har skift verður millum verkliga læru og skúlagongd, dettur burtur. Hetta orsaka av at verkliga læran og skúlagongdin styðja hvørja aðra og virka sum ein heild. Tí má miðast í móti, at næmingar, sum ætla sær í læru, so skjótt sum gjørligt finna sær eitt lærupláss, so skift kann verða millum verkliga læru og skúlagongd. Ein møguleiki er at skúlarnir í størri mun hjálpa næmingunum við at finna eitt lærupláss.</p>
 <p>Fyri at samskipa skúlagongdina og verkligu læruna eiga næmingaætlanir at verða íverksettar skjótast gjørligt.</p>
 <p>Stopproyndir</p>
 <p>Stopproynd við uttanhýsis metingardómarar eigur at verður fyriskipa eftir hvørja eind.</p>
 <p>Serskipan fyri hárfríðkanaryrkið</p>
 <p>Umboðini í tænastu- og tilvirkisyrkisnevndini vístu á, at ein næmingur, sum hevur gjøgnumført eind 1-3 á hárfríðkanardeildini uttan lærusáttmála, hevur fingið so stóra vitan innan yrkið, at vandi er fyri, at hann fer í arbeiði sum harfríðkari uttan at verða útlærdur. Fyri at umganga hendan trupuleikan, mælur yrkisnevndin til at hárfríðkanarnæmingar skulu hava lærusáttmála fyri at kunna halda á fram til eind 3. Nevndin vísti eisini á, at í mun til onnur yrkið eru ikki nógvir aðrir møguleikar enn at fara í læru hjá hárfríðkanarnæmingunum. Tí er ivasamt hvussu áhugaverd eind 3 og 4 er hjá næmingunum, sum ikki hava lærusáttmála.</p>
 <p>Íverksetan av skipanini</p>
-<p>Samanumtikið  eru  bæði  yrkisnevndalimir  og  skúlaumboð  samd  um  at  skipanin  kann  setast  í  verk, men  at  ávísar  tillagingar  eiga  at  verða  gjørdar.  Tað  verður  seg  við  atliti  at  viðmerkingunum  hjá yrkisnevndunum og skúlaumboðunum.</p>
-<p>Yrkisnevndaliminir  og  skúlaumboðini  er  tó  samd  um,  at  skipanin <em type="bold">ikki</em>  eigur  at  verða  sett  í  verk  frá august  2011.  Til  august  2011  verður  hvørki  lógarverk,  kunngerðir  ella  lesiætlanir  liðugt,  eins  og skúlarnir heldur ikki hava fingið karmarnar uppá pláss. Tí kann tað ikki góðtakast at skipanin verður sett  í  verk  frá  august  2011  at  rokna,  men  í  fyrsta  lagi  frá  august  2012,  tá  væntast  má  at lógargrundarlagið og karmarnir á skúlunum er fingið uppá pláss. </p>
-<p>17-01-2011</p>
-<p>Oystein Sørensen, <em type="italic">yrkisnevndarskrivari </em></p>
+<p>Samanumtikið eru bæði yrkisnevndalimir og skúlaumboð samd um at skipanin kann setast í verk, men at ávísar tillagingar eiga at verða gjørdar. Tað verður seg við atliti at viðmerkingunum hjá yrkisnevndunum og skúlaumboðunum.</p>
+<p>Yrkisnevndaliminir og skúlaumboðini er tó samd um, at skipanin <em type="bold">ikki </em>eigur at verða sett í verk frá august 2011. Til august 2011 verður hvørki lógarverk, kunngerðir ella lesiætlanir liðugt, eins og skúlarnir heldur ikki hava fingið karmarnar uppá pláss. Tí kann tað ikki góðtakast at skipanin verður sett í verk frá august 2011 at rokna, men í fyrsta lagi frá august 2012, tá væntast má at lógargrundarlagið og karmarnir á skúlunum er fingið uppá pláss. 17-01-2011 </p>
+<p>Oystein Sørensen, <em type="italic">yrkisnevndarskrivari </em>29 </p>
 <p><em type="bold">Fylgiskjal 6 </em></p>
-<p><em type="bold">Myndil av innihaldi í eindaskipanini </em></p>
+<p><em type="bold">Myndil av innihaldi í eindaskipanini </em>30 </p>
 <p><em type="bold">Fylgiskjal 7 </em></p>
-<p><em type="bold">Útrokningar frá Teknisku skúlunum uppá sparing í lønartímum – um fari verður til eindaskipan  </em></p>
+<p><em type="bold">Útrokningar frá Teknisku skúlunum uppá sparing í lønartímum – um fari verður til eindaskipan </em></p>
 <p>Útrokningarnar eru gjørdar í februar mánaða 2011</p>
 <p><em type="bold">Tekniski skúlin í Tórshavn </em></p>
-<p>Kostnaður av eindarskipanini (skiftistíðin og rein eindarskipan), lønartímar</p>
-<p>Verandi lærl.+SIT          Eindarskipan       <span type="quote" xml:lang="dan">”útslúsing”</span> av lærlingum         §6        §7        §8</p>
-<p><em type="bold">Samla lønartímar:      </em></p>
+<p>Kostnaður av eindarskipanini (skiftistíðin og rein eindarskipan), lønartímar 2011 2012 2013 2014 2015</p>
+<p>Verandi lærl.+SIT 53223</p>
+<p>Eindarskipan 16778 37012 43428 43668 <span type="quote" xml:lang="dan">”útslúsing”</span> av lærlingum 30555 8274 §6 3648 2122 681 §7 4742 2758 885 §8 3201 3346 3927 2605 2620</p>
+<p><em type="bold">Samla lønartímar: </em><em type="bold">64814 </em><em type="bold">55559 </em><em type="bold">50779 </em><em type="bold">46033 </em><em type="bold">46288 </em></p>
 <p><em type="bold">Tekniski skúlin í Klaksvík </em></p>
-<p>UVtímar Gr. 6 Gr. 7 Í alt     tímar tímar tímar tímar Verandi skipan 35.608 2.107 2.739 40.454 Nýggj skipan 23.513 1.391 1.809 26.713         Munur <em type="bold">13.741 </em></p>
+<p>UVtímar</p>
+<p>Gr. 6</p>
+<p>Gr. 7</p>
+<p>Í alt tímar tímar tímar tímar</p>
+<p>Verandi skipan 35.608 2.107 2.739 40.454</p>
+<p>Nýggj skipan 23.513 1.391 1.809 26.713</p>
+<p>Munur <em type="bold">13.741 </em>31 </p>
 <p><em type="bold">Fylgiskjal 8 </em></p>
-<p><em type="bold">Viðmerkingar til eindakostnað </em></p>
-<p>Svar uppá fyrispurning frá Mortan Zachariassen,  sendur 16. febr. 2011.</p>
+<p><em type="bold">Viðmerkingar til eindakostnað </em>Svar uppá fyrispurning frá Mortan Zachariassen, sendur 16. febr. 2011. </p>
 <p xml:lang="dan"><em type="bold">Pkt.1 </em></p>
 <p><em type="bold">Kostnaður av verandi SIT og skiftisskipan í mun til eindarskipanina ( í 2011 tølum) </em></p>
-<p>Víst  verður  til  viðhefta  skjal  <span type="quote">”Eindarskipan  kostnaður 2011-  2015”</span>.  Verandi  lærlinga-  og  SIT  skipan kostar samla 64.814 lønartímar. 2014 og 2015 liggja á uml. 46.200 lønartímum. Viðmerkjast skal, at maskinbreytin umfatar rør-, plátu&amp;konstr-, rustfastar- og maskinsmiðir í eindarskipanini, og at hesir samlesa øll yrkisfakini. Hetta kann í veruleikanum ikki lata seg gera, tá útbúgvingarnar  eru ymiskar. Tískil  skulu  fleiri  lønartímar  roknast  í  yrkisfakum.  Talan  verður  møguliga  um  uml.  2000  –  3000 lønartímar aftrat.</p>
+<p>Víst verður til viðhefta skjal <span type="quote">”Eindarskipan kostnaður 2011- 2015”</span>. Verandi lærlinga- og SIT skipan kostar samla 64.814 lønartímar. 2014 og 2015 liggja á uml. 46.200 lønartímum. Viðmerkjast skal, at maskinbreytin umfatar rør-, plátu&amp;konstr-, rustfastar- og maskinsmiðir í eindarskipanini, og at hesir samlesa øll yrkisfakini. Hetta kann í veruleikanum ikki lata seg gera, tá útbúgvingarnar eru ymiskar. Tískil skulu fleiri lønartímar roknast í yrkisfakum. Talan verður møguliga um uml. 2000 – 3000 lønartímar aftrat.</p>
 <p xml:lang="dan"><em type="bold">Pkt. 2 </em></p>
 <p><em type="bold">Hvat kostar skiftistíðin frá verandi skiftisskipan til eina fult gjøgnumførda eindarskipan frá 2012? </em></p>
-<p>Her verður somuleiðis víst til skjalið <span type="quote">”Eindarskipan kostnaður 2011 – 2015”</span>. Her sæst, at lærlinga- og SIT-skipanin  kostar  64.814  lønartímar  í  2011.  Skiftistíðin,  sum  er  millum  2012  og  2013,  kostar ávikavist 55.559 og 50.779 lønartímar. Í 2014 er skiftistíðin av, og her koyrir eindarskipanin 100%, og er talið nú á 46.133 lønartímum. Aftur her skal havast í huga, at maskinbreytin  er sett inn sum ein útbúgving.</p>
+<p>Her verður somuleiðis víst til skjalið <span type="quote">”Eindarskipan kostnaður 2011 – 2015”</span>. Her sæst, at lærlinga- og SIT-skipanin kostar 64.814 lønartímar í 2011. Skiftistíðin, sum er millum 2012 og 2013, kostar ávikavist 55.559 og 50.779 lønartímar. Í 2014 er skiftistíðin av, og her koyrir eindarskipanin 100%, og er talið nú á 46.133 lønartímum. Aftur her skal havast í huga, at maskinbreytin er sett inn sum ein útbúgving.</p>
 <p xml:lang="dan"><em type="bold">Viðm. til 2b. </em></p>
-<p>Í  skiftistíðini á heystið 2012, hava vit funnið 2 flokkar, sum kunnu flytast millum skúlar. Talan er um ein  el-flokk  og  ein  maskin-flokk.  Enn  er  óvist  um  hetta  letur  seg  gera,  tá  møguleiki  enn  er  fyri  at skriva sáttmála og fáa góðskriva 1. skúlaskeið og koma beinleiðis inn í 2. skúlaskeið.</p>
+<p>Í skiftistíðini á heystið 2012, hava vit funnið 2 flokkar, sum kunnu flytast millum skúlar. Talan er um ein el-flokk og ein maskin-flokk. Enn er óvist um hetta letur seg gera, tá møguleiki enn er fyri at skriva sáttmála og fáa góðskriva 1. skúlaskeið og koma beinleiðis inn í 2. skúlaskeið.</p>
 <p xml:lang="dan"><em type="bold">Pkt. 3. </em></p>
 <p><em type="bold">Kann eindarskipanin setast í verk við verandi kapasiteti á skúlanum? </em></p>
 <p><em type="bold">Skúlastovur: </em></p>
-<p>Eftir verandi umstøðum, er  sera trupult at fáa 26 næmingar inn í flokshøli til alm. lærugr. Vit hava bert 3 - 4 skúlastovur, ið rúma 26 næmingum. Hini flokshølini eru roknaði til millum 12 og 20 næm. Í ávísum førum kunnu 20 - 24 næm. vera inni, men vantandi ventilatión o.a kann hava trupulleikar við sær.</p>
+<p>Eftir verandi umstøðum, er sera trupult at fáa 26 næmingar inn í flokshøli til alm. lærugr. Vit hava bert 3 - 4 skúlastovur, ið rúma 26 næmingum. Hini flokshølini eru roknaði til millum 12 og 20 næm. Í ávísum førum kunnu 20 - 24 næm. vera inni, men vantandi ventilatión o.a kann hava trupulleikar við sær.</p>
 <p>Um øll skulu hava alm. lærugr, samstundis, fyri at lúka krøvini fyri samlesing av yrkisfakum, bæði á E- og C stigi, krevur hetta fleiri lærarakreftir innan alm. lærugr.</p>
 <p>Niðanfyri eru dømi um hvussu 8 flokkar í eind 1 kunnu samlesa innan alm. lærugr. Hetta krevur at 4 lærarar eru tøkir innan somu lærugrein. Í dag hava vit bert 2 føroyskt lærarar á TST.</p>
-<p xml:lang="dan">Eind 1. Flokkar 1 - 4</p>
-<p>Má  Tý Mi Hó Fr</p>
-<p>1. blokk Støddfr. Breyt E Støddfr.</p>
-<p>2. blokk Føroyskt Føroyskt Breyt E</p>
-<p>3. blokk</p>
-<p>4. blokk</p>
+<p xml:lang="dan">Eind 1. Flokkar 1 - 4 32</p>
+<p>Má</p>
+<p>Tý</p>
+<p>Mi</p>
+<p>Hó</p>
+<p>Fr 1. blokk</p>
+<p>Støddfr.</p>
+<p xml:lang="dan">Breyt E</p>
+<p>Støddfr. 2. blokk</p>
+<p>Føroyskt</p>
+<p>Føroyskt</p>
+<p>Breyt E 3. blokk 4. blokk</p>
 <p xml:lang="dan">Eind 1. Flokkar 5 - 8</p>
-<p>Má  Tý Mi Hó Fr</p>
-<p>1. blokk Føroyskt Breyt E Føroyskt</p>
-<p>2. blokk Støddfr. Støddfr. Breyt E</p>
-<p>3. blokk</p>
-<p>4. blokk</p>
+<p>Má</p>
+<p>Tý</p>
+<p>Mi</p>
+<p>Hó</p>
+<p>Fr 1. blokk</p>
+<p>Føroyskt</p>
+<p xml:lang="dan">Breyt E</p>
+<p>Føroyskt 2. blokk</p>
+<p>Støddfr.</p>
+<p>Støddfr.</p>
+<p>Breyt E 3. blokk 4. blokk</p>
 <p><em type="bold">Verkstøð: </em></p>
-<p>Um t.d. øll í 1. eind skulu hava alm. lærugr. samstundis, hevur hetta við sær, at verkstøðini standa tóm ein stóran part av degnum. So nýtslustigið verður ikki optimalt á verkstøðunum og tískil er ilt at ímynda  sær,  at  næmingar  fáa  tað  tíð  á  verkstaðnum,  ið  teir  sambært  kunngerð  skulu  hava. Verkstøðini eru í flestu førum ætlað 12 næmingum. Td. eru stór krøv um avstand millum maskinur og nýtslurúm, tá timburlærlingar gera sveinastykkið.</p>
+<p>Um t.d. øll í 1. eind skulu hava alm. lærugr. samstundis, hevur hetta við sær, at verkstøðini standa tóm ein stóran part av degnum. So nýtslustigið verður ikki optimalt á verkstøðunum og tískil er ilt at ímynda sær, at næmingar fáa tað tíð á verkstaðnum, ið teir sambært kunngerð skulu hava. Verkstøðini eru í flestu førum ætlað 12 næmingum. Td. eru stór krøv um avstand millum maskinur og nýtslurúm, tá timburlærlingar gera sveinastykkið.</p>
 <p xml:lang="dan"><em type="bold">Pkt. 4. </em></p>
 <p>Egon svarar seinni</p>
 <p><em type="bold">Aðrar viðmerkingar: </em></p>
