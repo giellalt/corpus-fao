@@ -1,1028 +1,794 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>9573</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>bu-skaparfra-greiðing2_2016.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">FÍ G G J A R M Á L A R Á Ð I Ð </em></p>
-<p xml:lang="dan"><em type="bold">MI N I S T R Y   O F   F I N A N C E</em>  </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>10515</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>bu-skaparfra-greiðing2_2016.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em></p>
+<p type="listitem">Tinganes</p>
+<p type="listitem">Box 2039</p>
+<p type="listitem">FO-110  Tórshavn</p>
 <p><em type="bold">Innihald </em></p>
-<p>Fororð ........................................................................................................................................... 3 Inngangur ...................................................................................................................................... 5 Lýsing av gongdini í búskapinum ................................................................................................... 7 Almenn fíggjarmál ....................................................................................................................... 20 Uppskotið til fíggjarlóg fyri 2017 .................................................................................................. 22 Inntøkur landskassans í 2017 ....................................................................................................... 23 Útreiðslur landskassans í 2017 ...................................................................................................... 23 Løgur í 2017 ................................................................................................................................ 24</p>
-<p>Játtanareftirlit í fíggjarárinum 2016 ............................................................................................... 25 Rakstrarjáttanareftirlit .................................................................................................................. 27 § 1 Løgtingið ................................................................................................................................ 27</p>
-<p>§ 2 Løgmansfyrisitingin ................................................................................................................ 28 § 3 Fíggjarmál .............................................................................................................................. 29 § 5 Fiskivinnumál ......................................................................................................................... 31 § 7 Mentamál ............................................................................................................................... 32 § 11 Heilsu- og innlendismál ........................................................................................................ 33 § 12 Almannamál ......................................................................................................................... 35 § 13 Uttanríkis- og vinnumál ........................................................................................................ 37 § 17 Samferðslumál ...................................................................................................................... 38 § 20 Inntøkur ............................................................................................................................... 39 Løgujáttanareftirlit ....................................................................................................................... 41</p>
-<p><em type="bold">Fororð </em></p>
-<p>Vit stevna - við vøkstri, vælferð og varsemi - fram móti búskaparligum sjálvbjargni.</p>
-<p>Avlop landskassans væntast at gerast 112 mió. kr. í 2017. Eftir mong ár við halli hjá landinum væntast sostatt avlop í ár og vaksandi avlop í 2017. Eisini gerst fíggjarliga haldførið hjá landinum betur. Hetta verður rokki�</p>
-<p><em type="bold">Tað gongur væl </em></p>
-<p>Tað gongur væl í Føroyum í dag. Búskaparvøkstur á 7-8%, vøkstur í lønargjaldingum á út við 7% og arbeiðsloysi á bara góð 2%. Samstundis er stórur vøkstur í uppsparingini hjá føroyingum. Seinastu 12 mánaðirnar hava húsarhald økt innistandandi í føroysku peningastovnunum við 9%, ið er góðar 700 mió. kr., og vinnulívið við 6%, ið er um 200 mió. kr. Í sama tíðarskeiði eru útlánini til húsarhald bara økt 3%, ið er um 300 mió. kr., meðan útlánini til vinnulívið standa í stað.</p>
-<p>Kommunurnar rinda eisini skjótt skuld niður, og eru allar kommunur undir eina álíkning í skuld. Landið hevur nú eisini avlop, so vøksturin og framgongdin í dag eru ikki grundað á lánifíggjaða nýtslu, sum vit hava sæð í undanfarnum uppgangstíðum í Føroyum. Tvørturímóti, føroyingar spara upp sum ongantíð áður. Framgongdin í búskapinum síðstu árini hevur sostatt verið haldfør og grundað á vaksandi framleiðslu og inntøkur heldur enn at vera lánsfíggjað framgongd.</p>
+<p>Fororð ........................................................................................................................................... 3 Inngangur ...................................................................................................................................... 5 Lýsing av gongdini í búskapinum ................................................................................................... 7 Almenn fíggjarmál ....................................................................................................................... 20 Uppskotið til fíggjarlóg fyri 2017 .................................................................................................. 22 Inntøkur landskassans í 2017 ....................................................................................................... 23 Útreiðslur landskassans í 2017 ...................................................................................................... 23 Løgur í 2017 ................................................................................................................................ 24 Játtanareftirlit í fíggjarárinum 2016 ............................................................................................... 25 Rakstrarjáttanareftirlit .................................................................................................................. 27 § 1 Løgtingið ................................................................................................................................ 27 § 2 Løgmansfyrisitingin ................................................................................................................ 28 § 3 Fíggjarmál .............................................................................................................................. 29 § 5 Fiskivinnumál ......................................................................................................................... 31 § 7 Mentamál ............................................................................................................................... 32 § 11 Heilsu- og innlendismál ........................................................................................................ 33 § 12 Almannamál ......................................................................................................................... 35 § 13 Uttanríkis- og vinnumál ........................................................................................................ 37 § 17 Samferðslumál ...................................................................................................................... 38 § 20 Inntøkur ............................................................................................................................... 39 Løgujáttanareftirlit ....................................................................................................................... 41</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>2/ <em type="bold">42 </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>3/ <em type="bold">42 </em></p>
+<p><em type="bold">Fororð </em>Vit stevna - við vøkstri, vælferð og varsemi - fram móti búskaparligum sjálvbjargni. </p>
+<p>Avlop landskassans væntast at gerast 112 mió. kr. í 2017. Eftir mong ár við halli hjá landinum væntast sostatt avlop í ár og vaksandi avlop í 2017. Eisini gerst fíggjarliga haldførið hjá landinum betur. Hetta verður rokkið við skynsomum fíggjarpolitikki, herundir lágum vøkstri í rakstrarútreiðslum, málrættaðum íløgum og inntøkuvøkstri vegna framgongd í føroyska samfelagnum.</p>
+<p><em type="bold">Tað gongur væl </em>Tað gongur væl í Føroyum í dag. Búskaparvøkstur á 7-8%, vøkstur í lønargjaldingum á út við 7% og arbeiðsloysi á bara góð 2%. Samstundis er stórur vøkstur í uppsparingini hjá føroyingum. Seinastu 12 mánaðirnar hava húsarhald økt innistandandi í føroysku peningastovnunum við 9%, ið er góðar 700 mió. kr., og vinnulívið við 6%, ið er um 200 mió. kr. Í sama tíðarskeiði eru útlánini til húsarhald bara økt 3%, ið er um 300 mió. kr., meðan útlánini til vinnulívið standa í stað. </p>
+<p>Kommunurnar rinda eisini skjótt skuld niður, og eru allar kommunur undir eina álíkning í skuld.</p>
+<p>Landið hevur nú eisini avlop, so vøksturin og framgongdin í dag eru ikki grundað á lánifíggjaða nýtslu, sum vit hava sæð í undanfarnum uppgangstíðum í Føroyum. Tvørturímóti, føroyingar spara upp sum ongantíð áður. Framgongdin í búskapinum síðstu árini hevur sostatt verið haldfør og grundað á vaksandi framleiðslu og inntøkur heldur enn at vera lánsfíggjað framgongd.</p>
 <p><em type="bold">Varsemi og lágur vøkstur í rakstrarútreiðslum </em></p>
 <p>Góðar tíðir seta serlig krøv til varsemi og skynsama búskaparstýring. Vit eru nú í góðum tíðum, og landsstýrið velur tí at leggja seg eftir at halda aftur í rakstrarútreiðsluvøkstrinum, soleiðis at hesin veksur minni enn búskaparvøksturin og minni enn inntøkuvøkstur landsins. Hetta betrar fíggjarliga haldføri landsins.</p>
 <p>Vanligu rakstrarútreiðslurnar í fíggjarlóg landsins fyri 2017 vaksa bara 1,8%, hóast stóran búskaparvøkstur á 7-8% og inntøkuvøkstur á 4,5% sammett við fíggjarlógina fyri 2016.</p>
-<p><em type="bold">Búskaparstýring og útsettar byggiíløgur </em></p>
-<p>Hóast stóran búskaparvøkstur er búskapurin sum heild ikki ovhitaður. Hinvegin eru sokallaðir fløskuhálsar, ið eru avmarkaðir til ávísar vinnur og til ávís øki í landinum, heldur enn at ávirka búskapin sum heild.</p>
+<p><em type="bold">Búskaparstýring og útsettar byggiíløgur </em>Hóast stóran búskaparvøkstur er búskapurin sum heild ikki ovhitaður. Hinvegin eru sokallaðir fløskuhálsar, ið eru avmarkaðir til ávísar vinnur og til ávís øki í landinum, heldur enn at ávirka búskapin sum heild. </p>
 <p>Fyri at minka trýstið av fløskuhálsum innan byggivinnuna hevur landsstýrið avgjørt at minka játtanina til byggiíløgur landsins við 13% í fíggjarlógini fyri 2017 í mun til samtyktu játtanarkarmarnar í vár. Í staðin verður upphæddin flutt til árið 2020, tá ið færri almennar íløgur verða gjørdar.</p>
 <p>Landsins íløgur í fíggjarlógini á 257 mió. kr. eru tó minni enn 20% av samlaðu almennu íløgunum í 2017. Tí er neyðugt, at land, kommunur og almenn feløg samstarva um at tillaga virksemið í mun til búskapargongdina. Vit eru tí í samskifti við viðkomandi partar um, at allir partar taka og vísa ábyrgd, tá ið umræður skynsama búskaparstýring. Umframt landið, hava aðrir partar eisini avgjørt at útseta ávísar byggiíløgur, eitt nú SEV og Bústaðir.</p>
-<p><em type="bold">Styrkja fíggjarliga haldførið </em></p>
-<p>Fíggjarlógin styrkir fíggjarliga haldførið hjá landinum og minkar sokallaða bygnaðarliga hallið í almenna geiranum. Harvið verður samfelagið sterkari at taka ímóti mótgongd í framtíðini.</p>
+<p><em type="bold">Styrkja fíggjarliga haldførið </em>Fíggjarlógin styrkir fíggjarliga haldførið hjá landinum og minkar sokallaða bygnaðarliga hallið í almenna geiranum. Harvið verður samfelagið sterkari at taka ímóti mótgongd í framtíðini. </p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>4/ <em type="bold">42 </em></p>
 <p>Enn ein týðandi orsøk til at vísa varsemi í hesum døgum er, at búskaparvøksturin í samfelagnum millum annað er orsakaður av viðurskiftum, ið vit ikki hava stórvegis ávirkan á. Laksaprísirnir eru í løtuni óvanliga høgir, nøgdirnar av uppsjóvarfiski eru stórar, oljuprísirnir lágir og rentustøðið søguliga lágt. Tað er tí týðandi, at samfelagið verður rikið á ein hátt, ið eisini kann bera seg, tá ið oljuprísurin og rentan hækka, nøgdin av uppsjóvarfiski minkar og laksaprísirnir lækka.</p>
 <p>Hetta verður gjørt við at halda aftur í vøkstrinum í rakstrarútreiðslum, fremja nýskipanir, økja avlop landskassans og rinda aftur skuld í góðum tíðum. Við avlopi í ár og komandi ár verður nettoskuld landsins minkað við 80% av avlopi landsins, samstundis sum 20% av avlopinum verður sett í Búskapargrunn Føroya at standa ímóti við í verri tíðum.</p>
-<p><em type="bold">Búskaparligt sjálvbjargni </em></p>
-<p>Føroyar eru millum ríkastu lond í heiminum. Ongantíð áður hevur framleiðslan verið so stór sum nú. Ongantíð hava lønargjaldingar og inntøkur verið so høgar sum nú. Og ongantíð hava vit havt so nógvar íbúgvar sum nú. Longu í dag er okkara tøka bruttotjóðarinntøka fyri hvønn íbúgva hægri og skuldin lægri, enn eitt nú í Íslandi og í Danmark. Í fjør var tøka føroyska bruttotjóðarinntøkan fyri hvønn íbúgva 369 tús. kr. árliga, meðan henda í Danmark var 353 tús. kr. árliga.</p>
+<p><em type="bold">Búskaparligt sjálvbjargni </em>Føroyar eru millum ríkastu lond í heiminum. Ongantíð áður hevur framleiðslan verið so stór sum nú. Ongantíð hava lønargjaldingar og inntøkur verið so høgar sum nú. Og ongantíð hava vit havt so nógvar íbúgvar sum nú. Longu í dag er okkara tøka bruttotjóðarinntøka fyri hvønn íbúgva hægri og skuldin lægri, enn eitt nú í Íslandi og í Danmark. Í fjør var tøka føroyska bruttotjóðarinntøkan fyri hvønn íbúgva 369 tús. kr. árliga, meðan henda í Danmark var 353 tús. kr. árliga. </p>
 <p>Vit eiga tí at seta okkum spurningin, hvat endamálið er við, at Føroyar framhaldandi fáa ríkisveiting, og nær rætta løtan er stigvíst at gera búskap okkara leysan av hesi veiting. Allir flokkar á Løgtingi siga seg vilja hava ein sjálvbjargnan føroyskan búskap. Fyrstu stigini hava vit tikið við at fastfrysta ríkisveitingina aftur, men hvussu nógv størri skal framleiðsla og inntøka landsins vera, áðrenn víðari stig verða tikin? Og um vit ikki taka hesi stigini í góðum tíðum, hvør skal so gera hetta og nær?</p>
 <p>Tí vit eru nú nær einum sjálvbjargnum føroyskum búskapi og samfelagi, og við átøkunum í hesi fíggjarlóg koma vit – við vøkstri, vælferð og varsemi – enn nærri málinum um einar sjálvbjargnar, samhaldsfastar og tíðarhóskandi Føroyar.</p>
 <p>Kristina Háfoss Landsstýriskvinna í fíggjarmálum</p>
-<p><em type="bold">Inngangur </em></p>
-<p>Sambært § 9 í løgtingslóg nr. 42 frá 4. mai 2009 um landsins játtanarskipan skal landsstýrismaðurin í fíggjarmálum, samstundis sum fíggjarlógaruppskotið verður lagt fram, leggja fram frágreiðing (Búskaparfrágreiðing II), sum gjølligari lýsir og metir um innihaldið í fíggjarlógaruppskotinum og greiðir frá játtanareftirlitinum í fíggjarárinum.</p>
-<p>Sitandi landsstýrið tók sum kunnugt við í september í fjør. Hetta er næsta uppskot til fíggjarlóg, sum landsstýrið leggur fyri Løgtingið. Uppskotið til fíggjarlóg, sum landsstýrið legði fyri Løgtingið í fjør, var eitt framroknað uppskot til fíggjarlóg orsakað av, at somikið stutt tíð var frá løgtingsvalinum til freistina at lata løgtinginum uppskotið til fíggjarlóg. Í uppskotinum til fíggjarlóg í fjør vóru tí ikki ætlað tiltøk ella raðfestingar hjá landsstýrinum. Hesi vóru í staðin latin fíggjarnevndini og løgtinginum sum broytingaruppskot til fíggjarlógina.</p>
-<p>Við í hesum uppskotinum til fíggjarlóg fyri 2017 eru ætlað tiltøk og raðfestingar hjá landsstýrinum.</p>
-<p>Fíggjarmálaráðið metir, at úrslitið hjá landinum í 2016 verður avlop á umleið 24 mió. kr. Heldur verandi gongd fram, verður hallið hjá landinum sostatt burtur í ár. Landið hevur annars havt hall øll árini frá 2008 til 2015, og hesi árini er lánsbrævaskuldin hjá landinum vaksin umleið 2,5 mia. kr. Málið hjá landsstýrinum er, at landskassin hevur vaksandi avlop næstu árini og at bygnaðarliga hallið minkar stigvíst næstu árini. Hetta merkir millum annað, at øll fíggjarpolitisk tiltøk, sum hava við sær hægri útreiðslur ella lægri inntøkur, verða fíggjað fult og heilt við at hækka aðrar inntøkur ella lækka aðrar útreiðslur.</p>
-<p>Framrokningar av inntøkum og útreiðslum í uppskotinum eru dagførdar og grundaðar á verandi lóggávu og bundnar raðfestingar. Inntøkurnar í uppskotinum til fíggjarlóg fyri 2017 eru framroknaðar við støði í søguligum tølum fyri inntøkur og annars við støði í fyritreytum og lóggávu, sum er galdandi í løtuni. Inntøkurnar eru framroknaðar við ársins prísum í 2017 og framroknaðar við føstum prísum árini 2018 og frameftir.</p>
-<p>Stórur partur av inntøkunum í fíggjarlógini eru skattir og avgjøld, sum verða stýrd av búskaparligu sveiggjunum, sum eru í samfelagnum yvir tíð. Inntøkusíðan í fíggjarlógini er tí fyri stóran part grundað á metingar um gongdina í búskapinum í framtíðini. Til</p>
-<p>Útreiðslusíðan er ikki eins torfør at meta um, av tí at størsti parturin av útreiðslunum er grundaður á politiskar raðfestingar av tænastum og veitingum, sum samtykt er, at almennu Føroyar skulu bjóða. Óvissan á útreiðslusíðuni snýr seg serliga um gongdina í rentum, gongdina í oljuprísum og um úrslitini av lønarsamráðingunum á almenna arbeiðsmarknaðinum.</p>
-<p>Búskaparpolitiska avbjóðingin er, at tiltøk, sum minka hallið á fíggjarlógini, kunnu samstundis tálma eftirspurning og búskaparvøkstur og tí eisini ávirka inntøkur landskassans. Tiltøk, sum skerja útreiðslur landskassans, ella tiltøk, ið økja skatta- og avgjaldsinntøkurnar, ávirka í flestu førum eftirspurningin í samfelagnum og tí eisini í ávísan mun bæði búskaparvøkstur og inntøkur landskassans.</p>
-<p>Sum grundarlag undir metingunum um búskaparvøkstur næstu árini verða brúkt søgulig tøl, vitan um búskapargongdina síðstu árini og vitan um gongdina innan ymisk tjóðarbúskaparlig vísitøl. Eisini verða metingar hjá Búskaparráðnum og ymiskum altjóða stovnum brúktar sum partur av grundarlagnum at meta um búskaparvøksturin og inntøkurnar hjá landinum næstu árini.</p>
-<p>Eisini skal viðmerkjast, at í framrokningunum er lagt upp fyri serligum viðurskiftum í ávísum vinnugreinum, har ið umstøðurnar tala fyri tí. Í fyritreytunum fyri 2017 verður vøksturin í BTÚ mettur til um leið 3% (ársins prísir). Fíggjarmálaráðið roknar sostatt við heldur lægri vøkstri sammett við Búskaparráðið, sum roknar við vøkstri á umleið 4% í 2017. Metingin hjá Fíggjarmálaráðnum er grundað á eina varsemisreglu og á stóru óvissuna, sum er um gongdina næstu árini. Óvissan er millum annað vaksin eftir fólkaatkvøðuna í Stóra Bretlandi um limaskapin í ES.<em type="bold"> </em></p>
-<p>Skattir, ið eru grundaðir á inntøku og nýtslu, til dømis vanligur landsskattur og meirvirðisgjald, verða í fyritreytunum settir at fylgja á leið sama vøkstri sum BTÚ, ella um leið 3% í 2017 og árini eftir. Tó eru gjørdar serligar metingar út frá fyritreytunum fyri játtanina á teimum inntøkujáttanum, har tað verður mett neyðugt og har, ið umstøðurnar tala fyri tí. Fyritreytirnar fyri framskrivingunum av rentuútreiðslunum eru metta gongdin í landskassaskuldini og útlitini fyri rentugongdina næstu 1-2 árini.</p>
-<p>Frágreiðingin er sett soleiðis saman, at fyrst er stutt lýsing av gongdini í føroyska búskapinum og í altjóða búskapinum. Síðani er ein lýsing av fíggjarlógaruppskotinum fyri 2017. At enda er frágreiðing um játtanarligu støðuna í ár, samanlagt og fyri hvørja grein sær. Her eru bara tiknar við tær rakstrar-, løgu- og inntøkujáttanir, sum verða mettar at víkja frá upprunaligu játtanini, tá ið fíggjarárið endaliga er gjørt upp.</p>
-<p><em type="bold">Lýsing av gongdini í búskapinum </em></p>
-<p>Framgongdin í búskapinum byrjaði av álvara í 2013 og hevur staðið við síðani. Framgongdin tykist vera hæsað nakað av miðskeiðis í ár. Hetta sæst millum annað í uppgerðum av lønargjaldingum og løntakarum. Inntøkurnar frá meirvirðisgjaldinum og vanliga landsskattinum benda eisini á, at framgongdin hæsaði nakað av miðskeiðis í ár. Á mynd 1 niðanfyri síggjast metingar av gongdini í bruttotjóðarúrtøkuni síðstu árini.</p>
-<p>Sambært metingum hjá Búskaparráðnum og Hagstovuni fer BTÚ í ársins prísum at vaksa um leið 8-9% í 2016 og um leið 4% í 2017. Fíggjarmálaráðið roknar við heldur lægri vøkstri á umleið 7% í ár og umleið 3% í 2017. Hetta er grundað á eina varsemisreglu og óvissuna um gongdina næstu árini, sum greitt verður frá niðanfyri.</p>
-<p>Óvissan er millum annað íkomin eftir fólkaatkvøðuna í Stóra Bretlandi og við henni um hvat samband og samstarv verður millum Stóra Bretland og ES næstu árini, millum annað um handils- og fiskivinnuavtalur. Stóra Bretland er sum kunnugt millum størstu útflutning</p>
-<p>Fleiri viðurskifti hava stimbrað búskapin síðstu árini og hava havt stóra framgongd við sær í búskapinum. Millum annað kann nevnast føroyski fiskiskapurin eftir uppsjóvarfiski, sum er vaksin munandi, og tær íløgur, sum eru gjørdar í framleiðsluvinnuna á landi. Harafturat kann nevnast, at alivinnan hevur havt viðrák við høgum prísum á heimsmarknaðinum, og vinnan hevur eisini økt framleiðsluna og tøkuna. Í triðja lagi kann nevnast, at land, kommunur og vinnufyritøkur hava gjørt nógvar íløgur, sum hava stimbrað eftirspurningin í samfelagnum.</p>
-<p>At enda er búskapurin eisini stimbraður av søguliga lágum rentustøði og lágum oljuprísum í 2014 og 2015. Í løtuni eru útlit til, at oljuprísir vera verandi lágir eina tíð. Hetta kemur av, at eftirspurningurin ikki veksur eins skjótt og undanfarin ár, umframt at útboð og oljugoymslur eru</p>
-<p><em type="bold">Mynd 1</em> </p>
-<p><em type="bold">Bruttotjóðarúrtøka í ársins prísum og árlig broyting í %, 1998-2017</em> </p>
-<p>* Tølini fyri 2014 til 2017 eru metingar og skulu lesast við fyrivarni. Kelda: Hagstovan og Fíggjarmálaráðið.</p>
-<p>20.000</p>
-<p>% um á ri ðMi ó. kr.</p>
-<p>18.000</p>
-<p>16.000</p>
-<p><em type="bold">Bruttotjóðarúrtøka í ársins  prísum,</em> <em type="bold">mió. kr. (høgri ási)</em> </p>
-<p><em type="bold">Árlig broyting í % í bruttotjóðarúrtøku</em> <em type="bold">(vinstri ási)</em> </p>
-<p>14.000</p>
-<p>12.000</p>
-<p>10.000</p>
-<p>-</p>
-<p>8.000</p>
-<p>-</p>
-<p>6.000 lutfalsliga stórar og væntast vera støðug næstu tíðina. Hinvegin er greitt, at fáar íløgur verða gjørdar í oljuleiting og í leiting eftir nýggjum oljuleiðum við verandi oljuprísum. Harvið er vandi fyri, at oljuprísir kunnu hækka nógv, tá ið útboð og goymslur aftur fara at minka orsakað av at fáar íløgur verða gjørdar í vinnuni. Í løtuni eru ikki útlit til, at altjóða rentustøðið hækkar stórvegis næstu tíðina. Roknast kann framvegis við sera lágum rentum næstu 1-2 árini.</p>
-<p><em type="italic">Til ber ikki at staðfesta ovhiting – men fløskuhálsar síggjast í pørtum av búskapinum </em></p>
-<p>Við teimum hagtølum, sum eru tøk um føroyska búskapin, ber ikki til at staðfesta, at føroyski búskapurin sum heild er ovhitaður ella at somikið nógv ferð er á búskapinum, at gongdin ikki er haldfør. Kortini síggjast tekin um fløskuhálsar og trot á arbeiðsmegi í ávísum vinnugreinum.</p>
-<p>Í summum vinnugreinum innflyta fyritøkur arbeiðsmegi fyri at kunna nøkta eftirspurninginum og fyri ikki at missa marknaðarpartar. Í uppgerðunum av konjunkturvísitalinum sæst eisini, at framleiðslan í byggivinnuni í løtuni verður avmarkað av, at fleiri fyritøkur merkja trot á arbeiðsmegi.</p>
-<p>Hóast hetta síggjast ikki ógvusligar prís- ella lønarhækkingar (lønarglíðing) í nakrari vinnugrein. Innflutningurin ella húsarhaldsnýtslan vaksa heldur ikki óvanliga nógv (sí til dømis myndirnar 7 og 8 ), og stórur útlánsvøkstur sæst heldur ikki í landinum (mynd 2). Alt hetta talar fyri, at búskapurin sum heild er ikki ovhitaður. Trupulleikarnir av fløskuhálsum tykjast vera avmarkaðir til ávísar vinnugreinar og møguliga ávís øki í landinum heldur enn at ávirka búskapin sum heild.</p>
-<p>Heldur verandi gongd fram, er kortini ávísur vandi fyri, at stórar prís- og lønarhækkingar kunnu koma fyri í ávísum vinnugreinum og á ávísum marknaðum. Kostnaðar- og príshækkingar kunnu síðani, sum frálíður, spjaða seg til aðrar partar av búskapinum og harvið ávirka kappingarførið hjá búskapinum sum heild.</p>
-<p>Skuldin hjá húsarhaldum og vinnufyritøkum er ikki vaksin nógv síðstu árini. Innlán hjá húsarhaldum og vinnufyritøkum eru eisini vaksin meira enn útlán síðstu tvey árini. Gongdin í inn- og útlánum úr føroyskum peningastovnum til húsarhald í Føroyum sæst í mynd 2. Skuldin hjá føroyskum húsarhaldum í donskum realkredittfeløgum er heldur ikki va</p>
-<p><em type="bold">Mynd 2</em> </p>
-<p><em type="bold">Inn- og útlán til húsarhald í Føroyum, føroyskir peningastovnar, mia. kr., sept-2013 til juli-2016</em> </p>
-<p>Viðm.: Útlán úr realkredittfeløgum í Danmark til føroysk húsarhald eru ikki við í myndini. Kelda: Hagstovan.</p>
-<p><em type="bold">e</em>Mia. kr. </p>
-<p><em type="bold">Innlán  frá húsarhaldum</em> </p>
-<p><em type="bold">Útlán til húsarhald</em> 2-3 árini. Skuldin hjá føroyskum húsarhaldum og vinnufyritøkum er ikki høg sammett við privata skuld í øðrum londum í Vesturheiminum. </p>
-<p>Hetta bendir á, at framgongdin í búskapinum síðstu árini hevur verið haldfør og grundað á vaksandi framleiðslu og inntøkur heldur enn at vera lánsfíggjað framgongd. Ein læra av fíggjar- og búskaparkreppum, sum hava verið í Vesturheiminum, er, at framgongd, sum er grundað á ógvusligan útlánsvøkstur og vaksandi skuld kann vera svikalig og knýtt at stórum váða.</p>
-<p><em type="italic">Bruttotjóðarúrtøkan millum annað vaksin av serligum umstøðum í alivinnuni </em></p>
-<p>Mynd 3 vísir góðu gongdina í alivinnuni síðstu árini. Á myndini sæst tøkan av alifiski í kruvdari vekt og útflutningurin av aldum laksi í virði. Myndin vísir, at útflutningsvirðið er vaksið úr umleið 1,2 mia. kr. í 2009 til mettar 3,5-3,6 mia. kr. í 2016. Gongdin kemur bæði av øktari framleiðslu og tøku og av góðari prísgongd. Gongdin í alivinnuni síðstu umleið fimm árini er ein av orsøkunum til, at føroyska bruttotjóðarúrtøkan er vaksin somikið nógv sama tíðarskeið.</p>
-<p>Prísirnir á aldum laksi hava verið óvanliga høgir í nøkur ár. Prísirnir á aldum laksi hækkaðu serliga í 2013 og hækkaðu aftur eitt vet í 2014 og 2015. Higartil hava prísirnir á aldum laksi verið á at kalla sama stigi í ár sum í 2015. Útlit eru eisini til høgar prísir á aldum laksi næstu tíðina. Hetta kemur av støðugt vaksandi eftirspurningi og av at útboðið av aldum laksi ikki væntast at vaksa í sama mun, millum annað orsakað av, at trupulleikar eru av sjúku og øðrum í fleiri alibrúkum í Kili.</p>
-<p>Sannlíkt fara útflutningsvinnurnar og útlendis eftirspurningurin ikki at geva sama ískoytið til búskaparvøksturin næstu árini. Skal búskapurin vaksa stórvegis næstu árini, verður helst neyðugt, at privati eftirspurningurin í landinum hækkar og harvið gevur størri ískoyti til búskaparvøksturin.</p>
-<p>Eitt greitt tekin um búskaparligu framgongdina síðstu árini er, at síðani 2014 hevur verið nettotilflyting av fólki til landið. Ein stór avbjóðing síðani aldaskiftið hevur verið, at fráflyting hevur verið av landinum, sum hevur havt ta óhepnu avleiðing, at vælútbúgvin fólk í arbeiðsførum aldri eru farin av landinum. Hetta tykist vera vent í 2014, helst millum annað orsakað av greiðum</p>
-<p><em type="bold">Mynd 3</em> </p>
-<p><em type="bold">Aldur laksur og síl tikin og útflutningur av aldum laksi, skift á ár, 1996 til 2016</em> </p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>5/ <em type="bold">42 </em></p>
+<p><em type="bold">Inngangur </em>Sambært § 9 í løgtingslóg nr. 42 frá 4. mai 2009 um landsins játtanarskipan skal landsstýrismaðurin í fíggjarmálum, samstundis sum fíggjarlógaruppskotið verður lagt fram, leggja fram frágreiðing (Búskaparfrágreiðing II), sum gjølligari lýsir og metir um innihaldið í fíggjarlógaruppskotinum og greiðir frá játtanareftirlitinum í fíggjarárinum. Sitandi landsstýrið tók sum kunnugt við í september í fjør. Hetta er næsta uppskot til fíggjarlóg, sum landsstýrið leggur fyri Løgtingið. Uppskotið til fíggjarlóg, sum landsstýrið legði fyri Løgtingið í fjør, var eitt framroknað uppskot til fíggjarlóg orsakað av, at somikið stutt tíð var frá løgtingsvalinum til freistina at lata løgtinginum uppskotið til fíggjarlóg. Í uppskotinum til fíggjarlóg í fjør vóru tí ikki ætlað tiltøk ella raðfestingar hjá landsstýrinum. Hesi vóru í staðin latin fíggjarnevndini og løgtinginum sum broytingaruppskot til fíggjarlógina. Við í hesum uppskotinum til fíggjarlóg fyri 2017 eru ætlað tiltøk og raðfestingar hjá landsstýrinum. Fíggjarmálaráðið metir, at úrslitið hjá landinum í 2016 verður avlop á umleið 24 mió. kr. Heldur verandi gongd fram, verður hallið hjá landinum sostatt burtur í ár. Landið hevur annars havt hall øll árini frá 2008 til 2015, og hesi árini er lánsbrævaskuldin hjá landinum vaksin umleið 2,5 mia. kr. Málið hjá landsstýrinum er, at landskassin hevur vaksandi avlop næstu árini og at bygnaðarliga hallið minkar stigvíst næstu árini. Hetta merkir millum annað, at øll fíggjarpolitisk tiltøk, sum hava við sær hægri útreiðslur ella lægri inntøkur, verða fíggjað fult og heilt við at hækka aðrar inntøkur ella lækka aðrar útreiðslur. Framrokningar av inntøkum og útreiðslum í uppskotinum eru dagførdar og grundaðar á verandi lóggávu og bundnar raðfestingar. Inntøkurnar í uppskotinum til fíggjarlóg fyri 2017 eru framroknaðar við støði í søguligum tølum fyri inntøkur og annars við støði í fyritreytum og lóggávu, sum er galdandi í løtuni. Inntøkurnar eru framroknaðar við ársins prísum í 2017 og framroknaðar við føstum prísum árini 2018 og frameftir. Stórur partur av inntøkunum í fíggjarlógini eru skattir og avgjøld, sum verða stýrd av búskaparligu sveiggjunum, sum eru í samfelagnum yvir tíð. Inntøkusíðan í fíggjarlógini er tí fyri stóran part grundað á metingar um gongdina í búskapinum í framtíðini. Til ber at gera forsagnir og at meta um búskaparvøkstur í nærmastu framtíð, men eingin kann spáa neyvt um búskaparvøkstur fleiri ár fram í tíðina. Tí skulu metingarnar av inntøkum landskassans í framtíðini lesast við fyrivarni. Útreiðslusíðan er ikki eins torfør at meta um, av tí at størsti parturin av útreiðslunum er grundaður á politiskar raðfestingar av tænastum og veitingum, sum samtykt er, at almennu Føroyar skulu bjóða. Óvissan á útreiðslusíðuni snýr seg serliga um gongdina í rentum, gongdina í oljuprísum og um úrslitini av lønarsamráðingunum á almenna arbeiðsmarknaðinum. Búskaparpolitiska avbjóðingin er, at tiltøk, sum minka hallið á fíggjarlógini, kunnu samstundis tálma eftirspurning og búskaparvøkstur og tí eisini ávirka inntøkur landskassans. Tiltøk, sum skerja útreiðslur landskassans, ella tiltøk, ið økja skatta- og avgjaldsinntøkurnar, ávirka í flestu førum </p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>6/ <em type="bold">42 </em>eftirspurningin í samfelagnum og tí eisini í ávísan mun bæði búskaparvøkstur og inntøkur landskassans. Sum grundarlag undir metingunum um búskaparvøkstur næstu árini verða brúkt søgulig tøl, vitan um búskapargongdina síðstu árini og vitan um gongdina innan ymisk tjóðarbúskaparlig vísitøl. Eisini verða metingar hjá Búskaparráðnum og ymiskum altjóða stovnum brúktar sum partur av grundarlagnum at meta um búskaparvøksturin og inntøkurnar hjá landinum næstu árini. Eisini skal viðmerkjast, at í framrokningunum er lagt upp fyri serligum viðurskiftum í ávísum vinnugreinum, har ið umstøðurnar tala fyri tí. Í fyritreytunum fyri 2017 verður vøksturin í BTÚ mettur til um leið 3% (ársins prísir). Fíggjarmálaráðið roknar sostatt við heldur lægri vøkstri sammett við Búskaparráðið, sum roknar við vøkstri á umleið 4% í 2017. Metingin hjá Fíggjarmálaráðnum er grundað á eina varsemisreglu og á stóru óvissuna, sum er um gongdina næstu árini. Óvissan er millum annað vaksin eftir fólkaatkvøðuna í Stóra Bretlandi um limaskapin í ES. <em type="bold"></em>Skattir, ið eru grundaðir á inntøku og nýtslu, til dømis vanligur landsskattur og meirvirðisgjald, verða í fyritreytunum settir at fylgja á leið sama vøkstri sum BTÚ, ella um leið 3% í 2017 og árini eftir. Tó eru gjørdar serligar metingar út frá fyritreytunum fyri játtanina á teimum inntøkujáttanum, har tað verður mett neyðugt og har, ið umstøðurnar tala fyri tí. Fyritreytirnar fyri framskrivingunum av rentuútreiðslunum eru metta gongdin í landskassaskuldini og útlitini fyri rentugongdina næstu 1-2 árini. Frágreiðingin er sett soleiðis saman, at fyrst er stutt lýsing av gongdini í føroyska búskapinum og í altjóða búskapinum. Síðani er ein lýsing av fíggjarlógaruppskotinum fyri 2017. At enda er frágreiðing um játtanarligu støðuna í ár, samanlagt og fyri hvørja grein sær. Her eru bara tiknar við tær rakstrar-, løgu- og inntøkujáttanir, sum verða mettar at víkja frá upprunaligu játtanini, tá ið fíggjarárið endaliga er gjørt upp. </p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>7/ <em type="bold">42 </em></p>
+<p><em type="bold">Lýsing av gongdini í búskapinum </em>Framgongdin í búskapinum byrjaði av álvara í 2013 og hevur staðið við síðani. Framgongdin tykist vera hæsað nakað av miðskeiðis í ár. Hetta sæst millum annað í uppgerðum av lønargjaldingum og løntakarum. Inntøkurnar frá meirvirðisgjaldinum og vanliga landsskattinum benda eisini á, at framgongdin hæsaði nakað av miðskeiðis í ár. Á mynd 1 niðanfyri síggjast metingar av gongdini í bruttotjóðarúrtøkuni síðstu árini. Sambært metingum hjá Búskaparráðnum og Hagstovuni fer BTÚ í ársins prísum at vaksa um leið 8-9% í 2016 og um leið 4% í 2017. Fíggjarmálaráðið roknar við heldur lægri vøkstri á umleið 7% í ár og umleið 3% í 2017. Hetta er grundað á eina varsemisreglu og óvissuna um gongdina næstu árini, sum greitt verður frá niðanfyri. </p>
+<p>Óvissan er millum annað íkomin eftir fólkaatkvøðuna í Stóra Bretlandi og við henni um hvat samband og samstarv verður millum Stóra Bretland og ES næstu árini, millum annað um handils- og fiskivinnuavtalur. Stóra Bretland er sum kunnugt millum størstu útflutningsmarknaðir hjá føroysku fiskivinnuni. Gera bretar álvara av ætlanunum um at fara heilt úr ES, verður Stóra Bretland harafturat helst at rokna sum nýtt strandarland viðvíkjandi fiskiveiðiavtalunum um fiskiskap eftir uppsjóvarfiski í Norðuratlantshavi. Fleiri viðurskifti hava stimbrað búskapin síðstu árini og hava havt stóra framgongd við sær í búskapinum. Millum annað kann nevnast føroyski fiskiskapurin eftir uppsjóvarfiski, sum er vaksin munandi, og tær íløgur, sum eru gjørdar í framleiðsluvinnuna á landi. Harafturat kann nevnast, at alivinnan hevur havt viðrák við høgum prísum á heimsmarknaðinum, og vinnan hevur eisini økt framleiðsluna og tøkuna. Í triðja lagi kann nevnast, at land, kommunur og vinnufyritøkur hava gjørt nógvar íløgur, sum hava stimbrað eftirspurningin í samfelagnum. At enda er búskapurin eisini stimbraður av søguliga lágum rentustøði og lágum oljuprísum í 2014 og 2015. Í løtuni eru útlit til, at oljuprísir vera verandi lágir eina tíð. Hetta kemur av, at eftirspurningurin ikki veksur eins skjótt og undanfarin ár, umframt at útboð og oljugoymslur eru</p>
+<p><em type="bold">Mynd 1 </em></p>
+<p><em type="bold">Bruttotjóðarúrtøka í ársins prísum og árlig broyting í %, 1998-2017 </em>* Tølini fyri 2014 til 2017 eru metingar og skulu lesast við fyrivarni. Kelda: Hagstovan og Fíggjarmálaráðið.-6-3036912156.0008.00010.00012.00014.00016.00018.00020.00019981999200020012002200320042005200620072008200920102011201220132014*2015*2016*2017*% um á ri ð </p>
+<p>Mi ó. kr.</p>
+<p><em type="bold">Bruttotjóðarúrtøka í ársins prísum, </em><em type="bold">mió. kr. (høgri ási) </em></p>
+<p><em type="bold">Árlig broyting í % í </em><em type="bold">bruttotjóðarúrtøku </em><em type="bold">(vinstri ási) </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>8/ <em type="bold">42 </em>lutfalsliga stórar og væntast vera støðug næstu tíðina. Hinvegin er greitt, at fáar íløgur verða gjørdar í oljuleiting og í leiting eftir nýggjum oljuleiðum við verandi oljuprísum. Harvið er vandi fyri, at oljuprísir kunnu hækka nógv, tá ið útboð og goymslur aftur fara at minka orsakað av at fáar íløgur verða gjørdar í vinnuni. Í løtuni eru ikki útlit til, at altjóða rentustøðið hækkar stórvegis næstu tíðina. Roknast kann framvegis við sera lágum rentum næstu 1-2 árini. <em type="italic">Til ber ikki at staðfesta ovhiting – men fløskuhálsar síggjast í pørtum av búskapinum </em>Við teimum hagtølum, sum eru tøk um føroyska búskapin, ber ikki til at staðfesta, at føroyski búskapurin sum heild er ovhitaður ella at somikið nógv ferð er á búskapinum, at gongdin ikki er haldfør. Kortini síggjast tekin um fløskuhálsar og trot á arbeiðsmegi í ávísum vinnugreinum. Í summum vinnugreinum innflyta fyritøkur arbeiðsmegi fyri at kunna nøkta eftirspurninginum og fyri ikki at missa marknaðarpartar. Í uppgerðunum av konjunkturvísitalinum sæst eisini, at framleiðslan í byggivinnuni í løtuni verður avmarkað av, at fleiri fyritøkur merkja trot á arbeiðsmegi. Hóast hetta síggjast ikki ógvusligar prís- ella lønarhækkingar (lønarglíðing) í nakrari vinnugrein. Innflutningurin ella húsarhaldsnýtslan vaksa heldur ikki óvanliga nógv (sí til dømis myndirnar 7 og 8 ), og stórur útlánsvøkstur sæst heldur ikki í landinum (mynd 2). Alt hetta talar fyri, at búskapurin sum heild er ikki ovhitaður. Trupulleikarnir av fløskuhálsum tykjast vera avmarkaðir til ávísar vinnugreinar og møguliga ávís øki í landinum heldur enn at ávirka búskapin sum heild. </p>
+<p>Heldur verandi gongd fram, er kortini ávísur vandi fyri, at stórar prís- og lønarhækkingar kunnu koma fyri í ávísum vinnugreinum og á ávísum marknaðum. Kostnaðar- og príshækkingar kunnu síðani, sum frálíður, spjaða seg til aðrar partar av búskapinum og harvið ávirka kappingarførið hjá búskapinum sum heild. Skuldin hjá húsarhaldum og vinnufyritøkum er ikki vaksin nógv síðstu árini. Innlán hjá húsarhaldum og vinnufyritøkum eru eisini vaksin meira enn útlán síðstu tvey árini. Gongdin í inn- og útlánum úr føroyskum peningastovnum til húsarhald í Føroyum sæst í mynd 2. Skuldin hjá føroyskum húsarhaldum í donskum realkredittfeløgum er heldur ikki vaksin serstakliga nógv síðstu</p>
+<p><em type="bold">Mynd 2 </em></p>
+<p><em type="bold">Inn- og útlán til húsarhald í Føroyum, føroyskir peningastovnar, mia. kr., sept-2013 til juli-2016 </em></p>
+<p>Viðm.: Útlán úr realkredittfeløgum í Danmark til føroysk húsarhald eru ikki við í myndini. Kelda: Hagstovan.678910sepjanjuljanjuljanjul2013201420152016</p>
+<p xml:lang="dan"><em type="bold">Tu </em><em type="bold">si </em><em type="bold">nd </em><em type="bold">e </em></p>
+<p>Mia. kr.</p>
+<p><em type="bold">Útlán til húsarhald </em></p>
+<p><em type="bold">Innlán frá húsarhaldum </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>9/ <em type="bold">42 </em>2-3 árini. Skuldin hjá føroyskum húsarhaldum og vinnufyritøkum er ikki høg sammett við privata skuld í øðrum londum í Vesturheiminum. Hetta bendir á, at framgongdin í búskapinum síðstu árini hevur verið haldfør og grundað á vaksandi framleiðslu og inntøkur heldur enn at vera lánsfíggjað framgongd. Ein læra av fíggjar- og búskaparkreppum, sum hava verið í Vesturheiminum, er, at framgongd, sum er grundað á ógvusligan útlánsvøkstur og vaksandi skuld kann vera svikalig og knýtt at stórum váða. <em type="italic">Bruttotjóðarúrtøkan millum annað vaksin av serligum umstøðum í alivinnuni </em>Mynd 3 vísir góðu gongdina í alivinnuni síðstu árini. Á myndini sæst tøkan av alifiski í kruvdari vekt og útflutningurin av aldum laksi í virði. Myndin vísir, at útflutningsvirðið er vaksið úr umleið 1,2 mia. kr. í 2009 til mettar 3,5-3,6 mia. kr. í 2016. Gongdin kemur bæði av øktari framleiðslu og tøku og av góðari prísgongd. Gongdin í alivinnuni síðstu umleið fimm árini er ein av orsøkunum til, at føroyska bruttotjóðarúrtøkan er vaksin somikið nógv sama tíðarskeið. </p>
+<p>Prísirnir á aldum laksi hava verið óvanliga høgir í nøkur ár. Prísirnir á aldum laksi hækkaðu serliga í 2013 og hækkaðu aftur eitt vet í 2014 og 2015. Higartil hava prísirnir á aldum laksi verið á at kalla sama stigi í ár sum í 2015. Útlit eru eisini til høgar prísir á aldum laksi næstu tíðina. Hetta kemur av støðugt vaksandi eftirspurningi og av at útboðið av aldum laksi ikki væntast at vaksa í sama mun, millum annað orsakað av, at trupulleikar eru av sjúku og øðrum í fleiri alibrúkum í Kili. Sannlíkt fara útflutningsvinnurnar og útlendis eftirspurningurin ikki at geva sama ískoytið til búskaparvøksturin næstu árini. Skal búskapurin vaksa stórvegis næstu árini, verður helst neyðugt, at privati eftirspurningurin í landinum hækkar og harvið gevur størri ískoyti til búskaparvøksturin. Eitt greitt tekin um búskaparligu framgongdina síðstu árini er, at síðani 2014 hevur verið nettotilflyting av fólki til landið. Ein stór avbjóðing síðani aldaskiftið hevur verið, at fráflyting hevur verið av landinum, sum hevur havt ta óhepnu avleiðing, at vælútbúgvin fólk í arbeiðsførum aldri eru farin av landinum. Hetta tykist vera vent í 2014, helst millum annað orsakað av greiðum</p>
+<p><em type="bold">Mynd 3 </em></p>
+<p><em type="bold">Aldur laksur og síl tikin og útflutningur av aldum laksi, skift á ár, 1996 til 2016 </em></p>
+<p>Viðm.: Tøkan er í kruvdari vekt í tonsum. 2016 er mett við støði í tøkuhagtølum hjá Vinnuhúsinum. Kelda: Hagstovan og Vinnuhúsið.01234020406080199619971998199920002001200220032004200520062007200820092010201120122013201420152016*</p>
 <p>Mi a . kr.</p>
-<p><em type="bold">er</em>Tús . tonsTøka av alilaksi (høgri ási) </p>
+<p xml:lang="dan"><em type="bold">Mi </em><em type="bold">lli </em><em type="bold">on </em><em type="bold">er </em></p>
+<p>Tús . tons</p>
+<p>Tøka av alilaksi (høgri ási)</p>
 <p>Tøka av alisílum (høgri ási)</p>
 <p>Útflutningur av alilaksi (vinstri ási)</p>
-<p>Viðm.: Tøkan er í kruvdari vekt í tonsum. 2016 er mett við støði í tøkuhagtølum hjá Vinnuhúsinum. Kelda: Hagstovan og Vinnuhúsið.</p>
-<p>politiskum átøkum og raðfestingum, og vónandi verður hetta eitt varandi fyribrigdi heldur enn eitt stutttíðar skifti í til- og fráflytingini til landið.</p>
-<p>Enn eru kortini nøkur øki í landinum, har ið nettofráflyting er, og fólkatalið minkar. Talan er serliga um tær báðar syðstu oyggjarnar í landinum, Suðuroynna og Sandoynna (sí eisini bls. 14-16). Hetta bendir á, at vøksturin, sum hevur verið síðstu árini, ikki í sama mun er komin øllum økjum í landinum til góðar og at framgongdin í størstan mun hevur verið í miðøkinum í landinum.</p>
-<p>Avreiðingar av botnfiski fiskaður undir Føroyum eru framvegis søguliga smáar. Útlit eru heldur ikki til stórvegis frægari fiskiskap eftir botnfiski undir Føroyum næstu 1-2 árini, av tí at toska- og hýsustovnurin eru søguliga smáir og illa fyri. Framleiðsla og avlop í hesi vinnuni eru sera lítil, og roknast kann við lítlum ískoyti til vøksturin frá hesum vinnum næstu árini.</p>
-<p>Á mynd 4 sæst, at avreiðingarnar av botnfiski um avreiðingarskipanina nú eru lægri enn í kreppuárunum í 1990’unum. Við í mynd 4 verða eisini taldar avreiðingar av fiski fiskaður á Flemish Cap og undir Íslandi. Umstøðurnar eru framvegis torførar innan fiskiveiðuna á heimligu leiðunum og atknýttu fiskavirkisvinnuna á landi.</p>
-<p><em type="italic">Gongdin á arbeiðsmarknaðinum </em></p>
-<p>Arbeiðsmarknaðurin tykist vera væl fyri í løtuni, tó at uppgerðir av arbeiðsloysinum ikki eru tøkar nýggjari enn móti ársenda 2015. Arbeiðsloysið er lágt, og talið av løntakarum hækkar somuleiðis støðugt. Arbeiðsloysið er lækkað úr um leið 7,5% tíðliga í 2011 til um leið 2,5% í november 2015. Arbeiðsloysið hevur helst verið at kalla støðugt síðani ársskiftið 2015/16.</p>
-<p><em type="bold">Mynd 4</em> </p>
-<p><em type="bold">Føroyska feskfiskaveiðan í nøgd, býtt á ársfjórðingar, tús. tons, 1. ársfjórðing 1993 til 2. ársfjórðing 2016</em> </p>
-<p>Viðm.: Í bólkin vanligur botnfiskur verða t.d. roknað toskur, hýsa, upsi, longa, blálonga, brosma og hvítingur. Kelda: Hagstovan.</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>10/ <em type="bold">42 </em>politiskum átøkum og raðfestingum, og vónandi verður hetta eitt varandi fyribrigdi heldur enn eitt stutttíðar skifti í til- og fráflytingini til landið. Enn eru kortini nøkur øki í landinum, har ið nettofráflyting er, og fólkatalið minkar. Talan er serliga um tær báðar syðstu oyggjarnar í landinum, Suðuroynna og Sandoynna (sí eisini bls. 14-16). Hetta bendir á, at vøksturin, sum hevur verið síðstu árini, ikki í sama mun er komin øllum økjum í landinum til góðar og at framgongdin í størstan mun hevur verið í miðøkinum í landinum. </p>
+<p>Avreiðingar av botnfiski fiskaður undir Føroyum eru framvegis søguliga smáar. Útlit eru heldur ikki til stórvegis frægari fiskiskap eftir botnfiski undir Føroyum næstu 1-2 árini, av tí at toska- og hýsustovnurin eru søguliga smáir og illa fyri. Framleiðsla og avlop í hesi vinnuni eru sera lítil, og roknast kann við lítlum ískoyti til vøksturin frá hesum vinnum næstu árini. Á mynd 4 sæst, at avreiðingarnar av botnfiski um avreiðingarskipanina nú eru lægri enn í kreppuárunum í 1990’unum. Við í mynd 4 verða eisini taldar avreiðingar av fiski fiskaður á Flemish Cap og undir Íslandi. Umstøðurnar eru framvegis torførar innan fiskiveiðuna á heimligu leiðunum og atknýttu fiskavirkisvinnuna á landi. <em type="italic">Gongdin á arbeiðsmarknaðinum </em>Arbeiðsmarknaðurin tykist vera væl fyri í løtuni, tó at uppgerðir av arbeiðsloysinum ikki eru tøkar nýggjari enn móti ársenda 2015. Arbeiðsloysið er lágt, og talið av løntakarum hækkar somuleiðis støðugt. Arbeiðsloysið er lækkað úr um leið 7,5% tíðliga í 2011 til um leið 2,5% í november 2015. Arbeiðsloysið hevur helst verið at kalla støðugt síðani ársskiftið 2015/16. </p>
+<p><em type="bold">Mynd 4 </em></p>
+<p><em type="bold">Føroyska feskfiskaveiðan í nøgd, býtt á ársfjórðingar, tús. tons, 1. ársfjórðing 1993 til 2. ársfjórðing 2016 </em></p>
+<p>Viðm.: Í bólkin vanligur botnfiskur verða t.d. roknað toskur, hýsa, upsi, longa, blálonga, brosma og hvítingur. Kelda: Hagstovan.0510152025303540199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016</p>
+<p><em type="bold">Vanl. botnfiskur tilsamans í nøgd </em></p>
 <p>Tús. tons</p>
-<p><em type="bold">Vanl. botnfiskur  tilsamans  í nøgd</em> </p>
-<p><em type="bold">Mynd 5</em> </p>
-<p><em type="bold">Árstíðarjavnaðir løntakarar (við A-inntøku) í tali og árstíðarjavnað arbeiðsloysi í %, jan-1985 til juni-2016</em> </p>
-<p>Kelda: Hagstovan.</p>
-<p>27.000Løntakarar í taliArbeiðsloysi í %</p>
-<p>25.000</p>
-<p><em type="bold">Árstíðarjavnaðir løntakarar  (vinstri ási)</em> </p>
-<p>23.000</p>
-<p>21.000</p>
-<p><em type="bold">Árstíðarjavnað arbeiðsloysi</em> <em type="bold">(høgri ási)</em> </p>
-<p>19.000</p>
-<p>17.000</p>
-<p>Arbeiðsloysið er eisini toluliga javnt lágt kring alt landið. Einki øki í landinum kann sigast at hava serliga høgt arbeiðsloysi. At nettofráflyting er av Suðuroynni og Sandoynni er kortini tekin um, at umstøðurnar og møguleikarnir á arbeiðsmarknaðinum ikki eru eins góðar har og aðrastaðni í landinum. Hagtøl benda eisini á, at arbeiðsloysið millum ung ikki er stórt í Føroyum sammett við onnur framkomin lond. Á mynd 5 omanfyri sæst gongdin í arbeiðsloysinum og í løntakaratalinum.</p>
-<p><em type="bold">Talva 1. Løntakarar eftir vinnubólkum í juni, 2013-2016, býtt á ár </em></p>
-<p><em type="italic">Vinnubólkur </em>    Munur </p>
-<p>2015-16</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>11/ <em type="bold">42 </em></p>
+<p>Arbeiðsloysið er eisini toluliga javnt lágt kring alt landið. Einki øki í landinum kann sigast at hava serliga høgt arbeiðsloysi. At nettofráflyting er av Suðuroynni og Sandoynni er kortini tekin um, at umstøðurnar og møguleikarnir á arbeiðsmarknaðinum ikki eru eins góðar har og aðrastaðni í landinum. Hagtøl benda eisini á, at arbeiðsloysið millum ung ikki er stórt í Føroyum sammett við onnur framkomin lond. Á mynd 5 omanfyri sæst gongdin í arbeiðsloysinum og í løntakaratalinum. <em type="bold">Talva 1. Løntakarar eftir vinnubólkum í juni, 2013-2016, býtt á ár </em></p>
+<p><em type="italic">Vinnubólkur </em>2013 2014 2015 2016 </p>
+<p>Munur 2015-16</p>
 <p>Munur í %</p>
-<p>Fiski-, ali- o.o. ráevnisvinna 3.879 3.810 4.059 4.052 - -0,2 Byggivinna o.o. tilvirking 2.995 3.265 3.427 3.662  6,9 Privatar tænastuvinnur 8.031 8.113 8.371 8.555  2,2 Almenn fyrisiting o.a. tænastur 8.961 8.975 9.095 9.286  2,1</p>
-<p><em type="bold">Løntakarar tilsamans 23.866 24.163 24.952 25.555  2,4 </em></p>
-<p><em type="italic">Kelda: Hagstova Føroya. </em></p>
-<p>Talið av løntakarum hækkar omanfyri 2% árliga í løtuni og er nú komið á sama støði sum undan fíggjarkreppuna. Talva 1 vísir løntakarar í mai síðani 2013 eftir høvuðsvinnubólkum. Síðsta árið eru løntakararnir vorðnir nakað færri í fiski- og alivinnu. Serliga innan byggivinnuna eru fleiri løntakarar nú sammett við fyri einum ári síðani. Løntakararnir eru eisini fleiri í privatum og almennum tænastuvinnum.</p>
-<p><em type="bold">Mynd 6</em> </p>
-<p><em type="bold">Lønargjaldingar í mió. kr., býtt á ársfjórðingar, 1. ársfjórðingur 1985 til 2. ársfjórðing 2016</em> </p>
-<p>Kelda: Hagstovan.</p>
-<p>1.000</p>
-<p>2.250</p>
+<p>Fiski-, ali- o.o. ráevnisvinna 3.879 3.810 4.059 4.052 -7 -0,2</p>
+<p>Byggivinna o.o. tilvirking 2.995 3.265 3.427 3.662 235 6,9</p>
+<p>Privatar tænastuvinnur 8.031 8.113 8.371 8.555 184 2,2</p>
+<p>Almenn fyrisiting o.a. tænastur 8.961 8.975 9.095 9.286 191 2,1</p>
+<p><em type="bold">Løntakarar tilsamans </em><em type="bold">23.866 </em><em type="bold">24.163 </em><em type="bold">24.952 </em><em type="bold">25.555 </em><em type="bold">603 </em><em type="bold">2,4 </em></p>
+<p><em type="italic">Kelda: Hagstova Føroya. </em>Talið av løntakarum hækkar omanfyri 2% árliga í løtuni og er nú komið á sama støði sum undan fíggjarkreppuna. Talva 1 vísir løntakarar í mai síðani 2013 eftir høvuðsvinnubólkum. Síðsta árið eru løntakararnir vorðnir nakað færri í fiski- og alivinnu. Serliga innan byggivinnuna eru fleiri løntakarar nú sammett við fyri einum ári síðani. Løntakararnir eru eisini fleiri í privatum og almennum tænastuvinnum. </p>
+<p><em type="bold">Mynd 5 </em></p>
+<p><em type="bold">Árstíðarjavnaðir løntakarar (við A-inntøku) í tali og árstíðarjavnað arbeiðsloysi í %, jan-1985 til juni-2016 </em></p>
+<p>Kelda: Hagstovan.0481216201985198619871988198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015201617.00019.00021.00023.00025.00027.000 Løntakarar í tali</p>
+<p>Arbeiðsloysi í %</p>
+<p><em type="bold">Árstíðarjavnaðir løntakarar (vinstri </em><em type="bold">ási) </em></p>
+<p><em type="bold">Árstíðarjavnað arbeiðsloysi </em><em type="bold">(høgri ási) </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>12/ <em type="bold">42 </em></p>
+<p>Lønargjaldingar í Føroyum vaksa í løtuni 6,5% árliga. Vøksturin í lønargjaldingum tók dik á seg miðskeiðis í 2013 og er hæsaður nakað av miðskeiðis í ár. Vøksturin hevur serliga verið innan fiski- og alivinnu og byggivinnu. Innan privatar og almennar tænastuvinnur hevur eisini verið javnur vøkstur síðani 2013. Á mynd 6 og talvu 2 sæst gongdin í lønargjaldingum til samans og býtt á vinnugreinar. <em type="bold">Talva 2. Lønargjaldingar í høvuðsvinnugreinum, januar-juli, 2013-2016, mió. kr. </em></p>
+<p><em type="italic">Vinnugrein </em>2013 2014 2015 2016 </p>
+<p>Munur 2015-16</p>
+<p>Munur í %</p>
+<p>Fiski-, ali- o.o. ráevnisvinna 712 774 893 996 102 11,4</p>
+<p>Byggivinna o.o. tilvirking 476 534 583 632 49 8,3</p>
+<p>Privatar tænastuvinnur 1.355 1.391 1.445 1.518 73 5,0</p>
+<p>Almenn o.o. tænasta 1.539 1.568 1.621 1.693 72 4,4</p>
+<p><em type="bold">Lønargjaldingar tilsamans </em><em type="bold">4.081 </em><em type="bold">4.267 </em><em type="bold">4.542 </em><em type="bold">4.837 </em><em type="bold">295 </em><em type="bold">6,5 </em></p>
+<p><em type="italic">Kelda: Hagstova Føroya. </em><em type="italic">Húsarhaldsnýtsla og eftirspurningur </em>Hagtøl benda á, at húsarhaldsnýtslan í Føroyum er vaksin spakuliga síðani búskaparkreppuna í 2009. Nýtslan tykist serliga at vera vaksin javnt síðani 2013. Inntøkurnar hjá landinum frá meirvirðisgjaldinum benda eisini á, at húsarhaldsnýtslan er vaksin nakað í 2015 og aftur í ár. Innflutningurin av nýtsluvørum bendir eisini á, at nýtslan er vaksin í ár, men at vøksturin hæsaði nakað av miðskeiðis í ár. Mynd 7 vísir innflutning av ymiskum nýtsluvørum býtt á ódrúgvar nýtsluvørur og hálvdrúgvar og drúgvar nýtsluvørur (íroknað innflutning av akførum). Myndin vísir, at javnur vøkstur hevur verið í innflutninginum av vørum síðani 2013. Hetta er tekin um, at nýtsla og eftirspurningur eru vaksin. Keypsorka og eftirspurningur frá húsarhaldunum verða í løtuni eisini stimbrað av lágu oljuprísunum og av lága rentustøðinum. </p>
+<p><em type="bold">Mynd 6 </em></p>
+<p><em type="bold">Lønargjaldingar í mió. kr., býtt á ársfjórðingar, 1. ársfjórðingur 1985 til 2. ársfjórðing 2016 </em></p>
+<p>Kelda: Hagstovan.02505007501.0001.2501.5001.7502.0002.25019851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016</p>
 <p>Mi ó. kr.</p>
-<p>2.000</p>
-<p>1.750</p>
-<p>1.500</p>
-<p>1.250</p>
-<p><em type="bold">Árstíðarjavnaðar lønargjaldingar  í mió. kr. </em></p>
-<p>Lønargjaldingar í Føroyum vaksa í løtuni 6,5% árliga. Vøksturin í lønargjaldingum tók dik á seg miðskeiðis í 2013 og er hæsaður nakað av miðskeiðis í ár. Vøksturin hevur serliga verið innan fiski- og alivinnu og byggivinnu. Innan privatar og almennar tænastuvinnur hevur eisini verið javnur vøkstur síðani 2013. Á mynd 6 og talvu 2 sæst gongdin í lønargjaldingum til samans og býtt á vinnugreinar.</p>
-<p><em type="bold">Talva 2. Lønargjaldingar í høvuðsvinnugreinum, januar-juli, 2013-2016, mió. kr. </em></p>
-<p><em type="italic">Vinnugrein </em>    Munur </p>
-<p>2015-16</p>
-<p>Munur í %</p>
-<p>Fiski-, ali- o.o. ráevnisvinna      11,4 Byggivinna o.o. tilvirking      8,3 Privatar tænastuvinnur 1.355 1.391 1.445 1.518  5,0 Almenn o.o. tænasta 1.539 1.568 1.621 1.693  4,4</p>
-<p><em type="bold">Lønargjaldingar tilsamans 4.081 4.267 4.542 4.837  6,5 </em></p>
-<p><em type="italic">Kelda: Hagstova Føroya. </em></p>
-<p><em type="italic">Húsarhaldsnýtsla og eftirspurningur </em></p>
-<p>Hagtøl benda á, at húsarhaldsnýtslan í Føroyum er vaksin spakuliga síðani búskaparkreppuna í 2009. Nýtslan tykist serliga at vera vaksin javnt síðani 2013. Inntøkurnar hjá landinum frá meirvirðisgjaldinum benda eisini á, at húsarhaldsnýtslan er vaksin nakað í 2015 og aftur í ár. Innflutningurin av nýtsluvørum bendir eisini á, at nýtslan er vaksin í ár, men at vøksturin hæsaði nakað av miðskeiðis í ár.</p>
-<p>Mynd 7 vísir innflutning av ymiskum nýtsluvørum býtt á ódrúgvar nýtsluvørur og hálvdrúgvar og drúgvar nýtsluvørur (íroknað innflutning av akførum). Myndin vísir, at javnur vøkstur hevur verið í innflutninginum av vørum síðani 2013. Hetta er tekin um, at nýtsla og eftirspurningur eru vaksin. Keypsorka og eftirspurningur frá húsarhaldunum verða í løtuni eisini stimbrað av lágu oljuprísunum og av lága rentustøðinum.</p>
-<p><em type="bold">Mynd 7</em> </p>
-<p><em type="bold">Innflutningur av ódrúgvum, drúgvum og hálvdrúgvum nýtsluvørum og útgoldnar lønir, jan-1998 til juli-2016</em> </p>
-<p>Kelda: Hagstovan.</p>
-<p xml:lang="dan">Indeks, 1998 = 100</p>
-<p><em type="bold">Innflutningur  av drúgvum og hálvdrúgvum  nýtsluvørum</em> </p>
-<p><em type="bold">Útgoldin  løn</em> <em type="bold">(12 mánaðar samanlagt)</em> </p>
-<p><em type="bold">Innflutningur  av ódrúgvum nýtsluvørum</em> </p>
-<p>1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 20152016</p>
+<p><em type="bold">Árstíðarjavnaðar lønargjaldingar í mió. kr. </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>13/ <em type="bold">42 </em></p>
 <p>Mynd 8 vísir uppgerð hjá Hagstovuni yvir smásølu í landinum býtta á ymiskar vørubólkar. Myndin bendir á eins og mynd 7, at nýtslan er vaksin nakað í 2015 og aftur í ár. Myndirnar benda eisini á, at vøksturin í húsarhaldsnýtslu, sum hevur verið í 2015 og í ár, hevur ikki verið serstakliga stórur, verður sammett við gongdina í húsarhaldsnýtsluni undanfarin ár og til dømis árini í 2006 til 2008.</p>
 <p>Brúkaraprístalið er lækkað nakað síðani fyrsta ársfjórðing 2013, og prístalið er lækkað um leið 1% seinasta árið, sí mynd 9. Størstu orsøkirnar til lækkingina í prístalinum eru óivað, at oljuprísir eru lækkaðir munandi síðstu tvey árini og at rentustøðið framvegis er sera lágt, millum annað orsakað av harðari kapping á marknaðinum og sera lágum altjóða rentustøði. At eftirspurningurin hevur verið heldur lágur eftir búskaparkreppuna í 2009 hevur helst eisini gørt, at brúkaraprísir ikki eru vaksnir stórvegis síðani 2010.</p>
-<p><em type="bold">Mynd 8</em> </p>
-<p><em type="bold">Vísitøl fyri smásølu, býtt á vørubólk, trendur í føstum prísum, 1. ársfjórðing 1995 til 2. ársfjórðing 2016</em> </p>
-<p>Kelda: Hagstovan.</p>
+<p><em type="bold">Mynd 7 </em></p>
+<p><em type="bold">Innflutningur av ódrúgvum, drúgvum og hálvdrúgvum nýtsluvørum og útgoldnar lønir, jan-1998 til juli-2016 </em></p>
+<p>Kelda: Hagstovan.50100150200250300janjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjul1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 20152016</p>
+<p><em type="bold">Innflutningur av drúgvum og </em><em type="bold">hálvdrúgvum nýtsluvørum </em></p>
+<p><em type="bold">Innflutningur av </em><em type="bold">ódrúgvum nýtsluvørum </em></p>
+<p xml:lang="dan">Indeks, 1998 = 100</p>
+<p><em type="bold">Útgoldin løn </em><em type="bold">(12 mánaðar samanlagt) </em></p>
+<p><em type="bold">Mynd 8 </em></p>
+<p><em type="bold">Vísitøl fyri smásølu, býtt á vørubólk, trendur í føstum prísum, 1. ársfjórðing 1995 til 2. ársfjórðing 2016 </em></p>
+<p>Kelda: Hagstovan.0501001502001995199619971998199920002001200220032004200520062007200820092010201120122013201420152016</p>
 <p xml:lang="dan">Indeks</p>
-<p><em type="bold">Klæðnavørur  og fótbúnaður</em> </p>
-<p><em type="bold">Matur og alkoholfríar  drykkjuvørur</em> </p>
-<p><em type="bold">Búnýti og innbúgv</em> </p>
-<p><em type="bold">Mynd 9</em> </p>
-<p><em type="bold">Brúkaraprístalið, 2001 til 2016, býtt á ársfjórðingar, indeks 2001 = 100</em> </p>
-<p>Kelda: Hagstovan.</p>
-<p><em type="bold">Brúkaraprístalið  tilsamans</em> </p>
-<p xml:lang="dan">Indeks 2001Q1 = 100</p>
-<p><em type="bold">Matur og drekka</em> </p>
-<p><em type="bold">Býli</em> </p>
+<p><em type="bold">Matur og alkoholfríar drykkjuvørur </em></p>
+<p><em type="bold">Búnýti og innbúgv </em></p>
+<p><em type="bold">Klæðnavørur og fótbúnaður </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>14/ <em type="bold">42 </em></p>
 <p>Konjunkturvísitalið hevur verið at kalla óbroytt síðani miðskeiðis í 2011. Vísitalið vísir í stuttum, at vinnuvirki og húsarhald framvegis eru bjartskygd um framtíðina. Tó er samlaða vísitalið lækkað nakað síðsta árið, sí mynd 10. Samanumtikið rokna húsarhald við framgongd í búskapinum og støðugum ella lækkandi arbeiðsloysi. Vinnuvirki rokna sum heild við støðugum ella hækkandi eftirspurningi. Samlaða konjunkturvísitalið lækkaði úr 20 til 16 síðsta hálvárið.</p>
-<p><em type="italic">Gongdin í fólkatalinum </em></p>
-<p>Vøksturin í fólkatalinum síðani 2014 er eitt tekin um ta stóru framgongd, sum hevur verið í búskapinum. Vanliga samsvara broytingar í fólkaflytingini úr Føroyum væl við umstøðurnar á arbeiðsmarknaðinum og í búskapinum sum heild. Tvær orsøkir til góðu gongdina í fólkatalinum eru helst, at fleiri nýggj og vællønt størv hava tikið seg upp í landinum og at nú ber til at taka fleiri útbúgvingar, sum ikki hevur borið til at taka áður.</p>
-<p><em type="bold">Mynd 10</em> </p>
-<p><em type="bold">Konjunkturvísital fyri húsarhald og vinnu tilsamans, juli 2006 til juli 2016</em> </p>
-<p>Kelda: Fíggjarmálaráðið.</p>
-<p>-</p>
+<p><em type="italic">Gongdin í fólkatalinum </em>Vøksturin í fólkatalinum síðani 2014 er eitt tekin um ta stóru framgongd, sum hevur verið í búskapinum. Vanliga samsvara broytingar í fólkaflytingini úr Føroyum væl við umstøðurnar á arbeiðsmarknaðinum og í búskapinum sum heild. Tvær orsøkir til góðu gongdina í fólkatalinum eru helst, at fleiri nýggj og vællønt størv hava tikið seg upp í landinum og at nú ber til at taka fleiri útbúgvingar, sum ikki hevur borið til at taka áður. </p>
+<p><em type="bold">Mynd 9 </em></p>
+<p><em type="bold">Brúkaraprístalið, 2001 til 2016, býtt á ársfjórðingar, indeks 2001 = 100 </em></p>
+<p>Kelda: Hagstovan.80901001101201301402001200220032004200520062007200820092010201120122013201420152016</p>
+<p><em type="bold">Brúkaraprístalið tilsamans </em></p>
+<p xml:lang="dan">Indeks 2001Q1 = 100</p>
+<p><em type="bold">Býli </em></p>
+<p><em type="bold">Matur og drekka </em></p>
+<p><em type="bold">Mynd 10 </em></p>
+<p><em type="bold">Konjunkturvísital fyri húsarhald og vinnu tilsamans, juli 2006 til juli 2016 </em></p>
+<p>Kelda: Fíggjarmálaráðið.-40-200204060juljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjuljanjul20062007200820092010201120122013201420152016</p>
 <p xml:lang="dan">Vís i tal</p>
-<p><em type="bold">Húsarhald  og vinna tilsamans</em> </p>
-<p>-</p>
-<p><em type="bold">Mynd 11</em> </p>
-<p><em type="bold">Fólkatal í Føroyum, 1. januar, 1985 til 2016 og nýggjasta framrokning av fólkatalinum til 2021</em> </p>
-<p>60.000</p>
+<p><em type="bold">Húsarhald og vinna tilsamans </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>15/ <em type="bold">42 </em></p>
+<p>Fráflytingin er minkað líðandi síðani tíðliga í 2013. Fólkatalið samanlagt er eisini vaksið síðani 2013 og er nú tað hægsta, sum hevur verið skrásett, sí mynd 11. Frammanundan lækkaði fólkatalið frá 2008 til 2013, og fólkatalið var at kalla óbroytt frá 2003 til 2013.</p>
+<p>Mynd 12 vísir árligar broytingar í fólkatalinum síðani 1975 við mettum tølum fyri 2016, og mynd 13 vísir gongdina í til- og fráflyting úr Føroyum býtt á mánaðir. Av talvu 3 sæst, at vøksturin í fólkatalinum fyri tað nógva stavar frá, at fólkatalið hækkar kring Tórshavn og í miðøkinum í landinum. Aðrastaðni í landinum er lítil fólkavøkstur og tilflyting, og í Suðuroynni og á Sandoynni minkar fólkatalið. Hesin munurin í økjum í landinum og í til- og fráflytingini millum øki er tekin um, at framgongdin, sum hevur verið í búskapinum, ikki í sama mun er komin øllum økjum í landinum til góðar. Gongdin er eisini tekin um, at umstøðurnar á arbeiðsmarknaðinum ikki eru eins góðar í øllum økjum í landinum.</p>
+<p><em type="bold">Mynd 11 </em></p>
+<p><em type="bold">Fólkatal í Føroyum, 1. januar, 1985 til 2016 og nýggjasta framrokning av fólkatalinum til 2021 </em></p>
+<p>Viðm.: Tølini frá 2017 til 2021 eru úr nýggjast framrokningini av fólkatalinum hjá hagstovuni. Á myndini er óvissan víst við prikkaðu strikunum. 90% sannlíkindi eru fyri, at fólkatalið er millum prikkaðu strikurnar. Kelda: Hagstovan.35.00040.00045.00050.00055.00060.0001985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021</p>
 <p>Fól k í ta li</p>
-<p>55.000</p>
-<p>50.000</p>
-<p><em type="bold">Fólkatalið í Føroyum</em> </p>
-<p>45.000</p>
-<p>40.000</p>
-<p>35.000</p>
-<p>1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021</p>
-<p>Viðm.: Tølini frá 2017 til 2021 eru úr nýggjast framrokningini av fólkatalinum hjá hagstovuni. Á myndini er óvissan víst við prikkaðu strikunum. 90% sannlíkindi eru fyri, at fólkatalið er millum prikkaðu strikurnar. Kelda: Hagstovan.</p>
-<p>Fráflytingin er minkað líðandi síðani tíðliga í 2013. Fólkatalið samanlagt er eisini vaksið síðani 2013 og er nú tað hægsta, sum hevur verið skrásett, sí mynd 11.  Frammanundan lækkaði fólkatalið frá 2008 til 2013, og fólkatalið var at kalla óbroytt frá 2003 til 2013.</p>
-<p>Mynd 12 vísir árligar broytingar í fólkatalinum síðani 1975 við mettum tølum fyri 2016, og mynd 13 vísir gongdina í til- og fráflyting úr Føroyum býtt á mánaðir.</p>
-<p>Av talvu 3 sæst, at vøksturin í fólkatalinum fyri tað nógva stavar frá, at fólkatalið hækkar kring Tórshavn og í miðøkinum í landinum. Aðrastaðni í landinum er lítil fólkavøkstur og tilflyting, og í Suðuroynni og á Sandoynni minkar fólkatalið. Hesin munurin í økjum í landinum og í til- og fráflytingini millum øki er tekin um, at framgongdin, sum hevur verið í búskapinum, ikki í sama mun er komin øllum økjum í landinum til góðar. Gongdin er eisini tekin um, at umstøðurnar á arbeiðsmarknaðinum ikki eru eins góðar í øllum økjum í landinum.</p>
-<p><em type="bold">Mynd 12</em> </p>
-<p><em type="bold">Broytingar í fólkatalinum, 1970 til 2016</em> </p>
-<p>1.000</p>
-<p>Fólk í tali</p>
-<p>-</p>
-<p>-1.000</p>
-<p>-1.500</p>
-<p>-2.000</p>
+<p><em type="bold">Fólkatalið í Føroyum </em></p>
+<p><em type="bold">Mynd 12 </em></p>
+<p><em type="bold">Broytingar í fólkatalinum, 1970 til 2016 </em></p>
+<p>Viðm.: Tølini fyri 2016 eru forsagnir grundaðar á gongdina januar-juni í ár. Kelda: Hagstovan.-2.500-2.000-1.500-1.000-50005001.000197019721974197619781980198219841986198819901992199419961998200020022004200620082010201220142016</p>
 <p>Fólkavøkstur Nettoflyting Burðaravlop</p>
-<p>-2.500</p>
-<p>Viðm.: Tølini fyri 2016 eru forsagnir grundaðar á gongdina januar-juni í ár. Kelda: Hagstovan.</p>
+<p>Fólk í tali</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>16/ <em type="bold">42 </em></p>
 <p><em type="bold">Talva 3. Fólkatalið býtt á øki í landinum, 1. august 2015 til 1. august 2016 </em></p>
 <p><em type="italic">Øki í landinum </em></p>
-<p>Fólkatal 1. august</p>
-<p>Burðaravlop  Nettoflyting</p>
-<p>Fólkatal 1. august</p>
-<p>Broytt í tali Broytt í %</p>
-<p>Norðuroyggjar 5.928   5.965  0,6 Eysturoy 10.911   11.019  1,0 Tórshavnar økið* 18.735   19.129  2,1 Streymoyggin annars 4.582   4.636  1,2</p>
-<p>Vágoy 3.089   3.152  2,0 Sandoy 1.287  - 1.265 - -1,7 Suðuroy 4.605  - 4.589 - -0,3</p>
-<p><em type="bold">Alt landið 49.137   49.755  1,3 </em></p>
-<p>*Tórshavn, Hoyvík, Hvítanes og Argir.</p>
+<p>Fólkatal 1. august 2015</p>
+<p>Burðaravlop Nettoflyting</p>
+<p>Fólkatal 1. august 2016</p>
+<p>Broytt í tali</p>
+<p>Broytt í %</p>
+<p>Norðuroyggjar 5.928 11 26 5.965 37 0,6</p>
+<p>Eysturoy 10.911 58 50 11.019 108 1,0</p>
+<p>Tórshavnar økið* 18.735 136 258 19.129 394 2,1</p>
+<p>Streymoyggin annars 4.582 27 27 4.636 54 1,2</p>
+<p>Vágoy 3.089 18 45 3.152 63 2,0</p>
+<p>Sandoy 1.287 0 -22 1.265 -22 -1,7</p>
+<p>Suðuroy 4.605 8 -24 4.589 -16 -0,3</p>
+<p><em type="bold">Alt landið </em><em type="bold">49.137 </em><em type="bold">258 </em><em type="bold">360 </em><em type="bold">49.755 </em><em type="bold">618 </em><em type="bold">1,3 </em>*Tórshavn, Hoyvík, Hvítanes og Argir. </p>
 <p><em type="italic">Kelda: Hagstova Føroya. </em></p>
 <p>Gongdin í fólkatalinum síðstu árini hevur millum annað við sær, at haldførið í búskapinum er batnað. Heldur verandi gongd fram við nettotilflyting og hækkandi fólkatali fer hetta at gera avbjóðingina at betra um langtíðarhaldførið í búskapinum lættari at loysa. Enn ber ikki til at staðfesta, um gongdin við nettotilflyting og hækkandi fólkatali er eitt varandi fyribrigdi ella um tað stavar frá skiftandi umstøðum á arbeiðsmarknaðunum í okkara grannalondum. Í øllum førum er umráðandi, at stig verða tikin at tryggja, at fráflyting ikki tekur seg upp aftur, sum sást árini 2004 til 2014.</p>
-<p><em type="bold">Mynd 13</em> </p>
-<p><em type="bold">Fólk flutt til og úr Føroyum, jan-2007 til juli-2016</em> </p>
-<p>Kelda: Hagstovan.</p>
-<p>-</p>
-<p>Fól k í taliFlutt úr FøroyumFlutt til FøroyarNettoflyting (12 mðr. samanlagt)</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p><em type="italic">Viðskifti við útlond, handils- og gjaldsjavni </em></p>
-<p>Á mynd 14 sæst gongdin í føroyska inn- og útflutninginum síðani 1988 við mettum tølum fyri alt 2015. Myndin vísir sum heild, at innflutningurin verður ávirkaður av búskaparligu konjunkturunum í samfelagnum og serliga innlendis eftirspurninginum. Harnæst hava oljuprísir stóra ávirkan á innflutningin. Óvanliga nógvur innflutningur av skipum ella flogførum ella óvanliga nógvar íløgur kunnu eisini ávirka innflutning einstøk ár.</p>
+<p><em type="bold">Mynd 13 </em></p>
+<p><em type="bold">Fólk flutt til og úr Føroyum, jan-2007 til juli-2016 </em></p>
+<p>Kelda: Hagstovan.-800-600-400-20002004006002007200820092010201120122013201420152016</p>
+<p>Fól k í tali</p>
+<p>Flutt úr Føroyum</p>
+<p>Flutt til Føroyar</p>
+<p>Nettoflyting (12 mðr. samanlagt)</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>17/ <em type="bold">42 </em></p>
+<p><em type="italic">Viðskifti við útlond, handils- og gjaldsjavni </em>Á mynd 14 sæst gongdin í føroyska inn- og útflutninginum síðani 1988 við mettum tølum fyri alt 2015. Myndin vísir sum heild, at innflutningurin verður ávirkaður av búskaparligu konjunkturunum í samfelagnum og serliga innlendis eftirspurninginum. Harnæst hava oljuprísir stóra ávirkan á innflutningin. Óvanliga nógvur innflutningur av skipum ella flogførum ella óvanliga nógvar íløgur kunnu eisini ávirka innflutning einstøk ár. </p>
 <p>Innflutningurin er síðstu árini vaksin meira ójavnt, sammett við vøksturin í útflutninginum. Útflutningurin er vaksin støðugt síðani 2009 úr um leið 4 mia. kr., og heldur verandi gongd fram, kann roknast við, at útflutningurin í ár verður væl omanfyri 7 mia. kr.</p>
 <p>Á mynd 14 sæst eisini, at útflutningurin í ár helst verður metstórur. Vøksturin kemur serliga av gongdini í alivinnuni og uppsjóvarvinnuni, har ið prísir eru hækkaðir, og nøgdirnar eru vaksnar.</p>
-<p><em type="bold">Mynd 14</em> </p>
-<p><em type="bold">Innflutningur og útflutningur, mió. kr., 1988 til 2016</em> </p>
-<p>10.000</p>
+<p><em type="bold">Mynd 14 </em></p>
+<p><em type="bold">Innflutningur og útflutningur, mió. kr., 1988 til 2016 </em></p>
+<p>Viðm.: Handilsjavnin fevnir bara um vørur; tænastur eru sostatt ikki við. * Tølini fyri 2016 eru metingar grundaðar á januar-juli 2016. Kelda: Hagstovan.-2.00002.0004.0006.0008.00010.00019881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016*</p>
 <p>Mi ó. kr.</p>
-<p>8.000</p>
-<p>6.000</p>
-<p><em type="bold">Innflutningur</em> </p>
-<p>4.000</p>
-<p><em type="bold">Útflutningur</em> </p>
-<p>2.000</p>
-<p>-2.000</p>
 <p>Javni</p>
-<p>Viðm.: Handilsjavnin fevnir bara um vørur; tænastur eru sostatt ikki við. * Tølini fyri 2016 eru metingar grundaðar á januar-juli 2016. Kelda: Hagstovan.</p>
-<p><em type="bold">Mynd 15</em> </p>
-<p><em type="bold">Rakstrarviðskifti gjaldsjavnans í mió. kr., 1998-2015</em> </p>
-<p>* Tølini frá 2013 til 2015 eru metingar. Kelda: Hagstovan.</p>
-<p>-2.500</p>
-<p>2.000</p>
-<p>1.500</p>
+<p><em type="bold">Útflutningur </em></p>
+<p><em type="bold">Innflutningur </em></p>
+<p><em type="bold">Mynd 15 </em></p>
+<p><em type="bold">Rakstrarviðskifti gjaldsjavnans í mió. kr., 1998-2015 </em>* Tølini frá 2013 til 2015 eru metingar. Kelda: Hagstovan.-2.500-2.000-1.500-1.000-50005001.0001.5002.0001998199920002001200220032004200520062007200820092010201120122013*2014*2015* </p>
 <p>Mi ó. kr.</p>
-<p>1.000</p>
-<p>-</p>
-<p>-1.000</p>
-<p>-1.500</p>
-<p>-2.000</p>
 <p>VØRUR OG TÆNASTUR</p>
 <p>INNTØKUFLYTINGAR</p>
 <p>RAKSTRARFLYTINGAR</p>
-<p>RAKSTRARVIÐSKIFTI GJALDSJAVNANS Avlopið á handilsjavnanum í 2015 var um leið 760 mió. kr., og í 2016 kann roknast við metstórum avlopi á omanfyri 1 mia. kr., heldur verandi gongd fram.</p>
-<p>Síðstu árini hava avlop verið á føroyska gjaldsjavnanum tey flestu árini, sí mynd 15. Uppgerðir eru ikki tøkar fyri gjaldsjavnan síðani 2012, men við støði í handilsjavnanum ber til at meta leysliga um gjaldsjavnan frá 2013 til 2015. Nógv bendir á, at lutfalsliga stór avlop vóru á gjaldsjavnanum frá 2013 til 2015. Heldur verandi gongd fram, verður sannlíkt eisini stórt avlop í ár. At gjaldsjavnin er batnaður somikið nóg</p>
-<p><em type="italic">Heimsbúskapurin </em></p>
-<p>Stór óvissa er um gongdina í heimsbúskapinum næstu 1-2 árini. Óvissan er vaksin eftir heldur óvæntaða úrslitið av fólkaatkvøðuni í Stóra Bretlandi um limaskapin í ES. Fyri fólkaatkvøðuna í Stóra Bretlandi vóru tekin um hóvliga framgongd og búskaparvøkstur í flestu londum í Vesturheiminum. Gongdin var kortini ymisk í framkomnu ídnaðarlondunum og í menningarlondum. Um miðjan februar í ár fór prísurin á olju á altjóða marknaðinum aftur at hækka, og útlit vóru til varisligan vøkstur í heimsbúskapinum.</p>
-<p>Úrslitið av fólkaatkvøðuni í Stóra Bretlandi hevur broytt útlitini fyri heimsbúskapin munandi og fer at hava við sær størri óvissu næstu 1-2 árini. Eftir fólkaatkvøðuna í Stóra Bretlandi var nakað av órógvi á fíggjar- og gjaldoyramarknaðunum. Roknast kann eisini við óstøðugum viðurskiftum á fíggjarmarknaðum næstu 1-2 árini. Úrslitið av fólkaatkvøðuni hevur eisini við sær politiska óvissu í Evropa og óvissu um framtíðina hjá ES yvirhøvur.</p>
-<p>Eftir fólkaatkvøðuna lækkaði virðið á bretska pundinum omanfyri 10% mótvegis øðrum týðandi gjaldoyrum og serliga virðini á partabrøvum í fíggjarfyritøkum lækkaðu munandi. Hetta er helst tekin um, at serliga búskapurin í Stóra Bretlandi verður ávirkaður av, at bretar hava atkvøtt fyri at fara úr ES-samstarvinum. At virðið á bretska pundinum er lækkað ávirkar millum annað føroyskar fyritøkur, sum útflyta á bretska marknaðin, av tí at teirra søluprísir í okkara gjaldoyra lækka. Føroyskar fyritøkur, sum útflyta á bretska marknaðin, verða sjálvsagt eisini ávirkaðar næstu árini, um virðið á pundinum lækkar meira ella um tað verður torførari at útflyta á bretska marknaðin næstu árini.</p>
-<p>Enn er ógreitt, hvat samband verður millum Stóra Bretland og londini í ES í framtíðini. Greitt er kortini, at tekur Stóra Bretland seg heilt úr ES-samstarvinum, fer ein tílík tilgongd at taka drúgva tíð og helst fleiri ár um ikki áratíggju. Semjast Stóra Bretland og londini í ES um handilsavtalur, sum hava við sær fáar handilsforðingar og fáar aðrar búskaparligar forðingar millum Stóra Bretland og ES, er ikki vist, at búskaparvøksturin verður stórvegis skalaður av, at Stórabretland tekur seg burtur úr ES. Semjast londini hinvegin ikki um tílíkar avtalur, kann roknast við lægri búskaparvøkstri í Evropa næstu árini.</p>
-<p>Enn ber ikki til at siga, hvussu úrslitið av fólkaatkvøðuni í Stóra Bretlandi fer at ávirka føroyska búskapin næstu árini. Hetta er millum annað treytað av, hvat samband Stóra Bretland fer at hava við ES og Føroyar í framtíðini og hvørjar handils- og fiskiveiðiavtalur, londini semjast um. Greitt er kortini, at tekur Stóra Bretland seg heilt úr ES og verður torført hjá londunum at semjast um handils- og fiskivinnuavtalur, kann roknast við, at eisini føroyski búskapurin verður ávirkaður næstu árini.</p>
-<p>Greitt er eisini, at grundarlagið undir teimum fiskiveiðiavtalum, sum Føroyar hava serstakliga viðvíkjandi fiskiskapinum eftir uppsjóvarfiski í Norðuratlantshavinum, broytist munandi, gera bretar álvara av ætlanunum um at fara úr ES. Stóra Bretland verður tá at rokna sum nýtt strandarland, sum samráðast skal við um fiskiveiðiavtalur.</p>
-<p>Óvist er eisini, hvørji viðurskiftini verða millum Skotland og Stóra Bretland, gera bretar álvara av at fara heilt úr ES. Sum kunnugt er ikki undirtøka í Skotlandi fyri at fara heilt úr ES-samstarvinum. Í flestu førum, er ES strandarland orsakað av at Stóra Bretland er strandarland. Hinvegin er Stóra Bretland í flestu førum strandarland orsakað av, at Skotland er strandarland. Av hesum sæst, at grundarlagið undir verandi fiskiveiðiavtalum  millum strandarlondini í Norðuratlantshavi kann verða fullkomiliga broytt, alt eftir hvussu sambandi verður millum Stóra Bretland, Skotland og ES frameftir.</p>
-<p>Londini í Vesturheiminum eru framvegis merkt av lágum búskapar- og prísvøkstri og av at vinnufyritøkur gera fáar nýíløgur. Gongdin er ymisk millum lond, alt eftir hvussu lágu oljuprísirnir ávirka lond. Í USA er framvegis nakað av búskaparvøkstri, meðan vøksturin er minkaður munandi í Evropa og Japan. Roknast kann eisini við lágum búskaparvøkstri í Stóra Bretlandi næstu árini, millum annað orsakað av tí óvissu, sum er íkomin eftir fólkaatkvøðuna og orsakað av, at vinnufyritøkur í ávísan mun útseta nýíløgur.</p>
-<p>Í fleiri menningar- og vakstrarlondum, sum hava týðandi olju- og námsvinnu er stígur komin í búskapin ella beinleiðis afturgongd er í búskapinum. Heimsbúskapurin verður framvegis stimbraður av, at miðbankar hava sett umfatandi stuðulstiltøk í verk. Bretski miðbankin setti eisini fleiri stuðulstiltøk í verk eftir fólkaatkvøðuna í Stóra Bretlandi fyri at minka um óvissuna og forða fyri, at stígur skuldi koma í framgongdina, sum var í búskapinum.</p>
-<p><em type="bold">Talva 4. Árligur vøkstur í BTÚ í føstum prísum 2013-2017 býtt á øki </em></p>
-<p><em type="italic">% um árið í føstum prísum* </em>     </p>
-<p>USA 2,2 2,4 2,4 2,2 2,5 Evruøkið -0,4 0,9 1,7 1,6 1,4 Stóra Bretland 1,7 3,1 2,2 1,7 1,3 Ídnaðarlond tilsamans 1,4 1,9 1,9 1,8 1,8 Menningarlond 5,0 4,6 4,0 4,1 4,6 Heimsbúskapurin 3,4 3,4 3,1 3,1 3,4</p>
-<p>* Uppgerðirnar eru metingar frá miðskeiðis í juli mánaði í ár og skulu lesast við fyrivarni.</p>
-<p xml:lang="dan"><em type="italic">Kelda: IMF World Economic Outlook Update, 19. juli 2016. </em></p>
-<p>Framvegis er óvist, nær hesi stuðulstiltøk verða minkað og hvørja ávirkan hetta fer at fáa á heimsbúskapin, tá ið stuðulstiltøkini væntandi verða minkað næstu árini. Rentustøðið í Vesturheiminum er søguliga lágt, og í løtuni eru útlit til óvanliga lágt rentustøði næstu 1-2 árini, tó at rentustøðið kann hækka nakað sammett við verandi støði. Í talvu 4 omanfyri síggjast metingar frá IMF um væntaða vøksturin í heiminum næstu árini.</p>
-<p><em type="bold">Almenn fíggjarmál </em></p>
-<p>Her verður stutt hugt at gongdini í úrslitinum hjá landskassanum sum heild síðstu árini. Hugt verður eisini stutt eftir skuldarstøðuni hjá landinum. Uppgerðir yvir samlaða almenna búskapin, tað er land, kommunur og sosialir grunnar, eru ikki tøkar nýggjari enn fyri 2013 og verða tí ikki brúktar í hesi frágreiðingini.</p>
-<p>Mynd 16 vísir gongdina í inntøkum og útreiðslum hjá landskassanum og RLÚ-úrslit síðani 1997 við mettum tølum fyri 2016 og tølum úr fíggjarlógaruppskotinum fyri 2017. Á myndini sæst, at landið hevur havt hall øll árini frá 2008 til 2015. Eisini sæst, at hallið hjá landinum er minkað serliga nógv í 2014 og aftur í 2015. Heldur verandi gongd fram, eru útlit til, at landið hevur avlop í ár á umleið 24 mió. kr., sum er nakað størri enn avlopið í upprunaligu fíggjarlógini fyri 2016.</p>
-<p>Í 2014 minkaði hallið orsakað av, at inntøkurnar hjá landinum vóru munandi hægri, enn roknað varð við frammanundan. Í 2015 minkaði hallið somuleiðis mest orsakað av, at inntøkurnar vóru hægri enn mettar frammanundan. Harafturat vóru serligar umstøður í 2015, sum høvdu við sær hægri inntøkur enn væntað. Millum annað vann TAKS eitt rættarmál í Hægstarætti um skatt av vinningsbýti, sum gav landinum eina inntøku á um leið 70 mió. kr. Harafturat vóru seinkingar í byggingini av Miðnámsskúladeplinum Glasir, sum høvdu við sær, at um leið 80 mió. kr. av játtanini til íløguna vórðu støðlaðar til 2016.</p>
-<p>Á mynd 16 sæst, at útreiðslurnar hava verið meira støðugt vaksandi síðani 1997, meðan inntøkurnar eru vaksnar minni og meira óstøðugt. Inntøkurnar hjá landinum fylgja í størri mun sveiggjunum, sum eru í búskapinum. At landið hevði hall øll árini frá 2008 til 2015, hóast stór framgongd var í búskapinum bæði í 2014</p>
-<p><em type="bold">Mynd 16</em> </p>
-<p><em type="bold">Úrslit landskassans, mió. kr., 1997 til 2017</em> </p>
-<p>6.000</p>
-<p>Mió. kr.Mió. kr.</p>
-<p>5.000</p>
-<p><em type="bold">Rakstrarútreiðslur,  mió. kr. (høgri ási)</em> </p>
-<p>4.000</p>
-<p><em type="bold">Inntøkur tilsamans,  mió. kr. (høgri ási)</em> </p>
-<p>3.000</p>
-<p>2.000</p>
-<p><em type="bold">Løguútreiðslur, mió. kr. (vinstri ási)</em> </p>
-<p>-</p>
-<p>1.000</p>
+<p>RAKSTRARVIÐSKIFTI GJALDSJAVNANS</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>18/ <em type="bold">42 </em></p>
+<p>Avlopið á handilsjavnanum í 2015 var um leið 760 mió. kr., og í 2016 kann roknast við metstórum avlopi á omanfyri 1 mia. kr., heldur verandi gongd fram. Síðstu árini hava avlop verið á føroyska gjaldsjavnanum tey flestu árini, sí mynd 15. Uppgerðir eru ikki tøkar fyri gjaldsjavnan síðani 2012, men við støði í handilsjavnanum ber til at meta leysliga um gjaldsjavnan frá 2013 til 2015. Nógv bendir á, at lutfalsliga stór avlop vóru á gjaldsjavnanum frá 2013 til 2015. Heldur verandi gongd fram, verður sannlíkt eisini stórt avlop í ár. At gjaldsjavnin er batnaður somikið nógv síðani 2013 kemur millum annað av, at føroyska býtislutfallið er betrað munandi síðani 2013. Hetta merkir, at prísir á útfluttum vørum eru hækkaðir munandi meiri í miðal sammett við prísirnir á innfluttum vørum. <em type="italic">Heimsbúskapurin </em>Stór óvissa er um gongdina í heimsbúskapinum næstu 1-2 árini. Óvissan er vaksin eftir heldur óvæntaða úrslitið av fólkaatkvøðuni í Stóra Bretlandi um limaskapin í ES. Fyri fólkaatkvøðuna í Stóra Bretlandi vóru tekin um hóvliga framgongd og búskaparvøkstur í flestu londum í Vesturheiminum. Gongdin var kortini ymisk í framkomnu ídnaðarlondunum og í menningarlondum. Um miðjan februar í ár fór prísurin á olju á altjóða marknaðinum aftur at hækka, og útlit vóru til varisligan vøkstur í heimsbúskapinum. Úrslitið av fólkaatkvøðuni í Stóra Bretlandi hevur broytt útlitini fyri heimsbúskapin munandi og fer at hava við sær størri óvissu næstu 1-2 árini. Eftir fólkaatkvøðuna í Stóra Bretlandi var nakað av órógvi á fíggjar- og gjaldoyramarknaðunum. Roknast kann eisini við óstøðugum viðurskiftum á fíggjarmarknaðum næstu 1-2 árini. Úrslitið av fólkaatkvøðuni hevur eisini við sær politiska óvissu í Evropa og óvissu um framtíðina hjá ES yvirhøvur. Eftir fólkaatkvøðuna lækkaði virðið á bretska pundinum omanfyri 10% mótvegis øðrum týðandi gjaldoyrum og serliga virðini á partabrøvum í fíggjarfyritøkum lækkaðu munandi. Hetta er helst tekin um, at serliga búskapurin í Stóra Bretlandi verður ávirkaður av, at bretar hava atkvøtt fyri at fara úr ES-samstarvinum. At virðið á bretska pundinum er lækkað ávirkar millum annað føroyskar fyritøkur, sum útflyta á bretska marknaðin, av tí at teirra søluprísir í okkara gjaldoyra lækka. Føroyskar fyritøkur, sum útflyta á bretska marknaðin, verða sjálvsagt eisini ávirkaðar næstu árini, um virðið á pundinum lækkar meira ella um tað verður torførari at útflyta á bretska marknaðin næstu árini. Enn er ógreitt, hvat samband verður millum Stóra Bretland og londini í ES í framtíðini. Greitt er kortini, at tekur Stóra Bretland seg heilt úr ES-samstarvinum, fer ein tílík tilgongd at taka drúgva tíð og helst fleiri ár um ikki áratíggju. Semjast Stóra Bretland og londini í ES um handilsavtalur, sum hava við sær fáar handilsforðingar og fáar aðrar búskaparligar forðingar millum Stóra Bretland og ES, er ikki vist, at búskaparvøksturin verður stórvegis skalaður av, at Stórabretland tekur seg burtur úr ES. Semjast londini hinvegin ikki um tílíkar avtalur, kann roknast við lægri búskaparvøkstri í Evropa næstu árini. Enn ber ikki til at siga, hvussu úrslitið av fólkaatkvøðuni í Stóra Bretlandi fer at ávirka føroyska búskapin næstu árini. Hetta er millum annað treytað av, hvat samband Stóra Bretland fer at hava við ES og Føroyar í framtíðini og hvørjar handils- og fiskiveiðiavtalur, londini semjast um. Greitt </p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>19/ <em type="bold">42 </em>er kortini, at tekur Stóra Bretland seg heilt úr ES og verður torført hjá londunum at semjast um handils- og fiskivinnuavtalur, kann roknast við, at eisini føroyski búskapurin verður ávirkaður næstu árini. Greitt er eisini, at grundarlagið undir teimum fiskiveiðiavtalum, sum Føroyar hava serstakliga viðvíkjandi fiskiskapinum eftir uppsjóvarfiski í Norðuratlantshavinum, broytist munandi, gera bretar álvara av ætlanunum um at fara úr ES. Stóra Bretland verður tá at rokna sum nýtt strandarland, sum samráðast skal við um fiskiveiðiavtalur. Óvist er eisini, hvørji viðurskiftini verða millum Skotland og Stóra Bretland, gera bretar álvara av at fara heilt úr ES. Sum kunnugt er ikki undirtøka í Skotlandi fyri at fara heilt úr ES-samstarvinum. Í flestu førum, er ES strandarland orsakað av at Stóra Bretland er strandarland. Hinvegin er Stóra Bretland í flestu førum strandarland orsakað av, at Skotland er strandarland. Av hesum sæst, at grundarlagið undir verandi fiskiveiðiavtalum millum strandarlondini í Norðuratlantshavi kann verða fullkomiliga broytt, alt eftir hvussu sambandi verður millum Stóra Bretland, Skotland og ES frameftir. Londini í Vesturheiminum eru framvegis merkt av lágum búskapar- og prísvøkstri og av at vinnufyritøkur gera fáar nýíløgur. Gongdin er ymisk millum lond, alt eftir hvussu lágu oljuprísirnir ávirka lond. Í USA er framvegis nakað av búskaparvøkstri, meðan vøksturin er minkaður munandi í Evropa og Japan. Roknast kann eisini við lágum búskaparvøkstri í Stóra Bretlandi næstu árini, millum annað orsakað av tí óvissu, sum er íkomin eftir fólkaatkvøðuna og orsakað av, at vinnufyritøkur í ávísan mun útseta nýíløgur. Í fleiri menningar- og vakstrarlondum, sum hava týðandi olju- og námsvinnu er stígur komin í búskapin ella beinleiðis afturgongd er í búskapinum. Heimsbúskapurin verður framvegis stimbraður av, at miðbankar hava sett umfatandi stuðulstiltøk í verk. Bretski miðbankin setti eisini fleiri stuðulstiltøk í verk eftir fólkaatkvøðuna í Stóra Bretlandi fyri at minka um óvissuna og forða fyri, at stígur skuldi koma í framgongdina, sum var í búskapinum. <em type="bold">Talva 4. Árligur vøkstur í BTÚ í føstum prísum 2013-2017 býtt á øki </em><em type="italic">% um árið í føstum prísum* </em>2013 2014 2015 2016 2017 </p>
+<p xml:lang="dan">USA 2,2 2,4 2,4 2,2 2,5</p>
+<p>Evruøkið -0,4 0,9 1,7 1,6 1,4</p>
+<p>Stóra Bretland 1,7 3,1 2,2 1,7 1,3</p>
+<p>Ídnaðarlond tilsamans 1,4 1,9 1,9 1,8 1,8</p>
+<p>Menningarlond 5,0 4,6 4,0 4,1 4,6</p>
+<p>Heimsbúskapurin 3,4 3,4 3,1 3,1 3,4 * Uppgerðirnar eru metingar frá miðskeiðis í juli mánaði í ár og skulu lesast við fyrivarni. <em type="italic">Kelda: IMF World Economic Outlook Update, 19. juli 2016. </em>Framvegis er óvist, nær hesi stuðulstiltøk verða minkað og hvørja ávirkan hetta fer at fáa á heimsbúskapin, tá ið stuðulstiltøkini væntandi verða minkað næstu árini. Rentustøðið í Vesturheiminum er søguliga lágt, og í løtuni eru útlit til óvanliga lágt rentustøði næstu 1-2 árini, tó </p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>20/ <em type="bold">42 </em>at rentustøðið kann hækka nakað sammett við verandi støði. Í talvu 4 omanfyri síggjast metingar frá IMF um væntaða vøksturin í heiminum næstu árini. </p>
+<p><em type="bold">Almenn fíggjarmál </em>Her verður stutt hugt at gongdini í úrslitinum hjá landskassanum sum heild síðstu árini. Hugt verður eisini stutt eftir skuldarstøðuni hjá landinum. Uppgerðir yvir samlaða almenna búskapin, tað er land, kommunur og sosialir grunnar, eru ikki tøkar nýggjari enn fyri 2013 og verða tí ikki brúktar í hesi frágreiðingini. </p>
+<p>Mynd 16 vísir gongdina í inntøkum og útreiðslum hjá landskassanum og RLÚ-úrslit síðani 1997 við mettum tølum fyri 2016 og tølum úr fíggjarlógaruppskotinum fyri 2017. Á myndini sæst, at landið hevur havt hall øll árini frá 2008 til 2015. Eisini sæst, at hallið hjá landinum er minkað serliga nógv í 2014 og aftur í 2015. Heldur verandi gongd fram, eru útlit til, at landið hevur avlop í ár á umleið 24 mió. kr., sum er nakað størri enn avlopið í upprunaligu fíggjarlógini fyri 2016. Í 2014 minkaði hallið orsakað av, at inntøkurnar hjá landinum vóru munandi hægri, enn roknað varð við frammanundan. Í 2015 minkaði hallið somuleiðis mest orsakað av, at inntøkurnar vóru hægri enn mettar frammanundan. Harafturat vóru serligar umstøður í 2015, sum høvdu við sær hægri inntøkur enn væntað. Millum annað vann TAKS eitt rættarmál í Hægstarætti um skatt av vinningsbýti, sum gav landinum eina inntøku á um leið 70 mió. kr. Harafturat vóru seinkingar í byggingini av Miðnámsskúladeplinum Glasir, sum høvdu við sær, at um leið 80 mió. kr. av játtanini til íløguna vórðu støðlaðar til 2016. Á mynd 16 sæst, at útreiðslurnar hava verið meira støðugt vaksandi síðani 1997, meðan inntøkurnar eru vaksnar minni og meira óstøðugt. Inntøkurnar hjá landinum fylgja í størri mun sveiggjunum, sum eru í búskapinum. At landið hevði hall øll árini frá 2008 til 2015, hóast stór framgongd var í búskapinum bæði í 2014 og 2015, bendir á, at langtíðarjavnvág er ikki millum inntøkur og útreiðslur hjá landinum.</p>
+<p><em type="bold">Mynd 16 </em></p>
+<p><em type="bold">Úrslit landskassans, mió. kr., 1997 til 2017 </em></p>
+<p>Viðm.: Tølini fram til og við 2015 eru roknskapartøl. Tølini fyri 2016 eru mett tøl. Tølini fyri 2017 eru tøl úr uppskotinum til fíggjarlóg fyri 2017. * Úrslitið fyri 1998 er ávirkað av eftirgeving av donskum ríkislánum til Føroyar á 900 mió. kr. Kelda: Gjaldstovan.-254-83241120100200300400500600700-1.00001.0002.0003.0004.0005.0006.000199719981999200020012002200320042005200620072008200920102011201220132014201520162017</p>
+<p><em type="bold">Tu </em><em type="bold">si </em><em type="bold">n </em><em type="bold">d </em><em type="bold">e </em></p>
+<p><em type="bold">Tu </em><em type="bold">si </em><em type="bold">n </em><em type="bold">d </em><em type="bold">e </em></p>
 <p>RLÚ1-úrslit</p>
-<p>-1.000</p>
-<p>Viðm.: Tølini fram til og við 2015 eru roknskapartøl. Tølini fyri 2016 eru mett tøl. Tølini fyri 2017 eru tøl úr uppskotinum til fíggjarlóg fyri 2017. * Úrslitið fyri 1998 er ávirkað av eftirgeving av donskum ríkislánum til Føroyar á 900 mió. kr. Kelda: Gjaldstovan.</p>
-<p><em type="bold">Mynd 17</em> </p>
-<p><em type="bold">Landskassans bruttoskuld og innistandandi í mió. kr. og % av BTÚ, 1997 til 2016</em> </p>
-<p>Kelda: Gjaldstovan og Hagstovan.</p>
-<p>1.000</p>
-<p>7.000</p>
+<p><em type="bold">Rakstrarútreiðslur, mió. kr. (høgri ási) </em></p>
+<p><em type="bold">Inntøkur tilsamans, mió. kr. (høgri ási) </em></p>
 <p>Mió. kr.</p>
-<p>6.000</p>
-<p>5.000</p>
-<p>4.000</p>
-<p><em type="bold">Bruttoskuld</em> <em type="bold">(høgri ási)</em> </p>
-<p><em type="bold">Bruttoskuld í % av BTÚ</em> <em type="bold">(vinstri ási)</em> </p>
-<p>3.000</p>
-<p>2.000</p>
-<p><em type="bold">Innistandandi</em> <em type="bold">(høgri ási)</em> </p>
-<p>Mynd 17 vísir bruttoskuld og innistandandi hjá landsstýrinum (gjaldførið). Bruttoskuldin hjá landinum er vaksin munandi síðani 2007, men landið hevur enn ikki nógva skuld sammett við fleiri onnur lond í Vesturheiminum. Bruttoskuldin hjá landinum er 30-35% av BTÚ. Harafturat hava kommunur um leið 1 mia. kr. í bruttoskuld tilsamans (um leið 6% av BTÚ). Almenna bruttoskuldin í Evropa er til sammetingar um leið 90% av BTÚ í miðal, meðan hon er um leið 45% av BTÚ í Danmark.</p>
-<p>Er rikni fíggjarpolitikkurin ikki haldførur langt áramál, er vandi fyri, at kredittvirðið hjá landinum versnar, og at rentustøðið hjá landinum hækkar, sum frá líður. Her eigur eisini at verða havt í huga søguliga lágu renturnar í løtuni, og at rentustigið kann hækka næstu árini. Tí er umráðandi, at stig verða tikin at betra javnvágina millum inntøkur og útreiðslur í almenna búskapinum í Føroyum.</p>
-<p>Metingar hjá Fíggjarmálaráðnum av bygnaðarliga hallinum hjá tí almenna vísa, at í 2015 var bygnaðarligt hall á um leið 1% av BTÚ, ella um 150-200 mió. kr. Ábendingar eru um, at tað almenna framvegis hevur bygnaðarligt hall í 2016, tó at hallið sannlíkt er minkað. Fíggjarmálaráðið metir, at við verandi uppskoti til fíggjarlóg verður bygnaðarliga hallið hjá tí almenna um leið 0,5% av BTÚ í 2017. Tí verður neyðugt við varandi tiltøkum bæði innan inntøkur og útreiðslur hjá tí almenna til tess at betra javnvágina millum almennar inntøkur og útreiðslur og harvið at betra haldførið í almenna búskapinum.</p>
-<p>Avbjóðingin at betra haldførið í almenna búskapinum verður ikki minni av, at útreiðslurnar hjá landi og kommunum á millum annað heilsu- og almannaøkinum fara at vaksa munandi næstu árini. Hetta kemur av broyttari aldurssamanseting og betri viðgerðarmøguleikum og fer at hava við sær stórt trýst á útreiðslurnar hjá landi og kommunum, sum nú umsita eldraøkið.</p>
-<p>Landsstýrið tók í juni mánaði í ár lánsbrævalán, sum var um leið 1,4 mia. kr. Gildistíðin á láninum er fimm ár, og rentan á láninum er søgiliga lág (um leið 0,5% p.a.). Landið hevur tí sera gott kredittvirði, og kredittmetingarfyrtøkan Moody’s endurtók eisini endurtikið skoðsmálið (ratingina) av lánførinum hjá landinum í august í ár. Útlitini fyri skoðsmálið eru eisini støðug. Sostatt bendir alt á, at kredittvirðið hjá landinum framhaldandi verður gott næstu 1-2 árini. Miðalgjaldførið hjá landinum higartil í ár er um 2,4 mia. kr., sum er omanfyri minsta gjaldførið í 2016 á 2,3 mia. kr.</p>
-<p><em type="bold">Uppskotið til fíggjarlóg fyri 2017 </em></p>
-<p>Talvan niðanfyri vísir inntøkur, útreiðslur og RLÚ-úrslitið í fíggjarlógaruppskotinum fyri 2017. Í talvuni niðanfyri eru nettorentuinntøkur (um leið 6 mió. kr.) tiknar við á inntøkusíðuni, og løgujáttanir eru íroknaðar útreiðslunum tilsamans.</p>
-<p><em type="bold">Høvuðstøl í fíggjarlógaruppskotinum fyri 2017 </em></p>
-<p><em type="italic">Mió. kr. </em></p>
-<p>Inntøkur tilsamans   4.838,3  Útreiðslur tilsamans   4.726,0  RLÚ-úrslit   112,3</p>
-<p><em type="bold">Framrokningar av inntøkum og útreiðslum </em></p>
-<p>Stóru inntøkukeldurnar, vanligur landsskattur og meirvirðisgjald, eru í 2017 framroknaðar við metta vøkstrinum í ársins prísum, sum er um leið 3% í 2017. Eftir hetta er framroknað við mettum vøkstri í føstum prísum.</p>
-<p><em type="bold">Játtanir innan løgur í 2017 </em></p>
-<p>Innan løgujáttanir eru hesar millum stóru játtanirnar í 2017:</p>
-<p>Glasir (Skúladepilin við Marknagil)  Landssjúkrahúsið  Nýtt havrannsóknarskip  Umvæling av almennum bygningum  Bústovnar</p>
-<p>Játtanirnar til P/F Skálafjarðar- og Sandoyartunnil og til Talgildu Føroyar eru undir rakstrarjáttanir.  Hesar verða roknaðar av landsstýrinum at vera íløgur í undirstøðukervi.  Samanlagt eru hesar 55 mió.kr. í 2017.</p>
-<p><em type="bold">Inntøkur landskassans í 2017 </em></p>
-<p>Inntøkurnar eru mettar til 4.838 mió. kr. netto í 2017 (íroknað mettar rentuinntøkur á umleið 6 mió. kr. netto í 2017). Nettoinntøkur frá skattum eru mettar til 2.078 mió. kr. Avgjøld og tollur eru mett til 2.399 mió. kr. netto. Heildarveiting er 642 mió. kr.</p>
-<p>Talvan niðanfyri vísir inntøkurnar í fíggjarlógaruppskotinum fyri 2017. Orsøkirnar til at skattainntøkurnar eru mettar at lækka nakað í 2016 sammett við 2015 eru, at kapitalvinningsskatturin var óvanliga høgur í 2015 vegna serligar umstøður umframt at skattalætti til lág- og miðallønt varð latin í 2016.</p>
-<p><em type="bold">Meting av inntøkum landskassans í 2016 og 2017 </em></p>
-<p><em type="italic">mió. kr. </em></p>
-<p xml:lang="dan"><em type="bold">R-2015 FL-2016 </em></p>
+<p>Mió. kr.</p>
+<p><em type="bold">Løguútreiðslur, mió. kr. (vinstri ási) </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>21/ <em type="bold">42 </em></p>
+<p>Mynd 17 vísir bruttoskuld og innistandandi hjá landsstýrinum (gjaldførið). Bruttoskuldin hjá landinum er vaksin munandi síðani 2007, men landið hevur enn ikki nógva skuld sammett við fleiri onnur lond í Vesturheiminum. Bruttoskuldin hjá landinum er 30-35% av BTÚ. Harafturat hava kommunur um leið 1 mia. kr. í bruttoskuld tilsamans (um leið 6% av BTÚ). Almenna bruttoskuldin í Evropa er til sammetingar um leið 90% av BTÚ í miðal, meðan hon er um leið 45% av BTÚ í Danmark. Er rikni fíggjarpolitikkurin ikki haldførur langt áramál, er vandi fyri, at kredittvirðið hjá landinum versnar, og at rentustøðið hjá landinum hækkar, sum frá líður. Her eigur eisini at verða havt í huga søguliga lágu renturnar í løtuni, og at rentustigið kann hækka næstu árini. Tí er umráðandi, at stig verða tikin at betra javnvágina millum inntøkur og útreiðslur í almenna búskapinum í Føroyum. Metingar hjá Fíggjarmálaráðnum av bygnaðarliga hallinum hjá tí almenna vísa, at í 2015 var bygnaðarligt hall á um leið 1% av BTÚ, ella um 150-200 mió. kr. Ábendingar eru um, at tað almenna framvegis hevur bygnaðarligt hall í 2016, tó at hallið sannlíkt er minkað. Fíggjarmálaráðið metir, at við verandi uppskoti til fíggjarlóg verður bygnaðarliga hallið hjá tí almenna um leið 0,5% av BTÚ í 2017. Tí verður neyðugt við varandi tiltøkum bæði innan inntøkur og útreiðslur hjá tí almenna til tess at betra javnvágina millum almennar inntøkur og útreiðslur og harvið at betra haldførið í almenna búskapinum. Avbjóðingin at betra haldførið í almenna búskapinum verður ikki minni av, at útreiðslurnar hjá landi og kommunum á millum annað heilsu- og almannaøkinum fara at vaksa munandi næstu árini. Hetta kemur av broyttari aldurssamanseting og betri viðgerðarmøguleikum og fer at hava við sær stórt trýst á útreiðslurnar hjá landi og kommunum, sum nú umsita eldraøkið. Landsstýrið tók í juni mánaði í ár lánsbrævalán, sum var um leið 1,4 mia. kr. Gildistíðin á láninum er fimm ár, og rentan á láninum er søgiliga lág (um leið 0,5% p.a.). Landið hevur tí sera gott kredittvirði, og kredittmetingarfyrtøkan Moody’s endurtók eisini endurtikið skoðsmálið (ratingina) av lánførinum hjá landinum í august í ár. Útlitini fyri skoðsmálið eru eisini støðug. Sostatt bendir alt á, at kredittvirðið hjá landinum framhaldandi verður gott næstu 1-2 árini. Miðalgjaldførið hjá landinum higartil í ár er um 2,4 mia. kr., sum er omanfyri minsta gjaldførið í 2016 á 2,3 mia. kr.</p>
+<p><em type="bold">Mynd 17 </em></p>
+<p><em type="bold">Landskassans bruttoskuld og innistandandi í mió. kr. og % av BTÚ, 1997 til 2016 </em></p>
+<p>Kelda: Gjaldstovan og Hagstovan.102030405060708001.0002.0003.0004.0005.0006.0007.00019971998199920002001200220032004200520062007200820092010201120122013201420152016</p>
+<p>Mió. kr.</p>
+<p><em type="bold">Bruttoskuld </em><em type="bold">(høgri ási) </em></p>
+<p><em type="bold">Innistandandi </em><em type="bold">(høgri ási) </em></p>
+<p><em type="bold">Bruttoskuld í % av BTÚ </em><em type="bold">(vinstri ási) </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>22/ <em type="bold">42 </em></p>
+<p><em type="bold">Uppskotið til fíggjarlóg fyri 2017 </em>Talvan niðanfyri vísir inntøkur, útreiðslur og RLÚ-úrslitið í fíggjarlógaruppskotinum fyri 2017. Í talvuni niðanfyri eru nettorentuinntøkur (um leið 6 mió. kr.) tiknar við á inntøkusíðuni, og løgujáttanir eru íroknaðar útreiðslunum tilsamans. <em type="bold">Høvuðstøl í fíggjarlógaruppskotinum fyri 2017 </em><em type="italic">Mió. kr. </em><em type="bold"></em><em type="bold">2017 </em></p>
+<p>Inntøkur tilsamans 4.838,3</p>
+<p>Útreiðslur tilsamans 4.726,0</p>
+<p>RLÚ-úrslit 112,3</p>
+<p><em type="bold">Framrokningar av inntøkum og útreiðslum </em>Stóru inntøkukeldurnar, vanligur landsskattur og meirvirðisgjald, eru í 2017 framroknaðar við metta vøkstrinum í ársins prísum, sum er um leið 3% í 2017. Eftir hetta er framroknað við mettum vøkstri í føstum prísum. </p>
+<p><em type="bold">Játtanir innan løgur í 2017 </em>Innan løgujáttanir eru hesar millum stóru játtanirnar í 2017: </p>
+<p>Glasir (Skúladepilin við Marknagil) Landssjúkrahúsið Nýtt havrannsóknarskip Umvæling av almennum bygningum Bústovnar</p>
+<p>Játtanirnar til P/F Skálafjarðar- og Sandoyartunnil og til Talgildu Føroyar eru undir rakstrarjáttanir. Hesar verða roknaðar av landsstýrinum at vera íløgur í undirstøðukervi. Samanlagt eru hesar 55 mió.kr. í 2017.</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>23/ <em type="bold">42 </em></p>
+<p><em type="bold">Inntøkur landskassans í 2017 </em>Inntøkurnar eru mettar til 4.838 mió. kr. netto í 2017 (íroknað mettar rentuinntøkur á umleið 6 mió. kr. netto í 2017). Nettoinntøkur frá skattum eru mettar til 2.078 mió. kr. Avgjøld og tollur eru mett til 2.399 mió. kr. netto. Heildarveiting er 642 mió. kr. Talvan niðanfyri vísir inntøkurnar í fíggjarlógaruppskotinum fyri 2017. Orsøkirnar til at skattainntøkurnar eru mettar at lækka nakað í 2016 sammett við 2015 eru, at kapitalvinningsskatturin var óvanliga høgur í 2015 vegna serligar umstøður umframt at skattalætti til lág- og miðallønt varð latin í 2016. <em type="bold">Meting av inntøkum landskassans í 2016 og 2017 </em><em type="italic">mió. kr. </em><em type="bold"></em></p>
+<p xml:lang="dan"><em type="bold">R-2015 </em></p>
+<p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">FL-2017 </em></p>
-<p><em type="bold">Munur frá FL16 til FL17  (%) </em></p>
-<p>Rentur  - - -  137,5%   Skattainntøkur</p>
-<p>2.132 1.935 2.045 2.078 7,4%   Avgjøld og tollur  2.086 2.301 2.365 2.399 4,3%   Ymsar inntøkur      -41,2%   Flytingar  - - - - -3,2%   Heildarveiting o.t.      0,0%</p>
-<p><em type="bold">Tilsamans</em>  <em type="bold">4.579 4.628 4.729 4.838 4,5%</em>   </p>
-<p><em type="bold">Útreiðslur landskassans í 2017 </em></p>
-<p>Rakstrar-, løgu- og útlánsútreiðslur (netto) verða mettar til 4.726 mió. kr. í 2017. Harav eru rakstrarútreiðslurnar 4.446 mió. kr., og løguútreiðslurnar eru 257 mió. kr., íroknað játtanir til Talgildu Føroyar og Eystur- og Sandoyartunlar, sum eftir játtanarskipanini er rakstur. Talvan niðanfyri vísir útreiðslurnar.</p>
-<p>Heilsutrygd hevur havt hækkandi inntøkur (+10 mió. kr.) og útreiðslur (+7 mió. kr.) síðan játtanarkarmarnir vórðu samtyktir í vár. Hetta er m.a. orsakað av øktum fólkatali. Verður nevndi útreiðsluvøksturin í heilsutrygdarskipanini drigin frá rakstrarvøkstri landskassans, er vøksturin í samlaðu rakstrarútreiðslum landsins 1,8%.</p>
-<p><em type="bold">Meting av útreiðslum landskassans í 2016 og 2017 </em></p>
-<p><em type="italic">mió. kr. </em></p>
-<p xml:lang="dan"><em type="bold">R-2015 FL-2016 </em></p>
+<p><em type="bold">Munur frá </em></p>
+<p xml:lang="dan"><em type="bold">FL16 til </em></p>
+<p><em type="bold">FL17 (%) </em></p>
+<p>Rentur -84 -16 -21 6 137,5%</p>
+<p>Skattainntøkur 2.132 1.935 2.045 2.078 7,4%</p>
+<p>Avgjøld og tollur 2.086 2.301 2.365 2.399 4,3%</p>
+<p>Ymsar inntøkur 51 68 38 40 -41,2%</p>
+<p>Flytingar -332 -316 -339 -326 -3,2%</p>
+<p>Heildarveiting o.t. 642 642 642 642 0,0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">4.579 </em><em type="bold">4.628 </em><em type="bold">4.729 </em><em type="bold">4.838 </em><em type="bold">4,5% </em></p>
+<p><em type="bold">Útreiðslur landskassans í 2017 </em>Rakstrar-, løgu- og útlánsútreiðslur (netto) verða mettar til 4.726 mió. kr. í 2017. Harav eru rakstrarútreiðslurnar 4.446 mió. kr., og løguútreiðslurnar eru 257 mió. kr., íroknað játtanir til Talgildu Føroyar og Eystur- og Sandoyartunlar, sum eftir játtanarskipanini er rakstur. Talvan niðanfyri vísir útreiðslurnar. Heilsutrygd hevur havt hækkandi inntøkur (+10 mió. kr.) og útreiðslur (+7 mió. kr.) síðan játtanarkarmarnir vórðu samtyktir í vár. Hetta er m.a. orsakað av øktum fólkatali. Verður nevndi útreiðsluvøksturin í heilsutrygdarskipanini drigin frá rakstrarvøkstri landskassans, er vøksturin í samlaðu rakstrarútreiðslum landsins 1,8%. <em type="bold">Meting av útreiðslum landskassans í 2016 og 2017 </em><em type="italic">mió. kr. </em><em type="bold"></em></p>
+<p xml:lang="dan"><em type="bold">R-2015 </em></p>
+<p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">FL-2017 </em></p>
-<p><em type="bold">Munur FL2017 til FL2016 (%) </em></p>
-<p>Rakstur</p>
-<p>4.225 4.383 4.383 4.469 1,96%   Løgur      16,82%</p>
-<p><em type="bold">Tilsamans  4.575 4.603 4.705 4.726 2,7%   </em></p>
-<p><em type="bold">Løgur í 2017 </em></p>
-<p>Løgukarmurin í fíggjarlógaruppskotinum fyri 2017 er 202 mió. kr. Hetta er ikki íroknað játtanirnar til felagið P/F Skálafjarðar- og Sandoyartunnilin og Talgildu Føroyar, sum eru undir rakstrarjáttanir. Játtanin til P/F Skálafjarðar- og Sandoyartunnil er 35 mió. kr. í 2017, og játtanin til Talgildu Føroyar er 20 mió. kr. í 2017. Íroknað játtanirnar til P/F Skálafjarðar- og Sandoyartunnil og Talgildu Føroyar eru samlaðu játtanirnar til løgur 257 mió. kr.</p>
-<p>Óbrúktar løgujáttanir eru frá 2016, sum hava átekning, soleiðis at tær kunnu verða framfluttar. Sostatt er sannlíkt, at nakað meira verður brúkt av løgukarminum í 2017 enn tær 202 mió. kr., sum eru játtaðar í fíggjarlógini. Talvan niðanfyri vísir, hvussu løgukarmurin á 202 mió. kr. í fíggjarlógaruppskotinum fyri 2017 er raðfestur.</p>
-<p><em type="bold">Løguætlanin fyri 2017 (mió. kr.) </em></p>
-<p>  <em type="bold">Løgur §1 - §17 tilsamans 202.000 </em></p>
-<p>  <em type="bold">§2 Løgmansfyrisitingin 2.000 </em></p>
-<p>Umbygging í Tinganesi 2.000</p>
-<p><em type="bold">§5 Fiskivinnumál 10.000 </em></p>
-<p>Tilbúgvingarætlan  Havrannsóknarskip 9.500</p>
-<p><em type="bold">§ 7 Mentamál 97.300 </em></p>
-<p>Skúladepil við Marknagil 87.000 Fróðskaparsetur Føroya 8.000 Hvalastøðin við Áir 1.000 Kirkjubømúrurin 1.300</p>
-<p>  <em type="bold">§ 11 Heilsu- og innlendismál 67.000 </em></p>
-<p>Medicoteknisk tól 9.000 Landssjúkrahúsið 58.000</p>
-<p><em type="bold">§ 12 Almannamál 12.000 </em></p>
-<p>Bústovnar o.a. 12.000</p>
-<p><em type="bold">§ 17 Samferðslumál 13.700 </em></p>
-<p>Umvæling av almennum bygningum 21.000 Almennir bygningar, søla -43.000 Nýggir landsvegir 11.000 Havnir 2.200 Strandfaraskip Landsins 22.500</p>
-<p>  <em type="bold">Løgur § 1 - § 17 tilsamans 202.000 </em></p>
-<p><em type="bold">Játtanareftirlit í fíggjarárinum 2016 </em></p>
-<p>Í játtanarskipanini er ásett, at saman við fíggjarlógaruppskotinum skal greiðast frá játtanareftirlitinum í fíggjarárinum. Her verður greitt frá játtanarligu støðuni samanlagt og fyri hvørja grein sær. Eisini verður víst yvirlit yvir hvørjar játtanir (høvuðskontur), ið verða mettar at fara at víkja frá upprunaligu játtanini, tá ið fíggjarárið er farið. Her verða bæði tiknar við eykajáttanir og játtanir, har ið mett er, at frávik verður, tá ið fíggjarárið er av.</p>
-<p><em type="bold">Meting av úrsliti landskassans í 2016 sammett við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Munur FL-2017 til FL- </em><em type="bold">2016 (%) </em></p>
+<p>Rakstur 4.225 4.383 4.383 4.469 1,96%</p>
+<p>Løgur 350 220 322 257 16,82%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">4.575 </em><em type="bold">4.603 </em><em type="bold">4.705 </em><em type="bold">4.726 </em><em type="bold">2,7% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>24/ <em type="bold">42 </em></p>
+<p><em type="bold">Løgur í 2017 </em>Løgukarmurin í fíggjarlógaruppskotinum fyri 2017 er 202 mió. kr. Hetta er ikki íroknað játtanirnar til felagið P/F Skálafjarðar- og Sandoyartunnilin og Talgildu Føroyar, sum eru undir rakstrarjáttanir. Játtanin til P/F Skálafjarðar- og Sandoyartunnil er 35 mió. kr. í 2017, og játtanin til Talgildu Føroyar er 20 mió. kr. í 2017. Íroknað játtanirnar til P/F Skálafjarðar- og Sandoyartunnil og Talgildu Føroyar eru samlaðu játtanirnar til løgur 257 mió. kr. Óbrúktar løgujáttanir eru frá 2016, sum hava átekning, soleiðis at tær kunnu verða framfluttar. Sostatt er sannlíkt, at nakað meira verður brúkt av løgukarminum í 2017 enn tær 202 mió. kr., sum eru játtaðar í fíggjarlógini. Talvan niðanfyri vísir, hvussu løgukarmurin á 202 mió. kr. í fíggjarlógaruppskotinum fyri 2017 er raðfestur. <em type="bold">Løguætlanin fyri 2017 </em><em type="bold">(mió. kr.) </em></p>
+<p><em type="bold">Løgur §1 - §17 tilsamans </em><em type="bold">202.000 </em><em type="bold">§2 Løgmansfyrisitingin </em><em type="bold">2.000 </em></p>
+<p>Umbygging í Tinganesi 2.000 <em type="bold">§5 Fiskivinnumál </em><em type="bold">10.000 </em></p>
+<p>Tilbúgvingarætlan 500</p>
+<p>Havrannsóknarskip 9.500 <em type="bold">§ 7 Mentamál </em><em type="bold">97.300 </em></p>
+<p>Skúladepil við Marknagil 87.000</p>
+<p>Fróðskaparsetur Føroya 8.000</p>
+<p>Hvalastøðin við Áir 1.000</p>
+<p>Kirkjubømúrurin 1.300 <em type="bold">§ 11 Heilsu- og innlendismál </em><em type="bold">67.000 </em></p>
+<p>Medicoteknisk tól 9.000</p>
+<p>Landssjúkrahúsið 58.000 <em type="bold">§ 12 Almannamál </em><em type="bold">12.000 </em></p>
+<p>Bústovnar o.a. 12.000 <em type="bold">§ 17 Samferðslumál </em><em type="bold">13.700 </em></p>
+<p>Umvæling av almennum bygningum 21.000</p>
+<p>Almennir bygningar, søla -43.000</p>
+<p>Nýggir landsvegir 11.000</p>
+<p>Havnir 2.200</p>
+<p>Strandfaraskip Landsins 22.500</p>
+<p><em type="bold">Løgur § 1 - § 17 tilsamans </em><em type="bold">202.000 </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>25/ <em type="bold">42 </em></p>
+<p><em type="bold">Játtanareftirlit í fíggjarárinum 2016 </em>Í játtanarskipanini er ásett, at saman við fíggjarlógaruppskotinum skal greiðast frá játtanareftirlitinum í fíggjarárinum. Her verður greitt frá játtanarligu støðuni samanlagt og fyri hvørja grein sær. Eisini verður víst yvirlit yvir hvørjar játtanir (høvuðskontur), ið verða mettar at fara at víkja frá upprunaligu játtanini, tá ið fíggjarárið er farið. Her verða bæði tiknar við eykajáttanir og játtanir, har ið mett er, at frávik verður, tá ið fíggjarárið er av. <em type="bold">Meting av úrsliti landskassans í 2016 sammett við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Inntøkur</p>
-<p>4.612.190 4.729.422 117.232 2,5%  Rakstrarútreiðslur*</p>
-<p>4.417.686 4.412.170 -5.516 -0,1%  Løguútreiðslur  185.450 292.944 107.494 58,0%</p>
-<p><em type="bold">RLÚ-úrslit </em></p>
-<p><em type="bold">9.054 24.308 15.254 168,5%   </em></p>
-<p>*Játtaninar til Talgildu Føroyar og Eystur- og Sandoyartunlar er íroknað rakstur</p>
-<p>Í talvuni omanfyri er víst RLÚ-úrslit fyri greinarnar § 1 til § 20 (vanligir postar). Aftrat hesum koma serinntøkur á § 55, sum eru 4,8 mió. kr. (niðurlaðing av Búnaðargrunninum). RLÚI-úrslitið verður væntandi avlop á um leið 24 mió. kr. í 2016, meðan RLÚII-úrslitið væntandi verður avlop á um leið 29 mió. kr. í 2016. Høvuðsorsøkirnar til, at avlopið verður størri enn væntað á fíggjarlógini fyri 2016, eru, at roknast kann við, at inntøkurnar vera umleið 117 mió. kr. hægri sammett við mettu inntøkurnar í fíggjarlógini. Væntandi verður eisini brúkt av løgujáttanum frá undanfarnum árum fyri um leið 70 mió. kr. Nýtslan av løgujáttanum – støðlingar - frá undanfarnum árum ávirkar sjálvsagt roknskaparliga úrslitið hjá landskassanum í 2016.</p>
-<p>Mett verður, at inntøkur landskassans í 2016 verða samanlagt 4.729 mió. kr., og rakstrarútreiðslurnar ver�</p>
-<p><em type="bold">Meting av inntøkum landskassans í 2016 sammett við fíggjarlógina eftir virksemisøki </em></p>
-<p><em type="italic">1.000 kr. </em></p>
-<p xml:lang="dan"><em type="bold">R-2015 FL-2016 </em></p>
-<p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
-<p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Rentur av skuld</p>
-<p>-105.640 -54.000 -54.000  0,0%   Rentuinntøkur o.tíl.  21.585 38.000 33.182 -4.818 -12,7%   Skattainntøkur  2.131.598 1.934.740 2.044.940 110.200 5,7%   Avgjøld og tollur  2.085.617 2.300.450 2.365.300 64.850 2,8%   Ymsar inntøkur  50.646 67.500 37.500 -30.000 -44,4%   Flytingar  -331.516 -316.300 -339.300 -23.000 -7,3%   Heildarveiting o.t.</p>
-<p>641.800 641.800 641.800  0,0%</p>
-<p><em type="bold">Tilsamans  4.494.090 4.612.190 4.729.422 117.232 2,5%   </em>Inntøkurnar eru tilsamans umleið 117 mió. kr. hægri enn mett, tá ið fíggjarlógin varð gjørd. Inntøkurnar frá vanliga landsskattinum, meirvirðisgjaldinum, kapitalvinnings- og felagsskattinum eru hægri enn mettar frammanundan. Hinvegin vera inntøkurnar frá tinglýsingargjaldinum og útluting frá partafeløgum og grunnum, sum landið eigur, væntandi nakað lægri enn mettar, tá ið fíggjarlógin varð gjørd. </p>
-<p><em type="bold">Meting av útreiðslum landskassans í 2016 sammett við fíggjarlógina eftir játtanarslagi </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Inntøkur 4.612.190 4.729.422 117.232 2,5%</p>
+<p>Rakstrarútreiðslur* 4.417.686 4.412.170 -5.516 -0,1%</p>
+<p>Løguútreiðslur 185.450 292.944 107.494 58,0%</p>
+<p><em type="bold">RLÚ-úrslit </em><em type="bold">9.054 </em><em type="bold">24.308 </em><em type="bold">15.254 </em><em type="bold">168,5% </em>*Játtaninar til Talgildu Føroyar og Eystur- og Sandoyartunlar er íroknað rakstur </p>
+<p>Í talvuni omanfyri er víst RLÚ-úrslit fyri greinarnar § 1 til § 20 (vanligir postar). Aftrat hesum koma serinntøkur á § 55, sum eru 4,8 mió. kr. (niðurlaðing av Búnaðargrunninum). RLÚI-úrslitið verður væntandi avlop á um leið 24 mió. kr. í 2016, meðan RLÚII-úrslitið væntandi verður avlop á um leið 29 mió. kr. í 2016. Høvuðsorsøkirnar til, at avlopið verður størri enn væntað á fíggjarlógini fyri 2016, eru, at roknast kann við, at inntøkurnar vera umleið 117 mió. kr. hægri sammett við mettu inntøkurnar í fíggjarlógini. Væntandi verður eisini brúkt av løgujáttanum frá undanfarnum árum fyri um leið 70 mió. kr. Nýtslan av løgujáttanum – støðlingar - frá undanfarnum árum ávirkar sjálvsagt roknskaparliga úrslitið hjá landskassanum í 2016. Mett verður, at inntøkur landskassans í 2016 verða samanlagt 4.729 mió. kr., og rakstrarútreiðslurnar verða mettar til samanlagt 4.412 mió. kr. og íløgur 293 mió. kr. Hetta hevur við sær, at RLÚ-úrslitið væntandi verður umleið 24 mió. kr. <em type="bold">Meting av inntøkum landskassans í 2016 sammett við fíggjarlógina eftir virksemisøki </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
+<p xml:lang="dan"><em type="bold">R-2015 </em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>204.730 206.554 1.824 0,9%  Rakstrarjáttan  2.844.314 2.850.239 5.925 0,2%  Løgujáttan  185.450 292.944 107.494 58,0%  Lógarbundin játtan  1.368.642 1.355.377 -13.263 -1,0%</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">4.603.136 4.705.114 101.978 2,2%   </em></p>
-<p>Væntaða meirnýtslan er tilsamans 6 mió. kr. á rakstrarjáttanum sammett við fíggjarlógina. Innan løgujáttanir verður frávikið væntandi um leið 107 mió. kr. Løgujáttanin á fíggjarlógini fyri 2016 var tilsamans 185 mió. kr. Harafturat eru løgujáttanir fyri tilsamans 174 mió. kr. eru fluttar frá eldri árum. Metta nýtslan í 2016 av løgujáttanum tilsamans er um leið 293 mió. kr.</p>
-<p>Á §11 verða væntandi samtyktar eykajáttanir fyri tilsamans um leið 6 mió. kr. netto. Størstu eykajáttanirnar eru til Landssjúkrahúsið og heilsutrygdarveitingar. Samanumtikið koma frávikini í 2016 at kalla bara av, at brúkt hevur verið av løgujáttanum frá undanfarnum árum.</p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Rentur av skuld -105.640 -54.000 -54.000 0 0,0%</p>
+<p>Rentuinntøkur o.tíl. 21.585 38.000 33.182 -4.818 -12,7%</p>
+<p>Skattainntøkur 2.131.598 1.934.740 2.044.940 110.200 5,7%</p>
+<p>Avgjøld og tollur 2.085.617 2.300.450 2.365.300 64.850 2,8%</p>
+<p>Ymsar inntøkur 50.646 67.500 37.500 -30.000 -44,4%</p>
+<p>Flytingar -331.516 -316.300 -339.300 -23.000 -7,3%</p>
+<p>Heildarveiting o.t. 641.800 641.800 641.800 0 0,0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">4.494.090 </em><em type="bold">4.612.190 </em><em type="bold">4.729.422 </em><em type="bold">117.232 </em><em type="bold">2,5% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>26/ <em type="bold">42 </em></p>
+<p>Inntøkurnar eru tilsamans umleið 117 mió. kr. hægri enn mett, tá ið fíggjarlógin varð gjørd. Inntøkurnar frá vanliga landsskattinum, meirvirðisgjaldinum, kapitalvinnings- og felagsskattinum eru hægri enn mettar frammanundan. Hinvegin vera inntøkurnar frá tinglýsingargjaldinum og útluting frá partafeløgum og grunnum, sum landið eigur, væntandi nakað lægri enn mettar, tá ið fíggjarlógin varð gjørd. <em type="bold">Meting av útreiðslum landskassans í 2016 sammett við fíggjarlógina eftir játtanarslagi </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>§ 1 Løgtingið 53.080 52.650 - -0,8%  § 2 Løgmansfyrisitingin 38.930 38.880 - -0,1%  § 3 Fíggjarmál 293.277 294.727 1.450 0,5%  § 5 Fiskivinnumál 170.179 170.651  0,3%  § 7 Mentamál 1.089.921 1.125.228 35.307 3,2%  § 11 Heilsu- og innlendismál 1.078.469 1.089.304 10.835 1,0%  § 12 Almannamál 1.455.973 1.459.087 3.114 0,2%  § 13 Uttanríkis- og vinnumál 111.770 108.944 -2.826 -2,5%  § 17 Samferðslumál 311.537 365.643 54.106 17,4%   Útreiðslur tilsamans 4.603.136 4.705.114 101.978 2,2%  § 20 Inntøkur 4.612.190 4.729.422 117.232 2,5%</p>
-<p><em type="bold"> RLÚ –úrslit 9.054 24.308 15.254 168,5%   </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 204.730 206.554 1.824 0,9%</p>
+<p>Rakstrarjáttan 2.844.314 2.850.239 5.925 0,2%</p>
+<p>Løgujáttan 185.450 292.944 107.494 58,0%</p>
+<p>Lógarbundin játtan 1.368.642 1.355.377 -13.263 -1,0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">4.603.136 </em><em type="bold">4.705.114 </em><em type="bold">101.978 </em><em type="bold">2,2% </em></p>
+<p>Væntaða meirnýtslan er tilsamans 6 mió. kr. á rakstrarjáttanum sammett við fíggjarlógina. Innan løgujáttanir verður frávikið væntandi um leið 107 mió. kr. Løgujáttanin á fíggjarlógini fyri 2016 var tilsamans 185 mió. kr. Harafturat eru løgujáttanir fyri tilsamans 174 mió. kr. eru fluttar frá eldri árum. Metta nýtslan í 2016 av løgujáttanum tilsamans er um leið 293 mió. kr. Á §11 verða væntandi samtyktar eykajáttanir fyri tilsamans um leið 6 mió. kr. netto. Størstu eykajáttanirnar eru til Landssjúkrahúsið og heilsutrygdarveitingar. Samanumtikið koma frávikini í 2016 at kalla bara av, at brúkt hevur verið av løgujáttanum frá undanfarnum árum. <em type="bold"></em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
+<p><em type="bold">FL-2016 </em></p>
+<p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
+<p><em type="bold">Frávik </em></p>
+<p><em type="bold">Frávik (%) </em>§ 1 </p>
+<p>Løgtingið 53.080 52.650 -430 -0,8% § 2</p>
+<p>Løgmansfyrisitingin 38.930 38.880 -50 -0,1% § 3</p>
+<p>Fíggjarmál 293.277 294.727 1.450 0,5% § 5</p>
+<p>Fiskivinnumál 170.179 170.651 472 0,3% § 7</p>
+<p>Mentamál 1.089.921 1.125.228 35.307 3,2% § 11</p>
+<p>Heilsu- og innlendismál 1.078.469 1.089.304 10.835 1,0% § 12</p>
+<p>Almannamál 1.455.973 1.459.087 3.114 0,2% § 13</p>
+<p>Uttanríkis- og vinnumál 111.770 108.944 -2.826 -2,5% § 17</p>
+<p>Samferðslumál 311.537 365.643 54.106 17,4%</p>
+<p>Útreiðslur tilsamans 4.603.136 4.705.114 101.978 2,2% § 20</p>
+<p>Inntøkur 4.612.190 4.729.422 117.2322,5%</p>
+<p><em type="bold">RLÚ –úrslit </em><em type="bold">9.054 </em><em type="bold">24.308 </em><em type="bold">15.254 </em><em type="bold">168,5% </em></p>
 <p>Í talvuni omanfyri eru vístar bæði stuðulsjáttanir, rakstrarjáttanir, løgujáttanir og lógarbundnar játtanir. Verður hugt eftir ymsu greinunum, sæst at serliga §7 og §17 víkja frá játtanunum á fíggjarlógini. Frávikini á hesum greinunum koma sjálvsagt av, at stórar løgujáttanir eru og at brúkt verður av løgujáttanum frá undanfarnum árum.</p>
-<p><em type="bold">Rakstrarjáttanareftirlit </em></p>
-<p>Niðanfyri verður hugt nærri eftir, hvussu játtanarliga støðan er á rakstrarjáttanum, stuðulsjáttanum og lógarbundnum játtanum hjá aðal</p>
-<p><em type="bold">§ 1 Løgtingið </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>27/ <em type="bold">42 </em></p>
+<p><em type="bold">Rakstrarjáttanareftirlit </em>Niðanfyri verður hugt nærri eftir, hvussu játtanarliga støðan er á rakstrarjáttanum, stuðulsjáttanum og lógarbundnum játtanum hjá aðalráðunum. Løgujáttanir eru ikki við í talvunum niðanfyri. Í staðin er serstakt løgujáttanareftirlit síðst í frágreiðingini eftir rakstrarjáttanareftirlitið. <em type="bold">§ 1 Løgtingið </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>10.1.02.</p>
-<p>Eftirløn og bíðiløn til løgtingsmenn Lógarbundin</p>
-<p>-280.000</p>
-<p>Mett frávik</p>
-<p>10.1.03.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>10.1.02. </p>
+<p>Eftirløn og bíðiløn til løgtingsmenn</p>
+<p>Lógarbundin -280.000</p>
+<p>Mett frávik 10.1.03.</p>
 <p>Løgtingsarbeiði</p>
-<p>Rakstrarjáttan</p>
-<p>-150.000</p>
+<p>Rakstrarjáttan -150.000</p>
 <p>Mett frávik</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">-430.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §1 í 2016 sammett við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">-430.000 </em></p>
+<p><em type="bold">Meting av útreiðslum á §1 í 2016 sammett við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan     0,0%  Rakstrarjáttan  45.880 45.730 - -0,3%  Lógarbundin játtan  7.200 6.920 - -3,9%</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">53.080 52.650 - -0,8%   </em></p>
-<p><em type="bold">§ 2 Løgmansfyrisitingin </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 0 0 0 0,0%</p>
+<p>Rakstrarjáttan 45.880 45.730 -150 -0,3%</p>
+<p>Lógarbundin játtan 7.200 6.920 -280 -3,9%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">53.080 </em><em type="bold">52.650 </em><em type="bold">-430 </em><em type="bold">-0,8% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>28/ <em type="bold">42 </em><em type="bold">§ 2 Løgmansfyrisitingin </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>12.3.01.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>12.3.01. </p>
 <p>Løgmaður og landsstýrið</p>
-<p>Rakstrarjáttan</p>
-<p>-350.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>14.1.04.</p>
+<p>Rakstrarjáttan -350.000</p>
+<p>Eykajáttan umbiðin í september 14.1.04.</p>
 <p>Føroya kærustovnur</p>
-<p>Rakstur</p>
-<p>300.000</p>
+<p>Rakstur 300.000</p>
 <p>Eykajáttan umbiðin í september</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">-50.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §2 í 2016 sammett við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">-50.000 </em></p>
+<p><em type="bold">Meting av útreiðslum á §2 í 2016 sammett við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan  5.100 5.100  0,0%  Rakstrarjáttan  32.830 32.780 - -0,2%  Lógarbundin játtan     0,0%</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">37.930 37.880 - -0,1%   </em></p>
-<p><em type="bold">§ 3 Fíggjarmál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 5.100 5.100 0 0,0%</p>
+<p>Rakstrarjáttan 32.830 32.780 -50 -0,2%</p>
+<p>Lógarbundin játtan 0 0 0 0,0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">37.930 </em><em type="bold">37.880 </em><em type="bold">-50 </em><em type="bold">-0,1% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>29/ <em type="bold">42 </em><em type="bold">§ 3 Fíggjarmál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>15.1.04.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>15.1.04. </p>
 <p>TAKS</p>
-<p>Rakstur</p>
-<p>2.000.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>15.1.07.</p>
+<p>Rakstur 2.000.000</p>
+<p>Eykajáttan umbiðin í september 15.1.07.</p>
 <p>Føroya Gjaldstova</p>
-<p>Rakstur</p>
-<p>2.350.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>15.1.20.</p>
+<p>Rakstur 2.350.000</p>
+<p>Eykajáttan umbiðin í september 15.1.20.</p>
 <p>Landsbanki Føroya</p>
-<p>Rakstur</p>
-<p>-5.300.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>15.2.01.</p>
+<p>Rakstur -5.300.000</p>
+<p>Eykajáttan umbiðin í september 15.2.01.</p>
 <p>Hagstova Føroya</p>
-<p>Rakstur</p>
-<p>1.500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>18.1.01.</p>
+<p>Rakstur 1.500.000</p>
+<p>Eykajáttan umbiðin í september 18.1.01.</p>
 <p>Tænastumannaeftirlønir</p>
-<p>Lógarbundin</p>
-<p>600.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>18.1.10.</p>
-<p>Postverk Føroya, eftirlønir Lógarbundin</p>
-<p>-450.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>18.2.04.</p>
+<p>Lógarbundin 600.000</p>
+<p>Eykajáttan umbiðin í september 18.1.10.</p>
+<p>Postverk Føroya, eftirlønir</p>
+<p>Lógarbundin -450.000</p>
+<p>Eykajáttan umbiðin í september 18.2.04.</p>
 <p>Danskar eftirlønir</p>
-<p>Lógarbundin</p>
-<p>250.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>18.2.07.</p>
-<p>Eftirlønir landstýrismanna Lógarbundin</p>
-<p>200.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>21.2.01.</p>
-<p>Stuðul til flutning og dupult húsarhald Lógarbundin</p>
-<p>1.300.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>24.3.27.</p>
+<p>Lógarbundin 250.000</p>
+<p>Eykajáttan umbiðin í september 18.2.07.</p>
+<p>Eftirlønir landstýrismanna</p>
+<p>Lógarbundin 200.000</p>
+<p>Eykajáttan umbiðin í september 21.2.01.</p>
+<p>Stuðul til flutning og dupult húsarhald</p>
+<p>Lógarbundin 1.300.000</p>
+<p>Eykajáttan umbiðin í september 24.3.27.</p>
 <p>Saltsilo</p>
-<p>Rakstur</p>
-<p>-1.000.000</p>
+<p>Rakstur -1.000.000</p>
 <p>Eykajáttan umbiðin í september</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">1.450.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §3 í 2016 samanborið við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">1.450.000 </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>30/ <em type="bold">42 </em></p>
+<p><em type="bold">Meting av útreiðslum á §3 í 2016 samanborið við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>2.100 2.100  0,0%  Rakstrarjáttan</p>
-<p>123.927 123.477 - -0,4%  Lógarbundin játtan</p>
-<p>167.250 169.150 1.900 1,1%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">293.277 294.727 1.450 0,5%   </em></p>
-<p><em type="bold">§ 5 Fiskivinnumál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 2.100 2.100 0 0,0%</p>
+<p>Rakstrarjáttan 123.927 123.477 -450 -0,4%</p>
+<p>Lógarbundin játtan 167.250 169.150 1.900 1,1%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">293.277 </em><em type="bold">294.727 </em><em type="bold">1.450 </em><em type="bold">0,5% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>31/ <em type="bold">42 </em><em type="bold">§ 5 Fiskivinnumál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>31.1.01.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>31.1.01. </p>
 <p>Tilbúgving á landi</p>
-<p>Rakstur</p>
-<p>-500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>33.2.01.</p>
-<p>Landbúnaðarroyndir og -ráðgeving Rakstur</p>
-<p>300.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>34.1.01.</p>
-<p>Fiskivinnuráð og nevndir Rakstur</p>
-<p>400.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>34.1.04.</p>
+<p>Rakstur -500.000</p>
+<p>Eykajáttan umbiðin í september 33.2.01.</p>
+<p>Landbúnaðarroyndir og -ráðgeving</p>
+<p>Rakstur 300.000</p>
+<p>Eykajáttan samtykt í apríl 34.1.01.</p>
+<p>Fiskivinnuráð og nevndir</p>
+<p>Rakstur 400.000</p>
+<p>Eykajáttan samtykt í apríl 34.1.04.</p>
 <p>Upplýsing um grind</p>
-<p>Rakstur</p>
-<p>-65.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>34.1.05.</p>
-<p>Hvalagransking og hvalateljing Rakstur</p>
-<p>65.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>34.2.22.</p>
+<p>Rakstur -65.000</p>
+<p>Eykajáttan umbiðin í september 34.1.05.</p>
+<p>Hvalagransking og hvalateljing</p>
+<p>Rakstur 65.000</p>
+<p>Eykajáttan umbiðin í september 34.2.22.</p>
 <p>Flutningsstuðul</p>
-<p>Lógarbundin</p>
-<p>351.000</p>
+<p>Lógarbundin 351.000</p>
 <p>Eykajáttan samtykt í apríl (-149) og umbiðin í september (500)</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">551.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §5 í 2016 sammett við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">551.000 </em></p>
+<p><em type="bold">Meting av útreiðslum á §5 í 2016 sammett við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>17.600 17.600  0,0%  Rakstrarjáttan</p>
-<p>141.080 141.280  0,1%  Lógarbundin játtan</p>
-<p>1.499 1.850  23,4%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">160.179 160.730  0,3%   </em></p>
-<p><em type="bold">§ 7 Mentamál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 17.600 17.600 0 0,0%</p>
+<p>Rakstrarjáttan 141.080 141.280 200 0,1%</p>
+<p>Lógarbundin játtan 1.499 1.850 351 23,4%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">160.179 </em><em type="bold">160.730 </em><em type="bold">551 </em><em type="bold">0,3% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>32/ <em type="bold">42 </em><em type="bold">§ 7 Mentamál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>11.1.09</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>11.1.09 </p>
 <p>Mentamálaráðið</p>
-<p>Rakstur</p>
-<p>320.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>23.3.05</p>
+<p>Rakstur 320.000</p>
+<p>Eykajáttan samtykt í apríl 23.3.05</p>
 <p>Miðnámsútbúgvingar</p>
-<p>Rakstur</p>
-<p>-1.580.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>23.6.16</p>
+<p>Rakstur -1.580.000</p>
+<p>Eykajáttan umbiðin í september 23.6.16</p>
 <p>Fróðskaparsetur Føroya</p>
-<p>Rakstur</p>
-<p>2.500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>23.7.04</p>
+<p>Rakstur 2.500.000</p>
+<p>Eykajáttan umbiðin í september 23.7.04</p>
 <p>Lestrarstuðul</p>
-<p>Lógarbundin</p>
-<p>-6.500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>23.7.05</p>
+<p>Lógarbundin -6.500.000</p>
+<p>Eykajáttan umbiðin í september 23.7.05</p>
 <p>Lestrarlán</p>
-<p>Stuðul</p>
-<p>-1.000.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>24.4.06.</p>
+<p>Stuðul -1.000.000</p>
+<p>Eykajáttan umbiðin í september 24.4.06.</p>
 <p>Kringvarp Føroya</p>
-<p>Rakstur</p>
-<p>-2.500.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>24.4.10.</p>
-<p>Stuðul til framleiðslu av føroyskum loftmiðlatilfari Stuðul</p>
-<p>150.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>24.4.13.</p>
+<p>Rakstur -2.500.000</p>
+<p>Eykajáttan samtykt í apríl 24.4.10.</p>
+<p>Stuðul til framleiðslu av føroyskum loftmiðlatilfari</p>
+<p>Stuðul 150.000</p>
+<p>Eykajáttan samtykt í apríl 24.4.13.</p>
 <p>Miðlastuðul</p>
-<p>Stuðul</p>
-<p>-1.000.000</p>
+<p>Stuðul -1.000.000</p>
 <p>Eykajáttan samtykt í apríl</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">-9.610.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §7 í 2016 samanborið við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">-9.610.000 </em></p>
+<p><em type="bold">Meting av útreiðslum á §7 í 2016 samanborið við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>84.321 82.471 -1.850 -2,2%  Rakstrarjáttan</p>
-<p>812.918 811.658 -1.260 -0,2%  Lógarbundin játtan</p>
-<p>129.932 123.432 -6.500 -5,0%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">1.027.171 1.017.561 -9.610 -0,9%   </em></p>
-<p><em type="bold">§ 11 Heilsu- og innlendismál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 84.321 82.471 -1.850 -2,2%</p>
+<p>Rakstrarjáttan 812.918 811.658 -1.260 -0,2%</p>
+<p>Lógarbundin játtan 129.932 123.432 -6.500 -5,0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">1.027.171 </em><em type="bold">1.017.561 </em><em type="bold">-9.610 </em><em type="bold">-0,9% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>33/ <em type="bold">42 </em><em type="bold">§ 11 Heilsu- og innlendismál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>20.1.10.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>20.1.10. </p>
 <p>Koppsetingar</p>
-<p>Lógarbundin</p>
-<p>-200.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.2.03.</p>
+<p>Lógarbundin -200.000</p>
+<p>Eykajáttan umbiðin í september 20.2.03.</p>
 <p>Heilsutrygdarveitingar</p>
-<p>Rakstur</p>
-<p>3.000.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.2.04.</p>
+<p>Rakstur 3.000.000</p>
+<p>Eykajáttan umbiðin í september 20.2.04.</p>
 <p>Kommunulæknaskipanin</p>
-<p>Rakstur</p>
-<p>-500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.2.05.</p>
-<p>Útbúgving av yngri læknum Rakstur</p>
-<p>200.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.2.06.</p>
+<p>Rakstur -500.000</p>
+<p>Eykajáttan umbiðin í september 20.2.05.</p>
+<p>Útbúgving av yngri læknum</p>
+<p>Rakstur 200.000</p>
+<p>Eykajáttan umbiðin í september 20.2.06.</p>
 <p>Økisheilsuskipanin</p>
-<p>Rakstur</p>
-<p>-800.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.3.04.</p>
+<p>Rakstur -800.000</p>
+<p>Eykajáttan umbiðin í september 20.3.04.</p>
 <p>Landssjúkrahúsið</p>
-<p>Rakstur</p>
-<p>14.200.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.3.15.</p>
+<p>Rakstur 14.200.000</p>
+<p>Eykajáttan umbiðin í september 20.3.15.</p>
 <p>Suðuroyar sjúkrahús</p>
-<p>Rakstur</p>
-<p>100.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.3.19.</p>
-<p>Serstakur sjúkrahúsheilivágur Rakstur</p>
-<p>-11.000.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>20.3.25.</p>
+<p>Rakstur 100.000</p>
+<p>Eykajáttan umbiðin í september 20.3.19.</p>
+<p>Serstakur sjúkrahúsheilivágur</p>
+<p>Rakstur -11.000.000</p>
+<p>Eykajáttan umbiðin í september 20.3.25.</p>
 <p>Hvíldarheimið Naina</p>
-<p>Rakstur</p>
-<p>50.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>20.4.02.</p>
+<p>Rakstur 50.000</p>
+<p>Eykajáttan samtykt í apríl 20.4.02.</p>
 <p>Viðgerðarstovnurin Heilbrigdi</p>
-<p>Rakstur</p>
-<p>65.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>20.4.03.</p>
+<p>Rakstur 65.000</p>
+<p>Eykajáttan samtykt í apríl 20.4.03.</p>
 <p>Viðgerðarstovnurin Blákrossheimið</p>
-<p>Rakstur</p>
-<p>70.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>30.1.07.</p>
+<p>Rakstur 70.000</p>
+<p>Eykajáttan samtykt í apríl 30.1.07.</p>
 <p>Náttúrufriðingarnevndir</p>
-<p>Rakstur</p>
-<p>100.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>30.1.10.</p>
+<p>Rakstur 100.000</p>
+<p>Eykajáttan umbiðin í september 30.1.10.</p>
 <p>Spilloljureinsing</p>
-<p>Stuðul</p>
-<p>250.000</p>
+<p>Stuðul 250.000</p>
 <p>Eykajáttan umbiðin í september</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">5.535.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §11 í 2016 sammett við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">5.535.000 </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>34/ <em type="bold">42 </em></p>
+<p><em type="bold">Meting av útreiðslum á §11 í 2016 sammett við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>1.535 1.785  16,3%  Rakstrarjáttan</p>
-<p>1.028.784 1.034.269 5.485 0,5%  Lógarbundin játtan</p>
-<p>7.650 7.450 - -2,6%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">1.037.969 1.043.504 5.535 0,5%   </em></p>
-<p><em type="bold">§ 12 Almannamál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 1.535 1.785 250 16,3%</p>
+<p>Rakstrarjáttan 1.028.784 1.034.269 5.485 0,5%</p>
+<p>Lógarbundin játtan 7.650 7.450 -200 -2,6%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">1.037.969 </em><em type="bold">1.043.504 </em><em type="bold">5.535 </em><em type="bold">0,5% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>35/ <em type="bold">42 </em><em type="bold">§ 12 Almannamál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>11.1.26.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>11.1.26. </p>
 <p>Almannamálaráðið</p>
-<p>Rakstur</p>
-<p>100.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>21.1.08.</p>
+<p>Rakstur 100.000</p>
+<p>Eykajáttan samtykt í apríl 21.1.08.</p>
 <p>Dugni – skúlin</p>
-<p>Rakstur</p>
-<p>100.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>21.3.01.</p>
+<p>Rakstur 100.000</p>
+<p>Eykajáttan umbiðin í september 21.3.01.</p>
 <p>Barnavernd</p>
-<p>Lógarbundin</p>
-<p>-690.000 Eykajáttan umbiðin í september (útreiðslur -930, inntøkur -240)</p>
-<p>21.3.04.</p>
-<p>Barnapeningur veittur í forskoti Lógarbundin</p>
-<p>-574.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>21.3.09.</p>
+<p>Lógarbundin -690.000</p>
+<p>Eykajáttan umbiðin í september (útreiðslur -930, inntøkur -240) 21.3.04.</p>
+<p>Barnapeningur veittur í forskoti</p>
+<p>Lógarbundin -574.000</p>
+<p>Eykajáttan umbiðin í september 21.3.09.</p>
 <p>Familjuískoyti</p>
-<p>Lógarbundin</p>
-<p>-4.117.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>21.3.11.</p>
+<p>Lógarbundin -4.117.000</p>
+<p>Eykajáttan umbiðin í september 21.3.11.</p>
 <p>Barnabeini</p>
-<p>Lógarbundin</p>
-<p>-2.500.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>21.4.01.</p>
+<p>Lógarbundin -2.500.000</p>
+<p>Eykajáttan samtykt í apríl 21.4.01.</p>
 <p>Dagpeningaskipan</p>
-<p>Lógarbundin</p>
-<p>4.552.000</p>
-<p>Eykajáttan umbiðin í september (útreiðslur 5.142, inntøkur 590)</p>
-<p>21.6.09.</p>
+<p>Lógarbundin 4.552.000</p>
+<p>Eykajáttan umbiðin í september (útreiðslur 5.142, inntøkur 590) 21.6.09.</p>
 <p>Trivnaðartænastur</p>
-<p>Rakstur</p>
-<p>4.350.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>21.6.20.</p>
+<p>Rakstur 4.350.000</p>
+<p>Eykajáttan samtykt í apríl 21.6.20.</p>
 <p>Sjóndepilin</p>
-<p>Rakstur</p>
-<p>100.000</p>
-<p>Eykajáttan samtykt í apríl</p>
-<p>21.7.01.</p>
+<p>Rakstur 100.000</p>
+<p>Eykajáttan samtykt í apríl 21.7.01.</p>
 <p xml:lang="dan">Vanlig forsorg</p>
-<p>Lógarbundin</p>
-<p>-2.930.000 Eykajáttan umbiðin í september (-1.930) og mett frávik (-1.000)</p>
-<p>21.8.01.</p>
+<p>Lógarbundin -2.930.000</p>
+<p>Eykajáttan umbiðin í september (-1.930) og mett frávik (-1.000) 21.8.01.</p>
 <p>Fólkapensjón</p>
-<p>Lógarbundin</p>
-<p>-4.500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>21.8.05.</p>
+<p>Lógarbundin -4.500.000</p>
+<p>Eykajáttan umbiðin í september 21.8.05.</p>
 <p>Fyritíðarpensjón</p>
-<p>Lógarbundin</p>
-<p>3.580.000</p>
+<p>Lógarbundin 3.580.000</p>
+<p>Eykajáttan umbiðin í september 21.8.13.</p>
+<p>Viðbót til ávísar pensjónistar</p>
+<p>Lógarbundin -1.357.000</p>
 <p>Eykajáttan umbiðin í september</p>
-<p>21.8.13.</p>
-<p>Viðbót til ávísar pensjónistar Lógarbundin</p>
-<p>-1.357.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">1.436.087  </em></p>
-<p><em type="bold">Meting av útreiðslum á §12 í 2016 samanborið við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">1.436.087 </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>36/ <em type="bold">42 </em></p>
+<p><em type="bold">Meting av útreiðslum á §12 í 2016 samanborið við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>26.149 26.149  0%   Rakstrarjáttan</p>
-<p>358.713 363.363 4.650 1,3%   Lógarbundin játtan</p>
-<p>1.055.111 1.046.575 -8.536 -0,8%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">1.439.973 1.436.087 -3.886 -0,3%   </em></p>
-<p><em type="bold">§ 13 Uttanríkis- og vinnumál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 26.149 26.149 0 0%</p>
+<p>Rakstrarjáttan 358.713 363.363 4.650 1,3%</p>
+<p>Lógarbundin játtan 1.055.111 1.046.575 -8.536 -0,8%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">1.439.973 </em><em type="bold">1.436.087 </em><em type="bold">-3.886 </em><em type="bold">-0,3% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>37/ <em type="bold">42 </em><em type="bold">§ 13 Uttanríkis- og vinnumál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>11.1.59.</p>
-<p>Uttanríkis- og vinnumálaráðið Rakstur</p>
-<p>100.000</p>
-<p>Eykajáttan samtykt í apríl (500) og umbiðin í september (-400)</p>
-<p>11.1.61.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>11.1.59. </p>
+<p>Uttanríkis- og vinnumálaráðið</p>
+<p>Rakstur 100.000</p>
+<p>Eykajáttan samtykt í apríl (500) og umbiðin í september (-400) 11.1.61.</p>
 <p>Talgildu Føroyar</p>
-<p>Rakstur</p>
-<p>-6.000.000</p>
-<p>Mett frávik</p>
-<p>37.1.20.</p>
+<p>Rakstur -6.000.000</p>
+<p>Mett frávik 37.1.20.</p>
 <p>Vinnustovnurin</p>
-<p>Rakstur</p>
-<p>-100.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>37.2.04.</p>
+<p>Rakstur -100.000</p>
+<p>Eykajáttan umbiðin í september 37.2.04.</p>
 <p>Endurgjald til skipasmíð</p>
-<p>Stuðul</p>
-<p>3.174.000</p>
+<p>Stuðul 3.174.000</p>
 <p>Eykajáttan umbiðin í september</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">-2.826.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §13 í 2016 samanborið við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">-2.826.000 </em></p>
+<p><em type="bold">Meting av útreiðslum á §13 í 2016 samanborið við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>39.525 42.699 3.174 8,0%  Rakstrarjáttan</p>
-<p>69.245 63.245 -6.000 -8,7%  Lógarbundin játtan</p>
-<p>0%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">108.570 105.944 -2.826 -2,6%  </em></p>
-<p><em type="bold">§ 17 Samferðslumál </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 39.525 42.699 3.174 8,0%</p>
+<p>Rakstrarjáttan 69.245 63.245 -6.000 -8,7%</p>
+<p>Lógarbundin játtan 0 0 0 0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">108.570 </em><em type="bold">105.944 </em><em type="bold">-2.826 </em><em type="bold">-2,6% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>38/ <em type="bold">42 </em><em type="bold">§ 17 Samferðslumál </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>38.1.02.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>38.1.02. </p>
 <p xml:lang="dan">Landsverk</p>
-<p>Rakstur</p>
-<p>3.500.000</p>
-<p>Eykajáttan umbiðin í september</p>
-<p>38.2.21.</p>
+<p>Rakstur 3.500.000</p>
+<p>Eykajáttan umbiðin í september 38.2.21.</p>
 <p>Stuðul til útoyggjar</p>
-<p>Stuðul</p>
-<p>250.000</p>
+<p>Stuðul 250.000</p>
 <p>Eykajáttan umbiðin í september</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">3.750.000 </em></p>
-<p><em type="bold">Meting av útreiðslum á §17 í 2016 samanborið við fíggjarlógina fyri 2016 </em></p>
-<p><em type="italic">1.000 kr. </em></p>
+<p><em type="bold">Tilsamans </em><em type="bold">3.750.000 </em></p>
+<p><em type="bold">Meting av útreiðslum á §17 í 2016 samanborið við fíggjarlógina fyri 2016 </em><em type="italic">1.000 kr. </em><em type="bold"></em></p>
 <p><em type="bold">FL-2016 </em></p>
 <p xml:lang="dan"><em type="bold">Meting 2016 </em></p>
 <p><em type="bold">Frávik </em></p>
-<p><em type="bold"> Frávik (%) </em></p>
-<p>Stuðulsjáttan</p>
-<p>28.400 28.650  0,9%  Rakstrarjáttan</p>
-<p>230.937 234.437 3.500 1,5%  Lógarbundin játtan</p>
-<p>0%</p>
-<p><em type="bold">Tilsamans  </em></p>
-<p><em type="bold">259.337 263.087 3.750 1,5%  </em></p>
-<p><em type="bold">§ 20 Inntøkur </em></p>
-<p><em type="bold">Játtanarliga støðan í september 2016 </em></p>
-<p><em type="bold">Høvuðs- konta Stovnur/játtan </em></p>
+<p><em type="bold">Frávik (%) </em></p>
+<p>Stuðulsjáttan 28.400 28.650 250 0,9%</p>
+<p>Rakstrarjáttan 230.937 234.437 3.500 1,5%</p>
+<p>Lógarbundin játtan 0 0 0 0%</p>
+<p><em type="bold">Tilsamans </em><em type="bold">259.337 </em><em type="bold">263.087 </em><em type="bold">3.750 </em><em type="bold">1,5% </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p><em type="bold">M I N I S T R Y O F F I N A N C E </em>39/ <em type="bold">42 </em><em type="bold">§ 20 Inntøkur </em><em type="bold">Játtanarliga støðan í september 2016 </em><em type="bold">Høvuðs- konta </em></p>
+<p><em type="bold">Stovnur/játtan </em></p>
 <p><em type="bold">Játtanarslag </em></p>
-<p><em type="bold">Frávik </em><em type="italic">(kr.)</em><em type="bold"> </em></p>
-<p><em type="bold">Viðmerking </em></p>
-<p>50.2.04.</p>
+<p><em type="bold">Frávik </em><em type="italic">(kr.) </em><em type="bold"></em></p>
+<p><em type="bold">Viðmerking </em>50.2.04. </p>
 <p>Aðrar rentur</p>
-<p>Ógreinað</p>
-<p>-300.000</p>
-<p>Nýggj meting</p>
-<p>50.2.10.</p>
+<p>Ógreinað -300.000</p>
+<p>Nýggj meting 50.2.10.</p>
 <p>Útgoldið yvirskot frá Danmarks Nationalbank</p>
-<p>Ógreinað</p>
-<p>-4.518.000</p>
-<p>Nýggj meting</p>
-<p>52.1.01.</p>
+<p>Ógreinað -4.518.000</p>
+<p>Nýggj meting 52.1.01.</p>
 <p>Vanligur landsskattur</p>
-<p>Ógreinað</p>
-<p>46.500.000</p>
-<p>Nýggj meting</p>
-<p>52.1.07.</p>
+<p>Ógreinað 46.500.000</p>
+<p>Nýggj meting 52.1.07.</p>
 <p>Felagsskattur</p>
-<p>Ógreinað</p>
-<p>10.000.000</p>
-<p>Nýggj meting</p>
-<p>52.1.11.</p>
+<p>Ógreinað 10.000.000</p>
+<p>Nýggj meting 52.1.11.</p>
 <p>Kapitalvinningsskattur</p>
-<p>Ógreinað</p>
-<p>38.000.000</p>
-<p>Nýggj meting</p>
-<p>52.1.13.</p>
+<p>Ógreinað 38.000.000</p>
+<p>Nýggj meting 52.1.13.</p>
 <p>Avgjald av kapitaleftirlønum</p>
-<p>Ógreinað</p>
-<p>8.000.000</p>
-<p>Nýggj meting</p>
-<p>52.1.27.</p>
+<p>Ógreinað 8.000.000</p>
+<p>Nýggj meting 52.1.27.</p>
 <p>Gjald til Heilsutrygd</p>
-<p>Ógreinað</p>
-<p>7.700.000</p>
-<p>Eykajáttan umbiðin í september (3 mió. kr.) og nýggj meting</p>
-<p>52.2.01.</p>
+<p>Ógreinað 7.700.000</p>
+<p>Eykajáttan umbiðin í september (3 mió. kr.) og nýggj meting 52.2.01.</p>
 <p>Meirvirðisgjald</p>
-<p>Ógreinað</p>
-<p>52.250.000</p>
-<p>Nýggj meting</p>
-<p>52.2.04.</p>
+<p>Ógreinað 52.250.000</p>
+<p>Nýggj meting 52.2.04.</p>
 <p>Tollavgjøld</p>
-<p>Ógreinað</p>
-<p>-6.000.000</p>
-<p>Nýggj meting</p>
-<p>52.2.07.</p>
+<p>Ógreinað -6.000.000</p>
+<p>Nýggj meting 52.2.07.</p>
 <p>Punktgjøld</p>
-<p>Ógreinað</p>
-<p>-5.950.000</p>
-<p>Nýggj meting</p>
-<p>52.2.10.</p>
+<p>Ógreinað -5.950.000</p>
+<p>Nýggj meting 52.2.10.</p>
 <p>Lønhæddaravgjald</p>
-<p>Ógreinað</p>
-<p>2.000.000</p>
-<p>Nýggj meting</p>
-<p>52.2.14.</p>
+<p>Ógreinað 2.000.000</p>
+<p>Nýggj meting 52.2.14.</p>
 <p>Loyvisgjald á alivinnu</p>
-<p>Ógreinað</p>
-<p>17.000.000</p>
-<p>Nýggj meting</p>
-<p>52.2.16.</p>
+<p>Ógreinað 17.000.000</p>
+<p>Nýggj meting 52.2.16.</p>
 <p>Framleiðsluavgjøld</p>
-<p>Ógreinað</p>
-<p>2.000.000</p>
-<p>Nýggj meting</p>
-<p>52.2.19.</p>
+<p>Ógreinað 2.000.000</p>
+<p>Nýggj meting 52.2.19.</p>
 <p>Skrásetingargjald</p>
-<p>Ógreinað</p>
-<p>15.000.000</p>
-<p>Nýggj meting</p>
-<p>52.2.22.</p>
+<p>Ógreinað 15.000.000</p>
+<p>Nýggj meting 52.2.22.</p>
 <p>Vegskattur (vektgjald)</p>
-<p>Ógreinað</p>
-<p>5.000.000</p>
+<p>Ógreinað 5.000.000</p>
 <p>Nýggj meting</p>
-<p>52.2.28.</p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>40/ <em type="bold">42 </em>52.2.28. </p>
 <p>Umhvørvisavgjald á smyrjiolju</p>
-<p>Ógreinað</p>
-<p>-450.000</p>
-<p>Nýggj meting</p>
-<p>52.2.30.</p>
+<p>Ógreinað -450.000</p>
+<p>Nýggj meting 52.2.30.</p>
 <p>Tinglýsingargjald</p>
-<p>Ógreinað</p>
-<p>-16.000.000</p>
-<p>Nýggj meting</p>
-<p>52.3.01.</p>
+<p>Ógreinað -16.000.000</p>
+<p>Nýggj meting 52.3.01.</p>
 <p>Útluting úr Fíggingargrunninum</p>
-<p>Ógreinað</p>
-<p>-3.000.000</p>
-<p>Nýggj meting</p>
-<p>52.3.04.</p>
-<p>Útluting frá partafeløgum og grunnum Ógreinað</p>
-<p>-27.000.000</p>
-<p>Nýggj meting</p>
-<p>52.5.01.</p>
+<p>Ógreinað -3.000.000</p>
+<p>Nýggj meting 52.3.04.</p>
+<p>Útluting frá partafeløgum og grunnum</p>
+<p>Ógreinað -27.000.000</p>
+<p>Nýggj meting 52.5.01.</p>
 <p>Endurrindan av keyps-MVG</p>
-<p>Ógreinað</p>
-<p>-20.000.000</p>
+<p>Ógreinað -20.000.000</p>
+<p>Nýggj meting 52.5.04.</p>
+<p>Endurrindan fyri DIS/FAS inntøkur</p>
+<p>Ógreinað -3.000.000</p>
 <p>Nýggj meting</p>
-<p>52.5.04.</p>
-<p>Endurrindan fyri DIS/FAS inntøkur Ógreinað</p>
-<p>-3.000.000</p>
-<p>Nýggj meting</p>
-<p><em type="bold">Tilsamans </em></p>
-<p><em type="bold">117.232.000 </em></p>
-<p><em type="bold">Løgujáttanareftirlit </em></p>
-<p>Løgukarmurin í fíggjarlógini fyri 2016 er 185,5 mió. kr. tilsamans. Hetta er uttan játtanirnar til felagið P/F Skálafjarðar- og Sandoyartunnilin og Talgildu Føroyar, sum eru rakstrarjáttanir. Harafturat eru 174 mió. kr. fluttar frá undanfarnum árum. Samlaða játtanin til løgur í 2016 við framfluttum játtanum (og eykajáttanum) er sostatt 361 mió. kr. Roknast kann við, at um leið 293 mió. kr. verða nýttar av løgujáttanunum í 2016. Seinastu árini hevur verið sera torført at meta um nýtsluna av løgujáttanum fyri alt árið. Metingarnar skulu tí lesast við fyrivarni.</p>
+<p><em type="bold">Tilsamans </em><em type="bold">117.232.000 </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>41/ <em type="bold">42 </em></p>
+<p><em type="bold">Løgujáttanareftirlit </em>Løgukarmurin í fíggjarlógini fyri 2016 er 185,5 mió. kr. tilsamans. Hetta er uttan játtanirnar til felagið P/F Skálafjarðar- og Sandoyartunnilin og Talgildu Føroyar, sum eru rakstrarjáttanir. Harafturat eru 174 mió. kr. fluttar frá undanfarnum árum. Samlaða játtanin til løgur í 2016 við framfluttum játtanum (og eykajáttanum) er sostatt 361 mió. kr. Roknast kann við, at um leið 293 mió. kr. verða nýttar av løgujáttanunum í 2016. Seinastu árini hevur verið sera torført at meta um nýtsluna av løgujáttanum fyri alt árið. Metingarnar skulu tí lesast við fyrivarni. </p>
 <p><em type="italic">Heiti (1.000 kr.) </em></p>
-<p><em type="bold">Flutt frá eldri árum FL </em></p>
-<p xml:lang="dan"><em type="bold">EyJ </em></p>
-<p><em type="bold">Játtan tilsamans 2016 Mett nýtsla 2016 Mett flyting </em></p>
-<p xml:lang="dan"><em type="bold">til 2017 </em></p>
-<p><em type="bold">§ 1 Løgtingið 19.000   19.000  19.000 </em></p>
-<p>Nýggjur bygningur til Føroya Løgting 19.000   19.000  19.000</p>
-<p><em type="bold">§ 2 Løgmansfyrisitingin  1.000  1.000 1.000  </em></p>
-<p>Umbygging í Tinganesi  1.000  1.000 1.000</p>
-<p><em type="bold">§ 5 Fiskivinnumál 9.421 10.000  19.421 9.921 9.500 </em></p>
-<p>Tilbúgvingarætlan 9.421   9.421 9.421</p>
-<p>Nýtt havrannsóknarskip  10.000  10.000  9.500</p>
-<p><em type="bold">§ 7 Mentamál 103.520 62.750 -11.940 154.330 107.667 46.663 </em></p>
-<p>Eftirskúlar</p>
-<p>Studentaskúlin og hf-skeiðið í Eysturoy 8.585  230* 8.815 8.815</p>
-<p>Tekniski skúli í Klaksvík 10.077  850* 10.927 10.927</p>
+<p><em type="bold">Flutt frá </em><em type="bold">eldri árum </em></p>
+<p><em type="bold">FL </em><em type="bold">2016 </em></p>
+<p xml:lang="dan"><em type="bold">EyJ </em><em type="bold">2016 </em></p>
+<p><em type="bold">Játtan </em><em type="bold">tilsamans 2016 </em></p>
+<p><em type="bold">Mett nýtsla 2016 </em></p>
+<p><em type="bold">Mett flyting </em><em type="bold">til 2017 </em><em type="bold">§ 1 Løgtingið </em><em type="bold">19.000 </em><em type="bold">0 </em><em type="bold">0 </em><em type="bold">19.000 </em><em type="bold">0 </em><em type="bold">19.000 </em></p>
+<p>Nýggjur bygningur til Føroya Løgting 19.000 0 0 19.000 0 19.000 <em type="bold">§ 2 Løgmansfyrisitingin </em><em type="bold">0 </em><em type="bold">1.000 </em><em type="bold">0 </em><em type="bold">1.000 </em><em type="bold">1.000 </em><em type="bold">0 </em></p>
+<p>Umbygging í Tinganesi 0 1.000 0 1.000 1.000 0 <em type="bold">§ 5 Fiskivinnumál </em><em type="bold">9.421 </em><em type="bold">10.000 </em><em type="bold">0 </em><em type="bold">19.421 </em><em type="bold">9.921 </em><em type="bold">9.500 </em></p>
+<p>Tilbúgvingarætlan 9.421 0 0 9.421 9.421 0</p>
+<p>Nýtt havrannsóknarskip 0 10.000 0 10.000 500 9.500 <em type="bold">§ 7 Mentamál </em><em type="bold">103.520 </em><em type="bold">62.750 </em><em type="bold">-11.940 </em><em type="bold">154.330 </em><em type="bold">107.667 </em><em type="bold">46.663 </em></p>
+<p>Eftirskúlar 0 200 0 200 200 0</p>
+<p>Studentaskúlin og hf-skeiðið í Eysturoy 8.585 0 230* 8.815 8.815 0</p>
+<p>Tekniski skúli í Klaksvík 10.077 0 850* 10.927 10.927 0</p>
 <p>Skúladepil við Marknagil 80.163 41.000 -9.000* 112.163 70.000 42.163</p>
-<p>Studentaskúlin í Hoydølum   3.180* 3.180 3.180</p>
-<p>Fróðskaparsetur Føroya  8.000 -6.500* 1.500 1.500</p>
-<p>Tjóðleikhús 4.695   4.695  4.500</p>
-<p>Hvalastøðin við Áir  2.000 -700* 1.300 1.300</p>
-<p>Kirkjubømúrurin  1.250  1.250 1.250</p>
-<p>Kringvarp Føroya, løga  10.300  10.300 10.300</p>
-<p><em type="bold">     </em><em type="italic">framhald... </em></p>
-<p><em type="italic">...framhald </em><em type="bold">      </em></p>
-<p><em type="bold">§ 11 Heilsu- og innlendismál  40.500 17.000 57.923 45.800 12.123 </em></p>
-<p>Medicoteknisk tól  9.000  9.000 9.000</p>
-<p>Landssjúkrahúsið, útbygging  28.700 17.000 46.123 34.000 12.123</p>
-<p>Klaksvíkar sjúkrahús  2.000  2.000 2.000</p>
-<p>Suðuroyar sjúkrahús</p>
-<p><em type="bold">§ 12 Almannamál 18.045 16.000  34.045 23.000 11.045 </em></p>
-<p>Bústovnar o.a. 18.045 16.000  34.045 23.000 11.045</p>
-<p><em type="bold">§ 13 Uttanríkis- og vinnumál**  3.000  3.000 3.000  </em></p>
-<p>Keyp av bygningi  3.000  3.000 3.000</p>
-<p><em type="bold">§ 17 Samferðslumál*** 23.471 52.200 -3.750 71.921 102.556 7.365 </em></p>
-<p>Umvæling av almennum bygningum  22.000  22.000 22.000</p>
-<p>Almennir bygningar, søla 0  -43.000  -43.000 -5.000</p>
+<p>Studentaskúlin í Hoydølum 0 0 3.180* 3.180 3.180 0</p>
+<p>Fróðskaparsetur Føroya 0 8.000 -6.500* 1.500 1.500 0</p>
+<p>Tjóðleikhús 4.695 0 0 4.695 195 4.500</p>
+<p>Hvalastøðin við Áir 0 2.000 -700* 1.300 1.300 0</p>
+<p>Kirkjubømúrurin 0 1.250 0 1.250 1.250 0</p>
+<p>Kringvarp Føroya, løga 0 10.300 0 10.300 10.300 0 <em type="bold"></em><em type="italic">framhald... </em></p>
+<p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em>42/ <em type="bold">42 </em></p>
+<p>Viðmerkingar: * Eykajáttan umbiðin í september. ** Játtanin til Talgildu Føroyar er rakstrarjáttan undir grein 13 í 2016. *** Játtanin til felagið P/F Skálafjarðar- og Sandoyartunnilin er stuðulsjáttan undir grein 17 í 2016. <em type="italic">...framhald </em><em type="bold">§ 11 Heilsu- og innlendismál </em><em type="bold">423 </em><em type="bold">40.500 </em><em type="bold">17.000 </em><em type="bold">57.923 </em><em type="bold">45.800 </em><em type="bold">12.123 </em></p>
+<p>Medicoteknisk tól 0 9.000 0 9.000 9.000 0</p>
+<p>Landssjúkrahúsið, útbygging 423 28.700 17.000 46.123 34.000 12.123</p>
+<p>Klaksvíkar sjúkrahús 0 2.000 0 2.000 2.000 0</p>
+<p>Suðuroyar sjúkrahús 0 800 0 800 800 0 <em type="bold">§ 12 Almannamál </em><em type="bold">18.045 </em><em type="bold">16.000 </em><em type="bold">0 </em><em type="bold">34.045 </em><em type="bold">23.000 </em><em type="bold">11.045 </em></p>
+<p>Bústovnar o.a. 18.045 16.000 0 34.045 23.000 11.045 <em type="bold">§ 13 Uttanríkis- og vinnumál** </em><em type="bold">0 </em><em type="bold">3.000 </em><em type="bold">0 </em><em type="bold">3.000 </em><em type="bold">3.000 </em><em type="bold">0 </em></p>
+<p>Keyp av bygningi 0 3.000 0 3.000 3.000 0 <em type="bold">§ 17 Samferðslumál*** </em><em type="bold">23.471 </em><em type="bold">52.200 </em><em type="bold">-3.750 </em><em type="bold">71.921 </em><em type="bold">102.556 </em><em type="bold">7.365 </em></p>
+<p>Umvæling av almennum bygningum 0 22.000 0 22.000 22.000 0</p>
+<p>Almennir bygningar, søla 0 -43.000 0 -43.000 -5.000 0</p>
 <p>Nýggir landsvegir 14.715 61.400 -3.750* 72.365 65.000 7.365</p>
-<p>Havnir 5.347 11.700  17.047 17.047</p>
-<p>Strandfaraskip landsins 3.409   3.409 3.409</p>
-<p>Flogferðsla, tyrlupallar</p>
-<p><em type="bold">Løgujáttanir tilsamans 173.880  185.450 1.310 360.640 292.944 105.696 </em></p>
-<p>Viðmerkingar: * Eykajáttan umbiðin í september. ** Játtanin til Talgildu Føroyar er rakstrarjáttan undir grein 13 í 2016. *** Játtanin til felagið P/F Skálafjarðar- og Sandoyartunnilin er stuðulsjáttan undir grein 17 í 2016.</p>
+<p>Havnir 5.347 11.700 0 17.047 17.047 0</p>
+<p>Strandfaraskip landsins 3.409 0 0 3.409 3.409 0</p>
+<p>Flogferðsla, tyrlupallar 0 100 0 100 100 0</p>
+<p><em type="bold">Løgujáttanir tilsamans </em><em type="bold">173.880 185.450 </em><em type="bold">1.310 </em><em type="bold">360.640 </em><em type="bold">292.944 </em><em type="bold">105.696 </em></p>
 </body></document>

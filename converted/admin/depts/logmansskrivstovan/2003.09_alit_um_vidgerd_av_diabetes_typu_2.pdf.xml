@@ -1,162 +1,119 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>5333</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2003.09 Álit um viðgerð av diabetes typu 2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Innihaldsyvirlit</em> </p>
-<p><em type="italic">1. FORORÐ ........................................................................................................................................2</em> </p>
-<p><em type="italic">ARBEIÐSSETNINGUR..........................................................................................................................2</em> <em type="italic">LIMIR Í ARBEIÐSBÓLKINUM...............................................................................................................2</em> </p>
-<p xml:lang="dan"><em type="italic">2. INNGANGUR.................................................................................................................................3</em> </p>
-<p><em type="italic">3. LÝSA VIÐGERÐARTØRVIN HJÁ SJÚKLINGUM VIÐ TYPU 2 DIABETES....................4</em> </p>
-<p><em type="italic">HVAT SKAL KANNAST? .....................................................................................................................5</em> </p>
-<p><em type="bold">4. LÝSA NÚVERANDI VIÐGERÐARMØGULEIKAR HJÁ SJÚKLINGUM VIÐ TYPU 2</em> <em type="italic">DIABETES .........................................................................................................................................7</em> </p>
-<p><em type="bold">5. UPPSKOT UM, HVUSSU VIÐGERÐARVIÐURSKIFTINI HJÁ HESUM SJÚKLINGUM</em> <em type="italic">KUNNU BETRAST OG SKIPAST................................................................................................10</em> </p>
-<p><em type="italic">ARBEIÐSBÓLKURIN MÆLIR TIL........................................................................................................10</em> <em type="italic">HVUSSU SKULU TEY TRÝ DIABETESAMBULATORIINI PROFILERAST?................................................11</em> </p>
-<p><em type="bold">6. LÝSA FYRIMUNIR OG VANSAR VIÐ UPPSKOTUNUM TIL LOYSN Á</em> <em type="italic">VIÐGERÐARVIÐURSKIFTUNUM .............................................................................................12</em> </p>
-<p><em type="bold">7. KOSTNAÐARMETINGAR AV UPPSKOTUNUM TIL LOYSN Á</em> <em type="italic">VIÐGERÐARVIÐURSKIFTUNUM .............................................................................................13</em> </p>
-<p><em type="italic">8. KELDULISTI...............................................................................................................................16</em> </p>
-<p><em type="bold">1. Fororð        </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>5429</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2003.09 Álit um viðgerð av diabetes typu 2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes1</p>
+<p><em type="bold">Innihaldsyvirlit </em><em type="bold">1. FORORÐ ........................................................................................................................................2 </em></p>
+<p>ARBEIÐSSETNINGUR..........................................................................................................................2 LIMIR Í ARBEIÐSBÓLKINUM...............................................................................................................2 <em type="bold">2. INNGANGUR.................................................................................................................................3 </em><em type="bold">3. LÝSA VIÐGERÐARTØRVIN HJÁ SJÚKLINGUM VIÐ TYPU 2 DIABETES....................4 </em></p>
+<p>HVAT SKAL KANNAST? .....................................................................................................................5 <em type="bold">4. LÝSA NÚVERANDI VIÐGERÐARMØGULEIKAR HJÁ SJÚKLINGUM VIÐ TYPU 2 DIABETES .........................................................................................................................................7 </em><em type="bold">5. UPPSKOT UM, HVUSSU VIÐGERÐARVIÐURSKIFTINI HJÁ HESUM SJÚKLINGUM KUNNU BETRAST OG SKIPAST................................................................................................10 </em></p>
+<p>ARBEIÐSBÓLKURIN MÆLIR TIL........................................................................................................10 HVUSSU SKULU TEY TRÝ DIABETESAMBULATORIINI PROFILERAST?................................................11 <em type="bold">6. LÝSA FYRIMUNIR OG VANSAR VIÐ UPPSKOTUNUM TIL LOYSN Á VIÐGERÐARVIÐURSKIFTUNUM .............................................................................................12 </em><em type="bold">7. KOSTNAÐARMETINGAR AV UPPSKOTUNUM TIL LOYSN Á VIÐGERÐARVIÐURSKIFTUNUM .............................................................................................13 </em><em type="bold">8. KELDULISTI...............................................................................................................................16 </em></p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes2 <em type="bold">1. Fororð </em></p>
 <p>Landsstýrismaðurin við heilsumálum setti 29. juni 2003 ein arbeiðsbólk, hvørs uppgáva var at orða eitt álit til landsstýrismannin um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes. Arbeiðsbólkinum varð álagt at handa landsstýrismanninum álitið 1. september 2003.</p>
 <p>Landsstýrismaðurin legði dent á, at endamálið við arbeiðinum hjá arbeiðsbólkinum var at koma við uppskotum um, hvussu viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes kunnu betrast, so hesum sjúklingum koma at standa góð og nøktandi viðgerðartilboð í boði.</p>
-<p>Álitið hjá arbeiðsbólkinum um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes er orðað við støði í niðanfyristandandi arbeiðssetningi.</p>
-<p><em type="bold">Arbeiðssetningur: </em></p>
-<p type="listitem">• lýsa viðgerðartørvin hjá sjúklingum við typu 2 diabetes</p>
-<p type="listitem">• lýsa núverandi viðgerðarmøguleikarnar hjá sjúklingum við typu 2 diabetes</p>
-<p type="listitem">• koma við uppskotum um, hvussu viðgerðarviðurskiftini hjá hesum sjúklingum kunnu betrast</p>
-<p>og skipast</p>
-<p type="listitem">• lýsa fyrimunir og vansar við uppskotunum til loysn á viðgerðarviðurskiftunum</p>
-<p type="listitem">• gera kostnaðarmetingar av uppskotunum til loysn á viðgerðarviðurskiftunum</p>
+<p type="listitem">Álitið hjá arbeiðsbólkinum um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes er orðað við støði í niðanfyristandandi arbeiðssetningi.   Arbeiðssetningur:</p>
+<p type="listitem">lýsa viðgerðartørvin hjá sjúklingum við typu 2 diabetes</p>
+<p type="listitem">lýsa núverandi viðgerðarmøguleikarnar hjá sjúklingum við typu 2 diabetes</p>
+<p type="listitem">koma við uppskotum um, hvussu viðgerðarviðurskiftini hjá hesum sjúklingum kunnu betrastog skipast</p>
+<p type="listitem">lýsa fyrimunir og vansar við uppskotunum til loysn á viðgerðarviðurskiftunum</p>
+<p type="listitem">gera kostnaðarmetingar av uppskotunum til loysn á viðgerðarviðurskiftunum</p>
 <p>Landsstýrismaðurin heitti á Landssjúkrahúsið, Klaksvíkar Sjúkrahús, Suðuroyar Sjúkrahús, Diabetesfelag Føroya og Kommunulæknafelag Føroya um at velja hvør sín lim í arbeiðsbólkin. Niðanfyristandandi umboð mannaðu arbeiðsbólkin.</p>
-<p><em type="bold">Limir í arbeiðsbólkinum:</em> </p>
-<p type="listitem">• Jens Andreassen, deildarlækni, Landssjúkrahúsið</p>
-<p type="listitem">• Mariann Patursson, kostráðgevi, Landssjúkrahúsið</p>
-<p type="listitem">• Ann Mari Hammer, sjúkrarøktarfrøðingur, Suðuroyar Sjúkrahús</p>
-<p type="listitem">• Synnøva Hansen, sjúkrarøktarfrøðingur, Klaksvíkar Sjúkrahús</p>
-<p type="listitem">• Sten Larsen, kommunulækni, Kommunulæknafelag Føroya</p>
-<p type="listitem">• Jógvan Róin, yvirlækni, nevndarlimur, Diabetesfelag Føroya</p>
-<p type="listitem">• Katrin Gaard, fulltrúi, Familju- og heilsumálaráðið</p>
-<p><em type="bold">2. Inngangur</em> </p>
+<p type="listitem">Limir í arbeiðsbólkinum:</p>
+<p type="listitem">Jens Andreassen, deildarlækni, Landssjúkrahúsið</p>
+<p type="listitem">Mariann Patursson, kostráðgevi, Landssjúkrahúsið</p>
+<p type="listitem">Ann Mari Hammer, sjúkrarøktarfrøðingur, Suðuroyar Sjúkrahús</p>
+<p type="listitem">Synnøva Hansen, sjúkrarøktarfrøðingur, Klaksvíkar Sjúkrahús</p>
+<p type="listitem">Sten Larsen, kommunulækni, Kommunulæknafelag Føroya</p>
+<p type="listitem">Jógvan Róin, yvirlækni, nevndarlimur, Diabetesfelag Føroya</p>
+<p type="listitem">Katrin Gaard, fulltrúi, Familju- og heilsumálaráðið</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes3 <em type="bold">2. Inngangur </em></p>
 <p>Í 1985 byrjaði táverandi yvirlækni á medisinsku deild á Landssjúkrahúsinum, Jógvan Róin, regluligt formaliserað ambulant virksemi fyri diabetikarar. Hetta var fyrst av øllum ætlað sjúklingum við typu 1 diabetes. Tað var tá átrokandi neyðugt at fáa skipað viðurskifti á hesum øki, tí sjúklingar við typu 1 diabetes hava ein afturvendandi tørv fyri at kunna leita sær ráð frá serkunnleika í nógvum ymsum viðurskiftum, sum kunnu koma fyri í gerandisdegnum (t.d. byrjandi sýrueitran, influenza, spýggjusjúka, lívsýki, afturvendandi óskil á blóðsukrinum) umframt í serligum førum (barnakonur, uttanlandaferðir, ganga fjøllini, til bjarga, veitslur o.a.). Tó kundu typu 2 diabetikarar sleppa framat til metingar, tá kommunulæknin helt, at sukursjúkan var so út av lagi vánaligt regulerað, at hon ikki kundi stýrast longur einans við kostráðgeving og tablettum.</p>
 <p>Um tað mundi og nakað inn í 1990´ini var vitanin um typu 2 diabetes framvegis avmarkað. Læknarnir kendu lítið til sjúkumekanismurnar aftan fyri typu 2 diabetes. Men sjúkugongdin hjá hesum sjúklingum var øllum eyðsýnd. Hjá sjúklingum, har sjúkan var vánaligt regulerað, gekk stútt aftur á bakka, og somuleiðis fingu hesi seinkomplikatiónir, ið vóru tengdar at diabetes.</p>
 <p>Var talan um yngri fólk, kundi væntaða livitíðin verða skerd við 15-20 árum. Liviárini kundu somuleiðis verða merkt av vánaligari lívsgóðsku orsakað av niðursettari sjón ella blindi, skortandi nýravirkni, pínufullum manglandi blóðrensli í beinunum og álvarsomum blóðtøppum í hjarta og heila. Hjá summum sjúklingum var onkuntíð neyðugt at taka eina tá. Men ferð eftir ferð vísti hetta seg ikki at vera nóg mikið, og sjúklingarnir noyddust undir fleiri skurðviðgerðir, har beinið varð tikið hægri uppi fyri hvørja ferð. Nógvir diabetikarar gjørdust avlamnir og óarbeiðsførir fleiri ár fyri eftirlønaraldur. Harafturat var alt ov skjóti deyðin hjá hesum sjúklingum ofta vesaligur við nógvum líðingum: tey komu upp í rak og visnaðu burtur við innvortis eitran vegna vantandi nýrafunktión – hjartaveik og lamin. Og læknarnir kundu ikki gera annað enn at linna um síðstu dagarnar.</p>
 <p>Hetta er ein ræðandi sjúkugongd, sum eisini sæst enn ídag – hóast ikki so ofta. Sjálvandi gongur betur hjá øðrum, men um allan dibetesbólkin kann generelt sigast, at enn í dag liva tey eini 5-10 ár styttri enn miðalaldurin yvirhøvur, at mortaliteturin er tvey-trýfaldaður (yvirdeyðiligheitin er 100 – 200 %), og at 75% av teimum doyggja av hjarta-karsjúku.</p>
-<p>Risastórar interventiónskanningar vórðu settar í gongd í Bretlandi síðst í 1970´unum, og <span type="quote">”frísku”</span>, so vóru gagnligu árinini fleirfaldaði hjá diabetikarum.</p>
-<p>Hetta eggjaði til meira serstakar kanningar av diabetikarum. Nakrar av hesum kanningum eru lidnar, meðan aðrar eru í gongd. Og úrslitini siga øll tað sama – tað loysir seg sera væl at viðgera ikki bara blóðsukurið, men eisini at leggja seg eftir intensivt at viðgera blóðtrýst, kolesterol og at fáa sjúklingin at korrigera lívsstílin – t.v.s. broyta kostvanar, økja rørslustøðið og leggja av at roykja.</p>
-<p><span type="quote">”Steno - Type 2 studiet”</span> er ein donsk kanning av síðstnevnda slag, og hon varð almannakunngjørd í New England Journal of Medicine og Ugeskrift for Læger í januar 2003. Hon legði seg júst eftir at samanbera intensiva multifaktoriella interventión við traditionella multifaktoriella interventión, fyri um møguligt at kunna prógva um tað loysir seg at vera konsekvent intensivur í viðgerðini í samanborið við ta meiri <span type="quote">”lagaligu”</span> viðgerðina, sum kommunulæknarnir í Danmark vanliga góvu um tað mundi. Kanningin prógvaði týðiliga, at intensiv viðgerð loysti seg – serliga tá talan var um tær sokallaðu klassisku mikrovaskuleru seinkomplikatiónirnar (sum raka eygu, nýru og føtur). Somuleiðis er tað prógvað, at tað er ein týðiligur munur, eisini um sjúklingurin bert røkkur ásettu málunum partvíst. Men megnar sjúklingurin at fylgja øllum tilmælunum, eru góð útlit fyri, at viðkomandi livir við góðari lívsdygd eins leingi og flest onnur fólk.</p>
-<p>Tey seinastu 4-5 árini er komið eitt ovurhonds stórt tilfar um hetta evnið, og skjótt er at villast í ørgrynnini av ritgerðum, ið onkursvegna hava relatión til diabetes, og sum tískil kunnu vera relevantar at lesa – summar meiri, summar minni. Dansk Selskab for Intern Medicin setti í samarbeiði við Dansk Endokrinologisk Selskab og Dansk selskab for almen medicin ein arbeiðsbólk at gera eina statusfrágreiðing um evnið. Hesin arbeiðsbólkur gav í 2000 út eina sokallaða <span type="quote">”klaringsrapport”</span> við heitinum <span type="quote" xml:lang="dan">”Type 2-diabetes og det metaboliske syndrom – diagnostik og behandling”</span>. Frágreiðingin bygdi á ikki færri enn 174 vísindaligar greinar og ritgerðir! Arbeiðsbólkurin gjøgnumgekk við vandni alt tilfarið og dró úr hesum essentiellar upplýsingar og útkrystalliseraði tær í brúkilig tilmæli. Frágreiðingin er eitt frálíkt dømi um evidensbaserað medisin, tá tað er best, men er eisini vorðin eitt dygdargott amboð hjá læknum og sjúkrasystrum, sum dagliga arbeiða við diabetikarum.</p>
-<p><em type="bold">3. Lýsa viðgerðartørvin hjá sjúklingum við typu 2 diabetes</em> </p>
-<p>Í dag vita vit, at umleið helvtin av typu 2 diabetikarunum longu hava tekin til diabetiskar seinkomplikatiónir, tann dagin tey fáa staðfest sjúkuna. Hetta kemst av, at sjúkan er sloppin at gera um seg í eini 10 ár, áðrenn hon verður uppdagað. Tørvurin fyri ráðgeving og viðgerð er soleiðis sjálvsagdur fyri øll í somu løtu, tey fáa staðfest sjúkuna – og tørvurin er lívslangur.</p>
-<p>Tann besta viðgerðin er góð undirvísing. Í undirvísingini verður dentur lagdur á:</p>
-<p type="listitem">• at geva sjúklinginum innlit í sjúkumekanismurnar</p>
-<p type="listitem">• at fáa sjúklingin at skilja álvarsemi í sjúkuni, og at nógv kann gerast í dag at fyribyrgja</p>
-<p>seinkomplikatiónum</p>
-<p type="listitem">• at greiða sjúklinginum frá teimum mongu medisinsku viðgerðartilboðunum, sum kunnu</p>
-<p>gevast í dag, men at tað eisini er neyðugt, at sjúklingurin tekur ímóti hesum tilboðum</p>
-<p type="listitem">• at tað er neyðugt at fylgja givnu læknaordinatiónum, tí tað er ein fyritreyt fyri at kunna náa</p>
-<p>góð úrslit – og her er veruliga nógv at vinna</p>
-<p>Sjúklingurin eigur at ganga til regluligt eftirlit 4 ferðir um árið hjá fakfólki við serkunnleika og/el</p>
-<p><em type="bold">Hvat skal kannast?</em> </p>
-<p><em type="bold">Blóðtrýst</em> </p>
-<p>Blóðtrýstið eigur at verða kannað hvørja ferð, og málið er at fáa tað niður um 140/90 mmHg. Talva 1 er tikin úr <span type="quote" xml:lang="dan">”Klinisk vejledning – Type 2 i almen praksis – Diagnose og behandling”</span>. Flestu sjúklingarnir við typu 2 diabetes hava ov høgt blóðtrýst, og tað skulu ofta, fyri ikki at siga oftast, 3</p>
-<p type="listitem">– 5 ymisk sløg av blóðtrýstniðursetandi heilivági til, áðrenn rokkið verður á mál.</p>
-<p><em type="bold">Talva 1: Blóðtrýst</em> </p>
-<p>GottAkseptabultVánaligt Systoliskt blóðtrýst&lt;130 mmHg&lt;140 mmHg&gt;140 mmHg Diastoliskt blóðtrýst&lt;80 mmHg&lt;90 mmHg&gt;90 mmHg</p>
+<p>Risastórar interventiónskanningar vórðu settar í gongd í Bretlandi síðst í 1970´unum, og eftir hetta aðrastaðni við. Serliga varð hugt eftir effektini av at viðgera blóðtrýst, kolesterol, roykisteðg, rørslu (motión) og klænking. Eftir 10-15 árum vórðu kanningarnar gjørdar upp í hagtøl og úrslitini løgd fram fyrst í 1990´unum. Flestu kanningarnar vóru ikki primert miðaðar móti diabetikarum, men av tí at so nógv fólk vóru við í kanningunum, bar væl til at kanna undirbólkar og millum hesar eisini diabetikarar. Tað svitaðist ikki, at hjálpti ein interventión uppá tey <span type="quote">”frísku”</span>, so vóru gagnligu árinini fleirfaldaði hjá diabetikarum.</p>
+<p>Hetta eggjaði til meira serstakar kanningar av diabetikarum. Nakrar av hesum kanningum eru lidnar, meðan aðrar eru í gongd. Og úrslitini siga øll tað sama – tað loysir seg sera væl at viðgera ikki bara blóðsukurið, men eisini at leggja seg eftir intensivt at viðgera blóðtrýst, kolesterol og at fáa sjúklingin at korrigera lívsstílin – t.v.s. broyta kostvanar, økja rørslustøðið og leggja av at roykja. <span type="quote">”Steno - Type 2 studiet”</span> er ein donsk kanning av síðstnevnda slag, og hon varð almannakunngjørd í New England Journal of Medicine og Ugeskrift for Læger í januar 2003. Hon legði seg júst eftir at</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes4samanbera intensiva multifaktoriella interventión við traditionella multifaktoriella interventión, fyri um møguligt at kunna prógva um tað loysir seg at vera konsekvent intensivur í viðgerðini í samanborið við ta meiri <span type="quote">”lagaligu”</span> viðgerðina, sum kommunulæknarnir í Danmark vanliga góvu um tað mundi. Kanningin prógvaði týðiliga, at intensiv viðgerð loysti seg – serliga tá talan var um tær sokallaðu klassisku mikrovaskuleru seinkomplikatiónirnar (sum raka eygu, nýru og føtur). Somuleiðis er tað prógvað, at tað er ein týðiligur munur, eisini um sjúklingurin bert røkkur ásettu málunum partvíst. Men megnar sjúklingurin at fylgja øllum tilmælunum, eru góð útlit fyri, at viðkomandi livir við góðari lívsdygd eins leingi og flest onnur fólk.</p>
+<p>Tey seinastu 4-5 árini er komið eitt ovurhonds stórt tilfar um hetta evnið, og skjótt er at villast í ørgrynnini av ritgerðum, ið onkursvegna hava relatión til diabetes, og sum tískil kunnu vera relevantar at lesa – summar meiri, summar minni. Dansk Selskab for Intern Medicin setti í samarbeiði við Dansk Endokrinologisk Selskab og Dansk selskab for almen medicin ein arbeiðsbólk at gera eina statusfrágreiðing um evnið. Hesin arbeiðsbólkur gav í 2000 út eina sokallaða <span type="quote">”klaringsrapport”</span> við heitinum <span type="quote" xml:lang="dan">”Type 2-diabetes og det metaboliske syndrom – diagnostik og behandling”</span>. Frágreiðingin bygdi á ikki færri enn 174 vísindaligar greinar og ritgerðir! Arbeiðsbólkurin gjøgnumgekk við vandni alt tilfarið og dró úr hesum essentiellar upplýsingar og útkrystalliseraði tær í brúkilig tilmæli. Frágreiðingin er eitt frálíkt dømi um evidensbaserað medisin, tá tað er best, men er eisini vorðin eitt dygdargott amboð hjá læknum og sjúkrasystrum, sum dagliga arbeiða við diabetikarum. <em type="bold">3. Lýsa viðgerðartørvin hjá sjúklingum við typu 2 diabetes </em></p>
+<p type="listitem">Í dag vita vit, at umleið helvtin av typu 2 diabetikarunum longu hava tekin til diabetiskar seinkomplikatiónir, tann dagin tey fáa staðfest sjúkuna. Hetta kemst av, at sjúkan er sloppin at gera um seg í eini 10 ár, áðrenn hon verður uppdagað. Tørvurin fyri ráðgeving og viðgerð er soleiðis sjálvsagdur fyri øll í somu løtu, tey fáa staðfest sjúkuna – og tørvurin er lívslangur.   Tann besta viðgerðin er góð undirvísing. Í undirvísingini verður dentur lagdur á:</p>
+<p type="listitem">at geva sjúklinginum innlit í sjúkumekanismurnar</p>
+<p type="listitem">at fáa sjúklingin at skilja álvarsemi í sjúkuni, og at nógv kann gerast í dag at fyribyrgjaseinkomplikatiónum</p>
+<p type="listitem">at greiða sjúklinginum frá teimum mongu medisinsku viðgerðartilboðunum, sum kunnugevast í dag, men at tað eisini er neyðugt, at sjúklingurin tekur ímóti hesum tilboðum</p>
+<p type="listitem">at tað er neyðugt at fylgja givnu læknaordinatiónum, tí tað er ein fyritreyt fyri at kunna náagóð úrslit – og her er veruliga nógv at vinna</p>
+<p>Sjúklingurin eigur at ganga til regluligt eftirlit 4 ferðir um árið hjá fakfólki við serkunnleika og/ella serligum áhuga fyri diabetes (lækna og sjúkrasystur), sum eftir tørvi kann endurtaka og gjøgnumganga relevant elementir í undirvísingartilfarinum.</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes5</p>
+<p><em type="bold">Hvat skal kannast? </em></p>
+<p><em type="bold">Blóðtrýst </em>Blóðtrýstið eigur at verða kannað hvørja ferð, og málið er at fáa tað niður um 140/90 mmHg. Talva 1 er tikin úr <span type="quote" xml:lang="dan">”Klinisk vejledning – Type 2 i almen praksis – Diagnose og behandling”</span>. Flestu sjúklingarnir við typu 2 diabetes hava ov høgt blóðtrýst, og tað skulu ofta, fyri ikki at siga oftast, 3 – 5 ymisk sløg av blóðtrýstniðursetandi heilivági til, áðrenn rokkið verður á mál. </p>
+<p><em type="bold">Talva 1: Blóðtrýst </em></p>
+<p>Gott</p>
+<p>Akseptabult</p>
+<p>Vánaligt</p>
+<p>Systoliskt blóðtrýst&lt;130 mmHg&lt;140 mmHg&gt;140 mmHg</p>
+<p>Diastoliskt blóðtrýst&lt;80 mmHg&lt;90 mmHg&gt;90 mmHg</p>
 <p>Kelda: <span type="quote" xml:lang="dan">”Klinisk vejledning – Type 2 i almen praksis – Diagnose og behandling”</span>.</p>
-<p><em type="bold">Nýru</em> </p>
-<p>Nýrafunktiónin skal fylgjast í minsta lagi eina ferð um árið – bæði við blóðroyndum og eini serligari, men einfaldari landroynd fyri at uppdaga møgulig diabetiskt árin á nýrunum (mikroalbuminuri). Verður hesin skaðin staðfestur við endurtøku av royndini, skulu nýruni verjast framyvir við ávísum heilivági, sum samstundis eisini setur blóðtrýstið niður (ACE-tarnara og/ella angiotensin-2-receptorblokkara).</p>
-<p><em type="bold">Feittinnihald</em> </p>
-<p>Feittinnihaldið í blóðinum skal kannast eina ferð um árið. Flestu sjúklingarnir hava sokallaða dyslipidæmi, sum ikki neyðturviliga merkir, at totalkolesterolið er ov høgt, hóast tað aloftast er, men at tað er eitt skeivt býti millum tað góða (HDL) og tað ringa kolesterolið (LDL), og at triglyceridinnihaldið í blóðinum er ov høgt (eitt annað feittevnið enn kolesterol). Men her er viðgerðin í flestu førum minni trupul við sonevndu statinevnunum, sum er effektivur heilivágur at fáa feittevnini uppá pláss við, og tað er at fáa totalkolesterol &lt; 5 mmol/l, HDL &gt; 1 mmol/l, LDL &lt; 3 mmol/l og triglyceridir &lt; 2 mmol/l.</p>
+<p><em type="bold">Nýru </em>Nýrafunktiónin skal fylgjast í minsta lagi eina ferð um árið – bæði við blóðroyndum og eini serligari, men einfaldari landroynd fyri at uppdaga møgulig diabetiskt árin á nýrunum (mikroalbuminuri). Verður hesin skaðin staðfestur við endurtøku av royndini, skulu nýruni verjast framyvir við ávísum heilivági, sum samstundis eisini setur blóðtrýstið niður (ACE-tarnara og/ella angiotensin-2-receptorblokkara). </p>
+<p><em type="bold">Feittinnihald </em>Feittinnihaldið í blóðinum skal kannast eina ferð um árið. Flestu sjúklingarnir hava sokallaða dyslipidæmi, sum ikki neyðturviliga merkir, at totalkolesterolið er ov høgt, hóast tað aloftast er, men at tað er eitt skeivt býti millum tað góða (HDL) og tað ringa kolesterolið (LDL), og at triglyceridinnihaldið í blóðinum er ov høgt (eitt annað feittevnið enn kolesterol). Men her er viðgerðin í flestu førum minni trupul við sonevndu statinevnunum, sum er effektivur heilivágur at fáa feittevnini uppá pláss við, og tað er at fáa totalkolesterol &lt; 5 mmol/l, HDL &gt; 1 mmol/l, LDL &lt; 3 mmol/l og triglyceridir &lt; 2 mmol/l. </p>
 <p>Roynast skal sjálvandi fyrst við kostráðgeving, sum fokuserar á kolesterollækkandi kost, men hetta einsamalt vísir seg hjá teimum mongu tíverri ikki at vera nóg mikið, so tað verður oftast til, at sjúklingurin bæði skal eta feittfátækan kost og statinir.</p>
-<p><em type="bold">Kostráðgevi</em> </p>
-<p>Í samband við fyrstu vitjanina á diabetesambulatoriinum fylgja vanliga 4-6 viðtalur hjá kostráðgeva yvir 6-12 mánaðir. Eftir hetta kunnu viðtalurnar avtalast eftir tørvi, so leingi diabetikarin er knýttur at diabetesambulatoriinum.</p>
-<p xml:lang="dan"><em type="bold">Vekt</em> </p>
-<p>Vektin eigur at mátast hvørja ferð, og fyri tey feitu verður miðað eftir at vektin yvir 2 ár lækkar við 10-15% av byrjanarvektini.</p>
-<p xml:lang="dan"><em type="bold">EKG</em> </p>
-<p>Elektrokardiogram (EKG) skal takast árliga fyri at fanga møgulig árin á hjartað, so tey skjótast kunnu ávísast til relevanta kanning og viðgerð. Ikki so fá hava tørv á invasivari viðgerð av hjartapulsæðrunum – ballóndilatatión møguliga við innlegging av stenti ella bypassskurð.</p>
-<p><em type="bold">Miðalblóðsukur</em> </p>
-<p>Við eini blóðroynd, Hæmoglobin A1C, kann miðalblóðsukrið seinastu 8 vikurnar útroknast. Hendan blóðroyndin eigur at takast 3-4 ferðir um árið. Stílað verður ímóti, at fáa hetta talið niður um 6,5 % svarandi til eitt miðalblóðsukur uppá 7 mmol/l.</p>
-<p>Øll skulu læra at taka blóðsukurið á sær sjálvum, og somuleiðis skulu tey ogna sær eitt álítandi blóðsukurtól.</p>
-<p><em type="bold">Royking og rørsla</em> </p>
-<p>Diabetikarar skulu eggjast til og fáa tilboð um hjálp til at halda uppat at roykja, eins og tey eisini skulu stuðlast í at røra seg regluliga, svarandi til ½ tíma gongutúr tríggjar ferðir um vikuna.</p>
-<p><em type="bold">Eygu</em> </p>
-<p>Eygnalæknin skal síggja sjúklingin regluliga, hvørt ella annað hvørt ár, men oftari um diabetiskar broytingar eru í nethinnuni. Nøkur skulu hava fyribyrgjandi laserviðgerð fyri ikki at gerast blind, so tað er umráðandi at fanga hesi, áðrenn skaðin er hendur.</p>
-<p><em type="bold">Fótarøkt</em> </p>
-<p>Fótstatus eigur at verða gjørdur eina ferð um árið, og sjúklingurin verða spurdur um viðkomandi regluliga gongur til fótarøkt at fyribyrgja diabetiskum fóttrupulleikum. Sambært reglugerð fyri diabetikarar hava allir hesir sjúklingar rætt til fría fótarøkt 6 ferðir um árið.</p>
-<p><em type="bold">Bóklingur</em> </p>
-<p>Hugt verður eftir blóðsukrunum, ið sjúklingurin hevur skrivað niður í ein lítlan bókling síðan seinastu vitjan, og hesi saman við HgbA1C eru gott grundarlag at gera møguligar broytingar, og at kunna taka støðu til um sjúklingurin møguliga skal í insulinviðgerð.</p>
-<p><em type="bold">Infiltratir</em> </p>
-<p>Um sjúklingurin hevur sokallað infiltratir á injektiónstøðunum, verður kannað eftir, um injektiónsteknikkurin er rættur, og sjúklingurin fær ávísing til UL-terapi fyri at fáa infiltratini at hvørva.</p>
-<p><em type="bold">Kostískoyti</em> </p>
-<p>Allir diabetikarar hava rætt til kostískoyti frá Almannastovuni. Kostráðgevin fær hetta í lag uppá fyrispurning frá sjúklinginum og sendir umsókn í hvørjum einstøkum føri.</p>
-<p xml:lang="dan"><em type="bold">Diabetesskúli</em> </p>
-<p>Av tí at undirvísing hevur so stóran týdning, hava fleiri diabetesambulatoriir í øðrum londum, og eisini í Danmark, fingið í lag regluliga undirvísing á sokallaðum diabetesskúlum. Diabetesskúlarnir hava víst seg at geva avbera góð og varandi úrslit, og sjúklingarnir eru sera glaðir fyri hendan møguleikan. Undirvísingin er 20 – 25 tímar í eina viku. Luttakaratalið er um 5-10 hvørja ferð, og bólkurin skal vera einsháttaður, soleiðis at hann hóskar saman við atliti at aldri og symptomprofili. Tímarnir verða relevant tillutaðir sjúkrarøktarfrøðingi, kostráðgeva, fótarøkt, sosialráðgeva og lækna, og tímatalvan er sett saman á ein slíkan hátt, at sjúklingurin fær mest møguligt burturúr og aftaná er mentur sjálvur at bera ábyrgdina av, at diabetessjúkan framyvir verður viðgjørd rætt og eisini er førur fyri at taka sjálvstøðugar avgerðir um mat, livihátt, insulindoseringar o.a.</p>
-<p><em type="bold">Ávísing til kostráðgeva</em> </p>
-<p>Í Danmark eru serlæknar, diabetessjúkrarøktarfrøðingar og kostráðgevar á einum máli um, at kommunulæknarnir eiga at hava frían visitatiónsrætt til kostráðgeva. Tað inniber, at teir altíð kunna ávísa m.a. diabetikarum til ein kostráðgeva á diabetesdeplinum, og at diabetikarin eftir fyrstu vitjan altíð kann heita á kostráðgevan við relevantum spurningum – t.d. ringja og biðja um eina eyka samrøðu.</p>
-<p><em type="bold">Ávísing til sálarlækna ella sálarfrøðing</em> </p>
-<p>Tað sama er galdandi, tá talan er um sálarfrøðing. Nógvir diabetikarar vilja treyðugt heilt viðganga, at teir hava fingið diabetes, og ikki so fáir sjúklingar fortreingja veruleikan og vilja ikki taka ímóti viðgerð. Hesir diabetessjúklingar kunna vísa lættari til moderat depressiv sjúkueyðkenni. Í slíkum førum er umráðandi, at læknin og  sjúkrarøktarfrøðingurin kunnu vísa sjúklingin til sálarlækna ella sálarfrøðing.</p>
-<p><em type="bold">4. Lýsa núverandi viðgerðarmøguleikar hjá sjúklingum við typu 2 diabetes</em> </p>
-<p>Vit hava nú lýst eina heilsutænastu fyri typu 2 diabetessjúklingar, sum hon átti sæð út. Men hvussu er verandi tænastustøði í Føroyum fyri henda sjúklingabólk?</p>
-<p>Á dibaetesambulatoriinum á Landssjúkrahúsinum var normeringin til sjúkrarøktarfrøðing økt úr 0,2 til 0,5 í 1997. Og normeringin til læknaskrivara varð somuleiðis uppnormerað til 0,5. Fyri 2 árum síðani varð normeringin til kostráðgeva fyri alt sjúkrah�</p>
+<p><em type="bold">Kostráðgevi </em>Í samband við fyrstu vitjanina á diabetesambulatoriinum fylgja vanliga 4-6 viðtalur hjá kostráðgeva yvir 6-12 mánaðir. Eftir hetta kunnu viðtalurnar avtalast eftir tørvi, so leingi diabetikarin er knýttur at diabetesambulatoriinum. </p>
+<p><em type="bold">Vekt </em>Vektin eigur at mátast hvørja ferð, og fyri tey feitu verður miðað eftir at vektin yvir 2 ár lækkar við 10-15% av byrjanarvektini. </p>
+<p><em type="bold">EKG </em>Elektrokardiogram (EKG) skal takast árliga fyri at fanga møgulig árin á hjartað, so tey skjótast kunnu ávísast til relevanta kanning og viðgerð. Ikki so fá hava tørv á invasivari viðgerð av hjartapulsæðrunum – ballóndilatatión møguliga við innlegging av stenti ella bypassskurð. </p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes6</p>
+<p><em type="bold">Miðalblóðsukur </em>Við eini blóðroynd, Hæmoglobin A1C, kann miðalblóðsukrið seinastu 8 vikurnar útroknast. Hendanblóðroyndin eigur at takast 3-4 ferðir um árið. Stílað verður ímóti, at fáa hetta talið niður um 6,5 % svarandi til eitt miðalblóðsukur uppá 7 mmol/l. Øll skulu læra at taka blóðsukurið á sær sjálvum, og somuleiðis skulu tey ogna sær eitt álítandi blóðsukurtól. </p>
+<p><em type="bold">Royking og rørsla </em>Diabetikarar skulu eggjast til og fáa tilboð um hjálp til at halda uppat at roykja, eins og tey eisini skulu stuðlast í at røra seg regluliga, svarandi til ½ tíma gongutúr tríggjar ferðir um vikuna. </p>
+<p><em type="bold">Eygu </em>Eygnalæknin skal síggja sjúklingin regluliga, hvørt ella annað hvørt ár, men oftari um diabetiskar broytingar eru í nethinnuni. Nøkur skulu hava fyribyrgjandi laserviðgerð fyri ikki at gerast blind, so tað er umráðandi at fanga hesi, áðrenn skaðin er hendur. </p>
+<p><em type="bold">Fótarøkt </em>Fótstatus eigur at verða gjørdur eina ferð um árið, og sjúklingurin verða spurdur um viðkomandi regluliga gongur til fótarøkt at fyribyrgja diabetiskum fóttrupulleikum. Sambært reglugerð fyri diabetikarar hava allir hesir sjúklingar rætt til fría fótarøkt 6 ferðir um árið. </p>
+<p><em type="bold">Bóklingur </em>Hugt verður eftir blóðsukrunum, ið sjúklingurin hevur skrivað niður í ein lítlan bókling síðan seinastu vitjan, og hesi saman við HgbA1C eru gott grundarlag at gera møguligar broytingar, og atkunna taka støðu til um sjúklingurin møguliga skal í insulinviðgerð. </p>
+<p><em type="bold">Infiltratir </em>Um sjúklingurin hevur sokallað infiltratir á injektiónstøðunum, verður kannað eftir, um injektiónsteknikkurin er rættur, og sjúklingurin fær ávísing til UL-terapi fyri at fáa infiltratini at hvørva. </p>
+<p><em type="bold">Kostískoyti </em>Allir diabetikarar hava rætt til kostískoyti frá Almannastovuni. Kostráðgevin fær hetta í lag uppá fyrispurning frá sjúklinginum og sendir umsókn í hvørjum einstøkum føri. </p>
+<p><em type="bold">Diabetesskúli </em>Av tí at undirvísing hevur so stóran týdning, hava fleiri diabetesambulatoriir í øðrum londum, og eisini í Danmark, fingið í lag regluliga undirvísing á sokallaðum diabetesskúlum. Diabetesskúlarnir hava víst seg at geva avbera góð og varandi úrslit, og sjúklingarnir eru sera glaðir fyri hendan møguleikan. Undirvísingin er 20 – 25 tímar í eina viku. Luttakaratalið er um 5-10 hvørja ferð, og bólkurin skal vera einsháttaður, soleiðis at hann hóskar saman við atliti at aldri og symptomprofili. Tímarnir verða relevant tillutaðir sjúkrarøktarfrøðingi, kostráðgeva, fótarøkt, sosialráðgeva og lækna, og tímatalvan er sett saman á ein slíkan hátt, at sjúklingurin fær mest møguligt burturúr og aftaná er mentur sjálvur at bera ábyrgdina av, at diabetessjúkan framyvir verður viðgjørd rætt og eisini er førur fyri at taka sjálvstøðugar avgerðir um mat, livihátt, insulindoseringar o.a. </p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes7</p>
+<p><em type="bold">Ávísing til kostráðgeva </em>Í Danmark eru serlæknar, diabetessjúkrarøktarfrøðingar og kostráðgevar á einum máli um, at kommunulæknarnir eiga at hava frían visitatiónsrætt til kostráðgeva. Tað inniber, at teir altíð kunna ávísa m.a. diabetikarum til ein kostráðgeva á diabetesdeplinum, og at diabetikarin eftir fyrstu vitjan altíð kann heita á kostráðgevan við relevantum spurningum – t.d. ringja og biðja um eina eyka samrøðu. </p>
+<p><em type="bold">Ávísing til sálarlækna ella sálarfrøðing </em>Tað sama er galdandi, tá talan er um sálarfrøðing. Nógvir diabetikarar vilja treyðugt heilt viðganga, at teir hava fingið diabetes, og ikki so fáir sjúklingar fortreingja veruleikan og vilja ikki taka ímóti viðgerð. Hesir diabetessjúklingar kunna vísa lættari til moderat depressiv sjúkueyðkenni. Í slíkum førum er umráðandi, at læknin og sjúkrarøktarfrøðingurin kunnu vísa sjúklingin til sálarlækna ella sálarfrøðing. <em type="bold">4. Lýsa núverandi viðgerðarmøguleikar hjá sjúklingum við typu 2 diabetes </em></p>
+<p>Vit hava nú lýst eina heilsutænastu fyri typu 2 diabetessjúklingar, sum hon átti sæð út. Men hvussu er verandi tænastustøði í Føroyum fyri henda sjúklingabólk? Á dibaetesambulatoriinum á Landssjúkrahúsinum var normeringin til sjúkrarøktarfrøðing økt úr 0,2 til 0,5 í 1997. Og normeringin til læknaskrivara varð somuleiðis uppnormerað til 0,5. Fyri 2 árum síðani varð normeringin til kostráðgeva fyri alt sjúkrahúsið sum heild økt úr einum fulltíðarstarvi til tvey fulltíðarstørv, men her fyriliggur einki nærri tilskilað, um hvussu stórur partur er tillutaður diabetikarum. Lækni virkar á diabetesambulatoriinum ein dag um vikuna svarandi til 0,2 starvsbrøk. Vit halda, tað vera rætt her at viðmerkja, at bæði sjúkrarøktarfrøðingurin og læknaskrivarin eru fulltíðarsett at røkja 2 funktiónir: diabetes- og húðambulatoriið. Virksemið á báðum ambulatoriunum er økt stútt og munandi seinnu árini.</p>
 <p>Í kjalarvørrinum frá nýggju vitanini um diabetes og viðgerðarmøguleikunum, sum teir síggja út í dag, er ávísingartíttleikin av typu 2 diabetikarum til diabetesambulatoriið øktur ár undan ári. Tað er ikki at taka munnin ov fullan at siga, at teir fyri ein munandi part hava trokað typu 1 sjúklingarnar burtur. Hetta sæst aftur í langa bíðilistanum til ambulatoriið, sum tað tó onkuntíð eyðnast at rudda av vegnum, við at læknin á diabetesambulatoriinum nakrar ferðir seinastu trý árini hevur fingið eykadagar til júst hetta endamál. Men hvat? Kravið um viðgerð av typu 2 diabetikarum er glógvandi og á jøvnum føti við teirra við typu 1. Eingin ivi um tað. Men kann ambulatoriið á Landssjúkrahúsinum megna hesa uppgávu einsamalt. Svarið er greitt – nei! Trýstið er longu nú ov stórt, ikki minst orsakað av at nógvir typu 2 diabetikarar verða settir í insulinviðgerð, og tá kennist læknaliga ábyrgdin av sjúklinginum tyngri, og verri er at sleppa viðkomandi. Men teir sjúklingar, sum ganga regluliga á ambulatoriinum fáa tænustuna, sum hon er lýst omanfyri – diabetesskúlin undantikin.</p>
 <p>Sum støðan er nú, mugu læknarnir søkja individuelt fyri hvønn diabetessjúklingin sær um blóðsukurtól, strimlar og aðrar rekvisittar, ískoyti til kost, medisin og fótarøkt. Hetta krevur óneyðuga tíð og arbeiðsorku og átti at verið standardiserað, soleiðis at tá diabetessjúkan er staðfest og skrásett, verður ein autonom og lagalig ískoytisskipan sett í verk, sum er varandi og lívslong.</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes8</p>
 <p>Men hetta er jú bert tindurin av ísfjallinum. Vit hava jú roknað okkum fram til, at tað finnast umleið 1.200 diagnostiseraðir typu 2 diabetikarar í Føroyum, meðan aðrir 1.200 hava sjúkuna uttan at vita tað – ódiagnostiseraðir. Tað er ymiskt, hvussu høgt teir ymsu kommunulæknarnir ganga uppí at viðgera sjúklingar við typu 2 diabetes, og hvussu konsekvent teir eggja sjúklingunum at fara til regluligt eftirlit sambært nýggjastu tilmælunum. Tað er heilt vist, at nógvir sjúklingar eru ógvuliga vánaligt reguleraðir og ganga runt við álvarsomum risikofaktorum, sum ikki eru viðgjørdir. Vit í arbeiðsbólkinum eru samd um, at serliga Suðuroyggin í so máta er fyri vanbýti. Av geografiskum ávum er trupult hjá suðuroyingum at ferðast til Havnar. Á Suðuroyar Sjúkrahúsi er eingin formelt settur kostráðgevi, og diabetessjúklingarnir hava heldur ikki møguleika fyri at vitja lækna ella sjúkrasystur við serligum áhuga fyri diabetes – sama hvat slag av diabetes talan er um.</p>
 <p>Læknatrotið er ein veruleiki – í Danmark, í Føroyum og aðrastaðni í Norðurlondum við. Serliga er trot uppá kommunulæknar í útjaðaranum, og hetta í sær sjálvum hevur við sær eitt størri trýst á ambulatoriini. Øll diabetsambulatoriini í Danmark hava eisini merkt trýstið av viðgerðartørvinum hjá typu 2 diabetikarunum hesi seinnu árini. Fyri at loysa viðgerðartrupulleikan hava øll amtini í Danmark við støði í leiðreglum frá Sundhedsstyrelsen frá 1994 (Sundhedsstyrelsen, 1994) tikið stig til at arbeiða seg fram til eina loysn á hesum økinum. Arbeiðsbólkar í hvørjum amti hava hvør í sínum lagi arbeitt við modellum, sum eru tillagað, so tey sum frægast hóska til teirra heilsuskipan. Frásagnir frá hesum arbeiðum eru tøkar, og úrslitini og niðurstøðurnar líkjast nógv.</p>
-<p>Serliga eitt arbeiðið hevur fangað okkara áhuga. Tað er frásøgnin frá Fyns Amt (Diabetesbehandlingen i Fyns Amt, 2000). Fyri ein part er tað sjálvt modellið, okkum dámar, men so hevur bólkurin eisini fylgt projektinum upp fyri at síggja, hvussu riggar – fyrstu ferð í 2001, fýra ár eftir implementeringina – og ætlanin er at gera regluligar evalueringar. Í høvuðsheitum varð viðgerðin og eftirlitið av typu 2 diabetikarunum umskipað, soleiðis at rutinueftirlitini nú verða gjørd í primersektorinum (desentralisering), og undirvísingin av fakfólki og sjúklingum er men</p>
-<p>Her verður brot úr endamálsorðingini í frágreiðingini endurgivið:</p>
-<p xml:lang="dan">”Formål Med afsæt i Sundhedsstyrelsens retningslinjer for diabetesbehandlingen i Danmark fremlagde Amtsdiabetesudvalget således en rapport, der beskriver strategi, organisering og struktur for diabetesbehandlingen i Fyns Amt. Rapporten beskriver således en struktur med en væsentlig øget indsats på følgende områder:</p>
-<p type="listitem" xml:lang="dan">• <em type="italic">omlægning af mest mulig behandling til ambulant regi</em> </p>
-<p type="listitem" xml:lang="dan">• <em type="italic">tidlig opsporing og øget vægt på forebyggende tiltag</em> </p>
-<p type="listitem" xml:lang="dan">• <em type="italic">decentralisering af behandlingen og faglig oprustning af</em> </p>
-<p xml:lang="dan"><em type="italic">behandlingspersonale</em> </p>
+<p>Serliga eitt arbeiðið hevur fangað okkara áhuga. Tað er frásøgnin frá Fyns Amt (Diabetesbehandlingen i Fyns Amt, 2000). Fyri ein part er tað sjálvt modellið, okkum dámar, men so hevur bólkurin eisini fylgt projektinum upp fyri at síggja, hvussu riggar – fyrstu ferð í 2001, fýra ár eftir implementeringina – og ætlanin er at gera regluligar evalueringar. Í høvuðsheitum varð viðgerðin og eftirlitið av typu 2 diabetikarunum umskipað, soleiðis at rutinueftirlitini nú verða gjørd í primersektorinum (desentralisering), og undirvísingin av fakfólki og sjúklingum er ment munandi.</p>
+<p>Her verður brot úr endamálsorðingini í frágreiðingini endurgivið:”Formål</p>
+<p type="listitem" xml:lang="dan">Med afsæt i Sundhedsstyrelsens retningslinjer for diabetesbehandlingen i Danmark fremlagde Amtsdiabetesudvalget således en rapport, der beskriver strategi, organisering og struktur for diabetesbehandlingen i Fyns Amt. Rapporten beskriver således en struktur med en væsentlig øget indsats på følgende områder:</p>
+<p type="listitem" xml:lang="dan">omlægning af mest mulig behandling til ambulant regi</p>
+<p type="listitem" xml:lang="dan">tidlig opsporing og øget vægt på forebyggende tiltag</p>
+<p type="listitem" xml:lang="dan">decentralisering af behandlingen og faglig oprustning afbehandlingspersonale</p>
 <p xml:lang="dan">Det overordnede mål med omlægningen af diabetesbehandlingen er at opnå normal livslængde og optimal livskvalitet for diabetikere.</p>
 <p xml:lang="dan">Sundhedsstyrelsen har valgt 9 særlige indsatsområder og skønnet, at den øgede indsats ville kunne reducere sengedagsforbruget med ca. 5% årligt.”</p>
-<p>Hesi 9 verkøki eru:</p>
-<p>1. Seta diabetesnevnd í hvørjum amti 2. Eitt diabetesambulatorium fyri hvørjar 100.000 íbúgvar 3. Seta samskiparar 4. Skilgreina (definera) uppgávubýti millum almenna praksis og ambulatoriir 5. Betri møguleikar fyri at veita sjúklingum kostráðgeving í almennum praksis 6. Betri útbúgving til sjúklingar og viðgerðarar 7. Fyribyrgja komplikatiónum; systematiska screening 8. Menna diabeteskontrol hjá børnum 9. Serambulatoriir fyri barnakonur við diabetes</p>
-<p>Ein tvørskurðskanning á Odense Universitetshospital 2001 varð samanborin við eina líknandi frá 1994, og úrslitið vísti, at øll klinisk parametur vóru betrað, íroknað nýra- og eygnakomplikatiónir. Ein statusuppgerð av sjálvum projektinum varð somuleiðis eftirmett í 2001, og úrslitini vístu eisini her, at tað hevði eydnast at venda skeivu gongdini, soleiðis at klinisku parametrini vóru betrað eins og í tvørskurðskanningini, og afturat hesum sást eisini eitt týðuligt fall í amputatiónstíttleikanum (Diabetesbehandling i Fyns Amt, 2000). Endiliga var eisini eydnast at implementera øll tey níggju verkøkini, sum eru nevnd omanfyri. Seingjardagatalið fyri typu 2 diabetikarar var somuleiðis lækkað við 4% um árið, hóast ein øking í typu 2 títtleikanum hendi í sama tíðarskeiði, grundað á screeningseffektina, projektið hevði við sær. Roknað verður við at síggja verulig positiv gjøgnumbrot í hagtølunum eini 7 – 10 ár aftaná implementeringina.</p>
-<p>Í eftirmetingini, sum er gjørd í Fyns Amt sæst, at uppnormeringin kostaði góðar 3,7 mio. kr. um árið. Fyns Amt brúkar uml. 100 mio. kr. til diabetesviðgerð um árið. Av hesum fer størsti parturin til teir 15.000 seingjadagarnar. Í dygdareftirlitsskipanini á deild M er mett, at tað kostar 1.645 kr. um árið at viðgerða eina diabetikara ambulant, meðan seingjadagsprísurin fyri ein innlagdan diabetikara er 25.842 kr. um árið. Búskaparfrøðiliga er tí skilagott at bøta um fyribyrgingina (profylaksuna) og leggja um til ambulanta viðgerð.</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes9</p>
+<p>Hesi 9 verkøki eru:1 1. Seta diabetesnevnd í hvørjum amti 2. Eitt diabetesambulatorium fyri hvørjar 100.000 íbúgvar 3. Seta samskiparar 4. Skilgreina (definera) uppgávubýti millum almenna praksis og ambulatoriir 5. Betri møguleikar fyri at veita sjúklingum kostráðgeving í almennum praksis 6. Betri útbúgving til sjúklingar og viðgerðarar 7. Fyribyrgja komplikatiónum; systematiska screening 8. Menna diabeteskontrol hjá børnum 9. Serambulatoriir fyri barnakonur við diabetes</p>
+<p>Ein tvørskurðskanning á Odense Universitetshospital 2001 varð samanborin við eina líknandi frá 1994, og úrslitið vísti, at øll klinisk parametur vóru betrað, íroknað nýra- og eygnakomplikatiónir. Ein statusuppgerð av sjálvum projektinum varð somuleiðis eftirmett í 2001, og úrslitini vístu eisini her, at tað hevði eydnast at venda skeivu gongdini, soleiðis at klinisku parametrini vóru betrað eins og í tvørskurðskanningini, og afturat hesum sást eisini eitt týðuligt fall í amputatiónstíttleikanum (Diabetesbehandling i Fyns Amt, 2000). Endiliga var eisini eydnast at implementera øll tey níggju verkøkini, sum eru nevnd omanfyri. Seingjardagatalið fyri typu 2 diabetikarar var somuleiðis lækkað við 4% um árið, hóast ein øking í typu 2 títtleikanum hendi í sama tíðarskeiði, grundað á screeningseffektina, projektið hevði við sær. Roknað verður við at síggja verulig positiv gjøgnumbrot í hagtølunum eini 7 – 10 ár aftaná implementeringina. Í eftirmetingini, sum er gjørd í Fyns Amt sæst, at uppnormeringin kostaði góðar 3,7 mio. kr. um árið. Fyns Amt brúkar uml. 100 mio. kr. til diabetesviðgerð um árið. Av hesum fer størsti parturin til teir 15.000 seingjadagarnar. Í dygdareftirlitsskipanini á deild M er mett, at tað kostar 1.645 kr. um árið at viðgerða eina diabetikara ambulant, meðan seingjadagsprísurin fyri ein innlagdan diabetikara er 25.842 kr. um árið. Búskaparfrøðiliga er tí skilagott at bøta um fyribyrgingina (profylaksuna) og leggja um til ambulanta viðgerð.</p>
 <p>Seingjadagsnýtslan er serliga orsakað av viðgerðini av kroniskum komplikatiónum sum nýrabrek, niðursett sjón, nervabruni, amputatiónir, aktuttar komplikatiónir (sýrueitran og insulinchok), somuleiðis undirvísing/upplæring og pedagogikkur.</p>
 <p>Talið á bæði akuttum og kroniskum komplikatiónum kann sum nevnt í frágreiðingini hjá Sundhedsstyrelsen væntast at falla vegna betri fyribyrging og ambulanta viðgerð. Til dømis kann nevnast, at talið á amputatiónum er minkað við 50% frá uml. 70 til uml. 35 um árið í Fyns Amt eftir at skipað varð fyri fótterapi og fótterapeutum.</p>
-<p>Roknað verður við, at tann nýggi bygnaðurin, sum verður lýstur í frágreiðingini frá Fyns Amt, vil kunna seta seingjadagsnýtsluna enn longur niður v</p>
-<p>Hesi níggju verkøkini eru defineraði nærri í frágreiðingini (Diabetesbehandling i Fyns Amt, s. 6 – 7, 2000).</p>
-<p>Umleggingin til størri dent á undirvísing, fyribyrging og ambulanta viðgerð væntast at vera útreiðsluneutral eftir einum  styttri áramáli. Umleggingin verður fíggjað við tilførslu av peningi frá incitamentspuljuni hjá Sundhedsministeriet og puljum innan økið hjá fíggjarætlanarábyrgdarøkinum hjá sjúkrahúsnevndini í amtinum fult út tey fyrstu 2½ árini og lutvíst í ár 2000. Síðani verða uppnormeringarnar fíggjaðar við væntaðu lækkingini í seingdøgum á teimum umfataðu deildunum.</p>
-<p><em type="bold">Mynd</em> <em type="italic">1: Útreiðslugongd fyri diabetesumsorgan</em> </p>
-<p><em type="bold">5. Uppskot um, hvussu viðgerðarviðurskiftini hjá hesum sjúklingum kunnu</em> <em type="bold">betrast og skipast </em></p>
-<p>48.000 íbúgvar eru í Føroyum, og av hesum búgva umleið 7.000 í Norðuroyggjum og umleið 5.000 í Suðuroynni. Infrastruktururin broytist við tunlinum til Klaksvíkar, so møguleiki verður, at Klaksvíkar Sjúkrahús kann fevna um eitt størri upptøkuøki, t.d. eystara part av Eysturoynni.</p>
-<p><em type="bold">Arbeiðsbólkurin mælir til:</em> </p>
-<p type="listitem">• at Klaksvíkar Sjúkrahús og Suðuroyar Sjúkrahús stovna ambulatoriivirksemi í tøttum</p>
-<p>samstarvi við Landssjúkrahúsið</p>
-<p type="listitem">• at ambulatoriivirksemið á Landssjúkrahúsinum verður økt og samsvarandi uppnormeringar</p>
-<p>framdar</p>
-<p><span type="quote" xml:lang="dan">”Diabetesbehandling i Fyns Amt – evaluering og omlægning af diabetesbehandlingen”</span>, 2000.</p>
-<p type="listitem">• at formskipað reglulig undirvísing av kommunulæknum, praksisstarvsfólki og</p>
-<p>heimasjúkrarøktarfrøðingum verður definerað og sett í gongd</p>
-<p type="listitem">• at tað verður strembað fram móti góðum samstarvi millum kommunulæknarnar og tey trý</p>
-<p>diabetesambulatoriini</p>
-<p type="listitem">• at ein diabetesskúli verður settur á stovn við eini vælfungerandi tekningarskipan</p>
-<p type="listitem">• at ein elektronisk diabetesjournal við møguleika fyri sentralari skráseting verður fingin til</p>
-<p>vega á teimum trimum diabetesambulatoriunum</p>
-<p type="listitem">• at ein føroyskur bóklingur verður gjørdur, sum sjúklingurin kann bera uppi á sær at hava við</p>
-<p>til tey regluligu eftirlitini (vallarajournal). Í bóklinginum skulu eisini vera nakrar fáar síður við praktiskari ráðgeving um ávís evni.</p>
-<p type="listitem">• at kommunulæknar og læknarnir á diabetesambulatoriunum kunnu ávísa diabetikarar til</p>
-<p><em type="italic">arbeiðsEKG uttan stórvegis bíðitíð</em> </p>
-<p><em type="bold">Hvussu skulu tey trý diabetesambulatoriini profilerast?</em> </p>
-<p>Á Landssjúkrahúsinum:</p>
-<p type="listitem">• 1 diabetessjúkrarøktarfrøðingur: skal setast afturat og røkja diabetesambulatoriið burturav</p>
-<p>(1,0 starvsbrøk).</p>
-<p type="listitem">• 1 lækni: skal starvast á diabetesambulatoriunum 12 tímar um vikuna.</p>
-<p type="listitem">• 1 kostráðgevi: skal setast afturat tilætlaður diabetesambulatoriinum burturav (1,0</p>
-<p>starvsbrøk).</p>
-<p type="listitem">• Læknaskrivarafunktiónin: skal økjast svarandi til eina uppnormering uppá 0,5 starvsbrøk.</p>
-<p>Læknaskrivarin skal skriva fyri læknan, kostráðgevan og sjúkrarøktarfrøðingin.</p>
-<p type="listitem">• Sártænasta: verður sett á stovn í samráð við skurðlæknarnar.</p>
-<p>Á Suðuroyar Sjúkrahúsi:</p>
-<p type="listitem">• 1 diabetessjúkrarøktarfrøðingur: skal setast afturat 16 tímar um vikuna (0,375 starvsbrøk).</p>
-<p type="listitem">• 1 kostráðgevi: skal setast 16 tímar um<em type="italic"> vikuna (0,375 setanarbrøk).</em> </p>
-<p type="listitem">• Læknakonsulenttænasta einaferð um<em type="italic"> mánaðin.</em> </p>
-<p>Á Klaksvíkar Sjúkrahúsi:</p>
-<p type="listitem">• 1 diabetessjúkrarøktarfrøðingur skal setast 20 tímar um vikuna (0,5 starvsbrøk).</p>
-<p type="listitem">• 1 kostráðgevi: skal setast 20 tímar um<em type="italic"> vikuna (0,5 setanarbrøk).</em> </p>
-<p type="listitem">• Internmedisinari við áhuga í diabetes starvast á sjúkrahúsinum, og tí krevst eingin</p>
-<p xml:lang="dan">uppnormering har.</p>
-<p>ArbeiðsEKG er ein elektrofysiologisk kanning av hjartanum, meðan sjúklingurin kýtir seg á súklu. Er ofta neyðug fyri</p>
-<p>at avgera, um sjúklingurin hevur iskæmiska hjartasjúku, sum møguliga krevur invasiva viðgerð av hjartapulsæðrunum.</p>
-<p>Í Suðuroy kann kostráðgevaratænastan eisini fevna um aðrar sjúklingar enn diabetikarar. Læknakonsulenttænastan á Suðuroyar Sjúkrahúsi er sett til 8 tímar pr. mánaða. Í Norðuroyggjum kann kostráðgevaratænastan eisini fevna um aðrar sjúklingar enn diabetikarar.</p>
-<p><em type="bold">6. Lýsa fyrimunir og vansar við uppskotunum til loysn á viðgerðarviðurskifunum</em> </p>
+<p>Roknað verður við, at tann nýggi bygnaðurin, sum verður lýstur í frágreiðingini frá Fyns Amt, vil kunna seta seingjadagsnýtsluna enn longur niður vegna betri fyribyrging og ambulanta viðgerð. Sundhedsstyrelsen væntar, at seingjadagsnýtslan gjøgnum tey næstu árini vil kunna setast niður við 5% um árið (vegna 3% færri komplikatiónir, 29% færri metabolisk óløg og flyting av undirvísingaruppgávum frá innlegging til diabetesskúlar).1 Hesi níggju verkøkini eru defineraði nærri í frágreiðingini (Diabetesbehandling i Fyns Amt, s. 6 – 7, 2000).</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes10</p>
+<p>Umleggingin til størri dent á undirvísing, fyribyrging og ambulanta viðgerð væntast at vera útreiðsluneutral eftir einum styttri áramáli. Umleggingin verður fíggjað við tilførslu av peningi frá incitamentspuljuni hjá Sundhedsministeriet og puljum innan økið hjá fíggjarætlanarábyrgdarøkinum hjá sjúkrahúsnevndini í amtinum fult út tey fyrstu 2½ árini og lutvíst í ár 2000. Síðani verða uppnormeringarnar fíggjaðar við væntaðu lækkingini í seingdøgum á teimum umfataðu deildunum.</p>
+<p><em type="bold">Mynd </em><em type="bold">1: Útreiðslugongd fyri diabetesumsorgan2 </em><em type="bold">5. Uppskot um, hvussu viðgerðarviðurskiftini hjá hesum sjúklingum kunnu betrast og skipast </em>48.000 íbúgvar eru í Føroyum, og av hesum búgva umleið 7.000 í Norðuroyggjum og umleið 5.000 í Suðuroynni. Infrastruktururin broytist við tunlinum til Klaksvíkar, so møguleiki verður, at Klaksvíkar Sjúkrahús kann fevna um eitt størri upptøkuøki, t.d. eystara part av Eysturoynni. </p>
+<p type="listitem">Arbeiðsbólkurin mælir til:</p>
+<p type="listitem">at Klaksvíkar Sjúkrahús og Suðuroyar Sjúkrahús stovna ambulatoriivirksemi í tøttumsamstarvi við Landssjúkrahúsið</p>
+<p type="listitem">at ambulatoriivirksemið á Landssjúkrahúsinum verður økt og samsvarandi uppnormeringarframdar2 <span type="quote" xml:lang="dan">”Diabetesbehandling i Fyns Amt – evaluering og omlægning af diabetesbehandlingen”</span>, 2000.</p>
+<p type="listitem">Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes11</p>
+<p type="listitem">at formskipað reglulig undirvísing av kommunulæknum, praksisstarvsfólki ogheimasjúkrarøktarfrøðingum verður definerað og sett í gongd</p>
+<p type="listitem">at tað verður strembað fram móti góðum samstarvi millum kommunulæknarnar og tey trýdiabetesambulatoriini</p>
+<p type="listitem">at ein diabetesskúli verður settur á stovn við eini vælfungerandi tekningarskipan</p>
+<p type="listitem">at ein elektronisk diabetesjournal við møguleika fyri sentralari skráseting verður fingin tilvega á teimum trimum diabetesambulatoriunum</p>
+<p type="listitem">at ein føroyskur bóklingur verður gjørdur, sum sjúklingurin kann bera uppi á sær at hava viðtil tey regluligu eftirlitini (vallarajournal). Í bóklinginum skulu eisini vera nakrar fáar síður við praktiskari ráðgeving um ávís evni.</p>
+<p type="listitem">at kommunulæknar og læknarnir á diabetesambulatoriunum kunnu ávísa diabetikarar tilarbeiðsEKG3 uttan stórvegis bíðitíð</p>
+<p><em type="bold">Hvussu skulu tey trý diabetesambulatoriini profilerast? </em></p>
+<p type="listitem">Á Landssjúkrahúsinum:</p>
+<p type="listitem">1 diabetessjúkrarøktarfrøðingur: skal setast afturat og røkja diabetesambulatoriið burturav(1,0 starvsbrøk).</p>
+<p type="listitem">1 lækni: skal starvast á diabetesambulatoriunum 12 tímar um vikuna.</p>
+<p type="listitem">1 kostráðgevi: skal setast afturat tilætlaður diabetesambulatoriinum burturav (1,0starvsbrøk).</p>
+<p type="listitem">Læknaskrivarafunktiónin: skal økjast svarandi til eina uppnormering uppá 0,5 starvsbrøk.</p>
+<p type="listitem">Læknaskrivarin skal skriva fyri læknan, kostráðgevan og sjúkrarøktarfrøðingin.</p>
+<p type="listitem">Sártænasta: verður sett á stovn í samráð við skurðlæknarnar.</p>
+<p type="listitem">Á Suðuroyar Sjúkrahúsi:</p>
+<p type="listitem">1 diabetessjúkrarøktarfrøðingur: skal setast afturat 16 tímar um vikuna (0,375 starvsbrøk).</p>
+<p type="listitem">1 kostráðgevi: skal setast 16 tímar um vikuna (0,375 setanarbrøk).4</p>
+<p type="listitem">Læknakonsulenttænasta einaferð um mánaðin.5</p>
+<p type="listitem">Á Klaksvíkar Sjúkrahúsi:</p>
+<p type="listitem">1 diabetessjúkrarøktarfrøðingur skal setast 20 tímar um vikuna (0,5 starvsbrøk).</p>
+<p type="listitem">1 kostráðgevi: skal setast 20 tímar um vikuna (0,5 setanarbrøk).6</p>
+<p type="listitem">Internmedisinari við áhuga í diabetes starvast á sjúkrahúsinum, og tí krevst einginuppnormering har.3 ArbeiðsEKG er ein elektrofysiologisk kanning av hjartanum, meðan sjúklingurin kýtir seg á súklu. Er ofta neyðug fyri at avgera, um sjúklingurin hevur iskæmiska hjartasjúku, sum møguliga krevur invasiva viðgerð av hjartapulsæðrunum.4 Í Suðuroy kann kostráðgevaratænastan eisini fevna um aðrar sjúklingar enn diabetikarar.5 Læknakonsulenttænastan á Suðuroyar Sjúkrahúsi er sett til 8 tímar pr. mánaða.6 Í Norðuroyggjum kann kostráðgevaratænastan eisini fevna um aðrar sjúklingar enn diabetikarar.</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes12 <em type="bold">6. Lýsa fyrimunir og vansar við uppskotunum til loysn á viðgerðarviðurskifunum </em></p>
 <p>Við støði í uppskotunum um, hvussu viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes kunnu betrast, fer arbeiðsbólkurin hervið at lýsa fyrimunir og vansar við teimum uppskotum, sum arbeiðsbólkurin mælir til verða sett í verk.</p>
 <p>Verður tikið undir við uppskotunum um viðgerðarmøguleikar hjá typu 2 diabetikarum, so fara vit ætlandi at síggja færri dialysukrevjandi sjúklingar orsakað av diabetiskum ávum. Tað fer at ganga longri tíð, áðrenn ein møgulig diabetisk nýrasjúka hjá tí einstaka sjúklinginum verður dialysukrevjandi. Og vit fara eisini at síggja færri sjúklingar koma í vandaøkið fyri at fáa hóttandi nýrasjúku, tí her tosa vit um møguleikan fyri regulera primera fyribyrging fyri ein ávísan sjúklingabólk at fáa eina vælkenda komplikatión – vit kunnu stremba eftir, at so fá sum møguligt fáa mikroalbuminuri, sum er tað allarfyrsta sníkjandi tekinið á leiðini til kroniska diabetiska nýrasjúku.</p>
 <p>Sama gongdin fer at síggjast, tá talan er um eyguni. Arbeiðsførleikin verður ætlandi varðveittur nógv longri og eisini á einum munandi betri dygdarstøði.</p>
@@ -164,55 +121,79 @@
 <p>At náa aðalmálið – betraða lívsgóðsku og normala lívslongd – má síggjast í relatión til tann einstaka. Fleiri enn nú fara at náa málið. Tað var best, um allir diabetikarar vera við, men tað ber sjálvandi ikki til at tvinga sjúklingarnar at gera eftir givnum ráðum. Hinvegin fer viðgerðin og undirvísingin at standa øllum sjúklingum við typu 2 diabetes í boði.</p>
 <p>Elektroniska diabetesjournalin og sentrala skrásetingin fara at hava við sær møguleikar fyri statistiskum útrokningum, sum kunnu vera gott grundarlag undir regluligum eftirmetingum av, hvussu gongst og til at vísa á, hvar meira eigur at verða gjørt. Lættari verður eisini at gera álítandi gransking við hesum møguleikum.</p>
 <p>Vansar eru stórt sæð bert av fíggjarligum slagi, og so teir sum eru knýttir at starvsfólkatroti (her serliga læknar og kostráðgevar). Læknin á diabetesambulatoriinum verður settur til meiri arbeiði á ambulatoriinum, og møguliga verður tað eisini viðkomandi, sum kemur at røkja konsulenttænastuna á Suðuroyar Sjúkrahúsi. Hetta meirarbeiði má lænast frá verandi arbeiðsorku á medisinsku deild á Landssjúkrahúsinum, men framtíðin hevur júst avbjóðingar av tílíkum slag, at læknaarbeiðið fer at vera meiri merkt av ambulantum virksemi, og hetta kundi verið ein hóskandi byrjan.</p>
-<p>Arbeiðsbólkurin er sannførdur um, at niðanfyri lýstu útreiðslur verða vunnar innaftur – og kanska meiri enn tað, tá diabetessjúklingarnir framyvir sjáld</p>
-<p><em type="bold">7. Kostnaðarmetingar av uppskotunum til loysn á viðgerðarviðurskiftunum</em> </p>
-<p xml:lang="dan"><em type="bold">Diabetesambulatorium</em> </p>
-<p>Arbeiðsbólkurin mælir til, at diabetesviðgerðin fer fram á einum diabetesambulatorium. Eitt diabetesambulatorium er á Landssjúkrahúsinum, og mælt verður til, at diabetesambulatorium verður sett á stovn á ávikavist Suðuroyar Sjúkrahúsi og á Klaksvíkar Sjúkrahúsi. Í talvunum 2-4 eru útreiðslurnar býttar sundur á tey trý diabetesambulatoriini sær; her skal tó viðmerkjast, at viðvíkjandi Landssjúkrahúsinum, so er talan um normeringar afturat galdandi normering.</p>
+<p>Arbeiðsbólkurin er sannførdur um, at niðanfyri lýstu útreiðslur verða vunnar innaftur – og kanska meiri enn tað, tá diabetessjúklingarnir framyvir sjáldnari verða innlagdir, fyri ein part tí trupulleikarnir kunnu loysast ambulant, men eisini tí teir fara at vera minni sjúkir. Sum skilst, hava vit hildið okkum til arbeiðssetningin, og bert umrøtt viðurskifti, sum viðgera typu 2 diabetikaran. Í roynd og veru er her talan um sokallaða sekundera fyribyrging, altso viðgerð av</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes13staðfestari sjúku, so hon ikki sleppur at gera meiri um seg. Tað var freistandi at fara inn á evnið um primera fyribyrging, sum umrøðir tiltøk, ið fyribyrgja, at sjúkan yvirhøvur brýtur út. Men vit vóru samd um, at tað var at fara útum arbeiðssetningin, og ásetta tíðin hevði heldur ikki verið nóg mikið at handfara eitt so umfatandi evni. <em type="bold">7. Kostnaðarmetingar av uppskotunum til loysn á viðgerðarviðurskiftunum </em></p>
+<p><em type="bold">Diabetesambulatorium </em>Arbeiðsbólkurin mælir til, at diabetesviðgerðin fer fram á einum diabetesambulatorium. Eitt diabetesambulatorium er á Landssjúkrahúsinum, og mælt verður til, at diabetesambulatorium verður sett á stovn á ávikavist Suðuroyar Sjúkrahúsi og á Klaksvíkar Sjúkrahúsi. Í talvunum 2-4 eru útreiðslurnar býttar sundur á tey trý diabetesambulatoriini sær; her skal tó viðmerkjast, at viðvíkjandi Landssjúkrahúsinum, so er talan um normeringar afturat galdandi normering. </p>
 <p>Arbeiðsbólkurin metir, at tær árligu útreiðslurnar til diabetesambulatoriini, sambært hesum uppskotinum, verða 1.387.923,40 kr. Útreiðslurnar eru roknaðar út frá byrjunarløn hjá sjúkrarøktarfrøðingi, læknaskrivara og kostráðgeva.</p>
-<p><em type="bold">Talva 2: Kostnaður fyri diabetesambulatorium á Suðuroyar Sjúkrahúsi</em> <em type="bold">TiltakTímarÚtreiðslur/mðr.Tilsamans</em> </p>
-<p>Sjúkrarøktarfrøðingur8.514,32 Kostráðgevi8.898,78 Læknakonsulenttænast.<em type="italic"></em>4.086,00 Tilsamans21.499,10257.989,14 </p>
-<p><em type="bold">Talva 3: Kostnaður fyri diabetesambulatorium á Klaksvíkar Sjúkrahúsi</em> <em type="bold">TiltakTímarÚtreiðslur/mðr.Tilsamans</em> </p>
-<p>Sjúkrarøktarfrøðingur11.352,42 Kostráðgevi11.865,04 Tilsamans23.217,46278.609,52</p>
-<p><em type="bold">Talva 4: Kostnaður fyri diabetesambulatorium á Landssjúkrahúsinum</em> <em type="bold">TiltakTímarÚtreiðslur/mðr.Tilsamans</em> </p>
-<p>Sjúkrarøktarfrøðingur22.704,84 Kostráðgevi23.730,08 Lækni14.572,30 Skrivarafunktión9.937,00 Sártænasta<em type="italic"></em> Tilsamans70.944,22851.324,74 </p>
-<p>Læknakonsulenttænastan á Suðuroyar Sjúkrahúsi er sett til 8 tímar pr. mánaða.  Við tað at ikki ber til at siga, hvussu nógvir diabetikarar fara at nýta sártænastuna, ber ikki til at gera eina</p>
-<p>kostnaðarmeting av hesum ávísingarmøguleika.</p>
-<p xml:lang="dan"><em type="bold">Diabetesskúli</em> </p>
-<p>Við støði í royndunum av diabetsskúlum, hevur arbeiðsbólkurin mælt til, at slíkur verður settur á stovn í Føroyum. Við tað at ein diabetesskúli er eitt nýtt tiltak innan diabetesviðgerð í Føroyum, mælir arbeiðsbólkurin til, at upplæring verður veitt teimum heilsustarvsfólkum, sum starvast við diabetes. Arbeiðsbólkurin mælir tí til, at 3-5 heilsustarvsfólk (t.d. lækni, sjúkrarøktarfrøðingur og kostráðgevi) fara á eina námsferð at kunna seg um diabetesskúlan á Fyn. Somuleiðis verður skotið upp, at serfrøðingar innan diabetes koma til Føroya at undirvísa heilsustarvsfólkunum, sum starvast við diabetes, t.d. kommunulæknum, heimasjúkrarøktarfrøðingum, sjúkrarøktarfrøðingum, praksisstarvsfólki, farmaceutum og farmakonomum, og at slík undirvísing verður veitt hesum á øðrum hvørjum ári. Undirvísing á diabetesskúlanum fer at fara fram einar 5 ferðir árliga. Talan verður um 20 tíma undirvísing hvørja ferð, t.v.s. 100 tímar árliga. Arbeiðsbólkurin metir, at hvør undirvísingartími í miðal fer at kosta 300,00 kr., og verður tann árligi kostnaðurin av hesum 30.000,00 kr. Arbeiðsbólkurin er av tí áskoðan, at fyrstu tvey árini verður undirvísingaraktiviteturin størri, tí nógv av teimum, sum longu hava diabetes, fara at taka av tilboðnum um slíka undirvísing.</p>
-<p><em type="bold">Talva 5: Diabetesskúli</em> <em type="bold">TiltakTímarÚtreiðslurTilsamans</em> </p>
-<p>Diabetesskúli30.000,00 Upplæring/starvsfólk20.000,00 Undirvísing/starvsfólk20.000,00 Tilsamans70.000,0070.000,00</p>
-<p><em type="bold">Diabetesbóklingur</em> </p>
-<p>Arbeiðsbólkurin hevur mælt til, at diabetessjúklingar fáa ein diabetesbókling, sum teir skulu hava við sær til tær ymsu kanningarnar, sum teir skulu til. Á henda hátt ber til bæði hjá ymsum heilsustarvsfólkum og hjá sjálvum sjúklinginum at fylgj</p>
-<p xml:lang="dan"><em type="bold">Elektronisk sjúklingajournal</em> </p>
-<p>Arbeiðsbólkurin hevur skotið upp, at sett verður á stovn ein elektronisk sjúklingajournal. Familjuog heilsumálaráðið arbeiðir við ætlanini at gera eina elektroniska sjúklingajournal. Enn ber tó ikki til at siga, nær hetta arbeiðið verður liðugt, og tískil ber ikki til hjá arbeiðsbólkinum at gera nakrar kostnaðarmetingar hesum viðvíkjandi.</p>
-<p><em type="bold">Sálarlækni/-frøðingur</em> </p>
-<p>Um tørvur er á tí, so skal tað vera møguligt at ávísa sjúklingi, ið hevur fingið staðfest diabetes, til sálarlækna ella sálarfrøðing. Av tí at tað ikki ber til at siga, hvussu nógvir diabetikarar møguliga fara at verða ávístir til antin sálarlækna ella sálarfrøðing, ber ikki til at gera eina kostnaðarmeting av hesum ávísingarmøguleika.</p>
-<p><em type="bold">Talva 6: Onnur tiltøk</em> <em type="bold">TiltakÚtreiðslurTilsamans</em> </p>
-<p>Diabetesbóklingur2.500 eintøk20.000,00 Elektronisk journal Sálarlækni/-frøðingur Tilsamans20.000,0020.000,00</p>
-<p><em type="bold">Samlaðar útreiðslur</em> </p>
-<p><em type="bold">Talva 7: Samlaðar útreiðslur</em> <em type="bold">TiltakÚtreiðslur tilsamans</em> </p>
-<p>Diabetesambulatorium/Suðuroyar Sjúkrahús257.989,14 Diabetesambulatorium/Klaksvíkar Sjúkrahús278.609,52 Diabetesambulatorium/Landssjúkrahúsið851.324,74 Diabetesskúli70.000,00 Diabetesbóklingur20.000,00 Elektronisk journal Sálarlækni/-frøðingur Tilsamans1.477.923,40</p>
-<p><em type="bold">8. Keldulisti</em> </p>
-<p type="listitem" xml:lang="dan">• Diabetesbehandling i Fyns Amt – den fremtidige strategi, organisering og struktur. 1997.</p>
-<p type="listitem" xml:lang="dan">• Diabetesbehandling i Fyns Amt – evaluering af omlægning af diabetesbehandlingen. Sygehus</p>
-<p>Fyn, Odense Universitetshospital. 2000.</p>
-<p type="listitem" xml:lang="dan">• Sundhedsstyrelsen. Diabetesbehandling i Danmark – fremtidig organisering. 1994.</p>
-<p type="listitem" xml:lang="dan">• Dansk selskab for almen medicin. Type 2 diabetes i almen praksis. Diagnose og behandling. En</p>
-<p xml:lang="dan">konsensusvejledning. 2002.</p>
-<p type="listitem" xml:lang="dan">• Dansk Selskab for Intern Medicin, Dansk Endokrinologisk Selskab &amp; Dansk selskab for almen</p>
-<p xml:lang="dan">medicin. Type 2 diabetes og det metaboliske syndrom – diagnostik og behandling. Klaringsrapport. Nr. 6, 2000.</p>
-<p type="listitem">• Hansen, Lars Jørgen, Thomas B. Drivsholm, Anni Brit Sternhagen &amp; Niels de Fine Olivarius.</p>
-<p xml:lang="dan"><span type="quote" xml:lang="dan">”Interventioner til forbedring af diabetesbehandlingen i det primære sundhedsvæsen og på diabetesambulatorier”</span> i Ugeskrift for Læger. Nr. 5. 2002.</p>
-<p type="listitem" xml:lang="dan">• Holstein, Per E., Michael Lohman &amp; Finn Gottrup. ”Forbedret behandling af diabetiske</p>
-<p xml:lang="dan">fodproblemer” i Ugeskrift for Læger. Nr. 23. 2001.</p>
-<p type="listitem" xml:lang="dan">• Lervang, Hans-Henrik. <span type="quote" xml:lang="dan">”Behandling af diabetiske komplikationer”</span> i Tidsskrift for</p>
-<p xml:lang="dan">diabetesbehandling 15. November 2002.</p>
-<p type="listitem" xml:lang="dan">• Madsbad, Sten. <span type="quote" xml:lang="dan">”Forebyggelse af type 2 diabetes”</span> i Tidsskrift for diabetesbehandling 15.</p>
-<p xml:lang="dan">November 2002.</p>
-<p type="listitem" xml:lang="dan">• Diabetes Care and Research in Europe: The St. Vincent Declaration. 1989.</p>
-<p type="listitem" xml:lang="dan">• Istanbul Commitment. 1999.</p>
-<p type="listitem" xml:lang="dan">• New England Journal of Medicine. January 2003.</p>
-<p type="listitem" xml:lang="dan">• Ugeskrift for Læger.</p>
+<p><em type="bold">Talva 2: Kostnaður fyri diabetesambulatorium á Suðuroyar Sjúkrahúsi Tiltak </em></p>
+<p><em type="bold">Tímar </em></p>
+<p><em type="bold">Útreiðslur/mðr. </em></p>
+<p><em type="bold">Tilsamans </em></p>
+<p>Sjúkrarøktarfrøðingur168.514,32</p>
+<p>Kostráðgevi168.898,78</p>
+<p>Læknakonsulenttænast. 87 4.086,00</p>
+<p>Tilsamans21.499,10257.989,14</p>
+<p><em type="bold">Talva 3: Kostnaður fyri diabetesambulatorium á Klaksvíkar Sjúkrahúsi Tiltak </em></p>
+<p><em type="bold">Tímar </em></p>
+<p><em type="bold">Útreiðslur/mðr. </em></p>
+<p><em type="bold">Tilsamans </em></p>
+<p>Sjúkrarøktarfrøðingur2011.352,42</p>
+<p>Kostráðgevi2011.865,04</p>
+<p>Tilsamans23.217,46278.609,52</p>
+<p><em type="bold">Talva 4: Kostnaður fyri diabetesambulatorium á Landssjúkrahúsinum Tiltak </em></p>
+<p><em type="bold">Tímar </em></p>
+<p><em type="bold">Útreiðslur/mðr. </em></p>
+<p><em type="bold">Tilsamans </em></p>
+<p>Sjúkrarøktarfrøðingur4022.704,84</p>
+<p>Kostráðgevi4023.730,08</p>
+<p>Lækni1214.572,30</p>
+<p>Skrivarafunktión209.937,00</p>
+<p>Sártænasta 8 Tilsamans70.944,22851.324,747 Læknakonsulenttænastan á Suðuroyar Sjúkrahúsi er sett til 8 tímar pr. mánaða.8 Við tað at ikki ber til at siga, hvussu nógvir diabetikarar fara at nýta sártænastuna, ber ikki til at gera eina kostnaðarmeting av hesum ávísingarmøguleika.</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes14</p>
+<p><em type="bold">Diabetesskúli </em>Við støði í royndunum av diabetsskúlum, hevur arbeiðsbólkurin mælt til, at slíkur verður settur á stovn í Føroyum. Við tað at ein diabetesskúli er eitt nýtt tiltak innan diabetesviðgerð í Føroyum, mælir arbeiðsbólkurin til, at upplæring verður veitt teimum heilsustarvsfólkum, sum starvast við diabetes. Arbeiðsbólkurin mælir tí til, at 3-5 heilsustarvsfólk (t.d. lækni, sjúkrarøktarfrøðingur og kostráðgevi) fara á eina námsferð at kunna seg um diabetesskúlan á Fyn. Somuleiðis verður skotið upp, at serfrøðingar innan diabetes koma til Føroya at undirvísa heilsustarvsfólkunum, sum starvast við diabetes, t.d. kommunulæknum, heimasjúkrarøktarfrøðingum, sjúkrarøktarfrøðingum, praksisstarvsfólki, farmaceutum og farmakonomum, og at slík undirvísing verður veitt hesum á øðrum hvørjum ári. Undirvísing á diabetesskúlanum fer at fara fram einar 5 ferðir árliga. Talan verður um 20 tíma undirvísing hvørja ferð, t.v.s. 100 tímar árliga. Arbeiðsbólkurin metir, at hvør undirvísingartími í miðal fer at kosta 300,00 kr., og verður tann árligi kostnaðurin av hesum 30.000,00 kr. Arbeiðsbólkurin er av tí áskoðan, at fyrstu tvey árini verður undirvísingaraktiviteturin størri, tí nógv av teimum, sum longu hava diabetes, fara at taka av tilboðnum um slíka undirvísing. </p>
+<p><em type="bold">Talva 5: Diabetesskúli Tiltak </em></p>
+<p><em type="bold">Tímar </em></p>
+<p><em type="bold">Útreiðslur </em></p>
+<p><em type="bold">Tilsamans </em></p>
+<p xml:lang="dan">Diabetesskúli10030.000,00</p>
+<p>Upplæring/starvsfólk20.000,00</p>
+<p>Undirvísing/starvsfólk20.000,00</p>
+<p>Tilsamans70.000,0070.000,00</p>
+<p><em type="bold">Diabetesbóklingur </em>Arbeiðsbólkurin hevur mælt til, at diabetessjúklingar fáa ein diabetesbókling, sum teir skulu hava við sær til tær ymsu kanningarnar, sum teir skulu til. Á henda hátt ber til bæði hjá ymsum heilsustarvsfólkum og hjá sjálvum sjúklinginum at fylgja gongdini í sjúkuni. Í bóklinginum skulu harumframt vera ymsar upplýsingar um diabetes. Arbeiðsbólkurin hevur skotið upp at prenta bóklingin í eini 2.500 eintøkum, og kostnaðurin av hesum er mettur til 20.000,00 kr. Henda upphædd skal tó takast við fyrivarni. Arbeiðsbólkurin hevur umrøtt møguleikan fyri at fáa stovnar og fyritøkur at fíggja bóklingin heilt ella partvíst. Fæst slíkur fíggjarligur stuðul, so lækka kostnaðarmetingarnar hjá arbeiðsbólkinum samsvarandi. </p>
+<p><em type="bold">Elektronisk sjúklingajournal </em>Arbeiðsbólkurin hevur skotið upp, at sett verður á stovn ein elektronisk sjúklingajournal. Familjuog heilsumálaráðið arbeiðir við ætlanini at gera eina elektroniska sjúklingajournal. Enn ber tó ikki til at siga, nær hetta arbeiðið verður liðugt, og tískil ber ikki til hjá arbeiðsbólkinum at gera nakrar kostnaðarmetingar hesum viðvíkjandi. </p>
+<p><em type="bold">Sálarlækni/-frøðingur </em>Um tørvur er á tí, so skal tað vera møguligt at ávísa sjúklingi, ið hevur fingið staðfest diabetes, til sálarlækna ella sálarfrøðing. Av tí at tað ikki ber til at siga, hvussu nógvir diabetikarar møguliga fara at verða ávístir til antin sálarlækna ella sálarfrøðing, ber ikki til at gera eina kostnaðarmeting av hesum ávísingarmøguleika. </p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes15</p>
+<p><em type="bold">Talva 6: Onnur tiltøk Tiltak </em></p>
+<p><em type="bold">Útreiðslur </em></p>
+<p><em type="bold">Tilsamans </em></p>
+<p>Diabetesbóklingur2.500 eintøk20.000,00</p>
+<p>Elektronisk journal Sálarlækni/-frøðingur Tilsamans20.000,0020.000,00</p>
+<p><em type="bold">Samlaðar útreiðslur </em></p>
+<p><em type="bold">Talva 7: Samlaðar útreiðslur Tiltak </em></p>
+<p><em type="bold">Útreiðslur tilsamans </em></p>
+<p>Diabetesambulatorium/Suðuroyar Sjúkrahús257.989,14</p>
+<p>Diabetesambulatorium/Klaksvíkar Sjúkrahús278.609,52</p>
+<p>Diabetesambulatorium/Landssjúkrahúsið851.324,74</p>
+<p xml:lang="dan">Diabetesskúli70.000,00</p>
+<p>Diabetesbóklingur20.000,00</p>
+<p>Elektronisk journal Sálarlækni/-frøðingur Tilsamans1.477.923,40</p>
+<p type="listitem">Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes168. Keldulisti</p>
+<p type="listitem" xml:lang="dan">Diabetesbehandling i Fyns Amt – den fremtidige strategi, organisering og struktur. 1997.</p>
+<p type="listitem" xml:lang="dan">Diabetesbehandling i Fyns Amt – evaluering af omlægning af diabetesbehandlingen. Sygehus</p>
+<p type="listitem">Fyn, Odense Universitetshospital. 2000.</p>
+<p type="listitem" xml:lang="dan">Sundhedsstyrelsen. Diabetesbehandling i Danmark – fremtidig organisering. 1994.</p>
+<p type="listitem" xml:lang="dan">Dansk selskab for almen medicin. Type 2 diabetes i almen praksis. Diagnose og behandling. Enkonsensusvejledning. 2002.</p>
+<p type="listitem" xml:lang="dan">Dansk Selskab for Intern Medicin, Dansk Endokrinologisk Selskab &amp; Dansk selskab for almenmedicin. Type 2 diabetes og det metaboliske syndrom – diagnostik og behandling. Klaringsrapport. Nr. 6, 2000.</p>
+<p type="listitem" xml:lang="dan">Hansen, Lars Jørgen, Thomas B. Drivsholm, Anni Brit Sternhagen &amp; Niels de Fine Olivarius.<span type="quote" xml:lang="dan">”Interventioner til forbedring af diabetesbehandlingen i det primære sundhedsvæsen og på diabetesambulatorier”</span> i Ugeskrift for Læger. Nr. 5. 2002.</p>
+<p type="listitem" xml:lang="dan">Holstein, Per E., Michael Lohman &amp; Finn Gottrup. <span type="quote" xml:lang="dan">”Forbedret behandling af diabetiskefodproblemer”</span> i Ugeskrift for Læger. Nr. 23. 2001.</p>
+<p type="listitem" xml:lang="dan">Lervang, Hans-Henrik. <span type="quote" xml:lang="dan">”Behandling af diabetiske komplikationer”</span> i Tidsskrift fordiabetesbehandling 15. November 2002.</p>
+<p type="listitem" xml:lang="dan">Madsbad, Sten. <span type="quote" xml:lang="dan">”Forebyggelse af type 2 diabetes”</span> i Tidsskrift for diabetesbehandling 15.</p>
+<p type="listitem" xml:lang="dan">November 2002.</p>
+<p type="listitem" xml:lang="dan">Diabetes Care and Research in Europe: The St. Vincent Declaration. 1989.</p>
+<p type="listitem" xml:lang="dan">Istanbul Commitment. 1999.</p>
+<p type="listitem" xml:lang="dan">New England Journal of Medicine. January 2003.</p>
+<p type="listitem" xml:lang="dan">Ugeskrift for Læger.</p>
+<p>Álit um viðgerðarviðurskiftini hjá sjúklingum við typu 2 diabetes17</p>
 <p><em type="bold">Yvirlit yvir mynd og talvur </em></p>
 <p>Mynd 1: Útreiðslugongd fyri diabetesumsorgan</p>
 <p>Talva 1: Blóðtrýst</p>

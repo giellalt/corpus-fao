@@ -1,885 +1,248 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>9995</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2019.06 Álit um møguleikar, fyrimunir og vansar, at gera ein Suðuroyartunnil.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Álit um møguleikar, fyrimunir og vansar, at gera ein Suðuroyartunnil</p>
-<p>Innihaldsyvirlit</p>
-<p><em type="italic">1. Arbeiðssetningur ............................................................................................................................... 4 </em></p>
-<p><em type="italic">2. Innleiðing ........................................................................................................................................... 6 </em></p>
-<p><em type="italic">3. Samfelagslig árin av undirsjóvartunli til Suðuroyar ....................................................................... 7 </em></p>
-<p xml:lang="dan"><em type="italic">3.1. Búseting ....................................................................................................................................... 7 </em></p>
-<p><em type="italic">3.2. Trivnaður ..................................................................................................................................... 8 </em></p>
-<p><em type="italic">3.3. Útbúgvingar ................................................................................................................................. 9 </em></p>
-<p><em type="italic">3.4. Starvsmøguleikar.........................................................................................................................10 </em></p>
-<p><em type="italic">3.5. Vinnulívið....................................................................................................................................10 </em></p>
-<p><em type="italic">3.6. Ferðavinna ..................................................................................................................................13 </em></p>
-<p><em type="italic">3.7. Vørur og tænastur .......................................................................................................................13 </em></p>
-<p><em type="italic">3.8. Heilsutænastur ............................................................................................................................13 </em></p>
-<p><em type="italic">4. Ferðslumetingar ...............................................................................................................................15 </em></p>
-<p><em type="italic">5. Fíggjarviðurskifti og skipan av verkætlanini ..................................................................................16 </em></p>
-<p><em type="italic">5.1. Nær er rætta løtan at fara undir eina so stóra verkætlan sum Suðuroyartunnilin. .........................16 </em></p>
-<p><em type="italic">5.2. Vandin fyri rentuhækkingum: ......................................................................................................16 </em></p>
-<p><em type="italic">5.3. Jarðfrøðiligir váðar: ...................................................................................................................17 </em></p>
-<p><em type="italic">5.4. Ov bjartskygdar inntøku metingar ...............................................................................................18 </em></p>
-<p><em type="italic">5.5. Alment partafelag: ......................................................................................................................18 </em></p>
-<p><em type="italic">5.6. Samhaldsføst fígging eisini ein fyritreyt eins og Vága- og Norðoyatunlinum ................................19 </em></p>
-<p><em type="italic">5.7. Fígging frá hinum undirsjóvartunlunum ......................................................................................20 </em></p>
-<p><em type="italic">5.8.Framhaldandi fígging av suðuroyarleiðini yvir fíggjarlógina........................................................20 </em></p>
-<p><em type="italic">5.9. Íløgan í nýggjan Smyril í Suðuroyartunnilin ................................................................................20 </em></p>
-<p><em type="italic">5.10 Lánsfíggingin .............................................................................................................................22 </em></p>
-<p><em type="italic">5.11. Ymiskir hættir eru at fíggja íløguna. ..........................................................................................22 </em></p>
-<p><em type="italic">5.11.1. Landskassin tekur lán við landskassa veðhaldi ....................................................................22 </em></p>
-<p><em type="italic">5.11.2. Felagið tekur lán við inntøkutrygd ......................................................................................23 </em></p>
-<p><em type="italic">6. Linjuføringar ...................................................................................................................................24 </em></p>
-<p><em type="italic">6.0 Loysn við inntaki norðanfyri Sands Bygd og tunnil umvegis Skúvoy. .............................................26 </em></p>
-<p><em type="italic">6.1 Loysn við inntaki norðanfyri brattlendið áðrenn Skarvanes ..........................................................27 </em></p>
-<p><em type="italic">6.2 Loysn við inntaki sunnanfyri brattlendi áðrenn Skarvanes ............................................................28 </em></p>
-<p><em type="italic">6.3 Inntak norðanfyri Sands bygd .......................................................................................................29 </em></p>
-<p><em type="italic">6.4 Inntak í Dali .................................................................................................................................30 </em></p>
-<p><em type="italic">6.5 Yvirlit yvir linjuføringarnar ..........................................................................................................31 </em></p>
-<p>2</p>
-<p><em type="italic">7. Jarðfrøði ...........................................................................................................................................32 </em></p>
-<p><em type="italic">8. Trygd ................................................................................................................................................35 </em></p>
-<p><em type="italic">9. Umhvørvisatlit..................................................................................................................................39 </em></p>
-<p><em type="italic">10. Kostnaðarmeting ............................................................................................................................40 </em></p>
-<p><em type="italic">10.1. Inntøkur ....................................................................................................................................40 </em></p>
-<p><em type="italic">10.2. Rakstrarkostnaður .....................................................................................................................40 </em></p>
-<p><em type="italic">10.3. Fíggjarkostnaður .......................................................................................................................40 </em></p>
-<p><em type="italic">Partapeningur ....................................................................................................................................40 </em></p>
-<p><em type="italic">11. Tíðarætlan (tíðartørvur) ................................................................................................................42 </em></p>
-<p><em type="italic">12. Tilmæli ...........................................................................................................................................44 </em></p>
-<p><em type="italic">13. Keldur: ...........................................................................................................................................46 </em></p>
-<p>3</p>
-<p><em type="bold">1. Arbeiðssetningur </em></p>
-<p>Samferðslumálaráðið hevur avgjørt at seta ein arbeiðsbólk, sum skal hava sum arbeiðssetning at</p>
-<p>kanna og útgreina møguleikar, fyrimunir og vansar at gera ein Suðuroyartunnil frá Sandoynni til</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>10009</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2019.06 Álit um møguleikar, fyrimunir og vansar, at gera ein Suðuroyartunnil.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Tórshavn Juni 2019 </em></p>
+<p>Álit um møguleikar, fyrimunir og vansar, at gera ein</p>
+<p>Suðuroyartunnil 2</p>
+<p>Innihaldsyvirlit <em type="bold">1. Arbeiðssetningur </em>............................................................................................................................... 4 <em type="bold">2. Innleiðing </em>........................................................................................................................................... 6 <em type="bold">3. Samfelagslig árin av undirsjóvartunli til Suðuroyar </em>....................................................................... 7 <em type="italic">3.1. Búseting </em>....................................................................................................................................... 7 <em type="italic">3.2. Trivnaður </em>..................................................................................................................................... 8 <em type="italic">3.3. Útbúgvingar </em>................................................................................................................................. 9 <em type="italic">3.4. Starvsmøguleikar </em>.........................................................................................................................10 <em type="italic">3.5. Vinnulívið </em>....................................................................................................................................10 <em type="italic">3.6. Ferðavinna </em>..................................................................................................................................13 <em type="italic">3.7. Vørur og tænastur </em>.......................................................................................................................13 <em type="italic">3.8. Heilsutænastur </em>............................................................................................................................13 <em type="bold">4. Ferðslumetingar </em>...............................................................................................................................15 <em type="bold">5. Fíggjarviðurskifti og skipan av verkætlanini </em>..................................................................................16 <em type="italic">5.1. Nær er rætta løtan at fara undir eina so stóra verkætlan sum Suðuroyartunnilin. </em>.........................16 <em type="italic">5.2. Vandin fyri rentuhækkingum: </em>......................................................................................................16 <em type="italic">5.3. Jarðfrøðiligir váðar: </em>...................................................................................................................17 <em type="italic">5.4. Ov bjartskygdar inntøku metingar </em>...............................................................................................18 <em type="italic">5.5. Alment partafelag: </em>......................................................................................................................18 <em type="italic">5.6. Samhaldsføst fígging eisini ein fyritreyt eins og Vága- og Norðoyatunlinum </em>................................19 <em type="italic">5.7. Fígging frá hinum undirsjóvartunlunum </em>......................................................................................20 <em type="italic">5.8.Framhaldandi fígging av suðuroyarleiðini yvir fíggjarlógina </em>........................................................20 <em type="italic">5.9. Íløgan í nýggjan Smyril í Suðuroyartunnilin </em>................................................................................20 <em type="italic">5.10 Lánsfíggingin </em>.............................................................................................................................22 <em type="italic">5.11. Ymiskir hættir eru at fíggja íløguna. </em>..........................................................................................22 <em type="italic">5.11.1. Landskassin tekur lán við landskassa veðhaldi </em>....................................................................22 <em type="italic">5.11.2. Felagið tekur lán við inntøkutrygd </em>......................................................................................23 <em type="bold">6. Linjuføringar </em>...................................................................................................................................24 <em type="italic">6.0 Loysn við inntaki norðanfyri Sands Bygd og tunnil umvegis Skúvoy. </em>.............................................26 <em type="italic">6.1 Loysn við inntaki norðanfyri brattlendið áðrenn Skarvanes </em>..........................................................27 <em type="italic">6.2 Loysn við inntaki sunnanfyri brattlendi áðrenn Skarvanes </em>............................................................28 <em type="italic">6.3 Inntak norðanfyri Sands bygd </em>.......................................................................................................29 <em type="italic">6.4 Inntak í Dali </em>.................................................................................................................................30 <em type="italic">6.5 Yvirlit yvir linjuføringarnar </em>..........................................................................................................31 3 <em type="bold">7. Jarðfrøði </em>...........................................................................................................................................32 <em type="bold">8. Trygd </em>................................................................................................................................................35 <em type="bold">9. Umhvørvisatlit </em>..................................................................................................................................39 <em type="bold">10. Kostnaðarmeting </em>............................................................................................................................40 <em type="italic">10.1. Inntøkur </em>....................................................................................................................................40 <em type="italic">10.2. Rakstrarkostnaður </em>.....................................................................................................................40 <em type="italic">10.3. Fíggjarkostnaður </em>.......................................................................................................................40 </p>
+<p><em type="italic">Partapeningur </em>....................................................................................................................................40 <em type="bold">11. Tíðarætlan (tíðartørvur) </em>................................................................................................................42 <em type="bold">12. Tilmæli </em>...........................................................................................................................................44 <em type="bold">13. Keldur: </em>...........................................................................................................................................46 4 <em type="bold">1. Arbeiðssetningur </em></p>
+<p>Samferðslumálaráðið hevur avgjørt at seta ein arbeiðsbólk, sum skal hava sum arbeiðssetning at kanna og útgreina møguleikar, fyrimunir og vansar at gera ein Suðuroyartunnil frá Sandoynni til</p>
 <p>Suðuroyar.</p>
-<p>Arbeiðið við at bora Sandoyartunnilin fer í gongd næsta ár. Boringin verður væntandi liðug við</p>
-<p>ársenda 2021, og tunnilin tikin í brúk í 2023.</p>
+<p>Arbeiðið við at bora Sandoyartunnilin fer í gongd næsta ár. Boringin verður væntandi liðug við ársenda 2021, og tunnilin tikin í brúk í 2023.</p>
 <p>Samferðslumálaráðið metir, at tað hevur týdning at gera forkanningar, meðan arbeiðið við</p>
-<p>Sandoyartunlinum er í gongd soleiðis, at tað eisini í byggitíðarskeiðnum verður gjørligt at meta</p>
-<p>um møguligar fyrimunir ella vansar at byrja arbeiðið upp á Suðuroyartunnilin samstundis, ella</p>
-<p>stutt eftir, at arbeiðið við Sandoyartunlinum er liðugt.</p>
-<p>Arbeiðið at bora ein Suðuroyartunnil er ein stór verkætlan, sum ikki kann setast í gongd fyrr enn</p>
-<p>allar fortreytir eru uppfyltar. Nakrar av hesum fortreytum eru, at gjørligt verður at útvega</p>
-<p>fígging, og hvussu projektið við Eysturoyartunlinum fer at eydnast.</p>
-<p>Vísir tað seg, at Eysturoyartunnilin fer at hvíla í sjálvum sær, og at útlitini fyri, at ferðslutrygdin,</p>
-<p>sum landskassin hevur veitt Eystur- og Sandoyartunlum, ikki gerst effektiv, eru sannlíkindini</p>
-<p>fyri, at landskassin megnar at lyfta uppgávuna munandi betur, enn um tað skuldi víst seg, at</p>
-<p>landskassin skal veita fíggjarligt íkast til Eystur- og Sandoyartunnilin.</p>
+<p>Sandoyartunlinum er í gongd soleiðis, at tað eisini í byggitíðarskeiðnum verður gjørligt at meta um møguligar fyrimunir ella vansar at byrja arbeiðið upp á Suðuroyartunnilin samstundis, ella stutt eftir, at arbeiðið við Sandoyartunlinum er liðugt.</p>
+<p>Arbeiðið at bora ein Suðuroyartunnil er ein stór verkætlan, sum ikki kann setast í gongd fyrr enn allar fortreytir eru uppfyltar. Nakrar av hesum fortreytum eru, at gjørligt verður at útvega fígging, og hvussu projektið við Eysturoyartunlinum fer at eydnast.</p>
+<p>Vísir tað seg, at Eysturoyartunnilin fer at hvíla í sjálvum sær, og at útlitini fyri, at ferðslutrygdin, sum landskassin hevur veitt Eystur- og Sandoyartunlum, ikki gerst effektiv, eru sannlíkindini fyri, at landskassin megnar at lyfta uppgávuna munandi betur, enn um tað skuldi víst seg, at landskassin skal veita fíggjarligt íkast til Eystur- og Sandoyartunnilin.</p>
 <p>Landskassin skal í komandi tíðum eisini brynja seg til stórar íløgur í sambandi við</p>
-<p>Suðuroyarleiðina. Smyril er eftir hondini út ímóti 15 ára gamal. Raksturin av hesi leiðini krevur</p>
-<p>eisini stórt fíggjarligt íkast úr landskassanum, umframt at útreiðslurnar til klassingar eru</p>
-<p>hækkandi.</p>
-<p>Hesi viðurskifti saman við lága rentustøðinum í løtuni hava við sær, at Samferðslumálaráðið</p>
-<p>metir, at ein skjótt arbeiðandi arbeiðsbólkur eigur at vera settur beinanvegin, og at hesin</p>
-<p>arbeiðsbólkur eisini skal geva eitt tilmæli til politiska myndugleikan um møguliga bygging og</p>
-<p>fígging av hesi verkætlan.</p>
-<p>Staðfestast má, at Suðuroyartunnilin verður ein sera langur tunnil, og fíggjarliga rásarúmið er</p>
-<p>avmarkað. Tí er eisini umráðandi, at arbeiðsbólkurin kannar og mælir til, hvussu tunnilin kann</p>
-<p>4 gerast, og at krøvini til tunnilin eru á einum støði, sum ger, at tað er realistiskt at gera tunnilin,</p>
-<p>samstundis sum trygdin verður nøktandi.</p>
-<p>Í sambandi við ein møguligan Suðuroyartunnil hevur tað stóran týdning, at tað í løtuni finst</p>
-<p>serfrøði innan hetta øki í Føroyum. Henda serfrøðin er fyrst og fremst knýtt at Eystur- og</p>
-<p>Sandoyartunlum. Tað hevur týdning, at arbeiðsbólkurin eisini kann gera brúk av teirri vitan, sum</p>
-<p>longu finst um bygging og fígging av undirsjóvartunlum.</p>
-<p>Ein slík ætlan eigur eisini at vera grundfest í landsfyrisitingini, og er tað tí nattúrligt, at umboð</p>
-<p>fyri Fíggjarmálaráðið og Samferðslumálaráðið/Landsverk eru við í arbeiðsbólkinum.</p>
-<p>Arbeiðsbólkurin skal hava hesar arbeiðssetningar:</p>
-<p>1) Arbeiðsbólkurin skal seta í verk allar neyðugar kanningar, sum skulu lýsa fyrimunir og</p>
-<p>vansar við einum Suðuroyartunli og fíggjarligu avleiðingarnar av hesum fyri føroyska</p>
-<p>samfelagið.</p>
-<p>2) Arbeiðsbólkurin skal gera neyðugar ferðslumetingar og kanna inntøkugrundarlagið fyri</p>
-<p>einum møguligum Suðuroyartunli</p>
-<p>3) Arbeiðsbólkurin skal kanna møguligar linjuføringar og koma við einum tilmæli um</p>
-<p>neyðugar jarðfrøðisligar kanningar.</p>
-<p>4) Arbeiðsbólkurin skal gera eina kostnaðarmeting og tíðarætlan fyri gerð av einum</p>
-<p>møguligum tunli til Suðuroyar og kanna, hvørjir fíggingarmøguleikar eru at fíggja hesa</p>
-<p>verkætlan.</p>
-<p>5) Tá tær í pkt. 1) – 4) nevndu kanningar eru lidnar, skal arbeiðsbólkurin lata</p>
-<p>landsstyrismanninum eitt ítøkiligt tilmæli um møguliga gerð av einum Suðuroyartunli,</p>
-<p>bæði viðvíkjandi staðseting, tíðarætlan og fíggingarmynstri.</p>
-<p>Fyri at arbeiðsbólkurin skal kunna arbeiða skjótt og fáa sum mest burtur úr tí arbeiði, sum longu</p>
-<p>er gjørt, skal arbeiðsbólkurin, fáa atgongd og nýtslurætt til tilfar, sum aðrir almennir mynduleikar</p>
-<p>hava, og sum er neyðugt í sambandi við verkætlanina.</p>
-<p>5</p>
-<p><em type="bold">2. Innleiðing  </em></p>
-<p>Samferðslumálaráðið setti 8 mars 2019 ein skjóttarbeiðandi arbeiðsbólk at koma við einum</p>
-<p>tilmæli, um bygging av einum møguligum Suðuroyartunli av Sandoynni til Suðuroyar. Tilmælið</p>
-<p>skuldi fyriliggja 1. juni. Tí var skotbráið ikki langt. Fyri at fáa lýst flest møgulig týðandi</p>
-<p>viðurskiftir og svara spurningunum frá Samferðslumálaráðnum, hevur arbeiðsbólkurin valt ein</p>
-<p>yvirskipaðan arbeiðshátt. Metingarnar av samfelagsárinunum av einum slíkum tunli, eru bygd á</p>
-<p>líknandi kanningar úr útlondum og samskiftið við vinnulív og fólk í Suðuroynni. Hartil hevur</p>
-<p>arbeiðsbólkurin vent sær til serfrøðingar innan ymisk økir, sum eru knýttir at verkætlanini</p>
-<p>Eystur- og Sandoyartunlar, og sum kenna til føroysk viðurskiftir, eins og tær royndir, sum eru</p>
-<p>gjørdar við tilrættaleggjanini av Eystur- og Sandoyartunlunum. Arbeiðsbólkurin hevur valt at</p>
-<p>avmarka seg til tær mest týðandi kanningarnar, sum eiga at gerast, fyri at kunna realisera eina</p>
-<p>slíka verkætlan. Hetta merkir ikki, at aðrar kanningar ikki eiga at verða gjørdar seinni, tá komið</p>
-<p>er nærri støðutakanini til at fara undir sjálva byggingina av Suðuroyartunlinum. Eyðvitað skulu</p>
-<p>batar gerast á verandi vegakervið annars, fyri at ferðslan kann ganga so væl sum gjørligt.</p>
-<p>Arbeiðsbólkurin hevur valt ikki at viðgera hesar avleiddu verkætlanir, av tí at tær verða</p>
-<p>viðgjørdar í Samferðsluætlanini 2018-2030 hjá Landsverk.</p>
-<p>6</p>
-<p><em type="bold">3. Samfelagslig árin av undirsjóvartunli til Suðuroyar </em></p>
-<p>Kanningar  gjørdar  í  Norðurnorra  vísa,  at  betri  útbygt  infrakervi  hevur  við  sær  búskaparligan</p>
-<p>vøkstur, hetta tó bert um ávísar fortreytir eru til staðar:</p>
-<p type="listitem"> Verri útbygt infrakervið er frammanundan, størri eru vánirnar fyri, at íløga í at</p>
-<p>byggja út infrakervið hevur við sær búskaparligan vøkstur, serliga um talan er</p>
-<p>um batar, sum skapa nýggjar møguleikar – ikki bara batar á verandi kervi.</p>
-<p type="listitem"> Øki,  ið  fáa  samband  við  eitt  meginøki,  mugu  hava  eyðsýndar</p>
-<p>menningarmøguleikar, um tað skal muna rætta vegin.</p>
-<p type="listitem"> Politiska  skipanin  skal  vera  væl  ment,  og  minst  eitt  íðnaðarøki/siðvenja  skal</p>
-<p>verða  at  byggja  á,  ella  ein  marknaðaður  skal  vera  at  kveikja</p>
-<p>vakstrarmøguleikarnar.</p>
+<p>Suðuroyarleiðina. Smyril er eftir hondini út ímóti 15 ára gamal. Raksturin av hesi leiðini krevur eisini stórt fíggjarligt íkast úr landskassanum, umframt at útreiðslurnar til klassingar eru hækkandi.</p>
+<p>Hesi viðurskifti saman við lága rentustøðinum í løtuni hava við sær, at Samferðslumálaráðið metir, at ein skjótt arbeiðandi arbeiðsbólkur eigur at vera settur beinanvegin, og at hesin arbeiðsbólkur eisini skal geva eitt tilmæli til politiska myndugleikan um møguliga bygging og fígging av hesi verkætlan.</p>
+<p>Staðfestast má, at Suðuroyartunnilin verður ein sera langur tunnil, og fíggjarliga rásarúmið er avmarkað. Tí er eisini umráðandi, at arbeiðsbólkurin kannar og mælir til, hvussu tunnilin kann 5 gerast, og at krøvini til tunnilin eru á einum støði, sum ger, at tað er realistiskt at gera tunnilin, samstundis sum trygdin verður nøktandi.</p>
+<p>Í sambandi við ein møguligan Suðuroyartunnil hevur tað stóran týdning, at tað í løtuni finst serfrøði innan hetta øki í Føroyum. Henda serfrøðin er fyrst og fremst knýtt at Eystur- og</p>
+<p>Sandoyartunlum. Tað hevur týdning, at arbeiðsbólkurin eisini kann gera brúk av teirri vitan, sum longu finst um bygging og fígging av undirsjóvartunlum.</p>
+<p>Ein slík ætlan eigur eisini at vera grundfest í landsfyrisitingini, og er tað tí nattúrligt, at umboð fyri Fíggjarmálaráðið og Samferðslumálaráðið/Landsverk eru við í arbeiðsbólkinum.</p>
+<p>Arbeiðsbólkurin skal hava hesar arbeiðssetningar: 1) Arbeiðsbólkurin skal seta í verk allar neyðugar kanningar, sum skulu lýsa fyrimunir og vansar við einum Suðuroyartunli og fíggjarligu avleiðingarnar av hesum fyri føroyska samfelagið. 2) Arbeiðsbólkurin skal gera neyðugar ferðslumetingar og kanna inntøkugrundarlagið fyri einum møguligum Suðuroyartunli 3) Arbeiðsbólkurin skal kanna møguligar linjuføringar og koma við einum tilmæli um neyðugar jarðfrøðisligar kanningar. 4) Arbeiðsbólkurin skal gera eina kostnaðarmeting og tíðarætlan fyri gerð av einum møguligum tunli til Suðuroyar og kanna, hvørjir fíggingarmøguleikar eru at fíggja hesa verkætlan. 5) Tá tær í pkt. 1) – 4) nevndu kanningar eru lidnar, skal arbeiðsbólkurin lata landsstyrismanninum eitt ítøkiligt tilmæli um møguliga gerð av einum Suðuroyartunli, bæði viðvíkjandi staðseting, tíðarætlan og fíggingarmynstri.</p>
+<p>Fyri at arbeiðsbólkurin skal kunna arbeiða skjótt og fáa sum mest burtur úr tí arbeiði, sum longu er gjørt, skal arbeiðsbólkurin, fáa atgongd og nýtslurætt til tilfar, sum aðrir almennir mynduleikar hava, og sum er neyðugt í sambandi við verkætlanina. 6 <em type="bold">2. Innleiðing </em></p>
+<p>Samferðslumálaráðið setti 8 mars 2019 ein skjóttarbeiðandi arbeiðsbólk at koma við einum tilmæli, um bygging av einum møguligum Suðuroyartunli av Sandoynni til Suðuroyar. Tilmælið skuldi fyriliggja 1. juni. Tí var skotbráið ikki langt. Fyri at fáa lýst flest møgulig týðandi viðurskiftir og svara spurningunum frá Samferðslumálaráðnum, hevur arbeiðsbólkurin valt ein yvirskipaðan arbeiðshátt. Metingarnar av samfelagsárinunum av einum slíkum tunli, eru bygd á líknandi kanningar úr útlondum og samskiftið við vinnulív og fólk í Suðuroynni. Hartil hevur arbeiðsbólkurin vent sær til serfrøðingar innan ymisk økir, sum eru knýttir at verkætlanini</p>
+<p>Eystur- og Sandoyartunlar, og sum kenna til føroysk viðurskiftir, eins og tær royndir, sum eru gjørdar við tilrættaleggjanini av Eystur- og Sandoyartunlunum. Arbeiðsbólkurin hevur valt at avmarka seg til tær mest týðandi kanningarnar, sum eiga at gerast, fyri at kunna realisera eina slíka verkætlan. Hetta merkir ikki, at aðrar kanningar ikki eiga at verða gjørdar seinni, tá komið er nærri støðutakanini til at fara undir sjálva byggingina av Suðuroyartunlinum. Eyðvitað skulu batar gerast á verandi vegakervið annars, fyri at ferðslan kann ganga so væl sum gjørligt.</p>
+<p>Arbeiðsbólkurin hevur valt ikki at viðgera hesar avleiddu verkætlanir, av tí at tær verða viðgjørdar í Samferðsluætlanini 2018-2030 hjá Landsverk. 7 <em type="bold">3. Samfelagslig árin av undirsjóvartunli til Suðuroyar </em></p>
+<p>Kanningar gjørdar í Norðurnorra vísa, at betri útbygt infrakervi hevur við sær búskaparligan vøkstur, hetta tó bert um ávísar fortreytir eru til staðar:  Verri útbygt infrakervið er frammanundan, størri eru vánirnar fyri, at íløga í at byggja út infrakervið hevur við sær búskaparligan vøkstur, serliga um talan er um batar, sum skapa nýggjar møguleikar – ikki bara batar á verandi kervi.  Øki, ið fáa samband við eitt meginøki, mugu hava eyðsýndar menningarmøguleikar, um tað skal muna rætta vegin.  Politiska skipanin skal vera væl ment, og minst eitt íðnaðarøki/siðvenja skal verða at byggja á, ella ein marknaðaður skal vera at kveikja vakstrarmøguleikarnar.</p>
 <p>Allar hesar grundleggjandi fortreytir fyri búskaparvøkstri eru galdandi fyri Suðuroynna.</p>
-<p>Niðanfyri nerta vit við nakrar av avleiðingunum, sum ein undirsjóvartunnil kann hugsast at fara at</p>
-<p>hava á samfelagsligu viðurskiftini í Suðuroynni. Støðið verður í mestan mun tikið í greiningum og</p>
-<p>royndum í Norra, Grønlandi og Danmark – og skal tí takast við tí fyrivarni, at umstøðurnar har eru</p>
-<p>aðrar.  Vit  meta  tó,  at  talan  í  høvuðsheitum  er  um  somikið  grundleggjandi  viðurskifti,  at</p>
-<p>sambæriligt er millum londini. Vit hava tó eisini í ávísan mun tosað við vinnulívsaktørar í Suðuroy</p>
-<p>at fáa okkum ábendingar um, hvørt úrslitini, sum  útlendsku kanningarnar vísa, tykjast at  kunna</p>
-<p>verða líknandi hjá okkum.</p>
-<p xml:lang="dan"><em type="italic">3.1. Búseting </em></p>
-<p>Tað er trupult at siga nakað eintýðugt um, hvussu fast samband við eitt meginøki ávirkar hugin at</p>
-<p>seta búgv og trivnaðin í útjaðara. Um vit hyggja eftir royndum aðrastaðni, er sera ymiskt, hvussu</p>
-<p>hevur gingist, og ilt er at síggja nakað greitt mynstur. Munur er á stuttskygdum og langskygdum</p>
-<p>ávirkanum, og munur er á, hvussu útgangsstøðið fyri  vinnuligari  menning og víðarimenning er,</p>
-<p>eins og munur er á politiskum miðsavnandi ella miðfirrandi átøkum.</p>
-<p>Hyggja  vit  eftir  gongdini  í  fólkatalinum,  til  tess  at  fáa  eina  hóming  av  ávirkanini  teir  báðir</p>
-<p>undirsjóvartunlarnir, sum eru í Føroyum, hava haft á búseting í teimum økjunum, er myndin eisini</p>
-<p>ymisk.</p>
-<p>7</p>
-<p>Tunnilin undir Vestmannasund, sum bindur saman Vágoy og Streymoy, var liðugur í 2002. Hyggja</p>
-<p>vit eftir gongdini í fólkatalinum í Vágoy, síggja vit, at ein javnur vøkstur hevur verið síðani tunnilin</p>
-<p xml:lang="dan">kom.</p>
-<p>Hyggja vit eftir Norðoyggjum, sum fingu fast undirsjóvar samband við meginøkið í 2006, síggja</p>
-<p>vit eina gongd, sum  fylgir gongdini  í  landinum  samanlagt. Fyrstu trý árini  var so at siga eingin</p>
-<p>broyting, frá 2009-2015 minkaði fólkatalið, og tað er síðani vaksið nakað.</p>
+<p>Niðanfyri nerta vit við nakrar av avleiðingunum, sum ein undirsjóvartunnil kann hugsast at fara at hava á samfelagsligu viðurskiftini í Suðuroynni. Støðið verður í mestan mun tikið í greiningum og royndum í Norra, Grønlandi og Danmark – og skal tí takast við tí fyrivarni, at umstøðurnar har eru aðrar. Vit meta tó, at talan í høvuðsheitum er um somikið grundleggjandi viðurskifti, at sambæriligt er millum londini. Vit hava tó eisini í ávísan mun tosað við vinnulívsaktørar í Suðuroy at fáa okkum ábendingar um, hvørt úrslitini, sum útlendsku kanningarnar vísa, tykjast at kunna verða líknandi hjá okkum. <em type="italic">3.1. Búseting </em></p>
+<p>Tað er trupult at siga nakað eintýðugt um, hvussu fast samband við eitt meginøki ávirkar hugin at seta búgv og trivnaðin í útjaðara. Um vit hyggja eftir royndum aðrastaðni, er sera ymiskt, hvussu hevur gingist, og ilt er at síggja nakað greitt mynstur. Munur er á stuttskygdum og langskygdum ávirkanum, og munur er á, hvussu útgangsstøðið fyri vinnuligari menning og víðarimenning er, eins og munur er á politiskum miðsavnandi ella miðfirrandi átøkum.</p>
+<p>Hyggja vit eftir gongdini í fólkatalinum, til tess at fáa eina hóming av ávirkanini teir báðir undirsjóvartunlarnir, sum eru í Føroyum, hava haft á búseting í teimum økjunum, er myndin eisini ymisk. 8</p>
+<p>Tunnilin undir Vestmannasund, sum bindur saman Vágoy og Streymoy, var liðugur í 2002. Hyggja vit eftir gongdini í fólkatalinum í Vágoy, síggja vit, at ein javnur vøkstur hevur verið síðani tunnilin kom.</p>
+<p>Hyggja vit eftir Norðoyggjum, sum fingu fast undirsjóvar samband við meginøkið í 2006, síggja vit eina gongd, sum fylgir gongdini í landinum samanlagt. Fyrstu trý árini var so at siga eingin broyting, frá 2009-2015 minkaði fólkatalið, og tað er síðani vaksið nakað.</p>
 <p>Í Suðuroynni síggja vit hinvegin eina støðuga minking øll árini.</p>
-<p>Tá vit hava í huga, hvussu tepurt ferðasambandið um Suðuroyarfjørð er, eisini í mun til sjóvegis</p>
-<p>ferðasambandið  sum  var  um  Vestmannasund  og  Leirvíksfjørð,  áðrenn  undirsjóvartunlarnir  har</p>
-<p>komu, og at royndirnar úr Norra vísa, at tað  ikki eru smávegis ábøtur, men munandi broytingar</p>
-<p>(batar, sum skapa nýggjar møguleikar  – ikki bara batar á verandi kervi), ið skulu til fyri at hava</p>
-<p>við  sær  búskaparligan  vøkstur,  skuldu  serstakliga  góð  útlit  verið  fyri,  at  tunnilin  undir</p>
-<p>Suðuroyarfirði  fer  at  skapa  væl  betri  líkindi  fyri  munandi  búskaparvøkstri  í  Suðuroynni,  enn</p>
-<p>tunlarnir undir Vestmannasundi og Leirvíksfirði hava skapt.</p>
-<p><em type="italic">3.2. Trivnaður </em></p>
-<p>Kanningar í Norra vísa, at trivnaðarkenslan økist, tá flutningssambandið batnar. Fólk uppliva størri</p>
-<p>virkisfrælsi, og kenna seg ikki so avbyrgd frá restini av samfelagnum, sum áðrenn.</p>
-<p>8</p>
-<p>Tað sama kunnu vit hugsa okkum verður galdandi fyri suðuroyingar. Fyri tað fyrsta er sambandið</p>
-<p>um fjørðin við Smyrli bert 2-3 ferðir um dagin, og seinastu túrarnar úr meginøkinum eru millum</p>
-<p>klokkan 18.30 og 21.15. Tað ber tí illa til hjá suðuroyingum at taka lut í eitt nú mentanarligum og</p>
-<p>útbúgvingarligum virksemi uttanfyri oynna, sum varðar út á kvøldið, uttan at liggja nátt. Harafturat</p>
-<p>skulu tey ofta sigla norður tíðliga um  morgunin, og skulu tí javnan brúka besta partin av einum</p>
-<p>degi í bíðistøðu.</p>
-<p>Hetta sama er galdandi fyri fólk, sum skulu til Suðuroyar úr miðstaðarøkinum. – Her liggur í roynd</p>
-<p>og veru so at siga altíð verri fyri, tí er virksemið tíðliga um morgunin ella um kvøldið, noyðast tey</p>
-<p>at liggja nátt. Hetta er bæði galdandi fyri tey, sum eru í arbeiðsørindum, tey sum ynskja at taka lut</p>
-<p>í  mentunartiltøkum  í  Suðuroy,  og  tey  mongu,  sum  taka  lut  ítróttartiltøkum  og  -kappingum  av</p>
-<p>ymiskum slag.</p>
-<p>Verandi ferðasamband til og frá Suðuroynni elvir tí til, at sera nógv tíð fer til spillis. Fólk bíða ofta</p>
-<p>í rúma tíð undan fráferð – serliga túrar, har nógv ferðandi vanliga eru við, fyri at tryggja sær, at</p>
-<p>tey sleppa við. Teir gott og væl fýra tímarnir umborð fyri hvønn túr norður og suður eru sum oftast</p>
-<p>óvirkin tíð, eins og tíðin, ein brúkar eyka áðrenn og eftir at ørindini eru avgreidd, tí at fráferðirnar</p>
-<p>eru fáar, eisini er óproduktiv. – Sum dømi um, hvussu trupul verandi kor eru, kunnu vit nevna, at</p>
-<p>tann, sum  hevur eini ørindi  í  Havn ein týsdag, noyðist at  sigla av Krambatanga kl. 07.00, uttan</p>
-<p>mun til um viðkomandi skal vera í Havnini kl. 09.30 ella kl. 18.00. Og byrjar tiltakið fyrr enn kl.</p>
-<p>09.30, ella endar tað seinni enn kl. 18.30, er neyðugt at liggja nátt í Havn. Er hinvegin talan um</p>
-<p>onkran norðanfjørðs, sum hevur ørindi í Suðuroynni ein týsdag, noyðist viðkomandi altíð at liggja</p>
-<p>nátt, uttan so at til ber at avgreiða ørindini eftir umleið einum hálvum tíma millum kl. 15 og 16.</p>
-<p>Niðanfyri  lýsa  vit,  hvønn  týdning,  avmarkandi  ferðasambandið  hevur  fyri  ymisk  virkisøki,  og</p>
-<p>hvussu fast undirsjóvarsamband kann hugsast at broyta støðuna. <em type="bold">  </em></p>
-<p><em type="italic">3.3. Útbúgvingar </em></p>
-<p>Í  Norra  eru  kanningar  eisini  gjørdar,  ið  vísa  greiðan  samanhang  ímillum  betri</p>
-<p>samferðslumøguleikar og økta skúlagongd.</p>
-<p>Flestu meðal langar og langar útbúgvingar í Føroyum eru í Tórshavn. Tað ber ikki til at nema sær</p>
-<p>hesar, um ein býr í Suðuroynni, tí sambandið um fjørðin hóskar ikki til vanliga undirvísingartíð.</p>
-<p>suðuroyingar noyðast tí at flyta av oynni, skulu tey hava meðalhøga og høga útbúgving. Úrslitið</p>
-<p>9 er,  at  fleiri  velja  heldur  at  flyta  av  landinum,  tí  kostnaðarstøðið  at  búgva  ofta  er  lægri  enn  í</p>
+<p>Tá vit hava í huga, hvussu tepurt ferðasambandið um Suðuroyarfjørð er, eisini í mun til sjóvegis ferðasambandið sum var um Vestmannasund og Leirvíksfjørð, áðrenn undirsjóvartunlarnir har komu, og at royndirnar úr Norra vísa, at tað ikki eru smávegis ábøtur, men munandi broytingar (batar, sum skapa nýggjar møguleikar – ikki bara batar á verandi kervi), ið skulu til fyri at hava við sær búskaparligan vøkstur, skuldu serstakliga góð útlit verið fyri, at tunnilin undir</p>
+<p>Suðuroyarfirði fer at skapa væl betri líkindi fyri munandi búskaparvøkstri í Suðuroynni, enn tunlarnir undir Vestmannasundi og Leirvíksfirði hava skapt. <em type="italic">3.2. Trivnaður </em></p>
+<p>Kanningar í Norra vísa, at trivnaðarkenslan økist, tá flutningssambandið batnar. Fólk uppliva størri virkisfrælsi, og kenna seg ikki so avbyrgd frá restini av samfelagnum, sum áðrenn. 9</p>
+<p>Tað sama kunnu vit hugsa okkum verður galdandi fyri suðuroyingar. Fyri tað fyrsta er sambandið um fjørðin við Smyrli bert 2-3 ferðir um dagin, og seinastu túrarnar úr meginøkinum eru millum klokkan 18.30 og 21.15. Tað ber tí illa til hjá suðuroyingum at taka lut í eitt nú mentanarligum og útbúgvingarligum virksemi uttanfyri oynna, sum varðar út á kvøldið, uttan at liggja nátt. Harafturat skulu tey ofta sigla norður tíðliga um morgunin, og skulu tí javnan brúka besta partin av einum degi í bíðistøðu.</p>
+<p>Hetta sama er galdandi fyri fólk, sum skulu til Suðuroyar úr miðstaðarøkinum. – Her liggur í roynd og veru so at siga altíð verri fyri, tí er virksemið tíðliga um morgunin ella um kvøldið, noyðast tey at liggja nátt. Hetta er bæði galdandi fyri tey, sum eru í arbeiðsørindum, tey sum ynskja at taka lut í mentunartiltøkum í Suðuroy, og tey mongu, sum taka lut ítróttartiltøkum og -kappingum av ymiskum slag.</p>
+<p>Verandi ferðasamband til og frá Suðuroynni elvir tí til, at sera nógv tíð fer til spillis. Fólk bíða ofta í rúma tíð undan fráferð – serliga túrar, har nógv ferðandi vanliga eru við, fyri at tryggja sær, at tey sleppa við. Teir gott og væl fýra tímarnir umborð fyri hvønn túr norður og suður eru sum oftast óvirkin tíð, eins og tíðin, ein brúkar eyka áðrenn og eftir at ørindini eru avgreidd, tí at fráferðirnar eru fáar, eisini er óproduktiv. – Sum dømi um, hvussu trupul verandi kor eru, kunnu vit nevna, at tann, sum hevur eini ørindi í Havn ein týsdag, noyðist at sigla av Krambatanga kl. 07.00, uttan mun til um viðkomandi skal vera í Havnini kl. 09.30 ella kl. 18.00. Og byrjar tiltakið fyrr enn kl. 09.30, ella endar tað seinni enn kl. 18.30, er neyðugt at liggja nátt í Havn. Er hinvegin talan um onkran norðanfjørðs, sum hevur ørindi í Suðuroynni ein týsdag, noyðist viðkomandi altíð at liggja nátt, uttan so at til ber at avgreiða ørindini eftir umleið einum hálvum tíma millum kl. 15 og 16.</p>
+<p>Niðanfyri lýsa vit, hvønn týdning, avmarkandi ferðasambandið hevur fyri ymisk virkisøki, og hvussu fast undirsjóvarsamband kann hugsast at broyta støðuna. <em type="bold"></em><em type="italic">3.3. Útbúgvingar </em></p>
+<p>Í Norra eru kanningar eisini gjørdar, ið vísa greiðan samanhang ímillum betri samferðslumøguleikar og økta skúlagongd.</p>
+<p>Flestu meðal langar og langar útbúgvingar í Føroyum eru í Tórshavn. Tað ber ikki til at nema sær hesar, um ein býr í Suðuroynni, tí sambandið um fjørðin hóskar ikki til vanliga undirvísingartíð. suðuroyingar noyðast tí at flyta av oynni, skulu tey hava meðalhøga og høga útbúgving. Úrslitið 10 er, at fleiri velja heldur at flyta av landinum, tí kostnaðarstøðið at búgva ofta er lægri enn í</p>
 <p>Tórshavn, og flyta skulu tey kortini. Bar til at búgva í Suðuroy og fylgja undirvísing aðrastaðni í</p>
-<p>Føroyum, bøttist møguleikin hjá fleiri, og møguleiki varð hjá enn fleiri yvirhøvur at taka stigið til</p>
-<p>víðari útbúgving.</p>
-<p>Somuleiðis  varð  atkoman  til  útbúgvingarnar,  ið  eru  í  í  Suðuroy,  eisini  betri  hjá  fólki  búsitandi</p>
-<p>aðrastaðni  í  Føroyum, og hetta hevði  bæði kunnað styrkt verandi útbúgvingartilboð  í oynni, og</p>
-<p>skapt møguleikar fyri at onnur vórðu sett á stovn.</p>
-<p><em type="italic">3.4. Starvsmøguleikar </em></p>
-<p>Møguleikin at flyta seg ímillum øki skapar ikki av sær sjálvum økt fólkatal, ofta eru onnur atlit,</p>
-<p>t.d.  bústaðarmøguleikar,  vælferðatænastur,  trivnaðartiboð  og  starvsmøguleikar,  sum  hava  størri</p>
-<p>týdning fyri, hvar ein velur at seta búgv. Vit kunnu tó siga, at sum útgangsstøði skapa møguleikar</p>
-<p>fyri at pendla ein  størri arbeiðsmarknað og størri  útboð av arbeiðsmegi. Og tað at tað ber til at</p>
-<p>búgva í einum øki í landinum og arbeiða í einum øðrum, gevur nýggjar møguleikar at velja sær</p>
-<p>bæði starvsleið og heimstað.</p>
-<p>Møguleikin  at  effektivisera  framleiðslur  og  umsiting  –  bæði  hjá  privatum  og  hjá  almennu</p>
-<p>fyrisitingini, t.d. við at leggja eindir saman, gerst eisini betur – t.d. útbúgvingarstovnar, heilsuverk</p>
-<p>og almennir fyrisitingarstovnar. Hetta skapar tó ikki í sjálvum sær líkindi fyri vøkstri í Suðuroynni,</p>
-<p>og kann virka øvut, alt eftir hugburði og politikki.</p>
-<p>Ein  undirsjóvartunnil  um  Suðuroyarfjørð  kann  tí  væl  hugsast  at  geva  suðuroyingum  víðari</p>
-<p>møguleikar á arbeiðsmarknaðinum, men kann eisini bjóða verandi møguleikum í oynni av.<em type="bold">  </em></p>
-<p><em type="italic">3.5. Vinnulívið </em></p>
-<p>Grønlendskar  kanningar  vísa  greiðan  samanhang  ímillum  vinnumenning  og  infrakervið,  tí</p>
-<p>vinnulívið eftirspyr flutningstænastur – bæði í sambandi við tørvin á rávørum til framleiðslu, og</p>
-<p>tá vørurnar skulu flytast á marknaðir. Infrakervið hevur tí stóra ávirkan á kappingarførið – bæði í</p>
-<p>mun  til  menning  av  framleiðslu,  og  í  mun  til  flutningsútreiðslur,  veitingartrygd  og  skjótleika  í</p>
-<p>sambandi við atgongd til marknaðir.<em type="bold"> </em></p>
-<p>10</p>
-<p>Vit  síggja  tí,  at  fyritøkur  leggja  seg  har  flutningsmøguleikarnir  eru  góðir,  og  har  tænastur  og</p>
-<p>arbeiðsmegi eru lættliga atkomilig.</p>
-<p>Dansk  Industri  hevur  eisini  gjørt  kanningar,  ið  vísa,  at  eitt  útbygt  infrakervi  minkar</p>
-<p>flutningsútreiðslurnar  hjá  vinnulívinum  og  styrkir  kappingarførið,  tí  framleiðslan  gerst  bíligari.</p>
-<p>Lægri  framleiðsluprísir  fremja  kappingarføri  mótvegis  fyritøkum  í  øðrum  londum  og  økja</p>
-<p>útflutningin.  Hetta  hevur  við  sær,  at  eftirspurningurin  eftir  arbeiðsmegi  veksur,  tí  framleiðslan</p>
-<p>økist.  Somuleiðis  økir  eitt  væl  útbygt  infrakervi  útboðið  av  arbeiðsmegi,  tí  atkoman  til</p>
-<p>arbeiðsplássini verður betur.</p>
-<p>Vinnulívið  í  Suðuroy  hevur  verri  atgongd  til  marknaðir  enn  restin  av  landinum.  Fyri</p>
-<p>kappingarevnini  hevur tað tí týdning, at Suðuroyggin  fær  betri og tryggari samband  –  bæði  við</p>
-<p>meginøkið og við tí eisini út í heim. Hetta er galdandi fyri alt vinnulív í oynni.</p>
-<p>Flestu samrøðurnar, sum vit hava gjørt við vinnulívsaktørar í Suðuroynni, vísa á trupulleikan við</p>
-<p>verri kappingarføri vegna høga flutningskostnaðin. Eitt annað, sum gongur aftur, er virðismissurin,</p>
-<p>sum stendst av sjálvari flutningstíðini – bíðitíðin áðrenn fráferð, siglitíðin, tíðin sum fer til at bíða</p>
-<p>eftir at sleppa suður aftur, umframt ólagaligheitin við, at bert ein ferja er, sum bert siglur fáar ferðir</p>
-<p>um dagin, og ikki tekur frakt við hvørja ferð.</p>
-<p>Stjórin í Vágs Timburhandli sigur, at sjálvur flutningurin av vørum suður ikki er ein trupulleiki</p>
-<p>hjá  teimum,  men  kostnaðurin  er  sera  høgur  og  ein  meinbogi  fyri  kappingarførið.  Afturat</p>
-<p>flutningskostnaðinum  eru  nógvir  óvirknir  tímar  umborð,  og  heilir  dagar  fara  óynsktir  og</p>
-<p>óproduktivir  norðanfyri.  Tí  er  eisini  trupult  hjá  einum  virki  íSuðuroynni  at  fáa  partar  av</p>
-<p>marknaðinum  norðanfjørðs.  Ein  undirsjóvartunnil  hevði  spart  vinnulívinum  nógvan  pening,  og</p>
-<p>latið  upp  fyri  einum  størri  marknaði.  Tá  hevði  kappingarførið  hjá  virkjunum  í  Suðuroy  batnað</p>
-<p>munandi.</p>
-<p>Vágs  Timburhandil  hevur  eisini  nógv  amboð,  sum  kundu  verið  brúkt  í  vinnuni  aðrastaðni  í</p>
-<p>Føroyum, men sum er letur tað seg illa gera, tí ov stórar útreiðslur til flutning og lønir fyri bíðitíð</p>
-<p>eru  tengdar  at  hesum.  Kostnaðarmikil  amboð  standa  tí  óvirkin,  tá  einki  arbeiði  er  til  tey  í</p>
+<p>Føroyum, bøttist møguleikin hjá fleiri, og møguleiki varð hjá enn fleiri yvirhøvur at taka stigið til víðari útbúgving.</p>
+<p>Somuleiðis varð atkoman til útbúgvingarnar, ið eru í í Suðuroy, eisini betri hjá fólki búsitandi aðrastaðni í Føroyum, og hetta hevði bæði kunnað styrkt verandi útbúgvingartilboð í oynni, og skapt møguleikar fyri at onnur vórðu sett á stovn. <em type="italic">3.4. Starvsmøguleikar </em></p>
+<p>Møguleikin at flyta seg ímillum øki skapar ikki av sær sjálvum økt fólkatal, ofta eru onnur atlit, t.d. bústaðarmøguleikar, vælferðatænastur, trivnaðartiboð og starvsmøguleikar, sum hava størri týdning fyri, hvar ein velur at seta búgv. Vit kunnu tó siga, at sum útgangsstøði skapa møguleikar fyri at pendla ein størri arbeiðsmarknað og størri útboð av arbeiðsmegi. Og tað at tað ber til at búgva í einum øki í landinum og arbeiða í einum øðrum, gevur nýggjar møguleikar at velja sær bæði starvsleið og heimstað.</p>
+<p>Møguleikin at effektivisera framleiðslur og umsiting – bæði hjá privatum og hjá almennu fyrisitingini, t.d. við at leggja eindir saman, gerst eisini betur – t.d. útbúgvingarstovnar, heilsuverk og almennir fyrisitingarstovnar. Hetta skapar tó ikki í sjálvum sær líkindi fyri vøkstri í Suðuroynni, og kann virka øvut, alt eftir hugburði og politikki.</p>
+<p>Ein undirsjóvartunnil um Suðuroyarfjørð kann tí væl hugsast at geva suðuroyingum víðari møguleikar á arbeiðsmarknaðinum, men kann eisini bjóða verandi møguleikum í oynni av. <em type="bold"></em><em type="italic">3.5. Vinnulívið </em></p>
+<p>Grønlendskar kanningar vísa greiðan samanhang ímillum vinnumenning og infrakervið, tí vinnulívið eftirspyr flutningstænastur – bæði í sambandi við tørvin á rávørum til framleiðslu, og tá vørurnar skulu flytast á marknaðir. Infrakervið hevur tí stóra ávirkan á kappingarførið – bæði í mun til menning av framleiðslu, og í mun til flutningsútreiðslur, veitingartrygd og skjótleika í sambandi við atgongd til marknaðir. <em type="bold"></em>11 </p>
+<p>Vit síggja tí, at fyritøkur leggja seg har flutningsmøguleikarnir eru góðir, og har tænastur og arbeiðsmegi eru lættliga atkomilig.</p>
+<p>Dansk Industri hevur eisini gjørt kanningar, ið vísa, at eitt útbygt infrakervi minkar flutningsútreiðslurnar hjá vinnulívinum og styrkir kappingarførið, tí framleiðslan gerst bíligari.</p>
+<p>Lægri framleiðsluprísir fremja kappingarføri mótvegis fyritøkum í øðrum londum og økja útflutningin. Hetta hevur við sær, at eftirspurningurin eftir arbeiðsmegi veksur, tí framleiðslan økist. Somuleiðis økir eitt væl útbygt infrakervi útboðið av arbeiðsmegi, tí atkoman til arbeiðsplássini verður betur.</p>
+<p>Vinnulívið í Suðuroy hevur verri atgongd til marknaðir enn restin av landinum. Fyri kappingarevnini hevur tað tí týdning, at Suðuroyggin fær betri og tryggari samband – bæði við meginøkið og við tí eisini út í heim. Hetta er galdandi fyri alt vinnulív í oynni.</p>
+<p>Flestu samrøðurnar, sum vit hava gjørt við vinnulívsaktørar í Suðuroynni, vísa á trupulleikan við verri kappingarføri vegna høga flutningskostnaðin. Eitt annað, sum gongur aftur, er virðismissurin, sum stendst av sjálvari flutningstíðini – bíðitíðin áðrenn fráferð, siglitíðin, tíðin sum fer til at bíða eftir at sleppa suður aftur, umframt ólagaligheitin við, at bert ein ferja er, sum bert siglur fáar ferðir um dagin, og ikki tekur frakt við hvørja ferð.</p>
+<p>Stjórin í Vágs Timburhandli sigur, at sjálvur flutningurin av vørum suður ikki er ein trupulleiki hjá teimum, men kostnaðurin er sera høgur og ein meinbogi fyri kappingarførið. Afturat flutningskostnaðinum eru nógvir óvirknir tímar umborð, og heilir dagar fara óynsktir og óproduktivir norðanfyri. Tí er eisini trupult hjá einum virki íSuðuroynni at fáa partar av marknaðinum norðanfjørðs. Ein undirsjóvartunnil hevði spart vinnulívinum nógvan pening, og latið upp fyri einum størri marknaði. Tá hevði kappingarførið hjá virkjunum í Suðuroy batnað munandi.</p>
+<p>Vágs Timburhandil hevur eisini nógv amboð, sum kundu verið brúkt í vinnuni aðrastaðni í</p>
+<p>Føroyum, men sum er letur tað seg illa gera, tí ov stórar útreiðslur til flutning og lønir fyri bíðitíð eru tengdar at hesum. Kostnaðarmikil amboð standa tí óvirkin, tá einki arbeiði er til tey í</p>
 <p>Suðuroynni.</p>
-<p>Tað eru eisini nógvar útreiðslur í samband við at reka eina fyritøku, har fast samband ikki er. Til</p>
-<p>dømis um ein bilur skal til eftirlit ella á verkstað, skal gjaldast eyka fyri flutning báðar vegir – tað</p>
-<p>er bæði trupult at leggja til rættis og ein stór eykaútreiðsla.</p>
-<p>11</p>
-<p>Stjórin  í  Glasstovuni  á  Tvøroyri  sigur,  at  tað  kann  vera  sera  møtimikið  at  bíða  eftir  vørum,</p>
-<p>serstakliga um tey ótilætlað koma í støður, har teimum vantar okkurt serstakt. Tað er dýrari at fáa</p>
-<p>vørur til Suðuroynna og krevur góða logistiska tilrættarlegging, um tað ikki skal verða uppaftur</p>
-<p>dýrari, um tey t.d. bíleggja við skundflutningi ella talan er um smáar nøgdir. Tað er meira enn so</p>
-<p>komið fyri, at frystivørur eru tiðnaðar, tí tær koma suður um kvøldið aftaná afturlatingartíð, og tí</p>
-<p>standa ov leingi áðrenn tær koma í frystiskáp aftur.</p>
-<p>Umboð hjá PH heilsølu váttar, at tað verður nógv lættari at tilrættarleggja vøruflutning, um fast</p>
-<p>samband  verður  til  Suðuroynna.  Frekvensurin  verður  øðrvísi,  og  tað  fer  at  bera  til  at  fullnýta</p>
-<p>orkuna, og við tí lækka kostnaðin.</p>
-<p>Byggifyritøkan SH Bygg úr Hvalba, noyðist at tilrættarleggja arbeiðið ógvuliga neyvt fyri at fáa</p>
-<p>sum mest nyttu burtur úr. Um tey t.d. skulu leiga ein kranabilarm til okkurt eina løtu, so noyðast</p>
-<p>tey at leiga hann í hvussu so er ein heilan dag. Afturat tí kemur kostnaðurin á 800 kr. fyri at fáa</p>
-<p>kranabilin  suður  við  Smyrli,  tímarnir  førarin  skal  hava  at  flyta  bilin  aftur  og  fram,  har  í  øllum</p>
-<p>førum  teir  gott  og  væl  4  tímarnir  umborð  eru  púra  óvirknir.  Ein  Suðuroyartunnil  hevði  gjørt</p>
-<p>framleiðsluna  hjá  eini  byggifyritøku  sum  SH  Bygg  munandi  kostnaðarminni,  og  við  tí  bøtt  um</p>
-<p>kappingarførið, umframt at gera atgongdina til marknaðir norðanfyri væl betri.</p>
-<p>Størstu flutningstrupulleikarnir síggja vit tó helst innan fiskivinnuíðnaðin í Suðuroy. Bæði Delta</p>
-<p>og TG í Hvalba eru púra tengd at flutningi við Smyrli, bæði av at fáa rávørur suður at virka, og at</p>
-<p>flyta  lidnu  vøruna  norður  aftur  at  flyta  víðari  til  marknaðir  uttanlands.  Um  fiskurin  verður</p>
-<p>avreiddur í Tórshavn mánadag, hava tey ikki fiskin fyrr enn týsdag, og fríggjadag ber ikki til at</p>
-<p>keypa fisk, tí tá verður frakt ikki tikin við suður. Virkini noyðast tí at leggja seg eftir rávørum, sum</p>
-<p>eru fingnar lokalt ella frystar.</p>
-<p>Kostnaðurin  at  flyta  trailarar  er  høgur,  og  flutningsstuðulin  er  støðugt  lækkaður.  Afturat</p>
-<p>kostnaðinum  at  flyta  fiskin,  kostar  at  flyta  salt  og  aðrar  vørur  tengdar  at  framleiðsluni  suður,</p>
-<p>umframt kostnaður av at hava fólk at liggja nátt. Við føstum sambandi kundi bilur koyrt suður um</p>
-<p>kvøldið úr Havn, lastað av og verið klárur aftur sama kvøld í Havn.</p>
-<p>Sum dømini vísa, er tí stórur tørvur á, at Suðuroyggin fær betri, javnari og tryggari samband við</p>
-<p>meginøkið, skal vinnan mennast og ónýttir menningarmøguleikar troytast.</p>
-<p>12</p>
-<p><em type="italic">3.6. Ferðavinna </em></p>
-<p>Ein  undirsjóvartunnil  fer  at  broyta  møguleikan  fyri  ferðavinnu.  Ein  betri,  javnari  og  tryggari</p>
-<p>atkoma fer at økja um møguleikan hjá útlendskum ferðafólki, sum eru í Føroyum stutt tíðarskeið,</p>
-<p>eisini at vitja Suðuroynna. Fleiri ferðafólk ið vitja oynna, fleiri tilboð kunnu væntast at verða.  –</p>
-<p>Aðrastaðni síggja vit serliga, at kaffistovur, matstøð, mentanartilboð og upplivingar í náttúru økjast</p>
-<p>so hvørt, sum ferðafólkastreymurin veksur. Hetta er alt við til at økja um trivnaðin hjá teimum,</p>
-<p>sum búgva í Suðuroy, bæði tí tað skapar virksemi, men eisini tí tað verða fleiri lokal frítíðartilboð.</p>
-<p>Hinvegin  fer  fast  samband  við  meginøkið  at  broyta  fatanina  av  Suðuroynni  sum  ferðamál.</p>
-<p>Suðuroyggin  verður  ikki eins eksotisk, sum hon er nú, hon liggur burturfrá restina av  landinum</p>
-<p>við einum longum siglitúri ímillum. Kenslan av at ferðast langt hvørvur eitt vet  – kanska serliga</p>
-<p>hjá føroyingum verða ferðamálini í Suðuroynni tá meira lík teimum í øðrum føroyskum bygdum.</p>
-<p>Áneyðir verða tí at leggja størri áherðslu á at marknaðarføra tað serstaka, tað sum er øðrvísi.</p>
-<p><em type="italic">3.7. Vørur og tænastur </em></p>
-<p>Atkoman  til  handilsmarknaðin  í  miðstaðnum  verður  munandi  betri  við  føstum  sambandi,  og</p>
-<p>útboðið til tey sum búgva í Suðuroynni tí eisini størri. Hetta fer at seta krøv til lokalar veitarar,</p>
-<p>men eisini at geva lokalum  møguleikar á marknaðum uttanfyri Suðuroynna. Sum stjórin  í  Vágs</p>
-<p>Timburhandil tekur til: “Vit eru sera vard, tí øll her suðuri keypa lokalt, tí tað er so trupult at keypa</p>
-<p>úr Havn, t.d. um okkurt  skal býtast um, ella um vørur skulu  latast  aftur. Men av somu orsøk er</p>
-<p>eisini ov trupult hjá okkum at fáa partar av marknaði norðanfjørðs – tað er alt ov dýrt at gjalda fyri</p>
-<p>at  flyta  arbeiðsfólk  um  fjørðin  í  ein  heilan  arbeiðsdag.  Við  einum  tunli  vildu  vit  spart  nógvan</p>
-<p>pening fyri flutning og fingið atgongd til størri marknað, tí tá høvdu vit verið kappingarførir”</p>
-<p>Ein undirsjóvartunnil um Suðuroyarfjørð kann tí bæði hugsast at geva suðuroyingum betri atgongd</p>
-<p>til onnur handilsøki í landinum,  at geva handlum og fyritøkum í Suðuroynni ein størri marknað,</p>
-<p>men fer sannlíkt eisini at bjóða verandi møguleikum í oynni av.<em type="bold">  </em></p>
-<p><em type="italic">3.8. Heilsutænastur </em></p>
-<p>Heilsutænastur eru ein  inngrógvin partur av vælferðasamfelagnum og ein týðandi táttur, tá fólk</p>
-<p>velja sær bústað. Við einum undirsjóvartunli til Suðuroynna verður tí talan um beinleiðis ágóðar,</p>
-<p>sum fara at merkjast í teirri løtu fasta sambandið er veruleiki.</p>
-<p>Støðan í dag er á fleiri økjum  serstakliga óhøglig fyri  fólk búsitandi  í Suðuroy. T.d. skulu  fólk,</p>
-<p>ofta  illa  sjúk,  javnan  –  onkur  fleiri  ferðir  um  vikuna  –  til  Landssjúkrahúsið  til  kanningar  ella</p>
-<p>13 viðgerðar, og tey brúka ofta í minsta lagi heilar dagar, viðhvørt meira enn tað, hvørja ferð. Fólk</p>
-<p>við varandi sjúkum, sum ikki kunnu viðgerast á Suðuroyar sjúkrahúsi, leggja heilar arbeiðsdagar</p>
-<p>niður hvørja viku fyri at fáa neyðuga viðgerð – ella tey velja av somu orsøk viðgerðir frá.  – Og</p>
-<p>eru fólk óhjálpin, skulu avvarðandi ella røktarstarvsfólk nýta eins nógva tíð til flutning saman við</p>
-<p>teimum.</p>
-<p>Lagt verður soleiðis til rættis, at børn verða ikki fødd á Suðuroyar sjúkrahúsi í dag. Barnakonur</p>
-<p>skulu tí til Havnar at bíða 14 dagar áðrenn tær eru komnar á tíð, og ganga tær yvir tíðina, verður</p>
-<p>tíðin heimanífrá ofta væl longri. Hetta er bæði hart og kostnaðarmikið fyri familjurnar. – Serliga</p>
-<p>tær familjur, sum hava børn frammanundan.</p>
-<p>Talið á børnum fødd og búsitandi í Suðuroy er nógv minkað seinastu árini – eisini í mun til fallið,</p>
-<p>sum  annars  hevur  verið  í  restini  av  landinum.  Og  hækkaða  burðartalið,  sum  hevur  verið  síðani</p>
-<p>2015,  sæst  ikki  aftur  í  Suðuroy.  Frágreiðingin  er  helst  fleirtýdd,  størsti  parturin  skyldast  helst</p>
-<p>fallandi talið av ungum í burðarførum aldri, men truplu umstøðurnar kunnu eisini hugsast at hava</p>
-<p>sína  orsøk,  tó  at  hetta  eigur  at  kannast  nærri,  fyri  at  kunna  verða  sagt  við  vissu,  t.d.  um</p>
-<p>burðartíttleikin er ein annar í Suðuroy enn í restina av landinum.</p>
-<p>14</p>
-<p>Í Suðuroy er eitt væl útbygt sjúkrahús við dugnaligum heilsustarvsfólki, tó at langt frá øll serøki</p>
-<p>eru nøktað. Á sjúkrahúsinum eru í dag nøkur serøki, sum veita viðgerðir og røkt til allar føroyingar,</p>
-<p>umframt at sjúkrahúsið er bráðfeingis móttøka í Suðuroynni, og veitir sjúkrarøkt til fólk búsitandi</p>
-<p>í Suðuroy, sum hava fingið viðgerð á øðrum sjúkrahúsum í Føroyum og uttanlands.</p>
-<p>Hjá  summum  uttanfyri  Suðuroynna  tykist  trupult  at  brúka  viðgerðarmøguleikar  á  Suðuroyar</p>
-<p>sjúkrahúsi,  tí  ferðatíðin  er  so  long,  og  fráferðirnar  fáar.  Hetta  ger,  at  ónýttur  kapasitetur  er  í</p>
-<p>heilsuverkinum.  Við  føstum  sambandi  fer  at  bera  til  at  gagnnýta  hesar  umstøður  betur  øllum</p>
-<p>landinum  at  gagni,  og  møguleikin  at  samskipa  millum  sjúkrahúsini  í  Føroyum  verður  munandi</p>
-<p>betur.</p>
-<p><em type="bold">4. Ferðslumetingar </em></p>
-<p>Landsverk  hevur  gjørt  nakrar  innleiðandi  ferðslumetingar  fyri  ferðsluna  í  Suðuroyartunlinum.</p>
-<p>Metingarnar eru gjørdar í einum ferðslumodelli, sum eitt nú eisini varð nýtt til at rokna ferðsluna</p>
-<p>í Norðoyatunlinum, Eysturoyartunlinum og Sandoyartunlinum. Hesar metingar siga, at eini 1600</p>
-<p>bilar (800 bilar hvønn vegin), harav eini 9% eru størri akfør, fara at koyra gjøgnum tunnilin um</p>
-<p>dagin í miðal í 2030. Ferðslumetingin byggir á dagsins prísir á verandi farleið um Suðuroyarfjørð.</p>
-<p>Tá arbeitt verður víðari við verkætlanini, verður mælt til at gera neyvari metingar og framrokningar</p>
-<p>av ferðsluni í Suðuroyartunlinum.</p>
-<p>15</p>
-<p><em type="bold">5. Fíggjarviðurskifti og skipan av verkætlanini </em></p>
-<p>Íløgan í ein Suðuroyartunnil minnir á mangan hátt um íløguna í Eystur- og Sandoyartunnilin. Tó</p>
-<p>verður íløgan helst eitt vet størri. Tí er tað eins og við Eystur- og Sandoyartunlinum sera umráðandi</p>
-<p>at greina og avmarka váðarnar niður á eitt nøktandi støði fyri føroyska samfelagið.</p>
-<p><em type="italic">5.1. Nær er rætta løtan at fara undir eina so stóra verkætlan sum Suðuroyartunnilin. </em></p>
-<p>Av  tí  at  verkætlanin  at  byggja  ein  Suðuroyartunnil  er  so  stór,  er  eisini  neyðugt  at  síggja</p>
-<p>Suðuroyartunnilin í mun til eina aðra stóra almenna verkætlan, nevniliga byggingina av Eystur-</p>
-<p>og Sandoyartunlinum, har landið hevur stórar fíggjarligar skyldur, sum eigari av P/F Eystur- og</p>
+<p>Tað eru eisini nógvar útreiðslur í samband við at reka eina fyritøku, har fast samband ikki er. Til dømis um ein bilur skal til eftirlit ella á verkstað, skal gjaldast eyka fyri flutning báðar vegir – tað er bæði trupult at leggja til rættis og ein stór eykaútreiðsla. 12</p>
+<p>Stjórin í Glasstovuni á Tvøroyri sigur, at tað kann vera sera møtimikið at bíða eftir vørum, serstakliga um tey ótilætlað koma í støður, har teimum vantar okkurt serstakt. Tað er dýrari at fáa vørur til Suðuroynna og krevur góða logistiska tilrættarlegging, um tað ikki skal verða uppaftur dýrari, um tey t.d. bíleggja við skundflutningi ella talan er um smáar nøgdir. Tað er meira enn so komið fyri, at frystivørur eru tiðnaðar, tí tær koma suður um kvøldið aftaná afturlatingartíð, og tí standa ov leingi áðrenn tær koma í frystiskáp aftur.</p>
+<p>Umboð hjá PH heilsølu váttar, at tað verður nógv lættari at tilrættarleggja vøruflutning, um fast samband verður til Suðuroynna. Frekvensurin verður øðrvísi, og tað fer at bera til at fullnýta orkuna, og við tí lækka kostnaðin.</p>
+<p>Byggifyritøkan SH Bygg úr Hvalba, noyðist at tilrættarleggja arbeiðið ógvuliga neyvt fyri at fáa sum mest nyttu burtur úr. Um tey t.d. skulu leiga ein kranabilarm til okkurt eina løtu, so noyðast tey at leiga hann í hvussu so er ein heilan dag. Afturat tí kemur kostnaðurin á 800 kr. fyri at fáa kranabilin suður við Smyrli, tímarnir førarin skal hava at flyta bilin aftur og fram, har í øllum førum teir gott og væl 4 tímarnir umborð eru púra óvirknir. Ein Suðuroyartunnil hevði gjørt framleiðsluna hjá eini byggifyritøku sum SH Bygg munandi kostnaðarminni, og við tí bøtt um kappingarførið, umframt at gera atgongdina til marknaðir norðanfyri væl betri.</p>
+<p>Størstu flutningstrupulleikarnir síggja vit tó helst innan fiskivinnuíðnaðin í Suðuroy. Bæði Delta og TG í Hvalba eru púra tengd at flutningi við Smyrli, bæði av at fáa rávørur suður at virka, og at flyta lidnu vøruna norður aftur at flyta víðari til marknaðir uttanlands. Um fiskurin verður avreiddur í Tórshavn mánadag, hava tey ikki fiskin fyrr enn týsdag, og fríggjadag ber ikki til at keypa fisk, tí tá verður frakt ikki tikin við suður. Virkini noyðast tí at leggja seg eftir rávørum, sum eru fingnar lokalt ella frystar.</p>
+<p>Kostnaðurin at flyta trailarar er høgur, og flutningsstuðulin er støðugt lækkaður. Afturat kostnaðinum at flyta fiskin, kostar at flyta salt og aðrar vørur tengdar at framleiðsluni suður, umframt kostnaður av at hava fólk at liggja nátt. Við føstum sambandi kundi bilur koyrt suður um kvøldið úr Havn, lastað av og verið klárur aftur sama kvøld í Havn.</p>
+<p>Sum dømini vísa, er tí stórur tørvur á, at Suðuroyggin fær betri, javnari og tryggari samband við meginøkið, skal vinnan mennast og ónýttir menningarmøguleikar troytast. 13 <em type="italic">3.6. Ferðavinna </em></p>
+<p>Ein undirsjóvartunnil fer at broyta møguleikan fyri ferðavinnu. Ein betri, javnari og tryggari atkoma fer at økja um møguleikan hjá útlendskum ferðafólki, sum eru í Føroyum stutt tíðarskeið, eisini at vitja Suðuroynna. Fleiri ferðafólk ið vitja oynna, fleiri tilboð kunnu væntast at verða. –</p>
+<p>Aðrastaðni síggja vit serliga, at kaffistovur, matstøð, mentanartilboð og upplivingar í náttúru økjast so hvørt, sum ferðafólkastreymurin veksur. Hetta er alt við til at økja um trivnaðin hjá teimum, sum búgva í Suðuroy, bæði tí tað skapar virksemi, men eisini tí tað verða fleiri lokal frítíðartilboð.</p>
+<p>Hinvegin fer fast samband við meginøkið at broyta fatanina av Suðuroynni sum ferðamál.</p>
+<p>Suðuroyggin verður ikki eins eksotisk, sum hon er nú, hon liggur burturfrá restina av landinum við einum longum siglitúri ímillum. Kenslan av at ferðast langt hvørvur eitt vet – kanska serliga hjá føroyingum verða ferðamálini í Suðuroynni tá meira lík teimum í øðrum føroyskum bygdum.</p>
+<p>Áneyðir verða tí at leggja størri áherðslu á at marknaðarføra tað serstaka, tað sum er øðrvísi. <em type="italic">3.7. Vørur og tænastur </em></p>
+<p>Atkoman til handilsmarknaðin í miðstaðnum verður munandi betri við føstum sambandi, og útboðið til tey sum búgva í Suðuroynni tí eisini størri. Hetta fer at seta krøv til lokalar veitarar, men eisini at geva lokalum møguleikar á marknaðum uttanfyri Suðuroynna. Sum stjórin í Vágs</p>
+<p>Timburhandil tekur til: <span type="quote">“Vit eru sera vard, tí øll her suðuri keypa lokalt, tí tað er so trupult at keypa úr Havn, t.d. um okkurt skal býtast um, ella um vørur skulu latast aftur. Men av somu orsøk er eisini ov trupult hjá okkum at fáa partar av marknaði norðanfjørðs – tað er alt ov dýrt at gjalda fyri at flyta arbeiðsfólk um fjørðin í ein heilan arbeiðsdag. Við einum tunli vildu vit spart nógvan pening fyri flutning og fingið atgongd til størri marknað, tí tá høvdu vit verið kappingarførir”</span></p>
+<p>Ein undirsjóvartunnil um Suðuroyarfjørð kann tí bæði hugsast at geva suðuroyingum betri atgongd til onnur handilsøki í landinum, at geva handlum og fyritøkum í Suðuroynni ein størri marknað, men fer sannlíkt eisini at bjóða verandi møguleikum í oynni av. <em type="bold"></em><em type="italic">3.8. Heilsutænastur </em></p>
+<p>Heilsutænastur eru ein inngrógvin partur av vælferðasamfelagnum og ein týðandi táttur, tá fólk velja sær bústað. Við einum undirsjóvartunli til Suðuroynna verður tí talan um beinleiðis ágóðar, sum fara at merkjast í teirri løtu fasta sambandið er veruleiki.</p>
+<p>Støðan í dag er á fleiri økjum serstakliga óhøglig fyri fólk búsitandi í Suðuroy. T.d. skulu fólk, ofta illa sjúk, javnan – onkur fleiri ferðir um vikuna – til Landssjúkrahúsið til kanningar ella 14 viðgerðar, og tey brúka ofta í minsta lagi heilar dagar, viðhvørt meira enn tað, hvørja ferð. Fólk við varandi sjúkum, sum ikki kunnu viðgerast á Suðuroyar sjúkrahúsi, leggja heilar arbeiðsdagar niður hvørja viku fyri at fáa neyðuga viðgerð – ella tey velja av somu orsøk viðgerðir frá. – Og eru fólk óhjálpin, skulu avvarðandi ella røktarstarvsfólk nýta eins nógva tíð til flutning saman við teimum.</p>
+<p>Lagt verður soleiðis til rættis, at børn verða ikki fødd á Suðuroyar sjúkrahúsi í dag. Barnakonur skulu tí til Havnar at bíða 14 dagar áðrenn tær eru komnar á tíð, og ganga tær yvir tíðina, verður tíðin heimanífrá ofta væl longri. Hetta er bæði hart og kostnaðarmikið fyri familjurnar. – Serliga tær familjur, sum hava børn frammanundan.</p>
+<p>Talið á børnum fødd og búsitandi í Suðuroy er nógv minkað seinastu árini – eisini í mun til fallið, sum annars hevur verið í restini av landinum. Og hækkaða burðartalið, sum hevur verið síðani 2015, sæst ikki aftur í Suðuroy. Frágreiðingin er helst fleirtýdd, størsti parturin skyldast helst fallandi talið av ungum í burðarførum aldri, men truplu umstøðurnar kunnu eisini hugsast at hava sína orsøk, tó at hetta eigur at kannast nærri, fyri at kunna verða sagt við vissu, t.d. um burðartíttleikin er ein annar í Suðuroy enn í restina av landinum. 15</p>
+<p>Í Suðuroy er eitt væl útbygt sjúkrahús við dugnaligum heilsustarvsfólki, tó at langt frá øll serøki eru nøktað. Á sjúkrahúsinum eru í dag nøkur serøki, sum veita viðgerðir og røkt til allar føroyingar, umframt at sjúkrahúsið er bráðfeingis móttøka í Suðuroynni, og veitir sjúkrarøkt til fólk búsitandi í Suðuroy, sum hava fingið viðgerð á øðrum sjúkrahúsum í Føroyum og uttanlands.</p>
+<p>Hjá summum uttanfyri Suðuroynna tykist trupult at brúka viðgerðarmøguleikar á Suðuroyar sjúkrahúsi, tí ferðatíðin er so long, og fráferðirnar fáar. Hetta ger, at ónýttur kapasitetur er í heilsuverkinum. Við føstum sambandi fer at bera til at gagnnýta hesar umstøður betur øllum landinum at gagni, og møguleikin at samskipa millum sjúkrahúsini í Føroyum verður munandi betur. <em type="bold">4. Ferðslumetingar </em></p>
+<p>Landsverk hevur gjørt nakrar innleiðandi ferðslumetingar fyri ferðsluna í Suðuroyartunlinum.</p>
+<p>Metingarnar eru gjørdar í einum ferðslumodelli, sum eitt nú eisini varð nýtt til at rokna ferðsluna í Norðoyatunlinum, Eysturoyartunlinum og Sandoyartunlinum. Hesar metingar siga, at eini 1600 bilar (800 bilar hvønn vegin), harav eini 9% eru størri akfør, fara at koyra gjøgnum tunnilin um dagin í miðal í 2030. Ferðslumetingin byggir á dagsins prísir á verandi farleið um Suðuroyarfjørð.</p>
+<p>Tá arbeitt verður víðari við verkætlanini, verður mælt til at gera neyvari metingar og framrokningar av ferðsluni í Suðuroyartunlinum. 16 <em type="bold">5. Fíggjarviðurskifti og skipan av verkætlanini </em></p>
+<p>Íløgan í ein Suðuroyartunnil minnir á mangan hátt um íløguna í Eystur- og Sandoyartunnilin. Tó verður íløgan helst eitt vet størri. Tí er tað eins og við Eystur- og Sandoyartunlinum sera umráðandi at greina og avmarka váðarnar niður á eitt nøktandi støði fyri føroyska samfelagið. <em type="italic">5.1. Nær er rætta løtan at fara undir eina so stóra verkætlan sum Suðuroyartunnilin. </em></p>
+<p>Av tí at verkætlanin at byggja ein Suðuroyartunnil er so stór, er eisini neyðugt at síggja</p>
+<p>Suðuroyartunnilin í mun til eina aðra stóra almenna verkætlan, nevniliga byggingina av Eystur- og Sandoyartunlinum, har landið hevur stórar fíggjarligar skyldur, sum eigari av P/F Eystur- og</p>
 <p>Sandoyartunlinum.</p>
-<p>Arbeiðið  at  byggja  Eystur-  og  Sandoyartunnilin  byrjaði  í  2016,  eftir  drúgvar  fyrireikingar.</p>
-<p>Kostnaðurin at byggja Eystur- og Sandoyartunnilin er mettur til 2,6 mia. krónur. Tá farið var undir</p>
-<p>verkætlanina í 2016, átók P/F Eystur- og Sandoyartunlar sær ovurstórar fíggjarligar skyldur, fyri</p>
-<p>at gjøgnumføra  hesa stóru verkætlan. Fyri  at fáa  fíggingina til  vega, til ein skilagóðan kostnað,</p>
-<p>veitti  landsstýri eina sokallaða  <span type="quote">“minstu  ferðslutrygd”</span>, sum skal tryggja at felagið er ført  fyri at</p>
-<p>halda sínar fíggjarligu skyldur, um so er, at ferðslan gjøgnum tunlarnar og harvið inntøkurnar verða</p>
-<p>lægri  enn  mett  ella  í  ringasta  føri,  at  boringin  av  Eysturoyartunnilin  steðgaði  upp,  orsaka  av</p>
-<p>jarðfrøðiligum avbjóðingum, eftir at stórar upphæddir vóru nýttar til boringina.</p>
-<p>Ì  samband  við  fyrireikingarnar  av  Eystur- og  Sandoyartunlinum  var  mett  um  størstu  váðarnar  í</p>
-<p>verkætlanini. Komið var fram til at m.a. vóru hesir váðarnir mettir sum sera týðandi:</p>
-<p>- Vandin fyri rentuhækkingum, orsaka av stóru lánsbyrðuni á kr. 2,6. mia.</p>
-<p>- Jarðfrøðiligir váðar í samband við boringina av Eysturoyartunlinum.</p>
-<p>- Ov bjartskygdar inntøku metingar.</p>
-<p><em type="italic">5.2. Vandin fyri rentuhækkingum:  </em></p>
-<p>Rentan kann hækka og lækka nógv yvir tíð, sum myndin niðanfyri vísir. Um rentan hækkar 1%,</p>
-<p>merkir hetta hægri rentuútreiðslur á 26 mió. um árið við verandi skuld í Eystur- og</p>
-<p>Sandoyartunlinum. Hetta svarar til inntøkuna frá umleið 1.000 persónbilum um dagin ella um</p>
-<p>20% av mettu dagligu inntøkuni. Tí vil ein rentuhækking á 4-5% taka fíggjarliga grundarlagið</p>
-<p>undan verkætlanini.</p>
-<p>16</p>
-<p>Í samband við lántøkuna til byggingina av Eystur- og Sandoyartunlinum, var avgjørt at taka eitt</p>
-<p>lán við fastari rentu, fyri at avmarka rentuváðan. Rentan er avtala føst, fram til tunlarnir væntandi</p>
-<p>eru afturgoldnir í 2040, tó er møguligt at umleggja fíggingina, um hetta hevur við sær fyrimunir.</p>
-<p>Av tí at íløgan í ein Suðuroyartunnil er nakað størri enn í Eystur- og Sandoyartunnilin er rentan</p>
-<p>eisini ein týðandi váði í hesi verkætlanini. Tí er helst skilagott at læsa rentuna fasta eins og í</p>
-<p>fíggingini av Eystur- og Sandoyartunlinum, soleiðis at rentuútreiðslurnar eru kendar, áðrenn</p>
-<p>byrja verður uppá verkætlanina.</p>
-<p><em type="italic">5.3. Jarðfrøðiligir váðar: </em></p>
-<p>Í samband við bygging av undirsjóvartunlum er jarðfrøðin ein týðandi váði. Hóast vit í Føroyum</p>
-<p>hava góðar royndir við at byggja undirsjóvartunlar, kunna verða óvæntað neilig jarðfrøðilig</p>
-<p>viðurskiftir, sum kunna hava við sær sera týðandi fíggjarligar avleiðingar. Eitt er at tunnilin</p>
-<p>verður munandi dýrari enn mett, og í ringasta føri at tunnilin ikki kann gerst liðugur. Tá verða í</p>
-<p>ringasta føri ongar inntøkur at gjalda skuldina aftur við. Fyri verkætlanina Eystur- og</p>
-<p>Sandoyartunnilin er mest týðandi jarðfrøðiligi váðin burtur, nú Eysturoyartunnilin er skotin</p>
-<p>ígjøgnum, tí inntøkan frá ferðsluni í hesum tunlinum í mestan mun, fíggjar afturgjaldingina av</p>
-<p>báðum tunlunum. Tí var tað eisini ein treyt, fyri at byrja uppá Sandoyartunnilin, at</p>
+<p>Arbeiðið at byggja Eystur- og Sandoyartunnilin byrjaði í 2016, eftir drúgvar fyrireikingar.</p>
+<p>Kostnaðurin at byggja Eystur- og Sandoyartunnilin er mettur til 2,6 mia. krónur. Tá farið var undir verkætlanina í 2016, átók P/F Eystur- og Sandoyartunlar sær ovurstórar fíggjarligar skyldur, fyri at gjøgnumføra hesa stóru verkætlan. Fyri at fáa fíggingina til vega, til ein skilagóðan kostnað, veitti landsstýri eina sokallaða <span type="quote">“minstu ferðslutrygd”</span>, sum skal tryggja at felagið er ført fyri at halda sínar fíggjarligu skyldur, um so er, at ferðslan gjøgnum tunlarnar og harvið inntøkurnar verða lægri enn mett ella í ringasta føri, at boringin av Eysturoyartunnilin steðgaði upp, orsaka av jarðfrøðiligum avbjóðingum, eftir at stórar upphæddir vóru nýttar til boringina.</p>
+<p>Ì samband við fyrireikingarnar av Eystur- og Sandoyartunlinum var mett um størstu váðarnar í verkætlanini. Komið var fram til at m.a. vóru hesir váðarnir mettir sum sera týðandi: - Vandin fyri rentuhækkingum, orsaka av stóru lánsbyrðuni á kr. 2,6. mia. - Jarðfrøðiligir váðar í samband við boringina av Eysturoyartunlinum. - Ov bjartskygdar inntøku metingar. <em type="italic">5.2. Vandin fyri rentuhækkingum: </em></p>
+<p>Rentan kann hækka og lækka nógv yvir tíð, sum myndin niðanfyri vísir. Um rentan hækkar 1%, merkir hetta hægri rentuútreiðslur á 26 mió. um árið við verandi skuld í Eystur- og</p>
+<p>Sandoyartunlinum. Hetta svarar til inntøkuna frá umleið 1.000 persónbilum um dagin ella um 20% av mettu dagligu inntøkuni. Tí vil ein rentuhækking á 4-5% taka fíggjarliga grundarlagið undan verkætlanini.17</p>
+<p>Í samband við lántøkuna til byggingina av Eystur- og Sandoyartunlinum, var avgjørt at taka eitt lán við fastari rentu, fyri at avmarka rentuváðan. Rentan er avtala føst, fram til tunlarnir væntandi eru afturgoldnir í 2040, tó er møguligt at umleggja fíggingina, um hetta hevur við sær fyrimunir.</p>
+<p>Av tí at íløgan í ein Suðuroyartunnil er nakað størri enn í Eystur- og Sandoyartunnilin er rentan eisini ein týðandi váði í hesi verkætlanini. Tí er helst skilagott at læsa rentuna fasta eins og í fíggingini av Eystur- og Sandoyartunlinum, soleiðis at rentuútreiðslurnar eru kendar, áðrenn byrja verður uppá verkætlanina. <em type="italic">5.3. Jarðfrøðiligir váðar: </em></p>
+<p>Í samband við bygging av undirsjóvartunlum er jarðfrøðin ein týðandi váði. Hóast vit í Føroyum hava góðar royndir við at byggja undirsjóvartunlar, kunna verða óvæntað neilig jarðfrøðilig viðurskiftir, sum kunna hava við sær sera týðandi fíggjarligar avleiðingar. Eitt er at tunnilin verður munandi dýrari enn mett, og í ringasta føri at tunnilin ikki kann gerst liðugur. Tá verða í ringasta føri ongar inntøkur at gjalda skuldina aftur við. Fyri verkætlanina Eystur- og</p>
+<p>Sandoyartunnilin er mest týðandi jarðfrøðiligi váðin burtur, nú Eysturoyartunnilin er skotin ígjøgnum, tí inntøkan frá ferðsluni í hesum tunlinum í mestan mun, fíggjar afturgjaldingina av báðum tunlunum. Tí var tað eisini ein treyt, fyri at byrja uppá Sandoyartunnilin, at</p>
 <p>Eysturoyartunnilin var liðugt sprongdur.</p>
-<p>Um byrjast skal at bora Suðuroyartunnilin, er tað ein fyritreyt at Sandoyartunnilin er liðugt</p>
-<p>sprongdur, tá ferðslan so ella so skal gjøgnum henda tunnilin, fyri at kunna brúka</p>
-<p>Suðuroyartunnilin. Sandoyartunnilin er væntandi liðugt boraður í 2021/22. Hartil er sjálvandi</p>
-<p>jarðfrøðiligi vandin við boringini av sjálvum Suðroyartunlinum. Hetta verður umrøtt aðrastaðnis.</p>
-<p>17</p>
-<p><em type="italic">5.4. Ov bjartskygdar inntøku metingar </em></p>
-<p>Tá farið verður undir at fyrireika eina íløgu, sum skal fíggjast við brúkaragjaldi, verða metingar</p>
-<p>gjørdar av hvussu stórar inntøkurnar verða. Hesar metingar eru tengdar av teimum fyritreytum,</p>
-<p>sum tær byggja á. Í samband við t.d. Eystur- og Sandoyartunnilin er mett um, hvussu nógvir</p>
-<p>persón- og lastbilar fara at brúka tunnilin, við ymiskum prísum fyri at koyra í gjøgnum (sí</p>
-<p>aðrastaðni um ferðsluframrokningar). Av tí at hetta eru metingar, er tað ein óvissa um hesar</p>
-<p>metingar fara at halda, ella um tær eru ov bjartskygdar.</p>
-<p>Íløgan í Eystur- og Sandoyartunnilin er ein so stór íløga fyri Føroyar, at tað er ikki ráðiligt at fara</p>
-<p>undir enn eina slíka verkætlan (Suðuroyartunnilin), fyrr enn greiða er fingin á, um</p>
-<p>inntøkumetingarnar fyri Eysturoyartunnilin fara at halda. Eysturoyartunnilin letur væntandi upp</p>
-<p>fyri ferðslu í desember 2020. Umleið 1-2 ár eftir hetta fæst ein munandi betur ábending um hvørt</p>
-<p>ferðslumetingarnar fara at halda, soleiðis at landskassaveðhaldið fyri minstu ferðslu inntøkuna</p>
-<p>ikki verður effektivt. Hetta átti at verið greitt eftir ár 2022.</p>
-<p>Í samband við inntøkumetingarnar fyri Suðuroyartunnilin, er váðin í samband við</p>
-<p>inntøkumetingarnar ikki eins stórur, sum fyri Eystur- og Sandoyartunnilin. Orsøkin er, sum</p>
-<p>talvan niðanfyri vísir, at Eystur- og Sandoyartunnilin er so gott sum, einans fíggjaður við</p>
-<p>brúkaragjaldi, meðan umleið 42% av Suðuroyartunlinum, verður fíggjaður við verandi fígging á</p>
-<p>fíggjarlógini til Suðuroyarleiðina. Hetta eftir at Smyril er lagdur. Hesar inntøkur hjá</p>
-<p>Suðuroyartunlinum eru kendar, og eingin váði er tengdur at teimum.</p>
-<p><em type="italic">5.5. Alment partafelag: </em></p>
-<p>Í samband við byggingina av hinum undirsjóvartunlunum, hava myndugleikarnir valt at stovna</p>
-<p>almenn partafeløg, at standa fyri fyrireiking, bygging og rakstri av tunlunum. Eitt fyri</p>
-<p>18</p>
+<p>Um byrjast skal at bora Suðuroyartunnilin, er tað ein fyritreyt at Sandoyartunnilin er liðugt sprongdur, tá ferðslan so ella so skal gjøgnum henda tunnilin, fyri at kunna brúka</p>
+<p>Suðuroyartunnilin. Sandoyartunnilin er væntandi liðugt boraður í 2021/22. Hartil er sjálvandi jarðfrøðiligi vandin við boringini av sjálvum Suðroyartunlinum. Hetta verður umrøtt aðrastaðnis. 18 <em type="italic">5.4. Ov bjartskygdar inntøku metingar </em></p>
+<p>Tá farið verður undir at fyrireika eina íløgu, sum skal fíggjast við brúkaragjaldi, verða metingar gjørdar av hvussu stórar inntøkurnar verða. Hesar metingar eru tengdar av teimum fyritreytum, sum tær byggja á. Í samband við t.d. Eystur- og Sandoyartunnilin er mett um, hvussu nógvir persón- og lastbilar fara at brúka tunnilin, við ymiskum prísum fyri at koyra í gjøgnum (sí aðrastaðni um ferðsluframrokningar). Av tí at hetta eru metingar, er tað ein óvissa um hesar metingar fara at halda, ella um tær eru ov bjartskygdar.</p>
+<p>Íløgan í Eystur- og Sandoyartunnilin er ein so stór íløga fyri Føroyar, at tað er ikki ráðiligt at fara undir enn eina slíka verkætlan (Suðuroyartunnilin), fyrr enn greiða er fingin á, um inntøkumetingarnar fyri Eysturoyartunnilin fara at halda. Eysturoyartunnilin letur væntandi upp fyri ferðslu í desember 2020. Umleið 1-2 ár eftir hetta fæst ein munandi betur ábending um hvørt ferðslumetingarnar fara at halda, soleiðis at landskassaveðhaldið fyri minstu ferðslu inntøkuna ikki verður effektivt. Hetta átti at verið greitt eftir ár 2022.</p>
+<p>Í samband við inntøkumetingarnar fyri Suðuroyartunnilin, er váðin í samband við inntøkumetingarnar ikki eins stórur, sum fyri Eystur- og Sandoyartunnilin. Orsøkin er, sum talvan niðanfyri vísir, at Eystur- og Sandoyartunnilin er so gott sum, einans fíggjaður við brúkaragjaldi, meðan umleið 42% av Suðuroyartunlinum, verður fíggjaður við verandi fígging á fíggjarlógini til Suðuroyarleiðina. Hetta eftir at Smyril er lagdur. Hesar inntøkur hjá</p>
+<p>Suðuroyartunlinum eru kendar, og eingin váði er tengdur at teimum. <em type="italic">5.5. Alment partafelag: </em></p>
+<p>Í samband við byggingina av hinum undirsjóvartunlunum, hava myndugleikarnir valt at stovna almenn partafeløg, at standa fyri fyrireiking, bygging og rakstri av tunlunum. Eitt fyri 19</p>
 <p>Vágatunnilin, eitt fyri Norðoyatunnilin og eitt felag, sum eigur bæði Eystur- og</p>
-<p>Sandoyartunnilin. Harafturat hava feløgini sjálvi staðið fyri at útvega fígging, út yvir</p>
-<p>partapeningin, fyri at fullføra verkætlanina. Hesin leistur hevur víst seg at rigga sera væl. Tí er</p>
-<p>tað, sum so eingin orsøk til at gera annað hvat hesum viðvíkur, enn at stovna eitt alment</p>
-<p>partafelag P/F Suðuroyartunnilin. Hetta felag skal so hava til uppgávu at fyrireika, byggja og</p>
-<p>reka Suðuroyartunnilin, umframt at fáa til vega fremmandu fíggingina til verkætlanina. Hetta tó í</p>
-<p>tøttum samstarvi við myndugleikarnar fyri at fáa fíggja verkætlanina til ein so lágan</p>
-<p>fíggjarkostnað sum gjørligt.</p>
-<p><em type="italic">5.6. Samhaldsføst fígging eisini ein fyritreyt eins og Vága- og Norðoyatunlinum </em></p>
-<p>Tá undirsjóvartunlar eru bygdir í Føroyum, hevur leisturin verið partvís samhaldsføst fígging og</p>
-<p>partvíst brúkara goldin fígging. Talvan niðanfyri vísur samhaldsfasta partin av fíggingini. Í</p>
-<p>hesum føri partapeningin, sum landsstýri hevur skotið inn í feløgini, í mun til samlaðu íløguna.</p>
+<p>Sandoyartunnilin. Harafturat hava feløgini sjálvi staðið fyri at útvega fígging, út yvir partapeningin, fyri at fullføra verkætlanina. Hesin leistur hevur víst seg at rigga sera væl. Tí er tað, sum so eingin orsøk til at gera annað hvat hesum viðvíkur, enn at stovna eitt alment partafelag P/F Suðuroyartunnilin. Hetta felag skal so hava til uppgávu at fyrireika, byggja og reka Suðuroyartunnilin, umframt at fáa til vega fremmandu fíggingina til verkætlanina. Hetta tó í tøttum samstarvi við myndugleikarnar fyri at fáa fíggja verkætlanina til ein so lágan fíggjarkostnað sum gjørligt. <em type="italic">5.6. Samhaldsføst fígging eisini ein fyritreyt eins og Vága- og Norðoyatunlinum </em></p>
+<p>Tá undirsjóvartunlar eru bygdir í Føroyum, hevur leisturin verið partvís samhaldsføst fígging og partvíst brúkara goldin fígging. Talvan niðanfyri vísur samhaldsfasta partin av fíggingini. Í hesum føri partapeningin, sum landsstýri hevur skotið inn í feløgini, í mun til samlaðu íløguna.</p>
 <p>Sum talvan vísur, var omanfyri helmingurin í Vága- og Norðoyatunlinum samhaldsføst fígging. Í</p>
 <p>Eystur- og Sandoyartunlinum, er partapeningurin bert 15% av samlaðu íløguni.</p>
-<p>Eysturoyartunnilin er mettur at verða so fíggjarliga burðardyggur, í sær sjálvum, at við bert 15%</p>
-<p>í partapeningi av samlaðu íløguni fyri báðar tunlarnar, klárar hann eisini at fíggja</p>
+<p>Eysturoyartunnilin er mettur at verða so fíggjarliga burðardyggur, í sær sjálvum, at við bert 15% í partapeningi av samlaðu íløguni fyri báðar tunlarnar, klárar hann eisini at fíggja</p>
 <p>Sandoyartunnilin.</p>
 <p>Suðuroyartunnilin er, eins og tá farið var undir Vágatunnilin, Norðoyartunnilin og</p>
-<p>Sandoyartunnilin, ikki fíggjarliga burðardyggur. Spurningurin er tí, hvussu stórur partur skal</p>
-<p>koma frá tí almenna og hvussu stórur partur kann fíggjast við tunnilsgjaldi. Um íløgan í ein</p>
-<p>19</p>
-<p><span type="quote">“nýggjan”</span> Smyril ístaðin verður skotin inn sum partapeningur, svarar tað til, at 27% av</p>
-<p>verkætlanini verður goldin sum partapeningur. Hetta er munandi minni enn tað, sum var goldið</p>
-<p>inn til Vága- og Norðoyatunnilin sæð í mun til samlaðu verkætlanina.</p>
-<p><em type="italic">5.7. Fígging frá hinum undirsjóvartunlunum </em></p>
-<p>Suðuroyartunnilin verður óiva størsta einstaka íløgan hjá landskassanum til dags dato. Fyri at</p>
-<p>avmarka váðan hjá landskassanum, er ein møguleiki, at gagnnýta virðini í hinum</p>
-<p>undirsjóvartunlunum, og lata teir verða við til at fíggja Suðuroyartunnilin. Hetta er tó ein</p>
-<p>politiskur spurningur, men helst ikki eitt krav, fyri at byggja Suðuroyatunnilin men kann føra til</p>
-<p>at fíggjarkostnaðurin kann lækkast.</p>
-<p>Um politisk semja fæst um, at verandi undirsjóvartunlarnir skulu verða við til at fíggja ein</p>
-<p>møguligan Suðuroyartunnil, kann hetta gerst, við at stovna eitt sokallað <span type="quote" xml:lang="dan">“holding”</span> felag, sum</p>
-<p>eigur øll tunnilsfeløgini. Síðan gjalda tey vinningsbýtið upp til holdingfelagið av einum</p>
-<p>møguligum yvirskotið, sum so annaðhvørt lænir felagnum, sum eigur og rekur Suðuroyartunnilin</p>
-<p>pening, til at rinda sínar skyldur ella til at hækka partapeningin í P/F Suðuroyartunnilin. Á</p>
-<p>hendan hátt verður fíggjarliga haldførið hjá Suðuroyartunlinum munandi styrkt.</p>
-<p><em type="italic">5.8.Framhaldandi fígging av suðuroyarleiðini yvir fíggjarlógina </em></p>
-<p>Í dag verður Suðuroyarleiðin partvís fíggjað yvir fíggjarlógina. Hin parturin kemur frá</p>
-<p>brúkaragjaldi við Smyrli. Á fíggjarlógini verða í miðal latnar einar 75 mió. sum rakstrar stuðul</p>
-<p>og stuðul til klassing, sum er annað hvørt ár. Um hesin stuðul heldur á, eftir at Smyril er lagdur</p>
-<p>og Suðuroyartunnilin er latin upp fyri ferðslu, kann hann verða ein sera týðandi partur av</p>
-<p>fíggingini av Suðuroyartunlinum. Hetta ger samstundis, at fíggjarlógin ikki ávirkast av einum</p>
-<p>føstum sambandi til Suðuroynna.</p>
-<p><em type="italic">5.9. Íløgan í nýggjan Smyril í Suðuroyartunnilin </em></p>
-<p>Smyril, sum siglir um Suðuroyarfjørð í dag, bleiv latin Strandferðsluni í 2005 og verður sostatt</p>
-<p>25 ár í 2030, tá ein møguligur Suðuroyartunnil í fyrsta lagi verður liðugur. Tá hevur skipið sæð</p>
-<p>sínar bestu dagar. Hetta saman við at krøvini frá ferðafólki til komfort og trygd, saman við</p>
-<p>altjóða krøvum gera, at skipið ikki verður tíðarhóskandi. Ein íløga í ein nýggjan tíðarhóskandi</p>
-<p>Smyril, er mett til, í dagsins peningi, ikki at verða undir 800 mió. kr. Um hesin peningur, í staðin</p>
-<p>verður skotin inn í verkætlanina, sum partapeningur, svarar hetta til ein partapening á 27% og</p>
-<p>20 lættir munandi um skuldarbyrðuna hjá felagnum, samstundis sum fast samband til Suðuroynna</p>
-<p>ikki krevur størri íløgu yvir fíggjarlógina, enn hon sum skuldi verið gjørd kortini.</p>
-<p>Niðanfyri sæst, hvat landi hevur skotið inn í tær ymisku tunnilsverkætlanirnar, sum forútgoldið</p>
-<p>tunnilsgjald, um ein kann siga so, í mun til samlaða kostnaðin av verkætlanini og hvat landi</p>
-<p>kemur at skjóta inn í Suðuroyartunnilin um íløgan í <span type="quote">“nýggjan”</span> Smyril verður koyrd í fasta</p>
-<p>sambandi til Suðuroynna.</p>
-<p>Myndin niðanfyri vísir árliga inngjaldi á fíggjarlógini í P/F Eystur- og Sandoyartunnilin frá</p>
-<p>2014-2024. Um hildið verður á við sama árliga inngjaldi eftir 2024, sum fyri árini 2020-2024,</p>
-<p>svarandi til íløguna í ein nýggjan Smyril, verður sami tøki peningur á fíggjarlógini, sum fyri árini</p>
-<p>2020-2024 til rakstur og aðrar íløgur hjá landinum.</p>
-<p>21</p>
+<p>Sandoyartunnilin, ikki fíggjarliga burðardyggur. Spurningurin er tí, hvussu stórur partur skal koma frá tí almenna og hvussu stórur partur kann fíggjast við tunnilsgjaldi. Um íløgan í ein 20 <span type="quote">“nýggjan”</span> Smyril ístaðin verður skotin inn sum partapeningur, svarar tað til, at 27% av verkætlanini verður goldin sum partapeningur. Hetta er munandi minni enn tað, sum var goldið inn til Vága- og Norðoyatunnilin sæð í mun til samlaðu verkætlanina. <em type="italic">5.7. Fígging frá hinum undirsjóvartunlunum </em></p>
+<p>Suðuroyartunnilin verður óiva størsta einstaka íløgan hjá landskassanum til dags dato. Fyri at avmarka váðan hjá landskassanum, er ein møguleiki, at gagnnýta virðini í hinum undirsjóvartunlunum, og lata teir verða við til at fíggja Suðuroyartunnilin. Hetta er tó ein politiskur spurningur, men helst ikki eitt krav, fyri at byggja Suðuroyatunnilin men kann føra til at fíggjarkostnaðurin kann lækkast.</p>
+<p>Um politisk semja fæst um, at verandi undirsjóvartunlarnir skulu verða við til at fíggja ein møguligan Suðuroyartunnil, kann hetta gerst, við at stovna eitt sokallað <span type="quote" xml:lang="dan">“holding”</span> felag, sum eigur øll tunnilsfeløgini. Síðan gjalda tey vinningsbýtið upp til holdingfelagið av einum møguligum yvirskotið, sum so annaðhvørt lænir felagnum, sum eigur og rekur Suðuroyartunnilin pening, til at rinda sínar skyldur ella til at hækka partapeningin í P/F Suðuroyartunnilin. Á hendan hátt verður fíggjarliga haldførið hjá Suðuroyartunlinum munandi styrkt. <em type="italic">5.8.Framhaldandi fígging av suðuroyarleiðini yvir fíggjarlógina </em></p>
+<p>Í dag verður Suðuroyarleiðin partvís fíggjað yvir fíggjarlógina. Hin parturin kemur frá brúkaragjaldi við Smyrli. Á fíggjarlógini verða í miðal latnar einar 75 mió. sum rakstrar stuðul og stuðul til klassing, sum er annað hvørt ár. Um hesin stuðul heldur á, eftir at Smyril er lagdur og Suðuroyartunnilin er latin upp fyri ferðslu, kann hann verða ein sera týðandi partur av fíggingini av Suðuroyartunlinum. Hetta ger samstundis, at fíggjarlógin ikki ávirkast av einum føstum sambandi til Suðuroynna. <em type="italic">5.9. Íløgan í nýggjan Smyril í Suðuroyartunnilin </em></p>
+<p>Smyril, sum siglir um Suðuroyarfjørð í dag, bleiv latin Strandferðsluni í 2005 og verður sostatt 25 ár í 2030, tá ein møguligur Suðuroyartunnil í fyrsta lagi verður liðugur. Tá hevur skipið sæð sínar bestu dagar. Hetta saman við at krøvini frá ferðafólki til komfort og trygd, saman við altjóða krøvum gera, at skipið ikki verður tíðarhóskandi. Ein íløga í ein nýggjan tíðarhóskandi</p>
+<p>Smyril, er mett til, í dagsins peningi, ikki at verða undir 800 mió. kr. Um hesin peningur, í staðin verður skotin inn í verkætlanina, sum partapeningur, svarar hetta til ein partapening á 27% og 21 lættir munandi um skuldarbyrðuna hjá felagnum, samstundis sum fast samband til Suðuroynna ikki krevur størri íløgu yvir fíggjarlógina, enn hon sum skuldi verið gjørd kortini.</p>
+<p>Niðanfyri sæst, hvat landi hevur skotið inn í tær ymisku tunnilsverkætlanirnar, sum forútgoldið tunnilsgjald, um ein kann siga so, í mun til samlaða kostnaðin av verkætlanini og hvat landi kemur at skjóta inn í Suðuroyartunnilin um íløgan í <span type="quote">“nýggjan”</span> Smyril verður koyrd í fasta sambandi til Suðuroynna.</p>
+<p>Myndin niðanfyri vísir árliga inngjaldi á fíggjarlógini í P/F Eystur- og Sandoyartunnilin frá 2014-2024. Um hildið verður á við sama árliga inngjaldi eftir 2024, sum fyri árini 2020-2024, svarandi til íløguna í ein nýggjan Smyril, verður sami tøki peningur á fíggjarlógini, sum fyri árini 2020-2024 til rakstur og aðrar íløgur hjá landinum. 22 <em type="italic">5.10 Lánsfíggingin </em></p>
+<p>Suðuroyartunnilin er ein so mikið stór íløga, at hon neyvan kann fíggjast um fíggjarlógina øll sum hon er. Hetta er óivað heldur ikki skilagott, tá talan er um eina íløgu í undirstøðukervi, sum hevur eina livitíð á 50-100 ár. Tí er skilabest við langtíðar lántøku, fyri at gjøgnumføra íløguna. Orsakað av støddini á verkætlanini, er ikki møguligt at fíggja íløguna á føroyska lánsmarknaðinum einsamalt, men føroyskir fíggingarstovnar kunna verða við eins og við Eystur- og</p>
+<p>Sandoyartunlinum. Við eini so stórari verkætlan, av hesum slagnum, slepst neyvan undan einum landskassaveðhaldi, av einum ella øðrum slag. Hetta er at meta sum ein fyritreyt fyri verkætlanini.</p>
+<p>Í samband við Eystur- og Sandoyartunnilin veitti landi eina inntøkutrygd (minstuferðslutrygd), soleiðis at felagið til eina og hvørja tíð kann halda sínar fíggjarligu skyldur. Henda trygdin, hóast verkætlanin er stór og stór lán vóru tikin, ávirkaði tað ikki kreditmetingina av Føroya Landsstýri sum lántakara. Ratingin frá Moody’s var óbroytt. <em type="italic">5.11. Ymiskir hættir eru at fíggja íløguna. </em><em type="italic">5.11.1. Landskassin tekur lán við landskassa veðhaldi </em></p>
+<p>Bíligast er helst, at landið tekur lán til verkætlanina og so lænir peningin víðari til felagið, sum skal fyrireika, byggja og reka Suðuroyartunnilin. Við slíkari fígging veðheldur landskassin 100% fyri verkætlanini. Spurningurin er um ein slík fígging kemur at ávirka ratingina av landskassa skuldini. Hetta er torført at meta um, men við at uppbyggja ein væl grundaða verkætlan og eitt har 0102030405060201420152016201720182019202020212022202320242025202620272028202920302031203220332034203520362037203820392040</p>
 <p>Innskot av partapeningi</p>
-<p>Eystur- og SandoyartunlarSuðuroyartunnilin</p>
-<p><em type="italic">5.10 Lánsfíggingin </em></p>
-<p>Suðuroyartunnilin er ein so mikið stór íløga, at hon neyvan kann fíggjast um fíggjarlógina øll sum</p>
-<p>hon er. Hetta er óivað heldur ikki skilagott, tá talan er um eina íløgu í undirstøðukervi, sum hevur</p>
-<p>eina livitíð á 50-100 ár. Tí er skilabest við langtíðar lántøku, fyri at gjøgnumføra íløguna. Orsakað</p>
-<p>av  støddini  á  verkætlanini,  er  ikki  møguligt  at  fíggja  íløguna  á  føroyska  lánsmarknaðinum</p>
-<p>einsamalt,  men  føroyskir  fíggingarstovnar  kunna  verða  við  eins  og  við  Eystur-  og</p>
-<p>Sandoyartunlinum. Við eini so stórari verkætlan, av hesum slagnum, slepst neyvan undan einum</p>
-<p>landskassaveðhaldi, av einum ella øðrum slag. Hetta er at meta sum ein fyritreyt fyri verkætlanini.</p>
-<p>Í  samband  við  Eystur-  og  Sandoyartunnilin  veitti  landi  eina  inntøkutrygd  (minstuferðslutrygd),</p>
-<p>soleiðis at felagið til eina og hvørja tíð kann halda sínar fíggjarligu skyldur. Henda trygdin, hóast</p>
-<p>verkætlanin er stór og stór lán vóru tikin, ávirkaði tað ikki kreditmetingina av Føroya Landsstýri</p>
-<p>sum lántakara. Ratingin frá Moody’s var óbroytt.</p>
-<p><em type="italic">5.11. Ymiskir hættir eru at fíggja íløguna.  </em></p>
-<p><em type="italic">5.11.1. Landskassin tekur lán við landskassa veðhaldi </em></p>
-<p>Bíligast er helst, at  landið tekur lán til verkætlanina og so lænir peningin  víðari til  felagið, sum</p>
-<p>skal fyrireika, byggja og reka Suðuroyartunnilin. Við slíkari fígging veðheldur landskassin 100%</p>
-<p>fyri  verkætlanini.  Spurningurin  er  um  ein  slík  fígging  kemur  at  ávirka  ratingina  av  landskassa</p>
-<p>skuldini. Hetta er torført at meta um, men við at uppbyggja ein væl grundaða verkætlan og eitt har</p>
-<p>22 tilhoyrandi fíggingarmodel, átti verið møguligt at haft eina óbroytta <span type="quote" xml:lang="dan">“rating”</span>. Fíggingin av Eystur-</p>
-<p>og Sandoyartunlinum hevur higartil ikki ávirka <span type="quote">“ratingina”</span> av landskassa skuldini.</p>
-<p><em type="italic">5.11.2. Felagið tekur lán við inntøkutrygd </em></p>
-<p>Undir hesum leisti, veðheldur landskassin ikki 100% undir vanligum umstøðum, men tryggjar tí</p>
-<p>árligu lánsupphæddini, sum fellur til gjaldingar. Lánið fellur ikki til gjaldingar undir einum. Við</p>
-<p>hesum  leisti,  tryggjar  landskassin  teimum,  ið  lána  pening  til  verkætlanina,  at  teir  fáa  ár</p>
-<p>lánsgjøldini,  umframt  rentur  til  tíðina.  Hesin  leistur  bleiv  nýttur  til  at  fíggja  Eystur-  og</p>
+<p>Eystur- og Sandoyartunlar</p>
+<p>Suðuroyartunnilin23 tilhoyrandi fíggingarmodel, átti verið møguligt at haft eina óbroytta <span type="quote" xml:lang="dan">“rating”</span>. Fíggingin av Eystur- og Sandoyartunlinum hevur higartil ikki ávirka <span type="quote">“ratingina”</span> av landskassa skuldini. <em type="italic">5.11.2. Felagið tekur lán við inntøkutrygd </em></p>
+<p>Undir hesum leisti, veðheldur landskassin ikki 100% undir vanligum umstøðum, men tryggjar tí árligu lánsupphæddini, sum fellur til gjaldingar. Lánið fellur ikki til gjaldingar undir einum. Við hesum leisti, tryggjar landskassin teimum, ið lána pening til verkætlanina, at teir fáa árligu lánsgjøldini, umframt rentur til tíðina. Hesin leistur bleiv nýttur til at fíggja Eystur- og</p>
 <p>Sandoyartunnilin.</p>
-<p>Aðrir  mátar eru eisini  at fíggja tunnilin. Ein kann verða at  lata privat gera og reka tunnilin,  við</p>
-<p>almennum stuðli. Hetta er tó ikki tað sum liggur fyrst fyri, av tí at vit í Føroyum hava góðar royndir</p>
-<p>við at lata almenn átt partafeløg standa fyri bygging og rakstri av undirsjóvar tunlum.</p>
-<p>Fyri báðar fíggingarmøguleikar er helst skilagott, at velja eina fasta rentu eitt langt tíðarskeið til</p>
-<p>skuldin  er  vorðin  somikið  lág,  at  ein  rentuhækking  ikki  hevur  týðandi  ávirkan  á  haldførið  í</p>
-<p>verkætlanini.</p>
-<p>23</p>
-<p><em type="bold">6. Linjuføringar </em></p>
-<p>Ein Suðuroyatunnil er ein sera stór verkætlan í føroyskum høpi, og tí er týdningarmikið, at allir</p>
-<p>møguleikar verða mettir út frá teimum fyritreytum, sum eru avgerandi fyri, hvussu ætlanin kann</p>
-<p>gjøgnumførast.</p>
-<p>Avbjóðingar í hesum sambandi eru millum annað</p>
-<p>- Møguligar linjuføringar</p>
-<p>- Jarðfrøði</p>
-<p>- Trygd</p>
-<p>- Fígging</p>
-<p>- Umhvørvisatlit</p>
-<p>Í hesum partinum eru møguligar linjuføringar umrøddar, meðan hini viðurskiftini eru viðgørd í</p>
-<p>øðrum pørtum.</p>
+<p>Aðrir mátar eru eisini at fíggja tunnilin. Ein kann verða at lata privat gera og reka tunnilin, við almennum stuðli. Hetta er tó ikki tað sum liggur fyrst fyri, av tí at vit í Føroyum hava góðar royndir við at lata almenn átt partafeløg standa fyri bygging og rakstri av undirsjóvar tunlum.</p>
+<p>Fyri báðar fíggingarmøguleikar er helst skilagott, at velja eina fasta rentu eitt langt tíðarskeið til skuldin er vorðin somikið lág, at ein rentuhækking ikki hevur týðandi ávirkan á haldførið í verkætlanini. 24 <em type="bold">6. Linjuføringar </em></p>
+<p>Ein Suðuroyatunnil er ein sera stór verkætlan í føroyskum høpi, og tí er týdningarmikið, at allir møguleikar verða mettir út frá teimum fyritreytum, sum eru avgerandi fyri, hvussu ætlanin kann gjøgnumførast.</p>
+<p>Avbjóðingar í hesum sambandi eru millum annað - Møguligar linjuføringar - Jarðfrøði - Trygd - Fígging - Umhvørvisatlit</p>
+<p>Í hesum partinum eru møguligar linjuføringar umrøddar, meðan hini viðurskiftini eru viðgørd í øðrum pørtum.</p>
 <p>Arbeiðsbólkurin hevur við útgangsstøði í arbeiðssetninginum bert hugt eftir tunnilsloysnum.</p>
-<p>Sambært norsku tunnilsnormunum, sum hava verið brúktir í Føroyum ísv undirsjóvartunlar,</p>
-<p>skulu tunlar longri enn 10 km metast um í hvørjum einstøkum føri ísv trygd.</p>
-<p>Sum viðgjørt undir pørtunum um fígging og kostnaðarmeting er avmarkað, hvør loysn  letur seg</p>
-<p>gera fíggjarliga, og ein loysn við tveimum tunnilsrørum tykist ikki realistisk fíggjarliga, sum</p>
-<p>støðan er, hóast hendan loysn hevði verið betri fyri trygdina. Avbjóðingin er tí at fáa</p>
-<p>trygdarstøðið á tunlinum á eitt nøktandi støðið uttan at tað er neyðugt við tveimum tunnilsrørum.</p>
-<p>Innleiðandi er hugt eftir møguleikunum fyri tunnilslinjum, sum so mugu vigast í mun til</p>
-<p>omanfyri nevndu avbjóðingar.</p>
-<p>Av tí, at tunnilin er so langur, og at undirsjóvartunlar eru væl dýrari enn vegir og tunlar á landi,</p>
-<p>er tikið støði í, at allar linjuføringar byrja í Sandvík. Hetta merkir so eisini, at ein Sandvíkartunnil</p>
-<p>og umkoyringarvegur í Hvalba, eru neyðugar verkætlanir at fremja, áðrenn ein Suðuroyartunnil</p>
-<p>letur upp fyri ferðslu. Tað er ikki ósannlíkt, at undirsjóvartunnilin kann styttast nakað, við at</p>
-<p>24 arbeiða meira við loysnini í Sandvík, og tað eigur at vera kannað, um tunnilin kann koma upp</p>
-<p>eystan fyri bygdina, við einum umkoyringarvegi um bygdina.</p>
-<p>Á Sandoynni eru fleiri møguleikar innleiðandi mettir um:</p>
-<p>0. Inntak norðanfyri Sands bygd og tunnil umvegis Skúvoy.</p>
-<p>1. Inntak norðanfyri brattlendið áðrenn Skarvanes</p>
-<p>2. Inntak sunnanfyri brattlendið áðrenn Skarvanes. Stuttur landtunnil innum brattlendið</p>
-<p>3. Inntak norðanfyri Sands bygd</p>
-<p>4. Inntak í Dali</p>
-<p>Loysnirnar 1,2 og 3 kunnu fremjast við bjargingartunli upp til  Skúvoy, um tað verður mett sum</p>
-<p>ein fyrimunur í mun til trygdina í eini seinni váðameting.</p>
-<p>25</p>
-<p><em type="italic">6.0 Loysn við inntaki norðanfyri Sands Bygd og tunnil umvegis Skúvoy. </em></p>
-<p>Hendan  linjan er tann sama, sum  er skotin upp  í  samferðsluætlanini 2018-2030  frá Landsverki.</p>
-<p>Inntakið  á  Sandoynni  er  uml.  í  grótbrotinum  norðanfyri  Sands  bygd,  og tunnilin  verður  lagdur</p>
-<p>umvegis  Skúvoy  til  Sandvíkar.  Tunnilin  er  á  veg til  og  frá  Skúvoyar  bygd  lagdur  við  tveimum</p>
-<p>rímiliga krøppum horisontalbogum. Vegurin í Skúvoy er mettur at vera o.u. 300 - 400 m langur.</p>
-<p>Um norsku vegareglurnar skulu fylgjast ísv íbinding til Skúvoy, verður væntandi neyðugt at skelta</p>
-<p>ferðina niður ísv at skula upp í Skúvoy.</p>
-<p>Samlaða tunnilslongdin er 26,1 km har norðari parturin er uml. 9 km og sunnari parturin er uml.</p>
-<p xml:lang="dan">17,1 km.</p>
-<p>Talan verður um tveir langar undirsjóvartunlar, sum hvør sær tó eru styttri enn ein beinleiðis tunnil,</p>
-<p>og tunnilin skal ikki gjøgnum Sands bygd.</p>
-<p>Tunnilin samanlagt er longsta og dýrasta loysnin. Av serligum umhvørvisligum avbjóðingum kann</p>
-<p>nevnast at Skúvoy er Ramsarøki, og tað má kannast nærri hvørjar avmarkingar hetta hevur í mun</p>
-<p>til  eina  slíka  verkætlan.  Harumframt  fer  inntakið  og  arbeiðsplássið  á  Sandoynni  at  liggja  uppat</p>
-<p>Sandsvatni beint hinumegin landsvegin, sum óiva má umleggjast í byggitíðini.</p>
-<p>26</p>
-<p><em type="italic">6.1 Loysn við inntaki norðanfyri brattlendið áðrenn Skarvanes </em></p>
+<p>Sambært norsku tunnilsnormunum, sum hava verið brúktir í Føroyum ísv undirsjóvartunlar, skulu tunlar longri enn 10 km metast um í hvørjum einstøkum føri ísv trygd.</p>
+<p>Sum viðgjørt undir pørtunum um fígging og kostnaðarmeting er avmarkað, hvør loysn letur seg gera fíggjarliga, og ein loysn við tveimum tunnilsrørum tykist ikki realistisk fíggjarliga, sum støðan er, hóast hendan loysn hevði verið betri fyri trygdina. Avbjóðingin er tí at fáa trygdarstøðið á tunlinum á eitt nøktandi støðið uttan at tað er neyðugt við tveimum tunnilsrørum.</p>
+<p>Innleiðandi er hugt eftir møguleikunum fyri tunnilslinjum, sum so mugu vigast í mun til omanfyri nevndu avbjóðingar.</p>
+<p>Av tí, at tunnilin er so langur, og at undirsjóvartunlar eru væl dýrari enn vegir og tunlar á landi, er tikið støði í, at allar linjuføringar byrja í Sandvík. Hetta merkir so eisini, at ein Sandvíkartunnil og umkoyringarvegur í Hvalba, eru neyðugar verkætlanir at fremja, áðrenn ein Suðuroyartunnil letur upp fyri ferðslu. Tað er ikki ósannlíkt, at undirsjóvartunnilin kann styttast nakað, við at 25 arbeiða meira við loysnini í Sandvík, og tað eigur at vera kannað, um tunnilin kann koma upp eystan fyri bygdina, við einum umkoyringarvegi um bygdina.</p>
+<p>Á Sandoynni eru fleiri møguleikar innleiðandi mettir um: 0. Inntak norðanfyri Sands bygd og tunnil umvegis Skúvoy. 1. Inntak norðanfyri brattlendið áðrenn Skarvanes 2. Inntak sunnanfyri brattlendið áðrenn Skarvanes. Stuttur landtunnil innum brattlendið 3. Inntak norðanfyri Sands bygd 4. Inntak í Dali</p>
+<p>Loysnirnar 1,2 og 3 kunnu fremjast við bjargingartunli upp til Skúvoy, um tað verður mett sum ein fyrimunur í mun til trygdina í eini seinni váðameting. 26 <em type="italic">6.0 Loysn við inntaki norðanfyri Sands Bygd og tunnil umvegis Skúvoy. </em></p>
+<p>Hendan linjan er tann sama, sum er skotin upp í samferðsluætlanini 2018-2030 frá Landsverki.</p>
+<p>Inntakið á Sandoynni er uml. í grótbrotinum norðanfyri Sands bygd, og tunnilin verður lagdur umvegis Skúvoy til Sandvíkar. Tunnilin er á veg til og frá Skúvoyar bygd lagdur við tveimum rímiliga krøppum horisontalbogum. Vegurin í Skúvoy er mettur at vera o.u. 300 - 400 m langur.</p>
+<p>Um norsku vegareglurnar skulu fylgjast ísv íbinding til Skúvoy, verður væntandi neyðugt at skelta ferðina niður ísv at skula upp í Skúvoy.</p>
+<p>Samlaða tunnilslongdin er 26,1 km har norðari parturin er uml. 9 km og sunnari parturin er uml. 17,1 km.</p>
+<p>Talan verður um tveir langar undirsjóvartunlar, sum hvør sær tó eru styttri enn ein beinleiðis tunnil, og tunnilin skal ikki gjøgnum Sands bygd.</p>
+<p>Tunnilin samanlagt er longsta og dýrasta loysnin. Av serligum umhvørvisligum avbjóðingum kann nevnast at Skúvoy er Ramsarøki, og tað má kannast nærri hvørjar avmarkingar hetta hevur í mun til eina slíka verkætlan. Harumframt fer inntakið og arbeiðsplássið á Sandoynni at liggja uppat</p>
+<p>Sandsvatni beint hinumegin landsvegin, sum óiva má umleggjast í byggitíðini. 27 <em type="italic">6.1 Loysn við inntaki norðanfyri brattlendið áðrenn Skarvanes </em></p>
 <p>Inntakið á Sandoynni er norðanfyri brattlendið áðrenn Skarvanes. Tunnilin er lagdur beinleiðis til</p>
 <p>Sandvíkar. Samlaða longdin á tunlinum er 22,8 km.</p>
-<p>Tunnilin samanlagt er styttri og bíligari enn loysn 0. Tunnilsmunnin á Sandoynni er so at siga  í</p>
-<p>óbygdum, og gott pláss er til byggipláss og tilfar í byggitíðini.</p>
-<p>Ferðslan frá tunlinum skal gjøgnum Sandslíð og parti av Sands bygd. Í samferðsluætlanini 2018</p>
-<p>2030 frá Landsverk er ein  nøktandi  loysn  í Sandslíð  mett at  kosta 32-58 mio. kr. og er tilmæld</p>
-<p>tíðarætlan 2025, sum er væl áðrenn ein Suðuroyartunnil kann lata upp. Teinurin til Tórshavn úr</p>
-<p>Suðuroy er á leið 4 km longri enn loysn 0.</p>
-<p>27</p>
-<p><em type="italic">6.2 Loysn við inntaki sunnanfyri brattlendi áðrenn Skarvanes </em></p>
-<p>Inntakið á Sandoynni er sunnanfyri brattlendið áðrenn Skarvanes. Áðrenn inntakið er neyðugt at</p>
-<p>gera  ein  vanligan  tunnil  á  uml.  400m  inn  um  brattlendið  áðrenn  Skarvanes.  Tunnilin  er  lagdur</p>
-<p>beinleiðis til Sandvíkar við eini samlaðari longd á 22,2 km.</p>
-<p>Tunnilin samanlagt er styttri og bíligari enn loysn 0 og 1. Byggiplássið má mest sannlíkt vera á</p>
-<p>leið sama stað sum loysn 1.</p>
-<p>Ferðslan frá tunlinum skal gjøgnum Sandslíð og parti av Sands bygd. Í samferðsluætlanini 2018</p>
-<p>2030 frá Landsverk er ein  nøktandi  loysn  í Sandslíð  mett at  kosta 32-58 mio. kr. og er tilmæld</p>
-<p>tíðarætlan 2025, sum er væl áðrenn ein Suðuroyartunnil kann lata upp. Teinurin til Tórshavn úr</p>
-<p>Suðuroy er á leið 4 km longri enn loysn 0</p>
-<p>28</p>
-<p><em type="italic">6.3 Inntak norðanfyri Sands bygd </em></p>
-<p>Inntakið  á  Sandoynni  er  uml.  í  grótbrotinum  norðanfyri  Sands  bygd,  og tunnilin  verður  lagdur</p>
-<p>beinleiðis til Sandvíkar við eini longd á 25,2 km. Tunnilin er samanlagt styttri enn loysn 0, men</p>
-<p>longri enn loysn 1 og 2.</p>
-<p>Av serligum umhvørvisligum avbjóðingum kann nevnast at  inntak og arbeiðspláss á Sandoynni</p>
-<p>kemur  at  liggja  uppat  Sandsvatni  beint  hinumegin  landsvegin,  sum  óiva  má  umleggjast  í</p>
-<p>byggitíðini.</p>
-<p>29</p>
-<p><em type="italic">6.4 Inntak í Dali </em></p>
-<p>Hugt er eftir møguleikanum fyri at byrja tunnilin úr Dali, og tann loysnin gevur eina longd á uml.</p>
-<p>22,2  km,  sum  er  sama  longdin,  sum  loysn  2.  Um  hendan  loysnin  skal  vera  ein  møguleiki,  er</p>
-<p>neyðugt við einum tunli til Dals, og tann verkætlanin er farin í gongd. Dalstunnilin er planlagdur</p>
-<p>sum  ein  lágferðslutunnil,  og  er  ikki  mettur  at  vera  egnaður  sum  høvuðsfarleið  til  Suðuroyar.</p>
-<p>Eftirsum longdin er á leið tann sama, sum loysn 2, og tá ein broyttur Dalstunnil er ein fortreyt, er</p>
-<p>ikki gjørt meira við hendan møguleikan. Koyrda strekkið millum Suðuroynna og Havnina verður</p>
-<p>7,5 longri enn loysn 0.</p>
-<p>30</p>
-<p><em type="italic">6.5 Yvirlit yvir linjuføringarnar </em></p>
-<p>Øll  uppskotini  byggja  á,  at  ein  Sandvíkartunnil  (2,5  km)  verður  gjørdur  og  somuleiðis  ein</p>
-<p>umkoyringarveg um Sandvík og Hvalba. Hesar verkætlanirnar eru íroknaðar kostanaðarmetingar</p>
-<p>niðanfyri.</p>
+<p>Tunnilin samanlagt er styttri og bíligari enn loysn 0. Tunnilsmunnin á Sandoynni er so at siga í óbygdum, og gott pláss er til byggipláss og tilfar í byggitíðini.</p>
+<p>Ferðslan frá tunlinum skal gjøgnum Sandslíð og parti av Sands bygd. Í samferðsluætlanini 2018-2030 frá Landsverk er ein nøktandi loysn í Sandslíð mett at kosta 32-58 mio. kr. og er tilmæld tíðarætlan 2025, sum er væl áðrenn ein Suðuroyartunnil kann lata upp. Teinurin til Tórshavn úr</p>
+<p>Suðuroy er á leið 4 km longri enn loysn 0. 28 <em type="italic">6.2 Loysn við inntaki sunnanfyri brattlendi áðrenn Skarvanes </em></p>
+<p>Inntakið á Sandoynni er sunnanfyri brattlendið áðrenn Skarvanes. Áðrenn inntakið er neyðugt at gera ein vanligan tunnil á uml. 400m inn um brattlendið áðrenn Skarvanes. Tunnilin er lagdur beinleiðis til Sandvíkar við eini samlaðari longd á 22,2 km.</p>
+<p>Tunnilin samanlagt er styttri og bíligari enn loysn 0 og 1. Byggiplássið má mest sannlíkt vera á leið sama stað sum loysn 1.</p>
+<p>Ferðslan frá tunlinum skal gjøgnum Sandslíð og parti av Sands bygd. Í samferðsluætlanini 2018-2030 frá Landsverk er ein nøktandi loysn í Sandslíð mett at kosta 32-58 mio. kr. og er tilmæld tíðarætlan 2025, sum er væl áðrenn ein Suðuroyartunnil kann lata upp. Teinurin til Tórshavn úr</p>
+<p>Suðuroy er á leið 4 km longri enn loysn 0 29 <em type="italic">6.3 Inntak norðanfyri Sands bygd </em></p>
+<p>Inntakið á Sandoynni er uml. í grótbrotinum norðanfyri Sands bygd, og tunnilin verður lagdur beinleiðis til Sandvíkar við eini longd á 25,2 km. Tunnilin er samanlagt styttri enn loysn 0, men longri enn loysn 1 og 2.</p>
+<p>Av serligum umhvørvisligum avbjóðingum kann nevnast at inntak og arbeiðspláss á Sandoynni kemur at liggja uppat Sandsvatni beint hinumegin landsvegin, sum óiva má umleggjast í byggitíðini. 30 <em type="italic">6.4 Inntak í Dali </em></p>
+<p>Hugt er eftir møguleikanum fyri at byrja tunnilin úr Dali, og tann loysnin gevur eina longd á uml. 22,2 km, sum er sama longdin, sum loysn 2. Um hendan loysnin skal vera ein møguleiki, er neyðugt við einum tunli til Dals, og tann verkætlanin er farin í gongd. Dalstunnilin er planlagdur sum ein lágferðslutunnil, og er ikki mettur at vera egnaður sum høvuðsfarleið til Suðuroyar.</p>
+<p>Eftirsum longdin er á leið tann sama, sum loysn 2, og tá ein broyttur Dalstunnil er ein fortreyt, er ikki gjørt meira við hendan møguleikan. Koyrda strekkið millum Suðuroynna og Havnina verður 7,5 longri enn loysn 0. 31 <em type="italic">6.5 Yvirlit yvir linjuføringarnar </em></p>
+<p>Øll uppskotini byggja á, at ein Sandvíkartunnil (2,5 km) verður gjørdur og somuleiðis ein umkoyringarveg um Sandvík og Hvalba. Hesar verkætlanirnar eru íroknaðar kostanaðarmetingar niðanfyri.</p>
 <p>Á Sandoynni eru fleiri møguleikar innleiðandi mettir um:</p>
 <p><em type="bold">Loysn </em></p>
-<p><em type="bold">Undirsjóvartunnil Landtunnil Mettur kostnaður </em></p>
-<p xml:lang="dan">km km DKK mia.</p>
-<p>Inntak  norðanfyri  Sands  bygd  og  tunnil  umvegis</p>
-<p>Skúvoy. 26,1 - 3,4 - 3,6</p>
-<p>Inntak norðanfyri brattlendið áðrenn Skarvanes 22,8 - 3,0 - 3,2</p>
-<p>Inntak  sunnanfyri  brattlendið  áðrenn  Skarvanes.</p>
-<p>Stuttur landtunnil innum brattlendið 22,2 0,4 3,0 - 3,2</p>
-<p>Inntak norðanfyri Sands bygd  25,2 - 3,3 - 3.5</p>
-<p>Inntak í Dali 22,2 - 3,0 - 3,2</p>
-<p>31</p>
-<p><em type="bold">7. Jarðfrøði </em></p>
-<p>Fyri  at  meta  um  jarðfrøðina,  hevur  arbeiðsbólkurin  vent  sær  til  Jarðfeingi  og  norska</p>
-<p>granskingarstovnin  SINTEF,  sum  áður  hava  samstarvað  um  jarðfrøðiliga  ráðgeving  í</p>
+<p><em type="bold">Undirsjóvar- </em><em type="bold">tunnil </em></p>
+<p><em type="bold">Landtunnil </em></p>
+<p><em type="bold">Mettur </em><em type="bold">kostnaður </em>km km </p>
+<p xml:lang="dan">DKK mia. 0</p>
+<p>Inntak norðanfyri Sands bygd og tunnil umvegis Skúvoy. 26,1 - 3,4 - 3,6 1</p>
+<p>Inntak norðanfyri brattlendið áðrenn Skarvanes 22,8 - 3,0 - 3,2 2</p>
+<p>Inntak sunnanfyri brattlendið áðrenn Skarvanes. Stuttur landtunnil innum brattlendið 22,2 0,4 3,0 - 3,2 3</p>
+<p>Inntak norðanfyri Sands bygd 25,2 - 3,3 - 3.5 4</p>
+<p>Inntak í Dali 22,2 - 3,0 - 3,2 32 <em type="bold">7. Jarðfrøði </em></p>
+<p>Fyri at meta um jarðfrøðina, hevur arbeiðsbólkurin vent sær til Jarðfeingi og norska granskingarstovnin SINTEF, sum áður hava samstarvað um jarðfrøðiliga ráðgeving í</p>
 <p>Vágatunlinum, Norðoyatunlinum, Eysturoyartunlinum og Sandoyartunlinum.</p>
-<p>Tað er sera avmarkað við  jarðfrøðisligum kanningum  í økinum, og byggja  metingarnar  í stóran</p>
-<p>mun á yvirskipaðar jarðfrøðiligar skrásetingarnar.</p>
-<p>Munurin millum linjuføringarnar er í høvuðsheitum, at jú longri eystur tunnilsmunnin á Sandoynni</p>
-<p>verður  lagdur,  jú  størri  partur  av  tunlinum  kemur  at  liggja  í  ovastu  basaltfláunum.  Sambært</p>
+<p>Tað er sera avmarkað við jarðfrøðisligum kanningum í økinum, og byggja metingarnar í stóran mun á yvirskipaðar jarðfrøðiligar skrásetingarnar.</p>
+<p>Munurin millum linjuføringarnar er í høvuðsheitum, at jú longri eystur tunnilsmunnin á Sandoynni verður lagdur, jú størri partur av tunlinum kemur at liggja í ovastu basaltfláunum. Sambært</p>
 <p>Jarðfeingi, eru ovastu basaltfláirnar oftani tjúkkri fláir enn í mittastu basaltfláunum.</p>
-<p>Royndirnar frá Eysturoyartunlinum vísa tó, at so at siga eingin munur er í Eysturoyartunlinum á</p>
-<p>umfanginum  av  fjallatryggingini  í  ovastu  og  mittastu  basaltfláunum.  Komandi  ro yndirnar  frá</p>
+<p>Royndirnar frá Eysturoyartunlinum vísa tó, at so at siga eingin munur er í Eysturoyartunlinum á umfanginum av fjallatryggingini í ovastu og mittastu basaltfláunum. Komandi ro yndirnar frá</p>
 <p>Sandoyartunlinum verða eisini virðismiklar í sambandi við tunnilsgerð í ovastu basaltfláunum.</p>
-<p>Yvirhøvur verður neyðugt at gera jarðfrøðiligar  kanningar tíðliga í tilgongdini, fyri at fáa skrásett</p>
-<p>jarðfrøðina  neyvari.  Talan  verður  bæði  um  kjarnuboringar,  at  skjóta  seismik  og  at  skráseta</p>
-<p>havbotnin.</p>
+<p>Yvirhøvur verður neyðugt at gera jarðfrøðiligar kanningar tíðliga í tilgongdini, fyri at fáa skrásett jarðfrøðina neyvari. Talan verður bæði um kjarnuboringar, at skjóta seismik og at skráseta havbotnin.</p>
 <p>Samandráttur frá SINTEF er settur inn niðanfyri:</p>
-<p xml:lang="dan"><em type="italic">Mht. de geologiske vurderingene i kapittel 6 er det fremlagt ulike forslag til tunneltraseer. Disse </em></p>
-<p xml:lang="dan"><em type="italic">ligger både øst for, vest for og under Skyvøy. Fra vest og østover så vil tunnelen kunne dels drives </em></p>
-<p xml:lang="dan"><em type="italic">i den mellomste basaltserien og så i den øverste basaltserien mot øst. Den mellomste basaltserien </em></p>
-<p xml:lang="dan"><em type="italic">er  den  serien  i  den  basaltiske  lagpakken  som  Færøyene  består  av  som  er  mest  kjent  fra </em></p>
-<p xml:lang="dan"><em type="italic">tunneldriving, og som har vist seg vel egnet. Det er også drevet tunneler i den øverste basaltserien, </em></p>
-<p xml:lang="dan"><em type="italic">eksempelvis  deler  av  Eysturøytunnelen  og  deler  av  Sandøytunnelen  er  plassert  i  horisonter </em></p>
-<p xml:lang="dan"><em type="italic">tilhørende denne serien. Det er tillagt noe ekstra sikring i det som er planlagt drevet i den øverste </em></p>
-<p xml:lang="dan"><em type="italic">basaltserien i Sandøyatunnelen. </em></p>
-<p xml:lang="dan"><em type="italic">Man kan oppnå kortere tunnellengder ved å legge traseen mot øst, mens mulighetene for å få en </em></p>
-<p xml:lang="dan"><em type="italic">tilkopling til Skyvøy svekkes jo lenger øst man kommer ved at lengden på avgreningen til Skyvøy</em> </p>
-<p xml:lang="dan"><em type="italic">øker. Det er ikke gjort anstrengelser for å finne den absolutt korteste tunnellengden i foreliggende </em></p>
-<p xml:lang="dan"><em type="italic">notat, noen muligheter finnes; eksempelvis ved tilkoplingen mot vegnettet i dagen på Sudurøy. </em></p>
-<p>32</p>
-<p xml:lang="dan"><em type="italic">Så langt er det begrenset med undersøkelser som er gjort for dette prosjektet. Våre antakelser er </em></p>
-<p xml:lang="dan"><em type="italic">basert  på  rapporten  om  de  geologiske  forholdene  som  ble  utarbeidet  av  Johannes  Rasmussen, </em></p>
-<p xml:lang="dan"><em type="italic">samt diskusjoner med personer i Jardfeingi på Færøyene.</em> </p>
-<p>Jarðfeingi hevur gjørt eina jarðfrøðiliga plantekning, sum er víst niðanfyri:</p>
-<p>33</p>
-<p>34</p>
-<p><em type="bold">8. Trygd </em></p>
-<p>Fyri at fáa gjørt eina innleiðandi meting av trygdini ísv ein Suðuroyartunnil, hevur arbeiðsbólkurin</p>
-<p>vent sær til granskingarstovnin SINTEF í Noregi, sum hevur skrivað eina frágreiðing, og avrit av</p>
-<p>samandráttinum sæst niðanfyri:</p>
-<p xml:lang="dan"><em type="italic">Formål </em></p>
-<p xml:lang="dan"><em type="italic">Hensikten med dette oppdraget er å gi en vurdering av sikkerhet i tunneler for inntil 4 forslag til </em></p>
-<p xml:lang="dan"><em type="italic">tunnel linjeføringmellom Sandoy og Suduroy på Færøyene. </em></p>
-<p xml:lang="dan"><em type="italic">Tunnelen  blir  ettløps  og  etter  alt  å  dømme  et  sted  mellom  22  km  -26  km  lang.  Ett  alternativ </em></p>
-<p xml:lang="dan"><em type="italic">innebærer mulighet for en rømningsveg til en mindre øy omtrent midtveis, men det blir under alle </em></p>
-<p xml:lang="dan"><em type="italic">omstendigheter nødvendig å tenke utover reglene i de norske håndbøkene. Vurderingen innebærer </em></p>
-<p xml:lang="dan"><em type="italic">å se på hva som er mulig, og hvilke tiltak som kan tenkes være nødvendige, for at linjeføringen er </em></p>
-<p xml:lang="dan"><em type="italic">forsvarlig. Det er snakk om en lavtrafikkert tunnel, med estimert ÅDT ca 1600 kjt/døgn. Vurdering </em></p>
-<p xml:lang="dan"><em type="italic">av tunnelsikkerhet omfatter trafikksikkerhet, brannsikkerhet, rømning og geologi ved inntil 4 </em></p>
-<p xml:lang="dan"><em type="italic">forskjellige linjeføringer. </em></p>
-<p><em type="italic">Oppsummering </em></p>
-<p xml:lang="dan"><em type="italic">Kapittel 2 beskriver sikkerhet i tunnel på et generelt grunnlag. I den sammenheng er det viktig å </em></p>
-<p xml:lang="dan"><em type="italic">skille mellom trafikksikkerhet  og brannsikkerhet. Trafikksikkerhet  er beskrevet  i  5 og Kapittel 2 </em></p>
-<p xml:lang="dan"><em type="italic">fokuserer  mest  på  brannsikkerhet.  Det  er  mange  faktorer  som  spiller  inn  når  sikkerheten  skal </em></p>
-<p xml:lang="dan"><em type="italic">vurderes:  tunnelens  geometriske  utforming,  trafikkstrømsparametere,  sikkerhetsstyring, </em></p>
-<p xml:lang="dan"><em type="italic">trafikkstyring, overvåking, trafikantadferd og redningstjeneste.  </em></p>
-<p xml:lang="dan"><em type="italic">Selvredningsprisnippet er meget  sentralt ved hendelser som krever at  trafikantene må  evakuere </em></p>
-<p xml:lang="dan"><em type="italic">tunellen, f.eks. ved brann. Dette prinsippet innebærer at trafikanter i en tunnel skal kunne ta seg </em></p>
-<p xml:lang="dan"><em type="italic">ut av tunnelen på egen hånd, enten til fots eller i eget eller andres kjøretøy. En forutsetning er at </em></p>
-<p xml:lang="dan"><em type="italic">de som er involvert  i  en situasjon  som krever selvredning  må kjenne til dette prinsippet og den </em></p>
-<p xml:lang="dan"><em type="italic">faktiske faren vedkommende befinner seg i. Selvredningsprinsippet er i samsvar med EU-direktivet </em></p>
-<p xml:lang="dan"><em type="italic">og den norske tunnelsikkerhetsforskriften. I tunneler skal det være lagt til rette at folk skal kunne </em></p>
-<p xml:lang="dan">35 <em type="italic">komme  seg  ut  av  tunnelen  på  egen  hånd,  eller  overleve  i  tunnelen  dersom  det  oppstår  en </em></p>
-<p><em type="italic">brannsituasjon. </em></p>
-<p xml:lang="dan"><em type="italic">Skal selvredning fungere og trafikantene ha en reell sjanse til å gjennomføre evakuering i røykfylte </em></p>
-<p xml:lang="dan"><em type="italic">omgivelser på egen hånd, må tunnelen være konstruert og utstyrt med tekniske installasjoner som </em></p>
-<p xml:lang="dan"><em type="italic">vil gi hjelp og støtte til trafikantene i en nødssituasjon. Eksempel på tiltak som vil styrke evnen til </em></p>
-<p xml:lang="dan"><em type="italic">selvredning  er  bruk  av  automatisk  deteksjon  av  hendelse  slik  at  vi  sikrer  at  vi  oppdager  brann </em></p>
-<p xml:lang="dan"><em type="italic">tidlig  i  forløpet.  Bruk  av  innsnakk  med  høyttalere  sikrer  at  trafikantene  får  tidlig  varsling  av </em></p>
-<p xml:lang="dan"><em type="italic">hendelse  og  hvilke  farer  de  befinner  seg,  samt  instruksjon  om  å  starte  evakuering.  Visuelle  og </em></p>
-<p xml:lang="dan"><em type="italic">akustiske ledesystem kan ivareta selvredning. </em></p>
-<p xml:lang="dan"><em type="italic">Kapittel  3  inneholder  en  kort  beskrivelse  av  de  fire  alternativene  og  en  meget  forenklet </em></p>
-<p xml:lang="dan"><em type="italic">risikovurdering av de fire alternativene. Felles for alle alternativene er at de ikke er spesielt dype </em></p>
-<p xml:lang="dan"><em type="italic">og at tunnelen avsluttes i begge ender med stigninger på 5 % eller mindre. Det er ikke funnet noen </em></p>
-<p xml:lang="dan"><em type="italic">spesielle  fordeler  med  å  ta  tunnelen  opp  på  Skyvøy.  Det  bør  gjøres  en  mer  detaljert  kvalitativ </em></p>
-<p xml:lang="dan"><em type="italic">vurdering av de fire alternativene ved en mer detaljert gjennomgang av geometrien for de ulike </em></p>
-<p xml:lang="dan"><em type="italic">tunnelalternativene. </em></p>
-<p xml:lang="dan"><em type="italic">Kapittel  4  beskriver  ulike  tiltak  for  å  redusere  risiko  for  brann.  Dette  omfatter  både </em></p>
-<p xml:lang="dan"><em type="italic">brannforebyggende  tiltak,  f.eks.  slokkeutstyr  og  slokkeanlegg,  og  sannsynlighetsreduserende </em></p>
-<p xml:lang="dan"><em type="italic">tiltak. Mange av de tiltakene som hører til i den siste kategorien er beskrevet i kapittel 5. I tillegg </em></p>
-<p xml:lang="dan"><em type="italic">beskrives konsekvensreduserende tiltak. Dersom ulykken blir et faktum skal </em></p>
-<p xml:lang="dan"><em type="italic">konsekvensreduserende  tiltak  bidra  til  at  risiko  holdes  på  et  akseptabelt  nivå. </em></p>
-<p xml:lang="dan"><em type="italic">Konsekvensreduserende  branntekniske  tiltak  kan  deles  inn  i  to  typer:  aktive  og  passive.  Aktive </em></p>
-<p xml:lang="dan"><em type="italic">tiltak  starter  når  en  brann  bryter  ut  og  kan  være  for  eksempel  brannalarm,  slokkeanlegg, </em></p>
-<p xml:lang="dan"><em type="italic">branndører med dørlukkere, nødbelysning og røykventilering. Passive tiltak er generelt innbygget </em></p>
-<p xml:lang="dan"><em type="italic">i objekt med funksjon å kunne stå imot en brann under gitt tid, for eksempel brannskiller, overflater </em></p>
-<p xml:lang="dan"><em type="italic">med  god  brannmotstand,  branndører,  rømningsveier  i  egen  branncelle  og  utforming  av </em></p>
-<p xml:lang="dan"><em type="italic">bæresystemet. Notatet beskriver også etablering av sikre rømningsrom, enten sideplasserte rom </em></p>
-<p xml:lang="dan">36 <em type="italic">etablert 90 grader på tunnelaksen eller prefabrikerte redningskammer som plasser eksempelvis i </em></p>
-<p xml:lang="dan"><em type="italic">forlengelse av en havarilomme. </em></p>
-<p xml:lang="dan"><em type="italic">Kapittel 5 beskriver hvordan trafikken i tunellen vil variere over året, uken og døgnet. Risikoen </em></p>
-<p xml:lang="dan"><em type="italic">knyttet  til  en  uønsket  hendelse,  dvs.  sannsynligheten  for  at  hendelsen  skal  inntreffe  og </em></p>
-<p xml:lang="dan"><em type="italic">konsekvensen(e)  av  hendelsen,  henger  nøye  sammen  med  trafikkvolumet.  I  minste  time  vil  det </em></p>
-<p xml:lang="dan"><em type="italic">kunne være 5-6 kjøretøyer i timen som kjører gjennom tunellen og i største time vil det kunne være </em></p>
-<p xml:lang="dan"><em type="italic">godt over 300 kjøretøyer i timen (år 2050). Det vil si at forholdet mellom minste og største time er </em></p>
-<p xml:lang="dan"><em type="italic">ca. 1:60.  </em></p>
-<p xml:lang="dan"><em type="italic">Kapittel 5 beskriver videre en del trafikkregulerende tiltak som kan være aktuelle å innføre. Ingen </em></p>
-<p xml:lang="dan"><em type="italic">av disse tiltakene er spesielt kostnadskrevende og alle tiltakene har positive effekter på sikkerheten </em></p>
-<p xml:lang="dan"><em type="italic">til trafikanter i kjøretøyer i tunnelen.  </em></p>
-<p xml:lang="dan"><em type="italic">I dette kapitlet er det dokumentert behovet for å detektere hendelser og varsle trafikantene så raskt </em></p>
-<p xml:lang="dan"><em type="italic">som mulig. I den sammenheng kan tiltaket som inkluderer variabel skilting som sier at bilføreren </em></p>
-<p xml:lang="dan"><em type="italic">skal snu og kjøre ut igjen, være et viktig tiltak. Det beste er om trafikantene evner å kjøre forbi en </em></p>
-<p xml:lang="dan"><em type="italic">brann i en tidlig fase eller kan snu og kjøre ut før de er fanget i røyken. Etablering av snunisjer, </em></p>
-<p xml:lang="dan"><em type="italic">rundkjøringer eller snuplasser (bergrom) der også tunge kjøretøy og busser kan snu er viktig for </em></p>
-<p xml:lang="dan"><em type="italic">å ivareta evakuering med bil. Slike tiltak bør etableres ca. hver 4-6 km og utstyres med skilt der </em></p>
-<p xml:lang="dan"><em type="italic">det står <span type="quote">"Snu og kjør ut"</span>. Videre er tiltaket om å få kjøretøyene til å holde god avstand mellom seg </em></p>
-<p xml:lang="dan"><em type="italic">og forankjørende kjøretøy et viktig tiltak, både for å hindre påkjøring bakfra ulykker og å redusere </em></p>
-<p xml:lang="dan"><em type="italic">faren for spredning av brann fra kjøretøy til kjøretøy.  </em></p>
-<p xml:lang="dan"><em type="italic">Tunnelen  er  meget  lang  og  har  veldig  lange  strekninger  med  rett  horisontalkurvatur  som  vil </em></p>
-<p xml:lang="dan"><em type="italic">forsterke  bilførerens  oppfattelse  av  monotoni.  Derfor  er  det  viktig  at  denne  monotonien  brytes </em></p>
-<p xml:lang="dan"><em type="italic">gjennom endringer i tunnelprofil og lyssetting. Slike endringer i tunnelprofil kan også gjøre det </em></p>
-<p xml:lang="dan"><em type="italic">mulig for større kjøretøy/vogntog å snu i de tilfellene det er påkrevd.  </em></p>
-<p>37</p>
-<p xml:lang="dan"><em type="italic">Overvåking  av  fartsgrensen  er  også  et  rimelig  tiltak  som  kan  gi  meget  gode  effekter  mht. </em></p>
-<p xml:lang="dan"><em type="italic">trafikksikkerhet.  Erfaringene  fra  norske  tunneler  er  at  det  registreres  til  dels  meget  høye </em></p>
-<p xml:lang="dan"><em type="italic">hastigheter og mange kilometers rettstrekning vil nok øke risikoen for denne type uheldig kjøring. </em></p>
-<p xml:lang="dan"><em type="italic">Gjennomsnittsmåling, dvs. fotoboks ved inn- og utkjøring av tunnelen, vil være et effektivt tiltak.  </em></p>
-<p xml:lang="dan"><em type="italic">Begrensninger på transport av farlig gods er et tiltak som vil redusere konsekvensene dersom det </em></p>
-<p xml:lang="dan"><em type="italic">skjer  en  uønsket  hendelse  med  det  farlige  godset.  Eksempler  på  slike  begrensinger  kan  være </em></p>
-<p xml:lang="dan"><em type="italic">tidsbegrensninger,  f.eks.  transport  bare  om  natten  i  lavtrafikkperioder,  eller  det  kan  være </em></p>
-<p xml:lang="dan"><em type="italic">begrensninger på antall transporter med farlig gods på samme tid. Dette kan sammenlignes med </em></p>
-<p xml:lang="dan"><em type="italic">slot-tider i luftfarten. Førere av kjøretøy med farlig gods må søke om en tilgangstid til tunellen og </em></p>
-<p xml:lang="dan"><em type="italic">kontrollen  av  dette  systemet  kan  benytte  de  samme  fotoboksene  som  brukes  for  overvåking  av </em></p>
-<p xml:lang="dan"><em type="italic">fartsgrensen.  </em></p>
+<p xml:lang="dan"><em type="italic">Mht. de geologiske vurderingene i kapittel 6 er det fremlagt ulike forslag til tunneltraseer. Disse </em><em type="italic">ligger både øst for, vest for og under Skyvøy. Fra vest og østover så vil tunnelen kunne dels drives </em><em type="italic">i den mellomste basaltserien og så i den øverste basaltserien mot øst. Den mellomste basaltserien </em><em type="italic">er den serien i den basaltiske lagpakken som Færøyene består av som er mest kjent fra </em><em type="italic">tunneldriving, og som har vist seg vel egnet. Det er også drevet tunneler i den øverste basaltserien, </em><em type="italic">eksempelvis deler av Eysturøytunnelen og deler av Sandøytunnelen er plassert i horisonter </em><em type="italic">tilhørende denne serien. Det er tillagt noe ekstra sikring i det som er planlagt drevet i den øverste </em><em type="italic">basaltserien i Sandøyatunnelen. </em></p>
+<p xml:lang="dan"><em type="italic">Man kan oppnå kortere tunnellengder ved å legge traseen mot øst, mens mulighetene for å få en </em><em type="italic">tilkopling til Skyvøy svekkes jo lenger øst man kommer ved at lengden på avgreningen til Skyvøy </em><em type="italic">øker. Det er ikke gjort anstrengelser for å finne den absolutt korteste tunnellengden i foreliggende </em><em type="italic">notat, noen muligheter finnes; eksempelvis ved tilkoplingen mot vegnettet i dagen på Sudurøy. </em>33 </p>
+<p xml:lang="dan"><em type="italic">Så langt er det begrenset med undersøkelser som er gjort for dette prosjektet. Våre antakelser er </em><em type="italic">basert på rapporten om de geologiske forholdene som ble utarbeidet av Johannes Rasmussen, </em><em type="italic">samt diskusjoner med personer i Jardfeingi på Færøyene. </em></p>
+<p>Jarðfeingi hevur gjørt eina jarðfrøðiliga plantekning, sum er víst niðanfyri: 34 35 <em type="bold">8. Trygd </em></p>
+<p>Fyri at fáa gjørt eina innleiðandi meting av trygdini ísv ein Suðuroyartunnil, hevur arbeiðsbólkurin vent sær til granskingarstovnin SINTEF í Noregi, sum hevur skrivað eina frágreiðing, og avrit av samandráttinum sæst niðanfyri:</p>
+<p xml:lang="dan">Formål</p>
+<p xml:lang="dan"><em type="italic">Hensikten med dette oppdraget er å gi en vurdering av sikkerhet i tunneler for inntil 4 forslag til </em><em type="italic">tunnel linjeføringmellom Sandoy og Suduroy på Færøyene. </em></p>
+<p xml:lang="dan"><em type="italic">Tunnelen blir ettløps og etter alt å dømme et sted mellom 22 km -26 km lang. Ett alternativ </em><em type="italic">innebærer mulighet for en rømningsveg til en mindre øy omtrent midtveis, men det blir under alle </em><em type="italic">omstendigheter nødvendig å tenke utover reglene i de norske håndbøkene. Vurderingen innebærer </em><em type="italic">å se på hva som er mulig, og hvilke tiltak som kan tenkes være nødvendige, for at linjeføringen er </em><em type="italic">forsvarlig. Det er snakk om en lavtrafikkert tunnel, med estimert ÅDT ca 1600 kjt/døgn. Vurdering </em><em type="italic">av tunnelsikkerhet omfatter trafikksikkerhet, brannsikkerhet, rømning og geologi ved inntil 4 </em><em type="italic">forskjellige linjeføringer. </em></p>
+<p>Oppsummering</p>
+<p xml:lang="dan"><em type="italic">Kapittel 2 beskriver sikkerhet i tunnel på et generelt grunnlag. I den sammenheng er det viktig å </em><em type="italic">skille mellom trafikksikkerhet og brannsikkerhet. Trafikksikkerhet er beskrevet i 5 og Kapittel 2 </em><em type="italic">fokuserer mest på brannsikkerhet. Det er mange faktorer som spiller inn når sikkerheten skal </em><em type="italic">vurderes: tunnelens geometriske utforming, trafikkstrømsparametere, sikkerhetsstyring, </em><em type="italic">trafikkstyring, overvåking, trafikantadferd og redningstjeneste. </em></p>
+<p xml:lang="dan"><em type="italic">Selvredningsprisnippet er meget sentralt ved hendelser som krever at trafikantene må evakuere </em><em type="italic">tunellen, f.eks. ved brann. Dette prinsippet innebærer at trafikanter i en tunnel skal kunne ta seg </em><em type="italic">ut av tunnelen på egen hånd, enten til fots eller i eget eller andres kjøretøy. En forutsetning er at </em><em type="italic">de som er involvert i en situasjon som krever selvredning må kjenne til dette prinsippet og den </em><em type="italic">faktiske faren vedkommende befinner seg i. Selvredningsprinsippet er i samsvar med EU-direktivet </em><em type="italic">og den norske tunnelsikkerhetsforskriften. I tunneler skal det være lagt til rette at folk skal kunne </em>36 <em type="italic">komme seg ut av tunnelen på egen hånd, eller overleve i tunnelen dersom det oppstår en </em><em type="italic">brannsituasjon. </em></p>
+<p xml:lang="dan"><em type="italic">Skal selvredning fungere og trafikantene ha en reell sjanse til å gjennomføre evakuering i røykfylte </em><em type="italic">omgivelser på egen hånd, må tunnelen være konstruert og utstyrt med tekniske installasjoner som </em><em type="italic">vil gi hjelp og støtte til trafikantene i en nødssituasjon. Eksempel på tiltak som vil styrke evnen til </em><em type="italic">selvredning er bruk av automatisk deteksjon av hendelse slik at vi sikrer at vi oppdager brann </em><em type="italic">tidlig i forløpet. Bruk av innsnakk med høyttalere sikrer at trafikantene får tidlig varsling av </em><em type="italic">hendelse og hvilke farer de befinner seg, samt instruksjon om å starte evakuering. Visuelle og </em><em type="italic">akustiske ledesystem kan ivareta selvredning. </em></p>
+<p xml:lang="dan"><em type="italic">Kapittel 3 inneholder en kort beskrivelse av de fire alternativene og en meget forenklet </em><em type="italic">risikovurdering av de fire alternativene. Felles for alle alternativene er at de ikke er spesielt dype </em><em type="italic">og at tunnelen avsluttes i begge ender med stigninger på 5 % eller mindre. Det er ikke funnet noen </em><em type="italic">spesielle fordeler med å ta tunnelen opp på Skyvøy. Det bør gjøres en mer detaljert kvalitativ </em><em type="italic">vurdering av de fire alternativene ved en mer detaljert gjennomgang av geometrien for de ulike </em><em type="italic">tunnelalternativene. </em></p>
+<p xml:lang="dan"><em type="italic">Kapittel 4 beskriver ulike tiltak for å redusere risiko for brann. Dette omfatter både </em><em type="italic">brannforebyggende tiltak, f.eks. slokkeutstyr og slokkeanlegg, og sannsynlighetsreduserende </em><em type="italic">tiltak. Mange av de tiltakene som hører til i den siste kategorien er beskrevet i kapittel 5. I tillegg </em><em type="italic">beskrives </em><em type="italic">konsekvensreduserende </em><em type="italic">tiltak. </em></p>
+<p xml:lang="dan"><em type="italic">Dersom </em><em type="italic">ulykken </em><em type="italic">blir </em><em type="italic">et </em><em type="italic">faktum </em><em type="italic">skal </em><em type="italic">konsekvensreduserende tiltak bidra til at risiko holdes på et akseptabelt nivå. </em></p>
+<p xml:lang="dan"><em type="italic">Konsekvensreduserende branntekniske tiltak kan deles inn i to typer: aktive og passive. Aktive </em><em type="italic">tiltak starter når en brann bryter ut og kan være for eksempel brannalarm, slokkeanlegg, </em><em type="italic">branndører med dørlukkere, nødbelysning og røykventilering. Passive tiltak er generelt innbygget </em><em type="italic">i objekt med funksjon å kunne stå imot en brann under gitt tid, for eksempel brannskiller, overflater </em><em type="italic">med god brannmotstand, branndører, rømningsveier i egen branncelle og utforming av </em><em type="italic">bæresystemet. Notatet beskriver også etablering av sikre rømningsrom, enten sideplasserte rom </em>37 <em type="italic">etablert 90 grader på tunnelaksen eller prefabrikerte redningskammer som plasser eksempelvis i </em><em type="italic">forlengelse av en havarilomme. </em></p>
+<p xml:lang="dan"><em type="italic">Kapittel 5 beskriver hvordan trafikken i tunellen vil variere over året, uken og døgnet. Risikoen </em><em type="italic">knyttet til en uønsket hendelse, dvs. sannsynligheten for at hendelsen skal inntreffe og </em><em type="italic">konsekvensen(e) av hendelsen, henger nøye sammen med trafikkvolumet. I minste time vil det </em><em type="italic">kunne være 5-6 kjøretøyer i timen som kjører gjennom tunellen og i største time vil det kunne være </em><em type="italic">godt over 300 kjøretøyer i timen (år 2050). Det vil si at forholdet mellom minste og største time er </em><em type="italic">ca. 1:60. </em></p>
+<p xml:lang="dan"><em type="italic">Kapittel 5 beskriver videre en del trafikkregulerende tiltak som kan være aktuelle å innføre. Ingen </em><em type="italic">av disse tiltakene er spesielt kostnadskrevende og alle tiltakene har positive effekter på sikkerheten </em><em type="italic">til trafikanter i kjøretøyer i tunnelen. </em></p>
+<p xml:lang="dan"><em type="italic">I dette kapitlet er det dokumentert behovet for å detektere hendelser og varsle trafikantene så raskt </em><em type="italic">som mulig. I den sammenheng kan tiltaket som inkluderer variabel skilting som sier at bilføreren </em><em type="italic">skal snu og kjøre ut igjen, være et viktig tiltak. Det beste er om trafikantene evner å kjøre forbi en </em><em type="italic">brann i en tidlig fase eller kan snu og kjøre ut før de er fanget i røyken. Etablering av snunisjer, </em><em type="italic">rundkjøringer eller snuplasser (bergrom) der også tunge kjøretøy og busser kan snu er viktig for </em><em type="italic">å ivareta evakuering med bil. Slike tiltak bør etableres ca. hver 4-6 km og utstyres med skilt der </em><em type="italic">det står <span type="quote">"Snu og kjør ut"</span>. Videre er tiltaket om å få kjøretøyene til å holde god avstand mellom seg </em><em type="italic">og forankjørende kjøretøy et viktig tiltak, både for å hindre påkjøring bakfra ulykker og å redusere </em><em type="italic">faren for spredning av brann fra kjøretøy til kjøretøy. </em></p>
+<p xml:lang="dan"><em type="italic">Tunnelen er meget lang og har veldig lange strekninger med rett horisontalkurvatur som vil </em><em type="italic">forsterke bilførerens oppfattelse av monotoni. Derfor er det viktig at denne monotonien brytes </em><em type="italic">gjennom endringer i tunnelprofil og lyssetting. Slike endringer i tunnelprofil kan også gjøre det </em><em type="italic">mulig for større kjøretøy/vogntog å snu i de tilfellene det er påkrevd. </em>38 </p>
+<p xml:lang="dan"><em type="italic">Overvåking av fartsgrensen er også et rimelig tiltak som kan gi meget gode effekter mht. </em><em type="italic">trafikksikkerhet. Erfaringene fra norske tunneler er at det registreres til dels meget høye </em><em type="italic">hastigheter og mange kilometers rettstrekning vil nok øke risikoen for denne type uheldig kjøring. </em></p>
+<p xml:lang="dan"><em type="italic">Gjennomsnittsmåling, dvs. fotoboks ved inn- og utkjøring av tunnelen, vil være et effektivt tiltak. </em></p>
+<p xml:lang="dan"><em type="italic">Begrensninger på transport av farlig gods er et tiltak som vil redusere konsekvensene dersom det </em><em type="italic">skjer en uønsket hendelse med det farlige godset. Eksempler på slike begrensinger kan være </em><em type="italic">tidsbegrensninger, f.eks. transport bare om natten i lavtrafikkperioder, eller det kan være </em><em type="italic">begrensninger på antall transporter med farlig gods på samme tid. Dette kan sammenlignes med </em><em type="italic">slot-tider i luftfarten. Førere av kjøretøy med farlig gods må søke om en tilgangstid til tunellen og </em><em type="italic">kontrollen av dette systemet kan benytte de samme fotoboksene som brukes for overvåking av </em><em type="italic">fartsgrensen. </em></p>
 <p>Parturin av rapportini frá SINTEF um geologi verður tikið við í brotinum um jarðfrøði.</p>
-<p>Neyðugt verður at gera eina váðameting av trygdini í tunlinum tíðliga í tilgongdini, fyri neyvari at</p>
-<p>áseta hvat skal til, fyri at kunna gjøgnumføra tunnilsverkætlanina á ein tryggan hátt.</p>
-<p>38</p>
-<p><em type="bold">9. Umhvørvisatlit </em></p>
-<p>Ein so stór verkætlan kemur altíð at hava eina ávísa ávirkan á umhvørvið, og tí eigur so vítt gjørligt</p>
-<p>at  vera  tikið  hond  um  hesi  viðurskifti  tíðliga  í  tilgongdini.  Talan  er  fyrst  og  fremst  um</p>
-<p>byggitíðarskeiðið, tá eitt stórt byggipláss verður við hvønn munnan.</p>
-<p>Ávirkanin er í stóran mun støv, frárensl og larmur. Higartil hevur verið bygt eftir norskum reglum,</p>
-<p>og  hesar  hava  rímiliga  strong  krøv  til  fyribyrgjan  av  ávirkan  á  umhvørvið.  Serliga  eru  hesi</p>
-<p>viðurskiftini  ein  trupulleiki,  um  tunnilsmunnarnir  liggja  tætt  at  bygdum  øki,  ella  sárbærum</p>
-<p>umhvørvi, sum áum, vøtnum ella náttúruserstøkum økjum.</p>
-<p>Tá talan er um grót í so stórum nøgdum, sum talan er um ísv tunlar, verður oftani valt at gagnnýta</p>
-<p>grótið til uppfyllingar í vegagerð og útfylling á sjógv tætt við munnarnar, so tað m.a. slepst undan</p>
-<p>nógvari orkunýtslu og sliti av vegum og dekkum.</p>
-<p>Í sambandi við útfylling á sjógv hevur í seinastuni verið dentur lagdur á plast spreingileiðingar,</p>
-<p>sum í ein ávísan mun verða blandaðar í sprongt grót, og partvís útvaskaðar. Við dagsins tøkni er</p>
-<p>hetta okkum kunnugt leisturin, sum m.a. av trygdarávum verður nýttur til tunnilsspreinging, men</p>
-<p>eftirsum  hesin  trupulleiki  eisini  er  í  grannalondunum,  og  granskingarætlanir  eru  í  gongd,  kann</p>
-<p>hugsast at hendan avbjóðingin verður loyst, áðrenn arbeiðið byrjar.</p>
-<p>Spurningurin  um  gagnnýtsluna  av  grótinum  eigur  at  vera  tikin  við  í  arbeiðssetningin  fyri</p>
-<p>verkætlanina, so tað er ein yvirskipað semja um gagnnýtsluna, og tað tískil ikki gerst ein óvissa,</p>
-<p>sum fylgir verkætlanini, og leggur forðingar í vegin. Sprongda grótið hevur eitt ovurhonds stórt</p>
-<p>virði, og eigur tí at koma landinum til góðar, og tað tískil í ein vissan mun skuldi borið til at sloppi</p>
-<p>undan grótbrotum, tá tørvurin á gróti til ymsar verkætlanir vísir seg.</p>
-<p>39</p>
-<p><em type="bold">10. Kostnaðarmeting  </em></p>
-<p>Út  frá  gjøgnumgongdini  av  tunnilslinjum,  metir  arbeiðsbólkurin  at  tað  er  møguligt  at  gera  ein</p>
-<p>tunnil  av  Skarvanesi  til  Sandvíkar.  Ein  slíkur  tunnil  er  umleið  22,5  km.  langur.  Eystur-  og</p>
-<p>Sandoyartunnilin  kostar  umleið  120  mió.  fyri  kilometurin.  Í  hesum  kostnaði  eru  íroknaðir  allir</p>
-<p>kostnaðir, so sum, forkanningar, prosjektering, vegir og trygdarútgerð. Av tí at Suðuroyartunnilin</p>
-<p>er so langur kann roknast við at fleiri trygdartiltøk skulu í henda tunnilin og eru avsettar kr. 100</p>
-<p>mió. afturat til hetta. Eisini má nýggjur tunnil millum Hvalba og Sandvík gerast. Hesin er mettur</p>
-<p>at  verða  2,5  km.  langur  og  kosta  80  mió.  kr./km.  Kostnaðurin  fyri  Suðuroyartunnilin  fer  tí</p>
-<p>tilsamans at liggja um 3 mia. í dagsins peningi i 2019, umframt nakað til ókendar útreiðslur.</p>
-<p>Niðanfyri er ein mett afturgjaldstíð uppsett. Metingin er gjørd út frá hesum fyritreytum:</p>
-<p><em type="italic">10.1. Inntøkur </em></p>
-<p>Ferðslan er 1600 bilar um dagin í 2030 og veksur við 2,5% árliga. 91% eru persónbilar og 9% eru</p>
-<p>størri  akfør.  Prísurin  fyri  at  koyra  ígjøgnum  byggir  á  dagsins  ferðaseðlaprísir  við  Smyrli.</p>
-<p>Persónbilar  gjalda  kr.  112,5 og  lastbilar  kr.  500  fyri  stakar  túrar.  Hartil  letur  landið  ein  árligan</p>
-<p>rakstrarstuðul á kr. 75 mió., svarandi til játtanina á fíggjarlógini til Smyril til rakstur og klassing.</p>
-<p>Prísvøksturin er mettur til 2% um árið.</p>
-<p><em type="italic">10.2. Rakstrarkostnaður </em></p>
-<p>Rakstrarkostnaðurin av tunlinum er um kr. 33 mió. um árið, út frá rakstrarkostnaðinum fyri hvønn</p>
-<p>km. í Vága- og Norðoyatunlinum.</p>
-<p><em type="italic">10.3. Fíggjarkostnaður </em></p>
-<p>Lánsrentan er sett til 2,73%, sum svarar til rentuna hjá P/F Eystur- og Sandoyartunlar.</p>
-<p><em type="italic">Partapeningur </em></p>
-<p>Inngjaldi av partapeningi svarar til kostnaðin av at byggja ein nýggjan Smyril í dag, sum er mettur</p>
-<p>at kosta kr. 800 mió.</p>
-<p>40</p>
-<p>Netto lánsskuld</p>
-<p>3.200</p>
-<p>2.800</p>
-<p>2.400</p>
-<p>2.000</p>
-<p>1.600</p>
-<p>1.200</p>
-<p>-</p>
-<p>Við teimum fyritreytunum, sum nevndar eru omanfyri, vísur útrokningin at Suðuroyartunnilin er</p>
-<p>afturgoldin  umleið  18  ár  eftir  at  hann  letur  upp,  sum  hóskar  seg  væl  til  fígging  frá  t.d.</p>
-<p>eftirlønargrunnum. Tí kann sigast at fíggjarliga sær tað út til at bera til.</p>
-<p>Afturgjaldstíðin skal helst ikki fara út yvir 20 ár fyri at tekkjast fíggingarstovnum.</p>
-<p>41</p>
-<p><em type="bold">11. Tíðarætlan (tíðartørvur) </em></p>
-<p>Sum lýst omanfyri, er ikki skilagott, at landskassin átekur sær stórar fíggjarligar skyldur, fyrr enn</p>
-<p>fíggjarligi  váðin  av  verkætlanini  Eystur-  og  Sandoyartunnilin  er  munandi  minkaður,  í  mun  til  í</p>
-<p>dag.  Hetta  er  lutvíst  hent  nú  Eysturoyartunnilin  er  sprongdur  liðugur  og  lutvíst  seinni  tá</p>
-<p>Sandoyartunnilin (2021/22) er sprongdur ígjøgnum. Síðan minkar hann munandi meiri tá greiðar</p>
-<p>ábendingar eru um, at inntøkurnar frá tunnilsgjaldi verða sum væntað í Eysturoyartunlinum. Hetta</p>
-<p>er í fyrsta lagi 1-2 ár eftir at Eysturoyartunnilin er opnaður fyri ferðslu, vantandi fyri árslok 2020.</p>
-<p>Út frá omanfyristandandi skal ikki setast á at spreingja Suðuroyartunnilin fyrr enn í 2023. Hinvegin</p>
-<p>skal ikki byrjast so seint at bora Suðuroyartunnilin, at neyðugt verður at fáa annað skip til vega, tá</p>
-<p>ið Smyril ikki er egnaður til suðuroyarleiðina. Hetta fyri at kunna nýta íløguna, sum annars skal í</p>
-<p>ein  nýggjan  Smyril,  til  Suðuroyartunnilin.  Um  byrjað  verður  at  bora Suðuroyartunnilin  í  2023,</p>
-<p>kann møguliga væntast at koyrandi er til Suðuroyar í 2030. Tá er Smyril umleið 25 ár.</p>
-<p>Sjálvt spreingiarbeiði tekur umleið 5-6 ár um arbeiði gongur væl. Síðan skulu brúkast eini 2-3 ár</p>
-<p>til at gera tunnilin lidnan.</p>
-<p>Um  byrjast  skal  at  bora  tunnilin  í  2023,  er  alneyðugt  at  byrja  verður  beinanvegin  uppá</p>
-<p>fyrireikingarnar. Út frá møguligum linjuføringum skulu tær neyðugu jarðfrøðisligu kanningarnar</p>
-<p>gerast.  Her  er  bæði  talan  um  at  skjóta  og  tulka  seismik,  kjarnuboringar  og  aðrar  boringar.</p>
-<p>Prosjekteringin av verkætlanini, áðrenn útboð, tekur 1-2 ár.</p>
-<p>42</p>
-<p>Út frá omanfyristandandi kann ein tíðarætlan síggja nakað soleiðis út:</p>
-<p>43</p>
-<p><em type="bold">12. Tilmæli </em></p>
-<p>Fleiri týðandi samfelagsligir fyrimunir eru við einum Suðuroyartunli, fyrst og fremst fyri tey, sum</p>
-<p>búgva  í  Suðuroynni,  men  eisini  fyri  alt  landið,  tí  møguleikar  verða  at  heildarhugsa</p>
-<p>vælferðartænastur og marknaðir fyri bæði vørur og tænastur.</p>
+<p>Neyðugt verður at gera eina váðameting av trygdini í tunlinum tíðliga í tilgongdini, fyri neyvari at áseta hvat skal til, fyri at kunna gjøgnumføra tunnilsverkætlanina á ein tryggan hátt. 39 <em type="bold">9. Umhvørvisatlit </em></p>
+<p>Ein so stór verkætlan kemur altíð at hava eina ávísa ávirkan á umhvørvið, og tí eigur so vítt gjørligt at vera tikið hond um hesi viðurskifti tíðliga í tilgongdini. Talan er fyrst og fremst um byggitíðarskeiðið, tá eitt stórt byggipláss verður við hvønn munnan.</p>
+<p>Ávirkanin er í stóran mun støv, frárensl og larmur. Higartil hevur verið bygt eftir norskum reglum, og hesar hava rímiliga strong krøv til fyribyrgjan av ávirkan á umhvørvið. Serliga eru hesi viðurskiftini ein trupulleiki, um tunnilsmunnarnir liggja tætt at bygdum øki, ella sárbærum umhvørvi, sum áum, vøtnum ella náttúruserstøkum økjum.</p>
+<p>Tá talan er um grót í so stórum nøgdum, sum talan er um ísv tunlar, verður oftani valt at gagnnýta grótið til uppfyllingar í vegagerð og útfylling á sjógv tætt við munnarnar, so tað m.a. slepst undan nógvari orkunýtslu og sliti av vegum og dekkum.</p>
+<p>Í sambandi við útfylling á sjógv hevur í seinastuni verið dentur lagdur á plast spreingileiðingar, sum í ein ávísan mun verða blandaðar í sprongt grót, og partvís útvaskaðar. Við dagsins tøkni er hetta okkum kunnugt leisturin, sum m.a. av trygdarávum verður nýttur til tunnilsspreinging, men eftirsum hesin trupulleiki eisini er í grannalondunum, og granskingarætlanir eru í gongd, kann hugsast at hendan avbjóðingin verður loyst, áðrenn arbeiðið byrjar.</p>
+<p>Spurningurin um gagnnýtsluna av grótinum eigur at vera tikin við í arbeiðssetningin fyri verkætlanina, so tað er ein yvirskipað semja um gagnnýtsluna, og tað tískil ikki gerst ein óvissa, sum fylgir verkætlanini, og leggur forðingar í vegin. Sprongda grótið hevur eitt ovurhonds stórt virði, og eigur tí at koma landinum til góðar, og tað tískil í ein vissan mun skuldi borið til at sloppi undan grótbrotum, tá tørvurin á gróti til ymsar verkætlanir vísir seg. 40 <em type="bold">10. Kostnaðarmeting </em></p>
+<p>Út frá gjøgnumgongdini av tunnilslinjum, metir arbeiðsbólkurin at tað er møguligt at gera ein tunnil av Skarvanesi til Sandvíkar. Ein slíkur tunnil er umleið 22,5 km. langur. Eystur- og</p>
+<p>Sandoyartunnilin kostar umleið 120 mió. fyri kilometurin. Í hesum kostnaði eru íroknaðir allir kostnaðir, so sum, forkanningar, prosjektering, vegir og trygdarútgerð. Av tí at Suðuroyartunnilin er so langur kann roknast við at fleiri trygdartiltøk skulu í henda tunnilin og eru avsettar kr. 100 mió. afturat til hetta. Eisini má nýggjur tunnil millum Hvalba og Sandvík gerast. Hesin er mettur at verða 2,5 km. langur og kosta 80 mió. kr./km. Kostnaðurin fyri Suðuroyartunnilin fer tí tilsamans at liggja um 3 mia. í dagsins peningi i 2019, umframt nakað til ókendar útreiðslur.</p>
+<p>Niðanfyri er ein mett afturgjaldstíð uppsett. Metingin er gjørd út frá hesum fyritreytum: <em type="italic">10.1. Inntøkur </em>Ferðslan er 1600 bilar um dagin í 2030 og veksur við 2,5% árliga. 91% eru persónbilar og 9% eru størri akfør. Prísurin fyri at koyra ígjøgnum byggir á dagsins ferðaseðlaprísir við Smyrli. </p>
+<p>Persónbilar gjalda kr. 112,5 og lastbilar kr. 500 fyri stakar túrar. Hartil letur landið ein árligan rakstrarstuðul á kr. 75 mió., svarandi til játtanina á fíggjarlógini til Smyril til rakstur og klassing.</p>
+<p>Prísvøksturin er mettur til 2% um árið. <em type="italic">10.2. Rakstrarkostnaður </em>Rakstrarkostnaðurin av tunlinum er um kr. 33 mió. um árið, út frá rakstrarkostnaðinum fyri hvønn km. í Vága- og Norðoyatunlinum. <em type="italic">10.3. Fíggjarkostnaður </em>Lánsrentan er sett til 2,73%, sum svarar til rentuna hjá P/F Eystur- og Sandoyartunlar. </p>
+<p><em type="italic">Partapeningur </em>Inngjaldi av partapeningi svarar til kostnaðin av at byggja ein nýggjan Smyril í dag, sum er mettur at kosta kr. 800 mió. 41 </p>
+<p>Við teimum fyritreytunum, sum nevndar eru omanfyri, vísur útrokningin at Suðuroyartunnilin er afturgoldin umleið 18 ár eftir at hann letur upp, sum hóskar seg væl til fígging frá t.d. eftirlønargrunnum. Tí kann sigast at fíggjarliga sær tað út til at bera til.</p>
+<p>Afturgjaldstíðin skal helst ikki fara út yvir 20 ár fyri at tekkjast fíggingarstovnum. - 400 800 1.200 1.600 2.000 2.400 2.800 3.200202220232024202520262027202820292030203120322033203420352036203720382039204020412042204320442045204620472048</p>
+<p>Mió</p>
+<p>Netto lánsskuld 42 <em type="bold">11. Tíðarætlan (tíðartørvur) </em></p>
+<p>Sum lýst omanfyri, er ikki skilagott, at landskassin átekur sær stórar fíggjarligar skyldur, fyrr enn fíggjarligi váðin av verkætlanini Eystur- og Sandoyartunnilin er munandi minkaður, í mun til í dag. Hetta er lutvíst hent nú Eysturoyartunnilin er sprongdur liðugur og lutvíst seinni tá</p>
+<p>Sandoyartunnilin (2021/22) er sprongdur ígjøgnum. Síðan minkar hann munandi meiri tá greiðar ábendingar eru um, at inntøkurnar frá tunnilsgjaldi verða sum væntað í Eysturoyartunlinum. Hetta er í fyrsta lagi 1-2 ár eftir at Eysturoyartunnilin er opnaður fyri ferðslu, vantandi fyri árslok 2020.</p>
+<p>Út frá omanfyristandandi skal ikki setast á at spreingja Suðuroyartunnilin fyrr enn í 2023. Hinvegin skal ikki byrjast so seint at bora Suðuroyartunnilin, at neyðugt verður at fáa annað skip til vega, tá ið Smyril ikki er egnaður til suðuroyarleiðina. Hetta fyri at kunna nýta íløguna, sum annars skal í ein nýggjan Smyril, til Suðuroyartunnilin. Um byrjað verður at bora Suðuroyartunnilin í 2023, kann møguliga væntast at koyrandi er til Suðuroyar í 2030. Tá er Smyril umleið 25 ár.</p>
+<p>Sjálvt spreingiarbeiði tekur umleið 5-6 ár um arbeiði gongur væl. Síðan skulu brúkast eini 2-3 ár til at gera tunnilin lidnan.</p>
+<p>Um byrjast skal at bora tunnilin í 2023, er alneyðugt at byrja verður beinanvegin uppá fyrireikingarnar. Út frá møguligum linjuføringum skulu tær neyðugu jarðfrøðisligu kanningarnar gerast. Her er bæði talan um at skjóta og tulka seismik, kjarnuboringar og aðrar boringar.</p>
+<p>Prosjekteringin av verkætlanini, áðrenn útboð, tekur 1-2 ár. 43</p>
+<p>Út frá omanfyristandandi kann ein tíðarætlan síggja nakað soleiðis út: 44 <em type="bold">12. Tilmæli </em></p>
+<p>Fleiri týðandi samfelagsligir fyrimunir eru við einum Suðuroyartunli, fyrst og fremst fyri tey, sum búgva í Suðuroynni, men eisini fyri alt landið, tí møguleikar verða at heildarhugsa vælferðartænastur og marknaðir fyri bæði vørur og tænastur.</p>
 <p>Niðurstøðan hjá hesum arbeiðsbólki byggir í stóran mun á royndirnar frá byggingini av Eystur- og</p>
-<p>Sandoyartunlunum  og  nakrar  yvirskipaðar  greiningar  og  metingar  frá  serfrøðingum  í  trygd  í</p>
-<p>tunlum, jarðfrøðingum og fólkum, sum eru køn í at leggja tunnilslinjur.</p>
-<p>Byggingin  av  einum  tunli  til  Suðuroyar  minnir  nógv  um  verkætlanina  at  byggja  Eystur-  og</p>
-<p>Sandoyartunnilin.  Størstu  váðarnir  eru  teir  somu.  Trygd,  jarðfrøði  og  fígging.  Eisini  eru</p>
-<p>verkætlanirnar um somu stødd í bygging og kostnaði, um rætt verður farið fram og verkætlanin</p>
-<p>verður  tillagað  føroysk  viðurskiftir.  Umráðandi  er,  áðrenn  farið  verður  í  gongd,  at  allir  týðandi</p>
-<p>váðar viðv. Eysturoyartunlinum (inntøkurnar) og Sandoyartunlinum (jarðfrøðin), eru kendar.</p>
-<p>Tá fyrireikingin til hesa verkætlanina fer í gongd, er umráðandi at fáa omanfyri nevndu váðar niður</p>
-<p>á eitt nøktandi støði. Váðarnir eru lýstir í hesum tilmæli, og hvussu fyrireikingarnar av verkætlanini</p>
-<p>kunnu  leggjast  til  rættis.  Viðmerkjast  skal  at  hetta  er  ein  innleiðandi  kanning  og  tí  skulu</p>
-<p>niðurstøðurnar takast við tí fyrivarni, at neyvari kanningar skulu gerast.</p>
-<p>Innleiðandi metingin vísir, at bíligast og nøktandi er við einum tunli av Skarvanesi til Sandvíkar,</p>
-<p>sum  er  stytsta  leið.  Ein  slíkur  tunnil  er  um  22,5  km  langur.  Helst  er  ikki  neyðugt  við  eini</p>
-<p>rýmingarleið upp í Skúgvi, um onnur trygdartiltøk verða sett í verk ístaðin. Heldur ikki er nakað,</p>
-<p>sum  tíðir  uppá,  at tað  jarðfrøðiliga  eru  nakrar  forðingar  fyri  at  gera  ein  Suðuroyartunnilin.  Ein</p>
-<p>slíkur  tunnil  kemur  væntandi  at  ganga  ígjøgnum  somu  jarðfrøðiligu  løg,  sum  aðrir  tunlar  í</p>
-<p>Føroyum eru bygdir í. Við dagsins tøkni átti hetta at latið seg gjørt.</p>
-<p>44</p>
-<p>Út  frá  royndunum  frá  Eystur-  og  Sandoyartunlunum,  kostar  ein  slíkur  undirsjóvar  tunnil,  alt</p>
-<p>íroknað umleið kr. 120 mió. fyri kilometurin. Harafturat skal roknast við nakað av eyka kostnaði</p>
-<p>fyri eyka trygd, umframt ein nýggjan tunnil millum Sandvík og Hvalba. Í dagsins peningi liggur</p>
-<p>hetta á umleið 3,0 til 3,2 mia. Harafturat verður roknað við, at verandi játtan til Suðuroyarleiðina</p>
-<p>á fíggjarlógini verður nýtt til tunnilin í afturgjaldstíðini. Tað vil siga, at tá tunnilin er afturgoldin,</p>
-<p>er ikki neyðugt við játtan til suðuroyarleiðina á fíggjarlógini. Eisini íløgupeningurin til ein nýggjan</p>
-<p>Smyril skal nýtast til partapening í tilmælta partafelagnum, sum skal standa fyri verkætlanini. Við</p>
-<p>verandi rentustøði, liggur afturgjaldingin av einum slíkum tunli undir 20 ár við brúkara gjaldi, eftir</p>
-<p>at tunnilin er tikin í brúk. Tá er eisini roknað við einum ella øðrum slagi av landskassatrygd, eins</p>
-<p>og í Eystur- og Sandoyartunlunum.</p>
-<p>Um farast skal undir at byggja Suðuroyartunnilin eftir at Sandoyartunnilin er liðugur, skulu</p>
-<p>fyrireikingarnar byrja beinanvegin. Minnast skal til, at tað bert ber til at skjóta seismikk um</p>
-<p>summarið og er tað tí skjótt, at eitt ár gongur uttan at nakað hendir. Væntandi tekur tað eini 7-8</p>
-<p>ár at gera tunnilin, eftir at borurin er settur í, og tí verður tunnilin liðugur í fyrsta lagi 2030, um</p>
-<p>arbeitt verður skjótt. Tá er Smyril næstan 25 ára gamal og neyvan í sama standi sum í dag. Mælt</p>
-<p>verður tí til at gera eina verklagslóg og stovna eitt alment partafelag skjótast og seta partapening</p>
-<p>í felagið so farast kann undir neyðugu forkanningarnar og fyrireikingarnar. Tá tær eru komnar</p>
-<p>longur, kann støða takast til um farast skal undir verkætlanina.</p>
-<p>45</p>
-<p><em type="bold">13. Keldur: </em></p>
+<p>Sandoyartunlunum og nakrar yvirskipaðar greiningar og metingar frá serfrøðingum í trygd í tunlum, jarðfrøðingum og fólkum, sum eru køn í at leggja tunnilslinjur.</p>
+<p>Byggingin av einum tunli til Suðuroyar minnir nógv um verkætlanina at byggja Eystur- og</p>
+<p>Sandoyartunnilin. Størstu váðarnir eru teir somu. Trygd, jarðfrøði og fígging. Eisini eru verkætlanirnar um somu stødd í bygging og kostnaði, um rætt verður farið fram og verkætlanin verður tillagað føroysk viðurskiftir. Umráðandi er, áðrenn farið verður í gongd, at allir týðandi váðar viðv. Eysturoyartunlinum (inntøkurnar) og Sandoyartunlinum (jarðfrøðin), eru kendar.</p>
+<p>Tá fyrireikingin til hesa verkætlanina fer í gongd, er umráðandi at fáa omanfyri nevndu váðar niður á eitt nøktandi støði. Váðarnir eru lýstir í hesum tilmæli, og hvussu fyrireikingarnar av verkætlanini kunnu leggjast til rættis. Viðmerkjast skal at hetta er ein innleiðandi kanning og tí skulu niðurstøðurnar takast við tí fyrivarni, at neyvari kanningar skulu gerast.</p>
+<p>Innleiðandi metingin vísir, at bíligast og nøktandi er við einum tunli av Skarvanesi til Sandvíkar, sum er stytsta leið. Ein slíkur tunnil er um 22,5 km langur. Helst er ikki neyðugt við eini rýmingarleið upp í Skúgvi, um onnur trygdartiltøk verða sett í verk ístaðin. Heldur ikki er nakað, sum tíðir uppá, at tað jarðfrøðiliga eru nakrar forðingar fyri at gera ein Suðuroyartunnilin. Ein slíkur tunnil kemur væntandi at ganga ígjøgnum somu jarðfrøðiligu løg, sum aðrir tunlar í</p>
+<p>Føroyum eru bygdir í. Við dagsins tøkni átti hetta at latið seg gjørt. 45</p>
+<p>Út frá royndunum frá Eystur- og Sandoyartunlunum, kostar ein slíkur undirsjóvar tunnil, alt íroknað umleið kr. 120 mió. fyri kilometurin. Harafturat skal roknast við nakað av eyka kostnaði fyri eyka trygd, umframt ein nýggjan tunnil millum Sandvík og Hvalba. Í dagsins peningi liggur hetta á umleið 3,0 til 3,2 mia. Harafturat verður roknað við, at verandi játtan til Suðuroyarleiðina á fíggjarlógini verður nýtt til tunnilin í afturgjaldstíðini. Tað vil siga, at tá tunnilin er afturgoldin, er ikki neyðugt við játtan til suðuroyarleiðina á fíggjarlógini. Eisini íløgupeningurin til ein nýggjan</p>
+<p>Smyril skal nýtast til partapening í tilmælta partafelagnum, sum skal standa fyri verkætlanini. Við verandi rentustøði, liggur afturgjaldingin av einum slíkum tunli undir 20 ár við brúkara gjaldi, eftir at tunnilin er tikin í brúk. Tá er eisini roknað við einum ella øðrum slagi av landskassatrygd, eins og í Eystur- og Sandoyartunlunum.</p>
+<p>Um farast skal undir at byggja Suðuroyartunnilin eftir at Sandoyartunnilin er liðugur, skulu fyrireikingarnar byrja beinanvegin. Minnast skal til, at tað bert ber til at skjóta seismikk um summarið og er tað tí skjótt, at eitt ár gongur uttan at nakað hendir. Væntandi tekur tað eini 7-8 ár at gera tunnilin, eftir at borurin er settur í, og tí verður tunnilin liðugur í fyrsta lagi 2030, um arbeitt verður skjótt. Tá er Smyril næstan 25 ára gamal og neyvan í sama standi sum í dag. Mælt verður tí til at gera eina verklagslóg og stovna eitt alment partafelag skjótast og seta partapening í felagið so farast kann undir neyðugu forkanningarnar og fyrireikingarnar. Tá tær eru komnar longur, kann støða takast til um farast skal undir verkætlanina. 46 <em type="bold">13. Keldur: </em></p>
 <p xml:lang="dan">Den trafikale infrastrukturs betydning, Dansk Industri, mars 2016</p>
-<p xml:lang="dan">Tom  E.  Markussen  Hanne  Samstad,    Nyttekostnadsanalyse  som  prioriteringsgrunnlag  for</p>
-<p xml:lang="dan">infrastrukturinvesteringer i Nordland, TØI rapport 527/2001</p>
+<p xml:lang="dan">Tom E. Markussen Hanne Samstad, Nyttekostnadsanalyse som prioriteringsgrunnlag for infrastrukturinvesteringer i Nordland, TØI rapport 527/2001</p>
 <p>Suni á Dalbø og Ólavur W. Høgnesen, Vágatunnilin – ein lýsing, Vága , Vinnufelag 1997</p>
 <p xml:lang="dan">Transportkommissionen – betænkning, Grønlands selvstyre, januar 2011</p>
 <p>Hagstova Føroya, hagtalsgrunnurin</p>
-<p xml:lang="dan">Prosjekt  Notat:  Sikkerher  i  Suðuroyartunnilin,  Vurdering  af  sikkrhet  i  alternative</p>
-<p xml:lang="dan">tunneltranceer mellem Sandoy og Suduroy på Færøerne. SINTEF 29.05.2019</p>
+<p xml:lang="dan">Prosjekt Notat: Sikkerher i Suðuroyartunnilin, Vurdering af sikkrhet i alternative tunneltranceer mellem Sandoy og Suduroy på Færøerne. SINTEF 29.05.2019</p>
 <p>Linjuføringar Suðuroyartunnilin: Landsbyggifelagið. Mei 2019.</p>
 <p>Jarðfrøðin í Suðuroyartunlinum: Jarðfeingi Turid Madsen og Bartal Højgaard. Mei 2019.</p>
 <p>Samferðsluætlan 2018-2030 Landsverk 2019</p>
-<p>46</p>
 </body></document>

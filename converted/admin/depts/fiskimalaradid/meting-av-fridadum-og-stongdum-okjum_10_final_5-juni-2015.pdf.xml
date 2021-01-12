@@ -1,210 +1,788 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6257</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>meting-av-friðaðum-og-stongdum-økjum_10_final_5-juni-2015.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Meting av friðaðum og stongdum økjum </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6515</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>meting-av-friðaðum-og-stongdum-økjum_10_final_5-juni-2015.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Meting av friðaðum og stongdum økjum </em></p>
 <p><em type="bold">Frágreiðing til Fiskimálaráðið </em></p>
-<p xml:lang="deu"><em type="bold">November 2014 </em></p>
+<p xml:lang="deu"><em type="bold">November 2014 </em>2 3 </p>
 <p xml:lang="isl"><em type="bold">Innihaldsyvirlit </em></p>
-<p xml:lang="isl">Inngangur</p>
-<p>1. Almenn meting av friðaðum og stongdum økjum</p>
-<p>2. Meting av, um  friðingarnar/stongdu økini  eru nøktandi í stovnsverndarhøpi</p>
-<p>3. Meting av í hvønn mun friðingarnar/stongdu økini ávirka veiðitrýstið</p>
-<p>4. Meting av, um  friðingarnar/stongdu økini í nøktandi mun til at</p>
-<p>gagna verndini av vistfrøðini og margfeldinum á Landgrunninum</p>
-<p>5. Meting av, um friðingarnar/stongdu økini eru nøktandi</p>
-<p>í mun til uppbýtið millum trol/húk, gørn/húk og størri/smærri fiskifør</p>
-<p>6. Meting um skipanina við bráðfeingis veiðibanni</p>
-<p xml:lang="fin">Ískoyti</p>
-<p xml:lang="isl"><em type="bold">Inngangur</em> </p>
-<p>Í samgonguskjalinum stendur, at</p>
-<p xml:lang="vep"><em type="italic"><span type="quote">“Havstovan ger, saman við vinnuni, árinskanningar og lýsir, hvussu friðingar hava ávirkað stongdu økini”</span>. </em></p>
-<p>Fiskimálaráðið  tulkar  hetta  brotið  í  samgonguskjalinum  soleiðis,  at  Havstovuni  verður  álagt,  saman  við vinnuni,  at  gera  kanningar  og  lýsingar  av  skipanini  viðvíkjandi  friðaðum  og  stongdum  økjum  á  føroyska landgrunninum  alment,  og  serliga  tá  tað  snýr  seg  um  árinið  fiskiskapur  hevur  á  botnlívið,  í  øðrum  lagi hvussu  skipanin  við  friðaðum  ella  stongdum  økjum  ávirkar  fiskiskapin,  og  í  triðja  lagi  um  skipanin  við friðaðum  ella  stongdum  økjum  er  nøktandi  í  uppbýtinum  av  Landgrunninum  millum  trol,  gørn  og  húk. Fiskimálaráðið leggur afturat, at talan er eisini um at kanna gagnið av bráðfeingis veiðibanni.</p>
-<p><em type="bold">Arbeiðssetningur  </em></p>
-<p>Við  grundarlagi  í  omanfyri  nevnda,  verða  Havstovan,  Vinnan  og  Fiskiveiðieftirlitið  biðin  um  at  gera  eina meting  av  verandi  skipan  við  friðaðum/stongdum  økjum.  Havstovan  leiðir  hetta  arbeiðið.  Metingin  skal  í minsta lagi fevna um hesar spurdómar:</p>
-<p>1. Almenn  meting  av  friðaðum  og  stongdum  økjum  sum  amboð  í  okkara  skipan  av  fiskiveiði  á</p>
-<p>Landgrunninum,  her  íroknað  allar  ringarnar  (6  fj.,  12.fj.,  ringurin  millum  innaru  og  ytru fiskidagaleið).</p>
-<p>2. Meting av, um  friðingarnar/stongdu økini  eru nøktandi í stovnsverndarhøpi, t.v.s. at gýtingarleiðir,</p>
-<p>uppvakstrarøkir, ungfiskaleiðir o.t. verða nóg væl vard.</p>
-<p>3. Meting av í hvønn mun friðingarnar/stongdu økini ávirka veiðitrýstið alment og serliga veiðitrýstið á</p>
-<p>toska-, hýsu- og upsastovnin.</p>
-<p>4. Meting  av,  um  friðingarnar/stongdu  økini  í  nøktandi  mun  gagna  verndini  av  vistfrøðini  og</p>
-<p>margfeldinum á Landgrunninum. Serliga verður hugsað um vernd av botnlívinum.</p>
-<p>5. Meting av, um friðingarnar/stongdu økini eru nøktandi í mun til uppbýtið millum trol/húk, gørn/húk</p>
-<p>og størri/smærri fiskifør.</p>
-<p>6. Metast skal somuleiðis um skipanina við bráðfeingis veiðibanni  (real time closures).</p>
-<p>Metingarnar  í  arbeiðssetninginum  verða  gjørdar  í  mun  til  best  møguligu  gagnnýtslu  av  tilfeinginum  á grunnunum á aðrari síðuni og vernd av stovnum og vistfrøðiligum margfeldi á hinari.</p>
-<p>Frágreiðing verður skrivað um metingarnar. Í frágreiðingini kann verða skotið upp undirbygdar broytingar í verandi skipan við friðaðum/stongdum økjum og/ella skjóta upp nýggj økir at friða/steingja.</p>
+<p xml:lang="isl">Inngangur 4 1.</p>
+<p>Almenn meting av friðaðum og stongdum økjum 6 2.</p>
+<p>Meting av, um friðingarnar/stongdu økini eru nøktandi í stovnsverndarhøpi 11 3.</p>
+<p>Meting av í hvønn mun friðingarnar/stongdu økini ávirka veiðitrýstið 22 4.</p>
+<p>Meting av, um friðingarnar/stongdu økini í nøktandi mun til at gagna verndini av vistfrøðini og margfeldinum á Landgrunninum 24 5.</p>
+<p>Meting av, um friðingarnar/stongdu økini eru nøktandi í mun til uppbýtið millum trol/húk, gørn/húk og størri/smærri fiskifør 25 6.</p>
+<p>Meting um skipanina við bráðfeingis veiðibanni 26</p>
+<p xml:lang="fin">Ískoyti 28 4</p>
+<p><em type="bold">Inngangur </em>Í samgonguskjalinum stendur, at <em type="italic"><span type="quote">“Havstovan ger, saman við vinnuni, árinskanningar og lýsir, hvussu friðingar hava ávirkað stongdu økini”</span>. </em></p>
+<p>Fiskimálaráðið tulkar hetta brotið í samgonguskjalinum soleiðis, at Havstovuni verður álagt, saman við vinnuni, at gera kanningar og lýsingar av skipanini viðvíkjandi friðaðum og stongdum økjum á føroyska landgrunninum alment, og serliga tá tað snýr seg um árinið fiskiskapur hevur á botnlívið, í øðrum lagi hvussu skipanin við friðaðum ella stongdum økjum ávirkar fiskiskapin, og í triðja lagi um skipanin við friðaðum ella stongdum økjum er nøktandi í uppbýtinum av Landgrunninum millum trol, gørn og húk. Fiskimálaráðið leggur afturat, at talan er eisini um at kanna gagnið av bráðfeingis veiðibanni.</p>
+<p><em type="bold">Arbeiðssetningur </em></p>
+<p>Við grundarlagi í omanfyri nevnda, verða Havstovan, Vinnan og Fiskiveiðieftirlitið biðin um at gera eina meting av verandi skipan við friðaðum/stongdum økjum. Havstovan leiðir hetta arbeiðið. Metingin skal í minsta lagi fevna um hesar spurdómar: 1.</p>
+<p>Almenn meting av friðaðum og stongdum økjum sum amboð í okkara skipan av fiskiveiði á Landgrunninum, her íroknað allar ringarnar (6 fj., 12.fj., ringurin millum innaru og ytru fiskidagaleið). 2.</p>
+<p>Meting av, um friðingarnar/stongdu økini eru nøktandi í stovnsverndarhøpi, t.v.s. at gýtingarleiðir, uppvakstrarøkir, ungfiskaleiðir o.t. verða nóg væl vard. 3.</p>
+<p>Meting av í hvønn mun friðingarnar/stongdu økini ávirka veiðitrýstið alment og serliga veiðitrýstið á toska-, hýsu- og upsastovnin. 4.</p>
+<p>Meting av, um friðingarnar/stongdu økini í nøktandi mun gagna verndini av vistfrøðini og margfeldinum á Landgrunninum. Serliga verður hugsað um vernd av botnlívinum. 5.</p>
+<p>Meting av, um friðingarnar/stongdu økini eru nøktandi í mun til uppbýtið millum trol/húk, gørn/húk og størri/smærri fiskifør. 6.</p>
+<p>Metast skal somuleiðis um skipanina við bráðfeingis veiðibanni (real time closures).</p>
+<p>Metingarnar í arbeiðssetninginum verða gjørdar í mun til best møguligu gagnnýtslu av tilfeinginum á grunnunum á aðrari síðuni og vernd av stovnum og vistfrøðiligum margfeldi á hinari.</p>
+<p>Frágreiðing verður skrivað um metingarnar. Í frágreiðingini kann verða skotið upp undirbygdar broytingar í verandi skipan við friðaðum/stongdum økjum og/ella skjóta upp nýggj økir at friða/steingja. 5</p>
 <p><em type="bold">Arbeiðsbólkurin </em></p>
 <p>Í arbeiðsbólkinum hava verið</p>
 <p>Eilif Gaard, Havstovan Absalon í Buð, Meginfelag Útróðrarmanna Andreas Dam, Felagið Línuskip Dánjal í Skálum, Felagið Trolskip Herálvur Joensen, Føroya Reiðarafelag Jákup Reinert, Havstovan Jóhan Simonsen, VØRN Luis Ridao, Havstovan Petur Steingrund, Havstovan Ulla Svarrer Wang, Fiskimálaráðið</p>
-<p>Arbeiðsbólkurin hevur viðgjørt punktini 1-6 hvørt sær og lýsir tey í somu raðfylgju í hesari frágreiðing, sum tey  eru  nevnd  í  arbeiðssetninginum.  Harumframt  hevur  bólkurin  uppskot  til  broytingar  í  verandi  skipan, serliga viðvíkjandi gýtingar- og uppvakstrarøkjum.</p>
-<p>Nøkur av punktunum eru ikki viðgjørd til fulnar í tráð við arbeiðssetningin: Ávirkanin  av  friðingunum/stongdu  økjunum  á  veiðutrýstið  á  toska-,  hýsu-  og  upsastovnin  er  ikki kvantifiserað. Í staðin er mett um, hvussu nógv tær stongdu leiðirnar ávirka stovnsstøddina hjá toski, hýsu og upsa. Punkt 4, ið er um vernd av vistfrøðini, er ikki lýst, av tí at vitan ikki finnst at svara hesum spurningi.</p>
-<p>Arbeiðsbólkurin  mælir  til,  at  punkt  5,  ið  er  um  uppbýti  millum  reiðskap,  verður  viðgjørt  víðari  í  størri vinnuligum forum. Samansetingin í arbeiðsbólkinum er soleiðis, at hann ikki einsamallur kann veita vissu, at øll áhugamál eru komin til orðanna. Mælt verður til, at Fiskimálaráðið, saman við einari breiðari umboðan fyri fiskivinnuna og øðrum viðkomandi pørtum, sum skjótast tekur stig til at viðgera tað víðari.</p>
-<p><em type="bold">1. Almenn meting av friðaðum og stongdum økjum </em></p>
+<p>Arbeiðsbólkurin hevur viðgjørt punktini 1-6 hvørt sær og lýsir tey í somu raðfylgju í hesari frágreiðing, sum tey eru nevnd í arbeiðssetninginum. Harumframt hevur bólkurin uppskot til broytingar í verandi skipan, serliga viðvíkjandi gýtingar- og uppvakstrarøkjum.</p>
+<p>Nøkur av punktunum eru ikki viðgjørd til fulnar í tráð við arbeiðssetningin: Ávirkanin av friðingunum/stongdu økjunum á veiðutrýstið á toska-, hýsu- og upsastovnin er ikki kvantifiserað. Í staðin er mett um, hvussu nógv tær stongdu leiðirnar ávirka stovnsstøddina hjá toski, hýsu og upsa. Punkt 4, ið er um vernd av vistfrøðini, er ikki lýst, av tí at vitan ikki finnst at svara hesum spurningi.</p>
+<p>Arbeiðsbólkurin mælir til, at punkt 5, ið er um uppbýti millum reiðskap, verður viðgjørt víðari í størri vinnuligum forum. Samansetingin í arbeiðsbólkinum er soleiðis, at hann ikki einsamallur kann veita vissu, at øll áhugamál eru komin til orðanna. Mælt verður til, at Fiskimálaráðið, saman við einari breiðari umboðan fyri fiskivinnuna og øðrum viðkomandi pørtum, sum skjótast tekur stig til at viðgera tað víðari. 6 <em type="bold">1. Almenn meting av friðaðum og stongdum økjum </em></p>
 <p>Stongdu leiðirnar eru partur av stýringini av føroysku fiskiveiðuni, saman við fiskidagaskipanini, meskavídd, rist og reglum um hjáveiðu og undirmálsfisk/ungfisk.</p>
 <p>Eisini eru reglur um bráðfeingis veiðubann, um ov stórur partur av veiðuni er ungfiskur ella um hjáveiðan er ov stór.</p>
-<p>Fyrstu stongdu leiðirnar í føroyskum øki stava frá seinast í 1970-árunum. Síðani tá eru økini stigvíst víðkað munandi, eins og tíðaravmarkað veiðubann er økt. Stongdu leiðirnar fevna nú um 11.500 km, ið er umleið 60% av Landgrunninum grynri enn 200 m.  Leiðirnar eru stongdar ávís tíðarskeið á árinum ella fyri ávísum reiðskapum. Ongar leiðir eru stongdar fyri allari veiðu alt árið.</p>
-<p>Trolveiða er ikki loyvd innan fyri 12 fjórðingar úr grundlinjunum og á øðrum stongdum leiðum uttan fyri 12 fjórðingar.  Tí  eru  stór  øki grynri  enn  200 m  stongd  fyri  trolveiðu.Undantikið  eru  smærri  trolbátar  (bólkur 4T), ið hava loyvi at veiða flatfisk í ávísum økjum á Landgrunninum innan fyri 12 fjórðingar um summarið.</p>
+<p>Fyrstu stongdu leiðirnar í føroyskum øki stava frá seinast í 1970-árunum. Síðani tá eru økini stigvíst víðkað munandi, eins og tíðaravmarkað veiðubann er økt. Stongdu leiðirnar fevna nú um 11.500 km2, ið er umleið 60% av Landgrunninum grynri enn 200 m. Leiðirnar eru stongdar ávís tíðarskeið á árinum ella fyri ávísum reiðskapum. Ongar leiðir eru stongdar fyri allari veiðu alt árið.</p>
+<p>Trolveiða er ikki loyvd innan fyri 12 fjórðingar úr grundlinjunum og á øðrum stongdum leiðum uttan fyri 12 fjórðingar. Tí eru stór øki grynri enn 200 m stongd fyri trolveiðu.Undantikið eru smærri trolbátar (bólkur 4T), ið hava loyvi at veiða flatfisk í ávísum økjum á Landgrunninum innan fyri 12 fjórðingar um summarið.</p>
 <p>Økið innan fyri 6 fjórðingar úr grundlinjunum er stongt fyri størri línuskipunum (bólkur 3). Garnaveiða eftir havtasku er bert loyvd á leiðum djypri enn 380 m botndýpi og eftir svartkalva djypri enn 500 m botndýpi.</p>
-<p>Fleiri endamál eru við stongdu leiðunum. Eitt av endamálunum er at skilja reiðskap sundur. Eitt annað er at verja  gýtandi  fisk  og  ungfisk.  Eisini  er  eitt  endamál  við  stongdu  leiðunum  fyri  troling  at  minka  um veiðutrýstið á toska-, hýsu- og upsastovnarnar, við at flyta fiskiskapin út á djypri øki.</p>
-<p>Á næstu síðunum er tikið samanum ávikavist gýtingarfriðingarnar, tær trolstongdu leiðirnar og troling eftir flatfiski innan fyri 12 fjórðingar, sum eru galdandi í 2014. Nærri viðgerð er í kapitlunum 2, 3, 5 og 6.</p>
-<p xml:lang="isl"><em type="italic">1.1. Gýtingarfriðingar </em></p>
-<p>Økini, sum eru stongd fyri fiskiskapi í gýtingartíð, eru víst á mynd 1.1. Økini eru frámerkt við bókstavum, og á talvu 1.1 er nærri frágr</p>
+<p>Fleiri endamál eru við stongdu leiðunum. Eitt av endamálunum er at skilja reiðskap sundur. Eitt annað er at verja gýtandi fisk og ungfisk. Eisini er eitt endamál við stongdu leiðunum fyri troling at minka um veiðutrýstið á toska-, hýsu- og upsastovnarnar, við at flyta fiskiskapin út á djypri øki.</p>
+<p>Á næstu síðunum er tikið samanum ávikavist gýtingarfriðingarnar, tær trolstongdu leiðirnar og troling eftir flatfiski innan fyri 12 fjórðingar, sum eru galdandi í 2014. Nærri viðgerð er í kapitlunum 2, 3, 5 og 6. 7 <em type="italic">1.1. </em></p>
+<p xml:lang="isl"><em type="italic">Gýtingarfriðingar </em></p>
+<p>Økini, sum eru stongd fyri fiskiskapi í gýtingartíð, eru víst á mynd 1.1. Økini eru frámerkt við bókstavum, og á talvu 1.1 er nærri frágreiðing um tey einstøku økini.</p>
 <p xml:lang="isl">Mynd 1.1. Stongdar gýtingarleiðir</p>
 <p>Talva 1.1. Gýtingarfriðingar, tíðarskeið og viðmerkingar um reiðskap v.m., ið friðingin er galdandi fyri.</p>
-<p><em type="bold">Øki Tíðarskeið, ið er friðað Viðmerkingar Skipað við kunngerð Galdandi síðani </em></p>
-<p xml:lang="nno"><em type="bold"> </em>15. februar - 31 </p>
-<p xml:lang="isl">mars Undantikið snellu og garnaveiðu eftir havtasku</p>
-<p xml:lang="nno"><em type="bold"> </em>15. februar - 15. </p>
-<p>apríl Línufør  yvir  80  tons.  Undantikið  størri  før  enn 80 tons uttan egningarmaskinu</p>
-<p><em type="bold"> </em>1. februar - 1. apríl Undantikið snellu og garnaveiðu eftir havtasku  <em type="bold"> </em>15. januar - 15. mai Trolveiða ikki loyvd  <em type="bold"> </em>15. februar - 15. </p>
-<p>apríl Undantikið veiðu við snellu, snøri og tráðu</p>
-<p xml:lang="nno"><em type="bold"> </em>15. februar - 15. </p>
-<p xml:lang="isl">apríl Øll veiða</p>
-<p><em type="bold"> </em>15. januar - 1. apríl Línuveiða undantikin  <em type="bold"> </em>1. mars - 1. mai Øll veiða  </p>
-<p><em type="italic">1.2. Øki stongd fyri trolveiðu </em></p>
-<p>Mynd  1.2  vísir  eitt  yvirlit  yvir  stongdu  leiðirnar,  sum  er  galdandi  í  dag.  Hvørt  økið  er  merkt  við  einum bókstavi og tíðarskeiðini, tá tey eru stongd, eins og áramálið tey hava verið í gildi, eru víst í talvu 1.2.</p>
-<p>Samlaða  víddin  á  stongdu  leiðunum  (bæði  fyri  troling  og  fyri  allan  reiðskap  í  gýtingartíð)  millum  12 fjórðingar  og  tann  sokallaða  ringin  (3  fiskidagar  uttan  fyri  ringin  telja  sum  1  fiskidagur  innan  fyri  ringin), hevur verið vaksandi síðani 1985. Økingin var serliga stór í tíðarskeiðinum 1990-1994. Síðan er víddin økt so líðandi til 1997, og hevur verið lítið broytt síðani.</p>
+<p><em type="bold">Øki </em></p>
+<p><em type="bold">Tíðarskeið, ið er </em><em type="bold">friðað </em></p>
+<p xml:lang="isl"><em type="bold">Viðmerkingar </em></p>
+<p><em type="bold">Skipað við kunngerð </em></p>
+<p><em type="bold">Galdandi síðani </em><em type="bold">1 </em>15. februar - 31 mars </p>
+<p>Undantikið snellu og garnaveiðu eftir havtasku 1998 <em type="bold">2 </em>15. februar - 15. apríl </p>
+<p>Línufør yvir 80 tons. Undantikið størri før enn 80 tons uttan egningarmaskinu 1998 <em type="bold">3 </em>1. februar - 1. apríl </p>
+<p>Undantikið snellu og garnaveiðu eftir havtasku 1998 <em type="bold">4 </em>15. januar - 15. mai </p>
+<p>Trolveiða ikki loyvd 1998 <em type="bold">5 </em>15. februar - 15. apríl </p>
+<p>Undantikið veiðu við snellu, snøri og tráðu 1998 <em type="bold">6 </em>15. februar - 15. apríl </p>
+<p>Øll veiða 1998 <em type="bold">7 </em>15. januar - 1. apríl </p>
+<p>Línuveiða undantikin 1998 <em type="bold">8 </em>1. mars - 1. mai </p>
+<p>Øll veiða 1998 8 <em type="italic">1.2. </em></p>
+<p><em type="italic">Øki stongd fyri trolveiðu </em></p>
+<p>Mynd 1.2 vísir eitt yvirlit yvir stongdu leiðirnar, sum er galdandi í dag. Hvørt økið er merkt við einum bókstavi og tíðarskeiðini, tá tey eru stongd, eins og áramálið tey hava verið í gildi, eru víst í talvu 1.2.</p>
+<p>Samlaða víddin á stongdu leiðunum (bæði fyri troling og fyri allan reiðskap í gýtingartíð) millum 12 fjórðingar og tann sokallaða ringin (3 fiskidagar uttan fyri ringin telja sum 1 fiskidagur innan fyri ringin), hevur verið vaksandi síðani 1985. Økingin var serliga stór í tíðarskeiðinum 1990-1994. Síðan er víddin økt so líðandi til 1997, og hevur verið lítið broytt síðani.</p>
 <p>Mynd 1.2. Øki stongd fyri trolveiðu</p>
 <p>Talva 1.2. Galdandi trolstongd øki, tíðarskeið á árinum og hvussu leingi økini hava verið stongd</p>
-<p><em type="bold">Øki Tíðarskeið Galdandi síðani Skipað við lóg </em></p>
+<p><em type="bold">Øki </em></p>
+<p><em type="bold">Tíðarskeið </em></p>
+<p><em type="bold">Galdandi síðani </em></p>
+<p><em type="bold">Skipað við lóg </em></p>
 <p xml:lang="isl"><em type="bold">Viðmerkingar </em></p>
-<p><em type="bold">Innan fyri 12 fj. </em>Alt árið  Trolveiða er tó </p>
-<p>loyvd við serloyvi</p>
-<p><em type="bold">a </em>1. juni - 31. august   <em type="bold">B </em>20. januar - 1. mars   <em type="bold">E </em>1. apríl - 31. januar   <em type="bold">M </em>1. februar - 1. juni  Skipað við </p>
-<p>kunngerð</p>
-<p xml:lang="nob"><em type="bold">A, C, D, F, G, H, I, J, K, L, T, U </em></p>
-<p>Alt árið  T og U - 2009</p>
-<p xml:lang="isl"><em type="bold"> P, R, S </em>Alt árið  Skipað við kunngerð </p>
-<p>Fiskifør við ≥500 HK maskinorku. Partroling ella dupulttrol er ikki loyvt.  Fiskifør við ≥500 HK maskinorku, og partrolarar.</p>
-<p><em type="italic">1.3. Trolveiða innan fyri 12 fjórðingar </em></p>
+<p><em type="bold">Innan fyri 12 fj. </em></p>
+<p xml:lang="isl">Alt árið 1996</p>
+<p>Trolveiða er tó loyvd við serloyvi <em type="bold">a </em>1. juni - 31. august 1996 </p>
+<p xml:lang="nob"><em type="bold">B </em>20. januar - 1. mars 1996 </p>
+<p xml:lang="isl"><em type="bold">E </em>1. apríl - 31. januar 1996 </p>
+<p xml:lang="nob"><em type="bold">M </em>1. februar - 1. juni 2005 </p>
+<p>Skipað við kunngerð</p>
+<p xml:lang="nob"><em type="bold">A, C, D, F, G, H, </em></p>
+<p xml:lang="est"><em type="bold">I </em><em type="bold">1, J1, K, L, T, U </em></p>
+<p xml:lang="isl">Alt árið 1996</p>
+<p xml:lang="nob">T og U - 2009</p>
+<p xml:lang="est"><em type="bold">P, R </em><em type="bold">2, S2 </em></p>
+<p xml:lang="isl">Alt árið 2005</p>
+<p>Skipað við kunngerð 1 Fiskifør við ≥500 HK maskinorku. Partroling ella dupulttrol er ikki loyvt. 2 Fiskifør við ≥500 HK maskinorku, og partrolarar. 9 <em type="italic">1.3. Trolveiða innan fyri 12 fjórðingar </em></p>
 <p>Fiskifør, sum eru 120 bruttotons og minni og sum hava serloyvi (bólkur 4T), kunnu trola eftir flatfiski innan fyri 12 fjórðingar úr grundlinjunum um summarið. Trolingin er avmarkað til økini, sum eru víst á mynd 1.3. Hvørt øki er frámerkt við bókstavi, og tíðarskeiðini fyri hvørt øki, har loyvt er at trola, er víst í talvu 1.3.</p>
-<p>Mynd 1.3. Økini, har loyvt er at trola eftir flatfiski innan fyri 12 fjórðingar. Ringurin við frámerkinum 4, vísir markið millum innaru og ytru fiskidagaleiðir.</p>
+<p>Mynd 1.3. Økini, har loyvt er at trola eftir flatfiski innan fyri 12 fjórðingar. Ringurin við frámerkinum 4, vísir markið millum innaru og ytru fiskidagaleiðir. 10</p>
 <p>Talva 1.3. Tíðarskeiðini fyri hvørt øki, har loyvt er at trola eftir flatfiski innan fyri 12 fjórðingar.</p>
-<p><em type="bold">Øki Tíðarskeið, ið loyvt er at trola Skipað við kunngerð Galdandi síðani </em></p>
-<p xml:lang="nob"><em type="bold">A1 </em>1. juni - 17. juli og  </p>
-<p xml:lang="est">1. august - 7. september</p>
-<p xml:lang="nob"><em type="bold">A2 </em>24. mai – 17. juli og </p>
-<p xml:lang="est">1. august – 7. september</p>
-<p xml:lang="nob"><em type="bold">B </em>24. mai - 17. juli og </p>
-<p xml:lang="est">1. august - 7. september</p>
-<p xml:lang="nob"><em type="bold">C </em>1. juni – 17. juli  <em type="bold">D1 </em>24. mai - 17. juli og  </p>
-<p xml:lang="est">1. august - 7. September</p>
-<p xml:lang="nob"><em type="bold">D2 </em>1. juni – 8. Juli  <em type="bold">E </em>24. mai - 17. juli og  </p>
-<p xml:lang="est">1. august - 7. september</p>
-<p xml:lang="nob"><em type="bold">F </em>1. juni – 8. juli  <em type="bold">G </em>24. mai - 17. juli og  </p>
-<p xml:lang="est">1. august - 7. september</p>
-<p xml:lang="nob"><em type="bold">H </em>1. juni – 1. juli   <em type="bold">I </em>24. mai - 17. juli og  </p>
-<p xml:lang="est">1. august - 7. september</p>
-<p xml:lang="nob"><em type="bold">J </em>24. mai - 17. juli og  </p>
-<p>1. august - 7. september <em type="bold">2.  Meting  av,  um  friðingarnar/stongdu  økini    eru  nøktandi  í  stovnsverndarhøpi,  t.v.s.  at gýtingarleiðir, uppvakstrarøkir, ungfiskaleiðir o.t. verða nóg væl vard </em></p>
-<p><em type="italic">Útgreining av útbreiðsluni hjá toski, hýsu og upsa í mun til stongdar leiðir </em></p>
-<p><em type="italic">Mannagongd</em>.  Magnus  Heinason  hevur  gjørt  yvirlitstrolingar  í  mong  ár  á  ymsum  støðum  á  føroyska </p>
-<p>landgrunninum og á Føroyabanka, har útgerðin hevur verið tann sama øll ár, og har hálini, á ein tíma, eru tikin á sama staði og somu árstíðir øll árini. Taltilfarið byggir á hesar yvirlitstrolingar.</p>
-<p>- Í februar-mars eru 100 hál um árið á Landgrunninum í 1994-2014 og 29 hál um árið á Føroyabanka frá 1996-2014, tó ikki í 2004-2005.</p>
-<p>-  Í august eru 200 hál um árið á Landgrunninum í 1996-2014 og 29 hál um árið á Føroyabanka í 19962014.</p>
-<p>Tal á fiski (ávikavist toski, hýsu og upsa) pr. cm støddarbólk er lagt saman fyri øll árini fyri hvørja av hesum støðunum. Onkur ár bar ikki til at taka ávísar støðir, og aðrar støðir vóru, um møguligt, tiknar í  staðin. Tá myndir av útbreiðsluni vórðu gjørdar, vóru bert støðir við, har fleiri enn 5 hál høvdu verið.</p>
-<p>Taltilfarið er bólkað upp í fiskastøddir (&lt;59 cm, 60-69 cm og &gt;70 cm) og eisini upp í ungfisk (toskur &lt;50 cm, hýsa  &lt;45  cm,  upsi  &lt;55  cm)  og  vaksnan  fisk  (restin),  og  búnan  fisk  (á  Landgrunninum:  toskur  ≥45  cm, hýsa≥37 cm, upsi ≥62 cm; á Føroyabanka: toskur ≥68 cm, hýsa ≥40 cm, upsi ≥64 cm) og óbúnan fisk (restin). Mørkini  fyri  búnan/óbúnan  fisk  vórðu  fingin  við  at  samanbera  longdarbýtini  fyri  búnan  og  óbúnan  fisk  í prøvunum í mars, har upplýsingar um búningarstig vóru tøkir. Legg til merkis, at toskur er rættiliga smáur, tá hann gerst kynsbúgvin.</p>
-<p>Fyri hvørja trolstøð hjá Magnusi Heinasyni varð funnið fram til, hvat stongt øki støðin hoyrdi til (kassarnar 18  um  várið,  kassarnar  A-U  um  heystið)  og  støðir  uttan  fyri  hesar  leiðir  vórðu  bólkaðar  undir  einum  sum ’rest’.  Síðani  var  tal  av  fiski  í  hvørjum  háli  roknað  út  í  ávikavist  stongdum  og  opnum  økju.  Útbreiðslan  í stongdum/opnum økjum er roknað sum eitt miðaltal av fiski pr tóv í tí ávísa økinum vektað við víddini (km) á økinum, og  víst  í prosentum. Í onkrum stongdum øki hevði Magnus Heinason einki trolhál. Slík øki, t.d. kassi <span type="quote" xml:lang="est">“K”</span>, kundu tí av góðum grundum ikki viðgerast. Arealið í teimum er lagt undir ‘rest’, tó ikki arealið í Kassa B, sum liggur so langt frá øðrum fiskileiðum. Økið fyri Landgrunnin varð ásett at vera grynri enn 600 metrar, meðan økið á Føroyabanka varð ásett at vera grynri enn 700 metrar.</p>
-<p><em type="italic">Úrslit</em>.  Sum  greitt  frá  fyrst  í  hesum  riti,  hava  friðingarnar  ymisk  endamál.  Um várið  er  endamálið mest  at </p>
-<p>tryggja, at toskur og upsi fáa umstøður til at gýta. Við tað at fiskurin stendur tættur undir gýting, og tí er lættur at fiska, virka gýtingarfri</p>
-<p>Í  februar-mars  vóru  53%  av  tí  búna  toskinum  á  Landgrunninum  staddur  uttan  fyri  tey  stongdu  økini  fyri gýtandi fisk. Kassanir 1 og 5 vardu best tann búna toskin (Talva 2.1 og Mynd 2.1). Nærum eingin óbúgvin toskur var í teimum friðaðu gýtingarkøssunum. Gýtingarfriðingarnar hóskaðu illa til hýsu, við tað at 84% av teirri búnu hýsuni á Landgrunninum var uttan fyri tey stongdu økini (Talva 2.1 og Mynd 2.2). Meginparturin av upsanum, bæði tí búna og óbúna, var eisini uttan fyri gýtingarfriðingarnar (Talva 2.1 og Mynd 2.3). Tað skal  viðmerkjast,  at  høvuðsgýtingin  hjá  upsa  er  í  februar,  og  tí  fær  Magnus  Heinason  bert  um  endan  á gýtingini, tá yvirlitstrolingarnar um várið verða gjørdar.</p>
+<p><em type="bold">Øki </em></p>
+<p><em type="bold">Tíðarskeið, ið loyvt er at trola </em></p>
+<p><em type="bold">Skipað við kunngerð </em></p>
+<p><em type="bold">Galdandi síðani </em></p>
+<p xml:lang="nob"><em type="bold">A1 </em>1. juni - 17. juli og 1. august - 7. september 2010 </p>
+<p xml:lang="nob"><em type="bold">A2 </em>24. mai – 17. juli og 1. august – 7. september 2010 </p>
+<p xml:lang="nob"><em type="bold">B </em>24. mai - 17. juli og 1. august - 7. september 2010 </p>
+<p xml:lang="kal"><em type="bold">C </em>1. juni – 17. juli 2010 </p>
+<p xml:lang="nob"><em type="bold">D1 </em>24. mai - 17. juli og 1. august - 7. September 2010 </p>
+<p xml:lang="kal"><em type="bold">D2 </em>1. juni – 8. Juli 2010 </p>
+<p xml:lang="nno"><em type="bold">E </em>24. mai - 17. juli og 1. august - 7. september 2010 </p>
+<p><em type="bold">F </em>1. juni – 8. juli 2010 </p>
+<p xml:lang="nob"><em type="bold">G </em>24. mai - 17. juli og 1. august - 7. september 2010 </p>
+<p xml:lang="kal"><em type="bold">H </em>1. juni – 1. juli 2010 </p>
+<p xml:lang="nob"><em type="bold">I </em>24. mai - 17. juli og 1. august - 7. september 2010 </p>
+<p><em type="bold">J </em>24. mai - 17. juli og 1. august - 7. september 2010 11 <em type="bold">2. Meting av, um friðingarnar/stongdu økini eru nøktandi í stovnsverndarhøpi, t.v.s. at gýtingarleiðir, uppvakstrarøkir, ungfiskaleiðir o.t. verða nóg væl vard </em></p>
+<p>Útgreining av útbreiðsluni hjá toski, hýsu og upsa í mun til stongdar leiðir</p>
+<p><em type="italic">Mannagongd </em>. Magnus Heinason hevur gjørt yvirlitstrolingar í mong ár á ymsum støðum á føroyska landgrunninum og á Føroyabanka, har útgerðin hevur verið tann sama øll ár, og har hálini, á ein tíma, eru tikin á sama staði og somu árstíðir øll árini. Taltilfarið byggir á hesar yvirlitstrolingar. - </p>
+<p>Í februar-mars eru 100 hál um árið á Landgrunninum í 1994-2014 og 29 hál um árið á Føroyabanka frá 1996-2014, tó ikki í 2004-2005. -</p>
+<p>Í august eru 200 hál um árið á Landgrunninum í 1996-2014 og 29 hál um árið á Føroyabanka í 1996-2014.</p>
+<p>Tal á fiski (ávikavist toski, hýsu og upsa) pr. cm støddarbólk er lagt saman fyri øll árini fyri hvørja av hesum støðunum. Onkur ár bar ikki til at taka ávísar støðir, og aðrar støðir vóru, um møguligt, tiknar í staðin. Tá myndir av útbreiðsluni vórðu gjørdar, vóru bert støðir við, har fleiri enn 5 hál høvdu verið.</p>
+<p>Taltilfarið er bólkað upp í fiskastøddir (&lt;59 cm, 60-69 cm og &gt;70 cm) og eisini upp í ungfisk (toskur &lt;50 cm, hýsa &lt;45 cm, upsi &lt;55 cm) og vaksnan fisk (restin), og búnan fisk (á Landgrunninum: toskur ≥45 cm, hýsa≥37 cm, upsi ≥62 cm; á Føroyabanka: toskur ≥68 cm, hýsa ≥40 cm, upsi ≥64 cm) og óbúnan fisk (restin). Mørkini fyri búnan/óbúnan fisk vórðu fingin við at samanbera longdarbýtini fyri búnan og óbúnan fisk í prøvunum í mars, har upplýsingar um búningarstig vóru tøkir. Legg til merkis, at toskur er rættiliga smáur, tá hann gerst kynsbúgvin.</p>
+<p>Fyri hvørja trolstøð hjá Magnusi Heinasyni varð funnið fram til, hvat stongt øki støðin hoyrdi til (kassarnar 1-8 um várið, kassarnar A-U um heystið) og støðir uttan fyri hesar leiðir vórðu bólkaðar undir einum sum ’rest’. Síðani var tal av fiski í hvørjum háli roknað út í ávikavist stongdum og opnum økju. Útbreiðslan í stongdum/opnum økjum er roknað sum eitt miðaltal av fiski pr tóv í tí ávísa økinum vektað við víddini (km2) á økinum, og víst í prosentum. Í onkrum stongdum øki hevði Magnus Heinason einki trolhál. Slík øki, t.d. kassi <span type="quote" xml:lang="est">“K”</span>, kundu tí av góðum grundum ikki viðgerast. Arealið í teimum er lagt undir ‘rest’, tó ikki arealið í Kassa B, sum liggur so langt frá øðrum fiskileiðum. Økið fyri Landgrunnin varð ásett at vera grynri enn 600 metrar, meðan økið á Føroyabanka varð ásett at vera grynri enn 700 metrar.</p>
+<p><em type="italic">Úrslit </em>. Sum greitt frá fyrst í hesum riti, hava friðingarnar ymisk endamál. Um várið er endamálið mest at tryggja, at toskur og upsi fáa umstøður til at gýta. Við tað at fiskurin stendur tættur undir gýting, og tí er lættur at fiska, virka gýtingarfriðingarnar eisini sum ein vernd móti høgum veiðitrýsti. Restina av árinum eru friðingarnar meira ætlaðar til at skilja reiðskap sundur, men ein avleiðing er, at veiðtrýstið minkar og at ávísar fiskastøddir (t.d. ungfiskur) verða vardar. Úrslitini niðanfyri eru løgd fram soleiðis, at tey lýsa, hvussu stórur parturin av fiskinum (gýtingarfiskur, ungfiskur osfr.) verður vardur av teimum stongdu økjunum, hvørt tað var beinleiðis tilætlað ella ikki. Tað kann brúkast sum grundarlag undir eini viðgerð, í hvønn mun 12 tey friðaðu økini virka, alt eftir, hvat endamálið er við friðingini. Høvuðsúrslitini eru víst á talvu 2.1 og 2.2 og á myndunum 2.1 - 2.9. Útgreinandi upplýsingar eru at finna í ískoytinum. </p>
+<p>Í februar-mars vóru 53% av tí búna toskinum á Landgrunninum staddur uttan fyri tey stongdu økini fyri gýtandi fisk. Kassanir 1 og 5 vardu best tann búna toskin (Talva 2.1 og Mynd 2.1). Nærum eingin óbúgvin toskur var í teimum friðaðu gýtingarkøssunum. Gýtingarfriðingarnar hóskaðu illa til hýsu, við tað at 84% av teirri búnu hýsuni á Landgrunninum var uttan fyri tey stongdu økini (Talva 2.1 og Mynd 2.2). Meginparturin av upsanum, bæði tí búna og óbúna, var eisini uttan fyri gýtingarfriðingarnar (Talva 2.1 og Mynd 2.3). Tað skal viðmerkjast, at høvuðsgýtingin hjá upsa er í februar, og tí fær Magnus Heinason bert um endan á gýtingini, tá yvirlitstrolingarnar um várið verða gjørdar.</p>
 <p>Á Føroyabanka vardi tað friðaða gýtingarøkið væl tann búna toskin og hýsuna, men ikki upsan.</p>
-<p>Um  heystið  (august-september)  var  toskurin  á  Landgrunninum  sum  heild  illa  vardur  av  teimum  friðaðu økjunum, um ein samanber við alt økið innan fyri 600 metra dýpdarlinjuna (Talva 2.2, mynd 2.4 og 2.5). Um ein  hinvegin  bert  samanber  við  økini  uttan  fyri  12  fj.  sjómarkið,  er  støðan  ein  heilt  onnur;  tá  var meginparturin av toskinum at finna í teimum stongdu økjunum fyri troling. Støðan var tann sama fyri hýsu á Landgrunninum (Talva 2.2, mynd 2.6 og 2.7). Harvið hevði húkaflotin góða atgongd til tosk og hýsu, meðan trolaraflotin ikki hevði tað. Upsi á Landgrunninum var væl vardur í teimum friðaðu økjunum, serstakliga, um ein ikki tekur økið innan fyri 12 fj. við (Talva 2.2, mynd 2.8 og 2.9). Harvið var trolaraflotin avmarkaður nógv av teimum friðaðu økjunum.</p>
+<p>Um heystið (august-september) var toskurin á Landgrunninum sum heild illa vardur av teimum friðaðu økjunum, um ein samanber við alt økið innan fyri 600 metra dýpdarlinjuna (Talva 2.2, mynd 2.4 og 2.5). Um ein hinvegin bert samanber við økini uttan fyri 12 fj. sjómarkið, er støðan ein heilt onnur; tá var meginparturin av toskinum at finna í teimum stongdu økjunum fyri troling. Støðan var tann sama fyri hýsu á Landgrunninum (Talva 2.2, mynd 2.6 og 2.7). Harvið hevði húkaflotin góða atgongd til tosk og hýsu, meðan trolaraflotin ikki hevði tað. Upsi á Landgrunninum var væl vardur í teimum friðaðu økjunum, serstakliga, um ein ikki tekur økið innan fyri 12 fj. við (Talva 2.2, mynd 2.8 og 2.9). Harvið var trolaraflotin avmarkaður nógv av teimum friðaðu økjunum.</p>
 <p>Á Føroyabanka, grynri enn 700 metrar, vóru toskur og hýsa og tann smái upsin væl vard av teimum friðaðu økjunum.</p>
-<p>Úrslitini  eru  fyrst  og  fremst  ætlað  sum  tilfar  til  at  meta  um  stongdar  leiðir,  har  nevndin  ger  sær  sínar niðurstøður út frá tí taltilfari, sum er givið í hesum riti. Havast skal í huga, at yvirlitstrolingarnar hjá Magnusi eru  gjørdar  í  mars  og  august-september.  Ein  kann  vænta,  at  úrslitini  fyri  mars  umboða  tíðarskeiðið  frá februar  til  apríl,  meðan  tíðarskeiðið  august-september  vónandi  umboðar  restina  av  árinum,  hóast  tað neyvan er heilt rætt. Havast skal eisini í huga, at árligar broytingar í útbreiðslu ikki eru tiknar við í hesum tilfari.</p>
+<p>Úrslitini eru fyrst og fremst ætlað sum tilfar til at meta um stongdar leiðir, har nevndin ger sær sínar niðurstøður út frá tí taltilfari, sum er givið í hesum riti. Havast skal í huga, at yvirlitstrolingarnar hjá Magnusi eru gjørdar í mars og august-september. Ein kann vænta, at úrslitini fyri mars umboða tíðarskeiðið frá februar til apríl, meðan tíðarskeiðið august-september vónandi umboðar restina av árinum, hóast tað neyvan er heilt rætt. Havast skal eisini í huga, at árligar broytingar í útbreiðslu ikki eru tiknar við í hesum tilfari. 13</p>
 <p>Talva 2.1. Útbreiðsla (%) av toski, hýsu og upsa í mars í mun til stongdar gýtingarleiðir. Úrslitini eru víst fyri búnan og óbúnan fisk.</p>
-<p xml:lang="isl"><em type="italic">Landgrunnurin </em>  Útbreiðsla  % </p>
-<p xml:lang="isl">Slag Kassi Búgvin Óbúgvin Toskur</p>
-<p xml:lang="est">Rest   Hýsa</p>
-<p xml:lang="est">Rest   Upsi</p>
-<p xml:lang="est">Rest</p>
-<p><em type="italic">Føroyabanki </em>   </p>
-<p xml:lang="est">Toskur      Rest   Hýsa      Rest   Upsi      Rest</p>
-<p xml:lang="vep">399</p>
-<p>Mynd 2.1. Útbreiðsla av toski í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal pr. troltíma) eru víst fyri búnan  fisk  (≥45 cm á  Landgrunninum  og  ≥68  cm  á  Føroyabanka).  Tøl  frá  yvirlitstrolingunum  hjá Magnusi Heinasyni í 1994-2014 á Landgrunninum og 1996-2014 (tó ikki 2004 og 2005) á Føroyabanka.</p>
-<p>Mynd 2.2. Útbreiðsla av hýsu í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal pr. troltíma) eru víst fyri búnan  fisk  (≥37 cm á  Landgrunninum  og  ≥40  cm  á  Føroyabanka).  Tøl  frá  yvirlitstrolingunum  hjá Magnusi Heinasyni í 1994-2014 á Landgrunninum og 1996-2014 (tó ikki 2004 og 2005) á Føroyabanka.</p>
-<p>Mynd 2.3. Útbreiðsla av upsa í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal pr. troltíma) eru víst fyri búnan  fisk  (≥62 cm á  Landgrunninum  og  ≥64  cm  á  Føroyabanka).  Tøl  frá  yvirlitstrolingunum  hjá Magnusi Heinasyni í 1994-2014 á Landgrunninum og 1996-2014 (tó ikki 2004 og 2005) á Føroyabanka.</p>
+<p><em type="italic">Landgrunnurin </em></p>
+<p xml:lang="isl">Útbreiðsla %</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p>Toskur 1 18 2 2 4 2 3 4 1 4 4 0 5 16 2 7 0 0</p>
+<p xml:lang="est">Rest 53 92</p>
+<p xml:lang="isl">Hýsa 1 7 4 2 1 0 3 3 1 4 3 1 5 1 0 7 1 4</p>
+<p xml:lang="est">Rest 84 90</p>
+<p xml:lang="hbs">Upsi 1 6 4 2 0 0 3 13 16 4 14 10 5 0 0 7 0 0</p>
+<p xml:lang="est">Rest 66 70</p>
+<p><em type="italic">Føroyabanki </em></p>
+<p>Toskur 8 96 99</p>
+<p xml:lang="est">Rest 4 1</p>
+<p xml:lang="isl">Hýsa 8 67 17</p>
+<p xml:lang="est">Rest 33 83</p>
+<p xml:lang="hbs">Upsi 8 13 16</p>
+<p xml:lang="est">Rest 87 84 14 399</p>
+<p>Mynd 2.1. Útbreiðsla av toski í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal pr. troltíma) eru víst fyri búnan fisk (≥45 cm á Landgrunninum og ≥68 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1994-2014 á Landgrunninum og 1996-2014 (tó ikki 2004 og 2005) á Føroyabanka.</p>
+<p>Mynd 2.2. Útbreiðsla av hýsu í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal pr. troltíma) eru víst fyri búnan fisk (≥37 cm á Landgrunninum og ≥40 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1994-2014 á Landgrunninum og 1996-2014 (tó ikki 2004 og 2005) á Føroyabanka. 15</p>
+<p>Mynd 2.3. Útbreiðsla av upsa í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal pr. troltíma) eru víst fyri búnan fisk (≥62 cm á Landgrunninum og ≥64 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1994-2014 á Landgrunninum og 1996-2014 (tó ikki 2004 og 2005) á Føroyabanka. 16</p>
 <p>Talva 2.2. Útbreiðsla (%) av toski, hýsu og upsa í august/september í mun til stongd økir fyri trol, ávikavist við og uttan økið innan fyri 12 fjórðingar. Úrslitini eru víst fyri búnan og óbúnan fisk, ungfisk og vaksnan fisk, og støddirnar &lt;60 cm, 60-69 cm og &gt;70 cm.</p>
-<p xml:lang="isl">Landgrunn.Økið innan fyriØkið innan fyriØkið innan fyriØkið innan fyriØkið innan fyriØkið innan fyri 12 fj. er við12 fj. er ikki við12 fj. er við12 fj. er ikki við12 fj. er við12 fj. er ikki við Útbreiðsla (%) SlagKassiBúgvin Óbúgvin Búgvin Óbúgvin Ungfisk Vaksin Ungfisk Vaksin &lt; 6060-69&gt; 70&lt; 6060-69&gt; 70 ToskurC D E F GP H I J M R S T U Rest HýsaC D E F GP H I J M R S T U Rest UpsiC D E F GP H I J M R S T U Rest Føroyabanki ToskurA a Rest HýsaA a Rest UpsiA a Rest</p>
-<p>Mynd 2.4. Útbreiðsla av toski í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst  fyri ungfisk hjá toski, tvs. minni enn 50 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 19962014.</p>
-<p>Mynd 2.5. Útbreiðsla av toski í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri vaksnan fisk, tvs. størri enn 50 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasynií 1996-2014.</p>
-<p>Mynd 2.6. Útbreiðsla av hýsu í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst  fyri  ungfisk  hjá  hýsu,  tvs. minni  enn 45  cm.  Tøl  frá  yvirlitstrolingunum  hjá Magnusi  Heinasyni  í 19962014.</p>
-<p>Mynd 2.7. Útbreiðsla av hýsu í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri vaksnan fisk, tvs. størri enn 45 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014.</p>
-<p>Mynd 2.8. Útbreiðsla av upsa í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst  fyri ungfisk hjá upsa, tvs. minni enn 55 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni  í 19962014.</p>
-<p>Mynd 2.9. Útbreiðsla av upsa í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri vaksnan fisk, tvs. størri enn 55 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014.</p>
-<p><em type="italic">Niðurstøða og tilmæli </em></p>
-<p><em type="italic">Gýtingarøki </em></p>
-<p>Greiningin  av  útbreiðslu  av  fiski  í  gýtingartíðini  í  mun  til  friðaðu  økini  er  grundað  á  yvirlitstrolingar  við Magnusi Heinason. Á Landgrunninum eru yvirlitstrolingarnar vanliga frá 20-25 februar og ein mánað fram. Hóast  upplýsingarnir  eru  neyvir  og  detalieraðir,  hava  kanningarnar  tann  veikleika,  at  til  ber  ikki  at  raka tíðarskeiðið fyri høvuðsgýtingina hjá øllum trimum fiskasløgunum. Kanningarnar  raka væl á gýtingartíðina hjá  toski,  men  liggja  í  seinna  lagi  fyri  upsa  og  eru  heldur  tíðliga  í  mun  til  gýtingina  hjá  hýsu.  Fiskur  kann ferðast spakuliga til gýtingarøki og kann eisini vera í eina tíð á gýtingarøkinum, áðrenn gýtingin byrjar, men tá gýtingin er liðug, fer hann avstað. Hetta ger, at  yvirlitstrolingarnar vísa ikki væl útbreiðsluna av gýtandi upsa.  Tó  skal  sigast,  at  í  yvirlitstrolingarnar  í mars vísa,  at  tað  framvegis  er  nakað  av  gýtandi  upsa.  Hóast hýsan,  serliga  í  tær  báðar  fyrstu  vikurnar  av  yvirlitstrolingunum  ikki  er  komin  til  gýting,  geva yvirlitstrolingarnar rættiliga góðar upplýsingar um gýtingarøkini og ferðing til hesi.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p>Økið innan fyri</p>
+<p>Økið innan fyri</p>
+<p>Økið innan fyri</p>
+<p>Økið innan fyri</p>
+<p>Økið innan fyri</p>
+<p>Økið innan fyri12 fj. er við12 fj. er ikki við12 fj. er við12 fj. er ikki við12 fj. er við12 fj. er ikki við</p>
+<p xml:lang="isl">Útbreiðsla (%)</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p xml:lang="isl">Búgvin Óbúgvin Búgvin Óbúgvin Ungfisk Vaksin Ungfisk Vaksin &lt; 6060-69&gt; 70&lt; 6060-69&gt; 70</p>
+<p>Toskur</p>
+<p xml:lang="eng">C401210431225511139</p>
+<p xml:lang="nob">D5114815814269111418</p>
+<p xml:lang="deu">E11381163112324</p>
+<p xml:lang="nob">F83251939202551112222922</p>
+<p xml:lang="pol">GP00100001001012</p>
+<p xml:lang="isl">H42121534171135316115</p>
+<p xml:lang="eng">I00120021000110</p>
+<p xml:lang="smj">J00120021000111</p>
+<p xml:lang="smn">M00000000000000</p>
+<p xml:lang="est">R00000000000001</p>
+<p xml:lang="nob">S00100001001011</p>
+<p xml:lang="smn">T10430134123345</p>
+<p xml:lang="kmr">U00000000000000</p>
+<p xml:lang="est">Rest7692274190743927856964302332</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C1182123101314159</p>
+<p xml:lang="nob">D211551361825482627</p>
+<p xml:lang="deu">E2511204119841217311</p>
+<p xml:lang="nob">F211441361624372123</p>
+<p xml:lang="pol">GP00120021000112</p>
+<p xml:lang="isl">H21132124131215136</p>
+<p xml:lang="eng">I10310113000231</p>
+<p xml:lang="smj">J11531143100411</p>
+<p xml:lang="smn">M00000000000000</p>
+<p xml:lang="est">R00000000000000</p>
+<p xml:lang="nob">S00110011001114</p>
+<p xml:lang="smn">T00100001000112</p>
+<p xml:lang="kmr">U00000000000000</p>
+<p xml:lang="est">Rest8890275990875424898587491414</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C75108478105968119</p>
+<p xml:lang="nob">D156201051281661316101821</p>
+<p xml:lang="deu">E25385394532933</p>
+<p xml:lang="nob">F393151041769321542</p>
+<p xml:lang="pol">GP32531426242363</p>
+<p xml:lang="isl">H02032030200300</p>
+<p xml:lang="eng">I00000000000000</p>
+<p xml:lang="smj">J00011011100100</p>
+<p xml:lang="smn">M00000000000000</p>
+<p xml:lang="est">R00000000000000</p>
+<p xml:lang="nob">S01011021100100</p>
+<p xml:lang="smn">T41521324134256</p>
+<p xml:lang="kmr">U11110112111121</p>
+<p xml:lang="est">Rest6468524769634750686366475055</p>
+<p>Føroyabanki Toskur</p>
+<p xml:lang="est">A959710095999695a1101111</p>
+<p xml:lang="est">Rest4203034</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="est">A89636888748593a3223253</p>
+<p xml:lang="est">Rest93530923104</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="est">A18628030692415a3102134</p>
+<p xml:lang="est">Rest7937206831748017</p>
+<p>Mynd 2.4. Útbreiðsla av toski í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri ungfisk hjá toski, tvs. minni enn 50 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014.</p>
+<p>Mynd 2.5. Útbreiðsla av toski í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri vaksnan fisk, tvs. størri enn 50 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasynií 1996-2014. 18</p>
+<p>Mynd 2.6. Útbreiðsla av hýsu í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri ungfisk hjá hýsu, tvs. minni enn 45 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014.</p>
+<p>Mynd 2.7. Útbreiðsla av hýsu í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri vaksnan fisk, tvs. størri enn 45 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014. 19</p>
+<p>Mynd 2.8. Útbreiðsla av upsa í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri ungfisk hjá upsa, tvs. minni enn 55 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014.</p>
+<p>Mynd 2.9. Útbreiðsla av upsa í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr. troltíma) eru víst fyri vaksnan fisk, tvs. størri enn 55 cm. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni í 1996-2014. 20</p>
+<p>Niðurstøða og tilmæli</p>
+<p><em type="italic">Gýtingarøki </em>Greiningin av útbreiðslu av fiski í gýtingartíðini í mun til friðaðu økini er grundað á yvirlitstrolingar við Magnusi Heinason. Á Landgrunninum eru yvirlitstrolingarnar vanliga frá 20-25 februar og ein mánað fram. Hóast upplýsingarnir eru neyvir og detalieraðir, hava kanningarnar tann veikleika, at til ber ikki at raka tíðarskeiðið fyri høvuðsgýtingina hjá øllum trimum fiskasløgunum. Kanningarnar raka væl á gýtingartíðina hjá toski, men liggja í seinna lagi fyri upsa og eru heldur tíðliga í mun til gýtingina hjá hýsu. Fiskur kann ferðast spakuliga til gýtingarøki og kann eisini vera í eina tíð á gýtingarøkinum, áðrenn gýtingin byrjar, men tá gýtingin er liðug, fer hann avstað. Hetta ger, at yvirlitstrolingarnar vísa ikki væl útbreiðsluna av gýtandi upsa. Tó skal sigast, at í yvirlitstrolingarnar í mars vísa, at tað framvegis er nakað av gýtandi upsa. Hóast hýsan, serliga í tær báðar fyrstu vikurnar av yvirlitstrolingunum ikki er komin til gýting, geva yvirlitstrolingarnar rættiliga góðar upplýsingar um gýtingarøkini og ferðing til hesi. </p>
 <p>Høvuðs gýtingarøkið norðanfyri hjá toski skiftir nakað eystur og vestur, eftir hitanum í sjónum. Tey árini, tá sjógvurin er kaldur, er høvuðsgýtingin vestari og tey heitaru árini er hon eystari á.</p>
-<p>Arbeiðsbólkurin mælir til, at teir kassarnir ið eru fyri at verja gýtandi fisk, verða so smáir sum gjørligt og at teir í staðin verða stongdir fyri allari veiðu í gýtingartíðini. Hesi øki eru innari par</p>
-<p>Grundað á tilfarið, ið víst er frammanfyri, mælir bólkurin til fylgjandi broytingar:</p>
-<p>1. Kassi 1: Eigur at verða friðaður fyri allari veiðu út á 12 fj. úr grundlinjuni í tíðarskeiðinum 15. februar -15. apríl. Norðari kantur á innara parti verður fluttur 2 fj. norðureftir fáa leiðina við størst nøgdum av gýtandi toski betur inn í kassan. Uttari partur av kassanum eigur at vera opin fyri snellu og línu, men eigur at vera stongdur fyri troling, fyri at verja gýtandi upsa.</p>
-<p xml:lang="isl">2. Kassi  5:  Ytra  mark  12  fj.úr  grundlinjuni,  innara  mark  4  fjórðingar  úr  grundlinjuni,  eystara  mark óbroytt  og  vestara  mark  flutt  frá  07°12'30<span type="quote" xml:lang="nno">"V  til  07°15'00"</span>V.  Friðaður  fyri  allari  veiðu  í tíðarskeiðinum 15. februar – 15. apríl.</p>
-<p xml:lang="isl">3. Kassi 2: Vestara mark gongur í beinan sunnan úr núverandi landnyrðingshorni og suður til 6 fj. úr grundlinjuni.</p>
-<p>Av  tí  at  gýtingarøkini  hjá  hýsu  eru  meira  spjadd  enn  tey  hjá  toski,  ber  ikki  til  at  mæla  til  friðing  av gýtingarøkjum hjá hýsu, soleiðis sum gjørt er fyri tosk.</p>
-<p>Av tí at yvirlitstrolingin hjá Magnus Heinason eru í seinna lagi í mun til høvuðsgýtingina hjá upsa, vísa tær kanningarnar ikki, hvussu útbreiðslan av upsa er, meðan gýtingin er í hæddini. Arbeiðsbólkurin mælir til, at hetta verður kannað nærri.</p>
-<p xml:lang="hbs"><em type="italic">Uppvakstrarøki </em></p>
-<p>Grundað á upplýsingar frá yvirlitstrolingarnar hjá Magnusi Heinason, eru tvey øki, ið serliga eru serliga hava nógv av smáum toski og smáari hýsu. Hesi eru ávikavist eitt toskaøki innarlaga á Mýlingsgrunninum (Mynd 2.4) og eitt hýsuøki sunnan fyri Norðoyggjarnar (Mynd 2.6).</p>
+<p>Arbeiðsbólkurin mælir til, at teir kassarnir ið eru fyri at verja gýtandi fisk, verða so smáir sum gjørligt og at teir í staðin verða stongdir fyri allari veiðu í gýtingartíðini. Hesi øki eru innari partur av kassa 1, kassi 2 og kassi 5. Harumframt mælir bólkurin til at kassarnir vera betur lagaðir til leiðirnar, har yvirlitstrolingarnar hjá Magnus Heinason vísa tær størstu nøgdirnar av gýtandi toski. Eisini mælir bólkurin til smærri broytingar í tíðarskeiðunum, nær kassarnir eru stongdir.</p>
+<p>Grundað á tilfarið, ið víst er frammanfyri, mælir bólkurin til fylgjandi broytingar: 1. Kassi 1: Eigur at verða friðaður fyri allari veiðu út á 12 fj. úr grundlinjuni í tíðarskeiðinum 15. februar -15. apríl. Norðari kantur á innara parti verður fluttur 2 fj. norðureftir fáa leiðina við størst nøgdum av gýtandi toski betur inn í kassan. Uttari partur av kassanum eigur at vera opin fyri snellu og línu, men eigur at vera stongdur fyri troling, fyri at verja gýtandi upsa. 2. Kassi 5: Ytra mark 12 fj.úr grundlinjuni, innara mark 4 fjórðingar úr grundlinjuni, eystara mark óbroytt og vestara mark flutt frá 07°12'30<span type="quote" xml:lang="nno">"V til 07°15'00"</span>V. Friðaður fyri allari veiðu í tíðarskeiðinum 15. februar – 15. apríl. 3. Kassi 2: Vestara mark gongur í beinan sunnan úr núverandi landnyrðingshorni og suður til 6 fj. úr grundlinjuni.</p>
+<p>Av tí at gýtingarøkini hjá hýsu eru meira spjadd enn tey hjá toski, ber ikki til at mæla til friðing av gýtingarøkjum hjá hýsu, soleiðis sum gjørt er fyri tosk.</p>
+<p>Av tí at yvirlitstrolingin hjá Magnus Heinason eru í seinna lagi í mun til høvuðsgýtingina hjá upsa, vísa tær kanningarnar ikki, hvussu útbreiðslan av upsa er, meðan gýtingin er í hæddini. Arbeiðsbólkurin mælir til, at hetta verður kannað nærri. 21</p>
+<p><em type="italic">Uppvakstrarøki </em>Grundað á upplýsingar frá yvirlitstrolingarnar hjá Magnusi Heinason, eru tvey øki, ið serliga eru serliga hava nógv av smáum toski og smáari hýsu. Hesi eru ávikavist eitt toskaøki innarlaga á Mýlingsgrunninum (Mynd 2.4) og eitt hýsuøki sunnan fyri Norðoyggjarnar (Mynd 2.6). </p>
 <p>Fyri at verja ávikavist smáan tosk og smáa hýsu, verður mælt til at friða hesi øki alt árið.</p>
-<p>Tær  innastu  leiðirnar  eru  ikki  umfataðar  av  yvirlitstrolingunum  hjá  Magnusi  Heinason,  og  upplýsingar  frá útróðrarbátum  um  fiskileiðir  og  veiðu  eru  ikki  nóg  góðir.  Ynskiligt  er,  at  upplýsingar  um  fiskileiðir  og veiðuhagtøl hjá útróðrarbátar á teimum innastu leiðunum gerast neyvari.</p>
-<p>Mælt verður til, at</p>
-<p>1. Øll fiskifør fáa sær AIS skipan 2. Fráboðan, tá túrur byrjar og endar, eigur at vera kravd   3. Upplýsast skal um alla veiðuna, eisini undirmálsfiskin.</p>
-<p><em type="bold">3. Meting av í hvønn mun friðingarnar/stongdu økini ávirka veiðutrýstið</em> </p>
+<p>Tær innastu leiðirnar eru ikki umfataðar av yvirlitstrolingunum hjá Magnusi Heinason, og upplýsingar frá útróðrarbátum um fiskileiðir og veiðu eru ikki nóg góðir. Ynskiligt er, at upplýsingar um fiskileiðir og veiðuhagtøl hjá útróðrarbátar á teimum innastu leiðunum gerast neyvari.</p>
+<p>Mælt verður til, at 1. Øll fiskifør fáa sær AIS skipan 2. Fráboðan, tá túrur byrjar og endar, eigur at vera kravd 3. Upplýsast skal um alla veiðuna, eisini undirmálsfiskin. 22 <em type="bold">3. Meting av í hvønn mun friðingarnar/stongdu økini ávirka veiðutrýstið </em></p>
 <p>Spurningurin, í hvønn mun stongdar leiðir ávirka veiðitrýstið, er torforður at kvantifisera. Á næstu síðunum er heldur hugt at, í hvønn mun tær stongdu leiðirnar ávirka stovnsstøddina hjá toski, hýsu og upsa, og býtt tað í búnan og óbúnan fisk. Hetta tí at tað er nógv einfaldari, enn at hyggja at veiðitrýstinum.</p>
-<p>Støði  er  tikið  í  talvuni  á  næstu  síðu  (Talva  3.1  =  Ískoytistalva  2),  ið  er  grundað  á  yvirlitstrolingarnar  í august/september 1996-2014. Talvan vísir útbreiðsluna hjá toski, hýsu og upsa á føroyska landgrunninum um summarið.Talvan vísir m.a. tættleika av fiski (tal pr.  hál) í ymiskum stongdum økjum. Við at vekta við areali, ber til at rokna miðal tættleika í øllum stongdum økjum undir einum, sum er givið í Talvu  3.2. Fyri tosk gav tað í miðalávikavist 29,42 búnar og 1,86 óbúnar toskar per hál. Fyri tey opnu økini uttan fyri 12 fj. vóru  tølini  ávikavist  4,56  og  0,54  toskar  pr  hál.  Lutfallið  millum  tættleikan  í  stongdum  og  opnum  økjum uttan fyri 12 fj var 6,45 og 3,43 fyri ávikavist búnan og óbúnan tosk.</p>
-<p>Um  ein  roknar  við,  at  tættleikin  í  teimum  stongdu  økjunum  hevði  komið  niður  á  tað  sama  støði,  sum  í opnum økjum, um tey høvdu verið opnað fyri trolfiskiskapi, so hevði tal pr hál x areal (vísital fyri mongd av fiski í økinum) farið úr 275.397 niður í 42.711 fyri búnan tosk og �</p>
-<p type="listitem"> Hetta hevði ført til eina minking á 21% í stovnsstøddini fyri búnan tosk og eina minking á 6% fyri óbúnan</p>
-<p xml:lang="smn">tosk.</p>
-<p type="listitem"> Fyri hýsu hevði niðurgongdin verið 10% fyri búnan fisk og 4% fyri óbúnan fisk.</p>
-<p type="listitem"> Fyri upsa hevði niðurgongdin verið 20% fyri búnan fisk og 20% fyri óbúnan fisk.</p>
-<p>Við  tað  at  tættleikarnir  av  bæði  toski,  hýsu  og  upsa  í  miðal  eru  munandi  hægri  í  teimum  trolstongdu økjunum  enn  uttanfyri,  má  metast,  at  økini  í  miðal  minka  munandi  um  veiðutrýstið  á  allar  tríggjar stovnarnar. (Eisini sæst munur í tættleika av fiski ávikavist innan fyri og uttan fyri troløkini á landleiðini).Tað er torført at kvantifisera, hvussu stór ávirkanin frá trolstongdu økjum er á veiðutrýstini, men helst eru tey trolstongdu økini tað einstaka átakið, ið hevur størst tálmandi ávirkan á veiðutrýstini.</p>
-<p>Talva  3.1 (=Ískoytistalva 2). Útgreinað útrokning av útbreiðsluni (%) hjá búnum og óbúnum fiski í augustseptember í mun til stongdar kassar fyri trol.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassiBúgvinÓbúgvinTils.Tal hálVídd (km2) BúgvinÓbúgvinBúgvinÓbúgvin ToskurC33.00.3 D31.21.4 E8.31.9 F51.93.1 GP8.60.0 H64.46.3 I13.22.7 J9.41.9 M5.70.1 R3.60.0 S12.30.2 T18.61.1 U4.20.5 Rest25.05.5 Tils.26.34.4 HýsaC89.051.3 D130.085.0 E133.0494.4 F110.874.4 GP31.6125.3 H263.298.0 I180.3111.1 J212.5314.3 M50.473.9 R7.543.7 S71.877.4 T19.212.1 U18.531.6 Rest228.0331.2 Tils.192.5268.2 UpsiC31.9187.6 D49.7174.0 E10.8199.8 F8.2243.8 GP46.5243.2 H2.0115.1 I0.626.7 J4.273.1 M4.134.3 R2.57.0 S5.2205.3 T27.979.7 U44.4225.8 Rest10.999.2 Tils.15.2120.9 Tils.</p>
-<p>Talva  3.2.  Tættleiki  av  fiski  (tal  per  hál)  í  stongdum  og  opnum  økjum  á  føroyska  landgrunninum  og ávirkanina av at opna stongd økir uttan fyri 12 fjóðingar.</p>
-<p><em type="bold">4.  Meting  av,  um  friðingarnar/stongdu  økini  í  nøktandi  mun  gagna  verndini  av  vistfrøðini  og margfeldinum á Landgrunninum </em></p>
-<p>Vitan  er  ikki  tøk  í  Føroyum  til  at  svara  hesum  spurningi.  Umfatandi  kanningar  mugu  gerast,  áðrenn spurningurin kann svarast.</p>
-<p>Tal per hálTal per hál x arealNýtt tal per hál x areal BúgvinÓbúgvinArealBúgvinÓbúgvinBúgvinÓbúgvin ToskurStongd økir uttan fyri 12 fj.29.421.86 Opin økir uttan fyri 12 fj.4.560.54 Opin økir innan fyri 12 fj.64.6915.21 Samantalt Lutfall0.790.94 % niðurgongd Stongd økir / opin økir6.453.43 HýsaStongd økir uttan fyri 12 fj.113.40136.46 Opin økir uttan fyri 12 fj.17.5981.87 Opin økir innan fyri 12 fj.636.92815.54 Samantalt8860172 12603169 Lutfall0.900.96 % niðurgongd Stongd økir / opin økir6.451.67 UpsiStongd økir uttan fyri 12 fj.22.29170.08 Opin økir uttan fyri 12 fj.9.9762.58 Opin økir innan fyri 12 fj.12.57170.40 Samantalt Lutfall0.800.80 % niðurgongd Stongd økir / opin økir2.232.72 <em type="bold">5.  Meting  av,  um  friðingarnar/stongdu  økini  eru  nøktandi  í  mun  til  uppbýtið  millum  trol/húk, gørn/húk og størri/smærri fiskifør </em></p>
-<p>Meginparturin av Landgrunninum er býttur sundir í  reiðskapsøkiog skipastøddir. M.a. er - Ein stórur partur stongdur fyri trolveiðu, soleiðis at einans húkaveiða er loyvd, - Tær innastu leiðirnar eru stongdar fyri størru línuskipunum - Garnaveiða er avmarkað til djúp øki. - Troling eftir flatfiski loyvd í ávísum økjum um summarið.</p>
-<p>Ásetingarnar  eru  mettar  neyðugar  fyri  at teir  ymisku  reiðsskapirnir  kunnu  virkað  uttan  darving  av  øðrum reiðskapum, men tær hava harumframt tann virknað, at meginparturin av toski og hýsu verður veiddur við húki, og eru ikki í ein stóran mun atkomilig fyri trolarar.</p>
-<p>Av og á neyðugt at endurskoða, um broytingar eiga at gerast í verandi uppbýti. Men tað hevur týdning, at fiskivinnan í breiðum høpi kann taka undir við uppskotum, ið viðføra  umfatandi broytin</p>
-<p>Bólkurin  metir  tó,  at  hann  kann  mæla  til  ávísar  smærri  broytingar,  ið  hava  stóran  týdning  fyri  dagligu arbeiðsgongdina  hjá  teimum  skipum,  ið  merkja  broytingarnar,  uttan  at  tær  vera  mettar  at  darva  øðrum skipabólkum í stórvegis mun.</p>
-<p>Fyri  at  gera  tað  møguligt  at  tóva  so  samanhangandi  sum  gjørligt  millum  økini  eystanfyri,  norðanfyri  og vestanfyri, verður mælt til fylgjandi broytingar:</p>
-<p xml:lang="est">Kassi D, vestari partur  (Norðanfyri, stongt fyri troling)  62°35’N, 08°00’V   62°34’N,  08°00’V  62°47’N,  07°12’05’’V   62°43’5N,  07°12’5V</p>
-<p xml:lang="isl">Øki  T  (Í útnyrðing úr Mykinesi, mett at vera ungfiskaleið)  62°38’N,  08°00V  62°34’N,  08°00’V  62°29’8’’N,  08°00’V    62°12’N,  08°34’5 V  62°12’N,  08°46’V  62°12’N,  08°42’V  62°18’N,08°45’V  62°18’N,  08°38’V &amp;62°24’N,  08°26’V</p>
-<p><em type="bold">6.  Meting um skipanina við bráðfeingis veiðibanni </em></p>
-<p>Fiskiveiðeftirlitið,  kann  við  heimild  í  løgtingslóg  nr.  28  frá  10.  mars  1994  §  35  stk.  3,  áseta  bráðfeingis veiðibann,  fyri  ávísar  veiðihættir  á  ávísum  økjum,  um  ov  stórur  partur  av  veiddu  nøgdini  er  ungfiskur. Heimild,  at  áseta  bráðfeingis  veiðibann,  var  eisini  í  lógum  og  kunngerðum,  ið  vóru  galdandi,  áðrenn Løgtingslógin  um  vinnuligan  fiskiskap  varð  lýst  í  1994.  Ásetingar  um  bráðfeingis  veiðibann  hava  verið galdandi síðan 1978 (§ 4, stk. 1 og 2 í løgtingslóg nr. 8 frá 29. mars 1978).</p>
-<p><em type="italic">Stutt lýsing av skipanini </em></p>
-<p>Skiparar á fiskiførum, ið reka fiskiskap á landleiðini, hava skyldu til alt fyri eitt at boða Fiskiveiðieftirlitinum frá,  um  so  er,  at  íblandingin  av  ungfiski  í  veiðu  teirra  av  ávísum  fiskasløgum er  størri enn  tað  hámark,  ið ásett verður sambært reglunum um heiti ungfiskur og hámark fyri íblanding av ungfiski. Hesir skiparar hava somuleiðis  skyldu  til  at  upplýsa  um  íblandingina  av  ungfiski,  tá  ið  Fiskiveiðieftirlitið  biður  um  tað. Fiskiveiðieftirlitið hevur skyldu til, at kanna íblandingina av ungfiski í fiskiførum og tá landað verður til virkir.  Við teirri avmarkaðu arbeiðsorku, ið Fiskiveiðeftirlitið hevur, hevur ikki verið gjørligt, at gjørt kanningar av øllum fiskiførum, ið hava fráboðað ov nógvan ungfisk. Fiskiveiðieftirlitið hevur tí ment eina elektroniska fráboðanarskipan, har tey skip, ið fáa ov nógvan ungfisk, kunnu fráboða hetta. Hetta verður gjørt yvir heimasíðuna hjá stovninum. Trolarar skulu fráboða  positión, klokku  og  dýpi  tá  ið skotið  varð og  eisini, tá  ið  hálað  varð.  Harafturat  skal  prosentparturin  av  ungfiski  og samlaða nøgdin í hálinum fráboðast.  Tey, ið fiska við línu og snellu, hava eisini møguleika, at  fráboða við somu skipan. Fiskiveiðeftirlitið  brúkar  hesar  fráboðanir,  saman  við  úrslitum  av  kanningum  á  sjógvi  og  landi  sum grundarlag, tá ið metast skal um, um bráðfeingis veiðubann skal lýsast á ávísum øki. So  skjótt  Fiskiveiðeftirlitið  heldur  málið  vera  nóg  væl  lýst,  skal  avgerð  takast  um,  hvørt  viðkomandi fiskiveiða á viðkomandi øki skal verða steðgað. Økið, ið stongt verður, skal ikki vera størri enn mett verður neyðugt,  til  tess  at  sleppa  undan  eini  íblanding  av  ungfiski,  ið  er  størri  enn  ásett.  Kunngerðin um veiðusteðg skal verða lýst í Útvarpi Føroya so skjótt til ber. Veiðusteðgurin fær tó ikki gildi fyri tað einstaka skipið, fyrrenn tað hevur havt høvi til at fáa reiðskapin inn.Vanligt hevur verið, at um talan er um øki, har trolarar royna, so ganga einir 3 tímar millum lýsingina og til økið verður stongt. Hjá teimum, ið royna við línu, er skotbráið nakað longri.</p>
-<p>Tað er eitt sindur ójavnt, hvussu títtleikin av bráðfeingis veiðubannum hevur verið. Tvey tey seinastu árini, hava ikki nógv bráðfeingis veiðubann verið lýst. Nøkur eru kortini lýst. Taka vit hinvegin eitt ár sum til dømis 2011, so vórðu bráðfeingis veiðubann lýst 36 ferðir ( 14 dagar hvørja ferð). 16 ferðir var stongt fyri trol, 4 ferðir fyri allan reiðskap og 16 ferðir fyri línu. Taka  vit  trolið  fyrst,  so  vórðu  øki  á  Munkagrunninum  stongd  12  ferðir  og  øki  á Fugloyarbanka/Nólsoyarbanka stongd 4 ferðir. Hetta hevur verið økislutfallið, bæði undan og eftir 2011. Tá ið tað snýr seg um línuna, so eru tað í størstan mun leiðir innanfyri 12 fjórðingar norðanfyri og vestanfyri, ið hava verið stongdar. Hendinga ferð, er bráðfeingis veiðubann lýst vestanfyri Suðuroynna.</p>
-<p>Samanumtikið meta vit, at skipanin við bráðfeingis veiðubanni, í ávísum førum er tálmandi. Har ungfiskur bert fæst hendinga ferð, meta vit, at skipanin er góð.</p>
-<p>Er talan hinvegin um tey økini, sum javnan verða stongd, meta vit, at aðrar skipanir høvdu verið munandi betri. Har eru aðrir møguleikar, ið áttu at verði royndir. Talan kundi til dømis verið um: - VØRN fær víðkaðar heimildir viðvíkjandi bráfeingis veiðibanni, t.d. til at steingja í longri tíðarskeið enn  teir  14  dagarnar,  ið  heimildin  loyvir  í  dag.  Viðmerkjast  skal  tó,  at  okkara  hugsan  er,  at  ávís serliga viðkvom øki, áttu at verði stongd alt árið. - At skipa reglurnar soleiðis, at hámarkið (prosentparturin) av ungfiski, gerst lægri í framtíðini - At skipa so fyri, at ikki verður loyvt, at fiska við trolið uttan skiljirist, í økjum, har royndir gjøgnum nógv ár vísa, at mestsum alt ið fæst, er ungfiskur (upsi). - Mælt verður til, at royndir við rist verða gjørdar eisini til onnur fiskasløg.</p>
+<p>Støði er tikið í talvuni á næstu síðu (Talva 3.1 = Ískoytistalva 2), ið er grundað á yvirlitstrolingarnar í august/september 1996-2014. Talvan vísir útbreiðsluna hjá toski, hýsu og upsa á føroyska landgrunninum um summarið.Talvan vísir m.a. tættleika av fiski (tal pr. hál) í ymiskum stongdum økjum. Við at vekta við areali, ber til at rokna miðal tættleika í øllum stongdum økjum undir einum, sum er givið í Talvu 3.2. Fyri tosk gav tað í miðalávikavist 29,42 búnar og 1,86 óbúnar toskar per hál. Fyri tey opnu økini uttan fyri 12 fj. vóru tølini ávikavist 4,56 og 0,54 toskar pr hál. Lutfallið millum tættleikan í stongdum og opnum økjum uttan fyri 12 fj var 6,45 og 3,43 fyri ávikavist búnan og óbúnan tosk.</p>
+<p>Um ein roknar við, at tættleikin í teimum stongdu økjunum hevði komið niður á tað sama støði, sum í opnum økjum, um tey høvdu verið opnað fyri trolfiskiskapi, so hevði tal pr hál x areal (vísital fyri mongd av fiski í økinum) farið úr 275.397 niður í 42.711 fyri búnan tosk og úr 17.711 í 5.084 fyri óbúnan tosk. Fyri tey opnu økini hevði støðan verið óbroytt.  Hetta hevði ført til eina minking á 21% í stovnsstøddini fyri búnan tosk og eina minking á 6% fyri óbúnan tosk.  Fyri hýsu hevði niðurgongdin verið 10% fyri búnan fisk og 4% fyri óbúnan fisk.  Fyri upsa hevði niðurgongdin verið 20% fyri búnan fisk og 20% fyri óbúnan fisk.</p>
+<p>Við tað at tættleikarnir av bæði toski, hýsu og upsa í miðal eru munandi hægri í teimum trolstongdu økjunum enn uttanfyri, má metast, at økini í miðal minka munandi um veiðutrýstið á allar tríggjar stovnarnar. (Eisini sæst munur í tættleika av fiski ávikavist innan fyri og uttan fyri troløkini á landleiðini).Tað er torført at kvantifisera, hvussu stór ávirkanin frá trolstongdu økjum er á veiðutrýstini, men helst eru tey trolstongdu økini tað einstaka átakið, ið hevur størst tálmandi ávirkan á veiðutrýstini. 23</p>
+<p>Talva 3.1 (=Ískoytistalva 2). Útgreinað útrokning av útbreiðsluni (%) hjá búnum og óbúnum fiski í augustseptember í mun til stongdar kassar fyri trol.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="isl">Vídd (km2) Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p>Toskur</p>
+<p xml:lang="eng">C3693323725112133533.00.340</p>
+<p xml:lang="nob">D94744309904304170431.21.451</p>
+<p xml:lang="deu">E942214115611412598.31.911</p>
+<p xml:lang="nob">F1121366811881216179451.93.183</p>
+<p xml:lang="pol">GP6251626734288.60.000</p>
+<p xml:lang="isl">H483147453057569864.46.342</p>
+<p xml:lang="eng">I237482851824713.22.700</p>
+<p xml:lang="smj">J35972431383399.41.900</p>
+<p xml:lang="smn">M1081109191335.70.100</p>
+<p xml:lang="est">R2100210582963.60.000</p>
+<p xml:lang="nob">S22132241820312.30.200</p>
+<p xml:lang="smn">T13738414577479818.61.110</p>
+<p xml:lang="kmr">U72981171264.20.500</p>
+<p xml:lang="est">Rest64888143467923425963420025.05.57692</p>
+<p xml:lang="est">Tils.982461638211462837324356026.34.4100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C9970574315713112133589.051.311</p>
+<p xml:lang="nob">D3950525827653323041704130.085.021</p>
+<p xml:lang="deu">E1516156363715241141259133.0494.425</p>
+<p xml:lang="nob">F2394216071400132161794110.874.421</p>
+<p xml:lang="pol">GP23079147114547342831.6125.300</p>
+<p xml:lang="isl">H1973873492708775698263.298.021</p>
+<p xml:lang="eng">I32452000524518247180.3111.110</p>
+<p xml:lang="smj">J8074119422001638339212.5314.311</p>
+<p xml:lang="smn">M957140423611913350.473.900</p>
+<p xml:lang="est">R43425342968582967.543.700</p>
+<p xml:lang="nob">S1292139326851820371.877.400</p>
+<p xml:lang="smn">T142089523157479819.212.100</p>
+<p xml:lang="kmr">U3145388521712618.531.600</p>
+<p xml:lang="est">Rest5919728597081451680259634200228.0331.28890</p>
+<p xml:lang="est">Tils.71833110009141719245373243560192.5268.2100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C35712100724578112133531.9187.675</p>
+<p xml:lang="nob">D151135288467997304170449.7174.0156</p>
+<p xml:lang="deu">E12262278224008114125910.8199.825</p>
+<p xml:lang="nob">F1768526615442921617948.2243.839</p>
+<p xml:lang="pol">GP339617750211467342846.5243.232</p>
+<p xml:lang="isl">H15186308781756982.0115.102</p>
+<p xml:lang="eng">I10480490182470.626.700</p>
+<p xml:lang="smj">J16027762936383394.273.100</p>
+<p xml:lang="smn">M77652729191334.134.300</p>
+<p xml:lang="est">R143405548582962.57.000</p>
+<p xml:lang="nob">S9436963790182035.2205.301</p>
+<p xml:lang="smn">T2068590179697479827.979.741</p>
+<p xml:lang="kmr">U754383845921712644.4225.811</p>
+<p xml:lang="est">Rest2818025757028575025963420010.999.26468</p>
+<p xml:lang="est">Tils.5671145103250774337324356015.2120.9100100</p>
+<p xml:lang="est">Tils.8732881468328234161624</p>
+<p>Talva 3.2. Tættleiki av fiski (tal per hál) í stongdum og opnum økjum á føroyska landgrunninum og ávirkanina av at opna stongd økir uttan fyri 12 fjóðingar. <em type="bold">4. Meting av, um friðingarnar/stongdu økini í nøktandi mun gagna verndini av vistfrøðini og margfeldinum á Landgrunninum </em></p>
+<p>Vitan er ikki tøk í Føroyum til at svara hesum spurningi. Umfatandi kanningar mugu gerast, áðrenn spurningurin kann svarast.</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="eng">Tal per hál x areal</p>
+<p xml:lang="nno">Nýtt tal per hál x areal</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="vep">Areal</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p>Toskur</p>
+<p>Stongd økir uttan fyri 12 fj.29.421.86936027539717435427115084</p>
+<p>Opin økir uttan fyri 12 fj.4.560.54225791030321226410303212264</p>
+<p>Opin økir innan fyri 12 fj.64.6915.2111621751810176732751810176732</p>
+<p xml:lang="est">Samantalt1130239206431897553194080</p>
+<p>Lutfall0.790.94% niðurgongd216</p>
+<p>Stongd økir / opin økir6.453.43</p>
+<p xml:lang="isl">Hýsa</p>
+<p>Stongd økir uttan fyri 12 fj.113.40136.46936010614661277278164604766298</p>
+<p>Opin økir uttan fyri 12 fj.17.5981.872257939707218485303970721848530</p>
+<p>Opin økir innan fyri 12 fj.636.92815.54116217401635947736274016359477362</p>
+<p xml:lang="est">Samantalt8860172 12603169796331112092189</p>
+<p>Lutfall0.900.96% niðurgongd104</p>
+<p>Stongd økir / opin økir6.451.67</p>
+<p xml:lang="hbs">Upsi</p>
+<p>Stongd økir uttan fyri 12 fj.22.29170.089360208600159193693337585779</p>
+<p>Opin økir uttan fyri 12 fj.9.9762.582257922515514130662251551413066</p>
+<p>Opin økir innan fyri 12 fj.12.57170.401162114609119801901460911980190</p>
+<p xml:lang="est">Samantalt57984749851934645833979035</p>
+<p>Lutfall0.800.80% niðurgongd2020</p>
+<p>Stongd økir / opin økir2.232.7225 <em type="bold">5. Meting av, um friðingarnar/stongdu økini eru nøktandi í mun til uppbýtið millum trol/húk, gørn/húk og størri/smærri fiskifør </em></p>
+<p>Meginparturin av Landgrunninum er býttur sundir í reiðskapsøkiog skipastøddir. M.a. er -</p>
+<p>Ein stórur partur stongdur fyri trolveiðu, soleiðis at einans húkaveiða er loyvd, -</p>
+<p>Tær innastu leiðirnar eru stongdar fyri størru línuskipunum -</p>
+<p>Garnaveiða er avmarkað til djúp øki. -</p>
+<p>Troling eftir flatfiski loyvd í ávísum økjum um summarið.</p>
+<p>Ásetingarnar eru mettar neyðugar fyri at teir ymisku reiðsskapirnir kunnu virkað uttan darving av øðrum reiðskapum, men tær hava harumframt tann virknað, at meginparturin av toski og hýsu verður veiddur við húki, og eru ikki í ein stóran mun atkomilig fyri trolarar. Av og á neyðugt at endurskoða, um broytingar eiga at gerast í verandi uppbýti. Men tað hevur týdning, at fiskivinnan í breiðum høpi kann taka undir við uppskotum, ið viðføra umfatandi broytingar. Arbeiðsbólkurin hevur ikki eina nóg stóra vinnuliga samanseting til at hann er førur fyri at tryggja tað. Tí verður skotið upp, at ein tílík endurskoðan verður fyriskipað við breiðari vinnuligari umboðan, enn hesin bólkurin hevur.</p>
+<p>Bólkurin metir tó, at hann kann mæla til ávísar smærri broytingar, ið hava stóran týdning fyri dagligu arbeiðsgongdina hjá teimum skipum, ið merkja broytingarnar, uttan at tær vera mettar at darva øðrum skipabólkum í stórvegis mun.</p>
+<p>Fyri at gera tað møguligt at tóva so samanhangandi sum gjørligt millum økini eystanfyri, norðanfyri og vestanfyri, verður mælt til fylgjandi broytingar:</p>
+<p xml:lang="est">Kassi D, vestari partur (Norðanfyri, stongt fyri troling) 62°35’N, 08°00’V  62°34’N, 08°00’V 62°47’N, 07°12’05’’V  62°43’5N, 07°12’5V</p>
+<p>Øki T (Í útnyrðing úr Mykinesi, mett at vera ungfiskaleið) 62°38’N, 08°00V 62°34’N, 08°00’V 62°29’8’’N, 08°00’V 62°12’N, 08°34’5 V 62°12’N, 08°46’V 62°12’N, 08°42’V 62°18’N,08°45’V 62°18’N, 08°38’V &amp;62°24’N, 08°26’V 26 <em type="bold">6. Meting um skipanina við bráðfeingis veiðibanni </em>Fiskiveiðeftirlitið, kann við heimild í løgtingslóg nr. 28 frá 10. mars 1994 § 35 stk. 3, áseta bráðfeingis veiðibann, fyri ávísar veiðihættir á ávísum økjum, um ov stórur partur av veiddu nøgdini er ungfiskur. Heimild, at áseta bráðfeingis veiðibann, var eisini í lógum og kunngerðum, ið vóru galdandi, áðrenn Løgtingslógin um vinnuligan fiskiskap varð lýst í 1994. Ásetingar um bráðfeingis veiðibann hava verið galdandi síðan 1978 (§ 4, stk. 1 og 2 í løgtingslóg nr. 8 frá 29. mars 1978). <em type="italic">Stutt lýsing av skipanini </em>Skiparar á fiskiførum, ið reka fiskiskap á landleiðini, hava skyldu til alt fyri eitt at boða Fiskiveiðieftirlitinum frá, um so er, at íblandingin av ungfiski í veiðu teirra av ávísum fiskasløgum er størri enn tað hámark, ið ásett verður sambært reglunum um heiti ungfiskur og hámark fyri íblanding av ungfiski. Hesir skiparar hava somuleiðis skyldu til at upplýsa um íblandingina av ungfiski, tá ið Fiskiveiðieftirlitið biður um tað. Fiskiveiðieftirlitið hevur skyldu til, at kanna íblandingina av ungfiski í fiskiførum og tá landað verður til virkir. Við teirri avmarkaðu arbeiðsorku, ið Fiskiveiðeftirlitið hevur, hevur ikki verið gjørligt, at gjørt kanningar av øllum fiskiførum, ið hava fráboðað ov nógvan ungfisk. Fiskiveiðieftirlitið hevur tí ment eina elektroniska fráboðanarskipan, har tey skip, ið fáa ov nógvan ungfisk, kunnu fráboða hetta. Hetta verður gjørt yvir heimasíðuna hjá stovninum. Trolarar skulu fráboða positión, klokku og dýpi tá ið skotið varð og eisini, tá ið hálað varð. Harafturat skal prosentparturin av ungfiski og samlaða nøgdin í hálinum fráboðast. Tey, ið fiska við línu og snellu, hava eisini møguleika, at fráboða við somu skipan. Fiskiveiðeftirlitið brúkar hesar fráboðanir, saman við úrslitum av kanningum á sjógvi og landi sum grundarlag, tá ið metast skal um, um bráðfeingis veiðubann skal lýsast á ávísum øki. So skjótt Fiskiveiðeftirlitið heldur málið vera nóg væl lýst, skal avgerð takast um, hvørt viðkomandi fiskiveiða á viðkomandi øki skal verða steðgað. Økið, ið stongt verður, skal ikki vera størri enn mett verður neyðugt, til tess at sleppa undan eini íblanding av ungfiski, ið er størri enn ásett. Kunngerðin um veiðusteðg skal verða lýst í Útvarpi Føroya so skjótt til ber. Veiðusteðgurin fær tó ikki gildi fyri tað einstaka skipið, fyrrenn tað hevur havt høvi til at fáa reiðskapin inn.Vanligt hevur verið, at um talan er um øki, har trolarar royna, so ganga einir 3 tímar millum lýsingina og til økið verður stongt. Hjá teimum, ið royna við línu, er skotbráið nakað longri. Tað er eitt sindur ójavnt, hvussu títtleikin av bráðfeingis veiðubannum hevur verið. Tvey tey seinastu árini, hava ikki nógv bráðfeingis veiðubann verið lýst. Nøkur eru kortini lýst. Taka vit hinvegin eitt ár sum til dømis 2011, so vórðu bráðfeingis veiðubann lýst 36 ferðir ( 14 dagar hvørja ferð). 16 ferðir var stongt fyri trol, 4 ferðir fyri allan reiðskap og 16 ferðir fyri línu. Taka vit trolið fyrst, so vórðu øki á Munkagrunninum stongd 12 ferðir og øki á Fugloyarbanka/Nólsoyarbanka stongd 4 ferðir. Hetta hevur verið økislutfallið, bæði undan og eftir 2011. Tá ið tað snýr seg um línuna, so eru tað í størstan mun leiðir innanfyri 12 fjórðingar norðanfyri og vestanfyri, ið hava verið stongdar. Hendinga ferð, er bráðfeingis veiðubann lýst vestanfyri Suðuroynna. Samanumtikið meta vit, at skipanin við bráðfeingis veiðubanni, í ávísum førum er tálmandi. Har ungfiskur bert fæst hendinga ferð, meta vit, at skipanin er góð. 27 </p>
+<p>Er talan hinvegin um tey økini, sum javnan verða stongd, meta vit, at aðrar skipanir høvdu verið munandi betri. Har eru aðrir møguleikar, ið áttu at verði royndir. Talan kundi til dømis verið um: -</p>
+<p>VØRN fær víðkaðar heimildir viðvíkjandi bráfeingis veiðibanni, t.d. til at steingja í longri tíðarskeið enn teir 14 dagarnar, ið heimildin loyvir í dag. Viðmerkjast skal tó, at okkara hugsan er, at ávís serliga viðkvom øki, áttu at verði stongd alt árið. -</p>
+<p>At skipa reglurnar soleiðis, at hámarkið (prosentparturin) av ungfiski, gerst lægri í framtíðini -</p>
+<p>At skipa so fyri, at ikki verður loyvt, at fiska við trolið uttan skiljirist, í økjum, har royndir gjøgnum nógv ár vísa, at mestsum alt ið fæst, er ungfiskur (upsi). -</p>
+<p>Mælt verður til, at royndir við rist verða gjørdar eisini til onnur fiskasløg. 28</p>
 <p xml:lang="fin"><em type="bold">Ískoyti </em></p>
 <p>Ískoytistalva 1. Útgreinað útrokning av útbreiðsluni (%) hjá búnum og óbúnum fiski í mars í mun til stongdar kassar (gýtingarfriðingar).</p>
-<p xml:lang="deu">Landgrunn.TalTal per hálÚtbreiðsla SlagKassiBúgvinÓbúgvinTils.Tal hálVídd (km2) BúgvinÓbúgvinBúgvinÓbúgvin Toskur304.22.2 336.312.5 105.72.0 155.51.0 2040.315.8 6.60.4 Rest46.55.1 Tils.107.84.8 Hýsa211.7199.8 88.880.9 141.862.5 197.166.9 262.285.8 227.01223.9 Rest130.8233.4 Tils.142.8222.4 Upsi12.538.5 0.02.8 41.1268.6 67.7241.6 0.61.0 5.63.0 Rest7.239.9 Tils.10.653.0 Tils.</p>
-<p>Føroyabanki Toskur32.13.2 Rest0.90.0 Tils.21.92.1 Hýsa70.449.4 Rest23.2164.8 Tils.54.987.3 Upsi3.43.8 Rest16.013.6 Tils.7.57.0 Tils.</p>
-<p>Ískoytismynd 1. Útbreiðsla av óbúnum toski í mars í mun til stongdar gýtingarleiðir (tal av fiski pr troltíma,  &lt;45  cm  á  Landgrunninum,  &lt;68  cm  á  Føroyabanka).  Tøl  frá  yvirlitstrolingunum  hjá  Magnusi  Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd 2. Útbreiðsla av óbúnaðari hýsu í mars í mun til stongdar gýtingarleiðir (tal av fiski pr troltíma, &lt;37  cm  á  Landgrunninum,  &lt;40  cm  á  Føroyabanka).  Tøl  frá  yvirlitstrolingunum  hjá  Magnusi  Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd 3. Útbreiðsla av óbúnum upsa í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal av fiski pr troltíma, &lt;62 cm á Landgrunninum, &lt;64 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytistalva  2.  Útgreinað  útrokning  av  útbreiðsluni  (%)  hjá  búnum  og  óbúnum  fiski  í  august-september  í mun til stongdar kassar fyri trol.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassiBúgvinÓbúgvinTils.Tal hálVídd (km2) BúgvinÓbúgvinBúgvinÓbúgvin ToskurC33.00.3 D31.21.4 E8.31.9 F51.93.1 GP8.60.0 H64.46.3 I13.22.7 J9.41.9 M5.70.1 R3.60.0 S12.30.2 T18.61.1 U4.20.5 Rest25.05.5 Til</p>
-<p xml:lang="deu">Føroyabanki ToskurA16.94.7 a1.10.2 Rest0.50.1 Tils.11.63.2 HýsaA231.2188.8 a29.631.4 Rest18.683.5 Tils.162.2149.0 UpsiA3.735.7 a3.32.3 Rest13.517.3 Tils.5.928.2 Tils.</p>
-<p>Ískoytistalva  3.  Útgreinað  útrokning  av  útbreiðsluni  (%)  hjá  búnum  og  óbúnum  fiski  í  august-september  í mun til stongdar kassar fyri trol. Somu tøl sum í Ískoytistalvu 2, men økið innan fyri 12 fj. sjómarkið er ikki við í samanberingini.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassiBúgvinÓbúgvinTils.Tal hálVídd (km2) BúgvinÓbúgvinBúgvinÓbúgvin ToskurC33.00.3 D31.21.4 E8.31.9 F51.93.1 GP8.60.0 H64.46.3 I13.22.7 J9.41.9 M5.70.1 R3.60.0 S12.30.2 T18.61.1 U4.20.5 Rest7.80.9 Tils.17.01.3 HýsaC89.051.3 D130.085.0 E133.0494.4 F110.874.4 GP31.6125.3 H263.298.0 I180.3111.1 J212.5314.3 M50.473.9 R7.543.7 S71.877.4 T19.212.1 U18.531.6 Rest30.0139.5 Tils.64.7133.0 UpsiC31.9187.6 D49.7174.0 E10.8199.8 F8.2243.8 GP46.5243.2 H2.0115.1 I0.626.7 J4.273.1 M4.134.3 R2.57.0 S5.2205.3 T27.979.7 U44.4225.8 Rest17.0106.6 Tils.20.5133.8 Tils.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="isl">Vídd (km2) Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p>Toskur166611491671022192022304.22.21822211897862197563386336.312.542388751679042841309105.72.0414948363954661891155.51.04054284733143178212612040.315.816271468154223236.60.400</p>
+<p xml:lang="est">Rest7477381498292216073836846.55.15392</p>
+<p xml:lang="est">Tils.2239249995233919207743560107.84.8100100</p>
+<p xml:lang="isl">Hýsa14635843751901092192022211.7199.874255945095106896338688.880.910311911524717158841309141.862.53141202240821610461891197.166.931555061802730821261262.285.81074994269263192022323227.01223.914</p>
+<p xml:lang="est">Rest210180375115585295160738368130.8233.48490</p>
+<p xml:lang="est">Tils.296565462018758583207743560142.8222.4100100</p>
+<p xml:lang="hbs">Upsi12737843911176219202212.538.56421174175633860.02.80033451225612601284130941.1268.613164412814738188666189167.7241.614105122133212610.61.000712467191223235.63.000</p>
+<p xml:lang="est">Rest1152864118756461607383687.239.96670</p>
+<p xml:lang="est">Tils.2198111011813209920774356010.653.0100100</p>
+<p xml:lang="est">Tils.5424705821311124601</p>
+<p>Føroyabanki Toskur811118110012218346368232.13.29699</p>
+<p xml:lang="est">Rest157516216953970.90.041</p>
+<p xml:lang="est">Tils.11275110512380515907921.92.1100100</p>
+<p xml:lang="isl">Hýsa8243681709641464346368270.449.46717</p>
+<p xml:lang="est">Rest39272785631783169539723.2164.83383</p>
+<p xml:lang="est">Tils.282954495273247515907954.987.3100100</p>
+<p xml:lang="hbs">Upsi811791305248434636823.43.81316</p>
+<p xml:lang="est">Rest270022924992169539716.013.68784</p>
+<p xml:lang="est">Tils.38793597747651590797.57.0100100</p>
+<p xml:lang="est">Tils.43449496549310329</p>
+<p>Ískoytismynd 1. Útbreiðsla av óbúnum toski í mars í mun til stongdar gýtingarleiðir (tal av fiski pr troltíma, &lt;45 cm á Landgrunninum, &lt;68 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
+<p>Ískoytismynd 2. Útbreiðsla av óbúnaðari hýsu í mars í mun til stongdar gýtingarleiðir (tal av fiski pr troltíma, &lt;37 cm á Landgrunninum, &lt;40 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar. 30</p>
+<p>Ískoytismynd 3. Útbreiðsla av óbúnum upsa í mars í mun til stongdar gýtingarleiðir. Úrslitini (tal av fiski pr troltíma, &lt;62 cm á Landgrunninum, &lt;64 cm á Føroyabanka). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar. 31</p>
+<p>Ískoytistalva 2. Útgreinað útrokning av útbreiðsluni (%) hjá búnum og óbúnum fiski í august-september í mun til stongdar kassar fyri trol.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="isl">Vídd (km2) Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p>Toskur</p>
+<p xml:lang="eng">C3693323725112133533.00.340</p>
+<p xml:lang="nob">D94744309904304170431.21.451</p>
+<p xml:lang="deu">E942214115611412598.31.911</p>
+<p xml:lang="nob">F1121366811881216179451.93.183</p>
+<p xml:lang="pol">GP6251626734288.60.000</p>
+<p xml:lang="isl">H483147453057569864.46.342</p>
+<p xml:lang="eng">I237482851824713.22.700</p>
+<p xml:lang="smj">J35972431383399.41.900</p>
+<p xml:lang="smn">M1081109191335.70.100</p>
+<p xml:lang="est">R2100210582963.60.000</p>
+<p xml:lang="nob">S22132241820312.30.200</p>
+<p xml:lang="smn">T13738414577479818.61.110</p>
+<p xml:lang="kmr">U72981171264.20.500</p>
+<p xml:lang="est">Rest64888143467923425963420025.05.57692</p>
+<p xml:lang="est">Tils.982461638211462837324356026.34.4100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C9970574315713112133589.051.311</p>
+<p xml:lang="nob">D3950525827653323041704130.085.021</p>
+<p xml:lang="deu">E1516156363715241141259133.0494.425</p>
+<p xml:lang="nob">F2394216071400132161794110.874.421</p>
+<p xml:lang="pol">GP23079147114547342831.6125.300</p>
+<p xml:lang="isl">H1973873492708775698263.298.021</p>
+<p xml:lang="eng">I32452000524518247180.3111.110</p>
+<p xml:lang="smj">J8074119422001638339212.5314.311</p>
+<p xml:lang="smn">M957140423611913350.473.900</p>
+<p xml:lang="est">R43425342968582967.543.700</p>
+<p xml:lang="nob">S1292139326851820371.877.400</p>
+<p xml:lang="smn">T142089523157479819.212.100</p>
+<p xml:lang="kmr">U3145388521712618.531.600</p>
+<p xml:lang="est">Rest5919728597081451680259634200228.0331.28890</p>
+<p xml:lang="est">Tils.71833110009141719245373243560192.5268.2100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C35712100724578112133531.9187.675</p>
+<p xml:lang="nob">D151135288467997304170449.7174.0156</p>
+<p xml:lang="deu">E12262278224008114125910.8199.825</p>
+<p xml:lang="nob">F1768526615442921617948.2243.839</p>
+<p xml:lang="pol">GP339617750211467342846.5243.232</p>
+<p xml:lang="isl">H15186308781756982.0115.102</p>
+<p xml:lang="eng">I10480490182470.626.700</p>
+<p xml:lang="smj">J16027762936383394.273.100</p>
+<p xml:lang="smn">M77652729191334.134.300</p>
+<p xml:lang="est">R143405548582962.57.000</p>
+<p xml:lang="nob">S9436963790182035.2205.301</p>
+<p xml:lang="smn">T2068590179697479827.979.741</p>
+<p xml:lang="kmr">U754383845921712644.4225.811</p>
+<p xml:lang="est">Rest2818025757028575025963420010.999.26468</p>
+<p xml:lang="est">Tils.5671145103250774337324356015.2120.9100100</p>
+<p xml:lang="est">Tils.87328814683282341616</p>
+<p>Føroyabanki Toskur</p>
+<p xml:lang="est">A625817317989370368216.94.79597a621072548221.10.211</p>
+<p xml:lang="est">Rest6897712845750.50.142</p>
+<p xml:lang="est">Tils.638817508138552907911.63.2100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="est">A85540698551553953703682231.2188.88963a1597169732945482229.631.432</p>
+<p xml:lang="est">Rest23751069313068128457518.683.5935</p>
+<p xml:lang="est">Tils.89512822451717575529079162.2149.0100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="est">A1380132211460137036823.735.71862a177125302548223.32.331</p>
+<p xml:lang="est">Rest172222163938128457513.517.37937</p>
+<p xml:lang="est">Tils.3279155621884155290795.928.2100100</p>
+<p xml:lang="est">Tils.991799955719873632</p>
+<p>Ískoytistalva 3. Útgreinað útrokning av útbreiðsluni (%) hjá búnum og óbúnum fiski í august-september í mun til stongdar kassar fyri trol. Somu tøl sum í Ískoytistalvu 2, men økið innan fyri 12 fj. sjómarkið er ikki við í samanberingini.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="isl">Vídd (km2) Búgvin</p>
+<p>Óbúgvin</p>
+<p xml:lang="ita">Búgvin</p>
+<p>Óbúgvin</p>
+<p>Toskur</p>
+<p xml:lang="eng">C3693323725112133533.00.3101</p>
+<p xml:lang="nob">D94744309904304170431.21.4126</p>
+<p xml:lang="deu">E942214115611412598.31.926</p>
+<p xml:lang="nob">F1121366811881216179451.93.12114</p>
+<p xml:lang="pol">GP6251626734288.60.010</p>
+<p xml:lang="isl">H483147453057569864.46.31012</p>
+<p xml:lang="eng">I237482851824713.22.712</p>
+<p xml:lang="smj">J35972431383399.41.912</p>
+<p xml:lang="smn">M1081109191335.70.100</p>
+<p xml:lang="est">R2100210582963.60.000</p>
+<p xml:lang="nob">S22132241820312.30.210</p>
+<p xml:lang="smn">T13738414577479818.61.132</p>
+<p xml:lang="kmr">U72981171264.20.500</p>
+<p xml:lang="est">Rest118461410132561524225797.80.93955</p>
+<p xml:lang="est">Tils.4520434464865026603193917.01.3100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C9970574315713112133589.051.372</p>
+<p xml:lang="nob">D3950525827653323041704130.085.0133</p>
+<p xml:lang="deu">E1516156363715241141259133.0494.41014</p>
+<p xml:lang="nob">F2394216071400132161794110.874.4113</p>
+<p xml:lang="pol">GP23079147114547342831.6125.311</p>
+<p xml:lang="isl">H1973873492708775698263.298.0112</p>
+<p xml:lang="eng">I32452000524518247180.3111.131</p>
+<p xml:lang="smj">J8074119422001638339212.5314.342</p>
+<p xml:lang="smn">M957140423611913350.473.900</p>
+<p xml:lang="est">R43425342968582967.543.700</p>
+<p xml:lang="nob">S1292139326851820371.877.410</p>
+<p xml:lang="smn">T142089523157479819.212.110</p>
+<p xml:lang="kmr">U3145388521712618.531.600</p>
+<p xml:lang="est">Rest4565321253325818615242257930.0139.53971</p>
+<p xml:lang="est">Tils.17201235373952575126603193964.7133.0100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C35712100724578112133531.9187.676</p>
+<p xml:lang="nob">D151135288467997304170449.7174.0147</p>
+<p xml:lang="deu">E12262278224008114125910.8199.826</p>
+<p xml:lang="nob">F1768526615442921617948.2243.8211</p>
+<p xml:lang="pol">GP339617750211467342846.5243.233</p>
+<p xml:lang="isl">H15186308781756982.0115.102</p>
+<p xml:lang="eng">I10480490182470.626.700</p>
+<p xml:lang="smj">J16027762936383394.273.101</p>
+<p xml:lang="smn">M77652729191334.134.300</p>
+<p xml:lang="est">R143405548582962.57.000</p>
+<p xml:lang="nob">S9436963790182035.2205.301</p>
+<p xml:lang="smn">T2068590179697479827.979.742</p>
+<p xml:lang="kmr">U754383845921712644.4225.811</p>
+<p xml:lang="est">Rest2588716246618835315242257917.0106.66560</p>
+<p xml:lang="est">Tils.5441835592841034626603193920.5133.8100100</p>
+<p xml:lang="est">Tils.27163471311398474733</p>
 <p>Ískoytistalva 4. Útgreinað útrokning av útbreiðsluni (%) hjá ungfiski og vaksnum fiski í august-september í mun til stongdar kassar fyri trol.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassiUngfiskur VaksinTils.Tal hálVídd (km2) Ungfiskur VaksinUngfiskur Vaksin ToskurC1.232.1 D2.829.7 E2.57.6 F6.448.6 GP0.08.5 H14.256.5 I4.910.9 J3.57.9 M0.65.2 R0.03.6 S0.412.0 T2.117.6 U1.33.5 Rest9.221.3 Tils.7.523.2 HýsaC85.155.2 D136.878.1 E580.247.2 F118.966.3 GP142.014.9 H221.5139.7 I197.893.6 J451.075.7 M102.721.6 R47.53.7 S106.942.3 T18.412.9 U40.99.2 Rest449.8109.4 Tils.366.394.4 UpsiC133.186.4 D112.9110.8 E172.538.1 F213.538.5 GP132.4157.3 H108.98.2 I24.42.8 J59.517.8 M26.911.4 R3.26.3 S175.834.8 T46.461.3 U127.9142.2 Rest81.428.7 Tils.95.540.6 Tils.</p>
-<p xml:lang="deu">Føroyabanki ToskurA0.920.7 a0.01.3 Rest0.00.6 Tils.0.614.2 HýsaA251.5168.5 a36.824.2 Rest88.613.5 Tils.192.7118.4 UpsiA25.613.8 a0.45.2 Rest5.225.6 Tils.18.415.7 Tils.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p>Ungfiskur Vaksin</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="isl">Vídd (km2) Ungfiskur Vaksin</p>
+<p>Ungfiskur Vaksin</p>
+<p>Toskur</p>
+<p xml:lang="eng">C1303595372511213351.232.104</p>
+<p xml:lang="nob">D8659039990430417042.829.715</p>
+<p xml:lang="deu">E290866115611412592.57.611</p>
+<p xml:lang="nob">F1393104881188121617946.448.639</p>
+<p xml:lang="pol">GP3623626734280.08.500</p>
+<p xml:lang="isl">H1066423953057569814.256.534</p>
+<p xml:lang="eng">I89196285182474.910.900</p>
+<p xml:lang="smj">J132299431383393.57.900</p>
+<p xml:lang="smn">M1198109191330.65.200</p>
+<p xml:lang="est">R0210210582960.03.600</p>
+<p xml:lang="nob">S8216224182030.412.000</p>
+<p xml:lang="smn">T15413031457747982.117.601</p>
+<p xml:lang="kmr">U225981171261.33.500</p>
+<p xml:lang="est">Rest2386955365792342596342009.221.39074</p>
+<p xml:lang="est">Tils.28032865961146283732435607.523.2100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C9527618615713112133585.155.212</p>
+<p xml:lang="nob">D4157723755653323041704136.878.113</p>
+<p xml:lang="deu">E661465378715241141259580.247.241</p>
+<p xml:lang="nob">F2568314330400132161794118.966.313</p>
+<p xml:lang="pol">GP1036510891145473428142.014.900</p>
+<p xml:lang="isl">H16613104742708775698221.5139.712</p>
+<p xml:lang="eng">I35601685524518247197.893.601</p>
+<p xml:lang="smj">J1713928772001638339451.075.711</p>
+<p xml:lang="smn">M1951410236119133102.721.600</p>
+<p xml:lang="est">R275621229685829647.53.700</p>
+<p xml:lang="nob">S1924761268518203106.942.300</p>
+<p xml:lang="smn">T135895723157479818.412.900</p>
+<p xml:lang="kmr">U6951578521712640.99.200</p>
+<p xml:lang="est">Rest11675722841081451680259634200449.8109.49087</p>
+<p xml:lang="est">Tils.13668663523791719245373243560366.394.4100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C149059673245781121335133.186.447</p>
+<p xml:lang="nob">D3431233685679973041704112.9110.8512</p>
+<p xml:lang="deu">E196604348240081141259172.538.153</p>
+<p xml:lang="nob">F461148315544292161794213.538.5104</p>
+<p xml:lang="pol">GP9666114802114673428132.4157.314</p>
+<p xml:lang="isl">H8165616878175698108.98.220</p>
+<p xml:lang="eng">I439514901824724.42.800</p>
+<p xml:lang="smj">J226067629363833959.517.810</p>
+<p xml:lang="smn">M5122177291913326.911.400</p>
+<p xml:lang="est">R183365548582963.26.300</p>
+<p xml:lang="nob">S3164626379018203175.834.810</p>
+<p xml:lang="smn">T3435453479697479846.461.313</p>
+<p xml:lang="kmr">U21742418459217126127.9142.201</p>
+<p xml:lang="est">Rest2112747447628575025963420081.428.76963</p>
+<p xml:lang="est">Tils.35626315148050774337324356095.540.6100100</p>
+<p xml:lang="est">Tils.17511615904552341616</p>
+<p>Føroyabanki Toskur</p>
+<p xml:lang="est">A3177672798937036820.920.710095a07272548220.01.301</p>
+<p xml:lang="est">Rest0777712845750.00.603</p>
+<p xml:lang="est">Tils.3177821813855290790.614.2100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="est">A93051623441553953703682251.5168.56888a1987130732945482236.824.223</p>
+<p xml:lang="est">Rest11338173013068128457588.613.5309</p>
+<p xml:lang="est">Tils.106376653811717575529079192.7118.4100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="est">A9484511714601370368225.613.88030a20282302548220.45.202</p>
+<p xml:lang="est">Rest6613277393812845755.225.62068</p>
+<p xml:lang="est">Tils.10165867618841552907918.415.7100100</p>
+<p xml:lang="est">Tils.1168588187819873634</p>
 <p>Ískoytistalva 5. Útgreinað útrokning av útbreiðsluni (%) hjá ungfiski og vaksnum fiski í august-september í mun til stongdar kassar fyri trol. Somu tøl sum í Ískoytistalvu 4, men økið innan fyri 12 fj. sjómarkið er ikki við í samanberingini.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassiUngfiskur VaksinTils.Tal hálVídd (km2) Ungfiskur VaksinUngfiskur Vaksin ToskurC1.232.1 D2.829.7 E2.57.6 F6.448.6 GP0.08.5 H14.256.5 I4.910.9 J3.57.9 M0.65.2 R0.03.6 S0.412.0 T2.117.6 U1.33.5 Rest1.77.0 Tils.2.515.8 HýsaC85.155.2 D136.878.1 E580.247.2 F118.966.3 GP142.014.9 H221.5139.7 I197.893.6 J451.075.7 M102.721.6 R47.53.7 S106.942.3 T18.412.9 U40.99.2 Rest156.013.4 Tils.164.333.4 UpsiC133.186.4 D112.9110.8 E172.538.1 F213.538.5 GP132.4157.3 H108.98.2 I24.42.8 J59.517.8 M26.911.4 R3.26.3 S175.834.8 T46.461.3 U127.9142.2 Rest80.643.0 Tils.100.753.6 Tils.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi</p>
+<p>Ungfiskur Vaksin</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="isl">Vídd (km2) Ungfiskur Vaksin</p>
+<p>Ungfiskur Vaksin</p>
+<p>Toskur</p>
+<p xml:lang="eng">C1303595372511213351.232.1210</p>
+<p xml:lang="nob">D8659039990430417042.829.7712</p>
+<p xml:lang="deu">E290866115611412592.57.642</p>
+<p xml:lang="nob">F1393104881188121617946.448.61621</p>
+<p xml:lang="pol">GP3623626734280.08.501</p>
+<p xml:lang="isl">H1066423953057569814.256.5149</p>
+<p xml:lang="eng">I89196285182474.910.921</p>
+<p xml:lang="smj">J132299431383393.57.921</p>
+<p xml:lang="smn">M1198109191330.65.200</p>
+<p xml:lang="est">R0210210582960.03.600</p>
+<p xml:lang="nob">S8216224182030.412.001</p>
+<p xml:lang="smn">T15413031457747982.117.623</p>
+<p xml:lang="kmr">U225981171261.33.500</p>
+<p xml:lang="est">Rest255810698132561524225791.77.05238</p>
+<p xml:lang="est">Tils.672141929486502660319392.515.8100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C9527618615713112133585.155.229</p>
+<p xml:lang="nob">D4157723755653323041704136.878.1415</p>
+<p xml:lang="deu">E661465378715241141259580.247.2147</p>
+<p xml:lang="nob">F2568314330400132161794118.966.3414</p>
+<p xml:lang="pol">GP1036510891145473428142.014.911</p>
+<p xml:lang="isl">H16613104742708775698221.5139.7311</p>
+<p xml:lang="eng">I35601685524518247197.893.613</p>
+<p xml:lang="smj">J1713928772001638339451.075.733</p>
+<p xml:lang="smn">M1951410236119133102.721.600</p>
+<p xml:lang="est">R275621229685829647.53.700</p>
+<p xml:lang="nob">S1924761268518203106.942.301</p>
+<p xml:lang="smn">T135895723157479818.412.901</p>
+<p xml:lang="kmr">U6951578521712640.99.200</p>
+<p xml:lang="est">Rest23769220494258186152422579156.013.46635</p>
+<p xml:lang="est">Tils.43698688765525751266031939164.333.4100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C149059673245781121335133.186.467</p>
+<p xml:lang="nob">D3431233685679973041704112.9110.8612</p>
+<p xml:lang="deu">E196604348240081141259172.538.173</p>
+<p xml:lang="nob">F461148315544292161794213.538.5134</p>
+<p xml:lang="pol">GP9666114802114673428132.4157.324</p>
+<p xml:lang="isl">H8165616878175698108.98.220</p>
+<p xml:lang="eng">I439514901824724.42.800</p>
+<p xml:lang="smj">J226067629363833959.517.810</p>
+<p xml:lang="smn">M5122177291913326.911.400</p>
+<p xml:lang="est">R183365548582963.26.300</p>
+<p xml:lang="nob">S3164626379018203175.834.810</p>
+<p xml:lang="smn">T3435453479697479846.461.313</p>
+<p xml:lang="kmr">U21742418459217126127.9142.211</p>
+<p xml:lang="est">Rest1228106554318835315242257980.643.06063</p>
+<p xml:lang="est">Tils.267799142547410346266031939100.753.6100100</p>
+<p xml:lang="est">Tils.71150627324198474735</p>
 <p>Ískoytistalva 6. Útgreinað útrokning av útbreiðsluni (%) hjá fiski í ávísum støddarbólkum (&lt; 60 cm, 60-70 cm, &gt; 70 cm) í august-september í mun til stongdar kassar fyri trol.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassi&lt; 6060-69&gt; 70Tils.Tal hálVídd (km2) &lt; 6060-69&gt; 70&lt; 6060-69&gt; 70 ToskurC13.813.36.2 D10.811.810.0 E4.52.73.0 F20.922.211.9 GP0.82.75.0 H40.322.87.6 I9.94.61.3 J6.93.01.5 M1.82.31.6 R0.11.12.4 S2.05.84.7 T6.47.06.2 U2.71.10.9 Rest20.17.03.4 Tils.17.78.44.6 HýsaC135.54.70.2 D208.06.50.4 E626.21.00.2 F180.04.90.3 GP155.90.80.1 H353.27.70.2 I286.74.60.1 J524.81.80.1 M123.70.60.0 R51.00.10.0 S146.22.50.4 T30.40.80.1 U49.80.30.0 Rest552.95.90.4 Tils.455.05.30.4 UpsiC173.137.19.2 D159.746.117.9 E195.611.63.4 F240.010.12.0 GP223.957.18.7 H114.42.00.7 I26.40.60.3 J70.75.80.7 M33.43.91.1 R6.12.21.1 S202.76.90.9 T72.924.610.2 U207.252.410.6 Rest95.710.73.7 Tils.115.815.35.0 Tils.</p>
-<p xml:lang="deu">Føroyabanki ToskurA2.52.516.5 a0.10.11.1 Rest0.00.10.5 Tils.1.71.711.3 HýsaA398.118.03.9 a56.14.40.5 Rest100.21.7</p>
-<p>Ískoytistalva 7. Útgreinað útrokning av útbreiðsluni (%) hjá fiski í ávísum støddarbólkum (&lt; 60 cm, 60-70 cm, &gt;  70 cm)  í  august-september  í mun  til  stongdar  kassar  fyri  trol.  Somu  tøl  sum  í  Ískoytistalvu 6, men  økið innan fyri 12 fj. sjómarkið er ikki við.</p>
-<p xml:lang="est">Landgrunn.TalTal per hálÚtbreiðsla SlagKassi&lt; 6060-69&gt; 70Tils.Tal hálVídd (km2) &lt; 6060-69&gt; 70&lt; 6060-69&gt; 70 ToskurC13.813.36.2 D10.811.810.0 E4.52.73.0 F20.922.211.9 GP0.82.75.0 H40.322.87.6 I9.94.61.3 J6.93.01.5 M1.82.31.6 R0.11.12.4 S2.05.84.7 T6.47.06.2 U2.71.10.9 Rest2.31.41.4 Tils.5.34.53.2 HýsaC135.54.70.2 D208.06.50.4 E626.21.00.2 F180.04.90.3 GP155.90.80.1 H353.27.70.2 I286.74.60.1 J524.81.80.1 M123.70.60.0 R51.00.10.0 S146.22.50.4 T30.40.80.1 U49.80.30.0 Rest99.20.30.0 Tils.139.41.40.1 UpsiC173.137.19.2 D159.746.117.9 E195.611.63.4 F240.010.12.0 GP223.957.18.7 H114.42.00.7 I26.40.60.3 J70.75.80.7 M33.43.91.1 R6.12.21.1 S202.76.90.9 T72.924.610.2 U207.252.410.6 Rest59.69.53.5 Tils.90.714.44.9 Tils.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi&lt; 6060-69&gt; 70</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="est">Vídd (km2) &lt; 6060-69&gt; 70&lt; 6060-69&gt; 70</p>
+<p>Toskur</p>
+<p xml:lang="eng">C154414856963725112133513.813.36.2255</p>
+<p xml:lang="nob">D3269358830479904304170410.811.810.0269</p>
+<p xml:lang="deu">E508308340115611412594.52.73.0112</p>
+<p xml:lang="nob">F45164802256311881216179420.922.211.951112</p>
+<p xml:lang="pol">GP62197367626734280.82.75.0001</p>
+<p xml:lang="isl">H3026170857153057569840.322.87.6353</p>
+<p xml:lang="eng">I1798224285182479.94.61.3000</p>
+<p xml:lang="smj">J26111456431383396.93.01.5000</p>
+<p xml:lang="smn">M344431109191331.82.31.6000</p>
+<p xml:lang="est">R861141210582960.11.12.4000</p>
+<p xml:lang="nob">S3610484224182032.05.84.7001</p>
+<p xml:lang="smn">T4755214611457747986.47.06.2123</p>
+<p xml:lang="kmr">U46191681171262.71.10.9000</p>
+<p xml:lang="est">Rest521751819088697923425963420020.17.03.4856964</p>
+<p xml:lang="est">Tils.66139312231726611462837324356017.78.44.6100100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C1517352119157131121335135.54.70.2131</p>
+<p xml:lang="nob">D632381974120653323041704208.06.50.4254</p>
+<p xml:lang="deu">E7138311724715241141259626.21.00.2412</p>
+<p xml:lang="nob">F38884106267400132161794180.04.90.3243</p>
+<p xml:lang="pol">GP1138262101145473428155.90.80.1000</p>
+<p xml:lang="isl">H26491581152708775698353.27.70.2121</p>
+<p xml:lang="eng">I5160832524518247286.74.60.1000</p>
+<p xml:lang="smj">J199427042001638339524.81.80.1100</p>
+<p xml:lang="smn">M2350110236119133123.70.60.0000</p>
+<p xml:lang="est">R29608029685829651.00.10.0000</p>
+<p xml:lang="nob">S2632458268518203146.22.50.4001</p>
+<p xml:lang="smn">T225358423157479830.40.80.1000</p>
+<p xml:lang="kmr">U847508521712649.80.30.0000</p>
+<p xml:lang="est">Rest14352781532610761451680259634200552.95.90.4898587</p>
+<p xml:lang="est">Tils.16979731992313491719245373243560455.05.30.4100100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C1939241551031245781121335173.137.19.2596</p>
+<p xml:lang="nob">D48559140065432679973041704159.746.117.961316</p>
+<p xml:lang="deu">E222941326388240081141259195.611.63.4532</p>
+<p xml:lang="nob">F518322172425544292161794240.010.12.0932</p>
+<p xml:lang="pol">GP1634441666362114673428223.957.18.7242</p>
+<p xml:lang="isl">H857815053878175698114.42.00.7200</p>
+<p xml:lang="eng">I4751054901824726.40.60.3000</p>
+<p xml:lang="smj">J26882212729363833970.75.80.7100</p>
+<p xml:lang="smn">M63474217291913333.43.91.1000</p>
+<p xml:lang="est">R35512865548582966.12.21.1000</p>
+<p xml:lang="nob">S364912516379018203202.76.90.9100</p>
+<p xml:lang="smn">T5398181975279697479872.924.610.2134</p>
+<p xml:lang="kmr">U3522890180459217126207.252.410.6111</p>
+<p xml:lang="est">Rest24832227712971628575025963420095.710.73.7686366</p>
+<p xml:lang="est">Tils.4320425695418747507743373243560115.815.35.0100100100</p>
+<p xml:lang="est">Tils.2196154108100373622341616</p>
+<p>Føroyabanki Toskur</p>
+<p xml:lang="est">A9409266123798937036822.52.516.5999695a576072548220.10.11.1111</p>
+<p xml:lang="est">Rest19677712845750.00.10.5034</p>
+<p xml:lang="est">Tils.9469426250813855290791.71.711.3100100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="est">A147283667514371553953703682398.118.03.9748593a30312352832945482256.14.40.5253</p>
+<p xml:lang="est">Rest1283021919130681284575100.21.70.123104</p>
+<p xml:lang="est">Tils.163144712914841717575529079295.612.92.7100100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="est">A12224180457314601370368233.04.91.5692415a67127108302548221.22.42.0134</p>
+<p xml:lang="est">Rest152415708443938128457511.912.36.6317480</p>
+<p xml:lang="est">Tils.138153501152518841552907925.06.32.8100100100</p>
+<p xml:lang="est">Tils.17790511572925919873636</p>
+<p>Ískoytistalva 7. Útgreinað útrokning av útbreiðsluni (%) hjá fiski í ávísum støddarbólkum (&lt; 60 cm, 60-70 cm, &gt; 70 cm) í august-september í mun til stongdar kassar fyri trol. Somu tøl sum í Ískoytistalvu 6, men økið innan fyri 12 fj. sjómarkið er ikki við.</p>
+<p xml:lang="isl">Landgrunn.</p>
+<p xml:lang="est">Tal</p>
+<p xml:lang="nno">Tal per hál</p>
+<p xml:lang="isl">Útbreiðsla</p>
+<p xml:lang="isl">Slag</p>
+<p xml:lang="kal">Kassi&lt; 6060-69&gt; 70</p>
+<p xml:lang="est">Tils.</p>
+<p xml:lang="est">Tal hál</p>
+<p xml:lang="est">Vídd (km2) &lt; 6060-69&gt; 70&lt; 6060-69&gt; 70</p>
+<p>Toskur</p>
+<p xml:lang="eng">C154414856963725112133513.813.36.211139</p>
+<p xml:lang="nob">D3269358830479904304170410.811.810.0111418</p>
+<p xml:lang="deu">E508308340115611412594.52.73.0324</p>
+<p xml:lang="nob">F45164802256311881216179420.922.211.9222922</p>
+<p xml:lang="pol">GP62197367626734280.82.75.0012</p>
+<p xml:lang="isl">H3026170857153057569840.322.87.616115</p>
+<p xml:lang="eng">I1798224285182479.94.61.3110</p>
+<p xml:lang="smj">J26111456431383396.93.01.5111</p>
+<p xml:lang="smn">M344431109191331.82.31.6000</p>
+<p xml:lang="est">R861141210582960.11.12.4001</p>
+<p xml:lang="nob">S3610484224182032.05.84.7011</p>
+<p xml:lang="smn">T4755214611457747986.47.06.2345</p>
+<p xml:lang="kmr">U46191681171262.71.10.9000</p>
+<p xml:lang="est">Rest598436563616132561524225792.31.41.4302332</p>
+<p xml:lang="est">Tils.199481668912013486502660319395.34.53.2100100100</p>
+<p xml:lang="isl">Hýsa</p>
+<p xml:lang="eng">C1517352119157131121335135.54.70.24159</p>
+<p xml:lang="nob">D632381974120653323041704208.06.50.482627</p>
+<p xml:lang="deu">E7138311724715241141259626.21.00.217311</p>
+<p xml:lang="nob">F38884106267400132161794180.04.90.372123</p>
+<p xml:lang="pol">GP1138262101145473428155.90.80.1112</p>
+<p xml:lang="isl">H26491581152708775698353.27.70.25136</p>
+<p xml:lang="eng">I5160832524518247286.74.60.1231</p>
+<p xml:lang="smj">J199427042001638339524.81.80.1411</p>
+<p xml:lang="smn">M2350110236119133123.70.60.0000</p>
+<p xml:lang="est">R29608029685829651.00.10.0000</p>
+<p xml:lang="nob">S2632458268518203146.22.50.4114</p>
+<p xml:lang="smn">T225358423157479830.40.80.1112</p>
+<p xml:lang="kmr">U847508521712649.80.30.0000</p>
+<p xml:lang="est">Rest2574417054025818615242257999.20.30.0491414</p>
+<p xml:lang="est">Tils.5201365302313525751266031939139.41.40.1100100100</p>
+<p xml:lang="hbs">Upsi</p>
+<p xml:lang="eng">C1939241551031245781121335173.137.19.28119</p>
+<p xml:lang="nob">D48559140065432679973041704159.746.117.9101821</p>
+<p xml:lang="deu">E222941326388240081141259195.611.63.4933</p>
+<p xml:lang="nob">F518322172425544292161794240.010.12.01542</p>
+<p xml:lang="pol">GP1634441666362114673428223.957.18.7363</p>
+<p xml:lang="isl">H857815053878175698114.42.00.7300</p>
+<p xml:lang="eng">I4751054901824726.40.60.3000</p>
+<p xml:lang="smj">J26882212729363833970.75.80.7100</p>
+<p xml:lang="smn">M63474217291913333.43.91.1000</p>
+<p xml:lang="est">R35512865548582966.12.21.1000</p>
+<p xml:lang="nob">S364912516379018203202.76.90.9100</p>
+<p xml:lang="smn">T5398181975279697479872.924.610.2256</p>
+<p xml:lang="kmr">U3522890180459217126207.252.410.6121</p>
+<p xml:lang="est">Rest15469424541911818835315242257959.69.53.5475055</p>
+<p xml:lang="est">Tils.338414537831814941034626603193990.714.44.9100100100</p>
+<p xml:lang="est">Tils.878498757743047598474737</p>
 <p>Ískoytismynd 4. Útbreiðsla av toski minni enn 59 cm í august-september í mun til stongd øki fyri trol (tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd  5.  Útbreiðsla  av  toski  60-69  cm  í  august-september  í  mun  til  stongd  øki  fyri  trol(tal  pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
+<p>Ískoytismynd 5. Útbreiðsla av toski 60-69 cm í august-september í mun til stongd øki fyri trol(tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar. 38</p>
 <p>Ískoytismynd 6. Útbreiðsla av toski størri enn 70 cm í august-september í mun til stongd øki fyri trol (tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd 7. Útbreiðsla av hýsu minni enn 59 cm í august-september í mun til stongd øki fyri trol (tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd  8.  Útbreiðsla  av  hýsu  60-69  cm  í  august-september  í  mun  til  stongd  øki  fyri  trol  (tal  pr troltíma. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd 9.  Útbreiðsla av hýsu fyri størri enn 70 cm í august-september í mun til stongd øki fyri trol. Úrslitini  (tal  pr  troltíma)  eru  víst.  Tøl  frá  yvirlitstrolingunum  hjá  Magnusi  Heinasyni.  Sjómarkið,  12  fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
+<p>Ískoytismynd 7. Útbreiðsla av hýsu minni enn 59 cm í august-september í mun til stongd øki fyri trol (tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar. 39</p>
+<p>Ískoytismynd 8. Útbreiðsla av hýsu 60-69 cm í august-september í mun til stongd øki fyri trol (tal pr troltíma. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
+<p>Ískoytismynd 9. Útbreiðsla av hýsu fyri størri enn 70 cm í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr troltíma) eru víst. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar. 40</p>
 <p>Ískoytismynd 10. Útbreiðsla av upsa minni enn 59 cm í august-september í mun til stongd øki fyri trol (tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
-<p>Ískoytismynd 11. Útbreiðsla av upsa 60-69 cm í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr troltíma) eru víst fyri fisk. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
+<p>Ískoytismynd 11. Útbreiðsla av upsa 60-69 cm í august-september í mun til stongd øki fyri trol. Úrslitini (tal pr troltíma) eru víst fyri fisk. Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar. 41</p>
 <p>Ískoytismynd 12. Útbreiðsla av upsa størri enn 70 cm í august-september í mun til stongd øki fyri trol(tal pr troltíma). Tøl frá yvirlitstrolingunum hjá Magnusi Heinasyni. Sjómarkið, 12 fj. umframt dýpdarlinjur 100-600 m eru vístar.</p>
 </body></document>

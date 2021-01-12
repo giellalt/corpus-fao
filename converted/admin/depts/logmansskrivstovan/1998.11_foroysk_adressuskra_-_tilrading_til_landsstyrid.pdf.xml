@@ -1,274 +1,222 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>5038</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>1998.11 Føroysk adressuskrá - Tilráðing til landsstýrið.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Fólkayvirlit</em> </p>
-<p>P-tal navn</p>
-<p xml:lang="dan"><em type="bold">adressa</em> </p>
-<p xml:lang="dan"><em type="bold">adressa</em> </p>
-<p>...</p>
-<p><em type="bold">Adressuskrá</em> </p>
-<p>...</p>
-<p><em type="bold">aðrar skráir</em> </p>
-<p><em type="bold">L-tal</em> <em type="bold">bygd</em> <em type="bold">vegur</em> <em type="bold">húsanr</em> </p>
-<p>hædd hurð</p>
-<p xml:lang="dan"><em type="bold">...</em> <em type="bold">Y-koord</em> <em type="bold">X-koord</em> </p>
-<p><em type="bold">Matrikul</em> </p>
-<p xml:lang="dan">Markatalsnr. Matr.nr Eigari</p>
-<p xml:lang="dan"><em type="bold">kort</em> </p>
-<p xml:lang="dan"><em type="bold">adressa</em> </p>
-<p xml:lang="dan">... Tilbúgving Vatn El Telefon ... ...</p>
-<p><em type="bold">Føroysk adressuskrá.</em> </p>
-<p>Tilráðing til Føroya Landsstýrið Vinnumálastýrið</p>
-<p>Sámal Clementsen Postverk Føroya Bergur DamHagstova Føroya Hans Suni EiriksfossLandsverkfrøðingurin Stein FossáMatrikulstovan Petur NielsenF LS Tórálvur StenbergLøgreglan</p>
-<p><em type="bold">Føroysk adressuskrá.</em> </p>
-<p>Tilráðing til Føroya Landsstýrið, Vinnumálastýrið.</p>
-<p><em type="bold">1. Fororð</em> </p>
-<p>1.1. Adressubólkurin 1.2. Samandráttur</p>
-<p><em type="bold">2. Adressur og adressuskráir</em> </p>
-<p>2.1. Um adressur og adressuskráir 2.2. Tørvurin á eini almennari adressuskrá 2.3. Felags ella sjálvstøðug adressuskrá</p>
-<p><em type="bold">3. Tilráðing</em> </p>
-<p>3.1. Skipan og hald av almennari adressuskrá 3.2. Ábyrgdarbýti, umsiting og lógargrundarlag 3.3. Vegleiðandi mannagongdir fyri kommunalari adressutilluting 3.4. Staðseting av almennu adressunum 3.5. Tá farið verður í gongd 3.6. Kostnaður</p>
-<p><em type="bold">4. Uppskot til lóg um almennar adressur og landsadressuskrá</em> </p>
-<p><em type="bold">5. Skjøl</em> </p>
-<p>5.1. Fundur um lokalitetsskráseting 26. nov. 1997 5.2. Uppskot til broyting í lóg um matrikulering og sundurbýti vm. 5.3. Verandi skipanir 5.3.1. Postverkið 5.3.2. Løgreglan 5.4. Útlendskt tilfar 5.4.1. Danskt lógaruppskot 5.4.2. Brot út norskum reglugerðum 5.5. Greinar Siga vit, at adressan er <em type="italic">Mylnugøta 26 í Klaksvík</em>, so vita postboðið, oljufelagið, Fólkayvirlitið og Jógvan við Keldu við umleið 5 metra neyvleika, hvar á jarðarklótini, vit eru stødd.  Óvissan er kanska bert avmarkað til, um tað nú eru høvuðsdyrnar ella kjallarahurðin, sum hesuferð skulu nýtast.  Ivast onkur kortini, so ber til at finna gøtuna á býarkortinum í telefonbókini, og tá tú ert komin á staðið, kanst tú telja teg fram til røttu dyrnar. </p>
-<p>Hetta er so, tí Klaksvíkin - eins og Havnin - hevur eina almenna adressuskipan, sum er kend og roynd.  Aðrastaðni hjálpist tú ikki so væl, ert tú ikki staðkendur ella fær onkran hagani at hjálpa tær.</p>
-<p>Gaman í.  Tað eru helst ikki so nógvir Pól'ar í eitt nú Hósvík, og har er kanska bert tann eini Pól Hansen.  Men eitur nú Pól hjá Peri <span type="quote">"Hansen"</span> ella "í Niðristovu" ?  Og er <span type="quote">"Niðristova"</span> tey gomlu húsini <span type="quote">"niðri í Stovu"</span> ella er tað, har Pol í Niðristovu býr?</p>
-<p>Vit verða færri, sum duga at siga tað.  Apoteksgentan í Havn tekur sum givið, at postboðið veit, hvagar heiluvágur skal, og avloysarin hjá læknanum í Kollafirði spyr læknaskrivaran.  Og soleiðis hjálpast vit onkursvegna.</p>
-<p><em type="bold">Mylnugøta</em> </p>
-<p><em type="bold">1.1 Adressubólkurin.</em> </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>5239</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>1998.11 Føroysk adressuskrá - Tilráðing til landsstýrið.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Adressuskrá </em></p>
+<p><em type="bold">L-tal bygd </em><em type="bold">vegur </em><em type="bold">húsanr </em>hæddhurð <em type="bold">... </em></p>
+<p xml:lang="dan"><em type="bold">Y-koord X-koord </em></p>
+<p><em type="bold">Fólkayvirlit </em></p>
+<p>P-tal navn <em type="bold">adressa </em>... </p>
+<p><em type="bold">Matrikul </em></p>
+<p xml:lang="dan">Markatalsnr.</p>
+<p xml:lang="dan">Matr.nr</p>
+<p>Eigari <em type="bold">adressa </em>... </p>
+<p>Tilbúgving</p>
+<p xml:lang="dan">Vatn</p>
+<p>El Telefon... ... <em type="bold">adressa </em>... <em type="bold">aðrar skráir </em><em type="bold">kort </em><em type="bold">17 </em>adressu-álitið / nov. '982 </p>
+<p><em type="bold">Føroysk adressuskrá. </em></p>
+<p>Tilráðingtil</p>
+<p>Føroya Landsstýrið</p>
+<p>Vinnumálastýrið</p>
+<p>Sámal Clementsen</p>
+<p>Postverk Føroya</p>
+<p>Bergur Dam</p>
+<p>Hagstova Føroya</p>
+<p>Hans Suni Eiriksfoss</p>
+<p>Landsverkfrøðingurin</p>
+<p>Stein Fossá</p>
+<p>Matrikulstovan</p>
+<p>Petur Nielsen</p>
+<p>F LS</p>
+<p>Tórálvur Stenberg</p>
+<p>Løgreglanadressu-álitið / nov. '983</p>
+<p><em type="bold">Føroysk adressuskrá. </em></p>
+<p>Tilráðing til Føroya Landsstýrið, Vinnumálastýrið. <em type="bold">1. Fororð </em>41.1. Adressubólkurin41.2. Samandráttur4 <em type="bold">2. Adressur og adressuskráir </em>62.1. Um adressur og adressuskráir62.2. Tørvurin á eini almennari adressuskrá62.3. Felags ella sjálvstøðug adressuskrá7 <em type="bold">3. Tilráðing </em>93.1. Skipan og hald av almennari adressuskrá93.2. Ábyrgdarbýti, umsiting og lógargrundarlag93.3. Vegleiðandi mannagongdir fyri kommunalari adressutilluting133.4. Staðseting av almennu adressunum173.5. Tá farið verður í gongd173.6. Kostnaður17 <em type="bold">4. Uppskot til lóg um almennar adressur og landsadressuskrá </em>19 <em type="bold">5. Skjøl </em>205.1. Fundur um lokalitetsskráseting 26. nov. 1997205.2. Uppskot til broyting í lóg um matrikulering og sundurbýti vm.255.3. Verandi skipanir285.3.1. Postverkið285.3.2. Løgreglan285.4. Útlendskt tilfar335.4.1. Danskt lógaruppskot345.4.2. Brot út norskum reglugerðum365.5. Greinar40adressu-álitið / nov. '984 <em type="bold">1 Fororð </em></p>
+<p>Siga vit, at adressan er Mylnugøta 26 í Klaksvík , so vita postboðið, oljufelagið, Fólkayvirlitið og Jógvan við Keldu við umleið 5 metra neyvleika, hvar á jarðarklótini, vit eru stødd. Óvissan er kanska bert avmarkað til, um tað nú eru høvuðsdyrnar ella kjallarahurðin, sum hesuferð skulu nýtast. Ivast onkur kortini, so ber til at finna gøtuna á býarkortinum í telefonbókini, og tá tú ert komin á staðið, kanst tú telja teg fram til røttu dyrnar.</p>
+<p>Hetta er so, tí Klaksvíkin - eins og Havnin - hevur eina almenna adressuskipan, sum er kend og roynd. Aðrastaðni hjálpist tú ikki so væl, ert tú ikki staðkendur ella fær onkran hagani at hjálpa tær.</p>
+<p>Gaman í. Tað eru helst ikki so nógvir Pól'ar í eitt nú Hósvík, og har er kanska bert tann eini Pól Hansen. Men eitur nú Pól hjá Peri <span type="quote">"Hansen"</span> ella <span type="quote">"í Niðristovu"</span> ? Og er <span type="quote">"Niðristova"</span> tey gomlu húsini <span type="quote">"niðri í Stovu"</span> ella er tað, har Pol í Niðristovu býr?</p>
+<p>Vit verða færri, sum duga at siga tað. Apoteksgentan í Havn tekur sum givið, at postboðið veit, hvagar heiluvágur skal, og avloysarin hjá læknanum í Kollafirði spyr læknaskrivaran. Og soleiðis hjálpast vit onkursvegna. <em type="bold">1.1 Adressubólkurin. </em></p>
 <p>Fyri góðum ári síðani bjóðaði Uni Vestureið, politiinspektørur, fleiri stovnum og feløgum til fundar at tosa um henda trupuleika, og um møguliga at taka stig til eina samskipan av, hvussu støð og lokalitetir verða skrásett og lýst.</p>
 <p>Niðurstøðan á fundinum var greið:</p>
-<p><em type="bold">Stórur tørvur er á einari almennari <span type="quote">"lokalitets-skrá"</span> fevnandi um alt</em> <em type="bold">landið, soleiðis at ein tilvísing til eitt og hvørt stað í Føroyum er eintýdd og</em> <em type="bold">verður fatað eins av øllum.</em> </p>
-<p>Heitt varð á nakrar av luttakandi stovnunum at seta fólk í ein arbeiðsbólk at gera eitt álit hesum viðvíkjandi til Vinnumálastýrið.  Adressubólkurin fekk hesa manning:</p>
-<p>Sámal Clementsen, Postverk Føroya Bergur Dam, Hagstova Føroya Hans Suni Eiriksfoss, Landsverkfrøðingurin Stein Fossá, Matrikulstovan Petur Nielsen, Føroysk Lendislýsingar Skipan Tórálvur Stenberg, Løgreglan</p>
-<p><em type="bold">1.2 Samandráttur.</em> </p>
-<p>Sum er finst eittans løggildað og fullfíggjað yvirlit við atliti til lendisnýtsluna, og tað er matrikulin.  Í honum er allur eigindómur uppteknaður, eyðmerktur við matrikulnummari og vístur á korti.  Men matrikulnummarið er eintýtt fyri eigindómarnar - ikki einstaka jarðarlutin ella grundstykkið, og matrikulin er tí ikki egnaður sum almenn lokaliseringsskrá.</p>
-<p>Postverkið hevur fyri fleiri árum síðani ásannað tørvin á eini landsadressuskrá, og er tí í samráð við bý- og bygdarráðini farið undir at gera eina slíka skipan fyri allar bygdirnar.  Henda skráin er eyðvitað gjørd soleiðis, at hon fyrst og fremst tænir útberingini av posti.  Men fyrimunirnir við eini almennari adressuskrá eru eyðsýndir, og tí hevur postverkið steðgað hesum arbeiði, meðan bíðað verður eftir, hvat verður burtur úr landsadressuskránni.</p>
-<p><em type="bold">Hósvík</em> ikki verið nøktandi, og tørvur er á eini nógv betri skrá. </p>
-<p>Í Tórshavn og í Klaksvík eru skipanir í gildi, soleiðis at allar gøtur og allir vegir hava navn og allir bygningar eru talmerktir.  Tær skipanirnar virka eftir øllum at døma væl, og eingin orsøk er tí til at broyta tær, annað enn at fáa tær við í eina komandi landsfevnandi adressuskrá.</p>
+<p><em type="bold">Stórur tørvur er á einari almennari <span type="quote">"lokalitets-skrá"</span> fevnandi um alt landið, soleiðis at ein tilvísing til eitt og hvørt stað í Føroyum er eintýdd og verður fatað eins av øllum. </em></p>
+<p>Heitt varð á nakrar av luttakandi stovnunum at seta fólk í ein arbeiðsbólk at gera eitt álit hesum viðvíkjandi til Vinnumálastýrið. Adressubólkurin fekk hesa manning:</p>
+<p>Sámal Clementsen, Postverk Føroya Bergur Dam, Hagstova Føroya Hans Suni Eiriksfoss, Landsverkfrøðingurin Stein Fossá, Matrikulstovan Petur Nielsen, Føroysk Lendislýsingar Skipan Tórálvur Stenberg, Løgreglan <em type="bold">1.2 Samandráttur. </em></p>
+<p>Sum er finst eittans løggildað og fullfíggjað yvirlit við atliti til lendisnýtsluna, og tað er matrikulin. Í honum er allur eigindómur uppteknaður, eyðmerktur við matrikulnummari og vístur á korti. Men matrikulnummarið er eintýtt fyri eigindómarnar - ikki einstaka jarðarlutin ella grundstykkið, og matrikulin er tí ikki egnaður sum almenn lokaliseringsskrá.</p>
+<p>Postverkið hevur fyri fleiri árum síðani ásannað tørvin á eini landsadressuskrá, og er tí í samráð við bý- og bygdarráðini farið undir at gera eina slíka skipan fyri allar bygdirnar. Henda skráin er eyðvitað gjørd soleiðis, at hon fyrst og fremst tænir útberingini av posti. Men fyrimunirnir við eini almennari adressuskrá eru eyðsýndir, og tí hevur postverkið steðgað hesum arbeiði, meðan bíðað verður eftir, hvat verður burtur úr landsadressuskránni.</p>
+<p><em type="bold">Mylnugøta </em></p>
+<p><em type="bold">Hósvík </em>adressu-álitið / nov. '985 </p>
+<p>Somuleiðis hevur løgreglan havt sína serligu skipan - sína vegaskrá - at taka til, tá eitt nú fersluóhapp og brot á ferðlulógina skulu lýsast. Henda skipan hevur ikki verið nøktandi, og tørvur er á eini nógv betri skrá.</p>
+<p>Í Tórshavn og í Klaksvík eru skipanir í gildi, soleiðis at allar gøtur og allir vegir hava navn og allir bygningar eru talmerktir. Tær skipanirnar virka eftir øllum at døma væl, og eingin orsøk er tí til at broyta tær, annað enn at fáa tær við í eina komandi landsfevnandi adressuskrá.</p>
 <p>Aðrastaðni - í Runavík og í Fuglafirði - eru gøtunøvn, men eingi húsanummur. Tvs. at her er stórur partur av arbeiðinum gjørt, men nakað stendur eftir. Annars er kring landið eingin rættilig adressering gjørd, og neyvasta staðsetingin er tí bygdin og kanska býlingur ella staðarnavn afturat.</p>
-<p>Adressubólkurin fór til verka í vár og hevur havt regluligar fundir síðani.  Vit hava spurt okkum fyri í Danmark og hava eisini kaga í norskt tilfar.</p>
-<p><em type="bold">Vit skjóta upp, at farið verður undir miðvíst at skipa almennar adressur í</em> <em type="bold">øllum býum og bygdum í landinum, og at hesar verða skrásettar í eini</em> <em type="bold">landsadressuskrá.  Talan eigur at verða um eina almenna og sjálvstøðuga</em> <em type="bold">skipan, soleiðis at flest møgulig kunnu fáa nyttu úr henni.</em> </p>
-<p>Ongin okkara hevur havt møguleika at arbeiða við evninum burturav, og tí hava vit avmarkað uppskotið til eina adressuskipan umfatandi hús, bygningar og alfaravegir.  Ein rættulig lokaliseringsskrá átti umframt at fevnt um eitt uppbýti av veganetinum í óbygdum og eitt rættiliga nágreiniligt staðarnavnayvirlit, men vit hava ikki hildið okkum til at fara so langt í hesum umfari.</p>
-<p>Í<em type="bold"> almennu adressuskránni</em> skulu vera allar bústaðar- og vinnueindir, hús, bygningar og óbygd grundstykki og annars vegir, gøtur og tún vm.  Við øðrum orðum øll støð, har fólk halda til og ferast.  Adressan skal vera samansett av einum navni, sum vísir til adressuøkið, og einum nummari, sum vísir til einstøku adr</p>
-<p>Ábyrgdina av adressunum skulu kommunurnar hava.  Bert tær eru nóg nær borgaranum til at kunna seta navn á vegir og býlingar og at halda skil á, tá broytingar koma í, eitt nú tá nýggj hús verða bygd, ella tá vegir verða umlagdir.</p>
-<p>Bólkurin hevur ikki mett um arbeiðsbyrðuna, sum løgd verður á kommunurnar við hesum, og tískil heldur ikki, hvussu nógv hetta fer at kosta. Tyngsta takið verður eyðvitað at seta adressuskipanina á stovn, tvs. býta bygdina upp í adressuøki, navnseta og tilluta húsanummur vm.  Av størsta týdningi er, at hetta arbeiðið verður gjørt í best møgiligum samsvari við fatanina av staðarnøvnum vm. á staðnum.  Júst tað, at vinna navnasetingini almenna viðurkenning millum fólk, verður kanska hin torførasti parturin av arbeiðinum.  Aftur fyri rokna vit ikki við, at viðlíkahaldið av skipanini fer at hava nevnivert av arbeiði við sær.</p>
-<p>Til tess at staðfesta adressurnar sum almennar verður skotið upp at savna allar adressur í eini landsadressuskrá.  Í hesari skránni fær hvør einstøk adressa eitt frámerki – eina kodu ella eitt <em type="italic">L</em>okalitets-tal - og eina positión ella geografiskar koordinatar.  Hugsanin er vituligt, at L-talið skal brúkast í ymsum skráum og skipanum, sum eintýdd tilvísing til adressuna, og at positiónin skal brúkast til, at finna adressuna (lokalitetin, staðið) aftur á kortum vm. </p>
+<p>Adressubólkurin fór til verka í vár og hevur havt regluligar fundir síðani. Vit hava spurt okkum fyri í Danmark og hava eisini kaga í norskt tilfar.</p>
+<p><em type="bold">Vit skjóta upp, at farið verður undir miðvíst at skipa almennar adressur í øllum býum og bygdum í landinum, og at hesar verða skrásettar í eini landsadressuskrá. Talan eigur at verða um eina almenna og sjálvstøðuga skipan, soleiðis at flest møgulig kunnu fáa nyttu úr henni. </em></p>
+<p>Ongin okkara hevur havt møguleika at arbeiða við evninum burturav, og tí hava vit avmarkað uppskotið til eina adressuskipan umfatandi hús, bygningar og alfaravegir. Ein rættulig lokaliseringsskrá átti umframt at fevnt um eitt uppbýti av veganetinum í óbygdum og eitt rættiliga nágreiniligt staðarnavnayvirlit, men vit hava ikki hildið okkum til at fara so langt í hesum umfari.</p>
+<p>Í <em type="bold">almennu adressuskránni </em>skulu vera allar bústaðar- og vinnueindir, hús, bygningar og óbygd grundstykki og annars vegir, gøtur og tún vm. Við øðrum orðum øll støð, har fólk halda til og ferast. Adressan skal vera samansett av einum navni, sum vísir til adressuøkið, og einum nummari, sum vísir til einstøku adressueindina. Adressan skal vera eintýdd í bygdini og saman við bygdarnavninum eintýdd í landinum. </p>
+<p>Ábyrgdina av adressunum skulu kommunurnar hava. Bert tær eru nóg nær borgaranum til at kunna seta navn á vegir og býlingar og at halda skil á, tá broytingar koma í, eitt nú tá nýggj hús verða bygd, ella tá vegir verða umlagdir.</p>
+<p>Bólkurin hevur ikki mett um arbeiðsbyrðuna, sum løgd verður á kommunurnar við hesum, og tískil heldur ikki, hvussu nógv hetta fer at kosta. Tyngsta takið verður eyðvitað at seta adressuskipanina á stovn, tvs. býta bygdina upp í adressuøki, navnseta og tilluta húsanummur vm. Av størsta týdningi er, at hetta arbeiðið verður gjørt í best møgiligum samsvari við fatanina av staðarnøvnum vm. á staðnum. Júst tað, at vinna navnasetingini almenna viðurkenning millum fólk, verður kanska hin torførasti parturin av arbeiðinum. Aftur fyri rokna vit ikki við, at viðlíkahaldið av skipanini fer at hava nevnivert av arbeiði við sær.</p>
+<p>Til tess at staðfesta adressurnar sum almennar verður skotið upp at savna allar adressur í eini landsadressuskrá. Í hesari skránni fær hvør einstøk adressa eitt frámerki – eina kodu ella eitt L okalitets-tal - og eina positión ella geografiskar koordinatar. Hugsanin er vituligt, at L-talið skal brúkast í ymsum skráum og skipanum, sum eintýdd tilvísing til adressuna, og at positiónin skal brúkast til, at finna adressuna (lokalitetin, staðið) aftur á kortum vm.</p>
 <p>Landsadressuskráin verður helst best umsitin av einum stovni, ið veitir líknandi tænastur í dag, og peika vit tí á Matrikulstovana.</p>
 <p>Tórshavn, 26. nov. 1998</p>
-<p><em type="bold">Mylnugøta 10 Klaksvík</em> </p>
-<p><em type="bold">2.1 Um adressur og adressuskráir</em> </p>
-<p>Ein <em type="bold">adressa</em> er ein tilvísing til eitt geografiskt avmarkað og bústaðarliga logiskt stað. </p>
-<p>Ein <em type="bold">staðsett adressa</em> er ein adressa, har geografiskir koordinatar – ein positión - er knýtt at, soleiðis at eintýtt er lýst, hvar umrødda stað er í tingligum týdningi, í landslagnum. </p>
-<p>Adressur kunnu vera knýttar at øðrum skrásetingum, og sostatt verða undirskipaðar hesum skrásetingum, t.d. matrikulskipan, telefonyvirliti ella øðrum. Tá er adressan ein <em type="italic">attributtur</em> í aðrari skipan. Ella adressur kunnu verða sjálvstøðugar eindir – <em type="italic">entitetir</em> – ið sjálvar lýsa ávísar eginleikar hjá bústaðum og bygningum ella støðum annars. Og sum lýsa ein veruleika, ið finst aftur í landslagnum – húsanummur, gøtu- og staðarnøvn osfr. </p>
-<p>Ein <em type="bold">adressuskrá</em> er eitt savn av adressum, sum er meira ella minni skipað. </p>
-<p>Ein almenn staðfest og staðsett adressuskrá er eitt savn av adressum, sum eru skipaðar eftir føstum reglum. Føstum reglum fyri hvørji fysisk fyribrigdi skulu lýsast og føstum reglum fyri, hvussu hesi skulu lýsast – t.e. hvørjar upplýsingar skulu vera við, og hvørjar kunnu vera við. Harafturat er ein almenn adressuskrá ein sjálvstøðug skráseting, sum mangar aðrar umsitingarligar, vísindaligar, handilsligar og vegleiðandi skráir brúka. Á henda hátt er hon ein trygd fyri samvinnu og hjálp hjá fólki og myndugleikum.</p>
-<p><em type="bold">2.2 Tørvurin á eini almennari adressuskrá</em> </p>
-<p><em type="bold">Endamálið við at seta adressur á bústaðir og lokalitetir er at gera tað</em> <em type="bold">einfalt og lætt hjá einum og hvørjum at finna ávísan bústað ella ávíst stað.</em> </p>
-<p>Hetta hevur týdning hjá einstaklinginum.<em type="bold">   </em>Sum samfelagið mennist, gerst tørvurin á eini adressuskrá alt størri og meira sjónligur. Einstaki borgarin, eins og myndugleikar og vinnulív, hava alsamt oftari tørv á at kunna staðseta/ lokaliserað ein ávísan bústað ella ein lokalitet, annahvørt tingligt ella umsitingarliga logiskt. Skal hetta vera møguligt, krevst at ein adressuskrá, sum fevnir um alt landið, er tøk. </p>
+<p><em type="bold">Mylnugøta 10 Klaksvík </em>adressu-álitið / nov. '986 <em type="bold">2 Adressur og adressuskráir </em><em type="bold">2.1 Um adressur og adressuskráir </em></p>
+<p>Ein <em type="bold">adressa </em>er ein tilvísing til eitt geografiskt avmarkað og bústaðarliga logiskt stað. </p>
+<p>Ein <em type="bold">staðsett adressa </em>er ein adressa, har geografiskir koordinatar – ein positión -er knýtt at, soleiðis at eintýtt er lýst, hvar umrødda stað er í tingligum týdningi, í landslagnum. </p>
+<p>Adressur kunnu vera knýttar at øðrum skrásetingum, og sostatt verða undirskipaðar hesum skrásetingum, t.d. matrikulskipan, telefonyvirliti ella øðrum. Tá er adressan ein <em type="italic">attributtur </em>í aðrari skipan. Ella adressur kunnu verða sjálvstøðugar eindir – <em type="italic">entitetir </em>– ið sjálvar lýsa ávísar eginleikar hjá bústaðum og bygningum ella støðum annars. Og sum lýsa ein veruleika, ið finst aftur í landslagnum – húsanummur, gøtu- og staðarnøvn osfr. </p>
+<p>Ein <em type="bold">adressuskrá </em>er eitt savn av adressum, sum er meira ella minni skipað. </p>
+<p>Ein almenn staðfest og staðsett adressuskrá er eitt savn av adressum, sum eru skipaðar eftir føstum reglum. Føstum reglum fyri hvørji fysisk fyribrigdi skulu lýsast og føstum reglum fyri, hvussu hesi skulu lýsast – t.e. hvørjar upplýsingar skulu vera við, og hvørjar kunnu vera við. Harafturat er ein almenn adressuskrá ein sjálvstøðug skráseting, sum mangar aðrar umsitingarligar, vísindaligar, handilsligar og vegleiðandi skráir brúka. Á henda hátt er hon ein trygd fyri samvinnu og hjálp hjá fólki og myndugleikum. <em type="bold">2.2 Tørvurin á eini almennari adressuskrá </em></p>
+<p><em type="bold">Endamálið við at seta adressur á bústaðir og lokalitetir er at gera tað einfalt og lætt hjá einum og hvørjum at finna ávísan bústað ella ávíst stað. </em></p>
+<p>Hetta hevur týdning hjá einstaklinginum.</p>
+<p><em type="bold"></em>Sum samfelagið mennist, gersttørvurin á eini adressuskrá alt størri og meira sjónligur. Einstaki borgarin, eins og myndugleikar og vinnulív, hava alsamt oftari tørv á at kunna staðseta/ lokaliserað ein ávísan bústað ella ein lokalitet, annahvørt tingligt ella umsitingarliga logiskt. Skal hetta vera møguligt, krevst at ein adressuskrá, sum fevnir um alt landið, er tøk. </p>
 <p>Tá borgarin skal finna einhvønn stovn, fyritøku ella bústað, kann ikki longur roknast við, at hon ella hann veit júst, hvar staðið er. Fólk flyta støðugt, eins og bygdir og býir broytast alla tíðina. Fyri tann einstaka er hetta í frægasta føri møðsamt og møtumikið, men tað kann eisini hava álvarsligar avleiðingar, um hetta forðar fólki í at møta til t.d. eina starvssamrøðu.</p>
-<p>Hetta hevur týdning hjá myndugleikum og vinnulívi.  Nógv dømi eru um, at virksemi hjá myndugleikum er tarnað, tí ongin eintýdd, landsfevnandi adressuskipan finst í Føroyum. Nevnast kann arbeiðið hjá planleggingarstovnum av ymsum slag, tað verið seg lands- ella kommunuplanleggingarmyndugleikar. Eins og samskiftisstovnar sum tele- og elverk og flutningstænastufyritøkur javnan eru darvaðir av hesum mangli.</p>
-<p>Somuleiðis hevur adressuskráin avgerandi týdning fyri at gera góð familjuhagtøl, livikorshagtøl osfr.</p>
+<p>Hetta hevur týdning hjá myndugleikum og vinnulívi. Nógv dømi eru um, at virksemi hjá myndugleikum er tarnað, tí ongin eintýdd, landsfevnandi adressuskipan finst í Føroyum. Nevnast kann arbeiðið hjá planleggingarstovnum av ymsum slag, tað verið seg lands- ella kommunuplanleggingarmyndugleikar. Eins og samskiftisstovnar sum tele- og elverk og flutningstænastufyritøkur javnan eru darvaðir av hesum mangli.adressu-álitið / nov. '987</p>
+<p>Í Føroyum hevur higartil ikki verið gjørligt at gera bústaðar- og húskishagtøl, grundað á skráir, tí ein høvuðsskráin í slíkum arbeiði er júst adressuskráin. Somuleiðis hevur adressuskráin avgerandi týdning fyri at gera góð familjuhagtøl, livikorshagtøl osfr.</p>
 <p>Tað gerst meira og meira vanligt, at sølu- og tænastufyritøkur fremja kundarøkt við støði í adressuskipanum.</p>
 <p>Men størsta tørvin á eini greiðari, álítandi, landsfevnandi adressuskipan hava stovnar og fyritøkur, hvørs endamál er at samskifta við einstaka borgaran sambært skrásettum búðstaðarupplýsingum.</p>
-<p>Nevnast kann Postverkið, sum hevur til endamáls at bera boð millum borgararnar og millum borgarar og myndugleikar – brøv, pakkar o.l.  Fyri at røkja hetta á skilabesta hátt – planleggja og útinna – er ein adressuskrá ein avgjørd fortreyt.</p>
-<p>Somuleiðis er ein staðfest adressuskipan avgjørd neyðsyn hjá politii, neyðhjálpar-, brand- og sjúkraflutningsstovnum, sum skjótt og trygt skulu kunna finna ávíst stað eftir boðum um telefon (sum oftast).  Tað er eyðsýnt, at bæði hjá tí, sum sendir neyðsynjarboð og hjá tí, sum tekur ímóti, er alstór hjálp at hava eina greiða skipan fyri staðseting við hondina. Sama kann sigast um virksemið hjá heima- og heilsusystrum, læknum og øðrum.</p>
+<p>Nevnast kann Postverkið, sum hevur til endamáls at bera boð millum borgararnar og millum borgarar og myndugleikar – brøv, pakkar o.l. Fyri at røkja hetta á skilabesta hátt – planleggja og útinna – er ein adressuskrá ein avgjørd fortreyt.</p>
+<p>Somuleiðis er ein staðfest adressuskipan avgjørd neyðsyn hjá politii, neyðhjálpar-, brand- og sjúkraflutningsstovnum, sum skjótt og trygt skulu kunna finna ávíst stað eftir boðum um telefon (sum oftast). Tað er eyðsýnt, at bæði hjá tí, sum sendir neyðsynjarboð og hjá tí, sum tekur ímóti, er alstór hjálp at hava eina greiða skipan fyri staðseting við hondina. Sama kann sigast um virksemið hjá heima- og heilsusystrum, læknum og øðrum.</p>
 <p>Fyri alt hetta virksemið er galdandi, at tað ikki longur ber til at dúva uppá staðog persónkunnleika hjá tí einstaka. Á alt fleiri vinnuøkjum verða fólk ikki sett í starv í ávísum tænastustað, men skulu flyta eftir tørvi. Og t.d. kann ikki roknast við, at ein útlendskur lækni, politistur ella prestur, sum er frítíðaravloysari, er førur fyri at finna til eini ómerkt hús í býlinginum hinumegin tunnilsmunnan, sum nevnist <span type="quote">”Uppi í Trøð”</span>.</p>
 <p>Nógvir av hesum stovnum (politi, post-, tele- og elveitingarstovnar t.d) hava av neyð verið noydd at skipa egnar adressuskráir. Men hesar hava als ikki verið nøktandi. Fyrst og fremst tí adressur – gøtunøvn og húsanummur – ikki eru til í stórum parti av landinum, so meginparturin av adressunum eru bert býar- ella bygdarnavn.</p>
-<p>At hvør stovnur í sínum lagi ger sær egnar adressuskráir, hevur eisini tær avleiðingar, at einstaki borgarin ikki veit, hvat er skrásett hvar um hann/hana. Og tað er ikki nøktandi fyri rættartrygdina. Eisini merkir hetta, at sama arbeiði verður gjørt á fleiri stovnum, og er sostatt talan um (fleir)dupult arbeiði, har eisini vandin fyri skeivum skrásetingum er munandi størri, enn um talan var um eina felags, almenna adressuskrá.</p>
-<p><em type="bold">2.3 Felags ella sjálvstøðug adressuskrá</em> </p>
+<p>At hvør stovnur í sínum lagi ger sær egnar adressuskráir, hevur eisini tær avleiðingar, at einstaki borgarin ikki veit, hvat er skrásett hvar um hann/hana. Og tað er ikki nøktandi fyri rættartrygdina. Eisini merkir hetta, at sama arbeiði verður gjørt á fleiri stovnum, og er sostatt talan um (fleir)dupult arbeiði, har eisini vandin fyri skeivum skrásetingum er munandi størri, enn um talan var um eina felags, almenna adressuskrá. <em type="bold">2.3 Felags ella sjálvstøðug adressuskrá </em></p>
 <p>Í øðrum londum eru adressuskráir komnar sum ískoyti til aðrar, almennar skráir sum t.d bygnings- og íbúðarskráir. Hetta hevur við sær ymsar vansar. Tað er mangan trupult at brúka slíkar skráir í øðrum samanhangum, tí bygnaðurin er ymiskur, eins og skrásetingarnar eru ymiskar.</p>
-<p>Tí verður nú alt meira vanligt at gera felags adressuskrá, sum er ein sjálvstøðug skráseting, ið kann knýtast til aðrar skráir – t.d. landsfólkayvirlit, matrikul, skattaskráir og kortframleiðslu.</p>
-<p type="listitem">• at handfara allar adressur í samfelagnum, sum <em type="bold">eina</em> – felags – mongd og </p>
-<p>sostatt skapa greiðar umsitingarligar og rættarligar reglur fyri hesi skrá, eins og greitt verður, hvussu adressan verður knýtt at øðrum tingligum ella umsitingarligum skipanum.</p>
-<p type="listitem">• adressumyndugleikin kann eintýtt staðfestast – t.d. hjá kommununum, so</p>
-<p>ikki dupultarbeiði verður gjørt, og adressuásetingin verður framd eftir somu reglum um alt landið.</p>
-<p type="listitem">• adressan verður ein sjálvstøðug eind og kann sostatt stovnast, tá tørvur er á</p>
-<p>tí, t.d. longu tá útstykking ella onnur planlegging fer fram.</p>
-<p type="listitem">• adressan fær egnu lýsing, sum kann brúkast í øllum dátufongi, har adressu</p>
-<p>upplýsingar krevjast.</p>
-<p>Sostatt er niðurstøðan, at tað bæði fyri einstaka borgaran, fyri vinnulívið og fyri umsitingarligar- og tænastustovnar er stórur fyrimunur at skipa eina sjálvstøðuga, felags adressuskrá, ið fevnir um alt landið.</p>
-<p><em type="bold">3.1 Skipan og hald av almennari adressuskrá</em> </p>
-<p>Aðalmálið við eini almennari adressuskrá er, at øll støð, har fólk halda til og virka, skjótt og eintýtt kunnu identifiserast og lokaliserast eftir adressuni.  Tí eiga vit at leggja okkum eftir at uppbyggja og fullføra adressuskipanina við í fyrsta lagi húsum, bygningum og týdningarmestu vegastrekkjunum. Seinni kann verða hugt at, um og hvussu adressuskráin kann víðkast til eina meiri umfatandi lokaliseringsskrá, sum eisini hevur við eitt nú vegakervið í óbygdum og staðarnøvnini yvirhøvur.</p>
-<p><em type="bold">Mælt verður tí til, at alt fyri eitt verður farið undir at skipa eina almenna</em> <em type="bold">adressuskrá fevnandi um allar kommunur og allar býir og bygdir í</em> <em type="bold">landinum.</em> </p>
-<p>Sjálvt arbeiðið at stovna adressuskipanina er tvíbýtt.  Tann eini parturin er at tilluta adressur - navn og nummar, og hin at skráseta og staðfesta adressurnar í eini miðsavnaðari skrá - landsadressuskránni.</p>
-<p>Skotið verður upp, at tað á øllum støðum - í bygd og í bý - verður gjørt eitt hóskandi og klárt avmarkað uppbýti í adressuøki, at hesi adressuøki fáa hóskandi heiti, og at øll hús og allir bygningar innan fyri adressuøkið verða talmerkt.  Eisini óbygd grundstykki mugu takast við, og alfaravegir, sum ikki eru húsavegir, men sum knýta saman bygdir og býlingar, mugu somuleiðis hava alment kent navn.</p>
+<p>Tí verður nú alt meira vanligt at gera felags adressuskrá, sum er ein sjálvstøðug skráseting, ið kann knýtast til aðrar skráir – t.d. landsfólkayvirlit, matrikul, skattaskráir og kortframleiðslu.adressu-álitið / nov. '988</p>
+<p type="listitem">Við eini almennari, felags adressuskrá ber til</p>
+<p type="listitem">at handfara allar adressur í samfelagnum, sum eina – felags – mongd ogsostatt skapa greiðar umsitingarligar og rættarligar reglur fyri hesi skrá, eins og greitt verður, hvussu adressan verður knýtt at øðrum tingligum ella umsitingarligum skipanum.</p>
+<p type="listitem">adressumyndugleikin kann eintýtt staðfestast – t.d. hjá kommununum, soikki dupultarbeiði verður gjørt, og adressuásetingin verður framd eftir somu reglum um alt landið.</p>
+<p type="listitem">adressan verður ein sjálvstøðug eind og kann sostatt stovnast, tá tørvur er átí, t.d. longu tá útstykking ella onnur planlegging fer fram.</p>
+<p type="listitem">adressan fær egnu lýsing, sum kann brúkast í øllum dátufongi, har adressu-upplýsingar krevjast.</p>
+<p>Sostatt er niðurstøðan, at tað bæði fyri einstaka borgaran, fyri vinnulívið og fyri umsitingarligar- og tænastustovnar er stórur fyrimunur at skipa eina sjálvstøðuga, felags adressuskrá, ið fevnir um alt landið.adressu-álitið / nov. '989 <em type="bold">3 Tilráðing </em><em type="bold">3.1 Skipan og hald av almennari adressuskrá </em></p>
+<p>Aðalmálið við eini almennari adressuskrá er, at øll støð, har fólk halda til og virka, skjótt og eintýtt kunnu identifiserast og lokaliserast eftir adressuni. Tí eiga vit at leggja okkum eftir at uppbyggja og fullføra adressuskipanina við í fyrsta lagi húsum, bygningum og týdningarmestu vegastrekkjunum. Seinni kann verða hugt at, um og hvussu adressuskráin kann víðkast til eina meiri umfatandi lokaliseringsskrá, sum eisini hevur við eitt nú vegakervið í óbygdum og staðarnøvnini yvirhøvur.</p>
+<p><em type="bold">Mælt verður tí til, at alt fyri eitt verður farið undir at skipa eina almenna adressuskrá fevnandi um allar kommunur og allar býir og bygdir í landinum. </em></p>
+<p>Sjálvt arbeiðið at stovna adressuskipanina er tvíbýtt. Tann eini parturin er at tilluta adressur - navn og nummar, og hin at skráseta og staðfesta adressurnar í eini miðsavnaðari skrá - landsadressuskránni.</p>
+<p>Skotið verður upp, at tað á øllum støðum - í bygd og í bý - verður gjørt eitt hóskandi og klárt avmarkað uppbýti í adressuøki, at hesi adressuøki fáa hóskandi heiti, og at øll hús og allir bygningar innan fyri adressuøkið verða talmerkt. Eisini óbygd grundstykki mugu takast við, og alfaravegir, sum ikki eru húsavegir, men sum knýta saman bygdir og býlingar, mugu somuleiðis hava alment kent navn.</p>
 <p>Tá adressuskipan er gjørd fyri eina bygd, skal hon staðfestast ella løggildast. Tað verður gjørt, tá hon verður tikin upp í landsadressuskránna, har hvør einstøk adressa fær tillutað eitt serligt frámerki - eitt L-tal - og verður staðsett við einari positión - geografiskum koordinatum.</p>
 <p>Nú kann so adressuskipanin alment setast í gildi, og farið kann verða undir at seta upp skelti, nummarspjaldur vm.</p>
-<p>Tað verður neyvan á hvørjum degi, at skipanin verður broytt.  Men, tá nýggjar útstykkingar verða gjørdar, sundurbýti av eigindómum verða framd, hús verða bygd ella tikin niður, vegir verða umlagdir o.s.fr., er neyðugt, at adressuskipanin verður dagførd.  Onkuntíð kann kanska koma fyri, at neyðugt er at rætta skipanina, tí hon ikki er so hent, sum hon kundi verið.</p>
-<p>Nakrar av teimum størru kommununum hava longu sína egnu adressuskipan, og aðrar hava partvíst gjørt hetta arbeiðið.  Fyri teirra viðkomandi verður so talan um at samskipa og møguliga tillaga kommunalan praksis í mun til almennu adressuskipanina, og at fáa adressurnar tiknar upp í landsadressuskránna.</p>
-<p><em type="bold">3.2 Ábyrgdarbýti, umsiting og lógargrundarlag</em> </p>
-<p>Áðrenn skjøtil kann setast á, má leggjast fast, hvussu arbeiðs- og ábyrgdarbýtið skal verða.  Hetta gerst uttan iva best við eini greiðari lógarheimild.</p>
-<p>At stuðla lógarásetingunum er neyðugt, at gjørdar verða reglur og vegleiðingar um, hvussu farast skal fram, so tey, ið fremja skulu hetta í verki, </p>
-<p><em type="bold">adressuskrá</em> verður sett á stovn. </p>
-<p>Men adressubólkurin leggur dent á, at mynduleikin og ábyrgdin skal liggja hjá kommununum.  Tað eru tær, ið skulu tilluta adressurnar, og tað eru tær, sum framhaldandi skulu hava umsjón við, at broytingar viðvíkjandi adressunum verða framdar og skrásettar, og at tær koma við í landsadressuskránna.</p>
+<p>Tað verður neyvan á hvørjum degi, at skipanin verður broytt. Men, tá nýggjar útstykkingar verða gjørdar, sundurbýti av eigindómum verða framd, hús verða bygd ella tikin niður, vegir verða umlagdir o.s.fr., er neyðugt, at adressuskipanin verður dagførd. Onkuntíð kann kanska koma fyri, at neyðugt er at rætta skipanina, tí hon ikki er so hent, sum hon kundi verið.</p>
+<p>Nakrar av teimum størru kommununum hava longu sína egnu adressuskipan, og aðrar hava partvíst gjørt hetta arbeiðið. Fyri teirra viðkomandi verður so talan um at samskipa og møguliga tillaga kommunalan praksis í mun til almennu adressuskipanina, og at fáa adressurnar tiknar upp í landsadressuskránna. <em type="bold">3.2 Ábyrgdarbýti, umsiting og lógargrundarlag </em></p>
+<p>Áðrenn skjøtil kann setast á, má leggjast fast, hvussu arbeiðs- og ábyrgdarbýtið skal verða. Hetta gerst uttan iva best við eini greiðari lógarheimild.</p>
+<p>At stuðla lógarásetingunum er neyðugt, at gjørdar verða reglur og vegleiðingar um, hvussu farast skal fram, so tey, ið fremja skulu hetta í verki, hava nakrar ítøkiligar reglur at halda seg til.adressu-álitið / nov. '9810</p>
+<p>Løgting og Landsstýri - í hesum føri Vinnumálastýrið - seta karmarnar við tí neyðuga lógar- og játtanargrundarlagnum og við at skipa fyri, at ein <em type="bold">landsadressuskrá </em>verður sett á stovn. </p>
+<p>Men adressubólkurin leggur dent á, at mynduleikin og ábyrgdin skal liggja hjá kommununum. Tað eru tær, ið skulu tilluta adressurnar, og tað eru tær, sum framhaldandi skulu hava umsjón við, at broytingar viðvíkjandi adressunum verða framdar og skrásettar, og at tær koma við í landsadressuskránna.</p>
 <p>Tað er somuleiðis kommunali myndugleikin, ið syrgir fyri almannakunngerðing, kortgerð og avmerking við skeltum, spjaldrum vm.</p>
-<p><em type="bold">Lóg um almennar adressur og landsadressuskrá</em> </p>
-<p>Best er um almenna adressuskráin hevur heimild í serstakari lóg.  Hetta fyri at leggja dent á týdningin av hesum umsitingarliga og praktiska amboði, og fyri at geva adressuni ta neyðugu tyngdina sum sjálvstøðug skrásetingareind.</p>
-<p>Í lógini skal ásetast</p>
-<p type="listitem">• at allar bústaðar- og vinnueindir vm. (adressueindir) í landinum skulu hava</p>
-<p>eina alment staðfesta adressu</p>
-<p type="listitem">• at allir vegir - ella á annan hátt natúrligt avmarkað adressuøki - skulu hava</p>
-<p>eitt alment staðfest heiti/navn</p>
-<p type="listitem">• at bý-/bygdarráðið er adressumynduleiki</p>
-<p type="listitem">• at adressurnar skulu skrásetast og staðfestast í eini landsadressuskrá.</p>
-<p>Har aftur at skal lógin heimila</p>
-<p type="listitem">• at tað í kunngerð ella á annan hátt verður greina nærri, hvat er at skilja við</p>
-<p>adressueindir, tvs. hvussu langt kravið um adressu skal røkka</p>
-<p type="listitem">• at gerast kunnu reglur um tilluting og broyting av adressum, og um hvussu</p>
-<p>mannagongd við skráseting og staðfesting skal vera</p>
-<p type="listitem">• at ásetast kann, nær kommunustýri eigur at (skal) samstarva við aðrar</p>
-<p>myndugleikur (grannakommunur, landsvegamyndugleikar, hagastýri vm) viðvíkjandi adressum og nøvnum</p>
-<p type="listitem">• at gera reglur fyri merking og skelting</p>
-<p type="listitem">• at álagt verður kommunustýrinum at gera yvirlitskort, sum lýsa adressu</p>
-<p>skipanina.</p>
-<p>Vit hava dittað okkum at gjørt eitt uppskot til "<em type="bold">Lóg um almennar adressur og</em> </p>
-<p><em type="bold">landsadressuskrá</em>" (kap. 4). </p>
+<p><em type="bold">Lóg um almennar adressur og landsadressuskrá </em></p>
+<p>Best er um almenna adressuskráin hevur heimild í serstakari lóg. Hetta fyri at leggja dent á týdningin av hesum umsitingarliga og praktiska amboði, og fyri at geva adressuni ta neyðugu tyngdina sum sjálvstøðug skrásetingareind.</p>
+<p type="listitem">Í lógini skal ásetast</p>
+<p type="listitem">at allar bústaðar- og vinnueindir vm. (adressueindir) í landinum skulu havaeina alment staðfesta adressu</p>
+<p type="listitem">at allir vegir - ella á annan hátt natúrligt avmarkað adressuøki - skulu havaeitt alment staðfest heiti/navn</p>
+<p type="listitem">at bý-/bygdarráðið er adressumynduleiki</p>
+<p type="listitem">at adressurnar skulu skrásetast og staðfestast í eini landsadressuskrá.</p>
+<p type="listitem">Har aftur at skal lógin heimila</p>
+<p type="listitem">at tað í kunngerð ella á annan hátt verður greina nærri, hvat er at skilja viðadressueindir, tvs. hvussu langt kravið um adressu skal røkka</p>
+<p type="listitem">at gerast kunnu reglur um tilluting og broyting av adressum, og um hvussumannagongd við skráseting og staðfesting skal vera</p>
+<p type="listitem">at ásetast kann, nær kommunustýri eigur at (skal) samstarva við aðrarmyndugleikur (grannakommunur, landsvegamyndugleikar, hagastýri vm) viðvíkjandi adressum og nøvnum</p>
+<p type="listitem">at gera reglur fyri merking og skelting</p>
+<p type="listitem">at álagt verður kommunustýrinum at gera yvirlitskort, sum lýsa adressu-skipanina.</p>
+<p>Vit hava dittað okkum at gjørt eitt uppskot til " <em type="bold">Lóg um almennar adressur og landsadressuskrá </em>" (kap. 4). </p>
 <p>Eingin lógarkønur hevur verið við at smíða hetta, og tí er heldur talan um eitt upprit, ein leist, ið tekur upp teir lutir, ið mettir verða at vera avgerandi fyri ásetingarnar.</p>
-<p>Tað kann tó vera, at ruddiligari er at seta adressuásetingarnar inn í verandi lógarverk.  Lógin um fólkayvirlit, býarskipanarlógin og matrikullógin eru hvør á sín hátt nær skyldar í so máta.</p>
-<p>Sum skjal 5.2 er lagt við eitt dømi, har reglurnar viðvíkjandi adressum eru settar inn í eina serlóg:  Lóg um matrikulering og sundurbýti vm.</p>
+<p>Tað kann tó vera, at ruddiligari er at seta adressuásetingarnar inn í verandi lógarverk. Lógin um fólkayvirlit, býarskipanarlógin og matrikullógin eru hvør á sín hátt nær skyldar í so máta.</p>
+<p>Sum skjal 5.2 er lagt við eitt dømi, har reglurnar viðvíkjandi adressum eru settar inn í eina serlóg: Lóg um matrikulering og sundurbýti vm.adressu-álitið / nov. '9811</p>
+<p><em type="bold">Kommunala adressuarbeiðið. </em></p>
 <p>Kommunala fyrisitingin er adressumyndugleiki, og hevur sum slíkur ábyrgdina av, at skilagóðar adressur eru knýttar at teimum eindum, sum lógin fyriskrivar. Adressan skal klárt og eintýtt siga hvønn veg ella hvat øki í bygdini, adressueindin hoyrir til.</p>
-<p>Hetta merkir, at gerast skal eitt yvirlit fyri hvørja bygd, sum býtir hana upp í adressuøki, hvørt við sínum eintýdda og alment staðfesta navni. Eitt adressuøki er vanliga ein vegur ella ein gøta, har hús eru, men hetta kann eisini vera ein býlingur ella eitt annars natúrligt avmarkað øki.  Tað, ið um ræður, er, at uppbýtið er lætt at fata hjá staðkendum eins væl og hjá fremmandafólki. Er talan um heilt líttla bygd, kann øll bygdin roknast sum eitt adressuøki.</p>
-<p>Innan hvørt adressuøki skal hvør eindin talmerkjast eftir einfaldari skipan, sum er løtt at fata.  Adressueindirnar eru bústaðareindir, vinnueindir, hús, bygningar, men eisini óbygd lendi so sum ítrottarøki, spælipláss, viðarlundir, óbygdar og ætlaðar útstykkingar vm.</p>
-<p><em type="bold">Landsadressuskráin.</em> </p>
-<p>Tá kommunustýrið hevur stungið út adressuøkini og ásett nøvn og nummur, skal hetta fráboða</p>
+<p>Hetta merkir, at gerast skal eitt yvirlit fyri hvørja bygd, sum býtir hana upp í adressuøki, hvørt við sínum eintýdda og alment staðfesta navni. Eitt adressuøki er vanliga ein vegur ella ein gøta, har hús eru, men hetta kann eisini vera ein býlingur ella eitt annars natúrligt avmarkað øki. Tað, ið um ræður, er, at uppbýtið er lætt at fata hjá staðkendum eins væl og hjá fremmandafólki. Er talan um heilt líttla bygd, kann øll bygdin roknast sum eitt adressuøki.</p>
+<p>Innan hvørt adressuøki skal hvør eindin talmerkjast eftir einfaldari skipan, sum er løtt at fata. Adressueindirnar eru bústaðareindir, vinnueindir, hús, bygningar, men eisini óbygd lendi so sum ítrottarøki, spælipláss, viðarlundir, óbygdar og ætlaðar útstykkingar vm.</p>
+<p><em type="bold">Landsadressuskráin. </em></p>
+<p>Tá kommunustýrið hevur stungið út adressuøkini og ásett nøvn og nummur, skal hetta fráboðast landsadressuskránni til skrásetingar og staðfestingar.</p>
 <p>Tann, ið umsitir landsadressuskránna, skal kanna eftir, at adressurnar eru í samsvar við givnar reglur, og at ikki óneyðugt bland kann koma í millum grannaøki og grannabygdir.</p>
 <p>Annars hevur hesin umsitingarmynduleiki ikki átalurætt.</p>
 <p>Í landsadressuskránni verður hin einstaka adressan eintýtt eyðmerkt, tvs. fær tillutaða eitt skrásetingartal (eitt <span type="quote">”L-tal”</span>), og lokaliseringin (positiónin) verður staðsett við koordinatum við atliti til kenda kortrøð.</p>
 <p>Adressurnar eru alment staðfestar, tá tær verðar tiknar upp í landsadressuskránna.</p>
-<p>Sum nevnt er ein partur av skrásetingini at skapa tilknýti til kort, og oman fyri er eisini nomið við, at skyldskapur er millum adressuarbeiðið og eitt nú matrikularbeiðið.  Tí verður hildið natúrligt, at Matrikulstovan umsitur landsadressuskránna.</p>
-<p><em type="bold">Útbreiðslan og nýtslan av adressuskránni.</em> </p>
-<p>Skráin skal verða almenn, og tað skal leypandi bera til at fáa upplýsingar úr henni.  Stakar upplýsingar eins væl og partar av skránni ella alla skránna.  Hetta kann vera móti gjaldi.</p>
-<p>Hugsanin er, at almenna L-talið verður bygt inn i ymsu skipaninar sum eintýdd tilvísing til adressuna í landsadressuskránni.  Tá verða fak-skráirnar leysar av at skula umsita bústaðarupplýsingar, men refererað heldur til tær almennu og staðfestu upplýsingarnar í landsadressuskránni.</p>
-<p>Tá ræður um adressur, fara øll at tosa sama mál, so at siga.  Hetta átti at økt um effektivitetin, og á allan hátt at verið munandi tryggari, til gagns fyri brúkaran og ikki minst hin einstaka borgaran.</p>
-<p>matrikulin, skattaskránna o.s.fr., alt fyri eitt integrera hana í hesar skipanir. Fólkayvirlitið er í so máta uttan iva tann mest avgerandi skráin, og kanska átti tí eitt serligt átak at verðið gjørt, so fólkayvirlitið verður dagførd við adressuupplýsingunum, beinan vegin tær eru staðfestar.</p>
-<p>Positioneringsskipanir og -útgerð eru nýtslugøgn, sum gerast alt vanligari í gerandisdegnum.  Mangur smábátur er longu útgjørdur við GPS, og aðrastaðni er vanligt, at neyðhjálparfør hava slíkan útbúnað, so tey um fylgisvein kunnu finna fram á rættan stað.  Hinvegin ber eisini til at fylgja við, hvar hesi før eru stødd.</p>
+<p>Sum nevnt er ein partur av skrásetingini at skapa tilknýti til kort, og oman fyri er eisini nomið við, at skyldskapur er millum adressuarbeiðið og eitt nú matrikularbeiðið. Tí verður hildið natúrligt, at Matrikulstovan umsitur landsadressuskránna.</p>
+<p><em type="bold">Útbreiðslan og nýtslan av adressuskránni. </em></p>
+<p>Skráin skal verða almenn, og tað skal leypandi bera til at fáa upplýsingar úr henni. Stakar upplýsingar eins væl og partar av skránni ella alla skránna. Hetta kann vera móti gjaldi.</p>
+<p>Hugsanin er, at almenna L-talið verður bygt inn i ymsu skipaninar sum eintýdd tilvísing til adressuna í landsadressuskránni. Tá verða fak-skráirnar leysar av at skula umsita bústaðarupplýsingar, men refererað heldur til tær almennu og staðfestu upplýsingarnar í landsadressuskránni.</p>
+<p>Tá ræður um adressur, fara øll at tosa sama mál, so at siga. Hetta átti at økt um effektivitetin, og á allan hátt at verið munandi tryggari, til gagns fyri brúkaran og ikki minst hin einstaka borgaran.adressu-álitið / nov. '9812</p>
+<p>Men hetta er sjálvsagt treytað av, at adressuskráin verður nýtt, og tí er tað átrokandi neyðugt, at tey, sum umsita aðrar týðandi skráir so sum fólkayvirlitið, matrikulin, skattaskránna o.s.fr., alt fyri eitt integrera hana í hesar skipanir. Fólkayvirlitið er í so máta uttan iva tann mest avgerandi skráin, og kanska átti tí eitt serligt átak at verðið gjørt, so fólkayvirlitið verður dagførd við adressuupplýsingunum, beinan vegin tær eru staðfestar.</p>
+<p>Positioneringsskipanir og -útgerð eru nýtslugøgn, sum gerast alt vanligari í gerandisdegnum. Mangur smábátur er longu útgjørdur við GPS, og aðrastaðni er vanligt, at neyðhjálparfør hava slíkan útbúnað, so tey um fylgisvein kunnu finna fram á rættan stað. Hinvegin ber eisini til at fylgja við, hvar hesi før eru stødd.</p>
 <p>Positióninar í adressuskránni gera hana framtíðarrættaða, umframt at hon beinanvegin kann nýtast til elektoniskt at seta saman kort- og skrásetingarupplýsingar.</p>
-<p><em type="bold">Fólkayvirlit</em> </p>
-<p>P-tal navn</p>
-<p xml:lang="dan">Tilbúgving Vatn El Telefon ... ...</p>
-<p xml:lang="dan"><em type="bold">adressa</em> </p>
-<p><em type="bold">Adressuskrá</em> </p>
-<p xml:lang="dan"><em type="bold">adressa</em> </p>
-<p>...</p>
-<p>...</p>
-<p><em type="bold">aðrar skráir</em> </p>
-<p><em type="bold">L-tal</em> <em type="bold">bygd</em> <em type="bold">vegur</em> <em type="bold">húsanr</em> </p>
-<p>hædd hurð</p>
-<p xml:lang="dan"><em type="bold">...</em> <em type="bold">Y-koord</em> </p>
-<p><em type="bold">Matrikul</em> </p>
-<p xml:lang="dan">Markatalsnr. Matr.nr Eigari</p>
-<p xml:lang="dan"><em type="bold">adressa</em> <em type="bold">kort</em> </p>
-<p><em type="bold">3.3 Vegleiðandi mannagongdir fyri kommunalari adressutilluting</em> </p>
+<p><em type="bold">Adressuskrá </em></p>
+<p><em type="bold">L-tal bygd </em><em type="bold">vegur </em><em type="bold">húsanr </em>hæddhurð <em type="bold">... </em></p>
+<p xml:lang="dan"><em type="bold">Y-koord </em></p>
+<p><em type="bold">Fólkayvirlit </em></p>
+<p>P-tal navn <em type="bold">adressa </em>... </p>
+<p><em type="bold">Matrikul </em></p>
+<p xml:lang="dan">Markatalsnr.</p>
+<p xml:lang="dan">Matr.nr</p>
+<p xml:lang="dan">Eigari <em type="bold">adressa </em><em type="bold">kort </em><em type="bold">17 </em></p>
+<p>Tilbúgving</p>
+<p xml:lang="dan">Vatn</p>
+<p>El Telefon... ... <em type="bold">adressa </em>... <em type="bold">aðrar skráir </em>adressu-álitið / nov. '9813 <em type="bold">3.3 Vegleiðandi mannagongdir fyri kommunalari adressutilluting </em></p>
 <p>Til tess at adressutilluting verður gjørd eftir sama leisti í teimum ymsu kommununum, verða her settar upp nakrar meðinreglur.</p>
 <p>Viðmerkjast skal, at tað er trupult at gera almennar meginreglur, tí viðurskiftini kunnu vera so ymisk frá stað til stað. Reglurnar skulu tí meira vera ein hjálp, sum vísir, hvussu adressutilluting kann fara fram.</p>
-<p><em type="bold">Hvussu sær ein adressa út ?</em> </p>
-<p>Adressur skulu, í hvørji bygd, tillutast eftir hesi skipan:</p>
-<p xml:lang="dan">xxx       x</p>
-<p>xx     xxx</p>
-<p>Gøtunavn/Býlingur</p>
-<p>Húsanr.   Bókstavur</p>
-<p>Hædd  Síða/hurð</p>
-<p><em type="bold">adressuøki                                    nummar                      møguligt uppískoyti</em> </p>
-<p><em type="bold">Adressuøki</em> </p>
+<p><em type="bold">Hvussu sær ein adressa út ? </em></p>
+<p>Adressur skulu, í hvørji bygd, tillutast eftir hesi skipan: <em type="bold">adressuøki nummar møguligt uppískoyti </em></p>
+<p><em type="bold">Adressuøki </em></p>
 <p>Adressuøkið er aloftast ein gøta, td. ein sethúsavegur, men tað kann sjálvandi eisini vera ein býlingur ella ein útstykking - eru har ikki ov mong hús - ella eitt á annan hátt natúrligt avmarkað øki.</p>
 <p>Adressuøkið er sostatt navnið á gøtuni ella vegnum, men í staðin fyri gøtunøvn, ber til at brúka eitt nú býlingsheiti. Ongin avmarking er í longdini (tal av stavum) í heitinum á adressuøkinum. Sama heiti má ikki brúkast fleiri ferðir innan sama postøki.</p>
-<p><em type="bold">Nummar</em> </p>
+<p><em type="bold">Nummar </em></p>
 <p>Um neyðugt er við stavi, má hægst vera talan um ein stav, og kunnu hesir tá brúkast: A,B,C,D,E,F,G,H,K,L,M,N,P,R,S,T,U,V,X,Z.</p>
-<p><em type="bold">Møguligt uppískoyti</em> </p>
-<p>Summastaðni er neyðugt við einum uppískoyti, fyri at staðfesta adressueindina.</p>
-<p type="listitem">• Um adressueindir eru í fleiri hæddum, skal tað skrásetast soleiðis:</p>
-<p><em type="bold"></em> = 3. hædd <em type="bold"></em> = 2. hædd <em type="bold"></em> = 1. hædd <em type="bold">KJ</em> = Kjallari <em type="bold">K1</em> = Ovasta kjallarahædd, um fleiri finnast <em type="bold">K2</em> = Onnur kjallarahædd </p>
-<p type="listitem">• Eru fleiri adressueindir á <em type="italic">somu</em> hædd, verður skilt ímillum adressueindirnar </p>
-<p>soleiðis:</p>
-<p><em type="bold">H</em> = Høgrumeðin <em type="bold">M</em> = í Miðjuni <em type="bold">V</em> = Vinstrumeðin <em type="bold">-</em> = Hurð nr. 1 <em type="bold">-</em> = Hurð nr. 2 </p>
-<p><em type="italic">J.C.Svabosgøta 37,KJ,H</em>(Kjallarin høgrumeðin) </p>
-<p><em type="italic">Stoffalág 84,-54</em>(Hurð nr. 54) </p>
-<p><em type="italic">Tinghúsvegur 105C,3,M</em>(3. hædd í miðjuni) </p>
-<p><em type="bold">Hvat skal hava adressur ?</em>Sethús, bústaðareindir </p>
-<p>Virkisbygningar, -eindir Summarhús Neyst Óbygd grundstykki</p>
-<p><em type="bold">Hvat skal vanliga ikki hava adressur ?</em>Hjallar </p>
-<p>Bilhús Úthús</p>
-<p><em type="bold">Meðinreglur fyri navngeving av vegum/býlingum</em> </p>
-<p>1.  Ein møguleiki fyri navngeving, er fyrst at fastleggja ein <em type="italic">miðdepil</em> </p>
-<p>býnum/bygdini. Miðdepilin kann vera punktið sum mált verður til, tá longd millum býir/bygdir skal finnast. Gøtunøvn/býlingsnøvn skulu so skifta navn, tá farið verður um miðdepulin <em type="italic">(Mynd 3.1)</em>. Ein fyrimunur við hesum háttinum er, at tað er lætt at geva nýggj húsanr. um fleiri hús koma aftrat. </p>
-<p>Mynd 3.1</p>
-<p>2.  Ein annar møguleiki er at geva høvuðsvegnum gjøgnum bygdina <em type="italic">eitt </em>navn </p>
-<p><em type="italic">(Mynd 3.2)</em>. Um hetta verður gjørt, má man minnast til, at byrja húsanumrini </p>
-<p>so høgt, at pláss verður fyri nýggjum húsum.</p>
-<p>Mynd 3.2 hava eitt sjálvstøðugt navn <em type="italic">(Mynd 3.3)</em>. </p>
+<p><em type="bold">Møguligt uppískoyti </em></p>
+<p type="listitem">Summastaðni er neyðugt við einum uppískoyti, fyri at staðfesta adressueindina.</p>
+<p type="listitem">Um adressueindir eru í fleiri hæddum, skal tað skrásetast soleiðis:3 = 3. hædd 2 = 2. hædd 1 = 1. hædd KJ = Kjallari K1 = Ovasta kjallarahædd, um fleiri finnast K2 = Onnur kjallarahædd</p>
+<p type="listitem">Eru fleiri adressueindir á somu hædd, verður skilt ímillum adressueindirnarsoleiðis:</p>
+<p><em type="bold">H </em>= Høgrumeðin <em type="bold">M </em>= í Miðjuni <em type="bold">V </em>= Vinstrumeðin <em type="bold">-1 </em>= Hurð nr. 1 <em type="bold">-2 </em>= Hurð nr. 2 </p>
+<p>Gøtunavn/Býlingurxxx x Húsanr. Bókstavurxx xxx Hædd Síða/hurðadressu-álitið / nov. '9814</p>
+<p xml:lang="dan">Dømi:</p>
+<p>Jónas Broncksgøta 27,4,-5 (4. hædd, hurð nr. 5)</p>
+<p>J.C.Svabosgøta 37,KJ,H (Kjallarin høgrumeðin)</p>
+<p>Stoffalág 84,-54 (Hurð nr. 54)</p>
+<p>Tinghúsvegur 105C,3,M (3. hædd í miðjuni)</p>
+<p><em type="bold">Hvat skal hava adressur ? </em></p>
+<p>Sethús, bústaðareindir Virkisbygningar, -eindir Summarhús Neyst Óbygd grundstykki</p>
+<p><em type="bold">Hvat skal vanliga ikki hava adressur ? </em></p>
+<p>Hjallar Bilhús Úthús</p>
+<p><em type="bold">Meðinreglur fyri navngeving av vegum/býlingum </em>1. </p>
+<p>Ein møguleiki fyri navngeving, er fyrst at fastleggja ein <em type="italic">miðdepil </em>í býnum/bygdini. Miðdepilin kann vera punktið sum mált verður til, tá longd millum býir/bygdir skal finnast. Gøtunøvn/býlingsnøvn skulu so skifta navn, tá farið verður um miðdepulin <em type="italic">(Mynd 3.1) </em>. Ein fyrimunur við hesum háttinum er, at tað er lætt at geva nýggj húsanr. um fleiri hús koma aftrat. </p>
+<p>Mynd 3.12.</p>
+<p>Ein annar møguleiki er at geva høvuðsvegnum gjøgnum bygdina <em type="italic">eitt </em>navn <em type="italic">(Mynd 3.2) </em>. Um hetta verður gjørt, má man minnast til, at byrja húsanumrini so høgt, at pláss verður fyri nýggjum húsum. </p>
+<p>Mynd 3.2adressu-álitið / nov. '98153.</p>
+<p>Fyri at ikki alt ov nógv gøtunøvn skulu vera, verður mælt til at minst 6 adressueindir skulu vera til ein veg/býling í bygdum øki, fyri at hann skal hava eitt sjálvstøðugt navn <em type="italic">(Mynd 3.3) </em>. </p>
 <p>Mynd 3.3</p>
-<p><em type="bold">Meðinreglur fyri talmerking</em> </p>
-<p>1.  Talmerkingin byrjar við lægsta nummari nærmast miðdeplinum, soleiðis at</p>
-<p>merkingin strálar út frá miðdeplinum <em type="italic">(Mynd 3.1)</em>. </p>
-<p>2.  Høgrumegin verða brúkt líkatøl og vinstrumegin ólíkatøl.</p>
-<p>3.  Um ein adressa markar móti fleiri vegum, verður adressan, har tú gongur inn</p>
-<p>á stykkið, brúkt. Eru fleiri adressueindir í einum bygningi við inngongd frá ymiskum vegum, fær hvør eindin adressu, har inngongdin er. Soleiðis kann sami bygningur hava fleiri adressur.</p>
-<p>Mynd 3.4</p>
-<p>4.  Adressur, sum ikki blíva brúktar, skulu loypast um í talmerkingini (á mynd</p>
-<p>3.3 verður Argjavegur 17 og 19 lopin um). Fyrimunurin við at loypa nummur um er at so er lættari at telja seg fram til rætta húsið.</p>
-<p>aftrat, tvs. 2A og 2B og ikki 2 og 2A.</p>
-<p>6.  Tøl skulu leggjast burturav til møgulig nýggj sundurbýti (á mynd 3.4 eru</p>
-<p>Liljuvegur 5, 7 og 9 løgd burturav).</p>
-<p>7.  Tá langt er millum adressurnar, kann talmerkingin ásetast sum longdin frá</p>
-<p>byrjunnarpunktinum á vegnum roknað í 10-metrum. Er longdin 430 metrar verður talmerkingin 43 vinstrumegin og 42 ella 44 høgrumegin. Á henda hátt eru millumliggjandi tølini løgd burturav og til ber at brúka km-teljaran á bilinum at finna eina adressu.</p>
-<p>8.  Um býlingsheiti verður brúkt, verður mælt til at talmerkingin verður gjørd</p>
-<p>sum víst á mynd 3.5.</p>
-<p>Mynd 3.5</p>
-<p>9.  Um vegur gongur gjøgnum tvær ella fleiri bygdir og hevur eitt og sama</p>
-<p>navn, eigur talmerkingin at byrja í øðrum  endanum, og halda fram víðari gjøgnum hinar bygdirnar (mynd 3.6).</p>
-<p>Mynd 3.6 Til tess at finna aftur adressuna á landkortum og við nútímans positións-útgerð (eitt nú GPS) at kunna leita seg fram til rætta staðin, verða í adressuskránni settir einir koordinatar við hvørja einstaka adressu.  Adressan verður staðsett.</p>
-<p>Hetta skal gerast, tá adressan verður tikin upp í landsadressuskránna, og skotið verður upp at nýta ta koordinat-skipan (FK89), sum er grundarlagið undir kortgerini í stórum máti her á landi til hesa tilvísing.  Frá hesi skipan ber til at rokna koordinatarnar um til aðrar skipanir, td. til geografiskar koordinatar, t.e. longd og breidd.</p>
+<p><em type="bold">Meðinreglur fyri talmerking </em>1. </p>
+<p>Talmerkingin byrjar við lægsta nummari nærmast miðdeplinum, soleiðis at merkingin strálar út frá miðdeplinum <em type="italic">(Mynd 3.1) </em>.2. </p>
+<p>Høgrumegin verða brúkt líkatøl og vinstrumegin ólíkatøl.3.</p>
+<p>Um ein adressa markar móti fleiri vegum, verður adressan, har tú gongur inn á stykkið, brúkt. Eru fleiri adressueindir í einum bygningi við inngongd frá ymiskum vegum, fær hvør eindin adressu, har inngongdin er. Soleiðis kann sami bygningur hava fleiri adressur.</p>
+<p>Mynd 3.44.</p>
+<p>Adressur, sum ikki blíva brúktar, skulu loypast um í talmerkingini (á mynd 3.3 verður Argjavegur 17 og 19 lopin um). Fyrimunurin við at loypa nummur um er at so er lættari at telja seg fram til rætta húsið.adressu-álitið / nov. '98165.</p>
+<p>Stavur aftrat talmerking skal brúkast í minst møguligan mun. Men um stavur verður settur aftrat talmerking, skulu øll tøl við tí nummarinum hava stavir aftrat, tvs. 2A og 2B og ikki 2 og 2A.6.</p>
+<p>Tøl skulu leggjast burturav til møgulig nýggj sundurbýti (á mynd 3.4 eru Liljuvegur 5, 7 og 9 løgd burturav).7.</p>
+<p>Tá langt er millum adressurnar, kann talmerkingin ásetast sum longdin frá byrjunnarpunktinum á vegnum roknað í 10-metrum. Er longdin 430 metrar verður talmerkingin 43 vinstrumegin og 42 ella 44 høgrumegin. Á henda hátt eru millumliggjandi tølini løgd burturav og til ber at brúka km-teljaran á bilinum at finna eina adressu.8.</p>
+<p>Um býlingsheiti verður brúkt, verður mælt til at talmerkingin verður gjørd sum víst á mynd 3.5.</p>
+<p>Mynd 3.59.</p>
+<p>Um vegur gongur gjøgnum tvær ella fleiri bygdir og hevur eitt og sama navn, eigur talmerkingin at byrja í øðrum endanum, og halda fram víðari gjøgnum hinar bygdirnar (mynd 3.6).</p>
+<p>Mynd 3.6adressu-álitið / nov. '9817 <em type="bold">3.4 Staðseting av almennu adressunum. </em></p>
+<p>Til tess at finna aftur adressuna á landkortum og við nútímans positións-útgerð (eitt nú GPS) at kunna leita seg fram til rætta staðin, verða í adressuskránni settir einir koordinatar við hvørja einstaka adressu. Adressan verður staðsett.</p>
+<p>Hetta skal gerast, tá adressan verður tikin upp í landsadressuskránna, og skotið verður upp at nýta ta koordinat-skipan (FK89), sum er grundarlagið undir kortgerini í stórum máti her á landi til hesa tilvísing. Frá hesi skipan ber til at rokna koordinatarnar um til aðrar skipanir, td. til geografiskar koordinatar, t.e. longd og breidd.</p>
 <p>Umframt, at tað tá ber til at lokalisera einstøku adressuna, fer tað í sokallaðum GIS-skipanum at bera til at gera greiningar og hagtøl út frá geografiskt avmarkaðum økjum.</p>
-<p>Fyri hvørja bygd eiga tí at verða gjørd yvirlitskort (býar/bygdarkort), sum - í hvussu er í høvuðsheitum - vísa adressuøkini í bygdini.</p>
-<p><em type="bold">3.5 Tá farið verður í gongd.</em> </p>
-<p>Tá lógargrundarlagið er í lagi, og klárt er at fara undir arbeiðið við adressunum, verður mannagongdin í høvuðsheitum hendan:</p>
-<p type="listitem">• Fyri hvørja bygd sær verða vegir og onnur adressuøki navngivin.  Hetta ger</p>
-<p>bý/bygdarráðið ella ein nevnd undir tí.</p>
-<p type="listitem">• Í hvørjum adressuøki verða adressueindirnar talmerktar.</p>
-<p type="listitem">• Adressutillutingin verður uppteknað og avmerkt á yvirlitskorti, og listi</p>
-<p>verður gjørdur við øllum adressunum í bygdini.</p>
-<p type="listitem">• Kort og listi verða send landsadressuskránni til staðfestingar.</p>
-<p type="listitem">• Adressurnar verða skrásettar í landsadressuskránni.  Hvør teirra verður</p>
-<p>eyðmerkt við sínum serstaka L-talið og staðsett við eini positión.</p>
-<p type="listitem">• Kort og listi – í teldutøkum sniði - verða latin kommununi aftur.  Nú skulu</p>
-<p>so vegaskelti setast upp, og hús og bygningar merkjast við nummari.</p>
-<p>Tá nú adressuskipanin er komin í gildi fyri einstøku bygdina, ræður um hjá kommunalu myndugleikunum at fáa allar broytingar við í skránna, beinan vegin tær henda, og at boða hetta til landsadressuskránna.</p>
-<p><em type="bold">3.6 Kostnaður</em> </p>
-<p>Sum tað skilst, er tað ikki lítið arbeiði, ið skal fáast frá hondini:</p>
-<p type="listitem">• Kommunurnar - tær ið ikki longu hava gjørt tað - skulu gera adressuskipanir</p>
-<p>fyri hvørja bygd, og skelti vm. skulu setast upp.</p>
-<p type="listitem">• Landsadressuskráin skal stovnast, og adressurnar skrásetast og viðgerast.</p>
-<p type="listitem">• Almennu adressurnar skulu setast inn í ymsu skráirnar, td. fólkayvirlitið.</p>
-<p type="listitem">• Adressuskipanin skal viðlíkahaldast.</p>
-<p>kommunalu fyrisitingarnar við hesum, og tískil heldur ikki, hvussu nógv hetta fer at kosta.</p>
-<p>Tær báðar størstu kommunurnar hava, sum er, adressuskipanir í gildi, og aðrar býarkommunur eru væl áleiðis.  Tí er, um vit hyggja eftir øllum landinum undir einum, tyngsti parturin longu framdur í verki.</p>
-<p>Hjá hinum kommununum verður mesta arbeiðið at gera adressuskipanina, tvs. býta bygdina upp í adressuøki, navnseta og tilluta húsnummur vm.  Hetta arbe</p>
+<p>Fyri hvørja bygd eiga tí at verða gjørd yvirlitskort (býar/bygdarkort), sum - í hvussu er í høvuðsheitum - vísa adressuøkini í bygdini. <em type="bold">3.5 </em></p>
+<p><em type="bold">Tá farið verður í gongd. </em></p>
+<p type="listitem">Tá lógargrundarlagið er í lagi, og klárt er at fara undir arbeiðið við adressunum, verður mannagongdin í høvuðsheitum hendan:</p>
+<p type="listitem">Fyri hvørja bygd sær verða vegir og onnur adressuøki navngivin.  Hetta gerbý/bygdarráðið ella ein nevnd undir tí.</p>
+<p type="listitem">Í hvørjum adressuøki verða adressueindirnar talmerktar.</p>
+<p type="listitem">Adressutillutingin verður uppteknað og avmerkt á yvirlitskorti, og listiverður gjørdur við øllum adressunum í bygdini.</p>
+<p type="listitem">Kort og listi verða send landsadressuskránni til staðfestingar.</p>
+<p type="listitem">Adressurnar verða skrásettar í landsadressuskránni.  Hvør teirra verðureyðmerkt við sínum serstaka L-talið og staðsett við eini positión.</p>
+<p type="listitem">Kort og listi – í teldutøkum sniði - verða latin kommununi aftur.  Nú skuluso vegaskelti setast upp, og hús og bygningar merkjast við nummari.</p>
+<p>Tá nú adressuskipanin er komin í gildi fyri einstøku bygdina, ræður um hjá kommunalu myndugleikunum at fáa allar broytingar við í skránna, beinan vegin tær henda, og at boða hetta til landsadressuskránna. <em type="bold">3.6 Kostnaður </em></p>
+<p type="listitem">Sum tað skilst, er tað ikki lítið arbeiði, ið skal fáast frá hondini:</p>
+<p type="listitem">Kommunurnar - tær ið ikki longu hava gjørt tað - skulu gera adressuskipanirfyri hvørja bygd, og skelti vm. skulu setast upp.</p>
+<p type="listitem">Landsadressuskráin skal stovnast, og adressurnar skrásetast og viðgerast.</p>
+<p type="listitem">Almennu adressurnar skulu setast inn í ymsu skráirnar, td. fólkayvirlitið.</p>
+<p type="listitem">Adressuskipanin skal viðlíkahaldast.adressu-álitið / nov. '9818</p>
+<p>Arbeiðsbólkurin hevur ikki mett gjøllari um byrðuna, sum løgd verður á kommunalu fyrisitingarnar við hesum, og tískil heldur ikki, hvussu nógv hetta fer at kosta.</p>
+<p>Tær báðar størstu kommunurnar hava, sum er, adressuskipanir í gildi, og aðrar býarkommunur eru væl áleiðis. Tí er, um vit hyggja eftir øllum landinum undir einum, tyngsti parturin longu framdur í verki.</p>
+<p>Hjá hinum kommununum verður mesta arbeiðið at gera adressuskipanina, tvs. býta bygdina upp í adressuøki, navnseta og tilluta húsnummur vm. Hetta arbeiðið skal sjálvsagt gerast skynsamliga og í best møgiligum samsvari við fatanina av staðarnøvnum vm. á staðnum.</p>
 <p>Tað er væl hugsandi, at júst tað, at vinna navnasetingini almenna viðurkenning millum fólk, verður hin torførasti parturin av arbeiðinum.</p>
-<p>Og so er tað skeltingin og avmerkingin annars, sum kommunan eisini skal taka sær av.  Aftur fyri rokna vit ikki við, at viðlíkahaldið av skipanini fer at hava serliga nógv arbeiði við sær.</p>
-<p>Edv-skipanin aftan fyri landsadressuskránna skal sniðast til, byggjast upp, tryggjast og roynast í verki, og kanska skal eisini serligur útbúnaður fáast til vega.  Hetta fer ivaleyst at krevja nakað av serfrøðingahjálp í fyrstani, men tað er annars umráðandi, at tann, ið skal umsita skránna, hevur neyðugan førleika - fakliga og tøkniliga - at taka sær av dagliga rakstrinum av skipanini.</p>
+<p>Og so er tað skeltingin og avmerkingin annars, sum kommunan eisini skal taka sær av. Aftur fyri rokna vit ikki við, at viðlíkahaldið av skipanini fer at hava serliga nógv arbeiði við sær.</p>
+<p>Edv-skipanin aftan fyri landsadressuskránna skal sniðast til, byggjast upp, tryggjast og roynast í verki, og kanska skal eisini serligur útbúnaður fáast til vega. Hetta fer ivaleyst at krevja nakað av serfrøðingahjálp í fyrstani, men tað er annars umráðandi, at tann, ið skal umsita skránna, hevur neyðugan førleika -fakliga og tøkniliga - at taka sær av dagliga rakstrinum av skipanini.</p>
 <p>Rættiliga nógv arbeiði fer at standast av, at leggja adressurnar inn á skipanina, og annars at gera tær tøkar til almenna nýtslu, og roknast má við, at fólk burtur av skal setast til hetta arbeiðið, í hvussu er til skipanin er fullfíggjað.</p>
-<p>Sum nevnt verður fólkayvirlitið og samspælið millum tað og adressu-skránna avgerandi fyri, hvussu væleydnað og gagnlig skipanin verður.  Tí eigur eitt serligt átak at verða gjørt, so fólkayvirlitið verður dagførd við adressuupplýsingunum, beinan vegin tær eru staðfestar.</p>
-<p><em type="bold">§1</em>Lógin hevur til endamáls at allar bústaðar- og vinnueindir, hús, bygningar, </p>
-<p>grundstykki og almenn tilhaldsstøð verða tillutað eina almenna adressu.</p>
-<p><em type="bold">§2</em>Adressan skal í hvørji bygd sær eyðskilt og eintýtt siga, hvar adressueindin er. </p>
-<p>stk.2   Adressan verður sett saman av:</p>
-<p>a) navni, sum vísir til adressuøkið (staðið) í bygdini</p>
-<p>b) nummari, sum skilvíst býtir upp adressuøkið</p>
-<p>c) einum uppískoyti, um fleiri eindir eru á adressuni</p>
-<p><em type="bold">§3</em>Bý- og bygdarráð eru adressumyndugleiki og hava ábyrgdina av adressutilluting </p>
-<p>og umsiting av adressuskipanini í kommununi.</p>
-<p>stk.2 Adressumyndugleikin skal fyri hvørja bygd í kommununi:</p>
-<p>a) seta navn á vegir og gøtur og eitt nú á býlingar og tún vm. og harvið býta bygdina upp í hóskandi avmarkað adressuøki, hvørt við sínum serstaka navni,</p>
-<p>b) talmerkja adressueindirnar í hvørjum adressuøki,</p>
-<p>c) um fleiri eindir eru í sama bygningi ella á sama grundstykki, eyðmerkja tær við uppískoyti til adressuna.</p>
-<p>stk.3 Adressumyndugleikin skal leggja seg eftir, at adressurnar í hvørji bygd sær ikki kunnu koma í bland.</p>
-<p>stk.4 Fyri landsvegastrekki skal navnið ásetast í samráð við landsvegamyndugleikan. Tá adressuøki fer um kommunumark, skal samráðast við grannakommununa.</p>
-<p>stk.5 Adressumyndugleikin skal síggja til, at neyðug skelti og tilvísingar verða sett upp, og kann um neyðugt seta upp skelti vm. inni á privatari ogn.</p>
-<p><em type="bold">§4</em>Vinnumálastýrið kann gera greinligar reglur fyri, hvat adressuøki og adressu</p>
-<p>eindir eru, og um hvussu farast skal fram, tá adressutillutingin verður framd. Við bygd eftir hesi lóg verður víst til ...</p>
-<p><em type="bold">§5</em>Vinnumálastýrið skipar fyri, at sett verður á stovn ein landsadressuskrá, sum er </p>
-<p>yvirlit yvir allar adressur í landinum, ásettar smb. gr. 2.</p>
+<p>Sum nevnt verður fólkayvirlitið og samspælið millum tað og adressu-skránna avgerandi fyri, hvussu væleydnað og gagnlig skipanin verður. Tí eigur eitt serligt átak at verða gjørt, so fólkayvirlitið verður dagførd við adressuupplýsingunum, beinan vegin tær eru staðfestar.adressu-álitið / nov. '9819 <em type="bold">4. Uppskot til lóg um almennar adressur og landsadressuskrá. </em><em type="bold">§1 </em></p>
+<p>Lógin hevur til endamáls at allar bústaðar- og vinnueindir, hús, bygningar, grundstykki og almenn tilhaldsstøð verða tillutað eina almenna adressu. <em type="bold">§2 </em></p>
+<p>Adressan skal í hvørji bygd sær eyðskilt og eintýtt siga, hvar adressueindin er.stk.2 Adressan verður sett saman av:a) navni, sum vísir til adressuøkið (staðið) í bygdinib) nummari, sum skilvíst býtir upp adressuøkiðc) einum uppískoyti, um fleiri eindir eru á adressuni <em type="bold">§3 </em></p>
+<p>Bý- og bygdarráð eru adressumyndugleiki og hava ábyrgdina av adressutilluting og umsiting av adressuskipanini í kommununi.stk.2 Adressumyndugleikin skal fyri hvørja bygd í kommununi:a) seta navn á vegir og gøtur og eitt nú á býlingar og tún vm. og harviðbýta bygdina upp í hóskandi avmarkað adressuøki, hvørt við sínum serstaka navni,b) talmerkja adressueindirnar í hvørjum adressuøki,c) um fleiri eindir eru í sama bygningi ella á sama grundstykki,eyðmerkja tær við uppískoyti til adressuna.stk.3 Adressumyndugleikin skal leggja seg eftir, at adressurnar í hvørji bygdsær ikki kunnu koma í bland.stk.4 Fyri landsvegastrekki skal navnið ásetast í samráð við landsvega-myndugleikan. Tá adressuøki fer um kommunumark, skal samráðast við grannakommununa.stk.5 Adressumyndugleikin skal síggja til, at neyðug skelti og tilvísingar verðasett upp, og kann um neyðugt seta upp skelti vm. inni á privatari ogn. <em type="bold">§4 </em></p>
+<p>Vinnumálastýrið kann gera greinligar reglur fyri, hvat adressuøki og adressueindir eru, og um hvussu farast skal fram, tá adressutillutingin verður framd. Við bygd eftir hesi lóg verður víst til ... <em type="bold">§5 </em></p>
+<p>Vinnumálastýrið skipar fyri, at sett verður á stovn ein landsadressuskrá, sum er yvirlit yvir allar adressur í landinum, ásettar smb. gr. 2.</p>
 <p>Skráin er almenn.</p>
 <p>Bý- og bygdarráð skulu geva upp til skrásetingar í landsadressuskránni allar tillutaðar adressur í kommununi, og skulu somuleiðis geva upp allar broytingar i adressutillutingini.</p>
-<p>Tá adressa verður upptikin í adressuskránna skal hon eyðmerkjast við eintýddum talmerki og staðsetast við tilknýti til alment viðurkenda kortskipan.</p>
-<p><em type="bold">§6</em>Broytingar og uppískoyti í kommunalu adressuskipaninum fara fram eftir somu </p>
-<p>reglum sum tilluting av nýggjum adressum sambært gr. 2 og  gr. 4.</p>
+<p>Tá adressa verður upptikin í adressuskránna skal hon eyðmerkjast við eintýddum talmerki og staðsetast við tilknýti til alment viðurkenda kortskipan. <em type="bold">§6 </em></p>
+<p>Broytingar og uppískoyti í kommunalu adressuskipaninum fara fram eftir somu reglum sum tilluting av nýggjum adressum sambært gr. 2 og gr. 4.</p>
 </body></document>

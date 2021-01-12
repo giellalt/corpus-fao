@@ -1,88 +1,79 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>929</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit1999_01.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
-<p>Úrslit frá yvirlitstrolingini á Føroyabanka</p>
-<p xml:lang="dan">17.-21. september 1999</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>961</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit1999_01.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
+<p>Úrslit frá yvirlitstrolingini á Føroyabanka 17.-21. september 1999</p>
 <p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank </em></p>
-<p xml:lang="eng"><em type="italic">September 17-21th  </em></p>
+<p xml:lang="eng"><em type="italic">September 17-21th 1999 </em></p>
 <p>Eyðfinn Magnussen</p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>  1999:1 </p>
-<p><em type="italic">Heiti / Title</em><em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka  </em></p>
-<p xml:lang="dan"><em type="bold">17.-21. september 1999</em><em type="italic"> </em></p>
-<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank  September 17-21th  </em></p>
-<p>Høvundur  / Author<em type="bold">Eyðfinn Magnussen </em></p>
-<p xml:lang="eng">Ritslag / Report TypeTøknifrágreiðing<em type="italic">/Technical Report </em></p>
-<p xml:lang="eng"><em type="italic">NVD</em><em type="bold">Rit</em>1999:1 </p>
-<p>©Náttúruvísindadeildin og høvundurin</p>
-<p>Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands)</p>
-<p xml:lang="eng">y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo</p>
-<p><em type="bold">Fólk við frá FRS:</em> Regin Kristiansen, Arnhold Henriksen, Marit Pedersen og Eyðfinn Magnussen </p>
-<p><em type="bold">Ábyrgd:</em> Eyðfinn Magnussen </p>
-<p><em type="bold">Endamál:</em> Høvuðsendamálið við túrinum var at fáa eitt mát fyri nøgdini og biologiini, hjá teimum </p>
-<p>týdningarmestu fiskasløgunum, ið finnast á Føroyabanka. Eisini varð hugt at teimum oceanografisku viðurskiftunum á Bankanum.</p>
-<p><em type="bold">Reiðskapur:</em> 116 fóts kassatrol við 40 mm meskum í posanum, breitlar 60 m og 120 m, Steinhamns </p>
-<p xml:lang="dan">lemmar, temperatur-/dýpdarmátari  og Seabird-CTD.</p>
-<p><em type="bold">Um túrin:</em> Farið varð av Havnini 16. september kl. 22.00. Fyrsta CTD-støðin varð tikin á Føroyabanka </p>
-<p>17. september kl. 05.00. Seinasta støðin varð tikin 20. september kl. 14.17. Túrurin samsvaraði við ætlanina. Á Føroyabanka vóru tiknar 29 trolstøðir og 12 CTD støðir.</p>
-<p><em type="bold">Nær eru prøvarnir upparbeiddir:</em> Magarnir vórðu sorteraðir umborð. Mátingarnar frá </p>
-<p>temperaturmátarinum á trolinum eru upparbeidd. Úrslitini eru klár og verða víst í hesi frágreiðingini. Úrslitini frá Imponatorskipanini eru rættlisin og løgd í databasuna.</p>
-<p><em type="bold">Fyribilsúrslit: </em></p>
-<p><em type="bold">Hiti: Á</em> mynd 1 er miðalhitin á botni vístur fyri hvørt hál. Miðaltølini eru hitin mátaður niðri við botnin, </p>
-<p>meðan tovað verður. Á myndini sæst, at sjógvurin er heitastur inni á bankanum og kølnar so út ímóti kantinum.</p>
-<p>Fiskaslag Landað veiða (kg) september 1999 Landað veiða (kg) september 1998 Tal av nytrum/roðslum Tal av magum</p>
-<p>Toskur 1718  Hýsa 7045  Upsi 1074  Longa 35 -- Blálonga 13 -- Brosma - -- Kongafiskur 17 -- Havtaska 17 -- Kalvi 131 --- Steinbýtur - -- Tunga 5 - Skrubba - -- Lálla - -- Mathøgguslokkur 2037 --</p>
-<p>Tilsamans 12092</p>
-<p><em type="italic">Talva 1: Landaða veiðan og talið av prøvum, ið vórðu tiknir á Føroyabankatúrinum 17-21 september 1999. </em></p>
-<p><em type="bold">Toskur:</em>  Íalt vóru 3.132 kg av toski veidd á Føroyabanka, samanborið við 7.821 kg á heysti 1998 (talva </p>
-<p>2). Landaða veiðan var 1.718 kg samanborið við 5920 kg í september 1998. Verður hugt at toskafiskiskapinum á yvirlitistrolingunum um heystarnar frá 1991 sæst, at fiskiskapurin fram til 1997 var í vøkstri (mynd 3), men hevur síðani veri minkandi. Hendan túrin var miðalveiðan 108 kg pr tov.</p>
-<p>Longdarbýtið á samlaðu veiðuni er víst á mynd 2. Út frá longdini á fiskinum er mett um aldurin. Ì veiðini av toski í september 1998 var næstan eingin toskur minni enn 70 cm. Ì ár er hettar broytt eitt sindur, nú hava vit ein  lítlan topp á 65 cm. Hettar er 2, møguliga 3, ára gamal toskur. Á myndini síggjast eisini nakrir smáfiskar 30-40 cm. Miðallongdin fyri tosk var 86 cm samanborið við 89 cm í september 1998.</p>
-<p><em type="bold">Hýsa: </em>Í alt  10.694 kg av hýsu vórðu fingin á túrinum (talva 2). Í september 1998 vórðu fingin íalt 8.905 </p>
-<p>kg . Longdarbýtið fyri hýsu er víst á mynd 4. Nógv var til av smáari hýsu, ið var uml. 15 cm til longdar, hettar er yvaleyst hýsa , sum er gýtt í vár. Hesin støddarbólkurin var ikki í veiðuni á heysti 1998; tá var nóg at fáa av hýsu, sum var uml 27 cm til longdar, hettar er ivaleyst tann hýsan , sum nú er góðar 30 cm til longdar. Samlaða miðallongdin fyri hýsuna var 41 cm, sum er júst tað sama sum fyri einum ári síðani. Á mynd 5 er víst miðalveiðan á yvirlitistrolingunum á heysti 1991-1999. Her sæst, at veiðan av hýsu øll árini hevur hevur verið í vøkstri. Í ár vóru fingin 369 kr pr tov, og er hetta tann besta veiðan í hesum tíðarskeiðnum.</p>
-<p><em type="bold">Upsi: </em>Samlaða veiðan av upsa var 1.401 kg, hettar er á leið tað sama, sum var fingið fyri einum ári síðani, </p>
-<p>tá 1.034 kg váru fiskaði  (talva 2). Á mynd 6 sæst longdarbýtið á upsanum. Longdarbýtið er tað sama sum fyri einum ári síðani. Í ár var miðallongdin 67 cm í mun til 65 cm fyri einum ári síðani. Á mynd 7 er víst miðalveiðan á heystyvirlitistrolingunum. Á ár vóru í miðal fingin 48 kg pr tov, í mun til 36 kg pr tov á heysti 1998.</p>
-<p>30'30'</p>
-<p>20'20'</p>
-<p>9.059.19</p>
-<p>10'10.509.7210'</p>
-<p>8.0310.7410.659.89</p>
-<p>61°9.4010.6010.7510.7510.739.2361°</p>
-<p>10.7910.6010.12</p>
-<p>50'10.1110.6710.358.9950'</p>
-<p>8.2010.33</p>
-<p>40'10.127.7340'</p>
-<p>8.17</p>
-<p>30'9.5230'</p>
-<p>8.298.48</p>
-<p>20'20'</p>
-<p>10'10'</p>
-<p>40'20'9°40'20'8°40'</p>
-<p><em type="italic">Mynd 1: Miðalhitin við botnin fyri hvørt tov; mátaður í tíðarskeiðnum 17-21. september 1999. </em></p>
-<p><em type="bold">Toskur  Hýsa Upsi </em> </p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>1999:1 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p><em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka </em><em type="bold">17.-21. september 1999 </em><em type="italic"></em></p>
+<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank </em></p>
+<p xml:lang="eng">September 17-21th 1999</p>
+<p>Høvundur / Author</p>
+<p><em type="bold">Eyðfinn Magnussen </em></p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng">Tøknifrágreiðing <em type="italic">/Technical Report </em></p>
+<p xml:lang="eng">NVD <em type="bold">Rit </em>1999:1 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 1</p>
+<p><em type="bold">Fólk við frá FRS: </em>Regin Kristiansen, Arnhold Henriksen, Marit Pedersen og Eyðfinn Magnussen <em type="bold">Ábyrgd: </em>Eyðfinn Magnussen <em type="bold">Endamál: </em>Høvuðsendamálið við túrinum var at fáa eitt mát fyri nøgdini og biologiini, hjá teimum týdningarmestu fiskasløgunum, ið finnast á Føroyabanka. Eisini varð hugt at teimum oceanografisku viðurskiftunum á Bankanum. <em type="bold">Reiðskapur: </em>116 fóts kassatrol við 40 mm meskum í posanum, breitlar 60 m og 120 m, Steinhamns lemmar, temperatur-/dýpdarmátari og Seabird-CTD. <em type="bold">Um túrin: </em>Farið varð av Havnini 16. september kl. 22.00. Fyrsta CTD-støðin varð tikin á Føroyabanka 17. september kl. 05.00. Seinasta støðin varð tikin 20. september kl. 14.17. Túrurin samsvaraði við ætlanina. Á Føroyabanka vóru tiknar 29 trolstøðir og 12 CTD støðir. <em type="bold">Nær eru prøvarnir upparbeiddir: </em>Magarnir vórðu sorteraðir umborð. Mátingarnar frá temperaturmátarinum á trolinum eru upparbeidd. Úrslitini eru klár og verða víst í hesi frágreiðingini. Úrslitini frá Imponatorskipanini eru rættlisin og løgd í databasuna. <em type="bold">Fyribilsúrslit: </em><em type="bold">Hiti: Á </em>mynd 1 er miðalhitin á botni vístur fyri hvørt hál. Miðaltølini eru hitin mátaður niðri við botnin, meðan tovað verður. Á myndini sæst, at sjógvurin er heitastur inni á bankanum og kølnar so út ímóti kantinum. </p>
+<p>Fiskaslag</p>
+<p>Landað veiða (kg) september 1999</p>
+<p>Landað veiða (kg) september 1998</p>
+<p>Tal av nytrum/roðslum</p>
+<p>Tal av magum</p>
+<p>Toskur 1718 592030079</p>
+<p>Hýsa 7045 614235799</p>
+<p>Upsi 1074 87526156</p>
+<p>Longa 35 206--</p>
+<p>Blálonga 13 123--</p>
+<p xml:lang="eng">Brosma - 23--</p>
+<p>Kongafiskur 17 117--</p>
+<p>Havtaska 17 29--</p>
+<p xml:lang="dan">Kalvi 131 ---</p>
+<p>Steinbýtur - 5--</p>
+<p>Tunga 5 924-</p>
+<p>Skrubba - -8-</p>
+<p>Lálla - -12-</p>
+<p>Mathøgguslokkur 2037 1374--</p>
+<p>Tilsamans 12092 14823962234</p>
+<p>Talva 1 : Landaða veiðan og talið av prøvum, ið vórðu tiknir á Føroyabankatúrinum 17-21 september 1999.</p>
+<p><em type="bold">Toskur: </em>Íalt vóru 3.132 kg av toski veidd á Føroyabanka, samanborið við 7.821 kg á heysti 1998 (talva 2). Landaða veiðan var 1.718 kg samanborið við 5920 kg í september 1998. Verður hugt at toskafiskiskapinum á yvirlitistrolingunum um heystarnar frá 1991 sæst, at fiskiskapurin fram til 1997 var í vøkstri (mynd 3), men hevur síðani veri minkandi. Hendan túrin var miðalveiðan 108 kg pr tov. Longdarbýtið á samlaðu veiðuni er víst á mynd 2. Út frá longdini á fiskinum er mett um aldurin. Ì veiðini av toski í september 1998 var næstan eingin toskur minni enn 70 cm. Ì ár er hettar broytt eitt sindur, nú hava vit ein lítlan topp á 65 cm. Hettar er 2, møguliga 3, ára gamal toskur. Á myndini síggjast eisini nakrir smáfiskar 30-40 cm. Miðallongdin fyri tosk var 86 cm samanborið við 89 cm í september 1998. <em type="bold">Hýsa: </em>Í alt 10.694 kg av hýsu vórðu fingin á túrinum (talva 2). Í september 1998 vórðu fingin íalt 8.905 kg . Longdarbýtið fyri hýsu er víst á mynd 4. Nógv var til av smáari hýsu, ið var uml. 15 cm til longdar, hettar er yvaleyst hýsa , sum er gýtt í vár. Hesin støddarbólkurin var ikki í veiðuni á heysti 1998; tá var nóg at fáa av hýsu, sum var uml 27 cm til longdar, hettar er ivaleyst tann hýsan , sum nú er góðar 30 cm til longdar. Samlaða miðallongdin fyri hýsuna var 41 cm, sum er júst tað sama sum fyri einum ári síðani. Á mynd 5 er víst miðalveiðan á yvirlitistrolingunum á heysti 1991-1999. Her sæst, at veiðan av hýsu øll árini hevur hevur verið í vøkstri. Í ár vóru fingin 369 kr pr tov, og er hetta tann besta veiðan í hesum tíðarskeiðnum. <em type="bold">Upsi: </em>Samlaða veiðan av upsa var 1.401 kg, hettar er á leið tað sama, sum var fingið fyri einum ári síðani, tá 1.034 kg váru fiskaði (talva 2). Á mynd 6 sæst longdarbýtið á upsanum. Longdarbýtið er tað sama sum fyri einum ári síðani. Í ár var miðallongdin 67 cm í mun til 65 cm fyri einum ári síðani. Á mynd 7 er víst miðalveiðan á heystyvirlitistrolingunum. Á ár vóru í miðal fingin 48 kg pr tov, í mun til 36 kg pr tov á heysti 1998. 30'30'20'20'9.059.1910'10.509.7210'8.0310.7410.659.8961°9.4010.6010.7510.7510.739.2361°10.7910.6010.1250'10.1110.6710.358.9950'8.2010.3340'10.127.7340'8.1730'9.5230'8.298.4820'20'10'10'40'20'9°40'20'8°40' </p>
+<p>Mynd 1: Miðalhitin við botnin fyri hvørt tov; mátaður í tíðarskeiðnum 17-21. september 1999. 2</p>
+<p><em type="bold">Toskur </em></p>
+<p><em type="bold">Hýsa </em></p>
+<p><em type="bold">Upsi </em></p>
 <p>Turnr</p>
 <p>Dagar</p>
 <p>Mánið Ár</p>
-<p>Tal av tovum Samlað</p>
-<p>veiða Miðal veiða pr tov Samlað veiða Miðal veiða pr tov Samlað veiða Miðal veiða pr tov</p>
-<p xml:lang="dan">9164 2-4 sept 1991    9256 24-25 juli 1992    9668 6-10 sept 1996     4-8 sept 1997  29 9210287 2415  18-22 sept 1998  29 7821307 1034  17-21 sept 1999  29 3132369 1401</p>
-<p><em type="italic">Talva 2: Veiðan (kg) av toski, hýsu og upsa í heyst-yvirlitistrolingunumá Føroyabanka. </em></p>
-<p><em type="bold">Longdarbýti av toski</em> </p>
-<p>(Miðallongd 86 cm)</p>
-<p xml:lang="eng"><em type="bold">Longd (cm)</em> </p>
-<p><em type="italic">Mynd 2: Samlað longdarbýtið á toski fiskaður á Føroyabanka í tíðarskeiðnum 17-21. september 1999. </em></p>
-<p><em type="bold">Toskur</em> </p>
-<p><em type="italic">Mynd 3: Miðalveiðan (kg) av toski í heyst-yvirlitistrolingunumá Føroyabanka. </em></p>
-<p><em type="bold">Longdarbýti av hýsu</em> </p>
-<p>(Miðallongd 41 cm)</p>
-<p xml:lang="eng"><em type="bold">Longd (cm)</em> </p>
-<p><em type="italic"> Mynd : Samlað longdarbýtið á hýsu fiskaður á Føroyabanka í tíðarskeiðnum  </em></p>
-<p xml:lang="dan"><em type="italic"> 17-21. september 1999.</em> </p>
-<p><em type="bold">Hýsa</em> </p>
-<p> <em type="italic">Mynd 5: Miðalveiðan (kg) av hýsu í heyst-yvirlitistrolingunumá Føroyabanka. </em></p>
-<p><em type="bold">Longdarbýti av upsa</em> </p>
-<p>(Miðallongd 67 cm)</p>
-<p xml:lang="eng"><em type="bold">Longd (cm)</em> </p>
-<p><em type="italic"> Mynd : Samlað longdarbýtið á upsa fiskaður á Føroyabanka í tíðarskeiðnum  </em></p>
-<p xml:lang="dan"><em type="italic"> 17-21. september 1999. </em></p>
-<p><em type="bold">Upsi</em> </p>
-<p><em type="bold"> </em><em type="italic">Mynd 7: Miðalveiðan (kg) av upsa í heyst-yvirlitistrolingunumá Føroyabanka. </em></p>
-<p>Tórshavn 29. oktober 1999</p>
-<p>Eyðfinn Magnussen</p>
+<p>Tal av tovum</p>
+<p>Samlað veiða</p>
+<p>Miðal veiða pr tov</p>
+<p>Samlað veiða</p>
+<p>Miðal veiða pr tov</p>
+<p>Samlað veiða</p>
+<p xml:lang="dan">Miðal veiða pr tov 9164 2-4 sept 1991 11 2702517816 36 39256 24-25 juli 1992 2 18995179 15 89668 6-10 sept 1996 33 63591936303191 170 59772 4-8 sept 1997 29 92103188311287 2415 839872 18-22 sept 1998 29 78212708905307 1034 369972 17-21 sept 1999 29 313210810694369 1401 48</p>
+<p>Talva 2: Veiðan (kg) av toski, hýsu og upsa í heyst-yvirlitistrolingunumá Føroyabanka.</p>
+<p><em type="bold">Longdarbýti av toski </em>(Miðallongd 86 cm)05101520253030405060708090100110120 </p>
+<p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p>Mynd 2 : Samlað longdarbýtið á toski fiskaður á Føroyabanka í tíðarskeiðnum 17-21. september 1999.</p>
+<p><em type="bold">Toskur </em>0100200300400sept1991juli1992sept1996sept1997sept1998sept1999 <em type="bold">(kg) </em></p>
+<p>Mynd 3: Miðalveiðan (kg) av toski í heyst-yvirlitistrolingunumá Føroyabanka. 3</p>
+<p><em type="bold">Longdarbýti av hýsu </em>(Miðallongd 41 cm)01002003004005006007008001020304050607080 </p>
+<p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p>Mynd 4 : Samlað longdarbýtið á hýsu fiskaður á Føroyabanka í tíðarskeiðnum <em type="italic">17-21. september 1999. </em></p>
+<p xml:lang="dan"><em type="bold">Hýsa </em>0100200300400sept1991juli1992sept1996sept1997sept1998sept1999 <em type="bold">(kg </em><em type="bold">) </em></p>
+<p>Mynd 5: Miðalveiðan (kg) av hýsu í heyst-yvirlitistrolingunumá Føroyabanka.</p>
+<p><em type="bold">Longdarbýti av upsa </em>(Miðallongd 67 cm)05101520253035405060708090100 </p>
+<p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p>Mynd 6 : Samlað longdarbýtið á upsa fiskaður á Føroyabanka í tíðarskeiðnum <em type="italic">17-21. september 1999. </em></p>
+<p xml:lang="dan"><em type="bold">Upsi </em>020406080100sept1991juli1992sept1996sept1997sept1998sept1999 <em type="bold">(kg) </em></p>
+<p>Mynd 7: Miðalveiðan (kg) av upsa í heyst-yvirlitistrolingunumá Føroyabanka.</p>
+<p>Tórshavn 29. oktober 1999 Eyðfinn Magnussen 4</p>
 </body></document>

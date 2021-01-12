@@ -1,570 +1,440 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>11102</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2017.10 Tilbúgvingin í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="dan"><em type="bold">Formæli </em></p>
-<p>Tilbúgvingin í Føroyum lýsir karmarnar um tilbúgvingina í Føroyum á sjónum, í luftini og á landi, men lýsir ikki alla tilbúgving í Føroyum út í æsir.</p>
-<p>Í <em type="italic">Tilbúgvingin  í  Føroyum</em>  verða  ábyrgd  og  uppgávur  hjá  myndugleikum  o.ø.  lýstar. Somuleiðis verða grundreglur og mannagongdir, sum øll tilbúgvingin skal byggja á, lýstar. </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>11205</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2017.10 Tilbúgvingin í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Formæli </em>Tilbúgvingin í Føroyum lýsir karmarnar um tilbúgvingina í Føroyum á sjónum, í luftini og á landi, men lýsir ikki alla tilbúgving í Føroyum út í æsir. </p>
+<p>Í <em type="italic">Tilbúgvingin í Føroyum </em>verða ábyrgd og uppgávur hjá myndugleikum o.ø. lýstar. Somuleiðis verða grundreglur og mannagongdir, sum øll tilbúgvingin skal byggja á, lýstar. </p>
 <p>Megingrundarlagið undir tilbúgvingini í Føroyum er løgtingslóg nr. 61 frá 15. mai 2012 um tilbúgving.</p>
-<p>Allir  partar  av  tilbúgvingini  eru  ikki  yvirtiknir,  men  verða  røktir  av ríkismyndugleikunum,  til  dømis  løgreglan  og  ikki-sivila  tilbúgvingin,  sum  Arktisk Kommando varðar av, og tilbúgvingarlógin fevnir ikki um hesar partar. Í praksis voldir hetta  tó  ikki  trupulleikar,  tí  at  partarnir  samstarva  og  gera  avtalur  um,  hvussu ríkiseindirnar skulu samvirka.</p>
-<p>Sambært lógini er tilbúgvingin skipað í</p>
-<p type="listitem"> eina landstilbúgving, har hvør økismyndugleiki skipar tilbúgvingina á sínum øki,</p>
-<p type="listitem"> eina  kommunala  tilbúgving,  har  hvør  kommuna  skipar  tilbúgvingina  á  sínum</p>
-<p>ábyrgdarøki,</p>
-<p type="listitem"> og  eina  virksemistilbúgving,  har  virksemi,  ið  kann  elva  skaða  o.a.,  skipar  sína</p>
-<p xml:lang="dan">egintilbúgving.</p>
-<p>Arbeiðið  at  skipa  føroysku  tilbúgvingina  hevur  tikið  drúgva  tíð,  og  bæði  føroyskir  og danskir  myndugleikar  hava  verið  uppi  í  arbeiðinum.  Hetta  skjalið  byggir  m.a.  á  tað arbeiðið.</p>
-<p>Á  heysti  2013  setti  Tilbúgvingarráðið  arbeiðið  við  hesum  skjali  í  gongd.  Settur  varð arbeiðsbólkur  við  umboðum  fyri  Vørn,  Heilsumálaráðið,  MRCC  Tórshavn,  løgregluna, kommunalu tilbúgvingina og Umhvørvisstovuna.</p>
-<p>Tey, ið mannaðu arbeiðsbólkin, vóru:</p>
-<p>- Andras Marr Poulsen, Fiskimálaráðið (formaður) - Jón Klein Olsen, løgreglan - Johan Müller, MRCC Tórshavn - Jóannes Heimustovu, VØRN - Suni Petersen, Umhvørvisstovan - Símun J. Hansen, Heilsu- og innlendismálaráðið - Finn Hansen, Kommunufelagið - Hannus Petersen, VØRN (skrivari)</p>
-<p>Á fyrsta fundinum, tann 3. oktober 2013, kunngjørdi formaðurin í Tilbúgvingarráðnum fyri limunum í arbeiðsbólkinum fylgjandi kommissorium:</p>
-<p>Formaður, árini 2013-2016, var Emil Simonsen, VØRN</p>
-<p>1 <em type="italic">Endamálið  við  hesum  skjali,  kallað  <span type="quote">“Tilbúgvingin  í  Føroyum”</span>,  er  at  lýsa,  hvussu tilbúgvingin  er  uppbygd,  soleiðis  at  eindirnar  og  myndugleikarnir  í  tilbúgvingini skilja, hvussu teirra partur av uppgávuni er skipaður og kann samvirka í samlaðu tilbúgvingini.</em> </p>
-<p><em type="italic">Umframt at lýsa tilbúgvingina, soleiðis sum hon sær út í dag, eru einstøk tilmæli í skjalinum.</em> </p>
+<p>Allir partar av tilbúgvingini eru ikki yvirtiknir, men verða røktir av ríkismyndugleikunum, til dømis løgreglan og ikki-sivila tilbúgvingin, sum Arktisk Kommando varðar av, og tilbúgvingarlógin fevnir ikki um hesar partar. Í praksis voldir hetta tó ikki trupulleikar, tí at partarnir samstarva og gera avtalur um, hvussu ríkiseindirnar skulu samvirka.</p>
+<p>Sambært lógini er tilbúgvingin skipað í  eina landstilbúgving, har hvør økismyndugleiki skipar tilbúgvingina á sínum øki,  eina kommunala tilbúgving, har hvør kommuna skipar tilbúgvingina á sínum ábyrgdarøki,  og eina virksemistilbúgving, har virksemi, ið kann elva skaða o.a., skipar sína egintilbúgving.</p>
+<p>Arbeiðið at skipa føroysku tilbúgvingina hevur tikið drúgva tíð, og bæði føroyskir og danskir myndugleikar hava verið uppi í arbeiðinum. Hetta skjalið byggir m.a. á tað arbeiðið.</p>
+<p>Á heysti 2013 setti Tilbúgvingarráðið arbeiðið við hesum skjali í gongd. Settur varð arbeiðsbólkur við umboðum fyri Vørn, Heilsumálaráðið, MRCC Tórshavn, løgregluna, kommunalu tilbúgvingina og Umhvørvisstovuna.</p>
+<p>Tey, ið mannaðu arbeiðsbólkin, vóru: - Andras Marr Poulsen1, Fiskimálaráðið (formaður) - Jón Klein Olsen, løgreglan - Johan Müller, MRCC Tórshavn - Jóannes Heimustovu, VØRN - Suni Petersen, Umhvørvisstovan - Símun J. Hansen, Heilsu- og innlendismálaráðið - Finn Hansen, Kommunufelagið - Hannus Petersen, VØRN (skrivari)</p>
+<p>Á fyrsta fundinum, tann 3. oktober 2013, kunngjørdi formaðurin í Tilbúgvingarráðnum fyri limunum í arbeiðsbólkinum fylgjandi kommissorium: 1 Formaður, árini 2013-2016, var Emil Simonsen, VØRN 2</p>
+<p>Endamálið við hesum skjali, kallað <span type="quote">“Tilbúgvingin í Føroyum”</span>, er at lýsa, hvussu tilbúgvingin er uppbygd, soleiðis at eindirnar og myndugleikarnir í tilbúgvingini skilja, hvussu teirra partur av uppgávuni er skipaður og kann samvirka í samlaðu tilbúgvingini.</p>
+<p>Umframt at lýsa tilbúgvingina, soleiðis sum hon sær út í dag, eru einstøk tilmæli í skjalinum .</p>
 <p>Skjalið er góðkent av Tilbúgvingarráðnum í oktober 2017.</p>
 <p>Vegna arbeiðsbólkin og Tilbúgvingarráðið.</p>
 <p>Andras Marr Poulsen,</p>
-<p>Tilbúgvingarsamskipari</p>
-<p>2</p>
-<p><em type="bold">Innihaldsyvirlit </em></p>
-<p><em type="bold"></em> <em type="bold">Inngangur ................................................................................................................................................. 6</em> </p>
-<p><em type="bold"></em> <em type="bold">Um tilbúgving .........................................................................................</em> </p>
-<p>2.1 Tilbúgvingarlógin .................................................................................................................. 6</p>
-<p>2.2 Tilbúgvingarráðið .................................................................................................................. 6</p>
-<p>2.3 Umsitingarráðið ..................................................................................................................... 7</p>
-<p>2.4 Hvør hevur ábyrgd av tilbúgvingini í Føroyum .................................................................. 7</p>
-<p>2.5 Grundreglur ........................................................................................................................... 8</p>
-<p>2.6 Hvat er tilbúgving? ................................................................................................................ 8</p>
-<p>2.7 Tilbúgvingarætlanir .............................................................................................................. 8</p>
-<p>2.8 At góðkenna tilbúgvingarætlanir ......................................................................................... 9</p>
-<p>2.9 Týdningurin av fyribyrging og eftirliti í tilbúgving ............................................................. 9</p>
-<p>2.10 Fyribyrging .......................................................................................................................... 10</p>
-<p>2.11 Eftirlit ................................................................................................................................... 10</p>
-<p>2.12 Samvirkandi tilbúgving ....................................................................................................... 11</p>
-<p><em type="bold"></em> <em type="bold">Samskipan av tilbúgving ................................................................................................................... 11</em> </p>
-<p><em type="bold"></em> <em type="bold">Økisábyrgd ............................................................................................................................................. 12</em> </p>
-<p xml:lang="dan"><em type="bold"></em> <em type="bold">Landstilbúgving .................................................................................................................................... 12</em> </p>
-<p>5.1 Heilsutilbúgvingin ............................................................................................................... 12</p>
-<p>5.1.1 Tilbúgvingin á sjúkrahúsunum ................................................................................................... 13</p>
-<p>5.1.2 Sjúkraflutningstænastan ............................................................................................................... 13</p>
-<p>5.1.3 Sjúkralið og sálarlig kreppuhjálp ............................................................................................... 13</p>
-<p>5.1.4 Sjúkraflutningur við tyrlu ............................................................................................................. 14</p>
-<p>5.1.5 Tvørfakligt samstarv ....................................................................................................................... 14</p>
-<p>5.1.6 Landslæknin ....................................................................................................................................... 14</p>
-<p xml:lang="dan">5.1.7 Epideminevnd .................................................................................................................................... 14</p>
-<p>5.1.8 Pandemibólkur .................................................................................................................................. 15</p>
-<p>5.1.9 Trýsttangi ............................................................................................................................................. 15</p>
-<p>5.1.10 Landsapotekarin ..............................................................................................................</p>
-<p>5.1.11 Heilsutilbúgving á sjónum ............................................................................................................ 15</p>
-<p>3</p>
-<p>5.2 Kjarnorku-, evna- og lívfrøðilig tilbúgving ........................................................................ 15</p>
-<p>5.3 Yvirgangur ........................................................................................................................... 16</p>
-<p>5.4 Heilsufrøðiliga starvsstovan ............................................................................................... 16</p>
-<p>5.4.1 Matur ..................................................................................................................................................... 16</p>
-<p>5.4.2 Djór ......................................................................................................................................................... 17</p>
-<p>5.5 Vegir, tunlar, havnir o.a. ...................................................................................................... 17</p>
-<p>5.5.1 Tilbúgving í tunlum.......................................................................................................................... 17</p>
-<p>5.5.2 Kreppusamskifti ................................................................................................................................ 18</p>
-<p>5.5.3 Serligt um undirsjóvartunlar ....................................................................................................... 18</p>
-<p>5.5.4 Havnir .................................................................................................................................................... 18</p>
-<p>5.5.5 Floghavnir ............................................................................................................................................ 19</p>
-<p><em type="bold"></em> <em type="bold">Kommunala tilbúgvingin .................................................................................................................. 19</em> </p>
-<p>6.1 Ábyrgdarøkið hjá kommunum ........................................................................................... 20</p>
-<p>6.2 Samstarvsavtalur ................................................................................................................. 21</p>
-<p xml:lang="dan">6.3 Felagskommunal tilbúgving ............................................................................................... 21</p>
-<p>6.4 Aðrar samstarvsavtalur ...................................................................................................... 21</p>
-<p>6.5 Skylda – eindarhugsjónin.................................................................................................... 22</p>
-<p>6.6 Tilbúgvingarnevndin ........................................................................................................... 22</p>
-<p>6.7 Eftirlit við kommunalu tilbúgvingini ................................................................................. 23</p>
-<p xml:lang="dan"><em type="bold"></em> <em type="bold">Virksemistilbúgving ............................................................................................................................ 23</em> </p>
-<p>7.1 Virki, sum við sínum virksemi kunnu volda skaða á fólk, umhvørvi, djór og virðir ...... 24</p>
-<p>7.2 Virkir og veitingar, sum hava týdning fyri virkisførið í Føroyum ................................... 24</p>
-<p>7.3 Samvirkan millum land, kommunur og virkir ................................................................... 25</p>
-<p><em type="bold"></em> <em type="bold">At samskipa tilbúgvingarátak ......................................................................................................... 26</em> </p>
-<p>8.1 At samskipa átak á landi -  Løgreglan ................................................................................ 26</p>
-<p>8.2 Vanlukkur tvørtur um kommunumark ..........................................................................</p>
-<p>8.3 Tilbúgving á sjónum – MRCC Tórshavn ............................................................................. 27</p>
-<p>8.4 Dálking á sjónum ................................................................................................................. 28</p>
-<p>8.5 Land/sjógvur - grásonur ..................................................................................................... 28</p>
-<p>8.6 Innara og ytra skaðastað ..................................................................................................... 28</p>
-<p>8.7 Átaksleiðsla .......................................................................................................................... 29</p>
-<p>8.8 Átaksleiðslubygnaður býttur sundur eftir funksjónum ................................................... 29</p>
-<p>8.9 Stafetthugsjónin................................................................................................................... 30</p>
-<p><em type="bold"></em> <em type="bold">Samskifti ................................................................................................................................................. 30</em> </p>
-<p>4</p>
-<p>9.1 Samskift verður ígjøgnum Alarmsentralin 1-1-2 ella MRCC Tórshavn ........................... 30</p>
-<p><em type="bold"></em> <em type="bold">Førleikamenning og útbúgving ....................................................................................................... 31</em> </p>
-<p><em type="bold"></em> <em type="bold">Útreiðslur................................................................................................................................................ 31</em> </p>
-<p><em type="bold"></em> <em type="bold">Skylda at boða frá og hjálpa ............................................................................................................. 32</em> </p>
-<p xml:lang="dan"><em type="bold"></em> <em type="bold">Átaksstig .................................................................................................................................................. 32</em> </p>
-<p><em type="bold"></em> <em type="bold">Altjóða samstarv .................................................................................................................................. 33</em> </p>
-<p>14.1 Keypmannahavnaravtalan .................................................................................................. 33</p>
-<p xml:lang="dan">14.2 Nordisk redningsoverenskomst (NORDRED) ................................................................... 33</p>
-<p>14.3 Samstarv um sjóbjarging .................................................................................................... 33</p>
-<p><em type="bold"></em> <em type="bold">Bjargingarfeløgini ................................................................................................................................ 34</em> </p>
-<p><em type="bold"></em> <em type="bold">Venjingar ................................................................................................................................................. 34</em> </p>
-<p><em type="bold"></em> <em type="bold">Tilbúgvingarboð ................................................................................................................................... 35</em> </p>
-<p>5</p>
-<p><em type="bold"> Inngangur </em></p>
-<p>Tilbúgvingin í Føroyum, sum er skipað fyri at verja fólk, djór, umhvørvi, virði og ognir og at tryggja virkisførið í samfelagnum á besta hátt, verður lýst í hesum skjali.</p>
-<p>Tað  er  ábyrgdin  hjá  landi  og  kommunum  at  røkja  uppgávur,  sum  hava  týdning  fyri samfelagið, eisini, tá ið óvæntaðir tilburðir hótta virkisførið í samfelagnum.</p>
-<p>Endamálið  við  hesum  skjali,  kallað  <span type="quote">“Tilbúgvingin  í  Føroyum”</span>,  er  at  lýsa,  hvussu tilbúgvingin er uppbygd, soleiðis at eindirnar og myndugleikarnir í tilbúgvingini skilja, hvussu teirra partur av uppgávuni er skipaður</p>
-<p>Henda  frágreiðing  miðar  eftir,  at  allir  partar  fáa  eina  felags  fatan  av  tilbúgvingini  í Føroyum,  hvussu  ábyrgd  og  uppgávur  eru  skipaðar,  og  hvørjar  eindir  eru  at  røkja uppgávurnar, bæði tá ið virkað verður einsæris og í felag við aðrar eindir, tá ið tørvur er á samstarvi í tilbúgvingini.</p>
-<p><em type="bold"> Um tilbúgving </em></p>
-<p><em type="bold">2.1 Tilbúgvingarlógin </em></p>
-<p>Tilbúgvingarlógin  setir  karmar  um  og  greinar  ábyrgdarbýtið  í  føroysku  tilbúgvingini. Høvuðssetningurin í tilbúgvingarlógini er, at allar eindir í tilbúgvingini skulu kunna virka saman sum ein eind, so at stórir tilburðir kunnu handfarast sum best, so sleppast kann undan óneyðugum og dýrkandi dupultfunksjónum.</p>
-<p><em type="bold">2.2 Tilbúgvingarráðið  </em></p>
-<p>Tilbúgvingarráðið  skal  ráðgeva  landsstýrismonnunum,  hvussu  tilbúgvingin  í  síni  heild verður  skipað,  og  skal  hava  serligt  atlit  at  markamótunum  millum  ymisku</p>
-<p>Tilbúgvingarlógin skipar ikki alt, sum í Føroyum hevur við tilbúgving at gera. Nevnast kann t.d., at</p>
-<p>serlógir eru viðvíkjandi tilbúgving í sambandi við oljudálking, har kapittul 14 í havumhvørvisverndarlógini og kapittul 5 í kolvetnislógini hava ásetingar um tilbúgving. Harumframt eru reglur við heimild í brunalógini framvegis galdandi í tann mun, reglur við heimild í tilbúgvingarlógini ikki eru komnar ístaðin.</p>
-<p>Tilbúgvingarráðið  er,  sambært  § 4 í  lógini,  mannað við 8 limum. Einum  formanni,  sum  er umboð fyri</p>
-<p>samskipandi  tilbúgvingarmyndugleikan,  og  umboðum  fyri  ávikavist  MRCC  Tórshavn,  kommunurnar, heilsutilbúgvingina, umhvørvisverndina, Føroya landfúta, landslæknan og landsdjóralæknan.</p>
-<p>6 økistilbúgvingarnar.  Ráðssamansetingin  skal  tryggja  eitt  fjølbroytt  fakligt  grundarlag undir avgerðum um at skipa tilbúgvingina á einstøku tilbúgvingarøkjunum, og at økini kunnu virka sum ein eind.</p>
-<p>Ráðið hevur eina avmarkaða fasta manning, men verður víðkað við viðkomandi manning, eitt nú um ein serstøk økistilbúgving er til viðgerðar. Tað er uppgávan hjá formanninum at tryggja, at viðkomandi førleikar eru tøkir.</p>
-<p><em type="bold">2.3 Umsitingarráðið </em></p>
-<p>Umsitingarráðið  virkar  sambært  reglugerð  um  umsitingarráð  fyri  sjóbjarging  og tilbúgvingarviðurskifti, ið varð sett í gildi 18. januar 2002 av landsstýrismanninum í sjó- og fiskivinnumálum.</p>
-<p>Umsitingarráðið  skal  hava  fund  minst  eina  ferð  um  árið  og  skal  gera  nágreiniligar mannagongdir og vegleiðingar fyri virksemi sítt.</p>
-<p>Umsitingarráðið er mannað við løgmansstjóranum og aðalstjórunum í stjórnarráðunum og  virkar  sum  millumlið  millum politiska  myndugleikan  og  samskipandi  leiðsluna  fyri átøk á sjónum, sum er MRCC Tórshavn.</p>
-<p>Uppgávurnar hjá umsitingarráðnum eru at:</p>
-<p>1) tryggja  politiska  myndugleikanum  í  Føroyum  innlit  í  gongdina,  tá  átøk  eru  á sjónum, 2) geva ráð og kunna Føroya landsstýri um neyðrættartiltøk 3) geva ráð og kunna Føroya landsstýri, hvussu fjølmiðlar verða kunnaðir, 4) taka sær av umboðum, ið umboða útlendskar myndugleikar, og 5) tryggja kunning og samskipa neyðug átøk í sambandi við fjølmiðlafólk, umboð fyri áhugafelagsskapir og onnur, ið koma á vanlukkustaðið ella til landið.</p>
-<p>Mælt verður til, at skipanin við Umsitingarráði og Tilbúgvingarráði verður endurskoðað og tillagað. Sum er, verður Umsitingarráðið einans skipað í kreppustøðu, um átak er á sjónum, meðan Tilbúgvingarráðið er ráðgevandi og verður ikki skipað í kreppustøðu. Sostatt hevur hvørki Umsitingarráðið ella Tilbúgvingarráðið nakran formligan leiklut í samband við kreppustøðu á landi.</p>
-<p><em type="bold">2.4 Hvør hevur ábyrgd av tilbúgvingini í Føroyum</em><em type="italic"> </em></p>
-<p>Ábyrgdin  av  tilbúgvingini  er  skipað  eftir,  hvørji  øki  ymisku  kommunurnar  og stjórnarráðini umsita ella, um talan er um virkir, tað virksemið, sum er á økinum. Hetta er  økisábyrgdin,  sum  er  ein  aðalregla  í  føroysku  tilbúgvingini.  Økisábyrgdin  áleggur stjórnarráðunum, kommunum og ávísum virkjum at hava eina tilbúgving, sum á nøktandi hátt  er  før  fyri  at  verja  fólk,  djór,  umhvørvi,  virði  og  ognir  og  at  tryggja  virkisførið  í samfelagnum. T.d. hevur landsstýrismaðurin í fiskivinnumálum evstu ábyrgd av bjarging á  sjónum,  og  landsstýrismaðurin  í  heilsumálum  evstu  ábyrgd  av  sjúkraflutninginum.</p>
-<p>7 Hvussu  umfatandi  tilbúgvingin  skal  vera  fyri  at  vera  á  nóg  høgum  stigi,  er  upp  til økisábyrgdirnar at gera av.</p>
-<p>Mælt verður til, at ein tvørgangandi arbeiðsbólkur verður settur at gera uppskot til innihald  og  háttalag  (metodik)  fyri  eina  kommunala  váðameting  við Fiskimálaráðnum sum samskipara.  Mælt  verður  eisini  til,  at  ein  tvørgangandi  arbeiðsbólkur  verður  settur  at  gera uppskot til innihald og háttalag fyri eina virksemistilbúgving við Fiskimálaráðnum sum samskipara.</p>
-<p><em type="bold">2.5 Grundreglur </em></p>
+<p>Tilbúgvingarsamskipari 3</p>
+<p><em type="bold">Innihaldsyvirlit </em><em type="bold">1 </em><em type="bold">Inngangur ................................................................................................................................................. 6 </em><em type="bold">2 </em><em type="bold">Um tilbúgving .......................................................................................................................................... 6 </em>2.1 </p>
+<p>Tilbúgvingarlógin .................................................................................................................. 6 2.2</p>
+<p>Tilbúgvingarráðið .................................................................................................................. 6 2.3</p>
+<p>Umsitingarráðið ..................................................................................................................... 7 2.4</p>
+<p>Hvør hevur ábyrgd av tilbúgvingini í Føroyum .................................................................. 7 2.5</p>
+<p>Grundreglur ........................................................................................................................... 8 2.6</p>
+<p>Hvat er tilbúgving? ................................................................................................................ 8 2.7</p>
+<p>Tilbúgvingarætlanir .............................................................................................................. 8 2.8</p>
+<p>At góðkenna tilbúgvingarætlanir ......................................................................................... 9 2.9</p>
+<p>Týdningurin av fyribyrging og eftirliti í tilbúgving ............................................................. 9 2.10 Fyribyrging .......................................................................................................................... 10 2.11 Eftirlit ................................................................................................................................... 10 2.12 Samvirkandi tilbúgving ....................................................................................................... 11 <em type="bold">3 </em><em type="bold">Samskipan av tilbúgving ................................................................................................................... 11 </em><em type="bold">4 </em><em type="bold">Økisábyrgd ............................................................................................................................................. 12 </em><em type="bold">5 </em><em type="bold">Landstilbúgving .................................................................................................................................... 12 </em>5.1 </p>
+<p>Heilsutilbúgvingin ............................................................................................................... 12 5.1.1</p>
+<p>Tilbúgvingin á sjúkrahúsunum ................................................................................................... 13 5.1.2</p>
+<p>Sjúkraflutningstænastan ............................................................................................................... 13 5.1.3</p>
+<p>Sjúkralið og sálarlig kreppuhjálp ............................................................................................... 13 5.1.4</p>
+<p>Sjúkraflutningur við tyrlu ............................................................................................................. 14 5.1.5</p>
+<p>Tvørfakligt samstarv ....................................................................................................................... 14 5.1.6</p>
+<p>Landslæknin ....................................................................................................................................... 14 5.1.7</p>
+<p xml:lang="dan">Epideminevnd .................................................................................................................................... 14 5.1.8</p>
+<p>Pandemibólkur .................................................................................................................................. 15 5.1.9</p>
+<p>Trýsttangi ............................................................................................................................................. 15 5.1.10 Landsapotekarin ............................................................................................................................... 15 5.1.11 Heilsutilbúgving á sjónum ............................................................................................................ 15 4 5.2</p>
+<p>Kjarnorku-, evna- og lívfrøðilig tilbúgving ........................................................................ 15 5.3</p>
+<p>Yvirgangur ........................................................................................................................... 16 5.4</p>
+<p>Heilsufrøðiliga starvsstovan ............................................................................................... 16 5.4.1</p>
+<p>Matur ..................................................................................................................................................... 16 5.4.2</p>
+<p>Djór ......................................................................................................................................................... 17 5.5</p>
+<p>Vegir, tunlar, havnir o.a. ...................................................................................................... 17 5.5.1</p>
+<p>Tilbúgving í tunlum.......................................................................................................................... 17 5.5.2</p>
+<p>Kreppusamskifti ................................................................................................................................ 18 5.5.3</p>
+<p>Serligt um undirsjóvartunlar ....................................................................................................... 18 5.5.4</p>
+<p>Havnir .................................................................................................................................................... 18 5.5.5</p>
+<p>Floghavnir ............................................................................................................................................ 19 <em type="bold">6 </em><em type="bold">Kommunala tilbúgvingin .................................................................................................................. 19 </em>6.1 </p>
+<p>Ábyrgdarøkið hjá kommunum ........................................................................................... 20 6.2</p>
+<p>Samstarvsavtalur ................................................................................................................. 21 6.3</p>
+<p xml:lang="dan">Felagskommunal tilbúgving ............................................................................................... 21 6.4</p>
+<p>Aðrar samstarvsavtalur ...................................................................................................... 21 6.5</p>
+<p>Skylda – eindarhugsjónin.................................................................................................... 22 6.6</p>
+<p>Tilbúgvingarnevndin ........................................................................................................... 22 6.7</p>
+<p>Eftirlit við kommunalu tilbúgvingini ................................................................................. 23 <em type="bold">7 </em><em type="bold">Virksemistilbúgving ............................................................................................................................ 23 </em>7.1 </p>
+<p>Virki, sum við sínum virksemi kunnu volda skaða á fólk, umhvørvi, djór og virðir ...... 24 7.2</p>
+<p>Virkir og veitingar, sum hava týdning fyri virkisførið í Føroyum ................................... 24 7.3</p>
+<p>Samvirkan millum land, kommunur og virkir ................................................................... 25 <em type="bold">8 </em><em type="bold">At samskipa tilbúgvingarátak ......................................................................................................... 26 </em>8.1 </p>
+<p>At samskipa átak á landi - Løgreglan ................................................................................ 26 8.2</p>
+<p>Vanlukkur tvørtur um kommunumark .............................................................................. 27 8.3</p>
+<p>Tilbúgving á sjónum – MRCC Tórshavn ............................................................................. 27 8.4</p>
+<p>Dálking á sjónum ................................................................................................................. 28 8.5</p>
+<p>Land/sjógvur - grásonur ..................................................................................................... 28 8.6</p>
+<p>Innara og ytra skaðastað ..................................................................................................... 28 8.7</p>
+<p>Átaksleiðsla .......................................................................................................................... 29 8.8</p>
+<p>Átaksleiðslubygnaður býttur sundur eftir funksjónum ................................................... 29 8.9</p>
+<p>Stafetthugsjónin................................................................................................................... 30 <em type="bold">9 </em><em type="bold">Samskifti ................................................................................................................................................. 30 </em>5 9.1 </p>
+<p>Samskift verður ígjøgnum Alarmsentralin 1-1-2 ella MRCC Tórshavn ........................... 30 <em type="bold">10 </em><em type="bold">Førleikamenning og útbúgving ....................................................................................................... 31 </em><em type="bold">11 </em><em type="bold">Útreiðslur................................................................................................................................................ 31 </em><em type="bold">12 </em><em type="bold">Skylda at boða frá og hjálpa ............................................................................................................. 32 </em><em type="bold">13 </em><em type="bold">Átaksstig .................................................................................................................................................. 32 </em><em type="bold">14 </em><em type="bold">Altjóða samstarv .................................................................................................................................. 33 </em>14.1 Keypmannahavnaravtalan .................................................................................................. 33 14.2 Nordisk redningsoverenskomst (NORDRED) ................................................................... 33 14.3 Samstarv um sjóbjarging .................................................................................................... 33 <em type="bold">15 </em><em type="bold">Bjargingarfeløgini ................................................................................................................................ 34 </em><em type="bold">16 </em><em type="bold">Venjingar ................................................................................................................................................. 34 </em><em type="bold">17 </em><em type="bold">Tilbúgvingarboð ................................................................................................................................... 35 </em>6 <em type="bold">1 Inngangur </em></p>
+<p>Tilbúgvingin í Føroyum, sum er skipað fyri at verja fólk, djór, umhvørvi, virði og ognir og at tryggja virkisførið í samfelagnum á besta hátt, verður lýst í hesum skjali. Tað er ábyrgdin hjá landi og kommunum at røkja uppgávur, sum hava týdning fyri samfelagið, eisini, tá ið óvæntaðir tilburðir hótta virkisførið í samfelagnum. Endamálið við hesum skjali, kallað <span type="quote">“Tilbúgvingin í Føroyum”</span>, er at lýsa, hvussu tilbúgvingin er uppbygd, soleiðis at eindirnar og myndugleikarnir í tilbúgvingini skilja, hvussu teirra partur av uppgávuni er skipaður og kann samvirka í samlaðu tilbúgvingini. Umframt at lýsa tilbúgvingina, soleiðis sum hon sær út í dag, eru einstøk tilmæli í skjalinum. Henda frágreiðing miðar eftir, at allir partar fáa eina felags fatan av tilbúgvingini í Føroyum, hvussu ábyrgd og uppgávur eru skipaðar, og hvørjar eindir eru at røkja uppgávurnar, bæði tá ið virkað verður einsæris og í felag við aðrar eindir, tá ið tørvur er á samstarvi í tilbúgvingini. <em type="bold">2 Um tilbúgving </em><em type="bold">2.1 Tilbúgvingarlógin2 </em></p>
+<p>Tilbúgvingarlógin setir karmar um og greinar ábyrgdarbýtið í føroysku tilbúgvingini. Høvuðssetningurin í tilbúgvingarlógini er, at allar eindir í tilbúgvingini skulu kunna virka saman sum ein eind, so at stórir tilburðir kunnu handfarast sum best, so sleppast kann undan óneyðugum og dýrkandi dupultfunksjónum. <em type="bold">2.2 Tilbúgvingarráðið3 </em></p>
+<p>Tilbúgvingarráðið skal ráðgeva landsstýrismonnunum, hvussu tilbúgvingin í síni heild verður skipað, og skal hava serligt atlit at markamótunum millum ymisku 2</p>
+<p>Tilbúgvingarlógin skipar ikki alt, sum í Føroyum hevur við tilbúgving at gera. Nevnast kann t.d., at serlógir eru viðvíkjandi tilbúgving í sambandi við oljudálking, har kapittul 14 í havumhvørvisverndarlógini og kapittul 5 í kolvetnislógini hava ásetingar um tilbúgving. Harumframt eru reglur við heimild í brunalógini framvegis galdandi í tann mun, reglur við heimild í tilbúgvingarlógini ikki eru komnar ístaðin. 3</p>
+<p>Tilbúgvingarráðið er, sambært § 4 í lógini, mannað við 8 limum. Einum formanni, sum er umboð fyri samskipandi tilbúgvingarmyndugleikan, og umboðum fyri ávikavist MRCC Tórshavn, kommunurnar, heilsutilbúgvingina, umhvørvisverndina, Føroya landfúta, landslæknan og landsdjóralæknan. 7 økistilbúgvingarnar. Ráðssamansetingin skal tryggja eitt fjølbroytt fakligt grundarlag undir avgerðum um at skipa tilbúgvingina á einstøku tilbúgvingarøkjunum, og at økini kunnu virka sum ein eind.</p>
+<p>Ráðið hevur eina avmarkaða fasta manning, men verður víðkað við viðkomandi manning, eitt nú um ein serstøk økistilbúgving er til viðgerðar. Tað er uppgávan hjá formanninum at tryggja, at viðkomandi førleikar eru tøkir. <em type="bold">2.3 Umsitingarráðið </em></p>
+<p>Umsitingarráðið virkar sambært reglugerð um umsitingarráð fyri sjóbjarging og tilbúgvingarviðurskifti, ið varð sett í gildi 18. januar 2002 av landsstýrismanninum í sjó- og fiskivinnumálum.</p>
+<p>Umsitingarráðið skal hava fund minst eina ferð um árið og skal gera nágreiniligar mannagongdir og vegleiðingar fyri virksemi sítt.</p>
+<p>Umsitingarráðið er mannað við løgmansstjóranum og aðalstjórunum í stjórnarráðunum og virkar sum millumlið millum politiska myndugleikan og samskipandi leiðsluna fyri átøk á sjónum, sum er MRCC Tórshavn.</p>
+<p>Uppgávurnar hjá umsitingarráðnum eru at: 1) tryggja politiska myndugleikanum í Føroyum innlit í gongdina, tá átøk eru á sjónum, 2) geva ráð og kunna Føroya landsstýri um neyðrættartiltøk 3) geva ráð og kunna Føroya landsstýri, hvussu fjølmiðlar verða kunnaðir, 4) taka sær av umboðum, ið umboða útlendskar myndugleikar, og 5) tryggja kunning og samskipa neyðug átøk í sambandi við fjølmiðlafólk, umboð fyri áhugafelagsskapir og onnur, ið koma á vanlukkustaðið ella til landið. <em type="bold">2.4 Hvør hevur ábyrgd av tilbúgvingini í Føroyum </em></p>
+<p>Ábyrgdin av tilbúgvingini er skipað eftir, hvørji øki ymisku kommunurnar og stjórnarráðini umsita ella, um talan er um virkir, tað virksemið, sum er á økinum. Hetta er økisábyrgdin, sum er ein aðalregla í føroysku tilbúgvingini. Økisábyrgdin áleggur stjórnarráðunum, kommunum og ávísum virkjum at hava eina tilbúgving, sum á nøktandi hátt er før fyri at verja fólk, djór, umhvørvi, virði og ognir og at tryggja virkisførið í samfelagnum. T.d. hevur landsstýrismaðurin í fiskivinnumálum evstu ábyrgd av bjarging á sjónum, og landsstýrismaðurin í heilsumálum evstu ábyrgd av sjúkraflutninginum.</p>
+<p>Mælt verður til, at skipanin við Umsitingarráði og Tilbúgvingarráði verður endurskoðað og tillagað. Sum er, verður Umsitingarráðið einans skipað í kreppustøðu, um átak er á sjónum, meðan Tilbúgvingarráðið er ráðgevandi og verður ikki skipað í kreppustøðu. Sostatt hevur hvørki Umsitingarráðið ella Tilbúgvingarráðið nakran formligan leiklut í samband við kreppustøðu á landi. 8</p>
+<p>Hvussu umfatandi tilbúgvingin skal vera fyri at vera á nóg høgum stigi, er upp til økisábyrgdirnar at gera av.</p>
+<p>Mælt verður til, at ein tvørgangandi arbeiðsbólkur verður settur at gera uppskot til innihald og háttalag (metodik) fyri eina kommunala váðameting við</p>
+<p>Fiskimálaráðnum sum samskipara. Mælt verður eisini til, at ein tvørgangandi arbeiðsbólkur verður settur at gera uppskot til innihald og háttalag fyri eina virksemistilbúgving við Fiskimálaráðnum sum samskipara. <em type="bold">2.5 Grundreglur </em></p>
 <p>Tilbúgvingin í Føroyum byggir á hesar grundreglur:</p>
-<p><em type="italic">Grundregluna um økisábyrgd</em><em type="bold">:</em> Tann myndugleikin, ið hevur ábyrgd av ávísari uppgávu í </p>
-<p>gerandisdegnum, varðveitir ábyrgdina, tá ið størri skaðar ella vanlukkur henda.</p>
-<p><em type="italic">Grundregluna um líkskap</em><em type="bold">:</em> Tær mannagongdir og tey ábyrgdarviðurskifti, ið vanliga galda, </p>
-<p>galda eisini í tilbúgvingarstøðum.</p>
-<p><em type="italic">Grundregluna  um  nærleika</em><em type="bold">:</em>  Tilbúgvingaruppgávurnar  eiga  at  verða  loystar  so  nær </p>
-<p>borgaranum sum gjørligt og á so lágum bygnaðarligum stigi sum til ber.</p>
-<p><em type="italic">Grundregluna um samstarv</em><em type="bold">:</em> Myndugleikar hava skyldu at samstarva og at samskifta við </p>
-<p>aðrar myndugleikar og feløg um tilbúgving og tilbúgvingarátøk.</p>
-<p><em type="bold">2.6 Hvat er tilbúgving? </em></p>
-<p>Tilbúgving kann lýsast, sum tað at vera førur fyri og útgjørdur til at fyribyrgja, avmarka og handfara skaða, sum stendst av óvanligum tilburðum,  sum kunnu elva til skaða á fólk, djór, umhvørvi, virði og virkisføri.</p>
-<p><em type="bold">2.7 Tilbúgvingarætlanir </em></p>
-<p>Til  tess  at  skipa  tilbúgving  skal  tilbúgvingarætlan  verða  gjørd  fyri  hvørt  virkisøki  í samfelagnum.</p>
-<p>Tilbúgvingarætlanir  kunnu  gerast  eftir  ymiskum  leisti,  men  hava  tó  sum  oftast  nøkur felags eyðkenni, og verða vanliga gjørdar í stigum. Fyrsta stigið er vanliga at gera eina váðameting, sum lýsir sannlíkindini fyri, at ymiskir tilburðir henda og skaðan av hesum somu  tilburðum.  Harnæst  má  støða  takast  til,  hvussu  tilfeingið  skal  raðfestast  fyri  at fyribyrgja  og  handfara  avleiðingar,  ið  kunnu  standast  av  hesum  tilburðum.  Eisini  má støða verða tikin til, um fyribyrging og eftirlit skal uppraðfestast, so at sjálv tilbúgvingin í sambandi við tilburðir kann avmarkast. Ein tilbúgvingarætlan er eitt skjal, sum støðugt verður tillagað, serliga í sambandi við, at tilburðir verða eftirmettir og vísa eina nýggja mynd av váðanum.</p>
-<p><em type="bold">Dømi um,  hvussu ein tilbúgvingarætlan verður ment í 5 stigum </em></p>
-<p>8</p>
+<p><em type="italic">Grundregluna um økisábyrgd </em><em type="bold">: </em>Tann myndugleikin, ið hevur ábyrgd av ávísari uppgávu í gerandisdegnum, varðveitir ábyrgdina, tá ið størri skaðar ella vanlukkur henda. </p>
+<p><em type="italic">Grundregluna um líkskap </em><em type="bold">: </em>Tær mannagongdir og tey ábyrgdarviðurskifti, ið vanliga galda, galda eisini í tilbúgvingarstøðum. </p>
+<p><em type="italic">Grundregluna um nærleika </em><em type="bold">: </em>Tilbúgvingaruppgávurnar eiga at verða loystar so nær borgaranum sum gjørligt og á so lágum bygnaðarligum stigi sum til ber. </p>
+<p><em type="italic">Grundregluna um samstarv </em><em type="bold">: </em>Myndugleikar hava skyldu at samstarva og at samskifta við aðrar myndugleikar og feløg um tilbúgving og tilbúgvingarátøk. <em type="bold">2.6 Hvat er tilbúgving? </em></p>
+<p>Tilbúgving kann lýsast, sum tað at vera førur fyri og útgjørdur til at fyribyrgja, avmarka og handfara skaða, sum stendst av óvanligum tilburðum, sum kunnu elva til skaða á fólk, djór, umhvørvi, virði og virkisføri. <em type="bold">2.7 Tilbúgvingarætlanir </em></p>
+<p>Til tess at skipa tilbúgving skal tilbúgvingarætlan verða gjørd fyri hvørt virkisøki í samfelagnum.</p>
+<p>Tilbúgvingarætlanir kunnu gerast eftir ymiskum leisti, men hava tó sum oftast nøkur felags eyðkenni, og verða vanliga gjørdar í stigum. Fyrsta stigið er vanliga at gera eina váðameting, sum lýsir sannlíkindini fyri, at ymiskir tilburðir henda og skaðan av hesum somu tilburðum. Harnæst má støða takast til, hvussu tilfeingið skal raðfestast fyri at fyribyrgja og handfara avleiðingar, ið kunnu standast av hesum tilburðum. Eisini má støða verða tikin til, um fyribyrging og eftirlit skal uppraðfestast, so at sjálv tilbúgvingin í sambandi við tilburðir kann avmarkast. Ein tilbúgvingarætlan er eitt skjal, sum støðugt verður tillagað, serliga í sambandi við, at tilburðir verða eftirmettir og vísa eina nýggja mynd av váðanum.</p>
+<p><em type="bold">Dømi um, hvussu ein tilbúgvingarætlan verður ment í 5 stigum </em>9 </p>
 <p><em type="bold">Mynd 1 </em></p>
-<p>Sambært tilbúgvingarlógini skulu tilbúgvingarætlanir, bæði hjá kommunum og virkjum, verða sendar landsstýrismanninum í tilbúgvingarmálum til viðmerkingar og kunningar. Endamálið er, at landstilbúgvingin er kunnað um, hvørjar ætlanir skulu samvirka, og at samskipandi  tilbúgvingarmyndugleikin  kann  veita  ráðgeving  og  vegleiðing,  so  at eindarhugsjónin verður framd í</p>
-<p><em type="bold">2.8 At góðkenna tilbúgvingarætlanir  </em></p>
-<p>Tilbúgvingarætlanir hjá kommunum skulu góðkennast av kommunustýrinum aftaná, at landsstýrismaðurin í tilbúgvingarmálum hevur gjørt viðmerkingar.</p>
-<p><em type="bold">2.9 Týdningurin av fyribyrging og eftirliti í tilbúgving </em></p>
-<p>Ofta  verður  ov  lítið  av  orku  og  peningi  nýtt  til  fyribyrging  og  eftirlit,  hóast  tað  er  her  mannalív, umhvørvi og virði best kunnu verjast. Tilbúgvingarpyramidan niðanfyri vísir, hvussu  fyribyrging  og  harnæst  eftirlit  í  eini  góðari  tilbúgving  minka  um  talið  av hendingum, sum krevja, at tilbúgvingarátøk verða sett í verk, og eisini minkar um vandan av  hvørjari  einstakari  hending.  Tað  er,  tá  ið  óhappini  henda,  at  vandin  fyri  at  missa mannalív og virði gerst veruleiki.</p>
+<p>Sambært tilbúgvingarlógini skulu tilbúgvingarætlanir, bæði hjá kommunum og virkjum, verða sendar landsstýrismanninum í tilbúgvingarmálum til viðmerkingar og kunningar. Endamálið er, at landstilbúgvingin er kunnað um, hvørjar ætlanir skulu samvirka, og at samskipandi tilbúgvingarmyndugleikin kann veita ráðgeving og vegleiðing, so at eindarhugsjónin verður framd í verki. Tað er Fiskimálaráðið, sum eigur ta uppgávuna. <em type="bold">2.8 At góðkenna tilbúgvingarætlanir </em></p>
+<p>Tilbúgvingarætlanir hjá kommunum skulu góðkennast av kommunustýrinum aftaná, at landsstýrismaðurin í tilbúgvingarmálum hevur gjørt viðmerkingar. <em type="bold">2.9 Týdningurin av fyribyrging og eftirliti í tilbúgving </em></p>
+<p>Ofta verður ov lítið av orku og peningi nýtt til fyribyrging og eftirlit, hóast tað er her mannalív, umhvørvi og virði best kunnu verjast. Tilbúgvingarpyramidan niðanfyri vísir, hvussu fyribyrging og harnæst eftirlit í eini góðari tilbúgving minka um talið av hendingum, sum krevja, at tilbúgvingarátøk verða sett í verk, og eisini minkar um vandan av hvørjari einstakari hending. Tað er, tá ið óhappini henda, at vandin fyri at missa mannalív og virði gerst veruleiki.</p>
 <p><em type="bold">Ímynd av eini góðari tilbúgving: </em></p>
-<p><em type="bold">Mynd 2 </em></p>
-<p>9</p>
-<p><em type="bold">2.10 Fyribyrging </em></p>
-<p>Sambært § 1 í tilbúgvingarlógini er eitt av endamálunum við tilbúgvingini at fyribyrgja skaðatilburðum.  Hóast  tilbúgving  ofta  verður  hugsað  sum,  hvat  verður  gjørt,  eftir  at tilburðir eru hendir, so hevur fyribyrging alstóran týdning, tá tað ræður um tilbúgving.</p>
-<p>Nógv  fyribyrgjandi  atlit  eru  skipað  í  aðrari  lóggávu  enn  tilbúgvingarlógini,  men  eru týdningarmikil í fyribyrgjandi tilbúgving, har ymsir stovnar og eftirlitsmyndugleikar hava uppgávuna at tryggja, at høli, virki, før o.a. verða innrættað, so at vandi fyri og avleiðingar av óhappum og vanlukkum, verða avmarkað mest møguligt. Hesir stovnar eru skipaðir við serlóggávu og verða ikki greinaðir út í æsir í hesum skjali. Sum dømi kunnu nevnast stovnar sum Akstovan, Sjóvinnustýrið, Trafikstyrelsen og Arbeiðs- og brunaeftirlitið.</p>
-<p>Umframt fyribyrging í serlóggávu er landsstýrismanninum í samferðslumálum heimilað at seta kunngerðir um fyribyrging í gildi. Sum dømi kann nevnast, at flutningur á landi av eldfimum løgi ikki er beinleiðis reguleraður í Tilbúgvingarlógini, men at kunngerðir um fyribyrging av eldi og spreingingum kunnu setast í gildi fyri tílíkt virksemi við heimild í § 36, stk. 1, nr. 2.</p>
-<p>Tað kann væntandi gerast týðandi partur av arbeiðinum í Tilbúgvingarráðnum at meta um tørvin á fyribyrgjandi kunngerðum og at gera tilmæli til avvarðandi landsstýrismann. Áður hava verið arbeiðsbólkar, sum hava havt líknandi uppgávu.</p>
-<p><em type="bold">2.11 Eftirlit  </em></p>
+<p><em type="bold">Mynd 2 </em>10 <em type="bold">2.10 Fyribyrging </em></p>
+<p>Sambært § 1 í tilbúgvingarlógini er eitt av endamálunum við tilbúgvingini at fyribyrgja skaðatilburðum. Hóast tilbúgving ofta verður hugsað sum, hvat verður gjørt, eftir at tilburðir eru hendir, so hevur fyribyrging alstóran týdning, tá tað ræður um tilbúgving.</p>
+<p>Nógv fyribyrgjandi atlit eru skipað í aðrari lóggávu enn tilbúgvingarlógini, men eru týdningarmikil í fyribyrgjandi tilbúgving, har ymsir stovnar og eftirlitsmyndugleikar hava uppgávuna at tryggja, at høli, virki, før o.a. verða innrættað, so at vandi fyri og avleiðingar av óhappum og vanlukkum, verða avmarkað mest møguligt. Hesir stovnar eru skipaðir við serlóggávu og verða ikki greinaðir út í æsir í hesum skjali. Sum dømi kunnu nevnast stovnar sum Akstovan, Sjóvinnustýrið, Trafikstyrelsen og Arbeiðs- og brunaeftirlitið.</p>
+<p>Umframt fyribyrging í serlóggávu er landsstýrismanninum í samferðslumálum heimilað at seta kunngerðir4 um fyribyrging í gildi. Sum dømi kann nevnast, at flutningur á landi av eldfimum løgi ikki er beinleiðis reguleraður í Tilbúgvingarlógini, men at kunngerðir um fyribyrging av eldi og spreingingum kunnu setast í gildi fyri tílíkt virksemi við heimild í § 36, stk. 1, nr. 25.</p>
+<p>Tað kann væntandi gerast týðandi partur av arbeiðinum í Tilbúgvingarráðnum at meta um tørvin á fyribyrgjandi kunngerðum og at gera tilmæli til avvarðandi landsstýrismann. Áður hava verið arbeiðsbólkar, sum hava havt líknandi uppgávu6. <em type="bold">2.11 Eftirlit </em></p>
 <p>Eftirlit er neyðugt fyri at tryggja, at fyribyrgjandi tiltøk virka. Tess betri fyribyrging og eftirlit, tess færri tilburðir verða, ið krevja tilbúgvingarátøk.</p>
-<p>Eftirlit er t.d. fyri at tryggja, at bygningar, akfør, skip og annað eru í nóg góðum standi.  Stovnar eru settir at taka sær av hesum uppgávum. Nevnast kunnu til dømis Akstovan, Sjóvunnustýrið, Arbeiðs- og brunaeftirlitið og Heilsufrøðiliga starvsstovan.</p>
-<p>Sum nevnt í pkt. 6.9, hevur landsstýrismaðurin í tilbúgvingarmálum  yvirskipað eftirlit við  kommunalum  tilbúgvingarætlanum.  Eftirlit  er  við,  at  kommunurnar  halda ásetingarnar  í  tilbúgvingarlógini  og  aðrar  reglur  við  heimild  í  lógini.  Av  tí,  at kommunurnar  hava  fingið  lógarásettar  tilbúgvingaruppgávur,  og  av  tí,  at kommunustýrini eru sjálvstýrandi, hevur landsstýrismaðurin í tilbúgvingarmálum bert óbeinleiðis yvirumsjón við, at kommunan veruliga lýkur lógarásettu skyldur sínar.</p>
-<p>Sambært orðingunum í tilbúgvingarlógini og viðmerkingum til lógina verður serliga hugsað um tiltøk, har</p>
-<p>tað annars ikki eru neyðugar ella meira ítøkiligar ásetingar og heimildir í aðrari serlóggávu. Hetta veri seg t.d. bátafestivalar, festivalar á landi,  stevnur o.s.fr. Nevnt verður í viðmerkingunum, at í kunngerð kann áleggjast kommunum at hava vaktarhald í sambandi við ymisk tiltøk.</p>
-<p>Sambært tilbúgvingarlógini § 35, stk. 1 og § 36, stk. 1 og 2.  Víst verður til Frágreiðing um Tilbúgvingarverkætlan Føroya, sum Fiskimálaráðið læt gera í mars 2003.</p>
-<p>10</p>
-<p><em type="bold">2.12 Samvirkandi tilbúgving </em></p>
-<p>Endamálið  við  samvirkandi  tilbúgving  er,  at  samstarvað  verður  við  allar  viðkomandi partar  fyri  at  tryggja,  at  ymiska  økisábyrgdin,  t.e.  lands-,  kommunal-  og virksemistilbúgvingareindir, virka sum ein eind, tá ið tørvur er á tí.</p>
+<p>Eftirlit er t.d. fyri at tryggja, at bygningar, akfør, skip og annað eru í nóg góðum standi. Stovnar eru settir at taka sær av hesum uppgávum. Nevnast kunnu til dømis Akstovan, Sjóvunnustýrið, Arbeiðs- og brunaeftirlitið og Heilsufrøðiliga starvsstovan.</p>
+<p>Sum nevnt í pkt. 6.9, hevur landsstýrismaðurin í tilbúgvingarmálum yvirskipað eftirlit við kommunalum tilbúgvingarætlanum. Eftirlit er við, at kommunurnar halda ásetingarnar í tilbúgvingarlógini og aðrar reglur við heimild í lógini. Av tí, at kommunurnar hava fingið lógarásettar tilbúgvingaruppgávur, og av tí, at kommunustýrini eru sjálvstýrandi, hevur landsstýrismaðurin í tilbúgvingarmálum bert óbeinleiðis yvirumsjón við, at kommunan veruliga lýkur lógarásettu skyldur sínar. 4</p>
+<p>Sambært orðingunum í tilbúgvingarlógini og viðmerkingum til lógina verður serliga hugsað um tiltøk, har tað annars ikki eru neyðugar ella meira ítøkiligar ásetingar og heimildir í aðrari serlóggávu. Hetta veri seg t.d. bátafestivalar, festivalar á landi, stevnur o.s.fr. Nevnt verður í viðmerkingunum, at í kunngerð kann áleggjast kommunum at hava vaktarhald í sambandi við ymisk tiltøk. 5</p>
+<p>Sambært tilbúgvingarlógini § 35, stk. 1 og § 36, stk. 1 og 2. 6</p>
+<p>Víst verður til Frágreiðing um Tilbúgvingarverkætlan Føroya, sum Fiskimálaráðið læt gera í mars 2003. 11 <em type="bold">2.12 Samvirkandi tilbúgving </em></p>
+<p>Endamálið við samvirkandi tilbúgving er, at samstarvað verður við allar viðkomandi partar fyri at tryggja, at ymiska økisábyrgdin, t.e. lands-, kommunal- og virksemistilbúgvingareindir, virka sum ein eind, tá ið tørvur er á tí.</p>
 <p>At skipa tilbúgving Føroya er sostatt ein liður í hesum endamáli, tí fyri at eindirnar skulu kunna virka saman, er neyðugt, at tær verða lýstar, og at tað verður greitt, hvørjar eindir kunnu samstarva, og hvussu hetta kann verða gjørt.</p>
-<p>Nógvar  neyðugar  avtalur  millum  land,  kommunur  og  virki  um  samstarv  og  felags tilbúgving,  eru  gjørdar,  men  framvegis  er  langt  á  mál.  Skal  eindarhugsjónin  gerast veruleiki, verður hetta framvegis eitt arbeiði, sum ongantíð verður heilt liðugt.</p>
+<p>Nógvar neyðugar avtalur millum land, kommunur og virki um samstarv og felags tilbúgving, eru gjørdar, men framvegis er langt á mál. Skal eindarhugsjónin gerast veruleiki, verður hetta framvegis eitt arbeiði, sum ongantíð verður heilt liðugt.</p>
 <p>Ein serligur liður í at skipa tilbúgvingina er at lýsa bygnaðin í samlaðu eindunum. Tað verður gjørt í diagrammum, sum vísa, hvønn veg samskift verður, og hvussu átøk, sum krevja fleiri eindir at samstarva, skulu skipast.</p>
-<p>Stutt sagt kann sigast, at fyri at fleiri økistilbúgvingar skulu kunna samvirka sum ein eind, er neyðugt, at allir partar kenna sín leiklut, og hava avtalaðar mannagongdir um, hvussu samstarvið er skipað. Hóast økini hava hvør sína ábyrgd, hava tey skyldu at samstarva, og at bygnaðurin er greitt skipaður.</p>
-<p><em type="bold"> Samskipan av tilbúgving </em></p>
-<p>Umframt  økisábyrgd  á  egnum  málsøki  skal  landsstýrismaðurin  í  tilbúgvingarmálum samskipa arbeiðið at skipa tilbúgvingina í Føroyum. Samskipan merkir, at uppgávan hjá landsstýrismanninum er at fáa økisábyrgd at samstarva og til at virka sum ein eind. At skipa Tilbúgving Føroya er ein týðandi partur í hesum arbeiði. Eisini hevur tað týdning at gera kunngerðir og at fyrireika lógaruppskot á økjum, sum liggja uttan fyri økisábyrgdina hjá kommununum ella hinum stjórnarráðunum.</p>
-<p>Harumframt  hevur  landsstýrismaðurin  serstaka  heimild  í  løgtingslóg  til  at  halda útreiðslur  til  neyðugar  hjálparveitingar,  tá  ið  stórar  vanlukkur  og/ella  stórir skaðatilburðir henda, og bráðfeingis tørvur er á fígging. Hetta er tó ein heimild, sum bert kann nýtast í serstøkum førum, tá ið vanlukkan er umfatandi, og vanliga skipanin ikki røkkur.</p>
-<p>Sambært § 3 í tilbúgvingarlógini.  Sambært løgtingslóg nr. 55 frá 22. apríl 2003. Ætlanin er sambært viðmerkingunum í sambandi við</p>
-<p>størri vanlukkur, at tær røttu avgerðirnar verða tiknar skjótt, uttan at ivast skal í, um neyðug fíggjarlig heimild er til staðar. Heimildin kann nýtast í sambandi við stórar vanlukkur ella stórskaðatilburðir, t.d. stórar oljuvanlukkur, at evakuera stór ferðamannaskip í sambandi við eld ella eina stóra flogvanlukku til havs. Í viðmerkingunum verður sagt, at “<em type="italic">Fiskimálaráðið metir, at tað er alneyðugt, at landsstýrismaðurin </em></p>
-<p><em type="italic">fær eina greiða lógarheimild til at halda útreiðslur til neyðugar hjálparveitingar, tá ið størri vanlukkur og/ella stórskaðatilburðir koma fyri, og bráðfeingis tørvur er á fígging</em>”. </p>
-<p>11</p>
-<p><em type="bold"> Økisábyrgd </em></p>
-<p>Økisábyrgd er leisturin, ið føroyska tilbúgvingin er skipað eftir.  Ábyrgdin liggur sostatt hjá landsstýrismonnunum og kommunum at skipa seg á egnum øki.</p>
-<p>Økisábyrgd  merkir,  at  myndugleikar  og  virkir,  hvør  á  sínum  ábyrgdarøki,  skulu  vera fyrireikað, tá óvanligir tilburðir henda, sum kunnu hótta mannalív og umhvørvi ella tarna virkisførinum í samfelagnum.</p>
-<p>Tað  er  serliga  umráðandi  at  tryggja  virkisførið  í  samfelagnum,  eitt  nú  bankavirksemi, framleiðsluevn</p>
-<p>Tilbúgvingarætlanir  eiga  at  verða  gjørdar,  ið  leggja  upp  fyri  óvanligum  tilburðum  og tryggja virkisførið, tá teir koma fyri.</p>
-<p xml:lang="dan"><em type="bold"> Landstilbúgving </em></p>
+<p>Stutt sagt kann sigast, at fyri at fleiri økistilbúgvingar skulu kunna samvirka sum ein eind, er neyðugt, at allir partar kenna sín leiklut, og hava avtalaðar mannagongdir um, hvussu samstarvið er skipað. Hóast økini hava hvør sína ábyrgd, hava tey skyldu at samstarva, og at bygnaðurin er greitt skipaður. <em type="bold">3 Samskipan av tilbúgving </em></p>
+<p>Umframt økisábyrgd á egnum málsøki skal landsstýrismaðurin í tilbúgvingarmálum samskipa arbeiðið at skipa tilbúgvingina í Føroyum7. Samskipan merkir, at uppgávan hjá landsstýrismanninum er at fáa økisábyrgd at samstarva og til at virka sum ein eind. At skipa Tilbúgving Føroya er ein týðandi partur í hesum arbeiði. Eisini hevur tað týdning at gera kunngerðir og at fyrireika lógaruppskot á økjum, sum liggja uttan fyri økisábyrgdina hjá kommununum ella hinum stjórnarráðunum.</p>
+<p>Harumframt hevur landsstýrismaðurin serstaka heimild í løgtingslóg8 til at halda útreiðslur til neyðugar hjálparveitingar, tá ið stórar vanlukkur og/ella stórir skaðatilburðir henda, og bráðfeingis tørvur er á fígging. Hetta er tó ein heimild, sum bert kann nýtast í serstøkum førum, tá ið vanlukkan er umfatandi, og vanliga skipanin ikki røkkur. 7</p>
+<p>Sambært § 3 í tilbúgvingarlógini. 8</p>
+<p>Sambært løgtingslóg nr. 55 frá 22. apríl 2003. Ætlanin er sambært viðmerkingunum í sambandi við størri vanlukkur, at tær røttu avgerðirnar verða tiknar skjótt, uttan at ivast skal í, um neyðug fíggjarlig heimild er til staðar. Heimildin kann nýtast í sambandi við stórar vanlukkur ella stórskaðatilburðir, t.d. stórar oljuvanlukkur, at evakuera stór ferðamannaskip í sambandi við eld ella eina stóra flogvanlukku til havs. Í viðmerkingunum verður sagt, at “ <em type="italic">Fiskimálaráðið metir, at tað er alneyðugt, at landsstýrismaðurin fær eina greiða lógarheimild til at halda útreiðslur til neyðugar hjálparveitingar, tá ið størri vanlukkur og/ella stórskaðatilburðir koma fyri, og bráðfeingis tørvur er á fígging </em>”. 12 <em type="bold">4 Økisábyrgd </em></p>
+<p>Økisábyrgd er leisturin, ið føroyska tilbúgvingin er skipað eftir. Ábyrgdin liggur sostatt hjá landsstýrismonnunum og kommunum at skipa seg á egnum øki. Økisábyrgd merkir, at myndugleikar og virkir, hvør á sínum ábyrgdarøki, skulu vera fyrireikað, tá óvanligir tilburðir henda, sum kunnu hótta mannalív og umhvørvi ella tarna virkisførinum í samfelagnum. Tað er serliga umráðandi at tryggja virkisførið í samfelagnum, eitt nú bankavirksemi, framleiðsluevni, samferðslu, samskiftiskervið, heilsuverkið, umsiting o.a. Tilbúgvingarætlanir eiga at verða gjørdar, ið leggja upp fyri óvanligum tilburðum og tryggja virkisførið, tá teir koma fyri. <em type="bold">5 Landstilbúgving </em></p>
 <p>Allir landsstýrismenn skulu hava eina tilbúgving á sínum ábyrgdarøki. Tilbúgvingin eigur at vera grundað á eina váðameting, og út frá hesum eigur ein tilbúgvingarætlan at verða gjørd, ið javnan verður eftirmett.</p>
 <p>Økisábyrgdin fatar um alt virksemi, sum fyri samfelagið er týdningarmikið, tað veri seg uppgávur, ið eru álagdar við lóg, politiskt ella umsitingarliga.</p>
-<p>Myndugleikarnir  skulu  fyribyrgja  skaðatilburðum  og  vanlukkum,  har  tað  er  gjørligt, handfara tær, tá tað er neyðugt, og seta í gongd aftur samfelagsvirksemið skjótast gjørligt.</p>
-<p>Landsstýrismenn gera av, hvussu nógv teir vilja nýta bjargingarfeløg og onnur sjálvboðin í  tilbúgvingini  á  egnum  ábyrgdarøki.  Harafturat  hevur  landsstýrismaðurin  í tilbúgvingarmálum  ábyrgd  av  at  samskipa,  hvussu  samstarvið  verður  lagt  til  rættis millum ábyrgdarpartarnar í landstilbúgvingini, bjargingarfeløgini og onnur sjálvboðin.</p>
-<p><em type="bold">5.1 Heilsutilbúgvingin </em></p>
-<p>Heilsutilbúgvingin  verður  sett  í  gongd  í  sambandi  við  vanlukkur,  álvarsamar smittusjúkur, yvirgangsatsóknir og kríggj. Heilsuverkið hevur, sambært sjúkrahúslógini, beinleiðis skyldu til at veita hjálp og sjúkraflutningstænastu til teir persónar, ið brádliga hava tørv á hesum orsakað av óhappi ella brádliga íkomnari sjúku, føðing o.ø.<em type="italic">  </em></p>
-<p>Sambært § 5, stk. 1 í tilbúgvingarlógini: Hvør landsstýrismaður sær hevur ábyrgd av, at tað undir honum</p>
-<p>er tilbúgving tøk, sum kann ganga givnum hendingum og tørvi á møti. Tí verður tað fyrst og fremst staðfest, at tað er hvør landsstýrismaður sær, sum, fyri sítt ábyrgdarøki, skal gera av, hvørjar uppgávur bjargingarfeløgini ella onnur sjálvboðin kunnu røkja í landstilbúgvingini. Persónligir førleikar, útbúgving, venjing, góðkendur útbúnaður og útgerð eru bert nakrar fortreytir fyri, at tey sjálvbodnu á tryggan hátt kunnu loysa tilbúgvingaruppgávur saman við almennu myndugleikunum.</p>
-<p>Sambært § 5, stk. 2 í tilbúgvingarlógini.</p>
-<p>12</p>
-<p><em type="bold">5.1.1 Tilbúgvingin á sjúkrahúsunum </em></p>
-<p>Tey trý sjúkrahúsini hava ábyrgd av at hava optimala innanhýsis tilbúgving, so persónar, ið eru fyri sjúku ella skaða, fáa best møguliga viðgerð í føroyska sjúkrahúsverkinum.<em type="italic"> </em></p>
-<p>Landssjúkrahúsið hevur eina tilbúgvingarnevnd, ið hevur høvuðsábyrgdina av at gera og seta í verk tilbúgvingarskipanina fyri Landssjúkrahúsið, ið er bindandi fyri allar eindir á Landssjúkrahúsinum.  Nevndin  hevur  7  limir,  ið  umboða  fleiri  viðkomandi  funksjónir. Nevndin hevur ásett leiðreglur fyri nógv tilbúgvingarviðurskifti og er við í samstarvi við uttanhýsispartar. Eisini er Landssjúkrahúsið við í venjingum o.ø.</p>
-<p>Sjúkrahúsini  hava  innan  sjúkraflutningsøkið  eitt  samstarvsskjal,  ið  er  partur  av heildarsamstarvsavtaluni teirra millum.</p>
-<p>Avtalan fevnir um fleiri øki t.d., at sjúkraflutningstænastan hevur felags liðlækna sambært galdandi kunngerð, samstarv um skeið og útbúgving, telemedisin, felags bilar og rotatión av sjúkrabilum, GPS íknýti, sínámillum samstarv um sjúkraflutning o.a.</p>
-<p><em type="bold">5.1.2 Sjúkraflutningstænastan </em></p>
-<p>Størsti parturin av sjúkraflutninginum verður avgreiddur við sjúkrabili. Um tað verður mett gagnligari og skilabetri at nýta tyrluna, verður tað  gjørt.</p>
-<p>Umframt  sjúkraflutningstænasturnar  í  Klaksvík  og  Suðuroy,  sum  eru  mannaðar  alt samdøgrið, hevur tænastan á Landssjúkrahúsinum fleiri støðir kring landið, ið somuleiðis eru mannaðar alt samdøgrið. Tað er í Havn, í Eysturoy, í Vágum og í Sandoy.</p>
+<p>Myndugleikarnir skulu fyribyrgja skaðatilburðum og vanlukkum, har tað er gjørligt, handfara tær, tá tað er neyðugt, og seta í gongd aftur samfelagsvirksemið skjótast gjørligt.</p>
+<p>Landsstýrismenn gera av, hvussu nógv teir vilja nýta bjargingarfeløg og onnur sjálvboðin í tilbúgvingini á egnum ábyrgdarøki9. Harafturat hevur landsstýrismaðurin í tilbúgvingarmálum ábyrgd av at samskipa, hvussu samstarvið verður lagt til rættis millum ábyrgdarpartarnar í landstilbúgvingini, bjargingarfeløgini og onnur sjálvboðin10. <em type="bold">5.1 Heilsutilbúgvingin </em></p>
+<p>Heilsutilbúgvingin verður sett í gongd í sambandi við vanlukkur, álvarsamar smittusjúkur, yvirgangsatsóknir og kríggj. Heilsuverkið hevur, sambært sjúkrahúslógini, beinleiðis skyldu til at veita hjálp og sjúkraflutningstænastu til teir persónar, ið brádliga hava tørv á hesum orsakað av óhappi ella brádliga íkomnari sjúku, føðing o.ø. <em type="italic"></em>9 </p>
+<p>Sambært § 5, stk. 1 í tilbúgvingarlógini: Hvør landsstýrismaður sær hevur ábyrgd av, at tað undir honum er tilbúgving tøk, sum kann ganga givnum hendingum og tørvi á møti. Tí verður tað fyrst og fremst staðfest, at tað er hvør landsstýrismaður sær, sum, fyri sítt ábyrgdarøki, skal gera av, hvørjar uppgávur bjargingarfeløgini ella onnur sjálvboðin kunnu røkja í landstilbúgvingini. Persónligir førleikar, útbúgving, venjing, góðkendur útbúnaður og útgerð eru bert nakrar fortreytir fyri, at tey sjálvbodnu á tryggan hátt kunnu loysa tilbúgvingaruppgávur saman við almennu myndugleikunum. 10</p>
+<p>Sambært § 5, stk. 2 í tilbúgvingarlógini. 13 <em type="bold">5.1.1 Tilbúgvingin á sjúkrahúsunum </em></p>
+<p>Tey trý sjúkrahúsini hava ábyrgd av at hava optimala innanhýsis tilbúgving, so persónar, ið eru fyri sjúku ella skaða, fáa best møguliga viðgerð í føroyska sjúkrahúsverkinum. <em type="italic"></em></p>
+<p>Landssjúkrahúsið hevur eina tilbúgvingarnevnd, ið hevur høvuðsábyrgdina av at gera og seta í verk tilbúgvingarskipanina fyri Landssjúkrahúsið, ið er bindandi fyri allar eindir á Landssjúkrahúsinum. Nevndin hevur 7 limir, ið umboða fleiri viðkomandi funksjónir. Nevndin hevur ásett leiðreglur fyri nógv tilbúgvingarviðurskifti og er við í samstarvi við uttanhýsispartar. Eisini er Landssjúkrahúsið við í venjingum o.ø.</p>
+<p>Sjúkrahúsini hava innan sjúkraflutningsøkið eitt samstarvsskjal, ið er partur av heildarsamstarvsavtaluni teirra millum.</p>
+<p>Avtalan fevnir um fleiri øki t.d., at sjúkraflutningstænastan hevur felags liðlækna sambært galdandi kunngerð, samstarv um skeið og útbúgving, telemedisin, felags bilar og rotatión av sjúkrabilum, GPS íknýti, sínámillum samstarv um sjúkraflutning o.a. <em type="bold">5.1.2 Sjúkraflutningstænastan </em></p>
+<p>Størsti parturin av sjúkraflutninginum verður avgreiddur við sjúkrabili. Um tað verður mett gagnligari og skilabetri at nýta tyrluna, verður tað gjørt.</p>
+<p>Umframt sjúkraflutningstænasturnar í Klaksvík og Suðuroy, sum eru mannaðar alt samdøgrið, hevur tænastan á Landssjúkrahúsinum fleiri støðir kring landið, ið somuleiðis eru mannaðar alt samdøgrið. Tað er í Havn, í Eysturoy, í Vágum og í Sandoy.</p>
 <p>Í fall neyðugt er við sjúkraflutningi av útoyggj, verður bátur ella tyrla nýtt. Bátur og tyrla verða umbiðin gjøgnum MRCC Tórshavn.</p>
-<p>Ein  liðlækni  tryggjar  sjúkraflutningstænastuna  í  Føroyum  í  breiðastu  merking.  T.e.,  at liðlæknin hevur ábyrgd av at tryggja tænastustigið, útbúgving, útgerð, rættar svartíðir o.a. í  øllum  landinum.  Liðlæknin  arbeiðir  saman  við  leiðslunum  á  teimum  trimum sjúkrahúsunum fyri at tryggja bestu tilbúgving í sjúkraflutningstænastuni.</p>
+<p>Ein liðlækni tryggjar sjúkraflutningstænastuna í Føroyum í breiðastu merking. T.e., at liðlæknin hevur ábyrgd av at tryggja tænastustigið, útbúgving, útgerð, rættar svartíðir o.a. í øllum landinum. Liðlæknin arbeiðir saman við leiðslunum á teimum trimum sjúkrahúsunum fyri at tryggja bestu tilbúgving í sjúkraflutningstænastuni.</p>
 <p>Sjúkraflutning bíleggja kommunulæknar, alarmsentralur og sjúkrahúsini.</p>
 <p>Liðlæknin hevur ábyrgd av, at sjúkraflutningsstarvsfólk fáa góðkenda útbúgving og eitt árligt viðlíkahaldsskeið, soleiðis at teirra útbúgving altíð er dagførd. Til nýggj kunngerð er lýst á økinum, samskipar liðlæknin útbúgvingina.</p>
 <p>Eisini hevur liðlæknin ábyrgd av fyrstuhjálparum og útgerð teirra kring landið.</p>
-<p>Eisini kann liðlæknin koma við tilmælum, ið eru við til at tryggja tilbúgvingina betur.</p>
-<p><em type="bold">5.1.3 Sjúkralið og sálarlig kreppuhjálp </em></p>
-<p>Partar  av  heilsustarvsfólkunum  í  nærumhvørvinum,  ið  ikki  dagliga  arbeiða  á sjúkrahúsunum,  t.d.  heimasjúkrasystrar,  heilsurøktarar  o.o.  eru  skipað  í  bólkar  ella sonevnd sjúkralið. Hesi starvsfólk eru skúlað til at arbeiða á skaðastaði og kunnu tí gera</p>
-<p>13 tað fyrsta medisinska arbeiðið á staðnum, har størri vanlukkur eru hendar. Sjúkralið eru í dag skipað í øllum Føroyum.</p>
-<p>Heilsustarvsfólkini, sum tilsamans eru umleið 100 í tali, eru annars sjálvboðin og ókeypis í  heilsutilbúgvingini,  men  fáa  afturfyri  boðið  skeið  í  heilsutilbúgving.  Eisini  er  sálarlig krepputilbúgving sett í verk, sum alarmsentralurin ger virkna í sambandi við álvarsligar vanlukkur.  Hetta  er  tilbúgving,  ið  kann  veita  sálarliga  fyrstuhjálp  í  sambandi  við vanlukkur.  Hava  fólk  tørv  á  sálarligari  viðgerð  eftir  hetta,  kann  kommunulækni  vísa teimum til sálarfrøðing og fáa ískoyti frá Heilsutrygd.</p>
-<p><em type="bold">5.1.4 Sjúkraflutningur við tyrlu </em></p>
-<p>Ein tyrla hjá Atlantic Airways er altíð tøk til tilbúgvingina. Tyrlurnar standa vanliga inni í hangarinum hjá Atlantic Airways og eru klárar at verða kallaðar út. Ein tyrla stendur altíð klár til útkall, 24 tímar 365 dagar um árið. Tá ið onnur tyrlan er til eftirlit, virkar hin tyrlan sum bjargingartyrla. Útkallið ger MRCC Tórshavn.</p>
-<p><em type="bold">5.1.5 Tvørfakligt samstarv </em></p>
-<p>Sjúkraflutningstænastan hevur tætt tvørfakligt samstarv við aðrar átakseindir, so sum løgreglu (alarmsentralin), kommunalu tilbúgvingina, MRCC Tórshavn, kommunulæknar og bjargingarbátar, ið bjargingarfeløg varða av.</p>
-<p><em type="bold">5.1.6 Landslæknin </em></p>
-<p>Landslæknaembætið  er  danskt  embæti  undir  Sundheds-  og  Ældreministeriet,  men  er fakliga knýtt at Styrelsen for Patientientsikkerhed. Embætið er skipað við ríkislóg nr. 740 frá 11. september 1995 um <span type="quote" xml:lang="dan">“Landslægens virksomhed”</span>, sum er broytt við kunngerð nr. 692 frá 13. juli 2000. Landslæknin hevur sum høvuðsuppgávu at hava læknafakligt eftirlit og  tryggja  góðsku  í  føroyska  heilsuverkinum  soleiðis,  at  føroyska  heilsuverkið  heldur besta altjóða stig.</p>
-<p xml:lang="dan"><em type="bold">5.1.7 Epideminevnd </em></p>
-<p>Í samsvari við § 3 í epidemilógini er sett ein epideminevnd. Uppgávan hjá nevndini er,  sambært  lógini,  at  fyribyrgja,  at  smittandi  sjúkur  koma  til  landið  og  breiða  seg. Sambært  lógini  hevur  nevndin  heimild  til  at  seta  í  verk  fyribyrgjandi  tiltøk  hesum viðvíkjandi, um sjúkurnar eru fevndar av tveimum listum, ið hoyra til lógina.</p>
-<p>Epideminevnd  er  sambært  lógini  sett  saman  av  fútanum,  landslæknanum, landsdjóralæknanum,  leiðaranum  á  Føroya  gjaldstovu</p>
-<p xml:lang="dan"> Epidemilógin (kongelig anordning nr.<em type="bold"> </em>655 frá 14 juni 2011 om ikrafttræden på Færøerne af lov om </p>
-<p>foranstaltninger mod smitsomme sygdomme) varð sett í gildi í Føroyum 30. november 1984 og bleiv broytt 18. desember 1987.</p>
-<p>14 starvsstovu,  umframt  trimum  umboðum,  sum  verða  vald  av  landsstýrinum.  Hesi  trý umboð  eru  í  løtuni  aðalstjórin  í  Heilsumálaráðnum,  stjórin  á  TAKS  og  læknafakligi varastjórin á Landssjúkrahúsinum.</p>
-<p><em type="bold">5.1.8 Pandemibólkur </em></p>
-<p>Pandemibólkurin  arbeiðir  áhaldandi  í  samsvari  við  WHO  við  at  endurskoða pandemiætlanina  fyri  Føroyar.  Bólkurin  er  mannaður  við  landslæknanum,  sum  er formaður,  landsapotekaranum,  einum  umboði  fyri  Læknafelag  Føroya,  leiðandi yvirlækna  á  medisinska  deplinum  á  Landssjúkrahúsinum,  samskipara  fyri  tilbúgving, Fiskimálaráðnum, Føroya landfúta og einum umboði fyri Heilsumálaráðið.</p>
-<p>Bólkurin skal hittast, tá ið tørvur er, við tí endamáli at mæla landsstýrinum til, hvørji átøk eiga at verða sett í verk í samsvari við ætlanina.</p>
-<p><em type="bold">5.1.9 Trýsttangi </em></p>
-<p>Landssjúkrahúsið  hevur  ábyrgdina  av  trýsttanga  til  kavarasjúku  (DCI)  í  samstarvi  við Vørn.  Toymið  er  samansett  av  serlæknum,  sjúkrarøktarfrøðingum,  hjálparum  og maskinmonnum. Regluligar venjingar og skeið verða hildin.</p>
-<p><em type="bold">5.1.10 Landsapotekarin </em></p>
-<p>Landsapotekarin  hevur  ábyrgdina  av  føroyska  apoteksverkinum  og  skal  tryggja,  at føroyski  borgarin  fær  neyðugan  heilivág.  Landsapotekarin  hevur  eftirlit  á  økinum  og tryggjar, at heilivágur er góðkendur.</p>
-<p><em type="bold">5.1.11 Heilsutilbúgving á sjónum </em></p>
+<p>Eisini kann liðlæknin koma við tilmælum, ið eru við til at tryggja tilbúgvingina betur. <em type="bold">5.1.3 Sjúkralið og sálarlig kreppuhjálp </em></p>
+<p>Partar av heilsustarvsfólkunum í nærumhvørvinum, ið ikki dagliga arbeiða á sjúkrahúsunum, t.d. heimasjúkrasystrar, heilsurøktarar o.o. eru skipað í bólkar ella sonevnd sjúkralið. Hesi starvsfólk eru skúlað til at arbeiða á skaðastaði og kunnu tí gera 14 tað fyrsta medisinska arbeiðið á staðnum, har størri vanlukkur eru hendar. Sjúkralið eru í dag skipað í øllum Føroyum.</p>
+<p>Heilsustarvsfólkini, sum tilsamans eru umleið 100 í tali, eru annars sjálvboðin og ókeypis í heilsutilbúgvingini, men fáa afturfyri boðið skeið í heilsutilbúgving. Eisini er sálarlig krepputilbúgving sett í verk, sum alarmsentralurin ger virkna í sambandi við álvarsligar vanlukkur. Hetta er tilbúgving, ið kann veita sálarliga fyrstuhjálp í sambandi við vanlukkur. Hava fólk tørv á sálarligari viðgerð eftir hetta, kann kommunulækni vísa teimum til sálarfrøðing og fáa ískoyti frá Heilsutrygd. <em type="bold">5.1.4 Sjúkraflutningur við tyrlu </em></p>
+<p>Ein tyrla hjá Atlantic Airways er altíð tøk til tilbúgvingina. Tyrlurnar standa vanliga inni í hangarinum hjá Atlantic Airways og eru klárar at verða kallaðar út. Ein tyrla stendur altíð klár til útkall, 24 tímar 365 dagar um árið. Tá ið onnur tyrlan er til eftirlit, virkar hin tyrlan sum bjargingartyrla. Útkallið ger MRCC Tórshavn. <em type="bold">5.1.5 Tvørfakligt samstarv </em></p>
+<p>Sjúkraflutningstænastan hevur tætt tvørfakligt samstarv við aðrar átakseindir, so sum løgreglu (alarmsentralin), kommunalu tilbúgvingina, MRCC Tórshavn, kommunulæknar og bjargingarbátar, ið bjargingarfeløg varða av. <em type="bold">5.1.6 Landslæknin </em></p>
+<p>Landslæknaembætið er danskt embæti undir Sundheds- og Ældreministeriet, men er fakliga knýtt at Styrelsen for Patientientsikkerhed. Embætið er skipað við ríkislóg nr. 740 frá 11. september 1995 um <span type="quote" xml:lang="dan">“Landslægens virksomhed”</span>, sum er broytt við kunngerð nr. 692 frá 13. juli 2000. Landslæknin hevur sum høvuðsuppgávu at hava læknafakligt eftirlit og tryggja góðsku í føroyska heilsuverkinum soleiðis, at føroyska heilsuverkið heldur besta altjóða stig. <em type="bold">5.1.7 Epideminevnd </em></p>
+<p>Í samsvari við § 3 í epidemilógini11 er sett ein epideminevnd. Uppgávan hjá nevndini er, sambært lógini, at fyribyrgja, at smittandi sjúkur koma til landið og breiða seg. Sambært lógini hevur nevndin heimild til at seta í verk fyribyrgjandi tiltøk hesum viðvíkjandi, um sjúkurnar eru fevndar av tveimum listum, ið hoyra til lógina.</p>
+<p>Epideminevnd er sambært lógini sett saman av fútanum, landslæknanum, landsdjóralæknanum, leiðaranum á Føroya gjaldstovu, leiðaranum á Heilsufrøðiligu 11</p>
+<p>Epidemilógin (kongelig anordning nr. <em type="bold"></em>655 frá 14 juni 2011 om ikrafttræden på Færøerne af lov om foranstaltninger mod smitsomme sygdomme) varð sett í gildi í Føroyum 30. november 1984 og bleiv broytt 18. desember 1987. 15 starvsstovu, umframt trimum umboðum, sum verða vald av landsstýrinum. Hesi trý umboð eru í løtuni aðalstjórin í Heilsumálaráðnum, stjórin á TAKS og læknafakligi varastjórin á Landssjúkrahúsinum. <em type="bold">5.1.8 Pandemibólkur </em></p>
+<p>Pandemibólkurin arbeiðir áhaldandi í samsvari við WHO við at endurskoða pandemiætlanina fyri Føroyar. Bólkurin er mannaður við landslæknanum, sum er formaður, landsapotekaranum, einum umboði fyri Læknafelag Føroya, leiðandi yvirlækna á medisinska deplinum á Landssjúkrahúsinum, samskipara fyri tilbúgving, Fiskimálaráðnum, Føroya landfúta og einum umboði fyri Heilsumálaráðið.</p>
+<p>Bólkurin skal hittast, tá ið tørvur er, við tí endamáli at mæla landsstýrinum til, hvørji átøk eiga at verða sett í verk í samsvari við ætlanina. <em type="bold">5.1.9 Trýsttangi </em></p>
+<p>Landssjúkrahúsið hevur ábyrgdina av trýsttanga til kavarasjúku (DCI) í samstarvi við Vørn. Toymið er samansett av serlæknum, sjúkrarøktarfrøðingum, hjálparum og maskinmonnum. Regluligar venjingar og skeið verða hildin. <em type="bold">5.1.10 Landsapotekarin </em></p>
+<p>Landsapotekarin hevur ábyrgdina av føroyska apoteksverkinum og skal tryggja, at føroyski borgarin fær neyðugan heilivág. Landsapotekarin hevur eftirlit á økinum og tryggjar, at heilivágur er góðkendur. <em type="bold">5.1.11 Heilsutilbúgving á sjónum </em></p>
 <p>Heilsuverkið nýtir skip hjá Vørn, tyrlu og bjargingarbátar til heilsutilbúgvingina á sjónum.</p>
-<p>Bjargingarbátar, sum eru til taks og klárir at verða útkallaðir í sambandi við neyðstøður, verða  brúktir.  MRCC  Tórshavn  og  alarmsentralurin  hava  yvirlit  yvir  tøkar bjargingarbátar, tyrlur og skip. Bjargingarbátarnir verða eisini nýttir, tá ið ikki er ráðiligt at senda tyrlu, t.d. tá mjørki liggur um landið.</p>
-<p><em type="bold">5.2 Kjarnorku-, evna- og lívfrøðilig tilbúgving </em></p>
-<p>Tað  er  í  dag  uppgávan  hjá  Vørn  at  leiða,  samskipa  og  ráðgeva  í  sambandi  við kjarnorkutilburðir. Hetta varð gjørt í samstarvi við Beredskabsbestyrelsen í Danmark.</p>
-<p>Nú  avtikni  Tilbúgvingarstovur  Føroya  gjørdi  upprunaligu  avtaluna  við Beredskabsstyrelsen,  og  ábyrgdarøkið  varð  síðan  flutt  til  Vørn  í  sambandi  við,  at Tilbúgvingarstovur Føroya varð avtikin. Til endamálið er ein mátingarstøð, ið kann máta geislavirkni,  sett  upp  á  Sornfelli.  Mátingarnar  verða  lisnar  av  Beredskabsstyrelsen  í</p>
-<p>15 Danmark.  Arbeitt  hevur  verið  fram  ímóti  at  fáa  mátingarstøðina  við  í  evropeiska samstarvið undir EURDEP, men enn er ikki komið á mál.</p>
+<p>Bjargingarbátar, sum eru til taks og klárir at verða útkallaðir í sambandi við neyðstøður, verða brúktir. MRCC Tórshavn og alarmsentralurin hava yvirlit yvir tøkar bjargingarbátar, tyrlur og skip. Bjargingarbátarnir verða eisini nýttir, tá ið ikki er ráðiligt at senda tyrlu, t.d. tá mjørki liggur um landið. <em type="bold">5.2 Kjarnorku-, evna- og lívfrøðilig tilbúgving </em></p>
+<p>Tað er í dag uppgávan hjá Vørn at leiða, samskipa og ráðgeva í sambandi við kjarnorkutilburðir. Hetta varð gjørt í samstarvi við Beredskabsbestyrelsen í Danmark.</p>
+<p>Nú avtikni Tilbúgvingarstovur Føroya gjørdi upprunaligu avtaluna við Beredskabsstyrelsen, og ábyrgdarøkið varð síðan flutt til Vørn í sambandi við, at Tilbúgvingarstovur Føroya varð avtikin. Til endamálið er ein mátingarstøð, ið kann máta geislavirkni, sett upp á Sornfelli. Mátingarnar verða lisnar av Beredskabsstyrelsen í 16</p>
+<p>Danmark. Arbeitt hevur verið fram ímóti at fáa mátingarstøðina við í evropeiska samstarvið undir EURDEP12, men enn er ikki komið á mál.</p>
 <p>Eisini er ein samstarvsavtala gjørd við Beredskabstyrelsen, sum veitir hjálp og ráðgeving á evnafrøðiliga økinum.</p>
-<p>Mælt verður til, at ábyrgdarøkið verður endurskoðað, og at ábyrgdin verður løgd, har fakligur førleiki er til at meta um møguligar vandar.</p>
-<p><em type="bold">5.3 Yvirgangur </em></p>
+<p>Mælt verður til, at ábyrgdarøkið verður endurskoðað, og at ábyrgdin verður løgd, har fakligur førleiki er til at meta um møguligar vandar. <em type="bold">5.3 Yvirgangur </em></p>
 <p>Seinastu árini er tað vorðið alsamt vanligari við yvirgangsatsóknum í vesturheiminum. Allýsingin av yvirgangi er brotsverk, har málið sum oftast er at loypa ræðslu á fólk, fyri á tann hátt at fremja eina ávísa politiska, fíggjarliga ella átrúnaðarliga dagsskrá. Hetta kann vera álop á vanligar borgarar, undirstøðukervi ella á symbolsk mál.</p>
 <p>Í tilbúgvingarhøpi eru mannagongdirnar yvirskipað tær somu, sum tær eru í sambandi við eina vanlukku.</p>
-<p>Center for Terroranalyse (stytt CTA) hjá PET ger javnan metingar av yvirgangshóttanum mótvegis  Ríki<em type="italic">(www.pet.dk).  </em>Løgreglan  tillagar  sína  tilbúgving  samsvarandi  tí  trygdarstigi,  sum  PET ásetur.     </p>
-<p><em type="bold">5.4 Heilsufrøðiliga starvsstovan </em></p>
-<p>Heilsufrøðiliga  starvsstovan  er  stovnur  undir  Vinnumálaráðnum  og  umsitur  m.a. matvørulógina, djórasjúkulógina og alilógina. Heilsufrøðiliga starvsstovan hevur ábyrgd av  tilbúgvingini  við  matvørum  og  djóraheilsu.  Sum  føddur  limur  umboðar landsdjóralæknin, sum er partur av Heilsufrøðiligu starvsstovuni, tilbúgvingina á hesum báðum økjum í Tilbúgvingarráðnum, Epidemikommissiónini og Skrásetingarráðnum fyri heilivág.</p>
-<p>Heilsufrøðiliga starvsstovan góðkennir/løggildar eisini virki, ið framleiða matvøru, skip, matvøruhandlar o.a. og hevur eftirlit við teimum.</p>
-<p><em type="bold">5.4.1 Matur </em></p>
-<p>Heilsufrøðiliga starvsstovan fær fráboðanir frá heilsuverkinum og privatpersónum um illgruna  um  matvøruborna  sjúku  ella  eitran.  Í  hesum  sambandi  hevur  Heilsufrøðiliga starvsstovan ábyrgd av at eftirkanna, hvaðan sjúkan stavar.</p>
-<p>Eisini  fær  Heilsufrøðiliga  starvsstovan  fráboðanir  frá  útlendskum  myndugleikum  um vandamikla  matvøru,  sum  kann  vera  komin  á  føroyska  marknaðin.  Herundir  eisini</p>
-<p xml:lang="dan">European Radiological Data Exchange Platform</p>
-<p>16 fráboðanir  um  tilburðir,  sum  kunnu  hava  við  sær,  at  matvøra  verður  dálkað,  íroknað drekkivatn, seyður og fiskur í sjónum.</p>
-<p>Heilsufrøðiliga starvsstovan hevur heimild til at seta forboð fyri at selja matvøru, kalla matvøru aftur, steingja veiðiøki ella skrúva fyri drekkivatni úr ávísum økjum, um so er, at vandi er fyri sjúku ella eitran.</p>
-<p><em type="bold">5.4.2 Djór </em></p>
+<p>Center for Terroranalyse (stytt CTA) hjá PET ger javnan metingar av yvirgangshóttanum mótvegis Ríkinum. Metingarnar eru almennar og verða lagdar á heimasíðuna hjá PET (www.pet.dk). Løgreglan tillagar sína tilbúgving samsvarandi tí trygdarstigi, sum PET ásetur. <em type="bold">5.4 Heilsufrøðiliga starvsstovan </em></p>
+<p>Heilsufrøðiliga starvsstovan er stovnur undir Vinnumálaráðnum og umsitur m.a. matvørulógina, djórasjúkulógina og alilógina. Heilsufrøðiliga starvsstovan hevur ábyrgd av tilbúgvingini við matvørum og djóraheilsu. Sum føddur limur umboðar landsdjóralæknin, sum er partur av Heilsufrøðiligu starvsstovuni, tilbúgvingina á hesum báðum økjum í Tilbúgvingarráðnum, Epidemikommissiónini og Skrásetingarráðnum fyri heilivág.</p>
+<p>Heilsufrøðiliga starvsstovan góðkennir/løggildar eisini virki, ið framleiða matvøru, skip, matvøruhandlar o.a. og hevur eftirlit við teimum. <em type="bold">5.4.1 Matur </em></p>
+<p>Heilsufrøðiliga starvsstovan fær fráboðanir frá heilsuverkinum og privatpersónum um illgruna um matvøruborna sjúku ella eitran. Í hesum sambandi hevur Heilsufrøðiliga starvsstovan ábyrgd av at eftirkanna, hvaðan sjúkan stavar.</p>
+<p>Eisini fær Heilsufrøðiliga starvsstovan fráboðanir frá útlendskum myndugleikum um vandamikla matvøru, sum kann vera komin á føroyska marknaðin. Herundir eisini 12</p>
+<p>European Radiological Data Exchange Platform 17 fráboðanir um tilburðir, sum kunnu hava við sær, at matvøra verður dálkað, íroknað drekkivatn, seyður og fiskur í sjónum.</p>
+<p>Heilsufrøðiliga starvsstovan hevur heimild til at seta forboð fyri at selja matvøru, kalla matvøru aftur, steingja veiðiøki ella skrúva fyri drekkivatni úr ávísum økjum, um so er, at vandi er fyri sjúku ella eitran. <em type="bold">5.4.2 Djór </em></p>
 <p>Fráboðanarskylda er til landsdjóralæknan, um so er, at illgruni er um djórasjúku, ella at slík er staðfest. Listi yvir fráboðanarskyldugar sjúkur er lógarásettur. Landsdjóralæknin fær eisini fráboðanir um djórasjúkur uttanlands.</p>
-<p>Fyri  at  fyribyrgja,  at  djórasjúka  spjaðist,  og  at  niðurberja  djórasjúkur,  kann landsdjóralæknin áseta krøv um kanningar, avbyrging, viðgerð, koppseting, avlíving og burturbeining. Um sjúka er staðfest uttanlands, kann landsdjóralæknin seta forboð fyri innflutningi.</p>
-<p><em type="bold">5.5 Vegir, tunlar, havnir o.a. </em></p>
-<p>Landsverk  umsitur  landsveganetið,  meðan  kommunalir  vegir  hoyra  til  kommunalu tilbúgvingina. Tilbúgvingarætlanir snúgva seg serliga um vetrarkoyring við kavarudding, salting og almennum ávaringarfráboðanum um koyrilíkindi o.a.</p>
-<p>Sambært Landsverki er játtan og útgerð ikki til at rudda kava og salta allar landsvegir alt samdøgrið. Landsverk hevur tí flokkað landsvegirnar í fýra: A, B, C og D. Arbeitt verður í tíðarbilinum, tá ið mest ferðsla er – millum kl. 05 til 21– sunnu- og halgidagar frá kl. 06.</p>
+<p>Fyri at fyribyrgja, at djórasjúka spjaðist, og at niðurberja djórasjúkur, kann landsdjóralæknin áseta krøv um kanningar, avbyrging, viðgerð, koppseting, avlíving og burturbeining. Um sjúka er staðfest uttanlands, kann landsdjóralæknin seta forboð fyri innflutningi. <em type="bold">5.5 Vegir, tunlar, havnir o.a. </em></p>
+<p>Landsverk umsitur landsveganetið, meðan kommunalir vegir hoyra til kommunalu tilbúgvingina. Tilbúgvingarætlanir snúgva seg serliga um vetrarkoyring við kavarudding, salting og almennum ávaringarfráboðanum um koyrilíkindi o.a.</p>
+<p>Sambært Landsverki13 er játtan og útgerð ikki til at rudda kava og salta allar landsvegir alt samdøgrið. Landsverk hevur tí flokkað landsvegirnar í fýra: A, B, C og D. Arbeitt verður í tíðarbilinum, tá ið mest ferðsla er – millum kl. 05 til 21– sunnu- og halgidagar frá kl. 06.</p>
 <p>A og B vegir eru teir við mestu ferðsluni. Málið er tí at gera tað trygt at koyra á A og B vegunum fyrst. Undir vanligum umstøðum er koyrandi eftir øllum vegateinum í flokki A frá kl. 06 á morgni – leygardagar frá kl. 07 og sunnudagar frá kl. 08. Málið við B vegum er, at har er koyrandi yrkadagar frá kl. 06 og í vikuskiftunum frá kl. 08.</p>
 <p>C eru vegir við minni ferðslu, og D eru vegir við næstan ongari ferðslu. Málið fyri C vegir er, at tað skal bera til at ferðast við lagaligheit eftir hesum vegum. D vegir verða bara ruddaðir eftir áheitan í vanligari arbeiðstíð, eftir at A, B og C vegirnir eru ruddaðir.</p>
-<p>Uttanfyri hesi tíðarbil tekur Landsverk serlig atlit at ferðaætlanini hjá Smyrli. Tað sama er galdandi í sambandi við seinkað flogfør.</p>
-<p><em type="bold">5.5.1 Tilbúgving í tunlum </em></p>
-<p>Landsverk ger tilbúgvingarætlanir fyri tunlar og skipar fyri venjingum í tunlunum.</p>
-<p><em type="italic"> http://www.landsverk.fo/Default.aspx?pageid=16542 </em></p>
-<p>17</p>
-<p>Trygdin í tunlum byggir á 3 strategiir:</p>
-<p>- at  byggja  og  skipa  nýggjar  tunlar  rætt  ella  dagføra  teir  tunlar,  sum  eru,  við</p>
-<p>neyðugari trygdarútgerð,</p>
-<p>- at útbúgva fólk í tilbúgvingini og gera tilbúgvingarætlanir, - at upplýsa og kunna tey ferðandi.</p>
-<p><em type="bold">5.5.2 Kreppusamskifti </em></p>
-<p>Fastar  mannagongdir  eru  neyðugar  í  sjálvum  tilbúgvingararbeiðinum  eins  og  í samskiftispartinum  bæði  innanhýsis  og  mótvegis  borgarum  og  fjølmiðlum,  tá  ið óvæntaðar vanlukkur henda í samferðslukervinum. Tað er av trygdarávum ein skylda at kunna  væl  og  eintýtt,  soleiðis  at  slíkir  tilburðir  hava  so  avmarkaðar  avleiðingar  sum gjørligt.  Landsverk  hevur  gjørt  eina  partsætlan  fyri  kreppusamskiftið  í  tilbúgvingarætlanini fyri landsvegakervið. Samskiftistænastan á Landsverki er við í øllum venjingum av tilbúgvingini, har hon kunnar á heimasíðuni so hvørt og á tíðindafundi á staðnum.</p>
-<p>Landsverk hevur, í samráð við táverandi Tilbúgvingarstovnin, gjørt upplýsandi tilfar um trygd í tunlum. Eisini eru tveir stuttfilmar gjørdir um tunnilstrygd.</p>
-<p><em type="bold">5.5.3 Serligt um undirsjóvartunlar </em></p>
-<p>Tað serstaka við undirsjóvartunlum er, at teir eru skipaðir við lóg í vinnurekandi feløg. At teir  vera  skipaðir  við  lóg  kann  merkja,  at  lógin  setir  ófrávíkilig  krøv  til  trygdina.  At tunlarnir  eru  skipaðir  í  vinnurekandi  feløg  merkir,  at  teir  skulu  hava  egna virksemistilbúgving,  sum  ásett  er  í  lóg  um  tilbúgving.  Tunlar  eru  í  trygdar-  og tilbúgvingarhøpi skipaðir sambært kapitli 8 í tilbúgvingarlógini. Eftirlitsmyndugleikin er sostatt hjá landsstýrismanninum í samferðslumálum.  Hann hevur m.a. heimild at gera kunngerðir um rýmingar-, bjargingar- og sløkkingarmøguleikar, at seta krøv um tiltøk og sløkki- og ávaringarskipanir í sambandi við at nýta og at skipa virksemið í tunlum, og at hava brunaeftirlit.</p>
-<p><em type="bold">5.5.4 Havnir  </em></p>
-<p>Altjóða  trygdarreglugerðin  um  skipa-  og  havnarløg  (ISPS-reglugerðin)  fevnir  um serfyriskipanir,  sum  skulu  gera  trygdina  hjá  skipum  og  havnarløgum  betri. Fyriskipanirnar  vórðu  settar  í  gildi  á  altjóða  stigi,  tí  mett  varð,  at  vandarnir  eftir yvirgangsatsóknirnar í New York 11. september 2001 fóru at økjast. ISPS-reglugerðin er í tveimum - ein kravdur og ein vegleiðandi partur.</p>
-<p>Sambært fráboðan nr. 109 frá 18. september 2015 um býti av málsøkjum millum landsstýrismenninar,</p>
-<p>kapittul 3 og kapittul 6.</p>
-<p>Sambært tilbúgvingarlógini, § 36, stk. 1, nr. 5.  Sambært tilbúgvingarlógini, § 38, stk. 1-2.</p>
-<p>18 Í høvuðsheitum er aðalreglan tann, at trygdin hjá skipum og havnarløgum er treytað av, hvussu  farið  verður  um  váða,  sum  mett  verður  um  í  hvørjum  føri  sær.  Endamálið  við reglunum er at gera ein felags leist fyri at sammeta hesar váðar við førleikan hjá skipum og havnum, so at ymsu londini kunnu tillaga trygdarstigið eftir trygdartiltøkum.</p>
-<p>Landsstýrismaðurin í vinnumálum hevur, við heimild í løgtingslóg nr. 11 frá 31. mars 2004 og kunngerð nr. 33 frá 25. mai 2004, álagt Landsverki at røkja niðanfyri nevndu myndugleikauppgávur til at verja havnir móti yvirgangi:</p>
-<p>- Áseta trygdarstigið fyri føroyskar ISPS havnir. - Góðkenna váðametingar fyri føroyskar ISPS havnir. - Góðkenna verndarætlanir fyri ISPS havnir. - Hava eftirlit við og skipa fyri venjingum fyri at kanna, hvussu væl ætlanirnar virka. - Góðkenna  verndarfeløg,  sum  kunnu  røkja  ávísar  uppgávur  í  sambandi  við</p>
-<p>váðametingar og verndarætlanir.</p>
-<p>Yvirlit yvir góðkendar føroyskar ISPS-havnir er at finna á heimasíðuni hjá Landsverki.</p>
-<p><em type="bold">5.5.5 Floghavnir </em></p>
+<p>Uttanfyri hesi tíðarbil tekur Landsverk serlig atlit at ferðaætlanini hjá Smyrli. Tað sama er galdandi í sambandi við seinkað flogfør. <em type="bold">5.5.1 Tilbúgving í tunlum </em></p>
+<p>Landsverk ger tilbúgvingarætlanir fyri tunlar og skipar fyri venjingum í tunlunum. 13 http://www.landsverk.fo/Default.aspx?pageid=16542 18</p>
+<p>Trygdin í tunlum byggir á 3 strategiir: - at byggja og skipa nýggjar tunlar rætt ella dagføra teir tunlar, sum eru, við neyðugari trygdarútgerð, - at útbúgva fólk í tilbúgvingini og gera tilbúgvingarætlanir, - at upplýsa og kunna tey ferðandi. <em type="bold">5.5.2 Kreppusamskifti </em></p>
+<p>Fastar mannagongdir eru neyðugar í sjálvum tilbúgvingararbeiðinum eins og í samskiftispartinum bæði innanhýsis og mótvegis borgarum og fjølmiðlum, tá ið óvæntaðar vanlukkur henda í samferðslukervinum. Tað er av trygdarávum ein skylda at kunna væl og eintýtt, soleiðis at slíkir tilburðir hava so avmarkaðar avleiðingar sum gjørligt. Landsverk hevur gjørt eina partsætlan fyri kreppusamskiftið í tilbúgvingarætlanini fyri landsvegakervið. Samskiftistænastan á Landsverki er við í øllum venjingum av tilbúgvingini, har hon kunnar á heimasíðuni so hvørt og á tíðindafundi á staðnum.</p>
+<p>Landsverk hevur, í samráð við táverandi Tilbúgvingarstovnin, gjørt upplýsandi tilfar um trygd í tunlum. Eisini eru tveir stuttfilmar gjørdir um tunnilstrygd. <em type="bold">5.5.3 Serligt um undirsjóvartunlar </em></p>
+<p>Tað serstaka við undirsjóvartunlum er, at teir eru skipaðir við lóg í vinnurekandi feløg. At teir vera skipaðir við lóg kann merkja, at lógin setir ófrávíkilig krøv til trygdina. At tunlarnir eru skipaðir í vinnurekandi feløg merkir, at teir skulu hava egna virksemistilbúgving, sum ásett er í lóg um tilbúgving. Tunlar eru í trygdar- og tilbúgvingarhøpi skipaðir sambært kapitli 8 í tilbúgvingarlógini. Eftirlitsmyndugleikin er sostatt hjá landsstýrismanninum í samferðslumálum14. Hann hevur m.a. heimild at gera kunngerðir um rýmingar-, bjargingar- og sløkkingarmøguleikar15, at seta krøv um tiltøk og sløkki- og ávaringarskipanir í sambandi við at nýta og at skipa virksemið í tunlum16, og at hava brunaeftirlit. <em type="bold">5.5.4 Havnir </em></p>
+<p>Altjóða trygdarreglugerðin um skipa- og havnarløg (ISPS-reglugerðin) fevnir um serfyriskipanir, sum skulu gera trygdina hjá skipum og havnarløgum betri. Fyriskipanirnar vórðu settar í gildi á altjóða stigi, tí mett varð, at vandarnir eftir yvirgangsatsóknirnar í New York 11. september 2001 fóru at økjast. ISPS-reglugerðin er í tveimum - ein kravdur og ein vegleiðandi partur. 14</p>
+<p>Sambært fráboðan nr. 109 frá 18. september 2015 um býti av málsøkjum millum landsstýrismenninar, kapittul 3 og kapittul 6. 15</p>
+<p>Sambært tilbúgvingarlógini, § 36, stk. 1, nr. 5. 16</p>
+<p>Sambært tilbúgvingarlógini, § 38, stk. 1-2.19</p>
+<p>Í høvuðsheitum er aðalreglan tann, at trygdin hjá skipum og havnarløgum er treytað av, hvussu farið verður um váða, sum mett verður um í hvørjum føri sær. Endamálið við reglunum er at gera ein felags leist fyri at sammeta hesar váðar við førleikan hjá skipum og havnum, so at ymsu londini kunnu tillaga trygdarstigið eftir trygdartiltøkum17.</p>
+<p>Landsstýrismaðurin í vinnumálum18 hevur, við heimild í løgtingslóg nr. 11 frá 31. mars 2004 og kunngerð nr. 33 frá 25. mai 2004, álagt Landsverki at røkja niðanfyri nevndu myndugleikauppgávur til at verja havnir móti yvirgangi: -</p>
+<p>Áseta trygdarstigið fyri føroyskar ISPS havnir. -</p>
+<p>Góðkenna váðametingar fyri føroyskar ISPS havnir. -</p>
+<p>Góðkenna verndarætlanir fyri ISPS havnir. -</p>
+<p>Hava eftirlit við og skipa fyri venjingum fyri at kanna, hvussu væl ætlanirnar virka. -</p>
+<p>Góðkenna verndarfeløg, sum kunnu røkja ávísar uppgávur í sambandi við váðametingar og verndarætlanir.</p>
+<p>Yvirlit yvir góðkendar føroyskar ISPS-havnir er at finna á heimasíðuni hjá Landsverki. <em type="bold">5.5.5 Floghavnir </em></p>
 <p>Vága Floghavn hevur ábyrgdina av flogvallarrakstrinum í Vágum, meðan Trafikstyrelsen hevur ábyrgdina av ásetingunum viðvíkjandi flogtrygdini.</p>
-<p>Vága Floghavn fylgir donsku reglunum, sum eru galdandi fyri tilbúgving og fráboðan. Er tað  staðfest,  ella  er  illgruni  um  smittandi  sjúku,  ella  aðrar  umstøður  umborð,  er  álagt flogskiparanum at boða frá tí. Flogfarið hevur bert í stutta tíð samband við tornið í Vágum, áðrenn  tað  lendir.  Á  veg  til  Føroya  samskiftir  flogfarið  við  íslendska  loftferðslumyndugleikan, ISAVIA, sum hevur ábyrgd av føroyska luftrúminum. Tí er tað sannlíkt, at tað verður ISAVIA, sum boðar AFIS í Vágum ella MRCC Tórshavn frá um ein møguligan smittuvanda.</p>
-<p>Mannagongdin er soleiðis, at ein fráboðan um smittandi sjúkur skal gerast samsvarandi epidemilógini. Tí skal AFIS skjótast gjørligt senda fráboðanina víðari til løgregluna um, at smittandi sjúka er staðfest umborð á flogfari. Løgreglan boðar síðani fútanum, sum er formaður  fyri  smittubólkinum,  frá.  Flogvallarfyrisitingin  skal  eisini  hava  boðini.  Eftir umbøn  frá  fútanum  og  landslæknanum  skal  AFIS  eisini  stuðla  smittubólkinum  eftir førimuni.</p>
-<p><em type="bold"> Kommunala tilbúgvingin </em></p>
-<p>Tann kommunala tilbúgvingin skal fevna um:</p>
-<p type="listitem"> eldsbruna,</p>
-<p type="listitem"> óhapp við vandamiklum evnum,</p>
-<p>Sambært IMO.  Sambært Landsverki.</p>
-<p>19</p>
-<p type="listitem"> spreinging,</p>
-<p type="listitem"> skriðu-, skalva-, áar- og omanlop,</p>
-<p type="listitem"> tá ið bygningar rapa,</p>
-<p type="listitem"> ferðsluvanlukkur,</p>
-<p type="listitem"> tilburðir við skipa- og bátaóhappum, tá ið førini liggja við bryggju,</p>
-<p type="listitem"> hýsa neyðstøddum ella bráðfluttum fólki,</p>
-<p type="listitem"> at loysa fastkleimd fólk í ferðsluvanlukkum, flogvanlukkum og omanlopum o.ø. og</p>
-<p type="listitem"> umhvørvisdálking, herundir eisini at basa olju- og  kemikaliudálking ella øðrum</p>
-<p>vandamiklum evnum á landi.</p>
-<p>Ein uppgáva, sum tó ikki er kommunal, er at leita eftir horvnum fólki. Hesa uppgávu eigur løgreglan á landi og MRCC Tórshavn á sjónum.</p>
-<p>Í  roynd  og  veru  taka  kommunalu  tilbúgvingareindirnar  sær  av  flestu  tilburðum  við  kommunalari tilbúgving. Sum oftast er talan um tænastur í sambandi við eldsbrunar og ferðsluóhapp,  men  eisini  oljudálking  í  havnarløgum,  á  firðum  á  kommunalum ábyrgdarøki og eisini á landi, til dømis, tá ið oljutangar leka.</p>
-<p>Hevur kommunala tilbúgvingin tørv á eykahjálp, er tað sambært tilbúgvingarlógini skylda hjá grannakommunum og landstilbúgvingini at hjálpa bæði við útgerð og fólki.</p>
-<p>Kommunala  tilbúgvingin  kann,  umframt  hjálp  frá  grannakommunum,  eisini  biðja  um  serhjálp frá landstilbúgvingini. Landsverk hevur nakað av oljubasingarútgerð og kann veita kommunum hjálp, men vanligari er, at kommunurnar veita Landsverki hjálp, tá ið tørvur er á tí.</p>
-<p>Hjálp frá landstilbúgvingini kann til dømis vera skip hjá Fiskiveiðieftirlitinum, tyrla frá Atlantic Airways og  bjargingarbátarnir Lív, Ziska og Sverri.</p>
-<p>Uttan fyri landstilbúgvingina eru tað m.a. bjargingarfeløgini kring landið, ið kunnu virka sum stuðulseindir í einum tilbúgvingarátaki.</p>
-<p><em type="bold">6.1 Ábyrgdarøkið hjá kommunum </em></p>
-<p>Ábyrgdarøki hjá kommununi eru øll øki innan fyri kommunumark á landi, á og í vøtnum, í havnum og bátahyljum. Í flestu førum er markið millum ábyrgdarøkið hjá kommununum</p>
-<p xml:lang="dan">Sambært tilbúgvingarlógini, § 8, stk. 1, 2. pkt.</p>
-<p>Ásetingar eru um hetta í tilbúgvingarlógini. Sí t.d. §§ 9, 10 og 18.  T.d. er avtala um tilbúgving fyri dálking av kemiskum evnum gjørd millum løgregluna,</p>
-<p>Tilbúgvingarstovn Føroya (nú Fiskimálaráðið) og Beredskabsstyrelsen í Danmark. Sambært avtaluni, kunnu m.a. kommunur ringja beinleiðis til Beredskabsstyrelsen og biðja um ráðgeving, hjálparveitingar og greiningar av royndum.</p>
-<p>20 og landinum greitt. Markið hevur serliga týdning í sambandi við dálking, tá ið  tann, ið hevur dálkað, er ókendur ella ikki kann gjalda fyri uppruddingina. Er dálking farin fram á kommunalum  øki,  er  tað  kommunan,  sum  skal  gjalda  í  fyrstu  atløgu,  men  er  ein oljublettur rikin inn á kommunalt øki, er tað landið, sum eigur at gjalda, um tann, ið dálkað hevur, ikki verður funnin.</p>
-<p><em type="bold">6.2 Samstarvsavtalur  </em></p>
-<p>Økisábyrgdareindirnar kunnu samstarva um tilbúgving. Tað kann vera ein fyrimunur, at partarnir,  áðrenn  hjálp  verður  boðsend,  hava  gjørt  avtalu  sínámillum,  hvussu útreiðslurnar skulu býtast, eins og lagt verður upp til í § 9, stk. 2 í tilbúgvingarlógini. Til dømis kann avtala verða gjørd frammanundan um, at fær ein kommuna hjálp úr aðrari kommunu,  bera  kommunurnar  hvør  sær  kostnaðin.  Um  eingin  avtala  er  gjørd frammanundan, skal kommunan, sum hevur biðið um hjálpina, sum byrjanarstøði, gjalda útreiðslurnar  hjá  kommununi,  sum  hevur  veitt  hjálpina.  Sjálvsagt  ber  eisini  til  hjá virkjum, landi og kommunum at gera avtalur um, hvussu kostnaður skal berast. Tílíkar avtalur  eru  við  til  at  fremja  eindarhugtakið  í  verki,  tí  at  gjaldspurningar  kunnu  darva hjálpini  í  neyðstøðum.  Mælt  verður  til,  at  avtalur  verða  gjørdar  millum  eindirnar  um, hvussu samstarvið skal skipast.</p>
-<p xml:lang="dan"><em type="bold">6.3 Felagskommunal tilbúgving </em></p>
-<p>Kommunur kunnu, heilt ella fyri ein part, vera felags um tilbúgving. Avtalur um felags tilbúgving  skulu  góðkennast  av kommunala  eftirlitinum.  Tað  eru  29  kommunur  og  21 kommunal tilbúgvingarøki í Føroyum.</p>
-<p>Kommunur, sum eru felags um tilbúgving, skulu hava eina felags tilbúgvingarnevnd og ein felags tilbúgvingarleiðara.</p>
-<p>Munurin á felags tilbúgving og samstarvi  um tilbúgving er, at felags tilbúgving merkir felags  ábyrgd,  og  samstarv  merkir  felags  uppgávur,  men  at  ábyrgdarbýtið  er  óbroytt. Felags tilbúgving er sostatt eitt frávik frá meginregluni um økisábyrgd, og tí verður kravt, at kommunala eftirlitið góðkennir avtaluna. Mett verður tó, at felags tilbúgving í nógvum førum kann styrkja tilbúgvingina, tí at eindirnar gerast størri.</p>
-<p><em type="bold">6.4 Aðrar samstarvsavtalur  </em></p>
-<p>Sambært  tilbúgvingarlógini  stendur  tað  landi,  kommunum  og  fyritøkum  frítt  at  gera avtalur  sínámillum  og  t.d.  við  bjargingarfeløg,  fyritøkur  o.s.fr.  Hetta  ber  í  sær,  at  ein kommuna t.d. kann útveita tilbúgvingaruppgávur, t.d. oljutilbúgving, til eitt privat felag.</p>
-<p>Sambært tilbúgvingarlógini, § 8, stk. 2.</p>
-<p>Sambært tilbúgvingarlógini, § 12, stk. 5.  Sambært tilbúgvingarlógini, § 17.</p>
-<p>21 Tað  kundi  verið  eitt  oljufelag,  sum  hevur  eina  virksemistilbúgving  frammanundan  til oljugoymslur í kommununi ella ein flogvøllur, sum hevur egna tilbúgving.</p>
-<p>Endamálið  við  samstarvsavtalum  er at  sleppa  undan  spillorku,  og  økisábyrgdin  virkar sum ein eind, hóast hon er sundurliðað í fleiri eindir.</p>
-<p><em type="bold">6.5 Skylda – eindarhugsjónin </em></p>
-<p>Allir  partar  í  tilbúgvingini  hava  skyldu  til  at  samstarva.  Hetta  er  ein  grundliður  í endamálinum við at skipa Tilbúgving Føroya, nevniliga at fáa ábyrgdarøkini at virka sum ein eind. Tað merkir, sambært viðmerkingunum til lógina serliga, at gera felags leiðreglur fyri, hvussu tilbúgvingin fyriskipanarliga eigur at verða skipað.</p>
-<p><em type="bold">6.6 Tilbúgvingarnevndin </em></p>
-<p>Kommunustýrið hevur evstu ábyrgd av kommunalu tilbúgvingini. Sett verður sokallað tilbúgvingarnevnd at umsita tilbúgvin</p>
-<p>Eftir  leisti,  sum  kommunustýrið  ger,  skal  tilbúgvingarnevndin  hava  yvirskipaðu umsitingina av kommunalu tilbúgvingini.</p>
-<p>Nevndin verður sett saman av einum politiskt valdum meiriluta. Harumframt eru fakligir førleikar  umboðaðir,  t.d.  eru  umboð  fyri  Føroya  landfúta  og  kommunali tilbúgvingarleiðarin fastir limir, ið skulu umboða átaksførleikan. Borgarstjórin er føddur formaður í nevndini.</p>
-<p>Tilbúgvingarnevndir  kunnu  millum  annað  meta  um  rakstur,  stig,  førleika,  manning  og fígging.  Eisini  skulu  tilbúgvingarnevndirnar  gera  váðametingar.  Lagt  verður  upp  til,  at samskipandi  myndugleikin,  sum  hevur  ráðgevandi  leiklut  sambært  tilbúgvingarlógini, samstarvar  við  kommunurnar  um  ein  felags  leist,  sum  kommunurnar  kunnu  nýta  til váðametingar.</p>
-<p>Er  talan  um  kommunur,  ið  hava  felags  kommunala  tilbúgving,  verður  felags tilbúgvingarleiðari settur. Kommunurnar skulu eisini hava eina felags tilbúgvingarnevnd. Kommunurnar  velja  meirilutan  í  nevndini  og  ein  av  borgarstjórunum  til  formann.  Harumframt vera í nevndini tilbúgvingarleiðarin og eitt umboð fyri Føroya landfúta.</p>
-<p>Tó skal havast í huga, at kommunur ikki kunnu útveita stórar partar av tilbúgvingini ímóti at slaka egna</p>
-<p>tilbúgving, uttan at trygd er fyri, at kommunan kann yvirtaka virksemið, um felagið t.d. skuldi hildið uppat av ymiskum orsøkum. Hetta avmarkar sjálvsagt møguleikan hjá kommunum at útveita tilbúgving, uttan at hava fyrilit fyri, hvussu útveitingin stundisliga kann takast aftur. Harumframt er neyðugt at hava eftirlit við útveittum uppgávum.</p>
-<p>Sambært tilbúgvingarlógini, § 18.  Sambært tilbúgvingarlógini, § 12, stk. 2.</p>
-<p>22</p>
-<p><em type="bold">6.7 Eftirlit við kommunalu tilbúgvingini </em></p>
-<p>Landsstýrismaðurin  í  tilbúgvingarmálum  hevur  eftirlit  við,  at  kommunurnar  halda reglurnar  í  tilbúgvingarlógini.  Eftirlit  er  við,  at  kommunurnar  hava  eina  nóg  góða tilbúgving í mun til váðan í kommununi, og at kommunurnar røkja sínar skyldur, sum lógin sigur.</p>
-<p>Samskipandi  myndugleikin  hevur  eisini  eftirlit  við  útbúgvingarstøði  og  útgerðini  hjá kommunalu  tilbúgvingini  og  kann  í  kunngerð  áseta  nærri  reglur  um  útbúgving  av tilbúgvingarmanning, seta krøv til førleikar og áseta nærri krøv um einsháttað slag av útgerð og dygdarkrøv til útgerðina.</p>
-<p>Harumframt  kann  landsstýrismaðurin  í  tilbúgvingarmálum,  í  samráð  við kommunurnar,  áseta  neyvari  reglur  um  vavið  av  uppgávunum,  sum  kommunalu tilbúgvingarnar skulu røkja, og um samstarvið millum kommunurnar og millum landið og kommunurnar. Hetta hevur týdning fyri ábyrgdarbýtið millum land og kommunur, tí at kommunan hevur bara ábyrgd av at hava nøktandi tilbúgving til tilburðir upp til eitt vist, og at tað er landstilbúgvingin, sum síðan skal taka um endan og ber kostnaðin av hjálpini,  sum  er  omanfyri  kravið  til  kommununa.  Ongar  reglur  eru  gjørdar  hesum viðvíkjandi enn.</p>
-<p>Landsstýrismaðurin,  ið  varðar  av  kap.  8  í  tilbúgvingarlógini,  kann  seta  kunngerðir  í gildi, sum áleggja kommununum serstakar skyldur at sýna bygningar og annað, sum Arbeiðs- og brunaeftirlitið annars hevur eftirlit við.</p>
-<p xml:lang="dan"><em type="bold"> Virksemistilbúgving </em></p>
-<p>Tilbúgvingarlógin hevur ásetingar um virksemistilbúgving, sum er galdandi fyri alment og privat virksemi.</p>
-<p>Virksemi,  sum  kann  verða  fevnt  av  kravinum  um  virksemistilbúgving,  kann  í høvuðsheitinum verða býtt í tveir bólkar.</p>
-<p>Sambært §§ 6 og 9 í kunngerð nr. 150 frá 17. desember 2001 um útbúgving av sløkkiliðsfólki, og</p>
-<p>sambært § 3, í reglugerð fyri brunaumsjónarmenn. Reglurnar hava heimild í gomlu brunalógini, Ll nr. 78 frá 12. juni 1986 um eldsbruna. Sambært § 46, stk. 3 í lóg um tilbúgving verða reglur við heimild í brunalógi</p>
-<p>Sambært tilbúgvingarlógini, § 19.  Sambært tilbúgvingarlógini, § 11.</p>
-<p>Sambært tilbúgvingarlógini, § 10.  T.d. sambært § 39, stk. 2 í tilbúgvingarlógini.</p>
-<p>Krøv eru eisini í serlóggávu um virksemistilbúgving. Nevnast kunnu t.d. krøv um virksemistilbúgving</p>
-<p>sambært kolvetnislógini, havumhvørvisverndarlógini, umhvørvisverndarlógini og</p>
-<p>bunkringarkunngerðini.</p>
-<p>23 Annar bólkurin eru virkir ella stovnar, sum fáast við vandamikil evni og eldfiman løg, og sum tí kunnu volda skaða í samfelagnum.</p>
-<p>Hin bólkurin eru samfelagstýðandi virkir og stovnar, sum hava til uppgávu ella standa fyri veitingum, sum eru grundleggjandi og týðandi fyri virkisførið í samfelagnum: drekkivatn, orkuveiting, samferðsla á landi, sjó- og loftvegis, telefyritøkur o.s.fr.</p>
-<p><em type="bold">7.1 Virki, sum við sínum virksemi kunnu volda skaða á fólk, umhvørvi, djór og virðir </em></p>
-<p>Sum dømi kunnu nevnast gasssølur, oljufeløg og onnur feløg, sum hava tangar ella fáast við brennievnaflutning. Eisini kunnu nevnast virki, sum hava kemisk evni á goymslu, ella sum arbeiða við tílíkum evnum. Eisini fiskamjølframleiðsla á landi og sjónum kann verða vandamikil, av tí at mjølið kann elva til spreingingar undir ávísum umstøðum. Hesi virki kunnu  við  sínum  virksemi  volda  skaða  á  onnur,  og  hava  tí  skyldu  til  at  hava  eina egintilbúgving.</p>
-<p>Virki, sum skulu hava slíka tilbúgving, bera sjálvi kostnaðin av tilbúgvingini.</p>
-<p>Eitt av endamálunum við egintilbúgvingini er at kunna bera skjótt at, tá skaðatilburðir koma fyri. Egintilbúgvingin skal kunna gera ein skjótan <span type="quote">“bráðfeingisinnsats”</span> og avmarka skaðan, til hjálp kemur frá kommunalu- ella landstilbúgvingini.</p>
-<p><em type="bold">7.2 Virkir og veitingar, sum hava týdning fyri virkisførið í Føroyum </em></p>
-<p>Fyritøkur  kunnu  fáa  boð um  at  hava  ymsa  tilbúgving  fyri  at  tryggja,  at  virkisførið  í samfelagnum minst møguligt verður skert ella fer til grundar orsakað av skaðatilburðum ella vanlukkum. Talan er um at tryggja samfelagnum veitingar sum mat, vatn, heilivág, ljós,  hita  og  at  tryggja  samferðslukervið  og  samskiftiskervið.  Eingi  slík  boð  eru  givin sambært tilbúgvingarlógini enn.</p>
-<p>Tað er vorðið ein alsamt vaksandi hóttan mótvegis undirstøðukervinum, at teldusníkar fáa atgongd til teldukervi hjá privatpersónum, fyritøkum og stovnum.  Tað er av alstórum týdningi  fyri  virkisførið  í  Føroyum,  at  virksemi,  sum  til  dømis  samskifti,  heilsuverk, orkuveiting, vatnveiting og bankavirksemi ikki verður lagt lamið.</p>
-<p>Heimildin  at  geva  kravboð  um  tilbúgving  skilir  seg  frá  vanliga  kravinum  um egintilbúgving. Munurin er, at í slíkum føri er ikki talan um, at virki skulu kunna fyribyrgja vanda av egnum virksemi, men at virkini skulu fyribyrgja vanda, sum kemur uttaneftir, og  sum  hóttir  virkisførið  í  samfelagnum  sum  heild.  Til  dømis  kann  nevnast,  at  nógv framkomin lond hava bundið seg til at hava oljugoymslur, sum svara til vanliga nýtslu í</p>
-<p>Kravboð verða givin sambært § 16, stk. 1 í tilbúgvingarlógini.</p>
-<p>24 90  dagar.  Hetta  krav  er  m.a.  sett  øllum  ES-limalondum.  Enn  er  einki  krav  um oljugoymslur í Føroyum.</p>
-<p>Í Føroyum er ásett í kunngerð um drekkivatnsveiting, at vatnveitarar skulu seta í verk tiltøk  og  gera  rakstrarætlanir  um  veitingartrygd,  sum  tryggjar  neyðugar  nøgdir  av drekkivatni. Hetta er tó ikki neyvt útgreinað.</p>
-<p>Virki, sum kundu hugsast at fingið kravboð um tilbúgving í framtíðini, eru eitt nú Føroya Tele (tryggja samskiftið), Strandferðslan (tryggja innanoyggja fólka- og farmaflutning), undirsjóvartunlar  (tryggja  vegakervið  og  fólkaheilsu),  Atlantic  Airways  (tryggja ferðasambandið  við  útlond),  Smyril  Line  (tryggja  ferðafólka-  og  farmaflutning),  SEV (tryggja orkuframleiðsluna), banka</p>
-<p>Fyritøkur hava í ávísum førum rætt til endurgjald, um tilbúgving verður teimum áløgd. Ásett  verður  tó,  at  endurgjald  kann  ikki  krevjast,  um  kostnaðurin,  sum  stendst  av kravboðunum, kann verða fíggjaður við at seta prís á viðkomandi vøru ella tænastu.</p>
-<p>Eisini  kann  heimildin  verða  nýtt  í  undantaksstøðum,  har  viðurskiftini  ikki  eru  skipað frammanundan. Eitt dømi er, at eitt ella fleiri bryggjarí fingu álagt at framleiða drekkivatn til goymslu, um drekkivatn t.d. var dálkað.</p>
-<p><em type="bold">7.3 Samvirkan millum land, kommunur og virkir </em></p>
-<p>Virki,  sum  eru  umfatað  av  ásetingini  um  virksemistilbúgving,  skulu  senda egintilbúgvingarætlanina  til  kommunalu  tilbúgvingina  og  landsstýrismannin  í tilbúgvingarmálum. Endamálið er, at kommunurnar mugu vita, hvørji tól og amboð eru tøk,  skuldi  tørvur  verið  á  teimum.  Eisini  er  endamálið,  at  virksemistilbúgvingin  skal kunna  samantvinnast  við  landstilbúgvingina  og  kommunalu  tilbúgvingina,  t.d. virksemstilbúgvingina í tunlum.</p>
-<p>Ein serlig áseting er í tilbúgvingarlógarinnar kap. 8. Í sambandi við eldhættisligt virksemi kann  landsstýrismaðurin,  ið  varðar  av økinum,  seta  fyribyrgjandi  krøv  til  virksemið. Hetta kunnu vera ásetingar um, hvussu egintilbúgvingin á eldsbrunaøkinum skal vera, hvørja  útgerð  fyritøkurnar  skulu  útvega  sær,  og  hvørji  krøv  til  førleika,  handfaring  av útgerð, goymslu, flutningi o.a. skulu setast. Um slík krøv verða sett, verður samskipandi myndugleikin kunnaður.</p>
-<p>Sambært ES direktiv 68/414/EEC frá 20. desember 1968.  Kunngerð nr. 127 frá 22. november 2013, § 10.  Bankakervið er danskt málsøki.</p>
-<p>Sambært tilbúgvingarlógini, § 15, stk. 2.  Sambært tilbúgvingarlógini, § 37, stk. 2.</p>
-<p>25</p>
-<p><em type="bold"> At samskipa tilbúgvingarátak </em></p>
-<p>Tá ið tosað verður um at samskipa eitt tilbúgvingarátak, er talan um at virka sum leiðandi millumlið fyri fleiri ymiskar eindir í virksemis-, kommunalu og landstilbúgvingini. Talan er  ikki  um  átaksleiðslu,  sum  er  leiðsla  á  skaðastaðnum.  Sum  dømi  kann  nevnast,  at løgreglan  kann  samskipa  eitt  átak  á  landi  og  sendir  boð  eftir  egnum  eindum  (t.d. løgreglubili), eftir landstilbúgvingareindum (t.d. sjúkrabili) og kommunalum eindum (t.d. sløkkiliðsbili),  meðan  átaksleiðslan  á  skaðastaðnum  er  hjá  tilbúgvingarleiðaranum  hjá kommununi.</p>
-<p><em type="bold">8.1 At samskipa átak á landi -  Løgreglan  </em></p>
-<p>Løgreglan samskipar øll átøk á landi, á og í vøtnum.<em type="bold"> </em> </p>
-<p>Løgreglan samskipar alt átakið á landi. Eisini skal løgreglan tryggja, at allar uppgávur á átaksstaðnum,  og  uttan  fyri  tað,  verða  samskipaðar  á  ein  slíkan  hátt,  at  alt  átakið samanumtikið virkar so væl sum til ber, og við so stuttari svartíð sum gjørligt.</p>
-<p>Leiðsluskipanin  hjá  løgregluni  virkar  eftir  trimum  stigum,  sum  eru  lagað  eftir bygnaðinum í tilbúgvingini í Føroyum annars:</p>
-<p>● <em type="bold">Strategiskt stig</em>, sum er evsta leiðsla hjá løgregluni, og hevur tað endamál at leggja </p>
-<p>til  rættis  ætlanirnar  og  tey  yvirskipaðu  langtíðarstevnumiðini  hjá  løgregluni.  Í sambandi við serligar skaðatilburðir, stórar vanlukkur og kreppur, sum fata um fleiri myndugleikar, kann hetta stig virka sum eitt kreppuráð.</p>
-<p>● <em type="bold">Operativt stig</em>, sum er dagliga leiðslan  hjá løgregluni. Er talan um tilburð, sum </p>
-<p>krevur  nógva  tilbúgving  ella  løgreglu,  kann  løgreglan  á  operativum  stigi  seta  á stovn eina KSN (kommandostation), sum vanliga er tætt knýtt at vakthavandi hjá løgregluni. Á hesum stigi verða tær strategisku avgerðirnar hjá fútanum settar í verk til tess at samskipa tær uppgávur, sum liggja uttan fyri innara skaðastaðið.</p>
-<p>● <em type="bold">Taktiskt stig</em> – tann einstaki átaksleiðarin hjá løgregluni hevur leiðsluna á hesum </p>
-<p>stigi. Í sambandi við stórt átak kann løgreglan, í samstarvi við átaksleiðararnar hjá kommunu  og  heilsuverki  á  taktiskum  stigi,  seta  á  stovn  eitt  KST (kommandostade).  Við  støði  í  KST  virkar  átaksleiðarin  hjá  løgregluni  sum samskipandi leiðsla í øllum átaksøkinum soleiðis, at alt átakið í øllum átaksøkinum virkar so væl sum til ber. Bjargingarfeløg og onnur sjálvboðin eru stuðulseindir hjá nevndu átaksleiðslum.</p>
-<p>Hvørjir myndugleikar, ið verða tiknir upp í eitt átak, veldst um, hvør tilburðurin er, og hvussu víðfevndur hann er.</p>
-<p>Hetta er í samsvari við rættargangslógina, § 108. Tilvísingin í § 21 í tilbúgvingarlógini er kunnandi, av tí</p>
-<p>at uppgávurnar hjá løgregluni, sum danskt málsøki, ikki kunnu skipast við løgtingslóg.</p>
-<p>Sambært tilbúgvingarlógini, § 21.</p>
-<p>26</p>
-<p><em type="bold">8.2 Vanlukkur tvørtur um kommunumark </em></p>
-<p>Elvir  vanlukka  skaða  tvørtur  um  eitt  ella  fleiri  kommunumørk,  skulu  viðkomandi kommunur fáa í lag eitt samstarv um alt átakið á skaðastaðnum.</p>
-<p>Í  eini  slíkari  støðu  vil  løgreglan  vanliga  skipa  eina  KSN.  Til  tað  er  gjørt,  skipa átaksleiðslurnar  eitt samstarv um ráðlegging og átaksgongd fyri alt tað tøkniliga átakið. Verður tað hildið at vera skilagott, kunnu teir, t.d. við útgangsstøði í kommunumørkum, býta  skaðastaðið  í  fleiri  sjálvstøðug  skaðastøð,  hvørt  við  sínum  átaksleiðara  frá kommunalu tilbúgvingini.</p>
-<p>Til KSN er skipað, skal átaksleiðslan – har fleiri átaksleiðarar frá kommunalu tilbúgvingini kunnu  vera  umboðaðir  –  samskipa  átakið  so  skilagott  sum  møguligt.  Tað  kann  vera umráðandi, at tilfeingið o.a., so tíðliga sum gjørligt, verður fráboðað KSN.</p>
+<p>Vága Floghavn fylgir donsku reglunum, sum eru galdandi fyri tilbúgving og fráboðan. Er tað staðfest, ella er illgruni um smittandi sjúku, ella aðrar umstøður umborð, er álagt flogskiparanum at boða frá tí. Flogfarið hevur bert í stutta tíð samband við tornið í Vágum, áðrenn tað lendir. Á veg til Føroya samskiftir flogfarið við íslendska loftferðslumyndugleikan, ISAVIA, sum hevur ábyrgd av føroyska luftrúminum. Tí er tað sannlíkt, at tað verður ISAVIA, sum boðar AFIS í Vágum ella MRCC Tórshavn frá um ein møguligan smittuvanda.</p>
+<p>Mannagongdin er soleiðis, at ein fráboðan um smittandi sjúkur skal gerast samsvarandi epidemilógini. Tí skal AFIS skjótast gjørligt senda fráboðanina víðari til løgregluna um, at smittandi sjúka er staðfest umborð á flogfari. Løgreglan boðar síðani fútanum, sum er formaður fyri smittubólkinum, frá. Flogvallarfyrisitingin skal eisini hava boðini. Eftir umbøn frá fútanum og landslæknanum skal AFIS eisini stuðla smittubólkinum eftir førimuni. <em type="bold">6 Kommunala tilbúgvingin </em></p>
+<p>Tann kommunala tilbúgvingin skal fevna um:  eldsbruna,  óhapp við vandamiklum evnum, 17</p>
+<p>Sambært IMO. 18</p>
+<p>Sambært Landsverki.20  spreinging,  skriðu-, skalva-, áar- og omanlop,  tá ið bygningar rapa,  ferðsluvanlukkur,  tilburðir við skipa- og bátaóhappum, tá ið førini liggja við bryggju,  hýsa neyðstøddum ella bráðfluttum fólki19,  at loysa fastkleimd fólk í ferðsluvanlukkum, flogvanlukkum og omanlopum o.ø. og  umhvørvisdálking, herundir eisini at basa olju- og kemikaliudálking ella øðrum vandamiklum evnum á landi.</p>
+<p>Ein uppgáva, sum tó ikki er kommunal, er at leita eftir horvnum fólki. Hesa uppgávu eigur løgreglan á landi og MRCC Tórshavn á sjónum. Í roynd og veru taka kommunalu tilbúgvingareindirnar sær av flestu tilburðum við kommunalari tilbúgving. Sum oftast er talan um tænastur í sambandi við eldsbrunar og ferðsluóhapp, men eisini oljudálking í havnarløgum, á firðum á kommunalum ábyrgdarøki og eisini á landi, til dømis, tá ið oljutangar leka. Hevur kommunala tilbúgvingin tørv á eykahjálp, er tað sambært tilbúgvingarlógini skylda hjá grannakommunum og landstilbúgvingini at hjálpa bæði við útgerð og fólki20. Kommunala tilbúgvingin kann, umframt hjálp frá grannakommunum, eisini biðja um serhjálp frá landstilbúgvingini21. Landsverk hevur nakað av oljubasingarútgerð og kann veita kommunum hjálp, men vanligari er, at kommunurnar veita Landsverki hjálp, tá ið tørvur er á tí. Hjálp frá landstilbúgvingini kann til dømis vera skip hjá Fiskiveiðieftirlitinum, tyrla frá Atlantic Airways og bjargingarbátarnir Lív, Ziska og Sverri. Uttan fyri landstilbúgvingina eru tað m.a. bjargingarfeløgini kring landið, ið kunnu virka sum stuðulseindir í einum tilbúgvingarátaki. <em type="bold">6.1 Ábyrgdarøkið hjá kommunum </em></p>
+<p>Ábyrgdarøki hjá kommununi eru øll øki innan fyri kommunumark á landi, á og í vøtnum, í havnum og bátahyljum. Í flestu førum er markið millum ábyrgdarøkið hjá kommununum 19</p>
+<p xml:lang="dan">Sambært tilbúgvingarlógini, § 8, stk. 1, 2. pkt. 20</p>
+<p>Ásetingar eru um hetta í tilbúgvingarlógini. Sí t.d. §§ 9, 10 og 18. 21</p>
+<p>T.d. er avtala um tilbúgving fyri dálking av kemiskum evnum gjørd millum løgregluna,</p>
+<p>Tilbúgvingarstovn Føroya (nú Fiskimálaráðið) og Beredskabsstyrelsen í Danmark. Sambært avtaluni, kunnu m.a. kommunur ringja beinleiðis til Beredskabsstyrelsen og biðja um ráðgeving, hjálparveitingar og greiningar av royndum. 21 og landinum greitt. Markið hevur serliga týdning í sambandi við dálking, tá ið tann, ið hevur dálkað, er ókendur ella ikki kann gjalda fyri uppruddingina. Er dálking farin fram á kommunalum øki, er tað kommunan, sum skal gjalda í fyrstu atløgu, men er ein oljublettur rikin inn á kommunalt øki, er tað landið, sum eigur at gjalda, um tann, ið dálkað hevur, ikki verður funnin. <em type="bold">6.2 Samstarvsavtalur </em></p>
+<p>Økisábyrgdareindirnar kunnu samstarva um tilbúgving. Tað kann vera ein fyrimunur, at partarnir, áðrenn hjálp verður boðsend, hava gjørt avtalu sínámillum, hvussu útreiðslurnar skulu býtast, eins og lagt verður upp til í § 9, stk. 2 í tilbúgvingarlógini. Til dømis kann avtala verða gjørd frammanundan um, at fær ein kommuna hjálp úr aðrari kommunu, bera kommunurnar hvør sær kostnaðin. Um eingin avtala er gjørd frammanundan, skal kommunan, sum hevur biðið um hjálpina, sum byrjanarstøði, gjalda útreiðslurnar hjá kommununi, sum hevur veitt hjálpina. Sjálvsagt ber eisini til hjá virkjum, landi og kommunum at gera avtalur um, hvussu kostnaður skal berast. Tílíkar avtalur eru við til at fremja eindarhugtakið í verki, tí at gjaldspurningar kunnu darva hjálpini í neyðstøðum. Mælt verður til, at avtalur verða gjørdar millum eindirnar um, hvussu samstarvið skal skipast. <em type="bold">6.3 Felagskommunal tilbúgving </em></p>
+<p>Kommunur22 kunnu, heilt ella fyri ein part, vera felags um tilbúgving. Avtalur um felags tilbúgving skulu góðkennast av kommunala eftirlitinum. Tað eru 29 kommunur og 21 kommunal tilbúgvingarøki í Føroyum.</p>
+<p>Kommunur, sum eru felags um tilbúgving, skulu hava eina felags tilbúgvingarnevnd og ein felags tilbúgvingarleiðara23.</p>
+<p>Munurin á felags tilbúgving og samstarvi um tilbúgving er, at felags tilbúgving merkir felags ábyrgd, og samstarv merkir felags uppgávur, men at ábyrgdarbýtið er óbroytt. Felags tilbúgving er sostatt eitt frávik frá meginregluni um økisábyrgd, og tí verður kravt, at kommunala eftirlitið góðkennir avtaluna. Mett verður tó, at felags tilbúgving í nógvum førum kann styrkja tilbúgvingina, tí at eindirnar gerast størri. <em type="bold">6.4 Aðrar samstarvsavtalur </em></p>
+<p>Sambært24 tilbúgvingarlógini stendur tað landi, kommunum og fyritøkum frítt at gera avtalur sínámillum og t.d. við bjargingarfeløg, fyritøkur o.s.fr. Hetta ber í sær, at ein kommuna t.d. kann útveita tilbúgvingaruppgávur, t.d. oljutilbúgving, til eitt privat felag. 22</p>
+<p>Sambært tilbúgvingarlógini, § 8, stk. 2. 23</p>
+<p>Sambært tilbúgvingarlógini, § 12, stk. 5. 24</p>
+<p>Sambært tilbúgvingarlógini, § 17. 22</p>
+<p>Tað kundi verið eitt oljufelag, sum hevur eina virksemistilbúgving frammanundan til oljugoymslur í kommununi ella ein flogvøllur, sum hevur egna tilbúgving25.</p>
+<p>Endamálið við samstarvsavtalum er at sleppa undan spillorku, og økisábyrgdin virkar sum ein eind, hóast hon er sundurliðað í fleiri eindir. <em type="bold">6.5 Skylda – eindarhugsjónin </em></p>
+<p>Allir partar í tilbúgvingini hava skyldu til at samstarva26. Hetta er ein grundliður í endamálinum við at skipa Tilbúgving Føroya, nevniliga at fáa ábyrgdarøkini at virka sum ein eind. Tað merkir, sambært viðmerkingunum til lógina serliga, at gera felags leiðreglur fyri, hvussu tilbúgvingin fyriskipanarliga eigur at verða skipað. <em type="bold">6.6 Tilbúgvingarnevndin27 </em></p>
+<p>Kommunustýrið hevur evstu ábyrgd av kommunalu tilbúgvingini. Sett verður sokallað tilbúgvingarnevnd at umsita tilbúgvingina.</p>
+<p>Eftir leisti, sum kommunustýrið ger, skal tilbúgvingarnevndin hava yvirskipaðu umsitingina av kommunalu tilbúgvingini.</p>
+<p>Nevndin verður sett saman av einum politiskt valdum meiriluta. Harumframt eru fakligir førleikar umboðaðir, t.d. eru umboð fyri Føroya landfúta og kommunali tilbúgvingarleiðarin fastir limir, ið skulu umboða átaksførleikan. Borgarstjórin er føddur formaður í nevndini.</p>
+<p>Tilbúgvingarnevndir kunnu millum annað meta um rakstur, stig, førleika, manning og fígging. Eisini skulu tilbúgvingarnevndirnar gera váðametingar. Lagt verður upp til, at samskipandi myndugleikin, sum hevur ráðgevandi leiklut sambært tilbúgvingarlógini, samstarvar við kommunurnar um ein felags leist, sum kommunurnar kunnu nýta til váðametingar.</p>
+<p>Er talan um kommunur, ið hava felags kommunala tilbúgving, verður felags tilbúgvingarleiðari settur. Kommunurnar skulu eisini hava eina felags tilbúgvingarnevnd. Kommunurnar velja meirilutan í nevndini og ein av borgarstjórunum til formann. Harumframt vera í nevndini tilbúgvingarleiðarin og eitt umboð fyri Føroya landfúta. 25</p>
+<p>Tó skal havast í huga, at kommunur ikki kunnu útveita stórar partar av tilbúgvingini ímóti at slaka egna tilbúgving, uttan at trygd er fyri, at kommunan kann yvirtaka virksemið, um felagið t.d. skuldi hildið uppat av ymiskum orsøkum. Hetta avmarkar sjálvsagt møguleikan hjá kommunum at útveita tilbúgving, uttan at hava fyrilit fyri, hvussu útveitingin stundisliga kann takast aftur. Harumframt er neyðugt at hava eftirlit við útveittum uppgávum. 26</p>
+<p>Sambært tilbúgvingarlógini, § 18. 27</p>
+<p>Sambært tilbúgvingarlógini, § 12, stk. 2. 23 <em type="bold">6.7 Eftirlit við kommunalu tilbúgvingini </em></p>
+<p>Landsstýrismaðurin í tilbúgvingarmálum hevur eftirlit við, at kommunurnar halda reglurnar í tilbúgvingarlógini. Eftirlit er við, at kommunurnar hava eina nóg góða tilbúgving í mun til váðan í kommununi, og at kommunurnar røkja sínar skyldur, sum lógin sigur. Samskipandi myndugleikin hevur eisini eftirlit við útbúgvingarstøði og útgerðini28 hjá kommunalu tilbúgvingini og kann í kunngerð áseta nærri reglur um útbúgving av tilbúgvingarmanning, seta krøv til førleikar og áseta nærri krøv um einsháttað slag av útgerð og dygdarkrøv til útgerðina29.</p>
+<p>Harumframt kann landsstýrismaðurin í tilbúgvingarmálum, í samráð við kommunurnar30, áseta neyvari reglur um vavið av uppgávunum, sum kommunalu tilbúgvingarnar skulu røkja, og um samstarvið millum kommunurnar og millum landið og kommunurnar. Hetta hevur týdning fyri ábyrgdarbýtið millum land og kommunur, tí at kommunan hevur bara ábyrgd av at hava nøktandi tilbúgving til tilburðir upp til eitt vist, og at tað er landstilbúgvingin, sum síðan skal taka um endan31 og ber kostnaðin av hjálpini, sum er omanfyri kravið til kommununa. Ongar reglur eru gjørdar hesum viðvíkjandi enn.</p>
+<p>Landsstýrismaðurin, ið varðar av kap. 8 í tilbúgvingarlógini, kann seta kunngerðir í gildi32, sum áleggja kommununum serstakar skyldur at sýna bygningar og annað, sum Arbeiðs- og brunaeftirlitið annars hevur eftirlit við. <em type="bold">7 Virksemistilbúgving </em></p>
+<p>Tilbúgvingarlógin hevur ásetingar um virksemistilbúgving33, sum er galdandi fyri alment og privat virksemi.</p>
+<p>Virksemi, sum kann verða fevnt av kravinum um virksemistilbúgving, kann í høvuðsheitinum verða býtt í tveir bólkar. 28</p>
+<p>Sambært §§ 6 og 9 í kunngerð nr. 150 frá 17. desember 2001 um útbúgving av sløkkiliðsfólki, og sambært § 3, í reglugerð fyri brunaumsjónarmenn. Reglurnar hava heimild í gomlu brunalógini, Ll nr. 78 frá 12. juni 1986 um eldsbruna. Sambært § 46, stk. 3 í lóg um tilbúgving verða reglur við heimild í brunalógini verandi í gildi, til reglur, ásettar við heimild í tilbúgvingarlógini, ella reglur, ásettar við heimild í aðrari lóg um somu viðurskifti, koma ístaðin, ella tær verða settar úr gildi. 29</p>
+<p>Sambært tilbúgvingarlógini, § 19. 30</p>
+<p>Sambært tilbúgvingarlógini, § 11. 31</p>
+<p>Sambært tilbúgvingarlógini, § 10. 32</p>
+<p>T.d. sambært § 39, stk. 2 í tilbúgvingarlógini. 33</p>
+<p>Krøv eru eisini í serlóggávu um virksemistilbúgving. Nevnast kunnu t.d. krøv um virksemistilbúgving sambært kolvetnislógini, havumhvørvisverndarlógini, umhvørvisverndarlógini og bunkringarkunngerðini. 24</p>
+<p>Annar bólkurin eru virkir ella stovnar, sum fáast við vandamikil evni og eldfiman løg, og sum tí kunnu volda skaða í samfelagnum. Hin bólkurin eru samfelagstýðandi virkir og stovnar, sum hava til uppgávu ella standa fyri veitingum, sum eru grundleggjandi og týðandi fyri virkisførið í samfelagnum: drekkivatn, orkuveiting, samferðsla á landi, sjó- og loftvegis, telefyritøkur o.s.fr. <em type="bold">7.1 Virki, sum við sínum virksemi kunnu volda skaða á fólk, umhvørvi, djór og </em><em type="bold">virðir </em></p>
+<p>Sum dømi kunnu nevnast gasssølur, oljufeløg og onnur feløg, sum hava tangar ella fáast við brennievnaflutning. Eisini kunnu nevnast virki, sum hava kemisk evni á goymslu, ella sum arbeiða við tílíkum evnum. Eisini fiskamjølframleiðsla á landi og sjónum kann verða vandamikil, av tí at mjølið kann elva til spreingingar undir ávísum umstøðum. Hesi virki kunnu við sínum virksemi volda skaða á onnur, og hava tí skyldu til at hava eina egintilbúgving. Virki, sum skulu hava slíka tilbúgving, bera sjálvi kostnaðin av tilbúgvingini.</p>
+<p>Eitt av endamálunum við egintilbúgvingini er at kunna bera skjótt at, tá skaðatilburðir koma fyri. Egintilbúgvingin skal kunna gera ein skjótan <span type="quote">“bráðfeingisinnsats”</span> og avmarka skaðan, til hjálp kemur frá kommunalu- ella landstilbúgvingini. <em type="bold">7.2 Virkir og veitingar, sum hava týdning fyri virkisførið í Føroyum </em></p>
+<p>Fyritøkur kunnu fáa boð34 um at hava ymsa tilbúgving fyri at tryggja, at virkisførið í samfelagnum minst møguligt verður skert ella fer til grundar orsakað av skaðatilburðum ella vanlukkum. Talan er um at tryggja samfelagnum veitingar sum mat, vatn, heilivág, ljós, hita og at tryggja samferðslukervið og samskiftiskervið. Eingi slík boð eru givin sambært tilbúgvingarlógini enn.</p>
+<p>Tað er vorðið ein alsamt vaksandi hóttan mótvegis undirstøðukervinum, at teldusníkar fáa atgongd til teldukervi hjá privatpersónum, fyritøkum og stovnum. Tað er av alstórum týdningi fyri virkisførið í Føroyum, at virksemi, sum til dømis samskifti, heilsuverk, orkuveiting, vatnveiting og bankavirksemi ikki verður lagt lamið.</p>
+<p>Heimildin at geva kravboð um tilbúgving skilir seg frá vanliga kravinum um egintilbúgving. Munurin er, at í slíkum føri er ikki talan um, at virki skulu kunna fyribyrgja vanda av egnum virksemi, men at virkini skulu fyribyrgja vanda, sum kemur uttaneftir, og sum hóttir virkisførið í samfelagnum sum heild. Til dømis kann nevnast, at nógv framkomin lond hava bundið seg til at hava oljugoymslur, sum svara til vanliga nýtslu í 34</p>
+<p>Kravboð verða givin sambært § 16, stk. 1 í tilbúgvingarlógini. 25 90 dagar. Hetta krav er m.a. sett øllum ES-limalondum35. Enn er einki krav um oljugoymslur í Føroyum.</p>
+<p>Í Føroyum er ásett í kunngerð um drekkivatnsveiting36, at vatnveitarar skulu seta í verk tiltøk og gera rakstrarætlanir um veitingartrygd, sum tryggjar neyðugar nøgdir av drekkivatni. Hetta er tó ikki neyvt útgreinað.</p>
+<p>Virki, sum kundu hugsast at fingið kravboð um tilbúgving í framtíðini, eru eitt nú Føroya Tele (tryggja samskiftið), Strandferðslan (tryggja innanoyggja fólka- og farmaflutning), undirsjóvartunlar (tryggja vegakervið og fólkaheilsu), Atlantic Airways (tryggja ferðasambandið við útlond), Smyril Line (tryggja ferðafólka- og farmaflutning), SEV (tryggja orkuframleiðsluna), bankakervið37 (tryggja peningarenslið). Fyritøkur hava í ávísum førum rætt til endurgjald, um tilbúgving verður teimum áløgd. Ásett verður tó, at endurgjald kann ikki krevjast, um kostnaðurin, sum stendst av kravboðunum, kann verða fíggjaður við at seta prís á viðkomandi vøru ella tænastu. Eisini kann heimildin verða nýtt í undantaksstøðum, har viðurskiftini ikki eru skipað frammanundan. Eitt dømi er, at eitt ella fleiri bryggjarí fingu álagt at framleiða drekkivatn til goymslu, um drekkivatn t.d. var dálkað. <em type="bold">7.3 Samvirkan millum land, kommunur og virkir </em></p>
+<p>Virki, sum eru umfatað av ásetingini um virksemistilbúgving, skulu senda egintilbúgvingarætlanina til kommunalu tilbúgvingina og landsstýrismannin í tilbúgvingarmálum38. Endamálið er, at kommunurnar mugu vita, hvørji tól og amboð eru tøk, skuldi tørvur verið á teimum. Eisini er endamálið, at virksemistilbúgvingin skal kunna samantvinnast við landstilbúgvingina og kommunalu tilbúgvingina, t.d. virksemstilbúgvingina í tunlum.</p>
+<p>Ein serlig áseting er í tilbúgvingarlógarinnar kap. 8. Í sambandi við eldhættisligt virksemi kann landsstýrismaðurin, ið varðar av økinum, seta fyribyrgjandi krøv til virksemið39. Hetta kunnu vera ásetingar um, hvussu egintilbúgvingin á eldsbrunaøkinum skal vera, hvørja útgerð fyritøkurnar skulu útvega sær, og hvørji krøv til førleika, handfaring av útgerð, goymslu, flutningi o.a. skulu setast. Um slík krøv verða sett, verður samskipandi myndugleikin kunnaður. 35</p>
+<p>Sambært ES direktiv 68/414/EEC frá 20. desember 1968. 36</p>
+<p>Kunngerð nr. 127 frá 22. november 2013, § 10. 37</p>
+<p>Bankakervið er danskt málsøki. 38</p>
+<p>Sambært tilbúgvingarlógini, § 15, stk. 2. 39</p>
+<p>Sambært tilbúgvingarlógini, § 37, stk. 2. 26 <em type="bold">8 At samskipa tilbúgvingarátak </em></p>
+<p>Tá ið tosað verður um at samskipa eitt tilbúgvingarátak, er talan um at virka sum leiðandi millumlið fyri fleiri ymiskar eindir í virksemis-, kommunalu og landstilbúgvingini. Talan er ikki um átaksleiðslu, sum er leiðsla á skaðastaðnum. Sum dømi kann nevnast, at løgreglan kann samskipa eitt átak á landi og sendir boð eftir egnum eindum (t.d. løgreglubili), eftir landstilbúgvingareindum (t.d. sjúkrabili) og kommunalum eindum (t.d. sløkkiliðsbili), meðan átaksleiðslan á skaðastaðnum er hjá tilbúgvingarleiðaranum hjá kommununi. <em type="bold">8.1 At samskipa átak á landi - Løgreglan </em></p>
+<p>Løgreglan samskipar øll átøk á landi, á og í vøtnum40. <em type="bold"></em></p>
+<p>Løgreglan samskipar alt átakið á landi41. Eisini skal løgreglan tryggja, at allar uppgávur á átaksstaðnum, og uttan fyri tað, verða samskipaðar á ein slíkan hátt, at alt átakið samanumtikið virkar so væl sum til ber, og við so stuttari svartíð sum gjørligt.</p>
+<p>Leiðsluskipanin hjá løgregluni virkar eftir trimum stigum, sum eru lagað eftir bygnaðinum í tilbúgvingini í Føroyum annars: ●</p>
+<p><em type="bold">Strategiskt stig </em>, sum er evsta leiðsla hjá løgregluni, og hevur tað endamál at leggja til rættis ætlanirnar og tey yvirskipaðu langtíðarstevnumiðini hjá løgregluni. Í sambandi við serligar skaðatilburðir, stórar vanlukkur og kreppur, sum fata um fleiri myndugleikar, kann hetta stig virka sum eitt kreppuráð. ● </p>
+<p><em type="bold">Operativt stig </em>, sum er dagliga leiðslan hjá løgregluni. Er talan um tilburð, sum krevur nógva tilbúgving ella løgreglu, kann løgreglan á operativum stigi seta á stovn eina KSN (kommandostation), sum vanliga er tætt knýtt at vakthavandi hjá løgregluni. Á hesum stigi verða tær strategisku avgerðirnar hjá fútanum settar í verk til tess at samskipa tær uppgávur, sum liggja uttan fyri innara skaðastaðið. ● </p>
+<p><em type="bold">Taktiskt stig </em>– tann einstaki átaksleiðarin hjá løgregluni hevur leiðsluna á hesum stigi. Í sambandi við stórt átak kann løgreglan, í samstarvi við átaksleiðararnar hjá kommunu og heilsuverki á taktiskum stigi, seta á stovn eitt KST (kommandostade). Við støði í KST virkar átaksleiðarin hjá løgregluni sum samskipandi leiðsla í øllum átaksøkinum soleiðis, at alt átakið í øllum átaksøkinum virkar so væl sum til ber. Bjargingarfeløg og onnur sjálvboðin eru stuðulseindir hjá nevndu átaksleiðslum. </p>
+<p>Hvørjir myndugleikar, ið verða tiknir upp í eitt átak, veldst um, hvør tilburðurin er, og hvussu víðfevndur hann er. 40</p>
+<p>Hetta er í samsvari við rættargangslógina, § 108. Tilvísingin í § 21 í tilbúgvingarlógini er kunnandi, av tí at uppgávurnar hjá løgregluni, sum danskt málsøki, ikki kunnu skipast við løgtingslóg. 41</p>
+<p>Sambært tilbúgvingarlógini, § 21. 27 <em type="bold">8.2 Vanlukkur tvørtur um kommunumark </em></p>
+<p>Elvir vanlukka skaða tvørtur um eitt ella fleiri kommunumørk, skulu viðkomandi kommunur fáa í lag eitt samstarv um alt átakið á skaðastaðnum.</p>
+<p>Í eini slíkari støðu vil løgreglan vanliga skipa eina KSN. Til tað er gjørt, skipa átaksleiðslurnar eitt samstarv um ráðlegging og átaksgongd fyri alt tað tøkniliga átakið. Verður tað hildið at vera skilagott, kunnu teir, t.d. við útgangsstøði í kommunumørkum, býta skaðastaðið í fleiri sjálvstøðug skaðastøð, hvørt við sínum átaksleiðara frá kommunalu tilbúgvingini.</p>
+<p>Til KSN er skipað, skal átaksleiðslan – har fleiri átaksleiðarar frá kommunalu tilbúgvingini kunnu vera umboðaðir – samskipa átakið so skilagott sum møguligt. Tað kann vera umráðandi, at tilfeingið o.a., so tíðliga sum gjørligt, verður fráboðað KSN.</p>
 <p>Elvir tilburður til skaða í fleiri kommunum (oyggjum), skulu avvarðandi myndugleikar skipa eitt leiðslusamstarv um alt átakið.</p>
 <p>Átakið í tí einstaka átaksøkinum samskipar átaksleiðari hjá løgregluni við útgangsstøði í KST, men samlaða átakið verður samskipað av KSN.</p>
-<p>Yvirskipaða  átakssamskipanin,  kunningin  til  almenningin  og  raðfestingin  av  øllum tilfeinginum, verður stýrd av KSN.</p>
-<p><em type="bold">8.3 Tilbúgving á sjónum – MRCC Tórshavn </em></p>
+<p>Yvirskipaða átakssamskipanin, kunningin til almenningin og raðfestingin av øllum tilfeinginum, verður stýrd av KSN. <em type="bold">8.3 Tilbúgving á sjónum – MRCC Tórshavn </em></p>
 <p>MRCC Tórshavn samskipar øll átøk á sjónum.</p>
-<p>MRCC,  stytting  av  Maritime  Rescue  Coordination  Center,  virkar  saman  við  Tórshavn Radio sum ein deild í stovninum Vørn undir Fiskimálaráðnum.</p>
-<p>MRCC  Tórshavn  hevur  ábyrgd  av  at  seta  í  verk  og  samskipa  leiting  og  bjarging  á føroyskari havleið. Enska heitið er SAR (Search and Rescue).</p>
+<p>MRCC, stytting av Maritime Rescue Coordination Center, virkar saman við Tórshavn Radio sum ein deild í stovninum Vørn undir Fiskimálaráðnum.</p>
+<p>MRCC Tórshavn hevur ábyrgd av at seta í verk og samskipa leiting og bjarging á føroyskari havleið. Enska heitið er SAR (Search and Rescue).</p>
 <p>Samskiparin (SMC-SAR Mission Coordinator), sum vanliga er vakthavandi, tekur avgerðir í samráð við OSC (On Scene Coordinator) og onnur starvsfólk á MRCC Tórshavn.</p>
 <p>On Scene Coordinator er eind (skip, tyrla, flogfar), ið verður útnevnd av MRCC Tórshavn til at hava átaksleiðsluna á átaksøkinum vegna MRCC Tórshavn.</p>
 <p>Fyri at stuðla vakthavandi (SMC) og starvsfólki á MRCC Tórshavn, kann fólk frá øðrum stovnum og privatum fyritøkum kallast inn til Borðið, alt eftir hvat átak, talan er um. Fólk verða kallað til Borðið av vakthavandi (SMC).</p>
-<p>Tá  ið  fólk  sita  við  Borðið  og  stuðla  vakthavandi,  skulu  tey  vera  bindilið  til  sín  egna stovn/fyritøku og  geva ráð eftir tørvi við sínum fakliga kunnleika.</p>
-<p>Samstarvsavtalur  eru  gjørdar  við  t.d.  Atlantic  Helicopters  og  Arktisk  Kommando Færøerne.</p>
-<p>Harumframt eru avtalur við grannalondini um sínámillum hjálp, við MRCC Aberdeen og JRCC Iceland, um at veita hjálp í sambandi við álvarsligar neyðstøður.</p>
-<p>27 Aðrar  uppgávur  hjá  MRCC  Tórshavn  fata  um  at  taka  ímóti  fráboðan  um  oljudálking  á føroy</p>
-<p>Í ábyrgdini at samskipa alt átakið liggur eisini heimildin at taka avgerðir, sum merkir, at er ósemja  millum aktørar á staðnum, kann MRCC Tórshavn skera ígjøgnum og tryggja, at átakið kann verða sett í verk.</p>
+<p>Tá ið fólk sita við Borðið og stuðla vakthavandi, skulu tey vera bindilið til sín egna stovn/fyritøku og geva ráð eftir tørvi við sínum fakliga kunnleika.</p>
+<p>Samstarvsavtalur eru gjørdar við t.d. Atlantic Helicopters og Arktisk Kommando Færøerne.</p>
+<p>Harumframt eru avtalur við grannalondini um sínámillum hjálp, við MRCC Aberdeen og JRCC Iceland, um at veita hjálp í sambandi við álvarsligar neyðstøður. 28</p>
+<p>Aðrar uppgávur hjá MRCC Tórshavn fata um at taka ímóti fráboðan um oljudálking á føroyskum havleiðum, sjúkraflutning við tyrlu, avgreiða boð um yvirgang á føroyskum skipum (ISPS) og at gera og lýsa siglingarávaringar. Virkisøkið hjá MRCC Tórshavn er havleiðin úr fjøruni og út á 200 fjórðinga markið ella miðlinjuna millum lond. Støðin er mannað alt samdøgrið og hvønn dag.</p>
+<p>Í ábyrgdini at samskipa alt átakið liggur eisini heimildin at taka avgerðir, sum merkir, at er ósemja millum aktørar á staðnum, kann MRCC Tórshavn skera ígjøgnum og tryggja, at átakið kann verða sett í verk.</p>
 <p>Løgreglan hevur politimyndugleika í sambandi við átøk á sjónum. Har, sum løgreglan á sjónum ger kanningar og útinnir myndugleika annars, skal MRCC Tórshavn samskipa hesi átøk í tøttum samstarvi við løgregluna og aðrar myndugleikar.</p>
-<p>Afturat  uppgávuni  at  samskipa  átøk  veitir  MRCC  Tórshavn  eisini  eina  sokallaða  MAStænastu  (Maritime  Assistance  Service).  Her  virkar  MRCC  Tórshavn  sum  samskiftislið millum strandarlond, skip og aðrar IMO stovnar. Evnið verður ikki meira viðgjørt her.</p>
-<p><em type="bold">8.4 Dálking á sjónum  </em></p>
-<p>Havumhvørvislógin staðfestir ábyrgdarbýtið í sambandi við dálking á sjónum. Sambært ásetingini skal tann, ið hevur dálkað,  beinanvegin seta tiltøk í verk at avmarka dálkingina. Tann, ið hevur dálkað, ella onnur, ið eru varug við dálkingina ella hava sæð dálking, skulu boða MRCC Tórshavn frá. Ábyrgdarbýtið millum land og kommunur er skipað soleiðis, at kommunustýrið hevur ábyrgd av olju- og kemikaliudálking í havnum, harímillum fram við bryggjum og havnarløgum, og landsstýrismaðurin hevur ábyrgdina, tá ið dálkingin er ytri á og stavar frá skipum ella havstøðum. Landsstýrismaðurin hevur latið Landsverki uppgávurnar í  hendi, og Landsverk hevur eisini átaksleiðsluna, tá ið landstilbúgvingin verður sett í verk.</p>
-<p><em type="bold">8.5 Land/sjógvur - grásonur </em></p>
-<p>Hugsast kann, at ein tilburður er bæði á sjónum og uppi á landi. Til dømis, um ein bilur fer á sjógv, og leitað verður eftir fólki bæði á sjónum og á landi. Her kann verða neyðugt at hava fastar avtalur og felags mannagongdir fyri, hvussu samskiftið og leiðslurnar av átakinum  skulu  skipast.  Sum  støðan  er  í  dag,  eru  ongar  tílíkar  formligar  avtalur  ella mannagongdir.  Tað  kann  vera  neyðugt,  um  aðalsetningurin  um  eina  samvirkandi tilbúgving skal gerast veruleiki, at slíkar avtalur og mannagongdir verða gjørdar.</p>
-<p><em type="bold">8.6 Innara og ytra skaðastað </em></p>
-<p>Innara skaðastaðið er fyrsta staðið rundan um skaðan, sum átaksleiðarin hjá kommunalu tilbúgvingini varðar av. Átaksleiðarin hjá kommunalu tilbúgvingini hevur ábyrgdina av tí</p>
-<p>Sambært havumhvørvislógini, § 22.</p>
-<p>28 tøkniliga partinum av átakinum. Ytra skaðastaðið kemur síðan, og her hevur løgreglan ábyrgdina.</p>
-<p>Løgreglan  varðar  av  ytra  skaðastaðnum  og  samskipar  sambandið  millum  innara skaðastaðið við aðrar partar og eindir. Løgreglan vil í hesum sambandi tryggja sær, at skaðastaðið,  sum  í  teirra  arbeiði  eisini  verður  viðgjørt  sum  ein  brotsstaður (gerningsstaður), ikki verður órógvað, og at óviðkomandi ikki koma ov nær, so at staðið verður ávirkað, ella at fólk fáa skaða t.d. í sambandi við eina spreinging.</p>
-<p>Løgreglan hevur eisini sokallaðu KST-funksjónina, sum samskipar skaðastaðið og førir logbók.</p>
-<p><em type="bold">8.7 Átaksleiðsla  </em></p>
+<p>Afturat uppgávuni at samskipa átøk veitir MRCC Tórshavn eisini eina sokallaða MAStænastu (Maritime Assistance Service). Her virkar MRCC Tórshavn sum samskiftislið millum strandarlond, skip og aðrar IMO stovnar. Evnið verður ikki meira viðgjørt her. <em type="bold">8.4 Dálking á sjónum </em></p>
+<p>Havumhvørvislógin42 staðfestir ábyrgdarbýtið í sambandi við dálking á sjónum. Sambært ásetingini skal tann, ið hevur dálkað, beinanvegin seta tiltøk í verk at avmarka dálkingina. Tann, ið hevur dálkað, ella onnur, ið eru varug við dálkingina ella hava sæð dálking, skulu boða MRCC Tórshavn frá. Ábyrgdarbýtið millum land og kommunur er skipað soleiðis, at kommunustýrið hevur ábyrgd av olju- og kemikaliudálking í havnum, harímillum fram við bryggjum og havnarløgum, og landsstýrismaðurin hevur ábyrgdina, tá ið dálkingin er ytri á og stavar frá skipum ella havstøðum. Landsstýrismaðurin hevur latið Landsverki uppgávurnar í hendi, og Landsverk hevur eisini átaksleiðsluna, tá ið landstilbúgvingin verður sett í verk. <em type="bold">8.5 Land/sjógvur - grásonur </em></p>
+<p>Hugsast kann, at ein tilburður er bæði á sjónum og uppi á landi. Til dømis, um ein bilur fer á sjógv, og leitað verður eftir fólki bæði á sjónum og á landi. Her kann verða neyðugt at hava fastar avtalur og felags mannagongdir fyri, hvussu samskiftið og leiðslurnar av átakinum skulu skipast. Sum støðan er í dag, eru ongar tílíkar formligar avtalur ella mannagongdir. Tað kann vera neyðugt, um aðalsetningurin um eina samvirkandi tilbúgving skal gerast veruleiki, at slíkar avtalur og mannagongdir verða gjørdar. <em type="bold">8.6 Innara og ytra skaðastað </em></p>
+<p>Innara skaðastaðið er fyrsta staðið rundan um skaðan, sum átaksleiðarin hjá kommunalu tilbúgvingini varðar av. Átaksleiðarin hjá kommunalu tilbúgvingini hevur ábyrgdina av tí 42</p>
+<p>Sambært havumhvørvislógini, § 22. 29 tøkniliga partinum av átakinum. Ytra skaðastaðið kemur síðan, og her hevur løgreglan ábyrgdina.</p>
+<p>Løgreglan varðar av ytra skaðastaðnum og samskipar sambandið millum innara skaðastaðið við aðrar partar og eindir. Løgreglan vil í hesum sambandi tryggja sær, at skaðastaðið, sum í teirra arbeiði eisini verður viðgjørt sum ein brotsstaður (gerningsstaður), ikki verður órógvað, og at óviðkomandi ikki koma ov nær, so at staðið verður ávirkað, ella at fólk fáa skaða t.d. í sambandi við eina spreinging.</p>
+<p>Løgreglan hevur eisini sokallaðu KST-funksjónina, sum samskipar skaðastaðið og førir logbók. <em type="bold">8.7 Átaksleiðsla </em></p>
 <p><em type="italic">Tríggjar funksjónir </em></p>
-<p>Átaksleiðslan á landi og sjónum kann sigast at hava tríggjar funksjónir.</p>
-<p>1. Fyrsta funksjónin er samskipandi og er hjá løgregluni á landi og MRCC Tórshavn á sjónum. 2. Onnur  funksjónin  er  tann  heilsuliga,  sum  er  hjá  samskipandi  lækna  (KOOLfunksjónini).  KOOL/Liðlækni  hevur  ovastu  ábyrgdina  av  øllum  tí  præhospitala átakinum  í  átaksøkinum.  Tað  er  vanliga  KOOL,  sum  samstarvar  við  samskipandi myndugleikan,  t.e.  løgreglu  ella  MRCC  Tórshavn  um  sjúkraflutning.  Um  neyðugt, verður eisini samstarvað við vakthavandi landslækna. 3. Triðja funksjónin er tann tøkniliga, sum liggur hjá átaksleiðaranum hjá kommunalu tilbúgvingini. Tann tøkniliga lei</p>
-<p><em type="bold">8.8 Átaksleiðslubygnaður býttur sundur eftir funksjónum   </em></p>
-<p>Kommunali  átaksleiðarin  frá  tilbúgvingini  hevur  tøkniligu  leiðsluna  á  innara skaðastaðnum á landi, og løgreglan hevur leiðsluna á uttara skaðastaðnum.</p>
-<p>Heilsuverkið skipar seg sjálvt á skaðastaðnum, og í einum átaki ávísir løgreglan pláss til bilar  og  aðra  útgerð.  Hjálp  frá  t.d.  bjargingarfeløgum  verður  umbiðin  gjøgnum samskipandi myndugleikan, t.e. løgregluna.</p>
-<p>Á  sjónum.  MRCC  Tórshavn  hevur  átaksleiðsluna  fyri  SAR  átøk.  Tøkniliga  leiðslan  á staðnum kann latast einari eind á átaksøkinum, t.d. skipara á sjóverjuskipi ella fiskiskipi, sum verður ein sokallaður <span type="quote" xml:lang="dan">“On-Scene Coordinator”</span> (OSC).</p>
-<p>29</p>
-<p><em type="bold">8.9 Stafetthugsjónin </em></p>
+<p>Átaksleiðslan á landi og sjónum kann sigast at hava tríggjar funksjónir. 1. Fyrsta funksjónin er samskipandi og er hjá løgregluni á landi og MRCC Tórshavn á sjónum. 2. Onnur funksjónin er tann heilsuliga, sum er hjá samskipandi lækna (KOOL-funksjónini). KOOL/Liðlækni hevur ovastu ábyrgdina av øllum tí præhospitala átakinum í átaksøkinum. Tað er vanliga KOOL, sum samstarvar við samskipandi myndugleikan, t.e. løgreglu ella MRCC Tórshavn um sjúkraflutning. Um neyðugt, verður eisini samstarvað við vakthavandi landslækna. 3. Triðja funksjónin er tann tøkniliga, sum liggur hjá átaksleiðaranum hjá kommunalu tilbúgvingini. Tann tøkniliga leiðslan av átakinum á einum skaðastaði er undir ábyrgd av einum átaksleiðara frá kommunalu tilbúgvingini á landi. Á sjónum er tað ein átaksleiðari, sum vanliga er vakthavandi á MRCC Tórshavn ella ein on-scene coordinator, sum verður útnevndur av MRCC Tórshavn. <em type="bold">8.8 Átaksleiðslubygnaður býttur sundur eftir funksjónum </em></p>
+<p>Kommunali átaksleiðarin frá tilbúgvingini hevur tøkniligu leiðsluna á innara skaðastaðnum á landi, og løgreglan hevur leiðsluna á uttara skaðastaðnum.</p>
+<p>Heilsuverkið skipar seg sjálvt á skaðastaðnum, og í einum átaki ávísir løgreglan pláss til bilar og aðra útgerð. Hjálp frá t.d. bjargingarfeløgum verður umbiðin gjøgnum samskipandi myndugleikan, t.e. løgregluna.</p>
+<p>Á sjónum. MRCC Tórshavn hevur átaksleiðsluna fyri SAR átøk. Tøkniliga leiðslan á staðnum kann latast einari eind á átaksøkinum, t.d. skipara á sjóverjuskipi ella fiskiskipi, sum verður ein sokallaður <span type="quote" xml:lang="dan">“On-Scene Coordinator”</span> (OSC). 30 <em type="bold">8.9 Stafetthugsjónin </em></p>
 <p>Fer eitt átak á sjónum upp á land, ella fer eitt átak á landi út á sjógv, skal stafetthugsjónin vera tann berandi. Tað merkir, at samskipandi leiðslan heldur fram, til stafettin er handað nýggju samskipandi leiðsluni, og hon hevur kvittað fyri móttøkuna.</p>
-<p>Eisini kann verða avtalað, at átakið ikki skiftir samskipandi leiðslu, um tað verður hildið at vera ein fyrimunur fyri átakið.</p>
-<p><em type="bold"> Samskifti </em></p>
-<p>Samskiftisbygnaðurin er ein hornasteinur í samvirkandi tilbúgvingini. Løgreglan er ofta samskipandi myndugleiki millum átaksleiðaran og t.d. eitt bjargingarfelag.</p>
-<p><em type="bold">9.1 Samskift verður ígjøgnum Alarmsentralin 1-1-2 ella MRCC Tórshavn </em></p>
-<p>Skilt  verður  ímillum  1-1-2  Alarmsentralin,  MRCC  Tórshavn  og  vaktsentralar,  ið  eru mannaðir.</p>
-<p>Í Føroyum er ein 1-1-2 Alarmsentralur, har borgararnir kunnu ringja og boða frá einari vanlukku,  neyðstøðu,  eldi  og  líknandi  fyri  at  fáa  skjóta  og  røttu  hjálpina  á  staðið,  t.d. sjúkrabil, kommunala tilbúgving og løgreglu.</p>
-<p>Er talan um sjóbjarging, vil fráboðanin um neyðstøðu fara  umvegis  VHF ella EPIRB til MRCC Tórshavn/Tórshavn Radio.</p>
-<p>Um so er, at fráboðan um vanlukku, neyðstøðu, eld og líknandi á sjónum verður fráboðað til  1-1-2  Alarmsentralin,  letur  alarmsentralurin  boðini  víðari  til  MRCC  Tórshavn,  sum yvirtekur samskipandi uppgávuna sambært stafetthugsjónini.</p>
+<p>Eisini kann verða avtalað, at átakið ikki skiftir samskipandi leiðslu, um tað verður hildið at vera ein fyrimunur fyri átakið. <em type="bold">9 Samskifti </em></p>
+<p>Samskiftisbygnaðurin er ein hornasteinur í samvirkandi tilbúgvingini. Løgreglan er ofta samskipandi myndugleiki millum átaksleiðaran og t.d. eitt bjargingarfelag. <em type="bold">9.1 Samskift verður ígjøgnum Alarmsentralin 1-1-2 ella MRCC Tórshavn </em></p>
+<p>Skilt verður ímillum 1-1-2 Alarmsentralin, MRCC Tórshavn og vaktsentralar, ið eru mannaðir.</p>
+<p>Í Føroyum er ein 1-1-2 Alarmsentralur, har borgararnir kunnu ringja og boða frá einari vanlukku, neyðstøðu, eldi og líknandi fyri at fáa skjóta og røttu hjálpina á staðið, t.d. sjúkrabil, kommunala tilbúgving og løgreglu.</p>
+<p>Er talan um sjóbjarging, vil fráboðanin um neyðstøðu fara umvegis VHF ella EPIRB til MRCC Tórshavn/Tórshavn Radio.</p>
+<p>Um so er, at fráboðan um vanlukku, neyðstøðu, eld og líknandi á sjónum verður fráboðað til 1-1-2 Alarmsentralin, letur alarmsentralurin boðini víðari til MRCC Tórshavn, sum yvirtekur samskipandi uppgávuna sambært stafetthugsjónini.</p>
 <p>Um neyðugt er við eini tyrlu at loysa uppgávu á landi, biður 1-1-2 Alarmsentralurin um tyrluna umvegis MRCC Tórshavn.</p>
-<p>Nakrar tilbúgvingareindir hava stovnsett ein mannaðan vaktsentral fyri betur at kunna loysa  tær  operativu  uppgávurnar.  Í  løtuni  finst  ein  vaktsentralur  hjá  løgregluni  í Tórshavn,  ið  samskipar  alt  virksemi  hjá  løgregluni  í  Føroyum,  ein  mannaður vaktsentralur  hjá  Tórshavnar  Sløkkiliði,  ið  samskipar  kommunalu  tilbúgvingina  í Tórshavnar  kommunu  og  ein  mannaður  vaktsentralur  er  á  Landssjúkrahúsinum,  ið samskipar  allar  sjúkrabilarnar  í  Føroyum,  umframt  at  loysa  innanhýsis  uppgávur  á Landssjúkrahúsinum.</p>
-<p><em type="bold">Dømi: </em>Skal ein átaksleiðari í sambandi við eitt átak á landi senda boð eftir tyrlu, verður </p>
-<p>tað gjørt ígjøgnum løgregluna, sum gevur boðini til MRCC Tórshavn, sum samskiftir við tyrluna, og ikki við at ringja beinleiðis á flogvøllin. Tað kemur fyri, at henda mannagongd ikki verður fylgd, og tí hevur tað stóran týdning, at t.d. tyrlan, burtursæð frá heilt serligum førum, bert tekur við boðum frá MRCC Tórshavn og ikki t.d. frá einum bjargingarliði.</p>
-<p>At neyðugt er at samskifta eftir hesum leisti kann vera torført at skilja, men havast skal í huga, at fleiri átøk kunnu vera samstundis ella, at eitt átak kann gerast so stórt, at fleiri senda boð eftir somu tyrlu, skipi, manning o.s.fr. Tí er neyðugt, at t.d. MRCC Tórshavn</p>
-<p>30 metir um, hvar tørvurin er størstur, og nær tyrlan skal fara hvar. Eisini kann hugsast, at tyrlan fer avstað av sínum eintingu</p>
-<p><em type="bold"> Førleikamenning og útbúgving </em></p>
-<p>Fakligir  førleikar  eru  altavgerandi,  tá  ið  átøk  verða  skipað  og  leidd.  Krøv  eru  í  dag  til útbúgving  av  sløkkiliðsfólki,  sambært  kunngerð.  nr.  150  frá  17.  desember  2001  um útbúgving  av  sløkkiliðsfólki,  og  eisini  er  ein  reglugerð  fyri  brunaumsjónarmenn  við heimild  í  §  6,  stk.  4  í  brunalógini,  har  ásetingar  eru  um  krøv  til  at  førleikamenna brunaumsjónarmenn,  og  ásetingar  um,  hvørjum  parti  teir  taka  sær  av  í  sambandi  við ymiskar tilburðir. Enn eru eingi krøv sett til at útbúgva tilbúgvingarleiðarar, sum hava eitt týðandi starv í einihvørji tilbúgving.</p>
-<p>Tilbúgvingarstovnur  Føroya,  sum  hann  tá  kallaðist,  arbeiddi  við  eini  verkætlan  um  at skipa førleikamenningina sum eina grundútbúgving til tøkniliga eldsløkking og bjarging, sum so kann víðkast við at byggja modul omaná. Ætlanin við hesum var, at tað skal vera møguligt at byggja oman á verandi førleikar, soleiðis at ikki skal byrjast av nýggjum, um t.d. tørvur er á at menna eitt bjargingarlið til at handfara oljubasing ella bjarging. Eisini hevur verið arbeitt við at gera reglur og tilfar til tøkniliga skaðastaðsleiðslu, sambært § 20  í  lógini,  og  sum  skal  setast  í  verk  av  tilbúgvingarleiðara  og  átaksleiðara,  tá  fleiri tilbúgvingareindir  skulu  samstarva,  sambært  §  23.  Henda  verkætlanin  vantar  enn  at verða framd í verki, og er hetta átrokandi fyri at røkka endamálinum fyri eini samvirkandi tilbúgving.</p>
-<p><em type="bold"> Útreiðslur </em></p>
-<p>Bygnaðurin í skipanini tilskilar, at tað er økismyndugleikin, sum skal gjalda kostnaðin av átøkum. Tilbúgvingarlógin ásetur, at um kommuna fær hjálp frá grannakommunum, er tað móttakandi kommunan, sum skal rinda endurgjald fyri kostnaðin, um eingin avtala er gjørd  frammanundan.  Her  kann  talan  vera  um  grannahjálp,  ella  at  kommunan  eftir umbøn  fær hjálp frá aðrari kommunu. Krevur átakið, tí tað er so stórt, at kommunan fær hjálp frá landstilbúgvingini, er tað økisábyrgdin hjá landinum, og tí er tað landið, sum ber henda kostnaðin. Taka ósemjur seg upp, kann landsstýrismaðurin í tilbúgvingarmálum avgera trætuna. Av tí, at endurgjald ofta kann koma illa við, er skilagott, at kommunur gera samstarvsavtalur, so sleppast kann undan gjaldi fyri tænastur ella, at spurningar, sum kunnu elva til ósemjur, kunnu loysast í avtaluni.<em type="bold"> </em></p>
-<p>Sambært tilbúgvingarlógini, § 9, stk. 2.   Sambært tilbúgvingarlógini, § 10, sbr. § 2.</p>
-<p>Sambært tilbúgvingarlógini, § 9, stk. 3.  Sambært tilbúgvingarlógini, § 17.</p>
-<p>31 Endurgjald  verður  latið  fyri  skjalprógvaðar  útreiðslur  til  at  læna  útgerð,  sum átaksleiðarin  kann  áleggja.  Harumframt  kann  átaksleiðarin  áleggja  fólki  at  vera  við  í átakinum, og endurgjald verður goldið fyri tað.</p>
-<p>Tá  talan  er um  endurgjald,  skal  havast  í  huga,  at  talað  verður  um  rímiligar  útreiðslur. Hetta kann volda trupulleikar, t.d. um ein kommuna hevur goldið endurgjald sambært rokningum í sambandi við eina oljudálking, og kommunan skal senda rokningina víðari til tann, ið hevur dálkað, ella t.d. til landstilbúgvingina. Um t.d. tryggingin hjá tí, ið hevur dálkað,  ella  landstilbúgvingin  ikki  metir,  at  arbeiðið,  sum  gjaldast  skal  fyri,  stendur rímiliga í mát við tað, sum átakið kravdi, verður rokningin ikki góðtikin, ella goldið verður fyri eina minni upphædd.</p>
-<p><em type="bold"> Skylda at boða frá og hjálpa  </em></p>
-<p>Lógin  ásetur,  at  hvør  tann,  ið  verður  varugur  við  skaðatilburð  ella  vanlukku,  ella umstøður, ið vísa, at hóttandi vandi er fyri skaðatilburði ella vanlukku, alt fyri eitt skal siga  teimum  frá,  sum  eru  hótt  av  vanda,  senda  boð  eftir  hjálp  og  royna  at  byrgja  fyri vandanum.</p>
-<p>Tann,  ið  er  hjástaddur,  har  skaði  ella  vanlukka  er  hend,  skal,  tá  ið  átaksleiðarin  á skaðastaðnum krevur  tað,  vera  við  í  hjálpararbeiðinum.  Tann,  sum  hevur  verið  uppi  í hjálpararbeiðinum, hevur rætt til endurgjald fyri mista arbeiðsinntøku, sum prógv verður veitt fyri.</p>
-<p xml:lang="dan"><em type="bold"> Átaksstig </em></p>
-<p>Í  eini  tilbúgvingarstøðu  verður  skilt  millum  ymisk  stig,  alt  eftir  hvussu  álvarsligur tilburðurin er í mun til møguleikan hjá tí, sum hevur ábyrgdina av átakinum at  útinna uppgávuna.</p>
-<p><em type="bold">Stig  Hvør fremur átak Hvussu verður átakið framt og møguligt eftirlit </em></p>
-<p><em type="bold"> </em>Kommunuátak / </p>
-<p>økisábyrgd Kommunan fremur átak sambært egnari tilbúgvingarætlan.</p>
-<p><em type="bold"> </em>Grannahjálp/stuðul </p>
-<p>frá øðrum eindum Hevur  kommunala  tilbúgvingin  ikki  orku  til  at  megna uppgávuna  einsamøll,  kann  hon  biðja  um  hjálp  frá grannakommunum.</p>
-<p>Sí § 24, stk. 1-2 og § 30, stk. 1-2 í tilbúgvingarlógini.</p>
-<p>Sambært § 29 í tilbúgvingarlógini.  Sambært § 30 í tilbúgvingarlógini.</p>
-<p>32</p>
-<p><em type="bold"> </em>Landsátak / </p>
-<p>landstilbúgvingin Í sambandi við stórar vanlukkur, har tørvur er á serligari ella nógvari útgerð og manning, kunnu kommunur biðja um hjálp frá landstilbúgvingini.</p>
-<p><em type="bold"> </em>Altjóða hjálp Er  vanlukkan  so  stór,  at  útgerð  ella  manning  ikki  er  tøk  í </p>
-<p>Føroyum,  kann  verða  biðið  um  hjálp  úr  grannalondunum umvegis millumtjóða avtalur, sum Føroyar eru partur av.</p>
-<p><em type="bold"> Altjóða samstarv </em></p>
-<p><em type="bold">14.1 Keypmannahavnaravtalan</em><em type="bold"> </em></p>
-<p>Keypmannahavnaravtalan  snýr  seg um  samstarv  at  basa  dálking  á  sjónum.  Avtalan  er upprunaliga frá 1971, men er dagførd síðan. Avtalan merkir, at londini, eisini Føroyar, binda  seg  til  at  hava  hóskandi  útgerð,  at  londini  kunnu  læna  útgerð  og  manning  frá hvørjum øðrum, um stór dálking  skuldi komið fyri.</p>
-<p xml:lang="dan"><em type="bold">14.2 Nordisk redningsoverenskomst (NORDRED) </em></p>
-<p>Tann 9. august 1989  gjørdu Danmark, Finnland, Noreg og Svøríki avtalu um samstarv tvørtur um landamørk, fyri at fyribyrgja ella avmarka skaða á fólk, ognir ella umhvørvi, tá  ið  óhapp  henda.  Partarnir  bundu  seg  til  at  veita  hvør  øðrum  hjálp  eftir  førimuni. Avtalan er staðfest á Løgtingi tann 29. mars 1989. Økisábyrgdarhavin kann biðja um hjálp og stuðul hjá avvarðandi myndugleika í hinum samstarvslondunum. Myndugleikin, sum veitir hjálp, ger síðan av, hvussu henda hjálp skal veitast. Hjálpin virkar so sum ein stuðulseind undir leiðslu av økisábyrgdarhavanum. Hjálpitól og tilfar kunnu frítt verða flutt millum mørkini. Avtalan er meinlík Keypmannahavnaravtaluni. Tað er løgreglan í Føroyum, sum varðar av avtaluni.</p>
-<p><em type="bold">14.3 Samstarv um sjóbjarging </em></p>
-<p>Vanligt  er,  at  lond  gera  samstarvsavtalur  um  SAR,  tí  ofta  er  leitingin  tætt  at  øðrum sjóøkjum, har aðrir myndugleikar kunnu vera fyrr á staðnum.</p>
-<p>Í verandi støðu ber ikki til at útgreina á øllum økjum, hvussu landið kann veita kommunum</p>
-<p>hjálp. Tí verður mett skilagott, at størri dentur verður lagdur á at nýta Bjargingarfeløgini, og ætlanin er, at landið, í tann mun tað verður mett ráðiligt, skal nýta bjargingarfeløgini til ta tilbúgving, sum landið skal útinna. Tað verður tó upp til hvønn landsstýrismann, fyri sítt ábyrgdarøki, at gera av, í hvønn mun bjargingarfeløgini verða nýtt.</p>
-<p xml:lang="dan"> Formliga heitið er <em type="italic">“Nordisk aftale om samarbejde vedrørende bekæmpelse af forurening af havet med olie </em></p>
-<p xml:lang="dan"><em type="italic">og andre skadelige stoffer”. </em></p>
-<p xml:lang="dan">Løgtingsmál nr. 77/1988.</p>
-<p>Heimildin til tollfrían innflutning av vøru til brúk undir bjargingartiltaki í sambandi við stórvanlukku</p>
-<p>ella náttúruvanlukku við eftirfylgjandi eftirliti er at finna í tolllógini, § 8a.</p>
-<p>33 MRCC Tórshavn hevur millumlanda avtalur um leiting og bjarging á sjónum við Ísland og Skotland og eina samstarvsavtalu við Arktisk Kommando.</p>
-<p>Samstarvsavtalan  við  Arktisk  Kommando.  Avtalan  ásetir  í  høvuðsheitum,  at  MRCC Tórshavn, sum meginregla, skal geva Arktisk Kommando boð, um støðin vil nýta donsku eindirnar  í  donsku  tilbúgvingini  í  Føroyum,  tað  veri  seg,  skip,  tyrlu,  flogfør,  manning, o.s.fr. í einum átaki.</p>
-<p><em type="bold"> Bjargingarfeløgini                                    </em></p>
-<p>Í  samsvari  við  økisábyrgdarregluna  er  tað  hvør  landsstýrismaður  sær,  sum  fyri  sítt ábyrgdarøki skal gera av, hvønn part bjargingarfeløgini ella onnur sjálvboðin kunnu hava í tilbúgvingini.</p>
-<p>Tí skal hvørt ábyrgdarøki meta um, um bjargingarfeløg og onnur sjálvboðin kunnu lyfta uppgávur í tilbúgvingini.</p>
-<p>Landsstýrismaðurin í tilbúgvingarmálum samskipar samstarvið millum tey sjálvbodnu og  ábyrgdarpartarnar  í  landstilbúgvingini.  Um  kommunurnar  vilja  nýta bjargingarfeløgini, sum stuðul í sínari tilbúgving, verða tær at skipa henda partin sjálvar.</p>
-<p>Samskipandi myndugleikin skal hava innlit í, hvussu tey sjálvbodnu eru skipað, førleikar og útgerð hjá sjálvbodnum o.a., og kann geva myndugleikum ráð um, hvørjar uppgávur tey sjálvbodnu kunnu røkja.</p>
-<p>Samskipandi  myndugleikin  skal  eisini  ráðgeva  og  gera  ætlanir um,  hvussu  landið  skal veita stuðul til tey sjálvbodnu, harímillum veita útbúgvingartilboð, útvega útgerð o.a.</p>
-<p>Persónligur førleiki, útbúnaður, útgerð og venjingar eru fortreytir fyri, at tey sjálvbodnu á tryggan hátt kunnu loysa tilbúgvingaruppgávur saman við almennu myndugleikunum. Ein partur av økisábyrgdini er at tryggja viðkomandi útgerð og uppvenjing.</p>
-<p><em type="bold"> Venjingar </em></p>
-<p>Venjingar  eru  sera  avgerandi  fyri  at  tryggja,  at  tilbúgvingarætlanir  kunnu  virka  sum ætlað. Venjingar eiga tí at verða gjørdar í kommunalu tilbúgvingini, í landstilbúgvingini og í virksemistilbúgvingini so ofta, at eindirnar kenna tær føstu mannagongdirnar, tá ið átøk eru. Eisini er týdningarmikið, at tær kommunalu, lands- og privatu eindirnar hava venjingar  saman,  um  teimum  tørvar  samstarv.  Reglur  eru  um  kravdar  venjingar  á</p>
-<p>Avtalan er formliga gjørd sum ein “Letter of Agreement“ millum MRCC Tórshavn og JRCC Iceland.</p>
+<p>Nakrar tilbúgvingareindir hava stovnsett ein mannaðan vaktsentral fyri betur at kunna loysa tær operativu uppgávurnar. Í løtuni finst ein vaktsentralur hjá løgregluni í Tórshavn, ið samskipar alt virksemi hjá løgregluni í Føroyum, ein mannaður vaktsentralur hjá Tórshavnar Sløkkiliði, ið samskipar kommunalu tilbúgvingina í Tórshavnar kommunu og ein mannaður vaktsentralur er á Landssjúkrahúsinum, ið samskipar allar sjúkrabilarnar í Føroyum, umframt at loysa innanhýsis uppgávur á Landssjúkrahúsinum.</p>
+<p><em type="bold">Dømi: </em>Skal ein átaksleiðari í sambandi við eitt átak á landi senda boð eftir tyrlu, verður tað gjørt ígjøgnum løgregluna, sum gevur boðini til MRCC Tórshavn, sum samskiftir við tyrluna, og ikki við at ringja beinleiðis á flogvøllin. Tað kemur fyri, at henda mannagongd ikki verður fylgd, og tí hevur tað stóran týdning, at t.d. tyrlan, burtursæð frá heilt serligum førum, bert tekur við boðum frá MRCC Tórshavn og ikki t.d. frá einum bjargingarliði. </p>
+<p>At neyðugt er at samskifta eftir hesum leisti kann vera torført at skilja, men havast skal í huga, at fleiri átøk kunnu vera samstundis ella, at eitt átak kann gerast so stórt, at fleiri senda boð eftir somu tyrlu, skipi, manning o.s.fr. Tí er neyðugt, at t.d. MRCC Tórshavn 31 metir um, hvar tørvurin er størstur, og nær tyrlan skal fara hvar. Eisini kann hugsast, at tyrlan fer avstað av sínum eintingum, hóast tað ikki er neyðugt, og at tyrlan ikki hevur brennievni, tá ið tørvur veruliga er á henni. <em type="bold">10 Førleikamenning og útbúgving </em></p>
+<p>Fakligir førleikar eru altavgerandi, tá ið átøk verða skipað og leidd. Krøv eru í dag til útbúgving av sløkkiliðsfólki, sambært kunngerð. nr. 150 frá 17. desember 2001 um útbúgving av sløkkiliðsfólki, og eisini er ein reglugerð fyri brunaumsjónarmenn við heimild í § 6, stk. 4 í brunalógini, har ásetingar eru um krøv til at førleikamenna brunaumsjónarmenn, og ásetingar um, hvørjum parti teir taka sær av í sambandi við ymiskar tilburðir. Enn eru eingi krøv sett til at útbúgva tilbúgvingarleiðarar, sum hava eitt týðandi starv í einihvørji tilbúgving.</p>
+<p>Tilbúgvingarstovnur Føroya, sum hann tá kallaðist, arbeiddi við eini verkætlan um at skipa førleikamenningina sum eina grundútbúgving til tøkniliga eldsløkking og bjarging, sum so kann víðkast við at byggja modul omaná. Ætlanin við hesum var, at tað skal vera møguligt at byggja oman á verandi førleikar, soleiðis at ikki skal byrjast av nýggjum, um t.d. tørvur er á at menna eitt bjargingarlið til at handfara oljubasing ella bjarging. Eisini hevur verið arbeitt við at gera reglur og tilfar til tøkniliga skaðastaðsleiðslu, sambært § 20 í lógini, og sum skal setast í verk av tilbúgvingarleiðara og átaksleiðara, tá fleiri tilbúgvingareindir skulu samstarva, sambært § 23. Henda verkætlanin vantar enn at verða framd í verki, og er hetta átrokandi fyri at røkka endamálinum fyri eini samvirkandi tilbúgving. <em type="bold">11 Útreiðslur </em></p>
+<p>Bygnaðurin í skipanini tilskilar, at tað er økismyndugleikin, sum skal gjalda kostnaðin av átøkum. Tilbúgvingarlógin ásetur43, at um kommuna fær hjálp frá grannakommunum, er tað móttakandi kommunan, sum skal rinda endurgjald fyri kostnaðin, um eingin avtala er gjørd frammanundan. Her kann talan vera um grannahjálp, ella at kommunan eftir umbøn fær hjálp frá aðrari kommunu. Krevur átakið, tí tað er so stórt, at kommunan fær hjálp frá landstilbúgvingini, er tað økisábyrgdin hjá landinum, og tí er tað landið, sum ber henda kostnaðin44. Taka ósemjur seg upp, kann landsstýrismaðurin í tilbúgvingarmálum avgera trætuna45. Av tí, at endurgjald ofta kann koma illa við, er skilagott, at kommunur gera samstarvsavtalur46, so sleppast kann undan gjaldi fyri tænastur ella, at spurningar, sum kunnu elva til ósemjur, kunnu loysast í avtaluni. <em type="bold"></em>43 </p>
+<p>Sambært tilbúgvingarlógini, § 9, stk. 2. 44</p>
+<p>Sambært tilbúgvingarlógini, § 10, sbr. § 2. 45</p>
+<p>Sambært tilbúgvingarlógini, § 9, stk. 3. 46</p>
+<p>Sambært tilbúgvingarlógini, § 17. 32</p>
+<p>Endurgjald verður latið fyri skjalprógvaðar útreiðslur til at læna útgerð, sum átaksleiðarin kann áleggja. Harumframt kann átaksleiðarin áleggja fólki at vera við í átakinum, og endurgjald verður goldið fyri tað47.</p>
+<p>Tá talan er um endurgjald, skal havast í huga, at talað verður um rímiligar útreiðslur. Hetta kann volda trupulleikar, t.d. um ein kommuna hevur goldið endurgjald sambært rokningum í sambandi við eina oljudálking, og kommunan skal senda rokningina víðari til tann, ið hevur dálkað, ella t.d. til landstilbúgvingina. Um t.d. tryggingin hjá tí, ið hevur dálkað, ella landstilbúgvingin ikki metir, at arbeiðið, sum gjaldast skal fyri, stendur rímiliga í mát við tað, sum átakið kravdi, verður rokningin ikki góðtikin, ella goldið verður fyri eina minni upphædd. <em type="bold">12 Skylda at boða frá og hjálpa </em></p>
+<p>Lógin ásetur, at hvør tann, ið verður varugur við skaðatilburð ella vanlukku, ella umstøður, ið vísa, at hóttandi vandi er fyri skaðatilburði ella vanlukku, alt fyri eitt skal siga teimum frá, sum eru hótt av vanda, senda boð eftir hjálp og royna at byrgja fyri vandanum48.</p>
+<p>Tann, ið er hjástaddur, har skaði ella vanlukka er hend, skal, tá ið átaksleiðarin á skaðastaðnum krevur tað, vera við í hjálpararbeiðinum. Tann, sum hevur verið uppi í hjálpararbeiðinum, hevur rætt til endurgjald fyri mista arbeiðsinntøku, sum prógv verður veitt fyri49. <em type="bold">13 Átaksstig </em></p>
+<p>Í eini tilbúgvingarstøðu verður skilt millum ymisk stig, alt eftir hvussu álvarsligur tilburðurin er í mun til møguleikan hjá tí, sum hevur ábyrgdina av átakinum at útinna uppgávuna.</p>
+<p><em type="bold">Stig Hvør fremur átak </em></p>
+<p><em type="bold">Hvussu verður átakið framt og møguligt eftirlit </em><em type="bold">1 </em></p>
+<p>Kommunuátak / økisábyrgd</p>
+<p>Kommunan fremur átak sambært egnari tilbúgvingarætlan. <em type="bold">2 </em></p>
+<p>Grannahjálp/stuðul frá øðrum eindum</p>
+<p>Hevur kommunala tilbúgvingin ikki orku til at megna uppgávuna einsamøll, kann hon biðja um hjálp frá grannakommunum. 47</p>
+<p>Sí § 24, stk. 1-2 og § 30, stk. 1-2 í tilbúgvingarlógini. 48</p>
+<p>Sambært § 29 í tilbúgvingarlógini. 49</p>
+<p>Sambært § 30 í tilbúgvingarlógini. 33 <em type="bold">3 </em></p>
+<p>Landsátak / landstilbúgvingin</p>
+<p>Í sambandi við stórar vanlukkur, har tørvur er á serligari ella nógvari útgerð og manning, kunnu kommunur biðja um hjálp frá landstilbúgvingini.50 <em type="bold">4 </em></p>
+<p>Altjóða hjálp</p>
+<p>Er vanlukkan so stór, at útgerð ella manning ikki er tøk í Føroyum, kann verða biðið um hjálp úr grannalondunum umvegis millumtjóða avtalur, sum Føroyar eru partur av. <em type="bold">14 Altjóða samstarv </em><em type="bold">14.1 Keypmannahavnaravtalan </em>51 <em type="bold"></em></p>
+<p>Keypmannahavnaravtalan snýr seg um samstarv at basa dálking á sjónum. Avtalan er upprunaliga frá 1971, men er dagførd síðan. Avtalan merkir, at londini, eisini Føroyar, binda seg til at hava hóskandi útgerð, at londini kunnu læna útgerð og manning frá hvørjum øðrum, um stór dálking skuldi komið fyri. <em type="bold">14.2 Nordisk redningsoverenskomst (NORDRED) </em></p>
+<p>Tann 9. august 1989 gjørdu Danmark, Finnland, Noreg og Svøríki avtalu um samstarv tvørtur um landamørk, fyri at fyribyrgja ella avmarka skaða á fólk, ognir ella umhvørvi, tá ið óhapp henda. Partarnir bundu seg til at veita hvør øðrum hjálp eftir førimuni. Avtalan er staðfest á Løgtingi tann 29. mars 198952. Økisábyrgdarhavin kann biðja um hjálp og stuðul hjá avvarðandi myndugleika í hinum samstarvslondunum. Myndugleikin, sum veitir hjálp, ger síðan av, hvussu henda hjálp skal veitast. Hjálpin virkar so sum ein stuðulseind undir leiðslu av økisábyrgdarhavanum. Hjálpitól og tilfar kunnu frítt verða flutt millum mørkini53. Avtalan er meinlík Keypmannahavnaravtaluni. Tað er løgreglan í Føroyum, sum varðar av avtaluni. <em type="bold">14.3 Samstarv um sjóbjarging </em></p>
+<p>Vanligt er, at lond gera samstarvsavtalur um SAR, tí ofta er leitingin tætt at øðrum sjóøkjum, har aðrir myndugleikar kunnu vera fyrr á staðnum. 50</p>
+<p>Í verandi støðu ber ikki til at útgreina á øllum økjum, hvussu landið kann veita kommunum hjálp. Tí verður mett skilagott, at størri dentur verður lagdur á at nýta Bjargingarfeløgini, og ætlanin er, at landið, í tann mun tað verður mett ráðiligt, skal nýta bjargingarfeløgini til ta tilbúgving, sum landið skal útinna. Tað verður tó upp til hvønn landsstýrismann, fyri sítt ábyrgdarøki, at gera av, í hvønn mun bjargingarfeløgini verða nýtt. 51</p>
+<p xml:lang="dan">Formliga heitið er <em type="italic">“Nordisk aftale om samarbejde vedrørende bekæmpelse af forurening af havet med olie </em><em type="italic">og andre skadelige stoffer”. </em>52 </p>
+<p xml:lang="dan">Løgtingsmál nr. 77/1988. 53</p>
+<p>Heimildin til tollfrían innflutning av vøru til brúk undir bjargingartiltaki í sambandi við stórvanlukku ella náttúruvanlukku við eftirfylgjandi eftirliti er at finna í tolllógini, § 8a. 34</p>
+<p>MRCC Tórshavn hevur millumlanda avtalur um leiting og bjarging á sjónum við Ísland54 og Skotland55 og eina samstarvsavtalu við Arktisk Kommando.</p>
+<p>Samstarvsavtalan56 við Arktisk Kommando. Avtalan ásetir í høvuðsheitum, at MRCC Tórshavn, sum meginregla, skal geva Arktisk Kommando boð, um støðin vil nýta donsku eindirnar í donsku tilbúgvingini í Føroyum, tað veri seg, skip, tyrlu, flogfør, manning, o.s.fr. í einum átaki. <em type="bold">15 Bjargingarfeløgini </em></p>
+<p>Í samsvari við økisábyrgdarregluna er tað hvør landsstýrismaður sær, sum fyri sítt ábyrgdarøki skal gera av, hvønn part bjargingarfeløgini ella onnur sjálvboðin kunnu hava í tilbúgvingini57. Tí skal hvørt ábyrgdarøki meta um, um bjargingarfeløg og onnur sjálvboðin kunnu lyfta uppgávur í tilbúgvingini. Landsstýrismaðurin í tilbúgvingarmálum samskipar samstarvið millum tey sjálvbodnu og ábyrgdarpartarnar í landstilbúgvingini. Um kommunurnar vilja nýta bjargingarfeløgini, sum stuðul í sínari tilbúgving, verða tær at skipa henda partin sjálvar. Samskipandi myndugleikin skal hava innlit í, hvussu tey sjálvbodnu eru skipað, førleikar og útgerð hjá sjálvbodnum o.a., og kann geva myndugleikum ráð um, hvørjar uppgávur tey sjálvbodnu kunnu røkja.</p>
+<p>Samskipandi myndugleikin skal eisini ráðgeva og gera ætlanir um, hvussu landið skal veita stuðul til tey sjálvbodnu, harímillum veita útbúgvingartilboð, útvega útgerð o.a.</p>
+<p>Persónligur førleiki, útbúnaður, útgerð og venjingar eru fortreytir fyri, at tey sjálvbodnu á tryggan hátt kunnu loysa tilbúgvingaruppgávur saman við almennu myndugleikunum. Ein partur av økisábyrgdini er at tryggja viðkomandi útgerð og uppvenjing. <em type="bold">16 Venjingar </em></p>
+<p>Venjingar eru sera avgerandi fyri at tryggja, at tilbúgvingarætlanir kunnu virka sum ætlað. Venjingar eiga tí at verða gjørdar í kommunalu tilbúgvingini, í landstilbúgvingini og í virksemistilbúgvingini so ofta, at eindirnar kenna tær føstu mannagongdirnar, tá ið átøk eru. Eisini er týdningarmikið, at tær kommunalu, lands- og privatu eindirnar hava venjingar saman, um teimum tørvar samstarv. Reglur eru um kravdar venjingar á 54</p>
+<p>Avtalan er formliga gjørd sum ein “Letter of Agreement“ millum MRCC Tórshavn og JRCC Iceland. 55</p>
 <p>Avtalan er formliga gjørd við Her Majesty’s Coastguard um samstarv millum MRCC Tórshavn og MRCC</p>
-<p xml:lang="dan">Aberdeen.</p>
-<p>Forbindelseselement Færøerne er deildin hjá Arktisk Kommando í Føroyum. Deildin varðar av verju-</p>
-<p>og bjargingarskipunum hjá donsku sjóverjuni eins og tyrlum og flogførum hjá donsku verjuni.</p>
-<p>Sambært § 5 í tilbúgvingarlógini.</p>
-<p>34 nógvum  økjum.  Nevnast  kann,  at  regluligar  venjingar  skulu  vera  á  skipum,  og  at kommunala  tilbúgvingin,  løgregla  og  flogvøllir  hava  regluligar  venjingar.  Eisini  gera MRCC  Tórshavn  og  hernaðartænastan  regluligar  venjingar  saman  við  fleiri  øðrum eindum.</p>
-<p><em type="bold"> Tilbúgvingarboð </em></p>
-<p>Í  sambandi  við  átrokandi  boð,  sum  snúgva  seg  um  tilbúgving,  er  avtala  gjørd  millum Kringvarp  Føroya,  Føroya  landfúta  og  Tilbúgvingarstovn  Føroya.  Avtalan  gevur almennum  og  kommunalum  myndugleikum  møguleika  ígjøgnum  alarmsentralin  hjá løgregluni at senda átrokandi boð út gjøgnum Kringvarpið. Talan kann til dømis vera um hóttan,  ið  stendst  av  kemiskum  óhappi,  ógvusligum  eldsbruna  ella  geisling,  ið  ger  tað neyðugt at ávara almenningin við boðum um at halda seg innandura.</p>
-<p>Alarmsentralurin hjá løgregluni gevur Kringvarpinum boðini, sum verða send gjøgnum útvarpið, á heimasíðu Kringvarpsins ella í sjónvarpinum.</p>
-<p>Avtalan er gjørd 16. august 2011.</p>
-<p>35</p>
+<p xml:lang="dan">Aberdeen. 56</p>
+<p>Forbindelseselement Færøerne er deildin hjá Arktisk Kommando í Føroyum. Deildin varðar av verju- og bjargingarskipunum hjá donsku sjóverjuni eins og tyrlum og flogførum hjá donsku verjuni. 57</p>
+<p>Sambært § 5 í tilbúgvingarlógini. 35 nógvum økjum. Nevnast kann, at regluligar venjingar skulu vera á skipum, og at kommunala tilbúgvingin, løgregla og flogvøllir hava regluligar venjingar. Eisini gera MRCC Tórshavn og hernaðartænastan regluligar venjingar saman við fleiri øðrum eindum. <em type="bold">17 Tilbúgvingarboð </em></p>
+<p>Í sambandi við átrokandi boð, sum snúgva seg um tilbúgving, er avtala gjørd millum Kringvarp Føroya, Føroya landfúta og Tilbúgvingarstovn Føroya58. Avtalan gevur almennum og kommunalum myndugleikum møguleika ígjøgnum alarmsentralin hjá løgregluni at senda átrokandi boð út gjøgnum Kringvarpið. Talan kann til dømis vera um hóttan, ið stendst av kemiskum óhappi, ógvusligum eldsbruna ella geisling, ið ger tað neyðugt at ávara almenningin við boðum um at halda seg innandura.</p>
+<p>Alarmsentralurin hjá løgregluni gevur Kringvarpinum boðini, sum verða send gjøgnum útvarpið, á heimasíðu Kringvarpsins ella í sjónvarpinum. 58</p>
+<p>Avtalan er gjørd 16. august 2011. 36</p>
 <p><em type="bold">Orðalisti </em></p>
-<p>AA Atlantic Airways</p>
-<p xml:lang="dan">ADR European Agreement concerning the International Carriage of Dangerous Goods by Roads</p>
-<p>AFIS A Flight Information Service (t.d. tornið á flogvøllinum)</p>
-<p xml:lang="dan">AKF Arktisk Kommando Færøerne</p>
-<p>ATS Air Traffic Service</p>
-<p xml:lang="dan">DCI Decompression Illness</p>
-<p xml:lang="dan">DNV Det Norske Veritas</p>
-<p xml:lang="dan">DSC Digital Selective Calling</p>
-<p xml:lang="dan">EDV Elektronisk Dátu Viðgerð</p>
-<p>EPIRB Emergency Positioning Indicating Radio Beacon</p>
-<p xml:lang="dan">ES EEC European Economic Community</p>
-<p xml:lang="dan">EURDEP  European Radiological Data Exchange Platform</p>
-<p xml:lang="dan">FEF Forbindelseselement Færøerne</p>
-<p>FMA Faroese Maritime Authority (Sjóvinnustýrið)</p>
-<p>FRK Færøernes Kommando – nú Arktisk Kommando</p>
-<p>FT Føroya Tele</p>
-<p>FVE Fiskiveiðieftirlitið</p>
-<p xml:lang="dan">GMDSS Global Maritime Distress Safety System</p>
-<p xml:lang="dan">GSM Global System for Mobile Communications</p>
-<p xml:lang="dan">ICAO International Civil Aviation Organization</p>
-<p xml:lang="dan">IMO International Maritime Organisation</p>
-<p xml:lang="dan">ISAVIA Manages air traffic in the Icelandic control area</p>
-<p xml:lang="dan">ISM International Safety Management</p>
-<p xml:lang="dan">ISO International Standard Organization</p>
-<p xml:lang="dan">ISPS International Ship and Port Facility Security Code</p>
-<p xml:lang="dan">JRCC Joint Rescue Coordination Centre</p>
-<p xml:lang="dan">KOOL Koordinerende læge</p>
-<p xml:lang="dan">KSN Kommandocentral</p>
-<p>KST Kommandostade (skaðastaðsleiðsla)</p>
-<p>MAS Maritime Assistance Service</p>
-<p>36</p>
-<p xml:lang="dan">MRCC Maritime Rescue Coordination Centre</p>
-<p xml:lang="dan">NCR Non Conformity Report (Frávik)</p>
-<p>NM Near Miss (Um reppi hending)</p>
-<p>NORDRED  Avtala um bjargingarsamarbeiði millum Svøríki, Finnland, Danmark, Ísland og Noreg</p>
-<p>LS Landssjúkrahúsið</p>
-<p xml:lang="dan">LV Landsverk</p>
-<p xml:lang="dan">OSC On Scene Coordinator</p>
-<p xml:lang="dan">SART Search And Rescue Transponder</p>
-<p xml:lang="dan">SLAR Side Looking Airborne Radar</p>
-<p xml:lang="dan">SMC Search And Rescue Mission Coordinator</p>
-<p xml:lang="dan">SMM Safety Management Manual</p>
-<p>SMS Safety Management System</p>
-<p xml:lang="dan">SOPEP Shipboard Oil Pollution Emergency Plan</p>
-<p>SSL Strandfaraskip landsins</p>
-<p>TF Tilbúgving Føroya</p>
-<p xml:lang="dan">US Umhvørvisstovan – Landsfólkayvirlit – Tinglýsing - Skógrøkt</p>
-<p>VØRN Stovnur sum fevnir um: MRCC Tórshavn/Tórshavn Radio, Fiskiveiðieftirlitið og Veðurstøðina</p>
-<p xml:lang="dan">WHO World Health Organization</p>
-<p xml:lang="dan">WP Way Point</p>
-<p>37</p>
+<p>AA</p>
+<p>Atlantic Airways</p>
+<p xml:lang="dan">ADR</p>
+<p xml:lang="dan">European Agreement concerning the International Carriage of Dangerous Goods by Roads</p>
+<p>AFIS</p>
+<p>A Flight Information Service (t.d. tornið á flogvøllinum)</p>
+<p>AKF</p>
+<p xml:lang="dan">Arktisk Kommando Færøerne</p>
+<p xml:lang="dan">ATS</p>
+<p>Air Traffic Service</p>
+<p xml:lang="dan">DCI</p>
+<p xml:lang="dan">Decompression Illness</p>
+<p xml:lang="dan">DNV</p>
+<p xml:lang="dan">Det Norske Veritas</p>
+<p xml:lang="dan">DSC</p>
+<p xml:lang="dan">Digital Selective Calling</p>
+<p xml:lang="dan">EDV</p>
+<p xml:lang="dan">Elektronisk Dátu Viðgerð</p>
+<p xml:lang="dan">EPIRB</p>
+<p>Emergency Positioning Indicating Radio Beacon</p>
+<p>ES</p>
+<p xml:lang="dan">EEC European Economic Community</p>
+<p xml:lang="dan">EURDEP European Radiological Data Exchange Platform</p>
+<p>FEF</p>
+<p xml:lang="dan">Forbindelseselement Færøerne</p>
+<p>FMA</p>
+<p>Faroese Maritime Authority (Sjóvinnustýrið)</p>
+<p>FRK</p>
+<p>Færøernes Kommando – nú Arktisk Kommando</p>
+<p>FT</p>
+<p>Føroya Tele</p>
+<p>FVE</p>
+<p>Fiskiveiðieftirlitið</p>
+<p>GMDSS</p>
+<p xml:lang="dan">Global Maritime Distress Safety System</p>
+<p>GSM</p>
+<p xml:lang="dan">Global System for Mobile Communications</p>
+<p xml:lang="dan">ICAO</p>
+<p xml:lang="dan">International Civil Aviation Organization</p>
+<p xml:lang="dan">IMO</p>
+<p xml:lang="dan">International Maritime Organisation</p>
+<p>ISAVIA</p>
+<p xml:lang="dan">Manages air traffic in the Icelandic control area</p>
+<p>ISM</p>
+<p xml:lang="dan">International Safety Management</p>
+<p xml:lang="dan">ISO</p>
+<p xml:lang="dan">International Standard Organization</p>
+<p>ISPS</p>
+<p xml:lang="dan">International Ship and Port Facility Security Code</p>
+<p>JRCC</p>
+<p xml:lang="dan">Joint Rescue Coordination Centre</p>
+<p>KOOL</p>
+<p xml:lang="dan">Koordinerende læge</p>
+<p>KSN</p>
+<p xml:lang="dan">Kommandocentral</p>
+<p>KST</p>
+<p>Kommandostade (skaðastaðsleiðsla)</p>
+<p>MAS</p>
+<p>Maritime Assistance Service 37</p>
+<p>MRCC</p>
+<p xml:lang="dan">Maritime Rescue Coordination Centre</p>
+<p>NCR</p>
+<p xml:lang="dan">Non Conformity Report (Frávik)</p>
+<p>NM</p>
+<p>Near Miss (Um reppi hending)</p>
+<p>NORDRED Avtala um bjargingarsamarbeiði millum Svøríki, Finnland, Danmark, Ísland og Noreg</p>
+<p>LS</p>
+<p>Landssjúkrahúsið</p>
+<p xml:lang="dan">LV</p>
+<p xml:lang="dan">Landsverk</p>
+<p>OSC</p>
+<p xml:lang="dan">On Scene Coordinator</p>
+<p>SART</p>
+<p xml:lang="dan">Search And Rescue Transponder</p>
+<p>SLAR</p>
+<p xml:lang="dan">Side Looking Airborne Radar</p>
+<p>SMC</p>
+<p xml:lang="dan">Search And Rescue Mission Coordinator</p>
+<p>SMM</p>
+<p xml:lang="dan">Safety Management Manual</p>
+<p>SMS</p>
+<p xml:lang="dan">Safety Management System</p>
+<p>SOPEP</p>
+<p xml:lang="dan">Shipboard Oil Pollution Emergency Plan</p>
+<p>SSL</p>
+<p>Strandfaraskip landsins</p>
+<p>TF</p>
+<p>Tilbúgving Føroya</p>
+<p xml:lang="dan">US</p>
+<p>Umhvørvisstovan – Landsfólkayvirlit – Tinglýsing - Skógrøkt</p>
+<p>VØRN</p>
+<p>Stovnur sum fevnir um: MRCC Tórshavn/Tórshavn Radio, Fiskiveiðieftirlitið og Veðurstøðina</p>
+<p xml:lang="dan">WHO</p>
+<p>World Health Organization</p>
+<p>WP</p>
+<p xml:lang="dan">Way Point</p>
 </body></document>

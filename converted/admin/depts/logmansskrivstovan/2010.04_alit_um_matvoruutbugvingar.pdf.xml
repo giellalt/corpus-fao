@@ -1,121 +1,85 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2723</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2010.04 Álit um matvøruútbúgvingar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Álit </em></p>
-<p><em type="bold">um </em></p>
-<p><em type="bold">matvøruútbúgvingar </em></p>
-<p><em type="bold">Álit </em></p>
-<p><em type="bold">um </em></p>
-<p><em type="bold">matvøruútbúgvingar </em></p>
-<p>Í februar 2010 tók<em type="bold"> </em>Helena Dam á Neystabø, landsstýriskvinna við mentamálum avgerð um at seta arbeiðsbólk at kanna møguleikarnar fyri stovnsetan av útbúgvingum innan matvøruøkið. </p>
-<p>Arbeiðssetningurin var hesin:</p>
-<p>1) Arbeiðsbólkurin skal kanna, hvørjir møguleikar og hvørjar fortreytir eru fyri at seta á stovn førleikagevandi útbúgvingar innan matvøru- og tilhoyrandi tænastuútbúgvingar  í Føroyum við atliti at:</p>
-<p type="listitem">• tørvinum á útbúgvingum hjá vinnu og almennum stovnum</p>
-<p type="listitem">• talinum á lærlingasáttmálum í matvøru- og tænastuvinnuni</p>
-<p type="listitem">• førleikakrøvunum til lærarar, sum skulu undirvísa í matvøru- og</p>
-<p>tænastuútbúgvingum</p>
-<p type="listitem">• verkligari upplæring innan og uttan fyri skúlagátt - starvsvenjing/lærupláss</p>
-<p>2) Arbeiðsbólkurin  skal  lýsa,  hvussu  eitt  støðisár  innan  matvøruyrkið  kann  skipast,  so avriksflutningur  kann  gevast  til  yrkisútbúgvingar  innan  matvøruøkið,  og  hvussu verandi</p>
-<p>kokkaútbúgving kann gerast ein førleikagevandi yrkisútbúgving við atliti at:</p>
-<p type="listitem">• <em type="italic">útbúgvingarbygnaði</em>  –  yrkisnevnd,  innihald,  námsætlanir  og  møguleikar  fyri </p>
-<p>framhaldandi útbúgving</p>
-<p type="listitem">• <em type="italic">lógar- og regluverki</em> – heimildir og tørvur á nýggjum reglum </p>
-<p type="listitem">• <em type="italic">góðkenning</em> – fyritreytir fyri góðkenning av útbúgvingum í Føroyum og Danmark </p>
-<p type="listitem">• <em type="italic">stovnsbygnaði</em> – hvussu útbúgvingarnar skulu skipast </p>
-<p type="listitem">• <em type="italic">ítøkiligum kørmum</em> – hølir og útgerð  </p>
-<p type="listitem">• <em type="italic">lærarum</em> – tilfeingi og førleikar </p>
-<p type="listitem">• <em type="italic">tíðar- og arbeiðsætlan í sambandi við verksetanina</em> </p>
-<p type="listitem">• <em type="italic">kostnaðarmeting</em>  </p>
-<p type="listitem">• <em type="italic">upptøku og tíðarfreistum.</em> </p>
-<p>3) Arbeiðsbólkurin skal lýsa møguleikarnar fyri, at  støðisár innan matvøruútbúgvingar verður skipað undir Tekniska Skúla í Klaksvík.</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2690</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2010.04 Álit um matvøruútbúgvingar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Álit </em><em type="bold">um </em><em type="bold">matvøruútbúgvingar </em></p>
+<p><em type="bold">Álit </em><em type="bold">um </em><em type="bold">matvøruútbúgvingar </em></p>
+<p type="listitem">Í februar 2010 tókHelena Dam á Neystabø, landsstýriskvinna við mentamálum avgerð um at seta  arbeiðsbólk at kanna møguleikarnar fyri stovnsetan av útbúgvingum innan matvøruøkið.  Arbeiðssetningurin var hesin:   1)  Arbeiðsbólkurin skal kanna, hvørjir møguleikar og hvørjar fortreytir eru fyri at seta á stovn førleikagevandi útbúgvingar innan matvøru- og tilhoyrandi tænastuútbúgvingar  í Føroyum  við atliti at:</p>
+<p type="listitem">tørvinum á útbúgvingum hjá vinnu og almennum stovnum</p>
+<p type="listitem">talinum á lærlingasáttmálum í matvøru- og tænastuvinnuni</p>
+<p type="listitem">førleikakrøvunum til lærarar, sum skulu undirvísa í matvøru- og tænastuútbúgvingum</p>
+<p type="listitem">verkligari upplæring innan og uttan fyri skúlagátt - starvsvenjing/lærupláss 2)  Arbeiðsbólkurin  skal  lýsa,  hvussu  eitt  støðisár  innan  matvøruyrkið  kann  skipast,  so avriksflutningur  kann  gevast  til  yrkisútbúgvingar  innan  matvøruøkið,  og  hvussu  verandi  kokkaútbúgving kann gerast ein førleikagevandi yrkisútbúgving við atliti at:</p>
+<p type="listitem">útbúgvingarbygnaði  –  yrkisnevnd,  innihald,  námsætlanir  og  møguleikar  fyri framhaldandi útbúgving</p>
+<p type="listitem">lógar- og regluverki – heimildir og tørvur á nýggjum reglum</p>
+<p type="listitem">góðkenning – fyritreytir fyri góðkenning av útbúgvingum í Føroyum og Danmark</p>
+<p type="listitem">stovnsbygnaði – hvussu útbúgvingarnar skulu skipast</p>
+<p type="listitem">ítøkiligum kørmum – hølir og útgerð</p>
+<p type="listitem">lærarum – tilfeingi og førleikar</p>
+<p type="listitem">tíðar- og arbeiðsætlan í sambandi við verksetanina</p>
+<p type="listitem">kostnaðarmeting</p>
+<p type="listitem">upptøku og tíðarfreistum. 3)  Arbeiðsbólkurin skal lýsa møguleikarnar fyri, at støðisár innan matvøruútbúgvingar verður skipað undir Tekniska Skúla í Klaksvík.</p>
 <p>Landsstýriskvinnan hevur tilnevnt hesar limir í arbeiðsbólkin:</p>
-<p>Rúni Heinesen, skúlastjóri á Tekniska Skúla í Klaksvík (formaður) Niclas Hovgaard, fulltrúi í Mentamálaráðnum (skrivari)  Jóhanna á Tjaldrafløtti, leiðari fyri Føroya Húsarhaldsskúla Karin K. Petersen, lærari á Tekniska Skúla í Klaksvík   Eyðun Gaard, leiðari á Yrkisdeplinum</p>
-<p>Pole Mikkelsen, stjóri á Klaksvíkar Sjómansskúla</p>
-<p>Eyðvør Berg, frá yrkisútbúgvingarráðnum umboðandi arbeiðsgevarar Anna Johannesen, frá yrkisútbúgvingarráðnum umboðandi arbeiðstakarar.</p>
+<p>Rúni Heinesen, skúlastjóri á Tekniska Skúla í Klaksvík (formaður) Niclas Hovgaard, fulltrúi í Mentamálaráðnum (skrivari) Jóhanna á Tjaldrafløtti, leiðari fyri Føroya Húsarhaldsskúla Karin K. Petersen, lærari á Tekniska Skúla í Klaksvík Eyðun Gaard, leiðari á Yrkisdeplinum Pole Mikkelsen, stjóri á Klaksvíkar Sjómansskúla Eyðvør Berg, frá yrkisútbúgvingarráðnum umboðandi arbeiðsgevarar Anna Johannesen, frá yrkisútbúgvingarráðnum umboðandi arbeiðstakarar.</p>
 <p>Arbeiðið skuldi vera liðugt í seinasta lagi 15. apríl 2010.</p>
 <p><em type="bold">Møguleikar og fortreytir fyri førleikagevandi matvøru- og tænastuútbúgvingum </em></p>
 <p>Tørvurin á útbúnum fólki innan matvøruyrkið</p>
-<p>Arbeiðsbólkurin hevur kanna tørvin á útbúnum fólki, sum starvast innan matgerðar- og køksarbeiði</p>
-<p>á ymiskum stovnum runt um í landinum. Uppgerðin av kanningini vísir, at  nógv tann størsti parturin av starvsfólkunum eru ófaklærd.</p>
-<p>Uppgerð (fylgiskjal 1) er gjørd yvir teir stovnar, sum eru við í kanningini. Felags fyri hesar stovnar</p>
-<p>er at teir matgera og flýggja út mat til bústovnar og fólk.</p>
-<p>Uppgerðin vísir, at teir 11 stovnarnir, sum eru við í kanningini, matgera 1300 døgurðar og annan</p>
-<p>mat dagliga.</p>
-<p>Harafturat eru 20 dagstovnar í Tórshavn, sum matgera til 1368 børn. Talan um døgurðar í ávísum førum, men teir flestu stovnarnir gera bert  millummála. Samanlagda starvsfólkabýtið á hesum</p>
-<p>stovnum er  14 ófaklærd køksstarvsfólk  og  tvey, sum  hava ½ ára kokkaskúla.</p>
-<p>Samlaða býtið á starvsfólkum, sum eru við í kanningini  sær soleiðis út. 12 hava longri útbúgving -</p>
-<p>økonoma ella kokkur, 20 hava styttri útbúgving sum køksassistentar, 1 kondittari, 1 ernæringsass.,</p>
-<p><span type="quote">“1 smyrjubreyðsdama”</span> og 4 hava kokkaskeið. 71 starvsfólk  hava als onga matgerðarútbúgving .</p>
-<p>Fiskiskip (96), kantinur, sambýli, vistarheim, umlættingarheim, næmingabústaðir og matstovur</p>
-<p>annars hava sum skilst ikki nøktandi tal á fólki í starvi við útbúgving innan matgerð. Kravið átti at</p>
-<p>verið, at fólk, ið starvast við mati,  í minsta lagi hava lokið eina grundútbúgving innan matgerð,</p>
-<p>serliga tá hugsað verður um, at kosturin kann hava eina negativa ávirkan á heilsuna, um</p>
-<p>føðslusamansetingin ikki er røtt. Samstundis vísa kanningar,  at heilsugóður kostur kann verða við til at fyribyrgja eina røð av sjúkum, ið kunnu setast í samband við lívsstílin hjá fólki.</p>
-<p>MARK- kanningin, sum fólkaheilsuráðið læt gera 2008/2009, vísir, at vit liggja rættiliga langt frá tí,</p>
-<p>ið verður mælt til at eta av frukt og grønmeti um dagin. Somuleiðis vísir kanningin, at miðaltalið</p>
-<p>fyri BMI er ov høgt, serliga hjá monnum.</p>
-<p>Í samrøðu við leiðarar og fakfólk á stovnum, har matgerð fer fram, er eitt týðiligt ynski um, at ein útbúgving, sum nevndin mælir til, verður sett í verk. Eisini  Kost- og føðslufelag Føroya hevur sýnt</p>
-<p>útbúgvingini stóran áhuga.</p>
+<p>Arbeiðsbólkurin hevur kanna tørvin á útbúnum fólki, sum starvast innan matgerðar- og køksarbeiði á ymiskum stovnum runt um í landinum. Uppgerðin av kanningini vísir, at nógv tann størsti parturin av starvsfólkunum eru ófaklærd.</p>
+<p>Uppgerð (fylgiskjal 1) er gjørd yvir teir stovnar, sum eru við í kanningini. Felags fyri hesar stovnar er at teir matgera og flýggja út mat til bústovnar og fólk.</p>
+<p>Uppgerðin vísir, at teir 11 stovnarnir, sum eru við í kanningini, matgera 1300 døgurðar og annan mat dagliga.</p>
+<p>Harafturat eru 20 dagstovnar í Tórshavn, sum matgera til 1368 børn. Talan um døgurðar í ávísum førum, men teir flestu stovnarnir gera bert millummála. Samanlagda starvsfólkabýtið á hesum stovnum er 14 ófaklærd køksstarvsfólk og tvey, sum hava ½ ára kokkaskúla.</p>
+<p>Samlaða býtið á starvsfólkum, sum eru við í kanningini sær soleiðis út. 12 hava longri útbúgving - økonoma ella kokkur, 20 hava styttri útbúgving sum køksassistentar, 1 kondittari, 1 ernæringsass., <span type="quote">“1 smyrjubreyðsdama”</span> og 4 hava kokkaskeið. 71 starvsfólk hava als onga matgerðarútbúgving .</p>
+<p>Fiskiskip (96), kantinur, sambýli, vistarheim, umlættingarheim, næmingabústaðir og matstovur annars hava sum skilst ikki nøktandi tal á fólki í starvi við útbúgving innan matgerð. Kravið átti at verið, at fólk, ið starvast við mati, í minsta lagi hava lokið eina grundútbúgving innan matgerð, serliga tá hugsað verður um, at kosturin kann hava eina negativa ávirkan á heilsuna, um føðslusamansetingin ikki er røtt. Samstundis vísa kanningar, at heilsugóður kostur kann verða við til at fyribyrgja eina røð av sjúkum, ið kunnu setast í samband við lívsstílin hjá fólki.</p>
+<p>MARK- kanningin, sum fólkaheilsuráðið læt gera 2008/2009, vísir, at vit liggja rættiliga langt frá tí, ið verður mælt til at eta av frukt og grønmeti um dagin. Somuleiðis vísir kanningin, at miðaltalið fyri BMI er ov høgt, serliga hjá monnum.</p>
+<p>Í samrøðu við leiðarar og fakfólk á stovnum, har matgerð fer fram, er eitt týðiligt ynski um, at ein útbúgving, sum nevndin mælir til, verður sett í verk. Eisini Kost- og føðslufelag Føroya hevur sýnt útbúgvingini stóran áhuga.</p>
 <p>Talið á lærlingasáttmálum</p>
-<p>Tann 1. februar 2010 vóru 35 lærlingar í læru innan hesar bólkar:</p>
-<p type="listitem">• 11 kokkar</p>
-<p type="listitem">• 9 bakarar</p>
-<p type="listitem">• 5 tænarar</p>
-<p type="listitem">• 2 slaktarar</p>
-<p type="listitem">• 5 kondittarar</p>
-<p type="listitem" xml:lang="dan">• 2 køksatstøðingar (køkkenassistenter)</p>
-<p type="listitem" xml:lang="dan">• 1 reseptionistur.</p>
+<p type="listitem">Tann 1. februar 2010 vóru 35 lærlingar í læru innan hesar bólkar:</p>
+<p type="listitem">11 kokkar</p>
+<p type="listitem">9 bakarar</p>
+<p type="listitem">5 tænarar</p>
+<p type="listitem">2 slaktarar</p>
+<p type="listitem">5 kondittarar</p>
+<p type="listitem" xml:lang="dan">2 køksatstøðingar (køkkenassistenter)</p>
+<p type="listitem" xml:lang="dan">1 reseptionistur.</p>
 <p>Øll skúlagongdin í nevndu yrkisútbúgvingum fer í dag fram í donskum yrkisskúlum.</p>
-<p>Umframt  lærlingarnar taka umleið 25 prógv sum skipskokkar árliga á Klaksvíkar Sjómansskúla. Skipskokkaútbúgvingin á Klaksvíkar Sjómansskúla er eitt 6 mánaðar skeið.</p>
+<p>Umframt lærlingarnar taka umleið 25 prógv sum skipskokkar árliga á Klaksvíkar Sjómansskúla. Skipskokkaútbúgvingin á Klaksvíkar Sjómansskúla er eitt 6 mánaðar skeið.</p>
 <p>Førleikakrøv til lærarar</p>
-<p>Lærarar, sum skulu undirvísa í matvøru- og tænastuútbúgvingum, skulu í minsta lagi:</p>
-<p type="listitem">• Í verkligum yrkislærugreinum, hava grundútbúgving sum yrkislærdur innan viðkomandi</p>
-<p>fakøki, og í minsta lagi 5 ára viðkomandi og tíðarhóskandi vinnulívsroyndir, ella hava hægri viðkomandi útbúgving.</p>
-<p type="listitem">• Í almennu lærugreinunum, lúka tey førleikakrøv, ið alment eru galdandi fyri tey stig sum</p>
-<p>lærugreinin er á.</p>
+<p type="listitem">Lærarar, sum skulu undirvísa í matvøru- og tænastuútbúgvingum, skulu í minsta lagi:</p>
+<p type="listitem">Í verkligum yrkislærugreinum, hava grundútbúgving sum yrkislærdur innan viðkomandi fakøki, og í minsta lagi 5 ára viðkomandi og tíðarhóskandi vinnulívsroyndir, ella hava hægri  viðkomandi útbúgving.</p>
+<p type="listitem">Í almennu lærugreinunum, lúka tey førleikakrøv, ið alment eru galdandi fyri tey stig sum lærugreinin er á.</p>
 <p>Lærari, ið verður settur í fast starv, skal umframt omanfyri nevndu ásetingar, hava tikið námsfrøðiliga útbúgving, sum Mentamálaráðið hevur góðkent.</p>
 <p>Útbúgvingar í dag</p>
-<p>Í yrkisútbúgvingarskipanini eru nær skyldar útbúgvingar skipaðar í útbúgvingarbólkar. Í løtuni eru bólkarnir innan matvøru- og tilhoyrandi tænastuútbúgvingar 10 í tali:</p>
-<p type="listitem">• Bakarar</p>
-<p type="listitem">• Kokkar</p>
-<p type="listitem">• Køksatstøðarar</p>
-<p type="listitem">• Kondittarar</p>
-<p type="listitem">• Matstovuatstøðarar</p>
-<p type="listitem">• Meiaristar</p>
-<p type="listitem">• Reseptiónistar</p>
-<p type="listitem">• Slaktarar</p>
-<p type="listitem">• Tænarar og</p>
-<p type="listitem">• Smyrjubreyðsdama.</p>
+<p type="listitem">Í yrkisútbúgvingarskipanini eru nær skyldar útbúgvingar skipaðar í útbúgvingarbólkar. Í løtuni eru  bólkarnir innan matvøru- og tilhoyrandi tænastuútbúgvingar 10 í tali:</p>
+<p type="listitem">Bakarar</p>
+<p type="listitem">Kokkar</p>
+<p type="listitem">Køksatstøðarar</p>
+<p type="listitem">Kondittarar</p>
+<p type="listitem">Matstovuatstøðarar</p>
+<p type="listitem">Meiaristar</p>
+<p type="listitem">Reseptiónistar</p>
+<p type="listitem">Slaktarar</p>
+<p type="listitem">Tænarar og</p>
+<p type="listitem">Smyrjubreyðsdama.</p>
 <p>Lærlingatilgongdin til hesar útbúgvingar hevur í tíðarskeiðnum 1998 til 2009 verið:</p>
-<p><em type="bold">Lýsing av skipan innan matvøruyrkið </em></p>
-<p>Arbeiðsbólkurin mælir til, at í føroysku skipanini verður danska <span type="quote" xml:lang="dan">“grundforløb”</span>, + fyrsta skúlaskeið í høvuðspartinum (trin 1), (fylgiskjal 2) skipað sum eitt heilt skúlaár.</p>
-<p> <em type="italic">Uppskot til føroyska skipan innan styttri varandi yrkisútbúgvingar:</em> </p>
-<p><em type="italic"> </em>                                     Gastronomhjálparaútbúgving </p>
-<p>S t ø ð i s á r                                                 Verklig læra + sveinaroynd</p>
-<p>S V S V Sv</p>
-<p>Støðisárið:  S = skúli  38 vikur  V = verklig upplæring 2 vikur</p>
-<p>3.hálv árið:      V = verklig upplæring + sveinaroynd(Sv) í skúla</p>
-<p><em type="italic">Uppskot til føroyska skipan innan longri varandi yrkisútbúgvingar  </em></p>
-<p>S t ø ð i s á r                                           2. Partur</p>
-<p>    skúlagongd í Føroyum          skúlagongd í Danmark                      <em type="italic"> </em></p>
+<p><em type="italic"></em><em type="bold">Lýsing av skipan innan matvøruyrkið </em>Arbeiðsbólkurin mælir til, at í føroysku skipanini verður danska <span type="quote" xml:lang="dan">“grundforløb”</span>, + fyrsta skúlaskeið í høvuðspartinum (trin 1), (fylgiskjal 2) skipað sum eitt heilt skúlaár. </p>
+<p><em type="italic">Uppskot til føroyska skipan innan styttri varandi yrkisútbúgvingar: </em></p>
+<p>Gastronomhjálparaútbúgving</p>
+<p>S t ø ð i s á r Verklig læra + sveinaroynd</p>
+<p>Støðisárið: S = skúli 38 vikur V = verklig upplæring 2 vikur 3.hálv árið: V = verklig upplæring + sveinaroynd(Sv) í skúla</p>
+<p><em type="italic">Uppskot til føroyska skipan innan longri varandi yrkisútbúgvingar </em></p>
+<p>S t ø ð i s á r 2. Partur skúlagongd í Føroyum skúlagongd í Danmark</p>
 <p>Støðisárið:</p>
-<p>S = skúli  34 vikur  V = verklig upplæring 4 vikur</p>
-<p>2. partur:     S = skúli  (2 x 10 vikur)  V = verklig upplæring restina av tíðini</p>
-<p>S V S  V S V S</p>
+<p>S = skúli 34 vikur V = verklig upplæring 4 vikur 2. partur: S = skúli (2 x 10 vikur) V = verklig upplæring restina av tíðini</p>
 <p>Arbeiðsbólkurin mælir til, at fullur avriksflutningur verður givin til víðari styttri ella longri varandi yrkisútbúgvingútbúgvingar hjá teimum, sum hava staðið støðisárið ella gastronomhjálparaútbúgvingina. Stytting hesum viðvíkjandi er tó nakað, sum yrkisnevndin eftir yrkisútbúgvingarlógini tekur støðu til.</p>
 <p>Næmingur fær prógv aftaná støðisárið.</p>
+<p>Sv</p>
 <p><em type="bold">Lýsing av matvøruútbúgvingum skipaðar á Tekniska Skúla í Klaksvík </em></p>
 <p>Innihaldið í útbúgvingini</p>
 <p>Í støðisárinum er meginparturin av undirvísingini felags fyri allar útbúgvingarnar innan matvøruyrkið.</p>
-<p>Lærugreinirnar í støðisárinum (fylgiskjal 3)</p>
-<p>Arbeiðsbólurin mælir til, at tær almennu lærugreinirnar, sum t.d. liggja í SIT1-útbúgvingini, eisini liggja í støðisárinum innan matvøruyrkið. Talan er um t.d. føroyskt, enskt, støddfrøði, alis- og evnafrøði og samfelagsfak á einum E-stigi við møguleika fyri C-stigi. Yrkisnevndin góðkennir námsætlaninar í yrkislærugreinunum og Mentamálaráðið góðkennir námsætlanirnar fyri almennu lærugreinarnar.</p>
-<p>Sum áður nevnt, eru hesi undir útbúgving innan matvøruyrkið í Føroyum í dag: 11 kokkar, 9 bakarar, 5 tænarar, 2 slaktarar, 5 kondittarar, 1 reseptionistur og 2 føðsluatstøðarar (ernæringsassistent). Um nevnda tilráðing verður fylgd, skal innihaldið sum mest lagast til føðslu-,  kokka- og tænaraútbúgvingina.</p>
+<p>Lærugreinirnar í støðisárinum (fylgiskjal 3) Arbeiðsbólurin mælir til, at tær almennu lærugreinirnar, sum t.d. liggja í SIT1-útbúgvingini, eisini liggja í støðisárinum innan matvøruyrkið. Talan er um t.d. føroyskt, enskt, støddfrøði, alis- og evnafrøði og samfelagsfak á einum E-stigi við møguleika fyri C-stigi. Yrkisnevndin góðkennir námsætlaninar í yrkislærugreinunum og Mentamálaráðið góðkennir námsætlanirnar fyri almennu lærugreinarnar.</p>
+<p>Sum áður nevnt, eru hesi undir útbúgving innan matvøruyrkið í Føroyum í dag: 11 kokkar, 9 bakarar, 5 tænarar, 2 slaktarar, 5 kondittarar, 1 reseptionistur og 2 føðsluatstøðarar (ernæringsassistent). Um nevnda tilráðing verður fylgd, skal innihaldið sum mest lagast til føðslu-, kokka- og tænaraútbúgvingina.</p>
 <p>Tá støðisárið er liðugt, er møguleiki at finna sær eitt lærupláss og skriva lærusáttmála við eitt virki, sum hevur læruplássgóðkenning. Við endan av lærutíðini, sum er 6 mánaðir, fer lærlingurin aftur í skúla í eina viku at gera sveinaroyndina og fær prógv sum gastronom/føðslu-hjálpari.</p>
 <p>Í sambandi við skipan av støðisárinum hevur arbeiðsbólkurin verið í samband við Aalborg Food College (AFC) fyri at tryggja, at innihaldið í støðisárinum kann liva upp til tey krøv, sum sett verða til víðari útbúgving innan matvøruøkið. Møguleiki er fyri samstarvi við AFC og at fáa fakkonsulent at eftirmeta okkara útbúgvingar.</p>
-<p>Arbeiðsbólkurin metir tað eisini verða neyðugt, at Mentamálaráðið saman við Tekniska Skúla í Klaksvík ger </p>
-<p><em type="italic">Ritmynd av tilmæltu føroysku útbúgvingarskipanini innan matvøruyrkið</em> </p>
+<p>Arbeiðsbólkurin metir tað eisini verða neyðugt, at Mentamálaráðið saman við Tekniska Skúla í Klaksvík ger avtalur við aðrar viðkomandi skúlar í Danmark. Mentamálaráðið ger eisini avtalu við danska undirvísingarmálaráðið um útbúgvingar á matvøruøkinum.</p>
+<p><em type="italic">Ritmynd av tilmæltu føroysku útbúgvingarskipanini innan matvøruyrkið </em></p>
 <p>Kostnaðarætlan</p>
 <p>Um útbúgvingarnar byrja í august 2010, metir arbeiðsbólkurin, at kostnaðurin fyri seinna hálvár 2010 verður umleið 525 tús. kr. (fylgiskjal 4).</p>
-<p>Kostnaðarmetingin er gjørd við støði í upptøku av 28 næmingum í 17 vikur og skipað soleiðis:</p>
-<p>1 flokkur í almennum lærugeinum (14 t/v) og</p>
-<p>2 flokkar á 14 næmingar í yrkislærugreinum (22 t/v).</p>
+<p>Kostnaðarmetingin er gjørd við støði í upptøku av 28 næmingum í 17 vikur og skipað soleiðis: 1 flokkur í almennum lærugeinum (14 t/v) og 2 flokkar á 14 næmingar í yrkislærugreinum (22 t/v).</p>
 <p>Kostnaðurin fyri fyrra hálvár 2011 er mettur til umleið 600 tús kr.</p>
 <p>Førleikar og útgerð</p>
 <p>Tekniski Skúlin í Klaksvík hevur neyðugu førleikarnar og útgerðina til undirvísing í almennu lærugreinunum. Harumframt hevur skúlin førleikar og neyðuga útgerð til allar yrkislærugreinirnar uttan tilvirkan av mati.</p>
@@ -126,16 +90,12 @@
 <p>Upptøkutreytirnar til framhaldandi útbúgvingina, gastronomhjálpari, er, at næmingurin hevur lokið støðisárið innan matvøruútbúgvinga ella hevur førleika á minst sama støði.</p>
 <p>Freistin at søkja inn á gastronomhjálpara-útbúgvingina fylgir freistini fyri miðnámsútbúgvingarnar.</p>
 <p><em type="bold">Tilmæli </em></p>
-<p>Arbeiðsbólkurin mælir til at:</p>
-<p>1. allar útbúgvingar innan matvøruyrkið verða savnaðar í einum støðisári við skúlagongd á Tekniska Skúla í Klaksvík, og at næmingar eftir støðisárið:</p>
-<p type="listitem">• kunnu velja at halda fram til eina styttri ella longri varandi útbúgving</p>
-<p type="listitem">• ella at halda fram ½ ár í starvsvenjing og enda útbúgvingina sum <em type="italic">gastronomhjálpari  </em></p>
-<p>við førleika<em type="italic"> </em>til køksarbeiði og matgerð umborð á skipum, á matstovum, røktarheimum, sjúkrahúsum v.m.<em type="italic"> </em> </p>
-<p>2. Mentamálaráðið skipar fyri gerð av kunngerð við heimild í SIT-lógini</p>
-<p>3. Mentamálaráðið skipar fyri gerð av námsætlanum</p>
-<p>4. Mentamálaráðið saman við Tekniska Skúla í Klaksvík ger avtalur við skúlar og myndugleikar í Danmark um samstarv á økinum matvøruútbúgvingar</p>
-<p>5. byrjað verður við støðisárinum í august 2010.</p>
-<p>Rúni Heinesen   Johanna á Tjaldrafløtti        Eyðvør Berg</p>
+<p>Arbeiðsbólkurin mælir til at: 1. allar útbúgvingar innan matvøruyrkið verða savnaðar í einum støðisári við skúlagongd á</p>
+<p type="listitem">Tekniska Skúla í Klaksvík, og at næmingar eftir støðisárið:</p>
+<p type="listitem">kunnu velja at halda fram til eina styttri ella longri varandi útbúgving</p>
+<p type="listitem">ella at halda fram ½ ár í starvsvenjing og enda útbúgvingina sum gastronomhjálpari  við førleikatil køksarbeiði og matgerð umborð á skipum, á matstovum,  røktarheimum, sjúkrahúsum v.m. 2.  Mentamálaráðið skipar fyri gerð av kunngerð við heimild í SIT-lógini 3.  Mentamálaráðið skipar fyri gerð av námsætlanum 4.  Mentamálaráðið saman við Tekniska Skúla í Klaksvík ger avtalur við skúlar og myndugleikar í Danmark um samstarv á økinum matvøruútbúgvingar 5.  byrjað verður við støðisárinum í august 2010.</p>
+<p>Rúni Heinesen</p>
+<p>Johanna á Tjaldrafløtti Eyðvør Berg</p>
 <p xml:lang="dan">Pole Mikkelsen</p>
 <p>Niclas Hovgaard</p>
 <p>Eyðun Gaard</p>
@@ -143,162 +103,133 @@
 <p>Karin K. Petersen</p>
 <p>Fylgiskjal 1</p>
 <p>Tørvurin á útbúnum fólki innan matvøruyrki.</p>
-<p>Nevndin hevur kanna tørvin á útbúnum fólki, sum starvast innan matgerðar og køksarbeið á ymiskum</p>
-<p>stovnum runt um í landinum. Uppgerðin av kanningin vísir at  nógv tann størsti parturin av starvsfólkunum</p>
-<p>eru ófaklærd.</p>
-<p>Á næstu síðu er uppgerð gjørd yvir teir stovnar, sum eru við í kanningini. Felags fyri hesar stovnar er at teir</p>
-<p>matgera og flýggja út mat til bústovnar og fólk.</p>
-<p>Uppgerðin vísir at teir  11 stovnarnir sum eru við í kanningini   matgera  1300 døgurðar og annan mat</p>
-<p>dagliga.</p>
-<p>Harafturat eru   20 dagstovnar í Tórshavn, sum matgera  til 1368 børn. Talan um døgurðar í ávísum førum,</p>
-<p>men teir flestu stovnarnir gera bert  millummála. Samanlagda starvsfólkabýtið á hesum stovnum er  14</p>
-<p>ófaklærd køksstarvsfólk  og  tvey  hava ½ ára kokkaskúla.</p>
-<p>Samlaða býtið á starvsfólkum, sum eru við í kanningini  sær soleiðis út. 12 hava longri útbúgving økonoma</p>
-<p>ella kokkur, 20 hava styttri útbúgving køksassistentar, 1 kondittari, ernæringsass, <span type="quote">“1 smyrjifrú”</span> og 4</p>
-<p>kokkaskeið. 71 starvsfólk  hava als onga matgerðarútbúgving .</p>
-<p>Fiskiskip (96) , Kantinur , sambýli, vistarheim, umlættingarheim,næmingabústaðir og matstovur annars hava</p>
-<p>sum skilst ikki nøktandi tal av fólki í starvi við útbúgving innan matgerð. Kravið átti at verið at fólk í starvast</p>
-<p>við mati  í minsta lagi hava lokið eina grundútbúgving innan matgerð.</p>
-<p>Serliga tá hugsa verður um at kosturin kann hava eina negativa ávirkan á heilsuna,um føðslusamansetingin</p>
-<p>ikki er røtt. Samstundis so vísa kanningar  at  heilsugóður kostur kann verða við til at fyribyrgja eina røð av</p>
-<p>sjúkum, ið kunnu setast í samband við lívsstílin hjá fólki.</p>
-<p>MARK kanningin  sum fólkaheilsuráðið  lat  gera 2008/2009  vísur at vit liggja rættuliga langt frá tí í verður</p>
-<p>mælt til at eti verður av frukt og grønmeti um dagin. Somuleiðis vísir kanningin at miðaltali fyri BMI er ov</p>
-<p>høgt serliga hjá monnum.</p>
-<p>Í samrøðu við leiðarar og fakfólk á stovnum, har matgerð fer fram er eitt týðiligt ynski um at ein útbúgving</p>
-<p>sum nevndin mælir til verður sett í verk. Eisini  Kost- og føðslufelag Føroya  hevur sýnt útbúgvingini stóran</p>
-<p>áhuga.</p>
-<p>Stovnur <em type="bold">Døgurðar  Økonoma  Køks- Onga   Viðmerkingar </em></p>
-<p>  <em type="bold">    atstøðari útb   </em></p>
-<p>KS  1,9 2,5 3,8 fulltíðarstørv</p>
-<p>Suðoyar sjúkrahús</p>
-<p>Eysturoy ellis og røktarheim      ófaklærd arbeiða øll niðursetta tíð</p>
-<p>Norðoya ellis og vistarheim    1 kokkaskúla</p>
-<p>Sambýlið á Heygnum Klaksvík</p>
-<p>1 hot kokkur     ófaklærd hjálpa til</p>
-<p>Lágargarður  Tórshavn     ófaklærd arbeiða øll niðursetta tíð</p>
-<p>Røktarheimið á Mørkini     1 køks ass, 3 ár   4 heilsuhjálpara  niðursetta tíð</p>
-<p>ernær ass 1 ár.</p>
-<p>Landssjúkrahúsið  3 dk+1sv 6.  og 3 næming     1 kondit, 1 smyrjb</p>
-<p>Ellis og avlamisheimið í Vágum   1 køksnass  niðursetta tíð.</p>
-<p>Ellis og umlættingarheimið Tórshavn    1 kokkaskúla</p>
-<p>Ellisheimið Tjarnargarður  Tórshavn</p>
-<p>Døg frá Lágargarði gera bert nátturða og drekka Dagstovnarnar í Tórshavnar kommunu</p>
-<p>20 stovnar(1368 børn samanlagt) sum      2 kokkaskúla  14 ófaklærd øll arbeiða niðursetta tíð</p>
-<p>fáa døgurða  og millumála.</p>
+<p>Nevndin hevur kanna tørvin á útbúnum fólki, sum starvast innan matgerðar og køksarbeið á ymiskum stovnum runt um í landinum. Uppgerðin av kanningin vísir at nógv tann størsti parturin av starvsfólkunum eru ófaklærd.</p>
+<p>Á næstu síðu er uppgerð gjørd yvir teir stovnar, sum eru við í kanningini. Felags fyri hesar stovnar er at teir matgera og flýggja út mat til bústovnar og fólk.</p>
+<p>Uppgerðin vísir at teir 11 stovnarnir sum eru við í kanningini matgera 1300 døgurðar og annan mat dagliga.</p>
+<p>Harafturat eru 20 dagstovnar í Tórshavn, sum matgera til 1368 børn. Talan um døgurðar í ávísum førum, men teir flestu stovnarnir gera bert millummála. Samanlagda starvsfólkabýtið á hesum stovnum er 14 ófaklærd køksstarvsfólk og tvey hava ½ ára kokkaskúla.</p>
+<p>Samlaða býtið á starvsfólkum, sum eru við í kanningini sær soleiðis út. 12 hava longri útbúgving økonoma ella kokkur, 20 hava styttri útbúgving køksassistentar, 1 kondittari, ernæringsass, <span type="quote">“1 smyrjifrú”</span> og 4 kokkaskeið. 71 starvsfólk hava als onga matgerðarútbúgving .</p>
+<p>Fiskiskip (96) , Kantinur , sambýli, vistarheim, umlættingarheim,næmingabústaðir og matstovur annars hava sum skilst ikki nøktandi tal av fólki í starvi við útbúgving innan matgerð. Kravið átti at verið at fólk í starvast við mati í minsta lagi hava lokið eina grundútbúgving innan matgerð.</p>
+<p>Serliga tá hugsa verður um at kosturin kann hava eina negativa ávirkan á heilsuna,um føðslusamansetingin ikki er røtt. Samstundis so vísa kanningar at heilsugóður kostur kann verða við til at fyribyrgja eina røð av sjúkum, ið kunnu setast í samband við lívsstílin hjá fólki.</p>
+<p>MARK kanningin sum fólkaheilsuráðið lat gera 2008/2009 vísur at vit liggja rættuliga langt frá tí í verður mælt til at eti verður av frukt og grønmeti um dagin. Somuleiðis vísir kanningin at miðaltali fyri BMI er ov høgt serliga hjá monnum.</p>
+<p>Í samrøðu við leiðarar og fakfólk á stovnum, har matgerð fer fram er eitt týðiligt ynski um at ein útbúgving sum nevndin mælir til verður sett í verk. Eisini Kost- og føðslufelag Føroya hevur sýnt útbúgvingini stóran áhuga.</p>
+<p>Stovnur</p>
+<p><em type="bold">Døgurðar Økonoma Køks- </em></p>
+<p><em type="bold">Onga Viðmerkingar </em><em type="bold">atstøðari </em><em type="bold">útb </em></p>
+<p>KS 140 1,9 2,5 3,8 fulltíðarstørv</p>
+<p>Suðoyar sjúkrahús 150 2 1</p>
+<p>Eysturoy ellis og røktarheim 100 2 18 ófaklærd arbeiða øll niðursetta tíð</p>
+<p>Norðoya ellis og vistarheim 11 1 kokkaskúla 1</p>
+<p>Sambýlið á Heygnum Klaksvík 20 1 hot kokkur ófaklærd hjálpa til</p>
+<p>Lágargarður Tórshavn 220 2 2 7 ófaklærd arbeiða øll niðursetta tíð</p>
+<p>Røktarheimið á Mørkini 40 1 køks ass, 3 ár 4 heilsuhjálpara niðursetta tíðernær ass 1 ár.</p>
+<p>Landssjúkrahúsið 450 3 dk+1sv 6. og 3 næming 1 kondit, 1 smyrjb 9</p>
+<p>Ellis og avlamisheimið í Vágum 80 2 1 køksnass 6 niðursetta tíð.</p>
+<p>Ellis og umlættingarheimið Tórshavn 55 1 kokkaskúla 3</p>
+<p>Ellisheimið Tjarnargarður Tórshavn 34 2</p>
+<p>Døg frá Lágargarði gera bert nátturða og drekka</p>
+<p>Dagstovnarnar í Tórshavnar kommunu 20 stovnar(1368 børn samanlagt) sum 2 kokkaskúla 14 14 ófaklærd øll arbeiða niðursetta tíðfáa døgurða og millumála.</p>
 <p>Fylgiskjal 2</p>
 <p>Danska skipanin</p>
 <p>Í donsku skipanini hevur matvøruyrkið heitið <span type="quote" xml:lang="dan">“Mad til mennesker”</span>. Yrkisútbúgvingarnar verða skipaðar soleiðis, at byrjað verður við einum sonevndum <span type="quote">“grundskeiði”</span>, sum varir frá 20 til 60 vikur.</p>
 <p>Aftaná <span type="quote">“grundskeiðið”</span> fer lærlingur undir 2. partin í yrkisútbúgvingini, eisini nevnt <span type="quote" xml:lang="dan">“hovedforløb”</span>. Ymiskt er, hvussu skúlapartarnir og verkligu partarnir í teimum mongu útbúgvingunum í <span type="quote">“hovedforløbinum”</span> eru settir saman.</p>
-<p>Arbeiðsbólkurin metir, at matvøruútbúgvingar, ið taka 2 til 3 ár umframt støðisárið <em type="italic">(longri varandi </em></p>
-<p><em type="italic">útbúgvingar – </em>so sum hotellkokkar, bakarar, slaktarar, o.o.), fer kravda skúlagongdin í 2. partinum í </p>
-<p>útbúgvingunum framyvir helst fram á donskum skúla, m.a. tí at næminga-/ lærlingagrundarlagið í Føroyum innan einstøku útbúgvingina er ov lítið. Nevndin metir tó, at tilboð um støðisár ella meira, kann broyta hetta mynstur fyri onkrar av bólkunum.</p>
-<p><em type="italic">Dømi um verandi donsku yrkisútbúgvingarskipanina: </em></p>
-<p>  <span type="quote" xml:lang="dan">“Grundforløb”</span>     <span type="quote" xml:lang="dan">“H o  v e  d f o  r l  ø b ”</span><em type="italic"> </em></p>
-<p>S  V S V S V S</p>
-<p>S = skúli   og   V = verklig upplæring</p>
-<p><span type="quote" xml:lang="dan">“Grundforløb”</span> er 20-60 vikur og <span type="quote" xml:lang="dan">“Hovedforløb”</span>, er uml. 3 ár harav skúlaskeiðini tilsamans eru umleið 30 vikur.</p>
+<p>Arbeiðsbólkurin metir, at matvøruútbúgvingar, ið taka 2 til 3 ár umframt støðisárið <em type="italic">(longri varandi útbúgvingar – </em>so sum hotellkokkar, bakarar, slaktarar, o.o.), fer kravda skúlagongdin í 2. partinum í útbúgvingunum framyvir helst fram á donskum skúla, m.a. tí at næminga-/ lærlingagrundarlagið í Føroyum innan einstøku útbúgvingina er ov lítið. Nevndin metir tó, at tilboð um støðisár ella meira, kann broyta hetta mynstur fyri onkrar av bólkunum. </p>
+<p><em type="italic">Dømi um verandi donsku yrkisútbúgvingarskipanina: </em><span type="quote" xml:lang="dan">“Grundforløb”</span> <span type="quote" xml:lang="dan">“H o v e d f o r l ø b ”</span> <em type="italic"></em></p>
+<p>S = skúli og V = verklig upplæring <span type="quote" xml:lang="dan">“Grundforløb”</span> er 20-60 vikur og <span type="quote" xml:lang="dan">“Hovedforløb”</span>, er uml. 3 ár harav skúlaskeiðini tilsamans eru umleið 30 vikur.</p>
 <p><em type="italic">Verandi danska gastronomhjálparaútbúgvingin: </em></p>
-<p>Ùtbúgvingin tekur 1 ár og 6 mánaðir<em type="italic"> </em></p>
-<p><em type="bold">Støðispartur Høvuðspartur 1 ár </em></p>
-<p>Skúlaskeið 20 vikur  Starvsvenjing 1 Skúlaskeið 10 vikur Starvsvenjing 2</p>
-<p>Fylgiskjal 3</p>
-<p type="listitem">• 2xpraktik, eftir heystfrítíðina og innan páskafrítíðina 6 vikur</p>
-<p>Næmingurin skal velja 2 ymisk praktikpláss:</p>
-<p>1. Ferðamannaskip, Farmaskip , fiskiskip 2. Hotel, matstovur, kantinur 3. Hospitalskøkar, røktarheim 4. Dagstovnar</p>
-<p type="listitem" xml:lang="dan">• Føroyskt E</p>
-<p type="listitem">• Stødd E(rokning og kostnaðarætlan,proviantering)</p>
-<p type="listitem" xml:lang="dan">• Enskt E</p>
-<p type="listitem" xml:lang="dan">• Nattúrufak E</p>
-<p type="listitem">• Samfelagsfrøði    1,5</p>
-<p type="listitem">• Sálarfrøði    0,5</p>
-<p type="listitem">• Fyrstahjálp    0,5</p>
-<p type="listitem">• Reinføri    1,0</p>
-<p type="listitem">• Umhvørvið og heilsa (ergonomi)   1,0</p>
-<p type="listitem">• Føðslulæra     0,5</p>
-<p type="listitem">• Kostlæra    0,5</p>
-<p type="listitem">• Vørukunning    2,0</p>
-<p type="listitem" xml:lang="dan">• dietik      0,5</p>
-<p type="listitem">• <em type="bold">Økislærugreinir profilur    </em> </p>
-<p><em type="bold"> </em>Matgerð </p>
-<p xml:lang="dan"><em type="bold"> </em>Metodik/teknik </p>
+<p>Ùtbúgvingin tekur 1 ár og 6 mánaðir <em type="italic"></em></p>
+<p><em type="bold">Støðispartur </em></p>
+<p><em type="bold">Høvuðspartur 1 ár </em></p>
+<p>Skúlaskeið 20 vikur</p>
+<p xml:lang="dan">Starvsvenjing 1</p>
+<p>Skúlaskeið 10 vikur</p>
+<p xml:lang="dan">Starvsvenjing 2</p>
+<p type="listitem">Fylgiskjal 3</p>
+<p type="listitem">2xpraktik, eftir heystfrítíðina og innan páskafrítíðina 6 vikur</p>
+<p type="listitem">Næmingurin skal velja 2 ymisk praktikpláss: 1. Ferðamannaskip, Farmaskip , fiskiskip  2. Hotel, matstovur, kantinur  3. Hospitalskøkar, røktarheim  4. Dagstovnar</p>
+<p type="listitem" xml:lang="dan">Føroyskt E 2</p>
+<p type="listitem">Stødd E(rokning og kostnaðarætlan,proviantering) 2</p>
+<p type="listitem" xml:lang="dan">Enskt E 2</p>
+<p type="listitem" xml:lang="dan">Nattúrufak E 2</p>
+<p type="listitem">Samfelagsfrøði 1,5</p>
+<p type="listitem">Sálarfrøði 0,5</p>
+<p type="listitem">Fyrstahjálp 0,5</p>
+<p type="listitem">Reinføri 1,0</p>
+<p type="listitem">Umhvørvið og heilsa (ergonomi) 1,0</p>
+<p type="listitem">Føðslulæra  0,5</p>
+<p type="listitem">Kostlæra 0,5</p>
+<p type="listitem">Vørukunning 2,0</p>
+<p type="listitem" xml:lang="dan">dietik   0,5</p>
+<p type="listitem">Økislærugreinir profilur 14</p>
+<p>Matgerð</p>
+<p xml:lang="dan">Metodik/teknik</p>
 <p xml:lang="dan">Matmentan</p>
 <p>Søla/gesta og kundatænasta/umsiting</p>
-<p>Borðreiðing/annrætning/servering</p>
-<p type="listitem">• Próvtøkur</p>
-<p type="listitem">• Lagt verður upp til tvørfakligt verkætlanararbeiði</p>
+<p type="listitem">Borðreiðing/annrætning/servering</p>
+<p type="listitem">Próvtøkur 2</p>
+<p type="listitem">Lagt verður upp til tvørfakligt verkætlanararbeiði</p>
 <p>Matvøruútbúgving - støðisárið</p>
 <p><em type="bold">Fylgiskjal 4 </em></p>
-<p>       <em type="bold">Kostnaðurin er fyri upptøku av 28 næmingum í 17 vikur:  august-desember </em></p>
-<p><em type="bold"> </em>      Skipað sum 1 flokkur í almennum lærugreinum (14 t/v) og  </p>
-<p>2 flokkar á 14 næmingar í yrkislæru (22 t/v)</p>
+<p><em type="bold">Kostnaðurin er fyri upptøku av 28 næmingum í 17 vikur: august-desember </em></p>
+<p>Skipað sum 1 flokkur í almennum lærugreinum (14 t/v) og 2 flokkar á 14 næmingar í yrkislæru (22 t/v)</p>
 <p>Lønarkostnaður eftir sáttmála hjá Føroya Tekniska Lærarafelag</p>
-<p>Flokkar Vikur Tímar/v UV-faktor Arb.tímar</p>
-<p>Fyrireiking: 2 lær. á 3 vikur         253,50</p>
-<p>Almennar lærugr.      1,57 372,87  Yrkislærugrein      1,57 1.171,87</p>
-<p>Lærugr. Stig Næm. Min/næm Vikur Arb.tímar</p>
-<p>Rættiniðurskurður  Føroyskt  E  189,00 17,00 37,49    Enskt E  110,00 17,00 21,82</p>
-<p xml:lang="dan">Støddfr. E  54,00 17,00 10,71</p>
-<p>Leiðandi lærari</p>
-<p>8,00  t/v 136,00</p>
-<p>1.868,25  § 6-tímar</p>
-<p>110,55</p>
-<p>§ 7-tímar           143,71</p>
-<p>í alt 2.122,50</p>
-<p>Lønar útreiðslur   Tímasats.  Løn Eftirløn  Frítíðarløn  Í alt</p>
-<p>189,1  353285,1  52.992,77 5.299,28  kr     411.577,18</p>
-<p>Kostnaður fyri mat í 17 vikur (samb.skipskokkaskeiðnum): 150.025,00  Søla av mati (samb.skipskokkaskeiðnum):</p>
-<p>51.850,00</p>
-<p>Netto-kostnaður</p>
-<p>kr        98.175,00</p>
-<p>Møguligt lýsingartilfar</p>
-<p>kr        15.000,00</p>
-<p><em type="bold">Kostnaður í alt: </em></p>
-<p><em type="bold"> kr     524.752,18  </em></p>
+<p>Flokkar</p>
+<p>Vikur</p>
+<p>Tímar/v</p>
+<p xml:lang="dan">UV-faktor</p>
+<p>Arb.tímar</p>
+<p>Fyrireiking: 2 lær. á 3 vikur 253,50</p>
+<p>Almennar lærugr. 1 17 14 1,57 372,87</p>
+<p>Yrkislærugrein 2 17 22 1,57 1.171,87</p>
+<p xml:lang="dan">Lærugr.</p>
+<p>Stig</p>
+<p xml:lang="dan">Næm.</p>
+<p xml:lang="dan">Min/næm</p>
+<p>Vikur</p>
+<p>Arb.tímar</p>
+<p>Rættiniðurskurður Føroyskt E 28 189,00 17,00 37,49</p>
+<p xml:lang="dan">Enskt</p>
+<p xml:lang="dan">E 28 110,00 17,00 21,82</p>
+<p>Støddfr.</p>
+<p xml:lang="dan">E 28 54,00 17,00 10,71</p>
+<p>Leiðandi lærari 8,00 t/v 136,00 1.868,25 § 6-tímar 110,55 § 7-tímar 143,71 í alt 2.122,50</p>
+<p>Lønar útreiðslur</p>
+<p>Tímasats. Løn</p>
+<p>Eftirløn</p>
+<p>Frítíðarløn</p>
+<p>Í alt 189,1 353285,1 52.992,77 5.299,28 kr 411.577,18</p>
+<p>Kostnaður fyri mat í 17 vikur (samb.skipskokkaskeiðnum): 150.025,00</p>
+<p>Søla av mati (samb.skipskokkaskeiðnum): 51.850,00</p>
+<p>Netto-kostnaður kr 98.175,00</p>
+<p>Møguligt lýsingartilfar kr 15.000,00</p>
+<p><em type="bold">Kostnaður í alt: </em><em type="bold">kr 524.752,18 </em></p>
 <p><em type="bold">Fylgiskjal 5 </em></p>
 <p><em type="bold">Klaksvíkar Sjómansskúli </em></p>
 <p><em type="bold">Rúm og útgerð </em></p>
-<p>Klaksvíkar Sjómansskúli er í trimum hæddum hvør hæddin er 22m x13m = 286 m</p>
+<p>Klaksvíkar Sjómansskúli er í trimum hæddum hvør hæddin er 22m x13m = 286 m2</p>
 <p><em type="bold">Ovasta hædd: </em></p>
-<p>Skúlastovur:                  2 stk á 52 m,  2 stk á 48 m, 1 stk á 41 m</p>
-<p xml:lang="dan">Radiostova:                   1 stk 18,5 m</p>
-<p xml:lang="dan">Uppihaldsrúm ( royk )  1 stk.11,5 m</p>
-<p xml:lang="dan">Bókagoymsla                1 stk 7 m</p>
-<p xml:lang="dan">Skrivstova  1 stk 27 m</p>
+<p>Skúlastovur: 2 stk á 52 m2, 2 stk á 48 m2, 1 stk á 41 m2</p>
+<p xml:lang="dan">Radiostova: 1 stk 18,5 m2</p>
+<p xml:lang="dan">Uppihaldsrúm ( royk ) 1 stk.11,5 m2</p>
+<p xml:lang="dan">Bókagoymsla 1 stk 7 m2</p>
+<p xml:lang="dan">Skrivstova 1 stk 27 m2</p>
 <p><em type="bold">Miðhædd: </em></p>
-<p xml:lang="dan">Kantina:                        1 stk 101 m</p>
-<p>Útgerð:  Borð og stólar Uppvaskimaskina og køliskáp</p>
-<p>Skúlastovur  2 stk  á 48 m</p>
-<p xml:lang="dan">Lærarastova   1 stk 30 m</p>
-<p>WC  2 stk á 1,5 m</p>
+<p xml:lang="dan">Kantina: 1 stk 101 m2</p>
+<p>Útgerð:</p>
+<p>Borð og stólar Uppvaskimaskina og køliskáp</p>
+<p>Skúlastovur 2 stk á 48 m2</p>
+<p xml:lang="dan">Lærarastova 1 stk 30 m2</p>
+<p>WC 2 stk á 1,5 m2</p>
 <p><em type="bold">Kjallarahædd: </em></p>
-<p>Køkur:                         1 stk. 106 m</p>
-<p>Útgerð:  2 stk kabússir við bakarovni</p>
-<p>2 stk kabússir uttan bakarovn</p>
-<p>1 stk kippanna</p>
-<p>1 stk friturukókari</p>
-<p>1 stk stórur bakarovnur</p>
-<p>1 stk stórt heviskáp</p>
-<p>3 stk stórir mixarar</p>
-<p>1 stk páleggsmaskina</p>
-<p>5 stk stálborð 2 við vaski</p>
-<p>6 stk smá stálborð á hjólum</p>
-<p>1 stk kuldaskáp</p>
-<p xml:lang="dan">2 stk eymhettir</p>
-<p xml:lang="dan">Grovkøkur  1 stk.   42 m</p>
-<p xml:lang="dan">Útgerð:  2 stk. Frystiboksir</p>
-<p>1 stk stórt frystiskáp</p>
-<p>1 stk stórt kuldaskáp</p>
-<p>5 stk stálborð 2 við vaski</p>
-<p>Uppvaskirúm: 1 stk 12 m</p>
-<p>Útgerð:  1 stk stór uppvaskimaskina</p>
-<p>3 stk stálborð 1 við vaski</p>
-<p>1 stk turkitrumla</p>
-<p>1 stk vaskimaskina</p>
-<p xml:lang="dan">Matgoymsla   1 stk    13 m</p>
-<p xml:lang="dan">Lærararúm  1 stk    17 m</p>
-<p>Umklæðingarrúm 1 srk   7 m</p>
-<p>WC  1 stk við brúsu 5 m</p>
-<p xml:lang="dan">Fýr – og ventilatiónsrúm   1 stk 16 m</p>
-<p xml:lang="dan">El-talvurúm  1 stk 10 m</p>
+<p>Køkur: 1 stk. 106 m2</p>
+<p>Útgerð: 2 stk kabússir við bakarovni 2 stk kabússir uttan bakarovn 1 stk kippanna 1 stk friturukókari 1 stk stórur bakarovnur 1 stk stórt heviskáp 3 stk stórir mixarar 1 stk páleggsmaskina 5 stk stálborð 2 við vaski 6 stk smá stálborð á hjólum 1 stk kuldaskáp 2 stk eymhettir</p>
+<p xml:lang="dan">Grovkøkur 1 stk. 42 m2</p>
+<p>Útgerð: 2 stk. Frystiboksir 1 stk stórt frystiskáp 1 stk stórt kuldaskáp 5 stk stálborð 2 við vaski</p>
+<p>Uppvaskirúm: 1 stk 12 m2</p>
+<p>Útgerð: 1 stk stór uppvaskimaskina 3 stk stálborð 1 við vaski 1 stk turkitrumla 1 stk vaskimaskina</p>
+<p xml:lang="dan">Matgoymsla 1 stk 13 m2</p>
+<p xml:lang="dan">Lærararúm 1 stk 17 m2</p>
+<p>Umklæðingarrúm 1 srk 7 m2</p>
+<p>WC 1 stk við brúsu 5 m2</p>
+<p xml:lang="dan">Fýr – og ventilatiónsrúm 1 stk 16 m2</p>
+<p xml:lang="dan">El-talvurúm 1 stk 10 m2</p>
 </body></document>

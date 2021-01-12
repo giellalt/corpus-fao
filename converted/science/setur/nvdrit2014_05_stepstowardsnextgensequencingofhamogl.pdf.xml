@@ -1,977 +1,468 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>9981</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2014_05_stepstowardsnextgensequencingofhamogl.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="eng">BSc Thesis</p>
-<p xml:lang="eng"> <em type="bold">Steps towards next generation </em></p>
-<p xml:lang="eng"><em type="bold">sequencing of Haemoglobin</em><em type="italic"> </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>10237</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2014_05_stepstowardsnextgensequencingofhamogl.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="eng">BSc Thesis</p>
+<p xml:lang="eng"><em type="bold">Steps towards next generation </em><em type="bold">sequencing of Haemoglobin </em><em type="italic"></em></p>
 <p xml:lang="dan">Ari Jespersen</p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>     2014:05 </p>
-<p xml:lang="eng">Heiti / Title  <em type="italic">Steps towards next generation sequencing of </em></p>
-<p><em type="italic">Haemoglobin </em></p>
-<p>Menning av næstu generatión sekvensering av hemoglobin</p>
-<p>Høvundar / Authors   <em type="bold">Ari Jespersen </em> </p>
-<p>Vegleiðari / Supervisor    Svein-Ole Mikalsen, Fróðskaparsetur Føroya</p>
-<p>Eyðfinn Magnussen, Fróðskaparsetur Føroya</p>
-<p>Ábyrgdarvegleiðari / Responsible Supervisor  Svein-Ole Mikalsen, Fróðskaparsetur Føroya</p>
-<p xml:lang="eng">Ritslag / Report Type  BSc ritgerð, lívfrøði</p>
-<p xml:lang="eng"><em type="italic">BSc Thesis, Biology</em> </p>
-<p>Latið inn / Submitted  5. september 2014</p>
-<p>NVD<em type="italic">Rit</em>  2014:05  ©  Náttúruvísindadeildin og høvundarnir 2014  ISSN  1601-9741  </p>
-<p>Útgevari / Publisher  Náttúruvísindadeildin, Fróðskaparsetur Føroya  Bústaður / Address  Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
-<p>        @  +298 352 550    +298 352 551  <em type="italic">  nvd@setur.fo </em> </p>
-<p xml:lang="eng"><em type="bold">Contents  </em></p>
-<p xml:lang="eng"><em type="italic">1. Introduction ........................................................................................................................ 1 </em></p>
-<p xml:lang="eng"><em type="italic">1.1 Population genetics ..................................................................................................... 1 </em></p>
-<p xml:lang="eng"><em type="italic">1.2 Methods in population genetics .................................................................................. 1 </em></p>
-<p xml:lang="eng"><em type="italic">1.3 Cod .............................................................................................................................. 2 </em></p>
-<p xml:lang="eng"><em type="italic">1.3.1 Atlantic Cod ......................................................................................................... 2 </em></p>
-<p xml:lang="eng"><em type="italic">1.3.2 Faroese cod populations ....................................................................................... 3 </em></p>
-<p><em type="italic">1.4 Haemoglobin ............................................................................................................... 4 </em></p>
-<p xml:lang="eng"><em type="italic">1.4.1 Globin proteins and haemoglobin ........................................................................ 4 </em></p>
-<p xml:lang="eng"><em type="italic">1.4.2 Globin gene evolution .......................................................................................... 5 </em></p>
-<p xml:lang="eng"><em type="italic">1.4.3 Globin genes: Family and gene structure............................................................. 6 </em></p>
-<p xml:lang="eng"><em type="italic">1.4.4 Haemoglobin as a genetic marker in cod ............................................................. 7 </em></p>
-<p xml:lang="eng"><em type="italic">1.4.5 Haemoglobin as a potential development and environmental marker or sensor . 8 </em></p>
-<p xml:lang="eng"><em type="italic">1.5 Aims of present project .........................................................................</em></p>
-<p xml:lang="eng"><em type="italic">2. Materials and methods ...................................................................................................... 10 </em></p>
-<p xml:lang="eng"><em type="italic">2.1 Sampling.................................................................................................................... 10 </em></p>
-<p xml:lang="eng"><em type="italic">2.2 DNA purification....................................................................................................... 10 </em></p>
-<p xml:lang="eng"><em type="italic">2.3 Primers ...................................................................................................................... 10 </em></p>
-<p xml:lang="eng"><em type="italic">2.4 PCR ........................................................................................................................... 12 </em></p>
-<p xml:lang="eng"><em type="italic">2.5 Electrophoresis .......................................................................................................... 13 </em></p>
-<p xml:lang="eng"><em type="italic">2.5.1 Polyacrylamide gel electrophoresis ................................................................... 13 </em></p>
-<p xml:lang="eng"><em type="italic">2.5.2 Staining of polyacrylamide gels ......................................................................... 13 </em></p>
-<p xml:lang="dan"><em type="italic">2.5.3 Agarose gel ........................................................................................................ 13 </em></p>
-<p xml:lang="eng"><em type="italic">2.5.4 Fluorescent staining of agarose gels .................................................................. 13 </em></p>
-<p xml:lang="eng"><em type="italic">2.6 Purification of DNA from agarose gels..................................................................... 13 </em></p>
-<p xml:lang="eng"><em type="italic">2.7 Dideoxy sequencing .................................................................................................. 14 </em></p>
-<p xml:lang="eng"><em type="italic">2.7.1 Sequencing reaction ........................................................................................... 14 </em></p>
-<p xml:lang="eng"><em type="italic">2.7.2 Purification of sequencing products ................................................................... 14 </em></p>
-<p xml:lang="eng"><em type="italic">2.7.3 Sequencing ......................................................................................................... 14 </em></p>
-<p xml:lang="eng"><em type="italic"> Results .............................................................................................................................. 15 </em></p>
-<p xml:lang="eng"><em type="italic">3.1 Steps towards parallel sequencing of targeted genes ................................................ 15 </em></p>
-<p xml:lang="eng"><em type="italic">3.2 Polyacrylamide and agarose gels and their staining: ................................................ 15 </em></p>
-<p><em type="italic">3.3 Taq vs. HotStar:......................................................................................................... 16 </em></p>
-<p xml:lang="eng"><em type="italic">3.4 Testing of standard primers: ...................................................................................... 17 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.1 Primers for haemoglobin α genes: ..................................................................... 17 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.1.1 PCR targeting and dideoxy sequencing of Hba1 PCR products ................ 17 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.1.2 PCR targeting and dideoxy sequencing of Hba2 PCR products ................ 19 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.1.3 PCR targeting and dideoxy sequencing of Hba3 PCR products ................ 19 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.1.4 PCR targeting Hba4 .................................................................................... 20 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2 Primer for haemoglobin β genes .................................................................... 20 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2.1 PCR targeting and dideoxy sequencing of Hbb1 PCR products ................ 20 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2.2 PCR targeting and dideoxy sequencing of Hbb2 PCR products ................ 23 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2.3 PCR targeting and dideoxy sequencing of Hbb3 and Hbb4 PCR products 25 </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2.4 PCR targeting and dideoxy sequencing of Hbb5 PCR products ................ 26 </em></p>
-<p xml:lang="eng"><em type="italic">3.5 454 Sequencing .................................................................................................. 27 </em></p>
-<p xml:lang="eng"><em type="italic">3.5.1 Initial Testing of 454 Sequencing .................................................................. 27 </em></p>
-<p xml:lang="eng"><em type="italic"> Discussion:........................................................................................................................ 30 </em></p>
-<p xml:lang="eng"><em type="italic">4.1 PCR and agarose gels ................................................................................................ 30 </em></p>
-<p xml:lang="eng"><em type="italic">4.2 Sequencing ................................................................................................................ 31 </em></p>
-<p xml:lang="eng"><em type="italic">4.3  Future Projects........................................................................................................... 32 </em></p>
-<p xml:lang="eng"><em type="italic"> Conclusion ........................................................................................................................ 33 </em></p>
-<p xml:lang="eng"><em type="italic"> References ........................................................................................................................ 34 </em></p>
-<p xml:lang="eng"><em type="italic"> Acknowledgements .......................................................................................................... 37 </em></p>
-<p xml:lang="eng"><em type="italic"> Appendix .......................................................................................................................... 37 </em></p>
-<p xml:lang="eng"><em type="bold">1. Introduction </em></p>
-<p xml:lang="eng"><em type="bold">1.1 Population genetics </em></p>
-<p xml:lang="eng">Population genetics is the study of allele frequency distribution throughout a population, and</p>
-<p xml:lang="eng">how the distribution of the alleles can vary within and between subpopulations of a</p>
-<p xml:lang="eng">population (Hartl and Clark, 2007). Should the changes of DNA sequence result in any</p>
-<p xml:lang="eng">beneficial or detrimental effects, it will lead to a change in selection pressure on that gene.</p>
-<p xml:lang="eng">The selection pressure on a specific gene can vary between populations, depending on what</p>
-<p xml:lang="eng">environmental challenges the different populations face.</p>
-<p xml:lang="eng">Population genetics is becoming an increasingly important for management of</p>
-<p xml:lang="eng">biological resources, including fish stock, because to be able to say with any confidence how</p>
-<p xml:lang="eng">a population is thriving, you need to be able to look at its subpopulations, and you can then</p>
-<p xml:lang="eng">set optimal strategies for management of said stock (Coyle, 1997).</p>
-<p xml:lang="eng">Population genetics is also an important tool in other aspects, because it with genetic</p>
-<p xml:lang="eng">mapping can detect genes for known disease susceptibility, both in humans and other</p>
-<p xml:lang="eng">organisms (Hartl and Clark, 2007). This is hard to use on a wild population of fish because of</p>
-<p xml:lang="eng">migrations and the many subpopulations, but it is important in aquacultures.</p>
-<p xml:lang="eng"><em type="bold">1.2 Methods in population genetics </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2014:05 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p xml:lang="eng">Steps towards next generation sequencing of</p>
+<p>Haemoglobin Menning av næstu generatión sekvensering av hemoglobin</p>
+<p>Høvundar / Authors</p>
+<p xml:lang="dan"><em type="bold">Ari Jespersen </em></p>
+<p>Vegleiðari / Supervisor</p>
+<p>Svein-Ole Mikalsen, Fróðskaparsetur Føroya Eyðfinn Magnussen, Fróðskaparsetur Føroya</p>
+<p xml:lang="eng">Ábyrgdarvegleiðari / Responsible Supervisor</p>
+<p>Svein-Ole Mikalsen, Fróðskaparsetur Føroya</p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p>BSc ritgerð, lívfrøði <em type="italic">BSc Thesis, Biology </em></p>
+<p>Latið inn / Submitted 5. september 2014</p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2014:05 © </p>
+<p>Náttúruvísindadeildin og høvundarnir 2014</p>
+<p xml:lang="eng">ISSN 1601-9741</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)     @ +298 352 550  +298 352 551  nvd@setur.fo</p>
+<p xml:lang="eng"><em type="bold">Contents </em>1. </p>
+<p xml:lang="eng">Introduction ........................................................................................................................ 1 1.1</p>
+<p xml:lang="eng">Population genetics ..................................................................................................... 1 1.2</p>
+<p xml:lang="eng">Methods in population genetics .................................................................................. 1 1.3</p>
+<p xml:lang="eng">Cod .............................................................................................................................. 2 1.3.1</p>
+<p xml:lang="eng">Atlantic Cod ......................................................................................................... 2 1.3.2</p>
+<p xml:lang="eng">Faroese cod populations ....................................................................................... 3 1.4</p>
+<p>Haemoglobin ............................................................................................................... 4 1.4.1</p>
+<p xml:lang="eng">Globin proteins and haemoglobin ........................................................................ 4 1.4.2</p>
+<p xml:lang="eng">Globin gene evolution .......................................................................................... 5 1.4.3</p>
+<p xml:lang="eng">Globin genes: Family and gene structure............................................................. 6 1.4.4</p>
+<p xml:lang="eng">Haemoglobin as a genetic marker in cod ............................................................. 7 1.4.5</p>
+<p xml:lang="eng">Haemoglobin as a potential development and environmental marker or sensor . 8 1.5</p>
+<p xml:lang="eng">Aims of present project ............................................................................................... 9 2.</p>
+<p xml:lang="eng">Materials and methods ...................................................................................................... 10 2.1</p>
+<p xml:lang="eng">Sampling.................................................................................................................... 10 2.2</p>
+<p xml:lang="eng">DNA purification....................................................................................................... 10 2.3</p>
+<p xml:lang="eng">Primers ...................................................................................................................... 10 2.4</p>
+<p xml:lang="eng">PCR ........................................................................................................................... 12 2.5</p>
+<p xml:lang="eng">Electrophoresis .......................................................................................................... 13 2.5.1</p>
+<p xml:lang="eng">Polyacrylamide gel electrophoresis ................................................................... 13 2.5.2</p>
+<p xml:lang="eng">Staining of polyacrylamide gels ......................................................................... 13 2.5.3</p>
+<p xml:lang="dan">Agarose gel ........................................................................................................ 13 2.5.4</p>
+<p xml:lang="eng">Fluorescent staining of agarose gels .................................................................. 13 2.6</p>
+<p xml:lang="eng">Purification of DNA from agarose gels..................................................................... 13 2.7</p>
+<p xml:lang="eng">Dideoxy sequencing .................................................................................................. 14 2.7.1</p>
+<p xml:lang="eng">Sequencing reaction ........................................................................................... 14 2.7.2</p>
+<p xml:lang="eng">Purification of sequencing products ................................................................... 14 2.7.3</p>
+<p xml:lang="eng">Sequencing ......................................................................................................... 14 3</p>
+<p xml:lang="eng">Results .............................................................................................................................. 15 3.1</p>
+<p xml:lang="eng">Steps towards parallel sequencing of targeted genes ................................................ 15 3.2</p>
+<p xml:lang="eng">Polyacrylamide and agarose gels and their staining: ................................................ 15 3.3</p>
+<p>Taq vs. HotStar:......................................................................................................... 16 3.4</p>
+<p xml:lang="eng">Testing of standard primers: ...................................................................................... 17 3.4.1</p>
+<p xml:lang="eng">Primers for haemoglobin α genes: ..................................................................... 17 3.4.1.1</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hba1 PCR products ................ 17 3.4.1.2</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hba2 PCR products ................ 19 3.4.1.3</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hba3 PCR products ................ 19 3.4.1.4</p>
+<p xml:lang="eng">PCR targeting Hba4 .................................................................................... 20 3.4.2</p>
+<p xml:lang="eng">Primer for haemoglobin β genes .................................................................... 20 3.4.2.1</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb1 PCR products ................ 20 3.4.2.2</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb2 PCR products ................ 23 3.4.2.3</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb3 and Hbb4 PCR products 25 3.4.2.4</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb5 PCR products ................ 26 3.5 454 Sequencing .................................................................................................. 27 3.5.1</p>
+<p xml:lang="eng">Initial Testing of 454 Sequencing .................................................................. 27 4</p>
+<p xml:lang="eng">Discussion:........................................................................................................................ 30 4.1</p>
+<p xml:lang="eng">PCR and agarose gels ................................................................................................ 30 4.2</p>
+<p xml:lang="eng">Sequencing ................................................................................................................ 31 4.3</p>
+<p xml:lang="eng">Future Projects........................................................................................................... 32 5</p>
+<p xml:lang="eng">Conclusion ........................................................................................................................ 33 6</p>
+<p xml:lang="eng">References ........................................................................................................................ 34 7</p>
+<p xml:lang="eng">Acknowledgements .......................................................................................................... 37 8</p>
+<p xml:lang="eng">Appendix .......................................................................................................................... 37 1 <em type="bold">1. Introduction </em><em type="bold">1.1 Population genetics </em></p>
+<p xml:lang="eng">Population genetics is the study of allele frequency distribution throughout a population, and how the distribution of the alleles can vary within and between subpopulations of a population (Hartl and Clark, 2007). Should the changes of DNA sequence result in any beneficial or detrimental effects, it will lead to a change in selection pressure on that gene.</p>
+<p xml:lang="eng">The selection pressure on a specific gene can vary between populations, depending on what environmental challenges the different populations face.</p>
+<p xml:lang="eng">Population genetics is becoming an increasingly important for management of biological resources, including fish stock, because to be able to say with any confidence how a population is thriving, you need to be able to look at its subpopulations, and you can then set optimal strategies for management of said stock (Coyle, 1997).</p>
+<p xml:lang="eng">Population genetics is also an important tool in other aspects, because it with genetic mapping can detect genes for known disease susceptibility, both in humans and other organisms (Hartl and Clark, 2007). This is hard to use on a wild population of fish because of migrations and the many subpopulations, but it is important in aquacultures. <em type="bold">1.2 Methods in population genetics </em></p>
 <p xml:lang="eng">Mendel’s experiments with plant hybridization is often said to be the foundation of genetics.</p>
 <p xml:lang="eng">However his experiments only focused on a visually observable difference in the phenotype.</p>
-<p xml:lang="eng">Phenotypic markers have been very important in classical population genetics, but in the last</p>
-<p xml:lang="eng">50 years or so, a number of molecular methods have been introduced.</p>
-<p xml:lang="eng">Among the first molecular methods, was the study of isoenzymes. Isoenzymes, which</p>
-<p xml:lang="eng">are enzymes that catalyze the same reaction, but have slightly different sequence of amino</p>
-<p xml:lang="eng">acids, can be used as a simple molecular marker through gel electrophoresis. Other proteins</p>
-<p xml:lang="eng">also have isoforms, among them haemoglobin. Haemoglobin was among the proteins used in</p>
-<p xml:lang="eng">early population genetic studies of cod, and some phenotypic alleles were discovered with</p>
-<p xml:lang="eng">this method (Sick, 1961).</p>
-<p xml:lang="eng">A genetic marker is a known sequence of DNA that can be used to identify</p>
-<p xml:lang="eng">individuals or species. Genetic markers are commonly used in forensic science and paternity</p>
-<p xml:lang="eng">tests. Methods directly studying DNA are much more powerful than studies of proteins,</p>
-<p xml:lang="eng">1 because with these methods  we can see differences on the DNA sequence, and not just the</p>
-<p xml:lang="eng">differences that would result in a change of amino acids in the protein sequence (as for</p>
-<p xml:lang="eng">isoforms). The markers can be single nucleotide polymorphisms (SNPs), minisatellites or</p>
-<p xml:lang="eng">microsatellites. SNPs are single nucleotide variations on the DNA strand, and if within the</p>
-<p xml:lang="eng">borders of a gene, they create different alleles of the same gene. Microsatellites, also known</p>
-<p xml:lang="eng">as simple sequence repeats (SSR), are used as molecular markers. Microsatellites are</p>
-<p xml:lang="eng">repeating sequences of 2-6 base pairs and they can be repeated in tandem many times at the</p>
-<p xml:lang="eng">particular site (Hartl and Jones, 2006).</p>
-<p xml:lang="eng">Both microsatellites and SNPs are great tools for population studies. In the</p>
-<p xml:lang="eng">foreseeable future, whole genome sequencing can give even more detailed resolution.</p>
-<p xml:lang="eng"><em type="bold">1.3 Cod </em></p>
-<p xml:lang="eng"><em type="bold">1.3.1 Atlantic Cod </em></p>
-<p xml:lang="eng">Atlantic Cod (<em type="italic">Gadus morhua</em>) is found on the continental shelves and banks on both sides of </p>
-<p xml:lang="eng">the North Atlantic (Figure 1.1). Cod prefers depths of 150 – 200 m, but can be found below</p>
-<p xml:lang="eng">600 m, its presence generally relies more on the amount of prey than on temperature</p>
-<p>(Magnussen, 1993).</p>
-<p xml:lang="eng">Cod is important as a human food resource and is therefore also an economically</p>
-<p xml:lang="eng">important species for nations around the North Atlantic. The most spectacular collapse in the</p>
-<p xml:lang="eng">cod populations occurred around Newfoundland, where people had lived of cod fisheries for</p>
-<p xml:lang="eng">about 500 years, and in the 1980’s the population was fished to near extinction through</p>
-<p xml:lang="eng">technological advances and lack of population management (Shelton, 2004). Even now 30</p>
-<p xml:lang="eng">years later, studies show that the cod stock around Newfoundland, while recovering, is only</p>
-<p xml:lang="eng">about 10% of its original size (Frank et al, 2011).</p>
-<p xml:lang="eng">2 <em type="bold">Figure 1.1</em> <em type="bold">Cods distribution. </em><em type="italic">Distribution </em></p>
-<p xml:lang="eng"><em type="italic">and spawning areas of cod in the North Atlantic, and the temperature of the waters (Sundby, 2000).</em> </p>
-<p xml:lang="eng"><em type="bold">1.3.2 Faroese cod populations </em></p>
-<p xml:lang="eng">Atlantic cod is split into several populations, two of which are in the Faroese waters, one on</p>
-<p xml:lang="eng">the Faroe Shelf and the other on Faroe Bank. Studies have shown that cod from Faroe Bank</p>
-<p xml:lang="eng">grows faster than cod in any other known population (Figure 1.2). Three year old cod from</p>
+<p xml:lang="eng">Phenotypic markers have been very important in classical population genetics, but in the last 50 years or so, a number of molecular methods have been introduced.</p>
+<p xml:lang="eng">Among the first molecular methods, was the study of isoenzymes. Isoenzymes, which are enzymes that catalyze the same reaction, but have slightly different sequence of amino acids, can be used as a simple molecular marker through gel electrophoresis. Other proteins also have isoforms, among them haemoglobin. Haemoglobin was among the proteins used in early population genetic studies of cod, and some phenotypic alleles were discovered with this method (Sick, 1961).</p>
+<p xml:lang="eng">A genetic marker is a known sequence of DNA that can be used to identify individuals or species. Genetic markers are commonly used in forensic science and paternity tests. Methods directly studying DNA are much more powerful than studies of proteins, 2 because with these methods we can see differences on the DNA sequence, and not just the differences that would result in a change of amino acids in the protein sequence (as for isoforms). The markers can be single nucleotide polymorphisms (SNPs), minisatellites or microsatellites. SNPs are single nucleotide variations on the DNA strand, and if within the borders of a gene, they create different alleles of the same gene. Microsatellites, also known as simple sequence repeats (SSR), are used as molecular markers. Microsatellites are repeating sequences of 2-6 base pairs and they can be repeated in tandem many times at the particular site (Hartl and Jones, 2006).</p>
+<p xml:lang="eng">Both microsatellites and SNPs are great tools for population studies. In the foreseeable future, whole genome sequencing can give even more detailed resolution. <em type="bold">1.3 Cod </em><em type="bold">1.3.1 Atlantic Cod </em></p>
+<p xml:lang="eng">Atlantic Cod ( <em type="italic">Gadus morhua </em>) is found on the continental shelves and banks on both sides of the North Atlantic (Figure 1.1). Cod prefers depths of 150 – 200 m, but can be found below 600 m, its presence generally relies more on the amount of prey than on temperature (Magnussen, 1993). </p>
+<p xml:lang="eng">Cod is important as a human food resource and is therefore also an economically important species for nations around the North Atlantic. The most spectacular collapse in the cod populations occurred around Newfoundland, where people had lived of cod fisheries for about 500 years, and in the 1980’s the population was fished to near extinction through technological advances and lack of population management (Shelton, 2004). Even now 30 years later, studies show that the cod stock around Newfoundland, while recovering, is only about 10% of its original size (Frank et al, 2011). 3 <em type="bold">1.3.2 Faroese cod populations </em></p>
+<p xml:lang="eng">Atlantic cod is split into several populations, two of which are in the Faroese waters, one on the Faroe Shelf and the other on Faroe Bank. Studies have shown that cod from Faroe Bank grows faster than cod in any other known population (Figure 1.2). Three year old cod from</p>
 <p xml:lang="eng">Faroe Bank is on average 73 cm in length and weighs 4.9 kg, where as cod from the Faroe</p>
 <p xml:lang="eng">Shelf is just 55 cm in length and weighs 1.7 kg (Magnussen, 2007).</p>
-<p xml:lang="eng">The fast growth of cod from Faroe Bank,</p>
-<p xml:lang="eng">makes it interesting for aquacultures</p>
-<p xml:lang="eng">since there the cod can be produced in a</p>
-<p xml:lang="eng">controlled manner. Cod hatcheries would</p>
-<p xml:lang="eng">want their eggs to come from a</p>
-<p xml:lang="eng">population of cod that grows faster than</p>
-<p xml:lang="eng">other cod. This begs the question<em type="bold">,</em> why </p>
-<p xml:lang="eng">does the cod on from Faroe Bank grow</p>
-<p xml:lang="eng">faster than cod in other waters. Two</p>
-<p xml:lang="eng">possible reasons are either they have</p>
-<p xml:lang="eng"><span type="quote" xml:lang="eng">“superior”</span> growth genes, or it could be</p>
-<p xml:lang="eng">environmental factors, as food,</p>
-<p xml:lang="eng"><em type="bold">Figure 1.2 Weight of three year old cod.</em> </p>
-<p xml:lang="eng"><em type="italic">Weight of three year old cod from various locations in the North Atlantic (Magnussen, 2009).</em> </p>
-<p xml:lang="eng">3 temperature or other environmental factors. It could also be a combination of the genes and</p>
-<p xml:lang="eng">the environment. Selling cod from Faroe Bank as a genetic template is interesting if its</p>
-<p xml:lang="eng">genetic code is the factor that makes it grow faster than other cod. If environmental factors</p>
-<p xml:lang="eng">are the reason, then it would be interesting to know what these factors are, and if these</p>
-<p xml:lang="eng">environmental factors could be replicated for aquacultures.</p>
-<p xml:lang="eng">The environmental questions are questions for another project though, as this project</p>
-<p xml:lang="eng">deals with the genetics of haemoglobin.</p>
-<p><em type="bold">1.4 Haemoglobin </em></p>
-<p xml:lang="eng"><em type="bold">1.4.1 Globin proteins and haemoglobin </em></p>
-<p xml:lang="eng">Globins are expressed in various tissues and cell types, where</p>
-<p xml:lang="eng">the most commonly known ones are myoglobin in muscles,</p>
-<p xml:lang="eng">cytoglobin in brain tissue and haemoglobin in red blood cells</p>
-<p xml:lang="dan">(Hoffman et al, 2012).</p>
-<p xml:lang="eng">Globin proteins can be single proteins, like myoglobin</p>
-<p xml:lang="eng">which facilitates oxygen diffusion and can also function as an</p>
-<p xml:lang="eng">oxygen reservoir for <em type="italic">Cetaceans</em> and <em type="italic">Pinnipeds</em> (Antonini, </p>
-<p xml:lang="eng">1971). Globins can also be multimeric complexes, like the</p>
-<p xml:lang="eng">tetrameric haemoglobin (Hoffman et al, 2012). In the</p>
-<p xml:lang="eng">gnathostomes, the haemoglobin consists of four subunits</p>
-<p xml:lang="eng">proteins, with two identical α-subunits and two identical β</p>
-<p xml:lang="eng">subunits. The haeme groups are noncovalently bound to the</p>
-<p xml:lang="eng">haemoglobin molecule. The haeme group has iron tied in a</p>
-<p xml:lang="eng"><em type="bold">Figure 1.3 Haeme structure. </em><em type="italic">Structure of </em></p>
-<p xml:lang="eng"><em type="italic">Haeme group in Haemoglobin and how the haeme has iron tied in a heterocyclic ring.</em> </p>
-<p xml:lang="eng">heterocyclic ring (Figure 1.3). Each globin peptide chain binds one haeme group, which</p>
-<p xml:lang="eng">means that each haemoglobin can carry four molecules of oxygen (Alberts et al., 2009).</p>
-<p xml:lang="eng">The four subunits are chained together around the haeme parts (Figure 1.4). The</p>
-<p xml:lang="eng">oxygen binding sites in all the haemoglobin interact which allows an allosteric change in the</p>
-<p xml:lang="eng">molecule, such that it binds and releases four oxygen molecules at a time. This feat becomes</p>
-<p xml:lang="eng">very important in larger animals, because with increasing size, it becomes increasingly</p>
-<p xml:lang="eng">important to be able to transport oxygen throughout the body, as direct diffusion of oxygen</p>
-<p xml:lang="eng">from the air to all cells becomes less and less of an option with increasing size (Alberts et al.,</p>
-<p>2009).</p>
-<p>4</p>
-<p xml:lang="eng">Not all haemes have the biological</p>
-<p xml:lang="eng">function of transporting oxygen. Their function</p>
-<p xml:lang="eng">is to transport diatomic gasses, chemical</p>
-<p xml:lang="eng">catalysis, diatomic gas detection and electron</p>
-<p xml:lang="eng">transfer. It is speculated that the original</p>
-<p xml:lang="eng">evolutionary function of haeme was electron</p>
-<p xml:lang="eng">transfer in primitive sulphur based</p>
-<p xml:lang="eng">photosynthesis pathways in ancestral</p>
-<p xml:lang="eng">cyanobacteria before the appearance of</p>
-<p xml:lang="eng">molecular oxygen (Hardison, 1999).</p>
-<p xml:lang="eng"><em type="bold">Figure 1.4</em> <em type="bold">Human haemoglobin. </em><em type="italic">The </em></p>
-<p xml:lang="eng"><em type="italic">red parts of the protein are the two α subunits, and the blue parts are the two β subunits. The four green groups are the </em></p>
-<p xml:lang="eng"><em type="italic">iron with the haeme group.</em> </p>
-<p xml:lang="eng"><em type="bold">1.4.2 Globin gene evolution </em></p>
-<p xml:lang="eng">Globin genes have some similarities, like the highly</p>
-<p xml:lang="eng">conserved globin fold, which is a three dimensional</p>
-<p xml:lang="eng">folding of six to eight α-helices, that enclose the</p>
-<p xml:lang="eng">haeme group in a hydrophobic pocket (Hoffmann et</p>
-<p xml:lang="eng">al., 2012). The similarities between globins in</p>
-<p xml:lang="eng">higher vertebrates, marine worms and insects show</p>
-<p xml:lang="eng">that they all must derive from a common ancestral</p>
-<p xml:lang="eng">gene.  This original monomeric globin protein</p>
-<p xml:lang="eng">transported oxygen molecules throughout the</p>
-<p xml:lang="eng">animal's body (Alberts et al., 2009). The α and β</p>
-<p xml:lang="eng">globins probably arose from a duplication followed</p>
-<p xml:lang="eng">by mutation, of the original globin gene about 500</p>
-<p xml:lang="eng">570 million years ago (Figure 1.5) (Alberts et al.,</p>
-<p xml:lang="eng">2009). As the fishes branched off from other</p>
-<p xml:lang="eng">vertebrates after α and β globins had evolved, they</p>
-<p xml:lang="eng">have both α and β haemoglobins.  Both α and β</p>
-<p xml:lang="eng">haemoglobin have since then had several more</p>
-<p xml:lang="eng"><em type="bold">Figure 1.5 Evolution of human haemoglobin. </em><em type="italic">Repeated rounds of </em></p>
-<p xml:lang="eng"><em type="italic">duplications and mutations generated the globin gene family (Alberts et al., 2009). Actinopterygii, where Teleostei evolved from, branched off from other vertebrates about 420 million years ago, indicated by the black line (Märss, 2001).</em> </p>
-<p xml:lang="eng">5 duplications followed by mutations which has given rise to the nine different haemoglobin</p>
-<p xml:lang="eng">genes in cod studied in this project.</p>
-<p xml:lang="eng"><em type="bold">1.4.3 Globin genes: Family and gene structure </em></p>
-<p xml:lang="eng">As for most eukaryotic genes, also the globin genes are split into exons and introns. Exons</p>
-<p xml:lang="eng">are the coding sequences of DNA. Intron are non-coding DNA sequences that are transcribed,</p>
-<p xml:lang="eng">but then cut in the transcription of mRNA (Hartl and Jones, 2006).</p>
-<p xml:lang="eng">Nine different haemoglobin genes have been discovered in cod (Borza et al., 2009). Most of</p>
-<p xml:lang="eng">them have several alleles (Table 1.1). Some of the genes are more similar to each other than</p>
-<p xml:lang="eng">others (Figure 1.6) (Table 1.2) for example β3 and β4 only differ from each other on seven</p>
-<p xml:lang="eng">nucleotides, β3 has a chain of four additional nucleotides in an intron, resulting in only one</p>
-<p xml:lang="eng">amino acid difference between β3 and β4. Table 1.2 clearly shows how some of the genes</p>
-<p xml:lang="eng">have more common characteristics than others and most clearly β3 and β4, and it supports the</p>
-<p xml:lang="eng">data from Figure 1.6.</p>
-<p xml:lang="eng"><em type="bold">Figure 1.6 Phylogram tree of cod haemoglobin genes. </em></p>
-<p xml:lang="eng"><em type="italic">Phylogram tree of α1- α4 and β1- β5 DNA sequences compared against each other. The full-lenght gene sequences were paired against each other with ClustalW.</em> </p>
-<p xml:lang="eng"><em type="bold">Table 1.1 Haemoglobin alleles.</em> <em type="italic">Number of alleles of </em></p>
-<p xml:lang="eng"><em type="italic">cod haemoglobin (Genbank)</em> </p>
-<p xml:lang="eng">Gene Number known of alleles according to Borza et al. (2009) α-1  α-2  α-3  α-4  β-1  β-2  β-3  β-4  β-5</p>
-<p>6</p>
-<p xml:lang="eng"><em type="bold">Table 1.2 All genes compared to each other. </em></p>
-<p xml:lang="eng"><em type="italic">One allele of all nine genes aligned with clustalw. These numbers show percentage identity.</em> </p>
-<p xml:lang="eng">a1-1 a2-1 a3-1 a4-1 b1-1 b2-1 b3-1 b4-1 b5-1 a1-1  65.36 73.07 60.72 59.95 59.4 56.19 56.92 56.28 a2-1 65.36  70.53 61.55 62.24 60.13 59.81 59.16 55.86 a3-1 73.07 70.53  73.44 60.58 65.75 74.27 73.85 70.07 a4-1 60.72 61.55 73.44  59.75 58.37 52.99 52.45 53.53 b1-1 59.95 62.24 60.28 59.75  59.1 66.62 67.27 67.17 b2-1 59.4 60.13 65.75 58.37 59.1  88.32 88.25 69.1 b3-1 56.19 59.81 74.27 52.99 66.62 88.32  99.58 62.17 b4-1 56.92 59.16 73.85 52.45 67.27 88.25 99.58  62.8 b5-1 56.28 55.86 70.07 53.53 67.17 69.1 62.17 62.8</p>
-<p xml:lang="eng"><em type="bold">1.4.4 Haemoglobin as a genetic marker in cod </em></p>
-<p xml:lang="eng">Haemoglobin can be used as a population marker,</p>
-<p xml:lang="eng">and was among the early population genetic markers</p>
-<p xml:lang="eng">used for cod. Sick found in 1965 that there are three</p>
-<p xml:lang="eng">phenotypic types of haemoglobin Hb-I (1/1), Hb-I</p>
-<p xml:lang="eng">(2/2) and Hb-I (1/2) as resolved by agarose gel</p>
-<p xml:lang="eng">electrophoresis. These three phenotypes are found in</p>
-<p xml:lang="eng">different frequencies in various environments (Table</p>
-<p xml:lang="eng">1.4). Hb-I (1/1) is most commonly found in warmer</p>
-<p xml:lang="eng">regions, Hb-I (2/2) is most commonly found in colder</p>
-<p xml:lang="eng">regions and Hb-I (1/2) is found in between (Sick,</p>
-<p>1965).</p>
-<p xml:lang="eng"><em type="bold">Table 1.3 Weight and isoeletric point of genes and alleles. </em><em type="italic">Haemoglobin </em></p>
-<p xml:lang="eng"><em type="italic">sequences were put into MS-digest tool at prospector.ucsf.edu and the tool calculated the molecular weight and isoelectric point of the protein</em><em type="bold"> </em></p>
-<p xml:lang="eng">Gene/alleles MW (unmodified) pI</p>
-<p xml:lang="eng">a1-1,2,e  9.4 a2  8.9 a3-1,2,3  9.2 a3-e  9.2 a4-1,2  7.8 b1-1,2,5 (β1A)  7.7 b1-6 (β1A)  7.7 b1-3,8 (β1B)  7.0 b1-4,7,e (β1B)  7.0 b2-1,2  5.9 b3-1,2,e  6.2 b3-3  6.2 b4-1,2,3  6.2 b4-4  6.2 b5-1,2  5.6</p>
-<p>7</p>
-<p xml:lang="eng">Agarose gel electrophoresis was among the first molecular methods, but is insensitive</p>
-<p xml:lang="eng">compared to other methods, and is but it hardly used today. Isoelectric focusing allows</p>
-<p xml:lang="eng">additional separation compared to</p>
-<p xml:lang="dan">gel electrophoresis (Borza et al.</p>
-<p xml:lang="eng">2009), and can be used as an</p>
-<p xml:lang="eng">optional step in electrophoresis or</p>
-<p xml:lang="eng">independently of electrophoresis.</p>
-<p xml:lang="eng">All of the nine different</p>
-<p xml:lang="eng">haemoglobin genes are claimed to</p>
-<p xml:lang="eng">be expressed simultaneously in</p>
-<p xml:lang="eng">adult cod, but the level of the</p>
-<p xml:lang="eng"><em type="bold">Table 1.4 Allele frequencies. </em><em type="italic">Haemoglobin 1 allele </em></p>
-<p xml:lang="eng"><em type="italic">frequencies for cod in the North Atlantic ocean (Magnussen, 1993)</em> </p>
-<p xml:lang="eng">Location Allele frequency Norwegian cod   Barents Sea                             Northern coastal cod                                  Southern coastal cod 0.03 – 0.21 0.10 – 0.41 0.36 – 0.52 Eastern Baltic Sea 0.01 – 0.05 Danish sounds 0.57 – 0.64 North Sea 0.55 – 0.72 Faroe Islands 0.04 – 0.10 Greenland and Iceland 0.01 – 0.02 North America    Newfoundland                             Gulf of Maine 0.04 0.07</p>
-<p xml:lang="eng">expression varies (Borza et al, 2009).</p>
-<p xml:lang="eng">β1 gene appears to be the gene that sets the phenotype, individuals with phenotype Hb-I (1/1)</p>
-<p xml:lang="eng">only had the β1A variation, and individuals with Hb-I (2/2) only had β1B variation.</p>
-<p xml:lang="eng">Individuals with Hb-I (1/2) had both variations of β1. The difference between β1A and β1B is</p>
-<p xml:lang="eng">two non-silent mutations that change the amino sequence, β1A has Met55 and Lys62 where</p>
-<p xml:lang="eng">β1B has Val55 and Ala62 (Table 1.3) (Borza et al., 2009).</p>
-<p xml:lang="eng"><em type="bold">1.4.5 Haemoglobin as a potential development and environmental marker or sensor </em></p>
-<p xml:lang="eng">Cod will adapt to the water temperature it occupies, which will favour the expression of more</p>
-<p xml:lang="eng">haemoglobin components. This will also affect the oxygen affinity of haemoglobin (Brix et</p>
-<p xml:lang="eng">al., 2004).</p>
+<p xml:lang="eng">The fast growth of cod from Faroe Bank, makes it interesting for aquacultures since there the cod can be produced in a controlled manner. Cod hatcheries would want their eggs to come from a population of cod that grows faster than other cod. This begs the question <em type="bold">, </em>why does the cod on from Faroe Bank grow faster than cod in other waters. Two possible reasons are either they have <span type="quote" xml:lang="eng">“superior”</span> growth genes, or it could be environmental factors, as food, </p>
+<p xml:lang="eng"><em type="bold">Figure 1.1 </em><em type="bold">Cods distribution. </em><em type="italic">Distribution and spawning areas of cod in the North Atlantic, and the temperature of the waters (Sundby, 2000). </em></p>
+<p xml:lang="eng"><em type="bold">Figure 1.2 Weight of three year old cod. </em><em type="italic">Weight of three year old cod from various locations in the North Atlantic (Magnussen, 2009). </em>4 temperature or other environmental factors. It could also be a combination of the genes and the environment. Selling cod from Faroe Bank as a genetic template is interesting if its genetic code is the factor that makes it grow faster than other cod. If environmental factors are the reason, then it would be interesting to know what these factors are, and if these environmental factors could be replicated for aquacultures. </p>
+<p xml:lang="eng">The environmental questions are questions for another project though, as this project deals with the genetics of haemoglobin. <em type="bold">1.4 Haemoglobin </em><em type="bold">1.4.1 Globin proteins and haemoglobin </em></p>
+<p xml:lang="eng">Globins are expressed in various tissues and cell types, where the most commonly known ones are myoglobin in muscles, cytoglobin in brain tissue and haemoglobin in red blood cells (Hoffman et al, 2012).</p>
+<p xml:lang="eng">Globin proteins can be single proteins, like myoglobin which facilitates oxygen diffusion and can also function as an oxygen reservoir for <em type="italic">Cetaceans </em>and <em type="italic">Pinnipeds </em>(Antonini, 1971). Globins can also be multimeric complexes, like the tetrameric haemoglobin (Hoffman et al, 2012). In the gnathostomes, the haemoglobin consists of four subunits proteins, with two identical α-subunits and two identical β-subunits. The haeme groups are noncovalently bound to the haemoglobin molecule. The haeme group has iron tied in a heterocyclic ring (Figure 1.3). Each globin peptide chain binds one haeme group, which means that each haemoglobin can carry four molecules of oxygen (Alberts et al., 2009). </p>
+<p xml:lang="eng">The four subunits are chained together around the haeme parts (Figure 1.4). The oxygen binding sites in all the haemoglobin interact which allows an allosteric change in the molecule, such that it binds and releases four oxygen molecules at a time. This feat becomes very important in larger animals, because with increasing size, it becomes increasingly important to be able to transport oxygen throughout the body, as direct diffusion of oxygen from the air to all cells becomes less and less of an option with increasing size (Alberts et al., 2009).</p>
+<p xml:lang="eng"><em type="bold">Figure 1.3 Haeme structure. </em>Structure of Haeme group in Haemoglobin and how the haeme has iron tied in a heterocyclic ring. 5 </p>
+<p xml:lang="eng">Not all haemes have the biological function of transporting oxygen. Their function is to transport diatomic gasses, chemical catalysis, diatomic gas detection and electron transfer. It is speculated that the original evolutionary function of haeme was electron transfer in primitive sulphur based photosynthesis pathways in ancestral cyanobacteria before the appearance of molecular oxygen (Hardison, 1999). <em type="bold">1.4.2 Globin gene evolution </em></p>
+<p xml:lang="eng">Globin genes have some similarities, like the highly conserved globin fold, which is a three dimensional folding of six to eight α-helices, that enclose the haeme group in a hydrophobic pocket (Hoffmann et al., 2012). The similarities between globins in higher vertebrates, marine worms and insects show that they all must derive from a common ancestral gene. This original monomeric globin protein transported oxygen molecules throughout the animal's body (Alberts et al., 2009). The α and β globins probably arose from a duplication followed by mutation, of the original globin gene about 500-570 million years ago (Figure 1.5) (Alberts et al., 2009). As the fishes branched off from other vertebrates after α and β globins had evolved, they have both α and β haemoglobins. Both α and β haemoglobin have since then had several more</p>
+<p xml:lang="eng"><em type="bold">Figure 1.4 </em><em type="bold">Human haemoglobin. </em><em type="italic">The red parts of the protein are the two α subunits, and the blue parts are the two β subunits. The four green groups are the iron with the haeme group. </em></p>
+<p xml:lang="eng"><em type="bold">Figure 1.5 Evolution of human haemoglobin. </em><em type="italic">Repeated rounds of duplications and mutations generated the globin gene family (Alberts et al., 2009). Actinopterygii, where Teleostei evolved from, branched off from other vertebrates about 420 million years ago, indicated by the black line (Märss, 2001). </em>6 duplications followed by mutations which has given rise to the nine different haemoglobin genes in cod studied in this project. <em type="bold">1.4.3 Globin genes: Family and gene structure </em></p>
+<p xml:lang="eng">As for most eukaryotic genes, also the globin genes are split into exons and introns. Exons are the coding sequences of DNA. Intron are non-coding DNA sequences that are transcribed, but then cut in the transcription of mRNA (Hartl and Jones, 2006).</p>
+<p xml:lang="eng">Nine different haemoglobin genes have been discovered in cod (Borza et al., 2009). Most of them have several alleles (Table 1.1). Some of the genes are more similar to each other than others (Figure 1.6) (Table 1.2) for example β3 and β4 only differ from each other on seven nucleotides, β3 has a chain of four additional nucleotides in an intron, resulting in only one amino acid difference between β3 and β4. Table 1.2 clearly shows how some of the genes have more common characteristics than others and most clearly β3 and β4, and it supports the data from Figure 1.6.</p>
+<p xml:lang="eng"><em type="bold">Figure 1.6 Phylogram tree of cod haemoglobin genes. </em><em type="italic">Phylogram tree of α1- α4 and β1- β5 DNA sequences compared against each other. The full-lenght gene sequences were paired against each other with ClustalW. </em></p>
+<p xml:lang="eng"><em type="bold">Table 1.1 Haemoglobin alleles. </em><em type="italic">Number of alleles of cod haemoglobin (Genbank) </em>Gene </p>
+<p xml:lang="eng">Number known of alleles according to Borza et al. (2009) α-1 2 α-2 1 α-3 3 α-4 2 β-1 8 β-2 2 β-3 3 β-4 4 β-5 2 7</p>
+<p xml:lang="eng"><em type="bold">Table 1.2 All genes compared to each other. </em><em type="italic">One allele of all nine genes aligned with clustalw. These numbers show percentage identity. </em>a1-1 a2-1 a3-1 a4-1 b1-1 b2-1 b3-1 b4-1 b5-1 a1-1 100 65.36 73.07 60.72 59.95 59.4 56.19 56.92 56.28 a2-1 65.36 100 70.53 61.55 62.24 60.13 59.81 59.16 55.86 a3-1 73.07 70.53 100 73.44 60.58 65.75 74.27 73.85 70.07 a4-1 60.72 61.55 73.44 100 59.75 58.37 52.99 52.45 53.53 b1-1 59.95 62.24 60.28 59.75 100 59.1 66.62 67.27 67.17 b2-1 59.4 60.13 65.75 58.37 59.1 100 88.32 88.25 69.1 b3-1 56.19 59.81 74.27 52.99 66.62 88.32 100 99.58 62.17 b4-1 56.92 59.16 73.85 52.45 67.27 88.25 99.58 100 62.8 b5-1 56.28 55.86 70.07 53.53 67.17 69.1 62.17 62.8 100 <em type="bold">1.4.4 Haemoglobin as a genetic marker in cod </em></p>
+<p xml:lang="eng">Haemoglobin can be used as a population marker, and was among the early population genetic markers used for cod. Sick found in 1965 that there are three phenotypic types of haemoglobin Hb-I (1/1), Hb-I (2/2) and Hb-I (1/2) as resolved by agarose gel electrophoresis. These three phenotypes are found in different frequencies in various environments (Table 1.4). Hb-I (1/1) is most commonly found in warmer regions, Hb-I (2/2) is most commonly found in colder regions and Hb-I (1/2) is found in between (Sick, 1965).</p>
+<p xml:lang="eng"><em type="bold">Table 1.3 Weight and isoeletric point of genes and alleles. </em><em type="italic">Haemoglobin sequences were put into MS-digest tool at prospector.ucsf.edu and the tool calculated the molecular weight and isoelectric point of the protein </em><em type="bold"></em>Gene/alleles </p>
+<p xml:lang="eng">MW (unmodified) pI a1-1,2,e 15918 9.4 a2 15797 8.9 a3-1,2,3 15967 9.2 a3-e 15983 9.2 a4-1,2 16041 7.8 b1-1,2,5 (β1A) 16373 7.7 b1-6 (β1A) 16391 7.7 b1-3,8 (β1B) 16302 7.0 b1-4,7,e (β1B) 16284 7.0 b2-1,2 16797 5.9 b3-1,2,e 16635 6.2 b3-3 16662 6.2 b4-1,2,3 16622 6.2 b4-4 16636 6.2 b5-1,2 16738 5.6 8</p>
+<p xml:lang="eng">Agarose gel electrophoresis was among the first molecular methods, but is insensitive compared to other methods, and is but it hardly used today. Isoelectric focusing allows additional separation compared to gel electrophoresis (Borza et al. 2009), and can be used as an optional step in electrophoresis or independently of electrophoresis.</p>
+<p xml:lang="eng">All of the nine different haemoglobin genes are claimed to be expressed simultaneously in adult cod, but the level of the expression varies (Borza et al, 2009). β1 gene appears to be the gene that sets the phenotype, individuals with phenotype Hb-I (1/1) only had the β1A variation, and individuals with Hb-I (2/2) only had β1B variation.</p>
+<p xml:lang="eng">Individuals with Hb-I (1/2) had both variations of β1. The difference between β1A and β1B is two non-silent mutations that change the amino sequence, β1A has Met55 and Lys62 where β1B has Val55 and Ala62 (Table 1.3) (Borza et al., 2009). <em type="bold">1.4.5 Haemoglobin as a potential development and environmental marker or </em><em type="bold">sensor </em></p>
+<p xml:lang="eng">Cod will adapt to the water temperature it occupies, which will favour the expression of more haemoglobin components. This will also affect the oxygen affinity of haemoglobin (Brix et al., 2004).</p>
 <p xml:lang="eng">It has been shown that the haemoglobin phenotype changes as the juveniles grow up.</p>
 <p xml:lang="eng">Juveniles with Hb-I (1/1) preferred an ambient temperature of 15.4oC where as juveniles with</p>
-<p xml:lang="eng">Hb-I (2/2) preferred an ambient temperature of 8.2oC (Petersen and Steffensen, 2003). For</p>
-<p xml:lang="eng">fish, the preferred temperature is closely associated with the optimal growth temperature (Fry</p>
-<p xml:lang="eng">and Hochachka, 1970).</p>
-<p xml:lang="eng">Similarly to other fish species such as rainbow trout, carp and goldfish, cod could</p>
-<p xml:lang="eng">possibly be able to respond to environmental challenges, like chronic hypoxia or long term</p>
-<p xml:lang="eng">changes in temperature, by altering the expression level of each of the different genes,</p>
-<p xml:lang="eng">thereby adapting itself to a new environment (Borza et al., 2009).</p>
-<p>8</p>
-<p xml:lang="eng"><em type="bold">1.5 Aims of present project </em></p>
-<p xml:lang="eng">The aims of the present project is studying the haemoglobin genes and alleles, which will</p>
-<p xml:lang="eng">give us more detailed data about the Faroese cod population and its subpopulations, and can</p>
-<p xml:lang="eng">give us an overview of haemoglobin alleles in the Faroese waters.</p>
-<p xml:lang="eng">Because this institution does not have any history in molecular DNA methods, this project</p>
-<p xml:lang="eng">aims to establish the methods leading up to large-scale parallel sequencing of cod. These</p>
-<p xml:lang="eng">methods include primer design and the testing of primers and optimizing conditions for PCR.</p>
-<p>9</p>
-<p xml:lang="eng"><em type="bold">2. Materials and methods </em></p>
-<p xml:lang="eng"><em type="bold">2.1 Sampling </em></p>
-<p xml:lang="eng">Blood samples were taken from cod at the Faroese Aquaculture Research Station where they</p>
-<p xml:lang="eng">study cod in various projects, with individuals from Faroe Bank and the Faroe shelf. 64</p>
-<p xml:lang="eng">samples were taken from Faroe Bank cod and 28 samples from Faroe Shelf cod. The</p>
-<p xml:lang="eng">sampling procedure was: About 100 µL of blood was collected by a heparinized syringe and</p>
-<p xml:lang="eng">centrifuged with 500 µL Tris buffer with 25 units of heparin/ml. The supernatant fluids were</p>
-<p xml:lang="eng">discarded, and additional 500 µL Tris was added and centrifuged again. After the supernatant</p>
-<p xml:lang="eng">fluids had been discarded again 250 µL RNAlater was added and the tube was gently</p>
-<p xml:lang="eng">vortexed to mix RNAlater well. Because the samples needed to be stored over longer periods,</p>
-<p xml:lang="eng">they were first put into the refrigerator for a couple of days, to let RNAlater penetrate into all</p>
-<p xml:lang="eng">the cells, after a few days samples were moved to the freezer.</p>
-<p xml:lang="eng"><em type="bold">2.2 DNA purification </em></p>
-<p xml:lang="eng">For purification of DNA from the cod blood, <span type="quote" xml:lang="eng">"DNeasy® Blood &amp; Tissue Kit"</span> by Qiagen was</p>
-<p xml:lang="eng">used according to the supplier’s procedure. The optional RNAse treatment was not used.</p>
-<p xml:lang="eng">The concentration of purified DNA was estimated by NanoPhotometer Pearl from Implen.</p>
-<p xml:lang="eng"><em type="bold">2.3 Primers </em></p>
-<p xml:lang="eng">The primers (Table 2.1) were manually designed so that they could cover as much of the gene</p>
-<p xml:lang="eng">as possible. Primer pairs were located to give PCR products that were of similar lengths, for</p>
-<p xml:lang="eng">cDNA about 350 and for gDNA 550-700 base pairs (Figure 2.1). Some of the Hb genes could</p>
-<p xml:lang="eng">be covered by one primer pair, where other Hb genes needed two or even three primer pairs</p>
-<p xml:lang="eng">to cover the entire gene. The primers were all designed to work optimally at similar</p>
-<p xml:lang="eng">temperatures, so that it would be possible to run many combinations under identical</p>
-<p xml:lang="eng">conditions. Accession numbers for all the haemoglobin genes and their alleles are found in</p>
+<p xml:lang="eng">Hb-I (2/2) preferred an ambient temperature of 8.2oC (Petersen and Steffensen, 2003). For fish, the preferred temperature is closely associated with the optimal growth temperature (Fry and Hochachka, 1970).</p>
+<p xml:lang="eng">Similarly to other fish species such as rainbow trout, carp and goldfish, cod could possibly be able to respond to environmental challenges, like chronic hypoxia or long term changes in temperature, by altering the expression level of each of the different genes, thereby adapting itself to a new environment (Borza et al., 2009).</p>
+<p xml:lang="eng"><em type="bold">Table 1.4 Allele frequencies. </em><em type="italic">Haemoglobin 1 allele frequencies for cod in the North Atlantic ocean (Magnussen, 1993) </em>Location </p>
+<p xml:lang="eng">Allele frequency</p>
+<p xml:lang="eng">Norwegian cod Barents Sea Northern coastal cod Southern coastal cod 0.03 – 0.21 0.10 – 0.41 0.36 – 0.52</p>
+<p xml:lang="eng">Eastern Baltic Sea 0.01 – 0.05</p>
+<p xml:lang="eng">Danish sounds 0.57 – 0.64</p>
+<p xml:lang="eng">North Sea 0.55 – 0.72</p>
+<p xml:lang="eng">Faroe Islands 0.04 – 0.10</p>
+<p xml:lang="eng">Greenland and Iceland 0.01 – 0.02</p>
+<p xml:lang="eng">North America Newfoundland Gulf of Maine 0.04 0.07 9 <em type="bold">1.5 Aims of present project </em></p>
+<p xml:lang="eng">The aims of the present project is studying the haemoglobin genes and alleles, which will give us more detailed data about the Faroese cod population and its subpopulations, and can give us an overview of haemoglobin alleles in the Faroese waters.</p>
+<p xml:lang="eng">Because this institution does not have any history in molecular DNA methods, this project aims to establish the methods leading up to large-scale parallel sequencing of cod. These methods include primer design and the testing of primers and optimizing conditions for PCR. 10 <em type="bold">2. Materials and methods </em><em type="bold">2.1 Sampling </em></p>
+<p xml:lang="eng">Blood samples were taken from cod at the Faroese Aquaculture Research Station where they study cod in various projects, with individuals from Faroe Bank and the Faroe shelf. 64 samples were taken from Faroe Bank cod and 28 samples from Faroe Shelf cod. The sampling procedure was: About 100 µL of blood was collected by a heparinized syringe and centrifuged with 500 µL Tris buffer with 25 units of heparin/ml. The supernatant fluids were discarded, and additional 500 µL Tris was added and centrifuged again. After the supernatant fluids had been discarded again 250 µL RNAlater was added and the tube was gently vortexed to mix RNAlater well. Because the samples needed to be stored over longer periods, they were first put into the refrigerator for a couple of days, to let RNAlater penetrate into all the cells, after a few days samples were moved to the freezer. <em type="bold">2.2 DNA purification </em></p>
+<p xml:lang="eng">For purification of DNA from the cod blood, <span type="quote" xml:lang="eng">"DNeasy® Blood &amp; Tissue Kit"</span> by Qiagen was used according to the supplier’s procedure. The optional RNAse treatment was not used.</p>
+<p xml:lang="eng">The concentration of purified DNA was estimated by NanoPhotometer Pearl from Implen. <em type="bold">2.3 Primers </em></p>
+<p xml:lang="eng">The primers (Table 2.1) were manually designed so that they could cover as much of the gene as possible. Primer pairs were located to give PCR products that were of similar lengths, for cDNA about 350 and for gDNA 550-700 base pairs (Figure 2.1). Some of the Hb genes could be covered by one primer pair, where other Hb genes needed two or even three primer pairs to cover the entire gene. The primers were all designed to work optimally at similar temperatures, so that it would be possible to run many combinations under identical conditions. Accession numbers for all the haemoglobin genes and their alleles are found in</p>
 <p xml:lang="eng">Table 2.2.</p>
-<p xml:lang="eng">All standard PCR primers were synthesized by DNA Technology (Aarhus), and the 454</p>
-<p xml:lang="eng">sequencing PCR primers were synthesized by either DNA Technology or TAG Copenhagen.</p>
-<p>10</p>
-<p xml:lang="eng"><em type="bold">Table 2.1 Primers. </em> <em type="italic">All the primers used in this </em></p>
-<p xml:lang="eng"><em type="italic">project. Some primers accounted for degenerated sequences.‘ W = A and T,’’M = A and C </em></p>
-<p xml:lang="eng">Primer name Sequence</p>
-<p xml:lang="dan">a1F14 CAAAGGACAAGGCGACCGTCA</p>
-<p xml:lang="dan">a2F-27 CTAGAAAGCAACTATCTGAACGTCAAC</p>
-<p xml:lang="dan">a2F312 CTCTCACTGGAAGGACGCGAG</p>
-<p xml:lang="dan">a2F352 AGGAAGCATGGCATCACCATCATG</p>
-<p xml:lang="dan">a3F59 TGGCTGACCGCATAGGAGCAG</p>
-<p xml:lang="dan">a3F851 ACCTCGCTCCTCTTCAAACCTAC</p>
-<p xml:lang="dan">a3F1163 GGTTAACTAGGACCATAGGTGTAC</p>
-<p xml:lang="dan">a4F63 AGCAGTGGAGATCGGACACCAG</p>
-<p xml:lang="dan">a4F249 CCAAACCAAAGTCTACTTCTCCCA</p>
-<p xml:lang="dan">b1F-26 CATTGAACCCTTAAGACWACGCCAC’</p>
-<p xml:lang="dan">b1F-44 GAGATTCAGCCTAAGCTACATTGAAC</p>
-<p xml:lang="dan">b1F44 TCTGGAGCAAGATCGACATTGATG</p>
-<p xml:lang="dan">b1F589 CACTCCGAGAAACTGCACGTCGA</p>
-<p xml:lang="dan">b1F-35 CCTAAGCTACATTGAACCCTTAAGAC</p>
-<p xml:lang="dan">b234F-13 CACAWCAGCAACCATGGTTGAG’</p>
-<p xml:lang="dan">b234F255 TCTGATCGTGTACCCCTGGACC</p>
-<p xml:lang="dan">b234F50 CAMCTTGGACTACGAAGAGATCGG’’</p>
-<p xml:lang="dan">b34F-5 CACCATGGTTGAGTGGACAGATARTG</p>
-<p xml:lang="dan">b5F1 ATGGTAGAGTGGACAGAATTTGAG</p>
-<p xml:lang="dan">b5F27 CGATACAATCAAGGACATCTTCTC</p>
-<p xml:lang="dan">b5F239 ACTCGGAGGTACTTTGGAAACTTC</p>
-<p xml:lang="eng">a1R400 AAGCACACAGGAACTTGTCGAC</p>
-<p xml:lang="eng">a1R414 AGCTCGCTCAGAGTGAGAAGAC</p>
-<p xml:lang="eng">a2R346 GGAAGATCATGGACATGCACACCA</p>
-<p xml:lang="eng">a3R394 ACGCAGAGAGATACTTGTCCATG</p>
-<p xml:lang="eng">a3R1304 CCTATACCTATCTGTCTAGTACAC</p>
-<p xml:lang="eng">a4R614 CTGAGGAGTGAAATCATCTGGGAAC</p>
-<p xml:lang="eng">b1R252 GGACTTGATTTCGTCCATGTGGTC</p>
-<p xml:lang="eng">b1R463b TAGCGTCAGCACACATCTTCTAGTG</p>
-<p xml:lang="eng">b1R463 TAGCGTCAGCACACATCTTCTAG</p>
-<p xml:lang="eng">b1R611 CACTCCGAGAAACTGCACGTCGA</p>
-<p xml:lang="eng">b1R261 GACGAAATCAAGTCCACCTACGCT</p>
-<p xml:lang="eng">b234R417 GACGACGACAGACAGGAACTTCTG</p>
-<p xml:lang="eng">b234R447 CTTGTCAGAGTGGAGCAGAGAC</p>
-<p xml:lang="eng">b2R525 AGATCACCCACTCTGCGGCTTG</p>
-<p xml:lang="eng">b5R449 CGCTACTAGTGGTACTGGCTTC</p>
-<p xml:lang="eng">b5R709 ACGGTAGTCCTACTGTCCATGCA</p>
-<p xml:lang="eng"><em type="bold">Table 2.2 Hb genes on Genbank. </em></p>
-<p xml:lang="eng"><em type="italic">Accession numbers for the haemoglobin genes in Genbank.</em> </p>
-<p>α1  FJ666964 - FJ666965 α2  FJ666966 α3  FJ666967 - FJ666969 α4  FJ666970 - FJ666971 β1  FJ666972 - FJ666979 β2  FJ666980 - FJ666981 β3  FJ666982 - FJ666984 β4  FJ666985 - FJ666988 β5  FJ666989 - FJ666990</p>
-<p>11</p>
-<p xml:lang="eng"><em type="bold">Figure 2.1 Primer locations for α1 and α2.</em>  <em type="italic">Illustration showing location for primers on the </em></p>
-<p xml:lang="eng"><em type="italic">haemoglobin gen. The exons are the bulging boxes and the introns are the lines between the </em></p>
-<p xml:lang="eng"><em type="italic">boxes. The sizes of the exons and introns are indicated by the numbers above them. The </em></p>
-<p xml:lang="eng"><em type="italic">horizontal red arrow indicates the primer is for cDNA and the blue arrow is for gDNA. The </em></p>
-<p xml:lang="eng"><em type="italic">red boxes indicate a forward primer and the blue boxes indicate reverse. The yellow and light </em></p>
-<p xml:lang="eng"><em type="italic">blue are newer primers. The vertical lines show positions of SNPs generating different </em></p>
-<p xml:lang="eng"><em type="italic">alleles. </em> </p>
-<p xml:lang="eng"><em type="bold">2.4 PCR </em></p>
+<p xml:lang="eng">All standard PCR primers were synthesized by DNA Technology (Aarhus), and the 454 sequencing PCR primers were synthesized by either DNA Technology or TAG Copenhagen. 11</p>
+<p xml:lang="eng"><em type="bold">Table 2.1 Primers. </em><em type="italic">All the primers used in this project. Some primers accounted for degenerated sequences.‘ W = A and T,’’M = A and C </em>Primer name </p>
+<p xml:lang="eng">Sequence a1F14</p>
+<p xml:lang="dan">CAAAGGACAAGGCGACCGTCA a2F-27</p>
+<p xml:lang="dan">CTAGAAAGCAACTATCTGAACGTCAAC a2F312</p>
+<p xml:lang="dan">CTCTCACTGGAAGGACGCGAG a2F352</p>
+<p xml:lang="dan">AGGAAGCATGGCATCACCATCATG a3F59</p>
+<p xml:lang="dan">TGGCTGACCGCATAGGAGCAG a3F851</p>
+<p xml:lang="dan">ACCTCGCTCCTCTTCAAACCTAC a3F1163</p>
+<p xml:lang="dan">GGTTAACTAGGACCATAGGTGTAC a4F63</p>
+<p xml:lang="dan">AGCAGTGGAGATCGGACACCAG a4F249</p>
+<p xml:lang="dan">CCAAACCAAAGTCTACTTCTCCCA b1F-26</p>
+<p xml:lang="dan">CATTGAACCCTTAAGACWACGCCAC’ b1F-44</p>
+<p xml:lang="dan">GAGATTCAGCCTAAGCTACATTGAAC b1F44</p>
+<p xml:lang="dan">TCTGGAGCAAGATCGACATTGATG b1F589</p>
+<p xml:lang="dan">CACTCCGAGAAACTGCACGTCGA b1F-35</p>
+<p xml:lang="dan">CCTAAGCTACATTGAACCCTTAAGAC b234F-13</p>
+<p xml:lang="dan">CACAWCAGCAACCATGGTTGAG’ b234F255</p>
+<p xml:lang="dan">TCTGATCGTGTACCCCTGGACC b234F50</p>
+<p xml:lang="dan">CAMCTTGGACTACGAAGAGATCGG’’ b34F-5</p>
+<p xml:lang="dan">CACCATGGTTGAGTGGACAGATARTG b5F1</p>
+<p xml:lang="dan">ATGGTAGAGTGGACAGAATTTGAG b5F27</p>
+<p xml:lang="dan">CGATACAATCAAGGACATCTTCTC b5F239</p>
+<p xml:lang="eng">ACTCGGAGGTACTTTGGAAACTTC a1R400</p>
+<p xml:lang="eng">AAGCACACAGGAACTTGTCGAC a1R414</p>
+<p xml:lang="eng">AGCTCGCTCAGAGTGAGAAGAC a2R346</p>
+<p xml:lang="eng">GGAAGATCATGGACATGCACACCA a3R394</p>
+<p xml:lang="eng">ACGCAGAGAGATACTTGTCCATG a3R1304</p>
+<p xml:lang="eng">CCTATACCTATCTGTCTAGTACAC a4R614</p>
+<p xml:lang="eng">CTGAGGAGTGAAATCATCTGGGAAC b1R252</p>
+<p xml:lang="eng">GGACTTGATTTCGTCCATGTGGTC b1R463b</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAGTG b1R463</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAG b1R611</p>
+<p xml:lang="eng">CACTCCGAGAAACTGCACGTCGA b1R261</p>
+<p xml:lang="eng">GACGAAATCAAGTCCACCTACGCT b234R417</p>
+<p xml:lang="eng">GACGACGACAGACAGGAACTTCTG b234R447</p>
+<p xml:lang="eng">CTTGTCAGAGTGGAGCAGAGAC b2R525</p>
+<p xml:lang="eng">AGATCACCCACTCTGCGGCTTG b5R449</p>
+<p xml:lang="eng">CGCTACTAGTGGTACTGGCTTC b5R709</p>
+<p xml:lang="eng">ACGGTAGTCCTACTGTCCATGCA</p>
+<p xml:lang="eng"><em type="bold">Table 2.2 Hb genes on Genbank. </em><em type="italic">Accession numbers for the haemoglobin genes in Genbank. </em>α1 FJ666964 - FJ666965 α2 FJ666966 α3 FJ666967 - FJ666969 α4 FJ666970 - FJ666971 β1 FJ666972 - FJ666979 β2 FJ666980 - FJ666981 β3 FJ666982 - FJ666984 β4 FJ666985 - FJ666988 β5 FJ666989 - FJ666990 12 <em type="bold">2.4 PCR </em></p>
 <p xml:lang="eng">Two thermostable DNA polymerases were used during this work, a Platinum Taq DNA</p>
-<p xml:lang="eng">Polymerase (Invitrogen) and HotStar HiFidelity DNA Polymerase kit (Qiagen). Taq was used</p>
-<p xml:lang="eng">for the main part of this work.</p>
-<p xml:lang="eng">PCR with Taq followed the standard protocol procedure from Invitrogen with the</p>
-<p xml:lang="eng">final primer concentration 0.2 µM and DNA about 150 ng.</p>
-<p xml:lang="eng">The PCR machine was setup according to the procedure for Taq. Denaturation was for</p>
-<p xml:lang="eng">15 sec at 94 oC, annealing for 1 min at 60 oC and elongation for 1 min at 72 oC. The PCR ran</p>
-<p xml:lang="eng">for 34-40 cycles, depending on how much of the PCR product we wanted. After all the</p>
-<p xml:lang="eng">regular cycles, an extra step with 10 min elongation is performed.</p>
-<p xml:lang="eng">For next generation sequencing it is recommended to use a highfidelity DNA polymerase. For</p>
-<p xml:lang="eng">this HotStar HiFidelity DNA Polymerase (Qiagen) was used. This kit needed some</p>
-<p xml:lang="eng">optimizations of conditions before any results were acquired. This optimization is shortly</p>
-<p xml:lang="eng">described in Results.</p>
-<p>12</p>
-<p xml:lang="eng"><em type="bold">2.5 Electrophoresis </em></p>
-<p xml:lang="eng"><em type="bold">2.5.1 Polyacrylamide gel electrophoresis </em></p>
-<p xml:lang="eng">A 5% polyacrylamide gel was used. The liquid acrylamide was 30% acrylamide / Bis</p>
-<p xml:lang="eng">solution 37.5:1 (2.6% C) from Bio-Rad. TAE was used as the gel buffer as well as</p>
-<p xml:lang="eng">electrophoresis buffer. 1x solution of TAE contains 40 mM Tris, 20 mM acetic acid, 1 mM</p>
+<p xml:lang="eng">Polymerase (Invitrogen) and HotStar HiFidelity DNA Polymerase kit (Qiagen). Taq was used for the main part of this work.</p>
+<p xml:lang="eng">PCR with Taq followed the standard protocol procedure from Invitrogen with the final primer concentration 0.2 µM and DNA about 150 ng.</p>
+<p xml:lang="eng">The PCR machine was setup according to the procedure for Taq. Denaturation was for 15 sec at 94 oC, annealing for 1 min at 60 oC and elongation for 1 min at 72 oC. The PCR ran for 34-40 cycles, depending on how much of the PCR product we wanted. After all the regular cycles, an extra step with 10 min elongation is performed.</p>
+<p xml:lang="eng">For next generation sequencing it is recommended to use a highfidelity DNA polymerase. For this HotStar HiFidelity DNA Polymerase (Qiagen) was used. This kit needed some optimizations of conditions before any results were acquired. This optimization is shortly described in Results.</p>
+<p xml:lang="eng"><em type="bold">Figure 2.1 Primer locations for α1 and α2. </em><em type="italic">Illustration showing location for primers on the </em><em type="italic">haemoglobin gen. The exons are the bulging boxes and the introns are the lines between the </em><em type="italic">boxes. The sizes of the exons and introns are indicated by the numbers above them. The </em><em type="italic">horizontal red arrow indicates the primer is for cDNA and the blue arrow is for gDNA. The </em><em type="italic">red boxes indicate a forward primer and the blue boxes indicate reverse. The yellow and light </em><em type="italic">blue are newer primers. The vertical lines show positions of SNPs generating different </em><em type="italic">alleles. </em>13 <em type="bold">2.5 Electrophoresis </em><em type="bold">2.5.1 Polyacrylamide gel electrophoresis </em></p>
+<p xml:lang="eng">A 5% polyacrylamide gel was used. The liquid acrylamide was 30% acrylamide / Bis solution 37.5:1 (2.6% C) from Bio-Rad. TAE was used as the gel buffer as well as electrophoresis buffer. 1x solution of TAE contains 40 mM Tris, 20 mM acetic acid, 1 mM</p>
 <p xml:lang="eng">EDTA and has pH 8.3.</p>
-<p xml:lang="eng">The gels stood overnight before use.</p>
-<p xml:lang="eng"><em type="bold">2.5.2 Staining of polyacrylamide gels </em></p>
+<p xml:lang="eng">The gels stood overnight before use. <em type="bold">2.5.2 Staining of polyacrylamide gels </em></p>
 <p xml:lang="eng">Silver staining was used to stain the DNA in the PAGE gels.</p>
-<p xml:lang="eng">The steps were</p>
-<p xml:lang="eng">1. Put the gel on a rocking table with 2 µg/mL sodium thiosulfate for 25 min. For the box</p>
-<p xml:lang="eng">containing my gel about 50 mL was needed.</p>
-<p xml:lang="eng">2. Rinse with distilled water.</p>
-<p xml:lang="eng">3. Put on a rocking table with 1 mg/mL AgNO for 20min.</p>
-<p xml:lang="eng">4. Two short rinses with distilled water.</p>
-<p xml:lang="eng">5. Development in 3% sodium carbonate (NaCO) + 1.5 µL formalin (37%) / mL</p>
-<p xml:lang="eng">6. Stop development with 10% acetic acid.</p>
-<p xml:lang="dan"><em type="bold">2.5.3 Agarose gel </em></p>
-<p xml:lang="eng">The molding form for the gel was 10 cm x 6.2 cm. Gel thickness was 0.5 cm. For a 1.5% gel</p>
-<p xml:lang="eng">0.4838 g agarose powder was mixed with 31 mL TAE.</p>
-<p xml:lang="eng"><em type="bold">2.5.4 Fluorescent staining of agarose gels </em></p>
-<p xml:lang="eng">The UV dye (Biotium GelRed nucleic acid stain 10.000x in water) was mixed 1:10.000 with</p>
-<p xml:lang="eng">the agarose. The gels were illuminated at 254 nm to visualize the dye complexed with DNA,</p>
-<p xml:lang="eng">and images were captured with a handheld digital camera.</p>
-<p xml:lang="eng"><em type="bold">2.6 Purification of DNA from agarose gels </em></p>
-<p xml:lang="eng">JETquick Spin Columns were used, and the supplier’s procedure was followed exactly. For</p>
-<p xml:lang="eng">the elution 50 µL of sterile water was used.</p>
-<p>13</p>
-<p xml:lang="eng"><em type="bold">2.7 Dideoxy sequencing </em></p>
-<p xml:lang="eng"><em type="bold">2.7.1 Sequencing reaction </em></p>
-<p xml:lang="eng">QiaQuick PCR purification kit (Qiagen) was used for purification of the PCR products before</p>
-<p xml:lang="eng">the sequencing reaction. The sequencing reaction was performed with Big Dye 1.1 (Applied</p>
-<p xml:lang="eng">Biosystems), and the supplier’s procedure was used. The sequence reaction was then run in</p>
-<p xml:lang="eng">the PCR machine with these cycle settings: 96oC for 1 min, then 30 cycles of: 96 oC for 10</p>
-<p xml:lang="eng">sec. 50 oC for 5 sec and 60 oC for 4 min.</p>
-<p xml:lang="eng"><em type="bold">2.7.2 Purification of sequencing products </em></p>
+<p xml:lang="eng">The steps were 1. Put the gel on a rocking table with 2 µg/mL sodium thiosulfate for 25 min. For the box containing my gel about 50 mL was needed. 2. Rinse with distilled water. 3. Put on a rocking table with 1 mg/mL AgNO3 for 20min. 4. Two short rinses with distilled water. 5. Development in 3% sodium carbonate (Na2CO3) + 1.5 µL formalin (37%) / mL 6. Stop development with 10% acetic acid. <em type="bold">2.5.3 Agarose gel </em></p>
+<p xml:lang="eng">The molding form for the gel was 10 cm x 6.2 cm. Gel thickness was 0.5 cm. For a 1.5% gel 0.4838 g agarose powder was mixed with 31 mL TAE. <em type="bold">2.5.4 Fluorescent staining of agarose gels </em></p>
+<p xml:lang="eng">The UV dye (Biotium GelRed nucleic acid stain 10.000x in water) was mixed 1:10.000 with the agarose. The gels were illuminated at 254 nm to visualize the dye complexed with DNA, and images were captured with a handheld digital camera. <em type="bold">2.6 Purification of DNA from agarose gels </em></p>
+<p xml:lang="eng">JETquick Spin Columns were used, and the supplier’s procedure was followed exactly. For the elution 50 µL of sterile water was used. 14 <em type="bold">2.7 Dideoxy sequencing </em><em type="bold">2.7.1 Sequencing reaction </em></p>
+<p xml:lang="eng">QiaQuick PCR purification kit (Qiagen) was used for purification of the PCR products before the sequencing reaction. The sequencing reaction was performed with Big Dye 1.1 (Applied</p>
+<p xml:lang="eng">Biosystems), and the supplier’s procedure was used. The sequence reaction was then run in the PCR machine with these cycle settings: 96oC for 1 min, then 30 cycles of: 96 oC for 10 sec. 50 oC for 5 sec and 60 oC for 4 min. <em type="bold">2.7.2 Purification of sequencing products </em></p>
 <p xml:lang="eng">The procedure was obtained from Debes H. Christiansen of FVA (Food and Veterinary</p>
-<p xml:lang="eng">Agency, Tórshavn), and was used with some minor modifications:</p>
-<p xml:lang="eng">1: 1 µL 3M NaAcetate (pH 4.6) and 25 µL 96% EtOH were added to the PCR tube with 10</p>
-<p xml:lang="eng">µL of sequencing products. This was mixed, and can then stand in room temperature for 15</p>
-<p xml:lang="eng">min - 24 hours, we used 30 min.</p>
-<p xml:lang="eng">2: The PCR tube was centrifuged at 20.000g for 15 min.</p>
-<p xml:lang="eng">3: All the liquid in the PCR tube was discarded, and then 80 µL of 70% EtOH was added.</p>
-<p xml:lang="eng">4: All liquid was discarded and the PCR tubes dried in the vacuum drier at room temperature</p>
-<p xml:lang="dan">for 30 min.</p>
-<p xml:lang="eng">After these steps the samples were ready to be sent to FVA to be sequenced.</p>
-<p xml:lang="eng"><em type="bold">2.7.3 Sequencing </em></p>
+<p xml:lang="eng">Agency, Tórshavn), and was used with some minor modifications: 1: 1 µL 3M NaAcetate (pH 4.6) and 25 µL 96% EtOH were added to the PCR tube with 10 µL of sequencing products. This was mixed, and can then stand in room temperature for 15 min - 24 hours, we used 30 min. 2: The PCR tube was centrifuged at 20.000g for 15 min. 3: All the liquid in the PCR tube was discarded, and then 80 µL of 70% EtOH was added. 4: All liquid was discarded and the PCR tubes dried in the vacuum drier at room temperature for 30 min.</p>
+<p xml:lang="eng">After these steps the samples were ready to be sent to FVA to be sequenced. <em type="bold">2.7.3 Sequencing </em></p>
 <p xml:lang="eng">The products of the sequencing reaction were analyzed on an ABI 3100 by Debes H.</p>
-<p>Christiansen from FVA.</p>
-<p>14</p>
-<p xml:lang="eng"><em type="bold"> Results </em></p>
-<p xml:lang="eng"><em type="bold">3.1 Steps towards parallel sequencing of targeted genes </em></p>
-<p xml:lang="eng">The overall aim in the project, was to establish usable primers and parts of the methods</p>
-<p xml:lang="eng">needed to perform large-scale sequencing of targeted genes by parallel sequencing, also</p>
-<p xml:lang="eng">called <span type="quote" xml:lang="eng">“next generation”</span> sequencing. The targeting itself is performed by PCR. Thus, the</p>
-<p xml:lang="eng">steps that need to be established are: Suitable design of primers and their locations, testing of</p>
-<p xml:lang="eng">primers and optimizing PCR conditions, optimizing the purifying procedure, mixing of PCR</p>
-<p xml:lang="eng">products to make suitable substrate for the large-scale parallel sequencing (in this case 454</p>
-<p xml:lang="eng">sequencing), the bioinformatics analyses of the obtained sequences and finally the</p>
-<p xml:lang="eng">interpretation of the sequencing results.</p>
-<p xml:lang="eng">The focus in the present part of the project, however, was the testing of primers, and</p>
-<p xml:lang="eng">this will be described in some detail. Our institution does not have any history of working of</p>
-<p xml:lang="eng">molecular DNA methods. Thus, parts of the methods described here were established in our</p>
-<p xml:lang="eng">laboratory during this project.</p>
-<p xml:lang="eng"><em type="bold">3.2 Polyacrylamide and agarose gels and their staining: </em></p>
-<p xml:lang="eng">I have switched between using Polyacrylamid gel electrophoresis (PAGE) and agarose</p>
-<p xml:lang="eng">electrophoresis, this because of the different properties of the two methods. PAGE has</p>
-<p xml:lang="eng">advantages in that can give better separation between bands that are close and the bands are</p>
-<p xml:lang="eng">usually sharper than in agarose. Silver staining of PAGE gels is sensitive and easy to</p>
-<p xml:lang="eng">perform, but it is time consuming. In agarose gels, you can easily cut out the individual bands</p>
-<p xml:lang="eng">and purify the PCR product for subsequent procedures, for example, a second round of PCR.</p>
-<p xml:lang="eng">This is ideal if the primers are not fully specific for one particular gene, and you therefore get</p>
-<p xml:lang="eng">several bands in the gel. Agarose is safer to handle than polyacrylamide in powder form. If</p>
-<p xml:lang="eng">fluorescent staining is used, the staining is a lot easier and faster with agarose gels.</p>
-<p>15</p>
-<p xml:lang="eng">In this project I have used two different methods of staining the gels. For PAGE I</p>
-<p xml:lang="eng">have used silver staining. This is a pretty simple method, it is time consuming and you run</p>
-<p xml:lang="eng">the risk of damaging the gel, because they are so thin and easy to rip.</p>
-<p xml:lang="eng">Staining of the agarose gels was done with a fluorescent dye, GelRed, this method is</p>
-<p xml:lang="eng">incredibly easy and fast (Figure 3.1). This is because the fluorescence dye can be added</p>
-<p xml:lang="eng">during the agarose gel molding, just after it has been heated. I have found this staining</p>
-<p xml:lang="eng">method to also provide the</p>
-<p xml:lang="eng">agarose gels with very good</p>
-<p xml:lang="eng">separation between the bands. It</p>
-<p xml:lang="eng">is harder to take a good picture</p>
-<p xml:lang="eng">of the florescent stained gel, at</p>
-<p xml:lang="eng">present we must use a handheld</p>
-<p xml:lang="eng">camera with sufficient light</p>
-<p xml:lang="eng">sensitivity that can be manually</p>
-<p xml:lang="eng">focused. For the PAGE gels I</p>
-<p xml:lang="eng">have found the camera on my</p>
-<p xml:lang="eng">cell phone to work very well. It is worth mentioning that the separation between bands was</p>
-<p xml:lang="eng">clearer when seen in the lab, where you could easily see all the bands on the size ruler.</p>
-<p xml:lang="eng"><em type="bold">Figure 3.1 </em><em type="italic">Testing of the UV dye. 5x more PCR product </em></p>
-<p xml:lang="eng"><em type="italic">was loaded in the samples on the left in pairs D, C, etc. </em></p>
-<p><em type="bold">3.3 Taq vs. HotStar: </em></p>
+<p xml:lang="eng">Christiansen from FVA. 15 <em type="bold">3 Results </em><em type="bold">3.1 Steps towards parallel sequencing of targeted genes </em></p>
+<p xml:lang="eng">The overall aim in the project, was to establish usable primers and parts of the methods needed to perform large-scale sequencing of targeted genes by parallel sequencing, also called <span type="quote" xml:lang="eng">“next generation”</span> sequencing. The targeting itself is performed by PCR. Thus, the steps that need to be established are: Suitable design of primers and their locations, testing of primers and optimizing PCR conditions, optimizing the purifying procedure, mixing of PCR products to make suitable substrate for the large-scale parallel sequencing (in this case 454 sequencing), the bioinformatics analyses of the obtained sequences and finally the interpretation of the sequencing results.</p>
+<p xml:lang="eng">The focus in the present part of the project, however, was the testing of primers, and this will be described in some detail. Our institution does not have any history of working of molecular DNA methods. Thus, parts of the methods described here were established in our laboratory during this project. <em type="bold">3.2 Polyacrylamide and agarose gels and their staining: </em></p>
+<p xml:lang="eng">I have switched between using Polyacrylamid gel electrophoresis (PAGE) and agarose electrophoresis, this because of the different properties of the two methods. PAGE has advantages in that can give better separation between bands that are close and the bands are usually sharper than in agarose. Silver staining of PAGE gels is sensitive and easy to perform, but it is time consuming. In agarose gels, you can easily cut out the individual bands and purify the PCR product for subsequent procedures, for example, a second round of PCR.</p>
+<p xml:lang="eng">This is ideal if the primers are not fully specific for one particular gene, and you therefore get several bands in the gel. Agarose is safer to handle than polyacrylamide in powder form. If fluorescent staining is used, the staining is a lot easier and faster with agarose gels. 16</p>
+<p xml:lang="eng">In this project I have used two different methods of staining the gels. For PAGE I have used silver staining. This is a pretty simple method, it is time consuming and you run the risk of damaging the gel, because they are so thin and easy to rip.</p>
+<p xml:lang="eng">Staining of the agarose gels was done with a fluorescent dye, GelRed, this method is incredibly easy and fast (Figure 3.1). This is because the fluorescence dye can be added during the agarose gel molding, just after it has been heated. I have found this staining method to also provide the agarose gels with very good separation between the bands. It is harder to take a good picture of the florescent stained gel, at present we must use a handheld camera with sufficient light sensitivity that can be manually focused. For the PAGE gels I have found the camera on my cell phone to work very well. It is worth mentioning that the separation between bands was clearer when seen in the lab, where you could easily see all the bands on the size ruler. <em type="bold">3.3 Taq vs. HotStar: </em></p>
 <p xml:lang="eng">In the initial experiments with HotStar Hifidelity DNA</p>
-<p xml:lang="eng">Polymerase from Qiagen, the experiments were</p>
-<p xml:lang="eng">performed according to the supplier’s</p>
-<p xml:lang="eng">recommendations, but very high background was found</p>
-<p xml:lang="eng">(Figure 3.2). A few experiments were done to resolve</p>
-<p xml:lang="eng">the reasons for the high background, but with limited</p>
-<p xml:lang="eng">success. Due to the little time available, we have mainly</p>
-<p xml:lang="eng">used Taq in the experiments described here. Subsequent</p>
-<p xml:lang="eng">experiments done by other collaborators have indicated</p>
-<p xml:lang="eng">that less enzyme, less primer and preferably low</p>
-<p xml:lang="eng">amounts of DNA should be used with HotStar.</p>
-<p xml:lang="eng"><em type="bold">Figure 3.2 </em><em type="italic">Non optimized tests </em></p>
-<p xml:lang="eng"><em type="italic">with HotStar, R is the molecular ruler.</em> </p>
-<p>16</p>
-<p xml:lang="eng"><em type="bold">3.4 Testing of standard primers: </em></p>
-<p xml:lang="eng"><em type="bold">3.4.1 Primers for haemoglobin α genes: </em></p>
-<p xml:lang="eng">In this project we started out with testing of haemoglobin primers. These had all been</p>
-<p xml:lang="eng">designed from the known haemoglobin genes found in Genbank. The primers for the alpha</p>
-<p xml:lang="eng">genes proved to generally work great, and provided us with very good and clean bands, that</p>
-<p xml:lang="eng">all were in the expected positions. Some of the primers lacked specificity, as described below</p>
-<p xml:lang="eng">for the different Hb genes. This was indicated by several bands. Some of the bands were not</p>
-<p xml:lang="eng">of the lengths corresponding to any known allele that the primer pair was expected to</p>
-<p xml:lang="eng">recognize. Other primer combinations just did not provide any result at all. To try to fix both</p>
-<p xml:lang="eng">these problems, we tried to setup a temperature gradient, but this showed to diminish the</p>
-<p xml:lang="eng">wanted PCR products at close to the same rate as the unwanted ones (Figure 3.3).</p>
-<p xml:lang="eng"><em type="bold">Figure 3.3.</em> <em type="italic">Temperature gradient of some primer </em></p>
-<p xml:lang="eng"><em type="italic">combinations</em>. f: b34F-5 and b234R417, e: b234F50 and </p>
-<p xml:lang="eng">b234R447, d: b34F-5 and b234R447. The gradient is 1:59, 2: 59.8, 3: 61.4 and 4: 63. R: molecular ruler. Expected products were f: 646 and 652; e: 346, 353 and 349; d: 408 and 414.</p>
-<p xml:lang="eng">For the overview of the results of the primer combinations, see appendix A.</p>
-<p xml:lang="eng"><em type="italic">3.4.1.1 PCR targeting and dideoxy sequencing of Hba1 PCR products </em></p>
-<p xml:lang="eng">The primers for Hba1 functioned very well, and did not pose any difficulties, and gave clean</p>
-<p xml:lang="eng">bands at the expected location in electrophoresis (Figure 3.4) (Table 3.1)</p>
-<p>17</p>
-<p xml:lang="eng"><em type="bold">Figure 3.4 α1 and α2 primers.</em><em type="italic"> A = </em></p>
-<p xml:lang="eng"><em type="italic">a2F352 and a2R346, B= a2F312 and a2R346, C = a2F-27 and a2R346, D = a1F14 and a1R400, E = a1F14 and a1R414, R = molecular ruler. </em></p>
-<p xml:lang="eng"><em type="bold">Figure 3.5 α3 and α4 primers.</em><em type="italic"> A = a3F59 and </em></p>
-<p xml:lang="eng"><em type="italic">a3R394, B= a3F851 and a3R394, C = a3F851 and a3R1304, D = a3F1163 and a3R394, E = a4F63 and a4R616, F = a4F249 and a4R616. </em></p>
-<p xml:lang="eng"><em type="bold">Table 3.1</em> <em type="italic">Primer combinations for Hba1 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product a1F14 a1R400   a1F14 a1R414</p>
-<p xml:lang="eng">The sequencing of α gave very clean sequence that matches well with the expected results</p>
-<p xml:lang="eng">(Figure 3.6). However the three positions in Figure 3.6 that our sequence differs from the</p>
-<p xml:lang="eng">published ones hint at different conclusions, Position 113 differs from both published alleles,</p>
-<p xml:lang="eng">Pos. 116 is the same as Gm-a1-2 and Pos. 122 is the same as Gm-a1-1.  This could indicate</p>
-<p xml:lang="eng">that our sequence is a new allele, but more detailed investigations would be needed to</p>
-<p xml:lang="eng">confirm this suggestion.</p>
-<p xml:lang="eng">Gm-a1-1         AAGGCCGAGCTTATCGGCGCCGATGCTCTTTCAAGGTATGCTTACTCCAGCCACACAATT 120 Gm-a1-2         AAGGCCGAGCTTATCGGCGCCGATGCTCTTTCAAGGTATGCTTACTCCAGCCACAAAATT 120 2               AAGGCCGAGCTTATCGGCGCCGATGCTCTTTCAAGGTATGCTTACTCCAGCC-CAAAATT 85                 ********************</p>
-<p xml:lang="eng">Gm-a1-1         ACAGTTAGGGGGAATAACTTGAACAATTTGCTGTGTTTTTTTTATTTATTAATGTATTTA 180 Gm-a1-2         AGAGTTAGGGGGAATAACTTGAACAATTTGCTGTGTTTTTTTTATTTATTAATGTATTTA 180 2               ACAGTTAGGGGGAATAACTTGAACAATTTGCTGTGTTTTTTTTATTTATTAATGTATTTA 145                 * **********************************************************</p>
-<p xml:lang="eng"><em type="bold">Figure 3.6 Alignment of the sequence from the PCR product of the primer pair a1F14 + a1R400</em>. <em type="italic">Gm-a1-1 and Gm-a1-2 are the two published alleles of Hba1, the sequence </em></p>
-<p xml:lang="eng"><em type="italic">labelelled 2 is from our PCR product. a1F14 used as sequencing primer. The area marked in purple is the 3’-end of  exon 1, followed by intron 1. </em> </p>
-<p>18</p>
-<p xml:lang="eng"><em type="italic">3.4.1.2 PCR targeting and dideoxy sequencing of Hba2 PCR products </em></p>
-<p xml:lang="eng">The primers for Hba2 functioned very well, and gave clean bands at the expected location in</p>
-<p xml:lang="eng">electrophoresis (Figure 3.4) (Table 3.2)</p>
-<p xml:lang="eng"><em type="bold">Table 3.2</em> <em type="italic">Primer combinations for Hba2 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product a2F-27 a2R346   a2F85 a2R346</p>
-<p xml:lang="eng">Gm-a2           TCAGCCTTAGCGAGCTGCACGCGTTCATGCTGAGAGTTGACCCCGTCAACTTCAAGCTCC 360 3               TCAGCCTTAGCGAGCTGCACGCGTTCATGCTGAGAGTTGACCCCGTCAACTTCAAGCTCC 307 5               TCAGCCTTAGCGAGCYGCACGCGTTCATGCTGAGAGTTGACCCCGTCAACTTCAAGCTCC 179      *************** ********************************************</p>
-<p xml:lang="eng"><em type="bold">Figure 3.7 Alignment of the sequences from PCR products from the primer pairs for α2. </em></p>
-<p xml:lang="eng"><em type="italic">Gm-a2 is the published sequence of Hba2. Sequence 3 is a2F-27 + a2R346. Sequence 5 is a2F85 + a2R346.</em> <em type="italic">Both 3 and 5 use the forward primer as sequencing primer. Area marked in purple is the 3’-end of exon 3. Nucleotide Y is both C and T.</em> </p>
+<p xml:lang="eng">Polymerase from Qiagen, the experiments were performed according to the supplier’s recommendations, but very high background was found (Figure 3.2). A few experiments were done to resolve the reasons for the high background, but with limited success. Due to the little time available, we have mainly used Taq in the experiments described here. Subsequent experiments done by other collaborators have indicated that less enzyme, less primer and preferably low amounts of DNA should be used with HotStar.</p>
+<p xml:lang="eng"><em type="bold">Figure 3.1 </em><em type="italic">Testing of the UV dye. 5x more PCR product was loaded in the samples on the left in pairs D, C, etc. </em></p>
+<p xml:lang="eng"><em type="bold">Figure 3.2 </em><em type="italic">Non optimized tests with HotStar, R is the molecular ruler. </em>17 <em type="bold">3.4 Testing of standard primers: </em><em type="bold">3.4.1 Primers for haemoglobin α genes: </em></p>
+<p xml:lang="eng">In this project we started out with testing of haemoglobin primers. These had all been designed from the known haemoglobin genes found in Genbank. The primers for the alpha genes proved to generally work great, and provided us with very good and clean bands, that all were in the expected positions. Some of the primers lacked specificity, as described below for the different Hb genes. This was indicated by several bands. Some of the bands were not of the lengths corresponding to any known allele that the primer pair was expected to recognize. Other primer combinations just did not provide any result at all. To try to fix both these problems, we tried to setup a temperature gradient, but this showed to diminish the wanted PCR products at close to the same rate as the unwanted ones (Figure 3.3).</p>
+<p xml:lang="eng"><em type="bold">Figure 3.3. </em><em type="italic">Temperature gradient of some primer combinations </em>. f: b34F-5 and b234R417, e: b234F50 and b234R447, d: b34F-5 and b234R447. The gradient is 1:59, 2: 59.8, 3: 61.4 and 4: 63. R: molecular ruler. Expected products were f: 646 and 652; e: 346, 353 and 349; d: 408 and 414. </p>
+<p xml:lang="eng">For the overview of the results of the primer combinations, see appendix A. 3.4.1.1</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hba1 PCR products</p>
+<p xml:lang="eng">The primers for Hba1 functioned very well, and did not pose any difficulties, and gave clean bands at the expected location in electrophoresis (Figure 3.4) (Table 3.1) 18</p>
+<p xml:lang="eng"><em type="bold">Figure 3.4 α1 and α2 primers. </em><em type="italic">A = a2F352 and a2R346, B= a2F312 and a2R346, C = a2F-27 and a2R346, D = a1F14 and a1R400, E = a1F14 and a1R414, R = molecular ruler. </em></p>
+<p xml:lang="eng"><em type="bold">Figure 3.5 α3 and α4 primers. </em><em type="italic">A = a3F59 and a3R394, B= a3F851 and a3R394, C = a3F851 and a3R1304, D = a3F1163 and a3R394, E = a4F63 and a4R616, F = a4F249 and a4R616. </em></p>
+<p xml:lang="eng"><em type="bold">Table 3.1 </em><em type="italic">Primer combinations for Hba1 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product a1F14 a1R400 599 570 a1F14 a1R414 356 330</p>
+<p xml:lang="eng">The sequencing of α gave very clean sequence that matches well with the expected results (Figure 3.6). However the three positions in Figure 3.6 that our sequence differs from the published ones hint at different conclusions, Position 113 differs from both published alleles,</p>
+<p xml:lang="eng">Pos. 116 is the same as Gm-a1-2 and Pos. 122 is the same as Gm-a1-1. This could indicate that our sequence is a new allele, but more detailed investigations would be needed to confirm this suggestion.</p>
+<p xml:lang="eng">Gm-a1-1 AAGGCCGAGCTTATCGGCGCCGATGCTCTTTCAAGGTATGCTTACTCCAGCCACACAATT 120 Gm-a1-2 AAGGCCGAGCTTATCGGCGCCGATGCTCTTTCAAGGTATGCTTACTCCAGCCACAAAATT 120 2 AAGGCCGAGCTTATCGGCGCCGATGCTCTTTCAAGGTATGCTTACTCCAGCC-CAAAATT 85 **************************************************** ** **** Gm-a1-1 ACAGTTAGGGGGAATAACTTGAACAATTTGCTGTGTTTTTTTTATTTATTAATGTATTTA 180 Gm-a1-2 AGAGTTAGGGGGAATAACTTGAACAATTTGCTGTGTTTTTTTTATTTATTAATGTATTTA 180 2 ACAGTTAGGGGGAATAACTTGAACAATTTGCTGTGTTTTTTTTATTTATTAATGTATTTA 145 * ********************************************************** <em type="bold">Figure 3.6 Alignment of the sequence from the PCR product of the primer pair a1F14 + a1R400 </em>. <em type="italic">Gm-a1-1 and Gm-a1-2 are the two published alleles of Hba1, the sequence labelelled 2 is from our PCR product. a1F14 used as sequencing primer. The area marked in purple is the 3’-end of exon 1, followed by intron 1. </em>19 3.4.1.2 </p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hba2 PCR products</p>
+<p xml:lang="eng">The primers for Hba2 functioned very well, and gave clean bands at the expected location in electrophoresis (Figure 3.4) (Table 3.2)</p>
+<p xml:lang="eng"><em type="bold">Table 3.2 </em><em type="italic">Primer combinations for Hba2 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product a2F-27 a2R346 592 550 a2F85 a2R346 482 470</p>
+<p xml:lang="eng">Gm-a2 TCAGCCTTAGCGAGCTGCACGCGTTCATGCTGAGAGTTGACCCCGTCAACTTCAAGCTCC 360 3 TCAGCCTTAGCGAGCTGCACGCGTTCATGCTGAGAGTTGACCCCGTCAACTTCAAGCTCC 307 5 TCAGCCTTAGCGAGCYGCACGCGTTCATGCTGAGAGTTGACCCCGTCAACTTCAAGCTCC 179 *************** ********************************************</p>
+<p xml:lang="eng"><em type="bold">Figure 3.7 Alignment of the sequences from PCR products from the primer pairs for α2. </em><em type="italic">Gm-a2 is the published sequence of Hba2. Sequence 3 is a2F-27 + a2R346. Sequence 5 is a2F85 + a2R346. </em><em type="italic">Both 3 and 5 use the forward primer as sequencing primer. Area marked in purple is the 3’-end of exon 3. Nucleotide Y is both C and T. </em></p>
 <p xml:lang="eng">The sequencing most likely shows us the only known allele of α2 (Figure 3.7), the Y (C and</p>
-<p xml:lang="eng">T) base marked in teal is the only difference in the sequence, and it may be a sequencing</p>
-<p xml:lang="eng">error, since we only see it on sample 5 and not 3. Further investigations are needed to say</p>
-<p xml:lang="eng">anything with certainty.</p>
-<p xml:lang="eng"><em type="italic">3.4.1.3 PCR targeting and dideoxy sequencing of Hba3 PCR products </em></p>
-<p xml:lang="eng">Most primer combinations functioned well, and gave the expected lenghts of the products. In</p>
-<p xml:lang="eng">sequencing, the submitted product from the primer pair of a3F59 and a3R394 only resulted in</p>
-<p xml:lang="eng">a 340 nucleotides long readable part of the sequence.</p>
-<p xml:lang="eng"><em type="bold">Table 3.3</em> <em type="italic">Primer combinations for Hba3 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product a3F59 a3R394   a3F851 a3R394    a3F851 a3R1304  430 + 1200 a3F1163 a3R394</p>
-<p>19</p>
-<p xml:lang="eng">Gm-a3-1         GGAAAA-ATCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 1679 Gm-a3-2         GGAAAA-ATCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 1679 Gm-a3-3         GGAAAA-ATCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 1679 10invkompl      GGAAAACKTCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 308                 ******  ****************************************************</p>
-<p xml:lang="eng"><em type="bold">Figure 3.8 Alignment of the sequences from PCR product of the primer pair a3F59 + a3R394.</em> <em type="italic">Gm-a3-1, Gm-a3-2 and Gm-a3-3 are the three published sequences for Hba3. </em></p>
-<p xml:lang="eng"><em type="italic">a3R394 used as sequencing primer. K which is marked in teal is G and T.</em> </p>
-<p xml:lang="eng">Most of the α3 sequence was unreadable, but the 340 nucleotides that were readable had high</p>
-<p xml:lang="eng">quality readout. Our obtained sequence was located outside the area where the published</p>
-<p xml:lang="eng">alleles differ (Figure 3.8). The only disparity, marked in teal, from the three known alleles is</p>
-<p xml:lang="eng">most likely a sequencing error or possibly a new allele. New experiments are needed to</p>
-<p xml:lang="eng">determine which alternative is the correct one.</p>
-<p xml:lang="eng"><em type="italic">3.4.1.4 PCR targeting Hba4 </em></p>
-<p xml:lang="eng">Both primer combinations for α4 worked fine in electrophoresis (Table 3.4) (Figure 3.5), but</p>
-<p xml:lang="eng">both failed in sequencing, and I have no sequencing results to show for α4.</p>
-<p xml:lang="eng"><em type="bold">Table 3.4</em> <em type="italic">Primer combinations for Hba4 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product a4F63 a4R614   a4F249 a4R614</p>
-<p xml:lang="eng"><em type="italic">3.4.2 Primer for haemoglobin β genes </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2.1 PCR targeting and dideoxy sequencing of Hbb1 PCR products </em></p>
-<p xml:lang="eng">There were many primer combinations tested for β1, where some worked good, and others</p>
-<p xml:lang="eng">did not work at all (Table 3.5).</p>
-<p xml:lang="eng"><em type="bold">Table 3.5</em> <em type="italic">Primer combinations for Hbb1 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product</p>
-<p xml:lang="eng">b1F-26 b1R252  500 smear 530 clear b1F-26 b1R463b  blank b1F-26 b1R463  blank</p>
-<p xml:lang="eng">b1F-26 b1R611</p>
-<p xml:lang="eng">b1F-26 b1R261</p>
-<p xml:lang="eng">20 b1F-44 b1R252   b1F-44 b1R463b  Blank b1F-44 b1R463  Blank</p>
-<p xml:lang="eng">b1F-44 b1R611</p>
-<p xml:lang="eng">b1F-44 b1R261  b1F44 b1R252  Blank b1F44 b1R463b  Blank b1F44 b1R463  Blank b1F44 b1R611  Blank b1F44 b1R261  Blank b1F589 b1R463b   b1F589 b1R463   b1F-35 b1R463b  Blank b1F-35 b1R463  Blank</p>
-<p xml:lang="eng">b1F-35 b1R611  b1F-35 b1R252</p>
-<p xml:lang="eng">b1F-35 b1R261</p>
-<p xml:lang="eng">Some of the primer combinations resulted in several bands. All bands from the primer pairs</p>
-<p xml:lang="eng">b1F-44 + b1R611 and b1F-44 + b1R261 were purified and subjected to a new round of PCR</p>
-<p xml:lang="eng">with the same primers (Table 3.6).</p>
-<p xml:lang="eng"><em type="bold">Table 3.6 Second PCR on select samples.</em> <em type="italic">Sample K is </em></p>
-<p xml:lang="eng"><em type="italic">the primer pair b1F-44 + b1R611 and sample U is the primer pair b1F-44 + b1R261. They needed to be renamed for the second PCR, because there were four new PCR products from each of the two original. Where the original naming was alphabetical, the new letter added ment: x = extra small, s = small, m = medium, l = large.</em> </p>
-<p xml:lang="eng">K U New name: Observed results:</p>
-<p xml:lang="eng">Kx – Ux Ks – Us Km – Um Kl – Ul Expected results:</p>
-<p xml:lang="eng">The second PCR did not successfully isolate the bands.</p>
-<p>21</p>
-<p xml:lang="eng">The obtained sequences from Kx and Ux pointed out the same area of Hbb1. Kx stops in mid</p>
-<p xml:lang="eng">exon 2 (Figure 3.9) and Ux aswell stops in the exact same position, the area that both Kx and</p>
-<p xml:lang="eng">Ux skip does have an area where there are alot of A and T. Kx and Ux are may be the</p>
-<p xml:lang="eng">products of a pseudo-gene, but it is more likely that there is some kind of secondary structure</p>
-<p xml:lang="eng">(in spite of the high temperature) has caused the polymerase to skip the intermediate area in</p>
-<p xml:lang="eng">Hbb1. It is interesting to note that for both K and U there is a T (Figure 3.8 marked in teal)</p>
-<p xml:lang="eng">where a C was expected, and this suggests that there could be a new allele.</p>
-<p xml:lang="dan">ks              TGGACAGCTGCTGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 115 b1-1            TGGACAGCTGCCGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 113 kl              TGGACAGCTGCTGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 117 km              TGGACAGCTGCTGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 118 kx              TGGACAGCTGCTGAGCGGAGGCACGTCGA------------------------------- 83                 *********** *****************</p>
-<p xml:lang="eng"><em type="bold">Figure 3.9 Alignment of the sequences for PCR products from the primer pair b1F-44 + b1R611</em><em type="italic">. b1R611 used as sequencing primer. Sequencing of several bands from the same </em></p>
-<p xml:lang="eng"><em type="italic">primer combination sequencing primer. Exon is marked in purple, and teal is where the sequence differs from Genbank sequence.</em> </p>
-<p xml:lang="eng">To optimize alignment results for the sequences from b1F-44 and b1R611, Kx was removed</p>
-<p>(Figure 3.10).</p>
-<p xml:lang="dan">b1-3            GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-6            GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-7            GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-8            GC-ATGCGCAATTTAACTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-4            GC-ATGCGCAATTTAACTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-1            GC-ATGCGCAATTTAGCTATATATATTATATATATGATGTATAAATTGCAACCC-ATGCA 233 b1-2            GC-ATGCGCAATTTAGCTATATATATTATATATATGATGTATAAATTGCAACCC-ATGCA 233 b1-5            GC-ATGCGCAATTTAACTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 ks              GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 232 kl              GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 234 km              GCCATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCCCATGCA 237                 ** ************ ********************** *************** *****</p>
-<p xml:lang="eng"><em type="bold">Figure 3.10 Kl, Km and Ks paired with all eight β1 alleles.</em> <em type="italic">Teal marks the areas where </em></p>
-<p xml:lang="eng"><em type="italic">our sequence products differs from some of the known alleles, and red marks where the known alleles differ from each other. b1-3, b1-6 and b1-7 match perfectly except from the extra C’s in Km. The sequence is part of intron 1.</em> </p>
-<p>22</p>
-<p xml:lang="eng">ul              ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 234 b1-8            ATGCGCAATTTAACTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-4            ATGCGCAATTTAACTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-3            ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-6            ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-7            ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-1            ATGCGCAATTTAGCTATATATA--TTATATATATGATGTATAAATTGCAACCCATGCATA 235 b1-2            ATGCGCAATTTAGCTATATATA--TTATATATATGATGTATAAATTGCAACCCATGCATA 235 b1-5            ATGCGCAATTTAACTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 us              ATGCGCAATTTAGCTATATATA--TTAAATATATGATATATAAATTGCAACCCATGCATA 236 um              ATGCGCAATTTAGCTATATAAAAATATAAAATATGATATATAAAATGCAACCCATGCATA 235                 ************ ******* *  *   * ******* ****** ***************</p>
-<p xml:lang="eng"><em type="bold">Figure 3.11 Alignment of the sequences for PCR products from the primer pair b1F-44 + b1R261. Ul,Um and Us paired with all eight β1 alleles</em>. <em type="italic">Teal marks the areas where the </em></p>
-<p xml:lang="eng"><em type="italic">sequence differs from the known alleles, and red marks where the known alleles differ from each other. The sequencing is not as pure as it was in Figure 3.9, as Um had a lower sequence quality. This figure shows the same as 3.9, that b1-3, b1-6 and b1-7 the best matches with our sequences.</em> </p>
-<p xml:lang="eng">When we look at the same sequence area in Figure 3.11 that was shown in Figure 3.10, it is</p>
-<p xml:lang="eng">pretty clear that we again see all three of our sequenced products indicate β1-3, β1-6 and β1</p>
-<p>7.</p>
-<p xml:lang="eng"><em type="italic">3.4.2.2 PCR targeting and dideoxy sequencing of Hbb2 PCR products </em></p>
-<p xml:lang="eng">Hbb2, Hbb3 and Hbb4 are the globins that have the highest similarities among the cod</p>
-<p xml:lang="eng">globins. The exons of Hbb3 and 4 are highly similar. Most primer combinations for β2 are</p>
-<p xml:lang="eng">also primer combinations for β3 and β4 and were expected to give three PCR products (Table</p>
-<p xml:lang="eng">3.7). This is because these three genes are so similar, that it can be difficult to make a suitable</p>
-<p xml:lang="eng">primer sequence that can separate them.</p>
-<p xml:lang="eng"><em type="bold">Table 3.7</em> <em type="italic">Primer combinations for Hbb2, 3 and 4 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product</p>
-<p xml:lang="dan">b234F-13 b234R417 868 gene β2 661 gene β3 658 gene β4</p>
-<p xml:lang="dan">b234F-13 b234R447 411 gene β2 417 gene β3 413 gene β4  b234F255 b2R525</p>
-<p xml:lang="dan">b234F255 b234R417 650 gene β2 415 gene β3 437 gene β4</p>
-<p>23</p>
-<p xml:lang="dan">b234F50 b234R447 346 gene β2 353 gene β3 349 gene β4</p>
-<p xml:lang="eng">The primer combination of b234F255 and b2R525 was chosen for sequencing (Figure 3.12),</p>
-<p xml:lang="eng">as we here expected to detect only Hbb2. The gel electrophoresis showed one clean band with</p>
-<p xml:lang="eng">the expected size. The sequence had no errors, except for in the exact position where the β2-1</p>
-<p xml:lang="eng">and β2-2 alleles differ from each other. cR has a G in the position where b2-2 has an A, but</p>
-<p xml:lang="eng">cR is also missing a base in the next position, which could be a sequencing error, but if you</p>
-<p xml:lang="eng">look at the electropherogram (Figure 3.13) you can see that in position 60 there is a double</p>
-<p xml:lang="eng">readout of a C and an A, which translates to G and T, which is the exact sequence b2-1 has</p>
-<p xml:lang="eng">and cR is therefore most likely b2-1.</p>
-<p xml:lang="eng">b2-1            TCTCCCTCCCTCACACGTGCAGCTGCTGGCCGACTGCCTGACCGTCGTCATCGCCGCCAA 840 b2-2            TCTCCCTCCCTCACACGTGCAGCTGCTGGCCGACTGCCTGACCGTCGTCATCGCCGCCAA 840 cR-reverse      TCTCCCTCCCTCACACGTGCAGCTGCTGGCCGACTGCCTGACCGTCGTCATCGCCGCCAA 587                 ************************************************************</p>
-<p xml:lang="eng">b2-1            GATGGGCACCAAATTCACCGTGGAGACCCAGGTGGCGTGGCAGAAGTTCCTGT-CTGTCG 899 b2-2            GATGGGCACCAAATTCACCGTGGAGACCCAGGTGGCATGGCAGAAGTTCCTGT-CTGTCG 899 cR-reverse      GATGGGCACCAAATTCACCGTGGAGACCCAGGTGGCG-GGCAGAAGTTCCTGTACTGTCG 646                 ************************************  *************** ******</p>
-<p xml:lang="eng"><em type="bold">Figure 3.12 Alignment of the sequences for PCR products from the primer pair </em></p>
-<p xml:lang="eng"><em type="bold">b34F255 + b2R525. </em><em type="italic">b2R525 used as sequencing primer. Marked in purple is exon 3. Yellow </em></p>
-<p xml:lang="eng"><em type="italic">is a difference between the two alleles. And teal is where the sequenced result differs from the </em></p>
-<p xml:lang="eng"><em type="italic">published alleles.</em> </p>
-<p xml:lang="eng"><em type="bold">Figure 3.13 Electropherogram </em></p>
-<p xml:lang="eng"><em type="bold">of cR.</em> <em type="italic">This electropherogram </em></p>
-<p xml:lang="eng"><em type="italic">shows how in position 60 there </em></p>
-<p xml:lang="eng"><em type="italic">are two readouts, if they are </em></p>
-<p xml:lang="eng"><em type="italic">counted as separate reads they </em></p>
-<p xml:lang="eng"><em type="italic">give us CA which reverse </em></p>
-<p xml:lang="eng"><em type="italic">complimentary is TG, which is </em></p>
-<p xml:lang="eng"><em type="italic">exactly what b2-1 in figure 3.12 </em></p>
-<p xml:lang="eng"><em type="italic">is in position 876-877. </em></p>
-<p>24</p>
-<p xml:lang="eng"><em type="italic">3.4.2.3 PCR targeting and dideoxy sequencing of Hbb3 and Hbb4 PCR </em></p>
-<p xml:lang="eng"><em type="italic">products </em></p>
-<p xml:lang="eng">β3 and β4 are very similar and our primers were not able to separate the two. Primers in</p>
+<p xml:lang="eng">T) base marked in teal is the only difference in the sequence, and it may be a sequencing error, since we only see it on sample 5 and not 3. Further investigations are needed to say anything with certainty. 3.4.1.3</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hba3 PCR products</p>
+<p xml:lang="eng">Most primer combinations functioned well, and gave the expected lenghts of the products. In sequencing, the submitted product from the primer pair of a3F59 and a3R394 only resulted in a 340 nucleotides long readable part of the sequence.</p>
+<p xml:lang="eng"><em type="bold">Table 3.3 </em><em type="italic">Primer combinations for Hba3 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product a3F59 a3R394 1701 1600 a3F851 a3R394 953 1000 a3F851 a3R1304 453 430 + 1200 a3F1163 a3R394 640 600 20</p>
+<p xml:lang="eng">Gm-a3-1 GGAAAA-ATCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 1679 Gm-a3-2 GGAAAA-ATCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 1679 Gm-a3-3 GGAAAA-ATCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 1679 10invkompl GGAAAACKTCGAAGGTAAATTAACCGAAGGCACACATAAATTGAATCTGGTAACAATGTT 308 ****** **************************************************** <em type="bold">Figure 3.8 Alignment of the sequences from PCR product of the primer pair a3F59 + a3R394. </em><em type="italic">Gm-a3-1, Gm-a3-2 and Gm-a3-3 are the three published sequences for Hba3. a3R394 used as sequencing primer. K which is marked in teal is G and T. </em></p>
+<p xml:lang="eng">Most of the α3 sequence was unreadable, but the 340 nucleotides that were readable had high quality readout. Our obtained sequence was located outside the area where the published alleles differ (Figure 3.8). The only disparity, marked in teal, from the three known alleles is most likely a sequencing error or possibly a new allele. New experiments are needed to determine which alternative is the correct one. 3.4.1.4</p>
+<p xml:lang="eng">PCR targeting Hba4</p>
+<p xml:lang="eng">Both primer combinations for α4 worked fine in electrophoresis (Table 3.4) (Figure 3.5), but both failed in sequencing, and I have no sequencing results to show for α4.</p>
+<p xml:lang="eng"><em type="bold">Table 3.4 </em><em type="italic">Primer combinations for Hba4 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product a4F63 a4R614 543 460 a4F249 a4R614 365 320 3.4.2 Primer for haemoglobin β genes 3.4.2.1</p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb1 PCR products</p>
+<p xml:lang="eng">There were many primer combinations tested for β1, where some worked good, and others did not work at all (Table 3.5).</p>
+<p xml:lang="eng"><em type="bold">Table 3.5 </em><em type="italic">Primer combinations for Hbb1 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product b1F-26 b1R252 544 500 smear 530 clear b1F-26 b1R463b 1182 blank b1F-26 b1R463 1182 blank b1F-26 b1R611 584 580 600 630 b1F-26 b1R261 530 380 400 21 420 b1F-44 b1R252 562 540 b1F-44 b1R463b 1200</p>
+<p xml:lang="eng">Blank b1F-44 b1R463 1200</p>
+<p xml:lang="eng">Blank b1F-44 b1R611 609 220 580 600 630 b1F-44 b1R261 571 220 380 400 420 b1F44 b1R252 475</p>
+<p xml:lang="eng">Blank b1F44 b1R463b 1113</p>
+<p xml:lang="eng">Blank b1F44 b1R463 1113</p>
+<p xml:lang="eng">Blank b1F44 b1R611 522</p>
+<p xml:lang="eng">Blank b1F44 b1R261 485</p>
+<p xml:lang="eng">Blank b1F589 b1R463b 614 600 b1F589 b1R463 614 650 b1F-35 b1R463b 1191</p>
+<p xml:lang="eng">Blank b1F-35 b1R463 1191</p>
+<p xml:lang="eng">Blank b1F-35 b1R611 600 580 600 630 b1F-35 b1R252 552 530 b1F-35 b1R261 563 380 400 420</p>
+<p xml:lang="eng">Some of the primer combinations resulted in several bands. All bands from the primer pairs b1F-44 + b1R611 and b1F-44 + b1R261 were purified and subjected to a new round of PCR with the same primers (Table 3.6).</p>
+<p xml:lang="eng"><em type="bold">Table 3.6 Second PCR on select samples. </em><em type="italic">Sample K is the primer pair b1F-44 + b1R611 and sample U is the primer pair b1F-44 + b1R261. They needed to be renamed for the second PCR, because there were four new PCR products from each of the two original. Where the original naming was alphabetical, the new letter added ment: x = extra small, s = small, m = medium, l = large. </em></p>
+<p xml:lang="eng">New name:</p>
+<p xml:lang="eng">Observed results: 220 580 600 630 220 380 400 420</p>
+<p>Kx – Ux Ks – Us Km – Um Kl – Ul</p>
+<p xml:lang="eng">Expected results: 609 571</p>
+<p xml:lang="eng">The second PCR did not successfully isolate the bands. 22</p>
+<p xml:lang="eng">The obtained sequences from Kx and Ux pointed out the same area of Hbb1. Kx stops in mid exon 2 (Figure 3.9) and Ux aswell stops in the exact same position, the area that both Kx and</p>
+<p xml:lang="eng">Ux skip does have an area where there are alot of A and T. Kx and Ux are may be the products of a pseudo-gene, but it is more likely that there is some kind of secondary structure (in spite of the high temperature) has caused the polymerase to skip the intermediate area in</p>
+<p xml:lang="eng">Hbb1. It is interesting to note that for both K and U there is a T (Figure 3.8 marked in teal) where a C was expected, and this suggests that there could be a new allele. ks TGGACAGCTGCTGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 115 b1-1 TGGACAGCTGCCGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 113 kl TGGACAGCTGCTGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 117 km TGGACAGCTGCTGAGCGGAGGCACGTCGAGGCGGTCTGGAGCAAGATCGACATTGATGTC 118 kx TGGACAGCTGCTGAGCGGAGGCACGTCGA------------------------------- 83 *********** ***************** <em type="bold">Figure 3.9 Alignment of the sequences for PCR products from the primer pair b1F-44 + b1R611 . </em>b1R611 used as sequencing primer. <em type="bold"></em>Sequencing of several bands from the same primer combination sequencing primer. Exon is marked in purple, and teal is where the sequence differs from Genbank sequence. </p>
+<p xml:lang="eng">To optimize alignment results for the sequences from b1F-44 and b1R611, Kx was removed (Figure 3.10). b1-3 GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-6 GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-7 GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-8 GC-ATGCGCAATTTAACTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-4 GC-ATGCGCAATTTAACTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 b1-1 GC-ATGCGCAATTTAGCTATATATATTATATATATGATGTATAAATTGCAACCC-ATGCA 233 b1-2 GC-ATGCGCAATTTAGCTATATATATTATATATATGATGTATAAATTGCAACCC-ATGCA 233 b1-5 GC-ATGCGCAATTTAACTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 233 ks GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 232 kl GC-ATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCC-ATGCA 234 km GCCATGCGCAATTTAGCTATATATATTATATATATGATATATAAATTGCAACCCCATGCA 237 ** ************ ********************** *************** ***** <em type="bold">Figure 3.10 Kl, Km and Ks paired with all eight β1 alleles. </em><em type="italic">Teal marks the areas where our sequence products differs from some of the known alleles, and red marks where the known alleles differ from each other. b1-3, b1-6 and b1-7 match perfectly except from the extra C’s in Km. The sequence is part of intron 1. </em>23 ul ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 234 b1-8 ATGCGCAATTTAACTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-4 ATGCGCAATTTAACTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-3 ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-6 ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-7 ATGCGCAATTTAGCTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 b1-1 ATGCGCAATTTAGCTATATATA--TTATATATATGATGTATAAATTGCAACCCATGCATA 235 b1-2 ATGCGCAATTTAGCTATATATA--TTATATATATGATGTATAAATTGCAACCCATGCATA 235 b1-5 ATGCGCAATTTAACTATATATA--TTATATATATGATATATAAATTGCAACCCATGCATA 235 us ATGCGCAATTTAGCTATATATA--TTAAATATATGATATATAAATTGCAACCCATGCATA 236 um ATGCGCAATTTAGCTATATAAAAATATAAAATATGATATATAAAATGCAACCCATGCATA 235 ************ ******* * * * ******* ****** *************** <em type="bold">Figure 3.11 Alignment of the sequences for PCR products from the primer pair b1F-44 + b1R261. Ul,Um and Us paired with all eight β1 alleles </em>. <em type="italic">Teal marks the areas where the sequence differs from the known alleles, and red marks where the known alleles differ from each other. The sequencing is not as pure as it was in Figure 3.9, as Um had a lower sequence quality. This figure shows the same as 3.9, that b1-3, b1-6 and b1-7 the best matches with our sequences. </em>When we look at the same sequence area in Figure 3.11 that was shown in Figure 3.10, it is pretty clear that we again see all three of our sequenced products indicate β1-3, β1-6 and β1-7. 3.4.2.2 </p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb2 PCR products</p>
+<p xml:lang="eng">Hbb2, Hbb3 and Hbb4 are the globins that have the highest similarities among the cod globins. The exons of Hbb3 and 4 are highly similar. Most primer combinations for β2 are also primer combinations for β3 and β4 and were expected to give three PCR products (Table 3.7). This is because these three genes are so similar, that it can be difficult to make a suitable primer sequence that can separate them.</p>
+<p xml:lang="eng"><em type="bold">Table 3.7 </em><em type="italic">Primer combinations for Hbb2, 3 and 4 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product b234F-13 b234R417 868 gene β2 661 gene β3 658 gene β4 3000 1000 800 700 650 b234F-13 b234R447 411 gene β2 417 gene β3 413 gene β4 410 b234F255 b2R525 709 710 b234F255 b234R417 650 gene β2 415 gene β3 437 gene β4 420 24 b234F50 b234R447 346 gene β2 353 gene β3 349 gene β4 360</p>
+<p xml:lang="eng">The primer combination of b234F255 and b2R525 was chosen for sequencing (Figure 3.12), as we here expected to detect only Hbb2. The gel electrophoresis showed one clean band with the expected size. The sequence had no errors, except for in the exact position where the β2-1 and β2-2 alleles differ from each other. cR has a G in the position where b2-2 has an A, but cR is also missing a base in the next position, which could be a sequencing error, but if you look at the electropherogram (Figure 3.13) you can see that in position 60 there is a double readout of a C and an A, which translates to G and T, which is the exact sequence b2-1 has and cR is therefore most likely b2-1. b2-1 TCTCCCTCCCTCACACGTGCAGCTGCTGGCCGACTGCCTGACCGTCGTCATCGCCGCCAA 840 b2-2 TCTCCCTCCCTCACACGTGCAGCTGCTGGCCGACTGCCTGACCGTCGTCATCGCCGCCAA 840 cR-reverse TCTCCCTCCCTCACACGTGCAGCTGCTGGCCGACTGCCTGACCGTCGTCATCGCCGCCAA 587 ************************************************************ b2-1 GATGGGCACCAAATTCACCGTGGAGACCCAGGTGGCGTGGCAGAAGTTCCTGT-CTGTCG 899 b2-2 GATGGGCACCAAATTCACCGTGGAGACCCAGGTGGCATGGCAGAAGTTCCTGT-CTGTCG 899 cR-reverse GATGGGCACCAAATTCACCGTGGAGACCCAGGTGGCG-GGCAGAAGTTCCTGTACTGTCG 646 ************************************ *************** ****** <em type="bold">Figure 3.12 Alignment of the sequences for PCR products from the primer pair </em><em type="bold">b34F255 + b2R525. </em><em type="italic">b2R525 used as sequencing primer. Marked in purple is exon 3. Yellow </em><em type="italic">is a difference between the two alleles. And teal is where the sequenced result differs from the </em><em type="italic">published alleles. </em></p>
+<p xml:lang="eng"><em type="bold">Figure 3.13 Electropherogram </em><em type="bold">of cR. </em><em type="italic">This electropherogram </em><em type="italic">shows how in position 60 there </em><em type="italic">are two readouts, if they are </em><em type="italic">counted as separate reads they </em><em type="italic">give us CA which reverse </em><em type="italic">complimentary is TG, which is </em><em type="italic">exactly what b2-1 in figure 3.12 </em><em type="italic">is in position 876-877. </em>25 3.4.2.3 </p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb3 and Hbb4 PCR products β3 and β4 are very similar and our primers were not able to separate the two. Primers in</p>
 <p xml:lang="eng">Table 3.8 used in addition to primers from Table 3.6.</p>
-<p xml:lang="eng"><em type="bold">Table 3.8</em> <em type="italic">Primer combinations for Hbb3 and Hbb4 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product</p>
-<p xml:lang="dan">b34F-5 b234R447 408 gene β3 414 gene β4</p>
-<p xml:lang="dan">b34F-5 b234R417 652 gene β3 646 gene β4</p>
-<p xml:lang="eng">The sequence for β3 and β4 were close to that of the Genbank β3 and β4 (Figure 3.15), and</p>
-<p xml:lang="eng">the sequencing had a high quality on several of the runs. The reason for this is at β3 and β4</p>
-<p xml:lang="eng">are very similar. fR seems at first glance seems to be β3, but if you look manually at the</p>
-<p xml:lang="eng">electropherogram (Figure 3.14) you can see that the sequence matches the known one from</p>
-<p xml:lang="eng">Genbank for both β3 and β4, but from the location where β3 and β4 differ from each other,</p>
-<p xml:lang="eng">the quality of the sequencing has dropped. If you set a manual reading frame for them, you</p>
-<p xml:lang="eng">can see that the two sequences are both there, just interlaced and interchanged, and you get</p>
-<p xml:lang="eng">the perfect sequence for both β3 and β4 as indicated in lower part of Figure 3.14.</p>
-<p xml:lang="eng"><em type="bold">Figure 3.14 Electropherogram of sequence fR b34F-5 + b234R417</em><em type="italic">. The sequence has very </em></p>
-<p xml:lang="eng"><em type="italic">high quality on the readout until the position where β3 and β4 differ from each other, where </em></p>
-<p xml:lang="eng"><em type="italic">double peaks appear. </em></p>
+<p xml:lang="eng"><em type="bold">Table 3.8 </em><em type="italic">Primer combinations for Hbb3 and Hbb4 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product b34F-5 b234R447 408 gene β3 414 gene β4 410 b34F-5 b234R417 652 gene β3 646 gene β4 650</p>
+<p xml:lang="eng">The sequence for β3 and β4 were close to that of the Genbank β3 and β4 (Figure 3.15), and the sequencing had a high quality on several of the runs. The reason for this is at β3 and β4 are very similar. fR seems at first glance seems to be β3, but if you look manually at the electropherogram (Figure 3.14) you can see that the sequence matches the known one from</p>
+<p xml:lang="eng">Genbank for both β3 and β4, but from the location where β3 and β4 differ from each other, the quality of the sequencing has dropped. If you set a manual reading frame for them, you can see that the two sequences are both there, just interlaced and interchanged, and you get the perfect sequence for both β3 and β4 as indicated in lower part of Figure 3.14.</p>
+<p xml:lang="eng"><em type="bold">Figure 3.14 Electropherogram of sequence fR b34F-5 + b234R417 . </em>The sequence has very <em type="italic">high quality on the readout until the position where β3 and β4 differ from each other, where </em><em type="italic">double peaks appear. </em></p>
 <p xml:lang="eng"><em type="italic">The double readout of both β3 and β4 reads as shown below. </em></p>
-<p xml:lang="eng"><em type="italic">The red shows β3 and the teal shows β4. And it shows that our sequencing result is actually </em></p>
-<p xml:lang="eng">25 <em type="italic">both β3 and β4 intertwined. </em></p>
-<p xml:lang="eng"><em type="italic">β3: AATTACTCCCCCATAGGTCATTAAGCATTGTGAAA </em></p>
-<p xml:lang="eng"><em type="italic">β4: GTAGCTCGATATGTCTTTAGGAATGCATTGTGAAA </em></p>
-<p xml:lang="eng">β3: -TTGCCCCATATGTCGTTAAGAATGCATTGTGAAA</p>
-<p xml:lang="eng">β4: -TTGCCCCATATGTCGTTAAG----CATTGTGAAA</p>
-<p xml:lang="eng">b4-1            TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b4-3            TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b4-2            TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b4-4            TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b3-1            TTGCCCCATATGTCGTTAAGAATGCATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 180 b3-3            TTGCCCCATATGTCGTTAAGAATGCATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 180 b3-2            TTGCCCCATATGTCGTTAAGAATGCATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 180 fR              CTCCCCCATAGGTCATTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 171                  * ******* *** *****    ************************************</p>
-<p xml:lang="eng"><em type="bold">Figure 3.15 Alignment of the sequences for PCR products from the primer pair b34F-5 + b234R417.</em> <em type="italic">b234R417 used as sequencing primer. Area marked in green is the β3 sequence </em></p>
-<p><em type="italic">from Figure 3.13</em><em type="bold"> </em></p>
-<p xml:lang="eng"><em type="italic">3.4.2.4 PCR targeting and dideoxy sequencing of Hbb5 PCR products </em></p>
-<p xml:lang="eng">β5 primers in general worked good</p>
-<p xml:lang="eng"><em type="bold">Table 3.9</em> <em type="italic">Primer combinations for Hbb5 and results of </em></p>
-<p xml:lang="eng"><em type="italic">electrophoresis.</em> </p>
-<p xml:lang="eng">Primer A Primer B Expected product Found Product b5F1 b5R449   b5F27 b5R449</p>
-<p xml:lang="eng">b5F239 b5R709</p>
-<p xml:lang="eng">The primer combination used for sequencing was b5F239 and b5R709 after a second PCR</p>
-<p xml:lang="eng">had been done to isolate the additional products found (Figure 3.16). The sequence here does</p>
-<p xml:lang="eng">not fit very well with the known sequences from Genbank. It is only about 120 nucleotides</p>
-<p xml:lang="eng">that have a high quality to for alignments. This is especially apparent from base 540 and</p>
-<p xml:lang="eng">onwards, but there had been a good line-up from base 346 and up to 540. All three 6L, 6m</p>
-<p xml:lang="eng">and 6s sequences appear to share the same differences in many positions. This indicates that</p>
-<p xml:lang="eng">there could be a pseudo gene, because there are too many differences to be a new allele. But</p>
-<p xml:lang="eng">poor sequencing quality is also a major possibility.</p>
-<p>26</p>
-<p xml:lang="eng">b5-1            GTGGACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGATAT 478 b5-2            GTGGACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGATAT 478 6L              GTGCACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGCTAT 223 6m              GTGGACCCTGACAACTTCAGAGTAGGCCTAATCA-GCCTCAAATGATTCTGCATGGCTAT 210 6s              GTGGACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGCTAT 218                 *** *************************** ** ********************* ***</p>
-<p xml:lang="eng">b5-1            CACCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTGTTTTTTTT 538 b5-2            CACCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTTTTTTTTTT 538 6L              CACAACCATGAGAAATAGGTATAAATTAGACACGTTTTAATGGGAATGTTTGTTTTTTTT 283 6m              CACAACCATGAGAAATAGGTATAAATTAGACACGTTTTAATGGGGATGCATGTTTTTTTT 270 6s              CACAACCATGAGAAATAGGTATAAATTAGACACGTTTTTGTGGGGATGCATGTTAAATTG 278                 *** ******* ****** *******************  **** ***  * **   **</p>
-<p xml:lang="eng"><em type="bold">Figure 3.16 Primer combination of b5F239 + b5R709</em>. <em type="italic">b5F239 used as sequencing primer. </em></p>
-<p xml:lang="eng"><em type="italic">All three of our sequences share several of the same differences from the known alleles. The </em></p>
-<p xml:lang="eng"><em type="italic">area marked in purple is exon 2 that goes from 217 – 439.</em><em type="bold"> </em></p>
-<p xml:lang="eng"><em type="italic">3.5 454 Sequencing </em></p>
-<p xml:lang="eng"><em type="italic">3.5.1 Initial Testing of 454 Sequencing </em></p>
-<p xml:lang="eng">The 454 sequencing primers are longer than the standard primers, and are 60-65 nucleotides</p>
-<p xml:lang="eng">long. They are in three sections, a gene specific part, a tag and a 454 specific part.</p>
-<p xml:lang="eng">All the standard PCR primers were synthezised by DNA Technology, but TAG Copenhagen</p>
-<p xml:lang="eng">could offer cheaper primers for 454 sequencing.</p>
-<p xml:lang="eng">Through other collaborators suspicions arose that the long primers, needed for 454</p>
-<p xml:lang="eng">sequencing, provided by the new supplier where not of high enough quality. This was made</p>
-<p xml:lang="eng">clear during electrophoresis where they had low amounts of product and had smears on both</p>
-<p xml:lang="eng">sides of the product, and therefore also likely low quality product. New HPLC purified</p>
-<p xml:lang="eng">primers were ordered from the company and compared to the old ones, to rule out if there had</p>
-<p xml:lang="eng">been an error during production of these primers, or mishandled after they arrived. The</p>
-<p xml:lang="eng">purified primers showed somewhat less smearing, but did still not function well in the PCR</p>
-<p xml:lang="eng">experiments (Figure 3.17).</p>
-<p>27</p>
-<p xml:lang="eng"><em type="bold">Figure 3.17</em> <em type="bold">Old and new primers tested at different concentrations: </em><em type="italic">New primers: 1: </em></p>
-<p xml:lang="eng"><em type="italic">M1b234F-13 - 0.5 ul, 2: M1b234R417 - 0.5ul, 3: M1b5F1 – 0.5 ul, 4: M1b5R449 – 0.5 ul, 5: a4R676 – 0.5ul, 6: b2R614 – 0.5ul, 7: M1b234F-13 - 0.1 ul, 8: M1b234R417- 0.1 ul, 9: M1b5F1 </em></p>
-<p type="listitem" xml:lang="eng"><em type="italic">– 0.1 ul, 10: M1b5R449 – 0.1 ul, 11: a4R676 – 0.1ul, 12: b2R614 – 0.1ul, 13: Molecular ruler </em></p>
-<p xml:lang="eng"><em type="italic">20bp,  Old primers: 14: a3R1879 (1ul primer + 2ul water) 0.5 ul, 15: M1a1F14 – 0.5ul, 16: M1a1R400 </em></p>
-<p type="listitem" xml:lang="eng"><em type="italic">– 0.5ul, 17: M1b34F-5 - 0.5ul, 18: M1b234R417 – 0.5 ul, 19: a3R1879 (1ul primer + 2ul water) </em></p>
-<p><em type="italic">0.1ul, 20: M1a1F14 – 0.1ul </em></p>
+<p xml:lang="eng"><em type="italic">The red shows β3 and the teal shows β4. And it shows that our sequencing result is actually </em>26 <em type="italic">both β3 and β4 intertwined. </em><em type="italic">β3: AATTACTCCCCCATAGGTCATTAAGCATTGTGAAA </em><em type="italic">β4: GTAGCTCGATATGTCTTTAGGAATGCATTGTGAAA </em>β3: -TTGCCCCATATGTCGTTAAGAATGCATTGTGAAA β4: -TTGCCCCATATGTCGTTAAG----CATTGTGAAA b4-1 TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b4-3 TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b4-2 TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b4-4 TTGCCCCATATGTCGTTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 176 b3-1 TTGCCCCATATGTCGTTAAGAATGCATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 180 b3-3 TTGCCCCATATGTCGTTAAGAATGCATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 180 b3-2 TTGCCCCATATGTCGTTAAGAATGCATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 180 fR CTCCCCCATAGGTCATTAAG----CATTGTGAAACTAAAACTCGTATTTATTTTTTTGAC 171 * ******* *** ***** ************************************ <em type="bold">Figure 3.15 Alignment of the sequences for PCR products from the primer pair b34F-5 + b234R417. </em><em type="italic">b234R417 used as sequencing primer. Area marked in green is the β3 sequence from Figure 3.13 </em><em type="bold"></em>3.4.2.4 </p>
+<p xml:lang="eng">PCR targeting and dideoxy sequencing of Hbb5 PCR products β5 primers in general worked good</p>
+<p xml:lang="eng"><em type="bold">Table 3.9 </em><em type="italic">Primer combinations for Hbb5 and results of electrophoresis. </em>Primer A </p>
+<p xml:lang="eng">Primer B</p>
+<p xml:lang="eng">Expected product</p>
+<p xml:lang="eng">Found Product b5F1 b5R449 657 650 b5F27 b5R449 621 650 b5F239 b5R709 482 480 460 290</p>
+<p xml:lang="eng">The primer combination used for sequencing was b5F239 and b5R709 after a second PCR had been done to isolate the additional products found (Figure 3.16). The sequence here does not fit very well with the known sequences from Genbank. It is only about 120 nucleotides that have a high quality to for alignments. This is especially apparent from base 540 and onwards, but there had been a good line-up from base 346 and up to 540. All three 6L, 6m and 6s sequences appear to share the same differences in many positions. This indicates that there could be a pseudo gene, because there are too many differences to be a new allele. But poor sequencing quality is also a major possibility. 27 b5-1 GTGGACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGATAT 478 b5-2 GTGGACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGATAT 478 6L GTGCACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGCTAT 223 6m GTGGACCCTGACAACTTCAGAGTAGGCCTAATCA-GCCTCAAATGATTCTGCATGGCTAT 210 6s GTGGACCCTGACAACTTCAGAGTAGGCCTAAGCAAGCCTCAAATGATTCTGCATGGCTAT 218 *** *************************** ** ********************* *** b5-1 CACCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTGTTTTTTTT 538 b5-2 CACCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTTTTTTTTTT 538 6L CACAACCATGAGAAATAGGTATAAATTAGACACGTTTTAATGGGAATGTTTGTTTTTTTT 283 6m CACAACCATGAGAAATAGGTATAAATTAGACACGTTTTAATGGGGATGCATGTTTTTTTT 270 6s CACAACCATGAGAAATAGGTATAAATTAGACACGTTTTTGTGGGGATGCATGTTAAATTG 278 *** ******* ****** ******************* **** *** * ** ** <em type="bold">Figure 3.16 Primer combination of b5F239 + b5R709 </em>. <em type="italic">b5F239 used as sequencing primer. All three of our sequences share several of the same differences from the known alleles. The area marked in purple is exon 2 that goes from 217 – 439. </em><em type="bold"></em>3.5 454 Sequencing 3.5.1 Initial Testing of 454 Sequencing </p>
+<p xml:lang="eng">The 454 sequencing primers are longer than the standard primers, and are 60-65 nucleotides long. They are in three sections, a gene specific part, a tag and a 454 specific part.</p>
+<p xml:lang="eng">All the standard PCR primers were synthezised by DNA Technology, but TAG Copenhagen could offer cheaper primers for 454 sequencing.</p>
+<p xml:lang="eng">Through other collaborators suspicions arose that the long primers, needed for 454 sequencing, provided by the new supplier where not of high enough quality. This was made clear during electrophoresis where they had low amounts of product and had smears on both sides of the product, and therefore also likely low quality product. New HPLC purified primers were ordered from the company and compared to the old ones, to rule out if there had been an error during production of these primers, or mishandled after they arrived. The purified primers showed somewhat less smearing, but did still not function well in the PCR experiments (Figure 3.17). 28</p>
+<p xml:lang="eng"><em type="bold">Figure 3.17 </em><em type="bold">Old and new primers tested at different concentrations: New primers: </em>1: M1b234F-13 - 0.5 ul, 2: M1b234R417 - 0.5ul, 3: M1b5F1 – 0.5 ul, 4: M1b5R449 – 0.5 ul, 5: a4R676 – 0.5ul, 6: b2R614 – 0.5ul, 7: M1b234F-13 - 0.1 ul, 8: M1b234R417- 0.1 ul, 9: M1b5F1 – 0.1 ul, 10: M1b5R449 – 0.1 ul, 11: a4R676 – 0.1ul, 12: b2R614 – 0.1ul, 13: Molecular ruler 20bp, <em type="bold">Old primers: </em>14: a3R1879 (1ul primer + 2ul water) 0.5 ul, 15: M1a1F14 – 0.5ul, 16: M1a1R400 – 0.5ul, 17: M1b34F-5 - 0.5ul, 18: M1b234R417 – 0.5 ul, 19: a3R1879 (1ul primer + 2ul water) 0.1ul, 20: M1a1F14 – 0.1ul </p>
 <p xml:lang="eng">Identical primers were ordered from DNA Technology, and tested against the original TAG</p>
 <p xml:lang="eng">Copenhagen, running a PCR experiment (Figure 3.18).</p>
-<p xml:lang="eng"><em type="bold">Figure 3.18</em> <em type="bold">DNA Technology and TAG Copenhagen of primers tested against one other: </em></p>
-<p xml:lang="eng"><em type="italic">DNA Technology: 1: M1a3F59 and M1a3R733, 2: M1bF-26 and M1b1R611, 3: M1b234F-13 </em></p>
-<p xml:lang="eng"><em type="italic">and M1b234R417, 4: M1b5F1 and M1b5R449, 5. Molecular ruler 100nt,  </em></p>
-<p xml:lang="eng"><em type="italic">TAG Copenhagen: 6: M1a3F59 and M1a3R733, 7: M1bF-26 and M1b1R611, 8: M1b234F-13 </em></p>
-<p xml:lang="eng"><em type="italic">and M1b234R417, 9: M1b5F1 and M1b5R449, 10: Positive control. All primers  from both companies were HPLC purified </em></p>
-<p>28</p>
-<p xml:lang="eng">Conclusion from the tests in Figure 3.18 is that the primers from DNA Technology gave PCR</p>
-<p xml:lang="eng">products, while TAG Copenhagen did not (Figure 3.18). Additionally when the primers</p>
-<p xml:lang="eng">themselves were run on agarose gels, the primers from DNA Technology were obviously</p>
-<p xml:lang="eng">more pure (Figure 3.19).</p>
-<p xml:lang="eng"><em type="bold">Figure 3.19 DNA Technology and TAG Copenhagen primers tested against one other. </em></p>
-<p xml:lang="eng"><em type="italic">DNA Technology primers in position 2 to 8, and TAG Copenhagen primers in position 9 to </em></p>
-<p><em type="italic">15. </em></p>
-<p xml:lang="eng"><em type="italic">1: Molecular ruler 20nt, 2: M1a3F59, 3: M1a3R733, 4: M1b1F-26, 5: M1b1R611, 6: M1b234F-13, 7: M1b234R417, 8: M1b5F1, 9: M1a3F59, 10: M1a3R733, 11: M1b1F-26, 12: </em></p>
-<p xml:lang="eng"><em type="italic">M1b1R611, 13: M1b234F-13, 14: M1b234R417, 15: M1b5F1 </em></p>
-<p xml:lang="eng"><em type="italic">This image is overexposed to reveal the smears, bands were clearer when seeing the gel.</em> </p>
-<p xml:lang="eng">Figure 3.19 shows that the new primers have much less smear, and stronger bands.</p>
-<p>29</p>
-<p xml:lang="eng"><em type="bold"> Discussion: </em></p>
-<p xml:lang="eng"><em type="bold">4.1  PCR and agarose gels </em></p>
+<p xml:lang="eng"><em type="bold">Figure 3.18 </em><em type="bold">DNA Technology and TAG Copenhagen of primers tested against one other: DNA Technology: </em>1: M1a3F59 and M1a3R733, 2: M1bF-26 and M1b1R611, 3: M1b234F-13 and M1b234R417, 4: M1b5F1 and M1b5R449, 5. Molecular ruler 100nt, <em type="bold">TAG Copenhagen: </em>6: M1a3F59 and M1a3R733, 7: M1bF-26 and M1b1R611, 8: M1b234F-13 and M1b234R417, 9: M1b5F1 and M1b5R449, 10: Positive control. All primers from both companies were HPLC purified29 </p>
+<p xml:lang="eng">Conclusion from the tests in Figure 3.18 is that the primers from DNA Technology gave PCR products, while TAG Copenhagen did not (Figure 3.18). Additionally when the primers themselves were run on agarose gels, the primers from DNA Technology were obviously more pure (Figure 3.19).</p>
+<p xml:lang="eng"><em type="bold">Figure 3.19 DNA Technology and TAG Copenhagen primers tested against one other. </em><em type="italic">DNA Technology primers in position 2 to 8, and TAG Copenhagen primers in position 9 to 15. 1: Molecular ruler 20nt, 2: M1a3F59, 3: M1a3R733, 4: M1b1F-26, 5: M1b1R611, 6: M1b234F-13, 7: M1b234R417, 8: M1b5F1, 9: M1a3F59, 10: M1a3R733, 11: M1b1F-26, 12: M1b1R611, 13: M1b234F-13, 14: M1b234R417, 15: M1b5F1 This image is overexposed to reveal the smears, bands were clearer when seeing the gel. </em></p>
+<p xml:lang="eng">Figure 3.19 shows that the new primers have much less smear, and stronger bands. 30 <em type="bold">4 Discussion: </em><em type="bold">4.1 PCR and agarose gels </em></p>
 <p xml:lang="eng">The purification of PCR products from agarose gels, to use them as template for a second</p>
-<p xml:lang="eng">PCR, did not work well. It is possible that trace amounts of DNA has contaminated each of</p>
-<p xml:lang="eng">the separated bands of DNA, but more likely, it is that during the annealing step in the PCR,</p>
-<p xml:lang="eng">the primers have bound to pseudo genes as well as the intended targeted genes. This could</p>
-<p xml:lang="eng">lead to what was seen in electrophoreses, that we got several bands from a single primer pair,</p>
-<p xml:lang="eng">even when all alleles should produce a similar product. This would also explain why</p>
-<p xml:lang="eng">purification from electrophoreses did not successfully purify the products, because if the</p>
-<p xml:lang="eng">pseudo genes and intended genes are in the product, it is possible that both these genes will</p>
-<p xml:lang="eng">bind together as a hybrid of the normal gene and pseudogene, thereby creating the third of the</p>
-<p xml:lang="eng">bands we saw with many primer pairs, where two of the bands would be double stranded</p>
-<p xml:lang="eng">intended gene and double stranded pseudogene, and the third one would be a single strand of</p>
-<p xml:lang="eng">both.</p>
-<p xml:lang="eng">Another  more likely explanation for the multiple bands on some gels runs, is that some genes</p>
-<p xml:lang="eng">are so similar, that during annealing in PCR the single strands of DNA can bind to similar,</p>
-<p xml:lang="eng">but of a different gene sequences, thus resulting in a hybrid of the two different genes (Figure</p>
-<p xml:lang="eng">4.1 and Figure 4.2).</p>
-<p xml:lang="eng"><em type="bold">Figure 4.1 Illustration of β234 DNA </em></p>
-<p xml:lang="eng"><em type="bold">strands. </em></p>
-<p xml:lang="eng"><em type="italic">The blue bars indicate the primers. The </em></p>
-<p xml:lang="eng"><em type="italic">black line is the shared gene sequence of β2, β3 and β4, and the red line is the difference between β2 and β3/β4. </em></p>
-<p xml:lang="eng"><em type="bold">Figure 4.2 Illustration of hybrid DNA </em></p>
-<p xml:lang="eng"><em type="bold">strands of β234. </em></p>
-<p xml:lang="eng"><em type="italic">This illustration shows how genes that are very </em></p>
-<p xml:lang="eng"><em type="italic">similar can make hybrid pairs of DNA strands </em></p>
-<p xml:lang="eng"><em type="italic">during annealing of PCR. If these were run in </em></p>
-<p xml:lang="eng"><em type="italic">a gel the hybrid of β2&amp;β3/4 would show an unknown band in the gel, probably in-between </em></p>
-<p xml:lang="eng"><em type="italic">the expected result for β2 and β3/4. </em></p>
-<p>30</p>
-<p xml:lang="eng">The quality of the first batch of the long primers needed for 454 sequencing was also an</p>
-<p xml:lang="eng">issue. These had smears and low quality bands, this shows how vigilant one has to be in</p>
-<p xml:lang="eng">every single step of a project, as there can be errors from one self as well as a supplier of</p>
-<p xml:lang="eng">tools and supplies.</p>
-<p xml:lang="eng">The primer design in general has worked well, especially for α primers. They gave very clear</p>
-<p xml:lang="eng">clean results. This was expected because of the difference between the α genes is bigger than</p>
-<p xml:lang="eng">between some of the β genes. Some of the β primers need to be looked at further to see why</p>
-<p xml:lang="eng">they did not work. The primers were though able to separate the β234 complex, and with</p>
-<p xml:lang="eng">manual interpretation of sequencing through electropherogram it was possible to see both β3</p>
-<p xml:lang="eng">and β4 sequence, this is something I had not expected to be able to see before hand, because</p>
-<p xml:lang="eng">β3 and β4 are so similar as shown in Table 1.2.</p>
-<p xml:lang="eng"><em type="bold">4.2  Sequencing </em></p>
-<p xml:lang="eng">Several results indicate that there could be unknown alleles or pseudogenes. A example of a</p>
-<p xml:lang="eng">possible pseudogene is Figure 3.16 where all three of our products show the same deviations</p>
-<p xml:lang="eng">in several positions from the two known alleles of β5, seeing as all but one of the deviations</p>
-<p xml:lang="eng">of β5 in our results are in introns make it more likely that this is a new allele, because the</p>
-<p xml:lang="eng">exons are much more preserved than the introns are. The indication that our β5 results are a</p>
-<p xml:lang="eng">pseudogene and not a new allele, is most apparent when comparing both known alleles of β5,</p>
-<p xml:lang="eng">β5 is 725 nucleotides long for both alleles and there is only a single nucleotide difference</p>
-<p xml:lang="eng">between the two, this is on nucleotide 530 which is in an intron (Figure 4.3), so finding a new</p>
-<p xml:lang="eng">allele with multiple differences is possibly not likely. But further testing is needed to</p>
-<p xml:lang="eng">determine if this is the case.</p>
-<p xml:lang="eng">b5-1            CCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTGTTTTTTTTCG 540 b5-2            CCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTTTTTTTTTTCG 540                 ************************************************* **********</p>
-<p xml:lang="eng"><em type="bold">Figure 4.3 β5-1 and β5-2 compared to each other. </em>Both known β5 alleles compared to </p>
-<p xml:lang="eng">each other and highlighted the only variation between the two.</p>
-<p>31</p>
-<p xml:lang="eng"><em type="bold">4.3   Future Projects </em></p>
-<p xml:lang="eng">A continuation of this project would be to setup and test 454 sequencing with our long</p>
-<p xml:lang="eng">primers. This is a much faster method of sequencing as you can do up to one million at a</p>
-<p xml:lang="eng">time.</p>
+<p xml:lang="eng">PCR, did not work well. It is possible that trace amounts of DNA has contaminated each of the separated bands of DNA, but more likely, it is that during the annealing step in the PCR, the primers have bound to pseudo genes as well as the intended targeted genes. This could lead to what was seen in electrophoreses, that we got several bands from a single primer pair, even when all alleles should produce a similar product. This would also explain why purification from electrophoreses did not successfully purify the products, because if the pseudo genes and intended genes are in the product, it is possible that both these genes will bind together as a hybrid of the normal gene and pseudogene, thereby creating the third of the bands we saw with many primer pairs, where two of the bands would be double stranded intended gene and double stranded pseudogene, and the third one would be a single strand of both.</p>
+<p xml:lang="eng">Another more likely explanation for the multiple bands on some gels runs, is that some genes are so similar, that during annealing in PCR the single strands of DNA can bind to similar, but of a different gene sequences, thus resulting in a hybrid of the two different genes (Figure 4.1 and Figure 4.2).</p>
+<p xml:lang="eng"><em type="bold">Figure 4.1 Illustration of β234 DNA strands. </em><em type="italic">The blue bars indicate the primers. The black line is the shared gene sequence of β2, β3 and β4, and the red line is the difference between β2 and β3/β4. </em></p>
+<p xml:lang="eng"><em type="bold">Figure 4.2 Illustration of hybrid DNA strands of β234. </em><em type="italic">This illustration shows how genes that are very similar can make hybrid pairs of DNA strands during annealing of PCR. If these were run in a gel the hybrid of β2&amp;β3/4 would show an unknown band in the gel, probably in-between the expected result for β2 and β3/4. </em>31 </p>
+<p xml:lang="eng">The quality of the first batch of the long primers needed for 454 sequencing was also an issue. These had smears and low quality bands, this shows how vigilant one has to be in every single step of a project, as there can be errors from one self as well as a supplier of tools and supplies.</p>
+<p xml:lang="eng">The primer design in general has worked well, especially for α primers. They gave very clear clean results. This was expected because of the difference between the α genes is bigger than between some of the β genes. Some of the β primers need to be looked at further to see why they did not work. The primers were though able to separate the β234 complex, and with manual interpretation of sequencing through electropherogram it was possible to see both β3 and β4 sequence, this is something I had not expected to be able to see before hand, because β3 and β4 are so similar as shown in Table 1.2. <em type="bold">4.2 Sequencing </em></p>
+<p xml:lang="eng">Several results indicate that there could be unknown alleles or pseudogenes. A example of a possible pseudogene is Figure 3.16 where all three of our products show the same deviations in several positions from the two known alleles of β5, seeing as all but one of the deviations of β5 in our results are in introns make it more likely that this is a new allele, because the exons are much more preserved than the introns are. The indication that our β5 results are a pseudogene and not a new allele, is most apparent when comparing both known alleles of β5, β5 is 725 nucleotides long for both alleles and there is only a single nucleotide difference between the two, this is on nucleotide 530 which is in an intron (Figure 4.3), so finding a new allele with multiple differences is possibly not likely. But further testing is needed to determine if this is the case. b5-1 CCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTGTTTTTTTTCG 540 b5-2 CCACCATGATAAATAGATATAAATTAGACACGTTTTAATGGGAATGTTTTTTTTTTTTCG 540 ************************************************* ********** <em type="bold">Figure 4.3 β5-1 and β5-2 compared to each other. </em>Both known β5 alleles compared to each other and highlighted the only variation between the two. 32 <em type="bold">4.3 Future Projects </em></p>
+<p xml:lang="eng">A continuation of this project would be to setup and test 454 sequencing with our long primers. This is a much faster method of sequencing as you can do up to one million at a time.</p>
 <p xml:lang="eng">Other projects could go research with genetic if there are other sub populations of cod on</p>
-<p xml:lang="eng">Faroe Bank or the Faroe plateau, and go further in-depth by looking for genetic differences</p>
-<p xml:lang="eng">between Faroese cod.</p>
-<p xml:lang="eng">Future projects could focus on some of the possible new alleles. Where primers could be</p>
-<p xml:lang="eng">designed specifically to target these, and figure out if these are new unknown alleles or</p>
-<p xml:lang="eng">pseudogenes. Should new alleles be discovered, other projects could then focus on comparing</p>
-<p xml:lang="eng">the different alleles of the genes, to see if there is any positive or negative results between</p>
-<p xml:lang="eng">them for growth patterns of the cod. Further projects again could find out if any of the</p>
-<p xml:lang="eng">variations are show different results to varying amounts of oxygen and water temperatures.</p>
-<p xml:lang="eng">This could be part of research of how global warming affects the gene expressions of</p>
-<p xml:lang="eng">haemoglobin in cod.</p>
-<p xml:lang="eng">Most fishing for cod around the Faroe Islands is done with various kinds of nets, these</p>
-<p xml:lang="eng">introduce a selection pressure where it is fittest to be smaller than the meshes of the nets. A</p>
-<p xml:lang="eng">future project could be to find out if or how this selection pressure affects haemoglobins</p>
-<p xml:lang="eng">expressed in cod.</p>
-<p xml:lang="eng">Another project that would be interesting is to research how old the Faroese cod populations</p>
-<p xml:lang="eng">are, and if there’s how the genetic drift for all north Atlantic cod populations compares to</p>
-<p xml:lang="eng">each other. And if there is any difference in the genetic drift, then to compare the</p>
-<p xml:lang="eng">environments and try to find out why.</p>
-<p xml:lang="eng">Knowing the alleles present is important for population genetic studies and stock</p>
-<p xml:lang="eng">management in general.</p>
-<p>32</p>
-<p xml:lang="eng"><em type="bold"> Conclusion </em></p>
-<p xml:lang="eng">The primers for α genes worked very well, and the primers for β genes were less selective as</p>
-<p xml:lang="eng">expected since several of the β genes are so similar. Testing of the long primers can continue,</p>
-<p xml:lang="eng">and seem to be able to get results.</p>
-<p xml:lang="eng">Though more testing is needed to draw any real conclusion on whether there are any new</p>
-<p xml:lang="eng">alleles in my testing results, or if the observed variations are pseudogenes or hybrids of two</p>
-<p xml:lang="eng">different DNA strands.</p>
-<p>33</p>
-<p xml:lang="eng"><em type="bold"> References </em></p>
+<p xml:lang="eng">Faroe Bank or the Faroe plateau, and go further in-depth by looking for genetic differences between Faroese cod.</p>
+<p xml:lang="eng">Future projects could focus on some of the possible new alleles. Where primers could be designed specifically to target these, and figure out if these are new unknown alleles or pseudogenes. Should new alleles be discovered, other projects could then focus on comparing the different alleles of the genes, to see if there is any positive or negative results between them for growth patterns of the cod. Further projects again could find out if any of the variations are show different results to varying amounts of oxygen and water temperatures.</p>
+<p xml:lang="eng">This could be part of research of how global warming affects the gene expressions of haemoglobin in cod.</p>
+<p xml:lang="eng">Most fishing for cod around the Faroe Islands is done with various kinds of nets, these introduce a selection pressure where it is fittest to be smaller than the meshes of the nets. A future project could be to find out if or how this selection pressure affects haemoglobins expressed in cod.</p>
+<p xml:lang="eng">Another project that would be interesting is to research how old the Faroese cod populations are, and if there’s how the genetic drift for all north Atlantic cod populations compares to each other. And if there is any difference in the genetic drift, then to compare the environments and try to find out why.</p>
+<p xml:lang="eng">Knowing the alleles present is important for population genetic studies and stock management in general. 33 <em type="bold">5 Conclusion </em></p>
+<p xml:lang="eng">The primers for α genes worked very well, and the primers for β genes were less selective as expected since several of the β genes are so similar. Testing of the long primers can continue, and seem to be able to get results.</p>
+<p xml:lang="eng">Though more testing is needed to draw any real conclusion on whether there are any new alleles in my testing results, or if the observed variations are pseudogenes or hybrids of two different DNA strands. 34 <em type="bold">6 References </em></p>
 <p xml:lang="eng"><em type="bold">Alberts, B., Bray, D., Hopkin, K., Johnson, A., Lewis, J., Raaf, M., Roberts, K. and </em></p>
-<p xml:lang="eng"><em type="bold">Walter, P. 2009</em>. Essential Cell Biology - third edition. Garland Science, New York. </p>
-<p xml:lang="eng"><em type="bold">Antonini, E., Brunori, M. 1971.</em> Hemoglobin and Myoglobin in their Reactions with </p>
+<p xml:lang="eng"><em type="bold">Walter, P. 2009 </em>. Essential Cell Biology - third edition. Garland Science, New York. </p>
+<p xml:lang="eng"><em type="bold">Antonini, E., Brunori, M. 1971. </em>Hemoglobin and Myoglobin in their Reactions with </p>
 <p xml:lang="eng">Ligands. North-Holland Pub. Co.</p>
-<p xml:lang="eng"><em type="bold">Borza, T., Stone, C., Gamperl, A. K. and Bowman, S. 2009.</em> Atlantic Cod (<em type="italic">Gadus morhua</em>) </p>
-<p xml:lang="eng">hemoglobin genes: multiplicity and polymorphism. BMC Genetics, 10: 51.</p>
-<p xml:lang="eng"><em type="bold">Brix, O., Thorkildsen, S. and Colosimo, A. 2004.</em> Temperature acclimation modulates the </p>
-<p xml:lang="eng">oxygen binding properties of the Atlantic cod (<em type="italic">Gadus morhua L.</em>) genotypes—HbI*1/1, </p>
-<p xml:lang="eng">HbI*1/2, and HbI*2/2—by changing the concentrations of their major hemoglobin</p>
-<p xml:lang="eng">components (results from growth studies at different temperatures). Comparative</p>
+<p xml:lang="eng"><em type="bold">Borza, T., Stone, C., Gamperl, A. K. and Bowman, S. 2009. </em>Atlantic Cod ( <em type="italic">Gadus morhua </em>) hemoglobin genes: multiplicity and polymorphism. BMC Genetics, 10: 51. </p>
+<p xml:lang="eng"><em type="bold">Brix, O., Thorkildsen, S. and Colosimo, A. 2004. </em>Temperature acclimation modulates the oxygen binding properties of the Atlantic cod ( <em type="italic">Gadus morhua L. </em>) genotypes—HbI*1/1, </p>
+<p xml:lang="eng">HbI*1/2, and HbI*2/2—by changing the concentrations of their major hemoglobin components (results from growth studies at different temperatures). Comparative</p>
 <p xml:lang="eng">Biochemistry and Physiology, Part A 138: 241</p>
-<p xml:lang="eng"><em type="bold">Coyle, T. 1997.</em> Stock identification and fisheries management: the importance of using </p>
-<p xml:lang="eng">several methods in a stock identification study. Austrilian Society for Fish Biology.</p>
-<p xml:lang="eng"><em type="bold">Frank, K. T., Petrie, B., Fisher, J. A. D. and Leggett, W. C. 2011.</em> Transient dynamics of </p>
-<p xml:lang="eng">an altered large marine ecosystem. Nature 477: 86</p>
-<p xml:lang="eng"><em type="bold">Fry, F. E. J. and Hochachka, P. W. 1970.</em> Comparative physiology of thermoregulation vol. </p>
-<p xml:lang="eng">1 (ed. Whittow, G. C.). Academic, New York.</p>
-<p xml:lang="eng"><em type="bold">Hardison, R. 1999.</em> The evolution of hemoglobin: Studies of a very ancient protein suggest </p>
-<p xml:lang="eng">that changes in gene regulation are an important part of the evolutionary story. American</p>
+<p xml:lang="eng"><em type="bold">Coyle, T. 1997. </em>Stock identification and fisheries management: the importance of using several methods in a stock identification study. Austrilian Society for Fish Biology. </p>
+<p xml:lang="eng"><em type="bold">Frank, K. T., Petrie, B., Fisher, J. A. D. and Leggett, W. C. 2011. </em>Transient dynamics of an altered large marine ecosystem. Nature 477: 86 </p>
+<p xml:lang="eng"><em type="bold">Fry, F. E. J. and Hochachka, P. W. 1970. </em>Comparative physiology of thermoregulation vol. 1 (ed. Whittow, G. C.). Academic, New York. </p>
+<p xml:lang="eng"><em type="bold">Hardison, R. 1999. </em>The evolution of hemoglobin: Studies of a very ancient protein suggest that changes in gene regulation are an important part of the evolutionary story. American </p>
 <p xml:lang="eng">Scientist 87: 126</p>
-<p xml:lang="eng"><em type="bold">Hartl, D. L. and Jones, E. W. 2006.</em> Essential Genetics A Genomic Perspective - Fourth </p>
-<p xml:lang="eng">Edition. Jones and Bartlett Publishers. Sudbury.</p>
-<p>34</p>
-<p xml:lang="eng"><em type="bold">Hartl, D. L. and Clark, A.G. 2007</em>. Principles of Population Genetics - Fourth Edition. </p>
+<p xml:lang="eng"><em type="bold">Hartl, D. L. and Jones, E. W. 2006. </em>Essential Genetics A Genomic Perspective - Fourth </p>
+<p xml:lang="eng">Edition. Jones and Bartlett Publishers. Sudbury. 35</p>
+<p xml:lang="eng"><em type="bold">Hartl, D. L. and Clark, A.G. 2007 </em>. Principles of Population Genetics - Fourth Edition. </p>
 <p xml:lang="eng">Sinauer Associates, Inc. Publishers. Sunderland.</p>
 <p xml:lang="eng"><em type="bold">Hoffmann, F. G., Opazo, J. C., Hoogewijs, D., Hankeln, T., Ebner, B., Vinogradov, S. </em></p>
 <p xml:lang="eng"><em type="bold">N., Bailly, X. and Storz, J. F. 2012. </em>Evolution of the Globin Gene Family in Deuterostomes: </p>
 <p xml:lang="eng">Lineage-Specific Patterns of Diversification and Attrition. Mol. Biol. Evol. Advance Access.</p>
-<p xml:lang="eng"><em type="bold">Magnussen, E. 1993.</em> Why is the cod growing faster on the Faroe Bank than on the Faroe </p>
+<p xml:lang="eng"><em type="bold">Magnussen, E. 1993. </em>Why is the cod growing faster on the Faroe Bank than on the Faroe </p>
 <p xml:lang="eng">Plateau? Growth experiments and genetic investigations of cod from the two areas (in</p>
-<p xml:lang="dan">Danish) [<em type="italic">Hvorfor vokser torsken hurtigere på Færøbanken end på </em></p>
-<p xml:lang="dan"><em type="italic">Færøplateauet? Vækstforsøg og genetiske undersøgelser af torsk fra de to områder</em>]. MSc </p>
-<p xml:lang="eng">thesis, University of Copenhagen. 1-104, 2003.</p>
-<p xml:lang="eng"><em type="bold">Magnussen, E. 2007.</em> Interpopulation comparison of growth patterns of 14 fish species on </p>
+<p xml:lang="dan">Danish) [ <em type="italic">Hvorfor vokser torsken hurtigere på Færøbanken end på </em></p>
+<p xml:lang="dan"><em type="italic">Færøplateauet? Vækstforsøg og genetiske undersøgelser af torsk fra de to områder </em>]. MSc thesis, University of Copenhagen. 1-104, 2003. </p>
+<p xml:lang="eng"><em type="bold">Magnussen, E. 2007. </em>Interpopulation comparison of growth patterns of 14 fish species on </p>
 <p xml:lang="eng">Faroe Bank: are all fishes on the bank fast-growing? Journal of Fish Biology 71, 453</p>
-<p><em type="bold">Magnussen, E. 2009.</em> Tá bankatoskurin hvarv í Tangafirði (Frøði  2/2009) </p>
-<p xml:lang="eng"><em type="bold">Märss, T. 2001.</em> Andreolepis (<em type="italic">Actinopterygii</em>) in the Upper Silurian of Northern Eurasia. </p>
+<p><em type="bold">Magnussen, E. 2009. </em>Tá bankatoskurin hvarv í Tangafirði (Frøði 2/2009) </p>
+<p xml:lang="eng"><em type="bold">Märss, T. 2001. </em>Andreolepis ( <em type="italic">Actinopterygii </em>) in the Upper Silurian of Northern Eurasia. </p>
 <p xml:lang="eng">Proc. Estonian Acad. Sci. Geol. 50: 174</p>
-<p xml:lang="eng"><em type="bold">Petersen, M. F. and Steffensen, J. F. 2002. </em>Preferred temperature of juvenile Atlantic cod </p>
-<p xml:lang="eng">(<em type="italic">Gadus morhua</em>) with different haemoglobin genotypes at normoxia and moderate hypoxia. </p>
+<p xml:lang="eng"><em type="bold">Petersen, M. F. and Steffensen, J. F. 2002. </em>Preferred temperature of juvenile Atlantic cod ( <em type="italic">Gadus morhua </em>) with different haemoglobin genotypes at normoxia and moderate hypoxia. </p>
 <p xml:lang="eng">Journal of Experimental Biology 206: 359-364</p>
-<p xml:lang="eng"><em type="bold">Shelton, P. A. 2005.</em> Did over-reliance on commercial catch rate data </p>
-<p xml:lang="eng">precipitate the collapse of northern cod? ICES Journal of Marine Science, 62: 1139.</p>
-<p xml:lang="eng"><em type="bold">Sick, K. 1961. </em>Haemoglobin polymorphism in fishes. Nature 192:<em type="bold"> </em>894. </p>
-<p xml:lang="eng"><em type="bold">Sick, K. 1965.</em> Haemoglobin polymorphism of cod in the North Sea </p>
-<p xml:lang="eng">and the North Atlantic Ocean. Hereditas 54: 49.</p>
-<p>35</p>
-<p xml:lang="eng"><em type="bold">Sundby, S. 2000.</em> Recruitment of Atlantic cod stocks in relation to temperature and advection </p>
-<p xml:lang="eng">of copepod populations. Sarsia<em type="italic"> </em>85: 277 </p>
+<p xml:lang="eng"><em type="bold">Shelton, P. A. 2005. </em>Did over-reliance on commercial catch rate data precipitate the collapse of northern cod? ICES Journal of Marine Science, 62: 1139. </p>
+<p xml:lang="eng"><em type="bold">Sick, K. 1961. </em>Haemoglobin polymorphism in fishes. Nature 192: <em type="bold"></em>894. </p>
+<p xml:lang="eng"><em type="bold">Sick, K. 1965. </em>Haemoglobin polymorphism of cod in the North Sea and the North Atlantic Ocean. Hereditas 54: 49. 36 </p>
+<p xml:lang="eng"><em type="bold">Sundby, S. 2000. </em>Recruitment of Atlantic cod stocks in relation to temperature and advection of copepod populations. Sarsia <em type="italic"></em>85: 277 </p>
 <p xml:lang="eng"><em type="bold">Wetten, F. O., Nederbragt, A. J., Wilson, R. C., Jakobsen, K. S., Edvardsen, R. B. and </em></p>
 <p xml:lang="eng"><em type="bold">Andersen, Ø. 2010. </em>Genomic organization and gene expression of the multiple globins in </p>
-<p xml:lang="eng">Atlantic cod: conservation of globin-flanking genes in chordates infers the origin of the</p>
-<p xml:lang="eng">vertebrate globin clusters. BMC Evolutionary Biology 10: 315</p>
-<p>36</p>
-<p xml:lang="eng"><em type="bold"> Acknowledgements </em></p>
+<p xml:lang="eng">Atlantic cod: conservation of globin-flanking genes in chordates infers the origin of the vertebrate globin clusters. BMC Evolutionary Biology 10: 315 37 <em type="bold">7 Acknowledgements </em></p>
 <p xml:lang="eng">First I would like to thank the Faculty of Science and Technology at the University of the</p>
 <p xml:lang="eng">Faroe Islands (NVD) for use of equipment and facilities.</p>
-<p xml:lang="eng">I would also like to thank Marjun Mortensen (laboratory technician at NVD) for her guidance</p>
-<p xml:lang="eng">and time in the laboratory and Debes H. Christiansen (Faroese Food- and veterinary</p>
-<p xml:lang="eng">authority) for the sequencing work.</p>
-<p xml:lang="eng">Finally a special thank you to my two supervisors Svein-Ole Mikalsen (Professor in</p>
-<p xml:lang="eng">molecular biology at NVD) and Eyðfinn Magnussen (Associate professor of biology at NVD)</p>
-<p xml:lang="eng">for their guidance and patience.</p>
-<p>37</p>
-<p xml:lang="eng"><em type="bold"> Appendix </em></p>
-<p xml:lang="eng">Appendix A – Primer combinations</p>
-<p xml:lang="eng">Primer Sequence Primer R Primer Sequence Temperature</p>
-<p xml:lang="eng">Expected Product Found Product</p>
+<p xml:lang="eng">I would also like to thank Marjun Mortensen (laboratory technician at NVD) for her guidance and time in the laboratory and Debes H. Christiansen (Faroese Food- and veterinary authority) for the sequencing work.</p>
+<p xml:lang="eng">Finally a special thank you to my two supervisors Svein-Ole Mikalsen (Professor in molecular biology at NVD) and Eyðfinn Magnussen (Associate professor of biology at NVD) for their guidance and patience. 37 <em type="bold">8 Appendix </em></p>
+<p xml:lang="eng">Appendix A – Primer combinations gDNA</p>
+<p xml:lang="dan">Primer F</p>
+<p xml:lang="eng">Primer Sequence</p>
+<p xml:lang="eng">Primer R</p>
+<p xml:lang="eng">Primer Sequence</p>
+<p xml:lang="eng">Temperature</p>
+<p xml:lang="eng">Expected Product</p>
+<p xml:lang="eng">Found Product a1F14</p>
 <p xml:lang="eng">CAAAGGACAAGGCGACCGTCA a1R400</p>
-<p xml:lang="eng">AAGCACACAGGAACTTGTCGAC (GTCGACAAGTTCCTGTGTGCTT)                  599                    ~570</p>
+<p xml:lang="dan">AAGCACACAGGAACTTGTCGAC (GTCGACAAGTTCCTGTGTGCTT) 60 599 ~570 a1F14</p>
 <p xml:lang="eng">CAAAGGACAAGGCGACCGTCA a1R414</p>
-<p xml:lang="eng">AGCTCGCTCAGAGTGAGAAGAC (GTCTTCTCACTCTGAGCGAGCT) 60             356                    ~330</p>
-<p xml:lang="eng">CTAGAAAGCAACTATCTGAACGTCAAC  a2R346</p>
-<p xml:lang="eng">GGAAGATCATGGACATGCACACCA (TGGTGTGCATGTCCATGATCTTCC) 60             592                    ~540</p>
-<p xml:lang="eng">CTCTCACTGGAAGGACGCGAG a2R346 GGAAGATCATGGACATGCACACCA  60             308 ~290</p>
-<p xml:lang="eng">AGGAAGCATGGCATCACCATCATG a2R346 GGAAGATCATGGACATGCACACCA                   268                    ~270</p>
+<p xml:lang="dan">AGCTCGCTCAGAGTGAGAAGAC (GTCTTCTCACTCTGAGCGAGCT) 60 356 ~330 a2F-27</p>
+<p xml:lang="eng">CTAGAAAGCAACTATCTGAACGTCAAC a2R346</p>
+<p xml:lang="dan">GGAAGATCATGGACATGCACACCA (TGGTGTGCATGTCCATGATCTTCC) 60 592 ~540 a2F312</p>
+<p xml:lang="eng">CTCTCACTGGAAGGACGCGAG a2R346</p>
+<p xml:lang="dan">GGAAGATCATGGACATGCACACCA 60 308 ~290 a2F352</p>
+<p xml:lang="eng">AGGAAGCATGGCATCACCATCATG a2R346</p>
+<p xml:lang="dan">GGAAGATCATGGACATGCACACCA 60 268 ~270 a3F59</p>
 <p xml:lang="eng">TGGCTGACCGCATAGGAGCAG a3R394</p>
-<p xml:lang="eng">ACGCAGAGAGATACTTGTCCATG (CATGGACAAGTATCTCTCTGCGT) 60           1701</p>
-<p xml:lang="eng">ACCTCGCTCCTCTTCAAACCTAC a3R394 ACGCAGAGAGATACTTGTCCATG</p>
+<p xml:lang="dan">ACGCAGAGAGATACTTGTCCATG (CATGGACAAGTATCTCTCTGCGT) 60 1701 1600 a3F851</p>
+<p xml:lang="eng">ACCTCGCTCCTCTTCAAACCTAC a3R394</p>
+<p xml:lang="dan">ACGCAGAGAGATACTTGTCCATG 953 1000 a3F851</p>
 <p xml:lang="eng">ACCTCGCTCCTCTTCAAACCTAC a3R1304</p>
-<p xml:lang="eng">CCTATACCTATCTGTCTAGTACAC (GTGTACTAGACAGATAGGTATAGG) 60             453</p>
-<p xml:lang="eng">GGTTAACTAGGACCATAGGTGTAC a3R394 ACGCAGAGAGATACTTGTCCATG 60             640</p>
+<p xml:lang="dan">CCTATACCTATCTGTCTAGTACAC (GTGTACTAGACAGATAGGTATAGG) 60 453 1200 400 a3F1163</p>
+<p xml:lang="eng">GGTTAACTAGGACCATAGGTGTAC a3R394</p>
+<p xml:lang="dan">ACGCAGAGAGATACTTGTCCATG 60 640 600 a4F63</p>
 <p xml:lang="eng">AGCAGTGGAGATCGGACACCAG a4R614</p>
-<p xml:lang="eng">CTGAGGAGTGAAATCATCTGGGAAC (GTTCCCAGATGATTTCACTCCTCAG) 60             543</p>
-<p xml:lang="eng">CCAAACCAAAGTCTACTTCTCCCA a4R614 CTGAGGAGTGAAATCATCTGGGAAC 60             365</p>
+<p xml:lang="dan">CTGAGGAGTGAAATCATCTGGGAAC (GTTCCCAGATGATTTCACTCCTCAG) 60 543 460 a4F249</p>
+<p xml:lang="eng">CCAAACCAAAGTCTACTTCTCCCA a4R614</p>
+<p xml:lang="dan">CTGAGGAGTGAAATCATCTGGGAAC 60 365 320 b1F-26</p>
 <p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R252</p>
-<p xml:lang="eng">GGACTTGATTTCGTCCATGTGGTC (GACCACATGGACGAAATCAAGTCC)</p>
-<p>60 (16/3)             544</p>
-<p xml:lang="eng">(16/3) 500 smudge 530 clear</p>
+<p xml:lang="eng">GGACTTGATTTCGTCCATGTGGTC (GACCACATGGACGAAATCAAGTCC) 59 60 (16/3) 544 (16/3) 500 smudge 530 clear b1F-26</p>
 <p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R463b</p>
-<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAGTG (CACTAGAAGATGTGTGCTGACGCTA) 59           1182 blank</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAGTG (CACTAGAAGATGTGTGCTGACGCTA) 59 1182 blank b1F-26</p>
 <p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R463</p>
-<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAG (CTAGAAGATGTGTGCTGACGCTA) 59           1182 blank</p>
-<p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R611 CACTCCGAGAAACTGCACGTCGA 60             584</p>
-<p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R261 GACGAAATCAAGTCCACCTACGCT 60             530</p>
-<p>37</p>
-<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R252 GGACTTGATTTCGTCCATGTGGTC</p>
-<p>60 (16/3)  562</p>
-<p xml:lang="eng">Blank 540 (16/3)</p>
-<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R463b TAGCGTCAGCACACATCTTCTAGTG 59  1200 Blank</p>
-<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R463 TAGCGTCAGCACACATCTTCTAG 59  1200 Blank</p>
-<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R611 CACTCCGAGAAACTGCACGTCGA 60  609</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAG (CTAGAAGATGTGTGCTGACGCTA) 59 1182 blank b1F-26</p>
+<p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R611</p>
+<p xml:lang="dan">CACTCCGAGAAACTGCACGTCGA 60 584 580 600 630 b1F-26</p>
+<p xml:lang="eng">CATTGAACCCTTAAGACWACGCCAC b1R261</p>
+<p xml:lang="dan">GACGAAATCAAGTCCACCTACGCT 60 530 380 38 400 420 b1F-44</p>
+<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R252</p>
+<p xml:lang="eng">GGACTTGATTTCGTCCATGTGGTC 59 60 (16/3) 562</p>
+<p xml:lang="dan">Blank 540 (16/3) b1F-44</p>
+<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R463b</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAGTG 59 1200</p>
+<p xml:lang="dan">Blank b1F-44</p>
+<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R463</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAG 59 1200</p>
+<p xml:lang="dan">Blank b1F-44</p>
+<p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R611</p>
+<p xml:lang="dan">CACTCCGAGAAACTGCACGTCGA 60 609 220 580 600 630 b1F-44</p>
 <p xml:lang="eng">GAGATTCAGCCTAAGCTACATTGAAC b1R261</p>
-<p xml:lang="eng">AGCGTAGGTGGACTTGATTTCGTC  (GACGAAATCAAGTCCACCTACGCT) 60  571</p>
-<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R252 GGACTTGATTTCGTCCATGTGGTC 59  475 Blank</p>
-<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R463b TAGCGTCAGCACACATCTTCTAGTG 59  1113 Blank</p>
-<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R463 TAGCGTCAGCACACATCTTCTAG 59  1113 Blank</p>
-<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R611 CACTCCGAGAAACTGCACGTCGA 60  522 Blank</p>
-<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R261 GACGAAATCAAGTCCACCTACGCT 60  485 Blank</p>
+<p xml:lang="dan">AGCGTAGGTGGACTTGATTTCGTC (GACGAAATCAAGTCCACCTACGCT) 60 571 220 380 400 420 b1F44</p>
+<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R252</p>
+<p xml:lang="eng">GGACTTGATTTCGTCCATGTGGTC 59 475</p>
+<p xml:lang="dan">Blank b1F44</p>
+<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R463b</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAGTG 59 1113</p>
+<p xml:lang="dan">Blank b1F44</p>
+<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R463</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAG 59 1113</p>
+<p xml:lang="dan">Blank b1F44</p>
+<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R611</p>
+<p xml:lang="eng">CACTCCGAGAAACTGCACGTCGA 60 522</p>
+<p xml:lang="dan">Blank b1F44</p>
+<p xml:lang="eng">TCTGGAGCAAGATCGACATTGATG b1R261</p>
+<p xml:lang="eng">GACGAAATCAAGTCCACCTACGCT 60 485</p>
+<p xml:lang="dan">Blank b1F589</p>
 <p xml:lang="eng">CACTCCGAGAAACTGCACGTCGA b1R463b</p>
-<p xml:lang="dan">TAGCGTCAGCACACATCTTCTAGTG (CACTAGAAGATGTGTGCTGACGCTA) 59  614 ca 600 (16/3)</p>
-<p xml:lang="dan">CACTCCGAGAAACTGCACGTCGA b1R463 TAGCGTCAGCACACATCTTCTAG 59  614 ca 650 (16/3)</p>
-<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R463b TAGCGTCAGCACACATCTTCTAGTG 60  1191  CCTAAGCTACATTGAACCCTTAAGAC b1R463 TAGCGTCAGCACACATCTTCTAG 60  1191 Blank</p>
+<p xml:lang="dan">TAGCGTCAGCACACATCTTCTAGTG (CACTAGAAGATGTGTGCTGACGCTA) 59 614 ca 600 (16/3) b1F589</p>
+<p xml:lang="eng">CACTCCGAGAAACTGCACGTCGA b1R463</p>
+<p xml:lang="dan">TAGCGTCAGCACACATCTTCTAG 59 614 ca 650 (16/3) b1F-35</p>
+<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R463b</p>
+<p xml:lang="dan">TAGCGTCAGCACACATCTTCTAGTG 60 1191 b1F-35</p>
+<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R463</p>
+<p xml:lang="eng">TAGCGTCAGCACACATCTTCTAG 60 1191</p>
+<p xml:lang="dan">Blank b1F-35</p>
 <p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R611</p>
-<p xml:lang="eng">TCGACGTGCAGTTTCTCGGAGTG (CACTCCGAGAAACTGCACGTCGA) 60  600</p>
-<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R252 GGACTTGATTTCGTCCATGTGGTC 60  552 530 (16/3)</p>
-<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R261 GACGAAATCAAGTCCACCTACGCT 60  563</p>
+<p xml:lang="dan">TCGACGTGCAGTTTCTCGGAGTG (CACTCCGAGAAACTGCACGTCGA) 60 600 580 600 630 b1F-35</p>
+<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R252</p>
+<p xml:lang="dan">GGACTTGATTTCGTCCATGTGGTC 60 552 530 (16/3) b1F-35</p>
+<p xml:lang="eng">CCTAAGCTACATTGAACCCTTAAGAC b1R261</p>
+<p xml:lang="dan">GACGAAATCAAGTCCACCTACGCT 60 563 380 400 420 b234F-13</p>
 <p xml:lang="eng">CACAWCAGCAACCATGGTTGAG b234R417</p>
-<p xml:lang="eng">GACGACGACAGACAGGAACTTCTG (CAGAAGTTCCTGTCTGTCGTCGTC)  868 allel 2 661 allel 3 658 allel 4</p>
-<p>38</p>
+<p xml:lang="dan">GACGACGACAGACAGGAACTTCTG (CAGAAGTTCCTGTCTGTCGTCGTC) 59 868 allel 2 661 allel 3 658 allel 4 3000 1000 800 700 39 650 b234F-13</p>
 <p xml:lang="eng">CACAWCAGCAACCATGGTTGAG b234R447</p>
-<p xml:lang="eng">CTTGTCAGAGTGGAGCAGAGAC (GTCTCTGCTCCACTCTGACAAG)  411 allel 2 417 allel 3 413 allel 4</p>
+<p xml:lang="dan">CTTGTCAGAGTGGAGCAGAGAC (GTCTCTGCTCCACTCTGACAAG) 59 411 allel 2 417 allel 3 413 allel 4 410 b234F255</p>
 <p xml:lang="eng">TCTGATCGTGTACCCCTGGACC b2R525</p>
-<p xml:lang="eng">AGATCACCCACTCTGCGGCTTG (CAAGCCGCAGAGTGGGTGATCT) 59  709</p>
-<p xml:lang="eng">TCTGATCGTGTACCCCTGGACC b234R417  GACGACGACAGACAGGAACTTCTG</p>
-<p xml:lang="dan">650 allel 2 415 allel 3 437 allel 4</p>
-<p xml:lang="eng">with trace after BL</p>
-<p xml:lang="eng">CAMCTTGGACTACGAAGAGATCGG b234R447  CTTGTCAGAGTGGAGCAGAGAC</p>
-<p xml:lang="dan">346 allel 2 353 allel 3 349 allel 4</p>
-<p xml:lang="eng">CACCATGGTTGAGTGGACAGATARTG b234R447  CTTGTCAGAGTGGAGCAGAGAC</p>
-<p xml:lang="dan">408 allel 3 414 allel 4</p>
-<p xml:lang="eng">CACCATGGTTGAGTGGACAGATARTG b234R417  GACGACGACAGACAGGAACTTCTG</p>
-<p xml:lang="dan">652 allel 3 646 allel 4</p>
+<p xml:lang="dan">AGATCACCCACTCTGCGGCTTG (CAAGCCGCAGAGTGGGTGATCT) 59 709 710 b234F255</p>
+<p xml:lang="eng">TCTGATCGTGTACCCCTGGACC b234R417 GACGACGACAGACAGGAACTTCTG 59 650 allel 2 415 allel 3 437 allel 4 420 with trace after</p>
+<p xml:lang="dan">BL b234F50</p>
+<p xml:lang="eng">CAMCTTGGACTACGAAGAGATCGG b234R447 CTTGTCAGAGTGGAGCAGAGAC 59 346 allel 2 353 allel 3 349 allel 4 360 b34F-5</p>
+<p xml:lang="eng">CACCATGGTTGAGTGGACAGATARTG b234R447 CTTGTCAGAGTGGAGCAGAGAC 59 408 allel 3 414 allel 4 410 b34F-5</p>
+<p xml:lang="eng">CACCATGGTTGAGTGGACAGATARTG b234R417 GACGACGACAGACAGGAACTTCTG 59 652 allel 3 646 allel 4 650 b5F1</p>
 <p xml:lang="eng">ATGGTAGAGTGGACAGAATTTGAG b5R449</p>
-<p xml:lang="eng">CGCTACTAGTGGTACTGGCTTC (GAAGCCAGTACCACTAGTAGCG) 59  657</p>
-<p xml:lang="eng">CGATACAATCAAGGACATCTTCTC b5R449 CGCTACTAGTGGTACTGGCTTC 59  621</p>
+<p xml:lang="dan">CGCTACTAGTGGTACTGGCTTC (GAAGCCAGTACCACTAGTAGCG) 59 657 650 b5F27</p>
+<p xml:lang="eng">CGATACAATCAAGGACATCTTCTC b5R449</p>
+<p xml:lang="dan">CGCTACTAGTGGTACTGGCTTC 59 621 650 b5F239</p>
 <p xml:lang="eng">ACTCGGAGGTACTTTGGAAACTTC b5R709</p>
-<p xml:lang="eng">ACGGTAGTCCTACTGTCCATGCA (TGCATGGACAGTAGGACTACCGT) 59  482 290 weak 27/3 480 27/3</p>
-<p>39</p>
+<p xml:lang="eng">ACGGTAGTCCTACTGTCCATGCA (TGCATGGACAGTAGGACTACCGT) 59 482 1000 460 290 weak 27/3 480 27/3</p>
 </body></document>

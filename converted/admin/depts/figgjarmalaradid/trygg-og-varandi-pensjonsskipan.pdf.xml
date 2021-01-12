@@ -1,850 +1,292 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>10132</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>trygg-og-varandi-pensjónsskipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="italic">Fylgiskjal 2 </em></p>
-<p>Trygg og varandi</p>
-<p>pensjónsskipan</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>10312</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>trygg-og-varandi-pensjónsskipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="italic">Fylgiskjal 2 </em></p>
+<p>Trygg og varandi pensjónsskipan</p>
 <p>Uppskotið til</p>
 <p>Pensjónsnýskipan 2020</p>
-<p>Semjuskjal, yvirlit</p>
-<p>og greiningar</p>
-<p xml:lang="dan">November 2017</p>
-<p><em type="bold">Innihald: </em></p>
-<p><em type="italic">1. Almennar viðmerkingar ................................................................................................................................. 3 2. Semjuskjalið .................................................................................................................................................. 4 3. Lógaruppskot – yvirlit og samandráttir ....................................................................................................... 11 Uppskot úr Almannamálaráðnum ................................................................................................................ 11 </em></p>
-<p><em type="italic">Samandráttur av broytingum í lóg um almannapensjónir o.a.: ................................................................ 11 </em></p>
-<p><em type="italic">Samandráttur av broytingum í lóg um áseting og javning av almannaveitingum.: ................................. 12 </em></p>
-<p><em type="italic">Samandráttur av broyting í lóg um viðbót til ávísar pensiónistar v.fl.: ................................................... 12 </em></p>
-<p><em type="italic">Uppskot úr Fíggjarmálaráðnum ................................................................................................................... 13 </em></p>
-<p><em type="italic">Samandráttur av broytingum í lóg um arbeiðsmarknaðareftirlønargrunn (Samhaldsfasti): .................... 13 </em></p>
-<p><em type="italic">Samandráttur av broytingum í lóg um eftirløn (Eftirlønarlógin): ............................................................ 13 </em></p>
-<p><em type="italic">Samandráttur av lóg um javningarprosent av almannaveitingum: .......................................................... 14 </em></p>
-<p><em type="italic">4. Samfelagsbúskaparligar avleiðingar av pensjónsnýskipan .......................................................................... 15 Gongdin í fólkasamansetingini .................................................................................................................... 15 </em></p>
-<p><em type="italic">Væntað áramál sum pensjónistur økist støðugt ....................................................................................... 18 </em></p>
-<p><em type="italic">Tey omanfyri 67 ár og arbeiðsmarknaðurin ............................................................................................ 19 </em></p>
-<p><em type="italic">Versnandi haldføri vegna vaksandi pensjónsútreiðslur ........................................................................... 20 </em></p>
-<p><em type="italic">Ávirkan á almenna haldførið ................................................................................................................... 20 </em></p>
-<p><em type="italic">Ávirkan á talið av fólkapensjónistum ...................................................................................................... 21 </em></p>
-<p><em type="italic">Ávirkan á arbeiðsmarknaðin .................................................................................................................... 22 </em></p>
-<p><em type="italic">Ávirkan á BTÚ ...........................................................................................................................</em></p>
-<p><em type="italic">Samlað ávirkan á Landskassan ................................................................................................................ 23 </em></p>
-<p><em type="italic">Samlað ávirkan á Kommunurnar ............................................................................................................. 24 </em></p>
-<p><em type="italic">5. Ávirkan á einstaklingar ................................................................................................................................ 26 Stakur pensjónistur uttan egininntøku ..................................................................................................... 26 </em></p>
-<p><em type="italic">Giftur pensjónistur uttan egininntøku ...................................................................................................... 27 </em></p>
-<p><em type="italic">Stakur pensjónistur við egininntøku – verandi skipan ............................................................................. 28 </em></p>
-<p><em type="italic">Stakur pensjónistur við egininntøku – nýggj skipan ................................................................................ 29 </em></p>
-<p><em type="italic">Giftur pensjónistur við egininntøku – verandi skipan ............................................................................. 31 </em></p>
-<p><em type="italic">Giftur pensjónistur við egininntøku – nýggj skipan ................................................................................ 32 </em></p>
-<p><em type="italic">Giftir pensjónistar við egintøku – samanberingar ymisk húsarhald ............................................................ 33 </em></p>
-<p><em type="italic">Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku .................................................. 33 </em></p>
-<p><em type="italic">Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku .................................................. 34 </em></p>
-<p><em type="italic">Giftir pensjónistar í nýggju skipan – har bara annar hevur egininntøku ................................................. 35 </em></p>
-<p><em type="italic">Giftir pensjónistar í nýggju skipan – har báðir hava somu egininntøku .................................................. 36 </em></p>
-<p><em type="italic">6. Yvirlit yvir hoyringspartar ........................................................................................................................... 39 </em></p>
-<p>1. Almennar viðmerkingar</p>
-<p>Trygg og varandi pensjónsskipan, hetta er yvirskriftin á semjuni um nýggja pensjónsskipan, sum nú verður almannakunngjørd og send í almenna hoyring.</p>
-<p>Yvirskriftin er hóskandi, tí tryggleiki og haldføri hava verið høvuðsmálini, sum tað hevur verið strembað ímóti, í royndunum at finna eina semju um eina framtíðar pensjónsskipan.</p>
-<p>Pensjónsskipanin er ein av grundarsteinunum undir vælferðarsamfelagnum, og hvussu pensjónskipanin verður frameftir, er tí av ómetaliga stórum samfelagsligum týdningi.</p>
-<p>Lítil dugur er í eini pensjónsskipan, ið er fíggjarliga haldfør, men hevur við sær, at fólk hava fíggjarligar stúranir av at gerast eldri ella óarbeiðsfør. Heldur ikki er nógvur dugur í eini pensjónsskipan, sum skapar tryggleika fyribils, men ikki er fíggjarliga haldfør sum frá líður.</p>
-<p>Sum hjálagda semja er dømi um, so er tað ikki soleiðis, at fíggjarligt haldføri og sosialur tryggleiki eru mótsetningar. Tí við semjuni kunnu vit siga, at vit hava funnið eina loysn, sum bæði økir um tryggleikan fyri núverandi og komandi pensjónistar, og eisini økir um haldførið í pensjónsskipanini sum frá líður.</p>
-<p>Sum hjáløgdu uppskot bera boð um, so er hetta í stóran mun gjørt við at økja um samhaldsfestið í pensjónskipanini, og við at gera skipanina meira smidliga, við størri atliti til, at fortreytirnar hjá teimum eldru eru ymiskar.</p>
-<p>Mong ár eru liðin, síðan ætlanin um eina pensjónsnýskipan av fyrstan tíð varð sett á politiska breddan, og tað tað munnu vera fá mál, ið hava fingið drúgvari viðgerð í politisku skipanini og í embætisverkinum. Tað hevur drigið út, og tað er ikki at undrast á. Tí trupult er at sameina ymiskar politiskar áskoðanir um eitt stórmál, ið er so fløkt, hevur so nógvar ymiskar tættir, og sum er av so stórum týdningi fyri okkum øll.</p>
-<p>Tá uppskotið til pensjónsnýskipan hervið verður sent í almenna hoyring, er tað við vónini um, at tað fer at fáa breiða undirtøku millum fólk og í politisku skipanini – og við vissuni um, at ber uppskotið á mál, so hava vit fingið eina trygga og varandi pensjónsskipan fyri allar føroyingar.</p>
-<p>Eyðgunn Samuelsen Kristina Háfoss Landsstýriskvinna í Almannamálum Landsstýriskvinna í Fíggjarmálum</p>
-<p>2. Semjuskjalið</p>
-<p>SEMJA MILLUM  SJÁLVSTÝRI, FRAMSÓKN, TJÓÐVELDI OG JAVNAÐARFLOKKIN</p>
-<p><em type="bold">TRYGG OG VARANDI  </em></p>
+<p>Semjuskjal, yvirlit og greiningar</p>
+<p xml:lang="dan">November 2017 2</p>
+<p><em type="bold">Innihald: </em>1. Almennar viðmerkingar ................................................................................................................................. 3 2. Semjuskjalið .................................................................................................................................................. 4 3. Lógaruppskot – yvirlit og samandráttir ....................................................................................................... 11 </p>
+<p>Uppskot úr Almannamálaráðnum ................................................................................................................ 11</p>
+<p>Samandráttur av broytingum í lóg um almannapensjónir o.a.: ................................................................ 11</p>
+<p>Samandráttur av broytingum í lóg um áseting og javning av almannaveitingum.: ................................. 12</p>
+<p>Samandráttur av broyting í lóg um viðbót til ávísar pensiónistar v.fl.: ................................................... 12</p>
+<p>Uppskot úr Fíggjarmálaráðnum ................................................................................................................... 13</p>
+<p>Samandráttur av broytingum í lóg um arbeiðsmarknaðareftirlønargrunn (Samhaldsfasti): .................... 13</p>
+<p>Samandráttur av broytingum í lóg um eftirløn (Eftirlønarlógin): ............................................................ 13</p>
+<p>Samandráttur av lóg um javningarprosent av almannaveitingum: .......................................................... 14 4. Samfelagsbúskaparligar avleiðingar av pensjónsnýskipan .......................................................................... 15</p>
+<p>Gongdin í fólkasamansetingini .................................................................................................................... 15</p>
+<p>Væntað áramál sum pensjónistur økist støðugt ....................................................................................... 18</p>
+<p>Tey omanfyri 67 ár og arbeiðsmarknaðurin ............................................................................................ 19</p>
+<p>Versnandi haldføri vegna vaksandi pensjónsútreiðslur ........................................................................... 20</p>
+<p>Ávirkan á almenna haldførið ................................................................................................................... 20</p>
+<p>Ávirkan á talið av fólkapensjónistum ...................................................................................................... 21</p>
+<p>Ávirkan á arbeiðsmarknaðin .................................................................................................................... 22</p>
+<p>Ávirkan á BTÚ ........................................................................................................................................ 22</p>
+<p>Samlað ávirkan á Landskassan ................................................................................................................ 23</p>
+<p>Samlað ávirkan á Kommunurnar ............................................................................................................. 24 5. Ávirkan á einstaklingar ................................................................................................................................ 26</p>
+<p>Stakur pensjónistur uttan egininntøku ..................................................................................................... 26</p>
+<p>Giftur pensjónistur uttan egininntøku ...................................................................................................... 27</p>
+<p>Stakur pensjónistur við egininntøku – verandi skipan ............................................................................. 28</p>
+<p>Stakur pensjónistur við egininntøku – nýggj skipan ................................................................................ 29</p>
+<p>Giftur pensjónistur við egininntøku – verandi skipan ............................................................................. 31</p>
+<p>Giftur pensjónistur við egininntøku – nýggj skipan ................................................................................ 32</p>
+<p>Giftir pensjónistar við egintøku – samanberingar ymisk húsarhald ............................................................ 33</p>
+<p>Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku .................................................. 33</p>
+<p>Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku .................................................. 34</p>
+<p>Giftir pensjónistar í nýggju skipan – har bara annar hevur egininntøku ................................................. 35</p>
+<p>Giftir pensjónistar í nýggju skipan – har báðir hava somu egininntøku .................................................. 36 6. Yvirlit yvir hoyringspartar ........................................................................................................................... 39 3 1. Almennar viðmerkingar Trygg og varandi pensjónsskipan, hetta er yvirskriftin á semjuni um nýggja pensjónsskipan, sum nú verður almannakunngjørd og send í almenna hoyring. Yvirskriftin er hóskandi, tí tryggleiki og haldføri hava verið høvuðsmálini, sum tað hevur verið strembað ímóti, í royndunum at finna eina semju um eina framtíðar pensjónsskipan. Pensjónsskipanin er ein av grundarsteinunum undir vælferðarsamfelagnum, og hvussu pensjónskipanin verður frameftir, er tí av ómetaliga stórum samfelagsligum týdningi. Lítil dugur er í eini pensjónsskipan, ið er fíggjarliga haldfør, men hevur við sær, at fólk hava fíggjarligar stúranir av at gerast eldri ella óarbeiðsfør. Heldur ikki er nógvur dugur í eini pensjónsskipan, sum skapar tryggleika fyribils, men ikki er fíggjarliga haldfør sum frá líður. Sum hjálagda semja er dømi um, so er tað ikki soleiðis, at fíggjarligt haldføri og sosialur tryggleiki eru mótsetningar. Tí við semjuni kunnu vit siga, at vit hava funnið eina loysn, sum bæði økir um tryggleikan fyri núverandi og komandi pensjónistar, og eisini økir um haldførið í pensjónsskipanini sum frá líður. Sum hjáløgdu uppskot bera boð um, so er hetta í stóran mun gjørt við at økja um samhaldsfestið í pensjónskipanini, og við at gera skipanina meira smidliga, við størri atliti til, at fortreytirnar hjá teimum eldru eru ymiskar. Mong ár eru liðin, síðan ætlanin um eina pensjónsnýskipan av fyrstan tíð varð sett á politiska breddan, og tað tað munnu vera fá mál, ið hava fingið drúgvari viðgerð í politisku skipanini og í embætisverkinum. Tað hevur drigið út, og tað er ikki at undrast á. Tí trupult er at sameina ymiskar politiskar áskoðanir um eitt stórmál, ið er so fløkt, hevur so nógvar ymiskar tættir, og sum er av so stórum týdningi fyri okkum øll. Tá uppskotið til pensjónsnýskipan hervið verður sent í almenna hoyring, er tað við vónini um, at tað fer at fáa breiða undirtøku millum fólk og í politisku skipanini – og við vissuni um, at ber uppskotið á mál, so hava vit fingið eina trygga og varandi pensjónsskipan fyri allar føroyingar.</p>
+<p>Eyðgunn Samuelsen</p>
+<p>Kristina Háfoss</p>
+<p>Landsstýriskvinna í Almannamálum</p>
+<p>Landsstýriskvinna í Fíggjarmálum 4 2. Semjuskjalið</p>
+<p>SEMJA MILLUM</p>
+<p>SJÁLVSTÝRI, FRAMSÓKN, TJÓÐVELDI OG JAVNAÐARFLOKKIN</p>
+<p><em type="bold">TRYGG OG VARANDI </em></p>
 <p><em type="bold">PENSJÓNSSKIPAN </em></p>
-<p><em type="bold">Inngangur </em></p>
-<p>Flokkarnir staðfesta, at løtan fyri langari tíð síðan er komin at fremja eina pensjónsnýskipan í Føroyum.</p>
-<p>Ásannandi, at ymiskar meiningar eru bæði innanhýsis í flokkunum, tvørturum floksmørk og tvørturum samgongu og andstøðu, hava øll flutt seg fyri at røkka einari semju um eina framtíðar pensjónsskipan.</p>
-<p>Flokkarnir eru samdir um, at ein framtíðar pensjónsskipan skal lúka hesi 3 aðalmál:</p>
-<p>1. Tryggja hægri pensjón til pensjónistar við lágari og miðal inntøku 2. Gera tað meira lønandi at arbeiða eftir pensjónsaldur</p>
-<p>3. Styrkja fíggjarliga haldførið og framtíðartryggja vælferðarsamfelagið<em type="bold"> </em> </p>
-<p>Tað má ásannast, at galdandi pensjónsskipan hevur alsamt truplari við at tryggja teimum pensjónistum – ið ikki hava eina munandi uppsparing ella framíhjáinntøku – eina nøktandi upphædd at liva av, ið er omanfyri markið fyri fátækaváða. Mælt verður tí til beinanvegin at tryggja veikastu pensjónistunum eitt hægri útgjald og at tryggja, at almannapensjónin verður javnað árliga frameftir. Hetta verður gjørt við at hækka Samhaldsfasta og seta sjálvvirkandi javning av almannaveitingum í verk.</p>
-<p>Harumframt er núverandi skipan stirvin og ótíðarhóskandi á tann hátt, at hon tekur ov lítið atlit til umstøðurnar hjá tí einstaka. Mælt verður tí til broytingar, ið gera skipanina meira smidliga við fleiri valmøguleikum, soleiðis at fólk í størri mun kunnu leggja frá sær eftir førimuni.</p>
-<p>Galdandi skipan tekur ikki hædd fyri, at alsamt fleiri í dag eru so væl fyri, at tey vilja arbeiða longur enn til pensjónsaldurin, og tí kundu verið hugað at útsett almennu pensjónina. Mælt verður tí til, at skipan við útsettari pensjón verður sett í verk. Fólk kunnu velja at arbeiða longur, og samtíðis frásiga sær almennu pensjónina, ímóti at fáa hægri útgjald, tá tey fara frá.</p>
-<p>Hinvegin loftar galdandi skipan í ov lítlan mun teimum, sum eftir eitt drúgt arbeiðslív ikki halda seg vera føran fyri at arbeiða til pensjónsaldur. Mælt verður tí til, at ein nýggj skipan við framskundaðari pensjón verður sett í verk.</p>
-<p>Harumframt mugu reglurnar fyri mótrokning í galdandi skipan sigast at vera óhepnar. Mótroknað verður ov harðliga og í ov lítlum parti av samlaðu almennu pensjónini. Mælt verður tí til varligari mótrokning, og at mótroknað verður í størri parti av pensjónini. Tó verður ikki mælt til, at mótroknað verður í Samhaldsfasta.</p>
-<p>Havandi í huga tær avbjóðingar, sum framtíðar aldursbýtið í fólkinum fer at hava við sær fyri almenna búskapin, má ásannast, at tað verður trupult at halda áfram við núverandi pensjónsskipan sum frálíður. Tað krevur munandi skattahækkingar, almennar sparingar ella lækkingar av veitingum til pensjónistar. Neyðugt er t�</p>
-<p>Tað er at fegnast um, at 67 ára gomul í dag kunnu rokna við at liva væl longur enn fyrr, og at greiningar vísa, at gongdin kann væntast at halda fram. Eisini er at fegnast um, at hagtøl vísa, at føroyingar, ið eru 67 ár og eldri, í stóran mun eru á arbeiðsmarknaðinum.</p>
-<p>Flokkarnir ásanna, at tað verður neyðugt at tillaga pensjónsskipanina til hendan veruleika, og mæla tí til, at farið verður undir at hækka pensjónsaldurin varisliga. Mælt verður til, at pensjónsaldurin hækkar við hálvum ári í 2025 og hálvum ári í 2030 soleiðis, at pensjónsaldurin verður 67½ ár í 2025 og 68 ár frá 2030. Fyri at tryggja pensjónsskipanina tvørturum ættarlið verður mælt til, at pensjónsaldurin frá 2035 verður ásettur sambært gongdini í miðal lívsævi. Tó kann pensjónsaldurin ongantíð broytast við meira enn hálvum ári fimta hvørt ár, og hvør broyting skal fráboðast í minsta lagi 10 ár frammanundan.</p>
-<p>Flokkarnir eru samdir um, at pensjónsskipanin framvegis skal vera grundað á 3 súlur – almenna pensjón, samhaldsfasta og egna uppsparing. Men mælt verður til, at størri dentur verður lagdur á Samhaldsfasta og minni dentur á egna uppsparing. Tað vil siga, at mælt verður til eina meira samhaldsfasta pensjónsskipan, har vit spara meira upp í felag. Eisini sjálv eginuppsparingin verður gjørd meiri samhaldsføst, við at pensjónsskatturin lækkar fyri lág- og meðalinntøkurnar, og við at eftirlønargjald verður lagt afturat flestu almannaveitingum, útgjaldið úr ALS o.ø.</p>
+<p><em type="bold">Inngangur </em>Flokkarnir staðfesta, at løtan fyri langari tíð síðan er komin at fremja eina pensjónsnýskipan í Føroyum. Ásannandi, at ymiskar meiningar eru bæði innanhýsis í flokkunum, tvørturum floksmørk og tvørturum samgongu og andstøðu, hava øll flutt seg fyri at røkka einari semju um eina framtíðar pensjónsskipan. Flokkarnir eru samdir um, at ein framtíðar pensjónsskipan skal lúka hesi 3 aðalmál: 1. Tryggja hægri pensjón til pensjónistar við lágari og miðal inntøku 2. Gera tað meira lønandi at arbeiða eftir pensjónsaldur 3. </p>
+<p>Styrkja fíggjarliga haldførið og framtíðartryggja vælferðarsamfelagið <em type="bold"></em></p>
+<p>Tað má ásannast, at galdandi pensjónsskipan hevur alsamt truplari við at tryggja teimum pensjónistum – ið ikki hava eina munandi uppsparing ella framíhjáinntøku – eina nøktandi upphædd at liva av, ið er omanfyri markið fyri fátækaváða. Mælt verður tí til beinanvegin at tryggja veikastu pensjónistunum eitt hægri útgjald og at tryggja, at almannapensjónin verður javnað árliga frameftir. Hetta verður gjørt við at hækka Samhaldsfasta og seta sjálvvirkandi javning av almannaveitingum í verk. Harumframt er núverandi skipan stirvin og ótíðarhóskandi á tann hátt, at hon tekur ov lítið atlit til umstøðurnar hjá tí einstaka. Mælt verður tí til broytingar, ið gera skipanina meira smidliga við fleiri valmøguleikum, soleiðis at fólk í størri mun kunnu leggja frá sær eftir førimuni. Galdandi skipan tekur ikki hædd fyri, at alsamt fleiri í dag eru so væl fyri, at tey vilja arbeiða longur enn til pensjónsaldurin, og tí kundu verið hugað at útsett almennu pensjónina. Mælt verður tí til, at skipan við útsettari pensjón verður sett í verk. Fólk kunnu velja at arbeiða longur, og samtíðis frásiga sær almennu pensjónina, ímóti at fáa hægri útgjald, tá tey fara frá. Hinvegin loftar galdandi skipan í ov lítlan mun teimum, sum eftir eitt drúgt arbeiðslív ikki halda seg vera føran fyri at arbeiða til pensjónsaldur. Mælt verður tí til, at ein nýggj skipan við framskundaðari pensjón verður sett í verk. Harumframt mugu reglurnar fyri mótrokning í galdandi skipan sigast at vera óhepnar. Mótroknað verður ov harðliga og í ov lítlum parti av samlaðu almennu pensjónini. Mælt verður tí til varligari mótrokning, og at mótroknað verður í størri parti av pensjónini. Tó verður ikki mælt til, at mótroknað verður í Samhaldsfasta. 5</p>
+<p>Havandi í huga tær avbjóðingar, sum framtíðar aldursbýtið í fólkinum fer at hava við sær fyri almenna búskapin, má ásannast, at tað verður trupult at halda áfram við núverandi pensjónsskipan sum frálíður. Tað krevur munandi skattahækkingar, almennar sparingar ella lækkingar av veitingum til pensjónistar. Neyðugt er tí við tillagingum, sum tryggja skipanina fíggjarliga frameftir. Hetta er eisini ein fyritreyt fyri at tryggja, at tað almenna frameftir hevur ráð til at veita tær tænastur, ið eru neyðugar, eitt nú innan heilsuverkið og eldraøkið. Tað er at fegnast um, at 67 ára gomul í dag kunnu rokna við at liva væl longur enn fyrr, og at greiningar vísa, at gongdin kann væntast at halda fram. Eisini er at fegnast um, at hagtøl vísa, at føroyingar, ið eru 67 ár og eldri, í stóran mun eru á arbeiðsmarknaðinum. Flokkarnir ásanna, at tað verður neyðugt at tillaga pensjónsskipanina til hendan veruleika, og mæla tí til, at farið verður undir at hækka pensjónsaldurin varisliga. Mælt verður til, at pensjónsaldurin hækkar við hálvum ári í 2025 og hálvum ári í 2030 soleiðis, at pensjónsaldurin verður 67½ ár í 2025 og 68 ár frá 2030. Fyri at tryggja pensjónsskipanina tvørturum ættarlið verður mælt til, at pensjónsaldurin frá 2035 verður ásettur sambært gongdini í miðal lívsævi. Tó kann pensjónsaldurin ongantíð broytast við meira enn hálvum ári fimta hvørt ár, og hvør broyting skal fráboðast í minsta lagi 10 ár frammanundan. Flokkarnir eru samdir um, at pensjónsskipanin framvegis skal vera grundað á 3 súlur – almenna pensjón, samhaldsfasta og egna uppsparing. Men mælt verður til, at størri dentur verður lagdur á Samhaldsfasta og minni dentur á egna uppsparing. Tað vil siga, at mælt verður til eina meira samhaldsfasta pensjónsskipan, har vit spara meira upp í felag. Eisini sjálv eginuppsparingin verður gjørd meiri samhaldsføst, við at pensjónsskatturin lækkar fyri lág- og meðalinntøkurnar, og við at eftirlønargjald verður lagt afturat flestu almannaveitingum, útgjaldið úr ALS o.ø.</p>
 <p><em type="bold">Pensjónssemjan </em></p>
-<p>Flokkarnir eru samdir um eitt uppskot til framtíðar pensjónsskipan, ið er grundað á hesar reglur:</p>
-<p><em type="bold">Tvær skipanir frá 2020 </em></p>
-<p><em type="bold">§ 1.</em> Persónar, ið gerast 67 ár eftir 31. desember 2019 koma undir allar ásetingarnar í semjuni. Teirra </p>
-<p>skipan verður hereftir nevnd <em type="italic">nýggj skipan</em>. </p>
-<p><em type="italic">Stk. 2.</em> Verandi pensjónistar og fólk, sum fylla 67 ár fyri 1. januar 2020, koma ikki undir allar </p>
-<p>ásetingarnar í semjuni. Tey verða einans fevnd av hækking í Samhaldsfasta (§ 4) og av sjálvvirkandi javning (§ 10). Teirra skipan verður hereftir nevnd <em type="italic">verandi skipan</em>. </p>
-<p><em type="italic">Viðmerkingar </em></p>
-<p>Endamálið við tveimum skipanum er at veita tryggleika um inntøkugrundarlagið hjá teimum, sum longu eru pensjónistar og hjá teimum, sum eru um at gerast pensjónistar. Hesi sleppa nú undan at verða rakt av broytingum við stuttum skotbrá. Tó fáa tey hægri útgjald úr Samhaldsfasta og árliga  prístalshækking av veitingum, og tað fer at hækka pensjónina hjá verandi pensjónistum – eisini frameftir. Gjørt verður tó vart við, at hjá teimum, ið onga aðra inntøku hava enn almenna pensjón og Samhaldsfasta, hevur tað ikki stórvegis fíggjarligan týdning, hvørjari skipan tey eru í. Tey fáa hægri pensjón enn í dag, og á leið sama útgjald í báðum skipanum.</p>
-<p><em type="bold">Almenna pensjónin í verandi skipan </em></p>
-<p><em type="bold">§ 2. </em>Almenna pensjónin í verandi skipan verður óbroytt, og harvið framhaldandi samansett av </p>
-<p>trimum veitingum, sum eru grundupphædd, viðbót og brennistuðul (viðbót til ávísar pensjónistar).</p>
-<p><em type="italic">Stk. 2.</em> Skattafría grundupphæddin verður óbroytt 3.589 kr. fyri støk um mánaðin og 2.733 kr. fyri </p>
-<p>gift um mánaðin.</p>
-<p><em type="italic">Stk. 3.</em> Grundupphæddin verður framhaldandi ikki mótroknað í aðrari inntøku. <em type="italic">Stk. 4.</em> Skattskyldugu viðbøturnar verða óbroyttar 3.771 kr. um mánaðin fyri støk og 3.031 kr. um </p>
-<p>mánaðin fyri gift.</p>
-<p><em type="italic">Stk. 5..</em> Viðbótin verður framhaldandi mótroknað við 60% í inntøku omanfyri 61.900 kr. árliga. <em type="italic">Stk. 6.</em> Inntøkugrundarlagið fyri mótrokning hjá giftum, har bæði eru pensjónistar, verður </p>
-<p>framhaldandi helvtin av inntøkuni hjá báðum tilsamans. Tað vil siga, at mótrokning millum hjún verður varðveitt í gomlu skipan.</p>
-<p><em type="italic">Stk. 7.</em> Skattafríur brennistuðul á 7.608 kr. árliga verður framhaldandi veittur til húsarhald, har </p>
-<p>inntøkan er í mesta lagi 60.000 kr. árliga fyri støk og 80.000 kr. árliga fyri hjún.</p>
-<p><em type="italic">Viðmerkingar </em></p>
-<p>Pensjónistar í verandi skipan fáa sostatt bara fyrimunir av broytingunum. Tey fáa fyrimun av, at Samhaldsfasti hækkar, og at pensjónin verður árliga prístalshækkað. Aðrar broytingar í nýggju skipanini fevna ikki um verandi pensjónistar. Leggjast kann afturat, at endamálið við at varðveita mótrokning millum hjún í gomlu skipan er at tryggja, at hjún, har bara annar hevur eina lága inntøku, ikki skulu missa ov nógv, tí ætlanin er ikki at minka um inntøkugrundarlagið hjá verandi pensjónistum.</p>
-<p><em type="bold">Almanna pensjónin í nýggju skipan </em></p>
-<p><em type="bold">§ 3. </em>Almenna pensjónin í nýggju skipan verður samansett av grundupphædd og viðbót. Viðbótin og </p>
-<p>brennistuðulin verða løgd í eina veiting, soleiðis at skipanin gerst meira einføld. Persónar í nýggju skipan fáa tí ikki brennistuðul. Tey fáa í staðin hægri viðbót.</p>
-<p><em type="italic">Stk. 2.</em> Skattafría grundupphæddin verður óbroytt, og tann sama sum í gomlu skipan, 3.589 kr. fyri </p>
-<p>støk um mánaðin, og 2.733 kr. fyri gift um mánaðin.</p>
-<p><em type="italic">Stk. 3.</em> Grundupphæddin verður mótrokningarfrí upp til 30.000 kr. árliga. <em type="italic">Stk. 4.</em> Grundupphæddin verður mótroknað við 25% í inntøku omanfyri 30.000 kr. árliga. <em type="italic">Stk. 5.</em> Skattskyldugu viðbøturnar hækka til 4.779 kr. um mánaðin fyri støk og 3.537 kr. um </p>
-<p>mánaðin fyri gift.</p>
-<p><em type="italic">Stk. 6.</em> Viðbótin verður í 2020 mótrokningarfrí í árligari inntøku upp til 202.300 kr. fyri støk og </p>
-<p>161.200 kr. fyri gift. Mótrokningarfría upphæddin fyri grundupphædd verður javnað árliga, og í tí sambandi verður mótrokningarfría upphæddin fyri viðbótina ásett soleiðis, at mótrokning í viðbót altíð tekur við, eftir at grundupphæddin er fult mótroknað.</p>
-<p><em type="italic">Stk. 7.</em> Mótrokning í viðbót lækkar úr 60% niður í 40%. <em type="italic">Stk. 6.</em> Inntøkugrundarlagið fyri mótrokning hjá giftum, har bæði eru pensjónistar, verður einans </p>
-<p>persónliga inntøkan hjá tí einstaka. Inntøka hjá hjúnafelaga verður ikki roknað uppí. Tað vil siga, at mótrokning millum hjún verður strikað í nýggju skipan.</p>
-<p><em type="bold">Samhaldsfasti </em></p>
-<p><em type="bold">§ 4. </em>Inngjaldið í Samhaldsfasta hækkar stigvíst úr 2,25% upp í 3,00%.  </p>
-<p><em type="italic">Stk. 2.</em> Inngjaldið hækkar úr 2,25% upp í 2,5% frá 1. juli 2018. <em type="italic">Stk. 3.</em> Inngjaldið hækkar úr 2,5% upp í 2,75% frá 1. januar 2019<em type="italic"> Stk. 4.</em> Inngjaldið hækkar úr 2,75% upp í 3,0% frá 1. januar 2020 <em type="italic">Stk. 5.</em> Ásetingar um rættin til útgjald úr Samhaldsfasta verða dagførdar soleiðis, at tey, ið hava </p>
-<p>rindað inn í skipanina síðan byrjan, og eru búsitandi í Føroyum, fáa fult útgjald. Eisini verður dagføring gjørd, sum tryggjar, at tað verður samsvar millum rætt til fólkapensjón og rætt til útgjald úr Samhaldsfasta fyri øll, sum eru búsitandi í Føroyum.</p>
-<p><em type="italic">Stk. 6.</em> Útgjaldið úr Samhaldsfasta verður framhaldandi ikki mótroknað um pensjónistur hevur aðra </p>
-<p>inntøku. Útgjaldið er sostatt tað sama, óansæð inntøku.</p>
-<p><em type="italic">Stk. 7.</em> Pensjónsaldurin í Samhaldsfasta verður framhaldandi tann sami sum fyri fólkapensjón. </p>
-<p><em type="italic">Viðmerkingar </em></p>
-<p>Hækkingin í inngjaldinum fer væntandi at hava við sær, at útgjaldið hækkar umleið 1.200 kr. um mánaðin. Harumframt verður talan um árligar prístalshækkingarnar. Roknað verður við, at mánaðarliga útgjaldið verður umleið 1.600 kr. hægri í 2020 enn í 2017. Útgjaldið í 2017 er 4.025 kr. um mánaðin. Útgjaldið verður væntandi 5.635 kr. um mánaðin í 2020.</p>
-<p><em type="bold">Eginuppsparing </em></p>
-<p><em type="bold">§ 5. </em>Bundna gjaldið, tað vil siga tað lógarbundna minstakravið til egna pensjónsuppsparing, lækkar </p>
-<p>úr 15% niður í 12%.</p>
-<p><em type="italic">Stk. 2.</em>  Bundna gjaldið hækkar framhaldandi við 1% árliga upp í 12% frá 2026 – í staðin fyri 15% </p>
-<p>frá 2029.</p>
-<p><em type="italic">Stk. 3.</em> Aldursmarkið fyri nær fólk skulu rinda til egna pensjón, ið er 21 ár, verður avtikið. <em type="italic">Stk. 4.</em> Ásetingin, ið sigur, at egin uppsparing er partur av felags búgvi við hjúnaskilnað, verður </p>
-<p>styrkt. Bert sáttmáli um serogn kann gera, at vikið verður frá ásetingini.</p>
-<p><em type="bold">Inntøkugrundarlag fyri mótrokning </em></p>
-<p><em type="bold">§ 6. </em>Inntøkugrundarlagið fyri mótrokning í almennari pensjón verður framhaldandi samansett av </p>
-<p>skattskyldugu inntøkuni (sambært skattalógini) og inntøku frá kapitalvinningi (inntøka eftir kapitalvinningsskattalógini, t.d. rentur og vinningsbýti). Inntøka frá sosialum pensjónum og útgjald úr Samhaldsfasta verður framhaldandi ikki talt við.</p>
-<p><em type="italic">Stk. 2.</em> Útgjald av forskattaðari lívrentu og lutaeftirløn, ið er inngoldin eftir 1. januar 2012, verður </p>
-<p>frá 2020 tald við í inntøkugrundarlagið fyri mótrokning. Broytingin er bara galdandi fyri tey í nýggju skipan.</p>
-<p><em type="italic">Stk. 3.</em> Útgjaldið sbrt. stk. 2 verður ikki upproknað til skattskyldugt virði, men verður lagt beinleiðis </p>
-<p>afturat galdandi inntøkugrundarlag.</p>
-<p><em type="italic">Viðmerkingar </em></p>
-<p>Í almennu viðmerkingunum til eftirlønarlógina, ið varð sett í gildi 1. januar 2014, stendur: <em type="italic">“Tá </em></p>
-<p><em type="italic">samansparingin til eftirløn veksur, gerst eftirlønin, sum frálíður, so mikið stór, at stórum parti av fólkinum fer ikki at tørva fulla fólkapensjón. At tørvurin á fólkapensjón lutfalsliga fer at minka hevur við sær, at tað almenna frameftir verður betur ført fyri at røkja vælferðartænastur til eldri sum t.d. heimarøkt, ellisheim og sjúkrarøkt. Gjørt verður tó vart við, at hetta lógaruppskotið einsamalt ikki hevur nakra sparing við sær í almannapensjónum. Orsøkin er tann, at verandi lóggava ikki gevur møguleika fyri at mótrokna útgjøld eftir hesari lóg í almannapensjónum (sama ger seg galdandi fyri útgjøld sambært verandi rentutryggingarlóg, sum eru inngoldin eftir 1. januar 2012). Í hesum sambandi verður neyðugt at broyta reglurnar um mótrokning o.a. Hetta arbeiðið er í gongd og er at meta sum seinni partur av pensjónsnýskipanini, har hetta uppskotið er at meta sum fyrri partur.” </em></p>
-<p>Hesin seinni partur av pensjónsnýskipanini verður nú settur í verk frá 2020. Mælt verður tí til, at lutaeftirløn og lívrenta, ið eru uppspard eftir 1. januar 2012 og verða útgoldin við pensjónsaldur, verða løgd afturat galdandi inntøkugrundarlag hjá teimum, sum gerast pensjónistar frá og við 1. januar 2020.</p>
-<p><em type="bold">Pensjónsaldur </em></p>
-<p><em type="bold">§ 7. </em>Pensjónsaldurin hækkar úr 67 ár upp í 67½ ár tann 1. januar 2025.  </p>
-<p><em type="italic">Stk. 2.</em> Pensjónsaldurin hækkar úr 67½ ár upp í 68 ár tann 1. januar 2030. <em type="italic">Stk. 3.</em> Skipan við <em type="italic">livitíðar indeks</em> verður sett í verk frá 2035. Fimta hvørt ár skal pensjónsaldurin  </p>
-<p>eftirmetast í mun til gongdina í miðal lívsævi hjá 65 ára gomlum.</p>
-<p><em type="italic">Stk. 4</em>. Broyting í pensjónsaldrinum skal fráboðast við 10 ára ávaring.  <em type="italic">Stk. 5.</em> Pensjónsaldurin kann í mesta lagi hækka ½ ár fyri hvørja eftirmeting. Talan kann sostatt í </p>
-<p>mesta lagi verða um ½ ára broyting fimta hvørt ár.</p>
-<p><em type="italic">Stk. 6.</em> Fyrsta eftirmeting verður í 2025 við møguligari broyting í pensjónsaldrinum frá 2035. </p>
-<p xml:lang="dan"><em type="bold">Útsett pensjón </em></p>
-<p><em type="bold">§ 8. </em>Skipan við møguleika fyri at útseta fólkapensjónina verður sett í verk. Um ein persónur, ið </p>
-<p>hevur rokkið pensjónsaldur, velur at útseta fólkapensjónina, verður mánaðarliga pensjónin hægri, tá persónurin velur at gerast pensjónistur.</p>
-<p><em type="italic">Stk. 2.</em> Møguleiki verður ikki fyri at útseta útgjaldið úr Samhaldsfasta. Samhaldsfasti verður </p>
-<p>framhaldandi útgoldin við fólkapensjónsaldur.</p>
-<p><em type="bold">Framskundað pensjón </em></p>
-<p><em type="bold">§ 9. </em>Skipan, ið ger tað møguligt at fáa pensjón áðrenn pensjónsaldurin – vegna kroppsligt ella </p>
-<p>sálarligt slit av arbeiðsávum – verður sett í verk.</p>
-<p><em type="italic">Stk. 2.</em> Framskundað pensjón kann verða játtað upp til 3 ár áðrenn fólkapensjónsaldur. Tað vil siga, </p>
-<p>at aldursmarkið verður 64 ár í 2020. Um pensjónsaldurin hækkar, so hækkar aldursmarkið samsvarandi.</p>
-<p><em type="bold">Sjálvvirkandi javning (prístalshækking) </em></p>
-<p><em type="bold">§ 10. </em>Sjálvvirkandi javning av almennu pensjónini verður sett í verk. Eisini mótrokningarfríu </p>
-<p>upphæddirnar verða árliga javnaðar.</p>
-<p><em type="italic">Stk. 2.</em> Sama javning verður eisini galdandi fyri flestu almannaveitingar.  <em type="italic">Stk. 3.</em> Javnað verður árliga við miðaltalinum av:  </p>
-<p>1. Árligu gongdini í prístalinum  2. Árliga lønarvøkstrinum á almenna arbeiðsmarknaðinum.</p>
-<p><em type="bold">Mótrokning millum hjún </em></p>
-<p><em type="bold">§ 11. </em>Mótrokning millum hjún verður strikað fyri tey, ið gerast pensjónistar í nýggju skipan frá </p>
-<p>2020. Hetta hevur við sær, at veitingarnar til pensjónistar ikki verða ávirkaðar av, hvørja inntøku hjúnafelagin hevur.</p>
-<p><em type="bold">Lønarlíknandi veitingar verða eftirlønargevandi </em></p>
-<p><em type="bold">§ 12. </em>Lønarlíknandi og tíðaravmarkaðar almannaveitingar fara frameftir at vera eftirlønargevandi. </p>
-<p>Sama verður galdandi fyri útgjald úr Barsilsskipanini, ALS-skipanini og fyri minstuløn úr Trygdargrunninum.</p>
-<p><em type="italic">Stk. 2.</em> Bundna eftirlønargjaldið verður lagt afturat veitingunum, soleiðis at tær ikki lækka.  </p>
-<p><em type="bold">Nøktandi óarbeiðsføristrygging/óarbeiðsførisveiting </em></p>
-<p><em type="bold">§ 13. </em>Tryggjast skal, at allir føroyingar fáa nøktandi óarbeiðsføristrygging/óarbeiðsførisveiting. </p>
-<p><em type="bold">Stigvaksandi pensjónsskattur </em></p>
-<p><em type="bold">§ 14.</em> Pensjónsskatturin verður broyttur frá 40% flatskatti til ein skatt, sum er stigvaksandi í </p>
-<p>skattskyldugari inntøku.</p>
-<p><em type="italic">Stk. 2.</em> Er skattskylduga inntøkan í árinum kr. 235.000 ella lægri, verður rindað 30% av samlaða </p>
-<p>inngjaldinum sama árið.</p>
-<p><em type="italic">Stk. 3.</em> Er skattskylduga inntøkan í árinum hægri enn kr. 235.000, men ikki hægri enn kr. 330.000, </p>
-<p>verður rindað 35% av samlaða inngjaldinum sama árið.</p>
-<p><em type="italic">Stk. 4</em>. Er skattskylduga inntøkan í árinum hægri enn kr. 330.000, verður rindað 40% av samlaða </p>
-<p>inngjaldinum sama árið</p>
-<p><em type="bold">Gildiskomur</em>   </p>
-<p><em type="bold">§ 15.</em> Uppskotini verða send í hoyring samtíðis og løgd fram fyri Løgtingið samtíðis. </p>
-<p><em type="italic">Stk. 2.</em> Broytingarnar í lógini um Samhaldsfasta (§ 4) koma í gildi 1. juli 2018.  <em type="italic">Stk.</em> <em type="italic"></em>. Broytingarnar í Eftirlønarlógini (§§ 5, 12 og 14) koma í gildi 1. januar 2019. <em type="italic">Stk. 4. </em>Broytingar í almennu pensjónini (§§ 1-3, 6-9 og 11) og lógaruppskotið um sjálvvirkandi </p>
-<p>javning (§ 10) koma í gildi 1. januar 2020.</p>
-<p>Uppskotini verða send í almenna hoyring í november mánað. Lógaruppskotini verða viðgjørd sum ein heild. Tillagingar í mun til semjuna, ið partarnir gerast samdir um eftir hoyring, kunnu koma fyri, áðrenn lógaruppskotini samlað verða løgd fyri Løgtingið.</p>
-<p>Tórshavn, 3. november 2017</p>
-<p><em type="bold">Vegna Sjálvstýri                   Vegna Framsókn </em></p>
-<p>Jógvan Skorheim, formaður Hanna Jensen, næstforkvinna og løgtingskvinna</p>
-<p><em type="bold">Vegna Tjóðveldi    Vegna Javnaðarflokkin       </em></p>
-<p>Kristina Háfoss, landsstýriskvinna   Eyðgunn Samuelsen, landsstýriskvinna</p>
-<p>3. Lógaruppskot – yvirlit og samandráttir</p>
-<p>Pensjónsnýskipanin umfatar í alt 6 lógaruppskot. Trý uppskot eru frá Almannamálaráðnum og trý uppskot eru frá Fíggjarmálaráðnum.</p>
-<p>Uppskotini frá Almannamálaráðnum eru:</p>
-<p type="listitem"> Uppskot til løgtingslóg um broyting í løgtingslóg um almannapensjónir o.a.</p>
-<p type="listitem"> Uppskot til løgtingslóg um broyting í løgtingslóg um áseting og javning av</p>
-<p>almannaveitingum.</p>
-<p type="listitem"> Uppskot til løgtingslóg um broyting í løgtingslóg um viðbót til ávísar pensiónistar v.fl.</p>
-<p>Uppskotini frá Fíggjarmálaráðnum eru:</p>
-<p type="listitem"> Uppskot til løgtingslóg um broyting í løgtingslóg um eftirløn (Eftirlønarlógin)</p>
-<p type="listitem"> Uppskot til løgtingslóg um broyting í løgtingslóg um arbeiðsmarknaðareftirlønargrunn</p>
-<p>(Samhaldsfasti)</p>
-<p type="listitem"> Uppskot til løgtingslóg um um árligt javningarprosent til almannaveitingar</p>
-<p>Uppskot úr Almannamálaráðnum</p>
-<p>Uppskotini úr Almannamálaráðnum snúgva seg um broytingar í almennu pensjónunum. Talan er um broytingar í upphæddum, mótrokning og pensjónsaldri. Harumframt verður mælt til at seta í verk tvær nýggjar skipanir. Eina skipan við útsettari pensjón og eina við framskundaðari pensjón. Endamálið við nýggju skipanunum er at gera fólkapensjónina meira smidliga.</p>
-<p><em type="italic">Tvær skipanir frá 2020 </em></p>
-<p>Hjá teimum ið longu eru pensjónistar, ella gerast pensjónistar fyri 1. januar 2020, verða ongar broytingar framdar í almennu pensjónini. Tey halda fram við galdandi lóggávu. Tað vil siga, at allar broytingar niðanfyri einans eru galdandi fyri tey, ið gerast pensjónistar eftir 31. desember 2019.</p>
-<p>Samandráttur av broytingum í lóg um almannapensjónir o.a.:</p>
-<p type="listitem"> <em type="italic">Pensjónsaldurin: </em></p>
-<p>o Pensjónsaldurin hækkar upp í 67½ ár frá 2025 og upp í 68 ár frá 2030. o Pensjónsaldurin verður – frá 2035 og frameftir – dagførdur um so er, at væntað</p>
-<p>miðal lívsævi hækkar munandi.</p>
-<p>o Broyting í pensjónsaldri skal fráboðast við 10 ára freist. o Pensjónsaldrinum kann í mesta lagi broytast við hálvum ári hvørja ferð, og kann í</p>
-<p>mesta lagi broytast fimta hvørt ár.</p>
-<p type="listitem" xml:lang="dan"> <em type="italic">Mótrokning:  </em></p>
-<p>o Mótrokning í viðbót lækkar úr 60% niður í 40%. o Mótrokning í grundupphædd á 25% verður ásett. o Mótrokning millum hjún verður strikað.  o Útgjald av forskattaðari lívrentu og lutaeftirløn, ið er inngoldin eftir 1. januar 2012,</p>
-<p>verður tald við í inntøkugrundarlagið fyri mótrokning.</p>
-<p type="listitem"> <em type="italic">Nýggjar skipanir: </em></p>
-<p>o Skipan við útsettari pensjón verður sett í verk. Tey, ið halda fram at arbeiða eftir</p>
-<p>pensjónsaldur, kunnu útseta fólkapensjónina, og so fáa hægri fólkapensjón tá tey fara á pensjón.</p>
-<p>o Skipan við framskundaðari pensjón verður sett í verk. Tey, ið av arbeiðsávum eru</p>
-<p>kropsliga ella sálarliga niðurslitin, kunnu fara á pensjón upp til 3 ár áðrenn fólkapensjónsaldur.</p>
-<p>Samandráttur av broytingum í lóg um áseting og javning av almannaveitingum.:</p>
-<p type="listitem"> <em type="italic">Upphæddir: </em></p>
-<p>o Skattafría grundupphæddin verður óbroytt 3.589 kr. um mánaðin fyri støk og 2.733</p>
-<p>kr. um mánaðin fyri gift.</p>
-<p>o Skattskyldugu viðbøturnar verða lagdar saman til eina viðbót á 4.779 kr. um</p>
-<p>mánaðin fyri støk og 3.5737 kr. um mánaðin fyri gift.</p>
-<p type="listitem" xml:lang="dan"> <em type="italic">Mótrokning: </em></p>
-<p>o Grundupphæddin verður mótrokningarfrí í aðrari árligari inntøku upp til 30.000 kr. o Viðbótin verður mótroknað tá grundupphæddin er uppi. Viðbótin verður í 2020</p>
-<p>mótrokningarfrí í aðrari árligari inntøku upp til 202.300 kr. fyri støk og 161.200 kr. fyri gift.</p>
-<p>Samandráttur av broyting í lóg um viðbót til ávísar pensiónistar v.fl.:</p>
-<p type="listitem"> Viðbót til ávísar pensjónistar (brennistuðul) verður ikki galdandi fyri tey í gerast</p>
-<p>fólkapensjónistar eftir 1. januar 2020.</p>
-<p type="listitem"> Tey, ið longu eru pensjónistar, ella gerast pensjónistar fyri 1. januar 2020, hava tó framvegis</p>
-<p>rætt til brennistuðul um tey annars lúka treytirnar fyri mestu inntøku.</p>
-<p>Uppskot úr Fíggjarmálaráðnum</p>
-<p>Uppskotini úr Fíggjarmálaráðnum mæla til broytingar í Sahaldsfasta og í Eftirlønarlógini. Harumframt er eitt uppskot til eina nýggja lóg, sum skal áseta hvussu almannaveitingar skulu javnast frameftir.</p>
-<p>Samandráttur av broytingum í lóg um arbeiðsmarknaðareftirlønargrunn (Samhaldsfasti):</p>
-<p type="listitem"> <em type="italic">Inngjaldið: </em></p>
-<p>o Inngjaldið hækkar úr 2,25% upp í 2,5% frá 1. juli 2018. o Stk. 3. Inngjaldið hækkar úr 2,5% upp í 2,75% frá 1. januar 2019 o Stk. 4. Inngjaldið hækkar úr 2,75% upp í 3,0% frá 1. januar 2020 o Roknað verður við, at hækkingarnar – umframt árliga javningin á 3% - hava við sær,</p>
-<p>at mánaðarliga útgjaldið verður góðar 1.600 kr. hægri í 2020 enn í 2017.</p>
-<p type="listitem"> <em type="italic">Rættur til útgjald úr samhaldsfasta:  </em></p>
-<p>o Rættur til útgjald úr samhaldsfasta verða dagførdar soleiðis, at tey, ið hava rindað inn</p>
-<p>í skipanina síðan byrjan, og eru búsitandi í Føroyum, fáa fult útgjald.</p>
-<p>o Fyri tey, sum eru búsitandi í Føroyum, verður samsvar millum rætt til fólkapensjón</p>
-<p>og rætt til útgjald úr Samhaldsfasta.</p>
-<p>o Persónar, sum arbeiða uttanlands, kunnu velja at verða undantiknir at gjalda til</p>
-<p>Samhaldsfasta um teir eru sosialt tryggjaðir uttanlands. Hetta er sbrt. norðurlendska sáttmálanum um sosiala trygging. Velja persónar ikki at gjalda til Samhaldsfasta missa teir rættin til samsvarandi útgjald úr Samhaldsfasta.</p>
-<p>o Útgjaldið úr Samhaldsfasta verður framhaldandi ikki mótroknað um pensjónistur</p>
-<p>hevur aðra inntøku. Útgjaldið verður framhaldandi tað sama, óansæð inntøku.</p>
-<p type="listitem"> <em type="italic">Pensjónsaldur í Samhaldsfasta: </em></p>
-<p>o Pensjónsaldurin í Samhaldsfasta verður framhaldandi tann sami sum fyri</p>
-<p>fólkapensjón. Broytist pensjónsaldurin fyri almannapensjón; broytist pensjónsaldurin í Samhaldsfasta samsvarandi.</p>
-<p>Samandráttur av broytingum í lóg um eftirløn (Eftirlønarlógin):</p>
-<p type="listitem"> <em type="italic">Bundna eftirlønargjaldið: </em></p>
-<p>o í staðin fyri at hækka við einum prosenti árliga upp í 15% frá 2029; hækkar gjaldið í</p>
-<p>staðin upp í 12% frá 2026. Tað vil siga, at bundna gjaldið lækkar 3%.</p>
-<p type="listitem"> <em type="italic">Undantøk verða strikað: </em></p>
-<p>o Rindast skal til eftirløn av flestu almennum veitingum og av útgjaldi úr ALS og</p>
-<p>trygdargrunninum hjá fiskimonnum.</p>
-<p>o Aldursmarkið fyri inngjald til egna pensjón, ið er 21 ár, verður avtikið.</p>
-<p type="listitem"> <em type="italic">Felags ogn hjá hjúnafeløgum: </em></p>
-<p>o Ásetingin um, at egin uppsparing er partur av felags búgvi í sambandi við</p>
-<p>hjúnaskilnað, verður styrkt. Bert sáttmáli um serogn kann gera, at vikið verður frá ásetingini.</p>
-<p type="listitem"> <em type="italic">Pensjónsskattur: </em></p>
-<p>o Pensjónsskatturin verður broyttur frá 40% flatskatti til ein skatt sum er stigvaksandi í</p>
-<p>skattskyldugari inntøku.</p>
-<p>o Tey við lágari inntøku koma at rinda 30%. o Tey við meðalinntøku koma at rinda 35%. o Tey við hægru inntøkunum koma framhaldandi at rinda 40%.</p>
-<p>Samandráttur av lóg um javningarprosent av almannaveitingum:</p>
-<p type="listitem"> <em type="italic">Javning av almannaveitingum: </em></p>
-<p>o Flestu almannaveitingar verða frameftir javnaðar við miðaltalinum av árligu</p>
-<p>gongdini í prístalinum og lønarvøkstrinum á almenna arbeiðsmarknaðinum.</p>
-<p>o Javnað verður tó í mesta lagi við lønarvøkstrinum  o Javningin verður ongantíð negativ. Er miðaltalið minni enn null, verður ongin</p>
-<p>javning.</p>
-<p>4. Samfelagsbúskaparligar avleiðingar av pensjónsnýskipan</p>
-<p>Í hesum brotinum verður sagt frá hvørjar avleiðingar nýskipanin verður mett at hava á samfelagsbúskapin.</p>
-<p>Mett verður um ávirkanina á almenna haldførið, og um avleiðingar fyri løntakaratalið og búskaparvøksturin. Eisini verður mett um fíggjarligu avleiðingarnar fyri landið og kommunurnar fyrstu árini.</p>
-<p>Men fyrst verður hugt nærri at broytingunum í fólkasamansetingini, ið eru fyri framman, og sagt verður frá gongdini í miðal lívsævi. Eisini verður hugt nærri at, í hvussu stóran mun tey eldru í dag eru á arbeiðsmarknaðinum.</p>
-<p>Gongdin í fólkasamansetingini</p>
-<p>Talið av fólki í fólkapensjónsaldri veksur skjótt hesi árini. Sum víst í mynd 1, veksur talið av fólki, sum eru 67 ár og eldri, við góðum 200 árliga.</p>
-<p><em type="italic">Mynd 1.  </em></p>
-<p><em type="italic">Mynd 2. </em></p>
-<p>Árligur vøkstur í tali av fólki eldri enn 67 ár</p>
-<p>Tal av fólki 67 ár og eldri</p>
-<p>14.000</p>
-<p>13.000</p>
-<p>12.000</p>
-<p>11.000</p>
-<p>10.000</p>
-<p>9.000</p>
-<p>8.000</p>
-<p>7.000</p>
-<p>6.000</p>
-<p>5.000</p>
-<p>4.000</p>
-<p>3.000</p>
-<p>2.000</p>
-<p>-</p>
-<p>- 1.000</p>
-<p>-</p>
+<p>Flokkarnir eru samdir um eitt uppskot til framtíðar pensjónsskipan, ið er grundað á hesar reglur: <em type="bold"></em></p>
+<p><em type="bold">Tvær skipanir frá 2020 </em><em type="bold">§ 1. </em>Persónar, ið gerast 67 ár eftir 31. desember 2019 koma undir allar ásetingarnar í semjuni. Teirra skipan verður hereftir nevnd <em type="italic">nýggj skipan </em>. <em type="italic">Stk. 2. </em>Verandi pensjónistar og fólk, sum fylla 67 ár fyri 1. januar 2020, koma ikki undir allar ásetingarnar í semjuni. Tey verða einans fevnd av hækking í Samhaldsfasta (§ 4) og av sjálvvirkandi javning (§ 10). Teirra skipan verður hereftir nevnd <em type="italic">verandi skipan </em>. <em type="italic">Viðmerkingar </em>Endamálið við tveimum skipanum er at veita tryggleika um inntøkugrundarlagið hjá teimum, sum longu eru pensjónistar og hjá teimum, sum eru um at gerast pensjónistar. Hesi sleppa nú undan at verða rakt av broytingum við stuttum skotbrá. Tó fáa tey hægri útgjald úr Samhaldsfasta og árliga prístalshækking av veitingum, og tað fer at hækka pensjónina hjá verandi pensjónistum – eisini frameftir. Gjørt verður tó vart við, at hjá teimum, ið onga aðra inntøku hava enn almenna pensjón og Samhaldsfasta, hevur tað ikki stórvegis fíggjarligan týdning, hvørjari skipan tey eru í. Tey fáa hægri pensjón enn í dag, og á leið sama útgjald í báðum skipanum. 6 </p>
+<p><em type="bold">Almenna pensjónin í verandi skipan </em><em type="bold">§ 2. </em>Almenna pensjónin í verandi skipan verður óbroytt, og harvið framhaldandi samansett av trimum veitingum, sum eru grundupphædd, viðbót og brennistuðul (viðbót til ávísar pensjónistar). <em type="italic">Stk. 2. </em>Skattafría grundupphæddin verður óbroytt 3.589 kr. fyri støk um mánaðin og 2.733 kr. fyri gift um mánaðin. <em type="italic">Stk. 3. </em>Grundupphæddin verður framhaldandi ikki mótroknað í aðrari inntøku. <em type="italic">Stk. 4. </em>Skattskyldugu viðbøturnar verða óbroyttar 3.771 kr. um mánaðin fyri støk og 3.031 kr. um mánaðin fyri gift. <em type="italic">Stk. 5.. </em>Viðbótin verður framhaldandi mótroknað við 60% í inntøku omanfyri 61.900 kr. árliga. <em type="italic">Stk. 6. </em>Inntøkugrundarlagið fyri mótrokning hjá giftum, har bæði eru pensjónistar, verður framhaldandi helvtin av inntøkuni hjá báðum tilsamans. Tað vil siga, at mótrokning millum hjún verður varðveitt í gomlu skipan. <em type="italic">Stk. 7. </em>Skattafríur brennistuðul á 7.608 kr. árliga verður framhaldandi veittur til húsarhald, har inntøkan er í mesta lagi 60.000 kr. árliga fyri støk og 80.000 kr. árliga fyri hjún. <em type="italic">Viðmerkingar </em>Pensjónistar í verandi skipan fáa sostatt bara fyrimunir av broytingunum. Tey fáa fyrimun av, at Samhaldsfasti hækkar, og at pensjónin verður árliga prístalshækkað. Aðrar broytingar í nýggju skipanini fevna ikki um verandi pensjónistar. Leggjast kann afturat, at endamálið við at varðveita mótrokning millum hjún í gomlu skipan er at tryggja, at hjún, har bara annar hevur eina lága inntøku, ikki skulu missa ov nógv, tí ætlanin er ikki at minka um inntøkugrundarlagið hjá verandi pensjónistum. </p>
+<p><em type="bold">Almanna pensjónin í nýggju skipan </em><em type="bold">§ 3. </em>Almenna pensjónin í nýggju skipan verður samansett av grundupphædd og viðbót. Viðbótin og brennistuðulin verða løgd í eina veiting, soleiðis at skipanin gerst meira einføld. Persónar í nýggju skipan fáa tí ikki brennistuðul. Tey fáa í staðin hægri viðbót. <em type="italic">Stk. 2. </em>Skattafría grundupphæddin verður óbroytt, og tann sama sum í gomlu skipan, 3.589 kr. fyri støk um mánaðin, og 2.733 kr. fyri gift um mánaðin. <em type="italic">Stk. 3. </em>Grundupphæddin verður mótrokningarfrí upp til 30.000 kr. árliga. <em type="italic">Stk. 4. </em>Grundupphæddin verður mótroknað við 25% í inntøku omanfyri 30.000 kr. árliga. <em type="italic">Stk. 5. </em>Skattskyldugu viðbøturnar hækka til 4.779 kr. um mánaðin fyri støk og 3.537 kr. um mánaðin fyri gift. <em type="italic">Stk. 6. </em>Viðbótin verður í 2020 mótrokningarfrí í árligari inntøku upp til 202.300 kr. fyri støk og 161.200 kr. fyri gift. Mótrokningarfría upphæddin fyri grundupphædd verður javnað árliga, og í tí sambandi verður mótrokningarfría upphæddin fyri viðbótina ásett soleiðis, at mótrokning í viðbót altíð tekur við, eftir at grundupphæddin er fult mótroknað. <em type="italic">Stk. 7. </em>Mótrokning í viðbót lækkar úr 60% niður í 40%. <em type="italic">Stk. 6. </em>Inntøkugrundarlagið fyri mótrokning hjá giftum, har bæði eru pensjónistar, verður einans persónliga inntøkan hjá tí einstaka. Inntøka hjá hjúnafelaga verður ikki roknað uppí. Tað vil siga, at mótrokning millum hjún verður strikað í nýggju skipan. 7 </p>
+<p><em type="bold">Samhaldsfasti </em><em type="bold">§ 4. </em>Inngjaldið í Samhaldsfasta hækkar stigvíst úr 2,25% upp í 3,00%. <em type="italic">Stk. 2. </em>Inngjaldið hækkar úr 2,25% upp í 2,5% frá 1. juli 2018. <em type="italic">Stk. 3. </em>Inngjaldið hækkar úr 2,5% upp í 2,75% frá 1. januar 2019 <em type="italic">Stk. 4. </em>Inngjaldið hækkar úr 2,75% upp í 3,0% frá 1. januar 2020 <em type="italic">Stk. 5. </em>Ásetingar um rættin til útgjald úr Samhaldsfasta verða dagførdar soleiðis, at tey, ið hava rindað inn í skipanina síðan byrjan, og eru búsitandi í Føroyum, fáa fult útgjald. Eisini verður dagføring gjørd, sum tryggjar, at tað verður samsvar millum rætt til fólkapensjón og rætt til útgjald úr Samhaldsfasta fyri øll, sum eru búsitandi í Føroyum. <em type="italic">Stk. 6. </em>Útgjaldið úr Samhaldsfasta verður framhaldandi ikki mótroknað um pensjónistur hevur aðra inntøku. Útgjaldið er sostatt tað sama, óansæð inntøku. <em type="italic">Stk. 7. </em>Pensjónsaldurin í Samhaldsfasta verður framhaldandi tann sami sum fyri fólkapensjón. <em type="italic">Viðmerkingar </em>Hækkingin í inngjaldinum fer væntandi at hava við sær, at útgjaldið hækkar umleið 1.200 kr. um mánaðin. Harumframt verður talan um árligar prístalshækkingarnar. Roknað verður við, at mánaðarliga útgjaldið verður umleið 1.600 kr. hægri í 2020 enn í 2017. Útgjaldið í 2017 er 4.025 kr. um mánaðin. Útgjaldið verður væntandi 5.635 kr. um mánaðin í 2020. <em type="bold"></em></p>
+<p><em type="bold">Eginuppsparing </em><em type="bold">§ 5. </em>Bundna gjaldið, tað vil siga tað lógarbundna minstakravið til egna pensjónsuppsparing, lækkar úr 15% niður í 12%. <em type="italic">Stk. 2. </em>Bundna gjaldið hækkar framhaldandi við 1% árliga upp í 12% frá 2026 – í staðin fyri 15% frá 2029. <em type="italic">Stk. 3. </em>Aldursmarkið fyri nær fólk skulu rinda til egna pensjón, ið er 21 ár, verður avtikið. <em type="italic">Stk. 4. </em>Ásetingin, ið sigur, at egin uppsparing er partur av felags búgvi við hjúnaskilnað, verður styrkt. Bert sáttmáli um serogn kann gera, at vikið verður frá ásetingini. </p>
+<p><em type="bold">Inntøkugrundarlag fyri mótrokning </em><em type="bold">§ 6. </em>Inntøkugrundarlagið fyri mótrokning í almennari pensjón verður framhaldandi samansett av skattskyldugu inntøkuni (sambært skattalógini) og inntøku frá kapitalvinningi (inntøka eftir kapitalvinningsskattalógini, t.d. rentur og vinningsbýti). Inntøka frá sosialum pensjónum og útgjald úr Samhaldsfasta verður framhaldandi ikki talt við. <em type="italic">Stk. 2. </em>Útgjald av forskattaðari lívrentu og lutaeftirløn, ið er inngoldin eftir 1. januar 2012, verður frá 2020 tald við í inntøkugrundarlagið fyri mótrokning. Broytingin er bara galdandi fyri tey í nýggju skipan. <em type="italic">Stk. 3. </em>Útgjaldið sbrt. stk. 2 verður ikki upproknað til skattskyldugt virði, men verður lagt beinleiðis afturat galdandi inntøkugrundarlag. <em type="italic">Viðmerkingar </em>Í almennu viðmerkingunum til eftirlønarlógina, ið varð sett í gildi 1. januar 2014, stendur: <em type="italic">“Tá samansparingin til eftirløn veksur, gerst eftirlønin, sum frálíður, so mikið stór, at stórum parti av fólkinum fer ikki at tørva fulla fólkapensjón. At tørvurin á fólkapensjón lutfalsliga fer at minka </em>8 <em type="italic">hevur við sær, at tað almenna frameftir verður betur ført fyri at røkja vælferðartænastur til eldri sum t.d. heimarøkt, ellisheim og sjúkrarøkt. Gjørt verður tó vart við, at hetta lógaruppskotið einsamalt ikki hevur nakra sparing við sær í almannapensjónum. Orsøkin er tann, at verandi lóggava ikki gevur møguleika fyri at mótrokna útgjøld eftir hesari lóg í almannapensjónum (sama ger seg galdandi fyri útgjøld sambært verandi rentutryggingarlóg, sum eru inngoldin eftir 1. januar 2012). Í hesum sambandi verður neyðugt at broyta reglurnar um mótrokning o.a. Hetta arbeiðið er í gongd og er at meta sum seinni partur av pensjónsnýskipanini, har hetta uppskotið er at meta sum fyrri partur.” </em>Hesin seinni partur av pensjónsnýskipanini verður nú settur í verk frá 2020. Mælt verður tí til, at lutaeftirløn og lívrenta, ið eru uppspard eftir 1. januar 2012 og verða útgoldin við pensjónsaldur, verða løgd afturat galdandi inntøkugrundarlag hjá teimum, sum gerast pensjónistar frá og við 1. januar 2020. </p>
+<p><em type="bold">Pensjónsaldur </em><em type="bold">§ 7. </em>Pensjónsaldurin hækkar úr 67 ár upp í 67½ ár tann 1. januar 2025. <em type="italic">Stk. 2. </em>Pensjónsaldurin hækkar úr 67½ ár upp í 68 ár tann 1. januar 2030. <em type="italic">Stk. 3. </em>Skipan við <em type="italic">livitíðar indeks </em>verður sett í verk frá 2035. Fimta hvørt ár skal pensjónsaldurin eftirmetast í mun til gongdina í miðal lívsævi hjá 65 ára gomlum. <em type="italic">Stk. 4 </em>. Broyting í pensjónsaldrinum skal fráboðast við 10 ára ávaring. <em type="italic">Stk. 5. </em>Pensjónsaldurin kann í mesta lagi hækka ½ ár fyri hvørja eftirmeting. Talan kann sostatt í mesta lagi verða um ½ ára broyting fimta hvørt ár. <em type="italic">Stk. 6. </em>Fyrsta eftirmeting verður í 2025 við møguligari broyting í pensjónsaldrinum frá 2035. <em type="bold"></em></p>
+<p><em type="bold">Útsett pensjón </em><em type="bold">§ 8. </em>Skipan við møguleika fyri at útseta fólkapensjónina verður sett í verk. Um ein persónur, ið hevur rokkið pensjónsaldur, velur at útseta fólkapensjónina, verður mánaðarliga pensjónin hægri, tá persónurin velur at gerast pensjónistur. <em type="italic">Stk. 2. </em>Møguleiki verður ikki fyri at útseta útgjaldið úr Samhaldsfasta. Samhaldsfasti verður framhaldandi útgoldin við fólkapensjónsaldur. </p>
+<p><em type="bold">Framskundað pensjón </em><em type="bold">§ 9. </em>Skipan, ið ger tað møguligt at fáa pensjón áðrenn pensjónsaldurin – vegna kroppsligt ella sálarligt slit av arbeiðsávum – verður sett í verk. <em type="italic">Stk. 2. </em>Framskundað pensjón kann verða játtað upp til 3 ár áðrenn fólkapensjónsaldur. Tað vil siga, at aldursmarkið verður 64 ár í 2020. Um pensjónsaldurin hækkar, so hækkar aldursmarkið samsvarandi. </p>
+<p><em type="bold">Sjálvvirkandi javning (prístalshækking) </em><em type="bold">§ 10. </em>Sjálvvirkandi javning av almennu pensjónini verður sett í verk. Eisini mótrokningarfríu upphæddirnar verða árliga javnaðar. 9 </p>
+<p><em type="italic">Stk. 2. </em>Sama javning verður eisini galdandi fyri flestu almannaveitingar. <em type="italic">Stk. 3. </em>Javnað verður árliga við miðaltalinum av: 1. Árligu gongdini í prístalinum 2. Árliga lønarvøkstrinum á almenna arbeiðsmarknaðinum. </p>
+<p><em type="bold">Mótrokning millum hjún </em><em type="bold">§ 11. </em>Mótrokning millum hjún verður strikað fyri tey, ið gerast pensjónistar í nýggju skipan frá 2020. Hetta hevur við sær, at veitingarnar til pensjónistar ikki verða ávirkaðar av, hvørja inntøku hjúnafelagin hevur. </p>
+<p><em type="bold">Lønarlíknandi veitingar verða eftirlønargevandi </em><em type="bold">§ 12. </em>Lønarlíknandi og tíðaravmarkaðar almannaveitingar fara frameftir at vera eftirlønargevandi. Sama verður galdandi fyri útgjald úr Barsilsskipanini, ALS-skipanini og fyri minstuløn úr Trygdargrunninum. <em type="italic">Stk. 2. </em>Bundna eftirlønargjaldið verður lagt afturat veitingunum, soleiðis at tær ikki lækka. </p>
+<p><em type="bold">Nøktandi óarbeiðsføristrygging/óarbeiðsførisveiting </em><em type="bold">§ 13. </em>Tryggjast skal, at allir føroyingar fáa nøktandi óarbeiðsføristrygging/óarbeiðsførisveiting. </p>
+<p><em type="bold">Stigvaksandi pensjónsskattur </em><em type="bold">§ 14. </em>Pensjónsskatturin verður broyttur frá 40% flatskatti til ein skatt, sum er stigvaksandi í skattskyldugari inntøku. <em type="italic">Stk. 2. </em>Er skattskylduga inntøkan í árinum kr. 235.000 ella lægri, verður rindað 30% av samlaða inngjaldinum sama árið. <em type="italic">Stk. 3. </em>Er skattskylduga inntøkan í árinum hægri enn kr. 235.000, men ikki hægri enn kr. 330.000, verður rindað 35% av samlaða inngjaldinum sama árið. <em type="italic">Stk. 4 </em>. Er skattskylduga inntøkan í árinum hægri enn kr. 330.000, verður rindað 40% av samlaða inngjaldinum sama árið <em type="bold"></em></p>
+<p><em type="bold">Gildiskomur </em><em type="bold">§ 15. </em>Uppskotini verða send í hoyring samtíðis og løgd fram fyri Løgtingið samtíðis. <em type="italic">Stk. 2. </em>Broytingarnar í lógini um Samhaldsfasta (§ 4) koma í gildi 1. juli 2018. <em type="italic">Stk. </em><em type="italic">3 </em>. Broytingarnar í Eftirlønarlógini (§§ 5, 12 og 14) koma í gildi 1. januar 2019. <em type="italic">Stk. 4. </em>Broytingar í almennu pensjónini (§§ 1-3, 6-9 og 11) og lógaruppskotið um sjálvvirkandi javning (§ 10) koma í gildi 1. januar 2020. Uppskotini verða send í almenna hoyring í november mánað. Lógaruppskotini verða viðgjørd sum ein heild. Tillagingar í mun til semjuna, ið partarnir gerast samdir um eftir hoyring, kunnu koma fyri, áðrenn lógaruppskotini samlað verða løgd fyri Løgtingið. 10 </p>
+<p>Tórshavn, 3. november 2017 <em type="bold">Vegna Sjálvstýri </em></p>
+<p><em type="bold">Vegna Framsókn </em></p>
+<p><em type="bold"></em>Jógvan Skorheim, formaður </p>
+<p>Hanna Jensen, næstforkvinna og løgtingskvinna</p>
+<p><em type="bold">Vegna Tjóðveldi </em></p>
+<p><em type="bold">Vegna Javnaðarflokkin </em></p>
+<p>Kristina Háfoss, landsstýriskvinna</p>
+<p>Eyðgunn Samuelsen, landsstýriskvinna 11 3. Lógaruppskot – yvirlit og samandráttir Pensjónsnýskipanin umfatar í alt 6 lógaruppskot. Trý uppskot eru frá Almannamálaráðnum og trý uppskot eru frá Fíggjarmálaráðnum. Uppskotini frá Almannamálaráðnum eru:  Uppskot til løgtingslóg um broyting í løgtingslóg um almannapensjónir o.a.  Uppskot til løgtingslóg um broyting í løgtingslóg um áseting og javning av almannaveitingum.  Uppskot til løgtingslóg um broyting í løgtingslóg um viðbót til ávísar pensiónistar v.fl.</p>
+<p>Uppskotini frá Fíggjarmálaráðnum eru:  Uppskot til løgtingslóg um broyting í løgtingslóg um eftirløn (Eftirlønarlógin)  Uppskot til løgtingslóg um broyting í løgtingslóg um arbeiðsmarknaðareftirlønargrunn (Samhaldsfasti)  Uppskot til løgtingslóg um um árligt javningarprosent til almannaveitingar</p>
+<p>Uppskot úr Almannamálaráðnum Uppskotini úr Almannamálaráðnum snúgva seg um broytingar í almennu pensjónunum. Talan er um broytingar í upphæddum, mótrokning og pensjónsaldri. Harumframt verður mælt til at seta í verk tvær nýggjar skipanir. Eina skipan við útsettari pensjón og eina við framskundaðari pensjón. Endamálið við nýggju skipanunum er at gera fólkapensjónina meira smidliga. <em type="italic">Tvær skipanir frá 2020 </em>Hjá teimum ið longu eru pensjónistar, ella gerast pensjónistar fyri 1. januar 2020, verða ongar broytingar framdar í almennu pensjónini. Tey halda fram við galdandi lóggávu. Tað vil siga, at allar broytingar niðanfyri einans eru galdandi fyri tey, ið gerast pensjónistar eftir 31. desember 2019. </p>
+<p>Samandráttur av broytingum í lóg um almannapensjónir o.a.:  <em type="italic">Pensjónsaldurin: </em>o Pensjónsaldurin hækkar upp í 67½ ár frá 2025 og upp í 68 ár frá 2030. o Pensjónsaldurin verður – frá 2035 og frameftir – dagførdur um so er, at væntað miðal lívsævi hækkar munandi. o Broyting í pensjónsaldri skal fráboðast við 10 ára freist. o Pensjónsaldrinum kann í mesta lagi broytast við hálvum ári hvørja ferð, og kann í mesta lagi broytast fimta hvørt ár.  <em type="italic">Mótrokning: </em>o Mótrokning í viðbót lækkar úr 60% niður í 40%. o Mótrokning í grundupphædd á 25% verður ásett. o Mótrokning millum hjún verður strikað. o Útgjald av forskattaðari lívrentu og lutaeftirløn, ið er inngoldin eftir 1. januar 2012, verður tald við í inntøkugrundarlagið fyri mótrokning. 12  <em type="italic">Nýggjar skipanir: </em>o Skipan við útsettari pensjón verður sett í verk. Tey, ið halda fram at arbeiða eftir pensjónsaldur, kunnu útseta fólkapensjónina, og so fáa hægri fólkapensjón tá tey fara á pensjón. o Skipan við framskundaðari pensjón verður sett í verk. Tey, ið av arbeiðsávum eru kropsliga ella sálarliga niðurslitin, kunnu fara á pensjón upp til 3 ár áðrenn fólkapensjónsaldur. </p>
+<p>Samandráttur av broytingum í lóg um áseting og javning av almannaveitingum.:  <em type="italic">Upphæddir: </em>o Skattafría grundupphæddin verður óbroytt 3.589 kr. um mánaðin fyri støk og 2.733 kr. um mánaðin fyri gift. o Skattskyldugu viðbøturnar verða lagdar saman til eina viðbót á 4.779 kr. um mánaðin fyri støk og 3.5737 kr. um mánaðin fyri gift.  <em type="italic">Mótrokning: </em>o Grundupphæddin verður mótrokningarfrí í aðrari árligari inntøku upp til 30.000 kr. o Viðbótin verður mótroknað tá grundupphæddin er uppi. Viðbótin verður í 2020 mótrokningarfrí í aðrari árligari inntøku upp til 202.300 kr. fyri støk og 161.200 kr. fyri gift. </p>
+<p>Samandráttur av broyting í lóg um viðbót til ávísar pensiónistar v.fl.:  Viðbót til ávísar pensjónistar (brennistuðul) verður ikki galdandi fyri tey í gerast fólkapensjónistar eftir 1. januar 2020.  Tey, ið longu eru pensjónistar, ella gerast pensjónistar fyri 1. januar 2020, hava tó framvegis rætt til brennistuðul um tey annars lúka treytirnar fyri mestu inntøku. 13</p>
+<p>Uppskot úr Fíggjarmálaráðnum Uppskotini úr Fíggjarmálaráðnum mæla til broytingar í Sahaldsfasta og í Eftirlønarlógini. Harumframt er eitt uppskot til eina nýggja lóg, sum skal áseta hvussu almannaveitingar skulu javnast frameftir.</p>
+<p>Samandráttur av broytingum í lóg um arbeiðsmarknaðareftirlønargrunn (Samhaldsfasti):  <em type="italic">Inngjaldið: </em>o Inngjaldið hækkar úr 2,25% upp í 2,5% frá 1. juli 2018. o Stk. 3. Inngjaldið hækkar úr 2,5% upp í 2,75% frá 1. januar 2019 o Stk. 4. Inngjaldið hækkar úr 2,75% upp í 3,0% frá 1. januar 2020 o Roknað verður við, at hækkingarnar – umframt árliga javningin á 3% - hava við sær, at mánaðarliga útgjaldið verður góðar 1.600 kr. hægri í 2020 enn í 2017.  <em type="italic">Rættur til útgjald úr samhaldsfasta: </em>o Rættur til útgjald úr samhaldsfasta verða dagførdar soleiðis, at tey, ið hava rindað inn í skipanina síðan byrjan, og eru búsitandi í Føroyum, fáa fult útgjald. o Fyri tey, sum eru búsitandi í Føroyum, verður samsvar millum rætt til fólkapensjón og rætt til útgjald úr Samhaldsfasta. o Persónar, sum arbeiða uttanlands, kunnu velja at verða undantiknir at gjalda til </p>
+<p>Samhaldsfasta um teir eru sosialt tryggjaðir uttanlands. Hetta er sbrt. norðurlendska sáttmálanum um sosiala trygging. Velja persónar ikki at gjalda til Samhaldsfasta missa teir rættin til samsvarandi útgjald úr Samhaldsfasta. o Útgjaldið úr Samhaldsfasta verður framhaldandi ikki mótroknað um pensjónistur hevur aðra inntøku. Útgjaldið verður framhaldandi tað sama, óansæð inntøku.  <em type="italic">Pensjónsaldur í Samhaldsfasta: </em>o Pensjónsaldurin í Samhaldsfasta verður framhaldandi tann sami sum fyri fólkapensjón. Broytist pensjónsaldurin fyri almannapensjón; broytist pensjónsaldurin í Samhaldsfasta samsvarandi. </p>
+<p>Samandráttur av broytingum í lóg um eftirløn (Eftirlønarlógin):  <em type="italic">Bundna eftirlønargjaldið: </em>o í staðin fyri at hækka við einum prosenti árliga upp í 15% frá 2029; hækkar gjaldið í staðin upp í 12% frá 2026. Tað vil siga, at bundna gjaldið lækkar 3%.  <em type="italic">Undantøk verða strikað: </em>o Rindast skal til eftirløn av flestu almennum veitingum og av útgjaldi úr ALS og trygdargrunninum hjá fiskimonnum. o Aldursmarkið fyri inngjald til egna pensjón, ið er 21 ár, verður avtikið. 14  <em type="italic">Felags ogn hjá hjúnafeløgum: </em>o Ásetingin um, at egin uppsparing er partur av felags búgvi í sambandi við hjúnaskilnað, verður styrkt. Bert sáttmáli um serogn kann gera, at vikið verður frá ásetingini.  <em type="italic">Pensjónsskattur: </em>o Pensjónsskatturin verður broyttur frá 40% flatskatti til ein skatt sum er stigvaksandi í skattskyldugari inntøku. o Tey við lágari inntøku koma at rinda 30%. o Tey við meðalinntøku koma at rinda 35%. o Tey við hægru inntøkunum koma framhaldandi at rinda 40%. </p>
+<p>Samandráttur av lóg um javningarprosent av almannaveitingum:  <em type="italic">Javning av almannaveitingum: </em>o Flestu almannaveitingar verða frameftir javnaðar við miðaltalinum av árligu gongdini í prístalinum og lønarvøkstrinum á almenna arbeiðsmarknaðinum. o Javnað verður tó í mesta lagi við lønarvøkstrinum o Javningin verður ongantíð negativ. Er miðaltalið minni enn null, verður ongin javning. 15 4. Samfelagsbúskaparligar avleiðingar av pensjónsnýskipan Í hesum brotinum verður sagt frá hvørjar avleiðingar nýskipanin verður mett at hava á samfelagsbúskapin. Mett verður um ávirkanina á almenna haldførið, og um avleiðingar fyri løntakaratalið og búskaparvøksturin. Eisini verður mett um fíggjarligu avleiðingarnar fyri landið og kommunurnar fyrstu árini. Men fyrst verður hugt nærri at broytingunum í fólkasamansetingini, ið eru fyri framman, og sagt verður frá gongdini í miðal lívsævi. Eisini verður hugt nærri at, í hvussu stóran mun tey eldru í dag eru á arbeiðsmarknaðinum. </p>
+<p>Gongdin í fólkasamansetingini Talið av fólki í fólkapensjónsaldri veksur skjótt hesi árini. Sum víst í mynd 1, veksur talið av fólki, sum eru 67 ár og eldri, við góðum 200 árliga.</p>
+<p>Mynd 1. Árligur vøkstur í tali av fólki eldri enn 67 ár</p>
+<p>Mynd 2. Tal av fólki 67 ár og eldri</p>
 <p>Vøksturin tók dik á seg í 2010, og stendst av, at stóra talið av fólki, sum fødd vóru tíðarskeiðið frá seinna heimsbardaga og fram til seinast í sekstiárunum, nú koma í fólkapensjónsaldurin.</p>
 <p>Roknað verður við, at stóri vøksturin heldur fram til umleið 2040, tá ið vøksturin brádliga hasar av í sambandi við, at tað nú koma árgangir inn, sum eru nakað færri í tali, og at stóru árgangirnir nú eru komnir til so høgan aldur, at tað av álvara fer at minka burturav teimum.</p>
 <p>Gongdin hevur við sær, at samlaða talið av fólki, ið eru 67 ár og eldri, fer at vaksa úr núverandi 7.500, upp í umleið 12.500.</p>
-<p>Frá umleið 2023 byrja stóru árgangirnir at gerast 80 ára gamlir, og hetta hevur við sær, at eisini talið av fólki 80 ár og eldri fer at vaksa væl skjótari enn í dag.</p>
-<p><em type="italic">Mynd 3.  </em></p>
-<p><em type="italic">Mynd 4.  </em></p>
-<p>Tal av fólki 80 ár og eldri, og tal 90 ár og eldri</p>
-<p>Aldursbýtið 1985-2060 í %.</p>
-<p>90+80+</p>
-<p>67+16-66 ár0-15 ár</p>
-<p>6.000</p>
-<p>70%</p>
-<p>5.000</p>
-<p>60%</p>
-<p>4.000</p>
-<p>50%</p>
-<p>40%</p>
-<p>3.000</p>
-<p>30%</p>
-<p>2.000</p>
-<p>20%</p>
-<p>1.000</p>
-<p>10%</p>
-<p>0%</p>
-<p>Í dag eru umleið 2.200 fólk, ið eru 80 ár og eldri. Væntandi veksur talið upp í næstan 6.000. Talið av fólki 90 ár og eldri fer vænta</p>
-<p>Samtíðis eru ikki útlit til vøkstur í talinum av fólki í teimum aldursbólkum, har fólk vanliga eru á arbeiðsmarknaðinum – heldur hinvegin.</p>
-<p>Roknað verður við, at talið av fólki, ið eru millum 16 ár og 66 ár fer at minka við umleið 50-150 persónum árliga. Henda minking hendir, samtíðis sum vøksturin í talinum av eldri er mestur, tí talið av fólki, sum árliga gerast 67 ár er nærum líka stórt, sum talið av teimum, ið gerast 16 ár, og harumframt er eisini ein munandi nettofráflyting í yngru aldursbólkunum á umleið 100 persónar árliga.</p>
-<p>Gongdin fer at hava við sær, at aldursbýtið í fólkinum fer at broytast, soleiðis at fólkasamansetingin eldist. Talan er ikki um nakað fyribils fyribrigdi, men um eina varandi broyting. Skuldi tað hent, at fráflytingin økist, føðitíttleikin fellur, ella miðal livitíðin økist meira enn væntað, so fer samansetingin at eldast uppaftur meira.</p>
-<p>Tey 16-66 ára gomlu hava í mong ár verið umleið 63-64% av fólkinum, tey verða í framtíðini 5556%. Tey undir 16 ár eru í dag 23% av fólkinum, teirra partur minkar niður í gott 20%.</p>
-<p>Hinvegin fara tey 67 ár og eldri at gerast ein munandi størri partur. Tey eru í dag umleið 15% av fólkinum, men í framtíðini verður næstan fjórði hvør føroyingur omanfyri 66 ár.</p>
-<p>Aldurbýtið hevur beinleiðis ávirkan bæði á almennu útreiðslurnar og almennu inntøkurnar. Sum heild kann sigast, at tey í arbeiðsførum aldri – í meðal – hava við sær eina nettoinntøku fyri tað almenna, meðan tey heilt ungu og tey eldru – í meðal – hava við sær eina nettoútreiðslu.</p>
+<p>Frá umleið 2023 byrja stóru árgangirnir at gerast 80 ára gamlir, og hetta hevur við sær, at eisini talið av fólki 80 ár og eldri fer at vaksa væl skjótari enn í dag. -75-50-25025507510012515017520022525027519901995200020052010201520202025203020352040204520502055206001.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.000198519901995200020052010201520202025203020352040204520502055206016</p>
+<p>Mynd 3. Tal av fólki 80 ár og eldri, og tal 90 ár og eldri</p>
+<p>Mynd 4. Aldursbýtið 1985-2060 í %.</p>
+<p>Í dag eru umleið 2.200 fólk, ið eru 80 ár og eldri. Væntandi veksur talið upp í næstan 6.000. Talið av fólki 90 ár og eldri fer væntandi at fýrfaldast úr úr núverandi 400 og upp í 1.600 fólk. Talið av fólki í røktarkrevjandi aldri fer sostatt at vaksa munandi komandi árini. Samtíðis eru ikki útlit til vøkstur í talinum av fólki í teimum aldursbólkum, har fólk vanliga eru á arbeiðsmarknaðinum – heldur hinvegin. Roknað verður við, at talið av fólki, ið eru millum 16 ár og 66 ár fer at minka við umleið 50-150 persónum árliga. Henda minking hendir, samtíðis sum vøksturin í talinum av eldri er mestur, tí talið av fólki, sum árliga gerast 67 ár er nærum líka stórt, sum talið av teimum, ið gerast 16 ár, og harumframt er eisini ein munandi nettofráflyting í yngru aldursbólkunum á umleið 100 persónar árliga. Gongdin fer at hava við sær, at aldursbýtið í fólkinum fer at broytast, soleiðis at fólkasamansetingin eldist. Talan er ikki um nakað fyribils fyribrigdi, men um eina varandi broyting. Skuldi tað hent, at fráflytingin økist, føðitíttleikin fellur, ella miðal livitíðin økist meira enn væntað, so fer samansetingin at eldast uppaftur meira. Tey 16-66 ára gomlu hava í mong ár verið umleið 63-64% av fólkinum, tey verða í framtíðini 55-56%. Tey undir 16 ár eru í dag 23% av fólkinum, teirra partur minkar niður í gott 20%. Hinvegin fara tey 67 ár og eldri at gerast ein munandi størri partur. Tey eru í dag umleið 15% av fólkinum, men í framtíðini verður næstan fjórði hvør føroyingur omanfyri 66 ár. Aldurbýtið hevur beinleiðis ávirkan bæði á almennu útreiðslurnar og almennu inntøkurnar. Sum heild kann sigast, at tey í arbeiðsførum aldri – í meðal – hava við sær eina nettoinntøku fyri tað almenna, meðan tey heilt ungu og tey eldru – í meðal – hava við sær eina nettoútreiðslu. 01.0002.0003.0004.0005.0006.000198519901995200020052010201520202025203020352040204520502055206090+80+0%10%20%30%40%50%60%70%198519901995200020052010201520202025203020352040204520502055206067+16-66 ár0-15 ár17</p>
 <p>At talið av fólki í arbeiðsførum aldri minkar lutfalsliga í mun til hinar aldurbólkarnar, hevur tí við sær, at almennu inntøkurnar minka lutfalsliga í mun til almennu útreiðslurnar, og fíggjarliga haldførið í almenna búskapinum versnar.</p>
-<p><em type="italic">Mynd 5. </em>Lutfall millum talið av fólki 16-66 ár </p>
-<p>og tal av fólki 67 ár og eldri</p>
-<p><em type="italic">Mynd 6. </em>Lutfall millum talið av fólki 16-66 ár </p>
-<p>og tal fólki ið eru 0-15 ár og omanfyri 67 ár</p>
-<p>Mynd 6 vísur lutfallið millum talið av persónum, sum eru 16-66 ára gamlir, og talið av persónum yvir 66 ár. Í 1985 vóru 6,7 fólk í arbeiðsførum aldri í mun til hvønn persón yvir 66 ár. Í dag er lutfallið lækkað niður í 4,1, og fer væntandi at lækka niður í 2,4 komandi árini.</p>
-<p>Verður hinvegin hugt at samlaða forsyrgjaralutfallinum, tað vil siga, tey 16-66 ára gomlu í mun til tey omanfyri 66 ár og tey undir 16 ár, so hevur gongdin higartil verið ein onnur. Lutfallið hevur verið støðugt á umleið 1,7 frá 1985 til í dag, men fer væntandi at lækka niður í 1,2 komandi árini.</p>
-<p>Væntað áramál sum pensjónistur økist støðugt</p>
-<p>Fólkapensjónsaldurin í Føroyum hevur altíð verið 67 ár. Hinvegin er væntað miðal lívsævi hjá 67 ára gomlum økt munandi seinnu árini, og roknað verður við, at hesin vøkstur heldur fram.</p>
-<p>Hetta hevur við sær, at tíðarskeiðið sum pensjónistur gerst alsamt longur, um ikki pensjónsaldurin verður dagførdur støðugt.</p>
-<p>Í 1985 kundu 67 ára gomul rokna við at liva í miðal 14 ár afturat. Í dag kunnu tey rokna við at liva næstan 19 ár afturat, og í 2060 verður roknað við, at 67 ára gomul koma at liva í miðal 22,7 ár afturat.</p>
-<p><em type="italic">Mynd 7. </em>Væntað áramál sum pensjónist um </p>
-<p>pensjónsaldur verður verandi 67 ár.</p>
-<p>Eisini má havast í huga, at fólk í dag í miðal eru væl longur undir útbúgving enn fyrr, og harvið koma væl seinni út á arbeiðsmarknaðin. Harumframt er tímatalið, ið arbeitt verður, eisini stytt í mun til fyrr, bæði við at arbeiðsvikan er stytt, og við at talið av feriuvikum er økt. Sigast kann tí, at arbeiðslívið í dag er ein væl styttri partur av lívinum enn fyrr. Eisini hetta minkar beinleiðis um almennu inntøkurnar.</p>
-<p>Tey omanfyri 67 ár og arbeiðsmarknaðurin</p>
-<p>Tað vísir seg, at tey, sum eru 67 ár og eldri eru rættiliga aktiv á arbeiðsmarknaðinum.</p>
-<p>Umleið helvtin av teimum 67 ára gomlu eru løntakarar og fyri tey 68 ára gomlu er talan um meira enn 40%.</p>
-<p>Sum víst niðanfyri, so er munurin millum 67 og 66 ára gomul ikki so stór sum ein beinanvegin skuldi trúð. Av teimum 66 ára gomlu eru 60% løntakarar, fyri 67 ára gomul er talan um 50%, so tað sær ikki út til, at so nógv fara frá júst tá tey fylla 67 ár.</p>
-<p><em type="italic">Mynd 8. </em>Løntakarar í mun til aldur.  </p>
-<p>Persónar 60-74 ár.</p>
-<p><em type="italic">Mynd 9. </em>Miðalløn í 1000 kr. um mánaðin. </p>
-<p>Persónar 60-74 ár, ið eru løntakarar.</p>
-<p>90,0%</p>
-<p>80,0%</p>
-<p>70,0%</p>
-<p>60,0%</p>
-<p>50,0%</p>
-<p>40,0%</p>
-<p>30,0%</p>
-<p>20,0%</p>
-<p>10,0%</p>
-<p>0,0%</p>
-<p>60 61 62 63 64 65 66 67 68 69 70 71 72 73 74</p>
-<p>60 61 62 63 64 65 66 67 68 69 70 71 72 73 74</p>
-<p>Somuleiðis arbeiða tey rættiliga nógv. Tey sum eru 67, 68 og 69 ára gomul, og eru á arbeiðsmarknaðinum, hava eina miðalløn á 22–23 tús. kr. um mánaðin. Tað vil siga, at serliga fyrstu 3 árini eftir pensjónsaldur standa tey lítið aftanfyri hini, tá tað kemur til miðalløn. Tey sum arbeiða, arbeiða sostatt rættiliga nógv í miðal.</p>
-<p>Versnandi haldføri vegna vaksandi pensjónsútreiðslur</p>
-<p>Skulu almennu pensjónirnar og útgjaldið frá samhaldsfasta varðveitast á sama støði sum í dag, hevur vaksandi talið av eldri við sær, at samlaðu útreiðslurnar til pensjón fara at økjast við góðum 600 mió. kr. komandi 20 árini.</p>
-<p>Pensjónsútreiðslur, vøkstur</p>
-<p>Skattur av pensjónum, vøkstur</p>
-<p xml:lang="dan">Útreiðsluvøkstur, netto</p>
+<p>Mynd 5. Lutfall millum talið av fólki 16-66 ár og tal av fólki 67 ár og eldri</p>
+<p>Mynd 6. Lutfall millum talið av fólki 16-66 ár og tal fólki ið eru 0-15 ár og omanfyri 67 ár</p>
+<p>Mynd 6 vísur lutfallið millum talið av persónum, sum eru 16-66 ára gamlir, og talið av persónum yvir 66 ár. Í 1985 vóru 6,7 fólk í arbeiðsførum aldri í mun til hvønn persón yvir 66 ár. Í dag er lutfallið lækkað niður í 4,1, og fer væntandi at lækka niður í 2,4 komandi árini. Verður hinvegin hugt at samlaða forsyrgjaralutfallinum, tað vil siga, tey 16-66 ára gomlu í mun til tey omanfyri 66 ár og tey undir 16 ár, so hevur gongdin higartil verið ein onnur. Lutfallið hevur verið støðugt á umleið 1,7 frá 1985 til í dag, men fer væntandi at lækka niður í 1,2 komandi árini. 6,76,35,25,25,45,14,43,83,42,92,62,42,32,32,42,419851990199520002005201020152020202520302035204020452050205520601,71,81,71,71,71,81,71,61,51,41,31,31,21,21,31,2198519901995200020052010201520202025203020352040204520502055206018</p>
+<p>Væntað áramál sum pensjónistur økist støðugt Fólkapensjónsaldurin í Føroyum hevur altíð verið 67 ár. Hinvegin er væntað miðal lívsævi hjá 67 ára gomlum økt munandi seinnu árini, og roknað verður við, at hesin vøkstur heldur fram. Hetta hevur við sær, at tíðarskeiðið sum pensjónistur gerst alsamt longur, um ikki pensjónsaldurin verður dagførdur støðugt. Í 1985 kundu 67 ára gomul rokna við at liva í miðal 14 ár afturat. Í dag kunnu tey rokna við at liva næstan 19 ár afturat, og í 2060 verður roknað við, at 67 ára gomul koma at liva í miðal 22,7 ár afturat.</p>
+<p>Mynd 7. Væntað áramál sum pensjónist um pensjónsaldur verður verandi 67 ár.</p>
+<p>Eisini má havast í huga, at fólk í dag í miðal eru væl longur undir útbúgving enn fyrr, og harvið koma væl seinni út á arbeiðsmarknaðin. Harumframt er tímatalið, ið arbeitt verður, eisini stytt í mun til fyrr, bæði við at arbeiðsvikan er stytt, og við at talið av feriuvikum er økt. Sigast kann tí, at arbeiðslívið í dag er ein væl styttri partur av lívinum enn fyrr. Eisini hetta minkar beinleiðis um almennu inntøkurnar. 14,014,415,115,616,217,418,419,019,520,020,521,021,421,922,322,7198519901995200020052010201520202025203020352040204520502055206019</p>
+<p>Tey omanfyri 67 ár og arbeiðsmarknaðurin Tað vísir seg, at tey, sum eru 67 ár og eldri eru rættiliga aktiv á arbeiðsmarknaðinum. Umleið helvtin av teimum 67 ára gomlu eru løntakarar og fyri tey 68 ára gomlu er talan um meira enn 40%. Sum víst niðanfyri, so er munurin millum 67 og 66 ára gomul ikki so stór sum ein beinanvegin skuldi trúð. Av teimum 66 ára gomlu eru 60% løntakarar, fyri 67 ára gomul er talan um 50%, so tað sær ikki út til, at so nógv fara frá júst tá tey fylla 67 ár.</p>
+<p>Mynd 8. Løntakarar í mun til aldur. Persónar 60-74 ár.</p>
+<p>Mynd 9. Miðalløn í 1000 kr. um mánaðin. Persónar 60-74 ár, ið eru løntakarar.</p>
+<p>Somuleiðis arbeiða tey rættiliga nógv. Tey sum eru 67, 68 og 69 ára gomul, og eru á arbeiðsmarknaðinum, hava eina miðalløn á 22–23 tús. kr. um mánaðin. Tað vil siga, at serliga fyrstu 3 árini eftir pensjónsaldur standa tey lítið aftanfyri hini, tá tað kemur til miðalløn. Tey sum arbeiða, arbeiða sostatt rættiliga nógv í miðal. 0,0%10,0%20,0%30,0%40,0%50,0%60,0%70,0%80,0%90,0%60 61 62 63 64 65 66 67 68 69 70 71 72 73 740510152025303560 61 62 63 64 65 66 67 68 69 70 71 72 73 7420</p>
+<p>Versnandi haldføri vegna vaksandi pensjónsútreiðslur Skulu almennu pensjónirnar og útgjaldið frá samhaldsfasta varðveitast á sama støði sum í dag, hevur vaksandi talið av eldri við sær, at samlaðu útreiðslurnar til pensjón fara at økjast við góðum 600 mió. kr. komandi 20 árini. 2025 2030 2035 2040 2045 2050 2055 2060</p>
+<p>Pensjónsútreiðslur, vøkstur 229 359 499 575 624 639 618 626</p>
+<p>Skattur av pensjónum, vøkstur 76 120 166 192 208 213 206 209</p>
+<p xml:lang="dan">Útreiðsluvøkstur, netto 153 239 333 383 416 426 412 417</p>
 <p>Útreiðsluvøkstur, netto í mun til BTÚ 0,9% 1,4% 2,1% 2,4% 2,6% 2,7% 2,6% 2,6%</p>
-<p>Verður tikið hædd fyri, at pensjónistarnir rinda ein part av pensjónini aftur í almennu kassarnar í skatti og avgjøldum, verður samlaði vøksturin tó umleið ein triðing minni. Roknað verður tí samanlagt við, at almenna haldførið versnar komandi árini, við tí sum í dagsins krónum samsvarar við góðar 400 mió. kr. árliga. Hetta hevur við sær, at samlaða almenna úrslitið – alt annað líka – versnar við umleið 2,6% av BTÚ.</p>
-<p>Gjørt verður vart við, at talan er einans um ávirkan á haldføri vegna pensjónsútreiðslur. Tá er ikki tikið hædd fyri, at økta talið av eldri eisini hevur stóran útreiðsluvøkstur við sær, serliga innan heilsu- og almannaverk. Heldur ikki er tikið hædd fyri, at minkandi talið av fólki í arbeiðsførum aldri, fer at minka um skattainntøkurnar. Útreiðslur til pensjónir eru sostatt bert ein partur av avbjóðingini, sum broytta aldursbýtið hevur við sær fyri almenna haldførið – pensjónsútreiðslurnar eru helst minni parturin.</p>
-<p>Ávirkan á almenna haldførið</p>
-<p>Mett verður, at uppskotið til pensjónsnýskipan bøtir munandi um fíggjarliga haldførið sum frá líður.</p>
-<p>Betran av haldføri í 2016-kr.</p>
+<p>Verður tikið hædd fyri, at pensjónistarnir rinda ein part av pensjónini aftur í almennu kassarnar í skatti og avgjøldum, verður samlaði vøksturin tó umleið ein triðing minni. Roknað verður tí samanlagt við, at almenna haldførið versnar komandi árini, við tí sum í dagsins krónum samsvarar við góðar 400 mió. kr. árliga. Hetta hevur við sær, at samlaða almenna úrslitið – alt annað líka – versnar við umleið 2,6% av BTÚ. Gjørt verður vart við, at talan er einans um ávirkan á haldføri vegna pensjónsútreiðslur. Tá er ikki tikið hædd fyri, at økta talið av eldri eisini hevur stóran útreiðsluvøkstur við sær, serliga innan heilsu- og almannaverk. Heldur ikki er tikið hædd fyri, at minkandi talið av fólki í arbeiðsførum aldri, fer at minka um skattainntøkurnar. Útreiðslur til pensjónir eru sostatt bert ein partur av avbjóðingini, sum broytta aldursbýtið hevur við sær fyri almenna haldførið – pensjónsútreiðslurnar eru helst minni parturin.</p>
+<p>Ávirkan á almenna haldførið Mett verður, at uppskotið til pensjónsnýskipan bøtir munandi um fíggjarliga haldførið sum frá líður. 2025 2030 2035 2040 2045 2050 2055 2060</p>
+<p>Betran av haldføri í 2016-kr. 110 193 286 367 452 540 615 733</p>
 <p>Betran av haldføri í mun til BTÚ 0,6% 1,1% 1,6% 2,1% 2,6% 3,0% 3,4% 4,0%</p>
-<p>Sum víst omanfyri, so verður roknað við, at nýskipanin betrar haldførið stigvíst komandi 40 árini. Í 2060 verður mett, at nýskipanin bøtir um fíggjarliga haldførið við eini upphædd, sum samsvarar við góðar 700 mió. kr. í dagsins krónum. Talan verður um umleið 4% av BTÚ.</p>
-<p>Ávirkan á talið av fólkapensjónistum</p>
-<p>Hægri pensjónsaldur hevur við sær at færri verða pensjónistar enn annars. Men tó lækkar talið ikki so nógv sum ein beinanvegin skuldi trúð. Tí roknast má við at ein munandi partur fer at fáa aðra almenna pensjón í staðin.</p>
-<p><em type="bold">Mynd 10. </em>Tal av pensjónistum omanfyri 67 ár<em type="bold"> </em>– við og uttan nýskipan </p>
-<p>14.000</p>
-<p>13.000</p>
-<p>12.000</p>
-<p>11.000</p>
-<p>10.000</p>
-<p>9.000</p>
-<p>8.000</p>
-<p>7.000</p>
-<p>6.000</p>
-<p>5.000</p>
-<p>4.000</p>
-<p>3.000</p>
-<p>2.000</p>
-<p>1.000</p>
-<p>Tal 67+ uttan nýskipanTal 67+ við nýskipanFramskundað pensjónTal í alt - við nýskipan</p>
-<p>Roknað verður við, at talið av fólkapensjónistum vildi vaksi úr núverandi 7.500 og upp í 12.500 uttan nýskipan. Við nýskipan veksur talið í staðin upp í gott 11.000, tá tað er mest. Men verður tikið við, at ein partur fer at fáa framskundaða pensjón í staðin fyri fólkapensjón, so verður samlaði vøksturin nakað størri. Roknað verður við umleið 11.500 pensjónistum samanlagt, tá talið er mest.</p>
-<p>Ávirkan á arbeiðsmarknaðin</p>
-<p>Hækking í pensjónsaldrinum hevur við sær eitt størri løntakaratal enn annars. Roknað verður við, at nýskipanin hevur við sær, at tað fer at bera til at varðveita núverandi løntakaratal, og kanska helst eisini økja um talið sum frálíður.</p>
+<p>Sum víst omanfyri, so verður roknað við, at nýskipanin betrar haldførið stigvíst komandi 40 árini. Í 2060 verður mett, at nýskipanin bøtir um fíggjarliga haldførið við eini upphædd, sum samsvarar við góðar 700 mió. kr. í dagsins krónum. Talan verður um umleið 4% av BTÚ. 21</p>
+<p>Ávirkan á talið av fólkapensjónistum Hægri pensjónsaldur hevur við sær at færri verða pensjónistar enn annars. Men tó lækkar talið ikki so nógv sum ein beinanvegin skuldi trúð. Tí roknast má við at ein munandi partur fer at fáa aðra almenna pensjón í staðin.</p>
+<p><em type="bold">Mynd 10. </em>Tal av pensjónistum omanfyri 67 ár <em type="bold"></em>– við og uttan nýskipan </p>
+<p>Roknað verður við, at talið av fólkapensjónistum vildi vaksi úr núverandi 7.500 og upp í 12.500 uttan nýskipan. Við nýskipan veksur talið í staðin upp í gott 11.000, tá tað er mest. Men verður tikið við, at ein partur fer at fáa framskundaða pensjón í staðin fyri fólkapensjón, so verður samlaði vøksturin nakað størri. Roknað verður við umleið 11.500 pensjónistum samanlagt, tá talið er mest. 01.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.00020162018202020222024202620282030203220342036203820402042204420462048205020522054205620582060</p>
+<p>Tal 67+ uttan nýskipan</p>
+<p>Tal 67+ við nýskipan</p>
+<p>Framskundað pensjón</p>
+<p>Tal í alt - við nýskipan22</p>
+<p>Ávirkan á arbeiðsmarknaðin Hækking í pensjónsaldrinum hevur við sær eitt størri løntakaratal enn annars. Roknað verður við, at nýskipanin hevur við sær, at tað fer at bera til at varðveita núverandi løntakaratal, og kanska helst eisini økja um talið sum frálíður.</p>
 <p><em type="bold">Mynd 11. </em>Løntakaratal – við og uttan nýskipan </p>
-<p>26.000</p>
-<p>25.500</p>
-<p>25.000</p>
-<p>24.500</p>
-<p>24.000</p>
-<p>23.500</p>
-<p>23.000</p>
-<p>Løntakarar uttan nýskipanLøntakarar við nýskipan</p>
-<p>Sum víst á myndini omanfyri, so verður roknað við, at løntakaratalið fer at minka við umleið 1.000 persónum komandi árini, um ongar broytingar verða gjørdar. Við pensjónsnýskipan verður mett, at talið verður varðveitt fyrstu árini, meðan tað enntá hækkar sum frálíður.</p>
-<p>Hetta hevur við sær øktar skattainntøkur fyri tað almenna.</p>
-<p>Ávirkan á BTÚ</p>
-<p>Mett verður, at pensjónsnýskipanin skapar búskaparvøkstur. Vøksturin í løntakaratalinum hevur við sær, at BTÚ verður 6,4% størri í 2060 enn tað vildi verði uttan nýskipan.</p>
-<p>BTÚ – hækking vegna nýskipan 0,7% 1,5% 2,5% 3,3% 4,0% 4,7% 5,3% 6,4%</p>
-<p>Samlað ávirkan á Landskassan</p>
-<p>Roknað verður við, at nýskipanin hevur við sær nakað av meirkostnað fyri landskassan at byrja við. Men sum frálíður verður roknað við vaksandi meirinntøkum. Roknað verður við meirinntøkum á 13 mió. kr. í 2025 og 78 mió. kr. í 2030.</p>
-<p><em type="italic">Mió. kr. </em></p>
-<p>Broytingar í Fólkapensjón, netto          Samhaldsfasti        Eftirlønarlógin  - - - - -  Meirútreiðslur fyritíðarpensjón, netto           - - Øktar lønargjaldingar – skattur og avgjøld</p>
-<p><em type="bold">Tilsamans  - - - -   </em></p>
+<p>Sum víst á myndini omanfyri, so verður roknað við, at løntakaratalið fer at minka við umleið 1.000 persónum komandi árini, um ongar broytingar verða gjørdar. Við pensjónsnýskipan verður mett, at talið verður varðveitt fyrstu árini, meðan tað enntá hækkar sum frálíður. Hetta hevur við sær øktar skattainntøkur fyri tað almenna.</p>
+<p>Ávirkan á BTÚ Mett verður, at pensjónsnýskipanin skapar búskaparvøkstur. Vøksturin í løntakaratalinum hevur við sær, at BTÚ verður 6,4% størri í 2060 enn tað vildi verði uttan nýskipan. 2025 2030 2035 2040 2045 2050 2055 2060</p>
+<p>BTÚ – hækking vegna nýskipan 0,7% 1,5% 2,5% 3,3% 4,0% 4,7% 5,3% 6,4% 23.00023.50024.00024.50025.00025.50026.00020162018202020222024202620282030203220342036203820402042204420462048205020522054205620582060</p>
+<p>Løntakarar uttan nýskipan</p>
+<p>Løntakarar við nýskipan23</p>
+<p>Samlað ávirkan á Landskassan Roknað verður við, at nýskipanin hevur við sær nakað av meirkostnað fyri landskassan at byrja við. Men sum frálíður verður roknað við vaksandi meirinntøkum. Roknað verður við meirinntøkum á 13 mió. kr. í 2025 og 78 mió. kr. í 2030.</p>
+<p>Mió. kr. 2 01 8 2 01 9 2 02 0 2 02 1 2 02 2 2 02 5 2 03 0</p>
+<p>Broytingar í Fólkapensjón, netto 3 4 5 22 40</p>
+<p>Samhaldsfasti 1 2 4 4 4 5 7</p>
+<p>Eftirlønarlógin 0 -9 -11 -13 -15 -21 9</p>
+<p>Meirútreiðslur fyritíðarpensjón, netto -11 -20</p>
+<p>Øktar lønargjaldingar – skattur og avgjøld 18 42</p>
+<p><em type="bold">Tilsamans </em><em type="bold">1 </em><em type="bold">-7 </em><em type="bold">-5 </em><em type="bold">-5 </em><em type="bold">-6 </em><em type="bold">13 </em><em type="bold">78 </em></p>
 <p>Roknað verður við, at broytingar í mótrokning og samanseting av fólkapensjónini hava við sær eina sparing á 3 mió. kr. í 2020. Roknað verður við vaksandi upphædd, so hvørt fleiri fáa nýggja pensjón, eisini hækkingar í pensjónsaldrinum í 2025 og 2030 økja um talið. Roknað verður við 22 mió. kr. í 2025 og 40 mió. kr. í 2030.</p>
 <p>Broytingarnar Samhaldsfasta hava við sær meirinntøkur fyri landið. Hóast landið sum arbeiðsgevari kemur at rinda eitt hægri inngjald, so hevur økta útgjaldið við sær hægri skattainntøkur. Roknað verður við 1 mió. kr. í 2018, vaksandi upp í 7 mió. kr. í 2030.</p>
 <p>Broytingarnar í eftirlønarlógini hava við sær meirkostnað at byrja við, men meirinntøku sum frálíður. Roknað verður við meirkostnaði á 21 mió. kr. í 2025 og meirinntøku á 9 mió. kr. í 2030.</p>
 <p>Hækking í pensjónsaldrinum økir um útreiðslurnar til fyritíðarpensjón. Roknað verður við meirútreiðslu á 11 mió. kr. í 2025 og 20 mió. kr. í 2030. Talan er um nettokostnað, eftir skatt.</p>
-<p>Harumframt verður roknað við øktum inntøkum frá skatti og avgjøldum í sambandi við, at pensjónsaldurin hækkar. Hægri pensjónsaldur økir um lønargjaldingarnar og harvið um inntøkurnar. Roknað verður við 18 mió. kr. meira í 2025, og at talið hækkar upp í 42 mió. kr. í 2030.</p>
-<p>Samlað ávirkan á Kommunurnar</p>
-<p>Roknað verður við, at pensjónsnýskipanin samanlagt verður til fíggjarligan fyrimun fyri kommunurnar sum frálíður. Fyrstu árini javnviga m</p>
-<p><em type="italic">Mió. kr.  </em></p>
-<p>Broytingar í Samhaldsfasta</p>
-<p>Broytingar í Eftirlønarlógini 0  -14  -14  -13  -13  -13  -12  -12  -12  -20  -29  -37  -37</p>
-<p>Broytingar í fólkapensjón</p>
-<p><em type="bold">Kommunurnar tilsamans  -            </em></p>
-<p><em type="italic">Vegna broytingar í fólkapensjón </em></p>
-<p>Broytingarnar í viðbót og mótrokning hava við sær vaksandi skattainntøkur til kommunurnar, so hvørt talið av pensjónistum í nýggju skipanini veksur. Orsøkin er, at frameftir verður skattafría grundupphæddin mótroknað áðrenn skattskylduga viðbótin. Eisini hækkar skattskylduga viðbótin í sambandi við, at skattafríi brennistuðulin fellur burtur fyri komandi pensjónistar. Hetta hevur við sær at munandi meira verður útgoldið av viðbót til nýggjar pensjónistar, og talið veksur so líðandi, so hvørt sum fleiri pensjónistar verða fevndir av nýggju skipanini. Í 2030 verður helst talan um umleið 14 mió. kr. í meira í kommunuskatti vegna broytta mótrokning og størri viðbót.</p>
-<p>Harumframt verður roknað við øktum kommunuskatti í sambandi við at pensjónsaldurin hækkar. Hægri pensjónsaldur økir um lønargjaldingarnar og harvið um inntøkurnar. Roknað verður við 11 mió. kr. meira í kommunuskatti í 2025, og at talið hækkar upp í 26 mió. kr. í 2030.</p>
-<p>Samanlagt verður roknað við, at talan verður um meirinntøku á 40 mió. kr. í 2030 vegna broytingar í fólkapensjón.</p>
-<p><em type="italic">Mió. kr.  </em></p>
-<p>Broytt viðbót og mótrokning</p>
-<p>Pensjónsaldur - lønargjaldingar</p>
-<p><em type="bold">Tilsamans - fólkapensjón               </em></p>
-<p><em type="italic">Vegna broytingar í Eftirlønarlógini </em></p>
-<p>Kommunurnar fáa allan skattin av pensjónsinngjøldum. Stigvísur pensjónsskattur kemur væntandi at kosta kommununum umleið 23 mió. kr. í 2019. Roknað verður við, at talið hækkar upp í 32 mió. kr. frá 2026.</p>
-<p>At inngjaldið lækkar niður í 12%, minkar um inntøkurnar frá pensjónsskatti við umleið 17 mió. kr. í 2027 og roknað verður við, at talið hækkar upp í 50 mió. kr. frá 2029. Hinvegin hevur minni inngjald til pensjón við sær minni frádrátt í skattskyldugu inntøkuni, og tað økir um inntøkurnar frá kommunuskatti. Roknað verður við 8 mió. kr. í 2027, vaksandi upp í 25 mió. kr. frá 2029.</p>
-<p>At undantøkini fækka økir um pensjónsinngjøldini, og tað veksur um inntøkurnar frá pensjónsskatti. Roknað verður við 7 mió. kr. í 2019 vaksandi upp í 14 mió. kr. frá 2026.</p>
-<p>At aldursmarkið verður strikað økir um inntøkurnar frá pensjónsskatti, men minkar um inntøkurnar frá kommunuskatti. Roknað verður við, at inntøkurnar frá pensjónsskatti í hesum sambandi hækka við 5 mió. kr. í 2019, vaksandi til 12 mió. kr. frá 2026. Hinvegin hevur tað eisini við sær minni kommunuskatt. Roknað verður við, at inntøkurnar frá kommunuskatti minka við 3 mió. kr. í 2019, og talið veksur upp í 6 mió. kr. frá 2026.</p>
-<p>Harumframt koma kommunurnar eftir ætlan at rinda eftirlønargjald av samsýning fyri ansing av eldri og óhjálpnum persónum. Hendan samsýning er millum undantøkini, sum ætlanin er at strikað.</p>
-<p>Samanlagt verður roknað við, at broytingar í eftirlønarlógini fara at hava við sær minni inntøkur til kommunuarnar á umleið 12-14 mió. kr. fyrstu árini, og at talið veksur upp í umleið 37 mió. kr. frá 2029.</p>
-<p><em type="italic">Mió. kr.  </em></p>
-<p>Stigvísur pensjónsskattur - - - - - - - - - - - -</p>
-<p>Inngjald lækkar til 12%  pensjónsskattur - - - -</p>
-<p>inngjald lækkar til 12% kommunuskattur Færri undantøk</p>
-<p>Aldursmark verður strikað pensjónsskattur Aldursmark verður strikað kommunuskattur - - - - - - - - - - - -</p>
-<p><em type="bold">Kommunur íalt - - - - - - - - - - - - </em></p>
-<p><em type="italic">Vegna broytingar í Samhaldsfasta </em></p>
-<p>Kommunurnar fáa fíggjarligan fyrimun av, at Samhaldsfasti hækkar. Hóast kommunurnar sum arbeiðsgevari koma at rinda eitt hægri inngjald, so hevur økta útgjaldið við sær hægri skattainntøkur frá teimum, sum fáa úr Samhaldsfasta.</p>
-<p>Roknað verður við meirinntøkum til kommunurnar á 2 mió. kr. í 2018. Arbeiðsgevaragjaldið økist knappar 4 mió. kr., men hinvegin vaksa skattainntøkurnar góðari 1 mió. kr.</p>
-<p>Sum frálíður verður talan um størri upphædd. Bæði tí at inngjaldið hækkar og tí at talið av pensjónistum økist. Roknað verður við samanlagt 14-19 mió. kr. árini frá 2020 til 2030.</p>
-<p><em type="italic">Mió. kr. </em></p>
-<p>Kommunuskattur</p>
-<p>Arbeiðsgevaragjald - - - - - - - - - - - - -</p>
-<p><em type="bold">Tilsamans - Samhaldsfasti              </em></p>
-<p>5. Ávirkan á einstaklingar</p>
-<p>Niðanfyri verður sagt frá fíggjarligu ávirkanini á einstaklingar. Hugt verður at, hvat pensjónistar fara at fáa útgoldið í 2020 í mun til í 2017, alt eftir hjúnastøðu og hvussu inntøkuviðurskiftini eru.</p>
-<p>Fyrst verður hugt at pensjónistum uttan egininntøku, tað vil siga tey, sum onga aðra inntøku hava enn fólkapensjón og Samhaldsfasta. Síðani verður hugt at, hvat tey fáa útgoldið, sum hava egininntøku.</p>
-<p>Í semjuni verður mælt til tvær skipanir frá 1. januar 2020. Tey ið fylla 67 ár eftir 31. desember 2019 verða fevnd av nýggju skipanini, meðan tey, sum longu eru pensjónistar, ella gerast pensjónistar áðrenn 1. januar 2020 halda fram í verandi skipan.</p>
-<p>Niðanfyri verður ávirkanin lýst bæði fyri tey í verandi skipan, og tey í nýggu skipan. Samanborið verður í báðum førum við 2017. Hetta er fyri at lýsa ávirkanina við og uttan pensjónsnýskipan.</p>
-<p>Stakur pensjónistur uttan egininntøku</p>
-<p>Stakir pensjónistar uttan egininntøku, fáa í 2017 útgoldið 10.284 kr. um mánaðin um roknað verður við miðal kommunuskattaprosentinum á 20,29% og vanliga kirkjuskattaprosentinum á 0,6%.</p>
-<p>Hækkingar í Samhaldsfasta fara at hava við sær, at mánaðarliga útgjaldið hækkar, soleiðis at tað verður 10.614 kr. í 2018, 10.954 kr. í 2019 og 11.307 kr. í 2020. Samanlagt fáa tey í verandi skipan (VS) eina hækking í mánaðarliga útgjaldinum á 1.023 kr. í 2020 í mun til 2017.</p>
-<p>Hjá teimum í nýggju skipan (NS) verður mánaðarliga útgjaldið 11.313 kr. í 2020 og sostatt áleið tað sama sum hjá teimum í verandi skipan.</p>
-<p>  <em type="italic">   2020 VS 2020 NS </em></p>
-<p>Grundupphædd (skattafrí) 3.589 3.589 3.589 3.589 3.589 Viðbót (skattskyldug) 3.771 3.771 3.771 3.771 4.779</p>
-<p>Brennistuðul (skattafríur)      Samhaldsfasti (skattskyldugur) 4.025 4.545 5.080 5.635 5.635</p>
-<p><em type="bold">Skattskyldug inntøka 7.796 8.316 8.851 9.406 10.414 </em></p>
-<p>Landsskattur      Kommunuskattur 1.075 1.180 1.289 1.401 1.606</p>
-<p>Kirkjuskattur      Gjald til Heilsutrygd</p>
-<p>Kringvarpsgjald</p>
-<p><em type="bold">Útgoldið um mánaðin 10.284 10.614 10.954 11.307 11.313 </em></p>
-<p><em type="bold">Vøkstur í mun til 2017  </em>  1.023 1.029 </p>
-<p>Sum víst omanfyri, so er munur á veitingunum í nýggju skipan og verandi skipan. Munurin er, at tey í nýggju skipan fáa ikki brennistuðul, tey fáa í staðin eina hægri viðbót. Men grundupphæddin er tann sama í báðum skipanum.</p>
-<p>Giftur pensjónistur uttan egininntøku</p>
-<p>Niðanfyri verður víst mánaðarliga útgjaldið hjá giftum pensjónisti. Talan er um giftan pensjónist, har hjúnafelagin eisini er pensjónistur, og hvørgin teirra hevur egininntøku. Hesi fáa útgoldið 8.641 kr. hvør um mánaðin í 2017.</p>
-<p>Giftir pensjónistar í verandi skipan fáa somu hækking sum stakir. Vegna hækkingar í Samhaldsfasta fáa tey hvør 1.023 kr. meira útgoldið í 2020 enn í 2017. Talan verður sostatt um 9.664 kr. um mánaðin í 2020.</p>
-<p>Hjá giftum pensjónisti í nýggju skipan verður mánaðarliga útgjaldið 9.668 kr. í 2020 og sostatt á</p>
-<p>  <em type="italic">   2020 VS 2020 NS </em></p>
-<p>Grundupphædd 2.733 2.733 2.733 2.733 2.733 Viðbót til fólkapensjón 3.031 3.031 3.031 3.031 3.537</p>
-<p>Brennistuðul      Samhaldsfasti 4.025 4.545 5.080 5.635 5.635</p>
-<p><em type="bold">Skattskyldug inntøka 7.056 7.576 8.111 8.666 9.172 </em></p>
-<p>Landsskattur      Kommunuskattur  1.030 1.138 1.251 1.354</p>
-<p>Kirkjuskattur      Gjald til Heilsutrygd</p>
-<p>Kringvarpsgjald</p>
-<p><em type="bold">Útgoldið um mánaðin 8.641 8.971 9.311 9.664 9.668 </em></p>
-<p><em type="bold">Vøkstur í mun til 2017  </em>  1.023 1.027 </p>
-<p>Sum víst omanfyri, so er eisini hjá giftum munur á, hvussu veitingarnar eru samansettar í nýggju skipan og verandi skipan. Munurin er tann sami sum fyri støk. Tey í nýggju skipan fáa ikki brennistuðul, tey fáa í staðin eina hægri viðbót. Men eisini hjá giftum er grundupphæddin tann sama í báðum skipanum.</p>
-<p>Stakur pensjónistur við egininntøku – verandi skipan</p>
-<p>Tá pensjónistar hava munandi egininntøku verður mótroknað í fólkapensjónini. Hjá stakum pensjónisti verður í 2017 mótroknað í viðbótini og í brennistuðlinum.</p>
+<p>Harumframt verður roknað við øktum inntøkum frá skatti og avgjøldum í sambandi við, at pensjónsaldurin hækkar. Hægri pensjónsaldur økir um lønargjaldingarnar og harvið um inntøkurnar. Roknað verður við 18 mió. kr. meira í 2025, og at talið hækkar upp í 42 mió. kr. í 2030. 24</p>
+<p>Samlað ávirkan á Kommunurnar Roknað verður við, at pensjónsnýskipanin samanlagt verður til fíggjarligan fyrimun fyri kommunurnar sum frálíður. Fyrstu árini javnviga meirinntøkurnar so nøkulunda við meirútreiðslurnar, men sum frálíður verður talan um eina munandi meirinntøku. Roknað verður við umleið 22 mió. kr. í 2030.</p>
+<p>Mió. kr. 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030</p>
+<p>Broytingar í Samhaldsfasta 2 10 14 15 15 16 17 16 17 18 18 19 18</p>
+<p>Broytingar í Eftirlønarlógini 0 -14 -14 -13 -13 -13 -12 -12 -12 -20 -29 -37 -37</p>
+<p>Broytingar í fólkapensjón 0 0 1 3 4 6 7 19 21 23 24 26 40</p>
+<p><em type="bold">Kommunurnar tilsamans </em><em type="bold">2 </em><em type="bold">-4 </em><em type="bold">2 </em><em type="bold">4 </em><em type="bold">7 </em><em type="bold">9 </em><em type="bold">11 </em><em type="bold">24 </em><em type="bold">26 </em><em type="bold">20 </em><em type="bold">14 </em><em type="bold">7 </em><em type="bold">22 </em></p>
+<p><em type="italic">Vegna broytingar í fólkapensjón </em>Broytingarnar í viðbót og mótrokning hava við sær vaksandi skattainntøkur til kommunurnar, so hvørt talið av pensjónistum í nýggju skipanini veksur. Orsøkin er, at frameftir verður skattafría grundupphæddin mótroknað áðrenn skattskylduga viðbótin. Eisini hækkar skattskylduga viðbótin í sambandi við, at skattafríi brennistuðulin fellur burtur fyri komandi pensjónistar. Hetta hevur við sær at munandi meira verður útgoldið av viðbót til nýggjar pensjónistar, og talið veksur so líðandi, so hvørt sum fleiri pensjónistar verða fevndir av nýggju skipanini. Í 2030 verður helst talan um umleið 14 mió. kr. í meira í kommunuskatti vegna broytta mótrokning og størri viðbót. Harumframt verður roknað við øktum kommunuskatti í sambandi við at pensjónsaldurin hækkar. Hægri pensjónsaldur økir um lønargjaldingarnar og harvið um inntøkurnar. Roknað verður við 11 mió. kr. meira í kommunuskatti í 2025, og at talið hækkar upp í 26 mió. kr. í 2030. Samanlagt verður roknað við, at talan verður um meirinntøku á 40 mió. kr. í 2030 vegna broytingar í fólkapensjón. </p>
+<p>Mió. kr. 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030</p>
+<p>Broytt viðbót og mótrokning 1 3 4 6 7 8 9 11 12 14 14</p>
+<p>Pensjónsaldur - lønargjaldingar 11 12 12 11 12 26</p>
+<p><em type="bold">Tilsamans - fólkapensjón </em><em type="bold">0 </em><em type="bold">1 </em><em type="bold">3 </em><em type="bold">4 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">19 </em><em type="bold">21 </em><em type="bold">23 </em><em type="bold">24 </em><em type="bold">26 </em><em type="bold">40 </em></p>
+<p><em type="italic">Vegna broytingar í Eftirlønarlógini </em>Kommunurnar fáa allan skattin av pensjónsinngjøldum. Stigvísur pensjónsskattur kemur væntandi at kosta kommununum umleið 23 mió. kr. í 2019. Roknað verður við, at talið hækkar upp í 32 mió. kr. frá 2026. At inngjaldið lækkar niður í 12%, minkar um inntøkurnar frá pensjónsskatti við umleið 17 mió. kr. í 2027 og roknað verður við, at talið hækkar upp í 50 mió. kr. frá 2029. Hinvegin hevur minni inngjald til pensjón við sær minni frádrátt í skattskyldugu inntøkuni, og tað økir um inntøkurnar frá kommunuskatti. Roknað verður við 8 mió. kr. í 2027, vaksandi upp í 25 mió. kr. frá 2029. 25 </p>
+<p>At undantøkini fækka økir um pensjónsinngjøldini, og tað veksur um inntøkurnar frá pensjónsskatti. Roknað verður við 7 mió. kr. í 2019 vaksandi upp í 14 mió. kr. frá 2026. At aldursmarkið verður strikað økir um inntøkurnar frá pensjónsskatti, men minkar um inntøkurnar frá kommunuskatti. Roknað verður við, at inntøkurnar frá pensjónsskatti í hesum sambandi hækka við 5 mió. kr. í 2019, vaksandi til 12 mió. kr. frá 2026. Hinvegin hevur tað eisini við sær minni kommunuskatt. Roknað verður við, at inntøkurnar frá kommunuskatti minka við 3 mió. kr. í 2019, og talið veksur upp í 6 mió. kr. frá 2026. Harumframt koma kommunurnar eftir ætlan at rinda eftirlønargjald av samsýning fyri ansing av eldri og óhjálpnum persónum. Hendan samsýning er millum undantøkini, sum ætlanin er at strikað. Samanlagt verður roknað við, at broytingar í eftirlønarlógini fara at hava við sær minni inntøkur til kommunuarnar á umleið 12-14 mió. kr. fyrstu árini, og at talið veksur upp í umleið 37 mió. kr. frá 2029.</p>
+<p>Mió. kr. <em type="bold">2019 </em><em type="bold">2020 </em><em type="bold">2021 </em><em type="bold">2022 </em><em type="bold">2023 </em><em type="bold">2024 </em><em type="bold">2025 </em><em type="bold">2026 </em><em type="bold">2027 </em><em type="bold">2028 </em><em type="bold">2029 </em><em type="bold">2030 </em></p>
+<p>Stigvísur pensjónsskattur -23 -25 -26 -27 -28 -29 -31 -32 -32 -32 -32 -32</p>
+<p>Inngjald lækkar til 12% pensjónsskattur -17 -33 -50 -50 inngjald lækkar til 12% kommunuskattur 8 17 25 25</p>
+<p>Færri undantøk 7 8 9 10 11 12 13 14 14 14 14 14</p>
+<p>Aldursmark verður strikað pensjónsskattur 5 6 7 8 10 10 11 12 12 12 12 12</p>
+<p>Aldursmark verður strikað kommunuskattur -3 -3 -4 -4 -5 -5 -6 -6 -6 -6 -6 -6</p>
+<p><em type="bold">Kommunur íalt </em><em type="bold">-14 </em><em type="bold">-14 </em><em type="bold">-13 </em><em type="bold">-13 </em><em type="bold">-13 </em><em type="bold">-12 </em><em type="bold">-12 </em><em type="bold">-12 </em><em type="bold">-20 </em><em type="bold">-29 </em><em type="bold">-37 </em><em type="bold">-37 </em></p>
+<p><em type="italic">Vegna broytingar í Samhaldsfasta </em>Kommunurnar fáa fíggjarligan fyrimun av, at Samhaldsfasti hækkar. Hóast kommunurnar sum arbeiðsgevari koma at rinda eitt hægri inngjald, so hevur økta útgjaldið við sær hægri skattainntøkur frá teimum, sum fáa úr Samhaldsfasta. Roknað verður við meirinntøkum til kommunurnar á 2 mió. kr. í 2018. Arbeiðsgevaragjaldið økist knappar 4 mió. kr., men hinvegin vaksa skattainntøkurnar góðari 1 mió. kr. Sum frálíður verður talan um størri upphædd. Bæði tí at inngjaldið hækkar og tí at talið av pensjónistum økist. Roknað verður við samanlagt 14-19 mió. kr. árini frá 2020 til 2030. </p>
+<p>Mió. kr. 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030</p>
+<p>Kommunuskattur 4 15 22 23 23 24 25 24 25 26 26 27 26</p>
+<p>Arbeiðsgevaragjald -1 -5 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8 -8</p>
+<p><em type="bold">Tilsamans - Samhaldsfasti </em><em type="bold">2 </em><em type="bold">10 </em><em type="bold">14 </em><em type="bold">15 </em><em type="bold">15 </em><em type="bold">16 </em><em type="bold">17 </em><em type="bold">16 </em><em type="bold">17 </em><em type="bold">18 </em><em type="bold">18 </em><em type="bold">19 </em><em type="bold">18 </em>26 5. Ávirkan á einstaklingar Niðanfyri verður sagt frá fíggjarligu ávirkanini á einstaklingar. Hugt verður at, hvat pensjónistar fara at fáa útgoldið í 2020 í mun til í 2017, alt eftir hjúnastøðu og hvussu inntøkuviðurskiftini eru. Fyrst verður hugt at pensjónistum uttan egininntøku, tað vil siga tey, sum onga aðra inntøku hava enn fólkapensjón og Samhaldsfasta. Síðani verður hugt at, hvat tey fáa útgoldið, sum hava egininntøku. Í semjuni verður mælt til tvær skipanir frá 1. januar 2020. Tey ið fylla 67 ár eftir 31. desember 2019 verða fevnd av nýggju skipanini, meðan tey, sum longu eru pensjónistar, ella gerast pensjónistar áðrenn 1. januar 2020 halda fram í verandi skipan. Niðanfyri verður ávirkanin lýst bæði fyri tey í verandi skipan, og tey í nýggu skipan. Samanborið verður í báðum førum við 2017. Hetta er fyri at lýsa ávirkanina við og uttan pensjónsnýskipan. </p>
+<p>Stakur pensjónistur uttan egininntøku Stakir pensjónistar uttan egininntøku, fáa í 2017 útgoldið 10.284 kr. um mánaðin um roknað verður við miðal kommunuskattaprosentinum á 20,29% og vanliga kirkjuskattaprosentinum á 0,6%. Hækkingar í Samhaldsfasta fara at hava við sær, at mánaðarliga útgjaldið hækkar, soleiðis at tað verður 10.614 kr. í 2018, 10.954 kr. í 2019 og 11.307 kr. í 2020. Samanlagt fáa tey í verandi skipan (VS) eina hækking í mánaðarliga útgjaldinum á 1.023 kr. í 2020 í mun til 2017. Hjá teimum í nýggju skipan (NS) verður mánaðarliga útgjaldið 11.313 kr. í 2020 og sostatt áleið tað sama sum hjá teimum í verandi skipan. 2017 2018 2019 2020 VS 2020 NS</p>
+<p>Grundupphædd (skattafrí) 3.589 3.589 3.589 3.589 3.589</p>
+<p>Viðbót (skattskyldug) 3.771 3.771 3.771 3.771 4.779</p>
+<p>Brennistuðul (skattafríur) 634 634 634 634</p>
+<p>Samhaldsfasti (skattskyldugur) 4.025 4.545 5.080 5.635 5.635</p>
+<p><em type="bold">Skattskyldug inntøka </em><em type="bold">7.796 </em><em type="bold">8.316 </em><em type="bold">8.851 </em><em type="bold">9.406 </em><em type="bold">10.414 </em></p>
+<p>Landsskattur 357 435 515 598 750</p>
+<p>Kommunuskattur 1.075 1.180 1.289 1.401 1.606</p>
+<p>Kirkjuskattur 32 35 38 41 47</p>
+<p>Gjald til Heilsutrygd 222 225 228 231 237</p>
+<p>Kringvarpsgjald 50 50 50 50 50</p>
+<p><em type="bold">Útgoldið um mánaðin </em><em type="bold">10.284 </em><em type="bold">10.614 </em><em type="bold">10.954 </em><em type="bold">11.307 </em><em type="bold">11.313 </em></p>
+<p><em type="bold">Vøkstur í mun til 2017 </em>330 670 1.023 1.029 </p>
+<p>Sum víst omanfyri, so er munur á veitingunum í nýggju skipan og verandi skipan. Munurin er, at tey í nýggju skipan fáa ikki brennistuðul, tey fáa í staðin eina hægri viðbót. Men grundupphæddin er tann sama í báðum skipanum. 27</p>
+<p>Giftur pensjónistur uttan egininntøku Niðanfyri verður víst mánaðarliga útgjaldið hjá giftum pensjónisti. Talan er um giftan pensjónist, har hjúnafelagin eisini er pensjónistur, og hvørgin teirra hevur egininntøku. Hesi fáa útgoldið 8.641 kr. hvør um mánaðin í 2017. Giftir pensjónistar í verandi skipan fáa somu hækking sum stakir. Vegna hækkingar í Samhaldsfasta fáa tey hvør 1.023 kr. meira útgoldið í 2020 enn í 2017. Talan verður sostatt um 9.664 kr. um mánaðin í 2020. Hjá giftum pensjónisti í nýggju skipan verður mánaðarliga útgjaldið 9.668 kr. í 2020 og sostatt áleið tað sama sum hjá teimum í verandi skipan í 2020. 2017 2018 2019 2020 VS 2020 NS</p>
+<p>Grundupphædd 2.733 2.733 2.733 2.733 2.733</p>
+<p>Viðbót til fólkapensjón 3.031 3.031 3.031 3.031 3.537</p>
+<p>Brennistuðul 317 317 317 317</p>
+<p>Samhaldsfasti 4.025 4.545 5.080 5.635 5.635</p>
+<p><em type="bold">Skattskyldug inntøka </em><em type="bold">7.056 </em><em type="bold">7.576 </em><em type="bold">8.111 </em><em type="bold">8.666 </em><em type="bold">9.172 </em></p>
+<p>Landsskattur 246 324 404 487 563</p>
+<p>Kommunuskattur 924 1.030 1.138 1.251 1.354</p>
+<p>Kirkjuskattur 27 30 34 37 40</p>
+<p>Gjald til Heilsutrygd 217 220 224 227 230</p>
+<p>Kringvarpsgjald 50 50 50 50 50</p>
+<p><em type="bold">Útgoldið um mánaðin </em><em type="bold">8.641 </em><em type="bold">8.971 </em><em type="bold">9.311 </em><em type="bold">9.664 </em><em type="bold">9.668 </em></p>
+<p><em type="bold">Vøkstur í mun til 2017 </em>330 670 1.023 1.027 </p>
+<p>Sum víst omanfyri, so er eisini hjá giftum munur á, hvussu veitingarnar eru samansettar í nýggju skipan og verandi skipan. Munurin er tann sami sum fyri støk. Tey í nýggju skipan fáa ikki brennistuðul, tey fáa í staðin eina hægri viðbót. Men eisini hjá giftum er grundupphæddin tann sama í báðum skipanum. 28</p>
+<p>Stakur pensjónistur við egininntøku – verandi skipan Tá pensjónistar hava munandi egininntøku verður mótroknað í fólkapensjónini. Hjá stakum pensjónisti verður í 2017 mótroknað í viðbótini og í brennistuðlinum.</p>
 <p>Sum egininntøka – tað vil siga inntøkugrundarlag fyri mótrokning – verður brúkt skattskylduga inntøkan, umframt inntøkan frá kapitalvinningi (rentur, vinningsbýti o.a.). Tó er tað soleiðis, at skattskyldug inntøka frá Samhaldsfasta og frá fólkapensjón ikki verður roknað upp í.</p>
-<p>Mótroknað verður í 2017 soleiðis, at stakur pensjónistur missur brennistuðulin um egininntøkan fer upp um 60.000 kr. árliga.</p>
-<p>Tá egininntøkan fer upp um 61.900 kr. árliga byrjar mótrokning í viðbótini. Hetta verður gjørt soleiðis, at viðbótin lækkar við 60% av upphæddini, ið egininntøkan fer upp um 61.900 kr. árliga. Mótrokning heldur fram til viðbótin eru uppi. Viðbótin verður í 2017 uppi, tá ið egininntøkan fer upp um 137 tús. kr. árliga, samsvarandi við 11.500 kr. um mánaðin.</p>
-<p><em type="bold">Mynd 12. </em>Veitingar pr. mánað<em type="bold"> </em></p>
-<p>Stakur í verandi skipan í 2017</p>
-<p><em type="bold">Mynd 13. </em>Veitingar pr. mð<em type="bold"> </em></p>
-<p>Stakur í verandi skipan í 2020</p>
-<p>14.000</p>
-<p>14.000</p>
-<p>13.000</p>
-<p>Brennistuðul: 634 kr.</p>
-<p>Brennistuðul 634 kr.</p>
-<p>13.000</p>
-<p>12.000</p>
-<p>12.000</p>
-<p>11.000</p>
-<p>11.000</p>
-<p>10.000</p>
-<p>10.000</p>
-<p>Viðbót 3.771 kr.</p>
-<p>9.000</p>
-<p>Viðbót á 3.771 kr.</p>
-<p>9.000</p>
-<p>8.000</p>
-<p>8.000</p>
-<p>7.000</p>
-<p>7.000</p>
-<p>Grundupphædd: 3.589 kr.</p>
-<p>6.000</p>
-<p>6.000</p>
-<p>5.000</p>
+<p>Mótroknað verður í 2017 soleiðis, at stakur pensjónistur missur brennistuðulin um egininntøkan fer upp um 60.000 kr. árliga. Tá egininntøkan fer upp um 61.900 kr. árliga byrjar mótrokning í viðbótini. Hetta verður gjørt soleiðis, at viðbótin lækkar við 60% av upphæddini, ið egininntøkan fer upp um 61.900 kr. árliga. Mótrokning heldur fram til viðbótin eru uppi. Viðbótin verður í 2017 uppi, tá ið egininntøkan fer upp um 137 tús. kr. árliga, samsvarandi við 11.500 kr. um mánaðin.</p>
+<p><em type="bold">Mynd 12. </em>Veitingar pr. mánað <em type="bold"></em>Stakur í verandi skipan í 2017 </p>
+<p><em type="bold">Mynd 13. </em>Veitingar pr. mð <em type="bold"></em>Stakur í verandi skipan í 2020 </p>
+<p>Fyri tey í verandi skipan verður mótrokningin óbroytt í 2020. Einasti munur verður, at Samhaldsfasti hækkar úr 4.025 kr. um mánaðin í 2017 og upp í umleið 5.635 kr. um mánaðin í 2020. Tað hevur við sær, at allir stakir pensjónistar fara at fáa størri útgjald í 2020 enn í 2017, óansæð hvussu stór inntøkan er. Samhaldsfasti er skattskyldugur, og vegna stigvísa landsskattin, verður tað tí soleiðis, at hækkingin í størri mun kemur teimum við lágari egininntøku til góðar. Sum víst niðanfyri, so fáa tey við egininntøku upp til umleið 170 tús. kr. árliga knappar 1.025 kr. meira um mánaðin. Tey omanfyri fáa knappar 950 kr. meira um mánaðin. Fer egininntøkan upp um 275 tús. kr. verður talan um góðar 850 kr. meira um mánaðin. 01.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.000020406080100120140160180200220240260280300320340360</p>
+<p>Samhaldsfasti á 4.025 kr.</p>
 <p>Grundupphædd 3.589 kr.</p>
-<p>5.000</p>
-<p>4.000</p>
-<p>4.000</p>
-<p>3.000</p>
-<p>3.000</p>
-<p>2.000</p>
-<p>Samhaldsfasti á 4.025 kr.</p>
-<p>2.000</p>
-<p>AMEG: 5.635 kr.</p>
-<p>1.000</p>
-<p>1.000</p>
-<p>Fyri tey í verandi skipan verður mótrokningin óbroytt í 2020. Einasti munur verður, at Samhaldsfasti hækkar úr 4.025 kr. um mánaðin í 2017 og upp í umleið 5.635 kr. um mánaðin í 2020. Tað hevur við sær, at allir stakir pensjónistar fara at fáa størri útgjald í 2020 enn í 2017, óansæð hvussu stór inntøkan er.</p>
-<p>Samhaldsfasti er skattskyldugur, og vegna stigvísa landsskattin, verður tað tí soleiðis, at hækkingin í størri mun kemur teimum við lágari egininntøku til góðar. Sum víst niðanfyri, so fáa tey við egininntøku upp til umleið 170 tús. kr. árliga knappar 1.025 kr. meira um mánaðin. Tey omanfyri fáa knappar 950 kr. meira um mánaðin. Fer egininntøkan upp um 275 tús. kr. verður talan um góðar 850 kr. meira um mánaðin.</p>
-<p><em type="bold">Mynd 14. Útgoldið um mánaðin  </em></p>
-<p>Stakur í verandi skipan í 2017 og 2020</p>
-<p><em type="bold">Mynd 15. Meira útgoldið um mánaðin  </em></p>
-<p>Munur í 2020 – støk í verandi skipan <em type="bold"> </em></p>
-<p>28.000</p>
-<p>1.050</p>
-<p>26.000</p>
-<p>1.025</p>
-<p>24.000</p>
-<p>1.000</p>
-<p>22.000</p>
-<p>20.000</p>
-<p>18.000</p>
-<p>16.000</p>
-<p>14.000</p>
-<p>12.000</p>
-<p>10.000</p>
-<p>Støk 2017Støk 2020 verandi skipan</p>
-<p>Stakur pensjónistur við egininntøku – nýggj skipan</p>
-<p>Í nýggju skipanini verður mótroknað øðrvísi enn í verandi skipan. Sum heild kann sigast, at mótrokningin í nýggju skipanini verður meira skynsom enn í gomlu skipanini. Í gomlu skipanini verður mótroknað rættiliga harðliga, og bara í einum lítlum parti av veitingini. Í nýggju skipanini verður mótroknað meira varliga, men í einum størri parti av veitingini.</p>
-<p><em type="bold">Mynd 16. </em>Stakur í gomlu skipan í 2017. </p>
-<p>Mánaðarligar veitingar í mun til ársinntøku.</p>
-<p><em type="bold">Mynd 17. </em>Stakur í nýggju skipan í 2020. </p>
-<p>Mánaðarligar veitingar í mun til ársinntøku</p>
-<p>14.000</p>
-<p>13.000</p>
-<p>15.000</p>
-<p>Brennistuðul á 634 kr.</p>
-<p>12.000</p>
-<p>14.000</p>
-<p>13.000</p>
-<p>11.000</p>
-<p>12.000</p>
-<p>10.000</p>
-<p>Grundupphædd á 3.589 kr.</p>
-<p>11.000</p>
-<p>9.000</p>
 <p>Viðbót á 3.771 kr.</p>
-<p>10.000</p>
-<p>8.000</p>
-<p>9.000</p>
-<p>7.000</p>
-<p>8.000</p>
-<p>Viðbót á 4.779 kr.</p>
-<p>6.000</p>
-<p>7.000</p>
-<p>5.000</p>
-<p>Grundupphædd á 3.589 kr.</p>
-<p>6.000</p>
-<p>4.000</p>
-<p>5.000</p>
-<p>3.000</p>
-<p>4.000</p>
-<p>Samhaldsfasti á 5.635 kr.</p>
-<p>2.000</p>
+<p>Brennistuðul 634 kr. 01.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.000020406080100120140160180200220240260280300320340360</p>
+<p>AMEG: 5.635 kr.</p>
+<p>Grundupphædd: 3.589 kr.</p>
+<p>Viðbót 3.771 kr.</p>
+<p>Brennistuðul: 634 kr.29</p>
+<p><em type="bold">Mynd 14. Útgoldið um mánaðin </em>Stakur í verandi skipan í 2017 og 2020 </p>
+<p><em type="bold">Mynd 15. Meira útgoldið um mánaðin </em>Munur í 2020 – støk í verandi skipan <em type="bold"></em></p>
+<p>Stakur pensjónistur við egininntøku – nýggj skipan Í nýggju skipanini verður mótroknað øðrvísi enn í verandi skipan. Sum heild kann sigast, at mótrokningin í nýggju skipanini verður meira skynsom enn í gomlu skipanini. Í gomlu skipanini verður mótroknað rættiliga harðliga, og bara í einum lítlum parti av veitingini. Í nýggju skipanini verður mótroknað meira varliga, men í einum størri parti av veitingini.</p>
+<p><em type="bold">Mynd 16. </em>Stakur í gomlu skipan í 2017. Mánaðarligar veitingar í mun til ársinntøku. </p>
+<p><em type="bold">Mynd 17. </em>Stakur í nýggju skipan í 2020. Mánaðarligar veitingar í mun til ársinntøku 10.000 12.000 14.000 16.000 18.000 20.000 22.000 24.000 26.000 28.0000255075100125150175200225250275300325350 </p>
+<p>Støk 2017</p>
+<p>Støk 2020 verandi skipan 800 825 850 875 900 925 950 975 1.000 1.025 1.050025507510012515017520022525027530032535001.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.000020406080100120140160180200220240260280300320340360</p>
 <p>Samhaldsfasti á 4.025 kr.</p>
-<p>3.000</p>
-<p>2.000</p>
-<p>1.000</p>
-<p>1.000 Tá egininntøkan fer upp um 30.000 kr. árliga, verður mótroknað í grundupphæddini við 25%. Hetta hevur við sær, at grundupphæddin verður uppi, tá ið egininntøkan kemur upp á góðar 202 tús. kr. Tá ið grundupphæddin er uppi, tekur mótrokningin í viðbótini við. Mótroknað verður við 40% av egininntøkuni omanfyri 202.300 kr. Viðbótin verður uppi, tá ið inntøkan nærkast 346 tús. kr.</p>
-<p>Eins og í verandi skipan verður í nýggju skipan heldur ikki mótroknað í Samhaldsfasta. Hann verður tann sami, óansæð inntøku.</p>
-<p>Fyri stakar pensjónistar við eginntøku, kann sum heild sigast, at nýskipanin er til fyrimun fyri teir pensjónistar, sum hava eina inntøku niðanfyri 210 tús. kr. Serliga stóran fyrimun fáa teir pensjónistar, ið hava eina inntøku millum 100 og 150 tús. kr. árliga.</p>
-<p><em type="bold">Mynd 18. Útgoldið um mánaðin  </em></p>
-<p>Stakur í nýggju skipan í 2020 í mun til 2017</p>
-<p><em type="bold">Mynd 19. Munur í útgjaldi um mánaðin  </em></p>
-<p>Stakur í nýggju skipan í 2020 í mun til 2017</p>
-<p>2.000</p>
-<p>1.750</p>
-<p>1.500</p>
-<p>26.00027.000</p>
-<p>1.250</p>
-<p>25.000</p>
-<p>1.000</p>
-<p>24.000</p>
-<p>23.000</p>
-<p>22.000</p>
-<p>21.000</p>
-<p>20.000</p>
-<p>-</p>
-<p>19.000</p>
-<p>-</p>
-<p>18.000</p>
-<p>-</p>
-<p>17.000</p>
-<p>-</p>
-<p>16.000</p>
-<p>-1.000</p>
-<p>15.000</p>
-<p>-1.250</p>
-<p>-1.500</p>
-<p>13.00014.000</p>
-<p>12.000</p>
-<p>-1.750</p>
-<p>11.000</p>
-<p>-2.000</p>
-<p>10.000</p>
-<p>-2.250</p>
-<p>9.000</p>
-<p>-2.500</p>
-<p>-2.750</p>
-<p>-3.000</p>
-<p>Tey við høgum inntøkum fáa umleið 2.750 kr. minni um mánaðin í nýggju skipan í 2020 í mun til verandi skipan í 2017. Orsøkin er serliga, at grundupphæddin nú eisini verður mótroknað.</p>
-<p>Hóast munurin kann tykjast ógvusligur, so er umráðandi at gera vart við tvey viðurskifti. Fyri tað fyrsta, so er ikki talan um, at fólk koma at missa nakað, ið tey longu fáa frammanundan. Talan er um nýggjar pensjónistar frá og við 2020. Tað vil siga fólk, sum ikki fáa fólkapensjón frammanundan. Talið í 2017 er sostatt bara ein samanbering, ið sigur, hvat tey høvdu fingið um onki varð broytt.</p>
-<p>Fyri tað næsta, so fáa tey í nýggju skipanini nú eisini møguleikan fyri útsettari pensjón. Tey við inntøkum omanfyri 200 tús. kr. eru fyri tað mesta fólk, sum halda fram á arbeiðsmarknaðinum, og tey fáa nú møguleikan fyri at útseta fólkapensjónina, ímóti at fáa hægri pensjón tá tey fara frá.</p>
-<p>Giftur pensjónistur við egininntøku – verandi skipan</p>
-<p>Hjá giftum pensjónistum verður í 2017 mótroknað í viðbótini og í brennistuðlinum.</p>
-<p>Brennistuðulin verður í 2017 mótroknaður soleiðis, at giftir pensjónistar, báðir missa brennistuðulin um samlaða inntøkan í húsarhaldinum fer upp um 80.000 kr. árliga.</p>
-<p>Hjá teimum, har bæði eru pensjónistar, verður sum egininntøka roknað helvtin av egininntøkuni hjá báðum tilsamans. Er bara annar pensjónistur verður inntøkan hjá hjúnafelagnum ikki tald við, tá mótroknað verður í viðbótini.</p>
-<p>Tá egininntøkan fer upp um 61.900 kr. árliga (tað vil siga 123.800 kr. samanlagt hjá báðum) byrjar mótrokning í viðbótini. Eins og hjá støkum verður mótroknað við 60%. Mótroknað verður í viðbótini hjá báðum, við eini helvt hjá hvørjum. Tá ið samlaða egininntøkan hjá báðum samanlagt fer upp um 245 tús. kr. árliga eru viðbøturnar uppi.</p>
-<p><em type="bold">Mynd 20. </em>Gift í verandi skipan í 2017 <em type="bold">Mynd 21. </em>Gift í verandi skipan í 2020 </p>
-<p>24.000</p>
-<p>24.000</p>
-<p>2 x Brennistuðul á 317 kr.</p>
-<p>22.000</p>
-<p>2 x Brennistuðul á 317 kr.</p>
-<p>22.000</p>
-<p>20.000</p>
-<p>20.000</p>
-<p>2 x Viðbót á 3.537 kr. mð</p>
-<p>18.000</p>
-<p>18.000</p>
-<p>16.000</p>
-<p>2 x Viðbót á 3.031 kr.</p>
-<p>16.000</p>
-<p>14.000</p>
-<p>14.000</p>
-<p>2 x Grundupphædd á 2.733 kr.</p>
-<p>12.000</p>
-<p>12.000</p>
-<p>10.000</p>
-<p>2 x Grundupphædd á 2.733 kr.</p>
-<p>10.000</p>
-<p>8.000</p>
-<p>8.000</p>
-<p>6.000</p>
-<p>2 x Samhaldsfasta á 4.025 kr</p>
-<p>6.000</p>
-<p>2 x Samhaldsfasta á 5.635 kr.</p>
-<p>4.000</p>
-<p>4.000</p>
-<p>2.000</p>
-<p>2.000</p>
-<p>Giftur pensjónistur við egininntøku – nýggj skipan</p>
-<p>Hjá giftum pensjónistum í nýggju skipan er stóri munurin, at tað ikki longur verður mótroknað millum hjún. Tað vil siga, at egininntøkan er ikki longur helvtin av inntøkuni hjá báðum samanlagt, men einans persónliga egininntøkan hjá einstaka pensjónistinum.</p>
-<p>Giftir pensjónistar verða eins og stakir mótroknaðir við 25% í grundupphæddini av upphæddini, ið fer upp um 30.000 kr. árliga. Hetta hevur við sær at grundupphæddin verður uppi, tá ið egininntøkan kemur upp á góðar 161 tús. kr. Tá grundupphæddin er uppi, tekur mótrokningin í viðbótini við. Mótroknað verður við 40% av egininntøkuni omanfyri 161.200 kr. Viðbótin verður uppi tá inntøkan verður góðar 267 tús. kr.</p>
-<p><em type="bold">Mynd 22. </em>Giftur í nýggju skipan 2020 </p>
-<p>15.000</p>
-<p>14.000</p>
-<p>13.000</p>
-<p>12.000</p>
-<p>11.000</p>
-<p>10.000</p>
-<p>Grundupphædd á 2.733 kr.</p>
-<p>9.000</p>
-<p>8.000</p>
-<p>7.000</p>
-<p>Viðbót 4.537 kr.</p>
-<p>6.000</p>
-<p>5.000</p>
-<p>4.000</p>
-<p>3.000</p>
+<p>Grundupphædd á 3.589 kr.</p>
+<p>Viðbót á 3.771 kr.</p>
+<p>Brennistuðul á 634 kr.01.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.00015.000020406080100120140160180200220240260280300320340360</p>
+<p>Samhaldsfasti á 5.635 kr.</p>
+<p>Viðbót á 4.779 kr.</p>
+<p>Grundupphædd á 3.589 kr.30</p>
+<p>Tá egininntøkan fer upp um 30.000 kr. árliga, verður mótroknað í grundupphæddini við 25%. Hetta hevur við sær, at grundupphæddin verður uppi, tá ið egininntøkan kemur upp á góðar 202 tús. kr. Tá ið grundupphæddin er uppi, tekur mótrokningin í viðbótini við. Mótroknað verður við 40% av egininntøkuni omanfyri 202.300 kr. Viðbótin verður uppi, tá ið inntøkan nærkast 346 tús. kr. Eins og í verandi skipan verður í nýggju skipan heldur ikki mótroknað í Samhaldsfasta. Hann verður tann sami, óansæð inntøku. Fyri stakar pensjónistar við eginntøku, kann sum heild sigast, at nýskipanin er til fyrimun fyri teir pensjónistar, sum hava eina inntøku niðanfyri 210 tús. kr. Serliga stóran fyrimun fáa teir pensjónistar, ið hava eina inntøku millum 100 og 150 tús. kr. árliga.</p>
+<p><em type="bold">Mynd 18. Útgoldið um mánaðin </em>Stakur í nýggju skipan í 2020 í mun til 2017 </p>
+<p><em type="bold">Mynd 19. Munur í útgjaldi um mánaðin </em>Stakur í nýggju skipan í 2020 í mun til 2017 </p>
+<p>Tey við høgum inntøkum fáa umleið 2.750 kr. minni um mánaðin í nýggju skipan í 2020 í mun til verandi skipan í 2017. Orsøkin er serliga, at grundupphæddin nú eisini verður mótroknað. Hóast munurin kann tykjast ógvusligur, so er umráðandi at gera vart við tvey viðurskifti. Fyri tað fyrsta, so er ikki talan um, at fólk koma at missa nakað, ið tey longu fáa frammanundan. Talan er um nýggjar pensjónistar frá og við 2020. Tað vil siga fólk, sum ikki fáa fólkapensjón frammanundan. Talið í 2017 er sostatt bara ein samanbering, ið sigur, hvat tey høvdu fingið um onki varð broytt. Fyri tað næsta, so fáa tey í nýggju skipanini nú eisini møguleikan fyri útsettari pensjón. Tey við inntøkum omanfyri 200 tús. kr. eru fyri tað mesta fólk, sum halda fram á arbeiðsmarknaðinum, og tey fáa nú møguleikan fyri at útseta fólkapensjónina, ímóti at fáa hægri pensjón tá tey fara frá. 9.00010.00011.00012.00013.00014.00015.00016.00017.00018.00019.00020.00021.00022.00023.00024.00025.00026.00027.000025507510012515017520022525027530032535020202017 -3.000 -2.750 -2.500 -2.250 -2.000 -1.750 -1.500 -1.250 -1.000 -750 -500 -250 - 250 500 750 1.000 1.250 1.500 1.750 2.000025507510012515017520022525027530032535037540031</p>
+<p>Giftur pensjónistur við egininntøku – verandi skipan Hjá giftum pensjónistum verður í 2017 mótroknað í viðbótini og í brennistuðlinum. Brennistuðulin verður í 2017 mótroknaður soleiðis, at giftir pensjónistar, báðir missa brennistuðulin um samlaða inntøkan í húsarhaldinum fer upp um 80.000 kr. árliga. Hjá teimum, har bæði eru pensjónistar, verður sum egininntøka roknað helvtin av egininntøkuni hjá báðum tilsamans. Er bara annar pensjónistur verður inntøkan hjá hjúnafelagnum ikki tald við, tá mótroknað verður í viðbótini. Tá egininntøkan fer upp um 61.900 kr. árliga (tað vil siga 123.800 kr. samanlagt hjá báðum) byrjar mótrokning í viðbótini. Eins og hjá støkum verður mótroknað við 60%. Mótroknað verður í viðbótini hjá báðum, við eini helvt hjá hvørjum. Tá ið samlaða egininntøkan hjá báðum samanlagt fer upp um 245 tús. kr. árliga eru viðbøturnar uppi.</p>
+<p><em type="bold">Mynd 20. </em>Gift í verandi skipan í 2017 </p>
+<p><em type="bold">Mynd 21. </em>Gift í verandi skipan í 2020 02.0004.0006.0008.00010.00012.00014.00016.00018.00020.00022.00024.0000204060801001201401601802002202402602803002 x Samhaldsfasta á 4.025 kr2 x Grundupphædd á 2.733 kr.2 x Viðbót á 3.031 kr.2 x Brennistuðul á 317 kr.02.0004.0006.0008.00010.00012.00014.00016.00018.00020.00022.00024.0000204060801001201401601802002202402602803002 x Samhaldsfasta á 5.635 kr.2 x Grundupphædd á 2.733 kr.2 x Viðbót á 3.537 kr. mð2 x Brennistuðul á 317 kr.32 </p>
+<p>Giftur pensjónistur við egininntøku – nýggj skipan Hjá giftum pensjónistum í nýggju skipan er stóri munurin, at tað ikki longur verður mótroknað millum hjún. Tað vil siga, at egininntøkan er ikki longur helvtin av inntøkuni hjá báðum samanlagt, men einans persónliga egininntøkan hjá einstaka pensjónistinum. Giftir pensjónistar verða eins og stakir mótroknaðir við 25% í grundupphæddini av upphæddini, ið fer upp um 30.000 kr. árliga. Hetta hevur við sær at grundupphæddin verður uppi, tá ið egininntøkan kemur upp á góðar 161 tús. kr. Tá grundupphæddin er uppi, tekur mótrokningin í viðbótini við. Mótroknað verður við 40% av egininntøkuni omanfyri 161.200 kr. Viðbótin verður uppi tá inntøkan verður góðar 267 tús. kr.</p>
+<p><em type="bold">Mynd 22. </em>Giftur í nýggju skipan 2020 01.0002.0003.0004.0005.0006.0007.0008.0009.00010.00011.00012.00013.00014.00015.000020406080100120140160180200220240260280300320340360 </p>
 <p>AMEG 5.635 kr.</p>
-<p>2.000</p>
-<p>1.000</p>
-<p>Giftir pensjónistar við egintøku – samanberingar ymisk húsarhald</p>
-<p>Hjá giftum pensjónistum er ikki so einfalt at samanbera útgjaldið, sum tað er hjá støkum. Orsøkin er tann, at tað ger rættiliga stóran mun, hvussu samlaða inntøkan er deild millum hjúnafelagarnar. Fordeilingin hevur bæði týdning fyri hvussu mótrokningin verður, og fyri hvussu skatturin verður. Fyri ávísar fordeilingar kann tað verða ein fyrimunur at mótroknað verður millum hjún, og fyri aðrar hevur tað ein kostnað við sær, at inntøkurnar verða lagdar saman.</p>
-<p>Niðanfyri verður tí hugt at tveimum ymiskum húsarhaldum. Í øðrum døminum hava báðir pensjónistarnir somu inntøku, og í hinum døminum hevur annar hjúnafelagin alla inntøkuna. Hugt verður bæði at pensjónistum í verandi skipan og í nýggju skipan.</p>
-<p>Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku</p>
-<p>Húsarhald í verandi skipan har bara annar hevur egininntøku fáa samanlagt góðar 2.000 kr. meira útgoldið í 2020 enn í 2017. Hetta er galdandi, nærum óansæð hvussu høg inntøkan er.</p>
-<p>Orsøkin er tann, at Samhaldsfasti hækkar hjá báðum, og alt annað er óbroytt.</p>
-<p><em type="bold">Mynd 23. Útgoldið um mánaðin  </em></p>
-<p><em type="bold">Mynd 24. Munur pr. mánað  </em></p>
-<p>Húsarhald í gomlu skipan 2020, har bara annar hevur egininntøku, í mun til 2017</p>
-<p>Húsarhald í gomlu skipan 2020, har bara annar hevur egininntøku, í mun til 2017</p>
-<p>2.500</p>
-<p>41.000</p>
-<p>2.000</p>
-<p>36.000</p>
-<p>1.500</p>
-<p>31.000</p>
-<p>1.000</p>
-<p>26.000</p>
-<p>21.000</p>
-<p>16.000</p>
-<p>25 50 75100 125 150 175 200 225250 275 300 325 350 375 400 425 450 475 500</p>
-<p>Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku</p>
-<p>Fyri húsarhald í verandi skipan, har bæði hava umleið somu egininntøka, verður hjá teimum flestu talan um samanlagt góðar 2.000 kr. meira útgoldið í 2020 enn í 2017.</p>
-<p>Tó er meirútgjaldið nakað minni fyri hægru inntøkurnar. Orsøkin er, at hægru inntøkurnar hava hægri marginalskatt, og fáa tí nakað minni útgoldið av hækkingini í Samhaldsfasta.</p>
-<p>Fyri húsarhald við inntøku omanfyri 550 tús. kr. samanlagt (275 tús. kr. hvør) verður talan um knappar 1.750 kr. meira um mánaðin.</p>
-<p><em type="bold">Mynd 25. Útgoldið um mánaðin  </em></p>
-<p><em type="bold">Mynd 26. Munur pr. mánað  </em></p>
-<p>Húsarhald í gomlu skipan 2020, har bæði hava somu egininntøku, í mun til 2017</p>
-<p>Húsarhald í gomlu skipan 2020, har bæði hava somu egininntøku, í mun til 2017</p>
-<p>2.250</p>
-<p>51.000</p>
-<p>2.000</p>
-<p>46.000</p>
-<p>1.750</p>
-<p>41.000</p>
-<p>1.500</p>
-<p>1.250</p>
-<p>36.000</p>
-<p>1.000</p>
-<p>31.000</p>
-<p>26.000</p>
-<p>21.000</p>
-<p>16.000</p>
-<p>Giftir pensjónistar í nýggju skipan – har bara annar hevur egininntøku</p>
-<p>Giftir pensjónistar, har bara annar hevur inntøku fáa fyrimun av nýggju skipanini.</p>
-<p>Tann sum hevur inntøkuna missir nú grundupphæddina, men hinvegin sleppur hjúnafelagin undan at verða mótroknaður í sínari viðbót. Harumframt fáa báðir pensjónistar ágóða av hægri Samhaldsfasta.</p>
-<p>Hjá teimum við lítlari og ongari egininntøku verður talan um góðar 2.000 kr. meira um mánaðin í mun til 2017. Hjá teimum við munandi egininntøku, verður hjá teimum flestu talan um millum 1.000 og 1.500 kr. meira um mánaðin.</p>
-<p><em type="bold">Mynd 27. Útgoldið um mánaðin  </em></p>
-<p><em type="bold">Mynd 28. Munur pr. mánað  </em></p>
-<p>Húsarhald í nýggju skipan 2020, har bara annar hevur egininntøku, í mun til 2017</p>
-<p>Húsarhald í nýggju skipan 2020, har bara annar hevur egininntøku, í mun til 2017</p>
-<p>2.500</p>
-<p>36.000</p>
-<p>34.000</p>
-<p>2.000</p>
-<p>32.000</p>
-<p>30.000</p>
-<p>1.500</p>
-<p>28.000</p>
-<p>26.000</p>
-<p>1.000</p>
-<p>24.000</p>
-<p>22.000</p>
-<p>20.000</p>
-<p>18.000</p>
-<p>16.000</p>
-<p>Giftir pensjónistar í nýggju skipan – har báðir hava somu egininntøku</p>
-<p>Hjá giftum pensjónistum, har báðir hava umleið somu inntøku, er nýggja skipanin ein fyrimunur í teimum førum, har talan er um tvær lágar inntøkur.</p>
-<p>Tá samlaða inntøkan fer upp um 350 tús. kr. árliga (175 tús. hvør) verður fyrimunurin burtur.</p>
-<p>Fer samlaða inntøkan upp um 550 tús. kr. ( 275 tús. kr. hvør) verður talan um næstan 3.750 kr. minni samanlagt um mánaðin í 2020 enn í 2017. Orsøkin er tann, at nú missa bæði grundupphæddina.</p>
-<p><em type="bold">Mynd 29. Útgoldið um mánaðin  </em></p>
-<p><em type="bold">Mynd 30. Munur pr. mánað  </em></p>
-<p>Húsarhald í nýggju skipan 2020, har bæði hava somu egininntøku, samanborið við 2017</p>
-<p>Húsarhald í nýggju skipan 2020, har bæði hava somu egininntøku, í mun til 2017</p>
-<p>3.500</p>
-<p>3.000</p>
-<p>46.000</p>
-<p>44.000</p>
-<p>2.500</p>
-<p>42.000</p>
-<p>2.000</p>
-<p>40.000</p>
-<p>1.500</p>
-<p>38.000</p>
-<p>1.000</p>
-<p>36.000</p>
-<p>34.000</p>
-<p>32.000</p>
-<p>-</p>
-<p>30.000</p>
-<p>28.000</p>
-<p>-1.000</p>
-<p>26.000</p>
-<p>-1.500</p>
-<p>24.000</p>
-<p>-2.000</p>
-<p>22.000</p>
-<p>-2.500</p>
-<p>20.000</p>
-<p>-3.000</p>
-<p>18.000</p>
-<p>-3.500</p>
-<p>16.000</p>
-<p>-4.000</p>
-<p>-4.500</p>
-<p>Men eisini her er umráðandi at gera vart við, at talan ikki er um, at fólk koma at missa nakað, ið tey longu fáa frammanundan. Talan er um nýggjar pensjónistar frá og við 2020. Tað vil siga fólk, sum ikki fáa fólkapensjón frammanundan. Talið í 2017 er sostatt bara ein samanbering, ið sigur, hvat tey høvdu fingið um onki varð broytt. Eisini er tað soleiðis, at tá talan er um so høgar inntøkur, er talan fyri tað mesta um fólk, sum halda fram á arbeiðsmarknaðinum, og tey fáa nú møguleikan fyri at útseta fólkapensjónina, ímóti at fáa hægri pensjón tá tey fara frá.</p>
-<p>6. Veitingar til fólkapensjónistar í mun til vanliga inntøku</p>
-<p>Veitingar til fólkapensjónistar eru partvís skattafríar og partvís skattskyldugar. Eisini er tað soleiðis, at fólk sleppa undan flestu arbeiðsmarknaðargjøldum tá tey gerast 67 ár. Harumframt lækkar kringvarpsgjaldið tá fólk gerast 67 ár.</p>
-<p>Hetta hevur samanlagt við sær, at tað gerst trupult at meta um veruliga virðið á samlaðu veitingunum til fólkapensjónistar, tí ringt er at samanbera við vanliga lønarinntøku ella skattskyldugar veitingar. Í hesum brotinum verður tí roynt at samanbera veitingarnar til fólkapensjónistar við vanliga skattskylduga inntøku.</p>
-<p>Niðanfyri verður hugt at, hvat ein vanligur løntakari skal forvinna fyri at hava somu tøku inntøku sum ein fólkapensjónistur, ið onga aðra inntøku hevur enn fólkapensjón og Samhaldsfasta.</p>
-<p><em type="italic">Stakur  </em></p>
-<p><em type="italic">Giftur  </em></p>
-<p><em type="italic">Løntakari </em></p>
-<p><em type="italic">Løntakari </em></p>
-<p><em type="bold"> </em><em type="italic">Kr. um mánaðin </em></p>
-<p>Grundupphædd 3.589 2.733   Viðbót til fólkapensjón 3.771 3.031</p>
-<p>Brennistuðul     Samhaldsfasti 4.025 4.025</p>
-<p><em type="bold">Veitingar í alt 12.019 10.106  </em> </p>
-<p><em type="bold">Skattskyldug inntøka 7.796 7.056 15.650 12.900 </em></p>
-<p>Landsskattur   1.535 1.123</p>
-<p>Kommunuskattur (miðal) 1.075  2.668 2.110 Kirkjuskattur (0,6%)</p>
-<p>Gjald til Heilsutrygd (0,6% + 175 kr.)     Kringvarpsgjald</p>
-<p>Samhaldsfasti (2,25%)     ALS (1,25%)</p>
-<p xml:lang="dan">Barsil (0,71%)</p>
-<p><em type="bold">Útgoldið um mánaðin 10.284 8.641 10.290 8.659 </em></p>
-<p>Sum víst omanfyri, so skal ein vanligur løntakari í 2017 forvinna 15.650 kr. um mánaðin fyri at hava somu tøku inntøku eftir skatt og gjøld, sum ein stakur fólkapensjónistur. Fyri at hava tað sama eftir sum ein giftur pensjónistur, skal vanligur løntakari forvinna 12.900 kr. um mánaðin.</p>
-<p>Av samlaðu veitingunum til stakan pensjónist eru bara góðar 7.800 kr. skattskyldug inntøka av samanlagt 12.000 kr. Fyri giftan pensjónist er talan um góðar 7.000 kr. av góðum 10.100 kr. Hetta hevur við sær, at væl minni verður rindað í lands og kommunuskatti, og at eisini gjaldið til heilsutrygd – sum partvís verður rindað av skattskyldugari inntøku, og partvís er fast gjald – verður nakað lægri.</p>
-<p>Eisini ger tað stóran mun, at fólk omanfyri 66 ár ikki rinda til Samhaldsfasta, ALS og Barsilskipanina. Harumframt er kringvarpsgjaldið 50 kr. um mánaðin fyri fólkapensjónistar, meðan vanligur løntakari rindar 150 kr.</p>
+<p>Viðbót 4.537 kr.</p>
+<p>Grundupphædd á 2.733 kr. 33</p>
+<p>Giftir pensjónistar við egintøku – samanberingar ymisk húsarhald Hjá giftum pensjónistum er ikki so einfalt at samanbera útgjaldið, sum tað er hjá støkum. Orsøkin er tann, at tað ger rættiliga stóran mun, hvussu samlaða inntøkan er deild millum hjúnafelagarnar. Fordeilingin hevur bæði týdning fyri hvussu mótrokningin verður, og fyri hvussu skatturin verður. Fyri ávísar fordeilingar kann tað verða ein fyrimunur at mótroknað verður millum hjún, og fyri aðrar hevur tað ein kostnað við sær, at inntøkurnar verða lagdar saman. Niðanfyri verður tí hugt at tveimum ymiskum húsarhaldum. Í øðrum døminum hava báðir pensjónistarnir somu inntøku, og í hinum døminum hevur annar hjúnafelagin alla inntøkuna. Hugt verður bæði at pensjónistum í verandi skipan og í nýggju skipan.</p>
+<p>Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku Húsarhald í verandi skipan har bara annar hevur egininntøku fáa samanlagt góðar 2.000 kr. meira útgoldið í 2020 enn í 2017. Hetta er galdandi, nærum óansæð hvussu høg inntøkan er. Orsøkin er tann, at Samhaldsfasti hækkar hjá báðum, og alt annað er óbroytt.</p>
+<p><em type="bold">Mynd 23. Útgoldið um mánaðin </em>Húsarhald í gomlu skipan 2020, har bara annar hevur egininntøku, í mun til 2017 </p>
+<p><em type="bold">Mynd 24. Munur pr. mánað </em>Húsarhald í gomlu skipan 2020, har bara annar hevur egininntøku, í mun til 2017 16.00021.00026.00031.00036.00041.000025 50 75100 125 150 175 200 225250 275 300 325 350 375 400 425 450 475 5002020201705001.0001.5002.0002.500025507510012515017520022525027530032535037540042545047550034 </p>
+<p>Giftir pensjónistar í gomlu skipan – har bara annar hevur egininntøku Fyri húsarhald í verandi skipan, har bæði hava umleið somu egininntøka, verður hjá teimum flestu talan um samanlagt góðar 2.000 kr. meira útgoldið í 2020 enn í 2017. Tó er meirútgjaldið nakað minni fyri hægru inntøkurnar. Orsøkin er, at hægru inntøkurnar hava hægri marginalskatt, og fáa tí nakað minni útgoldið av hækkingini í Samhaldsfasta. Fyri húsarhald við inntøku omanfyri 550 tús. kr. samanlagt (275 tús. kr. hvør) verður talan um knappar 1.750 kr. meira um mánaðin.</p>
+<p><em type="bold">Mynd 25. Útgoldið um mánaðin </em>Húsarhald í gomlu skipan 2020, har bæði hava somu egininntøku, í mun til 2017 </p>
+<p><em type="bold">Mynd 26. Munur pr. mánað </em>Húsarhald í gomlu skipan 2020, har bæði hava somu egininntøku, í mun til 2017 16.00021.00026.00031.00036.00041.00046.00051.0000501001502002503003504004505005506002020201702505007501.0001.2501.5001.7502.0002.25005010015020025030035040045050055060035 </p>
+<p>Giftir pensjónistar í nýggju skipan – har bara annar hevur egininntøku Giftir pensjónistar, har bara annar hevur inntøku fáa fyrimun av nýggju skipanini. Tann sum hevur inntøkuna missir nú grundupphæddina, men hinvegin sleppur hjúnafelagin undan at verða mótroknaður í sínari viðbót. Harumframt fáa báðir pensjónistar ágóða av hægri Samhaldsfasta. Hjá teimum við lítlari og ongari egininntøku verður talan um góðar 2.000 kr. meira um mánaðin í mun til 2017. Hjá teimum við munandi egininntøku, verður hjá teimum flestu talan um millum 1.000 og 1.500 kr. meira um mánaðin.</p>
+<p><em type="bold">Mynd 27. Útgoldið um mánaðin </em>Húsarhald í nýggju skipan 2020, har bara annar hevur egininntøku, í mun til 2017 </p>
+<p><em type="bold">Mynd 28. Munur pr. mánað </em>Húsarhald í nýggju skipan 2020, har bara annar hevur egininntøku, í mun til 2017 16.00018.00020.00022.00024.00026.00028.00030.00032.00034.00036.00002550751001251501752002252502753003253503754002020201705001.0001.5002.0002.500025507510012515017520022525027530032535037540036 </p>
+<p>Giftir pensjónistar í nýggju skipan – har báðir hava somu egininntøku Hjá giftum pensjónistum, har báðir hava umleið somu inntøku, er nýggja skipanin ein fyrimunur í teimum førum, har talan er um tvær lágar inntøkur. Tá samlaða inntøkan fer upp um 350 tús. kr. árliga (175 tús. hvør) verður fyrimunurin burtur. Fer samlaða inntøkan upp um 550 tús. kr. ( 275 tús. kr. hvør) verður talan um næstan 3.750 kr. minni samanlagt um mánaðin í 2020 enn í 2017. Orsøkin er tann, at nú missa bæði grundupphæddina.</p>
+<p><em type="bold">Mynd 29. Útgoldið um mánaðin </em>Húsarhald í nýggju skipan 2020, har bæði hava somu egininntøku, samanborið við 2017 </p>
+<p><em type="bold">Mynd 30. Munur pr. mánað </em>Húsarhald í nýggju skipan 2020, har bæði hava somu egininntøku, í mun til 2017 </p>
+<p>Men eisini her er umráðandi at gera vart við, at talan ikki er um, at fólk koma at missa nakað, ið tey longu fáa frammanundan. Talan er um nýggjar pensjónistar frá og við 2020. Tað vil siga fólk, sum ikki fáa fólkapensjón frammanundan. Talið í 2017 er sostatt bara ein samanbering, ið sigur, hvat tey høvdu fingið um onki varð broytt. Eisini er tað soleiðis, at tá talan er um so høgar inntøkur, er talan fyri tað mesta um fólk, sum halda fram á arbeiðsmarknaðinum, og tey fáa nú møguleikan fyri at útseta fólkapensjónina, ímóti at fáa hægri pensjón tá tey fara frá. 16.00018.00020.00022.00024.00026.00028.00030.00032.00034.00036.00038.00040.00042.00044.00046.00005010015020025030035040045050055060020202017-4.500-4.000-3.500-3.000-2.500-2.000-1.500-1.000-50005001.0001.5002.0002.5003.0003.50005010015020025030035040045050055060037 6. Veitingar til fólkapensjónistar í mun til vanliga inntøku Veitingar til fólkapensjónistar eru partvís skattafríar og partvís skattskyldugar. Eisini er tað soleiðis, at fólk sleppa undan flestu arbeiðsmarknaðargjøldum tá tey gerast 67 ár. Harumframt lækkar kringvarpsgjaldið tá fólk gerast 67 ár. Hetta hevur samanlagt við sær, at tað gerst trupult at meta um veruliga virðið á samlaðu veitingunum til fólkapensjónistar, tí ringt er at samanbera við vanliga lønarinntøku ella skattskyldugar veitingar. Í hesum brotinum verður tí roynt at samanbera veitingarnar til fólkapensjónistar við vanliga skattskylduga inntøku. Niðanfyri verður hugt at, hvat ein vanligur løntakari skal forvinna fyri at hava somu tøku inntøku sum ein fólkapensjónistur, ið onga aðra inntøku hevur enn fólkapensjón og Samhaldsfasta.</p>
+<p><em type="bold"></em><em type="italic">Kr. um mánaðin </em></p>
+<p>Stakur 2017</p>
+<p>Giftur 2017</p>
+<p>Løntakari 2017</p>
+<p>Løntakari 2017</p>
+<p>Grundupphædd 3.589 2.733</p>
+<p>Viðbót til fólkapensjón 3.771 3.031</p>
+<p>Brennistuðul 634 317</p>
+<p>Samhaldsfasti 4.025 4.025</p>
+<p><em type="bold">Veitingar í alt </em><em type="bold">12.019 </em><em type="bold">10.106 </em></p>
+<p><em type="bold">Skattskyldug inntøka </em><em type="bold">7.796 </em><em type="bold">7.056 </em><em type="bold">15.650 </em><em type="bold">12.900 </em></p>
+<p>Landsskattur 357 246 1.535 1.123</p>
+<p>Kommunuskattur (miðal) 1.075 924 2.668 2.110</p>
+<p>Kirkjuskattur (0,6%) 32 27 79 62</p>
+<p>Gjald til Heilsutrygd (0,6% + 175 kr.) 222 217 269 252</p>
+<p>Kringvarpsgjald 50 50 150 150</p>
+<p>Samhaldsfasti (2,25%) 352 290</p>
+<p>ALS (1,25%) 196 161</p>
+<p xml:lang="dan">Barsil (0,71%) 111 92</p>
+<p><em type="bold">Útgoldið um mánaðin </em><em type="bold">10.284 </em><em type="bold">8.641 </em><em type="bold">10.290 </em><em type="bold">8.659 </em></p>
+<p>Sum víst omanfyri, so skal ein vanligur løntakari í 2017 forvinna 15.650 kr. um mánaðin fyri at hava somu tøku inntøku eftir skatt og gjøld, sum ein stakur fólkapensjónistur. Fyri at hava tað sama eftir sum ein giftur pensjónistur, skal vanligur løntakari forvinna 12.900 kr. um mánaðin. Av samlaðu veitingunum til stakan pensjónist eru bara góðar 7.800 kr. skattskyldug inntøka av samanlagt 12.000 kr. Fyri giftan pensjónist er talan um góðar 7.000 kr. av góðum 10.100 kr. Hetta hevur við sær, at væl minni verður rindað í lands og kommunuskatti, og at eisini gjaldið til heilsutrygd – sum partvís verður rindað av skattskyldugari inntøku, og partvís er fast gjald – verður nakað lægri. Eisini ger tað stóran mun, at fólk omanfyri 66 ár ikki rinda til Samhaldsfasta, ALS og Barsilskipanina. Harumframt er kringvarpsgjaldið 50 kr. um mánaðin fyri fólkapensjónistar, meðan vanligur løntakari rindar 150 kr. 38</p>
 <p>Við pensjónsnýskipanini hækkar útgjaldið til pensjónistar uttan egininntøku við góðum 1000 kr. um mánaðin í 2020.</p>
-<p><em type="italic">Støk </em></p>
-<p><em type="italic">Gift </em></p>
-<p><em type="italic">Løntakari </em></p>
-<p><em type="italic">Løntakari </em></p>
-<p><em type="italic"> Kr. um mánaðin </em></p>
-<p>Grundupphædd 3.589 2.733   Viðbót til fólkapensjón 4.779 3.537</p>
+<p><em type="italic">Kr. um mánaðin </em></p>
+<p>Støk 2020</p>
+<p>Gift 2020</p>
+<p>Løntakari 2020</p>
+<p>Løntakari 2020</p>
+<p>Grundupphædd 3.589 2.733</p>
+<p>Viðbót til fólkapensjón 4.779 3.537</p>
 <p>Samhaldsfasti 5.635 5.635</p>
-<p><em type="bold">Skattskyldug inntøka 10.414 9.172 17.600 14.800 </em></p>
-<p>Landsskattur   1.828 1.408</p>
-<p>Kommunuskattur (miðal) 1.606 1.354 3.064 2.496 Kirkjuskattur</p>
-<p>Gjald til Heilsutrygd     Kringvarpsgjald</p>
-<p>AMEG (3%)     ALS (1,25%)</p>
-<p xml:lang="dan">Barsil (0,71%)</p>
-<p><em type="bold">Útgoldið um mánaðin 11.313 9.668 11.315 9.675 </em></p>
-<p>Sum víst omanfyri, so hevur hækkingin við sær, at ein vanligur løntakari í 2020 forvinna 17.600 kr. um mánaðin fyri at hava somu tøku inntøku sum ein stakur fólkapensjónistur. Fyri at hava tað sama eftir sum ein giftur pensjónistur, skal vanligur løntakari forvinna 14.800 kr. um mánaðin í 2020.</p>
-<p>Til samanberingar kann nevnast, at tað mesta ein arbeiðsleysur kann fáa úr ALS-skipanini er 17.500 kr. um mánaðin. Tað mesta, sum kann fáast úr skipanini við sjúkradagpengum er góðar 4.500 kr. um vikuna, samsvarandi við góðar 17.400 kr. um mánaðin.</p>
-<p>7. Yvirlit yvir hoyringspartar</p>
-<p>Umframt at uppskotið verður lagt til almenna hoyring á heimasíðuni hjá Føroya Landsstýri, verður uppskotið sent beinleiðis til niðanfyri nevndu hoyringspartar.</p>
-<p><em type="bold">Almennir myndugleikar og stovnar: </em></p>
-<p>Almannamálaráðið Almannaverkið Brúkaraumboðið Fiskimálaráðið Føroya Kommunufelag Heilsumálaráðið Kappingareftirlitið Løgmansskrivstovan Mentamálaráðið Ríkisumboðið og stovnarnir undir statinum Tryggingareftirlitið Vinnumálaráðið</p>
-<p><em type="bold">Arbeiðsgevarar: </em></p>
-<p>Føroya Arbeiðsgevarafelag (Vinnuhúsið) Føroya Reiðarafelag Kommununala arbeiðsgevarafelag Føroya</p>
-<p><em type="bold">Áhugabólkar: </em></p>
-<p>Landsfelag Pensjónista Meginfelag teirra brekaðu í Føroyum Antares</p>
-<p><em type="bold">Eftirlønarveitarar: </em></p>
-<p>Betri Pensjón Felagið Peningastovnar Lív</p>
-<p><em type="bold">Fakfeløg: </em></p>
-<p>Akademikarafelag Føroya (AKF) Almanna- og heilsurøktarafelagið  Arkitektafelag Føroya Bioanalytikarafelagið Búskapar- &amp; Løgfrøðingafelag Føroya Dansk Farmaceutforening, Pharma Danmark Ergoterapeutfelagið Fakfelag Sjómansskúlalærara í Føroyum  Farmakonomforeningen</p>
-<p>FAS Serlæknafelag Føroya Felagið Føroyskir Sjúkrarøktarfrøðingar Felagið Maskinmeistaralærarar Føroya Arbeiðarafelag Føroya Byggifrøðingafelag Føroya Fiskimannafelag Føroya Handverkarafelag Føroya Lærarafelag Føroya Musikklærarafelag Føroya Prentarafelag Føroya Psykiatrifelag Føroya Skipara- og Navigatørfelag Føroya Tekniska Lærafelag Føroya Verkfrøðingarfelag Fysioterapeutfelag Føroya Havnar Arbeiðmannafelag Havnar Arbeiðskvinnufelag Havnar Handverkarafelag Heilsuhjálparafelag Føroya Hjálparlæknaráð Føroya HK Føroya deild Klaksvíkar Arbeiðskvinnufelag Klaksvíkar Arbeiðsmannafelag Kost- og føðslufelag Føroya Lærarafelag Handilsskúlans Landsfelag Handverkaranna Ljósmøðrafelag Føroya Magistarafelag Føroya  Maskinmeistarafelagið  Musikklærarafelag Føroya  Pedagogfelagið  Rithøvundafelag Føroya S &amp; K Felagið Samtak Starvsfólkafelagið í BankNordik Starvsmannafelagið Tænastumannafelagið Yrkisfelag Studentaskúla- og HF-lærara YTF</p>
+<p><em type="bold">Skattskyldug inntøka </em><em type="bold">10.414 </em><em type="bold">9.172 </em><em type="bold">17.600 </em><em type="bold">14.800 </em></p>
+<p>Landsskattur 750 563 1.828 1.408</p>
+<p>Kommunuskattur (miðal) 1.606 1.354 3.064 2.496</p>
+<p>Kirkjuskattur 47 40 91 74</p>
+<p>Gjald til Heilsutrygd 237 230 281 264</p>
+<p>Kringvarpsgjald 50 50 150 150</p>
+<p xml:lang="dan">AMEG (3%) 528 444</p>
+<p>ALS (1,25%) 220 185</p>
+<p xml:lang="dan">Barsil (0,71%) 125 105</p>
+<p><em type="bold">Útgoldið um mánaðin </em><em type="bold">11.313 </em><em type="bold">9.668 </em><em type="bold">11.315 </em><em type="bold">9.675 </em></p>
+<p>Sum víst omanfyri, so hevur hækkingin við sær, at ein vanligur løntakari í 2020 forvinna 17.600 kr. um mánaðin fyri at hava somu tøku inntøku sum ein stakur fólkapensjónistur. Fyri at hava tað sama eftir sum ein giftur pensjónistur, skal vanligur løntakari forvinna 14.800 kr. um mánaðin í 2020. Til samanberingar kann nevnast, at tað mesta ein arbeiðsleysur kann fáa úr ALS-skipanini er 17.500 kr. um mánaðin. Tað mesta, sum kann fáast úr skipanini við sjúkradagpengum er góðar 4.500 kr. um vikuna, samsvarandi við góðar 17.400 kr. um mánaðin. 39 7. Yvirlit yvir hoyringspartar Umframt at uppskotið verður lagt til almenna hoyring á heimasíðuni hjá Føroya Landsstýri, verður uppskotið sent beinleiðis til niðanfyri nevndu hoyringspartar. <em type="bold">Almennir myndugleikar og stovnar: </em>Almannamálaráðið Almannaverkið Brúkaraumboðið Fiskimálaráðið Føroya Kommunufelag Heilsumálaráðið Kappingareftirlitið Løgmansskrivstovan Mentamálaráðið Ríkisumboðið og stovnarnir undir statinum Tryggingareftirlitið Vinnumálaráðið <em type="bold">Arbeiðsgevarar: </em>Føroya Arbeiðsgevarafelag (Vinnuhúsið) Føroya Reiðarafelag Kommununala arbeiðsgevarafelag Føroya <em type="bold">Áhugabólkar: </em>Landsfelag Pensjónista Meginfelag teirra brekaðu í Føroyum Antares <em type="bold">Eftirlønarveitarar: </em>Betri Pensjón Felagið Peningastovnar Lív <em type="bold">Fakfeløg: </em>Akademikarafelag Føroya (AKF) Almanna- og heilsurøktarafelagið Arkitektafelag Føroya Bioanalytikarafelagið Búskapar- &amp; Løgfrøðingafelag Føroya Dansk Farmaceutforening, Pharma Danmark Ergoterapeutfelagið Fakfelag Sjómansskúlalærara í Føroyum Farmakonomforeningen </p>
+<p>FAS Serlæknafelag Føroya Felagið Føroyskir Sjúkrarøktarfrøðingar Felagið Maskinmeistaralærarar Føroya Arbeiðarafelag Føroya Byggifrøðingafelag Føroya Fiskimannafelag Føroya Handverkarafelag Føroya Lærarafelag Føroya Musikklærarafelag Føroya Prentarafelag Føroya Psykiatrifelag Føroya Skipara- og Navigatørfelag Føroya Tekniska Lærafelag Føroya Verkfrøðingarfelag Fysioterapeutfelag Føroya Havnar Arbeiðmannafelag Havnar Arbeiðskvinnufelag Havnar Handverkarafelag Heilsuhjálparafelag Føroya Hjálparlæknaráð Føroya HK Føroya deild Klaksvíkar Arbeiðskvinnufelag Klaksvíkar Arbeiðsmannafelag Kost- og føðslufelag Føroya Lærarafelag Handilsskúlans Landsfelag Handverkaranna Ljósmøðrafelag Føroya Magistarafelag Føroya Maskinmeistarafelagið Musikklærarafelag Føroya Pedagogfelagið Rithøvundafelag Føroya S &amp; K Felagið Samtak Starvsfólkafelagið í BankNordik Starvsmannafelagið Tænastumannafelagið Yrkisfelag Studentaskúla- og HF-lærara YTF</p>
 </body></document>

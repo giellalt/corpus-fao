@@ -1,453 +1,717 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8499</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2017_02_haruveidanifoeroyum2016.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Haruveiðan í Føroyum  </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8886</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2017_02_haruveidanifoeroyum2016.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Haruveiðan í Føroyum </em><em type="bold">2016 </em></p>
 <p xml:lang="eng"><em type="italic">Hunting of hare in the Faroe Islands in 2016 </em></p>
 <p><em type="bold">Eyðfinn Magnussen </em></p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>  2017:02 </p>
-<p>Heiti / <em type="italic">Title</em><em type="bold">Haruveiðan í Føroyum 2016 </em></p>
+<p xml:lang="dan">NVD</p>
+<p xml:lang="eng"><em type="italic">Rit </em>2017:02 </p>
+<p>Heiti /</p>
+<p xml:lang="eng"><em type="italic">Title </em></p>
+<p><em type="bold">Haruveiðan í Føroyum 2016 </em></p>
 <p xml:lang="eng"><em type="italic">Hunting of hare in the Faroe Islands in 2016 </em></p>
-<p>Høvundur  / <em type="italic">Author</em><em type="bold">Eyðfinn Magnussen </em></p>
-<p xml:lang="eng">Ritslag / <em type="italic">Report Type</em>Tøknifrágreiðing/<em type="italic">Technical Report</em> </p>
-<p xml:lang="dan">Útgávudagur / P<em type="italic">ublishing Date</em>23. februar 2017 </p>
-<p xml:lang="eng"><em type="italic">NVD</em>Rit2017:02 </p>
-<p>©Náttúruvísindadeildin og høvundurin</p>
-<p>Permumynd / <em type="italic">Cover Picture</em>Eyðfinn Magnussen </p>
-<p>Útgevari / <em type="italic">Publisher</em>Náttúruvísindadeildin, Fróðskaparsetur Føroya </p>
-<p>Bústaður / <em type="italic">Address</em>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) </p>
-<p>        @+298 352550     +298 352551    nvd@setur.fo</p>
-<p><em type="bold">Innihaldsyvirlit </em></p>
-<p>1. Samandráttur  ..............................................................................................  Síða  6</p>
-<p xml:lang="eng">1.1. Summary (<em type="italic">written in english</em>)  .................................................................. 7 </p>
-<p>2. Innsavning av veiðutølum ......................................................................................  8</p>
-<p>2.1 Hvussu fullfíggjað er kanningin? ..............................................................  10</p>
-<p>3. Hvussu nógvar harur vórðu skotnar í 2016? ..........................................................  11</p>
-<p>3.1  Hagapartar .............................................................................................. 12</p>
-<p>3.2  Oyggj ...................................................................................................... 15</p>
-<p xml:lang="eng">3.3  Bygd ....................................................................................................... 16</p>
-<p>3.4  Útvaldir dagar ......................................................................................... 17</p>
-<p>3.5  Veiða dag fyri dag í 2016 og 2015 ......................................................... 18</p>
-<p>3.6  Hvussu nógvar harur fingu teir hvønn túrin? .......................................... 19</p>
-<p>3.7  Hvussu nógvir skjúttar vóru við hvønn túrin? ......................................... 20</p>
-<p>3.8. Hvussu nógvir mans skutu harur í Føroyum í 2016? ............................. 21</p>
-<p>4. Føroyska veðrið í november og desember mánað 2016 ...................................... 22</p>
-<p>5. Týdningurin, sum rottan hevur fyri føroysku haruna ............................................. 25</p>
-<p>5.1 Rottan ..................................................................................................... 27</p>
-<p>5.2 Fýra ræðandi rottusøgur ......................................................................... 28</p>
-<p>- ROTTA LOYPUR Á HAVHESTUNGA ............................................... 28</p>
-<p>- ROTTA DRIPIÐ HARUUNGAR  ........................................................ 28</p>
-<p>- ROTTA LOYPUR Á SEYÐ  ............................................................... 29</p>
-<p>- ROTTA LOYPUR Á POSTMANN  ..................................................... 29</p>
-<p>6. Heimildir ................................................................................................................ 30</p>
-<p xml:lang="eng"><em type="bold">Appendix</em>: </p>
+<p>Høvundur /</p>
+<p xml:lang="eng"><em type="italic">Author </em></p>
+<p><em type="bold">Eyðfinn Magnussen </em></p>
+<p xml:lang="dan">Ritslag /</p>
+<p xml:lang="eng"><em type="italic">Report Type </em></p>
+<p>Tøknifrágreiðing/</p>
+<p xml:lang="eng"><em type="italic">Technical Report </em></p>
+<p>Útgávudagur / P <em type="italic">ublishing Date </em>23. februar 2017 </p>
+<p xml:lang="eng"><em type="italic">NVD </em>Rit2017:02 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p xml:lang="eng">Permumynd /</p>
+<p xml:lang="eng"><em type="italic">Cover Picture </em></p>
+<p>Eyðfinn Magnussen</p>
+<p>Útgevari /</p>
+<p xml:lang="eng"><em type="italic">Publisher </em></p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður /</p>
+<p xml:lang="eng"><em type="italic">Address </em></p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)     @+298 352550  +298 352551  nvd@setur.fo 5</p>
+<p><em type="bold">Innihaldsyvirlit </em>1. Samandráttur .............................................................................................. Síða 6 1.1. Summary ( <em type="italic">written in english </em>) .................................................................. 7 2. Innsavning av veiðutølum ...................................................................................... 8 2.1 Hvussu fullfíggjað er kanningin? .............................................................. 10 3. Hvussu nógvar harur vórðu skotnar í 2016? .......................................................... 11 3.1 Hagapartar .............................................................................................. 12 3.2 Oyggj ...................................................................................................... 15 3.3 Bygd ....................................................................................................... 16 3.4 Útvaldir dagar ......................................................................................... 17 3.5 Veiða dag fyri dag í 2016 og 2015 ......................................................... 18 3.6 Hvussu nógvar harur fingu teir hvønn túrin? .......................................... 19 3.7 Hvussu nógvir skjúttar vóru við hvønn túrin? ......................................... 20 3.8. Hvussu nógvir mans skutu harur í Føroyum í 2016? ............................. 21 4. Føroyska veðrið í november og desember mánað 2016 ...................................... 22 5. Týdningurin, sum rottan hevur fyri føroysku haruna ............................................. 25 5.1 Rottan ..................................................................................................... 27 5.2 Fýra ræðandi rottusøgur ......................................................................... 28 - ROTTA LOYPUR Á HAVHESTUNGA ............................................... 28 - ROTTA DRIPIÐ HARUUNGAR ........................................................ 28 - ROTTA LOYPUR Á SEYÐ ............................................................... 29 - ROTTA LOYPUR Á POSTMANN ..................................................... 29 6. Heimildir ................................................................................................................ 30 </p>
+<p xml:lang="eng"><em type="bold">Appendix </em>: </p>
 <p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2016:</p>
-<p>Skipað eftir oyggj, bygd, hagaparti og dato ..............................................  síða  31 – 42</p>
-<p>Hetta er fimta frágreiðingin, sum eg skrivi um haruveiðuna í Føroyum. Fyrsta royndin var gjørd í 2012. Í yvirlitinum eru tilsamans 2.950 harur skrásettar at vera skotnar í Føroyum í 2016. Út frá hesum meti eg, at samlaða talið av harum, sum vórðu skotnar í Føroyum í 2016, hevur verið umleið 3.500.</p>
-<p>Kanningin byggir á tøl frá tilsamans 451 harutúrum í 187 hagapørtum kring landið. Helvtin av harunum vórðu skotar í 35 hagapørtum, av hesum vórðu 728 harur, tað er 25%, skotnar í 13 hagapørtum. Í 20 teimum bestu haruhøgunum skutu teir tilsamans 1.024 harur, sum er 35% av samlaðu veiðuni í Føroyum í 2016.</p>
-<p>Raskastir at skjóta harur í Føroyum í 2016 vóru teir, sum skutu í Kvíggjarhamarshaga í Saksun. Teir skutu tilsamans 90 harur, sum teir fingu á 7 túrum. Teimum á baki vóru teir í <span type="quote">“Strandarhaga”</span> á Strond á Borðoynni, við 69 harum á 5 túrum. Á triðja plássi vóru harumenninir í <span type="quote">“Fjalli”</span>, sum er partur á Ognarhaganum í Kvívík. Teir fingu 68 harum á 7 túrum.</p>
-<p>Verður hædd tikið fyri, hvussu nógvir túrar vórðu gingnir í hvørjum haga og hvussu nógvir skjúttar vóru við hvønn túrin, broytist úrslitið. Eftir hesum útrokningarháttinum, lá best fyri í hagapartunum <span type="quote">“Bergið”</span> í Árnafirði. Í hesum hagunum varð bara skotið tann eina dagin, har ein einsamallur maður fekk 10 harur. Næstbestur var <span type="quote">“Miðhagi + Líðarhagi”</span> á Norðoyri, har ein einsamallur maður ein dag fekk 8 harur. Á triðja plássi var hagin <span type="quote">“Norðastifjórðingur”</span> á Sandi, har ein einsamallur maður ein dag fekk 7 harur.</p>
-<p>Fyri alt landið vórðu skotnar 2,38 harur pr. byrsu hvønn dagin. Hetta er á leið tað sama, sum í 2015, tá miðalveiðan var 2,36 harur pr. byrsu hvønn dagin, men munandi minni enn í 2014, tá veiðan var 3,1 harur pr. byrsu hvønn dagin, og eisini minni enn í 2013, tá miðalveiðan var 2,9 harur pr. byrsu hvønn dagin.</p>
-<p>Flest harurnar vórðu skotnar á Streymoynni, íalt 1.275 harur, sum er 43% av samlaða talinum av harum, sum vórðu skotnar í Føroyum í 2016. Í Vágum skutu teir 465 harur, í Eysturoynni 462 og á Borðoynni 333 harur.</p>
-<p>Vestmanna er, eins og undanfarin ár, tann bygdin í Føroyum, har flestu harurnar vórðu skotnar í 2016. Tilsamans skutu vestmenningar 278 harur á 44 túrum, men hetta er bert ein fjórðingur av tí, sum teir skutu í 2014, tá vestmenningar skutu 1.120 harur á 74 túrum.</p>
-<p>Fyrsta dag, loyvt var at skjóta haru í 2016, var mikudagin 2. november. Hendan dagin fingu teir tilsamans 598 harur, sum vórðu skotnar í 39 hagapørtum kring landið. Hetta var eisini nógv tann besti einstaki harudagurin í árinum, og fingu teir 20% av samlaðu árligu veiðuni hendan dagin og gingu 9% av samlaða túratalinum. Seinasta dag, 31 desember, vórðu skotnar 282 harur í 52 høgum.</p>
-<p>Á teimum 451 harutúrunum, sum vórðu gjørdir í 2016, var veiðan millum 0 og 50 harur hvønn túrin. Vanligast var at fáa 1 til 4 harur á einum túri. Í miðal vórðu 6,40 harur skotnar á hvørjum túri, sum er eitt sindur meira enn í 2015, tá teir i miðal fingu 6,23 harur hvønn túrin, men minni enn í bæði 2014 og 2013, tá miðaltalið var ávikavist 8,12 og 8,2 harur pr. túr.</p>
-<p>Talið av skjúttum á hvørjum harutúri í 2016 var millum 1 og 17. Helvtin av túrunum vóru teir 2 ella færri skjúttar á hvørjum túri. 143 ferðir (32%) var bert ein maður og skeyt.</p>
-<p>Mett verður, at í 2016 skutu umleið 700 ymiskir mans harur í Føroyum. Hetta er eitt sindur færri enn í 2015, tá einir 800 mans skutu, og nógv minni enn í 2014, tá 1.200 mans skutu harur í Føroyum.</p>
-<p xml:lang="eng">This is the fifth yearly census of hares hunted in the Faroe Islands. The hunting season is from 2 November to 31 December. The first census was conducted in 2012.</p>
-<p xml:lang="eng">The 2016 survey is based on data collected through the webpage <span type="quote">“haran.fo”</span>, which was created for this purpose. The investigation is based on information from 451 distinct hunting expeditions carried out in 187 outfields covering the most of the Faroe Islands.</p>
-<p xml:lang="eng">In the present overview, 2,950 hares are registered shot in the Faroe Islands. Based on this, I estimate the total number of hunted hares has been around 3,500 animals in 2016.</p>
-<p xml:lang="eng">Half of the hares were shot in 35 outfields. Half of these, i.e. 728 hares, where shot in 13 of the best outfields. In the 20 best hunting fields, a total of 1,024 hares were shot, corresponding to 35% of the hunted hares.</p>
-<p xml:lang="eng">The most successful hare-hunters in the Faroe Islands in 2016 were those from the outfield ‘Kvíggjarhamarshaga’ belonging to the village Saksun. In total, they shot 90 hares in 7 trips. In second place were those from ‘Strandarhaga”, in village Strond, with 69 hares in 5 trips. Number three were those from ‘Fjalli” in village Kvívík. They got 68 hares in 7 hunting expeditions.</p>
-<p xml:lang="eng">However, if hunting statistics is adjusted by number of trips and shots, then the top-3 list changes. Then the field ‘Bergið’, belonging to the village Árnafjørður was the most successful. In this field a single man shot 10 hares in a single trip. Number two would be the field <span type="quote">“Miðhagi + Líðarhagi”</span> belonging to the village Norðoyri, where a single man shot 8 hares in a single trip. Number three was the field <span type="quote">“Norðastifjórðingur”</span> in village Sandur, where a single man shot 7 hares one day.</p>
-<p xml:lang="eng">Overall, 2.38 hares where shot per gun per day in the Faroe Islands in 2016, compared to 2.36 in 2015, 3.1 in 2014 and 2.9 hares per gun per day in 2013.</p>
-<p xml:lang="eng">Most hares were shot on the island Streymoy with a total of 1,275, corresponding to 43% of the hunted hares in the Faroe Islands in 2016. On the island Vágar, 465 hares were shot, on Eysturoy 462 and on the island Borðoy 333 hares.</p>
-<p xml:lang="eng">The village Vestmanna on the island Streymoy is, as in the previous years, the place where most hares were shot in 2016. In total, they shot 278 hares on 44 trips, but this is only a fourth of the hares hunted in 2014, when they shot 1,120 hares on 74 trips.</p>
-<p xml:lang="eng">On the first hunting day (2th November) 598 hares were shot in 39 fields. This is 20% of the catch in 2016 and 9% of the trips. On the last hunting day (31st December), a total of 282 hares were shot in 52 fields.</p>
-<p xml:lang="eng">On the 451 individual hunting trips in 2016, the hunting success ranged from 0 to 50 hares on each trip. The most common success rate was between 1 and 4 hares on a single day. Over the whole season, 6.40 hares were shot in average on a trip. This is somewhat more than in 2015, when in average 6.23 hares were obtained per trip, but lesser than both in 2014 and 2013 when they got 8.12 and 8.2 hares in average on each trip, respectively.</p>
-<p xml:lang="eng">The number of shooters on a trip ranged from 1 to 17. On half of the trips, an average of 2.0 or fewer shooters participated, in 143 cases (32%), the hunter was alone.</p>
-<p>It is estimated that approximately 700 distinct shooters participated in hare-hunting in the Faroe Islands in 2016, corre</p>
-<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2015</em>. NVDrit 2016:02, p. 1-44. Kann lesast her. </p>
-<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku </em></p>
-<p><em type="bold">haruna</em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
-<p>Magnussen, E. (2014). <em type="bold">Haruveiðan í Føroyum 2013</em>. NVDrit 2014:02, p. 1-57. Kann lesast her. </p>
-<p>Magnussen, E. (2013). <em type="bold">Haruveiðan í Føroyum 2012</em>. NVDrit 2013:02, p. 1-44. Kann lesast her. </p>
-<p>Haruhagtølini, sum eru við í hesi frágreiðing, byggja á upplýsingar, sum eru fingnar frá harumonnum kring landið, og sum teir sjálvir hava tastað inn á heimasíðuna <span type="quote">“Haran.fo”</span>. Veiðutøluni koma frá 193 heimildarfólkum kring alt landið. Fyrstu árini var skrásetingin av føroysku haruveiðuni gjørd í Facebook-bólkinum “Haruskjóting í</p>
-<p>Føroyum”. Hetta er ein afturlatin bólkur, sum framvegis er virkin, og sum 6. februar</p>
-<p>2017 hevði 2.202 limir.</p>
+<p>Skipað eftir oyggj, bygd, hagaparti og dato .............................................. síða 31 – 42 6 <em type="bold">1. Samandráttur </em></p>
+<p>Hetta er fimta frágreiðingin, sum eg skrivi um haruveiðuna í Føroyum. Fyrsta royndin var gjørd í 2012. Í yvirlitinum eru tilsamans 2.950 harur skrásettar at vera skotnar í Føroyum í 2016. Út frá hesum meti eg, at samlaða talið av harum, sum vórðu skotnar í Føroyum í 2016, hevur verið umleið 3.500. Kanningin byggir á tøl frá tilsamans 451 harutúrum í 187 hagapørtum kring landið. Helvtin av harunum vórðu skotar í 35 hagapørtum, av hesum vórðu 728 harur, tað er 25%, skotnar í 13 hagapørtum. Í 20 teimum bestu haruhøgunum skutu teir tilsamans 1.024 harur, sum er 35% av samlaðu veiðuni í Føroyum í 2016. Raskastir at skjóta harur í Føroyum í 2016 vóru teir, sum skutu í Kvíggjarhamarshaga í Saksun. Teir skutu tilsamans 90 harur, sum teir fingu á 7 túrum. Teimum á baki vóru teir í <span type="quote">“Strandarhaga”</span> á Strond á Borðoynni, við 69 harum á 5 túrum. Á triðja plássi vóru harumenninir í <span type="quote">“Fjalli”</span>, sum er partur á Ognarhaganum í Kvívík. Teir fingu 68 harum á 7 túrum. Verður hædd tikið fyri, hvussu nógvir túrar vórðu gingnir í hvørjum haga og hvussu nógvir skjúttar vóru við hvønn túrin, broytist úrslitið. Eftir hesum útrokningarháttinum, lá best fyri í hagapartunum <span type="quote">“Bergið”</span> í Árnafirði. Í hesum hagunum varð bara skotið tann eina dagin, har ein einsamallur maður fekk 10 harur. Næstbestur var <span type="quote">“Miðhagi + Líðarhagi”</span> á Norðoyri, har ein einsamallur maður ein dag fekk 8 harur. Á triðja plássi var hagin <span type="quote">“Norðastifjórðingur”</span> á Sandi, har ein einsamallur maður ein dag fekk 7 harur. Fyri alt landið vórðu skotnar 2,38 harur pr. byrsu hvønn dagin. Hetta er á leið tað sama, sum í 2015, tá miðalveiðan var 2,36 harur pr. byrsu hvønn dagin, men munandi minni enn í 2014, tá veiðan var 3,1 harur pr. byrsu hvønn dagin, og eisini minni enn í 2013, tá miðalveiðan var 2,9 harur pr. byrsu hvønn dagin. Flest harurnar vórðu skotnar á Streymoynni, íalt 1.275 harur, sum er 43% av samlaða talinum av harum, sum vórðu skotnar í Føroyum í 2016. Í Vágum skutu teir 465 harur, í Eysturoynni 462 og á Borðoynni 333 harur. Vestmanna er, eins og undanfarin ár, tann bygdin í Føroyum, har flestu harurnar vórðu skotnar í 2016. Tilsamans skutu vestmenningar 278 harur á 44 túrum, men hetta er bert ein fjórðingur av tí, sum teir skutu í 2014, tá vestmenningar skutu 1.120 harur á 74 túrum. Fyrsta dag, loyvt var at skjóta haru í 2016, var mikudagin 2. november. Hendan dagin fingu teir tilsamans 598 harur, sum vórðu skotnar í 39 hagapørtum kring landið. Hetta var eisini nógv tann besti einstaki harudagurin í árinum, og fingu teir 20% av samlaðu árligu veiðuni hendan dagin og gingu 9% av samlaða túratalinum. Seinasta dag, 31 desember, vórðu skotnar 282 harur í 52 høgum. Á teimum 451 harutúrunum, sum vórðu gjørdir í 2016, var veiðan millum 0 og 50 harur hvønn túrin. Vanligast var at fáa 1 til 4 harur á einum túri. Í miðal vórðu 6,40 harur skotnar á hvørjum túri, sum er eitt sindur meira enn í 2015, tá teir i miðal fingu 6,23 harur hvønn túrin, men minni enn í bæði 2014 og 2013, tá miðaltalið var ávikavist 8,12 og 8,2 harur pr. túr. Talið av skjúttum á hvørjum harutúri í 2016 var millum 1 og 17. Helvtin av túrunum vóru teir 2 ella færri skjúttar á hvørjum túri. 143 ferðir (32%) var bert ein maður og skeyt. Mett verður, at í 2016 skutu umleið 700 ymiskir mans harur í Føroyum. Hetta er eitt sindur færri enn í 2015, tá einir 800 mans skutu, og nógv minni enn í 2014, tá 1.200 mans skutu harur í Føroyum. 7 <em type="bold">1.1. Summary </em></p>
+<p xml:lang="eng">This is the fifth yearly census of hares hunted in the Faroe Islands. The hunting season is from 2 November to 31 December. The first census was conducted in 2012. The 2016 survey is based on data collected through the webpage <span type="quote">“haran.fo”</span>, which was created for this purpose. The investigation is based on information from 451 distinct hunting expeditions carried out in 187 outfields covering the most of the Faroe Islands. In the present overview, 2,950 hares are registered shot in the Faroe Islands. Based on this, I estimate the total number of hunted hares has been around 3,500 animals in 2016. Half of the hares were shot in 35 outfields. Half of these, i.e. 728 hares, where shot in 13 of the best outfields. In the 20 best hunting fields, a total of 1,024 hares were shot, corresponding to 35% of the hunted hares. The most successful hare-hunters in the Faroe Islands in 2016 were those from the outfield ‘Kvíggjarhamarshaga’ belonging to the village Saksun. In total, they shot 90 hares in 7 trips. In second place were those from ‘Strandarhaga”, in village Strond, with 69 hares in 5 trips. Number three were those from ‘Fjalli” in village Kvívík. They got 68 hares in 7 hunting expeditions. However, if hunting statistics is adjusted by number of trips and shots, then the top-3 list changes. Then the field ‘Bergið’, belonging to the village Árnafjørður was the most successful. In this field a single man shot 10 hares in a single trip. Number two would be the field <span type="quote">“Miðhagi + Líðarhagi”</span> belonging to the village Norðoyri, where a single man shot 8 hares in a single trip. Number three was the field <span type="quote">“Norðastifjórðingur”</span> in village Sandur, where a single man shot 7 hares one day. Overall, 2.38 hares where shot per gun per day in the Faroe Islands in 2016, compared to 2.36 in 2015, 3.1 in 2014 and 2.9 hares per gun per day in 2013. Most hares were shot on the island Streymoy with a total of 1,275, corresponding to 43% of the hunted hares in the Faroe Islands in 2016. On the island Vágar, 465 hares were shot, on Eysturoy 462 and on the island Borðoy 333 hares. The village Vestmanna on the island Streymoy is, as in the previous years, the place where most hares were shot in 2016. In total, they shot 278 hares on 44 trips, but this is only a fourth of the hares hunted in 2014, when they shot 1,120 hares on 74 trips. On the first hunting day (2th November) 598 hares were shot in 39 fields. This is 20% of the catch in 2016 and 9% of the trips. On the last hunting day (31st December), a total of 282 hares were shot in 52 fields. On the 451 individual hunting trips in 2016, the hunting success ranged from 0 to 50 hares on each trip. The most common success rate was between 1 and 4 hares on a single day. Over the whole season, 6.40 hares were shot in average on a trip. This is somewhat more than in 2015, when in average 6.23 hares were obtained per trip, but lesser than both in 2014 and 2013 when they got 8.12 and 8.2 hares in average on each trip, respectively. The number of shooters on a trip ranged from 1 to 17. On half of the trips, an average of 2.0 or fewer shooters participated, in 143 cases (32%), the hunter was alone. It is estimated that approximately 700 distinct shooters participated in hare-hunting in the Faroe Islands in 2016, corresponding to 3% of the male population. In 2015, 800 hunters participated and in 2014, 1,200 hunters. <em type="bold"></em>8 <em type="bold">2. Innsavning av veiðutølum </em></p>
+<p>Hetta er fimta royndin hjá mær at fáa fatur á upplýsingum um haruveiðuna í Føroyum. Fyrsta royndin varð gjørd í 2012, og hevur skrásetingin av haruveiðuni síðani verið gjørd á hvørjum ári, og tá harutíðin er liðug, er frágreiðing skrivað. Tær fýra frágreiðingarnar, sum eru komnar, eru:</p>
+<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2015 </em>. NVDrit 2016:02, p. 1-44. Kann lesast her. </p>
+<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku </em><em type="bold">haruna </em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
+<p>Magnussen, E. (2014). <em type="bold">Haruveiðan í Føroyum 2013 </em>. NVDrit 2014:02, p. 1-57. Kann lesast her. </p>
+<p>Magnussen, E. (2013). <em type="bold">Haruveiðan í Føroyum 2012 </em>. NVDrit 2013:02, p. 1-44. Kann lesast her. </p>
+<p>Haruhagtølini, sum eru við í hesi frágreiðing, byggja á upplýsingar, sum eru fingnar frá harumonnum kring landið, og sum teir sjálvir hava tastað inn á heimasíðuna <span type="quote">“Haran.fo”</span>. Veiðutøluni koma frá 193 heimildarfólkum kring alt landið. Fyrstu árini var skrásetingin av føroysku haruveiðuni gjørd í Facebook-bólkinum <span type="quote">“Haruskjóting í Føroyum”</span>. Hetta er ein afturlatin bólkur, sum framvegis er virkin, og sum 6. februar 2017 hevði 2.202 limir.</p>
 <p>Á hesi Facebook-síðuni skrivaðu limirnir, hvussu nógvar harur teir fingu hvønn dagin. Úrslitini vórðu síðani skrivaði inn í eitt rokniark, og haðani flutt í eina databasu, har samanteljingar og samanberingar vóru gjørdar. Hetta arbeiði var sera tíðarkrevjandi, og alt arbeiði var gjørt í frítíðini; fyri tað mesta leygarkvøld og sunnukvøld.</p>
-<p>Fyri at lætta um arbeiðið, vóru úrslitini frá haruveiðan í 2015 og 2016 í staðin skrásett á heimasíðuni <span type="quote">“Haran.fo”</span>, sum er ein nýggj síða, sum er gjørd til endamálið. Harumenninir leggja nú sjálvir úrslitini inn í skipanina, so nú slepst undan tí drúgva inntastingararbeiðinum, sum fyrr var neyðugt at gera. Fyri at skráseta, skalt tú trýsta á ein knøtt, sum er ovast á síðuni í høgra horni <span type="quote">“Skráset Harutúr”</span>. Her eru sjey felt, sum skulu fyllast úr:</p>
-<p type="listitem"> Oyggj</p>
-<p type="listitem"> Bygd/Býur</p>
-<p type="listitem"> Hagi</p>
-<p type="listitem" xml:lang="eng"> Dato</p>
-<p type="listitem">  Tal av skotnum harum</p>
-<p type="listitem">  Tal av byrsum”</p>
-<p type="listitem"> Heimildarfólk.</p>
+<p>Fyri at lætta um arbeiðið, vóru úrslitini frá haruveiðan í 2015 og 2016 í staðin skrásett á heimasíðuni <span type="quote">“Haran.fo”</span>, sum er ein nýggj síða, sum er gjørd til endamálið. Harumenninir leggja nú sjálvir úrslitini inn í skipanina, so nú slepst undan tí drúgva inntastingararbeiðinum, sum fyrr var neyðugt at gera. Fyri at skráseta, skalt tú trýsta á ein knøtt, sum er ovast á síðuni í høgra horni <span type="quote">“Skráset Harutúr”</span>. Her eru sjey felt, sum skulu fyllast úr:  Oyggj  Bygd/Býur  Hagi  Dato  Tal av skotnum harum  Tal av byrsum”  Heimildarfólk.</p>
 <p>Tá feltini eru útfylt, verða úrslitini løgd inn í skipanina. Her ber til síggja øll úrslitini, sum eru skrásett, og til ber at fylgja við gongdini í haruveiðuni kring landið. Á einum grafi mitt á síðuni sæst, hvussu veiðan hevur verið dag fyri dag og hvussu nógvir túrar hava verið gjørdir. Til ber at síggja, hvussu nógvar harur tilsamans eru skotnar í hvørjari oyggj, bygd og haga kring landið. Eisini sæst hvussu nógvar harur eru skotnar hvørja viku og hvønn dag í harutíðini.</p>
-<p>Tað eru teir báðir vestmenningarnir John Johannesen, sum lesur verkfrøði á DTU í Keypmannahavn og Rói Holgarsson, sum lesur KT-verkfrøði á Fróðskaparsetrinum, sum hava ment síðuna. Teir hava sjálvir boðið seg fram, og alt arbeiðið er gjørt uttan peningaliga samsýning.</p>
-<p>upplýsingar frá teimum 451 einstøku túrunum, sum vórðu skrásettir, eru eisini upplýsingar fyri samlaða talið av harum, sum vórðu skotnar í trimum høgum, og upplýsingar um 14 hagar, har teir ikki hava skotið harur í 2016. Samlaða talið kemur sostatt upp á 468 skrásetingar fyri árið 2016.</p>
-<p>Tal av skotnum harum 2.950 Tal av harutúrum Tal av hagapørtum Tal av bygdum Tal av oyggjum Tal av heimildarfólkum</p>
-<p><em type="italic">Talva 2.1: Upplýsingar um harutølini, sum </em></p>
-<p><em type="italic"> vórðu savnaði saman fyri veiðitíðina 2016. </em></p>
-<p>Kanningin byggir á upplýsingar frá 468 skrásetingum í 187 ymiskum hagapørtum kring landið. Eg havi tíanverri ikki fingið fatur á úrslitunum frá øllum harutúrunum, sum vóru gjørdir í 2016. Men hóast hetta, so vísa tølini týðiliga, at bæði talið av skrásettum túrum, skrásettum harum, og hvussu nógvir hagar eru við í hesi kanning</p>
-<p>Fyri at meta um hvussu fullfíggjað kanningin er, havi eg gjørt eitt yvirlit, sum vísir, hvussu nógvir hagapartar eru í teimum 15 oyggjunum, har hara finst, og úr hvussu nógvum av hesum hagapørtunum eg havi fingið harutøl frá í veiðutíðini í 2016. Úrslitini eru víst í talvu 2.2.<em type="italic"> </em></p>
+<p>Tað eru teir báðir vestmenningarnir John Johannesen, sum lesur verkfrøði á DTU í Keypmannahavn og Rói Holgarsson, sum lesur KT-verkfrøði á Fróðskaparsetrinum, sum hava ment síðuna. Teir hava sjálvir boðið seg fram, og alt arbeiðið er gjørt uttan peningaliga samsýning. 9</p>
+<p>Samandráttur av úrslitunum frá innsavningini í 2016 er víst í talvu 2.1. Umframt upplýsingar frá teimum 451 einstøku túrunum, sum vórðu skrásettir, eru eisini upplýsingar fyri samlaða talið av harum, sum vórðu skotnar í trimum høgum, og upplýsingar um 14 hagar, har teir ikki hava skotið harur í 2016. Samlaða talið kemur sostatt upp á 468 skrásetingar fyri árið 2016.</p>
+<p>Tal av skotnum harum 2.950</p>
+<p>Tal av harutúrum 451</p>
+<p>Tal av hagapørtum 187</p>
+<p>Tal av bygdum 67</p>
+<p>Tal av oyggjum 15</p>
+<p>Tal av heimildarfólkum193</p>
+<p>Talva 2.1:</p>
+<p><em type="italic">Upplýsingar um harutølini, sum </em><em type="italic">vórðu savnaði saman fyri veiðitíðina 2016. </em>10 <em type="bold">2.1 Hvussu fullfíggjað er kanningin? </em></p>
+<p>Kanningin byggir á upplýsingar frá 468 skrásetingum í 187 ymiskum hagapørtum kring landið. Eg havi tíanverri ikki fingið fatur á úrslitunum frá øllum harutúrunum, sum vóru gjørdir í 2016. Men hóast hetta, so vísa tølini týðiliga, at bæði talið av skrásettum túrum, skrásettum harum, og hvussu nógvir hagar eru við í hesi kanningini, er nakað lægri enn í 2015, og munandi lægri enn í 2014 (Talva 2.1 og Talva 3.1)</p>
+<p>Fyri at meta um hvussu fullfíggjað kanningin er, havi eg gjørt eitt yvirlit, sum vísir, hvussu nógvir hagapartar eru í teimum 15 oyggjunum, har hara finst, og úr hvussu nógvum av hesum hagapørtunum eg havi fingið harutøl frá í veiðutíðini í 2016. Úrslitini eru víst í talvu 2.2.</p>
 <p>Í Føroyum eru tilsamans 455 hagapartar, har møguligt er at skjóta haru (Talva 2.2). Eingin hara er í Koltri, Stóru Dímun og Lítlu Dímun. Flest hagapartar eru í Eysturoynni (113), Streymoynni (82) og í Suðuroynni (78). Í hesi kanningini eru harutøl fingin fyri 187 hagapartar, sum svarar til 41 % av øllum høgunum í Føroyum, har møguleiki er at skjóta harur.</p>
-<p>Flest tøl eru fingin úr Streymoynni, har veiðitøl eru fyri 63 hagar, sum er 77% av høgunum í oynni. Í Eysturoynni eru 41 hagar (36%) og úr Vágunum eru 21 hagar (55%) (Talva 2.2).<em type="bold"> </em></p>
-<p><em type="italic">Talva 2.2: Tal av markatalsbygdum á hvørjari oyggj har hara finst og talið av </em></p>
-<p><em type="italic">hagapørtum, sum hoyra til bygdirnar. Hara er ikki í Koltri, Stóru Dímun og Lítlu Dímun. Høgrumegin sæst talið av hagapørtum, sum eru við í uppteljingini av haruveiðuni í Føroyum í 2016, og hvussu stóran prosentpart hetta svarar til, í mun til talið av høgum, sum eru í oynni. Av teimum 187 høgunum, sum tøl eru fingin fyri í 2016, varð skotið í 173 høgum. Í 14 av høgunum varð ikki skotið. Markatalsbygdir eru bygdir, ið nevndar eru í elstu jarðarbókum. </em></p>
-<p><em type="bold">Oyggj Tal av  markatals- bydgum Tal av høgum</em> <em type="bold">á oynniVið haru- tølum % </em></p>
-<p>Fugloy 2  Svínoy 1  Viðoy  Borðoy   Kunoy   Kalsoy   Eysturoy 20  Streymoy 19  Vágar21 55 Mykines 1  Hestur 1  Nólsoy Øll oyggin  Sandoy   Skúgvoy 1  Suðuroy 10</p>
-<p><em type="bold">Samlað 83 </em></p>
-<p><em type="bold">3. Hvussu nógvar harur vórðu skotnar í 2016? </em></p>
+<p>Flest tøl eru fingin úr Streymoynni, har veiðitøl eru fyri 63 hagar, sum er 77% av høgunum í oynni. Í Eysturoynni eru 41 hagar (36%) og úr Vágunum eru 21 hagar (55%) (Talva 2.2). <em type="bold"></em></p>
+<p>Talva 2.2 <em type="italic">: Tal av markatalsbygdum á hvørjari oyggj har hara finst og talið av </em><em type="italic">hagapørtum, sum hoyra til bygdirnar. Hara er ikki í Koltri, Stóru Dímun og Lítlu Dímun. Høgrumegin sæst talið av hagapørtum, sum eru við í uppteljingini av haruveiðuni í Føroyum í 2016, og hvussu stóran prosentpart hetta svarar til, í mun til talið av høgum, sum eru í oynni. Av teimum 187 høgunum, sum tøl eru fingin fyri í 2016, varð skotið í 173 høgum. Í 14 av høgunum varð ikki skotið. Markatalsbygdir eru bygdir, ið nevndar eru í elstu jarðarbókum. </em><em type="bold"></em></p>
+<p><em type="bold">Oyggj Tal </em><em type="bold">av </em><em type="bold">markatals- </em><em type="bold">bydgum </em></p>
+<p><em type="bold">Tal av høgum </em><em type="bold">á oynni </em></p>
+<p><em type="bold">Við haru- </em><em type="bold">tølum </em><em type="bold">% </em></p>
+<p>Fugloy 283 38</p>
+<p>Svínoy 196 67</p>
+<p>Viðoy21614 88</p>
+<p>Borðoy 82515 60</p>
+<p xml:lang="eng">Kunoy 3104 40</p>
+<p>Kalsoy 4227 32</p>
+<p>Eysturoy 2011341 36</p>
+<p>Streymoy 198263 77</p>
+<p>Vágar53821 55</p>
+<p xml:lang="eng">Mykines 144 100</p>
+<p>Hestur 121 50</p>
+<p>Nólsoy 13</p>
+<p>Øll oyggin 100</p>
+<p>Sandoy 5403 8</p>
+<p>Skúgvoy 152 40</p>
+<p>Suðuroy 10782 3</p>
+<p><em type="bold">Samlað 83 </em><em type="bold">455 </em><em type="bold">187 </em><em type="bold">41 </em>11 <em type="bold">3. Hvussu nógvar harur vórðu skotnar í 2016? </em></p>
 <p>Sambært hesi skrásetingini, vórðu tilsaman 2.950 harur skotnar í Føroyum í 2016 (Talva 2.1). Hetta talið er tó ikki fullfíggjað, tí tað eru veiðitøl, sum tað ikki er eydnast mær at fáa fatur á. Hvussu nógv tøl mangla, er ringt at meta neyvt um. Eitt sum sermerkir hesa kanningina, í mun til kanningarnar undanfarin ár er, at tað hevur verið trupult at fáa fatur á tølum, um hvussu nógvar harur vórðu skotnar í Sørvági og í Miðvági. Hetta eru harubygdir, sum undanfarin ár hava veri millum bestu harubygdir í landinum (sí part 3.3 í hesi frágreiðingini). Grundi til, at menn aftra seg við at upplýsa alment, hvussu nógv teir hava fingið, sigst vera, at hetta økir um áhugan fyri teimum <span type="quote">“góðu haruhøgunum”</span>, sum so fær prísin, sum hesir haruhagarnir verða seldir fyri, at hækka.</p>
-<p>Samlaða haruveiðan í 2016 man tí helst hava verið eitt sindur hægri enn tær 2.950 harurnar, sum vórðu skrásettu fyri 2016. <em type="bold">Samlað talið av skotnum harum man helst </em></p>
-<p><em type="bold">liggja um tær 3.500 harurnar. </em></p>
+<p>Samlaða haruveiðan í 2016 man tí helst hava verið eitt sindur hægri enn tær 2.950 harurnar, sum vórðu skrásettu fyri 2016. <em type="bold">Samlað talið av skotnum harum man helst liggja um tær 3.500 harurnar. </em></p>
 <p>Tær 2.950 skotnu harurnar, sum eru skrásettu í 2016, eru 74% av veiðuni og 71% av túratalinum, sum var í 2015, tá teir skutu 4.012 harur á 636 túrum, men bara ein triðingur av veiðuni og 40% av túratalinum, sum var í 2014, tá teir skutu 9.318 harurnar á 1.123 túrum (Talva 3.1).</p>
-<p><em type="bold">Upplýsingar 20162014 2013 2012 </em></p>
-<p>Tal av skrásettum skotnum harum 2.9504.0129.318  7.756  5.381 Tal av harutúrum 1.123  Tal av hagapørtum   Tal av bygdum    Tal av oyggjum   Tal av heimildarfólkum</p>
-<p><em type="italic">Talva 3.1: Upplýsingar um harutølini, sum vórðu savnaði saman í veiðitíðini, árini </em></p>
-<p xml:lang="dan"><em type="italic">2012 til 2016. </em></p>
-<p>Tað er sera ymiskt hvussu nógvar harur vórðu skotnar í teimum ymisku høgunum kring landið; frá einari, til 90 harur í tí haganum, har flestar vóru skotnar. Úrslitið fyri teir 20 bestu haruhagarnar í Føroyum í 2016 er víst í talvu 3</p>
+<p><em type="bold">Upplýsingar 2016 </em><em type="bold">2015 </em><em type="bold">2014 2013 2012 </em></p>
+<p>Tal av skrásettum skotnum harum 2.9504.0129.318 7.756 5.381</p>
+<p>Tal av harutúrum 4516361.123 904 649</p>
+<p>Tal av hagapørtum 187197348 269 199</p>
+<p>Tal av bygdum 67 6788 77 68</p>
+<p>Tal av oyggjum 151415 15 13</p>
+<p>Tal av heimildarfólkum 193212366 283 183</p>
+<p>Talva 3.1:</p>
+<p><em type="italic">Upplýsingar um harutølini, sum vórðu savnaði saman í veiðitíðini, árini </em><em type="italic">2012 til 2016. </em><em type="bold"></em>12 <em type="bold">3.1 Hagapartar </em></p>
+<p>Tað er sera ymiskt hvussu nógvar harur vórðu skotnar í teimum ymisku høgunum kring landið; frá einari, til 90 harur í tí haganum, har flestar vóru skotnar. Úrslitið fyri teir 20 bestu haruhagarnar í Føroyum í 2016 er víst í talvu 3.2. Í hesum 20 haruhøgunum vórðu skotnar tilsaman 1.024 harur, sum svarar til 35% av øllum harunum, sum vórðu skotnar í Føroyum í 2016.</p>
 <p>Teir, sum skutu flest harur í 2016 vóru teir, ið skutu í Kvíggjarhamarshaga í Saksun. Teir skutu tilsamans 90 harur, sum teir fingu á 7 túrum. Teimum á baki vóru teir í <span type="quote">“Strandarhaga”</span> á Strond í Borðoynni, við 69 harum á 5 túrum. Á triðja plássi vóru harumenninir í <span type="quote">“Fjalli”</span>, sum er partur á Ognarhaganum í Kvívík. Teir fingu 68 harum á 7 túrum (Talva 3.2).</p>
 <p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2016, skipað eftir oyggj, bygd, hagaparti og dato er víst í Appendix á síðu 31 – 42.</p>
-<p><em type="bold">Hagapartur</em> <em type="bold">Bygd</em> <em type="bold">Samlað tal av skotnum harum</em> <em type="bold">Tal av túrum</em> <em type="bold">  1.</em>  Kvíggjarhamarshagi<em type="bold"> </em>Saksun   </p>
-<p><em type="bold">  2. </em> Strandarhagi<em type="bold"> </em>Strond 69 </p>
-<p><em type="bold">  3.  </em>Fjallið (partur av Ognarhaganum) Kvívík 68 7 </p>
-<p><em type="bold">  4.  </em>Úti í Haga á Bjørgum Vestmanna  </p>
-<p><em type="bold">  5.</em>  Uppsalahagi<em type="bold"> </em>Klaksvík 54 </p>
-<p><em type="bold">  6. </em> Oknadalur<em type="bold"> </em>Sandavágur 54 </p>
-<p><em type="bold">  7.  </em>Fyri Norðan Á (Partur av Norðurhelvt) Eiði  </p>
-<p><em type="bold">  8. </em> Klappjakt (4 hagar)<em type="bold"> </em>Trongisvágur 50 </p>
-<p><em type="bold">  9. </em> Skáltoftahagi<em type="bold"> </em>Skálatoftir 49 </p>
-<p><em type="bold">10. </em>Heimaraleiti<em type="bold"> </em>Miðvágur 48 </p>
-<p><em type="bold">11.</em> Sundshagi Sandavágur  </p>
-<p><em type="bold">12.</em> Eystur við Egg – Vestastipartur<em type="bold"> </em>Viðareiði 47 </p>
-<p><em type="bold">13. </em>Norðurtriðingur - Norðaripartur (Uttanfyri Ánnað)<em type="bold"> </em>Sørvágur 47 </p>
-<p><em type="bold">14. </em>Botnar Funningur  </p>
-<p><em type="bold"></em>. Uttangarðshagi – Vestaripartur<em type="bold"> </em>Bøur 44 </p>
-<p><em type="bold">16. </em>Áarhagi – Miðrøktin Kaldbak  </p>
-<p><em type="bold">17. </em>Suðurhelvt (Slættaratindur) Eiði  </p>
-<p><em type="bold">18.</em> Nólsoy (Øll oyggin)<em type="bold"> </em>Nólsoy 40 </p>
-<p><em type="bold">19.</em> Dalhagi – Eystaripartur Vestmanna  </p>
-<p><em type="bold">20.</em> Fyri Heiman (í Gerðum)<em type="bold"> </em>Klaksvík 39 </p>
-<p><em type="bold">     Samlað  1.024 </em></p>
-<p><em type="italic">Talva 3.2: Talvan vísir teir 20 hagapartarnar í Føroyum, har flestar harur vórðu skotnar </em></p>
-<p><em type="italic">í 2016. Eisini sæst hvussu nógvir túrar vórðu gjørdir í hesum hagapørtunum. Tær 1.024 harurnar, sum vórðu skotnar í hesum 20 hagapørtunum, svarar til 35% av øllum harum, sum vórðu skotnar í Føroyum í 2016. </em></p>
-<p>hagaparti, men ikki mett um innsatsin, sum var gjørdur, fyri at fáa fatur á hesum harunum. Vit vita jú, at tað er rættuliga ymiskt, hvussu nógvir túrar verða gjørdir í hvørjum haga, og hvussu nógvir skjúttar eru við.</p>
-<p>Hvussu nógvar harur, ið verða skotnar í einum hagaparti, eitt ávíst ár, er í høvuðsheitum tengt at 6 viðurskiftum:</p>
-<p type="listitem">  Hvussu nógv er til av haru í haganum.</p>
-<p type="listitem">  Hvussu veðurlíkindini eru.</p>
-<p type="listitem">  Hvussu nógvir túrar verða gjørdir.</p>
-<p type="listitem">  Hvussu nógvir skjúttar eru við.</p>
-<p type="listitem">  Hvussu royndir skjúttarnir eru.</p>
-<p type="listitem">  Hvussu langir túrarnir eru.</p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Samlað tal av </em><em type="bold">skotnum harum </em></p>
+<p><em type="bold">Tal av túrum </em><em type="bold">1. </em>Kvíggjarhamarshagi <em type="bold"></em></p>
+<p>Saksun 90 7 <em type="bold">2. </em>Strandarhagi <em type="bold"></em></p>
+<p>Strond 69 5 <em type="bold">3. </em>Fjallið (partur av Ognarhaganum) Kvívík 68 7 <em type="bold">4. </em>Úti í Haga á Bjørgum </p>
+<p>Vestmanna 55 3 <em type="bold">5. </em>Uppsalahagi <em type="bold"></em></p>
+<p>Klaksvík 54 8 <em type="bold">6. </em>Oknadalur <em type="bold"></em></p>
+<p>Sandavágur 54 5 <em type="bold">7. </em>Fyri Norðan Á (Partur av Norðurhelvt) </p>
+<p>Eiði 50 5 <em type="bold">8. </em>Klappjakt (4 hagar) <em type="bold"></em></p>
+<p>Trongisvágur 50 1 <em type="bold">9. </em>Skáltoftahagi <em type="bold"></em></p>
+<p>Skálatoftir 49 8 <em type="bold">10. </em>Heimaraleiti <em type="bold"></em></p>
+<p>Miðvágur 48 14 <em type="bold">11. </em>Sundshagi </p>
+<p>Sandavágur 47 8 <em type="bold">12. </em>Eystur við Egg – Vestastipartur <em type="bold"></em></p>
+<p>Viðareiði 47 3 <em type="bold">13. </em>Norðurtriðingur - Norðaripartur (Uttanfyri Ánnað) <em type="bold"></em>Sørvágur 47 5 <em type="bold">14. </em>Botnar Funningur 46 7 <em type="bold">15 </em>. Uttangarðshagi – Vestaripartur <em type="bold"></em></p>
+<p>Bøur 44 2 <em type="bold">16. </em>Áarhagi – Miðrøktin </p>
+<p>Kaldbak 44 3 <em type="bold">17. </em>Suðurhelvt (Slættaratindur) </p>
+<p>Eiði 43 8 <em type="bold">18. </em>Nólsoy (Øll oyggin) <em type="bold"></em></p>
+<p>Nólsoy 40 1 <em type="bold">19. </em>Dalhagi – Eystaripartur </p>
+<p>Vestmanna 40 3 <em type="bold">20. </em>Fyri Heiman (í Gerðum) <em type="bold"></em></p>
+<p>Klaksvík 39 2</p>
+<p><em type="bold">Samlað </em><em type="bold">1.024 </em><em type="bold">105 </em></p>
+<p>Talva 3.2 <em type="italic">: Talvan vísir teir 20 hagapartarnar í Føroyum, har flestar harur vórðu skotnar </em><em type="italic">í 2016. Eisini sæst hvussu nógvir túrar vórðu gjørdir í hesum hagapørtunum. Tær 1.024 harurnar, sum vórðu skotnar í hesum 20 hagapørtunum, svarar til 35% av øllum harum, sum vórðu skotnar í Føroyum í 2016. </em>13 </p>
+<p>Í talvu 3.2 hava vit einans hugt at, hvussu nógvar harur vóru skotnar í hvørjum hagaparti, men ikki mett um innsatsin, sum var gjørdur, fyri at fáa fatur á hesum harunum. Vit vita jú, at tað er rættuliga ymiskt, hvussu nógvir túrar verða gjørdir í hvørjum haga, og hvussu nógvir skjúttar eru við.</p>
+<p>Hvussu nógvar harur, ið verða skotnar í einum hagaparti, eitt ávíst ár, er í høvuðsheitum tengt at 6 viðurskiftum:  Hvussu nógv er til av haru í haganum.  Hvussu veðurlíkindini eru.  Hvussu nógvir túrar verða gjørdir.  Hvussu nógvir skjúttar eru við.  Hvussu royndir skjúttarnir eru.  Hvussu langir túrarnir eru.</p>
 <p>Hvussu nógv er til av haru, veðurlíkindini, royndirnar hjá skjúttunum og hvussu langir túrarnir eru, fáa vit ikki gjørt nakað við. Men í útrokningunum kunna vit taka hædd fyri, hvussu nógvir túrar verða gjørdir og hvussu nógvir skjúttar eru við hvønn túrin. Tá fáa vit eitt úrslit, sum vísir, hvussu nógvar harur eru skotnar pr. dag pr. byrsu. Úrslitini frá hesi útrokningin er víst í talvu 3.4.</p>
 <p><em type="bold">Hagapartur </em></p>
 <p xml:lang="eng"><em type="bold">Bygd </em></p>
-<p><em type="bold">Tal av túrum</em> <em type="bold">Tal av harum</em> <em type="bold">Samlað tal  av byrsum</em> <em type="bold">Miðaltal av harum pr. byrsu pr. dag</em> </p>
-<p>Bergið Árnafjørður  10,0</p>
-<p>Miðhagi + Líðarhagi Norðoyri  8,0</p>
-<p>Norðastifjórðingur Sandur  7,0</p>
-<p>Krossdalur Múli  6,5</p>
-<p>Ognarhagin Árnafjørður  5,8</p>
-<p>Inni í Dølum Viðareiði  5,5</p>
-<p>Hellisdalur Klaksvík  5,3</p>
-<p>Sunnanáhagi - Heimaripartur Mikladalur  5,0</p>
-<p>Góðidalur  Fuglafjørður  1 5,0</p>
-<p>Djúpidalur Norðaripartur  Trøllanes  5,0</p>
-<p><em type="bold">Samlað fyri alt landið  2.8881.326 2,38</em> </p>
-<p><em type="italic">Talva 3.4: Standardiserað haruveiða. Talvan vísir teir 10 hagapartarnar, har flestar </em></p>
-<p><em type="italic">harur vórðu skotnar í 2016, tá hædd verður tikið fyri, hvussu nógvir túrar vórðu gjørdir í hvørjum haga og hvussu nógvir skjúttar vóru við hvønn túrin. Umframt tær 2.888 harurnar, sum vórðu skotnar á teimum 451 einstøku túrunum, eru eisini 62 harur skrásettar, har hvørki, dato, túratal ella tal av byrsum eru upplýst. Hesar íroknað, kemur samlaða harutalið upp á 2.950. </em></p>
-<p>harur hvønn dagin. Eftir hesum útrokningarháttinum, lá best fyri í hagapartinum <span type="quote">“Bergið”</span> í Árnafirði. Í hesum hagunum varð bara skotið tann eina dagin, har ein einsamallur maður fekk 10 harur. Næstbestur var <span type="quote">“Miðhagi + Líðarhagi”</span> á Norðoyri í Borðoynni, har ein einsamallur maður ein dag fekk 8 harur. Á triðja plássi var hagin <span type="quote">“Norðastifjórðingur”</span> á Sandi, har ein einsamallur maður ein dag fekk 7 harur (Talva 3.4).</p>
+<p><em type="bold">Tal av túrum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Samlað tal av byrsum </em></p>
+<p><em type="bold">Miðaltal av </em><em type="bold">harum pr. </em><em type="bold">byrsu pr. dag </em></p>
+<p>Bergið Árnafjørður 1101 10,0</p>
+<p>Miðhagi + Líðarhagi</p>
+<p>Norðoyri 181 8,0</p>
+<p>Norðastifjórðingur Sandur 171 7,0</p>
+<p>Krossdalur Múli 1132 6,5</p>
+<p>Ognarhagin Árnafjørður 4245 5,8</p>
+<p>Inni í Dølum</p>
+<p>Viðareiði 2112 5,5</p>
+<p>Hellisdalur Klaksvík 1163 5,3</p>
+<p>Sunnanáhagi - Heimaripartur</p>
+<p>Mikladalur 151 5,0</p>
+<p>Góðidalur</p>
+<p>Fuglafjørður 151 5,0</p>
+<p>Djúpidalur Norðaripartur</p>
+<p xml:lang="dan">Trøllanes 151 5,0</p>
+<p><em type="bold">Samlað fyri alt landið </em><em type="bold">451 </em><em type="bold">2.888 </em><em type="bold">1.326 </em><em type="bold">2,38 </em></p>
+<p>Talva 3.4 <em type="italic">: Standardiserað haruveiða. Talvan vísir teir 10 hagapartarnar, har flestar </em><em type="italic">harur vórðu skotnar í 2016, tá hædd verður tikið fyri, hvussu nógvir túrar vórðu gjørdir í hvørjum haga og hvussu nógvir skjúttar vóru við hvønn túrin. Umframt tær 2.888 harurnar, sum vórðu skotnar á teimum 451 einstøku túrunum, eru eisini 62 harur skrásettar, har hvørki, dato, túratal ella tal av byrsum eru upplýst. Hesar íroknað, kemur samlaða harutalið upp á 2.950. </em>14 </p>
+<p>Í 2016 vóru tilsamans 1.326 byrsur í føroysku høgunum, sum hvør í miðal skeyt 2,38 harur hvønn dagin. Eftir hesum útrokningarháttinum, lá best fyri í hagapartinum <span type="quote">“Bergið”</span> í Árnafirði. Í hesum hagunum varð bara skotið tann eina dagin, har ein einsamallur maður fekk 10 harur. Næstbestur var <span type="quote">“Miðhagi + Líðarhagi”</span> á Norðoyri í Borðoynni, har ein einsamallur maður ein dag fekk 8 harur. Á triðja plássi var hagin <span type="quote">“Norðastifjórðingur”</span> á Sandi, har ein einsamallur maður ein dag fekk 7 harur (Talva 3.4).</p>
 <p>Fyri alt landið vórðu skotnar 2,38 harur pr. byrsu hvønn dagin. Hetta er á leið tað sama, sum fyri 2015, tá miðalveiðan var 2,36 harur pr. byrsu hvønn dagin, men munandi minni enn í 2014, tá veiðan var 3,1 harur pr. byrsu hvønn dagin og eisini minni enn í 2013, tá miðalveiðan var 2,9 harur pr. byrsu hvønn dagin.</p>
 <p>Tað er sera ymiskt hvussu nógvar harur vórðu skotnar í teimum ymisku høgunum kring landið; frá einari haru, til 90 harur í tí haganum, har teir fingu mest (Mynd 3.1). Av teimum 173 høgunum, har skotið varð í 2016, varð helvtin av samlaðu árligu veiðuni skotin í 138 høgum, av hesum vórðu 25% av harunum skotnar í 13 teimum bestu høgunum, tað eru 728 harur. (Mynd 3.2). Tey fyrstu 25% av harunum, har teir fingu fægst harur, vórðu skotnar í 104 hagapørtunum.</p>
-<p><em type="italic">Mynd 3.1: Myndin vísir býtið av samlaðu haruveiðuna í teimum 173 høgunum, hara </em></p>
-<p><em type="italic">teir skutu harur í Føroyum í 2016.</em> </p>
-<p><em type="italic">Mynd 3.2: Myndin vísir, hvussu stórur prosent-partur av harunum vóru skotnar í </em></p>
-<p><em type="italic">hvørjum av teimum 173 høgunum kring landið. Teir bestu hagarnir eru til høgru á myndini, teir vánaligastu til vinstur. Tey fyrstu 25% av teimum íalt 2.950 harunum vórðu skotnar í 104 ymiskum hagapørtum, 50 % í 138 av høgunum og 75% í 160 av høgunum. Tey seinastu 25% eru skotin í 13 teimum bestu høgunum.</em> </p>
-<p><em type="bold">Býtið av veiðuni millum teir ymisku hagapartarnar</em> </p>
-<p><em type="bold">Veiða (Tal av harum pr haga)</em> </p>
-<p><em type="bold">Akkumuleraða veiða yvir hagapartar</em> </p>
-<p><em type="bold">Teir  ymisku hagarnir</em> </p>
+<p xml:lang="eng">Mynd 3.1:</p>
+<p><em type="italic">Myndin vísir býtið av samlaðu haruveiðuna í teimum 173 høgunum, hara </em><em type="italic">teir skutu harur í Føroyum í 2016. </em></p>
+<p xml:lang="eng">Mynd 3.2:</p>
+<p><em type="italic">Myndin vísir, hvussu stórur prosent-partur av harunum vóru skotnar í </em><em type="italic">hvørjum av teimum 173 høgunum kring landið. Teir bestu hagarnir eru til høgru á myndini, teir vánaligastu til vinstur. Tey fyrstu 25% av teimum íalt 2.950 harunum vórðu skotnar í 104 ymiskum hagapørtum, 50 % í 138 av høgunum og 75% í 160 av høgunum. Tey seinastu 25% eru skotin í 13 teimum bestu høgunum. </em><em type="bold"></em>793633811321020406080 </p>
+<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">høgum </em></p>
+<p><em type="bold">Veiða (Tal av harum pr haga) </em></p>
+<p><em type="bold">Býtið av veiðuni millum teir ymisku hagapartarnar </em>0255075100151101151 <em type="bold">% </em><em type="bold">av </em><em type="bold">samlaðu </em><em type="bold">veiðuni </em></p>
+<p><em type="bold">Teir 173 ymisku hagarnir </em></p>
+<p><em type="bold">Akkumuleraða veiða yvir hagapartar </em>15 <em type="bold">3.2 Oyggj </em></p>
 <p>Eins og undanfarin ár, vóru eisini flestu harurnar í 2016 skotnar í Streymoynni; íalt 1.275 harur, sum svarar til 43% av øllum harunum, sum vórðu skotnar í Føroyum í 2016 (Mynd 3.3).</p>
 <p>At sløk helvtin av øllum harunum í Føroyum verða skotnar í Streymoynni er vanligt. Í 2012 vóru 47% av teimum føroysku harunum skotnar í Streymoynni, í 2013, 45%, í 2014, 42%, og í 2015, 40%.</p>
 <p>Tað var eisini á Streymoynni, at flestu túrarnir vórðu gjørdir í 2016, íalt 196 túrar, sum eisini svarar til 43% av øllum túrunum, sum vórðu gingnir í Føroyum í 2016. Í 2015 vóru 39% av øllum túrunum gjørdir á Streymoynni.</p>
 <p>Næstflestar harur vórðu skotnar í Vágunum, har teir tilsamans fingu 465 harur á 66 túrum. Talið av skotnum harum í Vágum í 2016 er tó helst hægri enn tað, sum er skrásett, tí tað hevur verið eitt sindur trupult at fáa fatur á tølunum úr Vágum. Veiðitøl eru bara fingin fyri 21 av teimum 38 høgunum, sum eru í oynni (55%). Í 2015 vóru tøl skrásett fyri 28 av høgunum (74%). Tað er serliga fyri Sørvág og Miðvág, at tøl mangla.</p>
 <p>Í Eysturoynni skutur teir 462 harur í 2016, og á Borðoynni 333 harur (Mynd 3.3).</p>
-<p><em type="italic">Mynd 3.3: Myndin vísir, hvussu nógvar harur vórðu skotnar tilsamans í hvørjari oyggj í </em></p>
-<p><em type="italic">2016 (vinstrumegin) og hvussu nógvir harutúrar vórðu gjørdir (høgrumegin). </em></p>
+<p xml:lang="eng">Mynd 3.3:</p>
+<p><em type="italic">Myndin vísir, hvussu nógvar harur vórðu skotnar tilsamans í hvørjari oyggj í </em><em type="italic">2016 (vinstrumegin) og hvussu nógvir harutúrar vórðu gjørdir (høgrumegin). </em>16 <em type="bold">3.3 Bygd </em></p>
 <p>Vestmanna var eisini í 2016 tann bygdin, har flestu harurnar vórðu skotnar í Føroyum. Tilsaman skutu vestmenningar 278 harur á 44 túrum (Mynd 3.4). Men hetta er bert ein fjórðingur av tí, sum teir fingu í 2014, tá vestmenningar skutu 1.120 harur á 74 túrum. Næstflestar harur skutu teir í Sandavági, 190 harur á 24 túrum. Á triðja plássi er Klaksvík við 134 harum á 14 túrum og á fjórða plássi er Saksun við 131 harum á 12 túrum.</p>
-<p>Vert er at leggja til merkis, at hvørki Sørvágur ella Miðvágur eru við á mynd 3.4. Hetta kemst av, at fyri júst hesar báðar bygdirnar, mangla fleiri skrásetingar. Fyri Sørvág eru einans skrásettar 75 harur, sum eru skotnar á 11 túrum og í Miðvági, 71 harur frá 21 túrum. Sørvágur var annars annars tann bygdin, har næstflestar harur vórðu skotnar í  Føroyum í 2015 var: 372 harur á 43 túrum. Miðvágur var á fjórða plássi við 236 harum á 45 túrum.</p>
+<p>Vert er at leggja til merkis, at hvørki Sørvágur ella Miðvágur eru við á mynd 3.4. Hetta kemst av, at fyri júst hesar báðar bygdirnar, mangla fleiri skrásetingar. Fyri Sørvág eru einans skrásettar 75 harur, sum eru skotnar á 11 túrum og í Miðvági, 71 harur frá 21 túrum. Sørvágur var annars annars tann bygdin, har næstflestar harur vórðu skotnar í Føroyum í 2015 var: 372 harur á 43 túrum. Miðvágur var á fjórða plássi við 236 harum á 45 túrum.</p>
 <p>Sum áður nevnt, so er grundin til hetta, at menn nú í hesum bygdunum aftra seg við at upplýsa alment, hvussu nógv teir hava fingið, tí hetta økir um áhugan fyri teimum <span type="quote">“góðu haruhøgunum”</span>, sum so fær prísin á haruhøgunum at hækka. Sostatt kemur <span type="quote">“opinleikin”</span> at ganga út yvir harumenninar sjálvar. Tí er best at siga sum minst, og er hetta helst orsøkin til, at so fáa harur eru skrásettar í Sørvági og Miðvági í 2016 í mun til undanfarin ár.</p>
-<p><em type="italic">Mynd 3.4: Myndin vísir, hvussu nógvar harur vórðu skotnar í tíggju teimum bestu </em></p>
-<p><em type="italic">bygdunum í Føroyum í 2016 (vinstrumegin), og hvussu nógvir harutúrar vórðu gjørdir í hesum bygdunum (høgrumegin). </em></p>
-<p><em type="bold">Tal av skotnum harum</em> </p>
-<p><em type="bold">Tal av harutúrum</em> </p>
-<p>134 131 126 124 119 Hóast tað í Føroyum er loyvt at skjóta haru einar 50 dagar um árið, so verður tó mest skotið leygardagar, umframt fyrsta dag og so dagarnar millum jól og nýggjár. Á mynd 3.5 er víst, hvussu veiðan var 13 ávísar dagar í veiðitíðini í 2016: Fyrsta dag, sjey fylgjandi leygardagar, og so teir fimm dagarnar eftir jól.</p>
+<p xml:lang="eng">Mynd 3.4:</p>
+<p><em type="italic">Myndin vísir, hvussu nógvar harur vórðu skotnar í tíggju teimum bestu </em><em type="italic">bygdunum í Føroyum í 2016 (vinstrumegin), og hvussu nógvir harutúrar vórðu gjørdir í hesum bygdunum (høgrumegin). </em>278190134 131 126 124 1199494880100200300 </p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p><em type="bold">Tal av skotnum harum </em>442414121816158191002550 </p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p><em type="bold">Tal av harutúrum </em>17 <em type="bold">3.4 Útvaldir dagar </em></p>
+<p>Hóast tað í Føroyum er loyvt at skjóta haru einar 50 dagar um árið, so verður tó mest skotið leygardagar, umframt fyrsta dag og so dagarnar millum jól og nýggjár. Á mynd 3.5 er víst, hvussu veiðan var 13 ávísar dagar í veiðitíðini í 2016: Fyrsta dag, sjey fylgjandi leygardagar, og so teir fimm dagarnar eftir jól.</p>
 <p>Av teimum tilsamans 451 harutúrunum í 2016, har dato er givið, vórðu íalt 2.196 harur skotnar (74%), og 68% av túrunum gingnir hesar 13 dagarnar (Mynd 3.5).</p>
 <p>Fyrsta dag loyvt var at skjóta harur í 2016 var mikudagin 2. november. Hendan dagin, vórðu tilsamans 598 harur skotnar í 39 hagapørtum kring landið, og var hetta nógv tann besti harudagurin í árinum (Mynd 3.5). Fyrsti leygardagur var 5. november. Tá skutu teir 399 harur í 39 høgum. Leygardagin 19. november fingu teir 231 harur á 44 túrum. Annars varð lítið skotið restina av árinum, undantikið seinasta dagin í árinum, sum var leygardagur 31. desember; tá fingu teir 282 harur á 52 túrum, og gjørdist hetta sostatt tann dagurin í árinum, har flestir túrar vórðu gingnir (Mynd 3.5).</p>
-<p><em type="italic">Mynd 3.5: Myndin vísir, hvussu nógvar harur vórðu skotnar 13 ávísar dagar í 2016 </em></p>
-<p><em type="italic">(vinstrumegin), og í hvussu nógvum hagapørtum, skotið varð í (høgrumegin). Talan er um fyrsta dag, sjey fylgjandi leygardagar, og so teir fimm dagarnar eftir jól.</em><em type="bold"> </em></p>
-<p><em type="bold">Tal av skotnum harum</em> </p>
-<p><em type="bold">Tal av hagapartum</em> Í hesi kanningini er skrásetingin av haruveiðuni gjørd fyri hvønn einstakan dag, sum skotið hevur verið. Tí ber til at gera upp, hvussu veiðan hevur hilnast gjøgnum árið, dag fyri dag, og at samanbera veiðuna við undanfarin ár. Úrslitið frá hesi samanbering er víst á mynd 3.6. </p>
-<p><em type="italic">Mynd 3.6: Myndin vísir talið av harum ( ── ), sum eru skotnar hvønn dagin í </em></p>
-<p><em type="italic">veiðitíðini, 2. november til 31. desember 2016, og hvussu nógvir túrar eru gjørdir teir einstøku dagarnar (- - - - - ). Úrslitið fyri 2016 (reyðu linjurnar) er samanborið við 2015 (bláu linjurnar). Fyri tríggjar hagar er bara tað samlaða talið av harum uppgivið. Har fingu teir tilsamans 62 harur Samlaða úrslitið fyri 2016 gjørdist sostatt, at 2.950 harur. </em><em type="bold"> </em></p>
+<p xml:lang="eng">Mynd 3.5:</p>
+<p><em type="italic">Myndin vísir, hvussu nógvar harur vórðu skotnar 13 ávísar dagar í 2016 </em><em type="italic">(vinstrumegin), og í hvussu nógvum hagapørtum, skotið varð í (høgrumegin). Talan er um fyrsta dag, sjey fylgjandi leygardagar, og so teir fimm dagarnar eftir jól. </em><em type="bold"></em>598399150231135152518525394452820200400600 </p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p><em type="bold">Tal av skotnum harum </em>39392844252881851093520204060 </p>
+<p><em type="bold">Tal av hagapartum </em>18 <em type="bold">3.5 Veiða dag fyri dag í 2016 og 2015 </em></p>
+<p>Í hesi kanningini er skrásetingin av haruveiðuni gjørd fyri hvønn einstakan dag, sum skotið hevur verið. Tí ber til at gera upp, hvussu veiðan hevur hilnast gjøgnum árið, dag fyri dag, og at samanbera veiðuna við undanfarin ár. Úrslitið frá hesi samanbering er víst á mynd 3.6.</p>
+<p xml:lang="eng">Mynd 3.6:</p>
+<p><em type="italic">Myndin vísir talið av harum ( </em>── ), sum eru skotnar hvønn dagin í veiðitíðini, 2. november til 31. desember 2016, og hvussu nógvir túrar eru gjørdir teir einstøku dagarnar (- - - - - ). Úrslitið fyri 2016 ( reyðu linjurnar ) er samanborið við 2015 (bláu linjurnar). Fyri tríggjar hagar er bara tað samlaða talið av harum uppgivið. Har fingu teir tilsamans 62 harur Samlaða úrslitið fyri 2016 gjørdist sostatt, at 2.950 harur. <em type="bold"></em></p>
 <p>Í 2016 var fyrsti dagur, har loyvt var at skjóta harur, mikudagur 2. november. Hendan dagin, vórðu tilsamans 598 harur skotnar á 39 túrum kring landið (Mynd 3.5). Í 2015 var fyrsti harudagur mánadagur 2. november. Tann dagin fingur teir 348 harur á 31 túrum.</p>
-<p>Samanbera vit haruveiðuna í 2016 við 2015 (Mynd 3.6), síggja vit, at árið byrjaði hampiliga: Tað fyrstu vikuna var veiðan á leið tann sama sum í 2015, men so minkaði bæði veiða og túratalið, og var sum heild munandi minni allar dagarnar í 2016 samanborið við 2015. Samlaða úrslitið gjørdist tí eisini at, talið av skotnum harum í 2016 einans var 74 % av tí, ið skotið var í 2015, og túratalið 71%.</p>
+<p>Samanbera vit haruveiðuna í 2016 við 2015 (Mynd 3.6), síggja vit, at árið byrjaði hampiliga: Tað fyrstu vikuna var veiðan á leið tann sama sum í 2015, men so minkaði bæði veiða og túratalið, og var sum heild munandi minni allar dagarnar í 2016 samanborið við 2015. Samlaða úrslitið gjørdist tí eisini at, talið av skotnum harum í 2016 einans var 74 % av tí, ið skotið var í 2015, og túratalið 71%. 19 <em type="bold">3.6 Hvussu nógvar harur fingu teir hvønn túrin? </em></p>
 <p>Á teimum 451 harutúrunum, sum vórðu gjørdir í 2016, var veiðan millum 0 og 50 harur á hvørjum túri (Mynd 3.7). Tað vanligasta var at fáa 1-4 harur á einum túri. Hetta var veiðan á 53% av túrunum. Í 2014 var hetta veiðan 49% av túrunum. Á 60 túrum (13%) fingu teir bara eina haru, 63 túrar (14%) fingu teir tvær harur, 61 túrar (14%) fingu teir tríggjar harur og 54 túrar (12%) fingu teir fýra harur.</p>
 <p>Í miðal vórðu skotnar 6,40 harur á hvørjum túri í 2016. Hetta er eitt sindur meira enn í 2015, tá teir i miðal fingu 6,23 harur hvønn túrin, men minni enn í bæði 2014 og 2013, tá miðaltalið var ávikavist 8,12 og 8,2 harur pr. túr.</p>
 <p>Einans 5 túrar eru uppgivnir, har teir onga haru siga seg at hava fingið. Men hetta talið er uttan iva alt ov lágt, tí tað eru helst fleiri bummtúrar, sum ikki eru uppgivnir.</p>
-<p><em type="italic">Mynd 3.7: Myndin vísir, hvussu nógvar harur vórðu fingnar á hvørjum túri á teimum </em></p>
-<p><em type="italic">451 harutúrunum, sum vórðu gjørdir í 2016. </em></p>
+<p xml:lang="eng">Mynd 3.7:</p>
+<p><em type="italic">Myndin vísir, hvussu nógvar harur vórðu fingnar á hvørjum túri á teimum </em><em type="italic">451 harutúrunum, sum vórðu gjørdir í 2016. </em></p>
 <p>Úrslitið av teimum fimm bestu harutúrunum, sum vórðu gjørdir í 2016, eru vístir í talvu 3.5. Besti túrurin var tó gjørdur í Trongisvági, har 17 mans á klappjakt tann 2. november fingu 50 harur. Í Fjallinum í Kvívík fingur 11 mans 43 harur og <span type="quote">“Úti í Haga á Bjørgum”</span> í Vestmanna fingu 13 mans 41 harur.</p>
-<p><em type="bold">Hvussu nógvar harur fingu teir hvønn túrin ?</em> </p>
-<p><em type="bold">Tal av harum pr túr</em> </p>
-<p><em type="bold">Hagapartur Bygd Dato Tal av harum Tal av monnum </em></p>
-<p>Klappjakt (4 hagar) Trongisvágur 2. nov.  Fjallið (partur av Ognarhaganum) Kvívík 2. nov.43  11 Úti í Haga á Bjørgum Vestmanna 2. nov.  Nólsoy (øll oyggin) Nólsoy 5. nov.  Fyri Heiman (í Gerðum) Sørvágur 5. nov.</p>
-<p><em type="italic">Talva 3.5: Fimm teir bestu harutúrarnir, sum vórðu gjørdir í 2016. </em></p>
-<p><em type="bold">3.7 Hvussu nógvir skjúttar vóru við hvønn túrin? </em></p>
+<p><em type="bold">Hagapartur Bygd </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">monnum </em></p>
+<p>Klappjakt (4 hagar)</p>
+<p>Trongisvágur 2. nov.50 17</p>
+<p>Fjallið (partur av Ognarhaganum) Kvívík 2. nov.43 11</p>
+<p>Úti í Haga á Bjørgum</p>
+<p>Vestmanna 2. nov.41 13</p>
+<p>Nólsoy (øll oyggin) Nólsoy 5. nov.40 11</p>
+<p>Fyri Heiman (í Gerðum)</p>
+<p>Sørvágur 5. nov.33 8</p>
+<p>Talva 3.5 <em type="italic">: Fimm teir bestu harutúrarnir, sum vórðu gjørdir í 2016. </em>523811240171710521130100200 </p>
+<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">túrum </em></p>
+<p><em type="bold">Tal av harum pr túr </em></p>
+<p><em type="bold">Hvussu nógvar harur fingu teir hvønn túrin ? </em>20 <em type="bold">3.7 Hvussu nógvir skjúttar vóru við hvønn túrin? </em></p>
 <p>Talið av skjúttum, sum vóru við á harutúrunum í 2015, var millum 1 og 17. Helvtina av túrunum (medianurin) vóru 2,0 skjúttar ella færri og skutu. Sæð yvir alla veiðitíðina, var tað mest vanliga, at ein einsamallur maður var og skeyt (Mynd 3.8). Hetta hendi á 143 túrum (32%). Á 98 túrum (22%) vóru tvær byrsur. Tá flest mans skutu á einum túri, vóru teir 17. Hetta var á <span type="quote">“Klappjaktini”</span> í Trongisvági 4. november, har teir fingu 50 harur.</p>
 <p>Samlaða býtið av talinum av skjúttum, sum vóru við teir ymisku túrarnar í 2016 er neyvt tað sama sum bæði í 2015 og 2014 (Mynd 3.9)</p>
-<p><em type="italic">Mynd 3.8: Talinum av skjúttum, sum vóru við á teimum 451 harutúrunum, sum vórðu </em></p>
-<p><em type="italic">gjørdir í Føroyum í 2016. </em></p>
-<p><em type="italic">Mynd 3.9: Býtið av talinum á skjúttum, sum vóru við á hvørjum harutúri í 2015 (636 </em></p>
-<p><em type="italic">túrar) og 2014 (1.123 túrar). </em></p>
-<p>1.10.20.40.20.2</p>
-<p><em type="bold">Hvussu nógvir skjúttar vóru við hvønn túrin?</em> </p>
-<p>10 11 13 17</p>
-<p><em type="bold">Tal av skjúttum</em> </p>
+<p xml:lang="eng">Mynd 3.8:</p>
+<p><em type="italic">Talinum av skjúttum, sum vóru við á teimum 451 harutúrunum, sum vórðu </em><em type="italic">gjørdir í Føroyum í 2016. </em></p>
+<p xml:lang="eng">Mynd 3.9:</p>
+<p><em type="italic">Býtið av talinum á skjúttum, sum vóru við á hvørjum harutúri í 2015 (636 </em><em type="italic">túrar) og 2014 (1.123 túrar). </em>3222161166321.10.20.40.20.2010203012345678910 11 13 17 </p>
+<p><em type="bold">Túratal </em><em type="bold">(%) </em></p>
+<p><em type="bold">Tal av skjúttum </em></p>
+<p><em type="bold">Hvussu nógvir skjúttar vóru við hvønn túrin? </em>21 <em type="bold">3.8. Hvussu nógvir mans skutu harur í Føroyum í 2016? </em></p>
 <p>Sambært hesi skrásetingini, vórðu tilsaman 2.950 harur skotnar í Føroyum í 2016 (Talva 2.1), men hvussu nógvir mans hava skotið hesar harurnar?</p>
 <p>Hetta vita vit ikki neyvt, tí vit hava ongi tøl um hetta. Men við støði í veiðitølunum, sum eg havi savnað saman fyri 2016 (Talva 2.1), ber til at gera eina meting av, hvussu nógvir mans hava luttikið í haruskjótingini í Føroyum hetta árið.</p>
-<p><em type="bold">Tal av heimildarfólkum</em>: Í frágreiðingini eru 193 ymisk heimildarfólk, sum hava latið </p>
-<p>mær upplýsingar. Talið av teimum, sum skjóta er tí í øllum førum nógv hægri enn 193, tí tað er bert eitt heimildarfólk fyri hvønn túrin, hóast tað vóru fleiri mans við á túrinum.</p>
-<p><em type="bold">Hægsta tal av skjúttum í hvørjum hagaparti:</em> Tilsamans vórðu gjørdir 451 túrar, sum </p>
-<p>vórðu gingnir í 173 hagapørtum kring landið. Um vit taka ‘hægsta talið av skjúttum’, sum vóru við á einum túri í hesum 173 hagapørtunum, og leggja hesar skjúttarnar saman fyri allar hagapartarnar, fáa vit eitt gott mát fyri, hvussu nógvir ymiskir mans skutu harur í Føroyum í 2016.</p>
+<p><em type="bold">Tal av heimildarfólkum </em>: Í frágreiðingini eru 193 ymisk heimildarfólk, sum hava latið mær upplýsingar. Talið av teimum, sum skjóta er tí í øllum førum nógv hægri enn 193, tí tað er bert eitt heimildarfólk fyri hvønn túrin, hóast tað vóru fleiri mans við á túrinum. </p>
+<p><em type="bold">Hægsta tal av skjúttum í hvørjum hagaparti: </em>Tilsamans vórðu gjørdir 451 túrar, sum vórðu gingnir í 173 hagapørtum kring landið. Um vit taka ‘hægsta talið av skjúttum’, sum vóru við á einum túri í hesum 173 hagapørtunum, og leggja hesar skjúttarnar saman fyri allar hagapartarnar, fáa vit eitt gott mát fyri, hvussu nógvir ymiskir mans skutu harur í Føroyum í 2016. </p>
 <p>Hetta roknistykkið gevur 699 mans.</p>
 <p>Fráboðanir frá onkrum høgunum mangla uttan iva í hesi frágreiðingini, so helst er talið nakað hægri enn 699, men hinvegin, so er helst onkur av monnunum, sum hevur skotið í fleiri hagapørtum, men tað mest vanliga er tó, at hvør maður bert skjýtur í einum haga.</p>
-<p>Niðurstøðan er tí, at:</p>
-<p><em type="bold">einir 700 mans skutu harur í Føroyum í 2016. </em></p>
-<p>Hetta talið er eitt sindur lægri enn undanfarin ár. Fyri 2015 vísti sama roknistykkið, at tá skutu 800 mans harur í Føroyum. Í 2014 var talið 1.222 mans og í 2013 skutu 1.044 mans harur í Føroyum.</p>
-<p>Niðanfyri verður greitt frá, hvussu veðrið var í Føroyum í november og desember mánað í 2016 (Myndirnar 4.1 - 4.7). Tølini eru frá heimasíðuni hjá Danmarks Meteorologiske Institut (DMI), (http://www.dmi.dk/faeroeerne/arkiver/vejrarkiv/). Hugtakið “<em type="bold">Vanligt</em>”, er miðaltøl fyri mánaðin, árini 1961-1990. </p>
-<p><em type="italic">Mynd 4.1: Føroyska veðrið í 2016, mánað fyri mánað. Mátingarnar eru </em></p>
-<p><em type="italic">gjørdar í Tórshavn. Regndagar (nedbørsdage) eru dagar, har tað regnar 1 mm ella meira í ein dag (Kelda: DMI).</em>  </p>
-<p><em type="bold">Ættin</em>: Tað sum eyðkendi harutíðina í 2016, var tann nógva vestanættin, sum var, bæði í </p>
-<p>november og desember mánað (Mynd 4.2 og 4.4). Eystanættirnar vóru so at siga heilt burtur. Fyrstu dagarnar í november mánað var hann høgur í ættini, men fór so í ein landnyrðing (Mynd 4.2). Frá 6. til 16.</p>
-<p><em type="bold">Vindur:</em> Sambært DMI, hevur miðalvindferðin í Føroyum í november mánað árini 1961-1990 </p>
-<p>verið 6,5 m/s, og í desember mánað 7,1 m/s. Sum sæst á mynd 4.5, so var miðalvindferðin, (tað er miðalferðin, mátað í 6 tímar) í november umleið miðal, men í desember mánað vóru nógvir dagar, har miðalvindferðin var omanfyri 7,1 m/s (mynd 4.5)</p>
-<p><em type="bold">Regn: </em>Tað regnaði meira í harutíðini í 2016 enn vanligt. Í november vóru 22 regndagar, í </p>
-<p>desember 23 (Mynd 4.1 og 4.4). Sostatt vóru tað bara 16 dagar í allari harutíðini, har tað ikki regnaði. Eitt, ið eyðkennir haruna er, at henni dámar ikki regn. Tá sita tær rættuliga fastar. Samlaða regnmongdin fyri november var 144 mm og í desember 177 mm. Hetta er eitt sindur meira enn vanligt, tí sambært DMI, so er miðal regnmongdin hesar báðar mánarnar vanliga ávikavist 127 mm og 142 mm.</p>
-<p><em type="bold">Hitin: </em>Samanumtikið var tað sera lýtt í harutíðini í 2016 (Mynd 4.4). Miðalhitin fyri november </p>
-<p>mánað var 5,8 C, sum er 1,2 grad heitari enn vanligt (4,6 C). Í desember var miðalhitin 6,5</p>
-<p>C, sum er heilar 2,8 grad heitari heitari enn vanligt (3,7 C).</p>
-<p><em type="bold">Sól: </em>Sólmátingarnar hjá DMI vísa, at nógv sól var í november mánað (42 sóltímar. Vanligt: 20 </p>
-<p>tímar), meðan desember var ein miðal mánaður (20 sóltímar. Vanligt: 20 tímar) (Mynd 5.6).</p>
-<p><em type="italic">Mynd 4.2: Ættin í november (vinstrumegin) og í desember mánað í 2016 (høgrumegin) </em></p>
-<p><em type="italic">í Tórshavn, mátað sum miðal í 6 tímar (Kelda: DMI).</em> </p>
-<p><em type="italic"> Mynd 4.3: Mesti og minsti hitin mátaður í døgninum í november (vinstrumegin) og </em></p>
-<p><em type="italic">desember mánað 2016 (høgrumegin) í Tórshavn. Miðalhitin fyri november var 5,8 C (vanligt: 4,6 C) og fyri desember 6,9 C (vanligt: 3,7 C). (Kelda: DMI). </em></p>
-<p><em type="italic">Mynd 4.4: Vindrósa. Býti av ætt og vindferð, mátað á Glyvursnesi í november (ovara) </em></p>
-<p><em type="italic">og desember mánað 2016 (niðara). (Mátingar: Landsverk. Gjørt myndirnar: Bárður </em></p>
-<p><em type="italic">Mynd 4.5: Vindur (m/s) í november (vinstrumegin) og desember mánað (høgrumegin) í </em></p>
-<p><em type="italic">2016, mátað í Tórshavn. ───: Miðal fyri 6 tímar, ●: Hvirlur. Vanliga miðalvindferðin </em></p>
-<p><em type="italic">fyri november er 6,5 m/s og fyri desember 7,1 m/s. Gevi gætur: y-aksin fyri november gongur frá 0 til 30 m/s, men i desember er hann frá 0 til 55 m/s (Kelda: DMI). </em></p>
-<p><em type="italic">Mynd 4.6: Regnmongdin í Tórshavn í november (vinstrumegin) og desember mánað </em></p>
-<p><em type="italic">2016 (høgrumegin). Samlaða regnmongdin í november var 144 mm (vanligt: 127 mm) og í desember 177 mm (vanligt: 142 mm) (Kelda: DMI.) </em></p>
-<p><em type="italic">Mynd 4.7: Sóltímar í Tórshavn í november (vinstrumegin) og desember mánað </em></p>
-<p><em type="italic">(høgrumegin) 2016. Íalt vóru 42 sóltímar í november (vanligt: 20 tímar) og 15 sóltímar í desember (vanligt: 7 tímar) (Kelda: DMI). </em></p>
-<p>í oktober mánað í 2016 vóru 14 sjálvvirkandi myndatól sett upp frammanfyri harusetur í fimm høgum, ymsastaðni í landinum. Endamálið við myndatólunum var at kann litbroytingina hjá haruni, tá hon skifti frá tí brúna summarlitinum til tann ljósagráa vetrarlitin: Nær á árinum byrjar litbroytingin og hvussu langa tíð tekur tað, til harurnar hava fingið fulla vetrarlitin. Myndatólini vóru innstillaði soleiðis, at tá okkurt rørir seg framman fyri harusetrunum, verður ein mynd tikin. Á myndini verður skrásett dato og klokka, tá myndin er tikin. Á hendan hátt ber til at skráseta, hvussu haran sær út, og eisini nær á degnum og árinum tær eru mest aktivar.</p>
-<p>Ein líknandi kanning var gjørd á várið 2016, tá sóust bara harur á myndunum, men til mína stóru undran</p>
-<p>Nakrar av myndunum vórðu lagdar út á Facebook-síðuna <span type="quote">“Haruskjóting í Føroyum”</span>. Rottumyndirnar fingu rættuliga nógva umrøðu, og fólk sendu eisini fleiri myndir inn á Facebook-síðuna, sum vístu rottuholur, sum vóru grivnar í haganum, (Mynd 5.2 og 5.3).</p>
-<p>Føroysku fjølmiðlarnir tóku málið upp, og hetta førdi millum annað við sær, at løgtingsmaðurin Bjørn Kalsø, í løgtinginum 2. november, setti landsstýrismanninum í landbúnaðarmálum, Høgna Hoydal ein fyrispurning um rottutýning. Fyrispurningurin frá Bjørn Kalsø kann lesast her, og svarið, sum Høgna Hoydal gav í løgtinginum tann 15. november, kann lesast her.</p>
-<p><em type="italic">Mynd 5.1: Í oktober mánað í 2016 vórðu 14 sjálvvirkandi myndatól sett upp frammanfyri </em></p>
-<p><em type="italic">harusetur í høgum ymsastaðni í Føroyum. Ætlanin við myndatólunum var at kanna harur, men til stóra undran, vóru rottur at síggja á rættuliga nógvum av myndunum.</em><em type="bold"> </em></p>
-<p><em type="italic">Mynd 5.2: Nógvastaðni í haganum síggjast rottuholur (reyðu ringarnir), sum eru </em></p>
-<p><em type="italic">grivnar niður í lendið (Mynd: Bjarni Petersen). </em></p>
-<p><em type="italic">Mynd 5.3: Deyðseyður í haganum dregur eisini rottur til sín. Legg merki til </em></p>
-<p><em type="italic">rottuholurnar (reyðu ringarnir), sum eru grivnar inni í lendið (Mynd: Bernhard Augustinusen).</em><em type="bold">  </em></p>
-<p xml:lang="eng"><em type="bold">ÚTBREIÐSLA </em></p>
-<p>Rottan, sum í dag livir í Føroyum, er brúna rottan (<em type="italic">Rattus norvegicus</em>). Hon hevur sín uppruna í Asien, men er lutfalsliga nýggj í Føroyum, higar hon kom í 1768. Føroyska rottusøgan byrjar við einum skipsvraki, sum rak á land í Hvalba. Hetta var í mai í 1768. Talan var um norska skipið „<em type="italic">Kongen af Preussen</em>“, sum, ávegis frá Tróndheimi til Dublin í Írlandi, rendi á land á skotsku oynni Lewis. Vrakið, sum var fult av rottum, rak til Føroyar og kom á land í Hvalba. </p>
-<p>Við hesum vrakinum komu fyrstu brúnu rotturnar til Føroya. Rottan spjaddist skjótt kring landið. Longu eftir einum ári, vóru tær um alla Suðuroynna. Í 1769 vóru tær sæddar í Havn, og eftir einans tíggju árum, vóru tær komnar til Víkar og Saksunar. í 1776 komu tær til Eiðis, og høvdu longu trý ár seinni spjatt seg um alla Eysturoynna. Í 1779 komu tær til Sørvágs, og árið eftir vóru tær eisini í Miðvági. Í dag er rottan at finna á sjey av teimum 18 oyggjunum í Føroyum: Viðoy, Borðoy, Kunoy, Eysturoy, Streymoy, Vágum og Suðuroy.</p>
-<p><em type="bold">STØDD OG NØRING </em></p>
-<p>Ein fullvaksin rotta vigar 200-300 g. Kroppurin er 20-30 cm til longdar og halin 17-23 cm. Rottan gerst longu kynsbúgvin eftir trimum mánaðum. Hon gongur kviðin í 22 dagar og leggur so 6-12 ungar, sum hvør viga eini 5 g. Rottan leggur 3- 5 ferðir um árið. Soleiðis kann ein einstøk rotta gerast til 862 rottur eftir einum ári. Miðal livialdurin á rottu er 1½ ár.</p>
-<p xml:lang="eng"><em type="bold">LIVIMÁTI </em></p>
-<p>Rottur eru mest aktivar í myrkri og liva mest undir jørð, eitt nú í kloakkum og holum, sum tær grava sær. Tær grava sjáldan djúpari niður enn 60 cm, men kunnu grava seg upp úr kloakkum, sum eru 8 m niðri. Um summarið eru tær spjaddar runt um í náttúruni, men koma at húsum um veturin. Rottur hava harðar og hvassar tenn og kunna gnaga seg gjøgnum múrsteinar, aluminium, sink, plastikk og træ.</p>
-<p><em type="bold">STERK OG FIM </em></p>
-<p>Rottan er bæði sterk og fim. Er holið størri enn 20 mm, kann hon krúpa í gjøgnum. Hon kann lyfta ristir, sum viga 1,2 kg og kann klatra upp eftir loddrøttum veggjum. Rottur kunnu leypa 75 cm beint uppeftir, 1,2 m vatnrætt og 2 m út frá á skák niðureftir. Rottan er eisini óførur svimjari. Ein rotta, sum var merkt á einari oyggj í Ný Zælandi, var funnin aftur á aðrari oyggj 400 m burtur, hagar hon hevði s</p>
+<p>Niðurstøðan er tí, at: <em type="bold">einir 700 mans skutu harur í Føroyum í 2016. </em></p>
+<p>Hetta talið er eitt sindur lægri enn undanfarin ár. Fyri 2015 vísti sama roknistykkið, at tá skutu 800 mans harur í Føroyum. Í 2014 var talið 1.222 mans og í 2013 skutu 1.044 mans harur í Føroyum. 22 <em type="bold">4. Føroyska veðrið í november og desember mánað 2016 </em></p>
+<p>Niðanfyri verður greitt frá, hvussu veðrið var í Føroyum í november og desember mánað í 2016 (Myndirnar 4.1 - 4.7). Tølini eru frá heimasíðuni hjá Danmarks Meteorologiske Institut (DMI), (http://www.dmi.dk/faeroeerne/arkiver/vejrarkiv/). Hugtakið “ <em type="bold">Vanligt </em>”, er miðaltøl fyri mánaðin, árini 1961-1990. </p>
+<p xml:lang="eng">Mynd 4.1:</p>
+<p><em type="italic">Føroyska veðrið í 2016, mánað fyri mánað. Mátingarnar eru </em><em type="italic">gjørdar í Tórshavn. Regndagar (nedbørsdage) eru dagar, har tað regnar 1 mm ella meira í ein dag (Kelda: DMI). </em></p>
+<p><em type="bold">Ættin </em>: Tað sum eyðkendi harutíðina í 2016, var tann nógva vestanættin, sum var, bæði í november og desember mánað (Mynd 4.2 og 4.4). Eystanættirnar vóru so at siga heilt burtur. Fyrstu dagarnar í november mánað var hann høgur í ættini, men fór so í ein landnyrðing (Mynd 4.2). Frá 6. til 16. november var hann báðumegin vestan, men frá 17 til 26. november var aftur høgætt. Tað mesta av desember mánað kom hann vestaneftir (mynd 4.2). Sambært mátingunum, sum Landsverk hevur gjørt á Glyvursnesi, sunnanfyri Havnina, so var ættin næstan allan desember mánað millum vestan og sunnan (Mynd 4.4). Havast skal tó í huga, at støðirnar, sum máta vindrætningin, eru rættiliga ávirkaðar av lendinum, har sum mátistøðin stendur, og tí er býtið av ættini, sum er mátað á Glyvursnes, kanska ikki heil umboðandi allar Føroyar. Mátingarnar skuldi tó givið eina góða ábending um, hvussu veðrið var í harutíðini í 2016. <em type="bold">Vindur: </em>Sambært DMI, hevur miðalvindferðin í Føroyum í november mánað árini 1961-1990 verið 6,5 m/s, og í desember mánað 7,1 m/s. Sum sæst á mynd 4.5, so var miðalvindferðin, (tað er miðalferðin, mátað í 6 tímar) í november umleið miðal, men í desember mánað vóru nógvir dagar, har miðalvindferðin var omanfyri 7,1 m/s (mynd 4.5) <em type="bold">Regn: </em>Tað regnaði meira í harutíðini í 2016 enn vanligt. Í november vóru 22 regndagar, í desember 23 (Mynd 4.1 og 4.4). Sostatt vóru tað bara 16 dagar í allari harutíðini, har tað ikki regnaði. Eitt, ið eyðkennir haruna er, at henni dámar ikki regn. Tá sita tær rættuliga fastar. Samlaða regnmongdin fyri november var 144 mm og í desember 177 mm. Hetta er eitt sindur meira enn vanligt, tí sambært DMI, so er miðal regnmongdin hesar báðar mánarnar vanliga ávikavist 127 mm og 142 mm. <em type="bold">Hitin: </em>Samanumtikið var tað sera lýtt í harutíðini í 2016 (Mynd 4.4). Miðalhitin fyri november mánað var 5,8 0C, sum er 1,2 grad heitari enn vanligt (4,6 0C). Í desember var miðalhitin 6,5 0C, sum er heilar 2,8 grad heitari heitari enn vanligt (3,7 0C). <em type="bold">Sól: </em>Sólmátingarnar hjá DMI vísa, at nógv sól var í november mánað (42 sóltímar. Vanligt: 20 tímar), meðan desember var ein miðal mánaður (20 sóltímar. Vanligt: 20 tímar) (Mynd 5.6). 23 </p>
+<p xml:lang="eng">Mynd 4.2:</p>
+<p><em type="italic">Ættin í november (vinstrumegin) og í desember mánað í 2016 (høgrumegin) </em><em type="italic">í Tórshavn, mátað sum miðal í 6 tímar (Kelda: DMI). </em></p>
+<p xml:lang="eng">Mynd 4.3:</p>
+<p>Mesti og minsti hitin mátaður í døgninum í november (vinstrumegin) og <em type="italic">desember mánað 2016 (høgrumegin) í Tórshavn. Miðalhitin fyri november var 5,8 0C (vanligt: 4,6 0C) og fyri desember 6,9 0C (vanligt: 3,7 0C). (Kelda: DMI). </em></p>
+<p xml:lang="eng">Mynd 4.4:</p>
+<p><em type="italic">Vindrósa. Býti av ætt og vindferð, mátað á Glyvursnesi í november (ovara) </em><em type="italic">og desember mánað 2016 (niðara). (Mátingar: Landsverk. Gjørt myndirnar: Bárður Niclasen). </em>24 </p>
+<p xml:lang="eng">Mynd 4.5:</p>
+<p><em type="italic">Vindur (m/s) í november (vinstrumegin) og desember mánað (høgrumegin) í </em><em type="italic">2016, mátað í Tórshavn. </em>─── : Miðal fyri 6 tímar, ●: Hvirlur. Vanliga miðalvindferðin fyri november er 6,5 m/s og fyri desember 7,1 m/s. Gevi gætur : y-aksin fyri november gongur frá 0 til 30 m/s, men i desember er hann frá 0 til 55 m/s (Kelda: DMI). </p>
+<p xml:lang="eng">Mynd 4.6:</p>
+<p><em type="italic">Regnmongdin í Tórshavn í november (vinstrumegin) og desember mánað </em><em type="italic">2016 (høgrumegin). Samlaða regnmongdin í november var 144 mm (vanligt: 127 mm) og í desember 177 mm (vanligt: 142 mm) (Kelda: DMI.) </em></p>
+<p xml:lang="eng">Mynd 4.7:</p>
+<p><em type="italic">Sóltímar í Tórshavn í november (vinstrumegin) og desember mánað </em><em type="italic">(høgrumegin) 2016. Íalt vóru 42 sóltímar í november (vanligt: 20 tímar) og 15 sóltímar í desember (vanligt: 7 tímar) (Kelda: DMI). </em>25 <em type="bold">5. Týdningurin, sum rottan hevur fyri føroysku haruna </em>í oktober mánað í 2016 vóru 14 sjálvvirkandi myndatól sett upp frammanfyri harusetur í fimm høgum, ymsastaðni í landinum. Endamálið við myndatólunum var at kann litbroytingina hjá haruni, tá hon skifti frá tí brúna summarlitinum til tann ljósagráa vetrarlitin: Nær á árinum byrjar litbroytingin og hvussu langa tíð tekur tað, til harurnar hava fingið fulla vetrarlitin. Myndatólini vóru innstillaði soleiðis, at tá okkurt rørir seg framman fyri harusetrunum, verður ein mynd tikin. Á myndini verður skrásett dato og klokka, tá myndin er tikin. Á hendan hátt ber til at skráseta, hvussu haran sær út, og eisini nær á degnum og árinum tær eru mest aktivar. Ein líknandi kanning var gjørd á várið 2016, tá sóust bara harur á myndunum, men til mína stóru undran, avdúkaðu myndirnar, sum vórðu tiknar veturin 2016, at rættuliga nógv rotta var at síggja í haganum, (Mynd 5.1). Nakrar av myndunum vórðu lagdar út á Facebook-síðuna <span type="quote">“Haruskjóting í Føroyum”</span>. Rottumyndirnar fingu rættuliga nógva umrøðu, og fólk sendu eisini fleiri myndir inn á Facebook-síðuna, sum vístu rottuholur, sum vóru grivnar í haganum, (Mynd 5.2 og 5.3). Føroysku fjølmiðlarnir tóku málið upp, og hetta førdi millum annað við sær, at løgtingsmaðurin Bjørn Kalsø, í løgtinginum 2. november, setti landsstýrismanninum í landbúnaðarmálum, Høgna Hoydal ein fyrispurning um rottutýning. Fyrispurningurin frá Bjørn Kalsø kann lesast her, og svarið, sum Høgna Hoydal gav í løgtinginum tann 15. november, kann lesast her. </p>
+<p xml:lang="eng">Mynd 5.1:</p>
+<p><em type="italic">Í oktober mánað í 2016 vórðu 14 sjálvvirkandi myndatól sett upp frammanfyri </em><em type="italic">harusetur í høgum ymsastaðni í Føroyum. Ætlanin við myndatólunum var at kanna harur, men til stóra undran, vóru rottur at síggja á rættuliga nógvum av myndunum. </em><em type="bold"></em>26 </p>
+<p xml:lang="eng">Mynd 5.2:</p>
+<p><em type="italic">Nógvastaðni í haganum síggjast rottuholur (reyðu ringarnir), sum eru </em><em type="italic">grivnar niður í lendið (Mynd: Bjarni Petersen). </em></p>
+<p xml:lang="eng">Mynd 5.3:</p>
+<p><em type="italic">Deyðseyður í haganum dregur eisini rottur til sín. Legg merki til </em><em type="italic">rottuholurnar (reyðu ringarnir), sum eru grivnar inni í lendið (Mynd: Bernhard Augustinusen). </em><em type="bold"></em>27 <em type="bold">5.1 Rottan </em></p>
+<p><em type="bold">ÚTBREIÐSLA </em>Rottan, sum í dag livir í Føroyum, er brúna rottan ( </p>
+<p><em type="italic">Rattus norvegicus </em>). Hon hevur sín uppruna í Asien, men er lutfalsliga nýggj í Føroyum, higar hon kom í 1768. Føroyska rottusøgan byrjar við einum skipsvraki, sum rak á land í Hvalba. Hetta var í mai í 1768. Talan var um norska skipið „ </p>
+<p><em type="italic">Kongen af Preussen </em>“, sum, ávegis frá Tróndheimi til </p>
+<p>Dublin í Írlandi, rendi á land á skotsku oynni Lewis. Vrakið, sum var fult av rottum, rak til Føroyar og kom á land í Hvalba. Við hesum vrakinum komu fyrstu brúnu rotturnar til Føroya. Rottan spjaddist skjótt kring landið. Longu eftir einum ári, vóru tær um alla Suðuroynna. Í 1769 vóru tær sæddar í Havn, og eftir einans tíggju árum, vóru tær komnar til Víkar og Saksunar. í 1776 komu tær til Eiðis, og høvdu longu trý ár seinni spjatt seg um alla Eysturoynna. Í 1779 komu tær til Sørvágs, og árið eftir vóru tær eisini í Miðvági. Í dag er rottan at finna á sjey av teimum 18 oyggjunum í Føroyum: Viðoy, Borðoy, Kunoy, Eysturoy, Streymoy, Vágum og Suðuroy. <em type="bold">STØDD OG NØRING </em>Ein fullvaksin rotta vigar 200-300 g. Kroppurin er 20-30 cm til longdar og halin 17-23 cm. Rottan gerst longu kynsbúgvin eftir trimum mánaðum. Hon gongur kviðin í 22 dagar og leggur so 6-12 ungar, sum hvør viga eini 5 g. Rottan leggur 3- 5 ferðir um árið. Soleiðis kann ein einstøk rotta gerast til 862 rottur eftir einum ári. Miðal livialdurin á rottu er 1½ ár. <em type="bold">LIVIMÁTI </em>Rottur eru mest aktivar í myrkri og liva mest undir jørð, eitt nú í kloakkum og holum, sum tær grava sær. Tær grava sjáldan djúpari niður enn 60 cm, men kunnu grava seg upp úr kloakkum, sum eru 8 m niðri. Um summarið eru tær spjaddar runt um í náttúruni, men koma at húsum um veturin. Rottur hava harðar og hvassar tenn og kunna gnaga seg gjøgnum múrsteinar, aluminium, sink, plastikk og træ. <em type="bold">STERK OG FIM </em>Rottan er bæði sterk og fim. Er holið størri enn 20 mm, kann hon krúpa í gjøgnum. Hon kann lyfta ristir, sum viga 1,2 kg og kann klatra upp eftir loddrøttum veggjum. Rottur kunnu leypa 75 cm beint uppeftir, 1,2 m vatnrætt og 2 m út frá á skák niðureftir. Rottan er eisini óførur svimjari. Ein rotta, sum var merkt á einari oyggj í Ný Zælandi, var funnin aftur á aðrari oyggj 400 m burtur, hagar hon hevði svomið. 28 <em type="bold">5.2 Fýra ræðandi rottusøgur </em></p>
 <p>Í samband við at myndirnar av rottunum við harusetrini vórðu lagdar út, komu nógvar søgur fram um rottur, bæði á Facebook-síðuni og frá fólki, sum hava sagt mær frá søgum um rottur.</p>
 <p>Fýra av hesum søgunum verða endurgivnar niðanfyri.</p>
 <p><em type="bold">ROTTA LOYPUR Á HAVHESTUNGA </em></p>
-<p>Sjálvur skrivaði eg 25. oktober 2016 hendan stubban:</p>
-<p>“<em type="italic">Onkur hevur spurt meg, um rotta legst á harur. Eg veit tað ikki við vissu, men eg </em></p>
-<p><em type="italic">tosaði við ein starvsfelaga í dag. Hann hevur fyrr arbeitt við havhesti, har hann millum annað hevur sett myndatól upp. Har er ein upptøka, har ein rott loypur á ein havhestaunga, sum er nógvar ferðir størri enn rottan, og drepur hann. So út frá hesum er ikki óhugsandi, at rottan eisini kann loypa á haru.”</em> </p>
-<p>So kom hetta:</p>
-<p><em type="italic">“So havi eg fingið fatur á upptøkuni, har rottan loypur á havhestunga og drepur hann. Tað er starvsfelagi mín, Jóhannis Danielsen, sum hevur gjørt og eigur upptøkuna. </em></p>
+<p>Sjálvur skrivaði eg 25. oktober 2016 hendan stubban: “</p>
+<p><em type="italic">Onkur hevur spurt meg, um rotta legst á harur. Eg veit tað ikki við vissu, men eg </em><em type="italic">tosaði við ein starvsfelaga í dag. Hann hevur fyrr arbeitt við havhesti, har hann millum annað hevur sett myndatól upp. Har er ein upptøka, har ein rott loypur á ein havhestaunga, sum er nógvar ferðir størri enn rottan, og drepur hann. So út frá hesum er ikki óhugsandi, at rottan eisini kann loypa á haru.” </em></p>
+<p>So kom hetta: <em type="italic">“So havi eg fingið fatur á upptøkuni, har rottan loypur á havhestunga og drepur hann. Tað er starvsfelagi mín, Jóhannis Danielsen, sum hevur gjørt og eigur upptøkuna. </em></p>
 <p><em type="italic">Kanska er tað eitt sindur ringt at síggja rottuna í byrjanin av upptøkuni, men hon sæst ovast uppi í høgra horni á myndini, sum tvær lýsandi kúlur. So loypur hon fram móti havhestunganum, hann ger nøkur sprell, so er hann deyður. At havhestungin veruliga er deyður sæst av, at ungin ikki ger nakra roynd at verja seg ella sleppa sær undan, tá rottan seinni á upptøkuni gongur rundan um ungan og skrykkir í hann. Á einari aðrari upptøku, sum ikki er við her, gongur rottan oman á havhestunganum, uttan at hesin rørir seg. Upptøkan er 30 sek. til longdar.” </em></p>
 <p>Og stutt eftir kom hendan søgan úr Vágum.</p>
-<p><em type="bold">ROTTA DRIPIÐ HARUUNGAR </em></p>
-<p><em type="italic">“Vit vóru trý, ið høvdu verið á Hvilvtkinnavatni (tað er í Vágum; vestanfyri Fjallavatn) og fiskað síl. Tað var ikki blivið rættuliga ljóst aftur, tá ið vit vóru ávegis heim. Tann eini av okkum helt seg síggja tveir haruungar við ein stein. Hann loypur eftir teimum. Fangar annan, men hin fer undir steinin. Maðurin leggur seg niður og stingur hondini inn undir steinin. Jú, hann føldi haruungan, men fekk ikki ordiliga fatur í honum. Brádliga loypur hetta út. Tá var blivið eitt sindur ljósari, og vit sóu, at tað var ein stór rotta. Hann av okkum, ið helt á haruunganum, leggur til merkis, at hann hevði blóð á hondunum, men vit hugsaðu ikki nógv um tað. Haruungin bleiv lagdur í eina húgvu, og tikin heim við.  </em></p>
-<p><em type="italic">Komnir heim, var vorðið ljóst. Tá ið vit hugdu aftur til haruungan, var hann deyður. Fóru so at hyggja nærri eftir honum. Tá sóust tvey sár á hálsinum á haruunganum. Rottan hevði snøgt sagt bitið hann á barka, og hevur ivaleyst baksast við at fáa hann inn undir steinin, tá vit komu framvið. Vit hugdu seinni undir steinin, har vóru fleiri beinagrindir at síggja. Eg minnist væl smá herðabløð,sum lógu undir steininum, so hatta var ikki einasti haruungi, ið rottan hevði tikið.  </em></p>
-<p><em type="italic">og smáfugl.  </em></p>
+<p><em type="bold">ROTTA DRIPIÐ HARUUNGAR </em><em type="italic">“Vit vóru trý, ið høvdu verið á Hvilvtkinnavatni (tað er í Vágum; vestanfyri Fjallavatn) og fiskað síl. Tað var ikki blivið rættuliga ljóst aftur, tá ið vit vóru ávegis heim. Tann eini av okkum helt seg síggja tveir haruungar við ein stein. Hann loypur eftir teimum. Fangar annan, men hin fer undir steinin. Maðurin leggur seg niður og stingur hondini inn undir steinin. Jú, hann føldi haruungan, men fekk ikki ordiliga fatur í honum. Brádliga loypur hetta út. Tá var blivið eitt sindur ljósari, og vit sóu, at tað var ein stór rotta. Hann av okkum, ið helt á haruunganum, leggur til merkis, at hann hevði blóð á hondunum, men vit hugsaðu ikki nógv um tað. Haruungin bleiv lagdur í eina húgvu, og tikin heim við. </em></p>
+<p><em type="italic">Komnir heim, var vorðið ljóst. Tá ið vit hugdu aftur til haruungan, var hann deyður. Fóru so at hyggja nærri eftir honum. Tá sóust tvey sár á hálsinum á haruunganum. Rottan hevði snøgt sagt bitið hann á barka, og hevur ivaleyst baksast við at fáa hann inn undir steinin, tá vit komu framvið. Vit hugdu seinni undir steinin, har vóru fleiri beinagrindir at síggja. Eg minnist væl smá herðabløð,sum lógu undir steininum, so hatta var ikki einasti haruungi, ið rottan hevði tikið. </em>29 </p>
+<p><em type="italic">Tað er ikki ringt at ímynda sær, hvat skaða hon ger í haganum, eitt nú á heiðafugl og smáfugl. </em></p>
 <p><em type="italic">Eg havi eisini einaferð upplivað, at rotta hevur gjørt seg inn á dunnuungar. Eg hevði moskusdunnuungar í einum úthúsi. Tann eina dagin vóru fleiri av dunnuungunum fullir av sárum, og ein lá hálvetin á gólvinum. Eg hevði ikki trúð tí. Teir vóru hálvvaksnir og nógv størri enn ein rotta. Men rotta var tað. Eg fann holið hjá henni, og einki annað kundi sleppa inn.” </em></p>
 <p>So kom hendan søgan úr Vestmanna</p>
-<p><em type="bold">ROTTA LOYPUR Á SEYÐ  </em></p>
-<p><em type="italic">“Tá ið eg nú síggi, at tú Eyðfinn setur spurnartekin við, um rotta kanska legst á harur, rennur mær beinanvegin ein áhugaverd søga til hugs. </em></p>
-<p><em type="italic">Einaferð vóru tveir mans úr Vestmanna farnir burtur í haga at hyggja til seyðin. Nógvur kavi var niðurkomin, so ringt var hjá bæði seyði og fólki at ganga. Teir</em></p>
+<p><em type="bold">ROTTA LOYPUR Á SEYÐ </em><em type="italic">“Tá ið eg nú síggi, at tú Eyðfinn setur spurnartekin við, um rotta kanska legst á harur, rennur mær beinanvegin ein áhugaverd søga til hugs. </em></p>
+<p><em type="italic">Einaferð vóru tveir mans úr Vestmanna farnir burtur í haga at hyggja til seyðin. Nógvur kavi var niðurkomin, so ringt var hjá bæði seyði og fólki at ganga. Teir koma so til eitt seyðafylgi, sum tá hevði leitað sær eitt sindur niðan frá bólinum, sum hoyrdi til hetta fylgið. Sum áður nevnt, so var nógvur kavi, og seyðurin stóð meira ella minni stillur í einari rekkju, soleiðis sum man ofta sær teir ganga, tá kavi er. </em></p>
 <p><em type="italic">Nú síggja teir eina rottu koma úr bólinum. Hon heldur beina leið ímóti fylginum. Knappliga fer ein gimbur at leika í, men av at tí, at tað var so nógvur kavi, fekk hon illa flutt seg. Menninir skunda sær alt tað teir eru mentir, at koma yvir til seyðin, men tá hevði rottan longu klárað at bitið hol á skinnið innanlærs á tjógvunum. </em></p>
-<p><em type="italic">Eg hugsaði bara, at hettar var ein áhugaverd søga, sjálvt um hon ikki hevur nakað við haru at gera, og at hon vísur á, at tá rotta kann leggja á ein vaksnan seyð, so kann hon eisini leggjast á eina haru.”</em> </p>
+<p><em type="italic">Eg hugsaði bara, at hettar var ein áhugaverd søga, sjálvt um hon ikki hevur nakað við haru at gera, og at hon vísur á, at tá rotta kann leggja á ein vaksnan seyð, so kann hon eisini leggjast á eina haru.” </em></p>
 <p>Og so hendan søgan úr Havn</p>
-<p><em type="bold">ROTTA LOYPUR Á POSTMANN</em> </p>
+<p><em type="bold">ROTTA LOYPUR Á POSTMANN </em></p>
 <p>Ein maður fortaldi mær um oldurabba sín, sum var postmaður. Hetta hevur verið í byrjanina av 1900. Arbeiðið sum postmaður innibar millum annað, at hann skuldi bera post um alt landið; líka úr Havn norður til Viðareiðis. Á einum av hesum posttúrunum gekk hann ein dagin norður eftir Oynni. Nógvur kavi var, og postmaðurin verður fastur í kavanum. Meðan hann soleiðis stríðist fyri at sleppa leysur aftur, kemur ein rotta rennandi í móti honum og loypur beint á postmannin.</p>
 <p>Út frá hesum fýra søgunum so er eingin ivi um, at rottan gerr stóran skaða á føroyska harustovnin og á annað livandi í Føroysku náttúruni.</p>
-<p>Tað er eisini vælkent, at tá rotta er komin í eina oyggj, so er fuglameingið í oynni nógv minkað.</p>
-<p>Magnussen, E. og Jensen, J.K. (2016). <em type="bold">Sjáldsamar loppur á føroyskum rottum</em>. Frøði, nr. 1 s, 30-33. Kann lesast her. </p>
-<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2015</em>. NVDrit 2016:02, p. 1-44. Kann lesast her. </p>
-<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku </em></p>
-<p><em type="bold">haruna</em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
-<p>Magnussen, E. (2014). <em type="bold">Haruveiðan í Føroyum 2013</em>. NVDrit 2014:02, p. 1-57.  Kann lesast her. </p>
-<p>Magnussen, E. (2013). <em type="bold">Haruveiðan í Føroyum 2012</em>. NVDrit 2013:02, p. 1-44.  Kann lesast her. </p>
-<p xml:lang="eng"><em type="bold">Appendix</em> </p>
-<p><em type="bold">Haruveiðan </em></p>
-<p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2016,          skipað eftir: oyggj, bygd, hagaparti og dato.</p>
-<p><em type="italic">Upplýsingar um harutølini, sum vórðu savnaði  fyri veiðitíðina 2016.</em> </p>
-<p>2.950</p>
-<p>Tal av skotnum harum Tal av harutúrum Tal av hagapørtum Tal av bygdum Tal av oyggjum</p>
-<p>Tal av heimildarfólkum</p>
-<p><em type="bold">OyggBygdHagaparturDatoTal av harum</em> <em type="bold">Tal av byrsum</em> </p>
-<p>FugloyHattarvíkBergið‐ Uttarstovuhagi‐ ‐ KirkjaKirkjuhagi ‐ Sunnaripartur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>SvínoySvínoyEysturhøvdi‐ Fyri handan Fjøll‐ Fyri handan Hálsar‐ Handantúnstriðingur ‐ Fyri norðan ‐ ‐ Handantúnstriðingur ‐ Fyri uttan ‐ Uppi í Grønu‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>ViðoyHvannasundÚti á Rættini‐ Yviri á Skarðhamri‐ ‐ ViðareiðiBergsmunni‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Eystur við Egg ‐ EystastiparturIkki skotið <em type="bold">harumbyrsum</em> </p>
-<p>ViðoyViðareiðiEystur við Egg ‐ Vestastipartur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Fyri innan Leiti‐ ‐ Inni í Bergi‐ Inni í Dølum‐ ‐ Inni í Vík ‐ Heimaripartur‐ Inni í Vík ‐ UttariparturIkki skotið Uppi á Váli‐ ‐ Úti í LíðIkki skotið VillingardalurIkki skotið BorðoyÁrnafjørðurBergið‐ Ognarhagin‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>DepilNorðaripartur‐ ‐ KlaksvíkBarmur‐ Fyri Heiman (í Gerðum)‐ ‐ Hellisdalur‐ Myrkjanoyrarhagi ‐ Uppsalahagi‐ ‐ ‐ ‐ ‐ �</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Útistovuhagi‐ MúliKrossdalur‐ NorðoyriBjargamansdalur‐ ‐ Fløturnar‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Miðhagi + Líðarhagi‐ <em type="bold">harumbyrsum</em> </p>
-<p>BorðoySkálatoftirSkáltoftahagi‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>StrondStrandarhagi‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>KunoyHaraldssundFyri Norðan‐ Fyri Sunnan‐ KunoyByrgið‐ Fyri Norðan‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>KalsoyHúsarLíðin og Leitið‐ ‐ Suður í Haga‐ ‐ MikladalurKambur‐ ‐ Sunnanáhagi ‐ Heimaripartur‐ Sunnanáhagi ‐ Norðaripartur‐ ‐ TrøllanesDjúpidalur Norðaripartur‐ Fyri Heiman‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> <em type="bold">harumbyrsum</em> </p>
-<p>EysturoyEiðiBreiðá og Teistavál‐ Eiðiskollur (Partur av Norðurhelvt)‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Fyri Norðan Á (Partur av Norðurhelvt)‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Gimbrahagi‐ Suðurhelvt (Slættaratindur)‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>ElduvíkDalkinn‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Grønurnar‐ FuglafjørðurFjalshagi‐ Gjógvaráhagi‐ ‐ Góðidalur‐ Innandalshagi‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>‐ ‐ RustinIkki skotið FunningurBotnar‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p>Norður í Haga ‐ Norðaripartur</p>
-<p>(Halgadalur) <em type="bold">harumbyrsum</em> </p>
-<p>EysturoyFunningurÍ Húsi‐ ‐ Líðin ‐ Ytragonga‐ GjógvFløtur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Fyri oman Rætt ‐ Fjallið‐ GøtugjógvGjáarhagi‐ LambaEystursíðan‐ LeirvíkHjallahagi ‐ Eystaripartur‐ Hjallahagi ‐ Heimaripartur‐ Navirnar‐ Ognarhagin‐ NorðagøtaYviri í Dal‐ NorðskálaNorðskálahagi ‐ Norðaripartur‐ Norðskálahagi ‐ Sunnari‐ OyndafjørðurHeltnin‐ OyriOyrarhagi ‐ Norðastipartur ‐ ‐ SkálaMiðhagi ‐ Ytripartur + Innaripartur‐ SkálabotnurSkálafjall ‐ Miðjan‐ ‐ Skálafjall ‐ Ytripartur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>SøldafjørðurGøtuseyður og Bøseyður‐ SvínáirSvínáhagi ‐ Norðarahelvt‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Svínáhagi ‐ Sunnarahelvt‐ SyðrugøtaFyri handan Eið ‐ Guttastovupartur‐ Fyri handan Eið ‐ Norðastipartur‐ Fyri oman Heiðar‐ Fyri uttan Hús‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Norður í Haga‐ Valaknúkar‐ <em type="bold">harumbyrsum</em> </p>
-<p>StreymoyHaldarsvíkByrgið‐ Norðan Á‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Sunnan Fossá‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>HósvíkToftahagi ‐ Frammistovupartur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Hoyvík‐ ‐ ‐ ‐ ‐</p>
-<p>Hoyvíkshagi ‐ Norðari + Sunnaripartur (Vatnaskarðar)</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>HvalvíkFrammidalahagi‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Húsadalshagi‐ ‐ Loðadalshagi‐ ‐ Miðdalahagi‐ Rossabotnshagi‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Toftadalshagi‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> <em type="bold">harumbyrsum</em> </p>
-<p>StreymoyKaldbakÁarhagi ‐ Heimanfyri‐ Áarhagi ‐ Miðrøktin‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Bíggjarhagi ‐ Eystastipartur‐ Bíggjarhagi ‐ Líðarseyður‐ Bíggjarhagi ‐ Vestastipartur‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>KirkjubøurGlyvurshagi‐ Inni í Dølum‐ ‐ Kirkjubøhagi ‐ Fyri Handan‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>KollafjørðurHamrahagi ‐ Frammi við Gjógv‐ ‐ Kjalneshagi‐ ‐ Miðgerðahagi ‐ Frammi við Gjógv‐ ‐ Signabøshagi‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Sjóvarhagi ‐ Fremripartur‐ ‐ KvívíkFjallið (partur av Ognarhaganum)‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Frammi í Haga (Presthagin)‐ ‐ <em type="bold">harumbyrsum</em> </p>
-<p>StreymoyKvívíkGásafellið (partur av Ognarhaganum)‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Norðuri í Haga (Junkarahagi)‐ ‐ LangasandurLangasandshagi‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>LeynarLeynahagi ‐ Framman fyri Húsini‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Leynahagi ‐ Uttan fyri Húsini‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>NorðradalurKongshagin (Úti í Haga)‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Presthagin (Heimi í Haga)‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>SaksunKvíggjarhamarshagi‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Svartáhagi ‐ Fyri Niðan‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Svartáhagi ‐ Fyri Uttan‐ ‐ SkælingurSkælingshagi ‐ Norðaripartur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> <em type="bold">harumbyrsum</em> </p>
-<p>StreymoyStreymnesFyri Framman ‐ Fremripartur‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Fyri Framman ‐ Heimaripartur‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>SundSundshagi ‐ Innaripartur‐ ‐ Sundshagi ‐ Uttaripartur‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>TjørnuvíkSjeyndir (Norðan Kamb)‐ ‐ TórshavnFlatnahagi og Húsahagi‐ VelbastaðurFungagimbrarIkki skotið Heiðaseyður‐ ‐ Lambhagi‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Norðari SpakiseyðurIkki skotið Syðri SpakiseyðurIkki skotið VestmannaBrekkurnar (Partur av Neshaga)‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Dalhagi ‐ Eystaripartur‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Dalhagi ‐ Heimaripartur‐ ‐ <em type="bold">harumbyrsum</em> </p>
-<p>StreymoyVestmannaFjallið (partur av Fjalshaga)‐ ‐ Heimi í Haga á Bjørgum ‐ Eystari‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Heimi í Haga á Bjørgum ‐ Vestari ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Heygahagi ‐ Innarahelvt‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Kvívíksmerkur (Líðin)‐ Neshagi (Norðurnesið)‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Reynið (partur av Fjalshaga)‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Úti í Haga á Bjørgum‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>VágarBøurKleivar‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Tormanshagi‐ Uttangarðshagi ‐ Eystaripartur‐ ‐ Uttangarðshagi ‐ Vestaripartur‐ ‐ GásadalurLíðin‐ <em type="bold">harumbyrsum</em> </p>
-<p>VágarMiðvágurDalurin‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Heimaraleiti‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Kvígandalur‐ ‐ SandavágurEyðansstovuhagi‐ Samlað? GiljahagiSamlað? GimbragongaSamlað? Oknadalur‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Oyrargjáarhagi‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Rákarhagi‐ Reyn‐ Sundshagi‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> <em type="bold">harumbyrsum</em> </p>
-<p>VágarSørvágur‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>‐ ‐ ‐ ‐ ‐</p>
-<p><em type="bold">Tilsamans</em> </p>
-<p>Úttriðingur Selvíkar ‐ Eystaripartur‐</p>
-<p>MykinesMykinesBorgardalurHava ikki skotið HeimangjógvHava ikki skotið KálvadalurHava ikki skotið LíðarhagiHava ikki skotið HesturHesturHesthag ‐ Innarahelvt ‐ Norðari‐ NólsoyNólsoyØll oyggin‐ SandoyDalurSyðstihagi‐ SandurNorðastifjórðingur‐ SkarvanesInnastihagi‐ SkúgvoySkúgvoyNorðarihagi ‐ Heimaripartur‐ ‐ Norðarihagi ‐ Norðaripartur‐ SuðuroyFroðbaKambhagi fyri Handan‐ Trongisvágur‐</p>
-<p><em type="bold">Tilsamans fyri allar Føroyar2.9501.326</em> </p>
-<p>Norðurtriðingur ‐ Norðaripartur</p>
-<p>(Norðurtriðingur ‐ Uttanfyri Ánnað)</p>
-<p>Norðurtriðingur ‐ Sunnaripartur (Vørðufelli)</p>
-<p>Klappjakt (4 hagar: Líðarhagi + Húsgarðshagi +</p>
-<p>Riddalshagi + Tvørhagi ‐ innaripartur)</p>
+<p>Tað er eisini vælkent, at tá rotta er komin í eina oyggj, so er fuglameingið í oynni nógv minkað. 30 <em type="bold">6. Heimildir </em></p>
+<p>Magnussen, E. og Jensen, J.K. (2016). <em type="bold">Sjáldsamar loppur á føroyskum rottum </em>. </p>
+<p>Frøði, nr. 1 s, 30-33. Kann lesast her.</p>
+<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2015 </em>. NVDrit 2016:02, p. 1-44. </p>
+<p>Kann lesast her.</p>
+<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku </em><em type="bold">haruna </em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
+<p>Magnussen, E. (2014). <em type="bold">Haruveiðan í Føroyum 2013 </em>. NVDrit 2014:02, p. 1-57. </p>
+<p>Kann lesast her.</p>
+<p>Magnussen, E. (2013). <em type="bold">Haruveiðan í Føroyum 2012 </em>. NVDrit 2013:02, p. 1-44. </p>
+<p>Kann lesast her. 2.950451 18767 15193</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Fugloy</p>
+<p>Hattarvík</p>
+<p>Bergið12‐1114</p>
+<p>Uttarstovuhagi12‐113414‐1121</p>
+<p>Kirkja</p>
+<p>Kirkjuhagi ‐ Sunnaripartur09‐111112‐115414‐1141</p>
+<p><em type="bold">Tilsamans </em><em type="bold">10 </em><em type="bold">6 </em></p>
+<p>Svínoy</p>
+<p>Svínoy</p>
+<p>Eysturhøvdi11‐1111</p>
+<p>Fyri handan Fjøll10‐1231</p>
+<p>Fyri handan Hálsar19‐1164</p>
+<p>Handantúnstriðingur ‐ Fyri norðan 12‐114218‐1113</p>
+<p>Handantúnstriðingur ‐ Fyri uttan 12‐1186</p>
+<p>Uppi í Grønu11‐113619‐112103‐125210‐1222</p>
+<p><em type="bold">Tilsamans </em><em type="bold">12 </em><em type="bold">5 </em></p>
+<p>Viðoy</p>
+<p>Hvannasund</p>
+<p>Úti á Rættini22‐1222</p>
+<p>Yviri á Skarðhamri03‐1221513‐1231</p>
+<p>Viðareiði</p>
+<p>Bergsmunni02‐118205‐114228‐116105‐12102</p>
+<p><em type="bold">Tilsamans </em><em type="bold">28 </em><em type="bold">7 </em></p>
+<p>Eystur við Egg ‐ Eystastipartur</p>
+<p>Ikki skotið00</p>
+<p>Eystur við Egg ‐ Miðjan</p>
+<p>Ikki skotið00</p>
+<p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2016, skipað eftir: oyggj, bygd, hagaparti og dato.</p>
+<p xml:lang="eng"><em type="bold">Appendix </em></p>
+<p><em type="bold">Haruveiðan 2016 </em></p>
+<p>Tal av heimildarfólkum</p>
+<p><em type="italic">Upplýsingar um harutølini, sum vórðu savnaði fyri veiðitíðina 2016. </em></p>
+<p>Tal av skotnum harum Tal av harutúrum Tal av hagapørtum Tal av bygdum Tal av oyggjum31</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Viðoy</p>
+<p>Viðareiði</p>
+<p>Eystur við Egg ‐ Vestastipartur19‐1132709‐128217‐1277</p>
+<p><em type="bold">Tilsamans </em><em type="bold">47 </em><em type="bold">16 </em></p>
+<p>Fyri innan Leiti04‐118305‐1292</p>
+<p>Inni í Bergi31‐1221</p>
+<p>Inni í Dølum14‐115131‐1261</p>
+<p>Inni í Vík ‐ Heimaripartur02‐1182</p>
+<p>Inni í Vík ‐ Uttaripartur</p>
+<p>Ikki skotið00</p>
+<p>Uppi á Váli05‐123131‐1231</p>
+<p>Úti í Líð</p>
+<p>Ikki skotið00</p>
+<p>Villingardalur</p>
+<p>Ikki skotið00</p>
+<p>Borðoy</p>
+<p>Árnafjørður</p>
+<p>Bergið13‐12101</p>
+<p>Ognarhagin14‐112202‐123103‐121119‐12181</p>
+<p><em type="bold">Tilsamans </em><em type="bold">24 </em><em type="bold">5 </em></p>
+<p xml:lang="dan">Depil</p>
+<p>Norðaripartur02‐111119‐1122</p>
+<p>Klaksvík</p>
+<p>Barmur26‐11144</p>
+<p>Fyri Heiman (í Gerðum)05‐1133819‐1162</p>
+<p>Hellisdalur02‐11163</p>
+<p>Myrkjanoyrarhagi 12‐1197</p>
+<p>Uppsalahagi02‐1114305‐1115612‐117419‐115526‐113103‐126313‐123315‐1211</p>
+<p><em type="bold">Tilsamans </em><em type="bold">54 </em><em type="bold">26 </em></p>
+<p>Útistovuhagi13‐1222</p>
+<p>Múli</p>
+<p>Krossdalur02‐12132</p>
+<p>Norðoyri</p>
+<p>Bjargamansdalur19‐117313‐1261</p>
+<p>Fløturnar12‐115219‐112326‐1133</p>
+<p><em type="bold">Tilsamans </em><em type="bold">10 </em><em type="bold">8 </em></p>
+<p>Miðhagi + Líðarhagi16‐128132</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Borðoy</p>
+<p>Skálatoftir</p>
+<p>Skáltoftahagi12‐112319‐114526‐1119401‐121303‐1210519‐121229‐127431‐1255</p>
+<p><em type="bold">Tilsamans </em><em type="bold">49 </em><em type="bold">31 </em></p>
+<p xml:lang="eng">Strond</p>
+<p>Strandarhagi05‐1125626‐119506‐123222‐1215531‐12175</p>
+<p><em type="bold">Tilsamans </em><em type="bold">69 </em><em type="bold">23 </em></p>
+<p xml:lang="eng">Kunoy</p>
+<p>Haraldssund</p>
+<p>Fyri Norðan12‐1143</p>
+<p>Fyri Sunnan03‐1241</p>
+<p xml:lang="eng">Kunoy</p>
+<p>Byrgið19‐1121</p>
+<p>Fyri Norðan10‐114119‐117103‐126109‐121123‐1221</p>
+<p><em type="bold">Tilsamans </em><em type="bold">20 </em><em type="bold">5 </em></p>
+<p>Kalsoy</p>
+<p>Húsar</p>
+<p>Líðin og Leitið02‐116212‐1123</p>
+<p>Suður í Haga19‐112206‐1231</p>
+<p>Mikladalur</p>
+<p>Kambur10‐124329‐1242</p>
+<p>Sunnanáhagi ‐ Heimaripartur02‐1251</p>
+<p>Sunnanáhagi ‐ Norðaripartur12‐112228‐1212</p>
+<p xml:lang="dan">Trøllanes</p>
+<p>Djúpidalur Norðaripartur13‐1251</p>
+<p>Fyri Heiman05‐111214‐113116‐112117‐110121‐111105‐1201</p>
+<p><em type="bold">Tilsamans </em><em type="bold">7 </em><em type="bold">7 </em>33 </p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Eysturoy</p>
+<p>Eiði</p>
+<p>Breiðá og Teistavál31‐12216</p>
+<p>Eiðiskollur (Partur av Norðurhelvt)10‐115116‐113122‐1131</p>
+<p><em type="bold">Tilsamans </em><em type="bold">11 </em><em type="bold">3 </em></p>
+<p>Fyri Norðan Á (Partur av Norðurhelvt)05‐1128719‐113228‐117103‐1210206‐1221</p>
+<p><em type="bold">Tilsamans </em><em type="bold">50 </em><em type="bold">13 </em></p>
+<p>Gimbrahagi30‐1212</p>
+<p>Suðurhelvt (Slættaratindur)05‐1120510‐114119‐111128‐113103‐124105‐124113‐125231‐1221</p>
+<p><em type="bold">Tilsamans </em><em type="bold">43 </em><em type="bold">13 </em></p>
+<p>Elduvík</p>
+<p>Dalkinn02‐112205‐115511‐112212‐111119‐112325‐112203‐125328‐1222</p>
+<p><em type="bold">Tilsamans </em><em type="bold">21 </em><em type="bold">20 </em></p>
+<p>Grønurnar31‐1242</p>
+<p>Fuglafjørður</p>
+<p>Fjalshagi05‐1111</p>
+<p>Gjógvaráhagi02‐1114322‐1132</p>
+<p>Góðidalur13‐1251</p>
+<p>Innandalshagi05‐114222‐111126‐1112</p>
+<p><em type="bold">Tilsamans </em><em type="bold">6 </em><em type="bold">5 </em>07‐117317‐1253 </p>
+<p xml:lang="eng">Rustin</p>
+<p>Ikki skotið00</p>
+<p>Funningur</p>
+<p>Botnar03‐117305‐112212‐114219‐117423‐1112228‐114122‐12104</p>
+<p><em type="bold">Tilsamans </em><em type="bold">46 </em><em type="bold">18 </em></p>
+<p>Norður í Haga ‐ Norðaripartur (Halgadalur)34</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Eysturoy</p>
+<p>Funningur</p>
+<p>Í Húsi22‐121131‐1244</p>
+<p>Líðin ‐ Ytragonga23‐1152</p>
+<p>Gjógv</p>
+<p>Fløtur05‐118928‐123331‐1214</p>
+<p><em type="bold">Tilsamans </em><em type="bold">12 </em><em type="bold">16 </em></p>
+<p>Fyri oman Rætt ‐ Fjallið22‐1141</p>
+<p>Gøtugjógv</p>
+<p>Gjáarhagi17‐1266</p>
+<p>Lamba</p>
+<p>Eystursíðan05‐1153</p>
+<p>Leirvík</p>
+<p>Hjallahagi ‐ Eystaripartur28‐12144</p>
+<p>Hjallahagi ‐ Heimaripartur12‐1182</p>
+<p>Navirnar02‐1152</p>
+<p>Ognarhagin28‐1292</p>
+<p>Norðagøta</p>
+<p>Yviri í Dal14‐1162</p>
+<p>Norðskála</p>
+<p>Norðskálahagi ‐ Norðaripartur02‐1211</p>
+<p>Norðskálahagi ‐ Sunnari22‐1211</p>
+<p>Oyndafjørður</p>
+<p>Heltnin19‐1187</p>
+<p>Oyri</p>
+<p>Oyrarhagi ‐ Norðastipartur 02‐1110305‐1132</p>
+<p>Skála</p>
+<p>Miðhagi ‐ Ytripartur + Innaripartur02‐11237</p>
+<p>Skálabotnur</p>
+<p>Skálafjall ‐ Miðjan05‐116631‐1243</p>
+<p>Skálafjall ‐ Ytripartur11‐1110225‐118203‐1253</p>
+<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">7 </em></p>
+<p>Søldafjørður</p>
+<p>Gøtuseyður og Bøseyður31‐1231</p>
+<p>Svínáir</p>
+<p>Svínáhagi ‐ Norðarahelvt05‐112219‐113308‐122131‐1243</p>
+<p><em type="bold">Tilsamans </em><em type="bold">11 </em><em type="bold">9 </em></p>
+<p>Svínáhagi ‐ Sunnarahelvt19‐1144</p>
+<p>Syðrugøta</p>
+<p>Fyri handan Eið ‐ Guttastovupartur19‐1131</p>
+<p>Fyri handan Eið ‐ Norðastipartur02‐11194</p>
+<p>Fyri oman Heiðar31‐1211</p>
+<p>Fyri uttan Hús12‐116302‐124303‐120231‐1233</p>
+<p><em type="bold">Tilsamans </em><em type="bold">7 </em><em type="bold">8 </em></p>
+<p>Norður í Haga19‐1166</p>
+<p>Valaknúkar02‐116335</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Streymoy</p>
+<p>Haldarsvík</p>
+<p>Byrgið12‐1134</p>
+<p>Norðan Á05‐115112‐111119‐117210‐127217‐122122‐127231‐1293</p>
+<p><em type="bold">Tilsamans </em><em type="bold">38 </em><em type="bold">12 </em></p>
+<p>Sunnan Fossá02‐115405‐111226‐113102‐122103‐124117‐124231‐1231</p>
+<p><em type="bold">Tilsamans </em><em type="bold">22 </em><em type="bold">12 </em></p>
+<p>Hósvík</p>
+<p>Toftahagi ‐ Frammistovupartur02‐127305‐127231‐1233</p>
+<p><em type="bold">Tilsamans </em><em type="bold">17 </em><em type="bold">8 </em></p>
+<p>Hoyvík02‐117319‐117621‐112102‐126331‐1277</p>
+<p><em type="bold">Tilsamans </em><em type="bold">29 </em><em type="bold">20 </em></p>
+<p>Hvalvík</p>
+<p>Frammidalahagi02‐1119605‐117419‐111202‐122119‐121127‐1243</p>
+<p><em type="bold">Tilsamans </em><em type="bold">34 </em><em type="bold">17 </em></p>
+<p>Húsadalshagi03‐126107‐1212</p>
+<p>Loðadalshagi12‐117203‐1254</p>
+<p>Miðdalahagi05‐1147</p>
+<p xml:lang="eng">Rossabotnshagi05‐118710‐117217‐115205‐1233</p>
+<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">14 </em></p>
+<p>Toftadalshagi17‐113126‐114102‐123113‐1241</p>
+<p><em type="bold">Tilsamans </em><em type="bold">14 </em><em type="bold">4 </em></p>
+<p>Hoyvíkshagi ‐ Norðari + Sunnaripartur (Vatnaskarðar)36</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Streymoy</p>
+<p>Kaldbak</p>
+<p>Áarhagi ‐ Heimanfyri31‐1221</p>
+<p>Áarhagi ‐ Miðrøktin12‐1125626‐115331‐12145</p>
+<p><em type="bold">Tilsamans </em><em type="bold">44 </em><em type="bold">14 </em></p>
+<p>Bíggjarhagi ‐ Eystastipartur07‐1192</p>
+<p>Bíggjarhagi ‐ Líðarseyður04‐1162</p>
+<p>Bíggjarhagi ‐ Vestastipartur02‐1119405‐116112‐111131‐1211</p>
+<p><em type="bold">Tilsamans </em><em type="bold">27 </em><em type="bold">7 </em></p>
+<p>Kirkjubøur</p>
+<p>Glyvurshagi06‐12185</p>
+<p>Inni í Dølum12‐118419‐1122</p>
+<p>Kirkjubøhagi ‐ Fyri Handan02‐111112‐1112519‐113403‐123320‐123131‐120310‐1220617‐124228‐1222</p>
+<p><em type="bold">Tilsamans </em><em type="bold">48 </em><em type="bold">27 </em></p>
+<p>Kollafjørður</p>
+<p>Hamrahagi ‐ Frammi við Gjógv03‐126231‐1294</p>
+<p xml:lang="dan">Kjalneshagi26‐117415‐1223</p>
+<p>Miðgerðahagi ‐ Frammi við Gjógv03‐122108‐1221</p>
+<p>Signabøshagi02‐1112418‐114326‐115127‐121130‐1222</p>
+<p><em type="bold">Tilsamans </em><em type="bold">24 </em><em type="bold">11 </em></p>
+<p>Sjóvarhagi ‐ Fremripartur05‐1124631‐12113</p>
+<p>Kvívík</p>
+<p>Fjallið (partur av Ognarhaganum)02‐11431105‐114412‐111119‐111226‐112229‐122131‐12155</p>
+<p><em type="bold">Tilsamans </em><em type="bold">25 </em><em type="bold">15 </em></p>
+<p>Frammi í Haga (Presthagin)30‐1116910‐129537</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Streymoy</p>
+<p>Kvívík</p>
+<p>Gásafellið (partur av Ognarhaganum)05‐1112419‐111126‐113128‐114231‐1281</p>
+<p><em type="bold">Tilsamans </em><em type="bold">28 </em><em type="bold">9 </em></p>
+<p>Norðuri í Haga (Junkarahagi)18‐112119‐1111</p>
+<p>Langasandur</p>
+<p>Langasandshagi02‐1112303‐1213217‐12115</p>
+<p><em type="bold">Tilsamans </em><em type="bold">36 </em><em type="bold">10 </em></p>
+<p>Leynar</p>
+<p>Leynahagi ‐ Framman fyri Húsini02‐1110224‐115117‐124131‐1213</p>
+<p><em type="bold">Tilsamans </em><em type="bold">20 </em><em type="bold">7 </em></p>
+<p>Leynahagi ‐ Uttan fyri Húsini02‐1123602‐1123609‐117431‐1231</p>
+<p><em type="bold">Tilsamans </em><em type="bold">56 </em><em type="bold">17 </em></p>
+<p>Norðradalur</p>
+<p>Kongshagin (Úti í Haga)05‐1110419‐115426‐111231‐1222</p>
+<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">12 </em></p>
+<p>Presthagin (Heimi í Haga)10‐117513‐1211431‐1264</p>
+<p><em type="bold">Tilsamans </em><em type="bold">24 </em><em type="bold">13 </em></p>
+<p>Saksun</p>
+<p>Kvíggjarhamarshagi02‐1128503‐1210517‐1217319‐123127‐1216329‐124331‐12126</p>
+<p><em type="bold">Tilsamans </em><em type="bold">90 </em><em type="bold">26 </em></p>
+<p>Svartáhagi ‐ Fyri Niðan12‐118226‐1110326‐1154</p>
+<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">9 </em></p>
+<p>Svartáhagi ‐ Fyri Uttan05‐1216617‐1221</p>
+<p>Skælingur</p>
+<p>Skælingshagi ‐ Norðaripartur05‐114619‐111117‐1202</p>
+<p><em type="bold">Tilsamans </em><em type="bold">5 </em><em type="bold">9 </em></p>
+<p>Skælingshagi ‐ Sunnaripartur</p>
+<p>Ikki skotið0038</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Streymoy</p>
+<p xml:lang="eng">Streymnes</p>
+<p>Fyri Framman ‐ Fremripartur02‐116219‐114222‐112106‐124117‐124131‐1232</p>
+<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">9 </em></p>
+<p>Fyri Framman ‐ Heimaripartur19‐1111323‐113422‐123331‐1243</p>
+<p><em type="bold">Tilsamans </em><em type="bold">21 </em><em type="bold">13 </em></p>
+<p xml:lang="eng">Sund</p>
+<p>Sundshagi ‐ Innaripartur05‐1117631‐1274</p>
+<p>Sundshagi ‐ Uttaripartur02‐1123626‐111206‐122431‐1235</p>
+<p><em type="bold">Tilsamans </em><em type="bold">29 </em><em type="bold">17 </em></p>
+<p>Tjørnuvík</p>
+<p>Sjeyndir (Norðan Kamb)05‐1120519‐1151</p>
+<p>Tórshavn</p>
+<p>Flatnahagi og Húsahagi17‐1253</p>
+<p>Velbastaður</p>
+<p>Fungagimbrar</p>
+<p>Ikki skotið00</p>
+<p>Heiðaseyður05‐114331‐1221</p>
+<p>Lambhagi19‐117126‐116106‐122113‐122119‐121129‐1211</p>
+<p><em type="bold">Tilsamans </em><em type="bold">19 </em><em type="bold">6 </em></p>
+<p>Norðari Spakiseyður</p>
+<p>Ikki skotið00</p>
+<p>Syðri Spakiseyður</p>
+<p>Ikki skotið00</p>
+<p>Vestmanna</p>
+<p>Brekkurnar (Partur av Neshaga)05‐113826‐112407‐123107‐123310‐123327‐123329‐129931‐1244</p>
+<p><em type="bold">Tilsamans </em><em type="bold">30 </em><em type="bold">35 </em></p>
+<p>Dalhagi ‐ Eystaripartur03‐11241005‐1210629‐1266</p>
+<p><em type="bold">Tilsamans </em><em type="bold">40 </em><em type="bold">22 </em></p>
+<p>Dalhagi ‐ Heimaripartur18‐1111719‐114639</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Streymoy</p>
+<p>Vestmanna</p>
+<p>Fjallið (partur av Fjalshaga)02‐1121619‐1145</p>
+<p>Heimi í Haga á Bjørgum ‐ Eystari02‐114818‐112129‐1289</p>
+<p><em type="bold">Tilsamans </em><em type="bold">14 </em><em type="bold">18 </em></p>
+<p>Heimi í Haga á Bjørgum ‐ Vestari 02‐1120803‐124105‐1257</p>
+<p><em type="bold">Tilsamans </em><em type="bold">29 </em><em type="bold">16 </em></p>
+<p>Heygahagi ‐ Innarahelvt14‐117126‐111101‐123503‐1213</p>
+<p><em type="bold">Tilsamans </em><em type="bold">12 </em><em type="bold">10 </em></p>
+<p>Kvívíksmerkur (Líðin)31‐1246</p>
+<p>Neshagi (Norðurnesið)02‐111219‐1110322‐1110126‐111103‐123217‐123222‐123431‐1231</p>
+<p><em type="bold">Tilsamans </em><em type="bold">34 </em><em type="bold">16 </em></p>
+<p>Reynið (partur av Fjalshaga)02‐112312‐115419‐114303‐121110‐123317‐124222‐121131‐1234</p>
+<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">21 </em></p>
+<p>Úti í Haga á Bjørgum02‐11411319‐1112830‐1223</p>
+<p><em type="bold">Tilsamans </em><em type="bold">55 </em><em type="bold">24 </em></p>
+<p>Vágar</p>
+<p>Bøur</p>
+<p>Kleivar10‐1114824‐112102‐123131‐1231</p>
+<p><em type="bold">Tilsamans </em><em type="bold">22 </em><em type="bold">11 </em></p>
+<p>Tormanshagi26‐11249</p>
+<p>Uttangarðshagi ‐ Eystaripartur31‐124131‐1241</p>
+<p>Uttangarðshagi ‐ Vestaripartur02‐1126531‐12184</p>
+<p>Gásadalur</p>
+<p>Líðin05‐11196</p>
+<p>Víkahagi10‐1116840</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Vágar</p>
+<p>Miðvágur</p>
+<p>Dalurin03‐114422‐111305‐121328‐121231‐1223</p>
+<p><em type="bold">Tilsamans </em><em type="bold">9 </em><em type="bold">15 </em></p>
+<p>Heimaraleiti02‐1116403‐111104‐111117‐117119‐115322‐112223‐112126‐112228‐111103‐121413‐125117‐121228‐122231‐1225</p>
+<p><em type="bold">Tilsamans </em><em type="bold">48 </em><em type="bold">30 </em></p>
+<p>Kvígandalur19‐1110315‐1241</p>
+<p>Sandavágur</p>
+<p>Eyðansstovuhagi28‐1232</p>
+<p>Samlað21?</p>
+<p>Giljahagi</p>
+<p>Samlað29?</p>
+<p>Gimbragonga</p>
+<p>Samlað12?</p>
+<p>Oknadalur02‐1132626‐112103‐127113‐129331‐1243</p>
+<p><em type="bold">Tilsamans </em><em type="bold">54 </em><em type="bold">14 </em></p>
+<p>Oyrargjáarhagi04‐113419‐112203‐125228‐1222</p>
+<p><em type="bold">Tilsamans </em><em type="bold">12 </em><em type="bold">10 </em></p>
+<p>Rákarhagi31‐1262</p>
+<p>Reyn18‐1154</p>
+<p>Sundshagi02‐1121712‐117326‐112102‐122103‐124327‐121129‐123131‐1274</p>
+<p><em type="bold">Tilsamans </em><em type="bold">47 </em><em type="bold">21 </em></p>
+<p>Syðriseyður05‐111541</p>
+<p><em type="bold">Oygg </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p>Vágar</p>
+<p>Sørvágur02‐1119717‐118408‐125212‐125231‐12104</p>
+<p><em type="bold">Tilsamans </em><em type="bold">47 </em><em type="bold">19 </em>02‐115512‐111119‐1110222‐116217‐1231 </p>
+<p><em type="bold">Tilsamans </em><em type="bold">25 </em><em type="bold">11 </em></p>
+<p>Úttriðingur Selvíkar ‐ Eystaripartur31‐1233</p>
+<p xml:lang="eng">Mykines</p>
+<p xml:lang="eng">Mykines</p>
+<p>Borgardalur</p>
+<p>Hava ikki skotið00</p>
+<p>Heimangjógv</p>
+<p>Hava ikki skotið00</p>
+<p>Kálvadalur</p>
+<p>Hava ikki skotið00</p>
+<p>Líðarhagi</p>
+<p>Hava ikki skotið00</p>
+<p>Hestur</p>
+<p>Hestur</p>
+<p>Hesthag ‐ Innarahelvt ‐ Norðari05‐1155</p>
+<p>Nólsoy</p>
+<p>Nólsoy</p>
+<p>Øll oyggin05‐114011</p>
+<p>Sandoy</p>
+<p>Dalur</p>
+<p>Syðstihagi31‐1241</p>
+<p>Sandur</p>
+<p>Norðastifjórðingur05‐1171</p>
+<p xml:lang="dan">Skarvanes</p>
+<p>Innastihagi16‐1231</p>
+<p>Skúgvoy</p>
+<p>Skúgvoy</p>
+<p>Norðarihagi ‐ Heimaripartur05‐1119717‐1231</p>
+<p>Norðarihagi ‐ Norðaripartur05‐1197</p>
+<p>Suðuroy</p>
+<p>Froðba</p>
+<p>Kambhagi fyri Handan05‐1184</p>
+<p>Trongisvágur02‐115017</p>
+<p><em type="bold">Tilsamans fyri allar Føroyar </em><em type="bold">2.950 </em><em type="bold">1.326 </em></p>
+<p>Norðurtriðingur ‐ Norðaripartur (Norðurtriðingur ‐ Uttanfyri Ánnað)</p>
+<p>Norðurtriðingur ‐ Sunnaripartur (Vørðufelli)</p>
+<p>Klappjakt (4 hagar: Líðarhagi + Húsgarðshagi + Riddalshagi + Tvørhagi ‐ innaripartur)42</p>
 </body></document>

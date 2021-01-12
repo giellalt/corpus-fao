@@ -1,351 +1,307 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2363</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_14.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold"> </em> <em type="bold"> Transmissiónslinjur </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2451</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_14.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Transmissiónslinjur </em></p>
 <p xml:lang="dan">Magnus Danielsen</p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>  2009:14 </p>
-<p>Heiti / Title<em type="bold">Transmissiónslinjur </em></p>
-<p>Høvundar  / AuthorsMagnus Danielsen</p>
-<p xml:lang="eng">Ritslag / Report Type<em type="italic">Undirvísingartilfar/Teaching Material </em></p>
-<p>NVD<em type="italic">Rit</em>2009:14 ©Náttúruvísindadeildin og høvundurin ISSN1601-9741 Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) </p>
-<p xml:lang="eng">y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo</p>
-<p><em type="bold">Innihaldsyvirlit: </em></p>
-<p>Transmissiónslinjulíkningar s.  4 Háfrekvensøki  s.  6      Lágfrekvensøki  s.  6 Bylgjuútbreiðsla  s.  7 Karakteristiskur impedansur s.  7 Reflektión     s.  8 Kaðaleginleikar í ymiskum kaðalum s.  9 Data fyri koaxialkaðalar   s. 10</p>
-<p><em type="bold">Føroyskur samandráttur: </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2009:14 2 </p>
+<p xml:lang="eng">Heiti / Title</p>
 <p><em type="bold">Transmissiónslinjur </em></p>
-<p>Grundleggjandi hugtøk og eginleikar verða viðgjørd og lýst við líkningunum fyri transmissiónslinjur. Transmissiónslinjuimpedansur, útbreiðslu eginleikar og týdningur teirra fyri signalini, ið verða send eftir linjuni, herundir impedanslast og reflektiónir, eru greinað.</p>
-<p xml:lang="eng"><em type="bold">English abstract: </em></p>
-<p xml:lang="eng"><em type="bold">Transmission Lines </em></p>
-<p xml:lang="eng">The topic of  this note is a description of the fundamental phenomena and characteristics of transmission lines based on the transmission line equations. The characteristic impedance and the propagation constant and velocity are treated.  Impedance loads, and reflection coefficients are developed.</p>
-<p><em type="bold">Transmissiónslinjur : </em></p>
-<p><em type="bold">1. Transmissiónslinjulíkningar </em></p>
-<p>Ein transmissiónslinja hevur tveir leiðarar við elektriskum spenningi millum og leiðir elektriskan streym. Spenningurin V = V(x,t) og streymurin I = I(x,t) er funktiónir av staðnum x og tíðini t. Í mynd 1 er ein tekning av transmissiónslinju. Her eru spennings- og streymstøddirnar vístar í tveimum støðum á staðarásinum x við fjarstøðuni dx ímillum.</p>
-<p>Transmissiónslinjan og egileikar hennara verða lýst við fýra støddum: Seriumótstøða í leiðarunum (báðum) pr. metur:      R = Ω/m</p>
+<p>Høvundar / Authors</p>
+<p xml:lang="dan">Magnus Danielsen</p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng"><em type="italic">Undirvísingartilfar/Teaching Material </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2009:14 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p xml:lang="eng">ISSN1601-9741</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 3</p>
+<p xml:lang="eng"><em type="bold">Innihaldsyvirlit: </em>Transmissiónslinjulíkningar s. 4 </p>
+<p>Háfrekvensøki s. 6</p>
+<p xml:lang="eng">Lágfrekvensøki s. 6</p>
+<p>Bylgjuútbreiðsla s. 7</p>
+<p xml:lang="eng">Karakteristiskur impedansur s. 7</p>
+<p xml:lang="eng">Reflektión s. 8</p>
+<p>Kaðaleginleikar í ymiskum kaðalum s. 9</p>
+<p>Data fyri koaxialkaðalar s. 10</p>
+<p xml:lang="eng"><em type="bold">Føroyskur samandráttur: Transmissiónslinjur </em>Grundleggjandi hugtøk og eginleikar verða viðgjørd og lýst við líkningunum fyri transmissiónslinjur. Transmissiónslinjuimpedansur, útbreiðslu eginleikar og týdningur teirra fyri signalini, ið verða send eftir linjuni, herundir impedanslast og reflektiónir, eru greinað. <em type="bold">English abstract: Transmission Lines </em>The topic of this note is a description of the fundamental phenomena and characteristics of transmission lines based on the transmission line equations. The characteristic impedance and the propagation constant and velocity are treated. Impedance loads, and reflection coefficients are developed. <em type="bold"></em>4 </p>
+<p><em type="bold">Transmissiónslinjur : </em><em type="bold">1. Transmissiónslinjulíkningar </em></p>
+<p>Ein transmissiónslinja hevur tveir leiðarar við elektriskum spenningi millum og leiðir elektriskan streym. Spenningurin V = V(x,t) og streymurin I = I(x,t) er funktiónir av staðnum x og tíðini t. Í mynd 1 er ein tekning av transmissiónslinju. Her eru spennings- og streymstøddirnar vístar í tveimum støðum á staðarásinum x við fjarstøðuni dx ímillum. Transmissiónslinjan og egileikar hennara verða lýst við fýra støddum: Seriumótstøða í leiðarunum (báðum) pr. metur:</p>
+<p xml:lang="eng">R =</p>
+<p>Ω/m</p>
+<p>Seriusjálvinduktión í leiðarunum (báðum) pr. metur: L = H/m [H = Henry] Parallellkapasitetur millum leiðararbar pr. metur:</p>
+<p xml:lang="dan">C = F/m [F = Farad]</p>
+<p>Parallellkonduktansur millum leiðararbar pr. metur: G = S/m [S = Siemens =</p>
+<p>Ω-1]</p>
+<p>Við støði í hesum eginleikum kann ein javngildisrás, víst í mynd 2, verða sett upp. Út frá hesi mynd kunnu transmissiónslíkningarnar fyri transmissiónslinjuna verða útleiddar. Javngildisrásin vísir broytingina í streymi og spenningi í infinitisimalari broyting dx av staðnum x. Vit kunnu uppseta hesar streymráslíkningar fyri transmissiónslinjuna (1) () ( )()()()( )( )( )dV x dx</p>
+<p xml:lang="eng">I x dx</p>
+<p xml:lang="eng">I x</p>
+<p xml:lang="eng">Cdx</p>
+<p xml:lang="eng">GdxV x dxdtdI x</p>
+<p xml:lang="eng">V x dx</p>
+<p xml:lang="eng">V x</p>
+<p xml:lang="eng">Ldx</p>
+<p xml:lang="eng">RdxI xdt++=−−++=−−</p>
+<p>Líkningarnar kunnu umskrivast til <em type="italic">Transmissionslíkningarnar: </em>x </p>
+<p xml:lang="eng">Mynd 1 Transmissiónslinja + V(x,t) −</p>
+<p xml:lang="eng">I(x,t)</p>
+<p xml:lang="eng">I(x,t) x = x + V(x+dx,t) −</p>
+<p xml:lang="eng">I(x+dx,t)</p>
+<p xml:lang="eng">I(x+dx,t) x = x + dx</p>
+<p xml:lang="eng">Rdx</p>
+<p xml:lang="eng">Ldx</p>
+<p xml:lang="eng">Gdx Cdx</p>
+<p xml:lang="eng">Rdx</p>
+<p xml:lang="eng">Ldx</p>
+<p xml:lang="eng">Gdx Cdx</p>
+<p>Mynd 2 Javngildisrás fyri transmissiónslinju + V(x,t) − + V(x+dx,t) −</p>
 <p xml:lang="eng">I(x,t)</p>
 <p xml:lang="eng">I(x+dx,t)</p>
-<p xml:lang="eng">x</p>
-<p xml:lang="dan">+ V(x,t)</p>
-<p xml:lang="eng">−</p>
-<p xml:lang="eng">x = x + V(x+dx,t)</p>
-<p xml:lang="eng">−</p>
-<p xml:lang="eng">x = x + dx</p>
-<p xml:lang="eng">I(x,t)</p>
 <p xml:lang="eng">I(x+dx,t)</p>
-<p>Mynd 1 Transmissiónslinja</p>
-<p>Seriusjálvinduktión í leiðarunum (báðum) pr. metur:       L = H/m  [H = Henry] Parallellkapasitetur millum leiðararbar pr. metur:      C = F/m  [F = Farad] Parallellkonduktansur millum leiðararbar pr. metur:       G = S/m  [S = Siemens = Ω-]</p>
-<p>Við støði í hesum eginleikum kann ein javngildisrás, víst í mynd 2, verða sett upp. Út frá hesi mynd kunnu transmissiónslíkningarnar fyri transmissiónslinjuna verða útleiddar. Javngildisrásin vísir broytingina í streymi og spenningi í infinitisimalari broyting dx av staðnum x.</p>
-<p>Vit kunnu uppseta hesar streymráslíkningar fyri transmissiónslinjuna</p>
-<p>(1) () ( )()()</p>
-<p xml:lang="eng">I(x,t) I(x+dx,t)</p>
-<p xml:lang="eng">Rdx Ldx</p>
-<p xml:lang="eng">Gdx     Cdx Rdx Ldx</p>
-<p xml:lang="eng">Gdx     Cdx</p>
-<p xml:lang="dan">+ V(x,t)</p>
-<p xml:lang="eng">−</p>
-<p xml:lang="dan">+ V(x+dx,t)</p>
-<p xml:lang="eng">−</p>
-<p xml:lang="eng">I(x+dx,t) I(x,t)  x = x  x = x + dx  x</p>
-<p>Mynd 2 Javngildisrás fyri transmissiónslinju</p>
-<p xml:lang="eng">dV x dxI x dxI xCdxGdxV x dxdtdI xV x dxV xLdxRdxI xdt</p>
-<p>++=−−+</p>
-<p>()( )( )( )</p>
-<p>+=−−</p>
-<p>Líkningarnar kunnu umskrivast til</p>
-<p xml:lang="eng"><em type="italic">Transmissionslíkningarnar: </em>dI xdV xCGV xdxdtdV xdI xLRI xdxdt </p>
-<p>(2)</p>
-<p>( )( )( ) ( )( )( )</p>
-<p>= −−</p>
-<p>= −−</p>
-<p>Vit kunnu nú brúka harmoniskt varierandi spenning og streym:</p>
-<p xml:lang="eng">(3) ( ) ( )( )( )( )( )I x, tI x exp j t</p>
-<p>=⋅ω</p>
-<p xml:lang="eng">V x, tV x exp j t</p>
-<p>=⋅ω</p>
-<p>Her er ω = 2πf cykliski frekvensurin og f er frekvensurin. Verður innsett í transmissiónslíkningarnar, kann faktorurin exp(jωt) styttast burtur, og tá fáast:</p>
-<p><em type="italic">Transmissiónslíkningarnar fyri harmoniskt varierandi spenningar og streymar: </em></p>
-<p>(4)</p>
-<p>( )() ( ) ( )() ( )</p>
-<p xml:lang="eng">dI xj C G V xdxdV xj L R I xdx</p>
-<p xml:lang="eng">= − ω +</p>
-<p xml:lang="eng">= − ω +</p>
-<p>Við at eliminera ávikavist spenningin V og síðan streymin I, kunnu vit út frá hesum líkninum útleiða</p>
-<p><em type="italic">Bylgjulíkningarnar fyri streym og spenning:</em> </p>
-<p>(5)</p>
-<p>( )()() ( )( )</p>
-<p xml:lang="eng">d I xj C G j L R I xI xdxd V xj C G j L R V xV xdx</p>
-<p>=ω +ω += γ</p>
-<p>( ) ()() ( )( )</p>
-<p>= ω +ω += γ</p>
-<p>Her definera vit støddina γ, sum inngongur í høgru síðu av báðum líkningum, sum</p>
-<p><em type="italic">Kompleksa útbreiðslukonstantin: </em></p>
-<p xml:lang="eng">(6) ()()j C G j L Rγ =ω +ω +</p>
-<p>Vit kunnu nú finna</p>
-<p><em type="italic">Loysnina til bylgjulíkningarnar: </em></p>
-<p>(7) ( )()( )( )()( )</p>
-<p xml:lang="eng">I xIexpxIexp x V xV expxV exp x</p>
-<p>= ⋅−γ + ⋅γ</p>
-<p>=⋅−γ +⋅γ</p>
-<p>Loysnin til tíðarheftu transmissiónslíkningarnar finst við at falda I(x) og V(x)  við faktorinum ( )exp j tω:</p>
-<p><em type="italic">Loysn til tíðarheftu transmissiónslíkningarnar: </em></p>
-<p>(8) ( )()()( )()()</p>
-<p xml:lang="dan">I x, tIexpxj tIexp xj t V x, tV expxj tV exp xj t</p>
-<p>= ⋅−γ + ω + ⋅γ + ω</p>
-<p>=⋅−γ + ω +⋅γ + ω</p>
-<p>Komplexi útbreiðslukonstanturin verður ofta skrivaður sum summin av einum realparti α og</p>
-<p>einum immaginerparti β:</p>
-<p xml:lang="eng">(9) ()()()()j C G j L RjLC RGjLG CR</p>
-<p>j</p>
-<p>γ =ω +ω +=ω−− ω+ = α + β</p>
-<p>Her er α dempningskoefficenturin, og β útbreiðslukonstanturin. Vit kunnu nú hyggja at</p>
-<p>tveimum týdningarmiklum dømum fyri ávikavist høgar og lágar frekvensir.</p>
-<p><em type="bold">2. Háfrekvensøki </em></p>
-<p>Tá frekvensurin er so høgur, og orkutapið er so lítið, at   RL og GC&lt;&lt; ω&lt;&lt; ω, er</p>
-<p>(28)</p>
-<p>()()GRj C G j L RLC 1j Cj L</p>
-<p> γ =ω +ω += −ω++ ωω  ≅ ω++ ωω </p>
-<p>GRjLC 12 j C2 j L</p>
-<p xml:lang="dan">G LR CjLCj2 CL</p>
-<p>≅ ω++= α + β</p>
-<p xml:lang="dan">(29) dempningskonstanturin: G LR C</p>
-<p>2 CLα =+ (30) útbreiðslukonstanturin:    LCβ = ω</p>
-<p>(31) bylgjulongdin:        λ=2π/β</p>
-<p>Nær hesar treytir eru til staðar má sjálvsagt avgerast út frá teimum talvirðum, ið inngangandi støddir hava, men vanliga er háfrekvensstøðan til staðar, tá frekvensurin fer upp um 10 kHz fyri tveytráðkaðalar og enn lægri frekvensir fyri koaksialkaðalar.</p>
-<p><em type="bold">3. Lágfrekvensøki </em></p>
-<p>Vanliga kann treytin  GC&lt;&lt; ω eisini verða brúkt til heilt lágar frekvensir heilt niður í nánd av null, við tað at G ≅ 0 í lágfrekvensøkinum. Lágfrekvensøki verður t�</p>
-<p>frekvensurin er so lágur, at RL&gt;&gt; ω. Tá verður</p>
-<p>(32)</p>
-<p xml:lang="eng">()()j C G j L Rj CR</p>
-<p xml:lang="eng">CRCRjj</p>
-<p>γ =ω +ω +≅ω ωω≅+</p>
-<p>= α + β</p>
-<p xml:lang="eng">(33) CR</p>
-<p>ωα ≅ β ≅</p>
-<p><em type="bold">4. Bylgjuútbreiðsla </em></p>
-<p><em type="italic">Útbreiðsla í positivan x-rætning:  </em></p>
-<p>(34) ( )()()()()( )()()()()</p>
-<p xml:lang="eng">I x, tI expxj tI expj xtexpx V x, tV expxj tV expj xtexpx</p>
-<p xml:lang="eng">= ⋅−γ + ω = ⋅− β − ω ⋅−α =⋅−γ + ω =⋅− β − ω ⋅−α</p>
-<p><em type="italic">Útbreiðsla í negativan x-rætning:  </em></p>
-<p>(35) ( )()()()()( )()()()()</p>
-<p xml:lang="eng">I x, tI exp xj tI exp j xtexpx V x, tV exp xj tV exp j xtexpx</p>
-<p>= ⋅γ + ω = ⋅β + ω ⋅+α =⋅γ + ω =⋅β + ω ⋅+α</p>
-<p>Í báðum førum er dempningurin yvir avstandin |x| = L lýstur við faktorinum exp(−αL), við</p>
-<p>tað at x er negativt og avtakandi, tá byljan útbreiðir seg í negativan x-rætning. Mátað í decibel verður</p>
-<p><em type="italic">Dempningurin yvir avstandin L: </em></p>
-<p xml:lang="eng">(36) 20 log(exp(−αL)) = −20 log(e)·αL = −8,69·αL  dB (decibel)</p>
-<p>Somuleiðis hevur útbreiðsluferðin í báðar rætningar somu stødd og er</p>
-<p><em type="italic">Útbreiðsluferðin: </em>  </p>
-<p xml:lang="dan">(37) 2 fvf</p>
-<p>ωπ λ=== λβπ, har f er frekvensurin, λ er bylgjulongdin av bylgjuni í</p>
-<p>kaðalinum.</p>
-<p><em type="bold">5. Karakteristiskur impedansur </em></p>
-<p>Fyri positivan x-rætning er galdandi:</p>
-<p>(38) ( )()( )()</p>
-<p xml:lang="eng">I xI expx V xV expx</p>
-<p>=⋅−γ</p>
-<p>=⋅−γ</p>
-<p>Um vit differentiera hesar støddir og brúka transmissiónslíkningarnar fyri harmoniskt varierandi streym og spenning finna vit</p>
-<p>(39)</p>
-<p>( )()()() ( )()()()</p>
-<p xml:lang="eng">dI xIexpxj C G V expxdxdV xV expxj L R Iexpxdx</p>
-<p xml:lang="eng">= −γ ⋅ ⋅−γ = − ω +⋅−γ</p>
-<p xml:lang="eng">= −γ ⋅⋅−γ = − ω +⋅−γ</p>
-<p>Av hesum síggja vit at lutfallið millum spenning og streym er konstant. Lutfallið er bert heft av fysisku eginleikunum hjá transmissiónslinjuni:</p>
-<p>(40) ()</p>
-<p xml:lang="eng">Vj L R Ij C Gj C G</p>
-<p>γω += += +ω +ω +</p>
-<p>Vegna henda egileika definera vit støddina:</p>
-<p><em type="italic">Karakteristiski impedansurin </em></p>
-<p>(41) ()</p>
-<p>VVj L RZIIj C Gj C G</p>
-<p>γω +====ω +ω + Støddin av Z er heft av, hvussu stórur frekvensurin er, og finna vit ymiskar støddir í háfrekvensøkinum og lágfrekvensøkinum:</p>
-<p>(42) Háfrekvensøkið:</p>
-<p xml:lang="eng">LZC=    (ωL &gt;&gt; R, ωC &gt;&gt; G ~ 0)</p>
-<p>Í háfrekvensøkinum er Z sostatt ein reel stødd.</p>
-<p>(43) Lágfrekvensøkið:</p>
-<p xml:lang="eng">RZj C=ω (ωL &lt;&lt; R, G ~ 0)</p>
-<p>Í lágfrekvensøkinum er Z ein kompleks stødd.</p>
-<p>Fyri negativa x-rætningin kunnu vit rokna tilsvarandi. Tá er galdandi:</p>
-<p>(24) ( )( )( )( )</p>
-<p xml:lang="eng">I xI exp x V xV exp x</p>
-<p>=⋅γ</p>
-<p>=⋅γ</p>
-<p>Um vit differentiera hesar støddir og brúka transmissiónslíkningarnar fyri harmoniskt varierandi streym og spenning finna vit</p>
-<p>(25)  ( )( )()( )</p>
-<p xml:lang="eng">dI xIexp xj C G V exp xdx= γ ⋅ ⋅γ = − ω +⋅γ</p>
-<p>(26)  ( )( )()( )</p>
-<p xml:lang="eng">dV xV exp xj L R Iexp xdx= γ ⋅⋅γ = − ω +⋅γ</p>
-<p>Av hesum síggja vit nú, at lutfallið millum spenning og streym er konstant og hevur somu stødd, men øvugt fortekn sum fyri bylgju við positivum rætningi. Tí verður</p>
-<p>(27) ()</p>
-<p xml:lang="eng">Vj L RZIj C Gj C G</p>
-<p xml:lang="eng">γω += −= −= −ω +ω +</p>
-<p xml:lang="dan"><em type="bold">6. Reflektión </em></p>
-<p>( )( )( )( )</p>
-<p xml:lang="eng">I xIexp x V xV exp x</p>
-<p>=⋅γ</p>
-<p>=⋅γ</p>
-<p xml:lang="eng">Z</p>
-<p xml:lang="dan">+ V</p>
-<p xml:lang="eng">−</p>
-<p>( )()( )()</p>
-<p xml:lang="eng">I xI expx V xV expx</p>
-<p>= ⋅−γ</p>
-<p xml:lang="eng">x = 0  x</p>
-<p xml:lang="eng">x = A</p>
-<p>=⋅−γ</p>
-<p xml:lang="eng">Z(x) Z(0)</p>
+<p xml:lang="eng">I(x,t) x = x x = x + dx x 5(2) ( )( )( )( )( )( )dI xdV x</p>
+<p xml:lang="eng">GV xdxdtdV xdI x</p>
+<p xml:lang="eng">RI xdxdt= −−= −−</p>
+<p>Vit kunnu nú brúka harmoniskt varierandi spenning og streym: (3) ( ) ( )( )( )( )( )</p>
+<p xml:lang="eng">I x, t</p>
+<p xml:lang="eng">I x exp j t</p>
+<p xml:lang="dan">V x, t</p>
+<p xml:lang="dan">V x exp j t=⋅ω=⋅ω</p>
+<p>Her er ω = 2πf cykliski frekvensurin og f er frekvensurin. Verður innsett í transmissións-líkningarnar, kann faktorurin exp(jωt) styttast burtur, og tá fáast:</p>
+<p><em type="italic">Transmissiónslíkningarnar fyri harmoniskt varierandi spenningar og streymar: </em>(4) ( )() ( )( )() ( )dI xj C G V xdxdV xj L R I xdx= − ω += − ω + </p>
+<p>Við at eliminera ávikavist spenningin V og síðan streymin I, kunnu vit út frá hesum líkninum útleiða <em type="italic">Bylgjulíkningarnar fyri streym og spenning: </em>(5) ( )()() ( )( )( ) ()() ( )( )222222d I xj C G j L R I x </p>
+<p xml:lang="eng">I xdxd V xj C G j L R V x</p>
+<p xml:lang="dan">V xdx=ω +ω += γ= ω +ω += γ</p>
+<p>Her definera vit støddina γ , sum inngongur í høgru síðu av báðum líkningum, sum</p>
+<p xml:lang="eng"><em type="italic">Kompleksa útbreiðslukonstantin: </em>(6) ()()j C G j L Rγ =ω +ω + </p>
+<p>Vit kunnu nú finna <em type="italic">Loysnina til bylgjulíkningarnar: </em>(7) ( )()( )( )()( )1212 </p>
+<p xml:lang="eng">I x</p>
+<p xml:lang="eng">Iexpx</p>
+<p xml:lang="eng">Iexp x</p>
+<p xml:lang="eng">V x</p>
+<p xml:lang="dan">V expx</p>
+<p xml:lang="eng">V exp x= ⋅−γ + ⋅γ=⋅−γ +⋅γ</p>
+<p>Loysnin til tíðarheftu transmissiónslíkningarnar finst við at falda I(x) og V(x) við faktorinum ( )exp j tω :</p>
+<p><em type="italic">Loysn til tíðarheftu transmissiónslíkningarnar: </em>(8) ( )()()( )()()1212 </p>
+<p xml:lang="eng">I x, t</p>
+<p>Iexpxj t</p>
+<p>Iexp xj t</p>
+<p xml:lang="dan">V x, t</p>
+<p xml:lang="dan">V expxj t</p>
+<p xml:lang="dan">V exp xj t= ⋅−γ + ω + ⋅γ + ω=⋅−γ + ω +⋅γ + ω 6</p>
+<p>Komplexi útbreiðslukonstanturin verður ofta skrivaður sum summin av einum realparti α og einum immaginerparti β : (9) ()()()()2j C G j L Rj</p>
+<p>LC RGj</p>
+<p xml:lang="eng">LG CRjγ =ω +ω +=ω−− ω+= α + β</p>
+<p>Her er α dempningskoefficenturin, og β útbreiðslukonstanturin. Vit kunnu nú hyggja at tveimum týdningarmiklum dømum fyri ávikavist høgar og lágar frekvensir. <em type="bold">2. Háfrekvensøki </em></p>
+<p>Tá frekvensurin er so høgur, og orkutapið er so lítið, at R</p>
+<p>L og G</p>
+<p xml:lang="dan">C&lt;&lt; ω&lt;&lt; ω , er (28) ()()2</p>
+<p xml:lang="eng">Rj C G j L R</p>
+<p>LC 11j Cj L</p>
+<p>Rj</p>
+<p>LC 112 j C2 j L</p>
+<p>G L</p>
+<p xml:lang="eng">R Cj</p>
+<p xml:lang="dan">LCj2 C2</p>
+<p xml:lang="dan">L γ =ω +ω += −ω++ ωω  ≅ ω++ ωω ≅ ω++= α + β(29) dempningskonstanturin:</p>
+<p>G L</p>
+<p xml:lang="eng">R C2 C2</p>
+<p>Lα =+(30) útbreiðslukonstanturin:</p>
+<p>LCβ = ω (31) bylgjulongdin: λ=2π/β</p>
+<p>Nær hesar treytir eru til staðar má sjálvsagt avgerast út frá teimum talvirðum, ið inngangandi støddir hava, men vanliga er háfrekvensstøðan til staðar, tá frekvensurin fer upp um 10 kHz fyri tveytráðkaðalar og enn lægri frekvensir fyri koaksialkaðalar. <em type="bold">3. Lágfrekvensøki </em></p>
+<p>Vanliga kann treytin G</p>
+<p>C&lt;&lt; ω eisini verða brúkt til heilt lágar frekvensir heilt niður í nánd av null, við tað at G ≅ 0 í lágfrekvensøkinum. Lágfrekvensøki verður tá lýst at galda, um frekvensurin er so lágur, at R</p>
+<p>L&gt;&gt; ω . Tá verður (32) ()()j C G j L Rj CR</p>
+<p xml:lang="eng">CR</p>
+<p xml:lang="eng">CRj22jγ =ω +ω +≅ωωω≅+= α + β(33)</p>
+<p>CR2ωα ≅ β ≅7 <em type="bold">4. Bylgjuútbreiðsla </em></p>
+<p><em type="italic">Útbreiðsla í positivan x-rætning: </em>(34) ( )()()()()( )()()()()1111 </p>
+<p xml:lang="eng">I x, t</p>
+<p xml:lang="dan">I expxj t</p>
+<p xml:lang="eng">I expj xtexpx</p>
+<p xml:lang="dan">V x, t</p>
+<p xml:lang="dan">V expxj t</p>
+<p xml:lang="eng">V expj xtexpx= ⋅−γ + ω = ⋅− β − ω ⋅−α=⋅−γ + ω =⋅− β − ω ⋅−α</p>
+<p><em type="italic">Útbreiðsla í negativan x-rætning: </em>(35) ( )()()()()( )()()()()2222 </p>
+<p xml:lang="eng">I x, t</p>
+<p xml:lang="dan">I exp xj t</p>
+<p xml:lang="eng">I exp j xtexpx</p>
+<p xml:lang="dan">V x, t</p>
+<p xml:lang="dan">V exp xj t</p>
+<p xml:lang="eng">V exp j xtexpx= ⋅γ + ω = ⋅β + ω ⋅+α=⋅γ + ω =⋅β + ω ⋅+α</p>
+<p>Í báðum førum er dempningurin yvir avstandin |x| = L lýstur við faktorinum exp(−αL), við tað at x er negativt og avtakandi, tá byljan útbreiðir seg í negativan x-rætning. Mátað í decibel verður <em type="italic">Dempningurin yvir avstandin L: </em>(36) 20 log10(exp(−αL)) = −20 log10(e)·αL = −8,69·αL dB (decibel) </p>
+<p>Somuleiðis hevur útbreiðsluferðin í báðar rætningar somu stødd og er <em type="italic">Útbreiðsluferðin: </em>(37) 2 fvf2ωπ λ=== λβπ, har f er frekvensurin, λ er bylgjulongdin av bylgjuni í kaðalinum. <em type="bold">5. Karakteristiskur impedansur </em></p>
+<p>Fyri positivan x-rætning er galdandi: (38) ( )()( )()11</p>
+<p xml:lang="eng">I x</p>
+<p xml:lang="eng">I expx</p>
+<p xml:lang="eng">V x</p>
+<p xml:lang="dan">V expx=⋅−γ=⋅−γ</p>
+<p>Um vit differentiera hesar støddir og brúka transmissiónslíkningarnar fyri harmoniskt varierandi streym og spenning finna vit (39) ( )()()()( )()()()1111dI x</p>
+<p xml:lang="eng">Iexpxj C G V expxdxdV x</p>
+<p xml:lang="eng">V expxj L R Iexpxdx= −γ ⋅ ⋅−γ = − ω +⋅−γ= −γ ⋅⋅−γ = − ω +⋅−γ</p>
+<p>Av hesum síggja vit at lutfallið millum spenning og streym er konstant. Lutfallið er bert heft av fysisku eginleikunum hjá transmissiónslinjuni: (40) ()11</p>
+<p>Vj L R</p>
+<p xml:lang="eng">Ij C Gj C Gγω += += +ω +ω +</p>
+<p>Vegna henda egileika definera vit støddina: <em type="italic">Karakteristiski impedansurin </em>(41) ()101 </p>
+<p>Vj L R</p>
+<p xml:lang="eng">Ij C Gj C Gγω +====ω +ω +8</p>
+<p>Støddin av Z0 er heft av, hvussu stórur frekvensurin er, og finna vit ymiskar støddir í háfrekvensøkinum og lágfrekvensøkinum: (42)</p>
+<p>Háfrekvensøkið: 0</p>
+<p xml:lang="eng">C= (ωL &gt;&gt; R, ωC &gt;&gt; G ~ 0)</p>
+<p>Í háfrekvensøkinum er Z0 sostatt ein reel stødd. (43)</p>
+<p>Lágfrekvensøkið: 0</p>
+<p xml:lang="eng">Zj C=ω (ωL &lt;&lt; R, G ~ 0)</p>
+<p>Í lágfrekvensøkinum er Z0 ein kompleks stødd.</p>
+<p>Fyri negativa x-rætningin kunnu vit rokna tilsvarandi. Tá er galdandi: (24) ( )( )( )( )22</p>
+<p xml:lang="eng">I x</p>
+<p xml:lang="eng">I exp x</p>
+<p xml:lang="eng">V x</p>
+<p xml:lang="eng">V exp x=⋅γ=⋅γ</p>
+<p>Um vit differentiera hesar støddir og brúka transmissiónslíkningarnar fyri harmoniskt varierandi streym og spenning finna vit (25) ( )( )()( )22dI x</p>
+<p xml:lang="eng">Iexp xj C G V exp xdx= γ ⋅ ⋅γ = − ω +⋅γ (26) ( )( )()( )22dV x</p>
+<p xml:lang="eng">V exp xj L R Iexp xdx= γ ⋅⋅γ = − ω +⋅γ</p>
+<p>Av hesum síggja vit nú, at lutfallið millum spenning og streym er konstant og hevur somu stødd, men øvugt fortekn sum fyri bylgju við positivum rætningi. Tí verður (27) ()202</p>
+<p>Vj L R</p>
+<p xml:lang="eng">Ij C Gj C Gγω += −= −= −ω +ω + <em type="bold">6. Reflektión </em></p>
+<p>Vit seta nú ein impedans Z á endan á transmissiónslinjuni og rokna reflekteraðu bylgjuna (V2(x), I2(x)) í mun til eina innfallandi bylgju (V1(x), I1(x)).</p>
+<p>Í punktinum x = 0 er: ( )()( )()1111</p>
+<p xml:lang="eng">I x</p>
+<p xml:lang="eng">I expx</p>
+<p xml:lang="eng">V x</p>
+<p xml:lang="dan">V expx= ⋅−γ=⋅−γ ( )( )( )( )2222</p>
+<p xml:lang="eng">I x</p>
+<p xml:lang="eng">Iexp x</p>
+<p xml:lang="eng">V x</p>
+<p xml:lang="eng">V exp x=⋅γ=⋅γ x = 0 x</p>
+<p xml:lang="eng">Z + V −</p>
 <p>Mynd 3 Reflektión á transmissiónslinju</p>
-<p>Vit seta nú ein impedans Z á endan á transmissiónslinjuni og rokna reflekteraðu bylgjuna (V(x), I(x)) í mun til eina innfallandi bylgju (V(x), I(x)).</p>
-<p>Í punktinum x = 0 er:</p>
-<p>VZI=, ið er ohms lóg fyri impedansin Z</p>
-<p xml:lang="eng">(44) V VV=+ (45) I II= + (46)</p>
-<p xml:lang="eng">IZ V−=</p>
-<p>(47)</p>
-<p xml:lang="eng">IZ V−= −</p>
-<p>(48)</p>
-<p xml:lang="eng">VVVVVZ(0) ZZIIIZ VZ V−−</p>
-<p>+++ ρ= ====+−− ρ</p>
-<p>(49)</p>
-<p xml:lang="eng">Z ZV(0)VZ Z</p>
-<p>−ρ= ρ ==+</p>
-<p>Í punktinum x = − A definera vit impedansin Z(−A) og reflektiónina ρ(−A):</p>
-<p>(50) ( )( )( )( )( )( )( )( )( )( )( )</p>
-<p xml:lang="eng">VVVVZZIIZ VZ V−−</p>
-<p xml:lang="eng">− +−− +−+ ρ −− ===− +−− −−− ρ −</p>
-<p xml:lang="eng">AAAAAAAAAAA</p>
-<p>(51) ( )</p>
-<p xml:lang="eng">VV 0 exp( )exp 2VV 0 exp</p>
-<p xml:lang="eng">−−γρ − === ρ− γ−γ</p>
-<p xml:lang="eng">AAAAAA</p>
-<p>( )( )( )</p>
-<p>( )( )()</p>
-<p>ρ(−A) innsett í Z(−A) gevur henda ofta brúkta formulin</p>
-<p>(52)</p>
-<p>( ) ( )()</p>
-<p>()()</p>
-<p>()( )( )</p>
-<p xml:lang="eng">exp 2Z Z(Z Z ) exp 2Z( ) ZZZexp 2(Z Z ) (Z Z ) exp 2</p>
-<p xml:lang="eng">+ ρ −+ ρ− γ++−− γ− ===− ρ −− ρ− γ+−−− γ</p>
-<p xml:lang="eng">AAAAAAA</p>
-<p xml:lang="eng">Z Z tanhZZZ tanh</p>
-<p>+γ=+γ</p>
+<p xml:lang="eng">Z(x)</p>
+<p xml:lang="eng">Z(0) x = A 9</p>
+<p>I=, ið er ohms lóg fyri impedansin Z (44) 12</p>
+<p xml:lang="dan">V V</p>
+<p xml:lang="dan">V=+(45) 12</p>
+<p xml:lang="eng">I I</p>
+<p xml:lang="eng">I= + (46) 0111</p>
+<p xml:lang="eng">Z V−=(47) 0122</p>
+<p xml:lang="eng">Z V−= −(48) 1212011120102</p>
+<p xml:lang="dan">V1</p>
+<p xml:lang="eng">Z(0) Z</p>
+<p xml:lang="dan">Z V</p>
+<p xml:lang="dan">Z V1−−+++ ρ= ====+−− ρ(49) 0210</p>
+<p xml:lang="eng">Z Z</p>
+<p xml:lang="dan">V(0)</p>
+<p xml:lang="eng">Z Z−ρ= ρ ==+</p>
+<p>Í punktinum x = − A definera vit impedansin Z(− A ) og reflektiónina ρ(− A ): (50) ( )( )( )( )( )( )( )( )( )( )( )1212011120102</p>
+<p xml:lang="dan">V1</p>
+<p xml:lang="dan">Z V</p>
+<p xml:lang="eng">Z V1−−− +−− +−+ ρ −− ===− +−− −−− ρ −</p>
+<p xml:lang="eng">A(51) ( )( )( )( )( )( )()2211</p>
+<p xml:lang="dan">V 0 exp( )exp 2</p>
+<p xml:lang="eng">V 0 exp−−γρ − === ρ− γ−γ</p>
+<p>A ρ(− A ) innsett í Z(− A ) gevur henda ofta brúkta formulin (52) ( )( )()()()()( )( )000000000011exp 2</p>
+<p xml:lang="eng">Z Z(Z Z ) exp 2</p>
+<p xml:lang="eng">Z( ) Z</p>
+<p xml:lang="eng">Z11exp 2(Z Z ) (Z Z ) exp 2</p>
+<p xml:lang="eng">Z Z tanh</p>
+<p xml:lang="eng">Z tanh+ ρ −+ ρ− γ++−− γ− ===− ρ −− ρ− γ+−−− γ+γ=+γ</p>
 <p xml:lang="eng">A A</p>
-<p>Tá transmissiónslinjan er tapsfrí er α &lt; 0, og γ = jβ. Hetta viðførir, at tanh(γA) = j tan(βA) og</p>
-<p>impedansurin í tapsfríari linju verður</p>
-<p>(53) ( )( )( )( )</p>
-<p>Z jZ tanZ( ) ZZZjZ tan</p>
-<p xml:lang="eng">+ ρ −+β− ==− ρ −+β</p>
-<p xml:lang="eng">AAAAA</p>
-<p><em type="bold">7. Kaðaleginleikar í ymsum kaðalum </em></p>
-<p>Sum vit hava sæð verða útbreiðslueginleikarnir í kaðalum avgjørdir av teimum 4 støddunum: parallellkapacititi pr. longdareind C, sjálvinduktión pr. longdareind  L, seriumótstøðu pr. longdareind R og parallellkonduktansi pr. longdareind G. Hesar støddirnar eru aftur avgjørdar av tilfarseginleikum av leiðaratilfari og isolatiónstilfari millum leiðararnar, umframt av geometriini av uppbyggingini av kaðalinum.</p>
-<p><em type="italic">Koaxial kaðal: </em> </p>
-<p>Radius í innara og ytra leiðara eru ávikavist a og b.</p>
-<p xml:lang="eng">(37) C = blna</p>
-<p>πε    </p>
-<p>(38) bL = lna</p>
-<p>µ  π  </p>
-<p xml:lang="dan">(39) v = =LCεµ</p>
-<p>(40)</p>
-<p xml:lang="eng">LbZ ==lnC 2a</p>
+<p>Tá transmissiónslinjan er tapsfrí er α &lt; 0, og γ = jβ. Hetta viðførir, at tanh(γ A ) = j tan(β A ) og impedansurin í tapsfríari linju verður (53) ( )( )( )( )00001</p>
+<p>Z jZ tan</p>
+<p xml:lang="eng">Z( ) Z</p>
+<p xml:lang="eng">Z1</p>
+<p xml:lang="eng">ZjZ tan+ ρ −+β− ==− ρ −+β</p>
+<p>A <em type="bold">7. Kaðaleginleikar í ymsum kaðalum </em></p>
+<p>Sum vit hava sæð verða útbreiðslueginleikarnir í kaðalum avgjørdir av teimum 4 støddunum: parallellkapacititi pr. longdareind C, sjálvinduktión pr. longdareind L, seriumótstøðu pr. longdareind R og parallellkonduktansi pr. longdareind G. Hesar støddirnar eru aftur avgjørdar av tilfarseginleikum av leiðaratilfari og isolatiónstilfari millum leiðararnar, umframt av geometriini av uppbyggingini av kaðalinum. 10</p>
+<p><em type="italic">Koaxial kaðal: </em></p>
+<p>Radius í innara og ytra leiðara eru ávikavist a og b. (37) 2</p>
+<p xml:lang="eng">C = blnaπε   (38) b</p>
+<p>L = ln2aµ  π  (39) 11v = =</p>
+<p xml:lang="eng">LCεµ(40) 0</p>
+<p xml:lang="eng">L1b</p>
+<p>Z ==ln</p>
+<p xml:lang="eng">C 2aµ  π ε </p>
+<p xml:lang="dan"><em type="italic">Symmetriskur óskermaður par-kaðal: </em></p>
+<p>Radius í innara og ytra leiðara eru ávikavist a og b. (41) 1</p>
+<p xml:lang="eng">C = coshd− πε  (42) 11</p>
+<p>L =</p>
+<p xml:lang="dan">Dcoshd−µπ   (43) 11v = =</p>
+<p xml:lang="eng">LCεµ(44) 01</p>
+<p>L 11</p>
+<p xml:lang="eng">Z ==</p>
+<p xml:lang="eng">Ccoshd−µπ ε   </p>
 <p>Mynd 4 Koalial kaðal tvørskurður</p>
-<p>µ  π ε </p>
-<p xml:lang="dan"><em type="italic">Symmetriskur óskermaður  par-kaðal: </em> </p>
-<p>Radius í innara og ytra leiðara eru ávikavist a og b.</p>
-<p xml:lang="eng">(41) DC = coshd</p>
-<p>− πε  </p>
-<p>(42)</p>
-<p xml:lang="eng">L =Dcoshd</p>
-<p xml:lang="eng">−</p>
-<p>µ π   </p>
-<p>Mynd 5 Tvørskurður av</p>
-<p xml:lang="dan">(43) v = =LCεµ</p>
-<p>(44)</p>
-<p>óskermaðum par-kaðali</p>
-<p xml:lang="eng">L 1Z ==DCcoshd</p>
-<p xml:lang="eng">−</p>
-<p>µ π ε   </p>
-<p><em type="bold">8. Data fyri koaxial kaðalar </em></p>
-<p xml:lang="eng"><em type="bold">Table of RG standards (Ref. Wikipedia) </em></p>
-<p xml:lang="eng"><em type="bold">dielectric overall </em></p>
-<p xml:lang="eng"><em type="bold">diametertype impedance </em></p>
-<p xml:lang="eng"><em type="bold">[ohms] core type [in] [mm] in  mm</em> <em type="bold">braid velocity </em></p>
-<p xml:lang="eng"><em type="bold">factor comments </em></p>
-<p xml:lang="eng"><em type="bold">RG/U </em> 1.0 mm  Solid PE 0.185 4.7 0.270 6.86 double 0.75 </p>
-<p xml:lang="eng">Low loss at high frequency for cable</p>
-<p xml:lang="eng">television, satellite television and cable modems</p>
-<p xml:lang="eng"><em type="bold">RG/UQ </em>  Solid PE  0.298 7.57 quad  </p>
+<p>Mynd 5 Tvørskurður av óskermaðum par-kaðali 11 <em type="bold">8. Data fyri koaxial kaðalar </em></p>
+<p xml:lang="eng"><em type="bold">Table of RG standards (Ref. Wikipedia) </em><em type="bold">dielectric </em><em type="bold">overall </em><em type="bold">diameter </em><em type="bold">type </em><em type="bold">impedance </em><em type="bold">[ohms] </em><em type="bold">core </em><em type="bold">type </em><em type="bold">[in] </em><em type="bold">[mm] </em><em type="bold">in mm </em><em type="bold">braid </em><em type="bold">velocity </em><em type="bold">factor </em><em type="bold">comments </em></p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">6/U </em>75 1.0 mm Solid PE 0.185 4.7 0.270 6.86 double 0.75 </p>
+<p xml:lang="eng">Low loss at high frequency for cable television, satellite television and cable modems</p>
+<p xml:lang="dan"><em type="bold">RG- </em><em type="bold">6/UQ </em>75 </p>
+<p xml:lang="eng">Solid PE0.298 7.57 quad</p>
 <p xml:lang="eng">This is <span type="quote" xml:lang="eng">"quad shield RG-6"</span>. It has four layers of shielding; regular RG-6 only has one or two</p>
-<p xml:lang="eng"><em type="bold">RG8/U </em> 2.17 mm  Solid PE 0.285 7.2 0.405 10.3  </p>
-<p xml:lang="eng">Amateur radio;</p>
-<p xml:lang="eng">Thicknet (10BASE5) is similar</p>
-<p xml:lang="eng"><em type="bold">RG9/U </em>  Solid PE  0.420 10.7   </p>
-<p xml:lang="eng"><em type="bold">RG11/U </em> 1.63 mm  Solid PE 0.285 7.2 0.412 10.5 0.66 </p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">8/U </em>50 2.17 mm Solid PE 0.285 7.2 0.405 10.3 </p>
+<p xml:lang="eng">Amateur radio; Thicknet (10BASE5) is similar</p>
+<p><em type="bold">RG- </em><em type="bold">9/U </em>51 </p>
+<p xml:lang="eng">Solid PE0.420 10.7</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">11/U </em>75 1.63 mm Solid PE 0.285 7.2 0.412 10.50.66 </p>
 <p xml:lang="eng">Used for long drops and underground conduit</p>
-<p xml:lang="eng"><em type="bold">RG58/U </em> 0.9 mm  Solid PE 0.116 2.9 0.195 5.0 single  0.66/0.78 </p>
-<p xml:lang="eng">Used for radiocommunication and amateur radio, thin Ethernet (10BASE2) and</p>
-<p xml:lang="eng">NIM electronics.</p>
-<p xml:lang="eng">Common.</p>
-<p xml:lang="eng">Used to carry</p>
-<p xml:lang="eng"><em type="bold">RG59/U </em> 0.81 mm  Solid PE 0.146 3.7 0.242 6.1 single 0.66 </p>
-<p xml:lang="eng">baseband video in closed-circuit television,</p>
-<p xml:lang="eng">previously used for cable television. Generally it has poor shielding but will carry an HQ HD signal or video over short distances.</p>
-<p xml:lang="eng"><em type="bold">RG60/U </em> 1.024 mm  Solid PE  0.425 10.8 single  </p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">58/U </em>50 0.9 mm Solid PE 0.116 2.9 0.195 5.0 single 0.66/0.78 </p>
+<p xml:lang="eng">Used for radiocommunication and amateur radio, thin Ethernet (10BASE2) and NIM electronics. Common.</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">59/U </em>75 0.81 mm Solid PE 0.146 3.7 0.242 6.1 single 0.66 </p>
+<p xml:lang="eng">Used to carry baseband video in closed-circuit television, previously used for cable television. Generally it has poor shielding but will carry an HQ HD signal or video over short distances.12</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">60/U </em>50 1.024 mm Solid PE0.425 10.8 single </p>
 <p xml:lang="eng">Used for highdefinition cable TV and high-speed cable Internet.</p>
-<p xml:lang="eng"><em type="bold">RG62/U </em>  Solid PE  0.242 6.1 single 0.84 </p>
+<p><em type="bold">RG- </em><em type="bold">62/U </em>92 </p>
+<p xml:lang="eng">Solid PE0.242 6.1 single 0.84</p>
 <p xml:lang="eng">Used for ARCNET and automotive radio antennas.</p>
-<p xml:lang="eng"><em type="bold">RG62A </em>  ASP   0.242 6.1 single  Used for NIM </p>
-<p xml:lang="eng">electronics</p>
-<p xml:lang="eng"><em type="bold">RG174/U </em> 0.48 mm  Solid PE 0.100 2.5 0.100 2.55 single 0.66 </p>
-<p xml:lang="eng">Common for wifi pigtails: more flexible but higher loss than RG58; used with LEMO  connectors in NIM electronics.</p>
-<p><em type="bold">RG178/U </em> </p>
-<p xml:lang="eng">7×0.1 mm (Ag plated Cu clad Steel)</p>
-<p xml:lang="eng">PTFE 0.033 0.84  0.071 1.8 single 0.69</p>
-<p><em type="bold">RG179/U </em> </p>
-<p xml:lang="eng">7×0.1 mm (Ag plated Cu)</p>
-<p xml:lang="eng">PTFE 0.063 1.6 0.098 2.5 single 0.67 VGA RGBHV</p>
-<p><em type="bold">RG213/U </em> 7×0.0296 </p>
-<p xml:lang="eng">in Cu Solid PE 0.285 7.2 0.405 10.3 single 0.66 For radiocommunication and amateur radio, EMC test antenna cables. Typically lower loss than RG58. Common.</p>
-<p><em type="bold">RG214/U </em> 7×0.0296 </p>
-<p xml:lang="eng">in PTFE 0.285 7.2 0.425 10.8 double 0.66</p>
-<p xml:lang="eng"><em type="bold">RG </em> 0.195 in </p>
-<p xml:lang="eng">Cu Solid PE0.660</p>
-<p xml:lang="eng">(0.680?) 16.76 (17.27?)0.870 22  single 0.66 Large diameter, not very flexible, low loss (2.5dB/100' @ 400 MHz), 11kV dielectric withstand.</p>
-<p xml:lang="eng"><em type="bold">RG223/U </em> 0.88 mm PE </p>
-<p xml:lang="eng">Foam 0.08152.07  0.212 5.4 Double 0.66 Sample RG-223</p>
-<p xml:lang="dan">Datasheet</p>
-<p xml:lang="eng"><em type="bold">RG316/U </em> 7x0.0067 </p>
-<p xml:lang="eng">in PTFE 0.060 1.5 0.102 2.6 single 0.695 used with LEMO  connectors in NIM electronics</p>
-<p xml:lang="eng">PE is Polyethylene; PTFE is Polytetrafluoroethylene; ASP is Air Space Polyethylene[4]</p>
-<p xml:lang="eng"><em type="bold">Commercial designations </em></p>
-<p xml:lang="eng"><em type="bold">dielectric overall </em></p>
-<p xml:lang="eng"><em type="bold">diameter type impedance </em></p>
-<p xml:lang="eng"><em type="bold">[ohms] core </em></p>
-<p xml:lang="eng"><em type="bold">type [in]  [mm]in mm</em> <em type="bold">braidvelocity </em></p>
-<p xml:lang="eng"><em type="bold">factor comments </em></p>
-<p><em type="bold">H155 </em>        0.79 </p>
-<p xml:lang="eng">lower loss at high frequency for radiocommunication and amateur radio</p>
-<p><em type="bold">H500 </em>        0.82 </p>
-<p xml:lang="eng">low loss at high frequency for radiocommunication and amateur radio</p>
-<p xml:lang="eng"><em type="bold">LMR</em></p>
-<p xml:lang="eng">low loss drop-in replacement for RG</p>
-<p xml:lang="eng"><em type="bold">LMR</em></p>
-<p><em type="bold">HDF</em></p>
-<p xml:lang="dan">1.12 mm</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">62A </em>93 </p>
+<p xml:lang="eng">ASP 0.242 6.1 single</p>
+<p xml:lang="eng">Used for NIM electronics</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">174/U </em>50 0.48 mm Solid PE 0.100 2.5 0.100 2.55 single 0.66 </p>
+<p xml:lang="eng">Common for wifi pigtails: more flexible but higher loss than RG58; used with LEMO 00 connectors in NIM electronics.</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">178/U </em>50 7×0.1 mm (Ag plated Cu clad </p>
+<p xml:lang="eng">Steel)</p>
+<p xml:lang="eng">PTFE 0.033 0.84 0.071 1.8 single 0.69</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">179/U </em>75 7×0.1 mm (Ag plated </p>
+<p xml:lang="eng">Cu)</p>
+<p xml:lang="eng">PTFE 0.063 1.6 0.098 2.5 single 0.67</p>
+<p>VGA RGBHV</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">213/U </em>50 7×0.0296 in Cu </p>
+<p xml:lang="eng">Solid PE 0.285 7.2 0.405 10.3 single 0.66</p>
+<p xml:lang="eng">For radiocommunication and amateur radio, EMC test antenna cables. Typically lower loss than RG58. Common.</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">214/U </em>50 7×0.0296 in </p>
+<p xml:lang="eng">PTFE 0.285 7.2 0.425 10.8 double 0.66</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">218 </em>50 0.195 in </p>
 <p xml:lang="eng">Cu</p>
-<p xml:lang="eng"><em type="bold">CFD</em></p>
-<p xml:lang="eng">PF CF 0.116 2.95 0.195 4.95 0.83</p>
-<p xml:lang="eng">low loss communications, 0.554 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR</em></p>
-<p><em type="bold">HDF</em></p>
-<p xml:lang="eng"><em type="bold">CFD</em></p>
-<p xml:lang="eng">2.74 mm (Cu clad Al)</p>
-<p xml:lang="eng">PF CF 0.285 7.24 0.405 10.29 0.85</p>
-<p xml:lang="eng">low loss communications, 0.223 dB/meter @ 2.4 GHz[5]</p>
-<p xml:lang="eng"><em type="bold">LMR</em></p>
-<p xml:lang="eng">4.47 mm (Cu clad Al)</p>
-<p xml:lang="eng">PF  0.455 11.56 0.590 14.99 0.87</p>
-<p xml:lang="eng">low loss communications, 0.144 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR </em> 6.65 mm </p>
-<p xml:lang="eng">(BC tube) PF  0.680 17.27 0.870 22.10 0.87 low loss communications, 0.098 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR </em> 8.86 mm </p>
-<p xml:lang="eng">(BC tube) PF  0.920 23.37 1.200 30.48 0.88 low loss communications, 0.075 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR </em> 13.39 mm </p>
-<p xml:lang="eng">(BC tube) PF  1.350 34.29 1.670 42.42 0.89 low loss communications, 0.056 dB/meter @ 2.4 GHz</p>
+<p xml:lang="eng">Solid PE0.660 (0.680?)16.76 (17.27?)0.870 22 single 0.66</p>
+<p xml:lang="eng">Large diameter, not very flexible, low loss (2.5dB/100' @ 400 MHz), 11kV dielectric withstand.</p>
+<p><em type="bold">RG- </em><em type="bold">223/U </em>50 0.88 mm </p>
+<p xml:lang="eng">PE</p>
+<p xml:lang="eng">Foam 0.08152.07 0.212 5.4 Double 0.66</p>
+<p xml:lang="eng">Sample RG-223</p>
+<p xml:lang="dan">Datasheet</p>
+<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">316/U </em>50 7x0.0067 in </p>
+<p xml:lang="eng">PTFE 0.060 1.5 0.102 2.6 single 0.695 used with LEMO 00 connectors in NIM electronics</p>
+<p xml:lang="eng">PE is Polyethylene; PTFE is Polytetrafluoroethylene; ASP is Air Space Polyethylene[4] 13</p>
+<p xml:lang="eng"><em type="bold">Commercial designations </em><em type="bold">dielectric </em><em type="bold">overall </em><em type="bold">diameter </em><em type="bold">type </em><em type="bold">impedance </em><em type="bold">[ohms] </em><em type="bold">core </em><em type="bold">type [in] [mm] </em><em type="bold">in </em><em type="bold">mm </em><em type="bold">braid </em><em type="bold">velocity </em><em type="bold">factor </em><em type="bold">comments </em></p>
+<p xml:lang="eng"><em type="bold">H155 </em>50 0.79 lower loss at high frequency for radiocommunication and amateur radio </p>
+<p xml:lang="eng"><em type="bold">H500 </em>50 0.82 low loss at high frequency for radiocommunication and amateur radio </p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">195 </em>50 low loss drop-in replacement for RG-58 </p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">200 </em></p>
+<p><em type="bold">HDF- </em><em type="bold">200 </em></p>
+<p xml:lang="eng"><em type="bold">CFD- </em><em type="bold">200 </em>50 1.12 mm </p>
+<p xml:lang="eng">Cu</p>
+<p xml:lang="eng">PF</p>
+<p xml:lang="eng">CF 0.116 2.95 0.195 4.950.83 low loss communications, 0.554 dB/meter @ 2.4 GHz</p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">400 </em></p>
+<p><em type="bold">HDF- </em><em type="bold">400 </em></p>
+<p xml:lang="eng"><em type="bold">CFD- </em><em type="bold">400 </em>50 2.74 mm (Cu clad </p>
+<p xml:lang="eng">Al)</p>
+<p xml:lang="eng">PF</p>
+<p xml:lang="eng">CF 0.285 7.24 0.405 10.290.85 low loss communications, 0.223 dB/meter @ 2.4 GHz[5]</p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">600 </em>50 4.47 mm (Cu clad </p>
+<p xml:lang="eng">Al)</p>
+<p xml:lang="eng">PF 0.455 11.56 0.590 14.990.87 low loss communications, 0.144 dB/meter @ 2.4 GHz</p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">900 </em>50 6.65 mm (BC tube) </p>
+<p xml:lang="eng">PF 0.680 17.27 0.870 22.100.87 low loss communications, 0.098 dB/meter @ 2.4 GHz</p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">1200 </em>50 8.86 mm (BC tube) </p>
+<p xml:lang="eng">PF 0.920 23.37 1.200 30.480.88 low loss communications, 0.075 dB/meter @ 2.4 GHz</p>
+<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">1700 </em>50 13.39 mm (BC tube) </p>
+<p xml:lang="eng">PF 1.350 34.29 1.670 42.420.89 low loss communications, 0.056 dB/meter @ 2.4 GHz</p>
 </body></document>

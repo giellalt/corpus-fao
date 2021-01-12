@@ -1,73 +1,90 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>728</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2000_02.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="italic">Túrfrágreiðing </em></p>
-<p>Úrslit frá yvirlitstrolingini á Føroyabanka</p>
-<p xml:lang="eng">15. - 19. September 2000</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>767</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2000_02.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Túrfrágreiðing</p>
+<p>Úrslit frá yvirlitstrolingini á Føroyabanka 15. - 19. September 2000</p>
 <p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank </em></p>
-<p xml:lang="eng"><em type="italic">September 15th - 19th  </em></p>
+<p xml:lang="eng"><em type="italic">September 15th - 19th 2000 </em></p>
 <p>Eyðfinn Magnussen</p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>  2000:2 </p>
-<p>Heiti / Title<em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka  </em></p>
-<p xml:lang="dan"><em type="bold">15 – 19. september 2000</em><em type="italic"> </em></p>
-<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank  September 15th th  </em></p>
-<p>Høvundur  / Author<em type="bold">Eyðfinn Magnussen </em></p>
-<p xml:lang="eng">Ritslag / Report Type<em type="italic"> Tøknifrágreiðing</em>/Technical Report </p>
-<p xml:lang="eng"><em type="italic">NVD</em>Rit2000:2 </p>
-<p>©Náttúruvísindadeildin og høvundurin</p>
-<p>Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands)</p>
-<p xml:lang="eng">y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo</p>
-<p><em type="bold">Fólk frá FRS:</em> Arnhold Henriksen, Rógvi Mouritsen, Mourits Mohr Joensenn og Eyðfinn </p>
-<p>Magnussen</p>
-<p><em type="bold">Ábyrgd:</em> Eyðfinn Magnussen </p>
-<p><em type="bold">Endamál: </em>Høvuðsendamálið við túrinum var at fáa eitt mát fyri nøgdini og biologini hjá teimum </p>
-<p>týdningarmestu fiskasløgunum, ið finnast á Føroyabanka. Eisini varð hugt at teimum oceanografisku viðurskiftunum.</p>
-<p><em type="bold">Reiðskapur:</em> 116 fóts kassatrol við 40 mm meskum í posanum og við vanligum grunni. </p>
-<p>Breidlarnir vóru 60 m og 120 m, Steinhamns lemmar, Minilog temperatur- og dýpdarmátari, Seabird-CTD og WP-2 glúpur.</p>
-<p><em type="bold">Um túrin:</em> Farið varð av Havnini hóshvøldið 14. september kl. 21.00. Fyrsta CTD-støðin varð </p>
-<p>tikin á Føroyabanka 15. september kl. 04.02. Seinasta støðin varð tikin 19. september kl. 07.50. Túrurin samsvaraði ikki heilt við ætlanina. Týsmorgunin 19. september var veðrið vánaligt. Tá vóru 3 støðir eftir, men eftir at hava tikið ta fyrstu støðina varð avgjørt at gevast vegna veður. Støðirnar, ið ikki vórðu tiknar vóru 1722 og 1708. Eitt tov taldi ikki við (00680037). Hetta komst av, at ein lúka í posapavninum fór upp, og ein stórur partur av veiðuni endaði á fabrikksdekkinum. Veiðan í hesum var meginpartur hvalspýggj, uml. 10 tons. Sostatt vórðu 26  brúkuligar trolstøðir og 12 CTD- og djóraætisstøðir tiknar.</p>
-<p><em type="bold">Prøvataking: </em>Hesir prøvar vórðu tiknir: </p>
-<p>Fiskaslag Nytrur Magar Toskur     Hýsa     Upsi</p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2000:2 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p><em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka 15 – 19. september 2000 </em><em type="italic"></em></p>
+<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank September 15th 19th 2000 </em></p>
+<p>Høvundur / Author</p>
+<p><em type="bold">Eyðfinn Magnussen </em></p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng">Tøknifrágreiðing /Technical Report</p>
+<p xml:lang="eng"><em type="italic">NVD </em>Rit2000:2 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 1</p>
+<p><em type="bold">Fólk frá FRS: </em>Arnhold Henriksen, Rógvi Mouritsen, Mourits Mohr Joensenn og Eyðfinn Magnussen <em type="bold">Ábyrgd: </em>Eyðfinn Magnussen <em type="bold">Endamál: </em>Høvuðsendamálið við túrinum var at fáa eitt mát fyri nøgdini og biologini hjá teimum týdningarmestu fiskasløgunum, ið finnast á Føroyabanka. Eisini varð hugt at teimum oceanografisku viðurskiftunum. <em type="bold">Reiðskapur: </em>116 fóts kassatrol við 40 mm meskum í posanum og við vanligum grunni. Breidlarnir vóru 60 m og 120 m, Steinhamns lemmar, Minilog temperatur- og dýpdarmátari, Seabird-CTD og WP-2 glúpur. <em type="bold">Um túrin: </em>Farið varð av Havnini hóshvøldið 14. september kl. 21.00. Fyrsta CTD-støðin varð tikin á Føroyabanka 15. september kl. 04.02. Seinasta støðin varð tikin 19. september kl. 07.50. Túrurin samsvaraði ikki heilt við ætlanina. Týsmorgunin 19. september var veðrið vánaligt. Tá vóru 3 støðir eftir, men eftir at hava tikið ta fyrstu støðina varð avgjørt at gevast vegna veður. Støðirnar, ið ikki vórðu tiknar vóru 1722 og 1708. Eitt tov taldi ikki við (00680037). Hetta komst av, at ein lúka í posapavninum fór upp, og ein stórur partur av veiðuni endaði á fabrikksdekkinum. Veiðan í hesum var meginpartur hvalspýggj, uml. 10 tons. Sostatt vórðu 26 brúkuligar trolstøðir og 12 CTD- og djóraætisstøðir tiknar. <em type="bold">Prøvataking: </em>Hesir prøvar vórðu tiknir: </p>
+<p>Fiskaslag Nytrur Magar</p>
+<p>Toskur 279 35</p>
+<p>Hýsa 381 58</p>
+<p>Upsi 255 41</p>
 <p><em type="bold">Tilsamans 915 134 </em></p>
-<p>Í sýnishondbókini verður miðað eftir at taka 400 nytrur av hvørjum av omanfyri nevndu fiskasløgum. Hetta var tó ikki møguligt, av tí at ov lítið var at fáa.</p>
-<p><em type="bold">Nær eru prøvarnir upparbeiddir:</em> Magarnir vórðu sorteraðir umborð. Mátingarnar frá </p>
-<p>temperaturmátaranum á trolinum eru upparbeidd. Úrslitini eru klár og verða víst í hesi frágreiðingini. Úrslitini frá Imponatorskipanini eru rættlisin og nytrurnar klárar at leggja upp.</p>
-<p><em type="bold">Fyribils úrslit og endalig úrslit: </em></p>
-<p>Toskurin í minkin meðan hýsan og upsin eru í vøkstri.</p>
-<p><em type="bold">Veiðan: </em>Í talvu 1 er víst samlaða veiða á túrinum og tað, ið landað var á uppboðssøluni. Fingin </p>
-<p>vórðu íalt 35 fiskasløg. Mest var fingið av hýsu, toski og upsa. Samanborið við undanfarin ár (talva 2 og mynd 1), er hýsan og upsin í vøkstri, meðan toskurin er í minking. Miðalveiðan av toski hendan túrin var 83 kg pr tov, samanborið við 318 kg pr tov í 1997. Silvurmurtur varð hendan túrin fingin á fleiri støðum enn vanligt (5 íalt). Hesi seinastu árini hevur hesin fiskurin bert verið at fingið í teimum vestastu puntunum á Bankanum. Eisini var hvítingur fingin á bankanum: Hetta er óvanligt</p>
-<p><em type="bold">Hiti:</em>Á mynd 2 er miðalhitin á botni vístur fyri hvørt hál. Miðaltølini eru hitin mátaður </p>
-<p>niðri við botnin, meðan tovað verður. Á myndini sæst, at sjógvurin er heitastur á tí grunna, og kølnar so út móti kantinum.</p>
-<p><em type="bold">Nr. Fiskaslag </em></p>
-<p><em type="bold">Samlað veiða (kg) Landað veiða (kg) </em></p>
-<p>HÝSA  11.3435.281 TOSKUR  2.1511.121 UPSI  1.9621.518 GULLAKSUR  1.562   LOLIGO  1.324   HAVMÚS  1.135   SVARTKJAFTUR     KJAFTSVARTI KONGAFISKUR    S. VIVIPARUS    LONGA   S. MARINUS  HÁKELLING     ROSSAMAKRELUR     GLÝSUFISKUR     HAVTASKA   BLÁLONGA   AGNHØEGGUSLOKKUR     HVÍTINGSBRÓÐIR     KNURRHANI     HVÍTINGUR     TUNGA   LÍTLA BROSMA    KALVI     S. MENTELLA    BROSMA     SANDSPRØKA     LÁLLA     SILVUR MURTUR    HVASSASPREK     STINGLAKSUR     BLÁRIDDARI     SVARTFISKUR     BÚKSVARTI HÁVUR    GLASKVOYSA     SMASKRUBBUTA LANGASPORL</p>
-<p>Tilsamans <em type="bold"> </em>21.1968.082 </p>
-<p><em type="italic">  Talva : Veiðan frá Føroyabankatúrinum 15.–19. september 2000.</em> </p>
-<p><em type="bold">Toskur  Hýsa Upsi </em> </p>
+<p>Í sýnishondbókini verður miðað eftir at taka 400 nytrur av hvørjum av omanfyri nevndu fiskasløgum. Hetta var tó ikki møguligt, av tí at ov lítið var at fáa. <em type="bold">Nær eru prøvarnir upparbeiddir: </em>Magarnir vórðu sorteraðir umborð. Mátingarnar frá temperaturmátaranum á trolinum eru upparbeidd. Úrslitini eru klár og verða víst í hesi frágreiðingini. Úrslitini frá Imponatorskipanini eru rættlisin og nytrurnar klárar at leggja upp. <em type="bold">Fyribils úrslit og endalig úrslit: </em>Toskurin í minkin meðan hýsan og upsin eru í vøkstri. <em type="bold">Veiðan: </em>Í talvu 1 er víst samlaða veiða á túrinum og tað, ið landað var á uppboðssøluni. Fingin vórðu íalt 35 fiskasløg. Mest var fingið av hýsu, toski og upsa. Samanborið við undanfarin ár (talva 2 og mynd 1), er hýsan og upsin í vøkstri, meðan toskurin er í minking. Miðalveiðan av toski hendan túrin var 83 kg pr tov, samanborið við 318 kg pr tov í 1997. Silvurmurtur varð hendan túrin fingin á fleiri støðum enn vanligt (5 íalt). Hesi seinastu árini hevur hesin fiskurin bert verið at fingið í teimum vestastu puntunum á Bankanum. Eisini var hvítingur fingin á bankanum: Hetta er óvanligt <em type="bold">Hiti: </em>Á mynd 2 er miðalhitin á botni vístur fyri hvørt hál. Miðaltølini eru hitin mátaður niðri við botnin, meðan tovað verður. Á myndini sæst, at sjógvurin er heitastur á tí grunna, og kølnar so út móti kantinum. 2 </p>
+<p><em type="bold">Fiska </em></p>
+<p xml:lang="eng"><em type="bold">Nr. </em></p>
+<p><em type="bold">Fiskaslag </em></p>
+<p><em type="bold">Samlað veiða </em><em type="bold">(kg) </em></p>
+<p><em type="bold">Landað veiða </em><em type="bold">(kg) </em></p>
+<p>HÝSA 11.3435.281</p>
+<p>TOSKUR 2.1511.121</p>
+<p xml:lang="eng">UPSI 1.9621.518</p>
+<p>GULLAKSUR 1.562</p>
+<p xml:lang="eng">LOLIGO 1.324</p>
+<p>HAVMÚS 1.135</p>
+<p>SVARTKJAFTUR 827</p>
+<p xml:lang="eng">KJAFTSVARTI KONGAFISKUR 213</p>
+<p>S. VIVIPARUS 158</p>
+<p xml:lang="eng">LONGA 6450</p>
+<p>S. MARINUS 6474</p>
+<p xml:lang="eng">HÁKELLING 50</p>
+<p xml:lang="eng">ROSSAMAKRELUR 49</p>
+<p>GLÝSUFISKUR 39</p>
+<p>HAVTASKA 3815</p>
+<p xml:lang="eng">BLÁLONGA 2915</p>
+<p>AGNHØEGGUSLOKKUR 24</p>
+<p>HVÍTINGSBRÓÐIR 24</p>
+<p xml:lang="eng">KNURRHANI 20</p>
+<p>HVÍTINGUR 17</p>
+<p>TUNGA 178</p>
+<p>LÍTLA BROSMA 15</p>
+<p xml:lang="eng">KALVI 12</p>
+<p>S. MENTELLA 11</p>
+<p xml:lang="eng">BROSMA 9</p>
+<p>SANDSPRØKA 8</p>
+<p xml:lang="eng">LÁLLA 7</p>
+<p xml:lang="eng">SILVUR MURTUR 7</p>
+<p>HVASSASPREK 4</p>
+<p>STINGLAKSUR 4</p>
+<p xml:lang="eng">BLÁRIDDARI 3</p>
+<p>SVARTFISKUR 2</p>
+<p>BÚKSVARTI HÁVUR 2</p>
+<p>GLASKVOYSA 1</p>
+<p xml:lang="eng">SMASKRUBBUTA LANGASPORL1</p>
+<p>Tilsamans 21.1968.082</p>
+<p>Talva 1 : Veiðan frá Føroyabankatúrinum 15.–19. september 2000. 3</p>
+<p><em type="bold">Toskur </em></p>
+<p><em type="bold">Hýsa </em></p>
+<p><em type="bold">Upsi </em></p>
 <p>Turnr.</p>
 <p>Dagar</p>
 <p>Máni Ár</p>
-<p>Tal av tovum Samlað</p>
-<p>veiða Miðal veiða pr tov Samlað veiða Miðal veiða pr tov Samlað veiða Miðal veiða pr tov 9164 2-4 sept 1991  9256 24-25 juli 1992  9668 6-10 sept 1996 6.3596.303 9772 4-8 sept 1997 9.2108.311 2.415 9872 18-22 sept 1998 7.8218.905 1.034 9972 17-21 sept 1999 3.13210.694 1.401 0068 15-19 sept 2000 2.15111.343 1.962</p>
-<p><em type="italic">Talva 2: Veiðan (kg) av toski, hýsu og upsa í heyst-yvirliistrolingunum á Føroyabanka. </em></p>
-<p>sept-91julit-92sept-96sept-97sept-98sept-99sept-00</p>
-<p>Toskur HýsaUpsi</p>
-<p><em type="italic">Mynd 1 Miðal veiða (kg/tov) av toski, hýsu og upsa í heyst-yvirlitstrolingunum á Føroyabanka.</em> </p>
-<p>30'30'</p>
-<p>20'20'</p>
-<p>8.538.98</p>
-<p>10'9.9910.1010'</p>
-<p>7.9911.008.97</p>
-<p>61°8.559.5110.89 10.99 10.878.6961°</p>
-<p>11.009.56</p>
-<p>50'9.9510.9910.409.2950'</p>
-<p>7.9610.69</p>
-<p>40'10.546.6640'</p>
-<p>8.55</p>
-<p>30'9.1530'</p>
-<p>8.498.60</p>
-<p>20'20'</p>
-<p>10'10'</p>
-<p>40'20'9°40'20'8°40' <em type="italic"> </em></p>
-<p><em type="italic">Mynd 2: Miðalhitin við botnin fyri hvørt tov mátaður í tíðarskeiðnum 15-19. september 2000. </em></p>
-<p><em type="bold">Viðmerkingar: </em>Ongin </p>
-<p>Tórshavn 26. september 2000</p>
-<p>___________________________ Eyðfinn Magnussen</p>
+<p>Tal av tovum</p>
+<p>Samlað veiða</p>
+<p>Miðal veiða pr tov</p>
+<p>Samlað veiða</p>
+<p>Miðal veiða pr tov</p>
+<p>Samlað veiða</p>
+<p xml:lang="dan">Miðal veiða pr tov 9164 2-4 sept 1991 112702517816 3639256 24-25 juli 1992 218995179 1589668 6-10 sept 1996 336.3591936.303191 17059772 4-8 sept 1997 299.2103188.311287 2.415839872 18-22 sept 1998 297.8212708.905307 1.034369972 17-21 sept 1999 293.13210810.694369 1.401480068 15-19 sept 2000 262.1518311.343436 1.96275</p>
+<p>Talva 2: Veiðan (kg) av toski, hýsu og upsa í heyst-yvirliistrolingunum á Føroyabanka. 0100200300400sept-91julit-92sept-96sept-97sept-98sept-99sept-00</p>
+<p xml:lang="eng"><em type="bold">Kg pr tov </em></p>
+<p>Toskur</p>
+<p>Hýsa</p>
+<p>Upsi</p>
+<p>Mynd 1 Miðal veiða (kg/tov) av toski, hýsu og upsa í heyst-yvirlitstrolingunum á Føroyabanka. 430'30'20'20'8.538.9810'9.9910.1010'7.9911.008.9761°8.559.5110.89 10.99 10.878.6961°11.009.5650'9.9510.9910.409.2950'7.9610.6940'10.546.6640'8.5530'9.1530'8.498.6020'20'10'10'40'20'9°40'20'8°40'</p>
+<p>Mynd 2 : Miðalhitin við botnin fyri hvørt tov mátaður í tíðarskeiðnum 15-19. september 2000. <em type="bold">Viðmerkingar: </em>Ongin Tórshavn 26. september 2000 ___________________________ Eyðfinn Magnussen </p>
 </body></document>

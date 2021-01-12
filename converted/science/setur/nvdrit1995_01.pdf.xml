@@ -1,34 +1,45 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>425</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit1995_01.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
-<p>Úrslit frá yvirlitstrolingini á Føroyabanka</p>
-<p>4.- 10. mai 1995</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>448</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit1995_01.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
+<p>Úrslit frá yvirlitstrolingini á Føroyabanka 4.- 10. mai 1995</p>
 <p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank </em></p>
-<p xml:lang="eng"><em type="italic">May 4th- 10th  </em></p>
+<p xml:lang="eng"><em type="italic">May 4th- 10th 1995 </em></p>
 <p>Eyðfinn Magnussen</p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>  1995:1 </p>
-<p>Heiti / Title<em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka  </em></p>
-<p><em type="bold">4. - 10 mai 1995</em><em type="italic"> </em></p>
-<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank  May 4th – 10th  </em></p>
-<p>Høvundur  / Author<em type="bold">Eyðfinn Magnussen </em></p>
-<p xml:lang="eng">Ritslag / Report TypeTøknifrágreiðing<em type="italic">/Technical Report </em></p>
-<p>NVD<em type="italic">Rit</em>1995:1 ©Náttúruvísindadeildin og høvundurin  </p>
-<p>Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands)</p>
-<p xml:lang="eng">y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo</p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>1995:1 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p><em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka 4. - 10 mai 1995 </em><em type="italic"></em></p>
+<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank May 4th – 10th 1995 </em></p>
+<p>Høvundur / Author</p>
+<p><em type="bold">Eyðfinn Magnussen </em></p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng">Tøknifrágreiðing <em type="italic">/Technical Report </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>1995:1 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 1</p>
 <p>Fólk frá FRS: Arnold Henriksen, Regin Kristiansen, Eyðfinn Magnussen og Marner Simonsen (fuglateljing)</p>
-<p>Ábyrgd:  Eyðfinn Magnussen</p>
+<p>Ábyrgd: Eyðfinn Magnussen</p>
 <p>Endamál: Høvuðsendamálið við túrinum var at fáa eitt mát fyri nøgdini og biologiina hjá teimum týdningarmestu fiskasløgunum, id finnast á Bankanum. At náa hesum máli, vóru tiknar trol- og CTD-støðir. Umframt hettar, vóru tiknir prøvar til neringssølt, æti og magar til at kanna hvat fiskurin át. Marner Simonsen var eisini við á túrinum og taldi fugl.</p>
 <p>Reiðskapur: Vanligt yvirlitstrol varð nýtt, t.e. 116 fót kassatrol við Steinhamn og vanligum grunni. Í nøkrum tovum varð hædd og vídd á trolinum mátað. Tógtíð var 1 tíma. At samla djóraæti var ein wp2 glúpur nýttur.</p>
 <p>Um túrin: Fóru av Havnini á midnátt við kós móti Føroyabanka. Komu á Bankan um middagstíð næsta dag. Kastaðu fyrstu ferð kl.11.37. Prøvatakingin gekk sum ætlað. Tó vóru 3 trolstøðir broyttar:</p>
-<p>XVIII-13 ----&gt; XVII - 1 (Snellubátar lógu á økinum)  XVIII-60 ----&gt; XVIII-53 (Korallbotnur. Tá hetta er ein av teimum føstu støðunum, átti hon møguliga at verið flutt)    XVIII-39 ----&gt; XVII-40 (Hendan støðin varð flutt longur inn á Bankan fyri at fáa tosk.Støðin varð tikin um náttina.)</p>
+<p>XVIII-13 ----&gt; XVII - 1 (Snellubátar lógu á økinum)</p>
+<p>XVIII-60 ----&gt; XVIII-53 (Korallbotnur. Tá hetta er ein av teimum føstu støðunum, átti hon møguliga at verið flutt)</p>
+<p>XVIII-39 ----&gt; XVII-40 (Hendan støðin varð flutt longur inn á Bankan fyri at fáa tosk.Støðin varð tikin um náttina.)</p>
 <p>Tal av prøvum:</p>
 <p>Prøvar Tal av prøvum</p>
-<p>Trolstøðir</p>
+<p>Trolstøðir 30</p>
 <p>Magar 424</p>
-<p xml:lang="eng">PCB Tosk        Hýsu        Upsi</p>
-<p>CTD-støðir         Djóraæti        Plantuæti        Føðslusøltir        Klorofyl a</p>
-<p>42 (14 støðir)</p>
-<p>Viðgerð:  Hvørt hál varð gjørt upp. Øll fiskasløg av vinnuligum áhuga komu fram á vektina og prøvar tiknir. Allur toskurin, og tað mesta av hýsuni og upsanum, varð nitrað. Mátiútgerðin á trolinum riggaði bert í nøkrum hálum. Serliga var tað sensorurin, id skuldi mátað víddina á trolinum id, sveik.</p>
+<p xml:lang="eng">PCB Tosk</p>
+<p>Hýsu</p>
+<p>Upsi 10 10 10</p>
+<p>CTD-støðir</p>
+<p>Djóraæti</p>
+<p>Plantuæti</p>
+<p>Føðslusøltir</p>
+<p>Klorofyl a 20 20 20 109 42 (14 støðir)</p>
+<p>Viðgerð: Hvørt hál varð gjørt upp. Øll fiskasløg av vinnuligum áhuga komu fram á vektina og prøvar tiknir. Allur toskurin, og tað mesta av hýsuni og upsanum, varð nitrað. Mátiútgerðin á trolinum riggaði bert í nøkrum hálum. Serliga var tað sensorurin, id skuldi mátað víddina á trolinum id, sveik. 2</p>
+<p xml:lang="eng">Úrslit:</p>
 <p>Úrslitini frá túrinum eru enn ikki gjørd upp. Tað tyktist tó, sum tað var meira av smáfiski í trolinum hesaferð enn undanfarin ár. À sunnara enda av bankanum fingu vit í einum háli einar 6-8 faðurserkar og 2 búrfiskabrøður. Í næsta hálinum var eisini onkur faðurserkur í trolinum. Eingin hvítingur varð fingin á Bankanum.</p>
-<p>Tað var lítið av fugli at síggja á túrinum.</p>
-<p>10. mai 1995</p>
-<p>Eyðfinn Magnussen</p>
+<p>Tað var lítið av fugli at síggja á túrinum. 10. mai 1995 Eyðfinn Magnussen</p>
 </body></document>

@@ -1,19 +1,10 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>8269</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frágreiðing-løgmans-á-ólavsøku-2014.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>føroya Løgmaður</p>
-<p>føroya Løgmaður</p>
-<p>føroya Løgmaður</p>
-<p>frágreiðing  Løgmans á óLavsøku</p>
-<p>frágreiðing  Løgmans á óLavsøku</p>
-<p>frágreiðing  Løgmans á óLavsøku</p>
-<p xml:lang="rmy-rka">Løgmansskrivstovan</p>
-<p xml:lang="rmy-rka">Løgmansskrivstovan</p>
-<p xml:lang="rmy-rka">Løgmansskrivstovan</p>
-<p>www.tinganes.fo røða løgmans</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>lýggir vindar eru yvir okkum. ljósa tíðin og góða summarveðrið seinastu vikurnar gevur orku. Tað er enn eina ferð summar í Føroyum.</p>
-<p>seinastu árini hava avbjóðingarnar verið stórar, og brotasjógvarnir verið ógvisligir.</p>
-<p>Vit vóru merkt av hóttaføllum frá størstu búskaparkreppu, heimurin hevur upplivað síðan 30árini. Vit vóru partur av størstu diplomatisku ósemju í áratíggju, tá ið stórveldið Es setti handilsbann í verk ímóti okkum. Og vit vóru sett at stýra einum vælferðarsamfelagi undir stórum trýsti av trongum tíðum og vaksandi tørvi og útreiðslum. samstundis var fólkatalið fallandi.</p>
-<p xml:lang="vep">***</p>
-<p>nú er gongdin vend. Brotasjógvarnir hava lagt seg. Tað gongur væl í Føroyum.</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>9332</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frágreiðing-løgmans-á-ólavsøku-2014.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>LøgmansskrivstovanføroyaPrenT · svanamerktur prentlutur 541 705føroya Løgmaðurfrágreiðing Løgmansá óLavsøku</p>
+<p>LøgmansskrivstovanføroyaPrenT · svanamerktur prentlutur 541 705føroya Løgmaðurfrágreiðing Løgmansá óLavsøku2014www.tinganes.fo</p>
+<p xml:lang="est">LøgmansskrivstovanføroyaPrenT · svanamerktur prentlutur 541 705føroya Løgmaðurfrágreiðing Løgmaá óLavsøku <em type="bold">l ø g m a nssk r i vs tova n </em></p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>røða løgmans <em type="bold">l ø g m a nssk r i vs tova n </em>3 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p><em type="bold">Harra formaður </em>lýggir vindar eru yvir okkum. ljósa tíðin og góða summarveðrið seinastu vikurnar gevur orku. Tað er enn eina ferð summar í Føroyum.seinastu árini hava avbjóðingarnar verið stórar, og brotasjógvarnir verið ógvisligir. </p>
+<p>Vit vóru merkt av hóttaføllum frá størstu búskaparkreppu, heimurin hevur upplivað síðan 30árini. Vit vóru partur av størstu diplomatisku ósemju í áratíggju, tá ið stórveldið Es setti handilsbann í verk ímóti okkum. Og vit vóru sett at stýra einum vælferðarsamfelagi undir stórum trýsti av trongum tíðum og vaksandi tørvi og útreiðslum. samstundis var fólkatalið fallandi. ***nú er gongdin vend. Brotasjógvarnir hava lagt seg. Tað gongur væl í Føroyum.</p>
 <p>Fleiri av størstu avbjóðingunum eru loystar.</p>
 <p>Vit komu væl gjøgnum kreppuna. Tí vit framdu røtt átøk í rættari tíð.</p>
 <p>Hildu aftur við útreiðslunum. Fingu nýggjar inntøkur, og nú er búskapurin aftur komin á beint.</p>
@@ -22,80 +13,64 @@
 <p>Vit hava sum tjóð staðið saman, tá ið harðast leikaði á í stríðnum við Es og hini strandalondini. Handilstiltøkini verða tikin av í næstum, og vit fáa nógv størri part í makrel- og sildafiskiskapinum komandi árini.</p>
 <p>Døpru útlitini, ið eyðkendu samfelagsgongdina, eru farin. Eftirskjálvtarnir frá búskaparkreppuni eru fánaðir burtur.</p>
 <p>Jú, sanniliga – vit eru á rættari kós.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
 <p>Ein vaksandi búskapur er fyritreyt fyri fólkavøkstri og vælferð. Vit hava ein vaksandi búskap.</p>
-<p>Búskaparligu lyklatølini vísa rættan veg, og konjunkturvísitalið hevur ikki verið so høgt síðan 2007.</p>
+<p>Búskaparligu lyklatølini vísa rættan veg, og konjunkturvísitalið hevur ikki verið so høgt síðan 2007. <em type="bold">l ø g m a nssk r i vs tova n </em>4 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p>Vøkstur er í øllum høvuðsvinnugreinum.</p>
-<p>Bruttotjóðarúrtøkan vaks 5 prosent í fjør, og fyrra hálvár eru inntøkurnar frá meirvirðisgjaldi um 12 % hægri sammett við somu tíð síðsta ár. Inntøkurnar frá landsskattinum eru um 6 % hægri enn somu tíð í fjør.</p>
-<p>lønarútgjaldingarnar eru vaksnar um 5 prosent í ár.</p>
+<p>Bruttotjóðarúrtøkan vaks 5 prosent í fjør, og fyrra hálvár eru inntøkurnar frá meirvirðisgjaldi um 12 % hægri sammett við somu tíð síðsta ár. Inntøkurnar frá landsskattinum eru um 6 % hægri enn somu tíð í fjør.lønarútgjaldingarnar eru vaksnar um 5 prosent í ár.</p>
 <p>Bjartskygni er í vinnuni. Tað grør um gangandi fót.</p>
-<p>Í ár gera tað privata og tað almenna íløgur fyri oman fyri 2 milliardir krónur. løntakararnir gerast fleiri. síðan samgongan tók við á heysti 2011 eru 500 fleiri løntakarar. arbeiðsloysið er nú komið niður á 3,7 %. Tað er eitt av teimum lægstu í Evropa.</p>
-<p>nógv bendir á, at okkara útflutningur aftur setur met í ár. samlaða íkastið frá alivinnuni,  uppsjóvarvinnuni og fjarfiskiflotanum hevur ongantíð verið størri.</p>
+<p>Í ár gera tað privata og tað almenna íløgur fyri oman fyri 2 milliardir krónur. løntakararnir gerast fleiri. síðan samgongan tók við á heysti 2011 eru 500 fleiri løntakarar. arbeiðsloysið er nú komið niður á 3,7 %. Tað er eitt av teimum lægstu í Evropa.nógv bendir á, at okkara útflutningur aftur setur met í ár. samlaða íkastið frá alivinnuni, uppsjóvarvinnuni og fjarfiskiflotanum hevur ongantíð verið størri.</p>
 <p>Kortini eru avbjóðingar.</p>
 <p>Vit hava framvegis hall á fíggjarlógini. samgongan hevur sett sær fyri at fáa javnvág í 2016. Hetta halda vit fast um, og við verandi búskapargongd er nógv, sum bendir á, at vit røkka málinum.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
 <p>Fólkatalið veksur aftur.</p>
 <p>Fleiri flyta heimaftur, og tey, sum flyta av landinum, fækka. Í fjør vaks burðartalið eitt vet, og fyri fyrstu ferð seinastu sløku tíggju árini vaks talið av kvinnum í aldursbólkinum 20 til 40 ár. Fráflytingin er tó framvegis størri enn tilflytingin, men tekin eru um, at vit megna at loysa demografisku avbjóðingina.</p>
 <p>Átøk í fólkavakstrarætlanini eru sett í verk, og onnur eru ávegis.</p>
 <p xml:lang="isl">Barnsburðarfarloyvið er longt úr 34 vikum upp í 38 vikur.</p>
 <p>Felagið Bústaðir byggir leiguíbúðir kring landið, so bústaðarmøguleikarnir gerast fjøltáttaðir. 47 nýggjar íbúðir eru bygdar, og 109 eru á veg. 1.800 fólk standa á bíðilista hjá Bústøðum, og tað ber boð um stóran eftirspurning.</p>
-<p>Játtanin til Fróðskaparsetrið er hækkað. setrið spennir seg út og bjóðar fleiri útbúgvingar, so fleiri ung kunnu støðast í Føroyum. Fleiri og fleiri nema sær hægri útbúgving her heima. setrið húsast í dag ymsastaðni í høvuðsstaðnum, og arbeitt verður við at savna virksemið á einum staði.</p>
-<p>granskingin mennist støðugt. granskarasetrið inOVa hevur staðið sína roynd seinasta árið, og tað hevur gingið væl.</p>
+<p>Játtanin til Fróðskaparsetrið er hækkað. setrið spennir seg út og bjóðar fleiri útbúgvingar, so fleiri ung kunnu støðast í Føroyum. Fleiri og fleiri nema sær hægri útbúgving her heima. setrið húsast í dag ymsastaðni í høvuðsstaðnum, og arbeitt verður við at savna virksemið á einum staði. <em type="bold">l ø g m a nssk r i vs tova n </em>5 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>granskingin mennist støðugt. granskarasetrið inOVa hevur staðið sína roynd seinasta árið, og tað hevur gingið væl. </p>
 <p>Fæið hjá avtiknu sjúkrakassunum, sum er 28 mió. kr., verður nú brúkt til heilsugransking.</p>
 <p>Fyri at bøta um møguleikarnar hjá nýútbúnum føroyingum at finna sær starv í Føroyum, er avtalað við danskar myndugleikar, at føroysk nýútbúgvin kunnu flyta til Føroyar og fáa danskan arbeiðsloysisstuðul í tríggjar mánaðir. avtalan verður eftir ætlan undirritað í summar.</p>
 <p>Hetta verður enn ein av okkara mongu fyrimunum í ríkisfelagsskapinum.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
 <p>Ferðavinnan er í vøkstri. nógv fleiri fólk ferðast til Føroyar, og gistingarnar økjast í tali. nýggj ferðavinnustrategi er gjørd. málið er, at ferðavinnan skal kasta 1 mia. krónur av sær í 2020.</p>
-<p>Ferðaráðið er umskipað til P/F Visit Faroe Islands, og nýggj nevnd við breiðari vinnuumboðan er farin til verka.</p>
-<p>atlantsflog hevur í summar lagt fram nýggja strategi. Eg gleðist um, at henda strategi bæði fevnir um bíligari ferðaseðlar og nýggjar rutur. Farið verður nú undir at flúgva regluliga til noregs og skotlands.</p>
-<p>nýggj hugskot eru grundarlagið undir virkisførum vinnulívi. Vit hava nógvar dugnaligar og ágrýtnar íverksetarar, ið menna vørur og tænastur, sum eru kappingarførar á heimsmarknaðinum.</p>
+<p>Ferðaráðið er umskipað til P/F Visit Faroe Islands, og nýggj nevnd við breiðari vinnuumboðan er farin til verka.atlantsflog hevur í summar lagt fram nýggja strategi. Eg gleðist um, at henda strategi bæði fevnir um bíligari ferðaseðlar og nýggjar rutur. Farið verður nú undir at flúgva regluliga til noregs og skotlands. nýggj hugskot eru grundarlagið undir virkisførum vinnulívi. Vit hava nógvar dugnaligar og ágrýtnar íverksetarar, ið menna vørur og tænastur, sum eru kappingarførar á heimsmarknaðinum.</p>
 <p>Vit skulu áhaldandi stimbra íverksetan.</p>
 <p>Í næstum fer landsstýrið undir at gera eina nýggja strategi soleiðis, at vit fáa íverksetanarskipanir í heimsflokki.</p>
 <p>Vinnufelagslóggávan verður nú dagførd. Tá fer at bera til at stovna sonevnd <span type="quote">“íverksetarafeløg”</span>, sum gera tað lættari at fara undir vinnuvirksemi í felagsformi.</p>
-<p>Á seinasta ríkisfundi varð avtalað, at bæði føroyskar og grønlendskar fyritøkur verða fevndar av virkis- økjum hjá danska Vækstfonden, sum gevur atgongd til serfrøði og fígging.</p>
-<p>aftur her sæst styrkin í ríkisfelagsskapinum.</p>
-<p>*** landsstýrið heldur tað vera neyðugt at varðveita mjólkaframleiðsluna her heima. Tí er lóggávan broytt, so vinnan kann fáa tíðaravmarkaðan stuðul.</p>
+<p>Á seinasta ríkisfundi varð avtalað, at bæði føroyskar og grønlendskar fyritøkur verða fevndar av virkis- økjum hjá danska Vækstfonden, sum gevur atgongd til serfrøði og fígging. aftur her sæst styrkin í ríkisfelagsskapinum. *** <em type="bold">l ø g m a nssk r i vs tova n </em>6 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>landsstýrið heldur tað vera neyðugt at varðveita mjólkaframleiðsluna her heima. Tí er lóggávan broytt, so vinnan kann fáa tíðaravmarkaðan stuðul. </p>
 <p>Harumframt eru fíggingarmøguleikarnir til íløgur í fóðurframleiðslu betraðir, so innflutningurin av fóðuri kann minka. Hetta skal tryggja vinnuni betri rakstur, og brúkarum bíligari mjólkarúrdráttir.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
 <p>Ein tann størsta avbjóðingin í komandi tíðum er at flyta samfelagið frá olju til varandi orku.</p>
-<p>Í so máta verður 2014 eitt sera spennandi ár.</p>
-<p>nýggja vindmyllulundin í Húshaga fer at trífalda vindorkuna. Væntandi fer vindorkan at standa fyri einum fjórðingi av elorkuni, og helmingurin av før</p>
-<p>landsstýrið ætlar at seta í verk átøk, ið kunnu fáa húsarhaldini at brúka meira varandi orku.</p>
-<p>Boringin í leitibrunninum Brugdan II er liðug. Kolvetni var ikki staðfest. Í løtuni verður borað í brunninum súla/stelkur, sum liggur tætt við markið til Bretlands. Úrslitið av boringini verður kunngjørt í heyst.</p>
-<p>nógva byggivirksemið økir eftirspurningin eftir faklærdari arbeiðsmegi. Fyri at útvega neyðugu arbeiðsmegina varð lógarbroyting samtykt í vár, sum ger tað lættari at seta faklærda arbeiðsmegi úr Es londum í starv, so leingi arbeiðsloysið er undir 6 prosent.</p>
-<p>Eitt nútíðarsamfelag eigur at hava væl skipað viðurskifti á arbeiðsmarknaðinum, og vit eiga at fyribyrgja sosiala dumping. Tí fara vit at krevja, at útlendingar við føroyskum fiskiførum, sum fiska á føroyskum sjóleiðum, skulu hava arbeiðs- og uppihaldsloyvi.</p>
-<p xml:lang="vep">***</p>
-<p>málið um at nýskipa fiskivinnuna er framvegis áleikandi. Tað verður okkara fremsta mál í vetur.</p>
+<p>Í so máta verður 2014 eitt sera spennandi ár. nýggja vindmyllulundin í Húshaga fer at trífalda vindorkuna. Væntandi fer vindorkan at standa fyri einum fjórðingi av elorkuni, og helmingurin av føroysku elorkuni verður frá varandi orkukeldum.landsstýrið ætlar at seta í verk átøk, ið kunnu fáa húsarhaldini at brúka meira varandi orku.</p>
+<p>Boringin í leitibrunninum Brugdan II er liðug. Kolvetni var ikki staðfest. Í løtuni verður borað í brunninum súla/stelkur, sum liggur tætt við markið til Bretlands. Úrslitið av boringini verður kunngjørt í heyst. nógva byggivirksemið økir eftirspurningin eftir faklærdari arbeiðsmegi. Fyri at útvega neyðugu arbeiðsmegina varð lógarbroyting samtykt í vár, sum ger tað lættari at seta faklærda arbeiðsmegi úr Es londum í starv, so leingi arbeiðsloysið er undir 6 prosent.</p>
+<p>Eitt nútíðarsamfelag eigur at hava væl skipað viðurskifti á arbeiðsmarknaðinum, og vit eiga at fyribyrgja sosiala dumping. Tí fara vit at krevja, at útlendingar við føroyskum fiskiførum, sum fiska á føroyskum sjóleiðum, skulu hava arbeiðs- og uppihaldsloyvi.***málið um at nýskipa fiskivinnuna er framvegis áleikandi. Tað verður okkara fremsta mál í vetur.</p>
 <p>Tað hevur alstóran týdning, at bæði samgonga og andstøða standa saman um at nýskipa fiskivinnuna.</p>
 <p>Vit hava staðfest meginregluna um, at gjald skal latast fyri atgongd til okkara ríkidømi í havinum.</p>
-<p>Vit hava í ár ásett tilfeingisgjøld á sild og makrel fyri um leið 170 mió. kr. men vit eru framvegis ikki komin á mál við eini varandi skipan.</p>
-<p>spurningurin um, hvussu veiðuloyvi skulu verða lutað vinnuni aftan á 2018, er ei heldur svaraður enn. Hesi eru viðurskifti, ið fiskivinnunýskipanin millum annað skal fata um.</p>
+<p>Vit hava í ár ásett tilfeingisgjøld á sild og makrel fyri um leið 170 mió. kr. men vit eru framvegis ikki komin á mál við eini varandi skipan. <em type="bold">l ø g m a nssk r i vs tova n </em>7 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>spurningurin um, hvussu veiðuloyvi skulu verða lutað vinnuni aftan á 2018, er ei heldur svaraður enn. Hesi eru viðurskifti, ið fiskivinnunýskipanin millum annað skal fata um. </p>
 <p>Botnfiskastovnarnir eru illa fyri. Fyri at fáa stovnarnar at koma fyri seg, hevur landsstýrið seinastu árini stongt veiðuøki og lækkað talið av fiskidøgum.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>Í viðurskiftum okkara við útheimin eru tikin stór stig hetta valskeiðið.</p>
-<p>seinastu mánaðirnar eru tvey stórmál loyst, sum tryggjað okkum bæði rættindi og atgongd til tilfeingi, sum styrkir okkara lívsgrundarlag. Ósemjan seinastu árini um makrelbýtið og sildafiskiskapin leikaði á sum harðast í august í fjør, tá ið Es setti handilstiltøk í verk ímóti Føroyum. Talan var um sera harðrenda Es framferð.</p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
+<p>Í viðurskiftum okkara við útheimin eru tikin stór stig hetta valskeiðið. seinastu mánaðirnar eru tvey stórmál loyst, sum tryggjað okkum bæði rættindi og atgongd til tilfeingi, sum styrkir okkara lívsgrundarlag. Ósemjan seinastu árini um makrelbýtið og sildafiskiskapin leikaði á sum harðast í august í fjør, tá ið Es setti handilstiltøk í verk ímóti Føroyum. Talan var um sera harðrenda Es framferð.</p>
 <p>Hóast hesa viðferð hildu vit í samráðingunum fast um tað, sum vit hildu vera okkara rætt. Harumframt brúktu vit tey amboð, sum eru tøk í altjóða rættarskipanini. Vit fóru undir tvey gerðarrættarmál ímóti Es.</p>
 <p>Hetta eydnaðist væl.</p>
 <p>Vit eru nú partur av strandalandaavtalu um makrelfiskiskapin, og parturin hjá okkum er nærum trífaldaður sammett við gomlu avtaluna. Eisini er semja gjørd við Es í sildamálinum.</p>
-<p>Handilstiltøkini verða sett úr gildi í næstum, og tá verða gerðarrættarmálini eisini slept. at gerðarrættarmálini hava havt týðandi ávirkan á tilgongdina er ongin ivi um. Tey hava tænt sínum endamáli.</p>
-<p>at vinnan aftur fær atgongd til Es marknaðin merkir væntandi, at útflutningsvirðið hækkar hundratals milliónir krónur.</p>
-<p>samráðingarnar um norðhavssildina verða tiknar uppaftur í heyst. Eg vóni, at vit eisini her fáa eina góða avtalu. avtalan um makrelin merkir, at fiskivinnusamstarvið við Es og noregi, sum hevur ligið stilt í nøkur ár, er tikið uppaftur. Føroysk skip sleppa aftur at fiska í norskum og Es sjógvi.</p>
-<p>Í vár gekk landgrunsnevndin hjá sameindu Tjóðum føroysku krøvini til ytra landgrunnin norðan fyri Føroyar á møti. Føroyar fáa tillutaðar í minsta lagi 27.000 ferkilometrar av landgrunninum. Hetta gevur okkum rættindi til at útvinna náttúrutilfeingi bæði á havbotninum og í undirgrundini.</p>
-<p>landsstýrið fór undir arbeiðið í 2002. Føroyar hava havt formansskapin í donsku-føroysku samráðingarnevndini, og liggur eitt eitt stórt og slóðbrótandi arbeiði aftan fyri úrslitið.</p>
-<p>stavnhaldið í uttanríkispolitikkinum er at tryggja búskaparvøkstur. Okkara uttanríkispolitisku rað</p>
-<p>landgrunsmálið og stríðið fyri einum rættvísum parti av uppisjóvarfiski vísa, hvussu langt vit kunnu røkka, tá ið neyðug orka og játtan verður sett av, og allar góðar kreftir virka saman.</p>
-<p>samanhald ger okkum sterk.</p>
-<p>Vit eru í harðari kapping úti í heimi. Tí mugu vit arbeiða fyri, at føroyskir  útflytarar kunnu virka undir somu ella betri treytum á heimsmarknaðunum enn kappingarneytarnir.</p>
-<p>landsstýrið arbeiðir støðugt við at gera marknaðaratgongdina uttanlands betri.</p>
+<p>Handilstiltøkini verða sett úr gildi í næstum, og tá verða gerðarrættarmálini eisini slept. at gerðarrættarmálini hava havt týðandi ávirkan á tilgongdina er ongin ivi um. Tey hava tænt sínum endamáli. at vinnan aftur fær atgongd til Es marknaðin merkir væntandi, at útflutningsvirðið hækkar hundratals milliónir krónur. samráðingarnar um norðhavssildina verða tiknar uppaftur í heyst. Eg vóni, at vit eisini her fáa eina góða avtalu. avtalan um makrelin merkir, at fiskivinnusamstarvið við Es og noregi, sum hevur ligið stilt í nøkur ár, er tikið uppaftur. Føroysk skip sleppa aftur at fiska í norskum og Es sjógvi.</p>
+<p>Í vár gekk landgrunsnevndin hjá sameindu Tjóðum føroysku krøvini til ytra landgrunnin norðan fyri Føroyar á møti. Føroyar fáa tillutaðar í minsta lagi 27.000 ferkilometrar av landgrunninum. Hetta gevur okkum rættindi til at útvinna náttúrutilfeingi bæði á havbotninum og í undirgrundini. landsstýrið fór undir arbeiðið í 2002. Føroyar hava havt formansskapin í donsku-føroysku samráðingarnevndini, og liggur eitt eitt stórt og slóðbrótandi arbeiði aftan fyri úrslitið. <em type="bold">l ø g m a nssk r i vs tova n </em>8 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>stavnhaldið í uttanríkispolitikkinum er at tryggja búskaparvøkstur. Okkara uttanríkispolitisku raðfestingar eiga altíð at stevna eftir málinum at styrkja tilverugrundarlag okkara. landgrunsmálið og stríðið fyri einum rættvísum parti av uppisjóvarfiski vísa, hvussu langt vit kunnu røkka, tá ið neyðug orka og játtan verður sett av, og allar góðar kreftir virka saman.samanhald ger okkum sterk. </p>
+<p>Vit eru í harðari kapping úti í heimi. Tí mugu vit arbeiða fyri, at føroyskir útflytarar kunnu virka undir somu ella betri treytum á heimsmarknaðunum enn kappingarneytarnir.landsstýrið arbeiðir støðugt við at gera marknaðaratgongdina uttanlands betri.</p>
 <p>Útflutningsráð Føroya er sett á stovn. Endamálið er at tryggja gott samstarv millum landsstýrið og útflutningsvinnurnar um handilspolitisku kósina.</p>
-<p>Vit røkka ikki fríhandilssáttmálum í einum lopi. av royndum vita vit, at tað er tungt at koma á mál.  Kortini eiga vit áhaldandi at royna at leggja okkum eftir teimum møguleikum, sum eru.</p>
-<p>nýggj føroysk sendistova í moskva letur upp seinni í ár. Tað fer at styrkja okkara støðu í londunum  eystanfyri.</p>
+<p>Vit røkka ikki fríhandilssáttmálum í einum lopi. av royndum vita vit, at tað er tungt at koma á mál. Kortini eiga vit áhaldandi at royna at leggja okkum eftir teimum møguleikum, sum eru.nýggj føroysk sendistova í moskva letur upp seinni í ár. Tað fer at styrkja okkara støðu í londunum eystanfyri.</p>
 <p>Viðurskiftini við Es er komin í rætt lag. Vit hava júst tryggjað okkum luttøku í granskingarskipanini Horizon 2020. næsta málið er at gera nýggjan fríhandilssáttmála við Es.</p>
 <p>Í heyst verður aðalorðaskifti um føroyskan uttanríkispolitikk. Tá fær løgtingið høvi at skifta orð um, hvørja kós evropapolitikkurin skal hava.</p>
 <p>Hóast kalda kríggið millum eystur og vestur er av, og okkara partur av heiminum kenst munandi tryggari enn fyri 30 árum síðani, er ófriður og ótrygg viðurskifti mangastaðni í heiminum. Eisini millum eystur og vestur økist spenningurin í løtuni.</p>
 <p>Tað er óskiljandi, at nakar skjýtur niður eitt ferðafólkaflogfar við sløkum 300 fólkum umborð. Eg vóni, at tey, sum hava ábyrgdina av hesi illgerð, verða drigin til svars, og at tiltøk verða sett í verk, so slíkt ikki hendir aftur.</p>
-<p>Ófriðurin og stríðið millum Ísrael og palestinensar hava syndarligar avleiðingar á báðum síðum. seinastu tilburðirnir bøta ikki um møguleikan fyri varandi friði. Teir skapa tíverri enn meira hatur og beiskleika. Vit ynskja øll, at tað skal eydnast at fáa í lag frið í hesum plágaða heimsparti. Fortreytin er, at partarnir virða hvør annan og viðurkenna rættin hvør hjá øðrum at búgva trygt í økinum.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
+<p>Ófriðurin og stríðið millum Ísrael og palestinensar hava syndarligar avleiðingar á báðum síðum. seinastu tilburðirnir bøta ikki um møguleikan fyri varandi friði. Teir skapa tíverri enn meira hatur og beiskleika. Vit ynskja øll, at tað skal eydnast at fáa í lag frið í hesum plágaða heimsparti. Fortreytin er, at partarnir virða hvør annan og viðurkenna rættin hvør hjá øðrum at búgva trygt í økinum. <em type="bold">l ø g m a nssk r i vs tova n </em>9 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
 <p>Okkara land telist millum heimsins bestu.</p>
 <p>Hóast trongar tíðar, hava vit raðfest vælferðina, og síðani 2008 eru játtanirnar til almanna, heilsu- og mentamál hækkaðar við meira enn hálvari milliard.</p>
 <p>Ein nýggj kanning frá Tórshavnar kommunu vísir, at tey eldru trívast væl og eru mest nøgd á fleiri økjum. Tað er tekin um, at vit liva í einum góðum landi.</p>
@@ -103,18 +78,16 @@
 <p>Í 2010 vóru Føroyar til hoyring hjá sT í barnarættindasáttmálanum. Har fingu vit nakrar ábreiðslur, sum vit síðan hava tikið til eftirtektar.</p>
 <p>Ein ábreiðsla var, at vit ikki høvdu eitt politiskt óheft barnaumboð.</p>
 <p>Virkisøkið hjá løgtingsins umboðsmanni er nú víðkað til eisini at virka sum óheft eftirlit á barna- og ungdómsøkinum.</p>
-<p>Vit hava fingið greiðari og betri viðurskifti á barnaverndarøkinum. økini eru skipað í størri eindir, og fakligu krøvini hjá starvsfólkum eru økt. Við broytingunum í 2012 er fráboðanarskyldan bæði hjá  myndugleikum og borgarum herd.</p>
+<p>Vit hava fingið greiðari og betri viðurskifti á barnaverndarøkinum. økini eru skipað í størri eindir, og fakligu krøvini hjá starvsfólkum eru økt. Við broytingunum í 2012 er fráboðanarskyldan bæði hjá myndugleikum og borgarum herd.</p>
 <p>Heildarætlanin um harðskap er víðkað til eisini at fevna um kynsligan ágang, og uppskot um átøk verða nú gjørd. ræðandi avleiðingarnar av seinárini hjá fólki, ið hava verið fyri kynsligum ágangi, vísa, at stórur tørvur er at hjálpa hesum fólkum. Tí vil landsstýrið arbeiða fyri.</p>
-<p>Barnahús læt upp í fjør. Húsið er karmur um samstarv millum barnaverndartænastur, løgreglu og heilsumyndugleikar í málum um kynsligan ága</p>
+<p>Barnahús læt upp í fjør. Húsið er karmur um samstarv millum barnaverndartænastur, løgreglu og heilsumyndugleikar í málum um kynsligan ágang og harðskap. Her fáa børnini hjálp og viðgerð á sama stað.</p>
 <p>Tað er avgerandi fyri vælferðina í samfelagnum, at øll hava møguleikan at búgva trygt og væl, ikki minst, um tú hevur serligar avbjóðingar. Fleiri nýggj bútilboð eru og verða nú veruleiki.</p>
-<p>Í fjør læt bú- og virknistilboð til ung við menningartarni og autismu upp í Havn. samstundis verður  arbeitt við at menna tilboð til ung sálarsjúk, og í summar kunnu fólk flyta inn í 16 nýggjar íbúðir.</p>
-<p>nýggja heimið í Eysturoynni fyri heimabúgvandi fjølbrekað, reiðrið, letur upp í august.</p>
-<p>Í runavík og Klaksvík verða 24 vardar íbúðir bygdar til fólk við menningartarni. Harumframt byggja Bústaðir, Klaksvíkar kommuna og almannamálaráðið átta íbúðir til fólk við serligum avbjóðingum.</p>
-<p>løgtingið hevur í vár samtykt at byggja eitt virknis- og umlættingarheim fyri børn við serligum avbjóðingum á sandoy, sum eftir ætlan er klárt at taka í nýtslu í 2016.</p>
+<p>Í fjør læt bú- og virknistilboð til ung við menningartarni og autismu upp í Havn. samstundis verður arbeitt við at menna tilboð til ung sálarsjúk, og í summar kunnu fólk flyta inn í 16 nýggjar íbúðir. nýggja heimið í Eysturoynni fyri heimabúgvandi fjølbrekað, reiðrið, letur upp í august.</p>
+<p>Í runavík og Klaksvík verða 24 vardar íbúðir bygdar til fólk við menningartarni. Harumframt byggja Bústaðir, Klaksvíkar kommuna og almannamálaráðið átta íbúðir til fólk við serligum avbjóðingum. <em type="bold">l ø g m a nssk r i vs tova n </em>10 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>løgtingið hevur í vár samtykt at byggja eitt virknis- og umlættingarheim fyri børn við serligum avbjóðingum á sandoy, sum eftir ætlan er klárt at taka í nýtslu í 2016. </p>
 <p>Í apríl læt upp Fountainhús við stuðli frá landsstýrinum. Fountainhúsið er ætlað at geva arbeiðs-tilboð til fólk, sum eru sálarsjúk ella hava sálarligar avbjóðingar. Húsið skal skapa møguleikar hjá teimum at virka á jøvnum føti við aðrar borgarar, og at fleiri sálarsjúk fáa gerandisdag og tilveru við innihaldi.</p>
 <p>Bíðirøðin til greiningar og viðgerð í barnapsykiatriini er minkað úr 161 niður í 40 børn eftir tveimum árum. Bíðitíðin er nú í mesta lagi góðar fýra mánaðir.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>stættamunirnir her heima eru millum teir minstu í heiminum. men hóast bólkurin í fátækraváða er  lutfalsliga minni enn í at kalla øllum londum, vit samanbera okkum við, mugu vit ásanna, at tað tíverri eru fleiri, sum detta niður ímillum. Hetta skulu vit gera nakað við!</p>
+<p><em type="bold">Harra formaður </em>stættamunirnir her heima eru millum teir minstu í heiminum. men hóast bólkurin í fátækraváða er lutfalsliga minni enn í at kalla øllum londum, vit samanbera okkum við, mugu vit ásanna, at tað tíverri eru fleiri, sum detta niður ímillum. Hetta skulu vit gera nakað við! </p>
 <p>Í vár fekk landsstýrið álit um at seta fátækramark. mælt verður til at meta tey, ið hava minni enn 60 prosent av miðinntøkuni í landinum, at vera í serligum fátækraváða.</p>
 <p>Tað eru fyrst og fremst stakir uppihaldarar og børn teirra, sum eru í fátækraváða. Tað vísir seg eisini, at nøkur, hóast tey eru á arbeiðsmarknaðinum, falla undir fátækramarkið.</p>
 <p>Tá ið ræður um børn, kann sjálvt stutttíðarfátækradømi fáa álvarsligar fylgjur seinni í lívinum. Tí er umráðandi, at so fá børn sum gjørligt eru undir markinum.</p>
@@ -122,492 +95,321 @@
 <p>Vit vita, at fólk í fátækraváða ofta eru á leigumarknaðinum. Kannað verður tí, hvussu eitt møguligt bústaðarískoyti kann verða veitt, uttan at tað hevur neiligt árin til dømis á kostnaðarstigið á leigumarknaðinum.</p>
 <p>Hugt verður eftir, um sosialar veitingar til stakar uppihaldarar eru, sum eiga at verða dagførdar.</p>
 <p>Vit eiga at gera okkurt munagott fyri fólk við lágum og miðal inntøkum. Og ein gongd leið er at veita lág- og miðalløntum, støkum uppihaldarum og pensjónistum skattalætta.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>Hendurnar á arbeiðsmarknaðinum eru burðardygdin í einari og hvørjari tjóð. málið hjá okkum má altíð vera at slóða fyri, at okkara borgarar kunnu hava eitt virkið lív og sum best kunnu forsyrgja sær sjálvum.</p>
-<p>lógarpakkin um arbeiðsfremjandi tiltøk hevur virkað í góð tvey ár. samanumtikið kann sigast, at skipanin hevur virkað væl, tí hon hevur amboð, ið stuðla undir rúmliga arbeiðsmarknaðin og fyribyrgir, at fólk verða verandi uttan fyri arbeiðsmarknaðin.</p>
+<p xml:lang="isl"><em type="bold">Harra formaður </em></p>
+<p>Hendurnar á arbeiðsmarknaðinum eru burðardygdin í einari og hvørjari tjóð. málið hjá okkum má altíð vera at slóða fyri, at okkara borgarar kunnu hava eitt virkið lív og sum best kunnu forsyrgja sær sjálvum. <em type="bold">l ø g m a nssk r i vs tova n </em>11 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>lógarpakkin um arbeiðsfremjandi tiltøk hevur virkað í góð tvey ár. samanumtikið kann sigast, at skipanin hevur virkað væl, tí hon hevur amboð, ið stuðla undir rúmliga arbeiðsmarknaðin og fyribyrgir, at fólk verða verandi uttan fyri arbeiðsmarknaðin. </p>
 <p>Hjá teimum, sum fáa forsorgarhjálp vegna arbeiðsloysi, er skipanin við virknisvenjing við til at slóða fyri leiðini til arbeiði.</p>
-<p>Eisini hjá teimum við skerdum arbeiðsføri hevur skipanin við arbeiðsvenjing roynst væl. Við venjingini fáa tey roynt síni arbeiðsevni, hvat tey megna at átaka sær, og hvat ið krevst til at røkja eitt starv.</p>
-<p>nýggj lóg um eftirløn kom í gildi 1. januar í ár. Við lógini verður pensjónsøkið umskipað til í størri mun at vera grundað á uppsparing. Hetta var neyðugt átak hjá landsstýrinum fyri at tryggja,  at landskassin kann vera førur fyri at bera kostnaðin av vælferðini – eisini í framtíðini.</p>
-<p>løgtingið samtykti í farnu tingsetu trý lógaruppskot, sum eru grundarlagið undir at leggja eldraøkið til kommunurnar at umsita 1. januar 2015.</p>
-<p>Verandi ábyrgdarbýti millum land og kommunur á eldraøkinum er ikki skynsamt, tí vald og gjald fylgjast ikki. royndirnar við at lata kommunum dagstovnaøkið vísa, at tænastan verður betri, tá ið avgerðarheimildin kemur tættari at borgaranum. somuleiðis hava vit fyri fyrstu ferð fingið eina eldralóg, sum staðfestir rættindi og tryggjar okkara eldru neyðuga røkt og umsorgan.</p>
-<p>arbeiðið at skipa útleggingina hevur sum heild gingið væl, og eg haldi, at kommunurnar hava uppiborið rós fyri gott arbeiði.</p>
+<p>Eisini hjá teimum við skerdum arbeiðsføri hevur skipanin við arbeiðsvenjing roynst væl. Við venjingini fáa tey roynt síni arbeiðsevni, hvat tey megna at átaka sær, og hvat ið krevst til at røkja eitt starv. nýggj lóg um eftirløn kom í gildi 1. januar í ár. Við lógini verður pensjónsøkið umskipað til í størri mun at vera grundað á uppsparing. Hetta var neyðugt átak hjá landsstýrinum fyri at tryggja, at landskassin kann vera førur fyri at bera kostnaðin av vælferðini – eisini í framtíðini. løgtingið samtykti í farnu tingsetu trý lógaruppskot, sum eru grundarlagið undir at leggja eldraøkið til kommunurnar at umsita 1. januar 2015.</p>
+<p>Verandi ábyrgdarbýti millum land og kommunur á eldraøkinum er ikki skynsamt, tí vald og gjald fylgjast ikki. royndirnar við at lata kommunum dagstovnaøkið vísa, at tænastan verður betri, tá ið avgerðarheimildin kemur tættari at borgaranum. somuleiðis hava vit fyri fyrstu ferð fingið eina eldralóg, sum staðfestir rættindi og tryggjar okkara eldru neyðuga røkt og umsorgan. arbeiðið at skipa útleggingina hevur sum heild gingið væl, og eg haldi, at kommunurnar hava uppiborið rós fyri gott arbeiði.</p>
 <p>Foreldur at børnum við serligum avbjóðingum sanna mangan, at tænasta frá myndugleikum er ikki nóg væl samskipað. almannamálaráðið, Heilsumálaráðið og mentamálaráðið hava tí saman við umboðum fyri avvarðandi skipað verkætlanina <span type="quote">“Tann góða tilgongdin.”</span> Endamálið er at finna ein ítøkiligan leist at samskipa tilboðini eftir og veita eina samanhangandi heildartænastu, so familjurnar kenna tað sum, at ein og sama hurð er inn til allar tænasturnar.</p>
-<p>Í fyrstu atløgu verður arbeiðið grundað á royndir hjá familjum, ið hava børn, við sjúkueyðkenninum  autismu. Ætlanin er, at leisturin skal kunna verða nýttur til onnur sjúkueyðkenni eisini.</p>
-<p>menningin í heilsuverkinum hevur verið stór seinnu árini, ikki minst okkara dugnaligu starvsfólkum fyri at takka. men heilsuverkið er eisini fyri stórum avbjóðingum. støðugt fleiri fólk fáa nýggjar og fleiri viðgerðir.</p>
+<p>Í fyrstu atløgu verður arbeiðið grundað á royndir hjá familjum, ið hava børn, við sjúkueyðkenninum autismu. Ætlanin er, at leisturin skal kunna verða nýttur til onnur sjúkueyðkenni eisini. menningin í heilsuverkinum hevur verið stór seinnu árini, ikki minst okkara dugnaligu starvsfólkum fyri at takka. men heilsuverkið er eisini fyri stórum avbjóðingum. støðugt fleiri fólk fáa nýggjar og fleiri viðgerðir.</p>
 <p>Eg fegnist um, at vit í dag kunnu viðgera nógv fleiri sjúkur enn áður.</p>
-<p>Tað hevði tó verið uppaftur betri, um vit í størri mun kundu fyribyrgt, at fólk gerast sjúk, og veitt teimum ta røttu viðgerðina í rættari tíð. Júst tað er aðalmálið við heilsunýskipanini, sum landsstýrið er farið undir.</p>
+<p>Tað hevði tó verið uppaftur betri, um vit í størri mun kundu fyribyrgt, at fólk gerast sjúk, og veitt teimum ta røttu viðgerðina í rættari tíð. Júst tað er aðalmálið við heilsunýskipanini, sum landsstýrið er farið undir. <em type="bold">l ø g m a nssk r i vs tova n </em>12 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p>Vit vilja útbyggja heilsutænasturnar úti um landið og styrkja serlæknaviðgerðirnar á sjúkrahúsunum.</p>
 <p>Bulurin í heilsunýskipanini er, at landið verður skipað í øki við heilsudeplum.</p>
-<p>Á deplunum verða kommunulæknar saman við heilsustarvsfólkum við ymiskum viðkomandi útbúgvingum.</p>
-<p>sum frá líður er ætlanin, at tær kanningar og viðgerðir, sum kunnu fara fram uttan fyri sjúkrahúsini, fara fram á heilsudeplunum.</p>
+<p>Á deplunum verða kommunulæknar saman við heilsustarvsfólkum við ymiskum viðkomandi útbúgvingum. sum frá líður er ætlanin, at tær kanningar og viðgerðir, sum kunnu fara fram uttan fyri sjúkrahúsini, fara fram á heilsudeplunum.</p>
 <p>Á deplunum fer dentur at verða lagdur á at veita heilsufremjandi tilboð, kanningar og ráðgeving til borgarar. Ætlanin er, at stórur partur av heilsuveitingunum til tey eldru og til teirra, sum hava varandi sjúku, so við og við skal kunna fara fram í heilsudeplunum.</p>
-<p>Tann fyrsti depilin er skipaður í runavík. Við hesum er skálafjørðurin savnaður í eitt og sama heilsuøki. nú verður arbeitt við at skipa heilsudeplar í Vágum, suðuroy og sandoy. Ætlanin er at koma á mál í  hesum samgonguskeiðinum.</p>
+<p>Tann fyrsti depilin er skipaður í runavík. Við hesum er skálafjørðurin savnaður í eitt og sama heilsuøki. nú verður arbeitt við at skipa heilsudeplar í Vágum, suðuroy og sandoy. Ætlanin er at koma á mál í hesum samgonguskeiðinum.</p>
 <p>Í heyst verður ætlan gjørd fyri, hvørji serlæknaøki skulu verða á hvørjum einstøkum av okkara trimum sjúkrahúsum fyri at sleppa undan óneyðugum dupultfunktiónum. Vit eiga at skapa møguleikar fyri at menna enn fleiri viðgerðartilboð í Føroyum, sum vit ikki hava nú.</p>
 <p>Ein trupulleiki er, at fólk eftir væleydnaða viðgerð á sjúkrahúsi ikki fáa neyðugu hjálpina, tá ið tey verða útskrivað. Fyri alt ov mong er avleiðingin, at tey koma aftur á sjúkrahús.</p>
 <p>Í heyst verður lóg um endurvenjing løgd fyri løgtingið. lógin skal tryggja neyðugu endurvenjingina, tá ið fólk eru heimkomin frá sjúkrahúsi aftan á viðgerð.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>arbeitt verður við at broyta verandi skúlabygnað, so at næmingarnir skulu fáa bestu skúlagongdina innan givnar fíggjarkarmar.</p>
+<p><em type="bold">Harra formaður </em>arbeitt verður við at broyta verandi skúlabygnað, so at næmingarnir skulu fáa bestu skúlagongdina innan givnar fíggjarkarmar. </p>
 <p>Ein loysn, sum eisini er lýst í áliti til landsstýrið, er at skipa landið í skúlaøki, har tað í størri mun verður upp til økini sjálv at skipa sína undirvísing eftir neyvari ásettum reglum.</p>
 <p>Fleiri kommunur eru longu farnar undir at gera bygnaðarligar broytingar í fólkaskúlanum, sum samsvara við málið hjá landsstýrinum.</p>
-<p>Ætlanin er at fáa breiða politiska semju um framtíðar skúlabygnaðin í hesi tingsetuni.</p>
-<p>arbeitt verður við at skipa sernámsfrøðiliga økið, so fólkaskúlin gerst uppaftur rúmligari og meira inkluderandi, so skúlin veruliga kann bjóða øllum mennandi og avbjóðandi tilboð, eisini teimum við serligum tørvi.</p>
-<p>Eisini er farið undir eina tilgongd, har málið er at tryggja øllum ungum í landinum møguleikan at fáa eitt miðnámsskúlatilboð sama hvørjar førleikar, tey hava. serflokkur innan autismuøkið er byrjaður í Hoydølum, umframt at alsamt fleiri næmingar við serligum tørvi fáa stuðul til at klára seg ígjøgnum miðnám.</p>
-<p>lógarbroytingin fyri miðnámsútbúgvingarnar gevur møguleika til at geva ungum við serligum tørvi serstøk tilboð. Ætlanin er at gera somu lógarbroytingar á yrkisútbúgvingarøkinum. samstundis verður fyrireikandi arbeiði gjørt við heildartilboðum, sum fata um serliga skipað skúla-, bústaðar- og frítíðartilboð.</p>
+<p>Ætlanin er at fáa breiða politiska semju um framtíðar skúlabygnaðin í hesi tingsetuni. <em type="bold">l ø g m a nssk r i vs tova n </em>13 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>arbeitt verður við at skipa sernámsfrøðiliga økið, so fólkaskúlin gerst uppaftur rúmligari og meira inkluderandi, so skúlin veruliga kann bjóða øllum mennandi og avbjóðandi tilboð, eisini teimum við serligum tørvi. </p>
+<p>Eisini er farið undir eina tilgongd, har málið er at tryggja øllum ungum í landinum møguleikan at fáa eitt miðnámsskúlatilboð sama hvørjar førleikar, tey hava. serflokkur innan autismuøkið er byrjaður í Hoydølum, umframt at alsamt fleiri næmingar við serligum tørvi fáa stuðul til at klára seg ígjøgnum miðnám. lógarbroytingin fyri miðnámsútbúgvingarnar gevur møguleika til at geva ungum við serligum tørvi serstøk tilboð. Ætlanin er at gera somu lógarbroytingar á yrkisútbúgvingarøkinum. samstundis verður fyrireikandi arbeiði gjørt við heildartilboðum, sum fata um serliga skipað skúla-, bústaðar- og frítíðartilboð.</p>
 <p>Fyrstu næmingarnir byrja eftir nýggju skipanini á sumri í 2015. málið er at geva øllum ungum við serligum tørvi tilboð um miðnámsskúla.</p>
 <p>Í mai 2014 samtykti løgtingið lógina um førleikameting. Eftir summarfrítíðina verður starvsfólk sett at seta skipanina í verk. Endamálið er at veita fólki, 25 ár og eldri, møguleika at førleikameta seg í sambandi við útbúgving ella arbeiði. Førleikametingin hevur atlit at samlaðu førleikunum hjá tí einstaka, sum eru viðkomandi fyri endamálið.</p>
 <p xml:lang="isl"><em type="bold">Harra formaður </em></p>
-<p>Eitt fjølbroytt miðlalandslag er týdningarmikið fyri at tryggja eitt vælvirkandi fólkaræði.</p>
-<p>arbeitt verður við broytingum í lógini um Kringvarp Føroya, sum geva bæði Kringvarpinum og privatu miðlinum betri karmar. Eitt nú er ætlanin at gera Kringvarpið leyst av lýsingarinntøkum fyri at tryggja óheftni og javnari kapping.</p>
-<p>at varðveita okkara felags mentanararv er at skapa gróðrarlíkindi fyri nýggjum samanheingi – mentanarliga, búskaparliga og sosialt.</p>
-<p>arbeitt verður við at menna karmarnar um okkara mentan og list.</p>
-<p>Í ár eru tvær aðrar týðandi varðveitingarverkætlanir farnar av bakkastokki. landsbókasavnið er farið undir at talgilda føroysku bløðini, og Kringvarpið talgildar nú sítt bandasavn fyri at varðveita henda mentanararv og gera hann atkomuligan hjá almenninginum.</p>
-<p>arbeitt verður við at gera broytingar í lógini um mentanargrunn landsins. Ætlanin er, at grunnurin fær ein virknari leiklut á mentanarpallinum.</p>
-<p>løgtingið hevur samtykt at gera eina heildarætlan fyri kreativar vinnur. Hetta verður gjørt í samráð við mentanar- og vinnulívið. Partur av kreativu vinnunum er filmur, og ein serstøk játtan er sett av til film á fíggjarlógini. Tað er gleðiligt at síggja, at filmsumhvørvið í Føroyum mennist í hvørjum.</p>
-<p>Yvirhøvur eru nógvar verkætlanir og tiltøk á lista- og mentanarøkinum, sum eru við til at fjálga um  gerandisdagin. Tað fær okkum at hugsa nýtt og menna okkum sum tjóð.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>at gagnnýta tilfeingið í náttúruni á burðardyggan hátt er ikki bara ein rættur, men eisini okkara skylda. Tí halda vit fast við okkara rætt at drepa grind.</p>
-<p>Í hesum døgum koma fólk til landið at mótmæla grindadrápi.</p>
-<p>mong munnu kenna tað ørkymlandi og hugstoytt, at fólk koma higar at steðga nøkrum, sum altíð hevur verið partur av okkara tilveru.</p>
-<p>men at gera vart við síni sjónarmið og mótmæla er lógarfestur rættur – eisini hjá teimum, sum koma uttaneftir. Tí mugu vit ikki leypa framav, men lata løgregluna taka neyðug stig, verður farið út um lógarmark.</p>
+<p>Eitt fjølbroytt miðlalandslag er týdningarmikið fyri at tryggja eitt vælvirkandi fólkaræði. arbeitt verður við broytingum í lógini um Kringvarp Føroya, sum geva bæði Kringvarpinum og privatu miðlinum betri karmar. Eitt nú er ætlanin at gera Kringvarpið leyst av lýsingarinntøkum fyri at tryggja óheftni og javnari kapping.at varðveita okkara felags mentanararv er at skapa gróðrarlíkindi fyri nýggjum samanheingi – mentanarliga, búskaparliga og sosialt.arbeitt verður við at menna karmarnar um okkara mentan og list.</p>
+<p>Í ár eru tvær aðrar týðandi varðveitingarverkætlanir farnar av bakkastokki. landsbókasavnið er farið undir at talgilda føroysku bløðini, og Kringvarpið talgildar nú sítt bandasavn fyri at varðveita henda mentanararv og gera hann atkomuligan hjá almenninginum.arbeitt verður við at gera broytingar í lógini um mentanargrunn landsins. Ætlanin er, at grunnurin fær ein virknari leiklut á mentanarpallinum. <em type="bold">l ø g m a nssk r i vs tova n </em>14 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>løgtingið hevur samtykt at gera eina heildarætlan fyri kreativar vinnur. Hetta verður gjørt í samráð við mentanar- og vinnulívið. Partur av kreativu vinnunum er filmur, og ein serstøk játtan er sett av til film á fíggjarlógini. Tað er gleðiligt at síggja, at filmsumhvørvið í Føroyum mennist í hvørjum. </p>
+<p>Yvirhøvur eru nógvar verkætlanir og tiltøk á lista- og mentanarøkinum, sum eru við til at fjálga um gerandisdagin. Tað fær okkum at hugsa nýtt og menna okkum sum tjóð.</p>
+<p><em type="bold">Harra formaður </em>at gagnnýta tilfeingið í náttúruni á burðardyggan hátt er ikki bara ein rættur, men eisini okkara skylda. Tí halda vit fast við okkara rætt at drepa grind. </p>
+<p>Í hesum døgum koma fólk til landið at mótmæla grindadrápi. mong munnu kenna tað ørkymlandi og hugstoytt, at fólk koma higar at steðga nøkrum, sum altíð hevur verið partur av okkara tilveru.men at gera vart við síni sjónarmið og mótmæla er lógarfestur rættur – eisini hjá teimum, sum koma uttaneftir. Tí mugu vit ikki leypa framav, men lata løgregluna taka neyðug stig, verður farið út um lógarmark.</p>
 <p>Í einum fólkaræði mugu vit góðtaka, at fólk eru ósamd og liva við, at tað er ikki alt, sum okkum hóvar eins væl. Tolsemi er ein grundleggjandi kostur og treyt fyri fólkaræði.</p>
 <p>Vilja vit vera harðrend og tamba rættartrygdina, so ganga vit ørindi fyri tey, sum vilja siga heiminum, at føroyingar eru eitt ósiðað fólk.</p>
-<p>Fara vit at óttast, at fólk mótmæla, so óttast vit fólkaræðið í sjálvum sær.</p>
-<p xml:lang="vep">***</p>
+<p>Fara vit at óttast, at fólk mótmæla, so óttast vit fólkaræðið í sjálvum sær. ***</p>
 <p>Í politikki eru mangir tættir. Politikkur er eitt spenningsøki, har hugsanir verða bornar fram, og meiningar bresta saman. Politikkur er ein vígvøllur, har tey, sum eru við, tíðum standa fyri skotum.</p>
-<p>Tað er einki nýtt í, at politikarar vilja seta spjaldur á hvønn annan, og ein og hvør politikari hevur sína egnu dagsskrá fyri at fáa vald og ávirkan.</p>
-<p>sum ein av fedrunum at teirri amerikonsku grundlógini, James madison, segði: <span type="quote" xml:lang="eng">“If man were angels, no government would be necessary”</span> seinastu tíðina hevur politiska skipanin verið merkt av rumbli av málum, sum fyrst og fremst snúgva seg um at tulka tilburðargongdir og at viga persónar.</p>
+<p>Tað er einki nýtt í, at politikarar vilja seta spjaldur á hvønn annan, og ein og hvør politikari hevur sína egnu dagsskrá fyri at fáa vald og ávirkan.sum ein av fedrunum at teirri amerikonsku grundlógini, James madison, segði: <span type="quote" xml:lang="eng">“If man were angels, no government would be necessary”</span> <em type="bold">l ø g m a nssk r i vs tova n </em>15 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>seinastu tíðina hevur politiska skipanin verið merkt av rumbli av málum, sum fyrst og fremst snúgva seg um at tulka tilburðargongdir og at viga persónar. </p>
 <p>Onkuntíð er tí neyðugt at nýta tær skipanir, sum eru í okkara stýrisskipan at kanna og staðfesta, um nakað skeivt er farið fram.</p>
-<p xml:lang="isl"><em type="bold">Harra formaður</em> </p>
-<p>seinastu árini hava verið trupul og krevjandi hjá okkum øllum, bæði borgarum og vinnulívi. Og tað setur krøv til ta politisku skipanina.</p>
-<p>Truplar tíðir krevja truplar avgerðir. Tað sigur seg sjálvt, at fólk ivast og í summum førum vísa sína ónøgd. Tað ber jú bara boð um eitt virkið og sunt fólkaræði. Tá ið harðast leikar á, er ofta torført at skyna á  nyttuni í avgerðunum, og tíðin má sleppa at ganga, skulu úrslitini síggjast.</p>
+<p><em type="bold">Harra formaður </em>seinastu árini hava verið trupul og krevjandi hjá okkum øllum, bæði borgarum og vinnulívi. Og tað setur krøv til ta politisku skipanina. </p>
+<p>Truplar tíðir krevja truplar avgerðir. Tað sigur seg sjálvt, at fólk ivast og í summum førum vísa sína ónøgd. Tað ber jú bara boð um eitt virkið og sunt fólkaræði. Tá ið harðast leikar á, er ofta torført at skyna á nyttuni í avgerðunum, og tíðin má sleppa at ganga, skulu úrslitini síggjast.</p>
 <p>Tølini tala. Vit hava tikið hond um tær stóru avbjóðingarnar.</p>
 <p>Búskapurin er í vøkstri.</p>
 <p xml:lang="isl">Vælferðin er varðveitt.</p>
 <p>Fólkatalið veksur.</p>
 <p>Tá eg í 2008 tók við sum løgmaður, ruku djúp lágtrýst inn yvir okkara land. Tey høvdu nógvan vind og nógv avfall við sær. men saman við góðum og konstruktivum kreftum eydnaðist tað okkum at koma væl gjøgnum illveðrið.</p>
 <p>Eg vil nýta høvi at takka okkara landsmonnum fyri tey tøk, sum eru tikin.</p>
-<p>Tað er ein heiður og ein framíhjárættur saman við góðum og evnaríkum fólki at hava leitt okkara land ígjøgnum búskaparkreppuna.</p>
-<p>lágtrýstið er farið framvið. Eitt hátrýst við sól og lýggjum vindi sær út til at hava lagt seg stilt yvir okkara vøkru oyggjar.</p>
-<p>Vit fara tí við góðum treysti undir eitt nýtt tingár – at taka tey tøk, ið skulu føra okkara tjóð longur fram á leið.</p>
-<p>góða ólavsøku og gud signi Føroyar!</p>
-<p>løglIsTI</p>
-<p xml:lang="rmy-rka"><em type="bold">Løgmansskrivstovan</em> </p>
-<p><em type="bold">Uppskot til samtyktar um at góðkenna sáttmála við Es um føroyskan atlimaskap í Horizon 2020 granskingarsamstarvinum</em> </p>
-<p>Talan er um nýggjan sáttmála millum Føroya og Es um granskingarsamstarv, ið verður í gildi frá 2014 til og við 2020, og sum gevur Føroyum atlimaskap í Es skipanini fyri gransking og nýskapan (Horizon 2020).</p>
-<p><em type="bold">Uppskot til samtyktar um at góðkenna broytingar í naFo-sáttmálanum</em> </p>
-<p>Endamálið við uppskotinum til samtyktar er at góðkenna broytingarnar í sáttmálanum, sum naFO</p>
-<p type="listitem">– limalondini, harímillum Føroyar og grønland, hava samtykt. naFO (north West atlantic Fisheries</p>
-<p>Organization) er millumtjóða felagsskapur fyri samstarv um fiskiskap í útnyrðingspartinum av atlantshavinum.</p>
-<p><em type="bold">Frágreiðing um uttanríkispolitisk mál</em> </p>
-<p>Frágreiðingin verður ein breið og yvirskipað lýsing av viðurskiftunum hjá Føroyum mótvegis  útheiminum, og nøkrum av teimum avbjóðingum, ið Føroyar skulu fara undir á hesum øki.</p>
-<p><em type="bold">FíggjarmáLaráðið</em> </p>
-<p><em type="bold">Uppskot til løgtingsfíggjarlóg fyri fíggjarárið 2015 </em></p>
-<p>Fyri 1. oktober 2014 leggur landsstýrismaðurin í fíggjarmálum uppskot fyri løgtingið um  løgtingsfíggjarlóg fyri 2015.</p>
-<p><em type="bold">Uppskot til samtyktar um játtanarkarmar á løgtingsfíggjarlógini fyri 2016</em> </p>
-<p>Fyri 1. apríl 2015 leggur landsstýrismaðurin í fíggjarmálum fram uppskot til løgtingssamtykt,  sum fevnir um ein samlaðan játtanarkarm fyri fíggjarlógina 2016, býtt á greinar.</p>
-<p><em type="bold">Uppskot til løgtingslóg um eftirløn</em> </p>
-<p>Talan er um smærri fyrisitingarligar dagføringar</p>
-<p xml:lang="nno"><em type="bold">Uppskot til løgtingslóg um skatt av rentutrygging v.m.</em> </p>
-<p>Talan er um smávegis fyrisitingarligar dagføringar</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um landsskatt og kommunuskatt</em> </p>
-<p>Ætlanin er at gera ávísar broytingar viðvíkjandi upplýsingarskylduni hjá peningastovnum.  Hetta er avleiðing av sonevndari FaTCa-avtalu við Usa.</p>
-<p><em type="bold">Uppskot til fíggjarleist í sambandi við at flyta eldraøkið til kommunur</em> </p>
-<p>Í sambandi við at eldraøkið verður flutt til kommurnar at umsita frá 1. januar 2014, verður neyðugt  at broyta nakrar skatta-og avgjaldslógir.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um skattafría samanlegging o.a.</em> </p>
-<p>Verandi lóggáva um skattafría samanlegging av feløgum verður víðkað til eisini at fevna um skattafría kloyving av feløgum og skattafrítt partabrævaumbýti. Uppskotið ger ikki ávísar inntøkur skattafríar, men ásetir reglur fyri, nær tær verða skattaðar. lógarbroytingin ger tað lættari at umskipa vinnuvirki t.d. í sambandi við ættarliðsskifti.</p>
-<p><em type="bold">Uppskot til ríkislógartilmæli um lóg um fíggjarligt virksemi</em> </p>
-<p>lógin um <span type="quote" xml:lang="dan">“Finansiel virksomhed”</span> verður dagførd. Tað verður gjørt við 9 ymiskum broytingar- uppskotum, sum verða viðgjørd undir einum. Broytingaruppskotini tryggja, at lógin verður dagførd fram til ultimo 2013. sIFI-lóggávan verður sostatt ikki sett í gildi  í komandi tingsetu.</p>
-<p><em type="bold">Uppskot til ríkislógartilmæli um lóg um virðisbrævahandil o.a.</em> </p>
-<p>lógin um virðisbrævahandil verður dagførd. Tað verður gjørt við 8 ymiskum broytingaruppskotum, sum verða viðgjørd undir einum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um bindandi <span type="quote" xml:lang="dan">“forhondsboð”</span> í skattamálum</em> </p>
-<p>lógin skal gera tað møguligt hjá borgarum og fyritøkum móti einum ávísum gjaldi at seta  skattamyndugleikunum spurningar og fáa bindandi svar upp á teir.</p>
-<p><em type="bold">Uppskot til løgtingslóg um protokol til norðurlendsku dupultskattaavtaluna</em> </p>
-<p>sum verandi protokol, ið er galdandi millum Føroyar og Danmark, er orðað, kann í serligum førum verða talan um dupulta skatting, eftir at skift er til at skatta eftirløn við inngjald. Broytingin skal  taka hesa dupultskatting av.</p>
-<p xml:lang="isl"><em type="bold">aLmannamáLaráðið</em> </p>
-<p><em type="bold">Uppskot til løgtingslóg um valdsnýtslu </em></p>
-<p>lóg um valdsnýtslu snýr seg um at áseta reglur og treytir fyri valdsnýtslu í mun til borgarar, ið  hava tilboð innan almannaverkið og búgva á stovnum ella heima hjá sær sjálvum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í lóg um almenna forsorg  </em></p>
-<p>(talan verður um fleiri broytingaruppskot í somu lóggávu) lógaruppskotini eru ein liður í framhaldandi arbeiðnum at endurskoða og dagføra forsorgarlógina. m.a. um vardan bústað og virknistænastu, fíggjarligan stuðul, mótrokning og tillagingar í sambandi við at løgtingslóg um arbeiðsfremjandi tiltøk verður endurskoðað. Harumframt er ætlanin at áseta greiðar reglur fyri eftirlit innan stovnsøkið umframt fylgibroytingar í sambandi við, at eldraøkið verður lagt út. Uppskotini verða løgd fyri løgtingið í fleiri umførum í hesi tingsetu.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um almannapensjón  </em></p>
-<p>(talan verður um tvey broyt-ingaruppskot í somu lóggávu) Uppskotið snýr seg um at dagføra reglurnar um pensjónsumsiting, pensjónsrættindi hjá útlendingum,</p>
-<p>reglur um, nær og hvussu pensjón kann verða tikin út av landinum umframt møguligar broytingar í sambandi við at flyta fyritíðarpensjón millum Føroyar og Danmark. Uppskotini verða løgd fyri løgtingið í tveimum umførum í hesi tingsetu.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um viðbót til ávísar pensjónistar</em> </p>
-<p>Dagføra lóggávuna m.a. vegna vantandi reglur fyri umrokning og eftirrokning og afturgjald, umframt dagføringar í sambandi við KT-heildarskipanina.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um arbeiðsfremjandi tiltøk</em> </p>
-<p>Í sambandi við lógarásettu frágreiðingina, ið skal verða handað í ár, um, hvørt lógin virkar sbrt. endamálinum, verða tilmæltar lógarbroytingar gjørdar.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um val til løgtingið</em> </p>
-<p>Endamálið við lógaruppskotinum er at áseta nýtt minstamark fyri veljaraskaran á einum valstaði. Harumframt skal lógin verða dagførd málsliga og tekniskt.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um val til allar føroyskar kommunur</em> </p>
-<p>Endamálið við lógaruppskotinum er at áseta nýtt minstamark fyri veljaraskaran á einum valstaði. Harumframt skal lógin dagførast málsliga og tekniskt.</p>
-<p><em type="bold">Uppskot til løgtingslóg um vardar bústaðir í tórshavn</em> </p>
-<p>stórur tørvur er framvegis á at útvega fólki við ymsum avbjóðingum vardar bústaðir. landsstýris- kvinnan hevur tí raðfest at byggja vardan bústað í Tórshavn til fólk við menningartarni. Bygginevnd verður sett eftir summarsteðgin 2014, og verður ein byggiskrá handað landsstýriskvinnuni í heyst.</p>
-<p xml:lang="isl"><em type="bold">HEiLsUmáLaráðið</em> </p>
-<p xml:lang="isl"><em type="bold">Uppskot til løgtingslóg um forboð at selja solarium til persónar, yngri enn 18 ár</em> </p>
-<p>Tað er vísindaliga staðfest, at greitt samband er millum sannlíki at fáa húðkrabbamein, og hvussu  nógv húðin hevur verið fyri ultraviolettum ljósi. av somu orsøk mælir Krabbameinsætlanin 2009 til, at solarium verður bannað ungum undir 18 ár. nýggj lóg verður orðað við tí endamáli at fyribyrgja krabbamein, sum stendst av at nýta solarium. Við lógini verður bannað at selja solarium til persónar, yngri enn 18 ár; ásetingar verða um krøv til teirra, sum selja solarium, og ásett verður revsing í  sambandi við brot á lógina.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um almenna heilsutrygd</em> </p>
-<p>Tørvur er á at broyta ásetingarnar viðvíkjandi atgongd til serlæknar soleiðis, at neyðug heimild fæst til at áseta treytir o.a. í sambandi við tað serlæknavirksemið, sum Heilsutrygd rindar fyri.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um tiltøk at minka um royking </em></p>
-<p>royking er ein tann størsti vandatátturin fyri fólkaheilsuna. mett verður, at árliga doyggja eini 80 føroyin</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um apoteksverkið og heilivág</em> </p>
-<p>Tørvur er á at dagføra lóggávuna á økinum soleiðis, at tannrøktarar fáa somu møguleikar at biðja um heilivág eftir ávísing, sum ljósmøður og heimasjúkrarøktarfrøðingar hava. Tannrøktarar brúka í arbeiði sínum evni og heilivág, sum eru útflýggjað eftir ávísing. apotekslógin gevur ikki, sum í okkara grannalondum, tannrøktarum heimild at biðja um evni ella heilivág, sum verða  útflýggjað eftir ávísing.. Tannrøktarar noyðast tí at fáa onnur, við slíkari heimild (t.d. ein tannlækna) at biðja um henda heilivág fyri seg.</p>
-<p><em type="bold">Uppskot til løgtingslóg um endurmenning</em> </p>
-<p>Tað hevur leingi verið víst á m.a. í heilsunýskipanini, at tørvur er á betri tilboðum til teirra, sum av sjúku ella skaða fáa tørv á endurmenning. Eitt, sum aftur og aftur verður víst á, er, at tvørrandi samband er ímillum serkønu endurmenningina inni á sjúkrahúsunum, sum verður veitt í sambandi við innleggingar, og endurmenning aftaná, at fólk eru útskrivað av sjúkrahúsi. Eisini hevur verið víst á, at sjúklingar, sum hava fingið serviðgerð og endurmenning uttanlands, ikki fáa nóg góð tilboð frá føroyska sjúkrahúsverkinum, tá ið innleggingin heldur fram í Føroyum. Í sambandi við aðalorðaskiftið í løgtinginum um Heilsunýskipan á heysti 2013 boðaði landsstýrismaðurin frá, at hann ynskti, at rættindi borgaranna til endurmenning vórðu ásett í løgtingslóg.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um sjúkrahúsverkið</em> </p>
-<p>Tørvur er á at dagføra sjúkrahúslógina, serliga í sambandi við, at tey trý sjúkrahúsini skulu akkrediterast í nærmastu framtíð. Tørvur er m.a. á at áseta krøv um góðskumenning og sjúklingatrygd. Harumframt er ætlanin at endurskoða ásetingarnar um, hvør hevur rætt til veitingar frá sjúkrahúsverkinum og at fáa neyðugu heimildina til vega til at áseta gjald til avvarðandi myndugleikar fyri liðugt viðgjørdar sjúklingar.</p>
-<p><em type="bold">Uppskot til ríkislógartilmæli um at seta í gildi fyri Føroyar <span type="quote" xml:lang="dan">“Lov om ændring af lov om klage- og erstatningsadgang inden for sundhedsvæsenet”</span></em> </p>
-<p>síðan lógin fekk gildi fyri Føroyar 1. januar 2012, eru broytingar framdar í trimum umførum í Danmark. millum annað eru fyrningarfreistirnar fyri at kæra og at boða frá skaða broyttar. Tørvur er á at fáa lógina dagførda í Føroyum eisini.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um Fólkaheilsuráð</em> </p>
-<p>sum fráboðað í heilsunýskipanini, ætlar landsstýrismaðurin at seta fokus á fyribyrging, millum annað við at skipa ein Fólkaheilsustovn. Hetta skal eftir ætlan gerast við at umskipa Deildina fyri arbeiðs- og almannaheilsu. Fólkaheilsustovnurin skal røkja skrivarauppgávuna fyri Fólkaheilsuráðið, sum verður umskipað og víðkað við umboðan frá sjúklingafeløgum, ítróttarfeløgum, áhugafeløgum og stovnum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um heilivágsútgerð</em> </p>
-<p>Tørvur er á at fáa ásetingar í føroyskari lóggávu um heilivágsútgerð, soleiðis at greiðar reglur eru um, hvør útgerð kann verða innflutt og nýtt í heilsuverkinum eisini í sambandi við gransking.</p>
-<p xml:lang="isl"><em type="bold">vinnUmáLaráðið</em> </p>
-<p xml:lang="dan"><em type="bold">Forslag til lov for Færøerne om opholdstilladelser til udlændinge beskæftiget på færøske fiskeskibe, der fisker i færøsk territorialfarvand</em> </p>
-<p>Endamálið við uppskotinum er at seta krav um, at allir útlendingar, tó ikki norðurlendingar,  sum eru við føroyskum fiskiførum, sum fiska í føroyskum sjóøki, skulu hava arbeiðs- og uppihaldsloyvi í Føroyum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um tryggingarvirksemi</em> </p>
-<p>Eftir uppskotinum verður lógin dagførd at samsvara við donsku lógina, lov om finansiel virksomhed.</p>
-<p><em type="bold">Uppskot til ríkislógartilmæli um dagføring av immaterialrættinum</em> </p>
-<p>Endamálið er at dagføra alla immateriallóggávuna, sum fevnir um lóg um vørumerki, lóg um sniðgávu, lóg um brúksmodell og lóg um patent soleiðis, at lóggávan, sum verður lagað til føroysk viðurskifti, er í samsvari við lóggávuna í grannalondum okkara.</p>
-<p><em type="bold">Uppskot til broyting í løgtingslóg um arbeiðsloysistrygging og arbeiðsávísing</em> </p>
-<p>als arbeiðir við at tillaga skipanina soleiðis, at fíggjarlig javnvág fæst við einum vanligum arbeiðsloysi. Henda tillaging fer at hava við sær, at neyðugt verður at broyta lógina um arbeiðsloysistrygging og arbeiðsávísing. Partar av hesum arbeiði er eisini at skapa betri umstøður hjá nýútbúnum við hægri útbúgving at fóta sær á arbeiðsmarknaðinum í samsvari við tilmælini í heildarætlan fyri fólkaflyting og fólkavøkstur.</p>
-<p><em type="bold">Uppskot til løgtingslóg um fjarskifti</em> </p>
-<p>Endamálið er at fáa nýggja dagførda lóggávu á økinum, sum er í samsvari við nýggjastu Es-reglur á økinum m.a. forða fyri at ávísir partar fáa ræði á marknaðinum og  nýggjar reglur um prísáseting.</p>
-<p><em type="bold">Uppskot til løgtingslóg um  broyting í løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirki</em> </p>
-<p>Endamálið er at broyta útbúgvingarskipanina soleiðis, at frameftir verður bara ein flokkur av góð- kendum grannskoðarum, og at fáa heimild til at áseta fleiri eftirútbúgvingarkrøv til grannskoðarar,  ið grannskoða fíggjarfyritøkur.</p>
-<p><em type="bold">Uppskot til løgtingslóg um ársroknskap </em></p>
-<p>Ætlanin er at seta verandi ársroknskaparlóg, sum hevur danskan lógartekst við nakað av føroyskum, úr gildi. Ásetingarnar í lógini verða settar í gildi aftur við nýggjari dagførdari føroyskari lóg. nýggja lógin fer sostatt at innihalda galdandi ásetingar í  ársroknskaparlógini við teimum broytingum, sum framdar eru í Danmark eftir 2008.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um partafeløg</em> </p>
-<p>Eftir uppskotinum verður lógin dagførd, so hon samsvarar við donsku vinnufelagslógina, m.a. reglur um íverksetarafyritøkur.</p>
-<p xml:lang="dan"><em type="bold">Uppskot til løgtingslóg um broyting í lov om erhvervsdrivende virksomheder</em> </p>
-<p>Endamálið er at gera fylgibroytingar til broytingarnar í vinnufelagslógini, ið m.a. hevur við sær, at frameftir kunnu fyritøkur við avmarkaðari ábyrgd ikki verða stovnaðar eftir lov om erhvervsdrivende virksomheder.</p>
-<p xml:lang="nno"><em type="bold">Uppskot til løgtingslóg um vinnurekandi grunnar</em> </p>
-<p>Endamálið er at fáa nýggja lóggávu fyri vinnurekandi grunnar, ið er í samsvari við vinnufelagslógina. m.a. fer hetta at hava við sær størri gjøgnumskygni viðvíkjandi virkseminum hjá vinnufrekandi grunnum og seta størri krøv til leiðsluna fyri vinnurekandi grunnar.</p>
-<p><em type="bold">Uppskot til løgtingslóg um bókhaldsskyldu</em> </p>
-<p>Endamálið er at fáa nútíðargjørda lóggávu á økinum. galdandi lóg er frá 1978 og er tí ikki tíðarhóskandi.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um trygd á sjónum</em> </p>
-<p>Endamálið er at áseta reglur um fyrisitingarliga bót.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um manning á skipum</em> </p>
-<p>Endamálið er at broyta reglurnar viðvíkjandi motorpassarum og at áseta reglur um fyrisitingarliga bót.</p>
-<p><em type="bold">Uppskot til ríkislógartilmæli um at seta í gildi fyri Føroyar søloven</em> </p>
-<p>Endamálið er at seta í gildi nýggja sjólóg fyri Føroyar, ið er í samsvari við lóggávuna á økinum í hinum norðurlondunum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um barsilsskipan</em> </p>
-<p>Endamálið er at skipa fíggjarviðurskiftini hjá barsilsskipanini øðrvísi evt. við at skipa ein grunn.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um ferðslu</em> </p>
-<p>Endamálið er at broyta ábyrgdargrundarlagið í ferðslulógini at samsvara við reglurnar í grannalondum okkara. Eisini er endamálið at broyta koyrilæraragóðkenning, tiltøk at bøta dygdina í koyrilærarayrkinum við m.ø. at eftirútbúgva koyrilærarar. Ymsar aðrar broytingar eru viðv. revsireglum, reglum um hvílitíð  og endaliga at broyta gjaldið fyri útgávu av koyrikortum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um arbeiðsskaða</em> </p>
-<p>Endamálið er m.a. at áseta neyvari reglur um, tá ið arbeiðsgevari ikki heldur skyldur sínar, at hann skal hava galdandi trygging (§ 21) sambært lógini. Útrokningargrundarlagið er ikki ásett í lógini, og reglurnar eru ikki harmoniseraðar við reglurnar í endurgjaldsábyrgdarlógini.</p>
-<p><em type="bold">Uppskot til ríkislógartilmæli um at seta í gildi broytingar í loftferðslulógini</em> </p>
-<p>Talan er um broytingar í uppgávum hjá skaðanevndini, lóg um skráseting av rættindum av flogfari (umskipa frymil fyri gjald fyri almenna útinnan og eftirlitsvirksemi, tilbúgvingarásetingar og at broyta navnið á skrásetingarmyndugleika).</p>
-<p xml:lang="isl"><em type="bold">mEntamáLaráðið</em> </p>
-<p><em type="bold">Uppskot til løgtingslóg um undirvísingardeplar</em> </p>
-<p xml:lang="isl">Um stjórn, rakstur, útbúgvingar og undirvísing í undirvísingardeplum</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í fólkaskúlalógini</em> </p>
-<p>Broytingar í fólkaskúlalógini:</p>
-<p type="listitem">• Tillagingar í bygnaðinum í fólkaskúlanum o.a. dagføringar.</p>
-<p type="listitem">• Tillagingar í ásetingum um sernámsfrøði og sernámsfrøðiligan stuðul.</p>
-<p><em type="bold">Uppskot til broytingar í FHs- lógini, sit- lógini og Yrkisútbúgvingarlógini </em></p>
-<p>Uppskot til broytingar í FHs- lógini, sIT- lógini og Yrkisútbúgvingarlógini, har endamálið er at gera tað møguligt at fara undir serliga skipað skúlatilboð til næmingar við sernámsfrøðiligum tørvi í yrkisskúlunum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um vernd av mentanararvi og náttúruarvi í sambandi við økisráðlegging og ognarumsiting</em> </p>
-<p>Verndarlóg, sum kemur í staðin fyri løgtingslóg um at friða fornminni og bygningar. nýggja lógin hevur eisini ásetingar um vernd av náttúruarvi.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um bókasavnsvirksemi</em> </p>
-<p>Endurskoðan av verandi bókasavnslóg. lógin verður broytt frá at vera ein lóg um Føroya landsbókasavn til at vera ein lóg um virksemi hjá landinum á bókasavnsøkinum umframt stuðulsskipanir á bókasavnsøkinum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um musealt virksemi</em> </p>
-<p>nýggj lóg um musealt virksemi, sum kemur í staðin fyri løgtingslóg um fornminnissavn, løgtingslóg um Føroya náttúrugripasavn og løgtingslóg um bygdasøvn við mentanarsøguligum týdningi. nýggja lógin er um virksemi hjá landinum á museala økinum, harundir listasøvn, mentanarsøgulig søvn og náttúrusøgulig søvn umframt stuðulskipanir á museala økinum.</p>
-<p><em type="bold">Uppskot til løgtingslóg um skjalasavnsvirksemi</em> </p>
-<p>Endurskoðan av skjalasavnslóggávuni</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um stuðul til musikkskúlar</em> </p>
-<p>Endurskoðan av lógini, soleiðis at hon endurspeglar virksemið, sum tað er.</p>
-<p xml:lang="nno"><em type="bold">Uppskot til løgtingslóg um bygningar fólkakirkjunnar</em> </p>
-<p>nýggj lóg, sum kemur í staðin fyri galdandi kgl. fyriskipanina frá 1999.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um upphavsrætt</em> </p>
-<p>Dagføringar í sambandi við mynstur og designlóggávu og aðrar neyðugar broytingar.</p>
-<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um kringvarp</em> </p>
-<p>neyðugar dagføringar.</p>
-<p xml:lang="isl"><em type="bold">FiskimáLaráðið</em> </p>
-<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um vinnuligan fiskiskap</em> </p>
-<p>Áseting av fiskidøgum fyri fiskiárið 2014/2015</p>
-<p type="listitem">• Dagføringar</p>
-<p type="listitem">• Nýskipanir</p>
-<p><em type="bold">Løgtingslóg um loyvisgjøld á fiskivinnuna</em> </p>
-<p>Tíðliga í 2014 legði samgongan serskilt uppskot fyri løgtingið um loyvisgjald á alivinnuna. Eftir ætlan verður lóg løgd fyri løgtingið um loyvisgjøld á fiskivinnuna.</p>
-<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um Búnaðargrunn</em> </p>
-<p>lógarbroyting er gjørd viðvíkjandi serstuðli til føroysk húsdýr, útisøvn og Koltur. Broytingar eru gjørdar í málsøkjabýtinum seinri, soleiðis at mentamálaráðið er myndugleiki yvir partar av økinum. lógin má broytast, soleiðis at lóg og málsøkjabýti samsvara. aðrar ásetingar um broytingar um virkisøkið hjá grunninum eru í umbúna.</p>
-<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um náttúrufriðing</em> </p>
-<p>Endamálið er at dagføra náttúrufriðingarlógina, sum er frá 1970, til eisini at fevna um náttúruvernd. Ætlanin er at avtaka náttúrufriðingarnevndirnar og skipa náttúruverndina á fakligum og fyrisitingarligum grundarlagi. Ætlanin er tó at varðveita fólksliga ávirkan á náttúruverndina, men í øðrum hami.</p>
-<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um viðarlundir</em> </p>
-<p>Endamálið er at dagføra lógina um viðarlundir, sum er frá 1952. lógini tørvar broytingar, bæði tí at virkisøkið hjá skógrøktini er broytt seinnu árini, og tí at ivamál hava stungið seg upp um heimildirnar hjá ávikavist skógfriðingarnevndini og fyrisitingarliga myndugleikanum, sum er Umhvørvisstovan.</p>
-<p>HagTøl <em type="bold">mynd 1: </em>Fólkatal í Føroyum, 1. januar, 1985 til 2014  ............................................................................................................................  <em type="bold">mynd 2: </em>Broytingar í fólkatalinum, 1970 til 2013  ..................................................................................................................................... <em type="bold">mynd 3: </em>Fólk flutt til og úr Føroyum, jan. 2007 til mars 2014 ..................................................................................................... <em type="bold">mynd 4: </em>Árstíðarjavnað arbeiðsloysi í % av arbeiðsfjøld, apríl 1995 til febr. 2014  .....................................................  <em type="bold">mynd 5: </em>Árstíðarjavnaðir løntakarar í tali og árstíðarjavnað arbeiðsloysi í %,  </p>
-<p xml:lang="nno">jan. 1985 til mars 2014  ............................................................................................................................................................................................................</p>
-<p><em type="bold">mynd 6: </em>lønargjaldingar í mió. kr., 1985Q1 til 2014Q1  .................................................................................................................... <em type="bold">mynd 7: </em>lønargjaldingar í mió. kr. býtt á høvuðsvinnugreinar, 12 mðr. samanlagt,  </p>
-<p xml:lang="nno">jan. 2005 til mai 2014  ..............................................................................................................................................................................................................</p>
-<p><em type="bold">mynd 8: </em>Bruttotjóðarúrtøka í ársins prísum og árlig broyting í %, 1998 til 2014  .....................................................  <em type="bold">mynd 9: </em>Brúkaraprístalið, 2001 til 2014, býtt á ársfjórðingar, indeks 2001 = 100  ....................................................  <em type="bold">mynd 10: </em>Føroyska feskfiskaveiðan í virði, 12 mðr. samanlagt, mió. kr., jan. 1994 til mai 2014  ...............  <em type="bold">mynd 11: </em>Føroyska feskfiskaveiðan í nøgd, 12 mðr. samanlagt, tús. tons, jan. 1994 til mai 2014  .............  <em type="bold">mynd 12: </em>laksur og síl tikin skift á ár og slag, tús. tons, 1996 til 2013  ..............................................................................  <em type="bold">mynd 13: </em>Innflutningur og útflutningur, mió. kr. 1988 til 2013  ................................................................................................  <em type="bold">mynd 13: </em>mynd 14: Innflutningur, ódrúgvar, drúgvar og hálvdrúgvar nýtsluvørur og  </p>
-<p xml:lang="nno">útgoldin løn, jan. 1998 til apr. 2014  ...........................................................................................................................................................................</p>
-<p><em type="bold">mynd 15: </em>rakstrarviðurskifti gjaldsjavnans í mió. kr. 1998 til 2012  ...................................................................................... <em type="bold">mynd 16: </em>Úrslit landskassans, mió. kr., 1997 til 2014  ............................................................................................................................ <em type="bold">mynd 17: </em>almennar inntøkur og útreiðslur (land, kommunur og sosialir grunnar), </p>
-<p>mió. kr., 1998 til 2012  .............................................................................................................................................................................................................</p>
-<p><em type="bold">mynd 18: </em>lands- og kommunuskattur, fyribilsskattur, mió. kr., 1995 til 2013  ........................................................... <em type="bold">mynd 19: </em>Útgoldin a-inntøka umvegis a-skattaskipanina, mió. kr., 1993 til 2013  ................................................. <em type="bold">mynd 20: </em>skattainntøkur tess almenna í mió. kr., 1998 til 2012  ................................................................................................ <em type="bold">mynd 21: </em>landskassans bruttoskuld og innistandandi í mió. kr. og % av BTÚ, 1997 til 2013  .................. <em type="bold">mynd 22: </em>Inntøkur, útreiðslur og úrslit hjá føroyskum kommunum, í mió. kr., 1998 til 2012  .................... <em type="bold">mynd 23: </em>Brutto- og nettoskuld hjá føroyskum kommunum og kommunuskattur,  </p>
-<p>mió. kr., 1993 til 2012  .............................................................................................................................................................................................................</p>
-<p><em type="bold">mynd 24: </em>Konjunkturvísital fyri húsarhaldini  ............................................................................................................................................... <em type="bold">mynd 25: </em>Konjunkturvísital fyri byggivinnuna  ............................................................................................................................................ <em type="bold">mynd 26: </em>Konjunkturvísital fyri handilsvinnuna  ....................................................................................................................................... <em type="bold">mynd 27: </em>Konjunkturvísital fyri tænastuvinnuna  ...................................................................................................................................... <em type="bold">mynd 28: </em>Konjunkturvístal fyri tilfeingisvinnuna  ..................................................................................................................................... <em type="bold">mynd 29: </em>Konjunkturvísital fyri brúkarar og vinnu tilsamans  ..................................................................................................... </p>
+<p>Tað er ein heiður og ein framíhjárættur saman við góðum og evnaríkum fólki at hava leitt okkara land ígjøgnum búskaparkreppuna.lágtrýstið er farið framvið. Eitt hátrýst við sól og lýggjum vindi sær út til at hava lagt seg stilt yvir okkara vøkru oyggjar.</p>
+<p>Vit fara tí við góðum treysti undir eitt nýtt tingár – at taka tey tøk, ið skulu føra okkara tjóð longur fram á leið.góða ólavsøku og gud signi Føroyar! <em type="bold">l ø g m a nssk r i vs tova n </em>16 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>løglIsTI <em type="bold">l ø g m a nssk r i vs tova n </em>17 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p xml:lang="rmy-rka"><em type="bold">Løgmansskrivstovan </em></p>
+<p><em type="bold">Uppskot til samtyktar um at góðkenna sáttmála við Es um føroyskan atlimaskap í Horizon 2020 granskingarsamstarvinum </em>Talan er um nýggjan sáttmála millum Føroya og Es um granskingarsamstarv, ið verður í gildi frá 2014 til og við 2020, og sum gevur Føroyum atlimaskap í Es skipanini fyri gransking og nýskapan (Horizon 2020). </p>
+<p><em type="bold">Uppskot til samtyktar um at góðkenna broytingar í naFo-sáttmálanum </em>Endamálið við uppskotinum til samtyktar er at góðkenna broytingarnar í sáttmálanum, sum naFO – limalondini, harímillum Føroyar og grønland, hava samtykt. naFO (north West atlantic Fisheries Organization) er millumtjóða felagsskapur fyri samstarv um fiskiskap í útnyrðingspartinum av atlantshavinum. </p>
+<p><em type="bold">Frágreiðing um uttanríkispolitisk mál </em>Frágreiðingin verður ein breið og yvirskipað lýsing av viðurskiftunum hjá Føroyum mótvegis útheiminum, og nøkrum av teimum avbjóðingum, ið Føroyar skulu fara undir á hesum øki. </p>
+<p><em type="bold">FíggjarmáLaráðið </em></p>
+<p><em type="bold">Uppskot til løgtingsfíggjarlóg fyri fíggjarárið 2015 </em>Fyri 1. oktober 2014 leggur landsstýrismaðurin í fíggjarmálum uppskot fyri løgtingið um løgtingsfíggjarlóg fyri 2015. </p>
+<p><em type="bold">Uppskot til samtyktar um játtanarkarmar á løgtingsfíggjarlógini fyri 2016 </em>Fyri 1. apríl 2015 leggur landsstýrismaðurin í fíggjarmálum fram uppskot til løgtingssamtykt, sum fevnir um ein samlaðan játtanarkarm fyri fíggjarlógina 2016, býtt á greinar. </p>
+<p><em type="bold">Uppskot til løgtingslóg um eftirløn </em>Talan er um smærri fyrisitingarligar dagføringar </p>
+<p><em type="bold">Uppskot til løgtingslóg um skatt av rentutrygging v.m. </em>Talan er um smávegis fyrisitingarligar dagføringar </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um landsskatt og kommunuskatt </em>Ætlanin er at gera ávísar broytingar viðvíkjandi upplýsingarskylduni hjá peningastovnum. Hetta er avleiðing av sonevndari FaTCa-avtalu við Usa. </p>
+<p><em type="bold">Uppskot til fíggjarleist í sambandi við at flyta eldraøkið til kommunur </em>Í sambandi við at eldraøkið verður flutt til kommurnar at umsita frá 1. januar 2014, verður neyðugt at broyta nakrar skatta-og avgjaldslógir. <em type="bold">l ø g m a nssk r i vs tova n </em>18 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um skattafría samanlegging o.a. </em>Verandi lóggáva um skattafría samanlegging av feløgum verður víðkað til eisini at fevna um skattafría kloyving av feløgum og skattafrítt partabrævaumbýti. Uppskotið ger ikki ávísar inntøkur skattafríar, men ásetir reglur fyri, nær tær verða skattaðar. lógarbroytingin ger tað lættari at umskipa vinnuvirki t.d. í sambandi við ættarliðsskifti. </p>
+<p><em type="bold">Uppskot til ríkislógartilmæli um lóg um fíggjarligt virksemi </em>lógin um <span type="quote" xml:lang="dan">“Finansiel virksomhed”</span> verður dagførd. Tað verður gjørt við 9 ymiskum broytingar- uppskotum, sum verða viðgjørd undir einum. Broytingaruppskotini tryggja, at lógin verður dagførd fram til ultimo 2013. sIFI-lóggávan verður sostatt ikki sett í gildi í komandi tingsetu. </p>
+<p><em type="bold">Uppskot til ríkislógartilmæli um lóg um virðisbrævahandil o.a. </em>lógin um virðisbrævahandil verður dagførd. Tað verður gjørt við 8 ymiskum broytingaruppskotum, sum verða viðgjørd undir einum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um bindandi <span type="quote" xml:lang="dan">“forhondsboð”</span> í skattamálum </em>lógin skal gera tað møguligt hjá borgarum og fyritøkum móti einum ávísum gjaldi at seta skattamyndugleikunum spurningar og fáa bindandi svar upp á teir. </p>
+<p><em type="bold">Uppskot til løgtingslóg um protokol til norðurlendsku dupultskattaavtaluna </em>sum verandi protokol, ið er galdandi millum Føroyar og Danmark, er orðað, kann í serligum førum verða talan um dupulta skatting, eftir at skift er til at skatta eftirløn við inngjald. Broytingin skal taka hesa dupultskatting av. <em type="bold">aLmannamáLaráðið </em></p>
+<p><em type="bold">Uppskot til løgtingslóg um valdsnýtslu </em>lóg um valdsnýtslu snýr seg um at áseta reglur og treytir fyri valdsnýtslu í mun til borgarar, ið hava tilboð innan almannaverkið og búgva á stovnum ella heima hjá sær sjálvum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í lóg um almenna forsorg </em>(talan verður um fleiri broytingaruppskot í somu lóggávu) lógaruppskotini eru ein liður í framhaldandi arbeiðnum at endurskoða og dagføra forsorgarlógina. m.a. um vardan bústað og virknistænastu, fíggjarligan stuðul, mótrokning og tillagingar í sambandi við at løgtingslóg um arbeiðsfremjandi tiltøk verður endurskoðað. Harumframt er ætlanin at áseta greiðar reglur fyri eftirlit innan stovnsøkið umframt fylgibroytingar í sambandi við, at eldraøkið verður lagt út. Uppskotini verða løgd fyri løgtingið í fleiri umførum í hesi tingsetu. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um almannapensjón </em>(talan verður um tvey broyt-ingaruppskot í somu lóggávu) Uppskotið snýr seg um at dagføra reglurnar um pensjónsumsiting, pensjónsrættindi hjá útlendingum, <em type="bold">l ø g m a nssk r i vs tova n </em>19 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>reglur um, nær og hvussu pensjón kann verða tikin út av landinum umframt møguligar broytingar í sambandi við at flyta fyritíðarpensjón millum Føroyar og Danmark. Uppskotini verða løgd fyri løgtingið í tveimum umførum í hesi tingsetu. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um viðbót til ávísar pensjónistar </em>Dagføra lóggávuna m.a. vegna vantandi reglur fyri umrokning og eftirrokning og afturgjald, umframt dagføringar í sambandi við KT-heildarskipanina. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um arbeiðsfremjandi tiltøk </em>Í sambandi við lógarásettu frágreiðingina, ið skal verða handað í ár, um, hvørt lógin virkar sbrt. endamálinum, verða tilmæltar lógarbroytingar gjørdar. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um val til løgtingið </em>Endamálið við lógaruppskotinum er at áseta nýtt minstamark fyri veljaraskaran á einum valstaði. Harumframt skal lógin verða dagførd málsliga og tekniskt. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um val til allar føroyskar kommunur </em>Endamálið við lógaruppskotinum er at áseta nýtt minstamark fyri veljaraskaran á einum valstaði. Harumframt skal lógin dagførast málsliga og tekniskt. </p>
+<p><em type="bold">Uppskot til løgtingslóg um vardar bústaðir í tórshavn </em>stórur tørvur er framvegis á at útvega fólki við ymsum avbjóðingum vardar bústaðir. landsstýris- kvinnan hevur tí raðfest at byggja vardan bústað í Tórshavn til fólk við menningartarni. Bygginevnd verður sett eftir summarsteðgin 2014, og verður ein byggiskrá handað landsstýriskvinnuni í heyst. </p>
+<p xml:lang="isl"><em type="bold">HEiLsUmáLaráðið </em></p>
+<p><em type="bold">Uppskot til løgtingslóg um forboð at selja solarium til persónar, yngri enn 18 ár </em>Tað er vísindaliga staðfest, at greitt samband er millum sannlíki at fáa húðkrabbamein, og hvussu nógv húðin hevur verið fyri ultraviolettum ljósi. av somu orsøk mælir Krabbameinsætlanin 2009 til, at solarium verður bannað ungum undir 18 ár. nýggj lóg verður orðað við tí endamáli at fyribyrgja krabbamein, sum stendst av at nýta solarium. Við lógini verður bannað at selja solarium til persónar, yngri enn 18 ár; ásetingar verða um krøv til teirra, sum selja solarium, og ásett verður revsing í sambandi við brot á lógina. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um almenna heilsutrygd </em>Tørvur er á at broyta ásetingarnar viðvíkjandi atgongd til serlæknar soleiðis, at neyðug heimild fæst til at áseta treytir o.a. í sambandi við tað serlæknavirksemið, sum Heilsutrygd rindar fyri. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um tiltøk at minka um royking </em>royking er ein tann størsti vandatátturin fyri fólkaheilsuna. mett verður, at árliga doyggja eini 80 <em type="bold">l ø g m a nssk r i vs tova n </em>20 </p>
+<p><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>føroyingar av sjúkum, sum hava samband við royking. Tí er neyðugt at seta tiltøk í verk til tess at fyribyrgja, at fólk gerast sjúk og doyggja av hesum ávum. Tørvur er á at laga galdandi roykilóg til henda veruleika. serliga er neyðugt at forða fyri, at børn og ung fara at roykja. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um apoteksverkið og heilivág </em>Tørvur er á at dagføra lóggávuna á økinum soleiðis, at tannrøktarar fáa somu møguleikar at biðja um heilivág eftir ávísing, sum ljósmøður og heimasjúkrarøktarfrøðingar hava. Tannrøktarar brúka í arbeiði sínum evni og heilivág, sum eru útflýggjað eftir ávísing. apotekslógin gevur ikki, sum í okkara grannalondum, tannrøktarum heimild at biðja um evni ella heilivág, sum verða útflýggjað eftir ávísing.. Tannrøktarar noyðast tí at fáa onnur, við slíkari heimild (t.d. ein tannlækna) at biðja um henda heilivág fyri seg. <em type="bold">Uppskot til løgtingslóg um endurmenning </em>Tað hevur leingi verið víst á m.a. í heilsunýskipanini, at tørvur er á betri tilboðum til teirra, sum av sjúku ella skaða fáa tørv á endurmenning. Eitt, sum aftur og aftur verður víst á, er, at tvørrandi samband er ímillum serkønu endurmenningina inni á sjúkrahúsunum, sum verður veitt í sambandi við innleggingar, og endurmenning aftaná, at fólk eru útskrivað av sjúkrahúsi. Eisini hevur verið víst á, at sjúklingar, sum hava fingið serviðgerð og endurmenning uttanlands, ikki fáa nóg góð tilboð frá føroyska sjúkrahúsverkinum, tá ið innleggingin heldur fram í Føroyum. Í sambandi við aðalorðaskiftið í løgtinginum um Heilsunýskipan á heysti 2013 boðaði landsstýrismaðurin frá, at hann ynskti, at rættindi borgaranna til endurmenning vórðu ásett í løgtingslóg. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um sjúkrahúsverkið </em>Tørvur er á at dagføra sjúkrahúslógina, serliga í sambandi við, at tey trý sjúkrahúsini skulu akkrediterast í nærmastu framtíð. Tørvur er m.a. á at áseta krøv um góðskumenning og sjúklingatrygd. Harumframt er ætlanin at endurskoða ásetingarnar um, hvør hevur rætt til veitingar frá sjúkrahúsverkinum og at fáa neyðugu heimildina til vega til at áseta gjald til avvarðandi myndugleikar fyri liðugt viðgjørdar sjúklingar. </p>
+<p><em type="bold">Uppskot til ríkislógartilmæli um at seta í gildi fyri Føroyar <span type="quote" xml:lang="dan">“Lov om ændring af lov om klage- og erstatningsadgang inden for sundhedsvæsenet”</span> </em>síðan lógin fekk gildi fyri Føroyar 1. januar 2012, eru broytingar framdar í trimum umførum í Danmark. millum annað eru fyrningarfreistirnar fyri at kæra og at boða frá skaða broyttar. Tørvur er á at fáa lógina dagførda í Føroyum eisini. <em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um Fólkaheilsuráð </em>sum fráboðað í heilsunýskipanini, ætlar landsstýrismaðurin at seta fokus á fyribyrging, millum annað við at skipa ein Fólkaheilsustovn. Hetta skal eftir ætlan gerast við at umskipa Deildina fyri arbeiðs- og almannaheilsu. Fólkaheilsustovnurin skal røkja skrivarauppgávuna fyri Fólkaheilsuráðið, sum verður umskipað og víðkað við umboðan frá sjúklingafeløgum, ítróttarfeløgum, áhugafeløgum og stovnum. <em type="bold">l ø g m a nssk r i vs tova n </em>21 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p><em type="bold">Uppskot til løgtingslóg um heilivágsútgerð </em>Tørvur er á at fáa ásetingar í føroyskari lóggávu um heilivágsútgerð, soleiðis at greiðar reglur eru um, hvør útgerð kann verða innflutt og nýtt í heilsuverkinum eisini í sambandi við gransking. <em type="bold">vinnUmáLaráðið </em></p>
+<p><em type="bold">Forslag til lov for Færøerne om opholdstilladelser til udlændinge beskæftiget på færøske fiskeskibe, der fisker i færøsk territorialfarvand </em>Endamálið við uppskotinum er at seta krav um, at allir útlendingar, tó ikki norðurlendingar, sum eru við føroyskum fiskiførum, sum fiska í føroyskum sjóøki, skulu hava arbeiðs- og uppihaldsloyvi í Føroyum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um tryggingarvirksemi </em>Eftir uppskotinum verður lógin dagførd at samsvara við donsku lógina, lov om finansiel virksomhed. </p>
+<p><em type="bold">Uppskot til ríkislógartilmæli um dagføring av immaterialrættinum </em>Endamálið er at dagføra alla immateriallóggávuna, sum fevnir um lóg um vørumerki, lóg um sniðgávu, lóg um brúksmodell og lóg um patent soleiðis, at lóggávan, sum verður lagað til føroysk viðurskifti, er í samsvari við lóggávuna í grannalondum okkara. </p>
+<p><em type="bold">Uppskot til broyting í løgtingslóg um arbeiðsloysistrygging og arbeiðsávísing </em>als arbeiðir við at tillaga skipanina soleiðis, at fíggjarlig javnvág fæst við einum vanligum arbeiðsloysi. Henda tillaging fer at hava við sær, at neyðugt verður at broyta lógina um arbeiðsloysistrygging og arbeiðsávísing. Partar av hesum arbeiði er eisini at skapa betri umstøður hjá nýútbúnum við hægri útbúgving at fóta sær á arbeiðsmarknaðinum í samsvari við tilmælini í heildarætlan fyri fólkaflyting og fólkavøkstur. </p>
+<p><em type="bold">Uppskot til løgtingslóg um fjarskifti </em>Endamálið er at fáa nýggja dagførda lóggávu á økinum, sum er í samsvari við nýggjastu Es-reglur á økinum m.a. forða fyri at ávísir partar fáa ræði á marknaðinum og nýggjar reglur um prísáseting. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirki </em>Endamálið er at broyta útbúgvingarskipanina soleiðis, at frameftir verður bara ein flokkur av góð- kendum grannskoðarum, og at fáa heimild til at áseta fleiri eftirútbúgvingarkrøv til grannskoðarar, ið grannskoða fíggjarfyritøkur. </p>
+<p><em type="bold">Uppskot til løgtingslóg um ársroknskap </em>Ætlanin er at seta verandi ársroknskaparlóg, sum hevur danskan lógartekst við nakað av føroyskum, úr gildi. Ásetingarnar í lógini verða settar í gildi aftur við nýggjari dagførdari føroyskari lóg. nýggja lógin fer sostatt at innihalda galdandi ásetingar í ársroknskaparlógini við teimum broytingum, sum framdar <em type="bold">l ø g m a nssk r i vs tova n </em>22 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>eru í Danmark eftir 2008. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um partafeløg </em>Eftir uppskotinum verður lógin dagførd, so hon samsvarar við donsku vinnufelagslógina, m.a. reglur um íverksetarafyritøkur. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í lov om erhvervsdrivende virksomheder </em>Endamálið er at gera fylgibroytingar til broytingarnar í vinnufelagslógini, ið m.a. hevur við sær, at frameftir kunnu fyritøkur við avmarkaðari ábyrgd ikki verða stovnaðar eftir lov om erhvervsdrivende virksomheder. </p>
+<p><em type="bold">Uppskot til løgtingslóg um vinnurekandi grunnar </em>Endamálið er at fáa nýggja lóggávu fyri vinnurekandi grunnar, ið er í samsvari við vinnufelagslógina. m.a. fer hetta at hava við sær størri gjøgnumskygni viðvíkjandi virkseminum hjá vinnufrekandi grunnum og seta størri krøv til leiðsluna fyri vinnurekandi grunnar. </p>
+<p><em type="bold">Uppskot til løgtingslóg um bókhaldsskyldu </em>Endamálið er at fáa nútíðargjørda lóggávu á økinum. galdandi lóg er frá 1978 og er tí ikki tíðarhóskandi. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um trygd á sjónum </em>Endamálið er at áseta reglur um fyrisitingarliga bót. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um manning á skipum </em>Endamálið er at broyta reglurnar viðvíkjandi motorpassarum og at áseta reglur um fyrisitingarliga bót. </p>
+<p><em type="bold">Uppskot til ríkislógartilmæli um at seta í gildi fyri Føroyar søloven </em>Endamálið er at seta í gildi nýggja sjólóg fyri Føroyar, ið er í samsvari við lóggávuna á økinum í hinum norðurlondunum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um barsilsskipan </em>Endamálið er at skipa fíggjarviðurskiftini hjá barsilsskipanini øðrvísi evt. við at skipa ein grunn. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um ferðslu </em>Endamálið er at broyta ábyrgdargrundarlagið í ferðslulógini at samsvara við reglurnar í grannalondum okkara. Eisini er endamálið at broyta koyrilæraragóðkenning, tiltøk at bøta dygdina í koyrilærarayrkinum við m.ø. at eftirútbúgva koyrilærarar. Ymsar aðrar broytingar eru viðv. revsireglum, reglum um hvílitíð og endaliga at broyta gjaldið fyri útgávu av koyrikortum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um arbeiðsskaða </em>Endamálið er m.a. at áseta neyvari reglur um, tá ið arbeiðsgevari ikki heldur skyldur sínar, at hann skal hava galdandi trygging (§ 21) sambært lógini. Útrokningargrundarlagið er ikki ásett í lógini, og <em type="bold">l ø g m a nssk r i vs tova n </em>23 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em>reglurnar eru ikki harmoniseraðar við reglurnar í endurgjaldsábyrgdarlógini. </p>
+<p><em type="bold">Uppskot til ríkislógartilmæli um at seta í gildi broytingar í loftferðslulógini </em>Talan er um broytingar í uppgávum hjá skaðanevndini, lóg um skráseting av rættindum av flogfari (umskipa frymil fyri gjald fyri almenna útinnan og eftirlitsvirksemi, tilbúgvingarásetingar og at broyta navnið á skrásetingarmyndugleika). <em type="bold">mEntamáLaráðið </em></p>
+<p xml:lang="isl"><em type="bold">Uppskot til løgtingslóg um undirvísingardeplar </em>Um stjórn, rakstur, útbúgvingar og undirvísing í undirvísingardeplum </p>
+<p type="listitem">Uppskot til løgtingslóg um broyting í fólkaskúlalógini Broytingar í fólkaskúlalógini:</p>
+<p type="listitem">Tillagingar í bygnaðinum í fólkaskúlanum o.a. dagføringar.</p>
+<p>Tillagingar í ásetingum um sernámsfrøði og sernámsfrøðiligan stuðul.</p>
+<p><em type="bold">Uppskot til broytingar í FHs- lógini, sit- lógini og Yrkisútbúgvingarlógini </em>Uppskot til broytingar í FHs- lógini, sIT- lógini og Yrkisútbúgvingarlógini, har endamálið er at gera tað møguligt at fara undir serliga skipað skúlatilboð til næmingar við sernámsfrøðiligum tørvi í yrkisskúlunum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um vernd av mentanararvi og náttúruarvi í sambandi við økisráðlegging og ognarumsiting </em>Verndarlóg, sum kemur í staðin fyri løgtingslóg um at friða fornminni og bygningar. nýggja lógin hevur eisini ásetingar um vernd av náttúruarvi. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um bókasavnsvirksemi </em>Endurskoðan av verandi bókasavnslóg. lógin verður broytt frá at vera ein lóg um Føroya landsbókasavn til at vera ein lóg um virksemi hjá landinum á bókasavnsøkinum umframt stuðulsskipanir á bókasavnsøkinum. </p>
+<p><em type="bold">Uppskot til løgtingslóg um musealt virksemi </em>nýggj lóg um musealt virksemi, sum kemur í staðin fyri løgtingslóg um fornminnissavn, løgtingslóg um Føroya náttúrugripasavn og løgtingslóg um bygdasøvn við mentanarsøguligum týdningi. nýggja lógin er um virksemi hjá landinum á museala økinum, harundir listasøvn, mentanarsøgulig søvn og náttúrusøgulig søvn umframt stuðulskipanir á museala økinum. </p>
+<p xml:lang="nno"><em type="bold">Uppskot til løgtingslóg um skjalasavnsvirksemi </em>Endurskoðan av skjalasavnslóggávuni <em type="bold">l ø g m a nssk r i vs tova n </em>24 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um stuðul til musikkskúlar </em>Endurskoðan av lógini, soleiðis at hon endurspeglar virksemið, sum tað er. </p>
+<p><em type="bold">Uppskot til løgtingslóg um bygningar fólkakirkjunnar </em>nýggj lóg, sum kemur í staðin fyri galdandi kgl. fyriskipanina frá 1999. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um upphavsrætt </em>Dagføringar í sambandi við mynstur og designlóggávu og aðrar neyðugar broytingar. </p>
+<p><em type="bold">Uppskot til løgtingslóg um broyting í løgtingslóg um kringvarp </em>neyðugar dagføringar. </p>
+<p xml:lang="isl"><em type="bold">FiskimáLaráðið </em></p>
+<p type="listitem">Løgtingslóg um broyting í løgtingslóg um vinnuligan fiskiskap Áseting av fiskidøgum fyri fiskiárið 2014/2015</p>
+<p type="listitem">Dagføringar</p>
+<p>Nýskipanir</p>
+<p><em type="bold">Løgtingslóg um loyvisgjøld á fiskivinnuna </em>Tíðliga í 2014 legði samgongan serskilt uppskot fyri løgtingið um loyvisgjald á alivinnuna. Eftir ætlan verður lóg løgd fyri løgtingið um loyvisgjøld á fiskivinnuna. </p>
+<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um Búnaðargrunn </em>lógarbroyting er gjørd viðvíkjandi serstuðli til føroysk húsdýr, útisøvn og Koltur. Broytingar eru gjørdar í málsøkjabýtinum seinri, soleiðis at mentamálaráðið er myndugleiki yvir partar av økinum. lógin má broytast, soleiðis at lóg og málsøkjabýti samsvara. aðrar ásetingar um broytingar um virkisøkið hjá grunninum eru í umbúna. </p>
+<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um náttúrufriðing </em>Endamálið er at dagføra náttúrufriðingarlógina, sum er frá 1970, til eisini at fevna um náttúruvernd. Ætlanin er at avtaka náttúrufriðingarnevndirnar og skipa náttúruverndina á fakligum og fyrisitingarligum grundarlagi. Ætlanin er tó at varðveita fólksliga ávirkan á náttúruverndina, men í øðrum hami. </p>
+<p><em type="bold">Løgtingslóg um broyting í løgtingslóg um viðarlundir </em>Endamálið er at dagføra lógina um viðarlundir, sum er frá 1952. lógini tørvar broytingar, bæði tí at virkisøkið hjá skógrøktini er broytt seinnu árini, og tí at ivamál hava stungið seg upp um heimildirnar hjá ávikavist skógfriðingarnevndini og fyrisitingarliga myndugleikanum, sum er Umhvørvisstovan. <em type="bold">l ø g m a nssk r i vs tova n </em>25 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
+<p xml:lang="nob">HagTøl <em type="bold">l ø g m a nssk r i vs tova n </em>26 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em><em type="bold">mynd 1: </em></p>
+<p>Fólkatal í Føroyum, 1. januar, 1985 til 2014 ............................................................................................................................ 27 <em type="bold">mynd 2: </em></p>
+<p xml:lang="isl">Broytingar í fólkatalinum, 1970 til 2013 ..................................................................................................................................... 27 <em type="bold">mynd 3: </em></p>
+<p>Fólk flutt til og úr Føroyum, jan. 2007 til mars 2014 ..................................................................................................... 27 <em type="bold">mynd 4: </em></p>
+<p>Árstíðarjavnað arbeiðsloysi í % av arbeiðsfjøld, apríl 1995 til febr. 2014 ..................................................... 28 <em type="bold">mynd 5: </em></p>
+<p>Árstíðarjavnaðir løntakarar í tali og árstíðarjavnað arbeiðsloysi í %, jan. 1985 til mars 2014 ............................................................................................................................................................................................................ 28 <em type="bold">mynd 6: </em>lønargjaldingar í mió. kr., 1985Q1 til 2014Q1 .................................................................................................................... 28 <em type="bold">mynd 7: </em>lønargjaldingar í mió. kr. býtt á høvuðsvinnugreinar, 12 mðr. samanlagt, jan. 2005 til mai 2014 .............................................................................................................................................................................................................. 29 <em type="bold">mynd 8: </em></p>
+<p xml:lang="isl">Bruttotjóðarúrtøka í ársins prísum og árlig broyting í %, 1998 til 2014 ..................................................... 29 <em type="bold">mynd 9: </em></p>
+<p>Brúkaraprístalið, 2001 til 2014, býtt á ársfjórðingar, indeks 2001 = 100 .................................................... 29 <em type="bold">mynd 10: </em></p>
+<p>Føroyska feskfiskaveiðan í virði, 12 mðr. samanlagt, mió. kr., jan. 1994 til mai 2014 ............... 30 <em type="bold">mynd 11: </em></p>
+<p>Føroyska feskfiskaveiðan í nøgd, 12 mðr. samanlagt, tús. tons, jan. 1994 til mai 2014 ............. 30 <em type="bold">mynd 12: </em>laksur og síl tikin skift á ár og slag, tús. tons, 1996 til 2013 .............................................................................. 30 <em type="bold">mynd 13: </em></p>
+<p>Innflutningur og útflutningur, mió. kr. 1988 til 2013 ................................................................................................ 31 <em type="bold">mynd 13: </em>mynd 14: Innflutningur, ódrúgvar, drúgvar og hálvdrúgvar nýtsluvørur og útgoldin løn, jan. 1998 til apr. 2014 ........................................................................................................................................................................... 31 <em type="bold">mynd 15: </em>rakstrarviðurskifti gjaldsjavnans í mió. kr. 1998 til 2012 ...................................................................................... 31 <em type="bold">mynd 16: </em></p>
+<p>Úrslit landskassans, mió. kr., 1997 til 2014 ............................................................................................................................ 32 <em type="bold">mynd 17: </em>almennar inntøkur og útreiðslur (land, kommunur og sosialir grunnar), mió. kr., 1998 til 2012 ............................................................................................................................................................................................................. 32 <em type="bold">mynd 18: </em>lands- og kommunuskattur, fyribilsskattur, mió. kr., 1995 til 2013 ........................................................... 32 <em type="bold">mynd 19: </em></p>
+<p>Útgoldin a-inntøka umvegis a-skattaskipanina, mió. kr., 1993 til 2013 ................................................. 33 <em type="bold">mynd 20: </em>skattainntøkur tess almenna í mió. kr., 1998 til 2012 ................................................................................................ 33 <em type="bold">mynd 21: </em>landskassans bruttoskuld og innistandandi í mió. kr. og % av BTÚ, 1997 til 2013 .................. 33 <em type="bold">mynd 22: </em></p>
+<p>Inntøkur, útreiðslur og úrslit hjá føroyskum kommunum, í mió. kr., 1998 til 2012 .................... 34 <em type="bold">mynd 23: </em></p>
+<p>Brutto- og nettoskuld hjá føroyskum kommunum og kommunuskattur, mió. kr., 1993 til 2012 ............................................................................................................................................................................................................. 34 <em type="bold">mynd 24: </em></p>
+<p>Konjunkturvísital fyri húsarhaldini ............................................................................................................................................... 34 <em type="bold">mynd 25: </em></p>
+<p>Konjunkturvísital fyri byggivinnuna ............................................................................................................................................ 35 <em type="bold">mynd 26: </em></p>
+<p>Konjunkturvísital fyri handilsvinnuna ....................................................................................................................................... 35 <em type="bold">mynd 27: </em></p>
+<p>Konjunkturvísital fyri tænastuvinnuna ...................................................................................................................................... 35 <em type="bold">mynd 28: </em></p>
+<p>Konjunkturvístal fyri tilfeingisvinnuna ..................................................................................................................................... 36 <em type="bold">mynd 29: </em></p>
+<p xml:lang="isl">Konjunkturvísital fyri brúkarar og vinnu tilsamans ..................................................................................................... 36 <em type="bold">l ø g m a nssk r i vs tova n </em>27 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 1: Fólkatal í Føroyum, 1. januar, 1985 til 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p xml:lang="isl"><em type="bold">Mynd 2: Broytingar í fólkatalinum, 1970 til 2013 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">50.000</p>
-<p>Fólk í tali</p>
-<p xml:lang="vep">48.000</p>
-<p xml:lang="vep">46.000</p>
-<p><em type="bold">Fólkatal í Føroyum </em></p>
-<p xml:lang="vep">44.000</p>
-<p xml:lang="vep">42.000</p>
-<p xml:lang="vep">40.000</p>
-<p xml:lang="vep">1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013</p>
-<p xml:lang="vep">1.000</p>
-<p>Fólk í tali</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-1.000</p>
-<p xml:lang="vep">-1.500</p>
-<p xml:lang="vep">-2.000</p>
-<p>Fólkavøkstur Nettoflyting Burðaravlop</p>
-<p xml:lang="vep">-2.500</p>
 <p><em type="bold">Mynd 3: Fólk flutt til og úr Føroyum, jan. 2007 til mars 2014 </em></p>
-<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
+<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið. 40.00042.00044.00046.00048.00050.0001985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013</p>
 <p>Fólk í tali</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="isl">Flutt úr FøroyumFlutt til FøroyarNettoflyting (12 mðr. samanlagt)</p>
+<p><em type="bold">Fólkatal í Føroyum </em>-2.500-2.000-1.500-1.000-50005001.0002013201120092007200520032001199919971995199319911989198719851983198119791977197519731971 </p>
+<p>Fólkavøkstur</p>
+<p xml:lang="eng">Nettoflyting</p>
+<p>Burðaravlop</p>
+<p>Fólk í tali -800-600-400-20002004002007200820092010201120122013</p>
+<p>Fólk í tali</p>
+<p>Flutt úr Føroyum</p>
+<p>Flutt til Føroyar</p>
+<p xml:lang="nno">Nettoflyting (12 mðr. samanlagt) <em type="bold">l ø g m a nssk r i vs tova n </em>28 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 4: Árstíðarjavnað arbeiðsloysi í % av arbeiðsfjøld, apríl 1995 til febr. 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p>% av arbeiðsfjøld</p>
-<p><em type="bold">Árstíðarjavnað arbeiðsloysi </em></p>
 <p><em type="bold">Mynd 5: Árstíðarjavnaðir løntakarar í tali og árstíðarjavnað arbeiðsloysi í %, jan. 1985 til mars 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p xml:lang="isl"><em type="bold">Mynd 6: Lønargjaldingar í mió. kr., 1985Q1 til 2014Q1 </em></p>
-<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p>27.000Løntakarar í tali arbeiðsloysi í % <em type="bold">Árstíðarjavnaðir løntakarar </em></p>
-<p xml:lang="vep">25.000</p>
-<p xml:lang="isl"><em type="bold">(vinstri ási) </em></p>
-<p xml:lang="vep">23.000</p>
-<p xml:lang="vep">21.000</p>
-<p xml:lang="vep">19.000</p>
-<p><em type="bold">Árstíðarjavnað arbeiðsloysi (høgri ási) </em></p>
-<p xml:lang="vep">17.000</p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="vep">1.500</p>
-<p xml:lang="vep">1.000</p>
-<p><em type="bold">Árstíðarjavnaðar lønargjaldingar í mió. kr.  </em></p>
+<p xml:lang="swe">Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið. 02468101214161996199719981999200020012002200320042005200620072008200920102011201220132014% av arbeiðsfjøld</p>
+<p><em type="bold">Árstíðarjavnað arbeiðsloysi </em>04812162019851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201417.00019.00021.00023.00025.00027.000 Løntakarar í tali arbeiðsloysi í % </p>
+<p xml:lang="isl"><em type="bold">Árstíðarjavnaðir løntakarar </em><em type="bold">(vinstri ási) </em></p>
+<p><em type="bold">Árstíðarjavnað arbeiðsloysi </em><em type="bold">(høgri ási) </em>05001.0001.5002.000198519861987198819891990199119921993199419951996199719981999200020012002200320042005200620072008200920102011201220132014 </p>
+<p xml:lang="isl"><em type="bold">Árstíðarjavnaðar lønargjaldingar í mió. kr. </em><em type="bold">l ø g m a nssk r i vs tova n </em>29 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 7: Lønargjaldingar í mió. kr. býtt á høvuðsvinnugreinar, 12 mðr. samanlagt, jan. 2005 til mai 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p xml:lang="isl"><em type="bold">Mynd 8: Bruttotjóðarúrtøka í ársins prísum og árlig broyting í %, 1998 til 2014 </em></p>
 <p>Viðm.: Talið fyri 2014 byggir á metingar frá Fíggjarmálaráðnum.</p>
-<p xml:lang="vep">6.000</p>
-<p xml:lang="nob">Mió. kr.</p>
-<p xml:lang="vep">5.000</p>
-<p xml:lang="vep">4.000</p>
-<p xml:lang="isl"><em type="bold">Privatar og almennar tænastuvinnur </em></p>
-<p xml:lang="vep">3.000</p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="isl"><em type="bold">Ídnaðar- og framleiðsluvinnur </em></p>
-<p xml:lang="vep">1.000</p>
-<p><em type="bold">Tilfeingisvinnur </em></p>
-<p xml:lang="vep">15.000</p>
-<p xml:lang="vep">13.000</p>
-<p xml:lang="isl">% um árið Mió. kr.</p>
-<p xml:lang="isl"><em type="bold">Árlig broyting í % í bruttotjóðarúrtøku (vinstri ási) </em></p>
-<p xml:lang="vep">11.000</p>
-<p><em type="bold">Bruttotjóðarúrtøka í ársins prísum, mió. kr. (høgri ási) </em></p>
-<p xml:lang="vep">9.000</p>
-<p xml:lang="vep">7.000</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">5.000</p>
-<p xml:lang="vep">1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014</p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 9: Brúkaraprístalið, 2001 til 2014, býtt á ársfjórðingar, indeks 2001 = 100 </em></p>
-<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p xml:lang="est">indeks 2001Q1 = 100</p>
+<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið. 01.0002.0003.0004.0005.0006.0002005200620072008200920102011201220132014</p>
+<p xml:lang="nob">Mió. kr.</p>
+<p><em type="bold">Tilfeingisvinnur </em></p>
+<p xml:lang="isl"><em type="bold">Privatar og almennar tænastuvinnur </em></p>
+<p xml:lang="isl"><em type="bold">Ídnaðar- og framleiðsluvinnur </em>-5051015205.0007.0009.00011.00013.00015.0001998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014% um árið </p>
+<p xml:lang="nob">Mió. kr.</p>
+<p><em type="bold">Bruttotjóðarúrtøka í ársins prísum, </em><em type="bold">mió. kr. (høgri ási) </em></p>
+<p xml:lang="isl"><em type="bold">Árlig broyting í % í </em><em type="bold">bruttotjóðarúrtøku (vinstri ási) </em>809010011012013014020012002200320042005200620072008200920102011201220132014 </p>
+<p xml:lang="est"><em type="bold">Brúkaraprístalið tilsamans </em>indeks 2001Q1 = 100 </p>
 <p xml:lang="ita"><em type="bold">Býli </em></p>
-<p><em type="bold">Brúkaraprístalið tilsamans </em></p>
-<p><em type="bold">Matur og drekka </em></p>
+<p xml:lang="nob"><em type="bold">Matur og drekka </em><em type="bold">l ø g m a nssk r i vs tova n </em>30 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 10: Føroyska feskfiskaveiðan í virði, 12 mðr. samanlagt, mió. kr., jan. 1994 til mai 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 11: Føroyska feskfiskaveiðan í nøgd, 12 mðr. samanlagt, tús. tons, jan. 1994 til mai 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 12: Laksur og síl tikin skift á ár og slag, tús. tons, 1996 til 2013 </em></p>
-<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">1.000</p>
-<p xml:lang="vep">1.600</p>
-<p xml:lang="vep">1.400</p>
-<p>mió. kr.</p>
-<p xml:lang="vep">1.200</p>
-<p><em type="bold">Fesffiskaveiðan tilsamans í virði </em></p>
-<p xml:lang="vep">1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014</p>
-<p xml:lang="eng">tús. tons</p>
-<p><em type="bold">Fesffiskaveiðan tilsamans í nøgd </em></p>
-<p xml:lang="vep">1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014</p>
+<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið. 02004006008001.0001.2001.4001.6001994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014</p>
+<p><em type="bold">Fesffiskaveiðan tilsamans í virði </em>mió. kr. 0204060801001201401601994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 </p>
+<p><em type="bold">Fesffiskaveiðan tilsamans í nøgd </em>tús. tons 010203040506070201320122011201020092008200720062005200420032002200120001999199819971996 </p>
 <p xml:lang="eng">Tús. tons</p>
-<p xml:lang="est">LaksurSíl</p>
+<p xml:lang="est">Laksur</p>
+<p xml:lang="nob">Síl <em type="bold">l ø g m a nssk r i vs tova n </em>31 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 13: Innflutningur og útflutningur, mió. kr. 1988 til 2013 </em></p>
 <p>Viðm.: Handilsjavnin fevnir bara um vørur.</p>
-<p xml:lang="vep">8.000</p>
-<p xml:lang="nob">Mió. kr.</p>
-<p xml:lang="vep">6.000</p>
-<p><em type="bold">Innflutningur </em></p>
-<p xml:lang="vep">4.000</p>
-<p xml:lang="vep">2.000</p>
-<p><em type="bold">Útflutningur </em></p>
-<p xml:lang="vep">-2.000</p>
-<p>Handilsjavni</p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 14: Innflutningur, ódrúgvar, drúgvar og hálvdrúgvar nýtsluvørur og útgoldin løn, jan. 1998 til apr. 2014 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 15: Rakstrarviðurskifti gjaldsjavnans í mió. kr. 1998 til 2012 </em></p>
-<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p><em type="bold">Drúgvar og hálvdrúgvar nýtsluvørur </em></p>
-<p xml:lang="est">Indeks, 1998=100</p>
-<p><em type="bold">Ódrúgvar nýtsluvørur </em></p>
-<p><em type="bold">Útgoldin løn (12 mánaðar samanlagt) </em></p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="vep">1.500</p>
+<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið. -2.00002.0004.0006.0008.00020132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988</p>
 <p xml:lang="nob">Mió. kr.</p>
-<p xml:lang="vep">1.000</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-1.000</p>
-<p xml:lang="vep">-1.500</p>
-<p xml:lang="vep">-2.000</p>
-<p xml:lang="vep">-2.500</p>
-<p xml:lang="sme">VØRUR OG TÆNASTUR INNTØKUFLYTINGAR RAKSTRARFLYTINGAR RAKSTRARVIÐSKIFTI GJALDSJAVNANS</p>
-<p xml:lang="vep">1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012</p>
+<p>Handilsjavni</p>
+<p><em type="bold">Útflutningur </em></p>
+<p xml:lang="nob"><em type="bold">Innflutningur </em>50100150200250300jan 98jan 99jan 00jan 01jan 02jan 03jan 04jan 05jan 06jan 07jan 08jan 09jan 10jan 11jan 12jan 13jan 14 </p>
+<p><em type="bold">Drúgvar og hálvdrúgvar </em><em type="bold">nýtsluvørur </em></p>
+<p><em type="bold">Ódrúgvar nýtsluvørur </em></p>
+<p xml:lang="est">Indeks, 1998=100</p>
+<p><em type="bold">Útgoldin løn (12 mánaðar samanlagt) </em>-2.500-2.000-1.500-1.000-50005001.0001.5002.0001998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 </p>
+<p xml:lang="nob">Mió. kr.</p>
+<p xml:lang="nob">VØRUR OG TÆNASTUR INNTØKUFLYTINGAR RAKSTRARFLYTINGAR RAKSTRARVIÐSKIFTI GJALDSJAVNANS <em type="bold">l ø g m a nssk r i vs tova n </em>32 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p xml:lang="isl"><em type="bold">Mynd 16: Úrslit landskassans, mió. kr., 1997 til 2014 </em></p>
-<p xml:lang="vep">5.000</p>
-<p><em type="bold">Inntøkur tilsamans í mió. kr. </em>mió. kr. </p>
-<p xml:lang="vep">3.000</p>
-<p><em type="bold">Útreiðslur tilsamans í mió. kr. </em></p>
-<p xml:lang="vep">1.000</p>
-<p>RLÚ-úrslit</p>
-<p xml:lang="vep">-1.000</p>
-<p>Viðm.: Tølini fram til og við 2013 eru roknskapartøl.  * Tølini fyri 2014 eru játtanartøl. ** Úrslitið fyri 1998 er ávirkað av eftirgeving av donskum ríkislánum til Føroyar á 900 mió. kr. Kelda: Gjaldstovan og Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
+<p>Viðm.: Tølini fram til og við 2013 eru roknskapartøl. * Tølini fyri 2014 eru játtanartøl.** Úrslitið fyri 1998 er ávirkað av eftirgeving av donskum ríkislánum til Føroyar á 900 mió. kr.</p>
+<p>Kelda: Gjaldstovan og Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 17: Almennar inntøkur og útreiðslur (land, kommunur og sosialir grunnar), mió. kr., 1998 til 2012 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 18: Lands- og kommunuskattur, fyribilsskattur, mió. kr., 1995 til 2013 </em></p>
-<p>Kelda: TAKS. Sett upp: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">7.000</p>
-<p><em type="bold">Inntøkur tilsamans í mió. kr. </em>mió. kr. </p>
-<p xml:lang="vep">5.000</p>
-<p xml:lang="vep">3.000</p>
+<p>Kelda: TAKS. Sett upp: Fíggjarmálaráðið. -1.0001.0003.0005.000</p>
+<p xml:lang="est">R1997</p>
+<p xml:lang="est">R1998**</p>
+<p xml:lang="est">R1999</p>
+<p xml:lang="est">R2000</p>
+<p xml:lang="est">R2001</p>
+<p xml:lang="est">R2002</p>
+<p xml:lang="est">R2003</p>
+<p xml:lang="est">R2004</p>
+<p xml:lang="est">R2005</p>
+<p xml:lang="est">R2006</p>
+<p xml:lang="est">R2007</p>
+<p xml:lang="est">R2008</p>
+<p xml:lang="est">R2009</p>
+<p xml:lang="est">R2010</p>
+<p xml:lang="est">R2011</p>
+<p xml:lang="est">R2012</p>
+<p xml:lang="est">R2013</p>
+<p xml:lang="smj">J2014*</p>
+<p>RLÚ-úrslit</p>
 <p><em type="bold">Útreiðslur tilsamans í mió. kr. </em></p>
+<p><em type="bold">Inntøkur tilsamans í mió. kr. </em>mió. kr. -1.0001.0003.0005.0007.000199819992000200120022003200420052006200720082009201020112012 </p>
 <p>Úrslit hjá tí almenna tilsamans</p>
-<p xml:lang="vep">1.000</p>
-<p xml:lang="vep">-1.000</p>
-<p xml:lang="vep">1.600</p>
-<p xml:lang="vep">1.400</p>
-<p xml:lang="nob">Mió. kr. <em type="bold"> </em></p>
-<p xml:lang="vep">1.200</p>
-<p><em type="bold">Landsskattur í mió. kr. </em></p>
-<p xml:lang="vep">1.000</p>
+<p><em type="bold">Útreiðslur tilsamans í mió. kr. </em></p>
+<p><em type="bold">Inntøkur tilsamans í mió. kr. </em>mió. kr. 02004006008001.0001.2001.4001.60019851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013 </p>
+<p xml:lang="nob">Mió. kr.</p>
 <p><em type="bold">Kommunuskattur í mió. kr. </em></p>
+<p xml:lang="isl"><em type="bold">Landsskattur í mió. kr. </em><em type="bold">l ø g m a nssk r i vs tova n </em>33 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 19: Útgoldin A-inntøka umvegis A-skattaskipanina, mió. kr., 1993 til 2013 </em></p>
 <p>Kelda: TAKS. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 20: Skattainntøkur tess almenna í mió. kr., 1998 til 2012 </em></p>
 <p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">10.000</p>
-<p xml:lang="vep">9.000</p>
-<p>mió. kr.</p>
-<p xml:lang="vep">8.000</p>
-<p xml:lang="vep">7.000</p>
-<p xml:lang="vep">6.000</p>
-<p xml:lang="vep">5.000</p>
-<p><em type="bold">Útgoldið umvegis a-skattaskipanina, mió. kr. </em></p>
-<p xml:lang="vep">4.000</p>
-<p xml:lang="vep">3.000</p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="vep">7.000</p>
-<p xml:lang="vep">6.000</p>
-<p xml:lang="nob">Prosent av BTÚ (vinstri ási)</p>
-<p xml:lang="vep">SKATTIR SAMANLAGT</p>
-<p>mió. kr. % av BTÚ</p>
-<p xml:lang="vep">5.000</p>
-<p xml:lang="vep">4.000</p>
-<p xml:lang="vep">3.000</p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="vep">1.000</p>
-<p xml:lang="vep">1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012</p>
 <p><em type="bold">Mynd 21: Landskassans bruttoskuld og innistandandi í mió. kr. og % av BTÚ, 1997 til 2013 </em></p>
-<p>Kelda: Gjaldstovan. Sett upp: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">7.000</p>
-<p>mió. kr.</p>
-<p xml:lang="vep">6.000</p>
-<p xml:lang="vep">5.000</p>
-<p xml:lang="vep">4.000</p>
-<p xml:lang="isl"><em type="bold">Bruttoskul</em> <em type="bold">d (høgri ási) </em></p>
-<p xml:lang="vep">3.000</p>
-<p><em type="bold">Bruttoskuld í % av BTÚ (vinstri ási) </em></p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="vep">1.000</p>
-<p><em type="bold">Innistandandi (høgri ási) </em></p>
-<p xml:lang="vep">1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013</p>
+<p>Kelda: Gjaldstovan. Sett upp: Fíggjarmálaráðið. 2.0003.0004.0005.0006.0007.0008.0009.00010.000199319941995199619971998199920002001200220032004200520062007200820092010201120122013</p>
+<p><em type="bold">Útgoldið umvegis a-skattaskipanina, mió. kr. </em>mió. kr. 404244464850525401.0002.0003.0004.0005.0006.0007.0001998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 </p>
+<p xml:lang="nob">Prosent av BTÚ (vinstri ási)</p>
+<p xml:lang="nob">SKATTIR SAMANLAGTmió. kr. % av</p>
+<p>BTÚ 102030405060708001.0002.0003.0004.0005.0006.0007.0001997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013mió. kr.</p>
+<p xml:lang="isl"><em type="bold">Bruttoskul </em><em type="bold">d </em><em type="bold">(høgri ási) </em></p>
+<p><em type="bold">Innistandandi </em><em type="bold">(høgri ási) </em></p>
+<p xml:lang="isl"><em type="bold">Bruttoskuld í % av BTÚ </em><em type="bold">(vinstri ási) </em><em type="bold">l ø g m a nssk r i vs tova n </em>34 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 22: Inntøkur, útreiðslur og úrslit hjá føroyskum kommunum, í mió. kr., 1998 til 2012 </em></p>
-<p>Viðm.: Kommunuroknskapirnir fyri 2013 eru ikki endaliga uppgjørdir. Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
+<p>Viðm.: Kommunuroknskapirnir fyri 2013 eru ikki endaliga uppgjørdir.</p>
+<p>Kelda: Hagstovan. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 23: Brutto- og nettoskuld hjá føroyskum kommunum og kommunuskattur, mió. kr., 1993 til 2012 </em></p>
 <p>Kelda: Hagstovan og TAKS. Sett upp: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 24: Konjunkturvísital fyri húsarhaldini </em></p>
-<p>Kelda: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">2.500</p>
-<p xml:lang="vep">2.000</p>
-<p><em type="bold">Inntøkur tilsamans í mió. kr. </em></p>
-<p>mió. kr.</p>
-<p xml:lang="vep">1.500</p>
-<p><em type="bold">Útreiðslur tilsamans í mió. kr. </em></p>
-<p xml:lang="vep">1.000</p>
+<p>Kelda: Fíggjarmálaráðið. -50005001.0001.5002.0002.500199819992000200120022003200420052006200720082009201020112012</p>
 <p xml:lang="isl">Úrslit tilsamans</p>
-<p xml:lang="vep">2.000</p>
-<p xml:lang="vep">1.800</p>
-<p>mió. kr.</p>
-<p xml:lang="vep">1.600</p>
-<p xml:lang="vep">1.400</p>
-<p xml:lang="vep">1.200</p>
-<p xml:lang="vep">1.000</p>
-<p xml:lang="nob"><em type="bold">Skuld brutto </em></p>
+<p><em type="bold">Inntøkur tilsamans í mió. kr. </em></p>
+<p><em type="bold">Útreiðslur tilsamans í mió. kr. </em>mió. kr. 02004006008001.0001.2001.4001.6001.8002.0001993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012mió. kr. </p>
 <p xml:lang="vep"><em type="bold">Skuld netto </em></p>
-<p><em type="bold">Kommunuskattur í mió. kr. </em></p>
-<p xml:lang="vep">1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012</p>
+<p xml:lang="nob"><em type="bold">Skuld brutto </em></p>
+<p><em type="bold">Kommunuskattur í mió. kr. </em>-40-30-20-10010203040jan. 06jun. 06jan. 07jun. 07jan. 08jun. 08jan. 09jun. 09jan. 10jun. 10jan. 11jun. 11jan. 12jun. 12jan. 13jun. 13jan. 14jun. 14 </p>
 <p xml:lang="est">Vísital</p>
-<p xml:lang="nno"><em type="bold">Privat húsarhald </em></p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
+<p xml:lang="nno"><em type="bold">Privat húsarhald </em><em type="bold">l ø g m a nssk r i vs tova n </em>35 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 25: Konjunkturvísital fyri byggivinnuna </em></p>
 <p>Kelda: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 26: Konjunkturvísital fyri handilsvinnuna </em></p>
 <p>Kelda: Fíggjarmálaráðið.</p>
 <p><em type="bold">Mynd 27: Konjunkturvísital fyri tænastuvinnuna </em></p>
-<p>Kelda: Fíggjarmálaráðið.</p>
-<p xml:lang="vep">-</p>
+<p>Kelda: Fíggjarmálaráðið. -100-75-50-250255075100jun. 06jan. 07jun. 07jan. 08jun. 08jan. 09jun. 09jan. 10jun. 10jan. 11jun. 11jan. 12jun. 12jan. 13jun. 13jan. 14jun. 14</p>
 <p xml:lang="est">Vísital</p>
-<p xml:lang="isl"><em type="bold">Byggivinna </em></p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
+<p xml:lang="nno"><em type="bold">Byggivinna </em>-60-40-20020406080jun. 06jan. 07jun. 07jan. 08jun. 08jan. 09jun. 09jan. 10jun. 10jan. 11jun. 11jan. 12jun. 12jan. 13jun. 13jan. 14jun. 14 </p>
 <p xml:lang="est">Vísital</p>
-<p xml:lang="isl"><em type="bold">Handilsvinna </em></p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
+<p xml:lang="isl"><em type="bold">Handilsvinna </em>-40-20020406080100jun. 06jan. 07jun. 07jan. 08jun. 08jan. 09jun. 09jan. 10jun. 10jan. 11jun. 11jan. 12jun. 12jan. 13jun. 13jan. 14jun. 14 </p>
 <p xml:lang="est">Vísital</p>
-<p xml:lang="isl"><em type="bold">Tænastuvinna </em></p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
+<p xml:lang="nob"><em type="bold">Tænastuvinna </em><em type="bold">l ø g m a nssk r i vs tova n </em>36 </p>
+<p xml:lang="isl"><em type="bold">Fr ágr e i ði ng l ø g m a ns á ól avsøk u 2014 </em></p>
 <p><em type="bold">Mynd 28: Konjunkturvístal fyri tilfeingisvinnuna </em></p>
 <p>Kelda: Fíggjarmálaráðið.</p>
-<p xml:lang="est">Vísital</p>
-<p><em type="bold">Tilfeingisvinna </em></p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
 <p><em type="bold">Mynd 29: Konjunkturvísital fyri brúkarar og vinnu tilsamans </em></p>
-<p>Kelda: Fíggjarmálaráðið.</p>
+<p>Kelda: Fíggjarmálaráðið. -40-200204060jun. 06jan. 07jun. 07jan. 08jun. 08jan. 09jun. 09jan. 10jun. 10jan. 11jun. 11jan. 12jun. 12jan. 13jun. 13jan. 14jun. 14</p>
+<p xml:lang="est">Vísital</p>
+<p><em type="bold">Tilfeingisvinna </em>-50-30-10103050jun. 06jan. 07jun. 07jan. 08jun. 08jan. 09jun. 09jan. 10jun. 10jan. 11jun. 11jan. 12jun. 12jan. 13jun. 13jan. 14jun. 14 </p>
 <p xml:lang="est">Vísital</p>
 <p><em type="bold">Brúkarar og vinna tilsamans </em></p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
-<p xml:lang="vep">-</p>
 </body></document>

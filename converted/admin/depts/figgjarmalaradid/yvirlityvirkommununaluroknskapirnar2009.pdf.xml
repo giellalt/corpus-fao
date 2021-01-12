@@ -1,5 +1,45 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>38</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>yvirlityvirkommununaluroknskapirnar2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Útskrivað: 10-08-2010</p>
-<p><em type="bold">Fólkatal</em> <em type="bold">ársbyrjan</em> <em type="bold">Kommunu</em> <em type="bold">skattaprosent</em> <em type="bold">RaksturLøgurRentur v.m.RLÚ-úrslitSkattur v.m. AvstemmingBruttoskuld,</em> <em type="bold">ultimo</em> <em type="bold">Nettoskuld,</em> <em type="bold">ultimo</em> <em type="bold">Skuld per</em> <em type="bold">íbúgva (tús.kr.)</em> </p>
-<p>16,00%--1.060--3.88520,50%6.643--6.764-3.263-1.11020,10%8.1894.808--3.847-8.835-2.515-2.83321,75%86.44717.7839.03212.360-125.621176.181145.783 18,00%2.736---2.603-1.21918,00%1.218---1.085-21,50%33.72516.6473.280-5.233-48.41959.85046.583 1.95921,00%52.23211.9171.892-7.950-58.092-41.97227.972 20,50%24.0294.4012.6091.769-32.80744.00136.159 22,00%70.19026.6686.9232.635-106.416131.731108.965 21,50%19.2628.556-5.489-23.20221.12812.647 20,00%13.8811.5651.048--16.20026.33522.924 20,60%33.7771.6531.7504.299-41.47960.52552.529 21,00%13.87118.696-14.812-18.07217.43210.709 22,00%29.6964.1002.375-2.955-33.21642.23835.378 1.94220,80%45.99016.208-12.509-50.673-28.89312.348 20,50%23.8276.887-1.350-29.60711.061-1.05323,50%10.871-1.2171.3392.841-13.83424.34421.619 22,50%10.757-1.296--11.37523.10922.114 21,00%3.4701.977-1.782-4.0354.8881.515 21,00%3.428--2.9911.744-4.54416,00%----3.62820,00%14.2004.883-1.659-17.4455.579-3.88423,50%38.782-3.1925.938-47.53167.44146.784 18,00%1.908--1.9721.079-20,00%2.349-3.3021.7641.126 21,00%6.6391.847--7.9505.4802.809 23,25%26.2672.1155.396-34.28039.36828.187 21,00%5.6301.531-7.8591.577-1.82619,75%476.286229.7844.909-144.273-566.706257.96018.827 xx-30.4378.738-1.34923.0486.459-77.628</p>
-<p><em type="bold">48.7021.067.467380.72144.654-168.661-1.324.1691.102.277552.115</em> </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>101</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>yvirlityvirkommununaluroknskapirnar2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Yvirlit yvir kommunalu roknskapirnir 2009, sum innkomið </em></p>
+<p>Útskrivað: 10-08-2010</p>
+<p><em type="bold">Kommununavn </em></p>
+<p><em type="bold">Fólkatal </em><em type="bold">ársbyrjan </em></p>
+<p><em type="bold">Kommunu </em><em type="bold">skattaprosent </em></p>
+<p><em type="bold">Rakstur </em></p>
+<p><em type="bold">Løgur </em></p>
+<p><em type="bold">Rentur v.m. </em></p>
+<p><em type="bold">RLÚ-úrslit </em></p>
+<p><em type="bold">Skattur v.m. Avstemming </em></p>
+<p xml:lang="dan"><em type="bold">Bruttoskuld, </em><em type="bold">ultimo </em></p>
+<p xml:lang="dan"><em type="bold">Nettoskuld, </em><em type="bold">ultimo </em></p>
+<p><em type="bold">Skuld per </em><em type="bold">íbúgva (tús.kr.) </em></p>
+<p>Fugloyar 4016,00%69451-54368-1.060-123-3.885-97</p>
+<p>Viðareiðis 35120,50%6.64370-68118-6.764-13.263-1.110-3</p>
+<p>Hvannasunds 43820,10%8.1894.808-316-3.847-8.835-12.515-2.833-6</p>
+<p>Klaksvíkar 4.91221,75%86.44717.7839.03212.360-125.6211176.181145.78330</p>
+<p>Kunoyar 16018,00%2.736233-22-344-2.6030379-1.219-8</p>
+<p>Húsa 5818,00%9171.218-5-1043-1.085270-489-8</p>
+<p>Fuglafjarðar 1.55321,50%33.72516.6473.280-5.233-48.419059.85046.58330</p>
+<p>Eystur1.95921,00%52.23211.9171.892-7.950-58.092-141.97227.97214</p>
+<p xml:lang="dan">Nes 1.26120,50%24.0294.4012.6091.769-32.807144.00136.15929</p>
+<p>Runavíkar 3.79122,00%70.19026.6686.9232.635-106.4160131.731108.96529</p>
+<p>Sjóvar 1.00721,50%19.2628.556874-5.489-23.202121.12812.64713</p>
+<p>Eiðis 69620,00%13.8811.5651.048-287-16.200726.33522.92433</p>
+<p>Sunda 1.64720,60%33.7771.6531.7504.299-41.479060.52552.52932</p>
+<p>Kvívíkar 60521,00%13.87118.696318-14.812-18.072117.43210.70918</p>
+<p>Vestmanna 1.25522,00%29.6964.1002.375-2.955-33.216042.23835.37828</p>
+<p>Vága1.94220,80%45.99016.208983-12.509-50.673-128.89312.3486</p>
+<p>Sørvágs 1.13320,50%23.8276.887243-1.350-29.607011.061-1.053-1</p>
+<p>Sands 58323,50%10.871-1.2171.3392.841-13.834024.34421.61937</p>
+<p>Skopunar 50022,50%10.757-3571.296-321-11.375023.10922.11444</p>
+<p>Skálavíkar 16921,00%3.4701.977371-1.782-4.03514.8881.5159</p>
+<p>Húsavíkar 12521,00%3.428045-481-2.99111.744-4.544-36</p>
+<p>Skúvoyar 5516,00%77426-44-18-7380347-3.628-66</p>
+<p>Hvalbiar 73320,00%14.2004.88321-1.659-17.44505.579-3.884-5</p>
+<p>Tvøroyrar 1.77023,50%38.782-3803.1925.938-47.531167.44146.78426</p>
+<p>Fámjins 11018,00%1.9083836-325-1.97201.079-764-7</p>
+<p>Hovs 11420,00%2.349281158515-3.30211.7641.12610</p>
+<p xml:lang="dan">Porkeris 33421,00%6.6391.847226-762-7.95005.4802.8098</p>
+<p>Vágs 1.40323,25%26.2675022.1155.396-34.280039.36828.18720</p>
+<p>Sumbiar 37921,00%5.6301.531158540-7.85901.577-1.826-5</p>
+<p>Tórshavnar 19.61919,75%476.286229.7844.909-144.273-566.7060257.96018.8271</p>
+<p>Tórshavnar havnxx-30.4378.738-1.34923.048006.459-77.628 <em type="bold">30 </em><em type="bold">48.702 </em><em type="bold">1.067.467 </em><em type="bold">380.721 </em><em type="bold">44.654 </em><em type="bold">-168.661 </em><em type="bold">-1.324.169 </em><em type="bold">12 </em><em type="bold">1.102.277 </em><em type="bold">552.115 </em><em type="bold">11 </em></p>
 </body></document>

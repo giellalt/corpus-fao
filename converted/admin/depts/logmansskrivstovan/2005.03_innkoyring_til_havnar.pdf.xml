@@ -1,395 +1,155 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4116</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2005.03 Innkoyring til Havnar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Frágreiðing um nýggja</p>
-<p xml:lang="dan">innkoyring til</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4151</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2005.03 Innkoyring til Havnar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="listitem">Tinghúsvegi 5</p>
+<p type="listitem" xml:lang="dan">Postboks 78</p>
+<p type="listitem">FO-110 Tórshavn</p>
+<p type="listitem">lv@lv.fo</p>
+<p type="listitem">Tlf. +298 311333</p>
+<p type="listitem">Fax +298 314986</p>
+<p>Frágreiðing um nýggja innkoyring til</p>
 <p>Havnar</p>
-<p xml:lang="dan">Mars 2005</p>
-<p>2</p>
-<p><em type="bold">Innihaldsyvirlit: </em></p>
-<p>Inngangur.................................................................................................................................... 3</p>
-<p xml:lang="dan">Alment.......................................................................................................................................... 3</p>
-<p><em type="bold">2.1</em> <em type="bold">Samferðsluviðurskifti</em>............................................................................................................ 3 </p>
-<p><em type="bold">2.2</em> <em type="bold">Fíggjarlig viðurskifti</em>............................................................................................................. 4 </p>
-<p><em type="bold">2.3</em> <em type="bold">Náttúru- og umhvørvislig viðurskifti</em>................................................................................... 4 </p>
-<p><em type="bold">2.4</em> <em type="bold">Mentanarlig og sosial viðurskifti</em>.......................................................................................... 5 </p>
-<p>Gongdin í málinum................................................................................................................. 6</p>
-<p><em type="bold">3.1</em> <em type="bold">Støðan nú</em>................................................................................................................................ 8 </p>
-<p>Gjøgnumgongd viðvíkjandi uppskotum til nýggja innkoyring til Havnina............. 9</p>
-<p>Uppskot, sum er, til innkomuveg...................................................................................... 9</p>
-<p><em type="bold">4.1</em> <em type="bold">Íbindingin í Oyggjarvegin við Maskinmeistaraskúlan (undir Krákugjógv)</em>.................. 10 </p>
-<p><em type="bold">4.2</em> <em type="bold">Ætlanin, sum er, fyri innkomuvegi: Kalbaksvegur – Eystan Gil/Løgmannabreyt</em>....... 12 </p>
-<p>Innkomuvegurin, uppskot til broytingar...................................................................... 13</p>
-<p><em type="bold">5.1</em> <em type="bold">Íbinding í Oyggjarvegin júst niðan fyri Brandstøðina</em>..................................................... 13 </p>
-<p><em type="bold">5.2</em> <em type="bold">Tunnil Villingadalsvegur – við Krákugjógv</em>...................................................................... 15 </p>
-<p>Møguliga aðrar tunnilsloysnir.......................................................................................... 17</p>
-<p><em type="bold">6.1</em> <em type="bold">Tunnil 2: við Krákugjógv – Marknagil (við ríðibreytina)</em>............................................... 17 </p>
-<p><em type="bold">6.2</em> <em type="bold">Tunnil 3: Villingadalsvegur – Marknagil (við ríðibreytina)</em>............................................ 17 </p>
-<p xml:lang="dan">Tunnil Skarðshjalli – Eystan Gil/Løgmannabreyt.................................................... 19</p>
-<p>Samandráttur............................................................................................................................ 20</p>
-<p>Tilmæli....................................................................................................................................... 22</p>
-<p>3</p>
-<p xml:lang="dan">J. nr. / HE 138</p>
-<p><em type="italic">(at tilskila í svari) </em></p>
-<p>Tórshavn  11. november 2004</p>
-<p><em type="bold"> Inngangur </em></p>
+<p xml:lang="dan">Mars 20052</p>
+<p><em type="bold">Innihaldsyvirlit: </em>1 Inngangur .................................................................................................................................... 3 2 Alment.......................................................................................................................................... 3 <em type="bold">2.1 </em></p>
+<p><em type="bold">Samferðsluviðurskifti </em>............................................................................................................ 3 <em type="bold">2.2 </em></p>
+<p><em type="bold">Fíggjarlig viðurskifti </em>............................................................................................................. 4 <em type="bold">2.3 </em></p>
+<p><em type="bold">Náttúru- og umhvørvislig viðurskifti </em>................................................................................... 4 <em type="bold">2.4 </em></p>
+<p><em type="bold">Mentanarlig og sosial viðurskifti </em>.......................................................................................... 53 Gongdin í málinum ................................................................................................................. 6 <em type="bold">3.1 </em></p>
+<p><em type="bold">Støðan nú </em>................................................................................................................................ 8 </p>
+<p>Gjøgnumgongd viðvíkjandi uppskotum til nýggja innkoyring til Havnina............. 9 4 Uppskot, sum er, til innkomuveg ...................................................................................... 9 <em type="bold">4.1 </em></p>
+<p><em type="bold">Íbindingin í Oyggjarvegin við Maskinmeistaraskúlan (undir Krákugjógv) </em>.................. 10 <em type="bold">4.2 </em></p>
+<p><em type="bold">Ætlanin, sum er, fyri innkomuvegi: Kalbaksvegur – Eystan Gil/Løgmannabreyt </em>....... 125 Innkomuvegurin, uppskot til broytingar. ..................................................................... 13 <em type="bold">5.1 </em></p>
+<p><em type="bold">Íbinding í Oyggjarvegin júst niðan fyri Brandstøðina </em>..................................................... 13 <em type="bold">5.2 </em></p>
+<p><em type="bold">Tunnil Villingadalsvegur – við Krákugjógv </em>...................................................................... 156 Møguliga aðrar tunnilsloysnir .......................................................................................... 17 <em type="bold">6.1 </em></p>
+<p><em type="bold">Tunnil 2: við Krákugjógv – Marknagil (við ríðibreytina) </em>............................................... 17 <em type="bold">6.2 </em></p>
+<p><em type="bold">Tunnil 3: Villingadalsvegur – Marknagil (við ríðibreytina) </em>............................................ 177 Tunnil Skarðshjalli – Eystan Gil/Løgmannabreyt.................................................... 19 8 Samandráttur............................................................................................................................ 20 9 Tilmæli....................................................................................................................................... 22 3 </p>
+<p>J. nr. / HE 138 <em type="italic">(at tilskila í svari) </em></p>
+<p>Tórshavn 11. november 2004 <em type="bold">1 Inngangur </em></p>
 <p>Við hesum uppriti verður latin úr hondum frágreiðing um nýggjan innkomuveg til Havnar.</p>
-<p>Frágreiðingin lýsir ætlanina, sum er fyri innkomuvegnum til Havnar og uppskot til broytingar í</p>
-<p>ætlanini. Á Føroya løgtingi var hin 13. november 2003 samtykt:</p>
-<p>Í frágreiðingini verða gjøgnumgingnir fleiri møguleikar, ið eru fyri farleið um Havnina. Teir</p>
-<p>eru grundaðir á teir landafrøðiligu møguleikarnar, ið eru fyri vegum og tunlum. Jarðfrøðiligu</p>
-<p>viðurskiftini eru ikki kannað, men tó hevur verið hildið, at jarðfrøðiligu viðurskiftini eru</p>
-<p>nøktandi.</p>
-<p xml:lang="dan"> <em type="bold">Alment</em> </p>
-<p>Landsverk var samsvarandi samtyktini biðið um at lýsa ymiskar loysnir afturímóti nevndu</p>
-<p>viðurskiftum.</p>
-<p>Grundarlagið undir hesum verður lýst niðanfyri:</p>
-<p><em type="italic">2.1 Samferðsluviðurskifti </em></p>
+<p>Frágreiðingin lýsir ætlanina, sum er fyri innkomuvegnum til Havnar og uppskot til broytingar í ætlanini. Á Føroya løgtingi var hin 13. november 2003 samtykt:</p>
+<p>Í frágreiðingini verða gjøgnumgingnir fleiri møguleikar, ið eru fyri farleið um Havnina. Teir eru grundaðir á teir landafrøðiligu møguleikarnar, ið eru fyri vegum og tunlum. Jarðfrøðiligu viðurskiftini eru ikki kannað, men tó hevur verið hildið, at jarðfrøðiligu viðurskiftini eru nøktandi. 2 <em type="bold">Alment </em></p>
+<p>Landsverk var samsvarandi samtyktini biðið um at lýsa ymiskar loysnir afturímóti nevndu viðurskiftum.</p>
+<p>Grundarlagið undir hesum verður lýst niðanfyri: 2.1 Samferðsluviðurskifti</p>
 <p>Málið við landsvegum er at knýta saman bygdir og býir, grundað á verandi og væntaða tørvin.</p>
-<p>Seinastu árini er miðvíst arbeitt við at leggja ferðsluna uttan um bygd øki, fyri m.a. at tryggja betri</p>
-<p>framkomuleika, tí vegirnir, sum eru, eru vorðnir ótíðarhóskandi, av ferðslutrygdarorsøkum og</p>
-<p>møguleika fyri at dagføra vegirnar í framtíðini. Grundalagið fyri at leggja og dagføra landsvegir eru</p>
-<p>norðurlendskir normar, serliga teir norsku, ið vera hildnir at hóska til viðurskiftini í Føroyum.</p>
-<p><em type="italic">Uppskot til samtyktar  </em></p>
-<p><em type="italic">viðvíkjandi innkoyring til Havnar </em></p>
-<p><em type="italic">Heitt verður á Landsstýrið  at kanna og leggja frágreiðing fyri Løgtingið um fyrimunir og </em></p>
-<p><em type="italic">vansar at gera ein tunnil sum part av innkoyringarvegnum til Havnar av Hvítanesvegnum, har </em></p>
-<p><em type="italic">dentur verður lagdur á bæði samferðsluviðurskifti, fíggjarlig-, umhvørvislig-, mentanarlig- og </em></p>
-<p><em type="italic">sosial viðurskifti </em></p>
-<p>4</p>
-<p>Í Føroyum eru, av teimum landafrøðiligu viðurskiftunum, nakrar avmarkingar, hvar vegir kunnu gerast. Tá</p>
-<p>ið ætlanir verða gjørdar um nýggjar vegir, eru nøkur vegatøknilig viðurskifti, ið eru serliga týdningarmikil,</p>
-<p>tey eru m.a. hallið á vegnum, íbindingar o.a. Hallið á vegnum verður sett í promillum, hetta merkir, at siga</p>
-<p>vit, at vegurin er 70 promillur, hækkar (ella lækkar) hann 70 millimetrar fyri hvønn metur, farið verður</p>
-<p>fram eftir vatnrøttum. Somuleiðis verður, tá ið ræður um hædd á vegi, nýtt orðið kota, t.d. merkir kota 69,</p>
-<p>at vit eru 69 metrar yvir sjógv á miðalvatni.</p>
-<p>Tá ið talan er um tunlar, er tað serliga tey jarðfrøðiligu viðurskiftini, ið seta avmarkingarnar. Ógvuliga</p>
-<p>nógvir trupulleikar hava víst seg at vera í sambandi við at halda tunlarnar, tí koyrast kann ikki í tunlunum,</p>
-<p>meðan arbeitt verður. Trygdarkrøvini seinastu árini eru sera nógv herd. At halda og dagføra verandi tunlar</p>
-<p>er fíggjarliga nógv tyngjandi afturímóti vegum annars. Játtanin til hetta er sera lítil, og stendur ikki mát við</p>
-<p>tørvin á økinum. Landsverk hevur tí ta greiðu fatan, at tunlar eiga bara at verða gjørdir, har annað ikki ber</p>
-<p xml:lang="dan">til.</p>
-<p>Í grannalondum okkara, serliga Noregi, verður hugsað um at fara burtur frá at gera tunlar, har aðrir</p>
-<p>møguleikar eru, av nýggjastu trygdarkrøvunum hjá ES. Hugsað verður heldur um at gera brúgvar (serliga</p>
-<p>um sund), hóast prísurin fyri meturin er 3-4 ferðir so høgur, sum fyri tunlar (samanlagt verður prísurin fyri</p>
-<p>brúgvar ofta á leið hin sami sum fyri tunlar, tí teinurin verður vanliga nógv styttri við brúm).</p>
-<p><em type="italic">2.2 Fíggjarlig viðurskifti </em></p>
-<p>Grundarlagið fyri fyrstu metingunum um vega- og tunnilsverkætlanum, t.e., áðrenn rætti prísurin verður</p>
-<p>fingin við útboði, eru tær royndir, ið LV hevur við slíkum verkætlanum. Seinastu árini eru krøvini til vegir,</p>
-<p>og serliga til tunnlar, nógv herd. Mett verður, at kostnaðurin er um 10-15.000 kr fyri meturin av landsvegi,</p>
-<p>og 40-50.000 kr fyri meturin av tunli. Samanumtikið er kostnaðurin fyri hvønn kilometur av tunli 3-4 ferðir</p>
-<p>kostnaðin av vegi, soleiðis er eisini, tá tað ræður um rakstur og viðlíkahald.</p>
-<p><em type="italic">2.3 Náttúru- og umhvørvislig viðurskifti </em></p>
-<p>Tá ið um náttúruviðurskifti ræður, verða allar vegaætlanir latnar avvarðandi myndugleikum til viðgerðar,</p>
-<p>fornminnisnevnd, nátturufriðingarnevnd o.ø til góðkenningar.</p>
-<p>Ein stórur trupulleiki í sambandi við ferðslu er m.a. óljóð og ristingar, men kann eisini vera annað, t.d.</p>
-<p>bilroykur. Stórur dentur verður nú lagdur í at fáa óljóðið niður, fleiri eru møguleikarnir, ið arbeitt verður</p>
-<p>við: akfør og dekk, minka hallið á vegnum, asfaltið, at hava longri millum veg og hús og fysiskar verjur</p>
-<p>(vollar). Landafrøðiligu avmarkingarnar, og tað at vegir so ella so ganga til bygd og úr bygdum øki, setir</p>
-<p>avmarkingar fyri, hvussu langt landsvegir kunna verða frá húsum. Landsverk hevur gjørt ymsar royndir við</p>
-<p>vollum, t.d. á Hvítanesvegnum, har óljóðið fekst niður í eina helvt við viðarlundina oman fyri Hoydalar.</p>
-<p>5</p>
-<p><em type="italic">2.4 Mentanarlig og sosial viðurskifti </em></p>
-<p>Tá ið um seyðahald (undir hesum rættir), traðir, neyst, bátahyljar o.t. ræður, hevur LV vanliga gjørt</p>
-<p>avtalu við viðkomandi eigarar, og eru ofta gjørdar gongu- og seyðasmogur, ið hava kunnað tryggjað</p>
-<p>gott samband um landsvegin, har tað er møguligt.</p>
-<p>Natúrliga nervar vegagerð tey, ið eiga lendið, ið vegurin skal ígjøgnum, og er tað tí í fleiri førum</p>
-<p>neyðugt at ognartaka lendið. Hetta er galdandi fyri allar vegir í landinum, og verður endurgjald latið</p>
-<p>fyri <span type="quote">”mist”</span> lendi og ampa.</p>
-<p>Í høvðusstaðarøkinum sær tað ikki út til, at øki, har ferðslan er rættiliga stór, hevur ávirkað sosialu</p>
-<p>viðurskiftini. Hyggja vit at vegateininum í landinum við mestu ferðsluni, Norðara ringvegi, eru eingi</p>
-<p>tekin um, at hesin vegurin skapar sosialar trupulleikar ella mistrivnað. Tá ið ein tíð er umliðin, laga</p>
-<p>viðurskiftini seg eftir teimum broyttu umstøðunum.</p>
-<p>Viðvíkjandi at nýta lendi til upprunaligu ætlanina til veg, frá eystan fyri <span type="quote">”Millum Gilja”</span> til íbindingina</p>
-<p>í Oyggjarvegin við Maskinmeistaraskúlan, er allur tørvurin á lendi um 51.000 m. Av hesum eigur</p>
-<p>Tórshavnar kommuna um 26%, hagarnir (Húsahagi og Hoyvíkshagi s.p) um 30% og privatu eigararnir</p>
-<p>um 44%. Broytingar av linjuføringini fara neyvan at broyta stórvegis hetta býtið.</p>
-<p>6</p>
-<p><em type="bold">         Tórshavn, Hoyvík og Hvítanes uml. 1970 </em></p>
-<p><em type="bold"> </em>Gongdin í málinum<em type="bold">  </em></p>
-<p>Sum tað sæst í viðmerkingunum til uppskotið, var tað í sambandi við tað, at Kollfjarðartunnilin varð</p>
-<p>gjørdur í 80’árunum, at ferðslan til Havnina var flutt av Oyggjarvegnum á Hvítanesvegin.</p>
+<p>Seinastu árini er miðvíst arbeitt við at leggja ferðsluna uttan um bygd øki, fyri m.a. at tryggja betri framkomuleika, tí vegirnir, sum eru, eru vorðnir ótíðarhóskandi, av ferðslutrygdarorsøkum og møguleika fyri at dagføra vegirnar í framtíðini. Grundalagið fyri at leggja og dagføra landsvegir eru norðurlendskir normar, serliga teir norsku, ið vera hildnir at hóska til viðurskiftini í Føroyum.</p>
+<p><em type="italic">Uppskot til samtyktar </em><em type="italic">viðvíkjandi innkoyring til Havnar </em></p>
+<p><em type="italic">Heitt verður á Landsstýrið at kanna og leggja frágreiðing fyri Løgtingið um fyrimunir og </em><em type="italic">vansar at gera ein tunnil sum part av innkoyringarvegnum til Havnar av Hvítanesvegnum, har </em><em type="italic">dentur verður lagdur á bæði samferðsluviðurskifti, fíggjarlig-, umhvørvislig-, mentanarlig- og </em><em type="italic">sosial viðurskifti </em>4 </p>
+<p>Í Føroyum eru, av teimum landafrøðiligu viðurskiftunum, nakrar avmarkingar, hvar vegir kunnu gerast. Tá ið ætlanir verða gjørdar um nýggjar vegir, eru nøkur vegatøknilig viðurskifti, ið eru serliga týdningarmikil, tey eru m.a. hallið á vegnum, íbindingar o.a. Hallið á vegnum verður sett í promillum, hetta merkir, at siga vit, at vegurin er 70 promillur, hækkar (ella lækkar) hann 70 millimetrar fyri hvønn metur, farið verður fram eftir vatnrøttum. Somuleiðis verður, tá ið ræður um hædd á vegi, nýtt orðið kota, t.d. merkir kota 69, at vit eru 69 metrar yvir sjógv á miðalvatni.</p>
+<p>Tá ið talan er um tunlar, er tað serliga tey jarðfrøðiligu viðurskiftini, ið seta avmarkingarnar. Ógvuliga nógvir trupulleikar hava víst seg at vera í sambandi við at halda tunlarnar, tí koyrast kann ikki í tunlunum, meðan arbeitt verður. Trygdarkrøvini seinastu árini eru sera nógv herd. At halda og dagføra verandi tunlar er fíggjarliga nógv tyngjandi afturímóti vegum annars. Játtanin til hetta er sera lítil, og stendur ikki mát við tørvin á økinum. Landsverk hevur tí ta greiðu fatan, at tunlar eiga bara at verða gjørdir, har annað ikki ber til.</p>
+<p>Í grannalondum okkara, serliga Noregi, verður hugsað um at fara burtur frá at gera tunlar, har aðrir møguleikar eru, av nýggjastu trygdarkrøvunum hjá ES. Hugsað verður heldur um at gera brúgvar (serliga um sund), hóast prísurin fyri meturin er 3-4 ferðir so høgur, sum fyri tunlar (samanlagt verður prísurin fyri brúgvar ofta á leið hin sami sum fyri tunlar, tí teinurin verður vanliga nógv styttri við brúm). 2.2 Fíggjarlig viðurskifti</p>
+<p>Grundarlagið fyri fyrstu metingunum um vega- og tunnilsverkætlanum, t.e., áðrenn rætti prísurin verður fingin við útboði, eru tær royndir, ið LV hevur við slíkum verkætlanum. Seinastu árini eru krøvini til vegir, og serliga til tunnlar, nógv herd. Mett verður, at kostnaðurin er um 10-15.000 kr fyri meturin av landsvegi, og 40-50.000 kr fyri meturin av tunli. Samanumtikið er kostnaðurin fyri hvønn kilometur av tunli 3-4 ferðir kostnaðin av vegi, soleiðis er eisini, tá tað ræður um rakstur og viðlíkahald. 2.3 Náttúru- og umhvørvislig viðurskifti</p>
+<p>Tá ið um náttúruviðurskifti ræður, verða allar vegaætlanir latnar avvarðandi myndugleikum til viðgerðar, fornminnisnevnd, nátturufriðingarnevnd o.ø til góðkenningar.</p>
+<p>Ein stórur trupulleiki í sambandi við ferðslu er m.a. óljóð og ristingar, men kann eisini vera annað, t.d. bilroykur. Stórur dentur verður nú lagdur í at fáa óljóðið niður, fleiri eru møguleikarnir, ið arbeitt verður við: akfør og dekk, minka hallið á vegnum, asfaltið, at hava longri millum veg og hús og fysiskar verjur (vollar). Landafrøðiligu avmarkingarnar, og tað at vegir so ella so ganga til bygd og úr bygdum øki, setir avmarkingar fyri, hvussu langt landsvegir kunna verða frá húsum. Landsverk hevur gjørt ymsar royndir við vollum, t.d. á Hvítanesvegnum, har óljóðið fekst niður í eina helvt við viðarlundina oman fyri Hoydalar.5 2.4 Mentanarlig og sosial viðurskifti</p>
+<p>Tá ið um seyðahald (undir hesum rættir), traðir, neyst, bátahyljar o.t. ræður, hevur LV vanliga gjørt avtalu við viðkomandi eigarar, og eru ofta gjørdar gongu- og seyðasmogur, ið hava kunnað tryggjað gott samband um landsvegin, har tað er møguligt.</p>
+<p>Natúrliga nervar vegagerð tey, ið eiga lendið, ið vegurin skal ígjøgnum, og er tað tí í fleiri førum neyðugt at ognartaka lendið. Hetta er galdandi fyri allar vegir í landinum, og verður endurgjald latið fyri <span type="quote">”mist”</span> lendi og ampa.</p>
+<p>Í høvðusstaðarøkinum sær tað ikki út til, at øki, har ferðslan er rættiliga stór, hevur ávirkað sosialu viðurskiftini. Hyggja vit at vegateininum í landinum við mestu ferðsluni, Norðara ringvegi, eru eingi tekin um, at hesin vegurin skapar sosialar trupulleikar ella mistrivnað. Tá ið ein tíð er umliðin, laga viðurskiftini seg eftir teimum broyttu umstøðunum.</p>
+<p>Viðvíkjandi at nýta lendi til upprunaligu ætlanina til veg, frá eystan fyri <span type="quote">”Millum Gilja”</span> til íbindingina í Oyggjarvegin við Maskinmeistaraskúlan, er allur tørvurin á lendi um 51.000 m2. Av hesum eigur</p>
+<p>Tórshavnar kommuna um 26%, hagarnir (Húsahagi og Hoyvíkshagi s.p) um 30% og privatu eigararnir um 44%. Broytingar av linjuføringini fara neyvan at broyta stórvegis hetta býtið. 6 <em type="bold">3 </em>Gongdin í málinum <em type="bold"></em></p>
+<p>Sum tað sæst í viðmerkingunum til uppskotið, var tað í sambandi við tað, at Kollfjarðartunnilin varð gjørdur í 80’árunum, at ferðslan til Havnina var flutt av Oyggjarvegnum á Hvítanesvegin.</p>
 <p>Í 1987 varð semja gjørd millum landsstýrismannin í samferðslumálum (Lasse Klein),</p>
-<p>Landsverkfrøðingin (Mikkjal Helmsdal) og Tórshavnar kommunu (Poul Michelsen) um at loysa teir</p>
-<p>ferðslutrupulleikar í Havn, ið stóðust av nýggja vegasambandinum.</p>
-<p>Sjónarmiðið hjá Tórshavnar kommunu var, at vegurin, sum var, var ikki egnaður at taka ímóti tí nógvu</p>
-<p>ferðsluni, ið nýggja vegasambandið fór at hava við sær. Tórshavnar kommuna vildi tí hava, at tann 3.</p>
-<p>ringvegurin (les innkomuvegurin), sum Landsverkfrøðingurin hevði prosjekterað úr Oyggjarvegnum,</p>
-<p>gjøgnum Hoyvíkshagan og í landsvegin norðan fyri Hvítanes, var gjørdur so skjótt sum gjørligt, so</p>
-<p>hann kundi verða liðugur samstundis sum tunnilsvegurin.</p>
-<p>Sjónarmiðið hjá Landstýrinum var, at verandi vegur frá Hvítanesi oman í ringveg 2 (nú Eystari</p>
-<p>ringvegur) kundi nýtast nøkur ár afturat, og tað tí ikki skuldi verið neyðugt at gjørt alt arbeiðið í senn;</p>
-<p>eisini av fíggjarligum ávum. Landið vildi gera tær ábøtur á Hvítanesvegin, sum vóru neyðugar. Tær</p>
-<p>7</p>
-<p>umfataðu m.a at gera sýnisviðurskiftini betri, gera busssteðgipláss og breiðka vegin fram við</p>
-<p>viðarlundini.</p>
-<p>Semja var um, at øll longdin úr endanum á Oyggjarvegnum til undir Varða (Krákugjógv) og til</p>
-<p>íbindingina í landsvegin í Kollfjarðardali – t.e. innkomuvegurin og tunnilsvegurin – skuldi vera ein</p>
-<p>samanhangandi vegagerð, sum skuldi verða gjørd í somu atløgu, tó soleiðis, at roknast mátti við, at</p>
-<p>tunnilsvegurin varð tann fyrri, ið varð gjørdur liðugur.</p>
-<p>Mett var, at øll vegagerðin skuldi verða liðug 1993-95, alt eftir hvussu fíggjarvánirnar og støðan</p>
-<p>viðvíkjandi arbeiðsmegini fóru at verða. Viðmerkt var, at arbeiðið helst kundi gerast skjótari, um</p>
-<p>Tórshavnar kommuna vildi medvirka at fíggja ætlanina. Tórshavnar kommuna skuldi í hesum tíðarbili</p>
-<p>átaka sær at gera teir vegir, sum gjørdu, at innkomuvegurin fekk sína fulla nyttu beinanvegin, undir</p>
-<p>hesum bøta um omankoyringarnar úr Hoyvíkshaganum.</p>
+<p>Landsverkfrøðingin (Mikkjal Helmsdal) og Tórshavnar kommunu (Poul Michelsen) um at loysa teir ferðslutrupulleikar í Havn, ið stóðust av nýggja vegasambandinum.</p>
+<p>Sjónarmiðið hjá Tórshavnar kommunu var, at vegurin, sum var, var ikki egnaður at taka ímóti tí nógvu ferðsluni, ið nýggja vegasambandið fór at hava við sær. Tórshavnar kommuna vildi tí hava, at tann 3. ringvegurin (les innkomuvegurin), sum Landsverkfrøðingurin hevði prosjekterað úr Oyggjarvegnum, gjøgnum Hoyvíkshagan og í landsvegin norðan fyri Hvítanes, var gjørdur so skjótt sum gjørligt, so hann kundi verða liðugur samstundis sum tunnilsvegurin.</p>
+<p>Sjónarmiðið hjá Landstýrinum var, at verandi vegur frá Hvítanesi oman í ringveg 2 (nú Eystari ringvegur) kundi nýtast nøkur ár afturat, og tað tí ikki skuldi verið neyðugt at gjørt alt arbeiðið í senn; eisini av fíggjarligum ávum. Landið vildi gera tær ábøtur á Hvítanesvegin, sum vóru neyðugar. Tær</p>
+<p><em type="bold">Tórshavn, Hoyvík og Hvítanes uml. 1970 </em>7 umfataðu m.a at gera sýnisviðurskiftini betri, gera busssteðgipláss og breiðka vegin fram við viðarlundini. </p>
+<p>Semja var um, at øll longdin úr endanum á Oyggjarvegnum til undir Varða (Krákugjógv) og til íbindingina í landsvegin í Kollfjarðardali – t.e. innkomuvegurin og tunnilsvegurin – skuldi vera ein samanhangandi vegagerð, sum skuldi verða gjørd í somu atløgu, tó soleiðis, at roknast mátti við, at tunnilsvegurin varð tann fyrri, ið varð gjørdur liðugur.</p>
+<p>Mett var, at øll vegagerðin skuldi verða liðug 1993-95, alt eftir hvussu fíggjarvánirnar og støðan viðvíkjandi arbeiðsmegini fóru at verða. Viðmerkt var, at arbeiðið helst kundi gerast skjótari, um</p>
+<p>Tórshavnar kommuna vildi medvirka at fíggja ætlanina. Tórshavnar kommuna skuldi í hesum tíðarbili átaka sær at gera teir vegir, sum gjørdu, at innkomuvegurin fekk sína fulla nyttu beinanvegin, undir hesum bøta um omankoyringarnar úr Hoyvíkshaganum.</p>
 <p>Í 1992 varð Kollfjarðartunnilin latin upp, og størsti parturin av ferðsluni, ið áður fór eftir</p>
-<p>Oyggjarvegnum, varð fluttur á Hvítanesvegin. Hetta vaks ferðsluna nógv, og er sum avtalað, síðani</p>
-<p>gjørd nógv tiltøk at gera viðurskiftini betri. Tað má tó ásannast, at Hvítanesvegurin er rættiliga tyngdur</p>
-<p>av nógvu ferðsluni.</p>
-<p>Sum tað sæst á stabbamyndini niðanfyri, táttaði ferðslan eftir Hvítanesvegnum (við Hoydalsá) í 2003</p>
-<p>upp í 8000 akfør um samdøgrið, og bendir gongdin higartil á, at vøksturin heldur fram.</p>
+<p>Oyggjarvegnum, varð fluttur á Hvítanesvegin. Hetta vaks ferðsluna nógv, og er sum avtalað, síðani gjørd nógv tiltøk at gera viðurskiftini betri. Tað má tó ásannast, at Hvítanesvegurin er rættiliga tyngdur av nógvu ferðsluni.</p>
+<p>Sum tað sæst á stabbamyndini niðanfyri, táttaði ferðslan eftir Hvítanesvegnum (við Hoydalsá) í 2003 upp í 8000 akfør um samdøgrið, og bendir gongdin higartil á, at vøksturin heldur fram.</p>
 <p>Sum tað eisini sæst á stabbamyndini omanfyri, var ferðslan í miðal um samdøgrið í 2003 gjøgnum</p>
-<p>Kollfjarðartunnilin 4872 akfør, um Hoydalsá 7976 akfør og eftir Oyggjarvegnum 529 akfør. Soleiðis</p>
-<p>má metast, at út ímóti triðingurin av ferðsluni eftir Hvítanesvegnum kemur úr Tórshavnarøkinum</p>
-<p>(Kaldbak, Hvítanesi og Hoyvíkshaganum), og tveir triðingar koma úr økinum uttanfyri.</p>
-<p><em type="bold">Ársmiðalferðsla</em> </p>
-<p>Hoydalsá, Tórshavn - HoydalarÍ Kollafjarðartunnlinum</p>
-<p>Á Oygjarvegnum, á Bøllureyni</p>
-<p>1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003</p>
-<p>8</p>
+<p>Kollfjarðartunnilin 4872 akfør, um Hoydalsá 7976 akfør og eftir Oyggjarvegnum 529 akfør. Soleiðis má metast, at út ímóti triðingurin av ferðsluni eftir Hvítanesvegnum kemur úr Tórshavnarøkinum (Kaldbak, Hvítanesi og Hoyvíkshaganum), og tveir triðingar koma úr økinum uttanfyri.</p>
+<p><em type="bold">Ársmiðalferðsla </em>01000200030004000500060007000800090001991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 </p>
+<p>Hoydalsá, Tórshavn - Hoydalar</p>
+<p>Í Kollafjarðartunnlinum</p>
+<p>Á Oygjarvegnum, á Bøllureyni8</p>
 <p>Tórshavnar kommuna hevur fleiri ferðir víst á áðurnevndu semju og heitt á Løgtingið, Landstýrið og</p>
-<p>Vinnumálaráðið at fara undir arbeiðið at gera innkomuvegin. Síðst í 2000 svaraði Vinnumálaráðið, at</p>
-<p>landsstýrismaðurin var sinnaður at loysa á málið saman við kommununi.</p>
-<p>Á løgtingsfíggjarætlanin fyri 2002 vóru játtaðar 4 mió, í 2003 3 mió og í 2004 4,5 mió til vegin.</p>
-<p><em type="italic">3.1 Støðan nú </em></p>
-<p>Nú verður arbeitt eftir tí ætlan, at innkomuvegurin verður gjørdur í tveimum byggistigum:</p>
-<p>- 1. byggistig er teinurin frá Oyggjarvegnum til Millum Gilja/Eystan Gil, har innkomuvegurin verður</p>
-<p>bundin í kommunala ringvegin. Kommunali ringvegurin, ið Tórshavnar kommuna letur gera, verður</p>
-<p>frá Millum Gilja/Eystan Gil til íbinding í landsvegin við Sandvíkahjalla.</p>
-<p>- 2. byggistig er teinurin frá Millum Gilja/Eystan Gil, til íbinding í landsvegin norðan fyri</p>
+<p>Vinnumálaráðið at fara undir arbeiðið at gera innkomuvegin. Síðst í 2000 svaraði Vinnumálaráðið, at landsstýrismaðurin var sinnaður at loysa á málið saman við kommununi.</p>
+<p>Á løgtingsfíggjarætlanin fyri 2002 vóru játtaðar 4 mió, í 2003 3 mió og í 2004 4,5 mió til vegin. 3.1 Støðan nú</p>
+<p>Nú verður arbeitt eftir tí ætlan, at innkomuvegurin verður gjørdur í tveimum byggistigum: - 1. byggistig er teinurin frá Oyggjarvegnum til Millum Gilja/Eystan Gil, har innkomuvegurin verður bundin í kommunala ringvegin. Kommunali ringvegurin, ið Tórshavnar kommuna letur gera, verður frá Millum Gilja/Eystan Gil til íbinding í landsvegin við Sandvíkahjalla. - 2. byggistig er teinurin frá Millum Gilja/Eystan Gil, til íbinding í landsvegin norðan fyri</p>
 <p>Skarðshjalla. Kommunali ringvegurin verður tá bundin í innkomuvegin við útflætting, rundkoyring e.l.</p>
-<p>Landsverk hevur latið gjørt verkætlan viðvíkjandi innkomuvegnum. Henda verkætlan umfatar nýggjan</p>
-<p>innkomuveg norðanifrá til Havnar frá landsvegnum norðan fyri Hvítanes gjøgnum Skarðsgil millum</p>
-<p>Sandvíkahjalla og Skarðshjalla. Forprosjekt er gjørt fyri alt strekkið frá Hvítanesi (st. 10900) til</p>
-<p>íbinding í Oyggjarvegin (st 6300). Verkætlan er gjørd fyri brúgvar um Hoydalsá og til undirføring av</p>
+<p>Landsverk hevur latið gjørt verkætlan viðvíkjandi innkomuvegnum. Henda verkætlan umfatar nýggjan innkomuveg norðanifrá til Havnar frá landsvegnum norðan fyri Hvítanes gjøgnum Skarðsgil millum</p>
+<p>Sandvíkahjalla og Skarðshjalla. Forprosjekt er gjørt fyri alt strekkið frá Hvítanesi (st. 10900) til íbinding í Oyggjarvegin (st 6300). Verkætlan er gjørd fyri brúgvar um Hoydalsá og til undirføring av</p>
 <p>Sundsvegnum.</p>
-<p>Frá økinum, har Flatarvegurin kemur í innkomuvegin (st 8040) og norður ímóti Løgmannabreytt (st</p>
-<p>8400) vórðu gjørdir 360 m í 2003. Teinurin frá Flatarvegnum og suðureftir (til st 7910), 130 m ímóti</p>
+<p>Frá økinum, har Flatarvegurin kemur í innkomuvegin (st 8040) og norður ímóti Løgmannabreytt (st 8400) vórðu gjørdir 360 m í 2003. Teinurin frá Flatarvegnum og suðureftir (til st 7910), 130 m ímóti</p>
 <p>Hoydalsá, er í gerð, og verður væntandi liðugur í ár . Alt arbeiðið er gjørt í neyvum samstarvi við</p>
-<p>Tórshavnar kommunu.</p>
-<p>9</p>
-<p><em type="bold">Gjøgnumgongd viðvíkjandi uppskotum til nýggja innkoyring til Havnina  </em></p>
-<p> <em type="bold">Uppskot, sum er, til innkomuveg </em></p>
+<p>Tórshavnar kommunu. 9</p>
+<p><em type="bold">Gjøgnumgongd viðvíkjandi uppskotum til nýggja innkoyring til Havnina </em>4 <em type="bold">Uppskot, sum er, til innkomuveg </em></p>
 <p>Myndin vísir ætlanina, sum er, fyri innkomuvegin og <span type="quote" xml:lang="dan">“kommunala”</span> ringvegin.</p>
 <p>Innkomuvegurin gongur frá Oyggjarvegnum til íbinding í Kaldbaksvegin norðan fyri Sandvíkahjalla.</p>
-<p>Øll longdin á innkomuvegnum er um 4600 metrar, og er kostnaðarmetingin 76,5 mió. Fyri 1.</p>
-<p>byggistig, frá Oyggjarvegnum til íbindingina í <span type="quote" xml:lang="dan">“kommunala”</span> ringvegin við Millum Gilja/Eystan Gil,</p>
-<p>er kostnaðarmetingin 38 mió.</p>
+<p>Øll longdin á innkomuvegnum er um 4600 metrar, og er kostnaðarmetingin 76,5 mió. Fyri 1. byggistig, frá Oyggjarvegnum til íbindingina í <span type="quote" xml:lang="dan">“kommunala”</span> ringvegin við Millum Gilja/Eystan Gil, er kostnaðarmetingin 38 mió.</p>
 <p>Kommunali ringvegurin gongur frá Sandvíkahjalla til íbinding í innkomuvegin norðan fyri Millum</p>
 <p xml:lang="dan">Gilja/Eystan Gil.</p>
-<p>Í sambandi við 1. byggistig av innkomuvegnum, verða innkomuvegurin og <span type="quote" xml:lang="dan">“kommunali”</span> ringvegurin</p>
-<p>samanbundnir, sum víst á tekningini. Í sambandi við 2. byggistig, verður <span type="quote" xml:lang="dan">“kommunali”</span> ringvegurin</p>
-<p>bundin í innkomuvegin við útflætting ella aðrari loysn.</p>
-<p>10</p>
-<p><em type="italic">4.1 Íbindingin í Oyggjarvegin við Maskinmeistaraskúlan (undir Krákugjógv) </em></p>
-<p>Hesin teinurin gongur norðan fyri/oman fyri ovastu sethúsini við Villingardalsvegin, í</p>
-<p>skráanum oman fyri vatnbrunnarnar við Villingardalsvegin og til íbinding í vegin, sum er,</p>
-<p>eystan fyri Maskinmeistaraskúlan.</p>
-<p>Eingir trupulleikar eru við halli á vegnum á síðsta teininum; longdin á teininum frá</p>
-<p>vatnbrunnunum til íbinding er um 600 m. Hallið á  Oyggarvegnum niðan móti Brandstøðini er</p>
-<p>um 90 promillur. Hetta er væl oman fyri vanliga hægsta markið, sum er 70 promillur, sum LV</p>
-<p>nú nýtir fyri nýggjan landsveg. Aðrir trupulleikar av hesi veglinjuni eru m.a, at beinleiðis</p>
-<p>tilkoyring helst má vera frá Maskinmeistaraskúlanum, bilasøluni hjá Meinhard Arge og</p>
-<p>teimum húsum, ið har standa, beinleiðis upp at innkomuvegin.</p>
-<p>Samanbinding, sum er, millum Oyggjarvegin og ringvegin/Marknagilsvegin kann vera trupul</p>
-<p>og skapa fløskuháls av vantandi útsýni frá íbindingini í ringvegin og avmarkaðu longdini av</p>
-<p>sambindingarvegnum (60 m), sum í framtíðini kann gerast ov stutt, um vegurin sum ætlað,</p>
-<p>verður høvuðsíbindingin til Havnar. Avkoyring av innkomuvegnum á sambindingarvegin, ið</p>
-<p>verður millum innkomuvegin og Oyggjarvegin, fer harumframt at krevja kanalisering (eyka</p>
-<p>koyrispor til ferðsluna, ið skal snara av) ella rundkoyring, og kann tað verða trupult at finna</p>
-<p>pláss til hetta undir umstøðum, sum tær eru. Aftur at hesum kemur, at íbindingin, sum er, frá</p>
-<p>Skotarók og frá Brandstøðini í Oyggjarvegin eru á einum stað, har sýnið ikki lýkur galdandi</p>
-<p>krøv til íbinding í landsveg.</p>
-<p>11</p>
-<p>Myndin omanfyri vísir traðir og stykki, har ætlanin er at leggja vegin í sambandi við 1.</p>
-<p>byggistig av innkomuvegnum. Sum áður nevnt, er tørvurin á lendi til 1. byggistig av</p>
-<p>innkomuvegnum um 51.000 m, har um 26 % eru kommunal øki, 30 % landsjørð og um 44 %</p>
-<p>ella um 22000 m privat jørð.</p>
-<p>Teinurin frá Oyggjarvegnum (við Maskinmeistaraskúlan) til Hoydalsá (við Sundsvegin) eru</p>
-<p>um 1600 metrar. Á hesum teininum verður farið gjøgnum 24 traðir og stykki, 7 av hesum</p>
-<p>økjum eru ogn hjá Tórshavnar kommunu og 1 landsjørð. Sum tað sæst, so verða um 7 av</p>
-<p>traðunum skornar í tvey av vegnum (eina trøð eigur Tórshavnar kommuna), væntast kann at</p>
-<p>tey øki, ið eru eftir, framvegis kunnu nýtast sum traðir, og kemur víddin á hvørjum stykki at</p>
-<p>liggja frá um 2800 m upp í um 5500 m.</p>
-<p>Á hinum teininum, frá Hoydalsá til økið oman fyri Løgmannabreyt, har 1. byggistig endar, er</p>
-<p>bert talan om kommunala jørð og landsjørð.</p>
-<p>Verður hugsað um umhvørvisligar ampar frá vegnum, er tað serliga óljóð frá ferðsluni, ið</p>
-<p>kann órógva grannalagið við vegin. Sera trupult er at seta upp eitt álítandi modell fyri  óljóð í</p>
-<p>sambandi við vegin, men verður hugt at lendinum, har vegurin fer ígjøgnum, so liggur hallið,</p>
-<p>har tað er mest um 50 promillur, hetta setur óljóðið niður. Á næstan øllum teininum er bygt</p>
-<p>niðan fyri vegin, og kann tí væntast, at hetta í sjálvum sær verjir fyri óljóðið, og kann, um</p>
-<p>tørvur er á tí, ljóðverja (volli ella tílíkt) lættliga verða gjørt.</p>
-<p>12</p>
-<p><em type="italic">4.2 Ætlanin, sum er, fyri innkomuvegi: Kalbaksvegur – Eystan Gil/Løgmannabreyt  </em></p>
-<p>Talan er um 2600 metrar langan veg frá íbinding, møguliga við rundkoyring, í Kaldbaksvegin nakað</p>
-<p>innan fyri Skarðshjalla til íbindingina í kommunala ringvegin oman fyri millum Eystan Gil</p>
-<p>/Løgmannabreyt.</p>
-<p>Hallið á vegnum frá íbindingini í Kaldbaksvegin nakað niðan um Sandvíkahjalla, verður á fyrsta</p>
-<p>strekkinum, sum er á 950 metrar um 70 promillur, og haðani væl minni. Í sambandi við íbindingina í</p>
-<p>Kaldbaksvegin verður lagt upp fyri íbinding av einum tunli millum Suður-Eysturoy og Havnina.</p>
-<p>13</p>
-<p> <em type="bold">Innkomuvegurin, uppskot til broytingar.</em> </p>
-<p>Landsverk hevur latið gera ymisk uppskot til broytta linjuføring fyri veg, umframt tunlar í økinum,</p>
-<p>samsvarandi løgtingssamtyktini, har heitt verður á Landsstýrið at kanna árinini av innkomuvegnum og</p>
-<p>møguligar tunnilsloysnir í økinum.</p>
-<p><em type="italic">5.1 Íbinding í Oyggjarvegin júst niðan fyri Brandstøðina </em></p>
-<p>Landsverk hevur gjørt eitt uppskot, har innkomuvegurin verður fluttur nakað longur niðan í skráan</p>
-<p>móti Húsareyni.</p>
-<p>Í sambandi við eina framtíðar vegaføring verður møguligt at gera eina íbinding við Krákugjóv (á</p>
-<p>slættanum har) og møguliga í eina rundkoyring á ringvegnum uml. 100 metrar uttan fyri/vestan fyri</p>
-<p>íbindingina sum er. Á myndini sæst fyribils ætlan fyri íbinding í Oyggjarvegin (við reyðum) og</p>
-<p>møguliga framtíðar linjan og íbindingin (bláa linjan).</p>
-<p>14</p>
-<p>Við hesi loysn fer hallið á innkomuvegnum at verða um 50 promillur frá vatnbrunnunum til</p>
-<p>íbindingina við Krákugjógv, og haðani til íbinding við brandstøðina um 35 promillur. Hallið á</p>
-<p>íbindingarvegnum verður niðan fyri 50 promillur. Við hesum kunnu trupulleikarnir somuleiðis verða</p>
-<p>loystir við íbindingini við Skotarók, ið annaðhvørt kann bindast beinleiðis í rundkoyringina á</p>
-<p>ringvegnum ella í vegastubban, ið verður eftir av Oyggjarvegnum har, og haðani í sambindingarvegin.</p>
-<p>Við hesi loysn slepst somuleiðis undan bratta teininum frá Maskinmeistaraskúlanum til brandstøðina,</p>
-<p>og kann hetta tryggja betri framkomileika borið saman við ætlanir fyri vegi til íbinding í landsvegin til</p>
-<p>Gomlurætt við Velbastaðháls (umvegis Marknagil og Marknagilsháls oman fyri Fjallið, Norðastahorn</p>
-<p>og Havnardal). Somuleiðis slepst undan møguligum trupulleikum í sambandi við íbinding í</p>
-<p>kommunala ringvegin.</p>
-<p>Vansin við hesi loysnini er, at lutfalsliga nógv øki fer til vegagerð við Krákugjóv, øki ið helst má</p>
-<p>haldast at hava tíðandi rekreativt og møguliga søguligt virði. Bæði hendan og upprunaliga ætlanin til</p>
-<p>veg við Villingardalsvegin fara í førum at verða ein forðing fyri atgongd til økið oman fyri vegin, bæði</p>
-<p>tær traðir ið eru eftir, og sjálvt Húsareyn.</p>
-<p>15</p>
-<p>Fíggjarliga er lítil munur á hesi loysnini og verandi ætlanini til veg, um bíðað verður við vegnum</p>
-<p>niðan til brandstøðina. Roknað verður við, at teir um 100 metrar av vegi, ið skulu gerast, umframt</p>
-<p>broyting av verkætlanini fara at kosta um 2 mió.</p>
-<p>Í høvðusheitum kann sigast, at henda loysnin kann tryggja betri framkomileika í sambandi við</p>
-<p>framtíðarloysn til veg uttan um Havnina.</p>
-<p><em type="italic">5.2 Tunnil Villingadalsvegur – við Krákugjógv </em></p>
-<p>Talan er um tunnil, ið er uml. 740 metrar til longdar, úr kotu 163 við Villingardalsvegin til kotu 130</p>
-<p>við Krákugjógv, hallið verður soleiðis um 45 promillur.</p>
-<p>Havast skal í huga, at tunnilsinnsløgini fara at verða rættiliga sjónlig, helst munandi størri enn myndin</p>
-<p>gevur ábending um. Sjálvt innslagið, t.e, har tunnilin fer inn í fjallið, fer at hava eitt loddrætt ben, 12</p>
-<p>15 metrar, og má lendið uttanum javnast við skráum.</p>
+<p>Í sambandi við 1. byggistig av innkomuvegnum, verða innkomuvegurin og <span type="quote" xml:lang="dan">“kommunali”</span> ringvegurin samanbundnir, sum víst á tekningini. Í sambandi við 2. byggistig, verður <span type="quote" xml:lang="dan">“kommunali”</span> ringvegurin bundin í innkomuvegin við útflætting ella aðrari loysn. 10 4.1 Íbindingin í Oyggjarvegin við Maskinmeistaraskúlan (undir Krákugjógv)</p>
+<p>Hesin teinurin gongur norðan fyri/oman fyri ovastu sethúsini við Villingardalsvegin, í skráanum oman fyri vatnbrunnarnar við Villingardalsvegin og til íbinding í vegin, sum er, eystan fyri Maskinmeistaraskúlan.</p>
+<p>Eingir trupulleikar eru við halli á vegnum á síðsta teininum; longdin á teininum frá vatnbrunnunum til íbinding er um 600 m. Hallið á Oyggarvegnum niðan móti Brandstøðini er um 90 promillur. Hetta er væl oman fyri vanliga hægsta markið, sum er 70 promillur, sum LV nú nýtir fyri nýggjan landsveg. Aðrir trupulleikar av hesi veglinjuni eru m.a, at beinleiðis tilkoyring helst má vera frá Maskinmeistaraskúlanum, bilasøluni hjá Meinhard Arge og teimum húsum, ið har standa, beinleiðis upp at innkomuvegin.</p>
+<p>Samanbinding, sum er, millum Oyggjarvegin og ringvegin/Marknagilsvegin kann vera trupul og skapa fløskuháls av vantandi útsýni frá íbindingini í ringvegin og avmarkaðu longdini av sambindingarvegnum (60 m), sum í framtíðini kann gerast ov stutt, um vegurin sum ætlað, verður høvuðsíbindingin til Havnar. Avkoyring av innkomuvegnum á sambindingarvegin, ið verður millum innkomuvegin og Oyggjarvegin, fer harumframt at krevja kanalisering (eyka koyrispor til ferðsluna, ið skal snara av) ella rundkoyring, og kann tað verða trupult at finna pláss til hetta undir umstøðum, sum tær eru. Aftur at hesum kemur, at íbindingin, sum er, frá</p>
+<p>Skotarók og frá Brandstøðini í Oyggjarvegin eru á einum stað, har sýnið ikki lýkur galdandi krøv til íbinding í landsveg. 11</p>
+<p>Myndin omanfyri vísir traðir og stykki, har ætlanin er at leggja vegin í sambandi við 1. byggistig av innkomuvegnum. Sum áður nevnt, er tørvurin á lendi til 1. byggistig av innkomuvegnum um 51.000 m2, har um 26 % eru kommunal øki, 30 % landsjørð og um 44 % ella um 22000 m2 privat jørð.</p>
+<p>Teinurin frá Oyggjarvegnum (við Maskinmeistaraskúlan) til Hoydalsá (við Sundsvegin) eru um 1600 metrar. Á hesum teininum verður farið gjøgnum 24 traðir og stykki, 7 av hesum økjum eru ogn hjá Tórshavnar kommunu og 1 landsjørð. Sum tað sæst, so verða um 7 av traðunum skornar í tvey av vegnum (eina trøð eigur Tórshavnar kommuna), væntast kann at tey øki, ið eru eftir, framvegis kunnu nýtast sum traðir, og kemur víddin á hvørjum stykki at liggja frá um 2800 m2 upp í um 5500 m2.</p>
+<p>Á hinum teininum, frá Hoydalsá til økið oman fyri Løgmannabreyt, har 1. byggistig endar, er bert talan om kommunala jørð og landsjørð.</p>
+<p>Verður hugsað um umhvørvisligar ampar frá vegnum, er tað serliga óljóð frá ferðsluni, ið kann órógva grannalagið við vegin. Sera trupult er at seta upp eitt álítandi modell fyri óljóð í sambandi við vegin, men verður hugt at lendinum, har vegurin fer ígjøgnum, so liggur hallið, har tað er mest um 50 promillur, hetta setur óljóðið niður. Á næstan øllum teininum er bygt niðan fyri vegin, og kann tí væntast, at hetta í sjálvum sær verjir fyri óljóðið, og kann, um tørvur er á tí, ljóðverja (volli ella tílíkt) lættliga verða gjørt. 12 4.2 Ætlanin, sum er, fyri innkomuvegi: Kalbaksvegur – Eystan Gil/Løgmannabreyt</p>
+<p>Talan er um 2600 metrar langan veg frá íbinding, møguliga við rundkoyring, í Kaldbaksvegin nakað innan fyri Skarðshjalla til íbindingina í kommunala ringvegin oman fyri millum Eystan Gil /Løgmannabreyt.</p>
+<p>Hallið á vegnum frá íbindingini í Kaldbaksvegin nakað niðan um Sandvíkahjalla, verður á fyrsta strekkinum, sum er á 950 metrar um 70 promillur, og haðani væl minni. Í sambandi við íbindingina í</p>
+<p>Kaldbaksvegin verður lagt upp fyri íbinding av einum tunli millum Suður-Eysturoy og Havnina. 13 5 <em type="bold">Innkomuvegurin, uppskot til broytingar. </em></p>
+<p>Landsverk hevur latið gera ymisk uppskot til broytta linjuføring fyri veg, umframt tunlar í økinum, samsvarandi løgtingssamtyktini, har heitt verður á Landsstýrið at kanna árinini av innkomuvegnum og møguligar tunnilsloysnir í økinum. 5.1 Íbinding í Oyggjarvegin júst niðan fyri Brandstøðina</p>
+<p>Landsverk hevur gjørt eitt uppskot, har innkomuvegurin verður fluttur nakað longur niðan í skráan móti Húsareyni.</p>
+<p>Í sambandi við eina framtíðar vegaføring verður møguligt at gera eina íbinding við Krákugjóv (á slættanum har) og møguliga í eina rundkoyring á ringvegnum uml. 100 metrar uttan fyri/vestan fyri íbindingina sum er. Á myndini sæst fyribils ætlan fyri íbinding í Oyggjarvegin (við reyðum) og møguliga framtíðar linjan og íbindingin (bláa linjan). 14</p>
+<p>Við hesi loysn fer hallið á innkomuvegnum at verða um 50 promillur frá vatnbrunnunum til íbindingina við Krákugjógv, og haðani til íbinding við brandstøðina um 35 promillur. Hallið á íbindingarvegnum verður niðan fyri 50 promillur. Við hesum kunnu trupulleikarnir somuleiðis verða loystir við íbindingini við Skotarók, ið annaðhvørt kann bindast beinleiðis í rundkoyringina á ringvegnum ella í vegastubban, ið verður eftir av Oyggjarvegnum har, og haðani í sambindingarvegin.</p>
+<p>Við hesi loysn slepst somuleiðis undan bratta teininum frá Maskinmeistaraskúlanum til brandstøðina, og kann hetta tryggja betri framkomileika borið saman við ætlanir fyri vegi til íbinding í landsvegin til</p>
+<p>Gomlurætt við Velbastaðháls (umvegis Marknagil og Marknagilsháls oman fyri Fjallið, Norðastahorn og Havnardal). Somuleiðis slepst undan møguligum trupulleikum í sambandi við íbinding í kommunala ringvegin.</p>
+<p>Vansin við hesi loysnini er, at lutfalsliga nógv øki fer til vegagerð við Krákugjóv, øki ið helst má haldast at hava tíðandi rekreativt og møguliga søguligt virði. Bæði hendan og upprunaliga ætlanin til veg við Villingardalsvegin fara í førum at verða ein forðing fyri atgongd til økið oman fyri vegin, bæði tær traðir ið eru eftir, og sjálvt Húsareyn. 15</p>
+<p>Fíggjarliga er lítil munur á hesi loysnini og verandi ætlanini til veg, um bíðað verður við vegnum niðan til brandstøðina. Roknað verður við, at teir um 100 metrar av vegi, ið skulu gerast, umframt broyting av verkætlanini fara at kosta um 2 mió.</p>
+<p>Í høvðusheitum kann sigast, at henda loysnin kann tryggja betri framkomileika í sambandi við framtíðarloysn til veg uttan um Havnina. 5.2 Tunnil Villingadalsvegur – við Krákugjógv</p>
+<p>Talan er um tunnil, ið er uml. 740 metrar til longdar, úr kotu 163 við Villingardalsvegin til kotu 130 við Krákugjógv, hallið verður soleiðis um 45 promillur.</p>
+<p>Havast skal í huga, at tunnilsinnsløgini fara at verða rættiliga sjónlig, helst munandi størri enn myndin gevur ábending um. Sjálvt innslagið, t.e, har tunnilin fer inn í fjallið, fer at hava eitt loddrætt ben, 12-15 metrar, og má lendið uttanum javnast við skráum.</p>
 <p>Kostnaðarmetingin fyri tunnilin, grundað á ein kilometurprís 40 til 50 mió/km, er 30 til 37 mió.</p>
 <p>Samsvarandi vegalongd, grundað á kilometurprísin 10 til 15 mió/km, er kostnaðurin bert 8 - 11 mió.</p>
-<p>Metti meirkostnaðurin fyri ein tunnil afturímóti vegi uttanfyri, verður soleiðis, um roknað verður við</p>
-<p>miðalprísum, 27 mió, ið svarar til ein meirkostnað fyri 1. byggistig um 70%, so kostnaðarmetingin fer</p>
-<p>úr 38 mió upp í 65 mió.</p>
-<p>16</p>
-<p>Verður hugt at lendisnýtsluni í sambandi við tunnilin, sæst á myndini omanfyri, at 9 traðir verða</p>
-<p>órørdar av tunnilsgerðini samanborið við ætlaðu vegagerðina (Tórshavnar kommuna eigur tvær), ella</p>
-<p>samanlagt um 17500 m. Í mun til óljóð, verður hetta tað sama við tunnilsmunnarnar sum við</p>
-<p>vegaætlanini, men tað slepst undan møguligum ampa við Villingardalsvegin.</p>
-<p>Fyrimunurin við hesi loysnini er, at betri atgongd fæst til økið við Villingardalsvegin. Harumframt</p>
-<p>verða rættiliga fáar traðir nervaðar av sambandinum og fæst ótarnað samband til Húsareyn.</p>
-<p>Harafturímóti verður økið við Krákugjóv (økið oman fyri Maskinmeistaraskúlan) rættiliga nógv</p>
-<p>ávirkað av vegagerðini og beninum í sambandi við tunnilsmunnan. Eystari tunnilsmunnin, við</p>
-<p>Villingardalsvegin, fer somuleiðis við nógvum øki til tunnilsmunnan og øðrum útbúnaði (skeltum,</p>
-<p>tøknismáttum o.t.) í sambandi við tunnilin.</p>
-<p>17</p>
-<p> <em type="bold">Møguliga aðrar tunnilsloysnir</em> </p>
-<p><em type="italic">6.1 Tunnil 2: við Krákugjógv – Marknagil (við ríðibreytina) </em></p>
+<p>Metti meirkostnaðurin fyri ein tunnil afturímóti vegi uttanfyri, verður soleiðis, um roknað verður við miðalprísum, 27 mió, ið svarar til ein meirkostnað fyri 1. byggistig um 70%, so kostnaðarmetingin fer úr 38 mió upp í 65 mió. 16</p>
+<p>Verður hugt at lendisnýtsluni í sambandi við tunnilin, sæst á myndini omanfyri, at 9 traðir verða órørdar av tunnilsgerðini samanborið við ætlaðu vegagerðina (Tórshavnar kommuna eigur tvær), ella samanlagt um 17500 m2. Í mun til óljóð, verður hetta tað sama við tunnilsmunnarnar sum við vegaætlanini, men tað slepst undan møguligum ampa við Villingardalsvegin.</p>
+<p>Fyrimunurin við hesi loysnini er, at betri atgongd fæst til økið við Villingardalsvegin. Harumframt verða rættiliga fáar traðir nervaðar av sambandinum og fæst ótarnað samband til Húsareyn.</p>
+<p>Harafturímóti verður økið við Krákugjóv (økið oman fyri Maskinmeistaraskúlan) rættiliga nógv ávirkað av vegagerðini og beninum í sambandi við tunnilsmunnan. Eystari tunnilsmunnin, við</p>
+<p>Villingardalsvegin, fer somuleiðis við nógvum øki til tunnilsmunnan og øðrum útbúnaði (skeltum, tøknismáttum o.t.) í sambandi við tunnilin. 17 6 <em type="bold">Møguliga aðrar tunnilsloysnir </em>6.1 Tunnil 2: við Krákugjógv – Marknagil (við ríðibreytina) </p>
 <p>Talan er um tunnil, ið er uml. 880 metrar til longdar úr kotu 165 við Marknagil til kotu 125 við</p>
-<p>Krákugjógv, hallið verður soleiðis um 46 promillur. Kostnaðarmetingin fyri tunnil 2, grundað á ein</p>
-<p>kilometurprís, sum er 40-50 mió/km, er 35-44 mió. Allur kostnaðurin fyri báðar tunlarnar verður</p>
-<p>soleiðis 70 til 87 mió og sambindingarvegurin um 7 mió.</p>
-<p>Ringt er at fáa eyga á fyrimunir við hesari loysnini borið saman við vegaloysnina, gerast má</p>
-<p>sambindingarvegur frá rundkoyring millum tunnilsmunnarnar við Krákugjógv í Oyggjarvegin fyri um</p>
-<p>6 til 7 mió.</p>
-<p><em type="italic">6.2 Tunnil 3: Villingadalsvegur – Marknagil (við ríðibreytina) </em></p>
-<p>18</p>
-<p>Talan er um tunnil, ið er uml. 1700 metrar til longdar úr kotu 163 við Villingardalsvegin til kotu 163</p>
-<p>við Marknagil. Av tí at hallið verður bara um 1 promilla á hesum teinum, verður brekka inni í</p>
-<p>tunlinum úr báðum endum 15 promillur; hægsta punktið verður 780 metrar úr Marknagilsendanum í</p>
-<p>kotu 177. Kostnaðarmetingin fyri tunnilin grundað á kilometurprís 40-50 mió/km er 68-85 mió. <em type="bold"> </em></p>
-<p>Samanumtikið kann sigast, at verður tunnil gjørdur, fer hetta at leggja eitt nýtt støði undir vegagerð í</p>
-<p>landinum, tí í flestum bygdum og býum kring landið, gera tílíkar umstøður sum her seg galdandi. Tó</p>
-<p>skal nevnast, at í t.d. Oslo eru ætlanir um at leggja veg í tunnil av umhvørvisligum orsøkum, men er</p>
-<p>har talan um eina ársmiðalferðslu oman fyri 100.000 bilar um samdøgrið; til samanberingar er ferðslan</p>
-<p>til Havnar um 5000 akfør og um Hoydalsá um 8000 akfør um samdøgrið, bara ein partur av hesum</p>
-<p>akførum fer at nýta hesa farleiðina.</p>
-<p>19</p>
-<p xml:lang="dan"> <em type="bold">Tunnil Skarðshjalli – Eystan Gil/Løgmannabreyt</em> </p>
+<p>Krákugjógv, hallið verður soleiðis um 46 promillur. Kostnaðarmetingin fyri tunnil 2, grundað á ein kilometurprís, sum er 40-50 mió/km, er 35-44 mió. Allur kostnaðurin fyri báðar tunlarnar verður soleiðis 70 til 87 mió og sambindingarvegurin um 7 mió.</p>
+<p>Ringt er at fáa eyga á fyrimunir við hesari loysnini borið saman við vegaloysnina, gerast má sambindingarvegur frá rundkoyring millum tunnilsmunnarnar við Krákugjógv í Oyggjarvegin fyri um 6 til 7 mió. 6.2 Tunnil 3: Villingadalsvegur – Marknagil (við ríðibreytina) 18</p>
+<p>Talan er um tunnil, ið er uml. 1700 metrar til longdar úr kotu 163 við Villingardalsvegin til kotu 163 við Marknagil. Av tí at hallið verður bara um 1 promilla á hesum teinum, verður brekka inni í tunlinum úr báðum endum 15 promillur; hægsta punktið verður 780 metrar úr Marknagilsendanum í kotu 177. Kostnaðarmetingin fyri tunnilin grundað á kilometurprís 40-50 mió/km er 68-85 mió. <em type="bold"></em></p>
+<p>Samanumtikið kann sigast, at verður tunnil gjørdur, fer hetta at leggja eitt nýtt støði undir vegagerð í landinum, tí í flestum bygdum og býum kring landið, gera tílíkar umstøður sum her seg galdandi. Tó skal nevnast, at í t.d. Oslo eru ætlanir um at leggja veg í tunnil av umhvørvisligum orsøkum, men er har talan um eina ársmiðalferðslu oman fyri 100.000 bilar um samdøgrið; til samanberingar er ferðslan til Havnar um 5000 akfør og um Hoydalsá um 8000 akfør um samdøgrið, bara ein partur av hesum akførum fer at nýta hesa farleiðina.19 7 <em type="bold">Tunnil Skarðshjalli – Eystan Gil/Løgmannabreyt </em></p>
 <p>Talan er um tunnil, ið er uml. 2000 metrar til longdar úr kotu 40 við Kaldbaksvegin til kotu 140 við</p>
-<p>Eystan Gil, hallið verður soleiðis um 50 promillur. Kostnaðarmetingin fyri tunnilin, grundað á ein</p>
-<p>kilometurprís 40-50 mió/km, er 80-100 mió. Kostnaðarmetingin fyri hendan teinin, t.e vegin 2.</p>
-<p>byggistig, er til samanberingar 38,5 mió.</p>
-<p>Fyrimunurin við eini tunnilsloysn frá Kaldbaksvegnum til Eystan Gil er fyrst av náttúruverndar- og</p>
-<p>rekreativum orsøkum, tó at portalarnir, sum vanligt er við tunlum, gera tíðandi inntriv í lendið.  <em type="bold"> </em></p>
-<p>20</p>
-<p><em type="bold">  Samandráttur </em></p>
-<p>Í hesum uppriti er gjøgnumgingin verandi ætlan fyri innkomuvegin, og sum partur av hesum, eisini</p>
-<p>kommunali ringvegurin.</p>
-<p>Innkomuvegurin umfatar veg frá Oyggjarvegnum, við Krákugjógv, til íbinding í Kaldbaksvegin nakað</p>
-<p>norðan fyri Hvítanes, øll kosnaðarmetingin er 76,5 mió. Íbindingar verða í innkomuvegin við</p>
-<p>Sundsvegin ella Flatarvegin og í kommunala ringvegin við Løgmannabreyt. Flatarvegurin verður</p>
-<p>førdur niðan um innkomuvegin við undirføring, og verður vegamótið gjørt soleiðis, at tað í framtíðini</p>
-<p>kann gerast til planfrítt vegamót við flættingum.</p>
-<p>Kommunali ringvegurin gongur frá íbindingini í innkomuvegin við millum Gilja/Eystan Gil, til</p>
-<p>íbinding í Kaldbaksvegin við innkoyringina til Sandvíkahjalla. Íbindingar verða í kommunala</p>
-<p>ringvegin í Løgmannabreyt og við Klingruna.</p>
+<p>Eystan Gil, hallið verður soleiðis um 50 promillur. Kostnaðarmetingin fyri tunnilin, grundað á ein kilometurprís 40-50 mió/km, er 80-100 mió. Kostnaðarmetingin fyri hendan teinin, t.e vegin 2. byggistig, er til samanberingar 38,5 mió.</p>
+<p>Fyrimunurin við eini tunnilsloysn frá Kaldbaksvegnum til Eystan Gil er fyrst av náttúruverndar- og rekreativum orsøkum, tó at portalarnir, sum vanligt er við tunlum, gera tíðandi inntriv í lendið. <em type="bold"></em>20 <em type="bold">8 Samandráttur </em></p>
+<p>Í hesum uppriti er gjøgnumgingin verandi ætlan fyri innkomuvegin, og sum partur av hesum, eisini kommunali ringvegurin.</p>
+<p>Innkomuvegurin umfatar veg frá Oyggjarvegnum, við Krákugjógv, til íbinding í Kaldbaksvegin nakað norðan fyri Hvítanes, øll kosnaðarmetingin er 76,5 mió. Íbindingar verða í innkomuvegin við</p>
+<p>Sundsvegin ella Flatarvegin og í kommunala ringvegin við Løgmannabreyt. Flatarvegurin verður førdur niðan um innkomuvegin við undirføring, og verður vegamótið gjørt soleiðis, at tað í framtíðini kann gerast til planfrítt vegamót við flættingum.</p>
+<p>Kommunali ringvegurin gongur frá íbindingini í innkomuvegin við millum Gilja/Eystan Gil, til íbinding í Kaldbaksvegin við innkoyringina til Sandvíkahjalla. Íbindingar verða í kommunala ringvegin í Løgmannabreyt og við Klingruna.</p>
 <p>Innkomuvegurin verður gjørdur í tveimum byggistigum: 1. byggistig umfatar teinin frá</p>
-<p>Oyggjarvegnum til íbindingina í kommunala ringvegin við millum Gilja/Eystan Gil, kostnaðurin er</p>
-<p>mettur til 38 mió. 2. byggistig umfatar teinin frá millum Gilja/Eystan Gil til íbinding í Kaldbaksvegin</p>
-<p>norðan fyri Hvítanes, kostnaðurin er mettur til 38,5 mió.</p>
-<p><em type="bold">Uppskot til broyttar linjuføringar fyri 1. byggistig: </em></p>
-<p>1. Vegurin verður fluttur nakað niðan í skráan við Krákugjógv (sí pkt 4.1), vegurin verður soleiðis</p>
-<p>bundin í Oyggjarvegin við omankoyringina til Eystara ringveg, í staðin fyri sum áður við</p>
-<p>Maskinmeistaraskúlan. Talan er soleiðis ikki um stórvegis broyting, men á henda hátt verður møgulig</p>
-<p>framtíðar vegalinja til Gomlurætt við minni halli í brekkuni niðan til brandstøðina tryggjað.</p>
-<p>Somuleiðis fer ætlaða broytingin við broyttu vegalinjuni frá undir Krákugjógv til Brandstøðina at lætta</p>
-<p>um ferðsluna millum Eystara ringveg og innkomuvegin í framtíðini. Broytta linjan fer ikki at dýrka</p>
-<p>verkætlanina stórvegis.</p>
-<p>2. Tunnil verður gjørdur frá við Villingardalsvegin til við Krákugjógv (tunnil 1 sí pkt 4.2). Longdin er</p>
-<p>um 740 metrar, og er kostnaðurin mettur til 37 mió, ella um 25,9 mió meira enn samsvarandi vegur</p>
-<p>uttanfyri.</p>
-<p>3. Tunnil frá við Krákugjógv til økið við ríðibreytina í Marknagili (tunnil 2, sí pkt 5.1), hesin tunnilin</p>
-<p>má so gerast sum framhald av tunlinum millum Villingardalsvegin og Krákugjógv. Longdin á</p>
-<p>tunlinum verður um 880 metrar og kostnaðarmetingin 44 mió. Skal samband fáast við Eystara ringveg,</p>
-<p>má gerast rundkoyring millum tunnilsmunnarnar, og sambindingarvegur haðani oman til Eystara</p>
-<p>ringveg (uml. 7 mió).</p>
-<p>21</p>
-<p>4. Gjørt er somuleiðis skitsuuppskot til tunnil frá Villingardalsvegnum (tunnil 3, sí pkt 5.2), beinleiðis</p>
-<p>til økið við ríðibreytina í Marknagili. Longdin er um 1700 metrar, og er kostnaðurin mettur til 85 mió.</p>
+<p>Oyggjarvegnum til íbindingina í kommunala ringvegin við millum Gilja/Eystan Gil, kostnaðurin er mettur til 38 mió. 2. byggistig umfatar teinin frá millum Gilja/Eystan Gil til íbinding í Kaldbaksvegin norðan fyri Hvítanes, kostnaðurin er mettur til 38,5 mió.</p>
+<p><em type="bold">Uppskot til broyttar linjuføringar fyri 1. byggistig: </em>1. Vegurin verður fluttur nakað niðan í skráan við Krákugjógv (sí pkt 4.1), vegurin verður soleiðis bundin í Oyggjarvegin við omankoyringina til Eystara ringveg, í staðin fyri sum áður við </p>
+<p>Maskinmeistaraskúlan. Talan er soleiðis ikki um stórvegis broyting, men á henda hátt verður møgulig framtíðar vegalinja til Gomlurætt við minni halli í brekkuni niðan til brandstøðina tryggjað.</p>
+<p>Somuleiðis fer ætlaða broytingin við broyttu vegalinjuni frá undir Krákugjógv til Brandstøðina at lætta um ferðsluna millum Eystara ringveg og innkomuvegin í framtíðini. Broytta linjan fer ikki at dýrka verkætlanina stórvegis. 2. Tunnil verður gjørdur frá við Villingardalsvegin til við Krákugjógv (tunnil 1 sí pkt 4.2). Longdin er um 740 metrar, og er kostnaðurin mettur til 37 mió, ella um 25,9 mió meira enn samsvarandi vegur uttanfyri. 3. Tunnil frá við Krákugjógv til økið við ríðibreytina í Marknagili (tunnil 2, sí pkt 5.1), hesin tunnilin má so gerast sum framhald av tunlinum millum Villingardalsvegin og Krákugjógv. Longdin á tunlinum verður um 880 metrar og kostnaðarmetingin 44 mió. Skal samband fáast við Eystara ringveg, má gerast rundkoyring millum tunnilsmunnarnar, og sambindingarvegur haðani oman til Eystara ringveg (uml. 7 mió). 21 4. Gjørt er somuleiðis skitsuuppskot til tunnil frá Villingardalsvegnum (tunnil 3, sí pkt 5.2), beinleiðis til økið við ríðibreytina í Marknagili. Longdin er um 1700 metrar, og er kostnaðurin mettur til 85 mió.</p>
 <p>Við hesi loysn fæst einki beinleiðis samband við Eystara ringveg.</p>
-<p><em type="bold">Gjørd eru uppskot til broyttar og umskipaðar linjuføringar fyri 2. byggistigi:</em> </p>
-<p>5. Tunnil verður gjørdur millum Eystan Gil til Kaldbaksvegin (tunnil 2. byggistig, sí pkt 6). Longdin</p>
-<p>er um 2000 metrar, og er kostnaðurin mettur til 100 mió.</p>
+<p><em type="bold">Gjørd eru uppskot til broyttar og umskipaðar linjuføringar fyri 2. byggistigi: </em>5. Tunnil verður gjørdur millum Eystan Gil til Kaldbaksvegin (tunnil 2. byggistig, sí pkt 6). Longdin er um 2000 metrar, og er kostnaðurin mettur til 100 mió. </p>
 <p><em type="bold">Kostnaðarmetingar (roknað er við miðaltølum 45 mió/km fyri tunnil og 12,5 mió/km fyri veg) </em></p>
-<p><em type="bold">Teinur Kostnaðarmeting  Viðmerkingar </em></p>
+<p><em type="bold">Teinur </em></p>
+<p><em type="bold">Kostnaðarmeting Viðmerkingar </em></p>
 <p>Verandi 1. byggisting</p>
-<p>Oyggjarvegur – Millum Gilja/Eystan Gil</p>
-<p>38 mió Kostnaðarmeting</p>
+<p>Oyggjarvegur – Millum Gilja/Eystan Gil 38 mió</p>
+<p>Kostnaðarmeting</p>
 <p>Verandi 2. byggisting</p>
-<p>Millum Gilja/Eystan Gil - Kaldbaksvegur 38,5 mió Kostnaðarmeting</p>
-<p><em type="bold">Verandi Innkomuvegur tilsamans 76,5 mió </em>Kostnaðarmeting </p>
-<p>Broyting í 1. byggistigi</p>
-<p>flyta veg við Krákugjógv  2 mió Eykakostnaður fyri 100 metrar av</p>
-<p>vegi umframt umprosjektering</p>
-<p>Broyting 1. byggistig</p>
-<p>tunnil Villingardalsvegur -Krákugjógv 27 mió Upphæddin umfatar eykakostnað fyri</p>
-<p>tunnilin.</p>
-<p>Broyting og vegaføring 1. byggistig</p>
-<p>tunnil Krákugjógv – Marknagil og</p>
-<p>sambindingarvegur</p>
-<p><em type="italic">40 mió </em></p>
-<p><em type="italic">+7 mió </em></p>
-<p>47 mió</p>
-<p>Upphæddin umfatar eykakostnað fyri</p>
-<p>tunnilin, 350 metur av</p>
-<p>sambindingarvegi og rundkoyring</p>
-<p>við Krákugjógv.</p>
-<p>Broyting í 2. byggistigi</p>
-<p>tunnil Millum Gilja - Kaldbaksvegurin 57 mió Upphæddin umfatar eykakostnað fyri</p>
-<p>tunnilin borið saman við</p>
-<p>vegaloysnina</p>
-<p>22</p>
-<p><em type="bold"> Tilmæli </em></p>
-<p>Grundað á hetta uppskot til innkomuveg og kommunalan ringveg, verður mælt til:</p>
-<p type="listitem">• At vegalinjan við Krákugjógv, ið eru partur av 1. byggistigi fyri innkomuvegi, verður</p>
-<p>endurskoðað, so hon fer at tryggja framhaldandi møguleikum fyri vegagerð til Gomlurætt,</p>
-<p>samsvarandi loysn 4.1. Samanborið við lýstu tunnilsloysnirnar verður henda vegagerð um 25</p>
-<p>mió bíligari enn bíligasta tunilsloysnin, umframt at rakstur og viðlíkahald eisini vera</p>
-<p>samsvarandi bíligari. Soleiðis sum ætlaða vegalinjan liggur heilt ovarlaga í skráanum við</p>
-<p>Villingardalsvegin, verður minst møguligt tikið av teimum traðum, ið eru har.</p>
-<p type="listitem">• Staðfestast kann, at alt er gjørt, fyri at vegurin skal verða til so lítlan ampa sum møguligt fyri</p>
-<p>tey, ið har búleikast.</p>
-<p type="listitem">• Tunnilsloysnir vera ikki mettar at vera til fyrimuns fyri náttúru ella umhvørvi.</p>
-<p>Tunnilsloysnirnar fara at verða ógvuliga sjónskar, har farið verður inn, og verður hetta ein</p>
-<p>lutfalsliga stórur partur av verkætlanini, borið saman við longdina á tunlinum.</p>
-<p type="listitem">• Mælt verður tí til, at  vegagerðin verður framd soleiðis, at leggjast kann upp fyri ampa av</p>
-<p>óljóði frá ferðsluni.</p>
+<p>Millum Gilja/Eystan Gil - Kaldbaksvegur 38,5 mió</p>
+<p>Kostnaðarmeting</p>
+<p><em type="bold">Verandi Innkomuvegur tilsamans </em><em type="bold">76,5 mió </em></p>
+<p>Kostnaðarmeting</p>
+<p>Broyting í 1. byggistigi flyta veg við Krákugjógv 2 mió</p>
+<p>Eykakostnaður fyri 100 metrar av vegi umframt umprosjektering</p>
+<p>Broyting 1. byggistig tunnil Villingardalsvegur -Krákugjógv 27 mió</p>
+<p>Upphæddin umfatar eykakostnað fyri tunnilin.</p>
+<p>Broyting og vegaføring 1. byggistig tunnil Krákugjógv – Marknagil og sambindingarvegur <em type="italic">40 mió </em><em type="italic">+7 mió </em>47 mió </p>
+<p>Upphæddin umfatar eykakostnað fyri tunnilin, 350 metur av sambindingarvegi og rundkoyring við Krákugjógv.</p>
+<p>Broyting í 2. byggistigi tunnil Millum Gilja - Kaldbaksvegurin 57 mió</p>
+<p>Upphæddin umfatar eykakostnað fyri tunnilin borið saman við vegaloysnina 22 <em type="bold">9 Tilmæli </em></p>
+<p type="listitem">Grundað á hetta uppskot til innkomuveg og kommunalan ringveg, verður mælt til:</p>
+<p type="listitem">At vegalinjan við Krákugjógv, ið eru partur av 1. byggistigi fyri innkomuvegi, verður endurskoðað, so hon fer at tryggja framhaldandi møguleikum fyri vegagerð til Gomlurætt, samsvarandi loysn 4.1. Samanborið við lýstu tunnilsloysnirnar verður henda vegagerð um 25 mió bíligari enn bíligasta tunilsloysnin, umframt at rakstur og viðlíkahald eisini vera samsvarandi bíligari. Soleiðis sum ætlaða vegalinjan liggur heilt ovarlaga í skráanum við</p>
+<p type="listitem">Villingardalsvegin, verður minst møguligt tikið av teimum traðum, ið eru har.</p>
+<p type="listitem">Staðfestast kann, at alt er gjørt, fyri at vegurin skal verða til so lítlan ampa sum møguligt fyri tey, ið har búleikast.</p>
+<p type="listitem">Tunnilsloysnir vera ikki mettar at vera til fyrimuns fyri náttúru ella umhvørvi.</p>
+<p type="listitem">Tunnilsloysnirnar fara at verða ógvuliga sjónskar, har farið verður inn, og verður hetta ein lutfalsliga stórur partur av verkætlanini, borið saman við longdina á tunlinum.</p>
+<p type="listitem">Mælt verður tí til, at  vegagerðin verður framd soleiðis, at leggjast kann upp fyri ampa av óljóði frá ferðsluni.</p>
 </body></document>

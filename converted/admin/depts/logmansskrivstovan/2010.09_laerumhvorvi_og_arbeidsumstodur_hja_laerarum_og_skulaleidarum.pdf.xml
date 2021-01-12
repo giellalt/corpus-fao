@@ -1,372 +1,331 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>7274</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2010.09 Lærumhvørvi og arbeiðsumstøður hjá lærarum og skúlaleiðarum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="dan">§ÞĄÞĄ §ïĄ</p>
-<p>§Ą×ŝşƐĂŵđĂŶĚŝǀŝĝ</p>
-<p>d&gt;/^ͲŬĂŶŶŝŶŐĂƌŶĂƌ</p>
-<p>ǣ</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>7490</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2010.09 Lærumhvørvi og arbeiðsumstøður hjá lærarum og skúlaleiðarum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 20101§ÞĄÞĄ§ïĄ§Ą×ŝşƐĂŵđĂŶĚŝǀŝĝd&gt;/^ͲŬĂŶŶŝŶŐĂƌŶĂƌǣ</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201021.0 Inngangur 32.0 Tilmæli – yvirlit 4 3.0 TALIS-kanningin 64.0 Einstøku økini 84.1 Læraraparturin 84.2 Faklig førleikamenning 94.3 Eftirmeting og/ ella afturboðan 114.4 Undirvísing læraranna í ávísum fl okkum 134.5 Leiðsluparturin 174.6 Næmingar við serligum tørvi 204.7 Bókmentir 22 5.0 Fylgiskjøl 23</p>
 <p>Innihald</p>
-<p>1.0  Inngangur</p>
-<p>2.0  Tilmæli – yvirlit</p>
-<p>3.0  TALIS-kanningin</p>
-<p>4.0  Einstøku økini</p>
-<p>4.1  Læraraparturin</p>
-<p xml:lang="dan">4.2  Faklig førleikamenning</p>
-<p>4.3  Eftirmeting og/ ella afturboðan</p>
-<p>4.4  Undirvísing læraranna í ávísum fl okkum</p>
-<p>4.5  Leiðsluparturin</p>
-<p>4.6  Næmingar við serligum tørvi</p>
-<p>4.7  Bókmentir</p>
-<p>5.0  Fylgiskjøl</p>
-<p>1. Inngangur</p>
-<p>Í umleið 20 ár hevur OECD arbeitt við at menna mátihættir (indikatorer) innan undirvísingarverkið,  t.d.  triðja  hvørt  ár  verða  sokallaðu  PISA-royndirnar  millum  næmingar hildnar. Tað hevur eisini verið ávísur áhugi millum lærarar at fáa gjørt kann ingar, ið  lýsa  læruumhvørvið  og  arbeiðsumstøðurnar  hjá  lærarunum.  Hetta  eru  sokallaðu   TALIS-kanningarnar,  ið  eru  styttingar  fyri  Teaching  and  Learning  International  Survey.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 20103</p>
+<p>Í umleið 20 ár hevur OECD arbeitt við at menna mátihættir (indikatorer) innan undirvísingarverkið, t.d. triðja hvørt ár verða sokallaðu PISA-royndirnar millum næmingar hildnar. Tað hevur eisini verið ávísur áhugi millum lærarar at fáa gjørt kann ingar, ið lýsa læruumhvørvið og arbeiðsumstøðurnar hjá lærarunum. Hetta eru sokallaðu TALIS-kanningarnar, ið eru styttingar fyri Teaching and Learning International Survey.</p>
 <p>Kanningarnar eru gjørdar í 24 londum. Av Norðurlondunum luttaka Danmark, Noregi og Ísland.</p>
 <p>Í mars mánaði 2009 tók Mentamálaráðið stig til at fáa gjørt TALIS-kanningarnar millum bæði lærarar og leiðarar í fólkaskúlanum.</p>
 <p>Undirtøkan fyri kanningunum var sera góð. Mentamálaráðið valdi at fáa eina óhefta fyritøku, Scarling Research í Danmark, at standa fyri hagtalsligu útgreiningini av kanningunum. Hagtalsúrslitini vóru tøk í mai 2009.</p>
 <p>Í báðum kanningunum eru niðurstøður, sum eiga at útgreinast og lýsast nærri við serligum atliti at, hvat eigur at verða gjørt fyri at kunna bøta um hesar staðfestingar.</p>
 <p>Helena Dam á Neystabø, landsstýriskvinna, gjørdi tí av at seta eina nevnd, ið umboðar fl est allar partar, ið varða av fólkaskúlanum, til at koma við eini tilráðing um, hvørji átøk/tiltøk eiga at verða sett í verk, sum kunnu betra um umstøðurnar hjá bæði lærarum og leiðarum í fólkaskúlanum.</p>
-<p>Í  nevndini,  sum  varð  tilnevnd  í  skrivi  frá  Mentamálaráðnum  18.  februar  2010,  vóru hesir limir:</p>
-<p>Olaus Jespersen, formaður Magnus Tausen,  Páll Poulsen og Herálvur Jacobsen, Føroya lærarafelag Hanus Joensen,  Skúlaleiðarafelag Føroya Nomi Jacobsen,  skúlaleiðari Mai Laksáfoss,  Felagið Heim og Skúli Janus Jensen, Føroya læraraskúli</p>
-<p xml:lang="dan">27. september 2010</p>
-<p>____________________ ____________________  Olaus Jespersen Janus Jensen</p>
-<p>____________________ ____________________ ____________________ Magnus Tausen Páll Poulsen Herálvur Jacobsen</p>
-<p>____________________ ____________________ ____________________</p>
-<p>2. Tilmæli - yvirlit</p>
-<p><em type="bold">Læraraparturin</em> </p>
-<p xml:lang="dan"><em type="italic">Førleikamenning:</em> </p>
-<p>1. Eftirútbúgving skal vera fastur táttur í lærarayrkinumx</p>
-<p>2. Lærarar skulu kunna taka lut í førleikagevandi eftirútbúgving/</p>
-<p>víðariútbúgving á Fróðskaparsetri Føroya/Føroya Læraraskúlaxx</p>
-<p>3. Eftirútbúgvingartilboð á Fróðskaparsetri Føroya/Føroyax</p>
-<p>Læraraskúla verða inntøkufíggjað</p>
-<p>4. Landsmiðstøðin fyriskipar og samskipar eftirútbúgvingar-x</p>
-<p>virksemið</p>
-<p>5. Eftirútbúgvingartilboð skulu mennast - atlit skulu takast tilx</p>
-<p>tørv skúlans</p>
-<p>6. Partar av eftirútbúgving liggja seinnapart á degix</p>
-<p>7. Lærari við serligum førleika fær høvuðsábyrgd á sínum økix</p>
-<p>8. Reglur skulu gerast fyri førleikaviðbótx</p>
-<p>9. Fígging skal fáast til fleiri eftirútbúgvingartilboðx</p>
-<p>10. Lærarar fáa høvi til at taka ískoytisútbúgving á bachelor- ogx</p>
-<p xml:lang="dan">masterstigi</p>
-<p><em type="italic">Eftirmeting og/ella afturboðan:</em> </p>
-<p>11. Eftirmeting verður sett í verk við atliti at leiklutinum hjá:x</p>
-<p>skúlaleiðslu, lærarum, næmingum og foreldrum</p>
-<p>12. Mentamálaráðið ger ein eftirmetingarleistx</p>
-<p><em type="italic">Undirvísing læraranna í ávísum flokkum:</em> </p>
-<p>13. Allir skúlar gera sína egnu eftirmetingarskipanxx</p>
-<p>14. Dagførdar námsætlanir verða settar í verkx</p>
-<p xml:lang="dan">15.x</p>
-<p>16. Summarfrítíðin hjá leiðslu og lærarum verður styttx</p>
+<p>Í nevndini, sum varð tilnevnd í skrivi frá Mentamálaráðnum 18. februar 2010, vóru hesir limir:</p>
+<p>Olaus Jespersen, formaður Magnus Tausen, Páll Poulsen og Herálvur Jacobsen, Føroya lærarafelag Hanus Joensen, Skúlaleiðarafelag Føroya Nomi Jacobsen, skúlaleiðari Mai Laksáfoss, Felagið Heim og Skúli Janus Jensen, Føroya læraraskúli27. september 2010____________________ ____________________</p>
+<p xml:lang="dan">Olaus Jespersen</p>
+<p>Janus Jensen____________________ ____________________ ____________________</p>
+<p>Magnus Tausen</p>
+<p>Páll Poulsen</p>
+<p>Herálvur Jacobsen____________________ ____________________ ____________________</p>
+<p>Hanus Joensen</p>
+<p>Nomi Jacobsen</p>
+<p>Mai Laksáfoss 1. Inngangur</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201042. Tilmæli - yvirlit</p>
+<p>Skjóttatsetaíverk</p>
+<p>Krevurøktaárligajáttan</p>
+<p>Krevuríløgur</p>
+<p>Krevurlógarbroyting</p>
+<p>Krevurbygnaðarbroyting</p>
+<p><em type="bold">Læraraparturin </em></p>
+<p xml:lang="dan"><em type="italic">Førleikamenning: </em></p>
+<p><em type="italic">Eftirmeting og/ella afturboðan: </em></p>
+<p><em type="italic">Undirvísing læraranna í ávísum flokkum: </em>1. Eftirútbúgving skal vera fastur táttur í lærarayrkinumx2. Lærarar skulu kunna taka lut í førleikagevandi eftirútbúgving/víðariútbúgving á Fróðskaparsetri Føroya/Føroya Læraraskúlaxx3. Eftirútbúgvingartilboð á Fróðskaparsetri Føroya/Føroyax </p>
+<p>Læraraskúla verða inntøkufíggjað4. Landsmiðstøðin fyriskipar og samskipar eftirútbúgvingar-xvirksemið5. Eftirútbúgvingartilboð skulu mennast - atlit skulu takast tilxtørv skúlans6. Partar av eftirútbúgving liggja seinnapart á degix7. Lærari við serligum førleika fær høvuðsábyrgd á sínum økix8. Reglur skulu gerast fyri førleikaviðbótx9. Fígging skal fáast til fleiri eftirútbúgvingartilboðx10. Lærarar fáa høvi til at taka ískoytisútbúgving á bachelor- ogxmasterstigi11. Eftirmeting verður sett í verk við atliti at leiklutinum hjá:xskúlaleiðslu, lærarum, næmingum og foreldrum12. Mentamálaráðið ger ein eftirmetingarleistx13. Allir skúlar gera sína egnu eftirmetingarskipanxx14. Dagførdar námsætlanir verða settar í verkx15.x16. Summarfrítíðin hjá leiðslu og lærarum verður styttx17. Skúlar skulu hava fastar mannagongdir fyri lærarasamstarvix18. Skúlaleiðarar skipa fyri samstarvi og eftirmetingx19. Samstarv millum heim og skúla fastur táttur í læraraútbúgvinginix20. Foreldur fáa størri ávirkan á skúlagongdina hjá sínum børnumx21. Verkætlanir, sum styrkja um samstarvið millum heim og skúlax22. Felagið Heim og Skúli verður styrktx</p>
 <p>Allir lærarar skulu taka lut í regluligum toymisfundum</p>
-<p>17. Skúlar skulu hava fastar mannagongdir fyri lærarasamstarvix</p>
-<p>18. Skúlaleiðarar skipa fyri samstarvi og eftirmetingx</p>
-<p>19. Samstarv millum heim og skúla fastur táttur í læraraútbúgvinginix</p>
-<p>20. Foreldur fáa størri ávirkan á skúlagongdina hjá sínum børnumx</p>
-<p>21. Verkætlanir, sum styrkja um samstarvið millum heim og skúlax</p>
-<p>22. Felagið Heim og Skúli verður styrktx</p>
-<p><em type="bold">Leiðsluparturin</em> </p>
-<p><em type="italic">Skúlaleiðsla:</em> </p>
-<p>23. Skúlaleiðslur fáa rætt til supervisiónxx</p>
-<p><em type="italic">Fólkaskúlin sum arbeiðsmarknaður:</em> </p>
-<p><em type="italic">Næmingar við serligum tørvi:</em> </p>
-<p>24. Skúlaleiðslur fáa serkøna hjálp í smb. við skúlamenningxx</p>
-<p>25. Skúlaleiðslur fáa møguleika fyri leiðaraútbúgvingxx</p>
-<p>26. Skúlaleiðslur fáa høvi til at luttaka í leiðaraskeiði uttanlandsxx</p>
-<p>27. Skúlaleiðslur skipa fyri regluligum starvsfólkasamrøðumx</p>
-<p>28. Skúlaleiðslur skipa fyri samrøðum við floks- og lærugreinatoymix</p>
-<p>29. Allir skúlar skulu hava ein skrivaðan starvsfólkapolitikkx</p>
-<p>30. Allir skúlar skulu hava eina mentorskipan fyri nýsettar lærararxx</p>
-<p>31. Pláss skal vera fyri fleiri yrkisbólkum í fólkaskúlanumx</p>
-<p>32. Námsfrøðilig útbúgving verður sett á stovn fyri hesa yrkisbólkarxx</p>
-<p>33. Lærarar fáa eykaløn fyri serligt avrikx</p>
-<p>34. Mál- og avriksstýring verður sett í verk í fólkaskúlanumx</p>
-<p>35. Kannað verður, hvussu tímar til serligan tørv best verða fullnýttirx</p>
-<p>36. Ein lærari hevur ábyrgdina av hesum tímum (størru skúlarnir)xx</p>
-<p>37. Tímar til serligan tørv skulu leggjast fyrst í tímatalvunax</p>
-<p>38. Serstøk høli til serundirvísing skulu vera á øllum skúlum</p>
-<p>39. Serundirvísingin verður samskipað í økjumx</p>
-<p>3. TALIS-kanningin</p>
-<p>TALIS-kanningin (Teaching and Learning International Survey) er ein altjóða verkætlan, sum, eins og Pisa-verkætlanin, verður fyriskipað í OECD-høpi. Yvirskipaða endamálið  við  kanningini  er  at  savna  saman  vitan  úr  ymiskum  londum,  sum  kann  lýsa læruumhvørvið og arbeiðsumstøðurnar hjá lærarum og skúlaleiðarum.</p>
-<p>Vanligt er, at kanningin verður framd í umleið 200 skúlum í hvørjum landi, og at skúlaleiðarin og 20 tilvildarliga valdir lærarar í hvørjum skúla svara settu spurningunum.</p>
-<p>Føroyar vóru ikki partur av upprunaligu TALIS-kanningini í 2008, men føroyska kanningin er framd eftir sama leisti og við somu spurningum, sum vórðu nýttir í upprunakanningini.  Føroyska  kanningin  fatar  um  allar  fólkaskúlarnar  í  Føroyum  og  varð  framd  í tíðarskeiðinum 20. februar til 13. mars 2009.</p>
-<p>Spurnarbløð vórðu send 732 lærarum og 67 skúlaleiðarum.  Svarprosentið fyri ávikavist lærara- og skúlaleiðarapartin vóru 56 og 88.</p>
-<p>Danska fyritøkan, Scharling Research, sum framdi og greinaði føroysku kanningina, stóð  eisini  fyri  hesum  arbeiði  í  sambandi  við  danska  partin  av  upprunaligu  TALISkanningini.</p>
-<p>TALIS-kanningin  er  í  tveimum  pørtum,  einum  lærara-  og  einum  skúlaleiðaraparti. Lærarar verða spurdir um hugburð teirra til ymisk viðurskifti, harímillum:</p>
-<p type="listitem">•  fakliga førleikamenning  hjá lærarum við atliti at innihaldi og títtleika</p>
-<p type="listitem">•  hugburði læraranna til undirvísing og námsfrøðiliga leiðslu</p>
-<p type="listitem">•  hvussu undirvísingin verður eftirmett og</p>
-<p type="listitem">•  hvussu afturboðan (feed-back) fer fram í dagliga lærarayrkinum</p>
-<p>Skúlaleiðarar verða spurdir um hugburð teirra til ymisk viðurskifti, harímillum:</p>
-<p type="listitem">•  fakliga førleikamenning hjá skúlaleiðarum við atliti at innihaldi og títtleika</p>
-<p type="listitem">•  til undirvísing og námsfrøðiliga leiðslu og</p>
-<p type="listitem">•  hvussu undirvísing læraranna verður eftirmett, og</p>
-<p type="listitem">•  hvussu afturboðan fer fram</p>
-<p>Tá ið kanningarúrslitini verða greinað, eiga hesi viðurskifti at verða havd í huga:</p>
-<p type="listitem">•  kanningarúrslitini sýna metingar og hugburð hjá ávikavist lærarum og skúlaleið arum um tað, sum spurt verður um</p>
-<p type="listitem">•  kanngarúrslitini sýna ávís sambond (korrelatiónir) millum lærarar og teirra hugsan um skúlaleiðslu, eftirútbúgving, eftirmeting og undirvísing, men geva onga frágreiðing um, hví hetta er so</p>
-<p type="listitem">•  tá ið kanningarúrslitini verða samanborin við úrslit í øðrum londum, eigur hetta at verða gjørt við tí fyrivarni, at mentanarlig frábrigdi hava ávirkan á svarini.</p>
-<p><em type="italic">Hagtøl1</em> </p>
-<p><em type="bold">Taliskanningin 2009 - luttakandi lond</em> </p>
-<p><em type="bold">OECD-londOnnur lond</em> </p>
-<p>AustraliaKoreaSlovakiaBrasilia BelgiaMeksikoSpaniaBulgaria DanmarkHálandTurkalandEstland ÍrlandNoregUngarnLitava ÍslandPóllandEysturríkiMalta ItaliaPortugalMalaysia Slovenia</p>
-<p><em type="bold">Lærarar - kynsbýti</em> </p>
-<p><em type="bold">DanmarkNoregÍslandFøroyarTalis</em>(í miðal) </p>
-<p><em type="bold">Skúlaleiðarar - kynsbýti</em> </p>
-<p><em type="bold">Skúlastødd</em> </p>
-<p xml:lang="dan"><em type="bold">Floksstødd</em> </p>
-<p>(næmingatal í miðal)</p>
-<p>Kvinnur58%60%69%64%69% Menn42%40%31%36%31%</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 20105</p>
+<p>Skjóttatsetaíverk</p>
+<p>Krevurøktaárligajáttan</p>
+<p>Krevuríløgur</p>
+<p>Krevurlógarbroyting</p>
+<p>Krevurbygnaðarbroyting</p>
+<p><em type="bold">Leiðsluparturin </em></p>
+<p><em type="italic">Skúlaleiðsla: </em></p>
+<p><em type="italic">Fólkaskúlin sum arbeiðsmarknaður: </em></p>
+<p><em type="italic">Næmingar við serligum tørvi: </em>23. Skúlaleiðslur fáa rætt til supervisiónxx24. Skúlaleiðslur fáa serkøna hjálp í smb. við skúlamenningxx25. Skúlaleiðslur fáa møguleika fyri leiðaraútbúgvingxx26. Skúlaleiðslur fáa høvi til at luttaka í leiðaraskeiði uttanlandsxx27. Skúlaleiðslur skipa fyri regluligum starvsfólkasamrøðumx28. Skúlaleiðslur skipa fyri samrøðum við floks- og lærugreinatoymix29. Allir skúlar skulu hava ein skrivaðan starvsfólkapolitikkx30. Allir skúlar skulu hava eina mentorskipan fyri nýsettar lærararxx31. Pláss skal vera fyri fleiri yrkisbólkum í fólkaskúlanumx32. Námsfrøðilig útbúgving verður sett á stovn fyri hesa yrkisbólkarxx33. Lærarar fáa eykaløn fyri serligt avrikx34. Mál- og avriksstýring verður sett í verk í fólkaskúlanumx35. Kannað verður, hvussu tímar til serligan tørv best verða fullnýttirx36. Ein lærari hevur ábyrgdina av hesum tímum (størru skúlarnir)xx37. Tímar til serligan tørv skulu leggjast fyrst í tímatalvunax38. Serstøk høli til serundirvísing skulu vera á øllum skúlum39. Serundirvísingin verður samskipað í økjumx </p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201063. TALIS-kanningin</p>
+<p>TALIS-kanningin (Teaching and Learning International Survey) er ein altjóða verkætlan, sum, eins og Pisa-verkætlanin, verður fyriskipað í OECD-høpi. Yvirskipaða endamálið við kanningini er at savna saman vitan úr ymiskum londum, sum kann lýsa læruumhvørvið og arbeiðsumstøðurnar hjá lærarum og skúlaleiðarum.</p>
+<p>Vanligt er, at kanningin verður framd í umleið 200 skúlum í hvørjum landi, og at skúlaleiðarin og 20 tilvildarliga valdir lærarar í hvørjum skúla svara settu spurningunum. Føroyar vóru ikki partur av upprunaligu TALIS-kanningini í 2008, men føroyska kanningin er framd eftir sama leisti og við somu spurningum, sum vórðu nýttir í upprunakanningini. Føroyska kanningin fatar um allar fólkaskúlarnar í Føroyum og varð framd í tíðarskeiðinum 20. februar til 13. mars 2009.</p>
+<p>Spurnarbløð vórðu send 732 lærarum og 67 skúlaleiðarum. Svarprosentið fyri ávikavist lærara- og skúlaleiðarapartin vóru 56 og 88.</p>
+<p>Danska fyritøkan, Scharling Research, sum framdi og greinaði føroysku kanningina, stóð eisini fyri hesum arbeiði í sambandi við danska partin av upprunaligu TALISkanningini.</p>
+<p type="listitem">TALIS-kanningin  er  í  tveimum  pørtum,  einum  lærara-  og  einum  skúlaleiðaraparti.  Lærarar verða spurdir um hugburð teirra til ymisk viðurskifti, harímillum:</p>
+<p type="listitem">fakliga førleikamenning  hjá lærarum við atliti at innihaldi og títtleika</p>
+<p type="listitem">hugburði læraranna til undirvísing og námsfrøðiliga leiðslu</p>
+<p type="listitem">hvussu undirvísingin verður eftirmett og</p>
+<p type="listitem">hvussu afturboðan (feed-back) fer fram í dagliga lærarayrkinum</p>
+<p type="listitem">Skúlaleiðarar verða spurdir um hugburð teirra til ymisk viðurskifti, harímillum:</p>
+<p type="listitem">fakliga førleikamenning hjá skúlaleiðarum við atliti at innihaldi og títtleika</p>
+<p type="listitem">til undirvísing og námsfrøðiliga leiðslu og</p>
+<p type="listitem">hvussu undirvísing læraranna verður eftirmett, og</p>
+<p type="listitem">hvussu afturboðan fer fram</p>
+<p type="listitem">Tá ið kanningarúrslitini verða greinað, eiga hesi viðurskifti at verða havd í huga:</p>
+<p type="listitem">kanningarúrslitini sýna metingar og hugburð hjá ávikavist lærarum og skúlaleið ar-um um tað, sum spurt verður um</p>
+<p type="listitem">kanngarúrslitini sýna ávís sambond (korrelatiónir) millum lærarar og teirra hugs-an um skúlaleiðslu, eftirútbúgving, eftirmeting og undirvísing, men geva onga frágreiðing um, hví hetta er so</p>
+<p type="listitem">tá ið kanningarúrslitini verða samanborin við úrslit í øðrum londum, eigur hetta at verða gjørt við tí fyrivarni, at mentanarlig frábrigdi hava ávirkan á svarini.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 20107</p>
+<p><em type="bold">Taliskanningin 2009 - luttakandi lond </em></p>
+<p><em type="bold">OECD-lond </em></p>
+<p><em type="bold">Onnur lond </em></p>
+<p>Australia</p>
+<p xml:lang="dan">Korea</p>
+<p>Slovakia</p>
+<p>Brasilia</p>
+<p>Belgia</p>
+<p>Meksiko</p>
+<p>Spania</p>
+<p>Bulgaria</p>
+<p>Danmark</p>
+<p>Háland</p>
+<p>Turkaland</p>
+<p xml:lang="dan">Estland</p>
+<p xml:lang="dan">Írland</p>
+<p xml:lang="dan">Noreg</p>
+<p>Ungarn</p>
+<p>Litava</p>
+<p>Ísland</p>
+<p>Pólland</p>
+<p>Eysturríki</p>
+<p>Malta</p>
+<p xml:lang="dan">Italia</p>
+<p xml:lang="dan">Portugal</p>
+<p xml:lang="dan">Malaysia Slovenia</p>
+<p><em type="bold">Lærarar - kynsbýti </em></p>
+<p><em type="bold">Skúlaleiðarar - kynsbýti </em></p>
+<p><em type="bold">Skúlastødd </em></p>
+<p><em type="bold">Floksstødd </em>(næmingatal í miðal)(næmingatal í miðal) </p>
+<p><em type="bold">Danmark </em></p>
+<p xml:lang="dan"><em type="bold">Noreg </em></p>
+<p><em type="bold">Ísland </em></p>
+<p><em type="bold">Føroyar </em></p>
+<p><em type="bold">Talis </em>(í miðal) </p>
+<p>Kvinnur58%60%69%64%69%</p>
+<p>Menn42%40%31%36%31%</p>
 <p>Kvinnur38%41%49%29%45%</p>
-<p>Menn62%59%51%71%55%</p>
-<p>(næmingatal í miðal)</p>
-<p><em type="italic"></em> http://www.skolestyrelsen.dk/Skolen/~/media/TALIS%202009/129782%20 </p>
-<p>4. Einstøku økini</p>
-<p><em type="bold">4.1 Læraraparturin</em> </p>
-<p><em type="italic">Lærarar eru nøgdir</em> </p>
-<p>Ein av høvuðsniðurstøðunum í kanningini er, at meginparturin av spurdu lærar unum (90%)  eru  nøgdir  við  sítt  arbeiði. Teir  allarfl estu  (95%)  halda  eisini,  at  teir  gera  ein týdningarmiklan útbúgvingarligan mun í lívi næminganna, og at teir fáa góð úrslit við næmingunum.</p>
+<p xml:lang="dan">Menn62%59%51%71%55%3402432672334892021191724 <em type="italic">1 </em>http://www.skolestyrelsen.dk/Skolen/~/media/TALIS%202009/129782%20 Talis%20rapport_web.ashx </p>
+<p><em type="italic">Hagtøl1 </em></p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201084. Einstøku økini <em type="bold">4.1 Læraraparturin </em></p>
+<p><em type="italic">Lærarar eru nøgdir </em></p>
+<p>Ein av høvuðsniðurstøðunum í kanningini er, at meginparturin av spurdu lærar unum (90%) eru nøgdir við sítt arbeiði. Teir allarfl estu (95%) halda eisini, at teir gera ein týdningarmiklan útbúgvingarligan mun í lívi næminganna, og at teir fáa góð úrslit við næmingunum.</p>
 <p>Nærum allir siga, at viðurskiftini millum lærarar og næmingar vanliga eru góð í skúlanum.</p>
-<p>Samanumtikið kann sostatt sigast, at nøgdsemið við arbeiðið er sera stórt, og er hetta  týdningarmikil niðurstøða at hava í huga, tá ið kanningarúrslitini verða grein að. Tað er av stórum týdningi framhaldandi at byggja á tað, sum jaligt er í fólkaskúlanum í løtuni. Í ymsum kanningum seinastu árini – smærri eins og víðfevndari sum hesari – verður staðfest, at starvsfólk og næmingar siga seg trívast í skúlanum – fl estu fara hugagóð til arbeiðis. Hetta eru dyggar súlur undir tí arbeiði, sum skúlans er og eiga at geva møguleika fyri menning og førleikabatum í víðastu merking innan skúlans gátt.</p>
-<p>Men ikki kemst uttanum, at undirvísingardygdin og førleikastøðið eru ikki nøktandi. Orsøkin liggur sjálvandi ikki bert á </p>
-<p>Ein freistandi spurningur í hesum sambandi er sjálvandi, hví so er? Er tað tí, at dyg din ikki nóg góðar førleikar til at hevja næmingarnar á tað støðið, sum alheimurin krevur av okkum? Ella eru undirvísingarskipanir, myndlar og frymlar okk ara ikki dagførd, ella eru tey møguliga bert til á pappírunum?</p>
+<p>Samanumtikið kann sostatt sigast, at nøgdsemið við arbeiðið er sera stórt, og er hetta týdningarmikil niðurstøða at hava í huga, tá ið kanningarúrslitini verða grein að. Tað er av stórum týdningi framhaldandi at byggja á tað, sum jaligt er í fólkaskúlanum í løtuni. Í ymsum kanningum seinastu árini – smærri eins og víðfevndari sum hesari – verður staðfest, at starvsfólk og næmingar siga seg trívast í skúlanum – fl estu fara hugagóð til arbeiðis. Hetta eru dyggar súlur undir tí arbeiði, sum skúlans er og eiga at geva møguleika fyri menning og førleikabatum í víðastu merking innan skúlans gátt.</p>
+<p>Men ikki kemst uttanum, at undirvísingardygdin og førleikastøðið eru ikki nøktandi. Orsøkin liggur sjálvandi ikki bert á einum staði, men allir partar á undirvísingarpallinum hava fyri neyðini at eftirspenna verandi bygnað og arbeiðslag. Nøktandi tilelving, sum vanliga er høvuðsfyritreytin fyri allari undirvísing, er til staðar.</p>
+<p>Ein freistandi spurningur í hesum sambandi er sjálvandi, hví so er? Er tað tí, at dyg din í undirvísingini ikki er í lagi? Ella er tað kanska tí, at starvsfólkini í fólka skúla num hava</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 20109ikki nóg góðar førleikar til at hevja næmingarnar á tað støðið, sum alheimurin krevur av okkum? Ella eru undirvísingarskipanir, myndlar og frymlar okk ara ikki dagførd, ella eru tey møguliga bert til á pappírunum?</p>
 <p>Hóast svarið ikki er einfalt, so hava vit tó best ynskiligu støðu at arbeiða framhaldandi við neyðugu ábótunum. Vit hava tað, sum fl estu øðrum londum vantar: Vit hava hugaðar og fúsar starvsbólkar innan skúlans gátt.</p>
-<p>Hinvegin tykist tað, sum um ein stórur partur av lærarunum ikki heldur, at teir verða virðismettir av nærsamfelagnum. Hetta svarið krevur eina nærri kanning fyri at kortleggja, hvat ið hugsað verður um, hvat lærarar leggja í hugtakið virðismeting, og hvat kann gerast til tess at bøta um hesi viðurskifti.</p>
-<p xml:lang="dan"><em type="bold">4.2 Faklig førleikamenning</em> </p>
-<p>Sambært kanningini halda lærarar, at:</p>
-<p type="listitem">•  faklig førleikamenning er umráðandi partur av teirra menning</p>
-<p type="listitem">•  skeið og verkstovur (workshops) er tað fakliga førleikamennandi virksemið, ið fl estu lærarar hava luttikið í seinastu 18 mánaðirnar (70%)</p>
-<p type="listitem">•  tað er framhaldsútbúgving (t.d. diplomskeið ella eyka linjugrein), ið ger munin, tá tað snýr seg um fakliga førleikamenning</p>
-<p type="listitem">•  faklig førleikamenning, sum er bindandi yvir longri tíðarskeið, ger munin</p>
-<p type="listitem">•  teir hava ein <em type="italic">ávísan </em>ella <em type="italic">stóran </em>tørv á fakligari menning </p>
-<p type="listitem">•  teir  høvdu  ynskt  at  tikið  lut  í  fl eiri  førleikamennandi  skeiðum  samanborið  við ítøkiliga talið seinastu 18 mánaðirnar (72%)</p>
-<p type="listitem">•  tørvurin á hesum økjum er lutfalsliga stórur: undirvísing av næmingum við serligum tørvi • kt-nýtsla í undirvísingini og  • næmingaagi (-disiplin) og atferðartrupulleikar •</p>
-<p type="listitem">•  ein ávísur tørvur er, tá tað snýr seg um: eftirmeting av næmingum umframt dagføring og innihaldsligum íblástri á fak-• øki lærarans</p>
+<p>Hinvegin tykist tað, sum um ein stórur partur av lærarunum ikki heldur, at teir verða virðismettir av nærsamfelagnum. Hetta svarið krevur eina nærri kanning fyri at kortleggja, hvat ið hugsað verður um, hvat lærarar leggja í hugtakið virðismeting, og hvat kann gerast til tess at bøta um hesi viðurskifti. <em type="bold">4.2 Faklig førleikamenning </em></p>
+<p type="listitem">Sambært kanningini halda lærarar, at:</p>
+<p type="listitem">faklig førleikamenning er umráðandi partur av teirra menning</p>
+<p type="listitem">skeið og verkstovur (workshops) er tað fakliga førleikamennandi virksemið, ið fl estu lærarar hava luttikið í seinastu 18 mánaðirnar (70%)</p>
+<p type="listitem">tað er framhaldsútbúgving (t.d. diplomskeið ella eyka linjugrein), ið ger munin, tá tað snýr seg um fakliga førleikamenning</p>
+<p type="listitem">faklig førleikamenning, sum er bindandi yvir longri tíðarskeið, ger munin</p>
+<p type="listitem">teir hava ein ávísan ella stóran tørv á fakligari menning</p>
+<p type="listitem">teir  høvdu  ynskt  at  tikið  lut  í  fl eiri  førleikamennandi  skeiðum  samanborið  við ítøkiliga talið seinastu 18 mánaðirnar (72%)</p>
+<p type="listitem">tørvurin á hesum økjum er lutfalsliga stórur:undirvísing av næmingum við serligum tørvi</p>
+<p type="listitem">kt-nýtsla í undirvísingini og</p>
+<p type="listitem">næmingaagi (-disiplin) og atferðartrupulleikar</p>
+<p type="listitem">ein ávísur tørvur er, tá tað snýr seg um:eftirmeting av næmingum umframt dagføring og innihaldsligum íblástri á fak-</p>
+<p type="listitem">øki lærarans</p>
 <p>Tríggir fjórðingar av lærarunum tykjast hava eitt høgt virkisstøði, tá ið talan er um fakliga menning, meðan ein fjórðingur ikki tykist at fl yta seg á hesum øki. Hetta sæst, tá ið luttøka teirra í ymiskum virksemi verður mátað.</p>
-<p>Ein ávísur munur er á tørvi og ynski um fakliga førleikamenning alt eftir aldri. Yngru lærararnir siga, at teir hava serligan tørv á hesum økjum:</p>
-<p type="listitem">•  stýring av undirvísingini og</p>
-<p type="listitem">•  næmingaagi (-disiplin) og atferðartrupulleikar</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201010</p>
+<p type="listitem">Ein ávísur munur er á tørvi og ynski um fakliga førleikamenning alt eftir aldri. Yngru  lærararnir siga, at teir hava serligan tørv á hesum økjum:</p>
+<p type="listitem">stýring av undirvísingini og</p>
+<p type="listitem">næmingaagi (-disiplin) og atferðartrupulleikar</p>
 <p>Lærarar við fl eiri royndum hava ein lutfalsliga størri tørv á fakligari menning viðvíkjandi innihaldinum í undirvísingini, lutvíst við atliti at linjugreinum og lutvíst við atliti at kt-nýtslu í undirvísingini. Hetta gevur ábendingar um, at gagnligt hevði verið at skilt tilboðini um førleikamennandi virksemi sundur alt eftir, hvussu nógvar royndir lærararnir á hvørjum einstøkum skúla hava.</p>
 <p>Í kanningini sæst, at lærarar sóknast eftir fl eiri eftirútbúgvingartilboðum. Teir vilja heldur sleppa á longri skeið enn styttri skeið, sum eru t.d. bara ein dag.</p>
 <p>Tað er av alstórum týdningi, at læraraførleikarnir støðugt verða dagførdir. Sum støðan er í dag, eru eftirútbúgvingartilboðini rættiliga fá, og talan er aloftast um stutt skeið.</p>
-<p>Tað er ein stórur partur av lærarunum í tí føroyska fólkaskúlanum, sum als ikki fær nakra  eftirútbúgving,  hvørki  styttri  ella  longri  skeið,  við  tað,  at  øll  eftirútbúgving  er sjálvboðin. Vandi er tískil fyri, at tilboðini, sum hóast alt eru, ikki verða gagnnýtt, og at summir lærarar í síni starvstíð ongantíð fáa sína útbúgving dagførda. Hetta hevur sjálvsagt óhepnar avleiðingar við sær, tí samf</p>
-<p type="listitem">• <em type="italic">Allir lærarar eiga at vera í støðugari eftirútbúgvingartilgongd.</em> </p>
-<p type="listitem"><em type="italic">•  Øll eftirútbúgvingartilboð og skeið verða ráðløgd og fastløgd í so mikið góðari tíð, at tey kunnu verða løgd inn í ársverkini hjá hvørjum einstøkum lærara og soleiðis ávirka undirvísingina sum minst.</em> </p>
-<p type="listitem"><em type="italic">•  Útbúgvingarnar á Fróðskaparsetri Føroya/Føroya læraraskúla eiga at verða skipaðar soleiðis, at eftirútbúgvingartilboð kunnu verða samskipað við teimum. Hetta skal skiljast soleiðis, at m.a. lærarar kunnu taka ávís skeið saman við teimum lesandi.</em> </p>
-<p type="listitem"><em type="italic">•  Fróðskaparsetur  Føroya/Føroya  læraraskúli  bjóða  hesar  møgu leik ar út og inntøkufíggja teir.</em> </p>
-<p type="listitem"><em type="italic">•  Fyriskipanin  av  eftirútbúgvingarvirkseminum  verður  samskipað  á Lands miðstøðini saman við styttru skeiðunum.</em> </p>
-<p type="listitem"><em type="italic">•  Eftirútbúgvingartilboðini skulu mennast, og fyrilit skal takast fyri, hvat skúlin, har lærarin starvast, hevur brúk fyri, tá ið støða verður tikin til, hvørja eftirútbúgving, einstaki lærarin kann luttaka í.</em> </p>
-<p type="listitem"><em type="italic">•  Til tess at órógva undirvísing næminganna sum minst, eiga part ar av eftirútbúgvingini at liggja seinnapart á degi</em> </p>
-<p type="listitem"><em type="italic">•  Lærari, sum hevur førleikament seg á ávísum øki – t.d. innan serundirvísing,  kt,  bókasavn,  savnsrøkt  –  fær  ábyrgd  av  hesum  øki  í  sínum skúla.</em> </p>
-<p type="listitem"><em type="italic">•  Reglur skulu gerast fyri førleikaviðbót.</em> </p>
-<p type="listitem"><em type="italic">•  Fígging skal fáast til fl eiri eftirútbúgvingartilboð.</em> </p>
-<p type="listitem"><em type="italic">•  Ískoytisútbúgving á bachelor- og masterstigi fyri lærarar verður sett í verk.</em> </p>
+<p type="listitem">Tað er ein stórur partur av lærarunum í tí føroyska fólkaskúlanum, sum als ikki fær  nakra  eftirútbúgving,  hvørki  styttri  ella  longri  skeið,  við  tað,  at  øll  eftirútbúgving  er  sjálvboðin. Vandi er tískil fyri, at tilboðini, sum hóast alt eru, ikki verða gagnnýtt, og  at summir lærarar í síni starvstíð ongantíð fáa sína útbúgving dagførda. Hetta hevur  sjálvsagt óhepnar avleiðingar við sær, tí samfelagið broytist og harvið eisini krøvini til  teir næmingar, sum skúlin skal útbúgva til hetta samfelag.</p>
+<p type="listitem">Allir lærarar eiga at vera í støðugari eftirútbúgvingartilgongd.</p>
+<p type="listitem">Øll eftirútbúgvingartilboð og skeið verða ráðløgd og fastløgd í so mikið góðari tíð, at tey kunnu verða løgd inn í ársverkini hjá hvørjum einstøkum lærara og soleiðis ávirka undirvísingina sum minst.</p>
+<p type="listitem">Útbúgvingarnar á Fróðskaparsetri Føroya/Føroya læraraskúla eiga at verða skipaðar soleiðis, at eftirútbúgvingartilboð kunnu verða samskipað við teimum. Hetta skal skiljast soleiðis, at m.a. lærarar kunnu taka  ávís skeið saman við teimum lesandi.</p>
+<p type="listitem">Fróðskaparsetur  Føroya/Føroya  læraraskúli  bjóða  hesar  møgu leik ar út og inntøkufíggja teir.</p>
+<p type="listitem">Fyriskipanin  av  eftirútbúgvingarvirkseminum  verður  samskipað  á</p>
+<p type="listitem">Lands miðstøðini saman við styttru skeiðunum.</p>
+<p type="listitem">Eftirútbúgvingartilboðini skulu mennast, og fyrilit skal takast fyri, hvat skúlin, har lærarin starvast, hevur brúk fyri, tá ið støða verður tikin til,  hvørja eftirútbúgving, einstaki lærarin kann luttaka í.</p>
+<p type="listitem">Til tess at órógva undirvísing næminganna sum minst, eiga part ar av eftirútbúgvingini at liggja seinnapart á degi</p>
+<p type="listitem">Lærari, sum hevur førleikament seg á ávísum øki – t.d. innan serundir-vísing,  kt,  bókasavn,  savnsrøkt  –  fær  ábyrgd  av  hesum  øki  í  sínum  skúla.</p>
+<p type="listitem">Reglur skulu gerast fyri førleikaviðbót.</p>
+<p type="listitem">Fígging skal fáast til fl eiri eftirútbúgvingartilboð.</p>
+<p type="listitem">Ískoytisútbúgving á bachelor- og masterstigi fyri lærarar verður sett í verk.tilmæli</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201011</p>
 <p>Sum er, verður eftirútbúgvingin skipað partvís sum styttri skeið og sum førleikagevandi eftirútbúgving. Fyri kortum vórðu 30 lesivegleiðarar útbúnir. Útbúgvingin varð skipað undir Føroya Læraraskúla og var í 2 skúlaár – 30 ECTS. Serlærarar eru eisini tiknir inn eftir nøkunlunda sama leisti, umframt at Føroya Læraraskúli hevur møguleikan at bjóða út linjulestur til lærarar. Á leið 10 lærarar eru í løtuni undir hesi skipanini.</p>
-<p>Einki  er  at  ivast  í,  at  lærarar  eru  ógvuliga  fegnir  um  skipanina  við  førleikagevandi eftirútbúgving,  men  hon  fevnir  ikki  øll  skeiðsynski/eftirútbúgvingarynski.  Her  verður hugsað um styttri skeið, sum millum annað fata um kt og kt-nýtslu í skúlaverkinum og faklig skeið í sambandi við, at nýtt undirvísingartilfar verður útgivið. Lærarar hava tørv á báðum – bæði tilboðum um longri førleikagevandi eftirútbúgving/framhalds út búgving og tilboðum um styttri skeið. Annað útilokar ikki hitt.</p>
-<p><em type="bold">4.3 Eftirmeting og/ella afturboðan</em> </p>
-<p>Viðvíkjandi eftirmeting og/ella afturboðan í sambandi við arbeiði teirra meta lærarar soleiðis um støðuna:</p>
-<p type="listitem">•  44% av lærarunum siga, at teir ongantíð ella minni enn annaðhvørt ár fáa eftirmeting frá skúlaleiðara, og 32% siga, at hetta ongantíð kemur fyri.</p>
-<p type="listitem">•  23% og 32% av svargevunum siga, at teir ongantíð fáa eftirmeting og/ella aftursvar frá nøkrum persóni ella myndugleika.</p>
-<p type="listitem">•  Meginparturin av lærarunum heldur ikki, at tað fær avleiðingar fyri hin ein staka læraran, um viðkomandi <span type="quote">”áhaldandi fremur ónøktandi avrik”</span>.</p>
-<p type="listitem">•  Álitið er rættiliga avmarkað, tá tað snýr seg um, at eitt eyka avrik ella nýhugs an í undirvísingini førir við sær størri fíggjarliga samsýning. Einans 20%  hal da, at soleiðis er.</p>
-<p type="listitem">•  56%  halda,  at  eftirkanningar  av  avriki  hjá  lærara  fyrst  og  fremst  verður  sett  í verk fyri at lúka umsitingarlig krøv.</p>
-<p type="listitem">•  62%  halda,  at  eftirkanningar  av  læraraavrikum  hava  lítla  og  onga  ávirkan  á, hvussu lærararnir undirvísa í fl okkinum.</p>
+<p>Einki er at ivast í, at lærarar eru ógvuliga fegnir um skipanina við førleikagevandi eftirútbúgving, men hon fevnir ikki øll skeiðsynski/eftirútbúgvingarynski. Her verður hugsað um styttri skeið, sum millum annað fata um kt og kt-nýtslu í skúlaverkinum og faklig skeið í sambandi við, at nýtt undirvísingartilfar verður útgivið. Lærarar hava tørv á báðum – bæði tilboðum um longri førleikagevandi eftirútbúgving/framhalds út búgving og tilboðum um styttri skeið. Annað útilokar ikki hitt. <em type="bold">4.3 Eftirmeting og/ella afturboðan </em></p>
+<p type="listitem">Viðvíkjandi eftirmeting og/ella afturboðan í sambandi við arbeiði teirra meta lærarar  soleiðis um støðuna:</p>
+<p type="listitem">44% av lærarunum siga, at teir ongantíð ella minni enn annaðhvørt ár fáa eftir-meting frá skúlaleiðara, og 32% siga, at hetta ongantíð kemur fyri.</p>
+<p type="listitem">23% og 32% av svargevunum siga, at teir ongantíð fáa eftirmeting og/ella aft-ursvar frá nøkrum persóni ella myndugleika.</p>
+<p type="listitem">Meginparturin av lærarunum heldur ikki, at tað fær avleiðingar fyri hin ein staka læraran, um viðkomandi <span type="quote">”áhaldandi fremur ónøktandi avrik”</span>.</p>
+<p type="listitem">Álitið er rættiliga avmarkað, tá tað snýr seg um, at eitt eyka avrik ella nýhugs an í undirvísingini førir við sær størri fíggjarliga samsýning. Einans 20%  hal da, at  soleiðis er.</p>
+<p type="listitem">56%  halda,  at  eftirkanningar  av  avriki  hjá  lærara  fyrst  og  fremst  verður  sett  í verk fyri at lúka umsitingarlig krøv.</p>
+<p type="listitem">62%  halda,  at  eftirkanningar  av  læraraavrikum  hava  lítla  og  onga  ávirkan  á, hvussu lærararnir undirvísa í fl okkinum.</p>
 <p>Tað, sum serliga fellur í eyguni, er, at sjálvt tá ið eftirmetingar verða gjørdar, og úrslitini eru greið, so fær hetta ongar avleiðingar. Tað vil siga, at í stóran mun verður hildið fram at arbeiða, sama um arbeiðið er væl ella illa úr hondum greitt, og er hetta ein støða, sum ikki er haldgóð í longdini.</p>
-<p>Vit vita, at fl estu av teimum, sum dagliga starvast í skúlanum, eru dugnalig og arbeiða fyri at fáa skúlagongdina hjá børnum okkara so góða sum møguligt. Vit hava eisini skúlastýrini,  kommunurnar  og  Mentamálaráðið,  sum  arbeiða  við  at  skipa  skúlan  á besta hátt. Hví fáa vit so tílík svar frá lærarunum og skúlastjórunum?</p>
-<p>Í kanningini síggja vit, at lærararnir halda, at eftirmeting ikki fær tað stóra plássið í skúlanum.  Ein  stórur  partur  metir,  at  leiðslan  fremur  eftirmetingina  fyri  at  lúka  ávís fyrisitingarlig krøv. Sambært kanningini hevur tað stóran týdning, at eftirmetingin, sum lærarar fáa frá næmingum og foreldrum, er jalig.</p>
+<p>Vit vita, at fl estu av teimum, sum dagliga starvast í skúlanum, eru dugnalig og arbeiða fyri at fáa skúlagongdina hjá børnum okkara so góða sum møguligt. Vit hava eisini skúlastýrini, kommunurnar og Mentamálaráðið, sum arbeiða við at skipa skúlan á besta hátt. Hví fáa vit so tílík svar frá lærarunum og skúlastjórunum?</p>
+<p>Í kanningini síggja vit, at lærararnir halda, at eftirmeting ikki fær tað stóra plássið í</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201012tilmæliskúlanum. Ein stórur partur metir, at leiðslan fremur eftirmetingina fyri at lúka ávís fyrisitingarlig krøv. Sambært kanningini hevur tað stóran týdning, at eftirmetingin, sum lærarar fáa frá næmingum og foreldrum, er jalig.</p>
 <p>Tá tað so verður staðfest, at ein lærari ikki ger sítt arbeiði til fulnar, fær hetta ong ar avleiðingar. Lærarar, sum sjálvir meta, teir gera eitt gott arbeiði, halda, at hetta er ikki nøktandi.</p>
-<p>Eftirmeting  er  alneyðug  fyri  at  staðfesta,  at  arbeiðið  er  gott,  sum  verður  framt  í skúlahøpi. Hinvegin – um staðfestast kann, at arbeiðið ikki er nóg gott – eiga tiltøk at setast í verk fyri at bøta um úrslitið.</p>
+<p>Eftirmeting er alneyðug fyri at staðfesta, at arbeiðið er gott, sum verður framt í skúlahøpi. Hinvegin – um staðfestast kann, at arbeiðið ikki er nóg gott – eiga tiltøk at setast í verk fyri at bøta um úrslitið.</p>
 <p>Tað er eisini týdningarmikið, at eftirmetingin er væl skipað, og at eftirmett verður í øllum liðum – bæði innan og uttan skúlagátt. Um hetta ikki skal kennast sum eftirlit, er neyðugt, at allir partar verða tiknir við. Verður hetta gjørt fyri at gagna undirvísingini hjá næminginum sum best, er heilt avgjørt, at øll fara at gleðast um slík tiltøk, um hesi verða væl fyriskipað, áðrenn tey verða sett í verk.</p>
-<p>Fyri at kunna gera eina haldgóða eftirmeting, er neyðugt við góðum eftirmetingaramboðum.  Eftirmeting  hongur  neyvt  saman  við  málunum,  ið  løgd  eru  fyri  tann  føroyska fólkaskúlan. Ein reyður tráður skal ganga gjøgnum alla skúlaskipanina, har mál og skipað eftirmeting eru tengd saman sum ein nattúrligur partur av gerandisdegnum í einum vælskipaðum fólkaskúla.</p>
+<p>Fyri at kunna gera eina haldgóða eftirmeting, er neyðugt við góðum eftirmetingaramboðum. Eftirmeting hongur neyvt saman við málunum, ið løgd eru fyri tann føroyska fólkaskúlan. Ein reyður tráður skal ganga gjøgnum alla skúlaskipanina, har mál og skipað eftirmeting eru tengd saman sum ein nattúrligur partur av gerandisdegnum í einum vælskipaðum fólkaskúla.</p>
 <p>Eftirmetingin má, sum áður nevnt, altíð hava tað fyri eyga, hvussu bøtast kann um tað, ið skal gerast betri, eins og staðfesta tað, sum er gott. Sostatt fæst at vita, hvat haldast skal fast um, og hvat skal broytast.</p>
-<p>Sett eigur at verða í verk eftirmeting á øllum økjum, sum víðvíkja skúlanum. Her verður millum annað hugsað um leiklutin hjá leiðslu, lærarum, næmingum, foreldrum o.ø. Samstarvið millum hesar bólkar skal eisini javnan eftirmetast, tí uttan samstarv verða góð úrslit ikki rokkin. Fólkaskúlin byggir ikki á einstaklingsavrik hjá hvørjum einstøkum lærara í mun til nógv onnur arbeiðspláss. Úrslitini mugu skapast í felag. Øll, sum varða av skúlanum, eiga at samstarva um hetta til tess at skapa ein góðan fólkaskúla við næmingum, sum síðani fara út í okkara samfelag og skapa eitt samfelag, har rúm er fyri øllum.</p>
-<p type="listitem">• <em type="italic">Eftirmeting verður sett í verk á øllum økjum, sum viðvíkja skúlanum.  </em></p>
-<p><em type="italic">Her verður millum annað hugsað um leiklutin hjá:</em> <em type="italic">  skúlaleiðsluni,</em> <em type="italic">  læraranum,</em> <em type="italic">  næminginum og</em> <em type="italic">  foreldrunum</em> </p>
-<p type="listitem"><em type="italic">•  Mentamálaráðið ger ein leist, sum lýsir, hvussu vælskipað eftirmeting kann setast í verk.</em> </p>
-<p type="listitem"><em type="italic">•  Skúlar gera sína egnu eftirmetingarskipan við støði í leisti frá Mentamálaráðnum.</em> </p>
-<p><em type="bold">4.4 Undirvísing læraranna í ávísum fl okkum</em> </p>
-<p><em type="italic">Undirvísing og faklig úrslit</em> </p>
-<p>Í hesum partinum av kanningini vórðu lærarar millum annað spurdir um, 1) hvussu fakliga støðið í fl okki teirra er samanborið við ávikavist aðrar fl okkar á sama fl oksstigi í egnum skúla og í landshøpi, og 2) hvussu tillutaða undirvísingartíðin í einstaka fl okkinum verður nýtt.</p>
-<p>1) Viðvíkjandi fakliga støðinum:</p>
-<p>90% av spurdu lærarunum søgdu, at fakliga støðið í teirra fl okki var miðal, eitt sindur ella  nógv  yvir  miðal  samanborið  við  hinar  fl okkarnar  á  sama  fl oksstigi  í  skúlanum. Hetta talið var 88%, um fl okkurin var sammettur við fl okkar í breiðum høpi.</p>
-<p>Tað  er  undranarvert,  at  lærarar  koma  til  hesa  niðurstøðu,  tá  ið  hugsað  verður  um aðrar kanningar av fakligu førleikunum hjá føroyskum skúlanæmingum eitt nú í PISAkanningunum.</p>
-<p>2) Viðvíkjandi undirvísingartíðini:</p>
-<p>Lærararnir vórðu spurdir um, hvussu teir býta arbeiði sítt í fl okkunum millum:</p>
-<p><em type="italic">a)  umsitingarligar uppgávur</em> <em type="italic">b)  at fáa frið og skil í skúlastovuni</em> <em type="italic">c)  veruliga undirvísing og læring</em> </p>
+<p type="listitem">Sett eigur at verða í verk eftirmeting á øllum økjum, sum víðvíkja skúlanum. Her verður millum annað hugsað um leiklutin hjá leiðslu, lærarum, næmingum, foreldrum o.ø.  Samstarvið millum hesar bólkar skal eisini javnan eftirmetast, tí uttan samstarv verða  góð úrslit ikki rokkin. Fólkaskúlin byggir ikki á einstaklingsavrik hjá hvørjum einstøkum lærara í mun til nógv onnur arbeiðspláss. Úrslitini mugu skapast í felag. Øll, sum  varða av skúlanum, eiga at samstarva um hetta til tess at skapa ein góðan fólkaskúla  við næmingum, sum síðani fara út í okkara samfelag og skapa eitt samfelag, har rúm  er fyri øllum.</p>
+<p type="listitem">Eftirmeting verður sett í verk á øllum økjum, sum viðvíkja skúlanum.</p>
+<p type="listitem">Her verður millum annað hugsað um leiklutin hjá:skúlaleiðsluni,læraranum,næminginum ogforeldrunum</p>
+<p type="listitem">Mentamálaráðið ger ein leist, sum lýsir, hvussu vælskipað eftirmeting kann setast í verk.</p>
+<p type="listitem">Skúlar gera sína egnu eftirmetingarskipan við støði í leisti frá Menta-málaráðnum.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201013 <em type="bold">4.4 Undirvísing læraranna í ávísum fl okkum </em></p>
+<p><em type="italic">Undirvísing og faklig úrslit </em></p>
+<p>Í hesum partinum av kanningini vórðu lærarar millum annað spurdir um, 1) hvussu fakliga støðið í fl okki teirra er samanborið við ávikavist aðrar fl okkar á sama fl oksstigi í egnum skúla og í landshøpi, og 2) hvussu tillutaða undirvísingartíðin í einstaka fl okkinum verður nýtt. 1) Viðvíkjandi fakliga støðinum:90% av spurdu lærarunum søgdu, at fakliga støðið í teirra fl okki var miðal, eitt sindur ella nógv yvir miðal samanborið við hinar fl okkarnar á sama fl oksstigi í skúlanum. Hetta talið var 88%, um fl okkurin var sammettur við fl okkar í breiðum høpi.</p>
+<p>Tað er undranarvert, at lærarar koma til hesa niðurstøðu, tá ið hugsað verður um aðrar kanningar av fakligu førleikunum hjá føroyskum skúlanæmingum eitt nú í PISAkanningunum.2) Viðvíkjandi undirvísingartíðini:</p>
+<p>Lærararnir vórðu spurdir um, hvussu teir býta arbeiði sítt í fl okkunum millum: <em type="italic">a) umsitingarligar uppgávur b) at fáa frið og skil í skúlastovuni c) veruliga undirvísing og læring </em></p>
 <p>Í miðal meta lærarar, at 7% av tíðini verður nýtt til umsitingarligar uppgávur, 13% til at fáa frið og skil í skúlastovuni og 79% til veruliga undirvísing og læring.</p>
-<p>Sagt  verður  uppaftur  og  uppaftur,  at  virðismiklasta  tilfeingið  í  einum  framkomnum sam felagi er eitt vælútbúgvið fólk. Tí hevur dygdin í tí arbeiði, sum verður gjørt – bæði í dagstovnum og í skúlum okkara – ómetaliga stóran týdning, tá ið hugsað verður um framhaldandi framburð og menning her á landi. Sæð í hesum ljósinum eiga omanfyri standandi kanningarúrslit at verða tikin í størsta álvara. Tað tykist sum, at lærarar ikki duga nóg væl at meta um fakligu støðuna í sínum fl okkum, umframt at ein ov stórur parur av undirvísingartíðini fer til at fáa frið í skúlastovuni.</p>
-<p><em type="italic">Felags námsætlanir (frá barnagarði til miðnám)</em> </p>
+<p>Sagt verður uppaftur og uppaftur, at virðismiklasta tilfeingið í einum framkomnum sam felagi er eitt vælútbúgvið fólk. Tí hevur dygdin í tí arbeiði, sum verður gjørt – bæði í dagstovnum og í skúlum okkara – ómetaliga stóran týdning, tá ið hugsað verður um framhaldandi framburð og menning her á landi. Sæð í hesum ljósinum eiga omanfyri standandi kanningarúrslit at verða tikin í størsta álvara. Tað tykist sum, at lærarar ikki duga nóg væl at meta um fakligu støðuna í sínum fl okkum, umframt at ein ov stórur parur av undirvísingartíðini fer til at fáa frið í skúlastovuni.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201014</p>
+<p><em type="italic">Felags námsætlanir (frá barnagarði til miðnám) </em></p>
 <p>Leingi hevur verið kunnugt, at ov lítið samband er ímillum ymsu partarnar av útbúgvingarskipan okkara, umframt at tað ikki er nóg greitt og kunnugt fyri øllum, hvat børn skulu megna og duga á teimum ymsu stigunum í skúlaskipanini.</p>
-<p>Mentamálaráðið  arbeiðir  í  løtuni  við  at  dagføra  allar  námsætlanir  frá  dagstovni til  miðnám  og  hevur  boðað  frá,  at  dagførdar  námsætlanir  verða  settar  í  verk  frá  1.  august 2011.  Námsætlanirnar á teimum ymsu stigunum skulu samskipast, soleiðis at ein sam an hangandi menningar- og læringartilgongd verður skapt frá dagstovni til miðnám.</p>
-<p>Í  øllum  námsætlanunum  verða  ásett  almenn  stevnumið  og  førleikamál,  sum  vísa, hvat børn skulu megna og duga á teimum ymsu stigunum og sum fyrireika tey til tær avbjóðingar,  sum  liggja  fyri  framman.  Endamálið  við  hesum  arbeiði  er,  at  øll  børn í  Føroyum  fáa  somu  fyritreytir  fyri  menning,  og  at  vit  so  tíðliga  sum  gjørligt  kunnu staðfesta og gera nakað munagott við møguligar førleikatrupulleikar.</p>
-<p><em type="italic">Samstarv millum lærarar</em> </p>
-<p>Í  kanningini  verða  lærarar  spurdir  um,  í  hvønn  mun  teir  samstarva  um  fl okkar  og einstakar næmingar, ella um teir hinvegin arbeiða sum einstaklingar.</p>
-<p type="listitem">•  38%  luttaka  í  toymisarbeiði  eina  ferð  um  mánaðin  og  24%  eina  ferð  um</p>
-<p>vikuna.</p>
-<p type="listitem">•  24%  býta  um  undirvísingartilfar  eina  ferð  um  mánaðin  og  7%  eina  ferð  um</p>
-<p>vikuna.</p>
-<p type="listitem">•  22% skifta orð um undirvísingartilfar við aðrar lærarar eina ferð um mánaðin, og 15% eina ferð um vikuna.</p>
-<p type="listitem">•  3% eygleiða, tá aðrir lærarar undirvísa og geva afturboðan eina ferð um mánaðin og 4% eina ferð um vikuna.</p>
-<p type="listitem">•  16% skifta orð um og samskipa heimaarbeiðið tvørtur um lærugreinar eina ferð um árið.</p>
-<p>Svarini vísa, at í summum førum er nógv samstarv og í øðrum førum einki. Hyggja vit at hesum frá sjónarhorninum hjá næmingunum, kann hetta gerast sera álvarsamt. Rakar tú sum næmingur á ein ella fl eiri av hesum lærarum, sum als ikki samstarva við sera útsettur og sárbarur. Í hesum sambandi er sera umráðandi, at leiðslan skipar fyri, at allir lærarar taka lut í skipaðum toymissamstarvi.</p>
-<p>Flestu  skúlar  siga  seg  arbeiða  í  toymum,  sum  eru  sett  saman  á  ymsan  hátt,  men spurnartekin kann tó setast við, hvussu skipað og heilhjartað hetta arbeiði er. Er greitt fyriskrivað, hvat skap og innihald hetta arbeiðið veruliga hevur? Hvat verður veruliga ráðlagt, avtalað og stungið út í kortið í toymunum? Eru uppgivnu toymisfundirnir veruligir  arbeiðsfundir,  ella  standa  teir  bert  á  pappírinum?  Tað  er  okkurt,  sum  bendir  á rættiliga ymiska fatan av hesum – eisini í hesi kanningini.</p>
+<p>Mentamálaráðið arbeiðir í løtuni við at dagføra allar námsætlanir frá dagstovni til miðnám og hevur boðað frá, at dagførdar námsætlanir verða settar í verk frá 1. august 2011. Námsætlanirnar á teimum ymsu stigunum skulu samskipast, soleiðis at ein sam an hangandi menningar- og læringartilgongd verður skapt frá dagstovni til miðnám.</p>
+<p>Í øllum námsætlanunum verða ásett almenn stevnumið og førleikamál, sum vísa, hvat børn skulu megna og duga á teimum ymsu stigunum og sum fyrireika tey til tær avbjóðingar, sum liggja fyri framman. Endamálið við hesum arbeiði er, at øll børn í Føroyum fáa somu fyritreytir fyri menning, og at vit so tíðliga sum gjørligt kunnu staðfesta og gera nakað munagott við møguligar førleikatrupulleikar.</p>
+<p><em type="italic">Samstarv millum lærarar </em></p>
+<p type="listitem">Í  kanningini  verða  lærarar  spurdir  um,  í  hvønn  mun  teir  samstarva  um  fl okkar  og  einstakar næmingar, ella um teir hinvegin arbeiða sum einstaklingar.</p>
+<p type="listitem">38%  luttaka  í  toymisarbeiði  eina  ferð  um  mánaðin  og  24%  eina  ferð  um  vikuna.</p>
+<p type="listitem">24%  býta  um  undirvísingartilfar  eina  ferð  um  mánaðin  og  7%  eina  ferð  um  vikuna.</p>
+<p type="listitem">22% skifta orð um undirvísingartilfar við aðrar lærarar eina ferð um mánaðin, og 15% eina ferð um vikuna.</p>
+<p type="listitem">3% eygleiða, tá aðrir lærarar undirvísa og geva afturboðan eina ferð um mánaðin og 4% eina ferð um vikuna.</p>
+<p type="listitem">16% skifta orð um og samskipa heimaarbeiðið tvørtur um lærugreinar eina ferð um árið.</p>
+<p>Svarini vísa, at í summum førum er nógv samstarv og í øðrum førum einki. Hyggja vit at hesum frá sjónarhorninum hjá næmingunum, kann hetta gerast sera álvarsamt. Rakar tú sum næmingur á ein ella fl eiri av hesum lærarum, sum als ikki samstarva við aðrar lærarar, og sum hava trupulleikar við undirivísingini, er hesin næmingur/fl okkur</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201015sera útsettur og sárbarur. Í hesum sambandi er sera umráðandi, at leiðslan skipar fyri, at allir lærarar taka lut í skipaðum toymissamstarvi.</p>
+<p>Flestu skúlar siga seg arbeiða í toymum, sum eru sett saman á ymsan hátt, men spurnartekin kann tó setast við, hvussu skipað og heilhjartað hetta arbeiði er. Er greitt fyriskrivað, hvat skap og innihald hetta arbeiðið veruliga hevur? Hvat verður veruliga ráðlagt, avtalað og stungið út í kortið í toymunum? Eru uppgivnu toymisfundirnir veruligir arbeiðsfundir, ella standa teir bert á pappírinum? Tað er okkurt, sum bendir á rættiliga ymiska fatan av hesum – eisini í hesi kanningini.</p>
 <p>Til tess at menna samstarvið millum lærarar er neyðugt at evna til mannagongdir og frymlar, sum gera tað lættari at fremja hetta í verki, umframt at tillaga og ítøkiliga vegleiða verkligu handfaringina av hesum. Eftirmetingarskipanir eiga at verða lagdar inn í toymissamstarvið. Týdningarmikið er, at starvsfólk og avvarðandi um skúlan annars (skúlastýri, næmingaráð o.o.) sjálv orða og skipa hetta, fyri soleiðis at kenna ognarrætt og virkisskyldu í hesum.</p>
-<p><em type="italic">Samstarv millum heim og skúla</em> </p>
-<p>Tað er merkisvert, at kanningin ongan spurning setur læraranum um, hvussu  teirra samstarv við foreldrini er. Í kanningini  framgongur,  at  skúlastjórarnir  meta  ikki,  at  skúlastýrið  og  tann komm unala  skúlafyrisitingin  spæla  ein  týðandi  leiklut,  tá  avgerðir  verða tiknar.</p>
-<p>Mentamálaráðið  hevur  sum  almennur  myndugleiki  yvirskipaðu  ábyrgdina  av  skúlaøkinum  og  sostatt  eisini av  skúlastjórunum.  Hesin  almenni myndugleiki  hevur  sett  ymiskar  skipanir  á  stovn  fyri  at  fremja  eina  góða skúlagongd.  Ein  av  hesum  skipanum er  skúlastýrini,  men  sambært  kanningini vera hesi ikki mett at spæla ein týðandi  leiklut,  tá  ið  avgerðir  verða tikn ar.  Hetta  kann  tulkast  tann  vegin, at foreldrini als ikki verða roknað sum ein  virkin  partur  av  fólkaskúlanum. Hetta er sera undranarvert, tá ið hugs að verður um orðingarnar í fólkaskúlalógini og í PISA-álitinum, har tilmælt varð, at foreldur eiga at fáa ein størri leiklut í skúlagongdini hjá barninum og at vera við til at seta krøv til málsetning hjá barninum fyri læring og menning (PISA-tilmæli oktober 2006).</p>
-<p>Hetta tilmælið varð bygt á m.a. hesar staðfestingar: 1.  Foreldur og familja eru fyrstu og fremstu lærararnir hjá barninum. 2.  Henda  vitan  byggir  á  granskingarúrslit  m.a.  í  Noregi,  Danmark,  Onglandi  og USA (OECD, 1997). 3.  Tað er av allarstørsta týdningi at breiða hesa vitan út millum øll tey, sum varða 4.  Granskingarúrslit vísa, at heimið hevur størri ávirkan á avrikið hjá barninum enn skúlin, og sostatt at stórir menningarmøguleikar hjá skúlanum liggja í at draga foreldrini uppí á rættan og skilagóðan hátt (Desforges, 2003).</p>
-<p>Í fólkaskúlalógini er eisini týðiliga ásett, at: § 2. Uppgáva fólkaskúlans er við atliti at tí einstaka næminginum og í samstarvi</p>
-<p>við foreldrini at fremja, at næmingarnir nema sær kunnleika, fi mi, arbeiðshættir  og  málbúnar,  sum  stuðla  tí  einstaka  næminginum  í  fjølbroyttu,  persónligu menn ingini.</p>
-<p><em type="italic">Foreldrini ikki nóg virkin</em> </p>
-<p>Í kanningini verður eisini sóknast eftir betri og meira víðfevndum foreldrasamstarvi. Eyðsæð er, at tá ið barnið kemur í skúla, byrjar eitt samstarv – ikki bara við næmingin, men eisini við baklandið hjá næminginum, sum í mongum førum er ein mamma og ein pápi. Hetta er tó eisini við at broytast eins og í grannalondum okkara. Tað eru ofta fl eiri enn bert ein mamma og ein pápi. Hetta er bara ein av nógvum avbjóðingum, sum lærarin møtir, tá ið barnið kemur í skúla. Tað er umráðandi, at samstarvið fær eina góða byrjan, og at lærarin og skúl in kunnu rúma hesum ofta ógv u ligu ymisku familjum og trúgva uppá, at øll hava okkurt, sum tey kunnu bera til henda felagsskapin, sum eitur foreldrasamstarv, og sum hevur so stóran týdning.</p>
-<p type="listitem">• <em type="italic">Dagførdar námsætlanir við førleikamálum  frá barnagarði til miðnám </em></p>
-<p><em type="italic">eiga at verða settar í verk sum skjótast.</em> </p>
-<p type="listitem"><em type="italic">•  Allir lærarar skulu regluliga taka lut í toymisfundum.</em> <em type="italic"> Aftaná summarfríðtíðina byrja lærararnir og leiðslan eina viku áðrenn næmingarnir.</em> </p>
-<p type="listitem"><em type="italic">•  Allir skúlar skulu hava ítøkiliga orðaðar mannagongdir um samstarv millum lærarar. </em></p>
-<p type="listitem"><em type="italic">•  Skúlaleiðarar skipa fyri, at hetta arbeiðið verður gjørt, og at reglulig eftirmeting verður framd (sí fylgiskjal 2).</em> </p>
-<p type="listitem"><em type="italic">•  Samstarv  millum  heim  og  skúla  skal  vera  fastur  táttur  í  læraraútbúgvingini.</em> </p>
-<p type="listitem"><em type="italic">•  Foreldur eiga at fáa ein størri leiklut í skúlagongdini hjá barninum og vera við til at seta krøv til málsetning fyri læringina hjá barninum.</em> </p>
-<p type="listitem"><em type="italic">•  Verkætlanir,  sum  kunnu  styrkja  um  samstarvið  millum  heim  og </em></p>
-<p><em type="italic"> skúla, verða settar í verk (sí fylgiskjal 1).</em> </p>
-<p type="listitem"><em type="italic">•  Felagið Heim &amp; Skúli eigur at verða styrkt, soleiðis at tað verður ført fyri at stuðla upp undir foreldrasamstarvið í skúlunum kring landið.</em> </p>
-<p>Hjá summum næmingum ganga skúlaárini væl – ongir stórvegis trup ulleikar eru, men har  trupulleikar  eru,  eru  teir  sera  torførir  at  loysa,  um  skúlin  longu  hevur  avskrivað foreldrini og ætlar at loysa teir uttan teirra hjálp. Skúl in er tann yrkislærdi og hevur høv uðsábyrgdina  av,  at  fastar  mannagongdir  og  upplýsing  eru,  og  at  samskiftið  er virðiligt – sjálvt tá hin parturin, foreldrini, vilja tað øðr vísi.</p>
-<p>Uttan at hava fi ngið kunnleika um, hvussu samstarvið millum skúla og heim verður skipað, ber ikki til at fremja tað í verki, so aftur her er útbúgving neyðug. Ein lærari kundi fi ngið útbúgving innan hetta økið á sínum skúla og havt høvuðs ábyrgdina av, Tað hevði verið áhugavert at spurt skúlastýrini, hvønn leiklut tey spæla, tá avgerðir verða tiknar. Stórur tørvur er á, at foreldrini eru meira virkin, tá ið um ræður skúlagongdina hjá børnunum. Samstarvið millum heim og skúla er als ikki nóg gott. Hetta varð staðfest í 2006, og vit eru ikki komin so nógv longri, nú vit skriva 2010. Hvørjar førleikar hava lærararnir at fara inn í hetta samstarv? Hava teir lært nakað um hetta á Læraraskúlanum? Millum aðrar hevur norski professarin í námsfrøði, Thomas Nordahl, skrivað fl eiri bøkur um samstarv millum heim og skúla. Hann hevur sagt seg undrast á, at hetta evni ikki er fastur táttur í læraraútbúgvingini.</p>
-<p>Tá ið foreldrini soleiðis standa uttanfyri ávirkan, misnýtir skúlin sítt vald sum stovnur, heldur  Nordahl. Tað  er  torført  fyri  næmingarnar,  og  er  harafturat  ein  demokratiskur trupulleiki. Vitan eldist skjótt í modernaða samfelagnum, men virðini hjá familjunum eldast  ikki  skjótt.  Hóast  samfelagið  er  nógv  broytt,  eru  lívið  og  virðini  í  familjuni  av eins stórum týdningi fyri børnini nú sum fyrr. Tað er tí umráðandi at samstarva um eitt felags virðisgrundarlag millum heim og skúla. Lærarar eiga at verða betri útbúnir til hesa uppgávu.</p>
+<p><em type="italic">Samstarv millum heim og skúla </em></p>
+<p>Tað er merkisvert, at kanningin ongan spurning setur læraranum um, hvussu teirra samstarv við foreldrini er. Í kanningini framgongur, at skúlastjórarnir meta ikki, at skúlastýrið og tann komm unala skúlafyrisitingin spæla ein týðandi leiklut, tá avgerðir verða tiknar.</p>
+<p>Mentamálaráðið hevur sum almennur myndugleiki yvirskipaðu ábyrgdina av skúlaøkinum og sostatt eisini av skúlastjórunum. Hesin almenni myndugleiki hevur sett ymiskar skipanir á stovn fyri at fremja eina góða skúlagongd. Ein av hesum skipanum er skúlastýrini, men sambært kanningini vera hesi ikki mett at spæla ein týðandi leiklut, tá ið avgerðir verða tikn ar. Hetta kann tulkast tann vegin, at foreldrini als ikki verða roknað sum ein virkin partur av fólkaskúlanum. Hetta er sera undranarvert, tá ið hugs að verður um orðingarnar í fólkaskúlalógini og í PISA-álitinum, har tilmælt varð, at foreldur eiga at fáa ein størri leiklut í skúlagongdini hjá barninum og at vera við til at seta krøv til málsetning hjá barninum fyri læring og menning (PISA-tilmæli oktober 2006).</p>
+<p>Hetta tilmælið varð bygt á m.a. hesar staðfestingar:1. Foreldur og familja eru fyrstu og fremstu lærararnir hjá barninum. 2. Henda vitan byggir á granskingarúrslit m.a. í Noregi, Danmark, Onglandi og</p>
+<p>USA (OECD, 1997).3. Tað er av allarstørsta týdningi at breiða hesa vitan út millum øll tey, sum varða av skúlanum (Nordahl, 2000).</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201016tilmæli4. Granskingarúrslit vísa, at heimið hevur størri ávirkan á avrikið hjá barninum enn skúlin, og sostatt at stórir menningarmøguleikar hjá skúlanum liggja í at draga foreldrini uppí á rættan og skilagóðan hátt (Desforges, 2003).</p>
+<p>Í fólkaskúlalógini er eisini týðiliga ásett, at:§ 2. Uppgáva fólkaskúlans er við atliti at tí einstaka næminginum og í samstarvi við foreldrini at fremja, at næmingarnir nema sær kunnleika, fi mi, arbeiðshættir og málbúnar, sum stuðla tí einstaka næminginum í fjølbroyttu, persónligu menn ingini.</p>
+<p><em type="italic">Foreldrini ikki nóg virkin </em></p>
+<p type="listitem">Í kanningini verður eisini sóknast eftir betri og meira víðfevndum foreldrasamstarvi. Eyðsæð er, at tá ið barnið kemur í skúla, byrjar eitt samstarv – ikki bara við næmingin,  men eisini við baklandið hjá næminginum, sum í mongum førum er ein mamma og  ein pápi. Hetta er tó eisini við at broytast eins og í grannalondum okkara. Tað eru ofta  fl eiri enn bert ein mamma og ein pápi. Hetta er bara ein av nógvum avbjóðingum, sum  lærarin møtir, tá ið barnið kemur í skúla. Tað er umráðandi, at samstarvið fær eina  góða byrjan, og at lærarin og skúl in kunnu rúma hesum ofta ógv u ligu ymisku familjum  og trúgva uppá, at øll hava okkurt, sum tey kunnu bera til henda felagsskapin, sum  eitur foreldrasamstarv, og sum hevur so stóran týdning.</p>
+<p type="listitem">Dagførdar námsætlanir við førleikamálum  frá barnagarði til miðnám eiga at verða settar í verk sum skjótast.</p>
+<p type="listitem">Allir lærarar skulu regluliga taka lut í toymisfundum.</p>
+<p type="listitem">Aftaná summarfríðtíðina byrja lærararnir og leiðslan eina viku áðrenn næmingarnir.</p>
+<p type="listitem">Allir skúlar skulu hava ítøkiliga orðaðar mannagongdir um samstarv millum lærarar.</p>
+<p type="listitem">Skúlaleiðarar skipa fyri, at hetta arbeiðið verður gjørt, og at reglulig eftirmeting verður framd (sí fylgiskjal 2).</p>
+<p type="listitem">Samstarv  millum  heim  og  skúla  skal  vera  fastur  táttur  í  læraraút-búgvingini.</p>
+<p type="listitem">Foreldur eiga at fáa ein størri leiklut í skúlagongdini hjá barninum og vera við til at seta krøv til málsetning fyri læringina hjá barninum.</p>
+<p type="listitem">Verkætlanir,  sum  kunnu  styrkja  um  samstarvið  millum  heim  og  skúla, verða settar í verk (sí fylgiskjal 1).</p>
+<p type="listitem">Felagið Heim &amp; Skúli eigur at verða styrkt, soleiðis at tað verður ført fyri at stuðla upp undir foreldrasamstarvið í skúlunum kring landið.</p>
+<p>Hjá summum næmingum ganga skúlaárini væl – ongir stórvegis trup ulleikar eru, men har trupulleikar eru, eru teir sera torførir at loysa, um skúlin longu hevur avskrivað foreldrini og ætlar at loysa teir uttan teirra hjálp. Skúl in er tann yrkislærdi og hevur høv uðsábyrgdina av, at fastar mannagongdir og upplýsing eru, og at samskiftið er virðiligt – sjálvt tá hin parturin, foreldrini, vilja tað øðr vísi.</p>
+<p>Uttan at hava fi ngið kunnleika um, hvussu samstarvið millum skúla og heim verður skipað, ber ikki til at fremja tað í verki, so aftur her er útbúgving neyðug. Ein lærari kundi fi ngið útbúgving innan hetta økið á sínum skúla og havt høvuðs ábyrgdina av, hvussu for eldra samstarvið skal skipast.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201017</p>
+<p>Tað hevði verið áhugavert at spurt skúlastýrini, hvønn leiklut tey spæla, tá avgerðir verða tiknar. Stórur tørvur er á, at foreldrini eru meira virkin, tá ið um ræður skúlagongdina hjá børnunum. Samstarvið millum heim og skúla er als ikki nóg gott. Hetta varð staðfest í 2006, og vit eru ikki komin so nógv longri, nú vit skriva 2010. Hvørjar førleikar hava lærararnir at fara inn í hetta samstarv? Hava teir lært nakað um hetta á Læraraskúlanum? Millum aðrar hevur norski professarin í námsfrøði, Thomas Nordahl2, skrivað fl eiri bøkur um samstarv millum heim og skúla. Hann hevur sagt seg undrast á, at hetta evni ikki er fastur táttur í læraraútbúgvingini.</p>
+<p>Tá ið foreldrini soleiðis standa uttanfyri ávirkan, misnýtir skúlin sítt vald sum stovnur, heldur Nordahl. Tað er torført fyri næmingarnar, og er harafturat ein demokratiskur trupulleiki. Vitan eldist skjótt í modernaða samfelagnum, men virðini hjá familjunum eldast ikki skjótt. Hóast samfelagið er nógv broytt, eru lívið og virðini í familjuni av eins stórum týdningi fyri børnini nú sum fyrr. Tað er tí umráðandi at samstarva um eitt felags virðisgrundarlag millum heim og skúla. Lærarar eiga at verða betri útbúnir til hesa uppgávu.</p>
 <p>Aðrir viðkomandi spurningar í hesum sambandi eru millum annað: Hvørjar førleikar hava foreldrini til at fara inn í hetta samstarv? Eru foreldrini nóg væl kunnað um, hvat skúlin væntar av teimum, og hvønn leiklut tey eiga í skúlagongdini hjá børnunum?</p>
-<p>Felagið Heim og Skúli varð stovnað í kjalarvørrinum av PISA-kanningini, og hetta er eitt lítið fet rætta vegin. Nakað av virksemi hevur verið í felagnum. Tað hevur serliga verið  at  fara  út  á  skúlar  og  eggja  skúlastýrum  og  foreldraráðum  til  at  menna  samstarvið  millum  heim  og  skúla. Arbeiðsorkan  í  felagnum  er  tó  sera  avmarkað,  tí  alt arbeiði  verður  gjørt  ólønt.  Um  felagið  veruliga  skal  vera  virkið  og  gera  mun,  mugu inntøkur fáast til vega til lønir og verkætlanir. Felagið hevur tó fl eiri ítøkiligar verkætlanir, sum eru framdar á einstøkum skúlum, men sum kundu verið settar í verk kring alt landið (sí fylgiskjal 1).</p>
-<p><em type="bold">4.5 Leiðsluparturin</em> </p>
-<p><em type="italic">Virksemi skúlaleiðaranna </em></p>
-<p type="listitem">•  7% av lærarunum søgdu, at skúlaleiðarin regluliga ella ofta er hjástaddur í einum skúlatíma.</p>
-<p type="listitem">•  13% av lærarunum halda, at skúlaleiðarin (regluliga ella ofta) gevur lærarunum uppskot um, hvussu teir kunnu bøta um undirvísingina.</p>
-<p type="listitem">•  35% av lærarunum halda, at skúlaleiðarin (regluliga ella ofta) viðger útbúgvingar lig mið og mál á fundum við lærararnar.</p>
-<p type="listitem">•  45% av lærarunum halda, at skúlaleiðarin (regluliga ella ofta) gevur lærarunum rós fyri serliga gott avrik ella framúr gott úrslit.</p>
-<p type="listitem">•  52%  av  lærarunum  siga,  at  skúlaleiðarin  (regluliga  ella  ofta)  tekur  stig  til  at viðgera málið, um ein lærari hevur trupulleikar í sínum fl okki. (Tað tykist sjáldsamt, at hesin prosentparturin ikki er størri)<em type="italic">.</em> </p>
-<p xml:lang="dan">Nordahl, Thomas (2008): Hjem og skole – Hvordan skaber man et bedre samarbe</p>
-<p>Hóast hetta er:</p>
-<p type="listitem">•  nærum full semja millum skúlaleiðarar um, at ein týdningarmikil partur av hansara arbeiði er at tryggja, at tað framhaldandi verður bøtt um undirvísingarhættir læraranna (samdur/púra samdur = 97%) og</p>
-<p type="listitem">•  at ein týdningarmikil partur av hansara arbeiði er at tryggja, at lærararnir  standa til  ábyrgd  fyri,  at  mið  og  mál  skúlans  verða  rokkin  (samdur/púra  samdur  = 96%).</p>
+<p>Felagið Heim og Skúli varð stovnað í kjalarvørrinum av PISA-kanningini, og hetta er eitt lítið fet rætta vegin. Nakað av virksemi hevur verið í felagnum. Tað hevur serliga verið at fara út á skúlar og eggja skúlastýrum og foreldraráðum til at menna samstarvið millum heim og skúla. Arbeiðsorkan í felagnum er tó sera avmarkað, tí alt arbeiði verður gjørt ólønt. Um felagið veruliga skal vera virkið og gera mun, mugu inntøkur fáast til vega til lønir og verkætlanir. Felagið hevur tó fl eiri ítøkiligar verkætlanir, sum eru framdar á einstøkum skúlum, men sum kundu verið settar í verk kring alt landið (sí fylgiskjal 1). <em type="bold">4.5 Leiðsluparturin </em></p>
+<p type="listitem">Virksemi skúlaleiðaranna</p>
+<p type="listitem">7% av lærarunum søgdu, at skúlaleiðarin regluliga ella ofta er hjástaddur í ein-um skúlatíma.</p>
+<p type="listitem">13% av lærarunum halda, at skúlaleiðarin (regluliga ella ofta) gevur lærarunum uppskot um, hvussu teir kunnu bøta um undirvísingina.</p>
+<p type="listitem">35% av lærarunum halda, at skúlaleiðarin (regluliga ella ofta) viðger útbúgving-ar lig mið og mál á fundum við lærararnar.</p>
+<p type="listitem">45% av lærarunum halda, at skúlaleiðarin (regluliga ella ofta) gevur lærarunum rós fyri serliga gott avrik ella framúr gott úrslit.</p>
+<p type="listitem">52%  av  lærarunum  siga,  at  skúlaleiðarin  (regluliga  ella  ofta)  tekur  stig  til  at viðgera málið, um ein lærari hevur trupulleikar í sínum fl okki. (Tað tykist sjáldsamt, at hesin prosentparturin ikki er størri).2 Nordahl, Thomas (2008): Hjem og skole – Hvordan skaber man et bedre samarbejde?, Hans Reitzel 2008.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201018tilmæli</p>
+<p type="listitem">Hóast hetta er:</p>
+<p type="listitem">nærum full semja millum skúlaleiðarar um, at ein týdningarmikil partur av hans-ara arbeiði er at tryggja, at tað framhaldandi verður bøtt um undirvísingarhættir  læraranna (samdur/púra samdur = 97%) og</p>
+<p type="listitem">at ein týdningarmikil partur av hansara arbeiði er at tryggja, at lærararnir  standa til  ábyrgd  fyri,  at  mið  og  mál  skúlans  verða  rokkin  (samdur/púra  samdur  =  96%).</p>
 <p>Tá hesi tøl verða sædd í eini heild, bendir okkurt á, at tørvur er at hyggja nærri at leiklutinum hjá skúlaleiðarunum, ið tykist margháttliga afturhaldin samanborið við lærararnar, tá ið hugsað verður um námsfrøðiliga leiðslu.</p>
-<p>Tað er einki dulsmál, at føroysku skúlaleiðslunum í fl estu førum vantar bæði verkligt og ástøðiligt grundarlag, tá byrjað verður í leiðarastørvunum. Eftirsíðan hava leiðslurnar ov smáar møguleikar veruliga at førleikamenna seg. Hetta eigur í framtíðini at vera ein fyritreyt fyri at kunna átaka sær leiðslustarv. Tað merkir, at karmar og møguleikar eiga at gerast fyri, at tey, sum hava hug at fara hesa leið innan undirvísingarverkið, eiga at fáa møguleikan at útbúgva seg innan økið, meðan tey, sum sita í leiðarastørvunum, eiga at fáa møguleika til eftirútbúgving á lærdum hásk</p>
-<p type="listitem"><em type="italic">•  Skúlaleiðslur fáa rætt til supervisión. Til tess at vera virkin í menningini og skipanini í føroyska fólkaskúlanum og annars í heila tikið, má vera loyvt leiðslunum at søkja sær ráðgeving ella supervisión.</em> </p>
-<p type="listitem"><em type="italic">•  Skúlaleiðslur  eiga  at  hava  tryggjaðan  rætt  at  søkja  sær  serkøna hjálp, ið treytar, at tær eru førar fyri at ganga á odda í skúlamenningararbeiðinum</em> </p>
-<p type="listitem"><em type="italic">•  og høvi at søkja leiðaraútbúgvingarskeið/leiðsluskeið.</em> </p>
-<p type="listitem"><em type="italic">•  Mentamálaráðið skal seta av pening til hetta endamál, soleiðis at 8 </em></p>
-<p type="listitem"><em type="italic">– 10 leiðarar sleppa á leiðsluskeið uttanlands við tí endamáli at lyfta </em></p>
-<p><em type="italic">føroyska skúlan longur fram á leiðina.</em> </p>
-<p type="listitem"><em type="italic">•  Skúlaleiðslur skulu regluliga hava starvsfólkasamrøður við allar lærar  ar skúl ans.</em> </p>
-<p type="listitem"><em type="italic">•  Somuleiðis skulu toymissamrøður og samrøður við lærugreinatoymini vera í minsta lagi 2 ferðir árliga.</em> </p>
-<p type="listitem"><em type="italic">•  Leiðslan skal síggja til, at skúlin hevur ein skrivaðan starvsfólkapolitikk</em> </p>
-<p type="listitem"><em type="italic">•  og at mentorskipanir verða settar í verk fyri nýsettar lærarar.</em> </p>
+<p type="listitem">Tað er einki dulsmál, at føroysku skúlaleiðslunum í fl estu førum vantar bæði verkligt og  ástøðiligt grundarlag, tá byrjað verður í leiðarastørvunum. Eftirsíðan hava leiðslurnar  ov smáar møguleikar veruliga at førleikamenna seg. Hetta eigur í framtíðini at vera  ein fyritreyt fyri at kunna átaka sær leiðslustarv. Tað merkir, at karmar og møguleikar  eiga at gerast fyri, at tey, sum hava hug at fara hesa leið innan undirvísingarverkið,  eiga at fáa møguleikan at útbúgva seg innan økið, meðan tey, sum sita í leiðarastørvunum, eiga at fáa møguleika til eftirútbúgving á lærdum háskúlum bæði her heima og  uttanlands, annaðhvørt sum fulltíðar- ella partstíðarlestur ella møguliga fjarlestur.</p>
+<p type="listitem">Skúlaleiðslur fáa rætt til supervisión. Til tess at vera virkin í menn-ingini og skipanini í føroyska fólkaskúlanum og annars í heila tikið,  má vera loyvt leiðslunum at søkja sær ráðgeving ella supervisión.</p>
+<p type="listitem">Skúlaleiðslur  eiga  at  hava  tryggjaðan  rætt  at  søkja  sær  serkøna hjálp, ið treytar, at tær eru førar fyri at ganga á odda í skúlamenningararbeiðinum</p>
+<p type="listitem">og høvi at søkja leiðaraútbúgvingarskeið/leiðsluskeið.</p>
+<p type="listitem">Mentamálaráðið skal seta av pening til hetta endamál, soleiðis at 8 – 10 leiðarar sleppa á leiðsluskeið uttanlands við tí endamáli at lyfta  føroyska skúlan longur fram á leiðina.</p>
+<p type="listitem">Skúlaleiðslur skulu regluliga hava starvsfólkasamrøður við allar lær-ar  ar skúl ans.</p>
+<p type="listitem">Somuleiðis skulu toymissamrøður og samrøður við lærugreinatoym-ini vera í minsta lagi 2 ferðir árliga.</p>
+<p type="listitem">Leiðslan skal síggja til, at skúlin hevur ein skrivaðan starvsfólkapoli-tikk</p>
+<p type="listitem">og at mentorskipanir verða settar í verk fyri nýsettar lærarar.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201019</p>
 <p>Stuttskeiðini, sum verða boðin á grundstigi í løtuni, eiga at halda fram í útbygdum vavi frá sálarfrøðiligum lykla-/lýdnisskeiði til eisini at umfata námsfrøðiligu grundtættirnar, sum virka í einumhvørjum læruumhvørvi.</p>
-<p>Onnur enn læraraútbúgvin eiga at hava rætt at verða sett í leiðarastørvini í fólkaskúlanum,  tó  við  teirri  treyt,  at  hesi  frammanundan  taka  1-ára  langt  undirvísingarligt  og námsfrøðiligt prógv við ástøði og starvslæru, sum skal nærri lýsast og fyriskrivast av Mentamálaráðnum.</p>
-<p><em type="italic">Fólkaskúlin sum arbeiðsmarknaður</em> </p>
+<p>Onnur enn læraraútbúgvin eiga at hava rætt at verða sett í leiðarastørvini í fólkaskúlanum, tó við teirri treyt, at hesi frammanundan taka 1-ára langt undirvísingarligt og námsfrøðiligt prógv við ástøði og starvslæru, sum skal nærri lýsast og fyriskrivast av Mentamálaráðnum.</p>
+<p><em type="italic">Fólkaskúlin sum arbeiðsmarknaður </em></p>
 <p>Sambært løgtingslóg um fólkaskúlan er einasta arbeiðsmegi, sum kann fáa fast starv og ásetta løn í fólkaskúlanum, ein, sum hevur útbúgving frá einum læraraskúla. Hetta merkir, at lærarafelagið hevur monopol uppá tænastuna <span type="quote">“skúlagongd hjá børnum frá 1. til 10. fl okk”</span>.</p>
-<p>Í  ástøði  um  arbeiðsmarknaðarviðurskifti  er  alkent,  at  ein  monopolstøða  fremur  ikki optimala javnvág á einum arbeiðsmarknaði. Hesin skeivleiki á arbeiðsmarknaðinum fremur ikki eyka avrik, menning og nýhugsan hjá lærarunum.</p>
-<p>Tá ið talan er um fólkaskúlan, so fær hetta tó ongar avleiðingar av tí, at arbeiðsgevarin hevur einki alternativ. Harafturat kemur ein sera stirvin lønarskipan, sum ikki loyvir eyka løn í sambandi við t.d førleikamenning. Í kanningini svara  72% av lærarunum, at teir einki lønarískoyti hava fi ngið í sambandi við yrkisliga førleikamenning.</p>
-<p>Hesi  viðurskifti  ganga  út  yvir  dygdina  í  skúlaarbeiðinum.  Vánalig  dygd  fær  heldur ong ar avleiðingar, tí foreldrini hava í fl estu førum einki alternativ. Hinvegin so hava foreldrini ábyrgdina av, at børnini fáa undirvísing. Tað vil siga, at vit hava eina støðu við styrktum dupultum monopoli, og er hetta ein grundleggjandi trupulleiki í føroyska fólkaskúlanum.</p>
-<p><em type="italic">Okkum tørvar kapping</em> </p>
-<p>Ein gongd leið burturúr hesum vansum hevði verið at framt broytingar í fólkaskúlalógini, soleiðis at <span type="quote">”arbeiðsmarknaðurin fólkaskúlin”</span> verður opin fyri fl eiri yrkisbólkum.</p>
-<p>Vit hava brúk fyri námsfrøðingum at arbeiða í innskúlingini og í forskúlanum. Eis ini vantar okkum førleikar innan náttúruvísindi í fólkaskúlanum. Afturat hesum ítøkiligu fyrimunum,  sum  kundu  komið  við  einum  opnum  arbeiðsmarknaði  í  fólkaskúlanum, kemur fyrimunurin a</p>
-<p>Hvussu so við fakliga støðinum? – kann ein spyrja. Tað er sera umráðandi, at fakliga støðið verður tryggjað, men spurningurin er, um hetta verður gjørt nóg væl við verandi skipan. Í londunum kring okkum hava myndugleikarnir broytt lógarverkið, so at henda monopolstøða  á  arbeiðsmarknaðinum  á  fólkaskúlaøkinum  ikki  er  so  sterk,  og  har loyvt verður øðrum yrkisbólkum at virka.</p>
-<p>Ein sera áhugaverdur spurningur í hesum sambandi er, hvør tað er, sum skal gera av, hvørja arbeiðsmegi vit hava brúk fyri í fólkaskúlanum. Sum hægsti myndugleiki hevur Mentamálaráðið ábyrgd vegna borgararnar at skipa soleiðis fyri, at vit fáa ein fólkaskúla  við  dygd  í  undirvísingini  og  við  menning  og  viðurkenning  av  eyka  avriki hjá starvsfólkunum. Hetta kann gerast á tann hátt, at vit loyva fl eiri yrkisbólkum inn í skúlan, og at eyka avrik verða viðurkend og lønt.</p>
-<p>Afturat hesum kunnu vit nevna privatskúlar. Fleiri privatskúlar høvdu framt kappingina, sum so aftur kundi bøtt um dygdina.</p>
-<p type="listitem">• <em type="italic">Lógarbroyting  verður  framd,  sum  letur  upp  fyri  fl eiri  yrkisbólkum  í </em></p>
-<p><em type="italic">fólka skúlanum.</em> </p>
-<p type="listitem"><em type="italic">•  Námsfrøðilig útbúgving verður sett á stovn fyri hesar yrkisbólkar.</em> </p>
-<p type="listitem"><em type="italic">•  Skúlastjórar fáa møguleika at veita lærarum eykaløn fyri serliga gott avrik.</em> </p>
-<p type="listitem"><em type="italic">•  Mál – og avriksstýring verður sett í verk í fólkaskúlanum.</em> </p>
-<p><em type="bold">4.6  Næmingar við serligum tørvi</em> </p>
-<p>Í  TALIS-kanningini  verður  víst  á,  at  í  skúlanum  eru  næmingar,  sum  eru  trupulir  at undir vísa, og sum gera alla undirvísing sera trupla hjá lærarum. Hagtøl vísa, at hesir næmingar gerast alt fl eiri. Um henda gongdin heldur fram, verða tað fl eiri næmingar Sum gongdin er í dag, eru nærum eingi tilboð til næmingar, sum hava tað torført í skúlanum. Um ikki verður sett inn á rættan hátt at hjálpa hesum næmingum beinanvegin, sum trupulleikin vísir seg, veksur hann eyðvitað. Foreldur at hinum næmingunum og lærarar vilja hava arbeiðsfrið í skúlanum og í mongum førum, tá ið tolið er uppi,  verður  bara  ynskt  eftir,  at  summir  næmingar  við  serligum  tørvi  verða  tiknir  úr skúlanum. Tað eru tíverri nógv dømi um, at hetta er vanligi hugburðurin. Ilskast verður inn á, at foreldrini ikki vilja, at barnið verður tikið úr skúlanum. Men um foreldrini eisini</p>
-<p>vraka barnið, tá eru vit av álvara komin í trupulleikar! Børn eru ymisk og fara vónandi altíð at verða tað.</p>
+<p>Í ástøði um arbeiðsmarknaðarviðurskifti er alkent, at ein monopolstøða fremur ikki optimala javnvág á einum arbeiðsmarknaði. Hesin skeivleiki á arbeiðsmarknaðinum fremur ikki eyka avrik, menning og nýhugsan hjá lærarunum.</p>
+<p>Tá ið talan er um fólkaskúlan, so fær hetta tó ongar avleiðingar av tí, at arbeiðsgevarin hevur einki alternativ. Harafturat kemur ein sera stirvin lønarskipan, sum ikki loyvir eyka løn í sambandi við t.d førleikamenning. Í kanningini svara 72% av lærarunum, at teir einki lønarískoyti hava fi ngið í sambandi við yrkisliga førleikamenning.</p>
+<p>Hesi viðurskifti ganga út yvir dygdina í skúlaarbeiðinum. Vánalig dygd fær heldur ong ar avleiðingar, tí foreldrini hava í fl estu førum einki alternativ. Hinvegin so hava foreldrini ábyrgdina av, at børnini fáa undirvísing. Tað vil siga, at vit hava eina støðu við styrktum dupultum monopoli, og er hetta ein grundleggjandi trupulleiki í føroyska fólkaskúlanum. <em type="italic">Okkum tørvar kapping </em></p>
+<p>Ein gongd leið burturúr hesum vansum hevði verið at framt broytingar í fólkaskúlalógini, soleiðis at <span type="quote">”arbeiðsmarknaðurin fólkaskúlin”</span> verður opin fyri fl eiri yrkisbólkum. Vit kunnu t.d. fáa góðar skúlaleiðarar, sum hava aðra útbúgving enn frá læraraskúla.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201020tilmæli</p>
+<p>Vit hava brúk fyri námsfrøðingum at arbeiða í innskúlingini og í forskúlanum. Eis ini vantar okkum førleikar innan náttúruvísindi í fólkaskúlanum. Afturat hesum ítøkiligu fyrimunum, sum kundu komið við einum opnum arbeiðsmarknaði í fólkaskúlanum, kemur fyrimunurin av, at kapping fremur dygd.</p>
+<p>Hvussu so við fakliga støðinum? – kann ein spyrja. Tað er sera umráðandi, at fakliga støðið verður tryggjað, men spurningurin er, um hetta verður gjørt nóg væl við verandi skipan. Í londunum kring okkum hava myndugleikarnir broytt lógarverkið, so at henda monopolstøða á arbeiðsmarknaðinum á fólkaskúlaøkinum ikki er so sterk, og har loyvt verður øðrum yrkisbólkum at virka.</p>
+<p>Ein sera áhugaverdur spurningur í hesum sambandi er, hvør tað er, sum skal gera av, hvørja arbeiðsmegi vit hava brúk fyri í fólkaskúlanum. Sum hægsti myndugleiki hevur Mentamálaráðið ábyrgd vegna borgararnar at skipa soleiðis fyri, at vit fáa ein fólkaskúla við dygd í undirvísingini og við menning og viðurkenning av eyka avriki hjá starvsfólkunum. Hetta kann gerast á tann hátt, at vit loyva fl eiri yrkisbólkum inn í skúlan, og at eyka avrik verða viðurkend og lønt.</p>
+<p type="listitem">Afturat hesum kunnu vit nevna privatskúlar. Fleiri privatskúlar høvdu framt kappingina, sum so aftur kundi bøtt um dygdina.</p>
+<p type="listitem">Lógarbroyting  verður  framd,  sum  letur  upp  fyri  fl eiri  yrkisbólkum  í fólka skúlanum.</p>
+<p type="listitem">Námsfrøðilig útbúgving verður sett á stovn fyri hesar yrkisbólkar.</p>
+<p type="listitem">Skúlastjórar fáa møguleika at veita lærarum eykaløn fyri serliga gott avrik.</p>
+<p type="listitem">Mál – og avriksstýring verður sett í verk í fólkaskúlanum.4.6  Næmingar við serligum tørvi</p>
+<p>Í TALIS-kanningini verður víst á, at í skúlanum eru næmingar, sum eru trupulir at undir vísa, og sum gera alla undirvísing sera trupla hjá lærarum. Hagtøl vísa, at hesir næmingar gerast alt fl eiri. Um henda gongdin heldur fram, verða tað fl eiri næmingar við serligum tørvi í mun til teir næmingar, sum ikki tørva eykahjálp.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201021</p>
+<p>Sum gongdin er í dag, eru nærum eingi tilboð til næmingar, sum hava tað torført í skúlanum. Um ikki verður sett inn á rættan hátt at hjálpa hesum næmingum beinanvegin, sum trupulleikin vísir seg, veksur hann eyðvitað. Foreldur at hinum næmingunum og lærarar vilja hava arbeiðsfrið í skúlanum og í mongum førum, tá ið tolið er uppi, verður bara ynskt eftir, at summir næmingar við serligum tørvi verða tiknir úr skúlanum. Tað eru tíverri nógv dømi um, at hetta er vanligi hugburðurin. Ilskast verður inn á, at foreldrini ikki vilja, at barnið verður tikið úr skúlanum. Men um foreldrini eisini vraka barnið, tá eru vit av álvara komin í trupulleikar! Børn eru ymisk og fara vónandi altíð at verða tað.</p>
 <p>Fólkaskúlin skal vera ein rúmligur skúli, tað liggur í orðinum – fólksins skúli. Í fólkaskúlanum møtast øll børn, við sera ymiskum bakstøði, og í fólkaskúlanum kunnu hesi børn læra virðini hjá hvørjum øðrum at kenna, og seinni brúka henda førning fyri at gerast góðir borgarar í samfelagnum.</p>
-<p>Tað vilja altíð vera næmingar, sum hava so stórar trupulleikar, at teir ikki kunnu loysast í tí vanligu undirvísingini, men vit mugu minnast til, at tað mesta snýr seg um relatiónir. Er tað kanska  soleiðis, at tey marginaliseraðu børnini við tíðini verða marginaliserað í uppaftur størri mun? Hvussu verður okkara samfelag, um eingin sleppur at varðveita síni upprunaligu eyðkenni? Um vit ikki veita næmingum hjálp, sum hava stóran tørv, hevur tað ógvusligar fylgjur. Foreldrini hokna undir trýstinum frá ymsum síðum, tey gevast á hondum, og tað almenna má taka um endan. Tó rýma summi av landinum, meðan onnur stríðast sum frægast fyri sínum børnum.</p>
-<p>Á hesum øki er samskipan alneyðug, og er hetta lætt at seta í verk á størru skúlunum. Á teimum minnu skúlunum er neyðugt at skipa hetta øðrvísi. Hesir skúlar eru ikki fl oksbýttir, og er tað tí lættari at møta næminginum á tí støði, har </p>
-<p>Sjálvt  um  vit  samskipa  undirvísingina  til  børn  við  serligum  tørvi  í  mest  møguligan mun, eru tað altíð næmingar, sum í eitt styttri ella longri tíðarskeið skulu hava eitt heilt serligt tilboð.</p>
-<p>Í teimum størru økjunum ber til at bólka hesar næmingar eftir teirra serliga tørvi, har hvør einstakur skúli kann gerast serkønur innan ávís øki. Á smáplássum verður samskipanin meira torfør. Tað má tí umhugsast gjølla í hvørjum einstøkum føri,  hvussu tilboðið  skal  skipast,  tí  eyðvitað  verður  tørvurin  minni,  tá  barnatalið  er  minni.  Ein møguleiki er, at ein ávísur skúli í økinum ger seg serliga út til at stuðla hesum næming um.</p>
+<p>Tað vilja altíð vera næmingar, sum hava so stórar trupulleikar, at teir ikki kunnu loysast í tí vanligu undirvísingini, men vit mugu minnast til, at tað mesta snýr seg um relatiónir. Er tað kanska soleiðis, at tey marginaliseraðu børnini við tíðini verða marginaliserað í uppaftur størri mun? Hvussu verður okkara samfelag, um eingin sleppur at varðveita síni upprunaligu eyðkenni? Um vit ikki veita næmingum hjálp, sum hava stóran tørv, hevur tað ógvusligar fylgjur. Foreldrini hokna undir trýstinum frá ymsum síðum, tey gevast á hondum, og tað almenna má taka um endan. Tó rýma summi av landinum, meðan onnur stríðast sum frægast fyri sínum børnum.</p>
+<p>Á hesum øki er samskipan alneyðug, og er hetta lætt at seta í verk á størru skúlunum. Á teimum minnu skúlunum er neyðugt at skipa hetta øðrvísi. Hesir skúlar eru ikki fl oksbýttir, og er tað tí lættari at møta næminginum á tí støði, har hann er. Til ber at menna hann haðani, heldur enn at seta hann í ein fl okk, bert tí hann er á aldri við sínar fl oksfelagar.</p>
+<p>Sjálvt um vit samskipa undirvísingina til børn við serligum tørvi í mest møguligan mun, eru tað altíð næmingar, sum í eitt styttri ella longri tíðarskeið skulu hava eitt heilt serligt tilboð.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201022tilmæli</p>
+<p>Í teimum størru økjunum ber til at bólka hesar næmingar eftir teirra serliga tørvi, har hvør einstakur skúli kann gerast serkønur innan ávís øki. Á smáplássum verður samskipanin meira torfør. Tað má tí umhugsast gjølla í hvørjum einstøkum føri, hvussu tilboðið skal skipast, tí eyðvitað verður tørvurin minni, tá barnatalið er minni. Ein møguleiki er, at ein ávísur skúli í økinum ger seg serliga út til at stuðla hesum næming um.</p>
 <p>Sum áður nevnt er foreldraleikluturin sera týdningarmikil, um samstarvið um næmingin skal eydnast við mest møguligari læring fyri eyga. Tá ið um børn við serligum tørvi ræður, er foreldraleikluturin uppaftur meira týdningarmikil. Lærarar, sum taka sær av børnum við serligum tørvi, mugu støðugt hava foreldrini í huga og samhugsa leiklutin hjá ávikavist skúlanum og heiminum, so hvør einstakur næmingur røkkur sum mest av teimum førleikum, ið røkkast kunnu.</p>
-<p>Eitt høli ella fl eiri skulu nýtast burturav til hesa undirvísing. Hesi høli eiga at vera væl útgjørd til endamálið, og natúrligt er, at øll serundirvísing fer fram í hesum hølum, tá ið næmingurin annars ikki er saman við sínum fl oksfeløgum.</p>
-<p type="listitem">• <em type="italic">Ljós verður varpað á, hvussu tímarnir til serligan tørv kunnu skipast </em></p>
-<p><em type="italic">á ein hátt, so mest fæst burturúr.</em> </p>
-<p type="listitem"><em type="italic">•  Í  teimum  størru  skúlunum  eigur  ein  serlærari  at  hava  ábyrgd  av hesum tímum.</em> </p>
-<p type="listitem"><em type="italic">•  Tímar til serligan tørv skulu altíð verða fullnýttir, soleiðis at næmingarnir fáa sum mest burturúr, og hesir tímar skulu verða lagdir í tímatalvuna, áðrenn hinir tímarnir verða lagdir.</em> </p>
-<p type="listitem"><em type="italic">•  Serundirvísingin eigur at samskipast í størri økjum.</em> </p>
-<p><em type="bold">4.7 Bókmentir</em> </p>
-<p xml:lang="dan">Desforges, S.W.A., Alberto, 2003: The  impact  of  parential  involvement,  parental support and family education on pupil achievement  and  adjustment:  A  review  of  literature: Research  Report  RR433.  Dep.  for  education and skills, Nottingham, UK.</p>
-<p xml:lang="dan">Nordahl, T., 2000: Samarbeid mellom hjem og skole – en kartleggings-undersøkelse. NOVA Rapport 8/00.</p>
-<p xml:lang="dan">Nordahl, Thomas, 2008: Hjem  og  Skole  –  Hvordan  skamber  man  et bedre samarbejde? Hans Reizel, 2008.</p>
-<p xml:lang="dan">OECD, 1997: Parents  as  partners  in  schooling.  Center  for educational  research  and  Innovation,  OECD pp. 208.</p>
-<p>5. Fylgiskjøl</p>
+<p type="listitem">Eitt høli ella fl eiri skulu nýtast burturav til hesa undirvísing. Hesi høli eiga at vera væl  útgjørd til endamálið, og natúrligt er, at øll serundirvísing fer fram í hesum hølum, tá  ið næmingurin annars ikki er saman við sínum fl oksfeløgum.</p>
+<p type="listitem">Ljós verður varpað á, hvussu tímarnir til serligan tørv kunnu skipast á ein hátt, so mest fæst burturúr.</p>
+<p type="listitem">Í  teimum  størru  skúlunum  eigur  ein  serlærari  at  hava  ábyrgd  av hesum tímum.</p>
+<p type="listitem">Tímar til serligan tørv skulu altíð verða fullnýttir, soleiðis at næming-arnir fáa sum mest burturúr, og hesir tímar skulu verða lagdir í tímatalvuna, áðrenn hinir tímarnir verða lagdir.</p>
+<p type="listitem">Serundirvísingin eigur at samskipast í størri økjum.4.7 Bókmentir</p>
+<p xml:lang="dan">Desforges, S.W.A., Alberto, 2003:</p>
+<p xml:lang="dan">The impact of parential involvement, parental support and family education on pupil achievement and adjustment: A review of literature: Research Report RR433. Dep. for education and skills, Nottingham, UK.</p>
+<p>Nordahl, T., 2000:</p>
+<p xml:lang="dan">Samarbeid mellom hjem og skole – en kartleggings-undersøkelse. NOVA Rapport 8/00.</p>
+<p xml:lang="dan">Nordahl, Thomas, 2008:</p>
+<p xml:lang="dan">Hjem og Skole – Hvordan skamber man et bedre samarbejde? Hans Reizel, 2008.</p>
+<p xml:lang="dan">OECD, 1997:</p>
+<p xml:lang="dan">Parents as partners in schooling. Center for educational research and Innovation, OECD pp. 208.</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 2010235. Fylgiskjøl</p>
 <p>Hjáløgd eru hesi fylgiskjøl:</p>
-<p><em type="italic">Fylgiskjal 1:</em> </p>
-<p>Verkætlanir til frama fyri samstarv millum heim og skúla (Felagið Heim &amp; Skúli)</p>
-<p><em type="italic">Fylgiskjal 2:</em> </p>
-<p>Dømi um, hvussu toymisarbeiði kann greinast og eftirmetast (Tórshavnar komm  unuskúli)</p>
-<p><em type="italic">Fylgiskjal 1</em>: </p>
-<p><em type="bold">Verkætlanir til frama fyri samstarv millum heim og skúla</em> </p>
+<p><em type="italic">Fylgiskjal 1: </em>Verkætlanir til frama fyri samstarv millum heim og skúla (Felagið Heim &amp; Skúli) </p>
+<p><em type="italic">Fylgiskjal 2: </em>Dømi um, hvussu toymisarbeiði kann greinast og eftirmetast (Tórshavnar komm unuskúli) </p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201024</p>
+<p><em type="italic">Fylgiskjal 1 </em>: </p>
+<p><em type="bold">Verkætlanir til frama fyri samstarv millum heim og skúla </em></p>
 <p>Felagið Heim og Skúli hevur sæð tørvin á tilfari og tiltøkum, sum kunnu stuðla samstarvinum millum heim og skúla. Niðanfyri eru ítøkiligar verkætlanir, sum felagið metir høvdu styrkt hetta samstarv munandi:</p>
-<p><em type="bold">Bókling um skúlabyrjan:</em> </p>
-<p>Framleiðsla av bóklingi uppá umeið 40 síður, um hvussu foreldrini kunnu hjálpa barninum at fyrireika seg til at byrja í skúlanum. Bóklingurin skal eisini upplýsa og eggja foreldrunum í teirra leikluti í skúlagongdini hjá børnunum. Hendan bókling skulu øll foreldur fáa, tá tey skriva barn inn í skúlan.</p>
-<p><em type="bold">Bóklingur um framhaldsdeild:</em> </p>
-<p>Framleiðsla av bóklingi uppá umleið 40 síður, sum á sama hátt sum omanfyrinevndi skal upplýsa og stuðla foreldrunum.</p>
-<p><em type="bold">Tilfar til workshops / skeið</em> </p>
-<p>fyri foreldur um skúlabyrjan. Ásannandi, at tað er í tíðini um skúlabyrjan hjá barninum, at foreldur eru mest sinnað at samstarva, er tað ein gyltur møguleiki at skipa fyri slík– um.</p>
-<p><em type="bold">Handbók fyri foreldraumboð:</em> </p>
-<p>Framleiðsla av eini mappu/ringbindi til foreldraumboðini fyri hvønn fl okk – ein mappa til hvønn fl okk. Hendan mappan fylgir fl okkinum upp gjøgnum árini og er ein hjálp hjá teimum skiftandi foreldraumboðunum. Í mappuni eru vegleiðingar og hjálp til arbeiðið sum foreldraumboð, og har kunnu umboðini savna viðkomandi tilfar um fl okkin.</p>
-<p><em type="bold">Faldari um foreldraumboð</em> </p>
-<p>sum upplýsir, hvat tað inniber at vera foreldraumboð og sum eggjar til hetta arbeiði.</p>
-<p><em type="bold">Faldari um foreldrabanka,</em> </p>
-<p>sum er eitt spurnarskema til foreldrini um, hvat tey kunnu hjálpa við av praktiskum uppgávum í sambandi við samstarvið um fl okkin.</p>
-<p><em type="italic">Fylgiskjal 2</em>: </p>
-<p><em type="bold">Dømi um, hvussu toymisarbeiði kann greinast og eftirmetast</em> </p>
-<p><em type="bold">Virksemi toymisins í verki I</em> </p>
+<p><em type="bold">Bókling um skúlabyrjan: </em>Framleiðsla av bóklingi uppá umeið 40 síður, um hvussu foreldrini kunnu hjálpa barninum at fyrireika seg til at byrja í skúlanum. Bóklingurin skal eisini upplýsa og eggja foreldrunum í teirra leikluti í skúlagongdini hjá børnunum. Hendan bókling skulu øll foreldur fáa, tá tey skriva barn inn í skúlan. </p>
+<p><em type="bold">Bóklingur um framhaldsdeild: </em>Framleiðsla av bóklingi uppá umleið 40 síður, sum á sama hátt sum omanfyrinevndi skal upplýsa og stuðla foreldrunum. </p>
+<p><em type="bold">Tilfar til workshops / skeið </em>fyri foreldur um skúlabyrjan. Ásannandi, at tað er í tíðini um skúlabyrjan hjá barninum, at foreldur eru mest sinnað at samstarva, er tað ein gyltur møguleiki at skipa fyri slík– um. </p>
+<p><em type="bold">Handbók fyri foreldraumboð: </em>Framleiðsla av eini mappu/ringbindi til foreldraumboðini fyri hvønn fl okk – ein mappa til hvønn fl okk. Hendan mappan fylgir fl okkinum upp gjøgnum árini og er ein hjálp hjá teimum skiftandi foreldraumboðunum. Í mappuni eru vegleiðingar og hjálp til arbeiðið sum foreldraumboð, og har kunnu umboðini savna viðkomandi tilfar um fl okkin. </p>
+<p><em type="bold">Faldari um foreldraumboð </em>sum upplýsir, hvat tað inniber at vera foreldraumboð og sum eggjar til hetta arbeiði. </p>
+<p><em type="bold">Faldari um foreldrabanka, </em>sum er eitt spurnarskema til foreldrini um, hvat tey kunnu hjálpa við av praktiskum uppgávum í sambandi við samstarvið um fl okkin. </p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201025</p>
+<p><em type="italic">Fylgiskjal 2 </em>: </p>
+<p><em type="bold">Dømi um, hvussu toymisarbeiði kann greinast og eftirmetast </em></p>
+<p><em type="bold">Virksemi toymisins í verki I </em></p>
 <p>Ein greining og lýsing av toymisarbeiðnum í skúlanum má leggja dent á viðurskiftini ímillum toymisbygnaðin, innihaldið og mannagongdirnar í toyminum (sí mynd 1)</p>
-<p><em type="bold">Virksemi toymisins í verki II</em> </p>
+<p><em type="bold">Virksemi toymisins í verki II </em></p>
 <p>Tað hevur stóran týdning, at toymið hevur møguleika fyri at stýra samstarvinum og samskiftinum millum limirnar í toyminum.</p>
 <p>Toymið í slíkari skipan skal hava ábyrgdina av einari liðiligari ráðlegging og arbeiðsbýti, kunna tryggja dygdina í arbeiðinum og ta fakligu menningina hjá limunum í toyminum og gáa eftir møguligum sálarligum trýsti á tann einstaka limin í toyminum.</p>
 <p>Miðast má eftir at fáa eina hóskandi skipan í toymisarbeiðinum í mun til uppgávurnar, og at væntanirnar til toymisleiðsluna er avkláraðar, sí mynd 1. Hesi sjónarmið verða grundarlag undir kanningar- og metingarfrymlinum í mynd 2 og 3.</p>
-<p><em type="bold">Fokusøki hjá toyminum</em> </p>
-<p>Tá  skúlin  skal  gera  eina  kanning  av,  hvørja  ávirkan  toymisbygnaðurin  hevur  á  tað sálarliga arbeiðsumhvørvið, verður tað mett at hava stóran týdning, at arbeitt verður miðvíst við júst hesum evnum.</p>
-<p><em type="bold">Bygnaður</em> </p>
-<p>Mynd 1</p>
-<p>!</p>
-<p>!</p>
-<p>!</p>
-<p>!</p>
+<p><em type="bold">Fokusøki hjá toyminum </em></p>
+<p>Tá skúlin skal gera eina kanning av, hvørja ávirkan toymisbygnaðurin hevur á tað sálarliga arbeiðsumhvørvið, verður tað mett at hava stóran týdning, at arbeitt verður miðvíst við júst hesum evnum.</p>
+<p>Námsfrøðilig menning hevur tætt samband við sjálvseftirmeting av egnari luttøku í</p>
+<p><em type="bold">Bygnaður </em>! !!! </p>
 <p>Toymisskipan Fundartíttleiki, fundarleiðsla, skrá, fundarfrágreiðing v.m. Amboð til fyrireiking, ráðlegging og eftirmeting av næminganna læru og undirvísing Arbeiðshættir til fakliga menning og samstarv</p>
-<p><em type="bold">Mannagongdir</em> </p>
-<p><em type="bold">Innihald</em> </p>
-<p>!</p>
-<p>!</p>
+<p><em type="bold">Mannagongdir </em>!! </p>
 <p>Menning av umhugsan (reflektión) og innanhýsis samskipan í toyminum Avkláring og justering av arbeiðsbýti og væntanir til hvønn annan</p>
-<p>!</p>
-<p>!</p>
-<p>! !</p>
-<p>!</p>
-<p>! !</p>
-<p>Samstarv um næmingar Samstarv um undirvísingartilgongdir Samstarv um frálæruhættir Liðilig ráðlegging Arbeiðsbýti Vera kveikjandi fyri hvørt annað Innanhýsis vegleiðing (supervisión) toymisins arbeiði. Tí er tað nærliggjandi, at toymismenning hevur ein feril av støðutakan hjá tí einstaka í sær. Men líka so greitt er tað, at persónligar eygleiðingar mugu <span type="quote">“avprivatiserast”</span> í sambandi við orðaskifti um ta verandi støðuna og ta ynsktu menningina.</p>
-<p><em type="bold">Kanningar og metingarfrymil  </em>Mynd 2 </p>
-<p>Arbeitt verður stigvíst, soleiðis: 1.  Arbeiða hvør sær við útfyllingarblaðnum “Støða og framtíðarútlit fyri toymisarbeiðinum” (mynd 4). 2.  Orðaskifti í toyminum ella í øðrum viðkomandi bólkum um svarini hjá teimum einstøku toymislimunum. 3.</p>
-<p><em type="bold">Virksemi toymisins í verki III</em> </p>
-<p><em type="bold">Støða og framtíðarútlit fyri toymisarbeiðið</em> </p>
+<p><em type="bold">Innihald </em>! !! ! ! ! ! </p>
+<p>Samstarv um næmingar Samstarv um undirvísingartilgongdir Samstarv um frálæruhættir Liðilig ráðlegging Arbeiðsbýti Vera kveikjandi fyri hvørt annað Innanhýsis vegleiðing (supervisión)</p>
+<p>Mynd 1</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201026</p>
+<p><em type="bold">Í stóran mun </em></p>
+<p><em type="bold">Als ikki </em></p>
+<p><em type="bold">Støða og framtíðarútlit fyri toymisarbeiðið </em></p>
+<p xml:lang="dan">Set kross</p>
+<p><em type="bold">Toymisbygnaður </em>1. Er toymisbygnaðurin hóskandi sæð í mun til samstarviðum tann einstaka næmingin og ta samlaðu undirvísingina í flokkinum?2. Gevur toymisbygnaðurin møguleika fyri einari smidligariráðlegging av árs-, tíðarskeiðs- og vikætlanum?3. Gevur toymisbygnaðurin møguleika fyri skiftandi hætt-um at skipa seg við atliti til flokk, bólk ella árgangi?4. Er toymisstøddin hóskandi sæð í mun til møguleikar-nar fyri orðaskiftum millum starvsfelagar um námsfrøðiligar spurningar, hugleiðingar (refleksión) og fakligar avbjóðingar? </p>
+<p><em type="bold">Innihaldið í toymisarbeiðinum </em>1. Arbeiðir toymið skipað um tann einstaka næmingin?2. Arbeiðir toymið við menningar- og ársætlanum fyriflokkin og árgangin?3. Samstarvar toymið áhaldandi um undirvísingargondir?toymisins arbeiði. Tí er tað nærliggjandi, at toymismenning hevur ein feril av støðutakan hjá tí einstaka í sær. Men líka so greitt er tað, at persónligar eygleiðingar mugu <span type="quote">“avprivatiserast”</span> í sambandi við orðaskifti um ta verandi støðuna og ta ynsktu menningina. </p>
+<p><em type="bold">Kanningar og metingarfrymil </em></p>
+<p>Mynd 2</p>
+<p>Arbeitt verður stigvíst, soleiðis: 1. Arbeiða hvør sær við útfyllingarblaðnum <span type="quote">“Støða og framtíðarútlit fyri toymis-arbeiðinum”</span> (mynd 4).2. Orðaskifti í toyminum ella í øðrum viðkomandi bólkum um svarini hjá teimum einstøku toymislimunum.3. Savnan av fokusøkjum hjá toyminum í sambandi við felags mál og karmar at nýta sum grundarlag fyri einari afturmelding til leiðsluna um viðurskifti, ið skulu raðfestast í sambandi við eina roynd at bøta um tað sálarliga arbeiðsumhvørvið.4. Virkisætlan fyri, hvussu ein í egnum toymi ætlar at arbeiða við menning av toymisarbeiðnum.</p>
+<p><em type="bold">Virksemi toymisins í verki III </em></p>
 <p>Mynd 3</p>
-<p>Set kross<em type="bold">Toymisbygnaður</em> </p>
-<p><em type="bold">Í stóran munAls ikki</em> </p>
-<p>1. Er toymisbygnaðurin hóskandi sæð í mun til samstarvið um tann einstaka næmingin og ta samlaðu undirvísingina í flokkinum?</p>
-<p>2. Gevur toymisbygnaðurin møguleika fyri einari smidligari ráðlegging av árs-, tíðarskeiðs- og vikætlanum?</p>
-<p>3. Gevur toymisbygnaðurin møguleika fyri skiftandi hættum at skipa seg við atliti til flokk, bólk ella árgangi?</p>
-<p>4. Er toymisstøddin hóskandi sæð í mun til møguleikarnar fyri orðaskiftum millum starvsfelagar um námsfrøðiligar spurningar, hugleiðingar (refleksión) og fakligar avbjóðingar?</p>
-<p><em type="bold">Innihaldið í toymisarbeiðinum</em> </p>
-<p>1. Arbeiðir toymið skipað um tann einstaka næmingin?</p>
-<p>2. Arbeiðir toymið við menningar- og ársætlanum fyri flokkin og árgangin?</p>
-<p>3. Samstarvar toymið áhaldandi um undirvísingargondir?</p>
-<p>Set kross<em type="bold">Toymisbygnaður</em> </p>
-<p><em type="bold">Í stóran munAls ikki</em> </p>
-<p><em type="bold">Fundarvirksemi</em> </p>
-<p><em type="bold">Samstarv og fundarmentan</em> </p>
-<p>4. Samstarvar toymið um menning av nýggjum undirvísingar- og arbeiðshættum?</p>
-<p>5. Arbeiðir toymið við ymiskum hættum fyri stuðli og vegleiðing millum starvsfelagar?</p>
-<p>1. Eru karmarnir um fundarvirksemi toymisins greiðir, kendir og góðtiknir av toyminum?</p>
-<p>2. Eru væntanirnar til toymisskipara ella toymisleiðara avkláraðar?</p>
-<p>3. Kemur nóg nógv burtu úr fundunum?</p>
-<p>1. Er fundarmentanin í toyminum sermerkt av opinleika og virðing fyri hvørjum øðrum?</p>
-<p>2. Eru limirnir í toyminum upptiknir av at brúka hvønn annan til læring og menning?</p>
-<p>3. Geva limirnir í toyminum hvørjum øðrum fakligar avbjóðingar og afturboðan (feedback) upp á frálæruráðlegging og loysnum av trupulleikum við næmingunum?</p>
-<p>4. Eru limirnir í toyminum opnir um stríðsmál mótvegis næmingum og foreldrum, og stuðla teir hvør annan í at koma við uppskotum og til at gjøgnumføra loysnir?</p>
-<p>5. Hevur toymið eitt gott samskifti og eitt uppbyggiligt samstarv?</p>
+<p>Tilmæli frá arbeiðsbólki í sambandi við TALIS-kanningarnar – september 201027</p>
+<p><em type="bold">Í stóran mun </em></p>
+<p><em type="bold">Als ikki </em></p>
+<p xml:lang="dan">Set kross</p>
+<p><em type="bold">Toymisbygnaður </em></p>
+<p><em type="bold">Fundarvirksemi </em></p>
+<p><em type="bold">Samstarv og fundarmentan </em>4. Samstarvar toymið um menning av nýggjum undirvís-ingar- og arbeiðshættum?5. Arbeiðir toymið við ymiskum hættum fyri stuðli og veg-leiðing millum starvsfelagar?1. Eru karmarnir um fundarvirksemi toymisins greiðir,kendir og góðtiknir av toyminum?2. Eru væntanirnar til toymisskipara ella toymisleiðara av-kláraðar?3. Kemur nóg nógv burtu úr fundunum?1. Er fundarmentanin í toyminum sermerkt av opinleikaog virðing fyri hvørjum øðrum?2. Eru limirnir í toyminum upptiknir av at brúka hvønn ann-an til læring og menning?3. Geva limirnir í toyminum hvørjum øðrum fakligar av-bjóðingar og afturboðan (feedback) upp á frálæruráðlegging og loysnum av trupulleikum við næmingunum?4. Eru limirnir í toyminum opnir um stríðsmál mótvegisnæmingum og foreldrum, og stuðla teir hvør annan í at koma við uppskotum og til at gjøgnumføra loysnir?5. Hevur toymið eitt gott samskifti og eitt uppbyggiligtsamstarv? </p>
 </body></document>

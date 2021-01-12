@@ -1,144 +1,93 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2563</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>vegleiðing-til-bugetskipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Budgettskipanin </em></p>
-<p>-</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2662</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>vegleiðing-til-bugetskipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Budgettskipanin </em>- </p>
 <p>Ein brávegleiðing</p>
-<p xml:lang="dan">Dagførd 15. januar 2009</p>
-<p><em type="bold">Innihald: </em></p>
-<p><em type="bold">Budgetskipanin yvirskipað....................................................................... 3</em> <em type="bold">At leita og broyta í skipanini: (F11 – ctrl-F11 – F10 – F6 – F4) ............ 4</em> </p>
+<p xml:lang="dan">Dagførd 15. januar 20092</p>
+<p><em type="bold">Innihald: </em><em type="bold">Budgetskipanin yvirskipað....................................................................... 3 </em><em type="bold">At leita og broyta í skipanini: (F11 – ctrl-F11 – F10 – F6 – F4) ............ 4 </em></p>
 <p>At leita og broyta í Kontustýring .....................................................................................................4 At avmarka leiting............................................................................................................................5</p>
-<p xml:lang="dan"><em type="bold">Kontustýring.............................................................................................. 6</em> </p>
+<p xml:lang="dan"><em type="bold">Kontustýring.............................................................................................. 6 </em></p>
 <p>At gera nýggjar kontur .....................................................................................................................7 shift-F5 tá gerast skulu nógvar nýggjar kontukombinasjónir: .........................................................8 Status hjá kontum (Skrásett – Fyribils – Góðkend - Óvirkin): ........................................................8</p>
-<p><em type="bold">Umfarskladdan........................................................................................ 10</em> </p>
-<p>Vel hvørjar kontur skulu við í umfarið........................................................................................... 11 Hvussu tú fær somu broyting á fleiri kontur (at nýta frymil).........................................................12 Hvussu tú nýtir Frymil ...............................................................................................................12</p>
-<p xml:lang="dan"><em type="bold">Budgettekstur .......................................................................................... 14</em> </p>
+<p><em type="bold">Umfarskladdan........................................................................................ 10 </em></p>
+<p>Vel hvørjar kontur skulu við í umfarið........................................................................................... 11 Hvussu tú fær somu broyting á fleiri kontur (at nýta frymil).........................................................12</p>
+<p>Hvussu tú nýtir Frymil ...............................................................................................................12</p>
+<p xml:lang="dan"><em type="bold">Budgettekstur .......................................................................................... 14 </em></p>
 <p>Dagføring av talvum í teksttrænum ...............................................................................................14 Útskrift og uppseting av fíggjarlóg ella -ætlan ..............................................................................15 Um kontur ikki síggjast í trænum ..................................................................................................16</p>
-<p><em type="bold">At senda umfar retur .............................................................................. 17</em> </p>
-<p>2</p>
-<p><em type="bold">Budgetskipanin yvirskipað </em></p>
-<p>Budgetskipanin verður nýtt til at gera fíggjarlógir og fíggjarætlanir hjá kommunalum myndugleikum.  Skipanin er uppbygd av trimum høvuðspørtum: 1. Kontustýring</p>
-<p>2. Viðgerð av umførum 3. Budgettekstur</p>
+<p><em type="bold">At senda umfar retur .............................................................................. 17 </em>3 </p>
+<p><em type="bold">Budgetskipanin yvirskipað </em>Budgetskipanin verður nýtt til at gera fíggjarlógir og fíggjarætlanir hjá kommunalum myndugleikum. Skipanin er uppbygd av trimum høvuðspørtum: 1. Kontustýring 2. Viðgerð av umførum 3. Budgettekstur </p>
 <p><em type="italic">Kontustýring </em>er til gerð, aktivering og broyting av kontum. </p>
-<p><em type="italic">Viðgerð av umførum </em>er til gera tølini í budgettinum <em type="italic">Budgettekstur </em>er til at skriva budgettekst og til at gera skjalið til fíggjarlógina ella -ætlanina. </p>
-<p>3</p>
+<p><em type="italic">Viðgerð av umførum </em>er til gera tølini í budgettinum </p>
+<p><em type="italic">Budgettekstur </em>er til at skriva budgettekst og til at gera skjalið til fíggjarlógina ella -ætlanina. 4 </p>
 <p><em type="bold">At leita og broyta í skipanini: (F11 – ctrl-F11 – F10 – F6 – F4) </em></p>
-<p>Fyri at leita ella broyta mást tú duga hesar knøttar: 1. <em type="bold">F11</em>: Við at trýsta á F11 setur tú skipanina í leitistøðu (Feltir, ið kunnu leitast uppá fara frá at vera grá til at verða hvít).  2. <em type="bold">Ctrl-F11</em>: Við at trýsta á Ctrl-F11 (aftaná at hava trýst á F11), finnur skipanin tað fram, sum tú hevur biðið hana finna. 3. <em type="bold">F10</em>: Við at trýsta á F10, goymir skipanin tær broytingar, tú hevur gjørt. 4. <em type="bold">F6</em>: Við at trýsta F6, verða øll leitifelt reinsað/tómd og tú kanst byrja leitingina umaftur. </p>
-<p>5. <em type="bold">F4</em>: Við at trýsta á F4 annulerar tú tað, ið tú hevur gjørt. Um tú hevur trýst á F10 er broytingin tó goymd og kann tá ikki annulerast. Um tú ikki ert í leitistøðu, lukkar F4 tað opna vindeygað. Vanligvís verður sostatt arbeitt soleiðis í Budgetskipanini (tá tøl verða skrivaði inn): </p>
-<p>1. trýst F11 2. avmarka leitingina við at skriva í hvítu feltunum. 3. trýst ctrl-F11 fyri at leita 4. Ger tær ynsktu broytingarnar 5. Goym við at trýsta á F10 Um tú ynskir at angra onkuntíð millum punkt 1 og 5, verður trýst F4 ella F6.</p>
+<p>Fyri at leita ella broyta mást tú duga hesar knøttar: 1. <em type="bold">F11 </em>: Við at trýsta á F11 setur tú skipanina í leitistøðu (Feltir, ið kunnu leitast uppá fara frá at vera grá til at verða hvít). 2. <em type="bold">Ctrl-F11 </em>: Við at trýsta á Ctrl-F11 (aftaná at hava trýst á F11), finnur skipanin tað fram, sum tú hevur biðið hana finna. 3. <em type="bold">F10 </em>: Við at trýsta á F10, goymir skipanin tær broytingar, tú hevur gjørt. 4. <em type="bold">F6 </em>: Við at trýsta F6, verða øll leitifelt reinsað/tómd og tú kanst byrja leitingina umaftur. 5. <em type="bold">F4 </em>: Við at trýsta á F4 annulerar tú tað, ið tú hevur gjørt. Um tú hevur trýst á F10 er broytingin tó goymd og kann tá ikki annulerast. Um tú ikki ert í leitistøðu, lukkar F4 tað opna vindeygað. </p>
+<p>Vanligvís verður sostatt arbeitt soleiðis í Budgetskipanini (tá tøl verða skrivaði inn): 1. trýst F11 2. avmarka leitingina við at skriva í hvítu feltunum. 3. trýst ctrl-F11 fyri at leita 4. Ger tær ynsktu broytingarnar 5. Goym við at trýsta á F10</p>
+<p>Um tú ynskir at angra onkuntíð millum punkt 1 og 5, verður trýst F4 ella F6.</p>
 <p>NB: Um tú í einum vindeyga hevur sett skipanina í leitistøðu (hevur trýst á F11), ber ikki til at lukka tað vindeygað. Fyri at lukkað vindeygað mást tú fyrst fara úr leitistøðuni (t.d. trýsta F4).</p>
-<p><em type="italic">At leita og broyta í Kontustýring </em></p>
-<p><em type="italic">Kontustýring </em>er tó øðrvísi fyri ta fyrstu leitingina (Aðrar enn fyrstu leitingarnar eru líka sum </p>
-<p>omanfyri).</p>
-<p>Fyri at leita fyrstu ferð har skalt tú: 1. Trýst við músini á eitt felt, so tað verður hvítt 2. Trýst á F11 (ein heil rekkja verður hvit),</p>
-<p>3. avmarka leitingina við at skriva í hvítu feltunum 4. Trýst við músini á flugubeinið á <span type="quote">“Vís kontur”</span> (omanfyri til høgru) fyri at leita Tá tú hevur leitað einaferð, kann verða leita sum vanligt.</p>
-<p>Tá tú hevur funnið tað ynskta fram, gert tú tær neyðugu broytingarnar, og trýstir á F10.</p>
-<p>NB: Fyrstu ferð tú kemur inn í Kontustýring, ert tú í skrivistøðu (ikki leitistøðu). Um tú byrjar skriva og ikki kann venda aftur, trýst so F6 (reinsa øll felt). Eisini ber til at trýsta F4, hetta lukkar vindeygað.</p>
-<p>4 kanst tú trýsta á knøttin <span type="quote">“new”</span> <em type="italic">ovast uppi</em> og tu fært eitt nýtt tómt felt at skriva í. </p>
-<p><em type="italic">At avmarka leiting </em></p>
-<p>Aftaná at trýst er á F11, ber í allari skipanini til at avmarka leitingina. Til dømis um tú í Kontustýring ert í feltinum <span type="quote" xml:lang="dan">“Std.rokn.konta”</span>, og skrivar <span type="quote">“1100”</span>, og síðani leitar (ctrl-F11 ella [bara í Kontustýring] set flugubein í <span type="quote">“Vís kontur”</span><span type="quote">”), fært tú allar lønarkonturnar. Ella um tú í sama felti skrivar “1%”</span><span type="quote">“1%”</span> fært tú allar konturnar, har standardkonturnar byrja við 1 (t.e. allar rakstrarútreiðslur). Útyvir at skriva júst tað sum tú leitar eftir, kanst tú avmarka við at nýta hesar kodurnar:</p>
-<p>z <span type="quote">“%”</span>. Til dømis um tú leitar uppá <span type="quote">“%lækna%”</span> fært tú allar kontur har tað valda feltið hevur</p>
-<p>orðið <span type="quote">“lækna”</span> í sær.</p>
-<p>c Legg til merkis, at tá tú leitar uppá tekst, at tá er munur á stórum og lítlum bókstavum,</p>
-<p>t.e. “%<em type="bold">l</em>ækna%” er øðrvísi enn “%<em type="bold">L</em>ækna%” (stórt L). </p>
-<p>z <span type="quote">“&lt;”</span> (minni enn) ella <span type="quote">“&gt;”</span> (størri enn). Um tú t.d. í umfarskladduni vilt finna allar kontur sum</p>
-<p>eru størri enn 50.000, kanst tú leita uppá <span type="quote">“&gt;50000”</span>.</p>
-<p>z <span type="quote">“&lt;&gt;”</span> (øðrvísi enn). Um tú til dømis í umfarskladduni vilt hava allar konturnar sum ikki eru</p>
-<p>0, kanst tú leita uppá <span type="quote">“&lt;&gt;0”</span>. Hetta ber eisini til fyri tekst. Til ber at kombinera tílíkar avmarkingar í leitingini. Til dømis, um tú í umfarskladduni ynskir at finna allar lønarkontur undir málsøki 11, ið hava broyting yvir 50.000 kr. ber til a</p>
-<p>5</p>
+<p>At leita og broyta í Kontustýring</p>
+<p><em type="italic">Kontustýring </em>er tó øðrvísi fyri ta fyrstu leitingina (Aðrar enn fyrstu leitingarnar eru líka sum omanfyri). Fyri at leita fyrstu ferð har skalt tú: 1. Trýst við músini á eitt felt, so tað verður hvítt 2. Trýst á F11 (ein heil rekkja verður hvit), 3. avmarka leitingina við at skriva í hvítu feltunum 4. Trýst við músini á flugubeinið á <span type="quote">“Vís kontur”</span> (omanfyri til høgru) fyri at leita </p>
+<p>Tá tú hevur leitað einaferð, kann verða leita sum vanligt. Tá tú hevur funnið tað ynskta fram, gert tú tær neyðugu broytingarnar, og trýstir á F10.</p>
+<p>NB: Fyrstu ferð tú kemur inn í Kontustýring, ert tú í skrivistøðu (ikki leitistøðu). Um tú byrjar skriva og ikki kann venda aftur, trýst so F6 (reinsa øll felt). Eisini ber til at trýsta F4, hetta lukkar vindeygað. 5</p>
+<p>Um tú í Kontustýring ynskir at gera nýggja kontukombinasjón, og ikki finnur tómt felt at skriva í, kanst tú trýsta á knøttin <span type="quote">“new”</span> <em type="italic">ovast uppi </em>og tu fært eitt nýtt tómt felt at skriva í. </p>
+<p>At avmarka leiting</p>
+<p>Aftaná at trýst er á F11, ber í allari skipanini til at avmarka leitingina. Til dømis um tú í Kontustýring ert í feltinum <span type="quote" xml:lang="dan">“Std.rokn.konta”</span>, og skrivar <span type="quote">“1100”</span>, og síðani leitar (ctrl-F11 ella [bara í Kontustýring] set flugubein í <span type="quote">“Vís kontur”</span><span type="quote">”), fært tú allar lønarkonturnar. Ella um tú í sama felti skrivar “1%”</span><span type="quote">“1%”</span> fært tú allar konturnar, har standardkonturnar byrja við 1 (t.e. allar rakstrarútreiðslur). Útyvir at skriva júst tað sum tú leitar eftir, kanst tú avmarka við at nýta hesar kodurnar: z <span type="quote">“%”</span>. Til dømis um tú leitar uppá <span type="quote">“%lækna%”</span> fært tú allar kontur har tað valda feltið hevur orðið <span type="quote">“lækna”</span> í sær. c</p>
+<p>Legg til merkis, at tá tú leitar uppá tekst, at tá er munur á stórum og lítlum bókstavum, t.e. “% <em type="bold">l </em>ækna%” er øðrvísi enn “% <em type="bold">L </em>ækna%” (stórt L). z <span type="quote">“&lt;”</span> (minni enn) ella <span type="quote">“&gt;”</span> (størri enn). Um tú t.d. í umfarskladduni vilt finna allar kontur sum eru størri enn 50.000, kanst tú leita uppá <span type="quote">“&gt;50000”</span>. z <span type="quote">“&lt;&gt;”</span> (øðrvísi enn). Um tú til dømis í umfarskladduni vilt hava allar konturnar sum ikki eru 0, kanst tú leita uppá <span type="quote">“&lt;&gt;0”</span>. Hetta ber eisini til fyri tekst. </p>
+<p>Til ber at kombinera tílíkar avmarkingar í leitingini. Til dømis, um tú í umfarskladduni ynskir at finna allar lønarkontur undir málsøki 11, ið hava broyting yvir 50.000 kr. ber til at leita uppá tað, sí mynd niðanfyri. 6</p>
 <p xml:lang="dan"><em type="bold">Kontustýring </em></p>
 <p>Kontustýring er til at upprætta tær kontur, sum skulu nýtast í fíggjarlógini ella -ætlanini.</p>
-<p>Til dømis, um ein kommuna hevur gjørt ein nýggjan barnagarð, ið skal hava egna undirkontu, har kommunan hevur útreiðslur til (1) lønir, (2) annan rakstur, (3) viðlíkahald, umframt (4) at fáa inntøkur av foreldragjaldi, má hon í Budgetskipanini gera fýra nýggjar kontusamansetingar:</p>
-<p>z Eina fyri barnagarðin og 1100 lønir z Eina fyri barnagarðin og 1400 Keyp av vørum og tænastum</p>
-<p>z Eina fyri barnagarðin og 1600 Leiga, viðlíkahald og skattur z Eina fyri barnagarðin og 2100 Søla av vørum og tænastum</p>
-<p>Um tú ynskir at gera nýggja kontusamanseting, og ikki finnur tómt felt at skriva í, kanst tú trýsta á knøttin <span type="quote">“new”</span> <em type="italic">ovast uppi</em> og tu fært eitt nýtt tómt felt at skriva í. </p>
-<p>6</p>
-<p><em type="italic">At gera nýggjar kontur </em></p>
-<p>Tá gerast skulu nýggjar kontukombinasjónir verður farið fram soleiðis:</p>
-<p>1. Um tú veitst júst hvørjar kontusamansetingar tú ynskir, skrivar tú beint fram inn í feltini</p>
-<p><em type="italic">Grein</em>, <em type="italic">Høvuðskonta</em>, <em type="italic">undirkonta</em>, os.fr. </p>
-<p>2. Um tú ivast, ella vilt endurnýta frá øðrum feltum, kanst tú  a. byrja við at leita (sí kapitlið <em type="italic">At leita og broyta í Kontustýring</em>).  b. Avmarka leitingina onkurvegna (t.d. skriva <span type="quote">“2322%”</span> í feltið <em type="italic">Høvuðskonta</em> og <span type="quote">“Rakstrarjáttan”</span> í feltið <em type="italic">Játtanarslag</em>) og leita síðani fram. c. Finn ta kontuna, sum líkist tí nýggja tú ynskir at tøppa inn, og trýst á ta rekkjuna. Legg serliga merkis til um kontan hevur rætt játtanarslag d. Trýst á <em type="italic">new</em> knøttin fyri at fáa nýggja tóma rekkju just undir rekkjuni tú ert í nú. </p>
-<p>e. Fyll út <em type="italic">øll</em> hvítu feltini (tó møguliga ikki <em type="italic">Viðmerking</em>) og goym (F10) Tá tú gert nýggja kontusamanseting, mást tú sum sagt tøppa virðir inn í øll feltini í økinum <span type="quote">“Kontur”</span>í kontustýring.  Legg serliga merkis til at: </p>
-<p>(1) feltið <em type="italic">Stovnsnr.</em> (undirstrikað reytt ovalaga í myndini niðanfyri) kann hava nummar 999999 tá tú gert nýggjar kontur, (2) feltið Undirkonto (undirstrikað reytt á mynd niðanfyri) <em type="italic">skal</em> útfyllast við heitinum á undirkontuni, og  </p>
-<p>(3) feltið <em type="italic">Stovnsnr.</em> (undirstrikað reytt niðast í myndini) <em type="italic">skal</em> útfyllast, men tað hevur ikki týdning hvat stendur í tí (er eitt internt felt hjá Gjaldstovuni). </p>
-<p>7 <em type="italic">shift-F5 tá gerast skulu nógvar nýggjar kontukombinasjónir: </em></p>
-<p>Tip: Um tú stendur í einum hvítum felti í skrivistøðu, ber til at kopiera tað sum hoyrir til í feltinum beint omanfyri við at trýsta á <em type="bold">shift-F5</em>. Hetta kann vera sera tíðarsparandi, um nógvar nýggjar kombinasjónir skulu gerast. Legg tó merkis til um kopieraðu virðini eru tey røttu. </p>
-<p><em type="italic">Status hjá kontum (Skrásett – Fyribils – Góðkend - Óvirkin): </em></p>
+<p>Til dømis, um ein kommuna hevur gjørt ein nýggjan barnagarð, ið skal hava egna undirkontu, har kommunan hevur útreiðslur til (1) lønir, (2) annan rakstur, (3) viðlíkahald, umframt (4) at fáa inntøkur av foreldragjaldi, má hon í Budgetskipanini gera fýra nýggjar kontusamansetingar: z</p>
+<p>Eina fyri barnagarðin og 1100 lønir z</p>
+<p>Eina fyri barnagarðin og 1400 Keyp av vørum og tænastum z</p>
+<p>Eina fyri barnagarðin og 1600 Leiga, viðlíkahald og skattur z</p>
+<p>Eina fyri barnagarðin og 2100 Søla av vørum og tænastum</p>
+<p>Um tú ynskir at gera nýggja kontusamanseting, og ikki finnur tómt felt at skriva í, kanst tú trýsta á knøttin <span type="quote">“new”</span> <em type="italic">ovast uppi </em>og tu fært eitt nýtt tómt felt at skriva í. 7 </p>
+<p>At gera nýggjar kontur Tá gerast skulu nýggjar kontukombinasjónir verður farið fram soleiðis: 1. Um tú veitst júst hvørjar kontusamansetingar tú ynskir, skrivar tú beint fram inn í feltini</p>
+<p><em type="italic">Grein </em>, <em type="italic">Høvuðskonta </em>, <em type="italic">undirkonta </em>, os.fr. 2. Um tú ivast, ella vilt endurnýta frá øðrum feltum, kanst tú a. byrja við at leita (sí kapitlið <em type="italic">At leita og broyta í Kontustýring </em>). b. Avmarka leitingina onkurvegna (t.d. skriva <span type="quote">“2322%”</span> í feltið <em type="italic">Høvuðskonta </em>og <span type="quote">“Rakstrarjáttan”</span> í feltið <em type="italic">Játtanarslag </em>) og leita síðani fram. c. Finn ta kontuna, sum líkist tí nýggja tú ynskir at tøppa inn, og trýst á ta rekkjuna. </p>
+<p>Legg serliga merkis til um kontan hevur rætt játtanarslag d. Trýst á <em type="italic">new </em>knøttin fyri at fáa nýggja tóma rekkju just undir rekkjuni tú ert í nú. e. Fyll út <em type="italic">øll </em>hvítu feltini (tó møguliga ikki <em type="italic">Viðmerking </em>) og goym (F10) </p>
+<p>Tá tú gert nýggja kontusamanseting, mást tú sum sagt tøppa virðir inn í øll feltini í økinum <span type="quote">“Kontur”</span>í kontustýring. Legg serliga merkis til at: (1) feltið <em type="italic">Stovnsnr. </em>(undirstrikað reytt ovalaga í myndini niðanfyri) kann hava nummar 999999 tá tú gert nýggjar kontur, (2) feltið Undirkonto (undirstrikað reytt á mynd niðanfyri) <em type="italic">skal </em>útfyllast við heitinum á undirkontuni, og (3) feltið <em type="italic">Stovnsnr. </em>(undirstrikað reytt niðast í myndini) <em type="italic">skal </em>útfyllast, men tað hevur ikki týdning hvat stendur í tí (er eitt internt felt hjá Gjaldstovuni). 8 shift-F5 tá gerast skulu nógvar nýggjar kontukombinasjónir: Tip: Um tú stendur í einum hvítum felti í skrivistøðu, ber til at kopiera tað sum hoyrir til í feltinum beint omanfyri við at trýsta á <em type="bold">shift-F5 </em>. Hetta kann vera sera tíðarsparandi, um nógvar nýggjar kombinasjónir skulu gerast. Legg tó merkis til um kopieraðu virðini eru tey røttu. </p>
+<p>Status hjá kontum (Skrásett – Fyribils – Góðkend - Óvirkin):</p>
 <p>Fyri at kunna nýta eina kontusamanseting til at bóka budgettøl, skal hon antin hava støðu <span type="quote" xml:lang="dan">“Góðkent”</span> ella <span type="quote">“Fyribils”</span>. Um hon er einans <span type="quote">“Skrásett”</span> kann hon ikki nýtast í umfarskladduni.</p>
-<p>Feltið <span type="quote">“Støða”</span> kann vera:</p>
-<p>z <span type="quote">“Skrásett”</span>, ið merkir, at kontusamansetingin er óvirkin, og tí ikki kann nýtast.</p>
-<p>z <span type="quote">“Fyribils”</span>, ið merkir, at kontusamansetingin er virkin (og tí kann nýtast), men ikki enn er</p>
-<p>góðkend til endaliga nýtslu av Gjaldstovuni</p>
-<p>z <span type="quote" xml:lang="dan">“Góðkend”</span>, ið merkir, at kontusamansetingin er virkin <em type="italic">og </em>góðkend av Gjaldstovuni z <span type="quote">“Óvirkin”</span> er til kontusamansetingar, sum eru góðkendar, men sum tú ynskir at tryggja tær </p>
-<p>ikki koma í umfarskladduni. Fyri at gera eina kontusamanseting virkna, finn og vel kontusamansetingina og trýst síðani á knøttin <span type="quote">“Ger virkna”</span> niðasttil høgru. Um ein kontusamansetingin skal fara frá <span type="quote">“Fyribils”</span> til <span type="quote">“Skrásett”</span>, trýst á knøttin <span type="quote">“Broyt”</span>.</p>
-<p>8</p>
-<p>kontusamansetingar ikki koma fyri (t.d. løgustandardkontur  á rakstrarjáttan ella gjaldførisstandardkontur aðrastaðni enn á § 25 Gjaldføri). Um tú ynskir at broyta støðu frá <span type="quote" xml:lang="dan">“Góðkendt”</span> til <span type="quote">“Óvirkin”</span>, kanst tú trýsta á knøttin <span type="quote">“Ger óvirkna”</span>.</p>
-<p>Fyri heilt at strika kontur, má kontan hava støðu <span type="quote">“Skrásett”</span> ella <span type="quote">“Fyribils”</span>. Strikað verður við at velja kontuna og síðani trýsta á knøttin <span type="quote" xml:lang="dan">“delete”</span> ovast uppi, sí mynd niðanfyri.</p>
-<p>9</p>
+<p>Feltið <span type="quote">“Støða”</span> kann vera: z <span type="quote">“Skrásett”</span>, ið merkir, at kontusamansetingin er óvirkin, og tí ikki kann nýtast. z <span type="quote">“Fyribils”</span>, ið merkir, at kontusamansetingin er virkin (og tí kann nýtast), men ikki enn er góðkend til endaliga nýtslu av Gjaldstovuni z <span type="quote" xml:lang="dan">“Góðkend”</span>, ið merkir, at kontusamansetingin er virkin <em type="italic">og </em>góðkend av Gjaldstovuni z <span type="quote">“Óvirkin”</span> er til kontusamansetingar, sum eru góðkendar, men sum tú ynskir at tryggja tær ikki koma í umfarskladduni. </p>
+<p>Fyri at gera eina kontusamanseting virkna, finn og vel kontusamansetingina og trýst síðani á knøttin <span type="quote">“Ger virkna”</span> niðasttil høgru. Um ein kontusamansetingin skal fara frá <span type="quote">“Fyribils”</span> til <span type="quote">“Skrásett”</span>, trýst á knøttin <span type="quote">“Broyt”</span>. 9</p>
+<p>Einans Gjaldstovan kann geva støðu <span type="quote" xml:lang="dan">“Góðkent”</span>. Hetta er ein vernd fyri, at tekniskt ólógligar kontusamansetingar ikki koma fyri (t.d. løgustandardkontur á rakstrarjáttan ella gjaldførisstandardkontur aðrastaðni enn á § 25 Gjaldføri). Um tú ynskir at broyta støðu frá <span type="quote" xml:lang="dan">“Góðkendt”</span> til <span type="quote">“Óvirkin”</span>, kanst tú trýsta á knøttin <span type="quote">“Ger óvirkna”</span>.</p>
+<p>Fyri heilt at strika kontur, má kontan hava støðu <span type="quote">“Skrásett”</span> ella <span type="quote">“Fyribils”</span>. Strikað verður við at velja kontuna og síðani trýsta á knøttin <span type="quote" xml:lang="dan">“delete”</span> ovast uppi, sí mynd niðanfyri. 10</p>
 <p><em type="bold">Umfarskladdan </em></p>
-<p>Tú kemur inn á í Umfarskladduna við at fara í <em type="italic">viðgerð av umførum</em> og síðani trýsta á knøttin <span type="quote">“Opna umfar”</span>. Í umfarskladduni ger tú tær talbroytingar, tú ynskir at gera í fíggjarlógini/-ætlanini ella eykajáttanini. </p>
+<p>Tú kemur inn á í Umfarskladduna við at fara í <em type="italic">viðgerð av umførum </em>og síðani trýsta á knøttin <span type="quote">“Opna umfar”</span>. Í umfarskladduni ger tú tær talbroytingar, tú ynskir at gera í fíggjarlógini/-ætlanini ella eykajáttanini. </p>
 <p>Tað týdningarmesta at leggja merki til, fyrstu ferð tú ert inni í umfarskladduni, er at í niðasta høgra horni er nakað, sum eitur <span type="quote">“Hentleikar”</span>.</p>
-<p>Knøttarnir undir <span type="quote">“Hentleikar”</span> eru:</p>
-<p>z <em type="italic">Dagfør saldur</em>: Dagførur saldur. Kann vera nyttugt um fleiri arbeiða í umfarinum. z <em type="italic">Uppseting av umfarskladduni</em>: Við at trýsta á hendan knøttin kanst tú fáa tøl inn í “Kolonna </p>
-<p>1”, <span type="quote">“Kolonna 2”</span> os.fr. Hetta kann vera nyttugt um tú ynskir t.d at samanbera við fíggjarlóg/ætlan fyri farin ár.</p>
-<p>10 z <em type="italic">Vel hvørjar kontur skulu við í umfarið</em> </p>
-<p>brúka. NB: Fyri at konta skal síggjast í hesu myndini, <em type="italic">má </em>hon í Kontustýring antin hava støðu <span type="quote">“Fyribils”</span> ella <span type="quote" xml:lang="dan">“Góðkend”</span>. </p>
-<p>z <em type="italic">Opna frymil</em>: Um tú ynskir at gera somu broyting fyri fleiri kontur samstundis, kann tað </p>
-<p>gerast við at nýta hendan hentleikan. Til dømis, um allar lønir skulu vaksa við sama prosentsatsi, kann tað gerast her.</p>
-<p>z <em type="italic">Viðmerking til høvuðskontu</em>: Kann nýtast til at gera budgettekst beinleiðis úr </p>
-<p>umfarskladduni.</p>
-<p>z <em type="italic">Bókingarsøga</em>: Vís hvørjar bókingar eru framdar. z <em type="italic">Avrunda upphædd</em>: Avrundar upphæddir til heilar 1.000 kr. Játtanir eru altíð í heilum túsund </p>
-<p>krónum, so heldur enn t.d. 255.124 kr. Er røtt játtan 255.000 kr.</p>
-<p>Allir møguleikarnir omanfyri áttu at verið rímuliga sjálvsigandi. Tó krevur <em type="italic">Vel hvørjar kontur skulu </em></p>
-<p><em type="italic">við í umfarið</em> og  <em type="italic">Opna frymil</em> eina vegleiðing. </p>
-<p><em type="italic">Vel hvørjar kontur skulu við í umfarið </em></p>
-<p>Fyri at avgera hvørjar kontur skulu nýtast í umfarinum, vel knøttin <span type="quote">“Vel hvørjar kontur skulu við í umfarið”</span></p>
-<p>Ein nýggj skermmynd kemur fram:</p>
-<p>11</p>
-<p>(Kontur í umfari).</p>
-<p>Við at seta flugubein í (í <span type="quote" xml:lang="dan">“Vel”</span><span type="quote">”), og síðani nýta pílarnar í miðjuni, verða kontur fluttar í og úr umfarinum. Tip: Nýt leitimøguleikan (F11-ctrl-F11) og trýst á knøttin “Tak onga við”</span><span type="quote">“Tak onga við”</span>ella <span type="quote">”Tal allar við”</span> fyri at velja fleiri kontur samstundis. Tá allar neyðugar kontur eru komnar við í umfarið, trýst á <span type="quote">“Ok”</span> niðast til høgru, og tú kemur aftur í umfarskladduna og kanst bóka á valdu konturnar.</p>
-<p><em type="italic">Hvussu tú fær somu broyting á fleiri kontur (at nýta frymil) </em></p>
-<p>Um tú ynskir at gera somu broyting fyri fleiri kontur, kanst tú nýta <em type="italic">Frymil</em> uppá tær ynsktu konturnar. </p>
-<p>Frymil er serliga hent tá fleiri kontur skulu vaksa líka, t.d. samsvarandi inflasjón ella lønarvøkstri. Í stuttum verður <em type="italic">Frymil</em> nýttur á hendan hátt: </p>
-<p>1. Leita í umfarinum fram tær konturnar, tú ynskir at broyta (t.e. trýst F11, avmarka leitingina, trýst ctrl-F11)</p>
-<p>2. trýst á knøttin <em type="italic">opna frymil </em>undir Hentleikar 3. Ger tær broytingar, tú ynskir inni í nýggju myndini (sí <span type="quote">“Hvussu tú nýtir Frymil”</span> niðanfyri), og trýst á <span type="quote">“OK”</span> 4. Avrunda við í umfarinum at trýsta á <em type="italic">Avrunda upphædd</em> undir Hentleikar. 5. Goym (t.e. trýst F10) </p>
+<p>Knøttarnir undir <span type="quote">“Hentleikar”</span> eru: z</p>
+<p><em type="italic">Dagfør saldur </em>: Dagførur saldur. Kann vera nyttugt um fleiri arbeiða í umfarinum. z </p>
+<p><em type="italic">Uppseting av umfarskladduni </em>: Við at trýsta á hendan knøttin kanst tú fáa tøl inn í <span type="quote">“Kolonna 1”</span>, <span type="quote">“Kolonna 2”</span> os.fr. Hetta kann vera nyttugt um tú ynskir t.d at samanbera við fíggjarlóg/-ætlan fyri farin ár. 11 z </p>
+<p><em type="italic">Vel hvørjar kontur skulu við í umfarið </em>: Sera týdningarmikið, áset hvørjar kontur tú ynskir at brúka. NB: Fyri at konta skal síggjast í hesu myndini, <em type="italic">má </em>hon í Kontustýring antin hava støðu <span type="quote">“Fyribils”</span> ella <span type="quote" xml:lang="dan">“Góðkend”</span>. z </p>
+<p><em type="italic">Opna frymil </em>: Um tú ynskir at gera somu broyting fyri fleiri kontur samstundis, kann tað gerast við at nýta hendan hentleikan. Til dømis, um allar lønir skulu vaksa við sama prosentsatsi, kann tað gerast her. z </p>
+<p><em type="italic">Viðmerking til høvuðskontu </em>: Kann nýtast til at gera budgettekst beinleiðis úr umfarskladduni. z </p>
+<p><em type="italic">Bókingarsøga </em>: Vís hvørjar bókingar eru framdar. z </p>
+<p><em type="italic">Avrunda upphædd </em>: Avrundar upphæddir til heilar 1.000 kr. Játtanir eru altíð í heilum túsund krónum, so heldur enn t.d. 255.124 kr. Er røtt játtan 255.000 kr. </p>
+<p>Allir møguleikarnir omanfyri áttu at verið rímuliga sjálvsigandi. Tó krevur <em type="italic">Vel hvørjar kontur skulu við í umfarið </em>og <em type="italic">Opna frymil </em>eina vegleiðing. </p>
+<p>Vel hvørjar kontur skulu við í umfarið Fyri at avgera hvørjar kontur skulu nýtast í umfarinum, vel knøttin <span type="quote">“Vel hvørjar kontur skulu við í umfarið”</span></p>
+<p>Ein nýggj skermmynd kemur fram: 12</p>
+<p>Til vinstru síggjast ikki nýttar kontur. Til høgru síggast kontur, ið kunnu bókast á í umfarinum (Kontur í umfari). Við at seta flugubein í (í <span type="quote" xml:lang="dan">“Vel”</span><span type="quote">”), og síðani nýta pílarnar í miðjuni, verða kontur fluttar í og úr umfarinum. Tip: Nýt leitimøguleikan (F11-ctrl-F11) og trýst á knøttin “Tak onga við”</span><span type="quote">“Tak onga við”</span>ella <span type="quote">”Tal allar við”</span> fyri at velja fleiri kontur samstundis. Tá allar neyðugar kontur eru komnar við í umfarið, trýst á <span type="quote">“Ok”</span> niðast til høgru, og tú kemur aftur í umfarskladduna og kanst bóka á valdu konturnar.</p>
+<p>Hvussu tú fær somu broyting á fleiri kontur (at nýta frymil)</p>
+<p>Um tú ynskir at gera somu broyting fyri fleiri kontur, kanst tú nýta <em type="italic">Frymil </em>uppá tær ynsktu konturnar. </p>
+<p>Frymil er serliga hent tá fleiri kontur skulu vaksa líka, t.d. samsvarandi inflasjón ella lønarvøkstri. Í stuttum verður <em type="italic">Frymil </em>nýttur á hendan hátt: 1. Leita í umfarinum fram tær konturnar, tú ynskir at broyta (t.e. trýst F11, avmarka leitingina, trýst ctrl-F11) 2. trýst á knøttin <em type="italic">opna frymil </em>undir Hentleikar 3. Ger tær broytingar, tú ynskir inni í nýggju myndini (sí <span type="quote">“Hvussu tú nýtir Frymil”</span> niðanfyri), og trýst á <span type="quote">“OK”</span> 4. Avrunda við í umfarinum at trýsta á <em type="italic">Avrunda upphædd </em>undir Hentleikar. 5. Goym (t.e. trýst F10) </p>
 <p>Onki broytist í umfarskladduni uttan at tú fyrst hevur trýst á <span type="quote">“Ok”</span> í Frymil og síðani goymt í sjálvari umfarskladduni (F10), so vandin fyri at gera álvarsligar yvirskrivingar átti at verið lítil. Verð tó varin kortini tá tú nýtir Frymil, so onki óvæntað kemur fyri.</p>
-<p><em type="bold">Hvussu tú nýtir Frymil </em></p>
-<p>Ein nýggj mynd kemur fram tá tú hevur trýst á <span type="quote">“Opna frymil”</span>. Ovasti partur av henni sær soleiðis út.</p>
-<p>12 z <em type="italic">Broytingarár</em> ásetur um broytingin skal galda fyri bæði árini, einans inniverandi ár, ella </p>
-<p>eftirfylgjandi ár.</p>
-<p>z <em type="italic">Frymil</em> er til talið, sum tú ætlar at fáa inn í <em type="italic">Millumúrslit </em>niðanfyri. </p>
-<p>c Knøttarnir beint undir <span type="quote">“Virði”</span> seta talið í <span type="quote">“Virði”</span> inn í allar rekkjur í Millumúrslit á</p>
-<p>ymiskan hátt:</p>
-<p type="listitem">■ til dømis um tú skrivar <span type="quote">“1000”</span> í <span type="quote">“Virði”</span> og trýstir á plussknøttin beint undir, verður</p>
-<p>1.000 lagd afturat øllum rekkjum í <em type="italic">Millumúrslit</em>. </p>
-<p type="listitem">■ um tú síðani skrivar <span type="quote">“1,5”</span> í <span type="quote">“Virði”</span> og trýstir á faldiknøttin, verður talið í</p>
-<p>Millumrokning (t.e. í hesum føri 1.000) faldað við 1,5 og í <em type="italic">Millumúrslit</em> stendur nú á 1500. </p>
-<p>z <em type="italic">Millumúrslit</em> vísir tølini sum skulu fara inn í sjálva umfarskladduna. </p>
-<p>c Knøttarnir beint undir heildarupphædd setir tølini í <em type="italic">Millumrokning</em> inn í sjálva </p>
-<p>umfarskladduna við at plussa, minusa ella falda tey afturat verandi tølum:</p>
-<p type="listitem">■ Halt í skipanini músina yvir knøttunum og teirra virknaður átti at verið sjálvsigandi.</p>
-<p>z Tá tú ert liðug/ur trýst á <span type="quote">“Ok”</span>. Myndir hvørvur, og tú kemur aftur inn í umfarskladduna.</p>
-<p>Minst til at ongar av broytingunum verða goymdar fyrr enn tú hevur trýst á F10 í umfarskladduni.</p>
-<p>13</p>
+<p><em type="bold">Hvussu tú nýtir Frymil </em>Ein nýggj mynd kemur fram tá tú hevur trýst á <span type="quote">“Opna frymil”</span>. Ovasti partur av henni sær soleiðis út. 13 z </p>
+<p><em type="italic">Broytingarár </em>ásetur um broytingin skal galda fyri bæði árini, einans inniverandi ár, ella eftirfylgjandi ár. z </p>
+<p><em type="italic">Frymil </em>er til talið, sum tú ætlar at fáa inn í <em type="italic">Millumúrslit </em>niðanfyri. c </p>
+<p>Knøttarnir beint undir <span type="quote">“Virði”</span> seta talið í <span type="quote">“Virði”</span> inn í allar rekkjur í Millumúrslit á ymiskan hátt: ■ til dømis um tú skrivar <span type="quote">“1000”</span> í <span type="quote">“Virði”</span> og trýstir á plussknøttin beint undir, verður 1.000 lagd afturat øllum rekkjum í <em type="italic">Millumúrslit </em>. ■ um tú síðani skrivar <span type="quote">“1,5”</span> í <span type="quote">“Virði”</span> og trýstir á faldiknøttin, verður talið í Millumrokning (t.e. í hesum føri 1.000) faldað við 1,5 og í <em type="italic">Millumúrslit </em>stendur nú á 1500. z </p>
+<p><em type="italic">Millumúrslit </em>vísir tølini sum skulu fara inn í sjálva umfarskladduna. c </p>
+<p>Knøttarnir beint undir heildarupphædd setir tølini í <em type="italic">Millumrokning </em>inn í sjálva umfarskladduna við at plussa, minusa ella falda tey afturat verandi tølum: ■ Halt í skipanini músina yvir knøttunum og teirra virknaður átti at verið sjálvsigandi. z Tá tú ert liðug/ur trýst á <span type="quote">“Ok”</span>. Myndir hvørvur, og tú kemur aftur inn í umfarskladduna. </p>
+<p>Minst til at ongar av broytingunum verða goymdar fyrr enn tú hevur trýst á F10 í umfarskladduni. 14</p>
 <p xml:lang="dan"><em type="bold">Budgettekstur </em></p>
 <p>Budgettekstur er til at setu upp og útskriva fíggjarlóg/-ætlan og eykajáttanir. Tú kemur inn í <span type="quote" xml:lang="dan">“Budgetteksur”</span> við í <span type="quote">“Viðgerð av umførum”</span> við velja knøttin <span type="quote">“Tekstur”</span>.</p>
-<p>Teksttræið næst niðast á myndini (<em type="italic">Skjal, Yvirlit, Tekstur</em>, os.fr.), og kann einstaka kommunan síggjast við at trýsta við músini á punktið <em type="italic">Kommunur</em>. Legg til merkis nakrir knøttar ovast uppi til høgru. </p>
-<p><em type="italic">Dagføring av talvum í teksttrænum </em></p>
-<p>Tá tú broytir ymisk tøl í umfarskladduni, verða taltalvurnar ikki dagførdar sjálvvirkandi.  Fyri at tryggja tær, at talvurnar vísa rætt, vel eitt punkt í teksttrænum (so tað verður blátt), trýst á høgra músaknøtt, og nakrir valmøguleikar koma fram.</p>
-<p>Vel <span type="quote">“dagfør talvur”</span> fyri at dagføra allar talvur undir punktinum. Ein nýggj mynd kemur fram, ið vísir hvussu langt er komið.</p>
-<p>14 Trýst á <span type="quote" xml:lang="dan">“Dagfør”</span> fyri at síggja hvussu nógvar talvur eru dagførdar. Dagføringin kann taka langa tíð, alt eftir hvussu nógvar talvur skulu dagførast. Tá <span type="quote">“Avgreitt”</span> er ájavnt <span type="quote">“Samlað”</span> eru allar talvur í teksttrænum undir tí valda knútapunktinum dagførdar.</p>
-<p>NB!: <span type="quote" xml:lang="dan">“Dagfør”</span> í hesu myndini dagførir einans tølini undir <span type="quote">“Tal av koyringum”</span>, ikki sjálvar talvurnar!</p>
-<p><em type="italic">Útskrift og uppseting av fíggjarlóg ella -ætlan </em></p>
-<p>Fyri at útskriva alla fíggjarætlanina, trýst á punktið í teksttrænum (so tað verður blátt), har  kommununavnið er, trýst á høgra músaknøtt, og vel <span type="quote">“Framleið skjal”</span>.</p>
-<p>Ein nýggj mynd kemur fram:</p>
-<p>15</p>
-<p>Explorer). Um <span type="quote">“Vís skjal”</span><span type="quote">”-knøtturin er døkkur, trýst fyrst so á “Dagfør”</span><span type="quote" xml:lang="dan">“Dagfør”</span>-knøttin.</p>
-<p>Frá tínum netkagara kanst tú kopiera fíggjarlógina/-ætlanina (trýst ctrl-a og síðani ctrl-c, ella vel <span type="quote" xml:lang="dan">“Vis”</span>, síðani <span type="quote">“Markér alt”</span> og síðani <span type="quote" xml:lang="dan">“Kopier”</span><span type="quote">”), og seta hana inn í Word  (ctrl-v ella vel “Redigér”</span><span type="quote" xml:lang="dan">“Redigér”</span> og síðani <span type="quote" xml:lang="dan">“Sæt ind”</span><span type="quote">”). Til ber nú í Word at snøgga fígggjarlóg/-ætlanina til, so hon er sum tú ynskir, áðrenn hon verður fyriløgd øðrum. Um tú ynskir at at skriva út bara partar av fíggjarætlan, trýst á partar longri niðri í teksttrænum vel “Framleið skjal”</span><span type="quote">“Framleið skjal”</span>, og ger tað sama sum omanfyri.</p>
-<p><em type="italic">Um kontur ikki síggjast í trænum </em></p>
+<p>Teksttræið næst niðast á myndini ( <em type="italic">Skjal, Yvirlit, Tekstur </em>, os.fr.), og kann einstaka kommunan síggjast við at trýsta við músini á punktið <em type="italic">Kommunur </em>. Legg til merkis nakrir knøttar ovast uppi til høgru. </p>
+<p>Dagføring av talvum í teksttrænum</p>
+<p>Tá tú broytir ymisk tøl í umfarskladduni, verða taltalvurnar ikki dagførdar sjálvvirkandi. Fyri at tryggja tær, at talvurnar vísa rætt, vel eitt punkt í teksttrænum (so tað verður blátt), trýst á høgra músaknøtt, og nakrir valmøguleikar koma fram.</p>
+<p>Vel <span type="quote">“dagfør talvur”</span> fyri at dagføra allar talvur undir punktinum. Ein nýggj mynd kemur fram, ið vísir hvussu langt er komið. 15</p>
+<p>Trýst á <span type="quote" xml:lang="dan">“Dagfør”</span> fyri at síggja hvussu nógvar talvur eru dagførdar. Dagføringin kann taka langa tíð, alt eftir hvussu nógvar talvur skulu dagførast. Tá <span type="quote">“Avgreitt”</span> er ájavnt <span type="quote">“Samlað”</span> eru allar talvur í teksttrænum undir tí valda knútapunktinum dagførdar. NB!: <span type="quote" xml:lang="dan">“Dagfør”</span> í hesu myndini dagførir einans tølini undir <span type="quote">“Tal av koyringum”</span>, ikki sjálvar talvurnar!</p>
+<p>Útskrift og uppseting av fíggjarlóg ella -ætlan Fyri at útskriva alla fíggjarætlanina, trýst á punktið í teksttrænum (so tað verður blátt), har kommununavnið er, trýst á høgra músaknøtt, og vel <span type="quote">“Framleið skjal”</span>.</p>
+<p>Ein nýggj mynd kemur fram: 16</p>
+<p>Trýst á knøttin <span type="quote">“Vís skjal”</span> og skjalið eigur at koma fram í tínum netkagara (T.d. Í Internet Explorer). Um <span type="quote">“Vís skjal”</span><span type="quote">”-knøtturin er døkkur, trýst fyrst so á “Dagfør”</span><span type="quote" xml:lang="dan">“Dagfør”</span>-knøttin. Frá tínum netkagara kanst tú kopiera fíggjarlógina/-ætlanina (trýst ctrl-a og síðani ctrl-c, ella vel <span type="quote" xml:lang="dan">“Vis”</span>, síðani <span type="quote">“Markér alt”</span> og síðani <span type="quote" xml:lang="dan">“Kopier”</span><span type="quote">”), og seta hana inn í Word (ctrl-v ella vel “Redigér”</span><span type="quote" xml:lang="dan">“Redigér”</span> og síðani <span type="quote" xml:lang="dan">“Sæt ind”</span><span type="quote">”). Til ber nú í Word at snøgga fígggjarlóg/-ætlanina til, so hon er sum tú ynskir, áðrenn hon verður fyriløgd øðrum. Um tú ynskir at at skriva út bara partar av fíggjarætlan, trýst á partar longri niðri í teksttrænum vel “Framleið skjal”</span><span type="quote">“Framleið skjal”</span>, og ger tað sama sum omanfyri.</p>
+<p>Um kontur ikki síggjast í trænum</p>
 <p>Um kontur eru gjørdar og brúktar os.fr. eiga tær at síggjast í teksttrænum. Um tær ikki síggjast, trýst so á knøttin <span type="quote">“Dagfør kontur”</span> ovast til høgru. Hetta kann taka nakað av tíð.</p>
-<p>Tá hetta er gjørt, eiga allar nýttar kontur at síggjast í teksttrænum.</p>
-<p>16</p>
+<p>Tá hetta er gjørt, eiga allar nýttar kontur at síggjast í teksttrænum. 17</p>
 <p><em type="bold">At senda umfar retur </em></p>
-<p>Tá fíggjarætlanin er samtykt, skal hon sendast aftur til Fíggjarmálaráðið/Gjaldstovuna.  Hetta verður gjørt við at fara inn í <em type="italic">Viðgerð av umførum</em>, og trýsta á knøttin <span type="quote" xml:lang="dan">“Send retur”</span> niðast til høgru: </p>
+<p>Tá fíggjarætlanin er samtykt, skal hon sendast aftur til Fíggjarmálaráðið/Gjaldstovuna. Hetta verður gjørt við at fara inn í <em type="italic">Viðgerð av umførum </em>, og trýsta á knøttin <span type="quote" xml:lang="dan">“Send retur”</span> niðast til høgru: </p>
 <p>Eini boð koma fram, har spurt verður <span type="quote">“Vilt tú senda umfarið aftur”</span>:</p>
 <p>Svara <span type="quote">“Ok”</span> um tú vilt senda aftur, vel annars <span type="quote" xml:lang="dan">“Cancel”</span>. Tá umfarið er sent retur, er fíggjarætlanin endaliga liðug í skipanini, og ber ikki longur til at broyta í henni.</p>
-<p>17</p>
 </body></document>

@@ -1,484 +1,207 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>5695</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5048/arbeidsrit_27-2011.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 978-99918-60-20-6 </em></p>
-<p><em type="bold">Løn og kynsbýtið á almenna arbeiðsmarknaðinum - ein perspektivering </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>5787</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5048/arbeidsrit_27-2011.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>2 </p>
+<p xml:lang="sms"><em type="bold">ISBN 978-99918-60-20-6 </em></p>
+<p><em type="bold">Løn og kynsbýtið á almenna </em><em type="bold">arbeiðsmarknaðinum </em><em type="bold">- ein perspektivering </em></p>
 <p xml:lang="nob">Martha H. Mýri</p>
 <p><em type="italic">Granskingardepilin fyri Samfelagsmenning </em></p>
 <p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 27/2011 </em></p>
-<p><em type="italic">Um arbeiðsrit: </em><em type="bold">Arbeiðsrit eru samfelagsfakliga grundað arbeiði, sum eru minni í vavi og dýpd enn veruligar granskingarverkætlanir. Hesi rit kunnu eitt nú verða umbidnar kanningar, t.v.s.  kanningararbeiði,  sum Granskingardepilin ger móti gjaldi. Hetta kunnu eisini vera  ávegis  arbeiði  av  størri  granskingarverkætlanum,  undirvísingar-  og kunningartilfar  ella  líknandi.  Arbeiðsrit  verða  altíð  skrivað  á  føroyskum.  Hava  fólk handrit, sum tey halda eru egnað til útgávu í Arbeiðsriti, eru tey vælkomin at seta seg í samband við depilin (sí adressu á forsíðuni). </em></p>
+<p><em type="italic">Um arbeiðsrit: </em></p>
+<p><em type="bold">Arbeiðsrit eru samfelagsfakliga grundað arbeiði, sum eru minni í vavi og dýpd enn veruligar granskingarverkætlanir. Hesi rit kunnu eitt nú verða umbidnar kanningar, </em><em type="bold">t.v.s. kanningararbeiði, sum Granskingardepilin ger móti gjaldi. Hetta kunnu eisini </em><em type="bold">vera ávegis arbeiði av størri granskingarverkætlanum, undirvísingar- og kunningartilfar ella líknandi. Arbeiðsrit verða altíð skrivað á føroyskum. Hava fólk </em><em type="bold">handrit, sum tey halda eru egnað til útgávu í Arbeiðsriti, eru tey vælkomin at seta </em><em type="bold">seg í samband við depilin (sí adressu á forsíðuni). </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>3 </p>
 <p><em type="bold">Arbeiðsrit 27/2011: Løn og kynsbýtið á almenna arbeiðsmarknaðinum - ein perspektivering </em></p>
-<p>Martha H. Mýri 2011 Útgevari: Granskingardepilin fyri Samsfelagsmenning Prent: Ikki prentað</p>
-<p xml:lang="sms"><em type="bold">ISBN: 978-99918-60-20-6 ISSN: 1601-9423 </em></p>
+<p>Martha H. Mýri 2011 Útgevari: Granskingardepilin fyri Samsfelagsmenning Prent: Ikki prentað <em type="bold">ISBN: 978-99918-60-20-6 ISSN: 1601-9423 </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>4 </p>
 <p xml:lang="isl"><em type="bold">Innihald </em></p>
-<p xml:lang="deu"><em type="italic">INNGANGUR ............................................................................................................................................................... 5 </em></p>
-<p xml:lang="isl"><em type="italic">2. KYNSBÝTIÐ Á ARBEIÐSMARKNAÐINUM .................................................................................................................. 7 </em></p>
-<p xml:lang="deu"><em type="italic">2.1. HORISONTALT ARBEIÐSBÝTI ..................................................................................................................................... 8 </em></p>
-<p xml:lang="vep"><em type="italic">2.2. VERTIKALT ARBEIÐSBÝTI .......................................................................................................................................... 9 </em></p>
-<p xml:lang="sme"><em type="italic">3. FÁA KVINNUR OG MENN SOMU LØN FRÁ TÍ ALMENNA? .......................................................................................10 </em></p>
-<p xml:lang="isl"><em type="italic">3.1. HVØRJIR PARTAR AV ALMENNA ARBEIÐSMARKNAÐINUM ERU VIÐ Í KANNINGINI ....................................................................10 </em></p>
-<p xml:lang="vep"><em type="italic">3.2. HVAT VÍSIR LØNARKANNINGIN .................................................................................................................................11 </em></p>
-<p xml:lang="isl"><em type="italic">3.2.1. Aldur .......................................................................................................................................................11 </em></p>
-<p><em type="italic">3.2.2. Arbeiðstíð ................................................................................................................................................11 </em></p>
-<p xml:lang="dan"><em type="italic">3.2.3. Útbúgving................................................................................................................................................12 </em></p>
-<p xml:lang="isl"><em type="italic">3.2.4. Starvsslag ........................................................................................................................</em></p>
-<p xml:lang="isl"><em type="italic">3.2.5. Vinnugrein ...............................................................................................................................................13 </em></p>
-<p xml:lang="isl"><em type="italic">3.3. HAVA BØRN ÁVIRKAN Á LØNINA? .............................................................................................................................14 </em></p>
-<p xml:lang="vep"><em type="italic">3.4. SVARTA BOKSIN ...................................................................................................................................................15 </em></p>
-<p xml:lang="vep"><em type="italic">4. LÍKA LØN - SOMU INNTØKU ...................................................................................................................................17 </em></p>
-<p xml:lang="vep"><em type="italic">SAMANDRÁTTUR .......................................................................................................................................................20 </em></p>
-<p xml:lang="vep"><em type="italic">KELDULISTI ................................................................................................................................................................22</em> </p>
+<p><em type="bold">INNGANGUR ............................................................................................................................................................... 5 </em><em type="bold">2. KYNSBÝTIÐ Á ARBEIÐSMARKNAÐINUM .................................................................................................................. 7 </em>2.1. HORISONTALT ARBEIÐSBÝTI ..................................................................................................................................... 8 2.2. VERTIKALT ARBEIÐSBÝTI .......................................................................................................................................... 9 <em type="bold">3. FÁA KVINNUR OG MENN SOMU LØN FRÁ TÍ ALMENNA? .......................................................................................10 </em>3.1. HVØRJIR PARTAR AV ALMENNA ARBEIÐSMARKNAÐINUM ERU VIÐ Í KANNINGINI ....................................................................10 3.2. HVAT VÍSIR LØNARKANNINGIN .................................................................................................................................11 <em type="italic">3.2.1. Aldur .......................................................................................................................................................11 </em><em type="italic">3.2.2. Arbeiðstíð ................................................................................................................................................11 </em><em type="italic">3.2.3. Útbúgving................................................................................................................................................12 </em><em type="italic">3.2.4. Starvsslag ................................................................................................................................................12 </em><em type="italic">3.2.5. Vinnugrein ...............................................................................................................................................13 </em>3.3. HAVA BØRN ÁVIRKAN Á LØNINA? .............................................................................................................................14 3.4. SVARTA BOKSIN ...................................................................................................................................................15 <em type="bold">4. LÍKA LØN - SOMU INNTØKU ...................................................................................................................................17 </em></p>
+<p xml:lang="vep"><em type="bold">SAMANDRÁTTUR .......................................................................................................................................................20 </em></p>
+<p xml:lang="vep"><em type="bold">KELDULISTI ................................................................................................................................................................22 </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>5 </p>
 <p xml:lang="isl"><em type="bold">Inngangur </em></p>
-<p>Kyn  hevur  ávirkan  á,  hvørji  val  kvinnur  og  menn  gera  í  lívinum,  og  hvat  samfelagið  væntar  av</p>
-<p>teimum.  Kynsbýtið  á  arbeiðsmarknaðinum  er  kent  frá  øllum  samfeløgum.  Kynsbýtið  á</p>
-<p>arbeiðsmarknaðinum  elvir  til  ójavnar  í  lønarveitingum  og  er  við  til  at  skapa  ein  ófleksiblan</p>
-<p>arbeiðsmarknað.  Ójavnar  í  lønarveitingunum  eru  úrslit  av  tí,  sum  verður  væntað  av  kvinnum  og</p>
-<p>monnum. Javnstøðutrupulleikin á arbeiðsmarknaðinum hongur saman við kynsbýtinum í heiminum.</p>
-<p>Avbjóðingin  er  at  fáa  arbeiðs-  og  familjulív  at  hanga  saman  ella tað,  sum  á  fakmáli  verður  kallað</p>
-<p>produktión og reproduktión, at hanga saman. Produktión/framleiðsla er tann vinnuliga framleiðslan,</p>
-<p>ið  fer  fram  á  arbeiðsmarknaðinum.  Reproduktóns-uppgávan  er  fyrst  og  fremst  reproduktión  av</p>
-<p>arbeiðsmegi  í  breiðum  týdningi.  At  føða  og  uppala  børn  er  ein  uppgáva,  ið  er  knýtt  at  familjuni.</p>
+<p>Kyn hevur ávirkan á, hvørji val kvinnur og menn gera í lívinum, og hvat samfelagið væntar av teimum. Kynsbýtið á arbeiðsmarknaðinum er kent frá øllum samfeløgum. Kynsbýtið á arbeiðsmarknaðinum elvir til ójavnar í lønarveitingum og er við til at skapa ein ófleksiblan arbeiðsmarknað. Ójavnar í lønarveitingunum eru úrslit av tí, sum verður væntað av kvinnum og monnum. Javnstøðutrupulleikin á arbeiðsmarknaðinum hongur saman við kynsbýtinum í heiminum.</p>
+<p>Avbjóðingin er at fáa arbeiðs- og familjulív at hanga saman ella tað, sum á fakmáli verður kallað produktión og reproduktión, at hanga saman. Produktión/framleiðsla er tann vinnuliga framleiðslan, ið fer fram á arbeiðsmarknaðinum. Reproduktóns-uppgávan er fyrst og fremst reproduktión av arbeiðsmegi í breiðum týdningi. At føða og uppala børn er ein uppgáva, ið er knýtt at familjuni.</p>
 <p>Umframt familjuna hava skúli og útbúgvingarstovnar eisini partar av hesi reproduktións-uppgávu.</p>
-<p>Tað gamla familjumynstrið,  har  maðurin  fekk forsyrgjaraleiklutin og kvinnan umsorganarleiklutin,</p>
-<p>sæst aftur á arbeiðsmarknaðinum í dag.</p>
-<p>Kanningar í okkara grannalondum hava víst, at menn í stóran mun fáa hægri løn enn kvinnur. Ein</p>
-<p>stórur partur av hesum muni kann greinast út frá hagtølum. Eitt nú vísa hagtøl aðrastaðni, at menn</p>
-<p>eru  yvirumboðaðir  í  hálønarstørvum,  og  kvinnur  eru  yvirumboðaðar  í  láglønarstørvum.  Hví  so  er,</p>
-<p>eru ymsar frágreiðingar um.</p>
-<p>Sí m.a. frágreiðingar hjá danska sosialgranskingardeplinum, www.sfi.dk</p>
+<p>Tað gamla familjumynstrið, har maðurin fekk forsyrgjaraleiklutin og kvinnan umsorganarleiklutin, sæst aftur á arbeiðsmarknaðinum í dag.</p>
+<p>Kanningar í okkara grannalondum hava víst, at menn í stóran mun fáa hægri løn enn kvinnur1. Ein stórur partur av hesum muni kann greinast út frá hagtølum. Eitt nú vísa hagtøl aðrastaðni, at menn eru yvirumboðaðir í hálønarstørvum, og kvinnur eru yvirumboðaðar í láglønarstørvum. Hví so er, eru ymsar frágreiðingar um. 1 Sí m.a. frágreiðingar hjá danska sosialgranskingardeplinum, www.sfi.dk</p>
 <p><em type="bold">Trý sløg av familjum </em></p>
-<p>Tað  gamla  mynstrið  í  sokallaða  landbúnaðarsamfelagnum  var,  at  familjan  var  ein framleiðslueind – har man ikki skilti millum arbeiðslív og familjulív. Kynsbýtið var soleiðis, at kvinnan tók sær av uppgávunum  í heiminum, meðan maðurin tók sær av arbeiðinum uttandura. Tað vanliga var, at genturnar hjálptu mammu síni, og dreingirnir hjálptu pápa sínum við teimum ymsu arbeiðsuppgávunum.</p>
-<p>Í  ídnaðarsamfelagnum  verður  húsmóðirfamiljan  tað  vanligasta  familjuslagið.  Eyðkennið  við hesum familjuslagi er, at arbeiðslív og familjulív verða skilt sundur. Pápin fer sum forsyrgjari út á arbeiðsmarknaðin, meðan mamman hevur umsorganarleiklutin í heiminum.</p>
-<p>Við  vælferðarsamfelagnum  verður  eitt  triðja  familjuslag  tað  vanligasta,  nevniliga samráðingarfamiljan  (eisini  kallað  symmetriska  fami<span type="quote">”kvinnuvinarligi  staturin”</span>,  av  tí  at  staturin  her avlastar  kvinnuna  fyri  hennara uppgávur  (Hernes,  1987).  Tey  størvini,  ið  verða  stovnað  fyri  at avloysa kvinnuna,  verða eisini sædd sum  kvinnustørv – hetta eru  í stóran  mun størv, sum  hava við umsorgan at gera.</p>
-<p>Úrslit frá lønarkanning í 2009 benda eisini á, at tað er munur á lønunum hjá kvinnum og monnum á</p>
-<p>føroyska  arbeiðsmarknaðinum  (Joensen,  2009).  Hendan  lønarkanning  frá  2009  vísir,  at  menn  í</p>
-<p>almenna  geiranum  í  Føroyum  í  meðal  forvinna  16,3%  meira  um  tíman  enn  kvinnur.  Av  hesum</p>
-<p>kunna hagtølini lýsa orsøkirnar til tey fyrstu 13,4%, meðan tey seinastu 2,9% fella í eina sokallaða</p>
-<p xml:lang="isl">svarta boks.</p>
-<p>Í  sambandi  við,  at  Hagstova  Føroya  gjørdi  hesa  lønarkanning  innan  starvsbólkar  á  almenna</p>
-<p>arbeiðsmarknaðinum í  2008-2009,  heitti Javnstøðunevndin á  Granskingardepilin fyri</p>
+<p>Tað gamla mynstrið í sokallaða landbúnaðarsamfelagnum var, at familjan var ein framleiðslueind – har man ikki skilti millum arbeiðslív og familjulív. Kynsbýtið var soleiðis, at kvinnan tók sær av uppgávunum í heiminum, meðan maðurin tók sær av arbeiðinum uttandura. Tað vanliga var, at genturnar hjálptu mammu síni, og dreingirnir hjálptu pápa sínum við teimum ymsu arbeiðsuppgávunum.</p>
+<p>Í ídnaðarsamfelagnum verður húsmóðirfamiljan tað vanligasta familjuslagið. Eyðkennið við hesum familjuslagi er, at arbeiðslív og familjulív verða skilt sundur. Pápin fer sum forsyrgjari út á arbeiðsmarknaðin, meðan mamman hevur umsorganarleiklutin í heiminum.</p>
+<p>Við vælferðarsamfelagnum verður eitt triðja familjuslag tað vanligasta, nevniliga samráðingarfamiljan (eisini kallað symmetriska familjan) har bæði foreldini arbeiða úti. Bæði kona og maður hava forsyrgjaraleiklutin. Børnini verða nú lutvíst uppald uttan fyri heimið - á stovni. Vælferðarstaturin verður eisini kallaður <span type="quote">”kvinnuvinarligi staturin”</span>, av tí at staturin her avlastar kvinnuna fyri hennara uppgávur (Hernes, 1987). Tey størvini, ið verða stovnað fyri at avloysa kvinnuna, verða eisini sædd sum kvinnustørv – hetta eru í stóran mun størv, sum hava við umsorgan at gera.</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>6 </p>
+<p>Úrslit frá lønarkanning í 2009 benda eisini á, at tað er munur á lønunum hjá kvinnum og monnum á føroyska arbeiðsmarknaðinum (Joensen, 2009). Hendan lønarkanning frá 2009 vísir, at menn í almenna geiranum í Føroyum í meðal forvinna 16,3% meira um tíman enn kvinnur. Av hesum kunna hagtølini lýsa orsøkirnar til tey fyrstu 13,4%, meðan tey seinastu 2,9% fella í eina sokallaða svarta boks.</p>
+<p>Í sambandi við, at Hagstova Føroya gjørdi hesa lønarkanning innan starvsbólkar á almenna arbeiðsmarknaðinum í 2008-2009, heitti</p>
+<p>Javnstøðunevndin á Granskingardepilin fyri</p>
 <p>Samfelagsmenning um at skriva eina perspektivering við støði í hesi kanning.</p>
-<p>Vit  fara  í  hesum  arbeiðsriti  at  hyggja  nærri  at  innihaldinum  í  kanningini,  ið  Hagstovan  læt  gera  í</p>
-<p>2009. Hesi úrslit verða sett í samband við ta vitan, vit hava frammanundan um kynsbýtið á føroyska</p>
-<p>arbeiðsmarknaðinum  og  úrslit  frá  líknandi  kanningum  frá  okkara  grannalondum.  Vit  skulu  fyrst</p>
-<p>hyggja  eitt  sindur  eftir,  hvussu  kynsmunir  síggjast  aftur  á  arbeiðsmarknaðinum.  Síðani  fara  vit  at</p>
-<p>kanna  nærri,  hvørjar  orsøkirnar  kunna  vera  til  lønarmunin  millum  menn  og  kvinnur  sambært</p>
-<p>lønarkanningini frá Hagstovuni. Vit fara eisini at hyggja at, í hvønn mun børn hava ávirkan á lønina</p>
-<p>hjá  kvinnum.  Úrslit  frá  kanningum  úr  okkara  grannalondum  verða  nýtt  fyri  at  lýsa  møguligar</p>
-<p>orsakir til støðuna á arbeiðsmarknaðinum nærri.<em type="italic"> </em></p>
-<p><em type="bold">2. Kynsbýtið á arbeiðsmarknaðinum </em></p>
-<p>Føroysk  hagtøl  og  hagtøl  frá  grannalondum  okkara  vísa,  at  vit  hava  greitt  kynsbýti  á</p>
-<p>arbeiðsmarknaðinum.  Føroyar  hava  í  norðurlendskum  høpi  lutfalsliga  flestar  kvinnur  á</p>
-<p>arbeiðsmarknaðinum.  Heili  89  %  av  føroyskum  kvinnum  (16-64  ár)  eru  partar  av  føroyska</p>
-<p>arbeiðsmarknaðinum (Akerskov, 2008). Áhugavert er tó at hava í huga, at nakrar kanningar peika á,</p>
-<p>at  jú  lutfalsliga  fleiri  kvinnur  eru  á  arbeiðsmarknaðinum,  jú  størri  er  kynsbýtið  á</p>
-<p>arbeiðsmarknaðinum. Meðan onnur lond, sum hava lutfalsliga fáar kvinnur á arbeiðsmarknaðinum,</p>
-<p>eitt nú Italia,  hava ikki eins greitt kynsbýtið á arbeiðsmarknaðinum(Christensen et al., 2004: 6).</p>
-<p>Í  talvu  1  síggja  vit  kynsbýtið  á  føroyska  arbeiðsmarknaðinum.  Kvinnur  arbeiða  innan  heilsu-  og</p>
-<p>almannaverkið  og  kommunu-  og  ríkisstovnar,  meðan  menn  arbeiða  innan  fiskiskap,  bygging  og</p>
-<p>sjóflutning.  Menn  arbeiða  í  størri  mun  innan  produktión  (framleiðslu),  meðan  kvinnur  hinvegin</p>
-<p>arbeiða  í  størri  mun  innan  reproduktión  (endurframleiðslu).  Talvan  vísir,  at  43  %  av  kvinnum</p>
-<p>arbeiða  innan  heilsu-  og  almannaverkið</p>
-<p>og  kommunu-  og  ríkisstovnar,  meðan  12</p>
-<p>% av monnum arbeiða innan hesi øki. 31</p>
-<p>%  av  monnum  arbeiða  innan  fiskiskap,</p>
-<p>bygging  og  sjóflutning,  meðan  einans  3</p>
-<p>% av kvinnum arbeiða innan hesi øki.</p>
-<p>Hagtøl  vísa,  at  kvinnur  arbeiða  meira</p>
-<p xml:lang="isl">innan  almenna  geiran,  meðan  menn</p>
-<p>arbeiða  meira  innan  privata  geiran</p>
-<p xml:lang="nob">(Sjørup,  2009,  Deding  et  al.,  2010,</p>
-<p>Hagstova Føroya, 2010). Dynamikkurin  í</p>
-<p>hesum  báðum  geirunum  er  ymiskur.  Í  tí</p>
-<p>privata  geiranum  er  tað  útboð  og</p>
-<p>eftirspurningur,  sum  hevur  týdning  fyri</p>
-<p>lønarlagið,  meðan  tað  í  tí  almenna</p>
-<p>geiranum  er  skattaborgarin,  ið  skal</p>
-<p>gjalda.  Ein  orsøk  til,  at  lønarlagið  á</p>
-<p>almenna  geiranum  er  lægri,  er    at</p>
-<p>samfelagið  ikki  so  lættliga  kann  hækka</p>
-<p>skattin.  Hildið  verður,  at  ein  háttur  at</p>
-<p><em type="bold">Talva 1. Løntakarar skift á kyn og vinnugrein. Januar 2010 </em>  <em type="bold">Mannfólk Konufólk </em>Landbúnaður 0% 0% Fiskiskapur 14% 1% Ali- og kryvjivirki 3% 2% Ráevnisvinna 1% 0% Fiskavøruídnaður 6% 6% Skipasmiðjur, smiðjur 4% 1% Annar ídnaður 5% 3% Bygging 12% 1% Orku- og vatnveiting 1% 0% Handil og umvæling 12% 14% Gistihús og matstovuvirki 2% 3% Sjóflutningur 5% 1% Flutningur annars 3% 2% Postur og fjarskifti 2% 2% Fígging og trygging 3% 5% Vinnuligar tænastur 4% 3% Húshaldstænastur 1% 2% Landsfyrisiting 3% 3% Kommunur og ríkisstovnar 8% 17% Undirvísing 6% 7% Heilsu- og almannaverk 4% 26% Felagsskapir, mentan o.a. 3% 2% Ótilskilað v.m. 1% 0% <em type="italic">Kelda: Hagstova Føroya     </em>minka  um  lønarmunin  millum  kynini  er,  at  arbeiðsbýtið  millum  menn  og  kvinnur  innan  báðar </p>
-<p>geirarnar gerst javnari. Tað vil siga at  fáa fleiri  menn  í  almenn  størv (innan reproduktión) og fleiri</p>
-<p>kvinnur á privata arbeiðsmarknaðin (produktión).</p>
-<p>Sosialgranskingarstovnurin í Danmark SFI (Social Forskning Instituttet) vísir í eini frágreiðing á, at</p>
-<p>menn  ofta velja  størv,  har  endamálið  er  at  menna  eitthvørt  (<span type="quote" xml:lang="dan">”udviklingsarbejde”</span>),  og ofta eru  hesi</p>
-<p>leiðarastørv. Kvinnur verða hinvegin ofta settar í umsorganarstørv og átaka sær oftari tað, ið verður</p>
-<p xml:lang="isl">kallað  rutinuarbeiði  (SFI  2006:10).  Kvinnustørv  krevja oftast  lægri  ella  meðal  langar  útbúgvingar,</p>
-<p>og  starvsfólk  innan  hesi  størvini  hava  ikki  eins  góðar  møguleikar  fyri  at  koma  í  hægri  starv  innan</p>
-<p xml:lang="hbs">sama fak.</p>
-<p>Hagtøl, eitt nú úr Danmark, benda eisini  á, at arbeiði av sama  virði  verður  lægri  virðismett, tá tað</p>
-<p>verður gjørt av eini kvinnu. Lønarmunir millum kvinnustørv og mannfólkastørv eru í nøkrum førum</p>
-<p>øktir  síðani  danska  líkalønsáttmálan  frá 1973.  Hetta kemst  eisini  av,  at tá kreppur  raka,  so eru tað</p>
-<p>lønarhækkingar  innan  almennu  størvini,  sum  serliga  verða  hildnar  aftur,  og  tað  eru  jú  innan  hesi</p>
-<p>størv, at kvinnur fyri ein stóran part arbeiða (Deding et al., 2010).</p>
-<p>Meira enn helmingurin av føroyskum kvinnum arbeiða niðursetta tíð. Tøl frá Hagstovuni vísa, at 45</p>
-<p>%  av  kvinnunum  á  føroyska  arbeiðsmarknaðinum  arbeiða  fulla  tíð,  meðan  79  %  av  monnunum  á</p>
-<p>føroyska arbeiðsmarknaðinum arbeiða fulla tíð.</p>
-<p>Tá  vit  tosa  um  kynsbýtið  á  arbeiðsmarknaðinum,  so  skilja  vit  vanliga  ímillum  horisontala  og</p>
-<p>vertikala arbeiðsbýtið (dimensiónir). Hesi verða nærri lýst niðanfyri.</p>
-<p xml:lang="isl"><em type="bold">2.1. Horisontalt arbeiðsbýti </em></p>
-<p>Ein  breið  lýsing  av  horisontala  kynsbýtinum  á  arbeiðsmarknaðinum  er,  at  kvinnur  í  størri  mun</p>
-<p>arbeiða innan almannageiran, meðan menn í størri mun arbeiða innan tann privata geiran. Ein onnur</p>
-<p>breið lýsing er, at kvinnur í størri mun arbeiða innan reproduktión/endurframleiðslu, meðan menn  í</p>
-<p>størri  mun  arbeiða  innan  produktión/framleiðslu.  Tað  horisontala  arbeiðsbýtið  merkir,  at  fólk</p>
-<p>arbeiða  á  sama  støði,  men  innan  ymsar  fakbólkar  t.d.  sjúkrarøktarfrøðingar,  námsfrøðingar  og</p>
-<p xml:lang="nob">politiassistentar og timburmenn.</p>
-<p>Tað vísir  seg,  at  á arbeiðsplássum  hava  vit  eisini  tað,  ið  vit  kalla  fyri  glíðandi  arbeiðsbýti  millum</p>
-<p>kvinnur  og  menn.  Hesi  hava  sum  útgangsstøði  somu  útbúgving  og  sama  arbeiði,  men  tó  hava tey</p>
-<p>ymiskt  innihald  í  arbeiðinum  og  ymisk  arbeiðskor,  menningarmøguleikar  og  ymiska  løn  (Sjørup,</p>
-<p xml:lang="est">2009, s. 9).</p>
-<p>Hetta  sæst  aftur  innan  flestu  fakbólkar.  Ein  kanning  hjá  SFI  millum  málarar  í  Danmark  vísir,  at</p>
-<p>kvinnur ofta mála inni í privatum heimum, meðan menn oftari arbeiða á ídnaðarøkjum, har lønirnar</p>
-<p>eru eftir eini akkordskipan. Í eini kanning av  námsfrøðingum  vísti tað seg eisini, at kvinnur  høvdu</p>
-<p>øðrvísi  uppgávur  enn  menn  á  arbeiðsplássunum.  Kvinnur  tóku  sær  av  innkeypi,  matgerð,</p>
-<p>reingerð/rudding  og  umsorgan/røkt.  Menn  tóku  sær  av  tí  tekniska  í  sambandi  við  teldu-  og</p>
-<p>maskinútgerð,  handverk, uttandura spæli og likamligum virksemi. Í teimum hægru arbeiðsløgunum</p>
-<p>kemur  glíðandi  arbeiðsbýtið  eisini  týðuliga  til  sjóndar.  Kvinnuligir  løgfrøðingar  gerast  oftast</p>
-<p>málsviðgerar,  meðan  menn  verða sakførarar.  Somuleiðis  vísa  kanningar,  at  eitt  nú  kvinnuligir</p>
-<p>læknar oftari verða psykiatarar, meðan mannligir læknar oftari gerast skurðlæknar (Sjørup, 2009, s</p>
-<p xml:lang="vep">15-34).</p>
-<p><em type="bold">2.2. Vertikalt arbeiðsbýti </em></p>
-<p>Vertikala  arbeiðsbýtið  lýsir  hinvegin  býtið  av  leiðslu  og  ábyrgd.  Her  verður  tosað  um  tað</p>
-<p>hierarkiska  býtið  millum  starvsfólk  og  leiðslu.  Kanningar  vísa,  at  menn  eru  oftast  leiðarar.  Nú</p>
-<p>alsamt  fleiri  kvinnur  fáa  hægri  útbúgving  hevur  hetta  havt  við  sær,  at  fleiri  og  fleiri  kvinnur  fáa</p>
-<p>hægri størv. Tó vísa fleiri kanningar, at tað framvegis er stórur ójavni millum kyn á hesum økinum.</p>
-<p>Sí frágreiðingar hjá SFI www.sfi.dk</p>
-<p><em type="bold">3. Fáa kvinnur og menn somu løn frá tí almenna? </em></p>
-<p>Dátutilfar  um  horisontalt  og  vertikalt  kynsbýti  á  arbeiðsmarknaðinum  er  avmarkað  í  Føroyum.</p>
+<p>Vit fara í hesum arbeiðsriti at hyggja nærri at innihaldinum í kanningini, ið Hagstovan læt gera í 2009. Hesi úrslit verða sett í samband við ta vitan, vit hava frammanundan um kynsbýtið á føroyska arbeiðsmarknaðinum og úrslit frá líknandi kanningum frá okkara grannalondum. Vit skulu fyrst hyggja eitt sindur eftir, hvussu kynsmunir síggjast aftur á arbeiðsmarknaðinum. Síðani fara vit at kanna nærri, hvørjar orsøkirnar kunna vera til lønarmunin millum menn og kvinnur sambært lønarkanningini frá Hagstovuni. Vit fara eisini at hyggja at, í hvønn mun børn hava ávirkan á lønina hjá kvinnum. Úrslit frá kanningum úr okkara grannalondum verða nýtt fyri at lýsa møguligar orsakir til støðuna á arbeiðsmarknaðinum nærri. <em type="italic"></em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>7 <em type="bold">2. Kynsbýtið á arbeiðsmarknaðinum </em></p>
+<p>Føroysk hagtøl og hagtøl frá grannalondum okkara vísa, at vit hava greitt kynsbýti á arbeiðsmarknaðinum. Føroyar hava í norðurlendskum høpi lutfalsliga flestar kvinnur á arbeiðsmarknaðinum. Heili 89 % av føroyskum kvinnum (16-64 ár) eru partar av føroyska arbeiðsmarknaðinum (Akerskov, 2008). Áhugavert er tó at hava í huga, at nakrar kanningar peika á, at jú lutfalsliga fleiri kvinnur eru á arbeiðsmarknaðinum, jú størri er kynsbýtið á arbeiðsmarknaðinum. Meðan onnur lond, sum hava lutfalsliga fáar kvinnur á arbeiðsmarknaðinum, eitt nú Italia, hava ikki eins greitt kynsbýtið á arbeiðsmarknaðinum(Christensen et al., 2004: 6).</p>
+<p>Í talvu 1 síggja vit kynsbýtið á føroyska arbeiðsmarknaðinum. Kvinnur arbeiða innan heilsu- og almannaverkið og kommunu- og ríkisstovnar, meðan menn arbeiða innan fiskiskap, bygging og sjóflutning. Menn arbeiða í størri mun innan produktión (framleiðslu), meðan kvinnur hinvegin arbeiða í størri mun innan reproduktión (endurframleiðslu). Talvan vísir, at 43 % av kvinnum arbeiða innan heilsu- og almannaverkið og kommunu- og ríkisstovnar, meðan 12 % av monnum arbeiða innan hesi øki. 31 % av monnum arbeiða innan fiskiskap, bygging og sjóflutning, meðan einans 3 % av kvinnum arbeiða innan hesi øki.</p>
+<p>Hagtøl vísa, at kvinnur arbeiða meira innan almenna geiran, meðan menn arbeiða meira innan privata geiran (Sjørup, 2009, Deding et al., 2010,</p>
+<p>Hagstova Føroya, 2010). Dynamikkurin í hesum báðum geirunum er ymiskur. Í tí privata geiranum er tað útboð og eftirspurningur, sum hevur týdning fyri lønarlagið, meðan tað í tí almenna geiranum er skattaborgarin, ið skal gjalda. Ein orsøk til, at lønarlagið á almenna geiranum er lægri, er at samfelagið ikki so lættliga kann hækka skattin. Hildið verður, at ein háttur at</p>
+<p xml:lang="isl"><em type="bold">Talva 1. Løntakarar skift á kyn og vinnugrein. Januar 2010 </em></p>
+<p xml:lang="isl"><em type="bold">Mannfólk </em></p>
+<p xml:lang="isl"><em type="bold">Konufólk </em></p>
+<p xml:lang="isl">Landbúnaður 0% 0%</p>
+<p>Fiskiskapur 14% 1%</p>
+<p xml:lang="nob">Ali- og kryvjivirki 3% 2%</p>
+<p xml:lang="isl">Ráevnisvinna 1% 0%</p>
+<p>Fiskavøruídnaður 6% 6%</p>
+<p xml:lang="isl">Skipasmiðjur, smiðjur 4% 1%</p>
+<p xml:lang="isl">Annar ídnaður 5% 3%</p>
+<p xml:lang="isl">Bygging 12% 1%</p>
+<p>Orku- og vatnveiting 1% 0%</p>
+<p>Handil og umvæling 12% 14%</p>
+<p>Gistihús og matstovuvirki 2% 3%</p>
+<p xml:lang="isl">Sjóflutningur 5% 1%</p>
+<p xml:lang="isl">Flutningur annars 3% 2%</p>
+<p xml:lang="isl">Postur og fjarskifti 2% 2%</p>
+<p>Fígging og trygging 3% 5%</p>
+<p>Vinnuligar tænastur 4% 3%</p>
+<p xml:lang="isl">Húshaldstænastur 1% 2%</p>
+<p>Landsfyrisiting 3% 3%</p>
+<p xml:lang="isl">Kommunur og ríkisstovnar 8% 17%</p>
+<p xml:lang="isl">Undirvísing 6% 7%</p>
+<p>Heilsu- og almannaverk 4% 26%</p>
+<p>Felagsskapir, mentan o.a. 3% 2%</p>
+<p xml:lang="isl">Ótilskilað v.m. 1% 0%</p>
+<p><em type="italic">Kelda: Hagstova Føroya </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>8minka um lønarmunin millum kynini er, at arbeiðsbýtið millum menn og kvinnur innan báðar geirarnar gerst javnari. Tað vil siga at fáa fleiri menn í almenn størv (innan reproduktión) og fleiri kvinnur á privata arbeiðsmarknaðin (produktión). </p>
+<p>Sosialgranskingarstovnurin í Danmark SFI (Social Forskning Instituttet) vísir í eini frágreiðing á, at menn ofta velja størv, har endamálið er at menna eitthvørt (<span type="quote" xml:lang="dan">”udviklingsarbejde”</span>), og ofta eru hesi leiðarastørv. Kvinnur verða hinvegin ofta settar í umsorganarstørv og átaka sær oftari tað, ið verður kallað rutinuarbeiði (SFI 2006:10). Kvinnustørv krevja oftast lægri ella meðal langar útbúgvingar, og starvsfólk innan hesi størvini hava ikki eins góðar møguleikar fyri at koma í hægri starv innan sama fak.</p>
+<p>Hagtøl, eitt nú úr Danmark, benda eisini á, at arbeiði av sama virði verður lægri virðismett, tá tað verður gjørt av eini kvinnu. Lønarmunir millum kvinnustørv og mannfólkastørv eru í nøkrum førum øktir síðani danska líkalønsáttmálan frá 1973. Hetta kemst eisini av, at tá kreppur raka, so eru tað lønarhækkingar innan almennu størvini, sum serliga verða hildnar aftur, og tað eru jú innan hesi størv, at kvinnur fyri ein stóran part arbeiða (Deding et al., 2010).</p>
+<p>Meira enn helmingurin av føroyskum kvinnum arbeiða niðursetta tíð. Tøl frá Hagstovuni vísa, at 45 % av kvinnunum á føroyska arbeiðsmarknaðinum arbeiða fulla tíð, meðan 79 % av monnunum á føroyska arbeiðsmarknaðinum arbeiða fulla tíð.</p>
+<p>Tá vit tosa um kynsbýtið á arbeiðsmarknaðinum, so skilja vit vanliga ímillum horisontala og vertikala arbeiðsbýtið (dimensiónir). Hesi verða nærri lýst niðanfyri. <em type="bold">2.1. Horisontalt arbeiðsbýti </em></p>
+<p>Ein breið lýsing av horisontala kynsbýtinum á arbeiðsmarknaðinum er, at kvinnur í størri mun arbeiða innan almannageiran, meðan menn í størri mun arbeiða innan tann privata geiran. Ein onnur breið lýsing er, at kvinnur í størri mun arbeiða innan reproduktión/endurframleiðslu, meðan menn í størri mun arbeiða innan produktión/framleiðslu. Tað horisontala arbeiðsbýtið merkir, at fólk arbeiða á sama støði, men innan ymsar fakbólkar t.d. sjúkrarøktarfrøðingar, námsfrøðingar og politiassistentar og timburmenn.</p>
+<p>Tað vísir seg, at á arbeiðsplássum hava vit eisini tað, ið vit kalla fyri glíðandi arbeiðsbýti millum kvinnur og menn. Hesi hava sum útgangsstøði somu útbúgving og sama arbeiði, men tó hava tey ymiskt innihald í arbeiðinum og ymisk arbeiðskor, menningarmøguleikar og ymiska løn (Sjørup, 2009, s. 9).</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>9 </p>
+<p>Hetta sæst aftur innan flestu fakbólkar. Ein kanning hjá SFI millum málarar í Danmark vísir, at kvinnur ofta mála inni í privatum heimum, meðan menn oftari arbeiða á ídnaðarøkjum, har lønirnar eru eftir eini akkordskipan. Í eini kanning av námsfrøðingum vísti tað seg eisini, at kvinnur høvdu øðrvísi uppgávur enn menn á arbeiðsplássunum. Kvinnur tóku sær av innkeypi, matgerð, reingerð/rudding og umsorgan/røkt. Menn tóku sær av tí tekniska í sambandi við teldu- og maskinútgerð, handverk, uttandura spæli og likamligum virksemi. Í teimum hægru arbeiðsløgunum kemur glíðandi arbeiðsbýtið eisini týðuliga til sjóndar. Kvinnuligir løgfrøðingar gerast oftast málsviðgerar, meðan menn verða sakførarar. Somuleiðis vísa kanningar, at eitt nú kvinnuligir læknar oftari verða psykiatarar, meðan mannligir læknar oftari gerast skurðlæknar (Sjørup, 2009, s 15-34). <em type="bold">2.2. Vertikalt arbeiðsbýti </em></p>
+<p>Vertikala arbeiðsbýtið lýsir hinvegin býtið av leiðslu og ábyrgd. Her verður tosað um tað hierarkiska býtið millum starvsfólk og leiðslu. Kanningar vísa, at menn eru oftast leiðarar. Nú alsamt fleiri kvinnur fáa hægri útbúgving hevur hetta havt við sær, at fleiri og fleiri kvinnur fáa hægri størv. Tó vísa fleiri kanningar, at tað framvegis er stórur ójavni millum kyn á hesum økinum.2 2 Sí frágreiðingar hjá SFI www.sfi.dk</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>10 <em type="bold">3. Fáa kvinnur og menn somu løn frá tí almenna? </em></p>
+<p>Dátutilfar um horisontalt og vertikalt kynsbýti á arbeiðsmarknaðinum er avmarkað í Føroyum.</p>
 <p>Tískil heitti Javnstøðunevndin á Hagstovu Føroya um at gera eina lønarkanning. Í 2009 kunngjørdi</p>
-<p>Hagstova  Føroya  hesa  lønarkanning,  sum  fevndi  um  partar  av  almenna  arbeiðsmarknaðinum.</p>
+<p>Hagstova Føroya hesa lønarkanning, sum fevndi um partar av almenna arbeiðsmarknaðinum.</p>
 <p>Endamálið við kanningini var at kanna, um kvinnur og menn fáa somu løn frá tí almenna.</p>
-<p>Hendan  kanningin, sum er tann fyrsta av sínum slag, setir tøl á arbeiðsbýtið og lønarbýtið millum</p>
-<p>kyn  í  ávísum  pørtum  av  almenna  arbeiðsmarknaðinum.  Hagstovan  fekk  lønarupplýsingarnar  um</p>
-<p>3.663  kvinnur  og  menn  frá  Lønardeplinum  á  Gjaldsstovuni.  Upplýsingarnar  snúgva  seg  um  løn,</p>
-<p>kyn, aldur, lønarbrøk, útbúgving, slag av arbeiði, starvsslag.</p>
-<p>Umframt at kanna, um kvinnur og menn  fáa somu  løn  frá tí almenna í  Føroyum,  var eitt endamál</p>
-<p>við  kanningini  eisini  at  finna  fram  til,  um  tað,  at  kvinnur  eiga  børn,  hevur  ávirkan  á  lønina  hjá</p>
-<p>kvinnum. Tær upplýsingarnar, sum snúðu  seg um hendan partin av spurninginum,  fekk Hagstovan</p>
-<p>frá Landsfólkayvirlitinum. Kanningin kann tó ikki lýsa hendan spurning frá einum kynssjónarhorni,</p>
-<p>tí  upplýsingarnar  um,  hvørt  ein  hevur  børn  ella  ei,  einans  vera  skrásettar  í  sambandi  við  kvinnur.</p>
-<p>Orsøkin er, at Landsfólkayvirlitið ikki skrásetir ógiftar menn sum pápar. Aldurin á børnunum var 0</p>
-<p xml:lang="isl">16 ár.</p>
-<p><em type="bold">3.1. Hvørjir partar av almenna arbeiðsmarknaðinum eru við í kanningini </em></p>
-<p>Tað er Lønardeildin á Gjaldstovuni, sum  hevur útvegað  lønarhagtølini til Hagstovuna fyri  lønir,  ið</p>
-<p>vórðu útgoldnar í november 2009. Tí er einans tann  parturin av almenna geiranum við í kanningini,</p>
-<p>sum Lønardeildin avgreiddi um hetta mundið. Umleið 60 % av lønum til almenn starvsfólk eru við í</p>
-<p>kanningini.  Kanningin  fevnir  um  lønir  útgoldnar  innan  miðfyrisitingina,  meginpartin  av</p>
-<p>skúlaverkinum og partar av almanna- og heilsuverkinum.</p>
-<p>Hetta  merkir  samstundis,  at  umleið  40  %  av  almenna  geiranum    ikki  eru  við  í  kanningini.  Teir</p>
-<p>partar,  sum  ikki  eru  við,  eru  m.a.  størsta  arbeiðsplássið  í  Føroyum  –  Nærverkið  (har  1.660  fólk</p>
-<p>starvast,  harav  92  %  kvinnur  og  8  %  menn),  Landssjúkrahúsið,  kommunur  (t.v.s.  dagstovnar)  og</p>
-<p>Strandfaraskip  Landsins  (har  120  fólk  starvast,  harav  83  %  menn  og  17  %  kvinnur).  Tað  er</p>
-<p>týdningarmikið at hava í huga, at kanningin av hesum orsøkum  neyvan er umboðandi fyri almenna</p>
-<p>arbeiðsmarknaðin  sum  heild.  Hinvegin  kann  hon  geva  nakrar  ábendingar  um,  hvussu  støðan  er  í</p>
-<p> Spf. Damci(2009<em type="italic">): Starsvfólkatørvur til og við 2015</em>. Nærverkið.  </p>
-<p>mun til løn og kyn á almenna arbeiðsmarknaðinum í Føroyum, og hvussu samanhangurin er millum</p>
-<p>kvinnur, løn og børn á almenna arbeiðsmarknaðinum í Føroyum.</p>
-<p>Hetta merkir sostatt, at kanningin fyrst og fremst einans sigur nakað um støðuna innan teir partar av</p>
-<p>almenna arbeiðsmarknaðinum,  sum eru  við  í kanningini.  Fyri  hesar partar av arbeiðsmarknaðinum</p>
-<p>fáa  vit  nógvar  áhugaverdar  upplýsingar  um  lønarójavna  millum  kyn  og  orsøkir  til  hesar</p>
-<p>lønarójavnar. Lítið ítøkiligt tilfar er um kynsmunir á føroyska arbeiðsmarknaðinum, og í so máta er</p>
-<p>hendan kanning eitt gott útgangsstøði.</p>
-<p><em type="bold">3.2. Hvat vísir lønarkanningin </em></p>
-<p>Av teimum 3.663 fólkunum, sum kanningin fevndi um, vóru fólk í aldrinum 13-76 ár, og vóru 63 %</p>
-<p>kvinnur  og  37  %  menn.  Kanningin  vísir,  at  kvinnur  yvirhøvur  forvinna  minni,  hava  lægri  størv,</p>
-<p>lægri útbúgving og styttri arbeiðstíð enn menn.</p>
-<p>Niðurstøðan í kanningini er, at menn fáa 16,3 % meira í løn enn kvinnur, men vit fáa eisini at vita,</p>
-<p>at  ein  stórur  partur  av  hesum  lønarmuni  kann  lýsast  við  at  hyggja  at  aldri,  arbeiðstíð,  útbúgving,</p>
-<p xml:lang="isl">starvsslagi og vinnubólki.</p>
-<p xml:lang="isl"><em type="bold">3.2.1. Aldur </em></p>
-<p>Kanningin vísir, at lønarmunurin millum kynini veksur við aldrinum, til tey eru umleið 55 ár. Av tí</p>
-<p>at  median  aldurin  hjá  monnunum  í  kanningini  er  hægri  enn  hjá  kvinnunum,  er  aldur  ein</p>
-<p>grundgeving fyri lønarmuni.</p>
-<p><em type="bold">3.2.2. Arbeiðstíð </em></p>
-<p>Kanningin  vísir,  at  heili  80  %  av  monnunum  arbeiða</p>
-<p>fulla tíð, meðan 46 % av kvinnunum arbeiða fulla tíð.</p>
-<p>Hesi  tøl  samsvara  væl  við  tølini,  Hagstovan  hevur</p>
-<p>fyri  føroyska  arbeiðsmarknaðin  sum  heild.  Tá  hugt</p>
-<p>verður eftir, hvat kvinnur og menn  forvinna í  mun til</p>
-<p>arbeiðstíð,  koma  áhugaverd  rák  til  sjóndar.  Kvinnur,  sum  arbeiða  niðursetta  tíð,  vinna  eitt  lítið</p>
-<p>sindur meira enn menn, sum arbeiða niðursetta tíð. Menn, sum arbeiða fulla tíð vinna harafturímóti</p>
-<p>Í kanningini er lønarmunurin roknaður sum munurin á tímalønini.  Median merkir í hesum føri at 50 % av kvinnunum vóru 46 ár ella eldri, meðan 50 % av monnunum vóru 50 ár ella</p>
-<p xml:lang="isl">eldri.</p>
-<p xml:lang="isl"><em type="bold">Talva 2. Arbeiðstíð og kyn </em>    <em type="bold">Fulla tíð Niðursetta tíð </em></p>
-<p xml:lang="smn">♀ 46% 54% ♂ 80% 20%</p>
-<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em>væl meira enn kvinnur, sum arbeiða fulla tíð. Lønarmunurin millum menn og kvinnur, sum arbeiða </p>
-<p>fulla tíð, er væl størri enn munurin á teimum, sum arbeiða niðursetta tíð. Sostatt hevur arbeiðstíðin</p>
-<p>ávirkan á lønarmunin millum kynini.</p>
-<p>Hóast tað eru meira enn 50 ár síðan, at kvinnur av álvara fóru út á arbeiðsmarknaðin, og hóast tað</p>
-<p>eru  nærum  40  ár  síðani,  tiltøk  blivu  sett  í  verk  fyri  at  bøta  um  javnstøðuna  í  Danmark,  so  eru</p>
-<p>kynsmunirnir  á  arbeiðsmarknaðinum  í  Danmark  enn  týðuligir.  Sambært  arbeiðsmarknaðarkanning</p>
-<p>hjá danska sosialgranskingardeplinum SFI so nýta kvinnur meira tíð í heiminum, meðan  menn nýta</p>
-<p>meira tíð á arbeiðsplássinum. Tað vísir seg at vera størri  javnstøða í  familjum uttan børn. Ójavnin</p>
-<p>tykist koma til  sjóndar, tá børnini koma. Hetta kemst  helst av, at kvinnan  velur at seta arbeiðið til</p>
-<p>síðis fyri familjulívið, samstundis sum maðurin noyðist at arbeiða upp aftur meira fyri at vinna inn</p>
-<p>aftur mistu inntøkuna hjá kvinnuni (Christensen et al., 2006). Kanningar vísa, at tá eitt par fær børn,</p>
-<p>so økja menn um arbeiðstíðina, meðan kvinnur minka um arbeiðstíðina (Hardoy og Schøne, 2004)</p>
-<p xml:lang="dan"><em type="bold">3.2.3. Útbúgving </em></p>
-<p>Menn  hava  í  størri  mun  hægri  útbúgving  enn</p>
-<p>kvinnur.  Hetta  er  í  tráð  við  tað,  ið  kanningar</p>
-<p>aðrastaðni hava víst. Kanningar hjá SFI vísa tó á, at</p>
-<p>munurin  á  útbúgvingarstøði  millum  kynini  í</p>
-<p>Danmark er  minkandi,  eftir at alsamt  fleiri kvinnur fáa sær hægri útbúgving (Deding et al., 2010).</p>
-<p>Sambært  lønarkanningini  hjá Hagstovuni  fáa kvinnur  við  lágari útbúgving  lægri  løn enn  menn  við</p>
-<p>lágari útbúgving. Kvinnur við høgari útbúgving fáa eisini lægri løn enn menn við høgari útbúgving.</p>
-<p>Lønarmunurin  millum  kynini  er  rættiliga  týðiligur,  bæði  tá  talan  eru  um  lága  útbúgving  og  høga</p>
-<p>útbúgving.  Munurin  er  tó  serliga  sjónligur,  tá talan  er  um  tey  við  høgari  útbúgving.  Vit  síggja,  at</p>
-<p>menn hava hægri útbúgvingar enn kvinnur, og at lønarmunurin er serliga stórur millum tey, ið hava</p>
-<p>høga útbúgving. Sostatt er útbúgving eisini ein partur av frágreiðingini uppá, hví menn vinna meira</p>
-<p>enn kvinnur.</p>
-<p xml:lang="isl"><em type="bold">3.2.4. Starvsslag </em></p>
-<p>Vit síggja her vertikala arbeiðsbýtið  innan partar av almenna geiranum  í  Føroyum.  Kvinnur hava  í</p>
-<p>størri mun lágt starv, meðan menn í størri mun hava høgt starv. Kanningin vísir, at kvinnur í lágum</p>
-<p>Starvsslag  sipar  her  til  vertikala  arbeiðsbýtið.  Tað  hierarkiska  býtið  frá  tí  niðasta  vanliga  starvsfólkinum  til  ovastu</p>
-<p>leiðslu. Her er tó einans býtt sundur í tveir bólkar, tey sum eru í lágum starvi, og tey, sum eru í høgum starvi.</p>
-<p><em type="bold">Talva 3. Útbúgving og kyn </em>    <em type="bold">Høg útbúgving Lág útbúgving </em></p>
-<p xml:lang="smn">♀ 46% 54% ♂ 63% 37%</p>
-<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em>størvum  fáa  lægri  løn  enn  menn  í  lágum  størvum. </p>
-<p>Kvinnur  í  høgum  størvum  fáa  eisini  lægri  løn  enn</p>
-<p>menn  í  høgum  størvum.  Lønarmunurin  millum</p>
-<p>kynini  í  lágum  og  høgum  størvum  er  tann  sami.  Í</p>
-<p><em type="bold">Talva 4. Starvsslag og kyn </em>    <em type="bold">Høgt starv Lágt starv </em></p>
-<p xml:lang="smn">♀ 42% 58% ♂ 62% 38%</p>
+<p>Hendan kanningin, sum er tann fyrsta av sínum slag, setir tøl á arbeiðsbýtið og lønarbýtið millum kyn í ávísum pørtum av almenna arbeiðsmarknaðinum. Hagstovan fekk lønarupplýsingarnar um 3.663 kvinnur og menn frá Lønardeplinum á Gjaldsstovuni. Upplýsingarnar snúgva seg um løn, kyn, aldur, lønarbrøk, útbúgving, slag av arbeiði, starvsslag.</p>
+<p>Umframt at kanna, um kvinnur og menn fáa somu løn frá tí almenna í Føroyum, var eitt endamál við kanningini eisini at finna fram til, um tað, at kvinnur eiga børn, hevur ávirkan á lønina hjá kvinnum. Tær upplýsingarnar, sum snúðu seg um hendan partin av spurninginum, fekk Hagstovan frá Landsfólkayvirlitinum. Kanningin kann tó ikki lýsa hendan spurning frá einum kynssjónarhorni, tí upplýsingarnar um, hvørt ein hevur børn ella ei, einans vera skrásettar í sambandi við kvinnur.</p>
+<p>Orsøkin er, at Landsfólkayvirlitið ikki skrásetir ógiftar menn sum pápar. Aldurin á børnunum var 0-16 ár. <em type="bold">3.1. Hvørjir partar av almenna arbeiðsmarknaðinum eru við í kanningini </em></p>
+<p>Tað er Lønardeildin á Gjaldstovuni, sum hevur útvegað lønarhagtølini til Hagstovuna fyri lønir, ið vórðu útgoldnar í november 2009. Tí er einans tann parturin av almenna geiranum við í kanningini, sum Lønardeildin avgreiddi um hetta mundið. Umleið 60 % av lønum til almenn starvsfólk eru við í kanningini. Kanningin fevnir um lønir útgoldnar innan miðfyrisitingina, meginpartin av skúlaverkinum og partar av almanna- og heilsuverkinum.</p>
+<p>Hetta merkir samstundis, at umleið 40 % av almenna geiranum ikki eru við í kanningini. Teir partar, sum ikki eru við, eru m.a. størsta arbeiðsplássið í Føroyum – Nærverkið (har 1.660 fólk starvast, harav 92 % kvinnur og 8 % menn), Landssjúkrahúsið, kommunur (t.v.s. dagstovnar) og</p>
+<p>Strandfaraskip Landsins (har 120 fólk starvast, harav 83 % menn og 17 % kvinnur)3. Tað er týdningarmikið at hava í huga, at kanningin av hesum orsøkum neyvan er umboðandi fyri almenna arbeiðsmarknaðin sum heild. Hinvegin kann hon geva nakrar ábendingar um, hvussu støðan er í 3 Spf. Damci(2009 <em type="italic">): Starsvfólkatørvur til og við 2015 </em>. Nærverkið. </p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>11mun til løn og kyn á almenna arbeiðsmarknaðinum í Føroyum, og hvussu samanhangurin er millum kvinnur, løn og børn á almenna arbeiðsmarknaðinum í Føroyum. </p>
+<p>Hetta merkir sostatt, at kanningin fyrst og fremst einans sigur nakað um støðuna innan teir partar av almenna arbeiðsmarknaðinum, sum eru við í kanningini. Fyri hesar partar av arbeiðsmarknaðinum fáa vit nógvar áhugaverdar upplýsingar um lønarójavna millum kyn og orsøkir til hesar lønarójavnar. Lítið ítøkiligt tilfar er um kynsmunir á føroyska arbeiðsmarknaðinum, og í so máta er hendan kanning eitt gott útgangsstøði. <em type="bold">3.2. Hvat vísir lønarkanningin </em></p>
+<p>Av teimum 3.663 fólkunum, sum kanningin fevndi um, vóru fólk í aldrinum 13-76 ár, og vóru 63 % kvinnur og 37 % menn. Kanningin vísir, at kvinnur yvirhøvur forvinna minni, hava lægri størv, lægri útbúgving og styttri arbeiðstíð enn menn.</p>
+<p>Niðurstøðan í kanningini er, at menn fáa 16,3 % meira í løn enn kvinnur, men vit fáa eisini at vita, at ein stórur partur av hesum lønarmuni kann lýsast við at hyggja at aldri, arbeiðstíð, útbúgving, starvsslagi og vinnubólki4. <em type="bold">3.2.1. Aldur </em></p>
+<p>Kanningin vísir, at lønarmunurin millum kynini veksur við aldrinum, til tey eru umleið 55 ár. Av tí at median aldurin hjá monnunum í kanningini er hægri enn hjá kvinnunum, er aldur ein grundgeving fyri lønarmuni5. <em type="bold">3.2.2. Arbeiðstíð </em></p>
+<p>Kanningin vísir, at heili 80 % av monnunum arbeiða fulla tíð, meðan 46 % av kvinnunum arbeiða fulla tíð.</p>
+<p>Hesi tøl samsvara væl við tølini, Hagstovan hevur fyri føroyska arbeiðsmarknaðin sum heild. Tá hugt verður eftir, hvat kvinnur og menn forvinna í mun til arbeiðstíð, koma áhugaverd rák til sjóndar. Kvinnur, sum arbeiða niðursetta tíð, vinna eitt lítið sindur meira enn menn, sum arbeiða niðursetta tíð. Menn, sum arbeiða fulla tíð vinna harafturímóti 4 Í kanningini er lønarmunurin roknaður sum munurin á tímalønini. 5 Median merkir í hesum føri at 50 % av kvinnunum vóru 46 ár ella eldri, meðan 50 % av monnunum vóru 50 ár ella eldri.</p>
+<p xml:lang="isl"><em type="bold">Talva 2. Arbeiðstíð og kyn </em></p>
+<p><em type="bold">Fulla tíð </em></p>
+<p><em type="bold">Niðursetta tíð </em>♀ 46% 54% ♂ 80% 20% </p>
 <p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
-<p>talvu 4 síggja vit, at fleiri menn hava høgt starv enn kvinnur, og tá lønarmunurin er týðiligur, kann</p>
-<p>vertikala arbeiðsbýtið eisini nýtast sum ein frágreiðing upp á lønarmunin millum kynini á almenna</p>
-<p>geiranum í Føroyum.</p>
-<p>Hví fleiri kvinnur arbeiða í lágum størvum kundi verið áhugavert at hugt nærri at. Kanningar benda</p>
-<p>á, at orsøkin partvíst  liggur hjá kvinnuni sjálvari,  sum  hevur  lyndið til at velja sær størv, har  hon  í</p>
-<p>veruleikanum  er  yvirkvalifiserað,  meðan  menn  yvirmeta  sínar  kvalifikatiónir,  tá  teir  bjóða  sína</p>
-<p>arbeiðsmegi  fram.  Orsøkin  liggur  eisini  partvíst  hjá  samfelagnum,  ið  væntar,  at  kvinnan  er  ein</p>
-<p>óstøðugari  arbeiðsmegi  enn  maðurin.  Hetta sæst  eisini  aftur  í,  at  kvinnan  velur  sær  fleksibul  størv</p>
-<p xml:lang="isl">við styttri arbeiðstíðum og betri fráverumøguleikum (sí m.a. Deding et al., 2010).</p>
-<p xml:lang="isl"><em type="bold">3.2.5. Vinnugrein </em></p>
-<p>Vit  síggja  eina  týðiliga  staðfesting  av</p>
-<p>horisontalum  arbeiðsbýti  eisini  innan</p>
-<p>almenna  geiran.  Kanningin  vísir,  at</p>
-<p>kvinnur  innan almenna geiran  í  stóran</p>
-<p>mun  arbeiða  innan  almanna-  og</p>
-<p>heilsuverkið, meðan menn í stóran mun arbeiða innan almenna fyrisiting.</p>
-<p>Haraftrat  staðfestir  kanningin,  at  kvinnur  í  almanna-  og  heilsuverkinum  fáa  lægri  løn  enn  menn  í</p>
-<p>almanna-  og  heilsuverkinum.  Kvinnur  í  almennu  fyrisitingini  fáa  lægri  løn  enn  menn  í  almennu</p>
-<p>fyrisitingini. Kvinnur í undirvísingarverkinum fáa lægri løn enn menn í undirvísingarverkinum. Tað</p>
-<p>er  tó  áhugavert,  at  munurin  millum  lønirnar  hjá  kvinnum  og  monnum  er  størstur  í  almennu</p>
-<p>fyrisitingini.  Horisontala  kynsbýtið  á  almenna  arbeiðsmarknaðinum  er  tí  eisini  partur  av</p>
-<p>frágreiðingini upp á lønarmunin millum kynini.</p>
-<p>Tað  kundi  verið  áhugavert  at  hugt  nærri  at,  um  hetta  kemst  av  glíðandi  arbeiðsbýtinum  millum</p>
-<p>kynini  í  almennu  fyrisitingini,  soleiðis  at  skilja,  at  kvinnur  hava  uppgávur,  sum  eru  eyðkendar  av</p>
-<p>rutinuarbeiði. Ella um talan kann vera um mismun vegna kyn, tvs. at lønarmunurin kemst av, at ein</p>
-<p>er kvinna, ella hvørjar aðrar orsøkir kunna vera til hetta.</p>
-<p xml:lang="isl"><em type="bold">Talva 5. Vinnugrein og kyn </em>    </p>
-<p xml:lang="isl">  <em type="bold">Almanna- og heilsuverkið Almenna fyrisitingin Undirvísingarverkið </em></p>
-<p xml:lang="smn">♀ 42% 22% 36% ♂ 14% 41% 45%</p>
-<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em>  </p>
-<p>Samanumtikið er miðallønin hjá monnum 16,3 % hægri enn hjá kvinnum. 13,4 % kunnu lýsast við</p>
-<p>at hyggja at aldri, arbeiðstíð, útbúgving, starvsslagi og vinnugrein. Eftir eru sostatt 2,9 %, sum fella</p>
-<p>í ta sokallaðu svørtu boksina, sum verður nærri lýst í parti 3.4.</p>
-<p><em type="bold">3.3. Hava børn ávirkan á lønina? </em></p>
-<p>Sum nevnt omanfyri vísir kanningin einans, hvørja ávirkan børn hava á lønina hjá kvinnuni og ikki,</p>
-<p>hvørja ávirkan tey hava á lønina hjá manninum.</p>
-<p>Sambært hesi kanning forvinna kvinnur við børnum meira enn kvinnur uttan børn. Hetta er galdandi</p>
-<p>fyri  kvinnur  við  og  uttan  børnum,  ið  arbeiða  fulla tíð,  niðursetta tíð  og  sum  hava  lága  útbúgving.</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>12væl meira enn kvinnur, sum arbeiða fulla tíð. Lønarmunurin millum menn og kvinnur, sum arbeiða fulla tíð, er væl størri enn munurin á teimum, sum arbeiða niðursetta tíð. Sostatt hevur arbeiðstíðin ávirkan á lønarmunin millum kynini. </p>
+<p>Hóast tað eru meira enn 50 ár síðan, at kvinnur av álvara fóru út á arbeiðsmarknaðin, og hóast tað eru nærum 40 ár síðani, tiltøk blivu sett í verk fyri at bøta um javnstøðuna í Danmark, so eru kynsmunirnir á arbeiðsmarknaðinum í Danmark enn týðuligir. Sambært arbeiðsmarknaðarkanning hjá danska sosialgranskingardeplinum SFI so nýta kvinnur meira tíð í heiminum, meðan menn nýta meira tíð á arbeiðsplássinum. Tað vísir seg at vera størri javnstøða í familjum uttan børn. Ójavnin tykist koma til sjóndar, tá børnini koma. Hetta kemst helst av, at kvinnan velur at seta arbeiðið til síðis fyri familjulívið, samstundis sum maðurin noyðist at arbeiða upp aftur meira fyri at vinna inn aftur mistu inntøkuna hjá kvinnuni (Christensen et al., 2006). Kanningar vísa, at tá eitt par fær børn, so økja menn um arbeiðstíðina, meðan kvinnur minka um arbeiðstíðina (Hardoy og Schøne, 2004) <em type="bold">3.2.3. Útbúgving </em></p>
+<p>Menn hava í størri mun hægri útbúgving enn kvinnur. Hetta er í tráð við tað, ið kanningar aðrastaðni hava víst. Kanningar hjá SFI vísa tó á, at munurin á útbúgvingarstøði millum kynini í</p>
+<p>Danmark er minkandi, eftir at alsamt fleiri kvinnur fáa sær hægri útbúgving (Deding et al., 2010).</p>
+<p>Sambært lønarkanningini hjá Hagstovuni fáa kvinnur við lágari útbúgving lægri løn enn menn við lágari útbúgving. Kvinnur við høgari útbúgving fáa eisini lægri løn enn menn við høgari útbúgving.</p>
+<p>Lønarmunurin millum kynini er rættiliga týðiligur, bæði tá talan eru um lága útbúgving og høga útbúgving. Munurin er tó serliga sjónligur, tá talan er um tey við høgari útbúgving. Vit síggja, at menn hava hægri útbúgvingar enn kvinnur, og at lønarmunurin er serliga stórur millum tey, ið hava høga útbúgving. Sostatt er útbúgving eisini ein partur av frágreiðingini uppá, hví menn vinna meira enn kvinnur. <em type="bold">3.2.4. Starvsslag </em><em type="bold">6 </em></p>
+<p>Vit síggja her vertikala arbeiðsbýtið innan partar av almenna geiranum í Føroyum. Kvinnur hava í størri mun lágt starv, meðan menn í størri mun hava høgt starv. Kanningin vísir, at kvinnur í lágum 6 Starvsslag sipar her til vertikala arbeiðsbýtið. Tað hierarkiska býtið frá tí niðasta vanliga starvsfólkinum til ovastu leiðslu. Her er tó einans býtt sundur í tveir bólkar, tey sum eru í lágum starvi, og tey, sum eru í høgum starvi.</p>
+<p xml:lang="isl"><em type="bold">Talva 3. Útbúgving og kyn </em></p>
+<p><em type="bold">Høg útbúgving </em></p>
+<p><em type="bold">Lág útbúgving </em>♀ 46% 54% ♂ 63% 37% </p>
+<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>13størvum fáa lægri løn enn menn í lágum størvum. </p>
+<p>Kvinnur í høgum størvum fáa eisini lægri løn enn menn í høgum størvum. Lønarmunurin millum kynini í lágum og høgum størvum er tann sami. Í talvu 4 síggja vit, at fleiri menn hava høgt starv enn kvinnur, og tá lønarmunurin er týðiligur, kann vertikala arbeiðsbýtið eisini nýtast sum ein frágreiðing upp á lønarmunin millum kynini á almenna geiranum í Føroyum.</p>
+<p>Hví fleiri kvinnur arbeiða í lágum størvum kundi verið áhugavert at hugt nærri at. Kanningar benda á, at orsøkin partvíst liggur hjá kvinnuni sjálvari, sum hevur lyndið til at velja sær størv, har hon í veruleikanum er yvirkvalifiserað, meðan menn yvirmeta sínar kvalifikatiónir, tá teir bjóða sína arbeiðsmegi fram. Orsøkin liggur eisini partvíst hjá samfelagnum, ið væntar, at kvinnan er ein óstøðugari arbeiðsmegi enn maðurin. Hetta sæst eisini aftur í, at kvinnan velur sær fleksibul størv við styttri arbeiðstíðum og betri fráverumøguleikum (sí m.a. Deding et al., 2010). <em type="bold">3.2.5. Vinnugrein </em></p>
+<p>Vit síggja eina týðiliga staðfesting av horisontalum arbeiðsbýti eisini innan almenna geiran. Kanningin vísir, at kvinnur innan almenna geiran í stóran mun arbeiða innan almanna- og heilsuverkið, meðan menn í stóran mun arbeiða innan almenna fyrisiting.</p>
+<p>Haraftrat staðfestir kanningin, at kvinnur í almanna- og heilsuverkinum fáa lægri løn enn menn í almanna- og heilsuverkinum. Kvinnur í almennu fyrisitingini fáa lægri løn enn menn í almennu fyrisitingini. Kvinnur í undirvísingarverkinum fáa lægri løn enn menn í undirvísingarverkinum. Tað er tó áhugavert, at munurin millum lønirnar hjá kvinnum og monnum er størstur í almennu fyrisitingini. Horisontala kynsbýtið á almenna arbeiðsmarknaðinum er tí eisini partur av frágreiðingini upp á lønarmunin millum kynini.</p>
+<p>Tað kundi verið áhugavert at hugt nærri at, um hetta kemst av glíðandi arbeiðsbýtinum millum kynini í almennu fyrisitingini, soleiðis at skilja, at kvinnur hava uppgávur, sum eru eyðkendar av rutinuarbeiði. Ella um talan kann vera um mismun vegna kyn, tvs. at lønarmunurin kemst av, at ein er kvinna, ella hvørjar aðrar orsøkir kunna vera til hetta.</p>
+<p xml:lang="isl"><em type="bold">Talva 4. Starvsslag og kyn </em></p>
+<p><em type="bold">Høgt starv </em></p>
+<p><em type="bold">Lágt starv </em>♀ 42% 58% ♂ 62% 38% </p>
+<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
+<p xml:lang="isl"><em type="bold">Talva 5. Vinnugrein og kyn </em></p>
+<p xml:lang="isl"><em type="bold">Almanna- og heilsuverkið </em></p>
+<p xml:lang="isl"><em type="bold">Almenna </em><em type="bold">fyrisitingin </em></p>
+<p><em type="bold">Undirvísingar- </em><em type="bold">verkið </em>♀ 42% 22% 36% ♂ 14% 41% 45% </p>
+<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>14 </p>
+<p>Samanumtikið er miðallønin hjá monnum 16,3 % hægri enn hjá kvinnum. 13,4 % kunnu lýsast við at hyggja at aldri, arbeiðstíð, útbúgving, starvsslagi og vinnugrein. Eftir eru sostatt 2,9 %, sum fella í ta sokallaðu svørtu boksina, sum verður nærri lýst í parti 3.4. <em type="bold">3.3. Hava børn ávirkan á lønina? </em></p>
+<p>Sum nevnt omanfyri vísir kanningin einans, hvørja ávirkan børn hava á lønina hjá kvinnuni og ikki, hvørja ávirkan tey hava á lønina hjá manninum.</p>
+<p>Sambært hesi kanning forvinna kvinnur við børnum meira enn kvinnur uttan børn. Hetta er galdandi fyri kvinnur við og uttan børnum, ið arbeiða fulla tíð, niðursetta tíð og sum hava lága útbúgving.</p>
 <p>Hetta er øvugt av tí, ið kanningar aðrastaðni vísa.</p>
-<p>Kanningar aðrastaðni vísa nevniliga, at børn hava negativa ávirkan á lønina hjá kvinnuni. Til dømis</p>
-<p>vísa kanningar hjá SFI og kanningar aðrastaðni í heiminum, at børn hava negativa ávirkan á lønina</p>
-<p>hjá  kvinnuni,  men  positiva  ávirkan  á  lønina  hjá  pápanum  (Sjørup,  2009:  34-43).  Hetta  siga</p>
-<p>granskarar  er  enn  eitt  prógv  um,  at  ein  mamma  verður  av  einum  arbeiðsgevara  sæð  sum  óstøðug</p>
-<p>arbeiðsmegi, meðan ein pápi verður sæddur sum ein forsyrgjari. Um veruliga tað øvuta er galdandi í</p>
-<p>Føroyum er ivasamt, hóast kanningin hjá Hagstovuni bendir á tað. Vit skulu tó hava í huga, at stórir</p>
-<p>partar av almenna geiranum eru ikki við í kanningini eins og lýst í parti 3.2.</p>
-<p>Hyggja vit hinvegin eitt sindur nærri eftir kanningini so sæst, at av teimum 2.307 kvinnunum, sum</p>
-<p>eru við í kanningin, hava einans umleið helmingurin (av teimum) børn undir 16 ár. Median aldurin</p>
-<p>hjá kvinnum við børnum undir 16 ár er 39 ár, meðan median aldurin hjá kvinnum uttan børn er 45</p>
-<p xml:lang="isl">ár.</p>
-<p>Við  at  taka  kvinnurnar,  sum  eru  yvir  50  ár</p>
-<p>burtur úr kanningini ber til at síggja, um aldur</p>
-<p>kann  vera  ein  frágreiðing  uppá,  hví  kvinnur</p>
-<p>við  børnum  vinna  meira  enn  kvinnur  uttan</p>
-<p>børn. Úrslitið  vísir, at so er. Munurin á  lønini</p>
-<p>millum kvinnum við og uttan børn undir 16 ár er minni, hóast tað enn er ein munur. Aldur tykist at</p>
-<p>vera ein týðandi partur av frágreiðingini uppá, hví úrslitið av kanningini er, sum tað er.</p>
-<p>Hetta merkir at 50% av kvinnunum við børnum undir 16 ár, eru 39 ár og eldri, meðan 50% av kvinnunum uttan børn,</p>
-<p>eru 45 ár ella eldri.</p>
-<p><em type="bold">Talva 6. Kvinnur, børn og útbúgving </em>    <em type="bold">Høg útbúgving  Lág útbúgving Kvinnur uttan børn </em>42% 58% </p>
-<p><em type="bold">Kvinnur við børnum undir 16 ár </em>55% 45% <em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
-<p>Ein  onnur  orsøk  til  lønarmunin  í  hesi  kanning  millum  kvinnur  við  og  uttan  børn  undir  16  ár  er</p>
-<p>útbúgving.  58  %  av  kvinnunum  uttan  børn  høvdu  lága  útbúgving,  meðan  55  %  av  kvinnum,  sum</p>
-<p>áttu børn undir 16 ár, høvdu høga útbúgving.</p>
-<p>Kvinnur, ið eiga børn undir 16 ár og hava lága útbúgving, vinna væl meira enn kvinnur uttan børn,</p>
-<p>ið hava lága útbúgving. Hinvegin vísir kanningin, at kvinnur uttan børn við høgari útbúgving vinna</p>
-<p>meira  enn  kvinnur  við  høgari  útbúgving,  sum  eiga  børn  undir  16  ár.  Munurin  á  lønini  millum</p>
-<p>kvinnur,  sum  høvdu  lága  útbúgving,  varstórur,  meðan  lønarmunurin  ikki  var  so  stórur  millum</p>
-<p>kvinnurnar við høgari útbúgving.</p>
-<p>Starvsslag er eisini ein partur av</p>
-<p>frágreiðingini. Vit síggja á talvuni, at 39 % av</p>
-<p>kvinnum uttan børn hava høgt starv, meðan 48</p>
-<p>% av kvinnunum við børnum undir 16 ár hava</p>
-<p>høgt starv. Hóast eingin lønarmunur er millum</p>
-<p>kvinnur við og uttan børn, sum hava høgt starv, so er markantur lønarmunur millum kvinnur við og</p>
-<p>uttan børn, ið hava lágt starv.</p>
-<p>Kvinnur  við  børnum  forvinna  meira  enn  kvinnur  uttan  børn  innan  almanna-  og  heilsuverkið  og</p>
-<p>undirvísingarverkið.  Innan  almenna  fyrisiting  forvinna  kvinnur  uttan  børn  eitt  sindur  meira  enn</p>
-<p>kvinnur  við  børnum  undir  16  ár.  Lønarmunurin  er  størstur  millum  kvinnur    við  og  kvinnur  uttan</p>
-<p>børn í almanna- og heilsuverkinum.</p>
-<p>Hesar  omanfyri  nevndu  frágreiðingar  stuðla  niðurstøðuni,  sum  kanningin  kemur  til  í  hesum</p>
-<p>sambandi.  Her  verður  nevnt,  at  orsøkin  helst  er,  at  tær  kvinnur,  ið  ikki  eiga  børn  undir  16  ár,</p>
-<p>møguliga eiga eldri børn og nokk ikki høvdu somu karrierumøguleikar, tá tær áttu børn undir 16 ár,</p>
-<p>ið tær kvinnur, sum í dag eiga børn undir 16 ár, hava.</p>
-<p>Áhugavert  hevði  verið  at  kanna  hetta  nærri  í  eini  kanning,  sum  umboðar  ein  breiðari  ella  meiri</p>
-<p>umfatandi part av almenna arbeiðsmarknaðinum ella føroysku arbeiðsmegini sum heild.</p>
-<p xml:lang="isl"><em type="bold">3.4. Svarta boksin </em></p>
-<p>Av teimum 16.3 %, sum er kynslønarmunurin  millum starvsfólk á útvaldum arbeiðsplássum  innan</p>
-<p>føroyska  almannageiran,  kundi  kanningin  við  hesum  omanfyri  nevndu  variablum  lýsa  13,4  %  av</p>
-<p>lønarmuninum. Framvegis vanta tó 2,9 % av lønarmuninum, sum ikki kunna lýsast. Í frágreiðingini</p>
-<p>verður nevnt, at 2,9 % kemst av kynsmuni/kynsmismuni, tó so er hetta neyvan einasta frágreiðing.</p>
-<p><em type="bold">Talva 7. Kvinnur, børn og starvsslag </em>    <em type="bold">Høgt starv Lágt starv Kvinnur uttan børn </em>39% 61% </p>
-<p><em type="bold">Kvinnur við børnum undir 16 ár </em>48% 52% <em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
-<p>Fyri  at  finna  svar  upp  á  lønarmunin  er  neyðugt  eisini  at  hyggja  at,  hvat  liggur  aftan  fyri  allar  tær</p>
-<p>statistisku  frágreiðingarnar.  Tað  eru  viðurskifti,  sum  ikki  kunna  mátast.  Tað  verður  ofta  víst  á,  at</p>
-<p>bleytir  faktorar  sum  fleksibilitetur,  samstarvsevni  v.m.  helst  eisini  eru  ein  frágreiðing  uppá,  hví</p>
-<p>kvinnur  fáa lægri  løn enn  menn. Her koma vit eisini  inná, hvat arbeiðsmarknaðurin  væntar av eini</p>
-<p>kvinnu.  Vit  kunna  spyrja,  um  arbeiðsmarknaðurin  tekur  fyri  givið,  at  kvinnur  eru  minni  fleksiblar</p>
-<p>og  hava  verri  samstarvsevni?  Hetta  er  nokk  tengt  at,  hvat  samfelagið  sum  heild  væntar  av  eini</p>
-<p>kvinnu,  t.d.  viðvíkjandi  uppgávum  í  heiminum.  Okkum  tørvar  meira  vitan  um  tað,  sum  er  í  hesi</p>
-<p>sokallaðu  svørtu  boksini.  Her  eru  tær  meira  kvalitativu  kanningarnar  av  arbeiðsmarknaðinum</p>
-<p>áhugaverdar.</p>
-<p>Í  eini  kvalitativari  kanning  um  kvinnur  og  vælferð  í  Føroyum  kom  fram,  at  føroyska</p>
-<p>vælferðarsamfelagið  ikki  bjóðaði  nóg  góðar  tænastur/møguleikar  til  kvinnur,  serstakliga  einligar</p>
-<p>kvinnur  og  einligar  kvinnur  við  børnum.  Kvinnurnar  í  hesi  kanning  vístu  á,  at  javnstøða  fyrst  og</p>
-<p>fremst snýr seg um  arbeiðsbýtið  í  heiminum og um  líkaløn  fyri kvinnur og menn. Tær eftirlýsa, at</p>
-<p>barsilsskipanin  í  størri  mun  fevnir  um  pápar.  Tær  ynskja  størri  lønargjøgnumskygni,  serliga  á</p>
-<p>privata arbeiðsmarknaðinum.  Kvinnurnar  løgdu sera stóran dent á, at líka løn  hevur stóran týdning</p>
-<p>fyri javnstøðuna (Knudsen et al., 2010). Her hevði verið áhugavert at hugt nærri at kynsleiklutunum</p>
-<p>í heiminum. Hvussu nógv tær beinleiðis og óbeinleiðis uppgávurnar í sambandi við umsorgan fylla í</p>
-<p>dagligdegnum  hjá  kvinnuni  og  hjá  manninum  í  einum  nýmótans  samfelagi,  har  bæði  foreldrini  í</p>
-<p>stóran mun arbeiða úti.</p>
-<p><em type="bold">4. Líka løn - somu inntøku </em></p>
+<p>Kanningar aðrastaðni vísa nevniliga, at børn hava negativa ávirkan á lønina hjá kvinnuni. Til dømis vísa kanningar hjá SFI og kanningar aðrastaðni í heiminum, at børn hava negativa ávirkan á lønina hjá kvinnuni, men positiva ávirkan á lønina hjá pápanum (Sjørup, 2009: 34-43). Hetta siga granskarar er enn eitt prógv um, at ein mamma verður av einum arbeiðsgevara sæð sum óstøðug arbeiðsmegi, meðan ein pápi verður sæddur sum ein forsyrgjari. Um veruliga tað øvuta er galdandi í</p>
+<p>Føroyum er ivasamt, hóast kanningin hjá Hagstovuni bendir á tað. Vit skulu tó hava í huga, at stórir partar av almenna geiranum eru ikki við í kanningini eins og lýst í parti 3.2.</p>
+<p>Hyggja vit hinvegin eitt sindur nærri eftir kanningini so sæst, at av teimum 2.307 kvinnunum, sum eru við í kanningin, hava einans umleið helmingurin (av teimum) børn undir 16 ár. Median aldurin hjá kvinnum við børnum undir 16 ár er 39 ár, meðan median aldurin hjá kvinnum uttan børn er 45 ár.7</p>
+<p>Við at taka kvinnurnar, sum eru yvir 50 ár burtur úr kanningini ber til at síggja, um aldur kann vera ein frágreiðing uppá, hví kvinnur við børnum vinna meira enn kvinnur uttan børn. Úrslitið vísir, at so er. Munurin á lønini millum kvinnum við og uttan børn undir 16 ár er minni, hóast tað enn er ein munur. Aldur tykist at vera ein týðandi partur av frágreiðingini uppá, hví úrslitið av kanningini er, sum tað er. 7 Hetta merkir at 50% av kvinnunum við børnum undir 16 ár, eru 39 ár og eldri, meðan 50% av kvinnunum uttan børn, eru 45 ár ella eldri.</p>
+<p><em type="bold">Talva 6. Kvinnur, børn og útbúgving </em></p>
+<p><em type="bold">Høg útbúgving Lág útbúgving </em></p>
+<p><em type="bold">Kvinnur uttan børn </em>42% 58% </p>
+<p><em type="bold">Kvinnur við børnum undir 16 ár </em>55% 45% </p>
+<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>15 </p>
+<p>Ein onnur orsøk til lønarmunin í hesi kanning millum kvinnur við og uttan børn undir 16 ár er útbúgving. 58 % av kvinnunum uttan børn høvdu lága útbúgving, meðan 55 % av kvinnum, sum áttu børn undir 16 ár, høvdu høga útbúgving.</p>
+<p>Kvinnur, ið eiga børn undir 16 ár og hava lága útbúgving, vinna væl meira enn kvinnur uttan børn, ið hava lága útbúgving. Hinvegin vísir kanningin, at kvinnur uttan børn við høgari útbúgving vinna meira enn kvinnur við høgari útbúgving, sum eiga børn undir 16 ár. Munurin á lønini millum kvinnur, sum høvdu lága útbúgving, varstórur, meðan lønarmunurin ikki var so stórur millum kvinnurnar við høgari útbúgving.</p>
+<p>Starvsslag er eisini ein partur av frágreiðingini. Vit síggja á talvuni, at 39 % av kvinnum uttan børn hava høgt starv, meðan 48 % av kvinnunum við børnum undir 16 ár hava høgt starv. Hóast eingin lønarmunur er millum kvinnur við og uttan børn, sum hava høgt starv, so er markantur lønarmunur millum kvinnur við og uttan børn, ið hava lágt starv.</p>
+<p>Kvinnur við børnum forvinna meira enn kvinnur uttan børn innan almanna- og heilsuverkið og undirvísingarverkið. Innan almenna fyrisiting forvinna kvinnur uttan børn eitt sindur meira enn kvinnur við børnum undir 16 ár. Lønarmunurin er størstur millum kvinnur við og kvinnur uttan børn í almanna- og heilsuverkinum.</p>
+<p>Hesar omanfyri nevndu frágreiðingar stuðla niðurstøðuni, sum kanningin kemur til í hesum sambandi. Her verður nevnt, at orsøkin helst er, at tær kvinnur, ið ikki eiga børn undir 16 ár, møguliga eiga eldri børn og nokk ikki høvdu somu karrierumøguleikar, tá tær áttu børn undir 16 ár, ið tær kvinnur, sum í dag eiga børn undir 16 ár, hava.</p>
+<p>Áhugavert hevði verið at kanna hetta nærri í eini kanning, sum umboðar ein breiðari ella meiri umfatandi part av almenna arbeiðsmarknaðinum ella føroysku arbeiðsmegini sum heild. <em type="bold">3.4. Svarta boksin </em></p>
+<p>Av teimum 16.3 %, sum er kynslønarmunurin millum starvsfólk á útvaldum arbeiðsplássum innan føroyska almannageiran, kundi kanningin við hesum omanfyri nevndu variablum lýsa 13,4 % av lønarmuninum. Framvegis vanta tó 2,9 % av lønarmuninum, sum ikki kunna lýsast. Í frágreiðingini verður nevnt, at 2,9 % kemst av kynsmuni/kynsmismuni, tó so er hetta neyvan einasta frágreiðing.</p>
+<p><em type="bold">Talva 7. Kvinnur, børn og starvsslag </em></p>
+<p><em type="bold">Høgt starv </em></p>
+<p><em type="bold">Lágt starv </em></p>
+<p><em type="bold">Kvinnur uttan børn </em>39% 61% </p>
+<p><em type="bold">Kvinnur við børnum undir 16 ár </em>48% 52% </p>
+<p><em type="italic">Kelda: Lønarkanning, Hagstova Føroya, 2009 </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>16 </p>
+<p>Fyri at finna svar upp á lønarmunin er neyðugt eisini at hyggja at, hvat liggur aftan fyri allar tær statistisku frágreiðingarnar. Tað eru viðurskifti, sum ikki kunna mátast. Tað verður ofta víst á, at bleytir faktorar sum fleksibilitetur, samstarvsevni v.m. helst eisini eru ein frágreiðing uppá, hví kvinnur fáa lægri løn enn menn. Her koma vit eisini inná, hvat arbeiðsmarknaðurin væntar av eini kvinnu. Vit kunna spyrja, um arbeiðsmarknaðurin tekur fyri givið, at kvinnur eru minni fleksiblar og hava verri samstarvsevni? Hetta er nokk tengt at, hvat samfelagið sum heild væntar av eini kvinnu, t.d. viðvíkjandi uppgávum í heiminum. Okkum tørvar meira vitan um tað, sum er í hesi sokallaðu svørtu boksini. Her eru tær meira kvalitativu kanningarnar av arbeiðsmarknaðinum áhugaverdar.</p>
+<p>Í eini kvalitativari kanning um kvinnur og vælferð í Føroyum kom fram, at føroyska vælferðarsamfelagið ikki bjóðaði nóg góðar tænastur/møguleikar til kvinnur, serstakliga einligar kvinnur og einligar kvinnur við børnum. Kvinnurnar í hesi kanning vístu á, at javnstøða fyrst og fremst snýr seg um arbeiðsbýtið í heiminum og um líkaløn fyri kvinnur og menn. Tær eftirlýsa, at barsilsskipanin í størri mun fevnir um pápar. Tær ynskja størri lønargjøgnumskygni, serliga á privata arbeiðsmarknaðinum. Kvinnurnar løgdu sera stóran dent á, at líka løn hevur stóran týdning fyri javnstøðuna (Knudsen et al., 2010). Her hevði verið áhugavert at hugt nærri at kynsleiklutunum í heiminum. Hvussu nógv tær beinleiðis og óbeinleiðis uppgávurnar í sambandi við umsorgan fylla í dagligdegnum hjá kvinnuni og hjá manninum í einum nýmótans samfelagi, har bæði foreldrini í stóran mun arbeiða úti.</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>17 <em type="bold">4. Líka løn - somu inntøku </em></p>
 <p>Gongdin í lønarútgjaldingum frá 1985 og til í dag vísir, at tað er stórur lønarmunur millum kynini.</p>
-<p>Vit  síggja  í  mynd  1,  at  í  1985  forvunnu  menn  72  %  av  samlaðu  lønarútgjaldingunum,  meðan</p>
-<p>kvinnur  forvunnu  28  %.  Í  2010  forvunnu  menn  61  %  av  lønarútgjaldingunum,  meðan  kvinnur</p>
-<p>forvunnu 39 %. Lønarmunurin er sostatt minkaður góð 20% yvir eitt langt tíðarskeið upp á 25 ár.</p>
-<p><em type="bold">Lønarútgjaldingar 1985-2010</em> </p>
-<p><em type="italic">Prosentbýtið millum kynini</em> </p>
-<p xml:lang="vep">80%</p>
-<p xml:lang="vep">70%</p>
-<p xml:lang="vep">60%</p>
-<p xml:lang="vep">50%</p>
-<p xml:lang="vep">40%</p>
-<p xml:lang="vep">30%</p>
-<p xml:lang="vep">20%</p>
-<p xml:lang="vep">10%</p>
-<p xml:lang="vep">0%</p>
+<p>Vit síggja í mynd 1, at í 1985 forvunnu menn 72 % av samlaðu lønarútgjaldingunum, meðan kvinnur forvunnu 28 %. Í 2010 forvunnu menn 61 % av lønarútgjaldingunum, meðan kvinnur forvunnu 39 %. Lønarmunurin er sostatt minkaður góð 20% yvir eitt langt tíðarskeið upp á 25 ár.</p>
 <p><em type="bold">Mynd 1. Lønarútgjaldingar 1985-2010, prosentbýtið millum kynini </em></p>
 <p><em type="italic">Kelda: Hagstova Føroya </em></p>
-<p>Myndin  sigur  okkum,  at  inntøkan  hjá  monnum  er  hægri  enn  hjá  kvinnum,  og  at  munurin  er</p>
-<p>minkaður  seinastu  árini.  Talvan  sigur  tó  onki  um,  at  tímalønin  er  hægri  hjá  monnum  enn  hjá</p>
-<p>kvinnum. Hon sigur heldur onki um, hvussu nógv kvinnur og menn arbeiða.</p>
-<p>Tað hevur verið nógv kjakast um, hvussu mann kann lýsa hugtakið løn. Løn verður vanliga lýst sum</p>
-<p>tímaløn.  Trupulleikin  er  tó,  í  hvønn  mun  mann  skal  rokna  ágóðar  í  sambandi  við  starvið,  eitt  nú</p>
-<p>frítíð,  løntar  fráveruskipanir  o.a.  við  í  lønina.  Í  Javnstøðulógini  stendur,  at <em type="italic">ein  arbeiðsgevari  skal </em></p>
-<p><em type="italic">veita kvinnum og monnum eins løn og ágóða annars fyri sama arbeiði</em>.  </p>
-<p>Tøl  úr  Føroyum  vísa,  at  eins  og  í  okkara  grannalondum,  hava  vit  týðuligt  kynsbýti  á</p>
-<p>arbeiðsmarknaðinum.  Lønarkanningin  vísir,  at  menn  tjena  16.3  %  meira  enn  kvinnur.  Her  er</p>
-<p>http://www.logir.fo/foldb/llofo/1994/0000052.htm spurningurin  so,  um  tað er  neyðugt  at  broyta kynsbýtið  á arbeiðsmarknaðinum  fyri  at  fáa  líka  løn</p>
-<p>fyri  sama  arbeiði?  Um  líka  løn  fyri  sama  arbeiði  fer  at  broyta  kynsbýtið  á  arbeiðsmarknaðinum?</p>
+<p>Myndin sigur okkum, at inntøkan hjá monnum er hægri enn hjá kvinnum, og at munurin er minkaður seinastu árini. Talvan sigur tó onki um, at tímalønin er hægri hjá monnum enn hjá kvinnum. Hon sigur heldur onki um, hvussu nógv kvinnur og menn arbeiða.</p>
+<p>Tað hevur verið nógv kjakast um, hvussu mann kann lýsa hugtakið løn. Løn verður vanliga lýst sum tímaløn. Trupulleikin er tó, í hvønn mun mann skal rokna ágóðar í sambandi við starvið, eitt nú frítíð, løntar fráveruskipanir o.a. við í lønina. Í Javnstøðulógini stendur, at <em type="italic">ein arbeiðsgevari skal </em><em type="italic">veita kvinnum og monnum eins løn og ágóða annars fyri sama arbeiði </em><em type="italic">8 </em>. </p>
+<p>Tøl úr Føroyum vísa, at eins og í okkara grannalondum, hava vit týðuligt kynsbýti á arbeiðsmarknaðinum. Lønarkanningin vísir, at menn tjena 16.3 % meira enn kvinnur. Her er 8 http://www.logir.fo/foldb/llofo/1994/0000052.htm 0%10%20%30%40%50%60%70%80%19851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010</p>
+<p><em type="bold">Lønarútgjaldingar 1985-2010 </em></p>
+<p><em type="italic">Prosentbýtið millum kynini </em></p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>18spurningurin so, um tað er neyðugt at broyta kynsbýtið á arbeiðsmarknaðinum fyri at fáa líka løn fyri sama arbeiði? Um líka løn fyri sama arbeiði fer at broyta kynsbýtið á arbeiðsmarknaðinum? </p>
 <p>Ella í hvønn mun lønarójavnin millum kyn á arbeiðsmarknaðinum er rættvísur?</p>
-<p>Tiltøk eru sett í verk, síðani javnstøðulógin kom í gildi, fyri at fremja størri javnstøðu millum kyn á</p>
-<p>politiska  pallinum,  í  almennum  ráðum  og  nevndum.  Barsilsskipanir  løgdu  í  fyrstu  syftu  dent  á  at</p>
-<p>tryggja  kvinnunum  longri  barsilsfarloyvi  og  hægri  lønargjald  í  barsilstíðini.  Seinnu  árini  eru</p>
-<p>barsilsskipanirnar í størri mun farnar at snúgva seg um rættindi fyri pápar. Lønarójavnin millum kyn</p>
-<p>hevur  í  dag ta ávirkan,  at tað rakar  familjuna  harðari  búskaparliga,  um  pápin  tekur  barsil,  enn  um</p>
-<p>mamman ger tað. Hetta ger, at kvinnan fær størri ábyrgd av børnunum enn maðurin. Nýggj kanning</p>
-<p>úr Bretlandi vísir eisini á, at tað, at kvinnur hava fingið betri sømdir í barsilsskipanini, ikki bara er</p>
-<p>heppið  fyri  javnstøðuna  á  arbeiðsmarknaðinum.  Kvinnur  í  Bretlandi,  Avstralia  og  USA  fáa  oftari</p>
-<p>leiðarastørv  enn  kvinnur  í  teimum  skandinavisku  londunum.  Kvinnur  í  teimum  skandinavisku</p>
-<p>londunum arbeiða oftari í láglønarstørvum og niðursetta tíð. Ein av orsøkunum er, at arbeiðsgevarar</p>
-<p>velja  frá  at  seta  kvinnur  í  burðardyggum  aldri  í  leiðandi  starv,    tí  at  barsilsskipanin  kostar  teirra</p>
-<p>virksemi  so  nógv.  Niðurstøðan  í  kanningini  er,  at  vælferðarskipanir  eisini  kunna  gerast  forðingar</p>
-<p>fyri,  at  kvinnur  fáa  leiðandi  størv.  Ein  vegur  at  skapa  størri  javnstøðu  er  at  gera  hesar</p>
-<p>vælferðarskipanir eins viðkomandi fyri pápar (Hakim, 2011).</p>
-<p>Hví  er  tað  so  torført  at  broyta  kynsójavnan  á  arbeiðsmarknaðinum?  Orsøkirnar  eru  nógvar.</p>
-<p>Kynsójavnin  á  arbeiðsmarknaðinum  hongur  lutvíst  saman  við  kynsbýtinum  í  heiminum,  hvørjar</p>
-<p>vónir samfelagið hevur til kyn, og hvat arbeiðsmarknaðurin sum heild væntar av ávikavist monnum</p>
-<p>og kvinnum.</p>
-<p>Hóast  kvinnur  í  dag  í  nógv  størri  mun  nema  sær  hægri  útbúgvingar,  so  henda  broytingar  innan</p>
-<p>vinnulívið  seint.  Hetta  kemst  partvíst  av,  at  tað  framvegis  eru  nógvar  kvinnur  úti  á</p>
-<p>arbeiðsmarknaðinum við lutfalsliga lágum útbúgvingum. Hvørja útbúgving kvinnur og menn velja,</p>
-<p>hevur  ávirkan  á  tað  horisontala  og  vertikala  arbeiðsbýtið.  Kanning  hjá  SFI  staðfestir,  at  týðuligt</p>
-<p>kynsbýti  er  eisini  innan  hvørjar  útbúgvingar  fólk  taka  (Christensen  et  al.,  2006).  Tí  kundi  verið</p>
-<p>áhugavert at hugt nærri at, í hvønn mun hetta eisini er galdandi í Føroyum.</p>
-<p>Kjakið  um  at  minka um  kynsbýtið  á arbeiðsmarknaðinum  hevur  í  fleiri  ár  eisini  snúð  seg um  tað,</p>
-<p>sum  á  enskum  verður  kallað  fyri  <span type="quote" xml:lang="deu">”undoing  gender”</span>,  ella  at  minka  um  tað,  arbeiðsmarknaðurin</p>
-<p>væntar  av  kyni.  Eitt  dømi  um  hetta  er,  at  mann  í  Føroyum  hevur  broytt  heitið  sjúkrasystir,</p>
-<p>heilsusystir, pedagogur til ávikavist sjúkrarøktarfrøðingur, heilsurøktarfrøðingur, námsfrøðingur.</p>
-<p>Bygnaðurin á arbeiðsmarknaðinum,  har  fakfeløg samráðast um  lønir, er  helst eisini  við til at halda</p>
-<p>hendan ójavnan við líka og møguliga styrkja ójavnan. Ein kanning úr Danmark vísir, at fakfeløg eru</p>
-<p>við  til  at  varðveita  kynsójavnarnar.  Niðurstøðan  var,  at  fakfeløg  eru  við  at  varðveita  munin  í</p>
-<p>lønarvøkstrinum. Lønarvøkstur snýr  seg ikki um,  hvussu  væl  fólk eru skikkaði,  hann  snýr  seg ikki</p>
-<p>um,  hvør  hevur  størri  ábyrgd  og  hvat  er  rættvíst.  Heldur  snýr  kappingin  um  lønarvøkstur  innan</p>
-<p>ymsu  fakini  seg  um  jantelóg,  øvund  og  at  varðveita  munin  (<span type="quote" xml:lang="fkv">“symmetriina”</span>)  í  lønarvøkstrinum</p>
-<p>(Jørgensen í Deding, 2010, s. 153-173). Her kundi verið áhugavert at hugt nærri at, hvat fakfeløgini</p>
-<p>í Føroyum gera fyri javnstøðu.</p>
-<p>Líkalønskanningin  er  bara  ein  byrjan.  Í  Føroyum  tørvar  okkum  vitan/tøl  um  nógv  av  hesum</p>
-<p>viðurskiftum.  Okkum  tørvar  tøl,  sum  betri  kunna  lýsa  ymisku  samanhangirnar  –  fyrst  og  fremst</p>
-<p>arbeiðsbýtið  í  heiminum.  Størri  opinleiki  og  gjøgnumskygni  í  lønarviðurskiftum  hevði  gjørt</p>
-<p>lønarmunin týðiligari millum kvinnur og menn.</p>
+<p>Tiltøk eru sett í verk, síðani javnstøðulógin kom í gildi, fyri at fremja størri javnstøðu millum kyn á politiska pallinum, í almennum ráðum og nevndum. Barsilsskipanir løgdu í fyrstu syftu dent á at tryggja kvinnunum longri barsilsfarloyvi og hægri lønargjald í barsilstíðini. Seinnu árini eru barsilsskipanirnar í størri mun farnar at snúgva seg um rættindi fyri pápar. Lønarójavnin millum kyn hevur í dag ta ávirkan, at tað rakar familjuna harðari búskaparliga, um pápin tekur barsil, enn um mamman ger tað. Hetta ger, at kvinnan fær størri ábyrgd av børnunum enn maðurin. Nýggj kanning úr Bretlandi vísir eisini á, at tað, at kvinnur hava fingið betri sømdir í barsilsskipanini, ikki bara er heppið fyri javnstøðuna á arbeiðsmarknaðinum. Kvinnur í Bretlandi, Avstralia og USA fáa oftari leiðarastørv enn kvinnur í teimum skandinavisku londunum. Kvinnur í teimum skandinavisku londunum arbeiða oftari í láglønarstørvum og niðursetta tíð. Ein av orsøkunum er, at arbeiðsgevarar velja frá at seta kvinnur í burðardyggum aldri í leiðandi starv, tí at barsilsskipanin kostar teirra virksemi so nógv. Niðurstøðan í kanningini er, at vælferðarskipanir eisini kunna gerast forðingar fyri, at kvinnur fáa leiðandi størv. Ein vegur at skapa størri javnstøðu er at gera hesar vælferðarskipanir eins viðkomandi fyri pápar (Hakim, 2011).</p>
+<p>Hví er tað so torført at broyta kynsójavnan á arbeiðsmarknaðinum? Orsøkirnar eru nógvar.</p>
+<p>Kynsójavnin á arbeiðsmarknaðinum hongur lutvíst saman við kynsbýtinum í heiminum, hvørjar vónir samfelagið hevur til kyn, og hvat arbeiðsmarknaðurin sum heild væntar av ávikavist monnum og kvinnum.</p>
+<p>Hóast kvinnur í dag í nógv størri mun nema sær hægri útbúgvingar, so henda broytingar innan vinnulívið seint. Hetta kemst partvíst av, at tað framvegis eru nógvar kvinnur úti á arbeiðsmarknaðinum við lutfalsliga lágum útbúgvingum. Hvørja útbúgving kvinnur og menn velja, hevur ávirkan á tað horisontala og vertikala arbeiðsbýtið. Kanning hjá SFI staðfestir, at týðuligt kynsbýti er eisini innan hvørjar útbúgvingar fólk taka (Christensen et al., 2006). Tí kundi verið áhugavert at hugt nærri at, í hvønn mun hetta eisini er galdandi í Føroyum.</p>
+<p>Kjakið um at minka um kynsbýtið á arbeiðsmarknaðinum hevur í fleiri ár eisini snúð seg um tað, sum á enskum verður kallað fyri <span type="quote" xml:lang="deu">”undoing gender”</span>, ella at minka um tað, arbeiðsmarknaðurin væntar av kyni. Eitt dømi um hetta er, at mann í Føroyum hevur broytt heitið sjúkrasystir, heilsusystir, pedagogur til ávikavist sjúkrarøktarfrøðingur, heilsurøktarfrøðingur, námsfrøðingur.</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>19 </p>
+<p>Bygnaðurin á arbeiðsmarknaðinum, har fakfeløg samráðast um lønir, er helst eisini við til at halda hendan ójavnan við líka og møguliga styrkja ójavnan. Ein kanning úr Danmark vísir, at fakfeløg eru við til at varðveita kynsójavnarnar. Niðurstøðan var, at fakfeløg eru við at varðveita munin í lønarvøkstrinum. Lønarvøkstur snýr seg ikki um, hvussu væl fólk eru skikkaði, hann snýr seg ikki um, hvør hevur størri ábyrgd og hvat er rættvíst. Heldur snýr kappingin um lønarvøkstur innan ymsu fakini seg um jantelóg, øvund og at varðveita munin (<span type="quote" xml:lang="fkv">“symmetriina”</span>) í lønarvøkstrinum (Jørgensen í Deding, 2010, s. 153-173). Her kundi verið áhugavert at hugt nærri at, hvat fakfeløgini í Føroyum gera fyri javnstøðu.</p>
+<p>Líkalønskanningin er bara ein byrjan. Í Føroyum tørvar okkum vitan/tøl um nógv av hesum viðurskiftum. Okkum tørvar tøl, sum betri kunna lýsa ymisku samanhangirnar – fyrst og fremst arbeiðsbýtið í heiminum. Størri opinleiki og gjøgnumskygni í lønarviðurskiftum hevði gjørt lønarmunin týðiligari millum kvinnur og menn.</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>20 </p>
 <p xml:lang="isl"><em type="bold">Samandráttur </em></p>
-<p>Hóast  Føroyar  hava  flest  kvinnur  á  arbeiðsmarknaðinum  í  Norðurlondum,  sigur  tað  onki  um</p>
-<p>javnstøðuna.  Lønarkanningin  frá  Hagstovuni  bendir  á,  at  kynsbýtið  á  føroyska  almenna</p>
-<p>arbeiðsmarknaðinum elvir til ójavnar í lønarveitingum.</p>
-<p>Tølini  fyri  føroyska  arbeiðsmarknaðin  sum  heild  vísa,  at  kvinnur  í  stóran  mun  arbeiða  innan</p>
-<p>almanna-  og  heilsuverki  meðan  menn  í  stóran  mun  arbeiða  innan  privata  geiran.  Sambært</p>
-<p>lønarkanningini hjá Hagstovu Føroya í 2009 er støðan á almenna arbeiðsmarknaðinum, at kvinnur í</p>
-<p>stóran  mun  arbeiða  innan  almenna-  og  heilsuverkið,  meðan  menn  í  stóran  mun  arbeiða  innan</p>
-<p>fyrisiting.</p>
-<p>Sambært  lønarkanningini  er  lønarmunurin  millum  kynini  á  almenna arbeiðsmarknaðinum  16,3  %.</p>
+<p>Hóast Føroyar hava flest kvinnur á arbeiðsmarknaðinum í Norðurlondum, sigur tað onki um javnstøðuna. Lønarkanningin frá Hagstovuni bendir á, at kynsbýtið á føroyska almenna arbeiðsmarknaðinum elvir til ójavnar í lønarveitingum.</p>
+<p>Tølini fyri føroyska arbeiðsmarknaðin sum heild vísa, at kvinnur í stóran mun arbeiða innan almanna- og heilsuverki meðan menn í stóran mun arbeiða innan privata geiran. Sambært lønarkanningini hjá Hagstovu Føroya í 2009 er støðan á almenna arbeiðsmarknaðinum, at kvinnur í stóran mun arbeiða innan almenna- og heilsuverkið, meðan menn í stóran mun arbeiða innan fyrisiting.</p>
+<p>Sambært lønarkanningini er lønarmunurin millum kynini á almenna arbeiðsmarknaðinum 16,3 %.</p>
 <p>Av hesum kunna 13,4 % lýsast við at hyggja at aldri, arbeiðstíð, útbúgving, starvsslag, vinnubólki.</p>
-<p>Úrslitið av  lønarkanningini  bendir á, at orsøkirnar til,  at menn  vinna meira enn kvinnur á almenna</p>
-<p>arbeiðsmarknaðinum eru:</p>
-<p>· at menn í kanningini í stóran mun vóru eldri enn kvinnur</p>
-<p>· at menn í størri mun arbeiða fulla tíð</p>
-<p>· at menn í størri mun hava hægri útbúgvingar enn kvinnur</p>
-<p>· at menn í størri mun hava hægri størv enn kvinnur</p>
-<p>· at menn í størri mun arbeiða innan almenna fyrisiting</p>
-<p>Vit síggja, at bæði tað horisontala og vertikala arbeiðsbýtið eru við til at økja um lønarmunir millum</p>
-<p>kynini  á  almenna  arbeiðsmarknaðinum.  Hinvegin  vóru  2,9  %  av  lønarmuninum,  sum  hendan</p>
-<p>kanning ikki megnaði at lýsa. Hetta kann tó lýsast við nágreiniligum kvantitativum og kvalitativum</p>
-<p>kanningum.  Til  dømis  við  at  hyggja  at  glíðandi  arbeiðsbýtinum  innan  tey  ymsu  fakini.  Við  at</p>
-<p>hyggja nærri at arbeiðsbýtinum í heiminum. Við at hyggja at, hvønn hugburð leiðsla hevur til at seta</p>
-<p>kvinnur  í  starv.  Hvat  fakfeløg  gera  við  kynsspurningin?  Og  um  vælferðarskipanir  í  Føroyum  í</p>
-<p>ávísan mun eru við til at varðveita kynsbygnaðin og kynsmunirnar á føroyska arbeiðsmarknaðinum.</p>
+<p>Úrslitið av lønarkanningini bendir á, at orsøkirnar til, at menn vinna meira enn kvinnur á almenna arbeiðsmarknaðinum eru: · at menn í kanningini í stóran mun vóru eldri enn kvinnur · at menn í størri mun arbeiða fulla tíð · at menn í størri mun hava hægri útbúgvingar enn kvinnur · at menn í størri mun hava hægri størv enn kvinnur · at menn í størri mun arbeiða innan almenna fyrisiting</p>
+<p>Vit síggja, at bæði tað horisontala og vertikala arbeiðsbýtið eru við til at økja um lønarmunir millum kynini á almenna arbeiðsmarknaðinum. Hinvegin vóru 2,9 % av lønarmuninum, sum hendan kanning ikki megnaði at lýsa. Hetta kann tó lýsast við nágreiniligum kvantitativum og kvalitativum kanningum. Til dømis við at hyggja at glíðandi arbeiðsbýtinum innan tey ymsu fakini. Við at hyggja nærri at arbeiðsbýtinum í heiminum. Við at hyggja at, hvønn hugburð leiðsla hevur til at seta kvinnur í starv. Hvat fakfeløg gera við kynsspurningin? Og um vælferðarskipanir í Føroyum í ávísan mun eru við til at varðveita kynsbygnaðin og kynsmunirnar á føroyska arbeiðsmarknaðinum.</p>
 <p>Sambært lønarkanningini frá Hagstovuni í 2009 eru børn ein fyrimunur fyri lønarlagið hjá kvinnum.</p>
-<p>Úrslitið  bendi  á,  at  kvinnur,  ið  eiga  børn  undir  16  ár,  vinna  meira  enn  kvinnur,  ið  ikki  hava  børn</p>
-<p>undir 16 ár. Úrslitini  í kanningini  benda eisini á,  at orsøkin til  hetta kann  vera, at kvinnurnar, sum</p>
-<p>ikki áttu børn undir 16 ár, vóru eldri kvinnur, sum ikki høvdu havt somu møguleikar til eitt nú hægri</p>
-<p>útbúgvingar,  sum  yngru  kvinnurnar,  ið  áttu  børn  undir  16  ár,  høvdu.  Úrslitið,  at  børn  eru  ein fyrimunur fyri lønarlagið hjá kvinnum, stríðir ímóti úrslitum frá kanningum aðrastaðni, og tí kundi</p>
-<p>verið  áhugavert  at  kanna,  um  hetta  veruliga  er  so,  í  eini  meira  umfatandi  kanning  av  føroyska</p>
-<p>arbeiðsmarknaðinum.</p>
+<p>Úrslitið bendi á, at kvinnur, ið eiga børn undir 16 ár, vinna meira enn kvinnur, ið ikki hava børn undir 16 ár. Úrslitini í kanningini benda eisini á, at orsøkin til hetta kann vera, at kvinnurnar, sum ikki áttu børn undir 16 ár, vóru eldri kvinnur, sum ikki høvdu havt somu møguleikar til eitt nú hægri útbúgvingar, sum yngru kvinnurnar, ið áttu børn undir 16 ár, høvdu. Úrslitið, at børn eru ein</p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>21fyrimunur fyri lønarlagið hjá kvinnum, stríðir ímóti úrslitum frá kanningum aðrastaðni, og tí kundi verið áhugavert at kanna, um hetta veruliga er so, í eini meira umfatandi kanning av føroyska arbeiðsmarknaðinum. </p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>22 </p>
 <p xml:lang="est"><em type="bold">Keldulisti </em></p>
-<p xml:lang="nob">Agerskov, Ulla (ed.) (2008). <em type="italic">Nordic Statistical Yearbook 2008. Nordisk statistisk </em></p>
-<p xml:lang="nno"><em type="italic">årsbok 2008.</em> Volume 45, Nord 2008:001 </p>
-<p xml:lang="nno">Christensen,  Gunvor,  Caroline  Klitgaard,  Helle  Holt,  Lars  Pico  Geerdsen,  Marie  Louise  Lind</p>
-<p xml:lang="dan">(2006): <em type="italic">Det kønsopdelte arbejdsmarked. En kvantitativ og kvalitativ belysning</em>. </p>
+<p xml:lang="nob">Agerskov, Ulla (ed.) (2008). <em type="italic">Nordic Statistical Yearbook 2008. Nordisk statistisk </em><em type="italic">årsbok 2008. </em>Volume 45, Nord 2008:001 </p>
+<p xml:lang="nno">Christensen, Gunvor, Caroline Klitgaard, Helle Holt, Lars Pico Geerdsen, Marie Louise Lind (2006):</p>
+<p xml:lang="dan"><em type="italic">Det </em><em type="italic">kønsopdelte </em><em type="italic">arbejdsmarked. </em></p>
+<p xml:lang="dan"><em type="italic">En </em><em type="italic">kvantitativ </em><em type="italic">og </em><em type="italic">kvalitativ </em><em type="italic">belysning </em>. </p>
 <p xml:lang="nob">Socialforskningsinstituttet,København.</p>
-<p xml:lang="dan">Deding,  Mette  og  Holt,  Helle  (2010): <em type="italic">Hvorfor  har  vi  lønforskelle  mellem  kvinder  og  mænd?</em>  En </p>
-<p xml:lang="dan">antologi om ligeløn i Danmark. SFI- Det Nationale Forskningscenter for Velfærd, København</p>
-<p xml:lang="dan"><em type="italic">Faos  information</em>  (Forskningscenter  for  Arbejdsmarkeds-  og  organisationsstudier)  (2004): </p>
-<p xml:lang="nob"><span type="quote" xml:lang="dan">“Nyhedsbrev-fagbevægelsen struktur”</span>. Sociologisk Institut, Københavns Universitet.</p>
-<p xml:lang="eng">Hakim, Catherine (2011): <em type="italic">Feminist Myths and Magic Medicins – The flawed thinking behind calls </em></p>
-<p xml:lang="eng"><em type="italic">for further equality legilsation</em>. Centre for Policy Studies (CPS), London </p>
-<p xml:lang="dan">Hardoy,  Ines  og  Schøne,  Pål  (2004): <em type="italic">I  klemme  mellem  barneomsorg  og  karriere.  En  analyse  af </em></p>
-<p xml:lang="nob"><em type="italic">karriereutvikling for småbarnsmødre.</em> Raport 2004: 17. Oslo : Institutt for SamFunnsforskning.  </p>
-<p xml:lang="nob">Haahr,  Ulla  og  Karlsson,  Ove: <em type="italic">Danmarksbileder  –  SFI’s  forskning  gennem  50  år.</em>  SFI  –Det </p>
+<p xml:lang="dan">Deding, Mette og Holt, Helle (2010): <em type="italic">Hvorfor har vi lønforskelle mellem kvinder og mænd? </em>En antologi om ligeløn i Danmark. SFI- Det Nationale Forskningscenter for Velfærd, København </p>
+<p xml:lang="nob"><em type="italic">Faos information </em>(Forskningscenter for Arbejdsmarkeds- og organisationsstudier) (2004): <span type="quote" xml:lang="dan">“Nyhedsbrev-fagbevægelsen struktur”</span>. Sociologisk Institut, Københavns Universitet. </p>
+<p xml:lang="eng">Hakim, Catherine (2011): <em type="italic">Feminist Myths and Magic Medicins – The flawed thinking behind calls </em><em type="italic">for further equality legilsation </em>. Centre for Policy Studies (CPS), London </p>
+<p xml:lang="nob">Hardoy, Ines og Schøne, Pål (2004): <em type="italic">I klemme mellem barneomsorg og karriere. En analyse af </em><em type="italic">karriereutvikling for småbarnsmødre. </em>Raport 2004: 17. Oslo : Institutt for SamFunnsforskning. </p>
+<p xml:lang="nob">Haahr, Ulla og Karlsson, Ove: <em type="italic">Danmarksbileder – SFI’s forskning gennem 50 år. </em>SFI –Det </p>
 <p xml:lang="dan">Nationale Forskningscenter for Velfærd, København</p>
-<p>Joensen, Jón (2009): <em type="italic">Fáa kvinnur og menn somu løn frá tí almenna ?og hava børn nakra ávirkan á </em></p>
-<p><em type="italic">lønina hjá kvinnum á almenna arbeiðsmarknaðinum?</em> Hagstova Føroya<em type="italic"> </em></p>
-<p>Knudsen,  Poppel,  Rafnsdóttir  og  Ómarsdótti  (2010): <em type="italic">Kvinnur  og  vælferð  í  Útnorðri</em>.  Nordisk </p>
+<p>Joensen, Jón (2009): <em type="italic">Fáa kvinnur og menn somu løn frá tí almenna ?og hava børn nakra ávirkan á </em><em type="italic">lønina hjá kvinnum á almenna arbeiðsmarknaðinum? </em>Hagstova Føroya <em type="italic"></em></p>
+<p>Knudsen, Poppel, Rafnsdóttir og Ómarsdótti (2010): <em type="italic">Kvinnur og vælferð í Útnorðri </em>. Nordisk </p>
 <p xml:lang="dan">Ministerråd, København</p>
-<p>Spf. Damci(2009<em type="italic">): Starsvfólkatørvur til og við 2015</em>. Nærverkið. </p>
-<p xml:lang="nob">Sjørup,  Karen  (2009): <em type="italic">Løn,  kønsarbejdsdeling,  forældreskab  og  ligestillingspolitik</em>  .  Rapport  til </p>
+<p>Spf. Damci(2009 <em type="italic">): Starsvfólkatørvur til og við 2015 </em>. Nærverkið. </p>
+<p xml:lang="nob">Sjørup, Karen (2009): <em type="italic">Løn, kønsarbejdsdeling, forældreskab og ligestillingspolitik </em>. Rapport til </p>
 <p xml:lang="dan">Lønkommissionen. RUC, Institut for Samfund og Globalisering</p>
-<p xml:lang="isl"><em type="bold">Heimasíður: </em></p>
-<p><em type="italic">www.logir.fo </em></p>
-<p xml:lang="nno"><em type="italic">www.sfi.dk </em></p>
-<p xml:lang="nno"><em type="italic">www.socdev.fo </em></p>
-<p xml:lang="nno"><em type="italic">www.demokratia.fo </em></p>
+<p xml:lang="fin"><em type="bold">Heimasíður: </em>www.logir.fo www.sfi.dk www.socdev.fo www.demokratia.fo </p>
+<p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>23 </p>
 </body></document>

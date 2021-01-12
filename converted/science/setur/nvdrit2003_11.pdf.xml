@@ -1,217 +1,121 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2174</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2003_11.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
-<p>Úrslit frá yvirlitstrolingini á Føroyabanka</p>
-<p xml:lang="dan">11.– 16. september 2003</p>
-<p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank </em></p>
-<p xml:lang="eng"><em type="italic">11-16 September 2003 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2314</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2003_11.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
+<p>Úrslit frá yvirlitstrolingini á Føroyabanka 11.– 16. september 2003</p>
+<p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank </em><em type="italic">11-16 September 2003 </em></p>
 <p>Eyðfinn Magnussen</p>
-<p xml:lang="eng">NVD<em type="italic">Rit</em>  2003:11 </p>
-<p>Heiti / Title<em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka  </em></p>
-<p xml:lang="dan"><em type="bold">11.- 16. september 2003</em><em type="italic"> </em></p>
-<p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank  11-16th September 2003 </em></p>
-<p>Høvundur  / Author<em type="bold">Eyðfinn Magnussen </em></p>
-<p xml:lang="eng">Ritslag / Report Type<em type="italic">Tøknifrágreiðing/Technical Report </em></p>
-<p>NVD<em type="italic">Rit</em>2003:11 ©Náttúruvísindadeildin og høvundurin  </p>
-<p>Útgevari / PublisherNáttúruvísindadeildin, Fróðskaparsetur Føroya Bústaður / AddressNóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands) Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands)</p>
-<p>y    y  @+298 352550  y  +298 352551  y  nvd@setur.fo Nú sær eisini út til, at minkandi føði er farin at gera vart við seg á Føroyabanka. Toskur, hýsa og upsi eru 8-10 % meira rak nú, enn fyri einum ári síðani. Hetta vísa nýggjastu kanningarnar, sum fólk frá Fróðskaparsetrinum og Fiskirannsóknarstovuni gjørdu við Magnusi Heinasyni á Føroyabanka dagarnar 11. til 16. september 2003. Kanningarnar vísa eisini, at miðalveiðan av toski og hýsu er farin niður í helvt, menn at væl meira av upsa var at fáa. Upsin var smáfallandi. Helvtina av upsanum var minni enn 50 cm til longdar. Miðallongdin fyri allan upsan var einans 53 cm. Eisini er meira til av tí smærra toskinum á bankanum nú enn undanfarin ár. Hendan túrin var miðallongdin á toskinum 72 cm. Hetta er væl minni enn tað hevur verið tey seinru árini. Í seinru helvt at 90-unum var miðallongdin á toskinum á bankanum út við 90 cm. Mest var til av 2 og 3 ára gomlum toski; hetta er fiskur, sum er umleið 50 og 65 cm til longdar. Miðallongdin á hýsuni var 43 cm. Mest var av støddunum 25 cm, 40 og 50 cm. Hetta er hýsa, sum er avíkavist 1, 2 og 3 ár gomul.</p>
-<p>Mátingar av hitanum vísta, at sjógvurin við botnin er heitari nú enn seinastu undanfarnu árini. Miðalhitin hendan túrin var 11,24 °C. Hetta er 0,32 °C heitari enn somu tíð í fjør, tá hitin var 10,92 °C. Enn er ov tíðliga at siga, um hendan gongdin fer at halda fram, men hesin hitavøkstur var eisini staðfestur á váryvirlitistrolingini í ár. Tá var miðalhitin 0,40 °C heitari enn á vártúrinum í 2002 (8,60 °C móti var 8,20 °C í 2001).</p>
-<p><em type="bold">Fólk við frá FRS:</em> Arnold Henriksen, Dagun Olsen og Marit Pedersen. <em type="bold">Fólk við frá Fróðskaparsetrinum:</em> Petra Elisabeth Hansen og Eyðfinn Magnussen. </p>
-<p><em type="bold">Ábyrgd:</em> Eyðfinn Magnussen, Fróðskaparsetur Føroya. </p>
-<p><em type="bold">Endamál:</em> Hetta var triði og seinasti túrurin av heyst-yvirlitstrolingunum. Høvuðsendamálið við túrinum </p>
-<p>var at fáa til vega tilfar, ið skal nýtast í stovnsmetingunum av toski, hýsu og upsa, t.e. veiða í vekt og í tali, longdarbýti, vektbýti, aldursbýti, kynsbýti og kynsbúning av nevndu sløgum. Umframt skuldi vekt, tal og longdarbýti skrásetast fyri øll fiskasløg, ið vórð</p>
-<p><em type="bold">Reiðskapur:</em> 116 fóts kassatrol við 40 mm meskum í posanum og við vanligum grunni. Breidlarnir vóru </p>
-<p>60 m og 120 m, Steinhamns lemmar, Minilog hita- og dýpdarmátari.</p>
-<p><em type="bold">Um túrin:</em> Farið varð av Havnini 10. september kl. 21.00. Kastað varð fyrstu ferð 11. september kl. </p>
-<p>06.43. Seinasta støðin varð liðug 16. september kl. 16.15. Hóast fleiri royndir, vóru 2 støðir (1740 og 1839) ikki tikin, av tí at tíðin gekk undan. Í sýnishondbókini verður miðað eftir at taka 400 nytrur av toski, hýsu og upsa. Hetta var ikki møguligt fyri upsan, av tí at ov lítið var at fáa. Av tí CTD-in ikki riggaði, vórðu ongar hydrografistøðir tiknar.</p>
-<p><em type="bold">Nær eru prøvarnir upparbeiddir:</em> Magarnir vórðu sorteraðir umborð. Mátingarnar frá hitamátaranum </p>
-<p>á trolinum eru upparbeiddar. Úrslitini eru klár og verða víst í hesi frágreiðingini. Úrslitini frá Imponatorskipanini eru rættlisin og nytrurnar verða nú lisnar.</p>
-<p>Hesin hitamunur kemst av, at tann grunni sjógvurin inni á Bankanum um summarið verður hitaður frá í erva av sólini og av tí, at luftin um summarið er heitari enn sjógvurin. Um veturin og tíðliga um várið er tað øvugt; tá er tann grunni sjógvurin kaldastur. Á <em type="italic">mynd 2</em> er vístur miðalhitin niðri við botnin um heystið árini 1997 til 2003. Árið í ár er tað heitasta í hesum tíðarskeiðinum. Miðalhitin hendan túrin var 11,24 °C. Hetta er 0,32 °C heitari enn somu tíð í fjør, tá hitin var 10,92 °C. Enn er ov tíðliga at siga um hendan gongdin fer at halda fram, men hesin hitavøkstur var eisini staðfestur á váryvirlitistrolingini í ár. Tá var miðalhitin 0,40 °C heitari enn á vártúrinum í 2002 (8,20 °C móti var 8.60 °C í 2003). Kaldasta árið í tíðarskeiðinum var í 1999, tá miðalhitin var 10,44 °C. </p>
-<p>Á <em type="italic">mynd 2</em> er eisini víst standardfrávikið í mátingunum. Av tí at y-aksin á myndini er stuttur, sær tað út sum um frávikini eru stór. Hetta er tó ikki so. Variatiónskoefficienturin hevur í áðurnevnda tíðarskeiði bert verið millum 3 og 5%. </p>
-<p>30'30'</p>
-<p>20'20'</p>
-<p>9.379.88</p>
-<p>10'10.2610.5410'</p>
-<p>8.5311.52 11.469.78</p>
-<p>61°9.0411.4011.88 11.80 11.569.5661°</p>
-<p>10.7311.349.81</p>
-<p>50'10.7311.6110.488.8950'</p>
-<p>8.6210.78</p>
-<p>40'10.707.7040'</p>
-<p>8.68</p>
-<p>30'9.2730'</p>
-<p>8.908.75</p>
-<p>20'20'</p>
-<p>10'10'</p>
-<p>40'20'9°40'20'8°40' <em type="italic">Mynd 1: Miðalhitin við botnin á Føroyabanka 11.-16. september 2003. Hitin er </em></p>
-<p><em type="italic">miðalvirðið fyri hvørt tov. </em></p>
-<p>11.8</p>
-<p>11.4</p>
-<p>11.0</p>
-<p>10.6</p>
-<p>10.2</p>
-<p>9.8</p>
-<p><em type="bold">Ár</em> </p>
-<p><em type="italic"> Mynd 2: Miðalhitin ± standardfrávik (S) við botnin á Føroyabanka um heystið árini 1997-2003. Bert mátingar </em></p>
-<p><em type="italic">grynri enn 150 m eru tiknar við. </em></p>
-<p><em type="bold">Fiskaslag 2003 Longdar mátað </em></p>
-<p><em type="bold">Stak vektir Nytrur Magar </em></p>
-<p>Hýsa 33.87813.9674.4491.624  Upsi 2.7398.860  Toskur 6.9813.313  Mathøgguslokkur 1.2291.232    Gulllaksur 2.1301.055    Havmús 651    Svartkjaftur 424    Kjaftsv kongafisk.     Longa 154    Agnhøgguslokkur 11    Rossamakrelur * 0    Glýsufiskur 65  Lítli kongafiskur     Havtaska 52    Knurrhani 81    Stóri kongafiskur     Silvur murtur     Kalvi 56    Tunga 51    Hvítingsbróðir 0.6    Lálla 18    Hvítingur 6    Trant kongafiskur     Bláriddari 0.9    Lítla brosma     Rísna langasporl * 0    Búksvarti hávur * 0    Blálonga 23      Svartfiskur 23      Sandsprøka 19      Brosma 13      Kikarafiskur 12      Hemari 139      Hvasshvoysa 8      Glashvoysa 4      Hummari 0.4      Nebbasild 0.1</p>
-<p><em type="bold">Tilsamans 49.53930.3317.3263.2881.159  </em></p>
-<p><em type="italic">Talva 1: Samlaða veiðan og tal av mátingum/prøvum frá Føroyabankatúrinum 11-16. september 20</em></p>
-<p><em type="italic">samlaðu veiðuna heysttúrin 2002. Stjørnan (*) vísir til fiskasløg sum vóru fingin hendan túrin, men ikki árið fyri. </em></p>
-<p><em type="bold">Veiðan:</em> Fingin vórðu íalt 27 ymisk fiskasløg á túrinum (<em type="italic">Talva 1</em>). Hetta er færri fiskasløg enn vit </p>
-<p>vanliga fáa á bankanum. Talið av fiskasløgum, sum verða fingin á yvirlitstrolingunum á bankanum er vanliga rættuliga støðugt. 33 til 34 ymisk sløg. Í 2003 fingu vit 34 fiskasløg. Í ár fingu vit sostatt 7 fiskasløg færri enn á heysti 2002. Trý fiskasløg vóru fingin hendan túrin, sum ikki vórðu fingin árið fyri (rossamakrelur, rísna langasporl og búksvarti hávur). Harafturímóti vóru heili 10 fiskasløg, sum vórðu fingin í fjør, men ikki hendan túrin. Samlaða veiðan hendan túrin var 30.331 kg. Hetta er 39% minni enn fyri einum ári síðani, tá samlaða veiðan var 49.569 kg (<em type="italic">Talva 1</em>). Á <em type="italic">myndunum 3 –15</em> verður greitt frá veiðuni av teimum ymisku fiskasløgunum. Á myndunum sæst hvussu nógv varð fingið í hvørjum tovi av hvørjum einstøkum fiskaslagi. Mest verður gjørt burtur úr toski, hýsu og upsa (<em type="italic">Myndirnar 3-14</em>). Samlaða støddarbýtið av fiskinum fingin á túrinum er víst umframt konditiónsfaktorurin og miðalveiðan árini 1991 og frameftir. <em type="italic">Mynd 15</em> vísir veiðuna av teimum fiskasløgum, sum hava minni fíggjarligan týdning fyri føroyska fiskiskapin. </p>
-<p>samlaða longdarbýtið av toskinum. Mest var til av toski, sum var umleið 50 cm og 65 cm til longdar. Hetta er 2 og 3 ára gamal toskur. Toskurin á bankanum er minni nú, enn hann hevur verið. Miðallongdin hendan túrin var 72 cm. Í fjør var miðallongdin 79 cm. Hetta er nakað minni enn undanfarin ár, tá miðallongdin á toski hevur verið millum 85 til 90 cm. Hetta kemst av, at nú er væl meira til av smærri toski (&lt; 65 cm) enn undanfarnu árini, tá so at siga bert stórur toskur (størri enn 80 cm) hevur verið at fingið á Bankanum.</p>
-<p><em type="italic">Mynd 5</em> vísir miðal konditiónsfaktorin á toskinum. Konditiónsfaktorurin sigur okkum hvussu feitur </p>
-<p>fiskurin er. Miðal konditiónsfaktorurin hendan túrin var 1,00. Hetta er 10 % minni enn í fjør. Tað tykist sostatt, sum at fiskurin á Føroyabanka nú eisini hevur minni at eta. Skiparar sum royna á bankanum hava sagt, at tað serliga er tann stóru toskurin sum er rak, meðan tann minni fiskurin er toluliga væl fyri. Einki er tó, sum bendur á at hetta er rætt. Okkara kanningar vísa, at eingin munur er á konditiónsfaktorinum hjá stórum og smáum toski.</p>
-<p>Á <em type="italic">mynd 6</em> er víst miðalveiðan av toski í heyst-yvirlitstrolingunum á Føroyabanka árini 1991 og frameftir. Hendan túrin var miðalveiðan 123 kg pr. fiskitíma. Hetta eru 51 % minni enn árið fyri, tá miðal veiðan var 249 kg pr. fiskitíma. </p>
-<p><em type="bold">Hýsa:</em> Í alt vórðu fingin 13.967 kg av hýsu (<em type="italic">Talva 1</em>). Hettar er ein minking uppá 59 % samanborið við </p>
-<p>árið fyri. Hýsan var at fáa yvir tað mesta av bankanum, undantikið teimum djúpu støðunum vestanfyri (<em type="italic">Mynd 7</em>). Størsta tovið var fingið í punti 1753 (1.572 kg). Á <em type="italic">mynd 8</em> er víst longdarbýtið av hýsuni. Miðallongdin av hýsuni var 43 cm, sum er eitt sindur størri enn í fjør, tá hon var 38 cm. Á myndini síggjast 3 toppar: ein við 15 cm, ein við 27 cm og ein við 50 cm. Hetta er ávikavist 1, 2 og 3 ára gomul hýsa.  </p>
-<p>Miðal konditiónsfaktorurin fyri samlaðu hýsuna var 0,97. Hetta er 7 % lægri enn árið fyri (<em type="italic">Mynd 9</em>). Tann minna hýsan var feitari. Fyri hýsu minni enn 4 0 cm var konditiónsfaktorurin 1.07, meðan hann var 0.96 fyri hýsu størri enn 40 cm Á <em type="italic">mynd 10</em> er víst miðal veiðan av hýsu, fingin á heyst-yvirlitstrolingini síðani 1991. Her sæst, at veiðan </p>
-<p><em type="bold">Upsi:</em> Samlaða veiðan av upsa var 8.860 kg (<em type="italic">Mynd 11</em>). Hetta er ein øking uppá 225 % samanborið við </p>
-<p>árið fyri. Størst tovið var fingið í á norðara kanti á bankanum (puntur 1813, 2.104 kg). Tað, ið sermerkti upsan var, at hann var smáfallandi. 50 % av upsanum var minni enn 50 cm. Miðallongdin fyri allan upsan var einans 53 cm (<em type="italic">Mynd 12</em>). Í 2002 var miðallongdin 60 cm. Miðal konditiónsfaktorurin á upsanum var 0,93. Hetta er ein minking uppá 8 % samanborið við árið fyri Á <em type="italic">mynd 14</em> er víst miðalveiðan av upsa á heyst-yvirlitstrolingunum á Føroyabanka frá árunum 1991 og frameftir. Miðalveiðan av upsa er vaksin við 235 % . Hendan túrin var miðalveiðan 328 kg pr. tov.  </p>
-<p><em type="bold">Onnur fiskasløg:</em> Á <em type="italic">mynd 15</em> er víst veiðan av øðrum fiskasløgum enn toski, hýsu og upsa. Vert er at </p>
-<p>geva gætur, at als eingin brosma og blálonga var fingin. Hesi seinastu árini hevur brosman verið í støðugari minking. Í fjør vórðu bert fingin 13 kg á 4 støðum, meðan 23 kg vórðu fingin av blálongu. Seinastu árini hevur kalvin verið í minking, men hann er nú aftur í menning og nakað var til av smákalva. Tilsamans vórðu fingin 26 kg av klava á 6 støðum. Heldur eingin sandsprøka var fingin. Í fjør fingu vit tilsamans 19 kg av sandsprøku á 4 støðum.</p>
-<p>133 113</p>
-<p>266 292 215</p>
-<p>33</p>
-<p> <em type="italic">Mynd 3: Veiða av toski (kg pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. </em></p>
-<p>(Miðallongd 72 cm)</p>
-<p xml:lang="eng"><em type="bold">Longd (cm)</em> </p>
-<p> <em type="italic">Mynd 4: Samlað longdarbýti av toski, fiskaður á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11-16. september 2003. </em></p>
-<p>1.30</p>
-<p>1.15</p>
-<p>1.00</p>
-<p>0.85</p>
-<p><em type="italic"> Mynd 5: Miðal konditiónsfaktor (vekt/longd) hjá toski á heyst-yvirlitstrolingini á Føroyabanka árini 1992-2003. </em></p>
-<p><em type="italic"> Mynd 6: Miðalveiðan av toski (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991-2003. </em></p>
-<p>511 631</p>
-<p>9181,252931</p>
-<p>979</p>
-<p>1,572</p>
-<p><em type="italic"> Mynd 7: Veiða av hýsu (kg pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003.</em> </p>
-<p>(Miðallongd 43 cm)</p>
-<p xml:lang="eng"><em type="bold">Longd (cm)</em> </p>
-<p> <em type="italic">Mynd 8: Samlað longdarbýti av hýsu, fiskað á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11. – 16. september 2003. </em></p>
-<p>1.20</p>
-<p>1.10</p>
-<p>1.00</p>
-<p>0.90</p>
-<p><em type="italic"> Mynd 9: Miðal konditiónsfaktor (vekt/longd) hjá hýsu  á heyst-yvirlitstrolingini á Føroyabanka árini 1996-2003. </em></p>
-<p> <em type="italic">Mynd 10: Miðalveiðan av hýsu (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991–2003. </em></p>
-<p>2,104</p>
-<p>3,610</p>
-<p>1,636</p>
-<p><em type="italic"> : Veiða av upsa (kg pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. </em></p>
-<p>(Miðallongd 53 cm)</p>
-<p xml:lang="eng"><em type="bold">Longd (cm)</em> </p>
-<p> <em type="italic">Mynd 12: Samlað longdarbýti av upsa, fiskaður á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. </em></p>
-<p>1.15</p>
-<p>1.05</p>
-<p>0.95</p>
-<p>0.85</p>
-<p><em type="italic"> Mynd 13: Miðal konditiónsfaktor (vekt/longd) hjá upsa á heyst-yvirlitstrolingini á Føroyabanka árini 1996 til 2003. </em></p>
-<p><em type="italic">  Mynd : Miðalveiðan av upsa (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991-2003.</em>  </p>
-<p><em type="bold">Longa</em> </p>
-<p><em type="bold">Glýsufiskur</em> </p>
-<p><em type="bold">Hvítingsbróður</em> </p>
-<p>2.7</p>
-<p>4.27.4</p>
-<p>2.8</p>
-<p>0.9 0</p>
-<p>2.20 8.6 4.76.2</p>
-<p>1 1 2.8</p>
-<p>10.8</p>
-<p>12.51 2.92.5</p>
-<p>18.6</p>
-<p>1 4.6</p>
-<p>0.2</p>
-<p>7.2</p>
-<p>3.6</p>
-<p>7.2</p>
-<p>0. 86. 4</p>
-<p><em type="bold">Hvítingur</em> </p>
-<p><em type="bold">Svartkjaftur</em> </p>
-<p><em type="bold">Silvurmurtur</em> </p>
-<p>34.888.6</p>
-<p>0. 1</p>
-<p>29.9</p>
-<p>2. 3</p>
-<p>53.6</p>
-<p>15.7</p>
-<p>5. 5</p>
-<p>2. 2</p>
-<p>89.3</p>
-<p>7. 6</p>
-<p>117. 8</p>
-<p>5. 724.9</p>
-<p>7. 8</p>
-<p><em type="bold">Knurrhani</em> </p>
-<p><em type="bold">Gulllaksur</em> </p>
-<p><em type="bold">Havmús</em> </p>
-<p>22.8168. 1</p>
-<p>1. 2</p>
-<p>19.22.2</p>
-<p>58.9</p>
-<p>96.3</p>
-<p>1. 6</p>
-<p>278. 8</p>
-<p>101. 2</p>
-<p>35.3</p>
-<p>12.2</p>
-<p>27.6</p>
-<p>29.7</p>
-<p>70.1</p>
-<p>21.4134. 8</p>
-<p>32.6299.3</p>
-<p xml:lang="dan"><em type="bold">Kalvi</em> </p>
-<p><em type="bold">TungaLálla</em> </p>
-<p>3.6</p>
-<p>12.51.1</p>
-<p>0. 8</p>
-<p>4. 2</p>
-<p>3. 5</p>
-<p>2.1</p>
-<p>1.2</p>
-<p>0 0.3</p>
-<p>7.72.5</p>
-<p>9.5</p>
-<p>1.51.4</p>
-<p>00.9</p>
-<p>6.6</p>
-<p>3.8</p>
-<p>1.3</p>
-<p>2.7</p>
-<p>14.7</p>
-<p xml:lang="dan"><em type="bold">Kjafts v.kongafisk ur</em> </p>
-<p><em type="bold">Agnhøgguslokkur</em> </p>
-<p><em type="bold">Mathøgguslokkur</em> </p>
-<p>4.4</p>
-<p>53.812.7</p>
-<p>2.7</p>
-<p>0.651.8277.314.1</p>
-<p>3.1</p>
-<p>0.6220.5196.360.512.3</p>
-<p>81.8</p>
-<p>93.17.324.7</p>
-<p>1.8</p>
-<p>73.9</p>
-<p>40.5</p>
-<p>15.8</p>
-<p>137.359.9</p>
-<p><em type="bold">Bláriddari</em> </p>
-<p><em type="bold">Lítlabrosma</em> </p>
-<p><em type="bold">Rísna langas porl</em> </p>
-<p>3.2</p>
-<p>2.1</p>
-<p><em type="bold">Búksvarti hávur</em> </p>
-<p><em type="bold">Havtaska</em> </p>
-<p><em type="bold">Rossamak relur</em> </p>
-<p>17.7</p>
-<p>2.34.6</p>
-<p>0 22.53.4</p>
-<p>2.6</p>
-<p>49.1</p>
-<p>4.2</p>
-<p>5.8</p>
-<p>Tórshavn 11. november 2003, Eyðfinn Magnussen_____________________</p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2003:11 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p xml:lang="eng"><em type="bold">Úrslit frá yvirlitstrolingini á Føroyabanka </em><em type="bold">11.- 16. september 2003 </em><em type="italic">Results from the groundfish trawl survey on Faroe Bank 11-16th September 2003 </em></p>
+<p>Høvundur / Author</p>
+<p><em type="bold">Eyðfinn Magnussen </em></p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng"><em type="italic">Tøknifrágreiðing/Technical Report </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2003:11 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 1</p>
+<p><em type="bold">Samandráttur av úrslitunum </em></p>
+<p>Nú sær eisini út til, at minkandi føði er farin at gera vart við seg á Føroyabanka. Toskur, hýsa og upsi eru 8-10 % meira rak nú, enn fyri einum ári síðani. Hetta vísa nýggjastu kanningarnar, sum fólk frá Fróðskaparsetrinum og Fiskirannsóknarstovuni gjørdu við Magnusi Heinasyni á Føroyabanka dagarnar 11. til 16. september 2003. Kanningarnar vísa eisini, at miðalveiðan av toski og hýsu er farin niður í helvt, menn at væl meira av upsa var at fáa. Upsin var smáfallandi. Helvtina av upsanum var minni enn 50 cm til longdar. Miðallongdin fyri allan upsan var einans 53 cm. Eisini er meira til av tí smærra toskinum á bankanum nú enn undanfarin ár. Hendan túrin var miðallongdin á toskinum 72 cm. Hetta er væl minni enn tað hevur verið tey seinru árini. Í seinru helvt at 90-unum var miðallongdin á toskinum á bankanum út við 90 cm. Mest var til av 2 og 3 ára gomlum toski; hetta er fiskur, sum er umleið 50 og 65 cm til longdar. Miðallongdin á hýsuni var 43 cm. Mest var av støddunum 25 cm, 40 og 50 cm. Hetta er hýsa, sum er avíkavist 1, 2 og 3 ár gomul. Mátingar av hitanum vísta, at sjógvurin við botnin er heitari nú enn seinastu undanfarnu árini. Miðalhitin hendan túrin var 11,24 °C. Hetta er 0,32 °C heitari enn somu tíð í fjør, tá hitin var 10,92 °C. Enn er ov tíðliga at siga, um hendan gongdin fer at halda fram, men hesin hitavøkstur var eisini staðfestur á váryvirlitistrolingini í ár. Tá var miðalhitin 0,40 °C heitari enn á vártúrinum í 2002 (8,60 °C móti var 8,20 °C í 2001). <em type="bold">Fólk við frá FRS: </em>Arnold Henriksen, Dagun Olsen og Marit Pedersen. <em type="bold">Fólk við frá Fróðskaparsetrinum: </em>Petra Elisabeth Hansen og Eyðfinn Magnussen. <em type="bold">Ábyrgd: </em>Eyðfinn Magnussen, Fróðskaparsetur Føroya. <em type="bold">Endamál: </em>Hetta var triði og seinasti túrurin av heyst-yvirlitstrolingunum. Høvuðsendamálið við túrinum var at fáa til vega tilfar, ið skal nýtast í stovnsmetingunum av toski, hýsu og upsa, t.e. veiða í vekt og í tali, longdarbýti, vektbýti, aldursbýti, kynsbýti og kynsbúning av nevndu sløgum. Umframt skuldi vekt, tal og longdarbýti skrásetast fyri øll fiskasløg, ið vórðu veidd. Eisini vóru magakanningar gjørdar av toski, hýsu, upsa. <em type="bold">Reiðskapur: </em>116 fóts kassatrol við 40 mm meskum í posanum og við vanligum grunni. Breidlarnir vóru 60 m og 120 m, Steinhamns lemmar, Minilog hita- og dýpdarmátari. <em type="bold">Um túrin: </em>Farið varð av Havnini 10. september kl. 21.00. Kastað varð fyrstu ferð 11. september kl. 06.43. Seinasta støðin varð liðug 16. september kl. 16.15. Hóast fleiri royndir, vóru 2 støðir (1740 og 1839) ikki tikin, av tí at tíðin gekk undan. Í sýnishondbókini verður miðað eftir at taka 400 nytrur av toski, hýsu og upsa. Hetta var ikki møguligt fyri upsan, av tí at ov lítið var at fáa. Av tí CTD-in ikki riggaði, vórðu ongar hydrografistøðir tiknar. <em type="bold">Nær eru prøvarnir upparbeiddir: </em>Magarnir vórðu sorteraðir umborð. Mátingarnar frá hitamátaranum á trolinum eru upparbeiddar. Úrslitini eru klár og verða víst í hesi frágreiðingini. Úrslitini frá Imponatorskipanini eru rættlisin og nytrurnar verða nú lisnar. </p>
+<p><em type="bold">Úrslit frá túrinum: </em>Hiti: Á <em type="italic">mynd 1 </em>er miðalhitin við botnin vístur fyri hvørt tov. Hitin hendan túrin var millum 7,70 og 11,88 °C. Á myndini sæst, at sjógvurin var heitastur inni á Bankanum og kólnaði so út móti kantinum. Hesin hitamunur kemst av, at tann grunni sjógvurin inni á Bankanum um summarið verður hitaður frá í erva av sólini og av tí, at luftin um summarið er heitari enn sjógvurin. Um veturin og tíðliga um várið er tað øvugt; tá er tann grunni sjógvurin kaldastur. Á <em type="italic">mynd 2 </em>er vístur miðalhitin niðri við botnin um heystið árini 1997 til 2003. Árið í ár er tað heitasta í hesum tíðarskeiðinum. Miðalhitin hendan túrin var 11,24 °C. Hetta er 0,32 °C heitari enn somu tíð í fjør, tá hitin var 10,92 °C. Enn er ov tíðliga at siga um hendan gongdin fer at halda fram, men hesin hitavøkstur var eisini staðfestur á váryvirlitistrolingini í ár. Tá var miðalhitin 0,40 °C heitari enn á vártúrinum í 2002 (8,20 °C móti var 8.60 °C í 2003). Kaldasta árið í tíðarskeiðinum var í 1999, tá miðalhitin var 10,44 °C. Á <em type="italic">mynd 2 </em>er eisini víst standardfrávikið í mátingunum. Av tí at y-aksin á myndini er stuttur, sær tað út sum um frávikini eru stór. Hetta er tó ikki so. Variatiónskoefficienturin hevur í áðurnevnda tíðarskeiði bert verið millum 3 og 5%. 30'30'20'20'9.379.8810'10.2610.5410'8.5311.52 11.469.7861°9.0411.4011.88 11.80 11.569.5661°10.7311.349.8150'10.7311.6110.488.8950'8.6210.7840'10.707.7040'8.6830'9.2730'8.908.7520'20'10'10'40'20'9°40'20'8°40' </p>
+<p>Mynd 1 : Miðalhitin við botnin á Føroyabanka 11.-16. september 2003. Hitin er miðalvirðið fyri hvørt tov. 9.810.210.611.011.411.81997199819992000200120022003</p>
+<p><em type="bold">Ár </em></p>
+<p><em type="bold">Hiti </em></p>
+<p>Mynd 2 : Miðalhitin ± standardfrávik (S) við botnin á Føroyabanka um heystið árini 1997-2003. Bert mátingar grynri enn 150 m eru tiknar við. 23</p>
+<p><em type="bold">Samlað veiða (kg) </em></p>
+<p><em type="bold">Tal av prøvum </em></p>
+<p><em type="bold">Fiskaslag </em><em type="bold">2002 </em><em type="bold">2003 Longdar </em><em type="bold">mátað </em></p>
+<p><em type="bold">Stak </em><em type="bold">vektir </em></p>
+<p><em type="bold">Nytrur Magar </em></p>
+<p>Hýsa 33.87813.9674.4491.624400 74</p>
+<p>Upsi 2.7398.860593403259 50</p>
+<p>Toskur 6.9813.313757588400 64</p>
+<p>Mathøgguslokkur 1.2291.232533186</p>
+<p>Gulllaksur 2.1301.05519280</p>
+<p>Havmús 6516213722</p>
+<p>Svartkjaftur 42445522265</p>
+<p>Kjaftsv kongafisk. 25524211133</p>
+<p>Longa 1541183838</p>
+<p>Agnhøgguslokkur 118444</p>
+<p>Rossamakrelur * 07988</p>
+<p>Glýsufiskur 6549160106100 100</p>
+<p>Lítli kongafiskur 432411919</p>
+<p>Havtaska 523355</p>
+<p>Knurrhani 812922</p>
+<p>Stóri kongafiskur 52291818</p>
+<p>Silvur murtur 17267219</p>
+<p xml:lang="dan">Kalvi 56261111</p>
+<p>Tunga 51222323</p>
+<p>Hvítingsbróðir 0.6182212</p>
+<p>Lálla 1814208</p>
+<p>Hvítingur 6511</p>
+<p>Trant kongafiskur 10553</p>
+<p>Bláriddari 0.93217</p>
+<p>Lítla brosma 4211</p>
+<p>Rísna langasporl * 0111</p>
+<p>Búksvarti hávur * 0011</p>
+<p>Blálonga 230</p>
+<p>Svartfiskur 230</p>
+<p>Sandsprøka 190</p>
+<p xml:lang="eng">Brosma 130</p>
+<p>Kikarafiskur 120</p>
+<p>Hemari 1390</p>
+<p>Hvasshvoysa 80</p>
+<p>Glashvoysa 40</p>
+<p>Hummari 0.40</p>
+<p xml:lang="eng">Nebbasild 0.10</p>
+<p><em type="bold">Tilsamans 49.539 </em><em type="bold">30.331 </em><em type="bold">7.326 </em><em type="bold">3.288 </em><em type="bold">1.159 </em><em type="bold">288 </em></p>
+<p>Talva 1: Samlaða veiðan og tal av mátingum/prøvum frá Føroyabankatúrinum 11-16. september 2003, samanborið við samlaðu veiðuna heysttúrin 2002. Stjørnan (*) vísir til fiskasløg sum vóru fingin hendan túrin, men ikki árið fyri. <em type="bold">Veiðan: </em>Fingin vórðu íalt 27 ymisk fiskasløg á túrinum ( <em type="italic">Talva 1 </em>). Hetta er færri fiskasløg enn vit vanliga fáa á bankanum. Talið av fiskasløgum, sum verða fingin á yvirlitstrolingunum á bankanum er vanliga rættuliga støðugt. 33 til 34 ymisk sløg. Í 2003 fingu vit 34 fiskasløg. Í ár fingu vit sostatt 7 fiskasløg færri enn á heysti 2002. Trý fiskasløg vóru fingin hendan túrin, sum ikki vórðu fingin árið fyri (rossamakrelur, rísna langasporl og búksvarti hávur). Harafturímóti vóru heili 10 fiskasløg, sum vórðu fingin í fjør, men ikki hendan túrin. Samlaða veiðan hendan túrin var 30.331 kg. Hetta er 39% minni enn fyri einum ári síðani, tá samlaða veiðan var 49.569 kg ( <em type="italic">Talva 1 </em>). Á <em type="italic">myndunum 3 –15 </em>verður greitt frá veiðuni av teimum ymisku fiskasløgunum. Á myndunum sæst hvussu nógv varð fingið í hvørjum tovi av hvørjum einstøkum fiskaslagi. Mest verður gjørt burtur úr toski, hýsu og upsa ( <em type="italic">Myndirnar 3-14 </em>). Samlaða støddarbýtið av fiskinum fingin á túrinum er víst umframt konditiónsfaktorurin og miðalveiðan árini 1991 og frameftir. <em type="italic">Mynd 15 </em>vísir veiðuna av teimum fiskasløgum, sum hava minni fíggjarligan týdning fyri føroyska fiskiskapin. 4 </p>
+<p><em type="bold">Toskur: </em>Tilsamans vóru fingin 3.313 kg av toski á Føroyabanka hendan túrin. Hetta er bert helvtin av tí, sum varð fingin í fjør ( <em type="italic">Talva 1 </em>). Toskur var at fáa yvir tað mesta av Bankanum, undantikið á teimum 6 djúpu støðunum ( <em type="italic">Mynd 3 </em>). Mest var fingið í punti 1724, har veiðan var 645 kg. Á <em type="italic">mynd 4 </em>er víst samlaða longdarbýtið av toskinum. Mest var til av toski, sum var umleið 50 cm og 65 cm til longdar. Hetta er 2 og 3 ára gamal toskur. Toskurin á bankanum er minni nú, enn hann hevur verið. Miðallongdin hendan túrin var 72 cm. Í fjør var miðallongdin 79 cm. Hetta er nakað minni enn undanfarin ár, tá miðallongdin á toski hevur verið millum 85 til 90 cm. Hetta kemst av, at nú er væl meira til av smærri toski (&lt; 65 cm) enn undanfarnu árini, tá so at siga bert stórur toskur (størri enn 80 cm) hevur verið at fingið á Bankanum. <em type="italic">Mynd 5 </em>vísir miðal konditiónsfaktorin á toskinum. Konditiónsfaktorurin sigur okkum hvussu feitur fiskurin er. Miðal konditiónsfaktorurin hendan túrin var 1,00. Hetta er 10 % minni enn í fjør. Tað tykist sostatt, sum at fiskurin á Føroyabanka nú eisini hevur minni at eta. Skiparar sum royna á bankanum hava sagt, at tað serliga er tann stóru toskurin sum er rak, meðan tann minni fiskurin er toluliga væl fyri. Einki er tó, sum bendur á at hetta er rætt. Okkara kanningar vísa, at eingin munur er á konditiónsfaktorinum hjá stórum og smáum toski. Á <em type="italic">mynd 6 </em>er víst miðalveiðan av toski í heyst-yvirlitstrolingunum á Føroyabanka árini 1991 og frameftir. Hendan túrin var miðalveiðan 123 kg pr. fiskitíma. Hetta eru 51 % minni enn árið fyri, tá miðal veiðan var 249 kg pr. fiskitíma. <em type="bold">Hýsa: </em>Í alt vórðu fingin 13.967 kg av hýsu ( <em type="italic">Talva 1 </em>). Hettar er ein minking uppá 59 % samanborið við árið fyri. Hýsan var at fáa yvir tað mesta av bankanum, undantikið teimum djúpu støðunum vestanfyri ( <em type="italic">Mynd 7 </em>). Størsta tovið var fingið í punti 1753 (1.572 kg). Á <em type="italic">mynd 8 </em>er víst longdarbýtið av hýsuni. Miðallongdin av hýsuni var 43 cm, sum er eitt sindur størri enn í fjør, tá hon var 38 cm. Á myndini síggjast 3 toppar: ein við 15 cm, ein við 27 cm og ein við 50 cm. Hetta er ávikavist 1, 2 og 3 ára gomul hýsa. Miðal konditiónsfaktorurin fyri samlaðu hýsuna var 0,97. Hetta er 7 % lægri enn árið fyri ( <em type="italic">Mynd 9 </em>). Tann minna hýsan var feitari. Fyri hýsu minni enn 4 0 cm var konditiónsfaktorurin 1.07, meðan hann var 0.96 fyri hýsu størri enn 40 cm Á <em type="italic">mynd 10 </em>er víst miðal veiðan av hýsu, fingin á heyst-yvirlitstrolingini síðani 1991. Her sæst, at veiðan øll árini hevur verið í støðugum vøkstri, men í ár var munandi minni fingið. Miðalveiðan av hýsu hendan túrin var 517 kg pr. fiskitíma, móti 1.210 kg í 2002 og 693 kg í 2001. <em type="bold">Upsi: </em>Samlaða veiðan av upsa var 8.860 kg ( <em type="italic">Mynd 11 </em>). Hetta er ein øking uppá 225 % samanborið við árið fyri. Størst tovið var fingið í á norðara kanti á bankanum (puntur 1813, 2.104 kg). Tað, ið sermerkti upsan var, at hann var smáfallandi. 50 % av upsanum var minni enn 50 cm. Miðallongdin fyri allan upsan var einans 53 cm ( <em type="italic">Mynd 12 </em>). Í 2002 var miðallongdin 60 cm. Miðal konditiónsfaktorurin á upsanum var 0,93. Hetta er ein minking uppá 8 % samanborið við árið fyri Á <em type="italic">mynd 14 </em>er víst miðalveiðan av upsa á heyst-yvirlitstrolingunum á Føroyabanka frá árunum 1991 og frameftir. Miðalveiðan av upsa er vaksin við 235 % . Hendan túrin var miðalveiðan 328 kg pr. tov. <em type="bold">Onnur fiskasløg: </em>Á <em type="italic">mynd 15 </em>er víst veiðan av øðrum fiskasløgum enn toski, hýsu og upsa. Vert er at geva gætur, at als eingin brosma og blálonga var fingin. Hesi seinastu árini hevur brosman verið í støðugari minking. Í fjør vórðu bert fingin 13 kg á 4 støðum, meðan 23 kg vórðu fingin av blálongu. Seinastu árini hevur kalvin verið í minking, men hann er nú aftur í menning og nakað var til av smákalva. Tilsamans vórðu fingin 26 kg av klava á 6 støðum. Heldur eingin sandsprøka var fingin. Í fjør fingu vit tilsamans 19 kg av sandsprøku á 4 støðum. </p>
+<p><em type="bold">Toskur </em>331453719014902400816454847222266 292 215530133 113689247071 </p>
+<p>Mynd 3 : Veiða av toski (kg pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. (Miðallongd 72 cm)01020304030405060708090100110</p>
+<p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
+<p xml:lang="eng"><em type="bold">Tal </em></p>
+<p>Mynd 4 : Samlað longdarbýti av toski, fiskaður á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11-16. september 2003. 0.851.001.151.301991199219931994199519961997199819992000200120022003</p>
+<p xml:lang="eng"><em type="bold">K </em><em type="bold">-fak </em><em type="bold">tor </em></p>
+<p>Mynd 5 : Miðal konditiónsfaktor (vekt/longd3) hjá toski á heyst-yvirlitstrolingini á Føroyabanka árini 1992-2003. 01002003004001991199219931994199519961997199819992000200120022003 <em type="bold">(kg/tov) </em></p>
+<p>Mynd 6 : Miðalveiðan av toski (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991-2003. 5</p>
+<p><em type="bold">Hýsa </em>979843730154057801,572088631709746238269181,2529311730511 6317957955283380 </p>
+<p>Mynd 7 : Veiða av hýsu (kg pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. (Miðallongd 43 cm)02004006008001525354555657585</p>
+<p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
+<p><em type="bold">Ta </em><em type="bold">l </em></p>
+<p>Mynd 8 : Samlað longdarbýti av hýsu, fiskað á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11. – 16. september 2003. 0.901.001.101.201991199219931994199519961997199819992000200120022003</p>
+<p xml:lang="dan"><em type="bold">K-faktor </em></p>
+<p>Mynd 9 : Miðal konditiónsfaktor (vekt/longd3) hjá hýsu á heyst-yvirlitstrolingini á Føroyabanka árini 1996-2003. 040080012001991199219931994199519961997199819992000200120022003 <em type="bold">(kg/tov) </em></p>
+<p>Mynd 10 : Miðalveiðan av hýsu (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991–2003. 6</p>
+<p><em type="bold">Upsi </em>1,636111268101232437300052470003590133336903,6101252,104 </p>
+<p>Mynd 11 : Veiða av upsa (kg pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. (Miðallongd 53 cm)0300600900120045505560657075808590</p>
+<p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
+<p><em type="bold">Ta </em><em type="bold">l </em></p>
+<p>Mynd 12 : Samlað longdarbýti av upsa, fiskaður á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003. 0.850.951.051.151991199219931994199519961997199819992000200120022003</p>
+<p xml:lang="dan"><em type="bold">K </em><em type="bold">-f </em><em type="bold">akt </em><em type="bold">or </em></p>
+<p>Mynd 13 : Miðal konditiónsfaktor (vekt/longd3) hjá upsa á heyst-yvirlitstrolingini á Føroyabanka árini 1996 til 2003. 01002003001991199219931994199519961997199819992000200120022003 <em type="bold">(k </em><em type="bold">g/ </em><em type="bold">tov </em><em type="bold">) </em></p>
+<p>Mynd 14 : Miðalveiðan av upsa (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991-2003. 7</p>
+<p>Mynd 15 : Veiða (kg pr. tov) av øðrum fiskasløgunum enn toski, hýsu og upsa, fiskaði á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 11.-16. september 2003.</p>
+<p><em type="bold">Longa </em>11001 4.60003.607.212.51 2.92.52.2110 8.6 4.76.22.80004.27.42.74 </p>
+<p><em type="bold">Glýsufiskur </em>000.2007.20000118.600701 1 2.8000.9 000000 </p>
+<p><em type="bold">Hvítingsbróður </em>000000000. 86. 400010.80000000000000 </p>
+<p><em type="bold">Hvítingur </em>05. 50000000000000000000000000 </p>
+<p><em type="bold">Svartkjaftur </em>000089.307. 6117. 85. 724.900053.6000002. 300129.9034.888.6 </p>
+<p><em type="bold">Silvurmurtur </em>2. 2000000007. 800015.7000000000000. 10 </p>
+<p><em type="bold">Knurrhani </em>000000027.6001. 60000000000000000 </p>
+<p><em type="bold">Gulllaksur </em>000278. 8101. 2012.229.721.4134. 800058.90000019.2002.21. 220522.8168. 1 </p>
+<p><em type="bold">Havmús </em>000035.308770.132.6299.300096.30000000000000 </p>
+<p xml:lang="dan"><em type="bold">Kalvi </em>00. 8004. 2003. 50012.501.1000003.600000000 </p>
+<p><em type="bold">Tunga </em></p>
+<p><em type="bold">Lálla </em>00000000000000000001500000008 </p>
+<p><em type="bold">Stóri kongafiskur </em>0000.90001.302.70007.700002.5000000140 </p>
+<p><em type="bold">Trant k onga fiskur </em>00003.8000000000000001.20000000 </p>
+<p xml:lang="dan"><em type="bold">Lítli kongafis kur </em>006.60000014.701.51.40100009.500 0.302.1004.3 </p>
+<p xml:lang="dan"><em type="bold">Kjafts v.kongafisk ur </em>00001.8040.50137.359.90003.10000000000000 </p>
+<p><em type="bold">Agnhøgguslokkur </em>00000015.865000000000002.70000000 </p>
+<p><em type="bold">Mathøgguslokkur </em>093.17.324.7073.90000581.84100.6220.5196.360.512.30.651.8277.314.153.812.74.40 </p>
+<p><em type="bold">Bláriddari </em>00000000000000000003.20000000 </p>
+<p><em type="bold">Lítlabrosma </em>00002.10000000000000000000000 </p>
+<p><em type="bold">Rísna langas porl </em>000000001000000000000000000 </p>
+<p><em type="bold">Búksvarti hávur </em>000000000000000000000000000 </p>
+<p><em type="bold">Havtaska </em>2.6000005.80000002.34.600000000017.700 </p>
+<p><em type="bold">Rossamak relur </em>49.10004.2000000000000 22.53.400000000 </p>
+<p>Tórshavn 11. november 2003, Eyðfinn Magnussen_____________________ <em type="bold"></em>9 </p>
 </body></document>

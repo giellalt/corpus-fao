@@ -1,759 +1,398 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>9951</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5031/arbeidsrit_11_2006.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-60-05-3 </em></p>
-<p><em type="bold">Arbeiðsmegin á føroysku flaka- og fiskavirkjunum í framtíðini </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>10008</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5031/arbeidsrit_11_2006.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-60-05-3 </em></p>
+<p><em type="bold">Arbeiðsmegin á føroysku flaka- og </em><em type="bold">fiskavirkjunum í framtíðini </em></p>
 <p xml:lang="nob">Dennis Holm og Bogi Mortensen</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
-<p xml:lang="vep"><em type="bold">AARRBBEEIIÐÐSSRRIITT  NNRR..  //  </em></p>
-<p xml:lang="vep">!" # ! " $%$ %!$ &amp;!'</p>
+<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 11/2006 </em>!"#! " $%$%!$&amp;!' </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>2 </p>
 <p xml:lang="isl"><em type="bold">Innihaldsyvirlit </em></p>
-<p>Inngangur ..................................................................................................................... 3 Datagrundarlag og háttur............................................................................................... 5 Kanningin millum arbeiðsfólk á flaka- og fiskavirkjum............................................. 5 Kanning millum ung í 2003....................................................................................... 6</p>
-<p>Broytingar í vinnumynstrinum seinastu ártíggjuni......................................................... 7 Fleiri fólk arbeiða innan Almennar tænastur o.a. ....................................................... 8 Stór minking í talinum av arbeiðsfólki innan Framleiðsluvinnurnar........................... 9 Arbeiðsfólki á føroysku flaka- og fiskavirkjunum í 2006............................................. 11 Aldurs- og kynsbýtið............................................................................................... 11</p>
-<p>Arbeiði og útbúgving .............................................................................................. 13 Arbeiðsstyrkin hevur drúgvar royndir...................................................................... 14 Trivnaðurin er góður ............................................................................................... 15 Nógv ynskja annað arbeiði ...................................................................................... 16 Nógv vænta tey eru í aðrari vinnu um 5 ár............................................................... 18 Tey royndu vilja halda áfram í vinnuni.................................................................... 19</p>
-<p>Seinasta ættarliðið av føroyingum á flaka- og fiskavirkjunum?................................ 20 Hvat halda tey ungu?........................................................................................... 21 Tey ungu frávelja flaka- og fiskivinnuna ..................................................................... 22 Ung vilja hava útbúgving og spennandi arbeiði ....................................................... 25 Ein trupulleiki í eygsjón.............................................................................................. 28 Hví ynskja nógv at frávelja fiskivinnuna á landi? .................................................... 29</p>
-<p>Moderniseringin av samfelagnum ein trupulleiki fyri fiskivinnuna á landi............... 29 Hvat er í væntu?...................................................................................................... 30 Royndir úr grannalondum okkara ........................................................................ 31 Mugu arbeiða við loysnum.......................................................................................... 37 Bókmentir og keldur ................................................................................................... 38</p>
-<p xml:lang="fin">Ískoyti 1...................................................................................................................</p>
-<p xml:lang="isl"><em type="bold">Inngangur </em></p>
-<p>Seinastu ártíggjuni eru stórar broytingar farnar fram í føroyska samfelagnum sum heild, eisini á vinnuliga økinum. Hesar broytingar hava eisini merkt fiskivinnuna á landi, sum hevur  mist  leiklutin  sum  tann  týdningarmesta  vinnan  á  landi.  Moderniseringin  og</p>
-<p>menningin av samfelagnum sum heild hevur ført við sær, at vinnumynstrið í landinum er broytt. Meðan tað fyrr vóru framleiðsluvinnurnar – serliga fiskivinnan á landi – sum vóru  tær  berandi,  eru  tað  í  dag  almennar-  (og  privatar)  tænastur  og almenn umsiting, sum hava størstu framgongd og tær vinnur, sum krevja flest fólk.</p>
-<p>Hetta – og (ikki minst) tøknilig menning – hevur eisini ført við sær, at talið av fólki, sum  arbeiða  innan  fiska-  og  flakavinnuna  á  landi  hevur  verið  fyri  munandi  minking. Bara  seinastu  15  árini  er  talið  av  arbeiðsfólki  innan  vinnubólkin  fiskavøruídnaður minkað við fleiri enn 25% (Hagstova Føroya).</p>
-<p>Minkandi tal av arbeiðsfólki innan framleiðsluvinnurnar er eisini ein gongd, sum hevur</p>
-<p>merkt Vesturheimin sum heild tey seinastu ártíggjuni. Gongdin hevur rættiliga tikið dik á seg seinastu árini, nú tað er vorðið alsamt meiri vanligt at flyta framleiðslur til lond, har kostnaðarstøðið er væl lægri enn í Vesturheiminum.</p>
-<p>Avbjóðingin  fyri  <span type="quote">“tær  gomlu”</span>  framleiðsluvinnurnar  og  fyri  (lokal)samfelagið,  sum hevur  havt hesar vinnur sum kjarnuvinnur, er at tillaga seg til broyttu støðuna, til tær</p>
-<p>nýggju avbjóðingarnar, sum broytingarnar hava ført við sær.</p>
-<p>Í grannalondum okkara – Noregi og Íslandi – hava vit seinastu 10-15 árini sæð, at tað í vaksandi  mun  eru  útlendingar,  sum  arbeiða  á  flaka-  og  fiskavirkjunum.  Millum høvuðsorsøkirnar til  hetta er, at norðmenn og íslendingar frávelja arbeiðið innan hesa</p>
-<p>vinnu – ella rættari sagt, velja aðrar vinnur framum, og tí hevur verið neyðugt at flyta inn arbeiðsmegi fyri at nøkta tørvin á arbeiðsmegi á flaka- og fiskivirkjunum.</p>
-<p>Ein kanning, sum Granskingardepilin fyri Økismenning í 2003 gjørdi millum ung – øll sum  gingu  í  9.  flokki  og  í  3.  flokki  á  miðnámsskúlunum  í  2003  –  vísir,  at  ungir føroyingar ikki ynskja at arbeiða á flaka- og fiskavirkjum. Hetta í sær sjálvum ber boð um broytingar fyri framman og tørv á tillagingum. Eisini setir hetta spurnartekin við, í hvønn mun man í Føroyum kemur at kunna nøkta tørvin á arbeiðsmegi innan hesa vinnu</p>
-<p type="listitem">– og ikki minst, um man ynskir at føroysk arbeiðsmegi skal loysa hesar uppgávur?</p>
-<p>Hendan verkætlanin setur fokus á evnið “arbeiðsfólk í føroysku flaka- og fiskivinnuni í</p>
-<p>framtíðini”  og  roynir  m.a.  at  svara  nøkrum  spurningum  í  sambandi  við,  hvørji arbeiðsfólkini  á flaka- og fiskavirkjunum eru í dag og hvørji, vit kunnu vænta fara at manna hesi arbeiðspláss í framtíðini.</p>
-<p>Fyri  føroysku  flaka-  og  fiskivinnuna  og  fyri  politiska  myndugleikan  vil  hendan</p>
-<p>frágreiðing  geva  svar  uppá  fleiri  áhugaverdar  spurningar.  Í  so  máta  kann  kanningin eisini brúkast sum partur av kjakinum um ein framtíðar politikk á hesum økinum, bæði hjá vinnuni og hjá tí politiska myndugleikanum.</p>
-<p xml:lang="isl"><em type="bold">Datagrundarlag og háttur </em></p>
-<p>Hendan  frágreiðingin  er  grundað  á  tvær  ymiskar  spurnablaðskanningar,  sum Granskingardepilin  fyri  Økismenning  hevur  gjørt.  Onnur  spurnablaðskanningin  varð gjørd millum arbeiðsfólk á flaka- og fiskavirkjum í august og september 2006, meðan</p>
-<p>hin  kanningin  varð  gjørd  millum  ung  í  9.  flokki  og  3.  flokki  á  miðnámsskúlunum  í 2003.</p>
-<p><em type="italic">Kanningin millum arbeiðsfólk á flaka- og fiskavirkjum </em></p>
-<p>Spurnablaðskanningin  millum  arbeiðsfólk  á  flaka-  og  fiskavirkjum  varð  gjørd  á útvaldum flaka- og fiskavirkjum kring landið síðst í august og fyrst í september mánað í 2006  (sí  eisini  spurnablaðið í Ískoyti 1). Kanningin fevnir um flaka- og fiskavirkir úr</p>
-<p>øllum  pørtum  av  landinum  og  er  tí  eisini  væl  umboðað,  hvat  geografiskum  býti viðvíkur. Spurnablaðskanningin varð gjørd á hesum flaka- og fiskavirkjum.</p>
-<p>Palm Seafood, Vágur Løðhamar, Vágur</p>
-<p>Delta Seafood, Tvøroyri TG Seafood, Hvalba Sandoy Seafood, Sandur Sandoy Seafood, Skopun Føroya Fiskavirking, Vágur</p>
-<p>Føroya Fiskavirking, Tvøroyri</p>
-<p>Føroya Fiskavirking, Tórshavn Føroya Fiskavirking, Vestmanna</p>
-<p>Føroya Fiskavirking, Runavík Føroya Fiskavirking, Miðvágur Vaðhorn, Strendur PRG Export, Gøta Norðís, Eiði</p>
-<p>Kósavirkið, Klaksvík</p>
-<p>Tilsamans  svaraðu  708  arbeiðsfólk  á  16  flaka-  og  fiskavirkjum  spurnablaðnum.  Tað arbeiða millum 2.000-2.200 fólk innan fiskavøruídnaðin í Føroyum (Hagstova Føroya), so  talan  er  sostatt  um  eitt  svarprosent  uppá  umleið  33%.  Men  íroknað  talinum  á arbeiðsfólki, sum arbeiða innan fiskavøruídnaðin, eru eisini fólk, sum arbeiða á virkjum</p>
-<p>sum  Havsbrún,  Kovin,  Høvdavirkið  í  Leirvík,  Kollafjørð Pelagic,  og  á  uppboðssølum og  landingarmiðstøðum  o.s.fr.  Men  hesi  virki  eru  ikki  við  í  spurnablaðskanningini. Talið  av  fólkið,  sum  arbeiða  á  teimum  traditionellu  flaka-  og  fiskavirkjum  er  tí  helst millum 1.500 og 2.000 fólk – og svarprosentið tað hægri.</p>
-<p>Endamálið  við  kanningini  er  at  siga  nakað  alment  um aldurs- og kynssamansetingina hjá  arbeiðsfólkum  innan  flaka-  og  fiskivinnuna á  landi. Hvørjar royndir og útbúgving arbeiðsfólkini  hava,  hvussu  tey  trívast  og  um  hvønn  hugburð  tey  hava  til  flaka-  og fiskivinnuna  á  landi.  Til  at  svara  hesum  spurningum  eru  708  svaraði  spurnabløð  eitt haldgott grundarlag.</p>
-<p><em type="italic">Kanning millum ung í 2003 </em></p>
-<p>Umframt spurnablaðskanningina á flaka- og fiskavirkjum, verður spurnablaðskanningin millum ung, sum Granskingardepilin fyri Økismenning gjørdi í 2003, eisini brúkt sum grundarlag undir lýsingini í hesum arbeiðsritinum. Tilsamans vórðu tá 998 spurnabløð send út, og av teimum vórðu heili 899 svaraði, og var svarprosentið sostatt 90%. Olga Biskopstø  og  Bjarni  Mortensen  stóðu fyri kanningini og skrivaðu frágreiðingina <em type="italic">Ung, </em></p>
-<p><em type="italic">útbúgving  og  fiskivinna</em>,  sum  Granskingardepilin  fyri  Økismenning  gav  út  sum Arbeiðsrit 9/2004. Frágreiðingin kann finnast á heimasíðuni hjá Granskingardeplinum fyri Økismenning, www. region.fo undir útgávur. </p>
-<p>Umframt  spurnarblaðskanningarnar  eru  eisini  brúkt  arbeiðstakara-  og  lønarhagtøl  frá</p>
-<p>Hagstovu Føroya, www.hagstova.fo</p>
-<p><em type="bold">Broytingar í vinnumynstrinum seinastu ártíggjuni </em></p>
-<p>Seinastu ártíggjuni er vinnumynstrið í Føroyum broytt, hetta serliga um hugt verður at, hvar fólk arbeiða – innan hvørjar vinnur virksemi er. Tá tað snýr seg um vinnumynstrið, skilja vit ímillum tríggjar vinnubólkar: 1. Framleiðsluvinnur 2. Bygging, Handil, Flutn.</p>
-<p>o.a.  3.  Almenna  tænastur  o.a.  Meiri  nágreiniligt  eru  hesir  vinnubólkar  settir  saman soleiðis:</p>
-<p xml:lang="isl"><em type="bold">Framleiðsluvinnur </em>Landbúnaður </p>
-<p xml:lang="isl">Fiskiskapur Ali- og kryvjivirki Ráevnisvinna Fiskavøruídnaður Skipasmiðjur, smiðjur Annar ídnaður</p>
-<p xml:lang="isl"><em type="bold">Bygging, handil, flutn. o.a. </em>Bygging </p>
-<p>Orku- og vatnveiting Handil og umvæling Gistihús og matstovuvirki  Sjóflutningur Flutningur annars Postur og fjarskifti</p>
-<p>Fígging og trygging Vinnuligar tænastur Húshaldstænastur</p>
-<p xml:lang="isl"><em type="bold">Almennar tænastur o.a </em>Almenn fyrisiting v.m. </p>
-<p>Undirvísing Heilsu- og almannaverk Felagsskapir, mentan o.a Ótilskilað v.m.</p>
-<p>Um  hugt  verður  eftir  broytingunum  í  talinum  av  lønmóttakarumi  -  hvussu  nógv  fólk</p>
-<p>arbeiða innan teir ymisku vinnubólkarnir – í tíðarskeiðinum frá 1990 til 2005, so er tað serliga  innan  <em type="italic">Framleiðsluvinnurnar</em>  og  bólkin  <em type="italic">Almenna  tænastur  o.a.,</em>  at  stórar broytingar eru farnar  fram,  meðan bólkurin  <em type="italic">Bygging,  handil,  flutn. o.a. </em>lutfalsliga var hin sami í 2005 sum í 1990.  </p>
-<p>Í  1990  arbeiddu  tilsamans  33,4%  av  lønmóttakarunum  innan  <em type="italic">Framleiðsluvinnurnar</em>.  Í 2005  var  hetta  talið  27,0%.  Í  sama  tíðarskeiði  er  talan  um  ein  vøkstur  innan  bólkin <em type="italic">Almennar tænastur o.a.</em> frá 30,6% til 37,1% av samlaða talinum av lønmóttakarunum. Í 1990  arbeiddu  umleið  36%  av  lønmóttakarunum  innan  <em type="italic">Bygging,  handil,  flutn.  o.a.</em>. Hetta var eisini støðan í 2005. Sí eisini mynd niðanfyri. </p>
-<p><em type="bold">Talið av lønmóttakarum, býtt í høvuðsbólkar í 1990</em> </p>
-<p xml:lang="isl">Framleiðsluvinnur 33,4%</p>
-<p xml:lang="isl">Bygging, handil, flutn. o.a. 36,0%</p>
-<p>Almennar tænastur o.a. 30,6%</p>
-<p><em type="bold">Talið av lønmóttakarum, býtt í høvuðsbólkar í 2005</em> </p>
-<p xml:lang="isl">Framleiðsluvinnur 27,0%Bygging, handil, flutn. o.a. 35,9%</p>
-<p>Almennar tænastur o.a. 37,1%</p>
-<p>Mynd 1. Talið av lønmóttakarum í 1990 og 2005, býtt í høvuðsbólkar.<em type="italic"> Kelda: Hagstova Føroya </em></p>
-<p><em type="italic">Fleiri fólk arbeiða innan Almennar tænastur o.a. </em></p>
-<p>Sum víst í mynd 1 omanfyri, so er tað serliga innan høvuðsbólkin <em type="italic">Almennar tænastur o.a.,</em> at talan hevur verið um ein vøkstur av lønmóttakarum. Í tíðarskeiðinum frá 1990 til 2005  var  vøksturin  uppá  tilsamans  5,6%.  Umleið  helvtin  av  vøkstrinum  stavar  frá vøkstri innan <em type="italic">Almenna fyrisiting </em>og <em type="italic">Undirvísing</em>, meðan hin helvtin av vøkstrinum er at finna innan <em type="italic">Heilsu- og almannaverkið</em>. </p>
-<p> Tal %partur av øllum lønmóttakarum Tal %partur av øllum lønmóttakarum Almenn fyrisiting og tænastur 6.878 28,9% 8.48134,6% Felagsskapir, mentan o.a.  1,5% 2,1% <em type="bold">Almennar tænastur o.a. tils. 7.266 30,6% 9.10737,1%</em> </p>
-<p>Talva 1. Broytingar í talinum av lønmóttakarum í útvaldum vinnubólkum árini 1990 og 2005. Kelda: Hagstova Føroya</p>
-<p><em type="italic">Stór minking í talinum av arbeiðsfólki innan Framleiðsluvinnurnar </em></p>
-<p>Sum  víst  í  mynd  1  omanfyri,  so  er  talið  av  lønmóttakarum  í  framleiðsluvinnunum minkað  nógv  tey  seinastu  15  árini.  Samanlagt  er  talið  av  fólki,  sum  arbeiddu  innan bólkin <em type="italic">Framleiðsluvinnurnar</em> minkað úr 7.944 fólkum í 1990 til 6.614 fólk í 2005, ein minking upp á 1.330 fólk. Broytingarnar eru serliga innan fyri bólkin <em type="italic">Fiskavøruídnaður</em> </p>
-<p>(tvs.  flaka-  og  fiskivinnan  á  landi)  og  bólkin  <em type="italic">Fiskiskapur</em>.  Harumframt  er  talið  av lønmóttakarum  innan  <em type="italic">Ali-  og  kryvjivinnuna</em>  eisini  minkað  í  nevnda  tíðarskeiði. Broytingarnir í nevndu bólkum eru vístir í talvu 2 niðanfyri.  </p>
-<p> Tal %partur av øllum lønmóttakarum Tal %partur av øllum lønmóttakarum Fiskiskapur 2.910 12,2% 2.463 10,0% Ali- og kryvjivirki  2,2%  0,7% Fiskavøruídnaður 2.980 12,5% 2.202 9,0% <em type="bold">Framleiðsluvinnur tils. 7.944 33,4% 6.614 27,0% </em></p>
-<p>Talva 2. Broytingar í talinum av lønmóttakarum í útvaldum vinnubólkum árini 1990 og 2005. Kelda: Hagstova Føroya</p>
-<p>Í prosentum er talan um eina minking uppá 26% innan bólkin <em type="italic">Fiskavøruídnaður</em>. Innan bólkin  <em type="italic">Fiskiskap  </em>er  minking  uppá  15%.  Størsta  minkingin  er  innan  <em type="italic">Ali-  og kryvjivinnuna,</em> heili 66% í tíðarskeiðinum frá 1990 til 2005. Hendan minking er so stór orsaka av bakkasti innan alivinnuna í 2002 og 2003. </p>
-<p>Hóast talið av lønmóttakarum innan fiskivinnuna á landi er minkað munandi seinastu 15 árini, so er tað tó áhugavert, at tann samlaða nøgdin av botnfiskasløgum, sum er fiskað undir Føroyum og landað í Føroyum (til føroyskar fiskakeyparar og uppboðssøluna) er lítið broytt. Í 2005 var á leið tann sama nøgdin av botnfiskasløgum landað sum í 1990; bæði árini millum 110.000 - 115.000 tons (Hagstova Føroya). Um gingið verður út frá,</p>
-<p>at umleið eins stór nøgd varð framleidd á føroysku flaka- og fiskavirkjunum í 2005 og í 1990, so er hetta uttan iva tekin um, at føroyska flaka- og fiskivinnan á landi er vorðin meiri  effektiv  seinastu  árini.  Talið  av  arbeiðsfólkum  er  minkað,  meðan  framleidda nøgdin  er  hin  sama.  Ein  orsøk  er  helst,  at  framleiðslan  í  størri  mun  er  vorðin automatiserað  ella  broytt  soleiðis,  at  framleiðslu-flowið  er  betri.  Men  hvørji  eru  tey,</p>
-<p>sum arbeiða á føroysku flaka- og fiskavirkjunum, og hvør er hugburðurin hjá teimum til eina framtíð innan hesa vinnu? Hesir spurningar v.m. eru viðgjørdir í næsta parti.</p>
-<p>Fiskasløg  sum  m.a.  toskur,  hýsa,  upsi,  kongafiskur,  longa  os.fr.  Hetta  eru  fiskasløg, sum serliga verða</p>
-<p>arbeidd á føroysku flaka- og fiskavirkjunum.</p>
-<p><em type="bold">Arbeiðsfólki á føroysku flaka- og fiskavirkjunum í 2006 </em></p>
-<p>Í  hesum  partinum  verða  viðgjørd  úrslitini  frá  spurnablaðskanningini,  sum  varð  gjørd millum arbeiðsfólk á flaka- og fiskavirkjunum í august og september 2006. Tilsamans svaraðu  708  arbeiðsfólk  á  flaka-  og  fiskavirkjunum  á  16  flaka-  og  fiskavirkjum</p>
-<p>spurnablaðnum.</p>
-<p xml:lang="isl"><em type="italic">Aldurs- og kynsbýtið </em></p>
-<p>Um kanningin verður brúkt sum grundarlag, so kann sigast, at miðalaldurin á teimum, sum  arbeiða  á  flaka-  og  fiskavirkjunum  í  Føroyum,  er  umleið  39  ár.  Tað  er  at  kalla ongin munur á miðalaldrinum á kvinnum og monnum, í báðum førum er miðalaldurin umleið 39 ár.</p>
-<p>Um aldurin á teimum, sum arbeiða á  flaka-  og  fiskavirkjum,  verður bólkaður eftir 40 ára markinum, so eru umleið helvtin av teimum, sum</p>
-<p>arbeiða  á  flaka-  og  fiskavirkjum, yngri enn 40 ár, meðan hin helvtin er  eldri  enn  40  ár.  Annars  er aldursbýtið  nøkulunda  javnt,  um býtt verður í 10 ára aldursbólkar.</p>
-<p>Áhugavert er, at tað eru lutfalsliga nógv ung, sum arbeiða á flaka- og fiskavirkjunum. Ein orsøk er helst, at nógv ung velja at  vinna  sær  pening,  áðrenn  tey  fara  undir  víðari  útbúgving.  Hetta  stuðlar  kanningin, sum Granskingardepilin fyri Økismenning gjørdi millum ung í 2003, eisini upp undir, tí nógv vísa í kanningini á, at tey ætla at steðga á eftir fólkaskúlan, m.a. fyri at vinna sær</p>
-<p>pening, áðrenn tey fara undir víðari útbúgving. Høvuðsorsøkin til, at so nógv gera av at steðga  á  í  fiskivinnuni  á  landi,  er,  at  fiskivinnan  á  landi  er  tann  størsti</p>
-<p>Legg  til  merkis,  at  N  =  Talið  av  spurnabløðum,  sum  er  brúkt  í  smb.  við  teirri  ávísu  myndina  í</p>
-<p>arbeiðsritinum. Stendur til dømis í myndini at N=683, so merkir tað, at 683 fólk (spurnabløð) hava svarað júst hesum spurninginum, sum myndin er grundað á.</p>
-<p><em type="bold">Aldursbýtið í kanningini</em> </p>
-<p xml:lang="vep">15%</p>
+<p xml:lang="isl">Inngangur ..................................................................................................................... 3 Datagrundarlag og háttur............................................................................................... 5</p>
+<p>Kanningin millum arbeiðsfólk á flaka- og fiskavirkjum............................................. 5 Kanning millum ung í 2003....................................................................................... 6</p>
+<p>Broytingar í vinnumynstrinum seinastu ártíggjuni......................................................... 7</p>
+<p>Fleiri fólk arbeiða innan Almennar tænastur o.a. ....................................................... 8 Stór minking í talinum av arbeiðsfólki innan Framleiðsluvinnurnar........................... 9</p>
+<p>Arbeiðsfólki á føroysku flaka- og fiskavirkjunum í 2006............................................. 11</p>
+<p>Aldurs- og kynsbýtið............................................................................................... 11 Arbeiði og útbúgving .............................................................................................. 13 Arbeiðsstyrkin hevur drúgvar royndir...................................................................... 14 Trivnaðurin er góður ............................................................................................... 15 Nógv ynskja annað arbeiði ...................................................................................... 16 Nógv vænta tey eru í aðrari vinnu um 5 ár............................................................... 18 Tey royndu vilja halda áfram í vinnuni.................................................................... 19 Seinasta ættarliðið av føroyingum á flaka- og fiskavirkjunum?................................ 20</p>
+<p>Hvat halda tey ungu?........................................................................................... 21</p>
+<p>Tey ungu frávelja flaka- og fiskivinnuna ..................................................................... 22</p>
+<p>Ung vilja hava útbúgving og spennandi arbeiði ....................................................... 25</p>
+<p>Ein trupulleiki í eygsjón.............................................................................................. 28</p>
+<p>Hví ynskja nógv at frávelja fiskivinnuna á landi? .................................................... 29 Moderniseringin av samfelagnum ein trupulleiki fyri fiskivinnuna á landi............... 29 Hvat er í væntu?...................................................................................................... 30</p>
+<p>Royndir úr grannalondum okkara ........................................................................ 31</p>
+<p>Mugu arbeiða við loysnum.......................................................................................... 37 Bókmentir og keldur ................................................................................................... 38 Ískoyti 1...................................................................................................................... 39</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>3 </p>
+<p><em type="bold">Inngangur </em>Seinastu ártíggjuni eru stórar broytingar farnar fram í føroyska samfelagnum sum heild, eisini á vinnuliga økinum. Hesar broytingar hava eisini merkt fiskivinnuna á landi, sum hevur mist leiklutin sum tann týdningarmesta vinnan á landi. Moderniseringin og menningin av samfelagnum sum heild hevur ført við sær, at vinnumynstrið í landinum er broytt. Meðan tað fyrr vóru framleiðsluvinnurnar – serliga fiskivinnan á landi – sum vóru tær berandi, eru tað í dag almennar- (og privatar) tænastur og almenn umsiting, sum hava størstu framgongd og tær vinnur, sum krevja flest fólk. Hetta – og (ikki minst) tøknilig menning – hevur eisini ført við sær, at talið av fólki, sum arbeiða innan fiska- og flakavinnuna á landi hevur verið fyri munandi minking. Bara seinastu 15 árini er talið av arbeiðsfólki innan vinnubólkin fiskavøruídnaður minkað við fleiri enn 25% (Hagstova Føroya). Minkandi tal av arbeiðsfólki innan framleiðsluvinnurnar er eisini ein gongd, sum hevur merkt Vesturheimin sum heild tey seinastu ártíggjuni. Gongdin hevur rættiliga tikið dik á seg seinastu árini, nú tað er vorðið alsamt meiri vanligt at flyta framleiðslur til lond, har kostnaðarstøðið er væl lægri enn í Vesturheiminum. Avbjóðingin fyri <span type="quote">“tær gomlu”</span> framleiðsluvinnurnar og fyri (lokal)samfelagið, sum hevur havt hesar vinnur sum kjarnuvinnur, er at tillaga seg til broyttu støðuna, til tær nýggju avbjóðingarnar, sum broytingarnar hava ført við sær. Í grannalondum okkara – Noregi og Íslandi – hava vit seinastu 10-15 árini sæð, at tað í vaksandi mun eru útlendingar, sum arbeiða á flaka- og fiskavirkjunum. Millum høvuðsorsøkirnar til hetta er, at norðmenn og íslendingar frávelja arbeiðið innan hesa vinnu – ella rættari sagt, velja aðrar vinnur framum, og tí hevur verið neyðugt at flyta inn arbeiðsmegi fyri at nøkta tørvin á arbeiðsmegi á flaka- og fiskivirkjunum. Ein kanning, sum Granskingardepilin fyri Økismenning í 2003 gjørdi millum ung – øll sum gingu í 9. flokki og í 3. flokki á miðnámsskúlunum í 2003 – vísir, at ungir føroyingar ikki ynskja at arbeiða á flaka- og fiskavirkjum. Hetta í sær sjálvum ber boð </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>4 um broytingar fyri framman og tørv á tillagingum. Eisini setir hetta spurnartekin við, í hvønn mun man í Føroyum kemur at kunna nøkta tørvin á arbeiðsmegi innan hesa vinnu – og ikki minst, um man ynskir at føroysk arbeiðsmegi skal loysa hesar uppgávur? Hendan verkætlanin setur fokus á evnið <span type="quote">“arbeiðsfólk í føroysku flaka- og fiskivinnuni í framtíðini”</span> og roynir m.a. at svara nøkrum spurningum í sambandi við, hvørji arbeiðsfólkini á flaka- og fiskavirkjunum eru í dag og hvørji, vit kunnu vænta fara at manna hesi arbeiðspláss í framtíðini. Fyri føroysku flaka- og fiskivinnuna og fyri politiska myndugleikan vil hendan frágreiðing geva svar uppá fleiri áhugaverdar spurningar. Í so máta kann kanningin eisini brúkast sum partur av kjakinum um ein framtíðar politikk á hesum økinum, bæði hjá vinnuni og hjá tí politiska myndugleikanum. </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>5 </p>
+<p><em type="bold">Datagrundarlag og háttur </em>Hendan frágreiðingin er grundað á tvær ymiskar spurnablaðskanningar, sum Granskingardepilin fyri Økismenning hevur gjørt. Onnur spurnablaðskanningin varð gjørd millum arbeiðsfólk á flaka- og fiskavirkjum í august og september 2006, meðan hin kanningin varð gjørd millum ung í 9. flokki og 3. flokki á miðnámsskúlunum í 2003. </p>
+<p>Kanningin millum arbeiðsfólk á flaka- og fiskavirkjum Spurnablaðskanningin millum arbeiðsfólk á flaka- og fiskavirkjum varð gjørd á útvaldum flaka- og fiskavirkjum kring landið síðst í august og fyrst í september mánað í 2006 (sí eisini spurnablaðið í Ískoyti 1). Kanningin fevnir um flaka- og fiskavirkir úr øllum pørtum av landinum og er tí eisini væl umboðað, hvat geografiskum býti viðvíkur. Spurnablaðskanningin varð gjørd á hesum flaka- og fiskavirkjum.</p>
+<p>Palm Seafood, Vágur Løðhamar, Vágur Delta Seafood, Tvøroyri TG Seafood, Hvalba Sandoy Seafood, Sandur Sandoy Seafood, Skopun Føroya Fiskavirking, Vágur Føroya Fiskavirking, Tvøroyri</p>
+<p>Føroya Fiskavirking, Tórshavn Føroya Fiskavirking, Vestmanna Føroya Fiskavirking, Runavík Føroya Fiskavirking, Miðvágur Vaðhorn, Strendur PRG Export, Gøta Norðís, Eiði Kósavirkið, Klaksvík</p>
+<p>Tilsamans svaraðu 708 arbeiðsfólk á 16 flaka- og fiskavirkjum spurnablaðnum. Tað arbeiða millum 2.000-2.200 fólk innan fiskavøruídnaðin í Føroyum (Hagstova Føroya), so talan er sostatt um eitt svarprosent uppá umleið 33%. Men íroknað talinum á arbeiðsfólki, sum arbeiða innan fiskavøruídnaðin, eru eisini fólk, sum arbeiða á virkjum sum Havsbrún, Kovin, Høvdavirkið í Leirvík, Kollafjørð Pelagic, og á uppboðssølum og landingarmiðstøðum o.s.fr. Men hesi virki eru ikki við í spurnablaðskanningini. Talið av fólkið, sum arbeiða á teimum traditionellu flaka- og fiskavirkjum er tí helst millum 1.500 og 2.000 fólk – og svarprosentið tað hægri.</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>6 </p>
+<p>Endamálið við kanningini er at siga nakað alment um aldurs- og kynssamansetingina hjá arbeiðsfólkum innan flaka- og fiskivinnuna á landi. Hvørjar royndir og útbúgving arbeiðsfólkini hava, hvussu tey trívast og um hvønn hugburð tey hava til flaka- og fiskivinnuna á landi. Til at svara hesum spurningum eru 708 svaraði spurnabløð eitt haldgott grundarlag.</p>
+<p>Kanning millum ung í 2003 Umframt spurnablaðskanningina á flaka- og fiskavirkjum, verður spurnablaðskanningin millum ung, sum Granskingardepilin fyri Økismenning gjørdi í 2003, eisini brúkt sum grundarlag undir lýsingini í hesum arbeiðsritinum. Tilsamans vórðu tá 998 spurnabløð send út, og av teimum vórðu heili 899 svaraði, og var svarprosentið sostatt 90%. Olga Biskopstø og Bjarni Mortensen stóðu fyri kanningini og skrivaðu frágreiðingina <em type="italic">Ung, útbúgving og fiskivinna </em>, sum Granskingardepilin fyri Økismenning gav út sum Arbeiðsrit 9/2004. Frágreiðingin kann finnast á heimasíðuni hjá Granskingardeplinum fyri Økismenning, www. region.fo undir útgávur. Umframt spurnarblaðskanningarnar eru eisini brúkt arbeiðstakara- og lønarhagtøl frá Hagstovu Føroya, www.hagstova.fo </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>7 </p>
+<p><em type="bold">Broytingar í vinnumynstrinum seinastu ártíggjuni </em>Seinastu ártíggjuni er vinnumynstrið í Føroyum broytt, hetta serliga um hugt verður at, hvar fólk arbeiða – innan hvørjar vinnur virksemi er. Tá tað snýr seg um vinnumynstrið, skilja vit ímillum tríggjar vinnubólkar: 1. Framleiðsluvinnur 2. Bygging, Handil, Flutn. o.a. 3. Almenna tænastur o.a. Meiri nágreiniligt eru hesir vinnubólkar settir saman soleiðis: <em type="bold"></em></p>
+<p xml:lang="isl"><em type="bold">Framleiðsluvinnur </em>Landbúnaður Fiskiskapur Ali- og kryvjivirki Ráevnisvinna Fiskavøruídnaður Skipasmiðjur, smiðjur Annar ídnaður </p>
+<p><em type="bold">Bygging, handil, flutn. o.a. </em>Bygging Orku- og vatnveiting Handil og umvæling Gistihús og matstovuvirki Sjóflutningur Flutningur annars Postur og fjarskifti Fígging og trygging Vinnuligar tænastur Húshaldstænastur </p>
+<p xml:lang="isl"><em type="bold">Almennar tænastur o.a </em>Almenn fyrisiting v.m. Undirvísing Heilsu- og almannaverk Felagsskapir, mentan o.a Ótilskilað v.m. <em type="bold"></em></p>
+<p>Um hugt verður eftir broytingunum í talinum av lønmóttakarumi - hvussu nógv fólk arbeiða innan teir ymisku vinnubólkarnir – í tíðarskeiðinum frá 1990 til 2005, so er tað serliga innan <em type="italic">Framleiðsluvinnurnar </em>og bólkin <em type="italic">Almenna tænastur o.a., </em>at stórar broytingar eru farnar fram, meðan bólkurin <em type="italic">Bygging, handil, flutn. o.a. </em>lutfalsliga var hin sami í 2005 sum í 1990. Í 1990 arbeiddu tilsamans 33,4% av lønmóttakarunum innan <em type="italic">Framleiðsluvinnurnar </em>. Í 2005 var hetta talið 27,0%. Í sama tíðarskeiði er talan um ein vøkstur innan bólkin <em type="italic">Almennar tænastur o.a. </em>frá 30,6% til 37,1% av samlaða talinum av lønmóttakarunum. Í 1990 arbeiddu umleið 36% av lønmóttakarunum innan <em type="italic">Bygging, handil, flutn. o.a. </em>. Hetta var eisini støðan í 2005. Sí eisini mynd niðanfyri. <em type="bold"></em></p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>8 </p>
+<p>Fleiri fólk arbeiða innan Almennar tænastur o.a. Sum víst í mynd 1 omanfyri, so er tað serliga innan høvuðsbólkin <em type="italic">Almennar tænastur o.a., </em>at talan hevur verið um ein vøkstur av lønmóttakarum. Í tíðarskeiðinum frá 1990 til 2005 var vøksturin uppá tilsamans 5,6%. Umleið helvtin av vøkstrinum stavar frá vøkstri innan <em type="italic">Almenna fyrisiting </em>og <em type="italic">Undirvísing </em>, meðan hin helvtin av vøkstrinum er at finna innan <em type="italic">Heilsu- og almannaverkið </em>. </p>
+<p>Mynd 1. Talið av lønmóttakarum í 1990 og 2005, býtt í høvuðsbólkar. <em type="italic"></em></p>
+<p><em type="italic">Kelda: Hagstova Føroya </em></p>
+<p><em type="bold">Talið av lønmóttakarum, býtt í høvuðsbólkar í 1990 </em></p>
+<p xml:lang="isl">Bygging, handil, flutn. o.a.36,0%</p>
+<p xml:lang="isl">Framleiðsluvinnur33,4%</p>
+<p>Almennar tænastur o.a.30,6%</p>
+<p><em type="bold">Talið av lønmóttakarum, býtt í høvuðsbólkar í 2005 </em></p>
+<p>Almennar tænastur o.a.37,1%</p>
+<p xml:lang="isl">Framleiðsluvinnur27,0%</p>
+<p xml:lang="isl">Bygging, handil, flutn. o.a.35,9%</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>9 1990 2005 </p>
+<p>Tal %partur av øl um løn-móttakarum</p>
+<p>Tal %partur av øl um løn-móttakarum</p>
+<p>Almenn fyrisiting og tænastur 6.878 28,9% 8.48134,6%</p>
+<p>Felagsskapir, mentan o.a. 357 1,5% 5092,1%</p>
+<p><em type="bold">Almennar tænastur o.a. tils. </em><em type="bold">7.266 </em><em type="bold">30,6% </em><em type="bold">9.107 </em><em type="bold">37,1% </em></p>
+<p>Talva 1. Broytingar í talinum av lønmóttakarum í útvaldum vinnubólkum árini 1990 og 2005.</p>
+<p>Kelda: Hagstova Føroya</p>
+<p>Stór minking í talinum av arbeiðsfólki innan Framleiðsluvinnurnar Sum víst í mynd 1 omanfyri, so er talið av lønmóttakarum í framleiðsluvinnunum minkað nógv tey seinastu 15 árini. Samanlagt er talið av fólki, sum arbeiddu innan bólkin <em type="italic">Framleiðsluvinnurnar </em>minkað úr 7.944 fólkum í 1990 til 6.614 fólk í 2005, ein minking upp á 1.330 fólk. Broytingarnar eru serliga innan fyri bólkin <em type="italic">Fiskavøruídnaður </em>(tvs. flaka- og fiskivinnan á landi) og bólkin <em type="italic">Fiskiskapur </em>. Harumframt er talið av lønmóttakarum innan <em type="italic">Ali- og kryvjivinnuna </em>eisini minkað í nevnda tíðarskeiði. Broytingarnir í nevndu bólkum eru vístir í talvu 2 niðanfyri. <em type="bold"></em>1990 2005 </p>
+<p>Tal %partur av øl um løn-móttakarum</p>
+<p>Tal %partur av øl um løn-móttakarum</p>
+<p>Fiskiskapur 2.910 12,2% 2.463 10,0%</p>
+<p xml:lang="nob">Ali- og kryvjivirki 522 2,2% 180 0,7%</p>
+<p>Fiskavøruídnaður 2.980 12,5% 2.202 9,0%</p>
+<p xml:lang="isl"><em type="bold">Framleiðsluvinnur tils. </em><em type="bold">7.944 </em><em type="bold">33,4% </em><em type="bold">6.614 </em><em type="bold">27,0% </em></p>
+<p>Talva 2. Broytingar í talinum av lønmóttakarum í útvaldum vinnubólkum árini 1990 og 2005.</p>
+<p>Kelda: Hagstova Føroya</p>
+<p>Í prosentum er talan um eina minking uppá 26% innan bólkin <em type="italic">Fiskavøruídnaður </em>. Innan bólkin <em type="italic">Fiskiskap </em>er minking uppá 15%. Størsta minkingin er innan <em type="italic">Ali- og kryvjivinnuna, </em>heili 66% í tíðarskeiðinum frá 1990 til 2005. Hendan minking er so stór orsaka av bakkasti innan alivinnuna í 2002 og 2003. <em type="bold"></em></p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>10 </p>
+<p>Hóast talið av lønmóttakarum innan fiskivinnuna á landi er minkað munandi seinastu 15 árini, so er tað tó áhugavert, at tann samlaða nøgdin av botnfiskasløgum1, sum er fiskað undir Føroyum og landað í Føroyum (til føroyskar fiskakeyparar og uppboðssøluna) er lítið broytt. Í 2005 var á leið tann sama nøgdin av botnfiskasløgum landað sum í 1990; bæði árini millum 110.000 - 115.000 tons (Hagstova Føroya). Um gingið verður út frá, at umleið eins stór nøgd varð framleidd á føroysku flaka- og fiskavirkjunum í 2005 og í 1990, so er hetta uttan iva tekin um, at føroyska flaka- og fiskivinnan á landi er vorðin meiri effektiv seinastu árini. Talið av arbeiðsfólkum er minkað, meðan framleidda nøgdin er hin sama. Ein orsøk er helst, at framleiðslan í størri mun er vorðin automatiserað ella broytt soleiðis, at framleiðslu-flowið er betri. Men hvørji eru tey, sum arbeiða á føroysku flaka- og fiskavirkjunum, og hvør er hugburðurin hjá teimum til eina framtíð innan hesa vinnu? Hesir spurningar v.m. eru viðgjørdir í næsta parti. 1 Fiskasløg sum m.a. toskur, hýsa, upsi, kongafiskur, longa os.fr. Hetta eru fiskasløg, sum serliga verða arbeidd á føroysku flaka- og fiskavirkjunum.</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>11 </p>
+<p><em type="bold">Arbeiðsfólki á føroysku flaka- og fiskavirkjunum í 2006 </em>Í hesum partinum verða viðgjørd úrslitini frá spurnablaðskanningini, sum varð gjørd millum arbeiðsfólk á flaka- og fiskavirkjunum í august og september 2006. Tilsamans svaraðu 7082 arbeiðsfólk á flaka- og fiskavirkjunum á 16 flaka- og fiskavirkjum spurnablaðnum. </p>
+<p>Aldurs- og kynsbýtið Um kanningin verður brúkt sum grundarlag, so kann sigast, at miðalaldurin á teimum, sum arbeiða á flaka- og fiskavirkjunum í Føroyum, er umleið 39 ár. Tað er at kalla ongin munur á miðalaldrinum á kvinnum og monnum, í báðum førum er miðalaldurin umleið 39 ár. Um aldurin á teimum, sum arbeiða á flaka- og fiskavirkjum, verður bólkaður eftir 40 ára markinum, so eru umleið helvtin av teimum, sum arbeiða á flaka- og fiskavirkjum, yngri enn 40 ár, meðan hin helvtin er eldri enn 40 ár. Annars er aldursbýtið nøkulunda javnt, um býtt verður í 10 ára aldursbólkar. Áhugavert er, at tað eru lutfalsliga nógv ung, sum arbeiða á flaka- og fiskavirkjunum. Ein orsøk er helst, at nógv ung velja at vinna sær pening, áðrenn tey fara undir víðari útbúgving. Hetta stuðlar kanningin, sum Granskingardepilin fyri Økismenning gjørdi millum ung í 2003, eisini upp undir, tí nógv vísa í kanningini á, at tey ætla at steðga á eftir fólkaskúlan, m.a. fyri at vinna sær pening, áðrenn tey fara undir víðari útbúgving. Høvuðsorsøkin til, at so nógv gera av at steðga á í fiskivinnuni á landi, er, at fiskivinnan á landi er tann størsti 2 Legg til merkis, at N = Talið av spurnabløðum, sum er brúkt í smb. við teirri ávísu myndina í arbeiðsritinum. Stendur til dømis í myndini at N=683, so merkir tað, at 683 fólk (spurnabløð) hava svarað júst hesum spurninginum, sum myndin er grundað á.</p>
+<p><em type="bold">Aldursbýtið í kanningini </em>14%16%18%16%20%15%0%5%10%15%20%25%60 ár og eldri50-59 ár40-49 ár30-39 ár20-29 ár </p>
 <p xml:lang="isl">Yngri enn 20 ár</p>
-<p xml:lang="vep">20%</p>
-<p xml:lang="isl">20-29 ár</p>
-<p xml:lang="vep">16%</p>
-<p xml:lang="isl">30-39 ár</p>
-<p xml:lang="vep">18%</p>
-<p xml:lang="isl">40-49 ár</p>
-<p xml:lang="vep">16%</p>
-<p xml:lang="isl">50-59 ár</p>
-<p xml:lang="vep">14%</p>
-<p xml:lang="isl">60 ár og eldri</p>
-<p xml:lang="vep">0%5%10%15%20%25%</p>
-<p>Mynd 2. Aldursbýtið í kanningini.<em type="italic"> </em></p>
-<p><em type="italic">N=683</em> arbeiðsmarknaðurin  fyri  ófaklærd  og  somuleiðis  tann  arbeiðsmarknaður,  har  tað  er lættast at fáa arbeiði hjá ungum fólkum.  </p>
-<p>Í  kanningini  eru  umleið  65% kvinnur,  meðan  35%  eru  menn.</p>
-<p>Kynsbýtið í kanningini víkir tó eitt sindur  frá  kynsbýtinum,  sum lønarhagtølini hjá Hagstovu Føroya fyri  vinnubólkin <em type="italic">Fiskavøruídnaður</em> vísti  í  juni  2006.  Tann  uppgerðin </p>
-<p>vísir, at uml. 57% av arbeiðsfólkunum innan <em type="italic">fiskavøruídnað  </em>vóru  kvinnur  og 43% vóru menn. Orsøkin til frávikið er millum annað, at tað serliga eru mannfólk, sum arbeiða á teimum virkjunum, sum ikki eru við í kanningini. Hetta er til dømis galdandi fyri  uppboðssølur  og  landingarmiðstøðir.  Hartil  vísa  tey  á  Havsbrún  og  Kollafjørð </p>
-<p>Pelagic  eisini  á,  at  har  eru  tað  væl  fleiri  menn  enn  kvinnur  til  arbeiðis.  Hesi  bæði virkini eru heldur ikki við í kanningini.</p>
-<p>Um  hugt  verður  nærri  at,  hvussu kynsbýtið  er  í  teimum  ymisku aldursbólkunum, so er tað rættiliga</p>
-<p>ymiskt  frá  einum  aldursbólki  til annan. Í tí yngsta aldursbólkinum – tey, sum eru yngri enn 20 ár – eru tað fleiri menn enn kvinnur. Hesin aldursbólkurin  fevnir  serliga  um</p>
-<p>tey,  sum  júst  eru  liðug  við fólkaskúlan.  Orsøkin  til  at  tað  eru fleiri  menn  enn  kvinnur  í  hesum</p>
-<p>Keldur: Havsbrún og Kollafjørð Pelagic, Okt. 2006.</p>
-<p xml:lang="isl"><em type="bold">Kynsbýtið</em> </p>
-<p xml:lang="vep">35%</p>
-<p xml:lang="vep">43%</p>
-<p xml:lang="isl">Menn</p>
-<p xml:lang="vep">65%</p>
-<p xml:lang="vep">57%</p>
+<p>Mynd 2. Aldursbýtið í kanningini. <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=683 </em></p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>12 arbeiðsmarknaðurin fyri ófaklærd og somuleiðis tann arbeiðsmarknaður, har tað er lættast at fáa arbeiði hjá ungum fólkum. Í kanningini eru umleið 65% kvinnur, meðan 35% eru menn. Kynsbýtið í kanningini víkir tó eitt sindur frá kynsbýtinum, sum lønarhagtølini hjá Hagstovu Føroya fyri vinnubólkin <em type="italic">Fiskavøruídnaður </em>vísti í juni 2006. Tann uppgerðin vísir, at uml. 57% av arbeiðsfólkunum innan <em type="italic">fiskavøruídnað </em>vóru kvinnur og 43% vóru menn. Orsøkin til frávikið er millum annað, at tað serliga eru mannfólk, sum arbeiða á teimum virkjunum, sum ikki eru við í kanningini. Hetta er til dømis galdandi fyri uppboðssølur og landingarmiðstøðir. Hartil vísa tey á Havsbrún og Kollafjørð Pelagic eisini á, at har eru tað væl fleiri menn enn kvinnur til arbeiðis3. Hesi bæði virkini eru heldur ikki við í kanningini. Um hugt verður nærri at, hvussu kynsbýtið er í teimum ymisku aldursbólkunum, so er tað rættiliga ymiskt frá einum aldursbólki til annan. Í tí yngsta aldursbólkinum – tey, sum eru yngri enn 20 ár – eru tað fleiri menn enn kvinnur. Hesin aldursbólkurin fevnir serliga um tey, sum júst eru liðug við fólkaskúlan. Orsøkin til at tað eru fleiri menn enn kvinnur í hesum 3 Keldur: Havsbrún og Kollafjørð Pelagic, Okt. 2006. </p>
+<p>Mynd 4. Aldurs- og kynsbýtið í kanningini -bólkað. <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=670 </em></p>
+<p><em type="bold">Aldurs- og kynsbýtið í kanningini </em>11%18%20%17%21%14%21%13%14%15%21%17%0%5%10%15%20%25%60 ár og eldri50-59 ár40-49 ár30-39 ár20-29 ár </p>
+<p xml:lang="isl">Yngri enn 20 ár</p>
 <p>Kvinnur</p>
-<p xml:lang="vep">0%25%50%75%</p>
-<p>SpurnablaðskanningHagstova Føroya Juni 2006</p>
-<p>Mynd 3. Kynsbýtið í spurnablaðskanningini og hjá teimum sum arbeiddu innan fiskavøruídnað í Juni 2006 (<em type="italic">Kelda: Hagstova Føroya</em>).<em type="italic"> </em></p>
-<p xml:lang="kal"><em type="italic">N=686</em> </p>
-<p><em type="bold">Aldurs- og kynsbýtið í kanningini</em> </p>
-<p xml:lang="vep">14%</p>
-<p xml:lang="vep">17%</p>
-<p xml:lang="isl">Yngri enn 20 ár</p>
-<p xml:lang="vep">21%</p>
-<p xml:lang="vep">21%</p>
-<p xml:lang="isl">20-29 ár</p>
-<p xml:lang="vep">17%</p>
-<p xml:lang="vep">15%</p>
-<p xml:lang="isl">30-39 ár</p>
-<p xml:lang="vep">20%</p>
-<p xml:lang="vep">14%</p>
-<p xml:lang="isl">40-49 ár</p>
-<p xml:lang="vep">18%</p>
-<p xml:lang="vep">13%</p>
-<p xml:lang="isl">50-59 ár</p>
-<p xml:lang="vep">11%</p>
-<p xml:lang="vep">21%</p>
-<p xml:lang="isl">60 ár og eldri</p>
-<p xml:lang="vep">0%5%10%15%20%25%</p>
-<p xml:lang="isl">KvinnurMenn</p>
-<p>Mynd  4.  Aldurs-  og  kynsbýtið  í  kanningini  - bólkað.<em type="italic"> </em></p>
-<p xml:lang="kal"><em type="italic">N=670</em> </p>
-<p><em type="bold">Hvat arbeiðir tú sum?</em> </p>
-<p xml:lang="vep">86%</p>
-<p xml:lang="isl">Arbeiðskvinna /-maður</p>
-<p xml:lang="vep">6%</p>
-<p>Leiðari / Millumleiðari</p>
-<p xml:lang="vep">8%</p>
+<p xml:lang="isl">Menn</p>
+<p>Mynd 3. Kynsbýtið í spurnablaðskanningini og hjá teimum sum arbeiddu innan fiskavøruídnað í Juni 2006 ( <em type="italic">Kelda: Hagstova Føroya </em>). <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=686 </em></p>
+<p xml:lang="isl"><em type="bold">Kynsbýtið </em>65%35%57%43%0%25%50%75% </p>
+<p>Kvinnur</p>
+<p xml:lang="isl">Menn</p>
+<p xml:lang="isl">Spurnablaðskanning</p>
+<p>Hagstova Føroya Juni 2006</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>13 </p>
+<p>Mynd 5. Hvat arbeiðir tú sum? <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=695 </em></p>
+<p><em type="bold">Hvat arbeiðir tú sum? </em>8%6%86%0%20%40%60%80%100% </p>
 <p xml:lang="isl">Annað</p>
-<p xml:lang="vep">0%20%40%60%80%100%</p>
-<p>Mynd 5. Hvat arbeiðir tú sum?<em type="italic"> </em></p>
-<p xml:lang="kal"><em type="italic">N=695</em> </p>
-<p>aldursbólkinum  er  m.a.,  at  ungar  kvinnur  í  størri  mun  enn  ungir  menn  fara  á miðnámsskúla.  Hagtøl  frá  miðnámsskúlunum  kring  landið  vísa  eisini,  at  tað  eru lutfalsliga fleiri gentur enn dreingir, ið fara á miðnámsskúla (sí t.d. www.midnam.fo).</p>
-<p>At tað eru fleiri kvinnur enn menn í aldursbólkunum 30-39 ár, 40-49 ár og 50-59 ár er</p>
-<p>helst orsaka av, at tað eru fleiri størv til kvinnur innan fiskivinnuna á landi. Ein onnur orsøk er, at valmøguleikarnir hjá ófaklærdum kvinnum eru færri enn valmøguleikarnir hjá ófaklærdum monnum. Ófaklærdir menn kunnu velja at fara til sjós ella at arbeiða sum ófaklærdir innan t.d. byggivinnuna – og er hetta vinnur, sum peningaliga eru meiri áhugaverdar enn arbeiði á flaka- og fiskavirkjum (Hagstova Føroya).</p>
-<p>At  tað  eru  fleiri  menn  enn  kvinnur,  sum  eru  60  ár  og  eldri,  kann  verða  orsaka  av,  at nógvir  sjómenn  /  fiskimenn,  sum  leggjast  upp  á  land,  fara  at  arbeiða  á  flaka-  og fiskavirkjum tey seinastu árini av arbeiðslívinum.</p>
-<p><em type="italic">Arbeiði og útbúgving </em></p>
-<p>Ein  heilt  stórur  partur  av arbeiðinum  á  føroysku  flaka-  og  fiskavirkjunum er ófaklært</p>
-<p>arbeiði,  tvs.  at  tað  ikki  krevst  nøkur  ávís  útbúgving  fyri  at  kunna  arbeiða.  Flaka-  og fiskavirkini  eru  nógv  tann  størsti arbeiðsmarknaðurin  (á  landi)  fyri ófaklærd  í  Føroyum.  Kanningin vísir eisini, at ein heilt stórur partur</p>
-<p type="listitem">– 86% – arbeiða sum</p>
-<p>arbeiðskvinnur  ella  –menn,  tvs. sum  ófaklærd.  6%  arbeiða  sum leiðari  ella  millumleiðari,  meðan 8%  vísa  á,  at  tey  hava  annað arbeiði t.d. sum trukksjaførur.</p>
-<p>Um hugt verður at hvørja útbúgving fólk, sum arbeiða á flaka- og fiskavirkjum, hava, so hava  tey  allarflestu  gingið  í  fólkaskúla,  tvs.  hava  antin  eina  7  ára  ella  9/10  ára skúlagongd. Í kanningini svara 89%, at tey hava 7 ára skúlagongd, meðan 58% siga seg hava  9/10  ára  skúlagongd.  Prosentið  er  roknað  út  frá  øllum,  sum  hava  svarað spurnablaðnum, men fyrivarni eigur at takast, tí ein partur av teimum, sum hava svarað spurnablaðnum, hava valt <em type="italic">ikki</em> at svara hvørja útbúgving tey hava. Av somu orsøk eru tað helst fleiri, sum hava bæði 7 ára og 9/10 ára skúlagongd, enn víst í myndini.  </p>
-<p>Umframt  fólkaskúla  og  miðnámsskúla,  so  eru  tað  eisini  nøkur,  sum  hava  handverks útbúgving ella millum-langa og langa hægri útbúgving. Talan er t.d. um maskinmenn á</p>
-<p>flaka-  og  fiskavirkjunum,  umframt  at  leiðarar  og  millum-leiðarar  í  fleiri  førum  hava einhvørja  hægri  útbúgving.  Tað  eru  tó  eisini  fólk  við  bæði  handverks  útbúgving  og millum-langari og langari hægri útbúgving, sum arbeiða sum arbeiðskvinnur / -menn á flaka- og fiskavirkjum.</p>
-<p><em type="italic">Arbeiðsstyrkin hevur drúgvar royndir </em></p>
-<p>Ein munandi partur av teimum, sum arbeiða á føroysku flaka- og fiskavirkjunum, hava drúgvar  royndir.  Miðal  starvsaldurin  er  umleið  10½  ár.  Og  um  hugt  verður  nærri  at, hvussu  longi  arbeiðsfólkini hava  arbeitt  á  flaka-  og  fiskavirkjunum,  so  gerst  greitt, at hóast  ein  partur  av  arbeiðsfólkunum  eru  nýggj  í  vinnuni,  so  hava  tey  flestu arbeiðsfólkini drúgvar royndir. Fleiri enn 80% hava arbeitt á flaka- ella fiskavirki í fleiri</p>
-<p>enn 2 ár. Meðan 60% av arbeiðsfólkunum hava arbeitt innan vinnuna í 6 ár ella longri. Smá 40% hava arbeitt á flaka- ella fiskavirki í fleiri enn 10 ár.</p>
-<p><em type="bold">Hvørja útbúgving hevur tú?</em> </p>
-<p xml:lang="vep">89%</p>
-<p xml:lang="isl">Fólkaskúla, 7 ár</p>
-<p xml:lang="vep">58%</p>
-<p xml:lang="isl">Fólkaskúla, 9/10 ár</p>
-<p xml:lang="vep">18%</p>
-<p xml:lang="isl">Miðnámsskúla</p>
-<p xml:lang="vep">6%</p>
-<p>Handsverksliga útbúgving</p>
-<p xml:lang="vep">6%</p>
-<p>Millum-langa hægri útbúgving</p>
-<p xml:lang="vep">1%</p>
+<p>Leiðari /</p>
+<p>Mil umleiðari</p>
+<p>Arbeiðskvinna/-maðuraldursbólkinum er m.a., at ungar kvinnur í størri mun enn ungir menn fara á miðnámsskúla. Hagtøl frá miðnámsskúlunum kring landið vísa eisini, at tað eru lutfalsliga fleiri gentur enn dreingir, ið fara á miðnámsskúla (sí t.d. www.midnam.fo). At tað eru fleiri kvinnur enn menn í aldursbólkunum 30-39 ár, 40-49 ár og 50-59 ár er helst orsaka av, at tað eru fleiri størv til kvinnur innan fiskivinnuna á landi. Ein onnur orsøk er, at valmøguleikarnir hjá ófaklærdum kvinnum eru færri enn valmøguleikarnir hjá ófaklærdum monnum. Ófaklærdir menn kunnu velja at fara til sjós ella at arbeiða sum ófaklærdir innan t.d. byggivinnuna – og er hetta vinnur, sum peningaliga eru meiri áhugaverdar enn arbeiði á flaka- og fiskavirkjum (Hagstova Føroya). At tað eru fleiri menn enn kvinnur, sum eru 60 ár og eldri, kann verða orsaka av, at nógvir sjómenn / fiskimenn, sum leggjast upp á land, fara at arbeiða á flaka- og fiskavirkjum tey seinastu árini av arbeiðslívinum. <em type="bold"></em></p>
+<p>Arbeiði og útbúgving Ein heilt stórur partur av arbeiðinum á føroysku flaka- og fiskavirkjunum er ófaklært arbeiði, tvs. at tað ikki krevst nøkur ávís útbúgving fyri at kunna arbeiða. Flaka- og fiskavirkini eru nógv tann størsti arbeiðsmarknaðurin (á landi) fyri ófaklærd í Føroyum. Kanningin vísir eisini, at ein heilt stórur partur – 86% – arbeiða sum arbeiðskvinnur ella –menn, tvs. sum ófaklærd. 6% arbeiða sum leiðari ella millumleiðari, meðan 8% vísa á, at tey hava annað arbeiði t.d. sum trukksjaførur. Um hugt verður at hvørja útbúgving fólk, sum arbeiða á flaka- og fiskavirkjum, hava, so hava tey allarflestu gingið í fólkaskúla, tvs. hava antin eina 7 ára ella 9/10 ára skúlagongd. Í kanningini svara 89%, at tey hava 7 ára skúlagongd, meðan 58% siga seg</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>14 hava 9/10 ára skúlagongd. Prosentið er roknað út frá øllum, sum hava svarað spurnablaðnum, men fyrivarni eigur at takast, tí ein partur av teimum, sum hava svarað spurnablaðnum, hava valt <em type="italic">ikki </em>at svara hvørja útbúgving tey hava. Av somu orsøk eru tað helst fleiri, sum hava bæði 7 ára og 9/10 ára skúlagongd, enn víst í myndini. </p>
+<p>Umframt fólkaskúla og miðnámsskúla, so eru tað eisini nøkur, sum hava handverks útbúgving ella millum-langa og langa hægri útbúgving. Talan er t.d. um maskinmenn á flaka- og fiskavirkjunum, umframt at leiðarar og millum-leiðarar í fleiri førum hava einhvørja hægri útbúgving. Tað eru tó eisini fólk við bæði handverks útbúgving og millum-langari og langari hægri útbúgving, sum arbeiða sum arbeiðskvinnur / -menn á flaka- og fiskavirkjum.</p>
+<p>Arbeiðsstyrkin hevur drúgvar royndir Ein munandi partur av teimum, sum arbeiða á føroysku flaka- og fiskavirkjunum, hava drúgvar royndir. Miðal starvsaldurin er umleið 10½ ár. Og um hugt verður nærri at, hvussu longi arbeiðsfólkini hava arbeitt á flaka- og fiskavirkjunum, so gerst greitt, at hóast ein partur av arbeiðsfólkunum eru nýggj í vinnuni, so hava tey flestu arbeiðsfólkini drúgvar royndir. Fleiri enn 80% hava arbeitt á flaka- ella fiskavirki í fleiri enn 2 ár. Meðan 60% av arbeiðsfólkunum hava arbeitt innan vinnuna í 6 ár ella longri. Smá 40% hava arbeitt á flaka- ella fiskavirki í fleiri enn 10 ár.</p>
+<p>Mynd 6. Hvørja útbúgving hava arbeiðsfólkini á flaka- og fiskavirkjum? <em type="italic"></em></p>
+<p><em type="bold">Hvørja útbúgving hevur tú? </em>9%1%6%6%18%58%89%0%20%40%60%80%100% </p>
+<p xml:lang="isl">Annað</p>
 <p>Langa hægri útbúgving</p>
-<p xml:lang="vep">9%</p>
-<p xml:lang="isl">Annað</p>
-<p xml:lang="vep">0%20%40%60%80%100%</p>
-<p>Mynd 6. Hvørja útbúgving hava arbeiðsfólkini á flaka- og fiskavirkjum?<em type="italic"> </em></p>
-<p>Umframt,  at  arbeiðsstyrkin  hevur royndir,  so  er  ein  munandi  partur av  arbeiðsstyrkini  eisini  støðu</p>
-<p>longri  áramál.  Meiri  enn  ein fjórðingur  av  teimum,  sum  hava svarað spurnablaðnum, hava arbeitt á sama flaka- ella fiskavirki í 10 ár ella  longri.  Umleið  43%  hava</p>
-<p>arbeitt  á  sama  flaka-  /  fiskavirki  í longri enn 5 ár. Hinvegin so er ein munandi partur av arbeiðsfólkunum  eisini  rættiliga <span type="quote">“nýggjur”</span>  –  27%  hava  verið  á sama  virki  í  styttri  enn  2  ár.  Hesi</p>
-<p>fevna um tey, sum júst eru liðug í fólkaskúlanum,  og  er  tað  eisini hugsandi,  at  hesi  bert  steðga  á  á flaka-  ella  fiskavirkinum  í  styttri tíð,  áðrenn  tey  fara  undir framhaldandi útbúgving.</p>
-<p><em type="italic">Trivnaðurin er góður </em></p>
-<p>Hóast  arbeiði  á  flaka-  og fiskavirkjum  oftani  ikki  verður mett  høgt  millum  mannað,  so  er trivnaðurin á flaka- og</p>
-<p><em type="bold">Hvussu leingi hevur tú arbeitt á flaka- og fiskavirki?</em> </p>
-<p xml:lang="vep">18%</p>
-<p xml:lang="isl">0-1 ár</p>
-<p xml:lang="vep">22%</p>
-<p xml:lang="isl">2-5 ár</p>
-<p xml:lang="vep">21%</p>
-<p xml:lang="isl">6-10 ár</p>
-<p xml:lang="vep">12%</p>
-<p xml:lang="isl">11-15 ár</p>
-<p xml:lang="vep">10%</p>
-<p xml:lang="isl">16-20 ár</p>
-<p xml:lang="vep">8%</p>
-<p xml:lang="isl">21-25 ár</p>
-<p xml:lang="vep">9%</p>
-<p xml:lang="isl">Longri enn 25 ár</p>
-<p xml:lang="vep">0%5%10%15%20%25%</p>
-<p>Mynd  7.  Hvussu  leingi  hevur  tú  arbeitt  á  flaka-  og fiskavirki?<em type="italic"> </em></p>
-<p xml:lang="kal"><em type="italic">N=691</em> </p>
-<p><em type="bold">Hvussu leingi hevur tú arbeitt á hesum flaka- / fiskavirkinum?</em> </p>
-<p xml:lang="vep">27%</p>
-<p xml:lang="isl">0-1 ár</p>
-<p xml:lang="vep">24%</p>
-<p xml:lang="isl">2-5 ár</p>
-<p xml:lang="vep">19%</p>
-<p xml:lang="isl">6-10 ár</p>
-<p xml:lang="vep">9%</p>
-<p xml:lang="isl">11-15 ár</p>
-<p xml:lang="vep">6%</p>
-<p xml:lang="isl">16-20 ár</p>
-<p xml:lang="vep">4%</p>
-<p xml:lang="isl">21-25 ár</p>
-<p xml:lang="vep">5%</p>
-<p xml:lang="isl">Longri enn 25 ár</p>
-<p xml:lang="vep">0%5%10%15%20%25%30%</p>
-<p>Mynd  8.  Hvussu  leingi  hevur  tú  arbeitt  á  hesum flaka- / fiskavirki?<em type="italic"> </em></p>
-<p xml:lang="kal"><em type="italic">N=649</em> </p>
-<p><em type="bold">Hvussu trívist tú í tínum arbeiði?</em> </p>
-<p xml:lang="vep">31%</p>
-<p>Heilt gott</p>
-<p xml:lang="vep">46%</p>
-<p xml:lang="sms">Gott</p>
-<p xml:lang="vep">19%</p>
+<p>Mil um-langa hægri útbúgving</p>
+<p>Handsverksliga útbúgving</p>
+<p xml:lang="isl">Miðnámsskúla</p>
+<p xml:lang="isl">Fólkaskúla, 9/10 ár</p>
+<p xml:lang="isl">Fólkaskúla, 7 ár</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>15 </p>
+<p>Umframt, at arbeiðsstyrkin hevur royndir, so er ein munandi partur av arbeiðsstyrkini eisini støðugur skilt soleiðis, at tey hava verið á sama flaka- ella fiskavirki í eitt longri áramál. Meiri enn ein fjórðingur av teimum, sum hava svarað spurnablaðnum, hava arbeitt á sama flaka- ella fiskavirki í 10 ár ella longri. Umleið 43% hava arbeitt á sama flaka- / fiskavirki í longri enn 5 ár. Hinvegin so er ein munandi partur av arbeiðsfólkunum eisini rættiliga <span type="quote">“nýggjur”</span> – 27% hava verið á sama virki í styttri enn 2 ár. Hesi fevna um tey, sum júst eru liðug í fólkaskúlanum, og er tað eisini hugsandi, at hesi bert steðga á á flaka- ella fiskavirkinum í styttri tíð, áðrenn tey fara undir framhaldandi útbúgving.</p>
+<p>Trivnaðurin er góður Hóast arbeiði á flaka- og fiskavirkjum oftani ikki verður mett høgt millum mannað, so er trivnaðurin á flaka- og fiskavirkjunum í Føroyum sum heild góður. Tey, sum hava arbeitt á flaka- og fiskavirkjum, siga eisini frá góðum vinskapi og samanhaldi</p>
+<p>Mynd 9. Hvussu trívist tú í tínum arbeiði? <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=695 </em></p>
+<p><em type="bold">Hvussu trívist tú í tínum arbeiði? </em>2%1%2%19%46%31%0%10%20%30%40%50% </p>
+<p>Veit ikki</p>
+<p xml:lang="nno">Heilt il a</p>
+<p xml:lang="eng">Il a</p>
 <p xml:lang="dan">Hampiligt</p>
-<p xml:lang="vep">2%</p>
-<p xml:lang="smj">Illa</p>
-<p>fiskavirkjunum  í  Føroyum  sum heild góður. Tey, sum hava arbeitt á flaka- og fiskavirkjum, siga eisini frá góðum vinskapi og samanhaldi Mynd 9. Hvussu trívist tú í tínum arbeiði?<em type="italic"> </em></p>
-<p xml:lang="vep">1%</p>
-<p xml:lang="fin">Heilt illa</p>
-<p xml:lang="vep">2%</p>
-<p>Veit ikki</p>
-<p xml:lang="vep">0%10%20%30%40%50%</p>
-<p><em type="italic">N=695</em> millum  arbeiðsfólki.  Hetta  staðfestir kanningin  eisini. Heili  77%  siga  seg  trívast  heilt gott  ella gott, meðan tað bert eru heilt fá, sum vísa á, at tey trívast illa ella heilt illa. Góði  trivnaðurin  er  at  finna  í  øllum  aldursbólkunum  og  er  eisini  galdandi  fyri  bæði kynini. </p>
-<p>Kanningin, sum varð gjørd millum ung í 2003, vísir eisini, at tey sum hava roynt seg í fiskivinnuni, vísa á góðar royndir, meðan tey, sum ikki hava arbeitt innan fiskivinnuna, eru meiri negativ yvir fyri fiskivinnuni sum heild.</p>
-<p><em type="italic">Nógv ynskja annað arbeiði </em></p>
-<p>Hóast  trivnaðurin millum  arbeiðsfólk á flaka-  og  fiskavirkjum  er  góður, so eru tað tó nógv sum siga, at tey høvdu farið í annað arbeiði / aðra vinnu, um tey fingu tilboð um</p>
-<p>hetta.  39%  siga, at tey høvdu farið í annað arbeiði / aðra vinnu, um tey høvdu fingið hetta tilboð, meðan 24% siga at tey høvdu  ikki  tikið  av  hesum  tilboði. Tað  eru  rættiliga  nógv  sum  ikki duga at siga, hvørt tey høvdu farið</p>
-<p>í  aðra  vinnu  –  35%  svarað,  at  tey ikki  vita,  um  tey  høvdu  farið  í annað arbeiði. Ein orsøk til hetta er møguliga, at ófaklært ikki hava so nógvar  valmøguleikar,  tá  tað  snýr</p>
-<p>seg  um ófaklært  arbeiði. Av  somu orsøk er trupult at ímynda sær, hvørja aðra vinnu tey skuldu fari í. Spurningurin er í so máta  kanska  ov  lítið  ítøkiligur  til,  at  tey  halda  seg  kunna  taka  greiða  støðu  til  hann. Hetta hava summi eisini viðmerkt í spurnablaðnum, har tey vísa á, at tey høvdu tikið av tilboðnum um annað arbeiði, um talan var um eitt ávíst slag av arbeiði.</p>
-<p><em type="bold">Hevði tú farið í annað arbeiði / aðra vinnu, um tú fekk tilboð um hetta?</em> </p>
-<p xml:lang="vep">39%</p>
-<p xml:lang="smj">Ja</p>
-<p xml:lang="vep">24%</p>
-<p xml:lang="nno">Nei</p>
-<p xml:lang="vep">35%</p>
-<p>Veit ikki</p>
-<p xml:lang="vep">2%</p>
+<p xml:lang="sms">Gott</p>
+<p>Heilt gott</p>
+<p>Mynd 8. Hvussu leingi hevur tú arbeitt á hesum flaka- / fiskavirki? <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=649 </em></p>
+<p><em type="bold">Hvussu leingi hevur tú arbeitt á </em><em type="bold">hesum flaka- / fiskavirkinum? </em>5%4%6%9%19%24%27%0%5%10%15%20%25%30% </p>
+<p xml:lang="isl">Longri enn 25 ár21-25 ár16-20 ár11-15 ár6-10 ár2-5 ár0-1 ár</p>
+<p>Mynd 7. Hvussu leingi hevur tú arbeitt á flaka- og fiskavirki? <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=691 </em></p>
+<p><em type="bold">Hvussu leingi hevur tú arbeitt á </em><em type="bold">flaka- og fiskavirki? </em>9%8%10%12%21%22%18%0%5%10%15%20%25% </p>
+<p xml:lang="isl">Longri enn 25 ár21-25 ár16-20 ár11-15 ár6-10 ár2-5 ár0-1 ár</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>16 millum arbeiðsfólki. Hetta staðfestir kanningin eisini. Heili 77% siga seg trívast heilt gott ella gott, meðan tað bert eru heilt fá, sum vísa á, at tey trívast illa ella heilt illa. Góði trivnaðurin er at finna í øllum aldursbólkunum og er eisini galdandi fyri bæði kynini. Kanningin, sum varð gjørd millum ung í 2003, vísir eisini, at tey sum hava roynt seg í fiskivinnuni, vísa á góðar royndir, meðan tey, sum ikki hava arbeitt innan fiskivinnuna, eru meiri negativ yvir fyri fiskivinnuni sum heild. </p>
+<p>Nógv ynskja annað arbeiði Hóast trivnaðurin millum arbeiðsfólk á flaka- og fiskavirkjum er góður, so eru tað tó nógv sum siga, at tey høvdu farið í annað arbeiði / aðra vinnu, um tey fingu tilboð um hetta. 39% siga, at tey høvdu farið í annað arbeiði / aðra vinnu, um tey høvdu fingið hetta tilboð, meðan 24% siga at tey høvdu ikki tikið av hesum tilboði. Tað eru rættiliga nógv sum ikki duga at siga, hvørt tey høvdu farið í aðra vinnu – 35% svarað, at tey ikki vita, um tey høvdu farið í annað arbeiði. Ein orsøk til hetta er møguliga, at ófaklært ikki hava so nógvar valmøguleikar, tá tað snýr seg um ófaklært arbeiði. Av somu orsøk er trupult at ímynda sær, hvørja aðra vinnu tey skuldu fari í. Spurningurin er í so máta kanska ov lítið ítøkiligur til, at tey halda seg kunna taka greiða støðu til hann. Hetta hava summi eisini viðmerkt í spurnablaðnum, har tey vísa á, at tey høvdu tikið av tilboðnum um annað arbeiði, um talan var um eitt ávíst slag av arbeiði.</p>
+<p>Mynd 10. Hevði tú farið í annað arbeiði / aðra vinnu, um tú fekk tilboð um hetta? <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=695 </em></p>
+<p><em type="bold">Hevði tú farið í annað arbeiði / aðra vinnu, um </em><em type="bold">tú fekk tilboð um hetta? </em>2%35%24%39%0%10%20%30%40%50% </p>
 <p xml:lang="isl">Annað</p>
-<p xml:lang="vep">0%10%20%30%40%50%</p>
-<p>Mynd  10.  Hevði  tú  farið  í  annað  arbeiði  /  aðra vinnu, um tú fekk tilboð um hetta?<em type="italic"> </em></p>
-<p xml:lang="kal"><em type="italic">N=695</em> </p>
-<p><em type="bold">600-800 fólk kundi hugsa sær annað arbeiði </em>Umroknað  í  mun  til  talið  av  lønmóttakarum  innan  fiskavøruídnaðin,  so  vísir </p>
-<p>kanningin,  at  600-800  fólk  (39%  av  1500-2000  arbeiðsfólkum)  á  flaka-  og fiskavirkjunum kundu hugsa sær at farið í annað arbeiði.</p>
-<p>63%  av  teimum,  sum  hava  svarað  spurnablaðnum,  hava  tó  tikið  eina  greiða  støðu  til spurningin, um tey høvdu farið í annað arbeiði, um hetta varð boðið teimum. Av hesum søgdu 61%, at tey høvdu farið í aðra vinnu, meðan 39% søgdu, at tey høvdu ikki farið í aðra vinnu, um tey fingu tilboð um hetta.</p>
-<p>Tað  eru  at  kalla  eins  nógvar  kvinnur  sum  menn,  ið  siga  seg  ynskja  annað  arbeiði. Umleið  39%  av  kvinnunum  og  smá  38%  av  monnunum  siga,  at  tey  høvdu  tikið  av tilboði um annað arbeiði, um hetta stóð teimum í boði. Smá 24% av kvinnunum siga, at tey ikki høvdu farið í annað arbeiði, og sama søgdu 25% av monnunum. Smá 35% av monnunum siga seg ikki vita, um teir høvdu farið í annað starv – tað sama er galdandi</p>
-<p>fyri góð 35% av kvinnunum.</p>
-<p>Tað eru serliga tey ungu, sum siga, at tey høvdu tikið av tilboði um at fara í aðra vinnu. Meiri enn helvtin av teimum, sum eru yngri enn 30 ár, siga at tey høvdu tikið av, um tey</p>
-<p>fingu í boði annað arbeiði. Nógv siga seg ikki vita, meðan tað bert eru fá, sum siga seg <em type="italic">ikki</em> vilja fara í aðra vinnu. </p>
-<p>Eisini ein munandi partur av teimum, sum eru millum 30 og 50 ár, siga, at tey høvdu tikið  av  tilboði  um  annað  arbeiði.  Nógv  í  hesum  aldursbólkunum  eru  tó  í  iva,  hetta</p>
-<p><em type="bold">Tey ungu høvdu tikið av tilboði um arbeiði í aðrari vinnu</em> </p>
-<p xml:lang="vep"><em type="bold">41,0%50,0%</em> </p>
-<p xml:lang="vep"><em type="bold">7,0%</em> </p>
-<p xml:lang="vep"><em type="bold">2,0%</em> </p>
-<p xml:lang="isl">Yngri enn 20 ár</p>
-<p xml:lang="vep"><em type="bold">54,0%</em> </p>
-<p xml:lang="vep"><em type="bold">9,4%</em> </p>
-<p xml:lang="vep"><em type="bold">31,7%</em> </p>
-<p xml:lang="vep"><em type="bold">5,0%</em> </p>
-<p xml:lang="isl">20-29 ár</p>
-<p xml:lang="vep"><em type="bold">36,2%</em> </p>
-<p xml:lang="vep"><em type="bold">12,4%</em> </p>
-<p xml:lang="vep"><em type="bold">49,5%</em> </p>
-<p xml:lang="vep"><em type="bold">1,9%</em> </p>
-<p xml:lang="isl">30-39 ár</p>
-<p xml:lang="vep"><em type="bold">36,8%</em> </p>
-<p xml:lang="vep"><em type="bold">26,5%</em> </p>
-<p xml:lang="vep"><em type="bold">35,0%</em> </p>
-<p xml:lang="vep"><em type="bold">1,7%</em> </p>
-<p xml:lang="isl">40-49 ár</p>
-<p xml:lang="vep"><em type="bold">27,4%</em> </p>
-<p xml:lang="vep"><em type="bold">36,8%</em> </p>
-<p xml:lang="vep"><em type="bold">35,8%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="isl">50-59 ár</p>
-<p xml:lang="vep"><em type="bold">19,8%</em> </p>
-<p xml:lang="vep"><em type="bold">59,3%</em> </p>
-<p xml:lang="vep"><em type="bold">20,9%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="isl">60 ár og eldri</p>
-<p xml:lang="vep">0%20%40%60%80%100%</p>
-<p>JaNeiVeit ikkiAnnað</p>
-<p>Mynd 11. Tey ungu høvdu tikið av tilboði um arbeiði í aðrari vinnu? <em type="italic">Sp.: Hevði tú farið í annað arbeiði/aðra vinnu, um tú fekk tilboð um hetta? </em></p>
-<p><em type="italic">N=658</em> serliga galdandi fyri aldursbólkin 30-39 ár. Í hesum aldursbólkinum eru tað tó lutfalsliga fá, sum siga, at tey ikki høvdu tikið av tilboði um arbeiði í aðrari vinnu.  </p>
-<p>Kanningin vísir – ikki óvæntað – at jú eldri fólk eru, jú minni er hugurin til at fara í aðra vinnu. Tað eru uttan iva fleiri orsøkir til hetta. Ein orsøk kann vera, at tey, sum eru farin</p>
-<p>um 50 ár, møguliga ikki kenna seg føran fyri at skifta tað kenda arbeiðið út við eitt nýtt ókent arbeiðspláss. Onnur hava helst eisini fyri fleiri árum síðani valt arbeiðið á flaka- og fiskavirki sum sítt lívsstarv. Nógv av teimum, sum eru farin um 60 ár, hava arbeitt á flaka-  og  fiskavirki  í  nógv  ár  og  ætla  tí  helst  eisini  at  enda  sítt  arbeiðslív  í  hesari vinnuni.</p>
-<p><em type="italic">Nógv vænta tey eru í aðrari vinnu um 5 ár </em></p>
-<p>Sum víst í partinum omanfyri, so eru tað nógv, sum siga, at tey høvdu tikið av tilboði um  annað  arbeiði,  um  tey  fingu hetta  tilboð.  Kanningin  vísir eisini, at tað eru heilt nógv, sum vænta,  at  tey  eru  í  aðrari  vinnu</p>
-<p>um 5 ár. Ein triðingur siga, at tey ikki  vænta  at  arbeiða  á  einum flaka- og fiskavirki um 5 ár. Eitt lítið  sindur  færri  –  31%  siga,  at tey  vænta,  at  tey  eru  á  einum</p>
-<p>flaka ella fiskavirki um 5 ár. 38% siga seg ikki vita.</p>
-<p>Aftur her eru tað serliga tey ungu, sum ikki vænta, at tey eru í fiskivinnuni á landi um 5 ár. Útivið 80% av teimum, sum eru yngri enn 20 ár, vænta ikki, at tey eru á einum flaka- og fiskavirki um 5 ár. Bert 2% av teimum, sum eru yngri enn 20 ár, síggja seg á einum</p>
-<p>flaka- og fiskavirki um 5 ár, meðan umleið 18,5% siga seg ikki vita. Orsøkin til greiða svarið hjá teimum ungu er uttan iva, at tey flestu ungu ætla at fáa sær eina útbúgving – fyrst  á  miðnámsskúla  og  síðani  eina  framhaldandi  útbúgving.  Hetta  er  ein  av  greiðu niðurstøðunum í kanningini millum ung í 2003.</p>
-<p><em type="bold">Væntar tú at arbeiða á einum flaka- og fiskavirki um 5 ár?</em> </p>
-<p xml:lang="vep">31%</p>
-<p xml:lang="smj">Ja</p>
-<p xml:lang="vep">33%</p>
-<p xml:lang="nno">Nei</p>
-<p xml:lang="vep">38%</p>
 <p>Veit ikki</p>
-<p xml:lang="vep">0%</p>
+<p xml:lang="nno">Nei</p>
+<p>Ja <em type="bold">600-800 fólk kundi hugsa sær annað arbeiði </em></p>
+<p>Umroknað í mun til talið av lønmóttakarum innan fiskavøruídnaðin, so vísir kanningin, at 600-800 fólk (39% av 1500-2000 arbeiðsfólkum) á flaka- og fiskavirkjunum kundu hugsa sær at farið í annað arbeiði.</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>17 63% av teimum, sum hava svarað spurnablaðnum, hava tó tikið eina greiða støðu til spurningin, um tey høvdu farið í annað arbeiði, um hetta varð boðið teimum. Av hesum søgdu 61%, at tey høvdu farið í aðra vinnu, meðan 39% søgdu, at tey høvdu ikki farið í aðra vinnu, um tey fingu tilboð um hetta. Tað eru at kalla eins nógvar kvinnur sum menn, ið siga seg ynskja annað arbeiði. Umleið 39% av kvinnunum og smá 38% av monnunum siga, at tey høvdu tikið av tilboði um annað arbeiði, um hetta stóð teimum í boði. Smá 24% av kvinnunum siga, at tey ikki høvdu farið í annað arbeiði, og sama søgdu 25% av monnunum. Smá 35% av monnunum siga seg ikki vita, um teir høvdu farið í annað starv – tað sama er galdandi fyri góð 35% av kvinnunum. Tað eru serliga tey ungu, sum siga, at tey høvdu tikið av tilboði um at fara í aðra vinnu. Meiri enn helvtin av teimum, sum eru yngri enn 30 ár, siga at tey høvdu tikið av, um tey fingu í boði annað arbeiði. Nógv siga seg ikki vita, meðan tað bert eru fá, sum siga seg <em type="italic">ikki </em>vilja fara í aðra vinnu. Eisini ein munandi partur av teimum, sum eru millum 30 og 50 ár, siga, at tey høvdu tikið av tilboði um annað arbeiði. Nógv í hesum aldursbólkunum eru tó í iva, hetta </p>
+<p>Mynd 11. Tey ungu høvdu tikið av tilboði um arbeiði í aðrari vinnu?</p>
+<p><em type="italic">Sp.: Hevði tú farið í annað arbeiði/aðra vinnu, um tú fekk tilboð um hetta? </em></p>
+<p xml:lang="kal"><em type="italic">N=658 </em></p>
+<p><em type="bold">Tey ungu høvdu tikið av tilboði um arbeiði í aðrari vinnu </em><em type="bold">19,8% </em><em type="bold">27,4% </em><em type="bold">36,8% </em><em type="bold">36,2% </em><em type="bold">54,0% </em><em type="bold">59,3% </em><em type="bold">26,5% </em><em type="bold">12,4% </em><em type="bold">9,4% </em><em type="bold">20,9% </em><em type="bold">36,8% </em><em type="bold">35,0% </em><em type="bold">49,5% </em><em type="bold">31,7% </em><em type="bold">41,0% </em><em type="bold">50,0% </em><em type="bold">35,8% </em><em type="bold">7,0% </em><em type="bold">0,0% </em><em type="bold">0,0% </em><em type="bold">1,9% </em><em type="bold">5,0% </em><em type="bold">2,0% </em><em type="bold">1,7% </em>0%20%40%60%80%100%60 ár og eldri50-59 ár40-49 ár30-39 ár20-29 ár </p>
+<p xml:lang="isl">Yngri enn 20 ár</p>
+<p xml:lang="smj">Ja</p>
+<p xml:lang="nno">Nei</p>
+<p>Veit ikki</p>
 <p xml:lang="isl">Annað</p>
-<p xml:lang="vep">0%10%20%30%40%50%</p>
-<p>Mynd 12. Hvussu trívist tú í tínum arbeiði?<em type="italic"> </em></p>
-<p><em type="italic">N=695</em> <em type="bold">Tey ungu ætla ikki at verða verandi á flaka- og fiskavirkjum</em> </p>
-<p xml:lang="vep"><em type="bold">79,4%</em> </p>
-<p xml:lang="vep"><em type="bold">18,6%2,0%</em> </p>
-<p xml:lang="isl">Yngri enn 20 ár</p>
-<p xml:lang="vep"><em type="bold">13,0%</em> </p>
-<p xml:lang="vep"><em type="bold">49,3%</em> </p>
-<p xml:lang="vep"><em type="bold">37,7%</em> </p>
-<p xml:lang="isl">20-29 ár</p>
-<p xml:lang="vep"><em type="bold">25,9%</em> </p>
-<p xml:lang="vep"><em type="bold">14,8%</em> </p>
-<p xml:lang="vep"><em type="bold">59,3%</em> </p>
-<p xml:lang="isl">30-39 ár</p>
-<p xml:lang="vep"><em type="bold">45,8%</em> </p>
-<p xml:lang="vep"><em type="bold">11,0%</em> </p>
-<p xml:lang="vep"><em type="bold">42,4%</em> </p>
-<p xml:lang="vep"><em type="bold">0,8%</em> </p>
-<p xml:lang="isl">40-49 ár</p>
-<p xml:lang="vep"><em type="bold">61,3%</em> </p>
-<p xml:lang="vep"><em type="bold">31,5%</em> </p>
-<p xml:lang="vep"><em type="bold">7,2%</em> </p>
-<p xml:lang="isl">50-59 ár</p>
-<p xml:lang="vep"><em type="bold">31,3%</em> </p>
-<p xml:lang="vep"><em type="bold">34,4%</em> </p>
-<p xml:lang="vep"><em type="bold">34,4%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="vep"><em type="bold">0,0%</em> </p>
-<p xml:lang="isl">60 ár og eldri</p>
-<p xml:lang="vep">0%20%40%60%80%100%</p>
-<p>JaNeiVeit ikkiAnnað</p>
-<p>Mynd 13. Tey ungu ætla ikki at verða verandi á flaka- og fiskavirkjum?<em type="italic"> Sp.: Væntar tú at arbeiða á einum flaka- ella fiskavirki um 5 ár? </em></p>
-<p xml:lang="kal"><em type="italic">N=673</em> </p>
-<p>Ímillum tey, sum eru 20-29 ár, eru tað eisini fá, sum vænta, at tey eru á einum flaka- ella  fiskavirki  um  5  ár  –  bert  13%. Útivið  helvtin  av  teimum  20-29 ára  gomlu  vænta</p>
-<p>ikki, at tey eru á einum flaka- ella fiskavirki um 5 ár, meðan smá 38% siga seg ikki vita. Hugsandi er, at ein partur av teimum, sum eru í hesum aldursbólkinum, eru steðgaði á eftir miðnámsskúla, og at tey hava ætlanir um framhaldandi útbúgving.</p>
-<p>Tað ein stórur partur av teimum eldri ættarliðunum á flaka- og fiskavirkinum, sum siga seg  vænta  at  halda  áfram  í  vinnuni.  Hetta  siga  umleið  helvtin  av  teimum,  sum  eru</p>
-<p>millum  40-49  ár,  meðan  fleiri  enn  60%  av  teimum,  sum  eru  50-59  ár,  vænta,  at  tey arbeiða á flaka- ella fiskavirki um 5 ár.</p>
-<p>Ein munandi partur av teimum, sum eru farin um 60 ár, siga, at tey vænta ikki, at tey eru á  flaka-  og  fiskavirki  um  5  ár.  Høvuðsorsøkin  til  hetta  er  helst,  at  tey  tá  eru  vorðin</p>
-<p>pensjónistar og eru givin á arbeiðsmarknaðinum.</p>
-<p><em type="italic">Tey royndu vilja halda áfram í vinnuni </em></p>
-<p>Sum víst í mynd 13 omanfyri, so eru tað serliga tey eldru ættarliðini í kanningini, sum ynskja at halda áfram í fiskivinnuni á landi og hartil vænta, at tey eru í vinnuni um 5 ár.</p>
-<p>Eitt annað, sum er galdandi fyri tey, sum vilja halda áfram í vinnuni, er, at tað eru tey royndu, sum vilja halda áfram í vinnuni. Kanningin vísir, at jú longri áramál fólk hava arbeitt á flaka- og fiskavirki, jú størri er áhugin í at halda áfram í vinnuni. Hinvegin vísir kanningin eisini, at tey sum hava arbeitt á flaka- og fiskavirki í eitt longri áramál, eisini eru  tey,  sum  eru  mest  í  iva,  tá  spurt  verður,  um  tey  ynskja  at  halda  áfram  í  vinnuni.</p>
-<p>Orsøkin til hetta kann t.d. verða, at hesi illa duga at síggja, hvørja aðra vinnu tey skuldu farið í.</p>
-<p><em type="italic">Seinasta ættarliðið av føroyingum á flaka- og fiskavirkjunum?  </em></p>
-<p>Í grannalondum okkara hevur gongdin í fleiri ár verið tann, at færri og færri fólk arbeiða sum ófaklærd innan ídnaðarframleiðslur. Hesar framleiðslur eru í ávísan mun fluttar til láglønarlond  í  Eystur-Evropa  ella  í  Asia,  meðan  umleggingar  í  summum  førum  hava</p>
-<p>ført  við  sær  økta  automatisering  og  við  tí  eina  rationalisering.  Í  mið-vestur  Jútlandi  í Danmark  er  eitt  ítøkiligt  dømi  um,  at  tann  -  fyri  økið  -  fyrr  so  avgerandi klædnaídnaðurin er minkaður niður í onki. Og líkt er til, at verandi ættarlið av seymukvinnum  er  seinasta  av  sínum  slag´  í  økinum.  Í  einum  føroyskum  høpi  er  tað  tískil spurningurin,  um  ættarliðið,  sum  nú  er  kjarnin  á  flaka-  og  fiskavirkjunum,  er  tað</p>
-<p>seinasta ættarliðið av føroyingum á flaka- og fiskavirkjunum?</p>
-<p>Í  spurnablaðskanningini  verður spurt: <em type="italic">Ynskir tú, at børn tíni – eins og  tú  –  skulu  arbeiða  á  flaka-  og </em></p>
-<p><em type="italic">fiskavirki?</em>  Bert  heilt  fá  –  7  %  – svaraðu, at tey ynskja at børn teirra skulu arbeiða á flaka- og fiskavirki. 62%  søgdu,  at  tey  ynskja  ikki,  at børn  teirra  skulu  arbeiða  á  flaka- og  fiskavirki,  meðan  18%  søgdu </p>
-<p>Í mið-vestur Jútlandi varð nógv orka brúkt upp á at umskúla tey, sum arbeiddu innan hesa vinnuna. Og</p>
-<p>tað  eydnaðist  eisini  í  heilt  stóran  mun  at  finna  nýggj  arbeiðir  til  tey  6.000  fólkini,  sum  mistu  arbeiðið orsaka  av,  at  framleiðslur  vórðu  fluttar  í  láglønarlond  (Seminar  við  Torben  Henriksen,  stjóri  fyri Vinnuframahúsinum í Herning økinum, í Øravík á vári 2006).</p>
-<p><em type="bold">Ynskir tú, at børn tíni skulu arbeiða á flaka- og/ella fiskavirki?</em> </p>
-<p xml:lang="vep">7%</p>
-<p xml:lang="smj">Ja</p>
-<p xml:lang="vep">62%</p>
-<p xml:lang="nno">Nei</p>
-<p xml:lang="vep">18%</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>18 serliga galdandi fyri aldursbólkin 30-39 ár. Í hesum aldursbólkinum eru tað tó lutfalsliga fá, sum siga, at tey ikki høvdu tikið av tilboði um arbeiði í aðrari vinnu. Kanningin vísir – ikki óvæntað – at jú eldri fólk eru, jú minni er hugurin til at fara í aðra vinnu. Tað eru uttan iva fleiri orsøkir til hetta. Ein orsøk kann vera, at tey, sum eru farin um 50 ár, møguliga ikki kenna seg føran fyri at skifta tað kenda arbeiðið út við eitt nýtt ókent arbeiðspláss. Onnur hava helst eisini fyri fleiri árum síðani valt arbeiðið á flaka- og fiskavirki sum sítt lívsstarv. Nógv av teimum, sum eru farin um 60 ár, hava arbeitt á flaka- og fiskavirki í nógv ár og ætla tí helst eisini at enda sítt arbeiðslív í hesari vinnuni. </p>
+<p>Nógv vænta tey eru í aðrari vinnu um 5 ár Sum víst í partinum omanfyri, so eru tað nógv, sum siga, at tey høvdu tikið av tilboði um annað arbeiði, um tey fingu hetta tilboð. Kanningin vísir eisini, at tað eru heilt nógv, sum vænta, at tey eru í aðrari vinnu um 5 ár. Ein triðingur siga, at tey ikki vænta at arbeiða á einum flaka- og fiskavirki um 5 ár. Eitt lítið sindur færri – 31% siga, at tey vænta, at tey eru á einum flaka ella fiskavirki um 5 ár. 38% siga seg ikki vita. Aftur her eru tað serliga tey ungu, sum ikki vænta, at tey eru í fiskivinnuni á landi um 5 ár. Útivið 80% av teimum, sum eru yngri enn 20 ár, vænta ikki, at tey eru á einum flaka- og fiskavirki um 5 ár. Bert 2% av teimum, sum eru yngri enn 20 ár, síggja seg á einum flaka- og fiskavirki um 5 ár, meðan umleið 18,5% siga seg ikki vita. Orsøkin til greiða svarið hjá teimum ungu er uttan iva, at tey flestu ungu ætla at fáa sær eina útbúgving – fyrst á miðnámsskúla og síðani eina framhaldandi útbúgving. Hetta er ein av greiðu niðurstøðunum í kanningini millum ung í 2003.</p>
+<p>Mynd 12. Hvussu trívist tú í tínum arbeiði? <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=695 </em></p>
+<p><em type="bold">Væntar tú at arbeiða á einum flaka- </em><em type="bold">og fiskavirki um 5 ár? </em>0%38%33%31%0%10%20%30%40%50% </p>
+<p xml:lang="isl">Annað</p>
 <p>Veit ikki</p>
-<p xml:lang="vep">13%</p>
+<p xml:lang="nno">Nei</p>
+<p xml:lang="smj">Ja</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>19 </p>
+<p>Ímillum tey, sum eru 20-29 ár, eru tað eisini fá, sum vænta, at tey eru á einum flaka- ella fiskavirki um 5 ár – bert 13%. Útivið helvtin av teimum 20-29 ára gomlu vænta ikki, at tey eru á einum flaka- ella fiskavirki um 5 ár, meðan smá 38% siga seg ikki vita. Hugsandi er, at ein partur av teimum, sum eru í hesum aldursbólkinum, eru steðgaði á eftir miðnámsskúla, og at tey hava ætlanir um framhaldandi útbúgving. Tað ein stórur partur av teimum eldri ættarliðunum á flaka- og fiskavirkinum, sum siga seg vænta at halda áfram í vinnuni. Hetta siga umleið helvtin av teimum, sum eru millum 40-49 ár, meðan fleiri enn 60% av teimum, sum eru 50-59 ár, vænta, at tey arbeiða á flaka- ella fiskavirki um 5 ár. Ein munandi partur av teimum, sum eru farin um 60 ár, siga, at tey vænta ikki, at tey eru á flaka- og fiskavirki um 5 ár. Høvuðsorsøkin til hetta er helst, at tey tá eru vorðin pensjónistar og eru givin á arbeiðsmarknaðinum.</p>
+<p>Tey royndu vilja halda áfram í vinnuni Sum víst í mynd 13 omanfyri, so eru tað serliga tey eldru ættarliðini í kanningini, sum ynskja at halda áfram í fiskivinnuni á landi og hartil vænta, at tey eru í vinnuni um 5 ár.</p>
+<p>Mynd 13. Tey ungu ætla ikki at verða verandi á flaka- og fiskavirkjum? <em type="italic"></em></p>
+<p><em type="italic">Sp.: Væntar tú at arbeiða á einum flaka- el a fiskavirki um 5 ár? </em></p>
+<p xml:lang="kal"><em type="italic">N=673 </em></p>
+<p><em type="bold">Tey ungu ætla ikki at verða verandi á flaka- og </em><em type="bold">fiskavirkjum </em><em type="bold">31,3% </em><em type="bold">61,3% </em><em type="bold">45,8% </em><em type="bold">25,9% </em><em type="bold">13,0% </em><em type="bold">34,4% </em><em type="bold">11,0% </em><em type="bold">14,8% </em><em type="bold">49,3% </em><em type="bold">79,4% </em><em type="bold">34,4% </em><em type="bold">31,5% </em><em type="bold">42,4% </em><em type="bold">59,3% </em><em type="bold">37,7% </em><em type="bold">18,6% </em><em type="bold">2,0% </em><em type="bold">7,2% </em><em type="bold">0,8% </em><em type="bold">0,0% </em><em type="bold">0,0% </em><em type="bold">0,0% </em><em type="bold">0,0% </em><em type="bold">0,0% </em>0%20%40%60%80%100%60 ár og eldri50-59 ár40-49 ár30-39 ár20-29 ár </p>
+<p xml:lang="isl">Yngri enn 20 ár</p>
+<p xml:lang="smj">Ja</p>
+<p xml:lang="nno">Nei</p>
+<p>Veit ikki</p>
+<p xml:lang="isl">Annað</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>20 </p>
+<p>Eitt annað, sum er galdandi fyri tey, sum vilja halda áfram í vinnuni, er, at tað eru tey royndu, sum vilja halda áfram í vinnuni. Kanningin vísir, at jú longri áramál fólk hava arbeitt á flaka- og fiskavirki, jú størri er áhugin í at halda áfram í vinnuni. Hinvegin vísir kanningin eisini, at tey sum hava arbeitt á flaka- og fiskavirki í eitt longri áramál, eisini eru tey, sum eru mest í iva, tá spurt verður, um tey ynskja at halda áfram í vinnuni. Orsøkin til hetta kann t.d. verða, at hesi illa duga at síggja, hvørja aðra vinnu tey skuldu farið í.</p>
+<p>Seinasta ættarliðið av føroyingum á flaka- og fiskavirkjunum? Í grannalondum okkara hevur gongdin í fleiri ár verið tann, at færri og færri fólk arbeiða sum ófaklærd innan ídnaðarframleiðslur. Hesar framleiðslur eru í ávísan mun fluttar til láglønarlond í Eystur-Evropa ella í Asia, meðan umleggingar í summum førum hava ført við sær økta automatisering og við tí eina rationalisering. Í mið-vestur Jútlandi í Danmark er eitt ítøkiligt dømi um, at tann - fyri økið - fyrr so avgerandi klædnaídnaðurin er minkaður niður í onki. Og líkt er til, at verandi ættarlið av seymukvinnum er seinasta av sínum slag´ í økinum.4 Í einum føroyskum høpi er tað tískil spurningurin, um ættarliðið, sum nú er kjarnin á flaka- og fiskavirkjunum, er tað seinasta ættarliðið av føroyingum á flaka- og fiskavirkjunum? Í spurnablaðskanningini verður spurt: <em type="italic">Ynskir tú, at børn tíni – eins og tú – skulu arbeiða á flaka- og fiskavirki? </em>Bert heilt fá – 7 % – svaraðu, at tey ynskja at børn teirra skulu arbeiða á flaka- og fiskavirki. 62% søgdu, at tey ynskja ikki, at børn teirra skulu arbeiða á flaka- og fiskavirki, meðan 18% søgdu 4 Í mið-vestur Jútlandi varð nógv orka brúkt upp á at umskúla tey, sum arbeiddu innan hesa vinnuna. Og tað eydnaðist eisini í heilt stóran mun at finna nýggj arbeiðir til tey 6.000 fólkini, sum mistu arbeiðið orsaka av, at framleiðslur vórðu fluttar í láglønarlond (Seminar við Torben Henriksen, stjóri fyri </p>
+<p>Vinnuframahúsinum í Herning økinum, í Øravík á vári 2006).</p>
+<p>Mynd 14. Ynskir tú, at børn tíni skulu arbeiða á flaka- og/el a fiskavirki <em type="italic"></em></p>
+<p xml:lang="kal"><em type="italic">N=438 </em></p>
+<p><em type="bold">Ynskir tú, at børn tíni skulu arbeiða </em><em type="bold">á flaka- og/ella fiskavirki? </em>13%18%62%7%0%20%40%60%80% </p>
 <p>Børn míni eru í aðrari vinnu</p>
-<p xml:lang="vep">0%20%40%60%80%</p>
-<p>Mynd  14.  Ynskir  tú,  at  børn  tíni  skulu  arbeiða  á flaka- og/ella fiskavirki<em type="italic"> </em></p>
-<p><em type="italic">N=438</em> seg ikki vita. 13% søgdu, at børn teirra vóru í aðrari vinnu. Sí eisini mynd 14. </p>
-<p>Hetta  bendir  á,  at  ein  stórur  partur  av  foreldrunum  –  sum  arbeiða  á  flaka-  og fiskavirkjum – <em type="italic">ikki</em> ynskja at børn teirra skulu arbeiða á flaka- og fiskavirkjum. Rákið í samfelagnum  sum  heild  eggjar  ungum  at  fara  undir  eina  førleikagevandi  útbúgving. </p>
-<p>Hetta  rákið  ávirkar  sjálvsagt  eisini  foreldur,  sum  somuleiðis  eru  við  til  at  eggja børnunum til at nema sær útbúgving – hetta er eisini galdandi fyri foreldur, sum arbeiða á flaka- og fiskavirkjum.</p>
-<p>Samanumtikið kann sigast, at kanningin millum arbeiðsfólk á flaka- og fiskavirkjum í</p>
-<p>Føroyum vísir, at hóast trivnaðurin á virkjunum er góður, so eru tað nógv, sum kundu hugsa sær at farið í annað arbeiði. Kanningin vísir í fyrsta lagi, at ein stórur partur av teimum,  sum  eru  yngri  enn  30  ár,  høvdu  tikið  av  tilboði  um  arbeiði  í  aðrari  vinnu.  Í øðrum  lagi  vísir  kanningin  eisini,  at  ein  stórur  partur  av  teimum,  sum  eru  í  hesum aldursbólkinum vænta ikki, at tey arbeiða á flaka- ella fiskavirki um 5 ár. At enda vísir kanningin eisini, at foreldur ynskja <em type="italic">ikki,</em> at børn teirra – eins og tey – skulu arbeiða á </p>
-<p>flaka- ella fiskavirki.</p>
-<p><em type="bold">Hvat halda tey ungu? </em></p>
-<p>Tá  ein  stórur  partur  av  teimum,  sum  arbeiða  á  flaka-  og  fiskavirki  ynskja  at  sleppa burtur úr vinnuni, og tey, sum eru í vinnuni, ikki ynskja, at teirra eftirkomarar skulu fara í  hesa  vinnuna,  so  er  spurningurin,  hvat  komandi  ættarlið  sigur  til  at  fara  í  arbeiði  í flaka- og fiskivinnuni á landi?</p>
-<p><em type="bold">Tey ungu frávelja flaka- og fiskivinnuna </em></p>
-<p>Kanningin, sum Granskingardepilin fyri Økismenning gjørdi millum ung í 2003 gevur greið  svar  upp  á  spurningin  omanfyri:  Tey  ungu  hava  lítlan  áhuga  í,  at  flaka-  og fiskivinnan á landi skal gerast teirra framtíðar vinna. Sí eisini myndina niðanfyri.</p>
-<p>Kanningin  frá  2003  vísir,  at  bert  3,2%  av  teimum  ungu  ynskja  at  arbeiða  innan</p>
-<p>fiskivinnuna á landi. Býtt á kyn er talan um, at einans 5,2% av dreingjunum og 1,7% av</p>
-<p>Hesin  parturin er grundaður á frágreiðingina <span type="quote">“Ung, útbúgving og fiskivinnan”</span>, sum Olga Biskupstø og</p>
-<p>Bjarni  Mortensen  hava  skrivað.  Frágreiðingin  er  grundað  á  spurnablaðskanning,  sum  varð  gjørd  millum øll, sum gingu í 9. flokki og í 3. flokki í miðnámsskúlunum í 2003. Frágreiðingin varð í 2004 givin út sum Arbeiðsrit  9/2004  av  Granskingardeplinum  fyri  Økismenning  –  og  kann  eisini  takast  niður  á  www. region.fo.</p>
-<p><em type="bold">Hvar vilja tey ungu helst arbeiða? </em></p>
-<p xml:lang="vep">19,6%</p>
-<p xml:lang="nob">Frisør, andlits- og kropsrøkt</p>
-<p xml:lang="vep">18,4%</p>
-<p>Tónleik,list</p>
-<p xml:lang="vep">17,8%</p>
-<p>Sakførari og Grannskoðan</p>
-<p xml:lang="vep">16,9%</p>
-<p>Heilsu- og almannaøkið</p>
-<p xml:lang="vep">14,2%</p>
-<p>Hotel/matstova/ferðavinna</p>
-<p xml:lang="vep">14,1%</p>
-<p xml:lang="nno">Undirvísing og gransking</p>
-<p xml:lang="vep">13,9%</p>
-<p xml:lang="isl">Ítróttur</p>
-<p xml:lang="vep">13,0%</p>
-<p>Fiskiskapur</p>
-<p xml:lang="vep">12,9%</p>
-<p xml:lang="nob">Handverk og bygging</p>
-<p xml:lang="vep">11,1%</p>
-<p xml:lang="isl">Handilsvinnan</p>
-<p xml:lang="vep">10,6%</p>
-<p>Fjølmiðlar</p>
-<p xml:lang="vep">10,2%</p>
-<p xml:lang="isl">Grafik/lýsingar</p>
-<p xml:lang="vep">9,3%</p>
-<p>KT-vinna</p>
-<p xml:lang="vep">8,7%</p>
-<p xml:lang="nob">Verkfrøði/arkitektur</p>
-<p xml:lang="vep">8,7%</p>
-<p>Banki/trygging</p>
-<p xml:lang="vep">3,2%</p>
-<p xml:lang="isl">Fiskivinnan á landi</p>
-<p xml:lang="vep">3,1%</p>
-<p xml:lang="isl">Flutningsvinnan</p>
-<p xml:lang="vep">2,9%</p>
-<p xml:lang="isl">Alivinnan</p>
-<p xml:lang="vep">2,7%</p>
+<p>Veit ikki</p>
+<p xml:lang="nno">Nei</p>
+<p xml:lang="smj">Ja</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>21 seg ikki vita. 13% søgdu, at børn teirra vóru í aðrari vinnu. Sí eisini mynd 14. Hetta bendir á, at ein stórur partur av foreldrunum – sum arbeiða á flaka- og fiskavirkjum – <em type="italic">ikki </em>ynskja at børn teirra skulu arbeiða á flaka- og fiskavirkjum. Rákið í samfelagnum sum heild eggjar ungum at fara undir eina førleikagevandi útbúgving. Hetta rákið ávirkar sjálvsagt eisini foreldur, sum somuleiðis eru við til at eggja børnunum til at nema sær útbúgving – hetta er eisini galdandi fyri foreldur, sum arbeiða á flaka- og fiskavirkjum. Samanumtikið kann sigast, at kanningin millum arbeiðsfólk á flaka- og fiskavirkjum í Føroyum vísir, at hóast trivnaðurin á virkjunum er góður, so eru tað nógv, sum kundu hugsa sær at farið í annað arbeiði. Kanningin vísir í fyrsta lagi, at ein stórur partur av teimum, sum eru yngri enn 30 ár, høvdu tikið av tilboði um arbeiði í aðrari vinnu. Í øðrum lagi vísir kanningin eisini, at ein stórur partur av teimum, sum eru í hesum aldursbólkinum vænta ikki, at tey arbeiða á flaka- ella fiskavirki um 5 ár. At enda vísir kanningin eisini, at foreldur ynskja <em type="italic">ikki, </em>at børn teirra – eins og tey – skulu arbeiða á flaka- ella fiskavirki. </p>
+<p><em type="bold">Hvat halda tey ungu? </em>Tá ein stórur partur av teimum, sum arbeiða á flaka- og fiskavirki ynskja at sleppa burtur úr vinnuni, og tey, sum eru í vinnuni, ikki ynskja, at teirra eftirkomarar skulu fara í hesa vinnuna, so er spurningurin, hvat komandi ættarlið sigur til at fara í arbeiði í flaka- og fiskivinnuni á landi? </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>22 </p>
+<p><em type="bold">Tey ungu frávelja flaka- og fiskivinnuna5 </em>Kanningin, sum Granskingardepilin fyri Økismenning gjørdi millum ung í 2003 gevur greið svar upp á spurningin omanfyri: Tey ungu hava lítlan áhuga í, at flaka- og fiskivinnan á landi skal gerast teirra framtíðar vinna. Sí eisini myndina niðanfyri. Kanningin frá 2003 vísir, at bert 3,2% av teimum ungu ynskja at arbeiða innan fiskivinnuna á landi. Býtt á kyn er talan um, at einans 5,2% av dreingjunum og 1,7% av 5 Hesin parturin er grundaður á frágreiðingina <span type="quote">“Ung, útbúgving og fiskivinnan”</span>, sum Olga Biskupstø og </p>
+<p>Bjarni Mortensen hava skrivað. Frágreiðingin er grundað á spurnablaðskanning, sum varð gjørd millum øll, sum gingu í 9. flokki og í 3. flokki í miðnámsskúlunum í 2003. Frágreiðingin varð í 2004 givin út sum</p>
+<p>Arbeiðsrit 9/2004 av Granskingardeplinum fyri Økismenning – og kann eisini takast niður á www. region.fo.</p>
+<p><em type="bold">Hvar vilja tey ungu helst arbeiða? </em>10,9%21,0%2,6%2,6%2,7%2,9%3,1%3,2%8,7%8,7%9,3%10,2%10,6%11,1%12,9%13,0%13,9%14,1%14,2%16,9%17,8%18,4%19,6%0,0%5,0%10,0%15,0%20,0%25,0% </p>
+<p>Veit ikki</p>
+<p xml:lang="isl">Annað</p>
+<p xml:lang="isl">Landbúnaður</p>
+<p>Almen umsiting</p>
 <p xml:lang="isl">Ídnaðar- og framleiðsluvinna</p>
-<p xml:lang="vep">2,6%</p>
-<p>Almen umsiting</p>
-<p xml:lang="vep">2,6%</p>
-<p xml:lang="isl">Landbúnaður</p>
-<p xml:lang="vep">21,0%</p>
-<p xml:lang="isl">Annað</p>
-<p xml:lang="vep">10,9%</p>
-<p>Veit ikki</p>
-<p xml:lang="vep">0,0%5,0%10,0%15,0%20,0%25,0%</p>
-<p>Mynd 15. Hvar vilja tey ungu arbeiða? <em type="italic">Kelda: Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em>gentunum  ynskja,  at  teirra  framtíðarstarv  skal  verða  innan  fiskivinnuna  á  landi  –  sí eisini mynd 16. niðanfyri.  </p>
-<p>Mynd 16. Hvar vilja føroyskar gentur og føroyskir dreingir arbeiða?</p>
-<p><em type="bold">Hvar vilja føroyskar gentur helst arbeiða? </em></p>
-<p xml:lang="vep">36,2%</p>
-<p xml:lang="vep">29,2%</p>
-<p>Heilsu- og almannaøkið</p>
-<p xml:lang="nob">Frisør, andlits- og kropsrøkt</p>
-<p xml:lang="vep">21,9%</p>
-<p xml:lang="nno">Ho tel/matstova/ferðavinna</p>
-<p xml:lang="vep">21,5%</p>
-<p xml:lang="isl">Sakførari o g Grannsko ðan</p>
-<p xml:lang="vep">19,9%</p>
-<p>Tónleik,list</p>
-<p xml:lang="vep">17,2%</p>
-<p xml:lang="nno">Undirvísing og gransking</p>
-<p xml:lang="vep">13,3%</p>
-<p>Fjølmiðlar</p>
-<p xml:lang="vep">12,4%</p>
-<p xml:lang="isl">Handilsvinnan</p>
-<p xml:lang="vep">10,8%</p>
-<p>Banki/trygging</p>
-<p xml:lang="vep">9,1%</p>
-<p xml:lang="isl">Grafik/lýsingar</p>
-<p xml:lang="vep">8,9%</p>
-<p xml:lang="nob">Verkfrøði/arkitektur</p>
-<p xml:lang="vep">8,3%</p>
-<p xml:lang="isl">Ítróttur</p>
-<p xml:lang="vep">3,1%</p>
-<p>Almen umsiting</p>
-<p xml:lang="vep">2,9%</p>
-<p xml:lang="nob">Handverk og bygging</p>
-<p xml:lang="vep">2,7%</p>
-<p>Fiskiskapur</p>
-<p xml:lang="vep">2,1%</p>
-<p xml:lang="isl">Landbúnaður</p>
-<p xml:lang="vep">2,1%</p>
-<p>KT-vinna</p>
-<p xml:lang="vep">1,7%</p>
-<p xml:lang="isl">Fiskivinnan á landi</p>
-<p xml:lang="vep">1,4%</p>
-<p xml:lang="vep">1,4%</p>
 <p xml:lang="isl">Alivinnan</p>
-<p xml:lang="isl">Ídnaðar- o g framleiðsluvinna</p>
-<p xml:lang="vep">0,2%</p>
 <p xml:lang="isl">Flutningsvinnan</p>
-<p xml:lang="vep">24,6%</p>
-<p xml:lang="isl">Annað</p>
-<p xml:lang="vep">10,1%</p>
-<p>Veit ikki</p>
-<p xml:lang="vep">0,0%5,0%10,0%15,0%20,0%25,0%30,0%35,0%40,0%</p>
-<p><em type="bold">Hvar vilja føroyskir dreingir helst arbeiða? </em></p>
-<p xml:lang="vep">25,6%</p>
-<p>Fiskiskapur</p>
-<p xml:lang="vep">25,1%</p>
-<p xml:lang="nob">Handverk og bygging</p>
-<p xml:lang="vep">20,9%</p>
-<p xml:lang="isl">Ítró ttur</p>
-<p xml:lang="vep">18,2%</p>
-<p>KT-vinna</p>
-<p xml:lang="vep">17,0%</p>
-<p>Tó nleik,list</p>
-<p xml:lang="vep">13,8%</p>
-<p>Sakførari og Grannsko ðan</p>
-<p xml:lang="vep">11,8%</p>
-<p xml:lang="isl">Grafik/lýsingar</p>
-<p xml:lang="vep">10,8%</p>
-<p xml:lang="nno">Undirvísing og gransking</p>
-<p xml:lang="vep">9,8%</p>
-<p xml:lang="isl">Handilsvinnan</p>
-<p xml:lang="vep">8,6%</p>
-<p xml:lang="nob">Verkfrøði/arkitektur</p>
-<p xml:lang="vep">7,6%</p>
-<p>Fjølmiðlar</p>
-<p xml:lang="vep">6,6%</p>
-<p xml:lang="isl">Flutningsvinnan</p>
-<p xml:lang="vep">6,4%</p>
-<p>Banki/trygging</p>
-<p xml:lang="vep">5,4%</p>
-<p xml:lang="nno">Ho tel/matstova/ferðavinna</p>
-<p xml:lang="vep">5,2%</p>
 <p xml:lang="isl">Fiskivinnan á landi</p>
-<p xml:lang="vep">4,7%</p>
-<p xml:lang="isl">A livinnan</p>
-<p xml:lang="vep">4,2%</p>
-<p xml:lang="vep">3,2%</p>
-<p xml:lang="isl">Landbúnaður</p>
-<p xml:lang="isl">Ídnaðar- o g framleiðsluvinna</p>
-<p xml:lang="vep">2,7%</p>
-<p xml:lang="isl">Heilsu- o g almannaøkið</p>
-<p xml:lang="vep">2,0%</p>
-<p>Almen umsiting</p>
-<p xml:lang="vep">0,2%</p>
-<p xml:lang="vep">17,2%</p>
-<p xml:lang="isl">Annað</p>
-<p xml:lang="nno">Frisør, andlits- o g kro psrøkt</p>
-<p xml:lang="vep">12,0%</p>
+<p>Banki/trygging</p>
+<p xml:lang="nob">Verkfrøði/arkitektur</p>
+<p>KT-vinna</p>
+<p xml:lang="isl">Grafik/lýsingar</p>
+<p>Fjølmiðlar</p>
+<p xml:lang="isl">Handilsvinnan</p>
+<p xml:lang="nob">Handverk og bygging</p>
+<p>Fiskiskapur</p>
+<p xml:lang="isl">Ítróttur</p>
+<p xml:lang="nno">Undirvísing og gransking</p>
+<p>Hotel/matstova/ferðavinna</p>
+<p>Heilsu- og almannaøkið</p>
+<p>Sakførari og Grannskoðan</p>
+<p>Tónleik,list</p>
+<p xml:lang="nob">Frisør, andlits- og kropsrøkt</p>
+<p>Mynd 15. Hvar vilja tey ungu arbeiða? <em type="italic">Kelda: </em></p>
+<p><em type="italic">Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em></p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>23 gentunum ynskja, at teirra framtíðarstarv skal verða innan fiskivinnuna á landi – sí eisini mynd 16. niðanfyri. </p>
+<p>Mynd 16. Hvar vilja føroyskar gentur og føroyskir dreingir arbeiða? <em type="italic">Kelda: </em></p>
+<p><em type="italic">Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em></p>
+<p><em type="bold">Hvar vilja føroyskar gentur helst arbeiða? </em>10,1%24,6%0,2%1,4%1,4%1,7%2,1%2,1%2,7%2,9%3,1%8,3%8,9%9,1%10,8%12,4%13,3%17,2%19,9%21,5%21,9%29,2%36,2%0,0%5,0%10,0%15,0%20,0%25,0%30,0%35,0%40,0% </p>
 <p>Veit ikki</p>
-<p xml:lang="vep">0,0%5,0%10,0%15,0%20,0%25,0%30,0%</p>
-<p><em type="italic">Kelda: Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em>Kanningin vísir, at tað er ein greiður munur á, hvørjar vinnur gentur og dreingir helst vilja  arbeiða  innanfyri.  Størstu  ynskini  hjá  gentunum  eru  at  sleppa  at  arbeiða  innan tænastuvinnurnar, bæði privatar og almennar tænastur. Størstu ynskini hjá dreingjunum eru hinvegin innan fiskiskap og handverk / bygging. Kanningin vísir, at tað sum heild eru fá, sum hava hug at arbeiða innan framleiðsluvinnurnar. </p>
-<p>Orsøkin til, at fiskivinnan verður frávald er <em type="italic">ikki</em>, at tey ungu ikki kenna til vinnuna, tí út við helvtin av teimum ungu hava arbeitt innan fiskivinnuna – uml. 43% av gentunum og 62% av dreingjunum. Av teimum, sum hava arbeitt innan fiskivinnuna, hava út við 30% arbeitt  á  flaka-  og  fiskavirkjum,  uml.  18%  hava  egnt,  rakt  um  o.l.  Somuleiðis  hava </p>
-<p>nógvir dreingir verið til skips ella róð út, sí eisini mynd 17. niðanfyri.</p>
-<p>Kanningin vísir eisini, at tey ungu hava gjørt sær nakrar royndir innan fiskivinnuna, tí nógv  av  teimum,  sum  hava  arbeitt  í  fiskivinnuni,  hava  arbeitt  í  vinnuni  í  eitt  longri</p>
-<p>tíðarskeið. Hetta serliga tá hugsað verður um, at tey flestu, sum ganga í 9. flokki og í 3. flokki á miðnámsskúlanum, hava havt eitt stutt arbeiðslív. Uml. 48% hava arbeitt innan fiskivinnuna í styttri enn 3 mánaðir. Smá 13% hava arbeitt innan vinnuna millum 3 og 6</p>
-<p><em type="bold">Hvar í fiskivinnu- og alivinnuni hava tey arbeitt?</em> </p>
-<p>Arbeitt á fiskavirki</p>
-<p>Egnt, rakt um o.l.</p>
-<p xml:lang="isl">Havi verið til skips</p>
-<p>Havi róð út</p>
-<p>Arbeitt á smoltstøð</p>
-<p>Arbeitt á alibrúki</p>
-<p>Arbeitt á kryvjivirki</p>
 <p xml:lang="isl">Annað</p>
-<p xml:lang="vep">0%5%10%15%20%25%30%</p>
-<p xml:lang="isl">DreingirGenturTilsamans</p>
-<p>Mynd 17. Hvar í fiskivinnuni hava tey arbeitt? <em type="italic">Kelda: Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em>mánaðir.  13%  hava  arbeitt  innan  vinnuna  í  6  til  12  mánaðir,  og  27%  hava  arbeitt  í fiskivinnuni í meiri enn 1 ár. </p>
-<p>Eins  og  víst  í  Mynd  18.  omanfyri,  so  vísir  kanningin  eisini,  at  tey  ungu,  sum  hava arbeitt innan fiskivinnuna, hava trivist nøkulunda ella væl. Hinvegin hava tey, sum hava arbeitt á flaka- og fiskavirkjum, trivist verri enn tey, sum hava arbeitt innan alivinnuna ella  tey,  sum  hava  verið  til  skips  ella  róð  út.  Hóast  hetta  hava  tey,  sum  hava  arbeitt innan fiskivinnuna sum heild trivist nøkulunda ella væl, og er trivnaðurin tí helst ikki</p>
-<p>ein orsøk til, at tey ungu frávelja eitt framtíðararbeiði innan fiskivinnuna.<em type="bold"> </em></p>
-<p>Á hesum økinum víkir kanningin millum ung frá kanningini millum arbeiðsfólk á flaka- og  fiskavirkjunum,  sum  jú  gav  eina  greiða  mynd  av  góðum ella heilt góðum  trivnaði millum arbeiðsfólk í vinnuni.</p>
-<p><em type="italic">Ung vilja hava útbúgving og spennandi arbeiði </em></p>
-<p>Høvuðsorsøkin til, at tey ungu frávelja fiskivinnuna á landi, er, at tey flestu ungu ynskja at nema sær eina útbúgving – heili 91% av teimum, sum luttóku í kanningini svaraðu, at</p>
-<p><em type="bold">Hvussu hava tey ungu trivist ymsastaðni í fiskivinnuni?</em> </p>
-<p xml:lang="vep"><em type="bold">11%</em> </p>
-<p xml:lang="vep"><em type="bold">20%</em> </p>
-<p xml:lang="vep"><em type="bold">43%</em> </p>
-<p xml:lang="vep"><em type="bold">15%</em> </p>
-<p>Arbeitt á fiskivirki</p>
-<p xml:lang="vep"><em type="bold">18%</em> </p>
-<p xml:lang="vep"><em type="bold">30%</em> </p>
-<p xml:lang="vep"><em type="bold">39%</em> </p>
-<p xml:lang="vep"><em type="bold">9%</em> </p>
-<p xml:lang="vep"><em type="bold">11%</em> <em type="bold">3%</em> </p>
-<p>Arbeitt á smoltstøð</p>
-<p xml:lang="vep"><em type="bold">19%</em> </p>
-<p xml:lang="vep"><em type="bold">29%</em> </p>
-<p xml:lang="vep"><em type="bold">24%</em> </p>
-<p xml:lang="vep"><em type="bold">14%</em> </p>
-<p xml:lang="vep"><em type="bold">14%</em> </p>
+<p xml:lang="isl">Flutningsvinnan</p>
+<p xml:lang="isl">Alivinnan</p>
+<p xml:lang="isl">Ídnaðar- o gframleiðsluvinna</p>
+<p xml:lang="isl">Fiskivinnan á landi</p>
+<p>KT-vinna</p>
+<p xml:lang="isl">Landbúnaður</p>
+<p>Fiskiskapur</p>
+<p xml:lang="nob">Handverk og bygging</p>
+<p>Almen umsiting</p>
+<p xml:lang="isl">Ítróttur</p>
+<p xml:lang="nob">Verkfrøði/arkitektur</p>
+<p xml:lang="isl">Grafik/lýsingar</p>
+<p>Banki/trygging</p>
+<p xml:lang="isl">Handilsvinnan</p>
+<p>Fjølmiðlar</p>
+<p xml:lang="nno">Undirvísing og gransking</p>
+<p>Tónleik,list</p>
+<p xml:lang="isl">Sakførari o g Grannsko ðan</p>
+<p xml:lang="nno">Ho tel/matstova/ferðavinna</p>
+<p>Heilsu- og almannaøkið</p>
+<p xml:lang="nob">Frisør, andlits- ogkropsrøkt</p>
+<p><em type="bold">Hvar vilja føroyskir dreingir helst arbeiða? </em>12,0%17,2%0,2%2,0%2,7%3,2%4,2%4,7%5,2%5,4%6,4%6,6%7,6%8,6%9,8%10,8%11,8%13,8%17,0%18,2%20,9%25,1%25,6%0,0%5,0%10,0%15,0%20,0%25,0%30,0% </p>
+<p>Veit ikki</p>
+<p xml:lang="isl">Annað</p>
+<p xml:lang="nno">Frisør, andlits- o gkro psrøkt</p>
+<p>Almen umsiting</p>
+<p xml:lang="isl">Heilsu- o g almannaøkið</p>
+<p xml:lang="isl">Landbúnaður</p>
+<p xml:lang="isl">Ídnaðar- o gframleiðsluvinna</p>
+<p xml:lang="isl">A livinnan</p>
+<p xml:lang="isl">Fiskivinnan á landi</p>
+<p xml:lang="nno">Ho tel/matstova/ferðavinna</p>
+<p>Banki/trygging</p>
+<p xml:lang="isl">Flutningsvinnan</p>
+<p>Fjølmiðlar</p>
+<p xml:lang="nob">Verkfrøði/arkitektur</p>
+<p xml:lang="isl">Handilsvinnan</p>
+<p xml:lang="nno">Undirvísing og gransking</p>
+<p xml:lang="isl">Grafik/lýsingar</p>
+<p>Sakførari og Grannsko ðan</p>
+<p>Tó nleik,list</p>
+<p>KT-vinna</p>
+<p xml:lang="isl">Ítró ttur</p>
+<p xml:lang="nob">Handverk og bygging</p>
+<p>Fiskiskapur</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>24 </p>
+<p>Kanningin vísir, at tað er ein greiður munur á, hvørjar vinnur gentur og dreingir helst vilja arbeiða innanfyri. Størstu ynskini hjá gentunum eru at sleppa at arbeiða innan tænastuvinnurnar, bæði privatar og almennar tænastur. Størstu ynskini hjá dreingjunum eru hinvegin innan fiskiskap og handverk / bygging. Kanningin vísir, at tað sum heild eru fá, sum hava hug at arbeiða innan framleiðsluvinnurnar. Orsøkin til, at fiskivinnan verður frávald er <em type="italic">ikki </em>, at tey ungu ikki kenna til vinnuna, tí út við helvtin av teimum ungu hava arbeitt innan fiskivinnuna – uml. 43% av gentunum og 62% av dreingjunum. Av teimum, sum hava arbeitt innan fiskivinnuna, hava út við 30% arbeitt á flaka- og fiskavirkjum, uml. 18% hava egnt, rakt um o.l. Somuleiðis hava nógvir dreingir verið til skips ella róð út, sí eisini mynd 17. niðanfyri. </p>
+<p><em type="bold"></em>Kanningin vísir eisini, at tey ungu hava gjørt sær nakrar royndir innan fiskivinnuna, tí nógv av teimum, sum hava arbeitt í fiskivinnuni, hava arbeitt í vinnuni í eitt longri tíðarskeið. Hetta serliga tá hugsað verður um, at tey flestu, sum ganga í 9. flokki og í 3. flokki á miðnámsskúlanum, hava havt eitt stutt arbeiðslív. Uml. 48% hava arbeitt innan fiskivinnuna í styttri enn 3 mánaðir. Smá 13% hava arbeitt innan vinnuna millum 3 og 6 </p>
+<p>Mynd 17. Hvar í fiskivinnuni hava tey arbeitt? <em type="italic">Kelda: </em></p>
+<p><em type="italic">Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em></p>
+<p><em type="bold">Hvar í fiskivinnu- og alivinnuni hava tey arbeitt? </em>0%5%10%15%20%25%30% </p>
+<p xml:lang="isl">Annað</p>
 <p>Arbeitt á kryvjivirki</p>
-<p xml:lang="vep"><em type="bold">23%</em> </p>
-<p xml:lang="vep"><em type="bold">27%</em> </p>
-<p xml:lang="vep"><em type="bold">34%</em> </p>
-<p xml:lang="vep"><em type="bold">7%</em> </p>
-<p xml:lang="vep"><em type="bold">9%</em> </p>
-<p>Egnt, rakt um o.l.</p>
-<p xml:lang="vep"><em type="bold">35%</em> </p>
-<p xml:lang="vep"><em type="bold">31%</em> </p>
-<p xml:lang="vep"><em type="bold">19%</em> </p>
-<p xml:lang="vep"><em type="bold">8%</em> </p>
-<p xml:lang="vep"><em type="bold">8%</em> </p>
 <p>Arbeitt á alibrúki</p>
-<p xml:lang="vep"><em type="bold">38%</em> </p>
-<p xml:lang="vep"><em type="bold">25%</em> </p>
-<p xml:lang="vep"><em type="bold">23%</em> </p>
-<p xml:lang="vep"><em type="bold">8%</em> </p>
-<p xml:lang="vep"><em type="bold">5%</em> </p>
-<p xml:lang="isl">Havi verið til skips</p>
-<p xml:lang="vep"><em type="bold">43%</em> </p>
-<p xml:lang="vep"><em type="bold">28%</em> </p>
-<p xml:lang="vep"><em type="bold">25%</em> </p>
-<p xml:lang="vep"><em type="bold">5%</em> </p>
-<p xml:lang="vep"><em type="bold">0%</em> </p>
+<p>Arbeitt á smoltstøð</p>
 <p>Havi róð út</p>
-<p xml:lang="vep"><em type="bold">0%20%40%60%80%100%</em> </p>
-<p>Sera vælVælNøkulundaIlla Sera illaVeit ikki</p>
-<p>Mynd 18. Hvussu hava tey ungu trivist ymsastaðni í fiskivinnuni? <em type="italic">Kelda: Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em>tey  ætla  at  fáa  sær  eina  útbúgving,  bert  1%  siga  seg  ikki  ætla  at  fáa  sær  útbúgving, meðan  8%  ikki  vita.  Hetta  merkir  so  eisini,  at  nógv tilvitað  frávelja  møguleikan  sum ófaklærdur arbeiðari á t.d. einum flaka- og fiskavirki. </p>
-<p>Tá  umræður  valið  av  útbúgving,  so leggja  tey  ungu  dent  á,  at  útbúgvingin  kann geva</p>
-<p>teimum møguleika fyri at fáa eitt arbeiði við góðari inntøku, fakligum eins og spennandi avbjóðingum. Kanningin vísir sostatt, at tey ungu meta, at við at fáa sær eina útbúgving, so kunnu tey fáa eina røð av persónligum fyrimunum – og teir persónligi fyrimunirnir verða eisini raðfestir hægri enn t.d. tey samfelagsligu atlitini og tað at kunna arbeiða í heimbygdini / -økinum.</p>
-<p xml:lang="isl"><em type="bold">Ynski til framtíðarstarv</em> </p>
-<p>At eg fái góða løn</p>
-<p>At arbeiðið gevur mær spennandi og krevjandi avbjóðingar</p>
-<p>At passaligt býti er millum arbeiði og frítíð/familjulív</p>
-<p>At møguleikar eru at læra nakað nýtt</p>
-<p>At eg kann vera saman við fólki</p>
-<p>At eg sleppi at ávirka, hvat eg skal gera</p>
+<p xml:lang="isl">Havi verið til skips</p>
+<p>Egnt, rakt um o.l.</p>
+<p>Arbeitt á fiskavirki</p>
+<p>Dreingir</p>
+<p xml:lang="fra">Gentur</p>
+<p>Tilsamans</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>25 mánaðir. 13% hava arbeitt innan vinnuna í 6 til 12 mánaðir, og 27% hava arbeitt í fiskivinnuni í meiri enn 1 ár. </p>
+<p><em type="bold"></em>Eins og víst í Mynd 18. omanfyri, so vísir kanningin eisini, at tey ungu, sum hava arbeitt innan fiskivinnuna, hava trivist nøkulunda ella væl. Hinvegin hava tey, sum hava arbeitt á flaka- og fiskavirkjum, trivist verri enn tey, sum hava arbeitt innan alivinnuna ella tey, sum hava verið til skips ella róð út. Hóast hetta hava tey, sum hava arbeitt innan fiskivinnuna sum heild trivist nøkulunda ella væl, og er trivnaðurin tí helst ikki ein orsøk til, at tey ungu frávelja eitt framtíðararbeiði innan fiskivinnuna. </p>
+<p>Á hesum økinum víkir kanningin millum ung frá kanningini millum arbeiðsfólk á flaka- og fiskavirkjunum, sum jú gav eina greiða mynd av góðum ella heilt góðum trivnaði millum arbeiðsfólk í vinnuni.</p>
+<p>Ung vilja hava útbúgving og spennandi arbeiði Høvuðsorsøkin til, at tey ungu frávelja fiskivinnuna á landi, er, at tey flestu ungu ynskja at nema sær eina útbúgving – heili 91% av teimum, sum luttóku í kanningini svaraðu, at</p>
+<p>Mynd 18. Hvussu hava tey ungu trivist ymsastaðni í fiskivinnuni? <em type="italic">Kelda: </em></p>
+<p><em type="italic">Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em></p>
+<p><em type="bold">Hvussu hava tey ungu trivist ymsastaðni í fiskivinnuni? </em><em type="bold">43% </em><em type="bold">38% </em><em type="bold">35% </em><em type="bold">23% </em><em type="bold">19% </em><em type="bold">18% </em><em type="bold">11% </em><em type="bold">28% </em><em type="bold">25% </em><em type="bold">31% </em><em type="bold">27% </em><em type="bold">29% </em><em type="bold">30% </em><em type="bold">20% </em><em type="bold">25% </em><em type="bold">23% </em><em type="bold">19% </em><em type="bold">34% </em><em type="bold">24% </em><em type="bold">39% </em><em type="bold">43% </em><em type="bold">5% </em><em type="bold">8% </em><em type="bold">8% </em><em type="bold">7% </em><em type="bold">14% </em><em type="bold">15% </em><em type="bold">5% </em><em type="bold">8% </em><em type="bold">9% </em><em type="bold">14% </em><em type="bold">9% </em><em type="bold">11% </em><em type="bold">3% </em><em type="bold">0% </em><em type="bold">0% </em><em type="bold">20% </em><em type="bold">40% </em><em type="bold">60% </em><em type="bold">80% </em><em type="bold">100% </em></p>
+<p>Havi róð út</p>
+<p xml:lang="isl">Havi verið til skips</p>
+<p>Arbeitt á alibrúki</p>
+<p>Egnt, rakt um o.l.</p>
+<p>Arbeitt á kryvjivirki</p>
+<p>Arbeitt á smoltstøð</p>
+<p>Arbeitt á fiskivirki</p>
+<p>Sera væl</p>
+<p>Væl</p>
+<p xml:lang="tur">Nøkulunda</p>
+<p xml:lang="eng">Il a</p>
+<p xml:lang="est">Sera il a</p>
+<p>Veit ikki</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>26 tey ætla at fáa sær eina útbúgving, bert 1% siga seg ikki ætla at fáa sær útbúgving, meðan 8% ikki vita. Hetta merkir so eisini, at nógv tilvitað frávelja møguleikan sum ófaklærdur arbeiðari á t.d. einum flaka- og fiskavirki. Tá umræður valið av útbúgving, so leggja tey ungu dent á, at útbúgvingin kann geva teimum møguleika fyri at fáa eitt arbeiði við góðari inntøku, fakligum eins og spennandi avbjóðingum. Kanningin vísir sostatt, at tey ungu meta, at við at fáa sær eina útbúgving, so kunnu tey fáa eina røð av persónligum fyrimunum – og teir persónligi fyrimunirnir verða eisini raðfestir hægri enn t.d. tey samfelagsligu atlitini og tað at kunna arbeiða í heimbygdini / -økinum. </p>
+<p xml:lang="isl">Mynd 19. Ynski til framtíðarstarv</p>
+<p><em type="italic">Sp. Hvørji ynski hevur tú til títt framtíðarstarv? Um tú skuldi valt mil um viðurskiftini </em><em type="italic">niðanfyri, hvørji hevði tú so raðfest hægst? (Brúka tølini 1-5 til tínar raðfestingar – 1 fyri </em><em type="italic">ynskið, tú setir fremst o.s.v.) Kelda: </em></p>
+<p><em type="italic">Ung, útbúgving og fiskivinnan, Arbeiðsrit 9/2004 </em></p>
+<p xml:lang="isl"><em type="bold">Ynski til framtíðarstarv </em>0%10% 20% 30% 40% 50% 60% 70% 80% </p>
 <p>At arbeiðið er samfelagsgagnligt</p>
-<p xml:lang="vep">0%10% 20% 30% 40% 50% 60% 70% 80%</p>
-<p xml:lang="isl">GenturDreingirTilsamans</p>
-<p>Mynd 19. Ynski til framtíðarstarv <em type="italic">Sp.  Hvørji  ynski  hevur  tú  til  títt  framtíðarstarv?  Um  tú  skuldi  valt  millum  viðurskiftini niðanfyri, hvørji hevði tú so raðfest hægst? (Brúka tølini 1-5 til tínar raðfestingar – 1 fyri</em>Tá hugt verður at, hvørji ynski tey ungu hava til teirra framtíðarstarv, so er tað eisini spurningurin um eina góða inntøku, sum vigar mest, meðan onnur viðurskifti, sum t.d. at arbeiðið er samfelagsgagnligt, hava minni týdning – sí eisini mynd 19 omanfyri. </p>
-<p>Samanumtikið  vísir kanningin  millum ung í 2003,  at  heilt  fá ung kundu hugsa sær at</p>
-<p>arbeitt  á  flaka-  ella  fiskavirki,  hetta  hóast  nógv  ung  hava  ávísar  royndir  innan fiskivinnuna. Orsøkin til hetta val er, at tey ungu í stóran mun ætla at fara undir eina útbúgving, sum kann geva teimum møguleika at fáa góða løn og at fáa eitt spennandi og krevjandi arbeiði. Hesar raðfestingar føra so eisini við sær, at ung í stóran mun ynskja at frávelja møguleikan sum ófaklærdur arbeiðari.</p>
-<p><em type="bold">Ein trupulleiki í eygsjón </em></p>
-<p>Kanningar,  sum  Granskingardepilin  fyri  Økismenning  hevur  gjørt  –  bæði  kanningini millum  arbeiðsfólk  á  flaka-  og  fiskavirkjum  í  2006  og  millum  ung  í  9.  flokki  og  3. flokki  á  miðnámsskúlunum  í  2003  –  geva  greiðar  ábendingar  um,  at  áhugin  fyri  at</p>
-<p>arbeiða innan fiskivinnuni á landi er minkandi.</p>
-<p>Kanningin  millum  tey,  sum  arbeiða  á  flaka-  og  fiskavirkjunum,  vísir,  at  nógv  kundu hugsa sær annað arbeiði, hetta hóast trivnaðurin í vinnuni sum heild er góður. Tey sum ynskja annað arbeiði eru serliga tey, sum eru yngri enn 30 ár, men hetta er somuleiðis</p>
-<p>galdandi  fyri  ein  part  av  teimum,  sum  eru  í  aldrinum  30-39  ár  og  40-49  ár.  Um kanningin millum arbeiðsfólk á flaka- og fiskavirkjunum í landinum verður brúkt sum grundarlag  fyri  eini  umrokning  (í  mun  til  talið  av  lønmóttakarum  innan fiskavøruídnaðin),  so  vísir  kanningin,  at  600-800  fólk  (39%  av  1500-2000 arbeiðsfólkum) á flaka- og fiskavirkjunum kundu hugsa sær at farið í annað arbeiði.</p>
-<p>Kanningin millum arbeiðsfólk á flaka- og fiskavirkjunum vísir eisini, at foreldur (sum arbeiða  í  fiskivinnuni  á  landi),  ynskja  ikki,  at  børn  teirra  skulu  fara  at  arbeiða  í fiskivinnuni  á  landi.  Við  øðrum  orðum,  verandi  ættarlið  á  flaka-  og  fiskavirkjunum ynskja ikki, at komandi ættarlið skal fara í somu vinnu sum tey.</p>
-<p>Kanningin millum ung í 2003 vísir, at ung ynskja ikki at arbeiða í fiskivinnuni á landi.</p>
-<p>Bert  3,2%  av  teimum  ungu  ynskja,  at  fiskivinnan  á  landi  skal  gerast  teirra  framtíðar arbeiðspláss. Høvuðsorsøkin er, at tey ungu ynskja at taka eina útbúgving, sum gevur teimum  møguleika  at  vinna  meiri  pengar  og  fáa eitt spennandi  og  fakliga  avbjóðandi arbeiði.</p>
-<p>Samanumtikið vísa kanningarnar báðar:</p>
-<p type="listitem">• Ein munandi partur av teimum, sum arbeiða á flaka- og fiskavirkjunum, ynskja</p>
-<p>annað arbeiði</p>
-<p type="listitem">• Verandi  ættarlið  á  flaka-  og  fiskavirkjunum  ynskja  ikki,  at  komandi  ættarlið  /</p>
-<p>børn teirra skulu arbeiða í fiskivinnuni á landi.</p>
-<p type="listitem">• Tey ungu – komandi ættarlið á arbeiðsmarknaðinum – ynskja ikki at arbeiða í</p>
-<p>fiskivinnuni á landi.</p>
-<p>Hesar kanningar geva sostatt heilt greiðar ábendingar um, at tað eru ávísar trupulleikar í</p>
-<p>eygsjón,  tá  ræður  um  at  fáa  arbeiðsfólk  á  flaka-  og  fiskavirkini.  Úrslitini  frá kanningunum føra eisini við sær nakrar spurningur: a) hví ynskja nógv av teimum, sum arbeiða á flaka- og fiskavirkjum annað arbeiði?  b) hví frávelja tey ungu fiskivinnuna á landi?</p>
-<p><em type="italic">Hví ynskja nógv at frávelja fiskivinnuna á landi? </em></p>
-<p>Út  frá kanningini, sum varð gjørd millum arbeiðsfólk á flaka- og fiskavirkjunum, ber ikki  til  at  gera  nakrar  niðurstøðu  um,  hví  nógv  arbeiðsfólk  í  vinnuni  ynskja  annað arbeiði.  Kanningin  vísir  tó,  at  trivnaðurin  sum  heild  er  góður  á  virkjunum  og  er  tí ivasamt, hv�</p>
-<p>Um kanningin millum ung verður brúkt sum útgangsstøði, so er tað greitt, at viðurskifti sum góð løn og eitt spennandi og avbjóðandi arbeiðið fylla nógv, tá ung seta ynski til framtíðina.  Júst  hesi  viðurskifti  eru  ikki  tey,  sum  eyðkenna  fiskivinnuna  á  landi. Arbeiðið  á  flaka-  og  fiskavirkjum  er  oftani  óstøðugt  við  svingandi  lønarinntøku. Arbeiðsfólk  á  flaka-  og  fiskavirkjum  teljast  eisini  millum  tey  lægstløntu  á  føroyska arbeiðsmarknaðinum  (Hagstova  Føroya).  Arbeiðið  á  flaka-  og  fiskavirkjum  er</p>
-<p>harumframt  eisini  mangan  strævið  og  eintáttað  og  av  somu  orsøkum  ikki  altíð  so spennandi og avbjóðandi. Hesi viðurskifti virka ikki við til, at ung dragast at arbeiði í fiskivinnuni á landi.</p>
-<p><em type="italic">Moderniseringin  av  samfelagnum  ein  trupulleiki  fyri  fiskivinnuna  á landi </em></p>
-<p>Ein  av  høvuðstrupulleikin  hjá  fiskivinnuni  á  landi  og  teimum  <span type="quote" xml:lang="sme">“gomlu”</span>  fiskivinnu (lokal)samfeløgnum  er,  at  moderniseringin  av  samfelagnum  í  stóran  mun  skapar  ein trupulleika fyri fiskivinnuna á landi. Moderniseringin av samfelagnum hevur m.a. ført</p>
-<p>við sær framúr góðar møguleikar fyri at ferðast og samskifta við umheimin. Hetta hevur ført við sær stórar broytingar fyri samfelagið og hevur ikki minst verið við til at ávirka samleikan hjá fólki, sum her býr.</p>
-<p>Ungfólk í dag eru meiri enn bara partur av lokalsamfelagnum, har tey vaksa upp. Tey eru  eisini  í  stóran  mun  heimsborgarar  og  verða  dag  og  dagliga  –  umvegis  internet,</p>
-<p>parabol  og  fjølmiðlar  annars  –  mint  á,  hvussu  heimurin  sær  út  aðrastaðni,  hvussu lívstílurin er, hvørji tilboð og møguleikar eru o.s.fr. Dreymarnir og ynskini til framtíðina verða eisini í stóran mun ávirkað av hesum, og verða tey val, sum tey ungu gera, tí ikki bara tikin út frá inntrykkum, sum tey fáa í føroyska samfelagnum.</p>
-<p>Tað modernaða føroyska samfelagið leggur upp til, at tann einstaki skal stremba eftir at skapa so gott lív fyri seg sjálvan sum gjørligt. Hendan stremban røkkur fyri nógv langt út  um  bygdarmarkið  og  eisini  út  um  landoddarnar.  Hetta  verður  eisini  staðfest  í kanningini millum ung í 2003. Í kanningini svara nógv – væl fleiri gentur enn dreingir – at tey ynskja at búseta seg uttanlands, tá tey eru liðug við at útbúgva seg. Og kanningin vísir jú, at tey allarflestu ungu ynskja at nema sær eina útbúgving, soleiðis at tey kunnu</p>
-<p>fáa  eitt  arbeiði,  sum  gevur  góða  løn  og  sum  førir  við  sær  spennandi  og  avbjóðandi arbeiðsuppgávur.  Hetta  merkir  í  nógvum  førum  frával  av  arbeiði  innan framleiðsluvinnurnar  og  somuleiðis  eitt  frával  av  teimum  lokalsamfeløgum,  sum  eru fiskivinnusamfeløg.</p>
-<p><em type="italic">Hvat er í væntu? </em></p>
-<p>Hóast  nógv  ung  í  Føroyum  ynskja  at  taka  eina  førleikagevandi  útbúgving,  so  eru  tað ikki øll ung, sum klára at føra hesi ynski út í lívi – sum av ymiskum orsøkum ikki fara undir  eina  útbúgving  ella  klára  at  gjøgnumføra  eina  útbúgving.  Hesi  enda  í  nógvum førum sum ófaklærd arbeiðsmegi.</p>
-<p>Nógv ung kring landið hava sum er ikki nógvar valmøguleikar, tá umræður atgongd til</p>
-<p>ófaklært  arbeiði.  Fiskivinnan  á  landi  er  fyri  nógv lættasta loysnin til ófaklært arbeiði. Nógv  verða  helst  eisini  noydd  at  fara  á  flaka-  ella  fiskavirkir  at  arbeiða  –  um  tey yvirhøvur skulu fáa eitt arbeiði – hóast tey kundu ynskt sær annað arbeiði.</p>
-<p>Búskaparliga framgongdin seinastu árini hevur tó ført við sær, at tað eru vorðin alsamt fleiri  arbeiðstilboð,  sum  ófaklærd  kunnu  velja  ímillum.  Serliga  fyri  menn  eru valmøguleikarnir fleiri, bæði innan fiskiskap og byggivinnuna. Men eisini fyri kvinnur eru  fleiri  valmøguleikar,  bæði  innan  privatu  </p>
-<p>Ein  framhaldandi  búskaparlig framgongd  vil eisini  virka við  til,  at fleiri arbeiðstilboð verða  til  ófaklærd.  Somuleiðis  vil  ein  møgulig  oljuvinna  hava  stóra  ávirkan  á møguleikarnir hjá ófaklærdum at finna sær arbeiði. Sostatt verður tað ein avbjóðing hjá fiskivinnuni á landi at kappast um tey ófaklærdu arbeiðsfólkini, sum hóast alt verða á</p>
-<p>føroyska arbeiðsmarknaðinum.</p>
-<p>Gongdin  við  minkandi  áhuga  fyri  arbeiði  í  fiskivinnuni  á  landi  kann  føra  við  sær,  at fiskivinnan  á  landi  kann  fáa  trupulleikar  við  at  fáa  arbeiðsfólk,  og  hetta  vil  so  aftur ávirka  møguleikarnir  hjá  vinnuni  at  kappast.  Stjórin  í  Faroe  Seafood,  Meinhard Jacobsen, segði í SVF í september, at tað sum er ikki er nóg nógv arbeiðsmegi tøk, og</p>
-<p>hetta ávirkar møguleikarnir hjá Faroe Seafood at levera vøru í mun til gjørdar avtalur (Dagur og Vika, 14. Sept. 2006).</p>
-<p>Sum  gongdin  í  samfelagnum  er  í  dag  og  væntandi  verður  komandi  árini,  er  líkt  til  at støðan  hjá  fiskivinnuni  á  landi  ikki  fer  at  gerast  betur  í  komandi  tíðum,  tá  umræður møguleikan  at  draga  til  sín  arbeiðsfólk.  Færri  og  færri  fólk  hava  áhuga  í  at  arbeiða  í</p>
-<p>fiskivinnuni á landi, og líkt er til, at vinnan fer at fáa trupult við at draga til sín fólk, ikki minst  í  longri  tíðarskeið.  Spurningurin  er  so,  hvussu  vinnan  klárar  at  tillaga  seg  til broyttu støðuna og ikki minst, hvørjir møguleikarnir eru fyri tillagingum?</p>
-<p><em type="bold">Royndir úr grannalondum okkara </em></p>
-<p>Trupulleikin  við at  fáa  fólk  í  fiskivinnuna  á  landi  er  ikki nakað serstakt fyri Føroyar. Eisini  í  grannalondum  okkara,  í  Norra  og  í  Íslandi,  hava  tað  seinastu  árini  verið trupulleikar við at fáa fólk at arbeiða í fiskivinnuni á landi, umframt at ídnaðarfyritøkur</p>
-<p>í Danmark eisini hava sama trupulleika. Bæði í Norra, Íslandi og í Danmark hava ymisk tiltøk  verið  sett  í  verk  í  eini  roynd  at  tillaga  seg  avbjóðingarnar  við  manglandi arbeiðsmegi.</p>
-<p><em type="bold">Útlendsk arbeiðsmegi </em>Bæði  í  Norra  og  Íslandi  er  útlendsk  arbeiðsmegi  í  stórum  tali  flutt  inn  at  arbeiða  í </p>
-<p>fiskivinnuni á landi seinastu árini – eins og í nógvum øðrum vinnum, sum gera nýtslu av ófaklærdari arbeiðsmegi. Í Norra hevur tað í stóran mun verið talan um tamilar og russar  (<span type="quote" xml:lang="dan">“Et  dårligt  argument  for  en  god  sak”</span>,  Ottar  Brox  í  Klassekampen,  08.03.03), meðan tað í Íslandi serliga eru polakkar og filipinarar (Grapevine Online, 9. Sept. 2006). Talan  hevur  bæði  verið  um  skipanir,  har  tann  útlendska  arbeiðsmegin  hevur  verið  í</p>
-<p>styttri  tíðarskeið  í  landinum,  og  um  at  útlendingar  eru  fluttir  permanent  til  landið. Innflutningurin  av  útlendskari  arbeiðsmegi  hevur  í  ávísan  mun  loyst  trupulleikan  hjá fiskivinnuni  viðv.  tørvi  á  arbeiðsmegi,  men  nógv  kjak  er  um  lønar-  og bústaðarviðurskiftini  hjá  útlendsku  arbeiðarunum.  Bæði  í  Norra  og  í  Íslandi  eru  fleiri ymiskar frágreiðingar og eftirmetingar, sum viðgera hesi viðurskifti.</p>
-<p>At flyta inn fremmanda arbeiðsmegi er ein loysn, sum er lutfalsliga skjót at seta í verk – um politiski myndugleikin og partarnir á arbeiðsmarknaðinum ynskja tað. Hetta er eisini ein loysn, sum kann avmarkast í tali av fólki, í tíð og hartil á vinnur og á geografiski øki,  um  ein  ynskir  tað  -  hetta  er  partvíst  gjørt  í  smb.  við  pólsku  arbeiðsmegina  hjá Tórshavnar Skipasmiðju.</p>
-<p>Tá umræður útlendska arbeiðsmegi, so eru fleiri royndir gjørdar í Føroyum. Í nýggjari tíð er tað í flestu førum talan um eitt avmarkað tal av fólki á einstøkum virkjum (t.d. MH Export í Lopra og Skálavík, og Tórshavnar Skipasmiðja). Men um talan verður um út</p>
-<p>møguliga ávirkan á tey bygdasamfeløgini, har arbeiðsmegin býr – ikki minst í teimum førum, har talan er um smá bygdasamfeløg. Hetta eru so nakrir av spurningunum, sum politiski myndugleikin má viðgera í samband við møguligan innflutning av útlendskari arbeiðsmegi.</p>
-<p><em type="bold">Framleiðsla umborð </em>Ein onnur loysn uppá trupulleikan við at fáa til vega arbeiðsfólk til fiskivinnuna á landi kundi  verið  at  flutt  ein  part  av  framleiðsluni  umborð  á  skipini,  sum  fiska  undir Føroyum. Hetta vildi helst ført við sær, at tørvurin á arbeiðsmegi á landi minkar, meðan tørvur tá hevði verið á fleiri fólkum umborð á skipunum. </p>
-<p>Sambært § 10 í lógini um vinnuligan fiskiskap er virking av veiði umborð á fiskiførum undir  føroyskum  flaggi  á  føroysku  landleiðunum  bert  loyvd  eftir  góðkenning  frá landsstýrismanninum. Landsstýrismaðurin kann geva loyvi at frysta heilan fisk umborð, meðan  serligt  loyvi  krevst  t.d.  til  virking  av  frystum  flaki  og  saltfiski. (FISKIVINNUPOLITIKKUR  -  FYRITREYTIR  OG  STEVNUMIÐ;  Frágreiðing  til</p>
-<p>aðalorðaskiftis sambært § 51, stk. 4, í tingskipanini, Løgtingsmál nr. 101-04/2000). Sum er,  er  fiskiflotin,  ið  fiskar  undir  Føroyum,  ikki  útgjørdur  til  hetta  endamál.  Sostatt  er hetta helst ikki ein loysn, sum kann setast í verk her og nú, uttan so at onnur skip koma í flotan fyri verandi skip.</p>
-<p>Í Norra eru skipanir, sum loyva partvísa framleiðslu umborð, tvs. geva loyvi til, at t.d.</p>
-<p>upsi  verður  heysaður  og  frystur  heilur  umborð.  Ein  partur  av  upsanum  verður  so framleiddur á virkjum á landi, meðan ein partur verður sendur til láglønarlond – eitt nú Kina – til framleiðslu har.</p>
-<p>Føroysk  skip  hava  eisini  gjørt  fleiri  royndir  við  framleiðslu umborð  Hetta  hevur m.a. verið  galdandi  fyri  skipini,  sum  fiska  í  eitt  nú  Barentshavinum.  Millum  annað  hevur</p>
-<p>nýggi Skálaberg lagt seg eftir at gagnnýta so stóran part av fiskinum sum gjørligt – og fyri m.a. hetta hevur Skálaberg herfyri fingið fyrstafloks skoðsmál frá Greenpeace fyri burðardygga og umhvørvisvinarliga veiðu (Vinnuvitan, 12. oktober 2006). Royndirnar frá  Skálaberg kunnu  eisini  verða brúktar í samband við t.d. eina politiska viðgerð av, hvørja ávirkan tað kundi havt á gagnnýtsluna av fiski á føroysku landleiðini, um so var,</p>
-<p>at framleiðslan í størri mun fór fram umborð á skipunum.</p>
-<p>Spurningurin um at flyta ein part ella alla framleiðsluna umborð á fiskiskipini er ikki ein einfaldur spurningur og krevur tí drúgva viðgerð bæði politiskt og hjá vinnuni sjálvari – ikki  minst  tí  hetta  eru  viðurskifti,  sum  vilja  føra  við  sær  grundleggjandi  broytingar  í fiskivinnuni, sum vit kenna hana í dag.</p>
-<p><em type="bold">Flytan av framleiðsluni til láglønarlond </em>Ein  onnur  loysn,  sum  alsamt  fleiri  ídnaðarfyritøkur  í  Vesturheiminum  hava  valt  ella </p>
-<p>hava verið tvungnar at velja, er at flyta framleiðsluna til láglønarlond. Millum annað er ein  partur  av  fiskaframleiðsluni  hjá  eitt  nú  Norra  fluttur  til  Kina  og  Baltisku  londini. Eisini  føroyskar  fyritøkur  hava  sett  á  stovn  virki  í  Baltisku  londunum,  sum  skal framleiða fisk úr m.ø. Føroyum.</p>
-<p>Rákið  í  Vesturheiminum  hevur  sostatt  eisini  sett  í  gongd  hugsanir  hjá  føroyska vinnulívinum. Uttan iva fara vit at hoyra nógv meiri um hetta í Føroyum komandi árini, og er tað helst bara spurningur um tíð, áðrenn vinnan og politiski myndugleikin fara at taka upp hetta kjakið.</p>
-<p><em type="bold">Betri trivnaður </em>Tær  loysnirnar,  sum  hava  verið  umrøddar  omanfyri,  krevja  í  ávísum  førum  stóra broytingar.  Hinvegin  eru  tað  fleiri  átøk,  sum  kunnu  bøta  um trivnaðin í  vinnuni  –  og sum eisini kunnu gjøgnumførast uttan størri hóvasták.  </p>
-<p>Eins og aðrastaðni hava eisini danskar ídnaðarfyritøkur merkt trupulleikan av at draga til sín og halda upp á arbeiðsfólk. Og har eru tað fleiri dømi um, at fyritøkurnar hava</p>
-<p>gjørt  tillagingar  og  broytingar,  sum  betra  um  trivnaðin  á  virkinum.  Eins  og  arbeiði  á flaka-  og  fiskavirkjum,  so  er  arbeiði  á  ídnaðarfyritøkum  ofta  eintáttað  og  strævið.  Í hesum  sambandi  hava  fleiri  fyritøkur  gjørt  broytingar,  soleiðis  at  arbeiðsfólkini  hava skiftandi arbeiðsuppgávur, umframt at arbeiðsumstøðurnar eru broyttar, so at tær eru so ergonomiskar sum gjørligt (t.d. við skiftandi arbeiðsstøðu). Fleiri fyritøkur hava eisini</p>
-<p>gjørt góðar royndir við at bjóða arbeiðsfólkunum fysioterapi / massasju. Hetta hevur ført við  sær  munandi  betri  trivnað,  umframt  eina stóra minking í talinum av sjúkradøgum hjá arbeiðsfólkunum (http://www.personalesundhed.dk/referencer/resultater_tidligindsats.html). Nevndu tillagingar og broytingar hava í ávísan mun verið við til at hildið upp á arbeiðsfólk og drigið til sín nýggj fólk.</p>
-<p>Ein  annar  týðandi  partur  av  trivnaðinum,  er  at  arbeiðsfólk  kenna  seg  vird  í  sínum arbeiði. Júst á hesum økinum hevur fiskivinnan á landi stórar avbjóðingar at dragast við,</p>
-<p>tí millum manna er arbeiði á flaka- og fiskavirkjum ikki høgt í metum. Meiri upplýsing um vinnuna og ikki minst meiri upplýsing til arbeiðsfólk í vinnuni umframt fleiri tilboð um skeiðvirksemi og útbúgvingar kann virka við til, at arbeiðið fær meiri innihald.</p>
-<p>Onnur  viðurskifti  sum  betra  um  trivnaðin,  sum  eisini  eru  innførd  á  fleiri  føroyskum</p>
-<p>fyritøkum,  er  t.d.  nývaskaði  arbeiðsklæðir  hvønn  dag  umframt  góð  skiftirúm  til arbeiðsfólki.</p>
-<p><em type="bold">Umlegging og automatisering </em>Síðani  flakaframleiðslan  byrjaði  á  flakavirkjum  í  Føroyum  fyrst  í  1960´unum  eru munandi  automatiseringar  farnar  fram  í  framleiðsluni.  Flakamaskinum  og  aðrar </p>
-<p>maskinur  við  størri  framleiðsluorku  eru  komnar  á  marknaðin.  Harumframt  er framleiðslan í størri og størri mun løgd um frá kassum og bakkum til flowframleiðslu. Øll  hesi  tiltøk  hava  bøtt  munandi  um  framleiðsluna  hvat  viðvíkur  kapasiteti,  úrtøku, kvaliteti o.s.fr.</p>
-<p>Eisini hevur automatiseringin ført við sær, at tørvur er á færri og færri arbeiðsfólkum.</p>
-<p>Tó eru enn grundleggjandi manuellar arbeiðsuppgávur sum t.d. kílaskering og partering, sum enn ikki (eru heilt) avloystar av maskinum.</p>
-<p>Meðan ein automatisering framhaldandi er farin fram, er framleiðslan eisini í størri mun vend  frá  ídnaðarframleiðslu  til  framleiðslu  av  lidnari  vøru.  Hetta  merkir,  at  fleiri  og</p>
-<p>fleiri uppgávur eru í framleiðsluni og krevur hetta eisini størri arbeiðsmegi. Sostatt er framvegis  stórur  tørvur  á  arbeiðsmegi  innan  føroysku  flakaframleiðsluna,  hóast  ein framhaldandi  automatisering  upp  á  sikt  vil  minka  um  tørvin  á  arbeiðsmegi. Spurningurin  er  tó,  hvussu  nógv  talið  av  arbeiðsfólkum  kann  skerjast  í  samband  við framhaldandi  automatisering,  og  um  hetta  kann  verða  við  til  at  minka  um  tørvin  á arbeiðsmegi, so at slepst undan trupulleikum í hesum sambandi í framtíðini?</p>
-<p><em type="bold">Mugu arbeiða við loysnum </em></p>
-<p>Hendan frágreiðingin gevur svar uppá fleiri áhugaverdar spurningar viðv. arbeiðsmegini á  føroysku  flaka-  og  fiskavirkjunum  í  framtíðini.  Men  eins  og  aðrar  frágreiðingar  av hesum  slagi, so  setir  hendan  frágreiðingin  eisini fleiri nýggjar spurningar, sum krevja</p>
-<p>viðgerð – í hesum føri bæði av vinnuni, fakfeløgum og frá politiskari síðu.</p>
-<p>Ein týðandi partur av at menna einhvørja vinnu er at arbeiða við teimum avbjóðingum og  hóttanum  og  møguleikum,  sum  vinnan  hevur  ella  kann  fáa.  Hetta  krevur  miðvíst ar</p>
-<p>loysnum.</p>
-<p>Kanningarnar,  sum  eru  gjørdar  millum  arbeiðsfólk  á  flaka-  og  fiskavirkjunum  og millum ung geva heilt greiðar ábendingar um, at fiskivinnan á landi innan stutta tíð fer at fáa trupulleikar við at fáa til vega arbeiðsfólk. Kanningarnar og frágreiðingin styrkja sostatt um tær ábendingar, sum vinnan sjálv er komin við í føroysku fjølmiðlunum.</p>
-<p>Nýggja  vitanin,  sum  fyriliggur  í  frágreiðingini,  krevur, at  vit meiri miðvíst  seta hol  á kjakið og arbeiðið við tillagingarmøguleikum hjá fiskivinnuni á landi. Í frágreiðingini eru  nakrir  tillagingarmøguleikar  viðgjørdir  –  hetta  út  frá  royndum  í  øðrum  londum  – men  mugu  vit  eisini  í  einum  føroyskum  høpi  arbeiða  við  loysnum  á  trupulleikunum, sum fiskivinnan á landi (og aðrar vinnur við) kann koma í í næstu framtíð.</p>
-<p><em type="bold">Bókmentir og keldur </em></p>
-<p xml:lang="nob">Biskopstø  og  Mortensen.</p>
-<p xml:lang="nno"><em type="italic">Ung,  útbúgving  og  Fiskivinnan  –  Arbeiðsrit  9/2004</em>. Granskingardepilin fyri Økismenning. Brox, Ottar. 2003. <em type="italic">Et  dårligt  argument  for  en  god  sak.</em>  i  Klassekampen </p>
-<p xml:lang="vep">08.03.03.</p>
-<p>FISKIVINNUPOLITIKKUR  -  FYRITREYTIR  OG  STEVNUMIÐ;  Frágreiðing  til aðalorðaskiftis sambært § 51, stk. 4, í tingskipanini, Løgtingsmál nr. 101-04/2000 Grapevine Online, 9. Sept. 2006 www.grapevine.is</p>
-<p>Hagstova Føroya: www.hagstova.fo  Miðnámsskúlin í Suðuroy: www.midnam.fo Personalesundhed.dk</p>
-<p xml:lang="nno">http://www.personalesundhed.dk/referencer/resultater_tidligindsats.html</p>
-<p>Sjónvarp Føroya, Dagur &amp; Vika 14. Sept. 2006 Vinnuvitan 12. Okt. 2006</p>
-<p xml:lang="fin"><em type="bold">Ískoyti 1. </em></p>
-<p><em type="bold">Spurnablað í smb. við kanning millum arbeiðsfólk á flaka- og fiskavirkjum </em>Fyri at fáa ein ábending um, hvørji arbeiða á flaka- og fiskavirkjunum í Føroyum, hvussu </p>
-<p>trivnaðurin er og hvørjar vónir arbeiðsfólk á flaka- og fiskavirkjum hava til arbeiði innan hesa  vinnu,  ger  Granskingardepilin  fyri  Økismenning  eina  spurnablaðskanning  um  hesi viðurskifti. Spurnablaðs-kanningin verður gjørd í flaka- og fiskavirkjum um alt landið.</p>
-<p><em type="bold">Tú er anonym/-ur í kanningini! </em>Kanningin er anonym á tann hátt, at tað einstaka spurnablaðið verður ikki sjónligt í sjálvari </p>
-<p>frágreiðingini. Hartil er í slíkum kanningum galdandi, at heildin er áhugaverd fram um tað einstaka spurnablaðið.</p>
-<p>Tá tygum hava svarað spurnablaðnum, verða tey savnaði inn og send til Granskingardepilin fyri  Økismenning,  skrivstovan í Vági, har spurnabløðini verða lisin inn í telduforrit. Eftir</p>
-<p>hetta verða spurnabløðini burturbeind – hetta eisini fyri at tryggja anonymitet. Granskarar á Granskingardeplinum  fyri  Økismenning  hava  eisini  tagnarskyldu  í  smb.  við spurnablaðskanningina.</p>
+<p>At eg sleppi at ávirka, hvat eg skal gera</p>
+<p>At eg kann vera saman við fólki</p>
+<p>At møguleikar eru at læra nakað nýtt</p>
+<p>At passaligt býti er mil um arbeiði og frítíð/familjulív</p>
+<p>At arbeiðið gevur mær spennandi og krevjandiavbjóðingar</p>
+<p>At eg fái góða løn</p>
+<p xml:lang="fra">Gentur</p>
+<p>Dreingir</p>
+<p>Tilsamans</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>27 </p>
+<p>Tá hugt verður at, hvørji ynski tey ungu hava til teirra framtíðarstarv, so er tað eisini spurningurin um eina góða inntøku, sum vigar mest, meðan onnur viðurskifti, sum t.d. at arbeiðið er samfelagsgagnligt, hava minni týdning – sí eisini mynd 19 omanfyri. Samanumtikið vísir kanningin millum ung í 2003, at heilt fá ung kundu hugsa sær at arbeitt á flaka- ella fiskavirki, hetta hóast nógv ung hava ávísar royndir innan fiskivinnuna. Orsøkin til hetta val er, at tey ungu í stóran mun ætla at fara undir eina útbúgving, sum kann geva teimum møguleika at fáa góða løn og at fáa eitt spennandi og krevjandi arbeiði. Hesar raðfestingar føra so eisini við sær, at ung í stóran mun ynskja at frávelja møguleikan sum ófaklærdur arbeiðari.</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>28 </p>
+<p type="listitem">Ein trupulleiki í eygsjón  Kanningar,  sum  Granskingardepilin  fyri  Økismenning  hevur  gjørt  –  bæði  kanningini  millum  arbeiðsfólk  á  flaka-  og  fiskavirkjum  í  2006  og  millum  ung  í  9.  flokki  og  3.  flokki  á  miðnámsskúlunum  í  2003  –  geva  greiðar  ábendingar  um,  at  áhugin  fyri  at  arbeiða innan fiskivinnuni á landi er minkandi.     Kanningin  millum  tey,  sum  arbeiða  á  flaka-  og  fiskavirkjunum,  vísir,  at  nógv  kundu  hugsa sær annað arbeiði, hetta hóast trivnaðurin í vinnuni sum heild er góður. Tey sum  ynskja annað arbeiði eru serliga tey, sum eru yngri enn 30 ár, men hetta er somuleiðis  galdandi  fyri  ein  part  av  teimum,  sum  eru  í  aldrinum  30-39  ár  og  40-49  ár.  Um  kanningin millum arbeiðsfólk á flaka- og fiskavirkjunum í landinum verður brúkt sum  grundarlag  fyri  eini  umrokning  (í  mun  til  talið  av  lønmóttakarum  innan  fiskavøruídnaðin),  so  vísir  kanningin,  at  600-800  fólk  (39%  av  1500-2000  arbeiðsfólkum) á flaka- og fiskavirkjunum kundu hugsa sær at farið í annað arbeiði.     Kanningin millum arbeiðsfólk á flaka- og fiskavirkjunum vísir eisini, at foreldur (sum  arbeiða  í  fiskivinnuni  á  landi),  ynskja  ikki,  at  børn  teirra  skulu  fara  at  arbeiða  í  fiskivinnuni  á  landi.  Við  øðrum  orðum,  verandi  ættarlið  á  flaka-  og  fiskavirkjunum  ynskja ikki, at komandi ættarlið skal fara í somu vinnu sum tey.    Kanningin millum ung í 2003 vísir, at ung ynskja ikki at arbeiða í fiskivinnuni á landi.  Bert  3,2%  av  teimum  ungu  ynskja,  at  fiskivinnan  á  landi  skal  gerast  teirra  framtíðar  arbeiðspláss. Høvuðsorsøkin er, at tey ungu ynskja at taka eina útbúgving, sum gevur  teimum  møguleika  at  vinna  meiri  pengar  og  fáa eitt spennandi  og  fakliga  avbjóðandi  arbeiði.    Samanumtikið vísa kanningarnar báðar:</p>
+<p type="listitem">Ein munandi partur av teimum, sum arbeiða á flaka- og fiskavirkjunum, ynskja annað arbeiði</p>
+<p type="listitem">Verandi  ættarlið  á  flaka-  og  fiskavirkjunum ynskja ikki, at  komandi ættarlið  / børn teirra skulu arbeiða í fiskivinnuni á landi.</p>
+<p type="listitem">Granskingardepilin fyri Økismenning29</p>
+<p type="listitem">Tey ungu – komandi ættarlið á arbeiðsmarknaðinum – ynskja ikki at arbeiða í fiskivinnuni á landi.</p>
+<p>Hesar kanningar geva sostatt heilt greiðar ábendingar um, at tað eru ávísar trupulleikar í eygsjón, tá ræður um at fáa arbeiðsfólk á flaka- og fiskavirkini. Úrslitini frá kanningunum føra eisini við sær nakrar spurningur: a) hví ynskja nógv av teimum, sum arbeiða á flaka- og fiskavirkjum annað arbeiði? b) hví frávelja tey ungu fiskivinnuna á landi?</p>
+<p>Hví ynskja nógv at frávelja fiskivinnuna á landi? Út frá kanningini, sum varð gjørd millum arbeiðsfólk á flaka- og fiskavirkjunum, ber ikki til at gera nakrar niðurstøðu um, hví nógv arbeiðsfólk í vinnuni ynskja annað arbeiði. Kanningin vísir tó, at trivnaðurin sum heild er góður á virkjunum og er tí ivasamt, hvørt hetta er ein orsøk til, at fólk ynskja annað arbeiði. Um kanningin millum ung verður brúkt sum útgangsstøði, so er tað greitt, at viðurskifti sum góð løn og eitt spennandi og avbjóðandi arbeiðið fylla nógv, tá ung seta ynski til framtíðina. Júst hesi viðurskifti eru ikki tey, sum eyðkenna fiskivinnuna á landi. Arbeiðið á flaka- og fiskavirkjum er oftani óstøðugt við svingandi lønarinntøku. Arbeiðsfólk á flaka- og fiskavirkjum teljast eisini millum tey lægstløntu á føroyska arbeiðsmarknaðinum (Hagstova Føroya). Arbeiðið á flaka- og fiskavirkjum er harumframt eisini mangan strævið og eintáttað og av somu orsøkum ikki altíð so spennandi og avbjóðandi. Hesi viðurskifti virka ikki við til, at ung dragast at arbeiði í fiskivinnuni á landi.</p>
+<p>Moderniseringin av samfelagnum ein trupulleiki fyri fiskivinnuna á landi Ein av høvuðstrupulleikin hjá fiskivinnuni á landi og teimum <span type="quote" xml:lang="sme">“gomlu”</span> fiskivinnu (lokal)samfeløgnum er, at moderniseringin av samfelagnum í stóran mun skapar ein trupulleika fyri fiskivinnuna á landi. Moderniseringin av samfelagnum hevur m.a. ført við sær framúr góðar møguleikar fyri at ferðast og samskifta við umheimin. Hetta hevur</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>30 ført við sær stórar broytingar fyri samfelagið og hevur ikki minst verið við til at ávirka samleikan hjá fólki, sum her býr. Ungfólk í dag eru meiri enn bara partur av lokalsamfelagnum, har tey vaksa upp. Tey eru eisini í stóran mun heimsborgarar og verða dag og dagliga – umvegis internet, parabol og fjølmiðlar annars – mint á, hvussu heimurin sær út aðrastaðni, hvussu lívstílurin er, hvørji tilboð og møguleikar eru o.s.fr. Dreymarnir og ynskini til framtíðina verða eisini í stóran mun ávirkað av hesum, og verða tey val, sum tey ungu gera, tí ikki bara tikin út frá inntrykkum, sum tey fáa í føroyska samfelagnum. Tað modernaða føroyska samfelagið leggur upp til, at tann einstaki skal stremba eftir at skapa so gott lív fyri seg sjálvan sum gjørligt. Hendan stremban røkkur fyri nógv langt út um bygdarmarkið og eisini út um landoddarnar. Hetta verður eisini staðfest í kanningini millum ung í 2003. Í kanningini svara nógv – væl fleiri gentur enn dreingir – at tey ynskja at búseta seg uttanlands, tá tey eru liðug við at útbúgva seg. Og kanningin vísir jú, at tey allarflestu ungu ynskja at nema sær eina útbúgving, soleiðis at tey kunnu fáa eitt arbeiði, sum gevur góða løn og sum førir við sær spennandi og avbjóðandi arbeiðsuppgávur. Hetta merkir í nógvum førum frával av arbeiði innan framleiðsluvinnurnar og somuleiðis eitt frával av teimum lokalsamfeløgum, sum eru fiskivinnusamfeløg. </p>
+<p>Hvat er í væntu? Hóast nógv ung í Føroyum ynskja at taka eina førleikagevandi útbúgving, so eru tað ikki øll ung, sum klára at føra hesi ynski út í lívi – sum av ymiskum orsøkum ikki fara undir eina útbúgving ella klára at gjøgnumføra eina útbúgving. Hesi enda í nógvum førum sum ófaklærd arbeiðsmegi. Nógv ung kring landið hava sum er ikki nógvar valmøguleikar, tá umræður atgongd til ófaklært arbeiði. Fiskivinnan á landi er fyri nógv lættasta loysnin til ófaklært arbeiði. Nógv verða helst eisini noydd at fara á flaka- ella fiskavirkir at arbeiða – um tey yvirhøvur skulu fáa eitt arbeiði – hóast tey kundu ynskt sær annað arbeiði.</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>31 </p>
+<p>Búskaparliga framgongdin seinastu árini hevur tó ført við sær, at tað eru vorðin alsamt fleiri arbeiðstilboð, sum ófaklærd kunnu velja ímillum. Serliga fyri menn eru valmøguleikarnir fleiri, bæði innan fiskiskap og byggivinnuna. Men eisini fyri kvinnur eru fleiri valmøguleikar, bæði innan privatu handils- og tænastu vinnuna og innan almennar tænastur. Ein framhaldandi búskaparlig framgongd vil eisini virka við til, at fleiri arbeiðstilboð verða til ófaklærd. Somuleiðis vil ein møgulig oljuvinna hava stóra ávirkan á møguleikarnir hjá ófaklærdum at finna sær arbeiði. Sostatt verður tað ein avbjóðing hjá fiskivinnuni á landi at kappast um tey ófaklærdu arbeiðsfólkini, sum hóast alt verða á føroyska arbeiðsmarknaðinum. Gongdin við minkandi áhuga fyri arbeiði í fiskivinnuni á landi kann føra við sær, at fiskivinnan á landi kann fáa trupulleikar við at fáa arbeiðsfólk, og hetta vil so aftur ávirka møguleikarnir hjá vinnuni at kappast. Stjórin í Faroe Seafood, Meinhard Jacobsen, segði í SVF í september, at tað sum er ikki er nóg nógv arbeiðsmegi tøk, og hetta ávirkar møguleikarnir hjá Faroe Seafood at levera vøru í mun til gjørdar avtalur (Dagur og Vika, 14. Sept. 2006). Sum gongdin í samfelagnum er í dag og væntandi verður komandi árini, er líkt til at støðan hjá fiskivinnuni á landi ikki fer at gerast betur í komandi tíðum, tá umræður møguleikan at draga til sín arbeiðsfólk. Færri og færri fólk hava áhuga í at arbeiða í fiskivinnuni á landi, og líkt er til, at vinnan fer at fáa trupult við at draga til sín fólk, ikki minst í longri tíðarskeið. Spurningurin er so, hvussu vinnan klárar at tillaga seg til broyttu støðuna og ikki minst, hvørjir møguleikarnir eru fyri tillagingum?</p>
+<p><em type="bold">Royndir úr grannalondum okkara </em>Trupulleikin við at fáa fólk í fiskivinnuna á landi er ikki nakað serstakt fyri Føroyar. Eisini í grannalondum okkara, í Norra og í Íslandi, hava tað seinastu árini verið trupulleikar við at fáa fólk at arbeiða í fiskivinnuni á landi, umframt at ídnaðarfyritøkur í Danmark eisini hava sama trupulleika. Bæði í Norra, Íslandi og í Danmark hava ymisk </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>32 tiltøk verið sett í verk í eini roynd at tillaga seg avbjóðingarnar við manglandi arbeiðsmegi. <em type="bold">Útlendsk arbeiðsmegi </em>Bæði í Norra og Íslandi er útlendsk arbeiðsmegi í stórum tali flutt inn at arbeiða í fiskivinnuni á landi seinastu árini – eins og í nógvum øðrum vinnum, sum gera nýtslu av ófaklærdari arbeiðsmegi. Í Norra hevur tað í stóran mun verið talan um tamilar og russar (<span type="quote" xml:lang="dan">“Et dårligt argument for en god sak”</span>, Ottar Brox í Klassekampen, 08.03.03), meðan tað í Íslandi serliga eru polakkar og filipinarar (Grapevine Online, 9. Sept. 2006). Talan hevur bæði verið um skipanir, har tann útlendska arbeiðsmegin hevur verið í styttri tíðarskeið í landinum, og um at útlendingar eru fluttir permanent til landið. Innflutningurin av útlendskari arbeiðsmegi hevur í ávísan mun loyst trupulleikan hjá fiskivinnuni viðv. tørvi á arbeiðsmegi, men nógv kjak er um lønar- og bústaðarviðurskiftini hjá útlendsku arbeiðarunum. Bæði í Norra og í Íslandi eru fleiri ymiskar frágreiðingar og eftirmetingar, sum viðgera hesi viðurskifti. At flyta inn fremmanda arbeiðsmegi er ein loysn, sum er lutfalsliga skjót at seta í verk – um politiski myndugleikin og partarnir á arbeiðsmarknaðinum ynskja tað. Hetta er eisini ein loysn, sum kann avmarkast í tali av fólki, í tíð og hartil á vinnur og á geografiski øki, um ein ynskir tað - hetta er partvíst gjørt í smb. við pólsku arbeiðsmegina hjá Tórshavnar Skipasmiðju. Tá umræður útlendska arbeiðsmegi, so eru fleiri royndir gjørdar í Føroyum. Í nýggjari tíð er tað í flestu førum talan um eitt avmarkað tal av fólki á einstøkum virkjum (t.d. MH Export í Lopra og Skálavík, og Tórshavnar Skipasmiðja). Men um talan verður um útlendska arbeiðsmegi í størri tali, so stinga tað seg natúrliga fleiri spurningar upp. Bæði spurningurin um integratión av útlendingunum í samfelagið sum heild, og í samband við møguliga ávirkan á tey bygdasamfeløgini, har arbeiðsmegin býr – ikki minst í teimum førum, har talan er um smá bygdasamfeløg. Hetta eru so nakrir av spurningunum, sum politiski myndugleikin má viðgera í samband við møguligan innflutning av útlendskari arbeiðsmegi. </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>33 </p>
+<p><em type="bold">Framleiðsla umborð </em>Ein onnur loysn uppá trupulleikan við at fáa til vega arbeiðsfólk til fiskivinnuna á landi kundi verið at flutt ein part av framleiðsluni umborð á skipini, sum fiska undir Føroyum. Hetta vildi helst ført við sær, at tørvurin á arbeiðsmegi á landi minkar, meðan tørvur tá hevði verið á fleiri fólkum umborð á skipunum. Sambært § 10 í lógini um vinnuligan fiskiskap er virking av veiði umborð á fiskiførum undir føroyskum flaggi á føroysku landleiðunum bert loyvd eftir góðkenning frá landsstýrismanninum. Landsstýrismaðurin kann geva loyvi at frysta heilan fisk umborð, meðan serligt loyvi krevst t.d. til virking av frystum flaki og saltfiski. (FISKIVINNUPOLITIKKUR - FYRITREYTIR OG STEVNUMIÐ; Frágreiðing til aðalorðaskiftis sambært § 51, stk. 4, í tingskipanini, Løgtingsmál nr. 101-04/2000). Sum er, er fiskiflotin, ið fiskar undir Føroyum, ikki útgjørdur til hetta endamál. Sostatt er hetta helst ikki ein loysn, sum kann setast í verk her og nú, uttan so at onnur skip koma í flotan fyri verandi skip. Í Norra eru skipanir, sum loyva partvísa framleiðslu umborð, tvs. geva loyvi til, at t.d. upsi verður heysaður og frystur heilur umborð. Ein partur av upsanum verður so framleiddur á virkjum á landi, meðan ein partur verður sendur til láglønarlond – eitt nú Kina – til framleiðslu har. Føroysk skip hava eisini gjørt fleiri royndir við framleiðslu umborð Hetta hevur m.a. verið galdandi fyri skipini, sum fiska í eitt nú Barentshavinum. Millum annað hevur nýggi Skálaberg lagt seg eftir at gagnnýta so stóran part av fiskinum sum gjørligt – og fyri m.a. hetta hevur Skálaberg herfyri fingið fyrstafloks skoðsmál frá Greenpeace fyri burðardygga og umhvørvisvinarliga veiðu (Vinnuvitan, 12. oktober 2006). Royndirnar frá Skálaberg kunnu eisini verða brúktar í samband við t.d. eina politiska viðgerð av, hvørja ávirkan tað kundi havt á gagnnýtsluna av fiski á føroysku landleiðini, um so var, at framleiðslan í størri mun fór fram umborð á skipunum. Spurningurin um at flyta ein part ella alla framleiðsluna umborð á fiskiskipini er ikki ein einfaldur spurningur og krevur tí drúgva viðgerð bæði politiskt og hjá vinnuni sjálvari – </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>34 ikki minst tí hetta eru viðurskifti, sum vilja føra við sær grundleggjandi broytingar í fiskivinnuni, sum vit kenna hana í dag. <em type="bold">Flytan av framleiðsluni til láglønarlond </em>Ein onnur loysn, sum alsamt fleiri ídnaðarfyritøkur í Vesturheiminum hava valt ella hava verið tvungnar at velja, er at flyta framleiðsluna til láglønarlond. Millum annað er ein partur av fiskaframleiðsluni hjá eitt nú Norra fluttur til Kina og Baltisku londini. Eisini føroyskar fyritøkur hava sett á stovn virki í Baltisku londunum, sum skal framleiða fisk úr m.ø. Føroyum. Rákið í Vesturheiminum hevur sostatt eisini sett í gongd hugsanir hjá føroyska vinnulívinum. Uttan iva fara vit at hoyra nógv meiri um hetta í Føroyum komandi árini, og er tað helst bara spurningur um tíð, áðrenn vinnan og politiski myndugleikin fara at taka upp hetta kjakið. <em type="bold">Betri trivnaður </em>Tær loysnirnar, sum hava verið umrøddar omanfyri, krevja í ávísum førum stóra broytingar. Hinvegin eru tað fleiri átøk, sum kunnu bøta um trivnaðin í vinnuni – og sum eisini kunnu gjøgnumførast uttan størri hóvasták. Eins og aðrastaðni hava eisini danskar ídnaðarfyritøkur merkt trupulleikan av at draga til sín og halda upp á arbeiðsfólk. Og har eru tað fleiri dømi um, at fyritøkurnar hava gjørt tillagingar og broytingar, sum betra um trivnaðin á virkinum. Eins og arbeiði á flaka- og fiskavirkjum, so er arbeiði á ídnaðarfyritøkum ofta eintáttað og strævið. Í hesum sambandi hava fleiri fyritøkur gjørt broytingar, soleiðis at arbeiðsfólkini hava skiftandi arbeiðsuppgávur, umframt at arbeiðsumstøðurnar eru broyttar, so at tær eru so ergonomiskar sum gjørligt (t.d. við skiftandi arbeiðsstøðu). Fleiri fyritøkur hava eisini gjørt góðar royndir við at bjóða arbeiðsfólkunum fysioterapi / massasju. Hetta hevur ført við sær munandi betri trivnað, umframt eina stóra minking í talinum av sjúkradøgum hjá arbeiðsfólkunum (http://www.personalesundhed.dk/referencer/resultater_tidligindsats.html). </p>
+<p xml:lang="est">Nevndu</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>35 tillagingar og broytingar hava í ávísan mun verið við til at hildið upp á arbeiðsfólk og drigið til sín nýggj fólk. Ein annar týðandi partur av trivnaðinum, er at arbeiðsfólk kenna seg vird í sínum arbeiði. Júst á hesum økinum hevur fiskivinnan á landi stórar avbjóðingar at dragast við, tí millum manna er arbeiði á flaka- og fiskavirkjum ikki høgt í metum. Meiri upplýsing um vinnuna og ikki minst meiri upplýsing til arbeiðsfólk í vinnuni umframt fleiri tilboð um skeiðvirksemi og útbúgvingar kann virka við til, at arbeiðið fær meiri innihald. Onnur viðurskifti sum betra um trivnaðin, sum eisini eru innførd á fleiri føroyskum fyritøkum, er t.d. nývaskaði arbeiðsklæðir hvønn dag umframt góð skiftirúm til arbeiðsfólki. <em type="bold">Umlegging og automatisering </em>Síðani flakaframleiðslan byrjaði á flakavirkjum í Føroyum fyrst í 1960´unum eru munandi automatiseringar farnar fram í framleiðsluni. Flakamaskinum og aðrar maskinur við størri framleiðsluorku eru komnar á marknaðin. Harumframt er framleiðslan í størri og størri mun løgd um frá kassum og bakkum til flowframleiðslu. Øll hesi tiltøk hava bøtt munandi um framleiðsluna hvat viðvíkur kapasiteti, úrtøku, kvaliteti o.s.fr. Eisini hevur automatiseringin ført við sær, at tørvur er á færri og færri arbeiðsfólkum. Tó eru enn grundleggjandi manuellar arbeiðsuppgávur sum t.d. kílaskering og partering, sum enn ikki (eru heilt) avloystar av maskinum. Meðan ein automatisering framhaldandi er farin fram, er framleiðslan eisini í størri mun vend frá ídnaðarframleiðslu til framleiðslu av lidnari vøru. Hetta merkir, at fleiri og fleiri uppgávur eru í framleiðsluni og krevur hetta eisini størri arbeiðsmegi. Sostatt er framvegis stórur tørvur á arbeiðsmegi innan føroysku flakaframleiðsluna, hóast ein framhaldandi automatisering upp á sikt vil minka um tørvin á arbeiðsmegi. Spurningurin er tó, hvussu nógv talið av arbeiðsfólkum kann skerjast í samband við </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>36 framhaldandi automatisering, og um hetta kann verða við til at minka um tørvin á arbeiðsmegi, so at slepst undan trupulleikum í hesum sambandi í framtíðini? </p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>37 </p>
+<p><em type="bold">Mugu arbeiða við loysnum </em>Hendan frágreiðingin gevur svar uppá fleiri áhugaverdar spurningar viðv. arbeiðsmegini á føroysku flaka- og fiskavirkjunum í framtíðini. Men eins og aðrar frágreiðingar av hesum slagi, so setir hendan frágreiðingin eisini fleiri nýggjar spurningar, sum krevja viðgerð – í hesum føri bæði av vinnuni, fakfeløgum og frá politiskari síðu. Ein týðandi partur av at menna einhvørja vinnu er at arbeiða við teimum avbjóðingum og hóttanum og møguleikum, sum vinnan hevur ella kann fáa. Hetta krevur miðvíst arbeiði og krevur at bæði vinna, fakfeløg og politiski myndugleikin í felag arbeiða við loysnum. Kanningarnar, sum eru gjørdar millum arbeiðsfólk á flaka- og fiskavirkjunum og millum ung geva heilt greiðar ábendingar um, at fiskivinnan á landi innan stutta tíð fer at fáa trupulleikar við at fáa til vega arbeiðsfólk. Kanningarnar og frágreiðingin styrkja sostatt um tær ábendingar, sum vinnan sjálv er komin við í føroysku fjølmiðlunum. Nýggja vitanin, sum fyriliggur í frágreiðingini, krevur, at vit meiri miðvíst seta hol á kjakið og arbeiðið við tillagingarmøguleikum hjá fiskivinnuni á landi. Í frágreiðingini eru nakrir tillagingarmøguleikar viðgjørdir – hetta út frá royndum í øðrum londum – men mugu vit eisini í einum føroyskum høpi arbeiða við loysnum á trupulleikunum, sum fiskivinnan á landi (og aðrar vinnur við) kann koma í í næstu framtíð. <em type="italic"></em></p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>38 </p>
+<p><em type="bold">Bókmentir og keldur </em>Biskopstø og Mortensen. 2004 </p>
+<p><em type="italic">Ung, útbúgving og Fiskivinnan – Arbeiðsrit 9/2004 </em>. Granskingardepilin fyri Økismenning. </p>
+<p xml:lang="nno">Brox, Ottar. 2003.</p>
+<p xml:lang="nno"><em type="italic">Et dårligt argument for en god sak. </em>i Klassekampen 08.03.03. </p>
+<p>FISKIVINNUPOLITIKKUR - FYRITREYTIR OG STEVNUMIÐ; Frágreiðing til aðalorðaskiftis sambært § 51, stk. 4, í tingskipanini, Løgtingsmál nr. 101-04/2000 Grapevine Online, 9. Sept. 2006 www.grapevine.is Hagstova Føroya: www.hagstova.fo Miðnámsskúlin í Suðuroy: www.midnam.fo Personalesundhed.dk http://www.personalesundhed.dk/referencer/resultater_tidligindsats.html Sjónvarp Føroya, Dagur &amp; Vika 14. Sept. 2006 Vinnuvitan 12. Okt. 2006</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>39 </p>
+<p><em type="bold">Ískoyti 1. Spurnablað í smb. við kanning millum arbeiðsfólk á flaka- og fiskavirkjum </em></p>
+<p>Fyri at fáa ein ábending um, hvørji arbeiða á flaka- og fiskavirkjunum í Føroyum, hvussu trivnaðurin er og hvørjar vónir arbeiðsfólk á flaka- og fiskavirkjum hava til arbeiði innan hesa vinnu, ger Granskingardepilin fyri Økismenning eina spurnablaðskanning um hesi viðurskifti. Spurnablaðs-kanningin verður gjørd í flaka- og fiskavirkjum um alt landið.</p>
+<p><em type="bold">Tú er anonym/-ur í kanningini! </em></p>
+<p>Kanningin er anonym á tann hátt, at tað einstaka spurnablaðið verður ikki sjónligt í sjálvari frágreiðingini. Hartil er í slíkum kanningum galdandi, at heildin er áhugaverd fram um tað einstaka spurnablaðið.</p>
+<p>Tá tygum hava svarað spurnablaðnum, verða tey savnaði inn og send til Granskingardepilin fyri Økismenning, skrivstovan í Vági, har spurnabløðini verða lisin inn í telduforrit. Eftir hetta verða spurnabløðini burturbeind – hetta eisini fyri at tryggja anonymitet. Granskarar á</p>
+<p>Granskingardeplinum fyri Økismenning hava eisini tagnarskyldu í smb. við spurnablaðskanningina.</p>
 <p>Tað er sjálvboðið at taka lut í kanningini, men heitt verður á tygum um at vera so beinasom og svara spurnablaðnum. Spurnablaðið er stutt og tað tekur bert fáa minuttir at svara tí.</p>
-<p>Eru  nøkur  ivamál  kunnu  tygum  altíð  ringja  til  Dennis  Holm  á  Granskingardeplinum  fyri Økismenning, tlf. 374477 ella tlf. 222928.</p>
-<p xml:lang="isl"> <em type="bold">Spurnablað </em></p>
-<p><em type="bold">1. Aldur: </em>___________ ár <em type="bold">2. Kyn</em>:            Kvinna             Maður <em type="bold">3. Í hvørjum øki arbeiðir tú? </em> </p>
-<p> Suðuroy<em type="bold"> </em> Sandoy<em type="bold"> </em> Vágum  Streymoy  Eysturoy  Norðoyggjum<em type="bold"> </em></p>
-<p><em type="bold">4. Hvussu nógv fólk arbeiða á virkjum, har tú arbeiðir? </em> </p>
-<p> Færri enn 20 fólk<em type="bold"> </em> 20-50 fólk<em type="bold"> </em> Fleiri enn 50 fólk<em type="bold"> </em></p>
-<p><em type="bold">5. Starv - hvat arbeiðir tú sum?</em> </p>
-<p xml:lang="isl"> Arbeiðskvinna/-maður <em type="bold"> </em> Leiðari / Millumleiðari<em type="bold"> </em> Annað ___________________<em type="bold"> </em></p>
-<p><em type="bold">6. Hvørja útbúgving hevur tú (tú kanst seta fleiri krossar)? </em>     Fólkaskúla; a 7 ár ; b 9/10 ár </p>
-<p> Miðnámsskúla<em type="bold"> </em> Handverksliga útbúgving  Millum-langa hægri útbúgving (3 ár)  </p>
-<p>Langa hægri útbúgving (5 ár)</p>
-<p xml:lang="isl"> Annað _________________________________<em type="bold"> </em></p>
-<p><em type="bold">7. Hvussu leingi hevur tú arbeitt á flaka- og/ella fiskavirki? </em>_________________ ár <em type="bold">7a. Av hesum havi eg arbeitt á flaka- og/ella fiskavirki í </em>_________________ <em type="bold">ár samanhangandi</em> <em type="bold">8. Hvussu leingi hevur tú arbeitt á hesum virkinum? </em>_________________ ár <em type="bold">9. Hvussu trívist tú í tínum arbeiði?</em> </p>
-<p> Heilt gott  Gott  Hampiligt  Illa  Heilt illa  Veit ikki<em type="bold"> </em></p>
-<p><em type="bold">10. Hevði tú farið í annað arbeiði/aðra vinnu, um tú fekk tilboð um hetta?  </em></p>
-<p> Ja  Nei  Veit ikki   Annað ____________________<em type="bold"> </em></p>
-<p><em type="bold">11. Væntar tú at arbeiða á einum flaka- ella fiskavirki um 5 ár?  </em></p>
-<p> Ja  Nei  Veit ikki   Annað ____________________<em type="bold"> </em></p>
-<p><em type="bold">12. Ynskir tú, at børn tíni – eins og tú – skulu arbeiða á flaka- og/ella fiskavirki?</em> </p>
-<p> Ja  Nei  Veit ikki   Børn míni eru í aðrari vinnu   Havi ongi børn<em type="bold"> </em></p>
-<p>Takk fyri ómakin!</p>
-<p>i Løntakarateljingin er grundað á skráirnar hjá Toll- og Skatsstovu Føroya um samtíðarskatt, føroysk virki</p>
-<p>og  á  skráirnar  hjá  Landsfólkayvirlitinum.Uppgerðin  fevnir  um  borgarar  í  landinum  millum  16  og  74  ár, sum  fáa  lønargjaldingar  um  samtíðarskattaskipanina.  Bert  tey  verða  tald  uppí,  sum  hava  eina lønarinntøku, sum svarar til minst eina dagløn um mánaðan hjá ófaklærdum arbeiðara. Somuleiðis verða tey tald uppí, sum fara úr arbeiði vegna barsilsfarloyvi ella sjúku.       Av  tí  at  útgjaldingar  hjá  serliga  sjófólki  kunnu  vera  óregluligar,  telja  vit  fólk  sum  løntakarar,  hóast  tey onga løn fáa í ein ella tveir mánaðar, um tey so aftur fáa løn mánaðan eftir. Hvønn mánaða eru fleiri, sum fáa lønarinntøku frá ymsum arbeiðsgevarum, men fyri at hvør løntakari bert skal telja við eina ferð hvønn mánaða,  verða  løntakarar  flokkaðir  í  vinnugrein  alt  eftir  hvaðani  størsti  parturin  av  inntøkuni  kom  í galdandi mánaða.           Hesar reglurnar, vit hava hildið okkum til í uppgerðini, eru lagdar soleiðis, at uppgerðin í frægasta mun fylgir  reglum  frá  ILO  og  tí  verður  sambærlig  við  líknandi  uppgerðir  í  øðrum  londum.  Ársuppgerðin  er grundað á mánaðaruppgerðina í novembur.</p>
+<p>Eru nøkur ivamál kunnu tygum altíð ringja til Dennis Holm á Granskingardeplinum fyri</p>
+<p>Økismenning, tlf. 374477 ella tlf. 222928.</p>
+<p><em type="bold">Spurnablað </em><em type="bold">1. Aldur: </em>___________ ár <em type="bold">2. Kyn </em>: 1 Kvinna 2 Maður <em type="bold">3. Í hvørjum øki arbeiðir tú? </em>1 </p>
+<p>Suðuroy2</p>
+<p>Sandoy3</p>
+<p>Vágum4</p>
+<p>Streymoy5</p>
+<p>Eysturoy6</p>
+<p>Norðoyggjum <em type="bold">4. Hvussu nógv fólk arbeiða á virkjum, har tú arbeiðir? </em>1 </p>
+<p>Færri enn 20 fólk2 20-50 fólk3</p>
+<p>Fleiri enn 50 fólk <em type="bold">5. Starv - hvat arbeiðir tú sum? </em>1 Arbeiðskvinna/-maður <em type="bold"></em>2 Leiðari / Mil umleiðari <em type="bold"></em>3 Annað ___________________ <em type="bold"></em><em type="bold">6. Hvørja útbúgving hevur tú (tú kanst seta fleiri krossar)? </em>Fólkaskúla; a 7 ár ; b 9/10 ár 2 </p>
+<p xml:lang="isl">Miðnámsskúla3</p>
+<p>Handverksliga útbúgving4</p>
+<p>Mil um-langa hægri útbúgving (3 ár) 5</p>
+<p>Langa hægri útbúgving (5 ár)6</p>
+<p>Annað _________________________________ <em type="bold">7. Hvussu leingi hevur tú arbeitt á flaka- og/ella fiskavirki? </em>_________________ ár <em type="bold">7a. Av hesum havi eg arbeitt á flaka- og/ella fiskavirki í </em>_________________ <em type="bold">ár samanhangandi </em><em type="bold">8. Hvussu leingi hevur tú arbeitt á hesum virkinum? </em>_________________ ár <em type="bold">9. Hvussu trívist tú í tínum arbeiði? </em>1 </p>
+<p>Heilt gott 2</p>
+<p xml:lang="sms">Gott3</p>
+<p xml:lang="dan">Hampiligt 4</p>
+<p xml:lang="eng">Il a 5</p>
+<p xml:lang="nno">Heilt il a 6</p>
+<p>Veit ikki</p>
+<p><em type="bold">Granskingardepilin fyri Økismenning </em>40 <em type="bold">10. Hevði tú farið í annað arbeiði/aðra vinnu, um tú fekk tilboð um hetta? </em>1 </p>
+<p xml:lang="smj">Ja 2</p>
+<p xml:lang="nno">Nei3</p>
+<p>Veit ikki4</p>
+<p>Annað ____________________ <em type="bold">11. Væntar tú at arbeiða á einum flaka- ella fiskavirki um 5 ár? </em>1 </p>
+<p xml:lang="smj">Ja 2</p>
+<p xml:lang="nno">Nei3</p>
+<p>Veit ikki4</p>
+<p>Annað ____________________ <em type="bold"></em><em type="bold">12. Ynskir tú, at børn tíni – eins og tú – skulu arbeiða á flaka- og/ella fiskavirki? </em>1 </p>
+<p xml:lang="smj">Ja 2</p>
+<p xml:lang="nno">Nei3</p>
+<p>Veit ikki4</p>
+<p>Børn míni eru í aðrari vinnu5</p>
+<p>Havi ongi børn</p>
+<p>Takk fyri ómakin! i Løntakarateljingin er grundað á skráirnar hjá Toll- og Skatsstovu Føroya um samtíðarskatt, føroysk virki og á skráirnar hjá Landsfólkayvirlitinum.Uppgerðin fevnir um borgarar í landinum millum 16 og 74 ár, sum fáa lønargjaldingar um samtíðarskattaskipanina. Bert tey verða tald uppí, sum hava eina lønarinntøku, sum svarar til minst eina dagløn um mánaðan hjá ófaklærdum arbeiðara. Somuleiðis verða tey tald uppí, sum fara úr arbeiði vegna barsilsfarloyvi ella sjúku.</p>
+<p>Av tí at útgjaldingar hjá serliga sjófólki kunnu vera óregluligar, telja vit fólk sum løntakarar, hóast tey onga løn fáa í ein ella tveir mánaðar, um tey so aftur fáa løn mánaðan eftir. Hvønn mánaða eru fleiri, sum fáa lønarinntøku frá ymsum arbeiðsgevarum, men fyri at hvør løntakari bert skal telja við eina ferð hvønn mánaða, verða løntakarar flokkaðir í vinnugrein alt eftir hvaðani størsti parturin av inntøkuni kom í galdandi mánaða.</p>
+<p>Hesar reglurnar, vit hava hildið okkum til í uppgerðini, eru lagdar soleiðis, at uppgerðin í frægasta mun fylgir reglum frá ILO og tí verður sambærlig við líknandi uppgerðir í øðrum londum. Ársuppgerðin er grundað á mánaðaruppgerðina í novembur.</p>
 </body></document>
