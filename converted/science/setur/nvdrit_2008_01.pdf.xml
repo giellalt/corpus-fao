@@ -1,0 +1,112 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1474</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2008_01.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Sjóvarfalsorka í</p>
+<p>Vestmannasundi- fyribils metingar.</p>
+<p>Knud Simonsen</p>
+<p xml:lang="eng">NVDRit 2008:08</p>
+<p xml:lang="eng">NÁTTÚRUVÍSINDADEILDIN FRÓÐSKAPARSETUR FØROYA</p>
+<p xml:lang="eng">Faculty of Science and Technology University of the Faroe Islands</p>
+<p xml:lang="eng">Heiti / Title</p>
+<p>Sjóvarfalsorka í Vestmannasundi- ein fyribils meting</p>
+<p>Høvundur / Author</p>
+<p>Knud Simonsen Náttúruvísindadeildin, Tórshavn Faculty of Science and Technology, Tórshavn@: knuds@setur.fo</p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng">Upprit /Notes</p>
+<p xml:lang="dan">Dagfesting / Date</p>
+<p>Nov., 2008</p>
+<p xml:lang="eng">NVDRit2008:08</p>
+<p xml:lang="eng">ISSN1601–9741c°</p>
+<p xml:lang="eng">Náttúruvísindadeildin og høvundurin Faculty of Science and Technology and the author</p>
+<p>Útgevari / Publisher</p>
+<p xml:lang="eng">Náttúruvísindadeildin /Faculty of Science and Technology Fróðskaparsetur Føroya /University of the Faroe Islands</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn , Føroyar /Faroe Islands</p>
+<p>Postrúm / P.O. Box2109, FO 165 Argir, Føroyar /Faroe Islands</p>
+<p>Tlf. · Fax · @+298 352550 · +298 352551 · nvd@setur.fo</p>
+<p xml:lang="eng">Abstract</p>
+<p xml:lang="eng">Faroese:</p>
+<p>Ein ADCP mátari stóð á 48 m dýpi í Vestmannasundinumí 28 dagar í juli-mánaða í 1990. Mátingin er neyvari lýst í Hansen et. al., 1990, sum eisini hevur normaliseraða fordeilingina av streymferðina á 9-13 m og 29-33m dýpi. Grundað á hetta tilfarið er tøka sjóvarfalsorkan á hesum báðum dýpunum roknað, og fyribils metingar av møguligari streymframleiðslu frá 9 ymsum turbinum eru eisini gjørdar.</p>
+<p xml:lang="eng">English:</p>
+<p xml:lang="eng">An ADCP was deployed in 28 days at 48 m in the Vest-mannasund in July 1990. Details on this deployment are given in Hansen et. al., 1990, which also provide the normalized distribution of the current speed at 9-13 m and 29-33 m depth. Based on this material the available tidal stream energy at these two depths is estimated, and preliminary estimates of possible production by 9 different tidal stream stream turbines is provided.1</p>
+<p><em type="bold">U (m s </em><em type="bold">-1) </em></p>
+<p xml:lang="eng"><em type="bold">P </em><em type="bold">(u </em><em type="bold">) </em><em type="bold">p </em><em type="bold">(u </em><em type="bold">) </em></p>
+<p xml:lang="eng"><em type="bold">A </em><em type="bold">c </em><em type="bold">c </em><em type="bold">u </em><em type="bold">m </em><em type="bold">u </em><em type="bold">la </em><em type="bold">te </em><em type="bold">d </em>12300.010.020.030.040.050.20.40.60.81 </p>
+<p><em type="bold">P(u) 29-33 m Pacc(u), 29-33 m P(u), 8-13 m Pacc(u), 8-13 m </em></p>
+<p>Figure 1: Normaliseraða (P (u)) og akkumulerað fordeiling (Pacc(u)) avstreymferðini í einum ári á 9-13 m og 29-33 m dýpi í Vestmannsundi. Frá Hansen et al. [1991].1</p>
+<p xml:lang="eng">Streymmáting</p>
+<p>Í Juli mánaða í 1990 varð ein Acoustic Doppler Current Profiler settur niður á botnin á 48 metra dýpi í Vestmannasundi miðskeiðis millum Oyrargjógv og Fútaklett og mátaða hann streymin á hesum staðnum í 28 dagar. Nærri er greitt frá hesari mátingini í Hansen et al. [1991].</p>
+<p>Í Hansen et al. [1991] eru ein sjóvarfalsgreining gjørd av mátin-gunum. Grundað á hesi úrslitini er sjóvarfalsráki á mátistadnum endurskapa fyri hvønn minutt í einum ári, og sannlíkindini fyri at ráki hevur eina ávísa streymferð er roknað. Útrokningarnar í hesum notatinum byggja á normaliseraðu fordeilingini av streymferðini á 9-13 m og 29-33 m dýpi frá Hansen et al. [1991], sum eru roknað fyri hvørjar 0.1 m s−1(10 cm s−1), og eru tær vístar á mynd 1. Tað er vert at leggja til merkist, at ráki er eitt sindur harðari á grynra mátistaðnum.2</p>
+<p>Orka í einum ráki</p>
+<p>Orkan gjøgnum ein tvørskurð í einum ráki er givin við</p>
+<p>W0(u) =1 2ρAu3(1)har ρ er evnisvektin hjá sjógvi (kg m−3), A er arealið av tvørskurðinum (m2) og u er streymferðin (m s−1).2</p>
+<p>Orkuverk e(u)umin</p>
+<p xml:lang="eng">Wmax</p>
+<p>Nr.m s−1</p>
+<p xml:lang="eng">MW10.381.250.81420.380.701.030.380.702.0</p>
+<p>Table 1: Dømir uppá trý ymisk orkuverk, ið eru givin við effektivitet (e(u)), íbindingarferðin uminog mesta framleiðslumáttinum Wmax.3</p>
+<p>Framleiðslumáttur hjá einari turbinu</p>
+<p>Um eitt orkuverk verður sett niður fyri at gagnnýta orkuna í rákinum, so kann framleiðda orkan roknast frá</p>
+<p>W(u) = e(u)W0(u)(2)har e(u) er effektiviteturin hjá orkuverkinum. Tað vanliga er, at ráki má verða harðari enn eitt vist aðrenn turbinan verður virkin. Á enskum verður hetta nevnt ’cut-in-line speed’ ella ’threshold speed’, og verður her nevnt íbindingarferð (umin). Í hinum endanum liggur avmarkingini í mesta framleiðslumáttinum hjá turbinini, sum her verður nevnt Wmax.</p>
+<p>Uppskotna orkuverkið, sum var orsøkin til arbeiði undir greininahjá Hansen et al. [1991], er orkuverk nr 1 í talvu 1. Fyri hini bæði hugsaðu orkuverkini er sami effektivitetur nýttur, sum mett varð at uppskotna orkuverkið hevði. Effektiviturin hjá einari myllu, bæði í sjógvi og í luft, hevur eitt ovara ástøðiligt mark uppá 0.596, ið er kent sum Betz-markið. Út frá hesum, og frá upplýsingum um vindmyllur, so er ein effektivitetur uppá 0.38 av tøku orkuni í rákinum at rokna sum gott.</p>
+<p>Íbindingarferðin og mesti framleiðslumáttturin fyri hugsaðu orku-verkini eru sett virðir, sum er sæð fyri nýggjari orkuverk av hesum slagnum, tó uttan at hetta er galdandi fyri nakað einstakt kent orkuverk.</p>
+<p>Orkuframleiðslan við einari givnari streymferð fyri orkuverkini ítalvu 1, sum virka á einum tvørskurði í rákinum við einum radiusi uppá ávikavist 9 m og 13 m (svarar til ávikavis 254.5 m2 og 530.9 m2) er víst á mynd 2.3</p>
+<p><em type="bold">U (m s </em><em type="bold">-1) </em></p>
+<p><em type="bold">W </em><em type="bold">(u </em><em type="bold">) </em>012300.511.52 </p>
+<p xml:lang="eng"><em type="bold">Turbine no.: 1; d=1 Turbine no.: 2; d=1 Turbine no.: 3; d=1 </em><em type="bold">r= </em><em type="bold">13 </em><em type="bold">m </em><em type="bold">r= 9 </em><em type="bold">m </em><em type="bold">1.0 Mw </em><em type="bold">0.8 Mw </em><em type="bold">2.0 Mw </em></p>
+<p>Figure 2: Møgulig orkuframleiðsla við givnari streymferð fyri nakrar turbinu spesifikasjónir.4</p>
+<p>Dømir um møguligar turbinur í Vest-mannasundi</p>
+<p>Tá framleiðslumátturin hjá orkuverkinum fyri eina givna streymferð, W(u), og normaliseraða streymfordeilingini á einum mátistaði er kend,ber til at rokna miðal orkuframleiðsluna fyri eina givnari streymferð frá</p>
+<p>E(u) = W (u)P (u)(3)og miðal orkuframleiðslan kann roknast við</p>
+<p xml:lang="eng">E=iumax</p>
+<p>Xi=1</p>
+<p xml:lang="eng">E(u) =iumax</p>
+<p>Xi=1</p>
+<p>W(u)P (u)(4)</p>
+<p>Útrokningar av E(u) eru vístar í mynd 3 og miðal orkuframleiðslanhjá nevndu verkum við teimum givnu streymviðurskiftunum eru givin í talvu 2.</p>
+<p>Í talvu 2 er eisini roknað árliga framleiðslan, um verkini eru virkiní 350 dagar í einum ári, og íløgukostnaðurin av hvørjum framleiddum KWh, um hvør turbinan kostar 20 milliónir krónur.</p>
+<p>Hesin kostnaður er mettur út frá fráboðan í samband við at bret-ska felagið Lunar Energy skrivaði undir sáttmála við suður koreanska felagið Korean Midland Power Company um at gera 300 sjóvarfalsturbinur fyri 500 milliónir bretsk pund, ella um 1.7 milliónir brestk pund í miðal fyri hvørja turbinu (sí undir frættindir á www.nvd.fo).5</p>
+<p>Framleiðslu dømi</p>
+<p>Mynd 4 vísir sjóvarfals ráki á 9-13 m dýpi rokna frá 4 av teimum týdningarmestu konstituentunum (M2, S2, N2og K1), sum umboða umleið4</p>
+<p xml:lang="eng">Dýpid1: 29-33 md2: 9-13 m</p>
+<p>Turbina</p>
+<p>Miðal</p>
+<p xml:lang="dan">Árlig</p>
+<p xml:lang="eng">Kostn.</p>
+<p>Miðal</p>
+<p xml:lang="dan">Árlig</p>
+<p xml:lang="dan">Kostn.nr.</p>
+<p>Orkuframl.framl</p>
+<p>Orkuframl.framl</p>
+<p xml:lang="eng">MW</p>
+<p xml:lang="eng">GWh/y DKK/KWh/y</p>
+<p xml:lang="eng">MW</p>
+<p>GWh/y DKK/KWh/yr=9 m, svarandi til A= 254.5 m210.161.3315.040.231.9110.4620.171.4613.700.252.119.5030.171.4713.630.262.219.05r=11 m, svarandi til A= 380.1 m210.221.8410.860.292.458.1620.252.109.520.342.827.1030.262.199.120.393.266.14r=13 m, svarandi til A= 530.9 m210.272.278.810.342.866.9820.322.707.410.413.415.8730.363.046.580.524.364.59</p>
+<p>Table 2: Miðal orkuframleiðslan fyri ymisk orkuverk við tveimum streymfordeilingum grundað á streymmátingar í Vestmannasundi. Eisini er roknað árlig framleiðsla og árligur kostnaður fyri hvønn KWh um kostnaðurin av orkuverkinum er 20 milliónir krónir.5</p>
+<p><em type="bold">U (m s </em><em type="bold">-1) </em></p>
+<p xml:lang="eng"><em type="bold">E </em><em type="bold">(M </em></p>
+<p xml:lang="eng"><em type="bold">W </em><em type="bold">) </em>012300.0050.010.0150.020.0250.030.0350.04 </p>
+<p xml:lang="eng"><em type="bold">Turbine no.: 1; d=1 Turbine no.: 1; d=2 Turbine no.: 2; d=1 Turbine no.: 2; d=2 Turbine no.: 3; d=1 Turbine no.: 3; d=2 </em><em type="bold">r= 9 m </em></p>
+<p><em type="bold">U (m s </em><em type="bold">-1) </em></p>
+<p xml:lang="eng"><em type="bold">E </em><em type="bold">(M </em></p>
+<p xml:lang="eng"><em type="bold">W </em><em type="bold">) </em>012300.0050.010.0150.020.0250.030.0350.04 </p>
+<p xml:lang="eng"><em type="bold">Turbine no.: 1; d=1 Turbine no.: 1; d=2 Turbine no.: 2; d=1 Turbine no.: 2; d=2 Turbine no.: 3; d=1 Turbine no.: 3; d=2 </em><em type="bold">r= 13 m </em></p>
+<p>Figure 3: Miðal orkuframleiðsla við givnari streymferð fyri orkuverkini í talvu 1 við tvørmáti givið við r = 9 m í erva og r = 13 m í neðra. d1 er streymfordeilingin á 29-33 m dýpi og d2 er streymfordeilingin á 9-13 m dýpi.70% av samlaða sjóvarfalsrákinum á hesum staðnum. Fasumunurin, sum er millum hesar konstituentarnar er ikki tikin við, og út rokningarnar eru gjørdar fyri eitt 60 dagar skeið, sum byrjar við tíðina t = 0. Í somu mynd er eisini orkuframleiðslan við hesum rákinum við einari turbinu, ið hevur e(u) = 0.38, r = 10 m, umin = 0.7 og Wmax = 1 MW. Á mynd 5 er eitt styttri tíðarskeið víst.</p>
+<p>Á mynd 6 er dømi um orkuframleiðslu við tveimum turbinum, iðliggja í hvør sínum sundi, sum hava sama streymprofil, men liggja soleiðis at tá broddur er í øðrum sundinum eru kyrrindir í hinum sundinum. Mynd 7 vísir framleiðsluna hjá tveimum slíkum turbinum í eitt 60 dagar skeið.6:w</p>
+<p><em type="bold">Days </em><em type="bold">u </em><em type="bold">(m </em><em type="bold">/s </em><em type="bold">) </em>01020304050-3-2-10123 <em type="bold">u1 </em></p>
+<p><em type="bold">Days </em><em type="bold">u </em><em type="bold">(m </em><em type="bold">/s </em><em type="bold">) </em>0102030405000.20.40.60.811.21.4 </p>
+<p xml:lang="eng"><em type="bold">E1 </em></p>
+<p>Figure 4: Í erva er ráki roknað frá amplitudunum hjá 4 teir týðningarmest sjóvarfalskonstituentunum í Vestmannasundi á 9-13 m dýpi. Fasu munurin millum konstituentarnar er ikki tikin við. Í neðra er tilsvarandi orkuframleiðslan frá einari turbinu, ið hevur e(u) = 0.38, r = 10 m, umin= 0.7 og</p>
+<p xml:lang="eng">Wmax= 1 MW.</p>
+<p><em type="bold">Days </em><em type="bold">u </em><em type="bold">(m </em><em type="bold">/s </em><em type="bold">) </em></p>
+<p xml:lang="eng"><em type="bold">E </em><em type="bold">(M </em></p>
+<p xml:lang="eng"><em type="bold">W </em><em type="bold">) </em>2526272829-3-2.5-2-1.5-1-0.500.511.522.5300.20.40.60.811.21.4 <em type="bold">u1 E1 </em></p>
+<p>Figure 5: Eitt 5 daga tíðarskeið við streymferð og møguligari orkuframleiðslu tikið burturúr plottunum á mynd 4.7</p>
+<p xml:lang="eng"><em type="bold">E </em><em type="bold">(M </em></p>
+<p xml:lang="eng"><em type="bold">W </em><em type="bold">) </em>26272800.20.40.60.811.21.4 </p>
+<p xml:lang="eng"><em type="bold">E1 E2 E1 + E2 </em></p>
+<p>Figure 6: Dømi um møguligari framleiðslu við tveimum turbinum, ið liggja í sundum har broddur eru í øðrum sundinum (E1) tá kyrrindir er í hinum sundinum (E2), og annars hava sama streymprofil.</p>
+<p><em type="bold">Days </em><em type="bold">u </em><em type="bold">(m </em><em type="bold">/s </em><em type="bold">) </em></p>
+<p xml:lang="eng"><em type="bold">P </em><em type="bold">(M </em></p>
+<p xml:lang="eng"><em type="bold">W </em><em type="bold">) </em>051015202530-6-5-4-3-2-101230.00.51.01.52.02.53.03.54.0 </p>
+<p>Figure 7: Dømi um møguligari framleiðslu við tveimum turbinum í eitt 60 daga skeið, ið liggja í sundum har broddur eru í øðrum sundinum tá kyrrindir er í hinum sundinum, og annars hava sama streymprofil.8</p>
+<p xml:lang="eng">References</p>
+<p xml:lang="eng">B. Hansen, S. Heinesen, and K. Simonsen. Current measurementsin Vestmannasund, Faroe Islands. Technical report, Fiskirannsóknarstovan, Nóatún, FR-100 Tórshavn, Faroe Islands, 1991. 27pp.9</p>
+</body></document>

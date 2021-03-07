@@ -1,0 +1,12 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>233</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>vegleiðing-til-bóking-av-húsaleigurskatti.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
+<p xml:lang="dan"><em type="bold">M I N I S T R Y O F F I N A N C E </em></p>
+<p type="listitem">Kvíggjartún 1</p>
+<p type="listitem">Box 2039</p>
+<p type="listitem">165  Argir  (+298) 35 20 20</p>
+<p type="listitem"> (+298) 35 20 25</p>
+<p type="listitem" xml:lang="dan"> fmr@fmr.fo</p>
+<p type="listitem">www.fmr.fo</p>
+<p>Argir, 9. januar 2012</p>
+<p><em type="bold">Vegleiðing til bóking av húsaleiguskatti </em></p>
+<p>Kommunurnar fáa part av húsaleiguskattinum, sum verður uppkravdur eftir § 8a í Ásetingarlógini. Í kommunuavrokningini fyri desember 2011 er bókað húsaleiguskattur til kommunur, og verður her kunnað um, hvussu hesin verður bókaður. <em type="bold">Hvar sæst Húsaleiguskatturin á kommunuavrokningini? </em>Á kommunuavrokningini hjá Gjaldstovuni sæst húsaleiguskatturin á ávíkavist STRKT 0330 (útgr. 0000) og 0841 (útgr. 1015). Upphæddin undir STRKT 0330 er vegna uppkravdan, men ikki goldnan húsaleiguskatt, meðan upphæddin undir 0841 er vegna uppkravdan og goldnan húsaleiguskatt. Hjá nøkrum av smærri kommununum er ongin húsaleiguskattur á STRK 0330 ella STRKT 0841, so verður sjálvandi ikki bókaður húsaleiguskattur. <em type="bold">Hvussu skal húsaleiguskatturin bókast? </em>Upphæddin á STRKT 0330 hjá Gjaldstovuni verður bókað soleiðis: K: 6180 (Undirkontu/rakstrarstað/stovn <span type="quote">”Húsaleiguskattur”</span>, sí niðanfyri) D: 0330 Upphæddin á STRKT 0841 hjá Gjaldstovuni verður bókað soleiðis: K: 6180 (Undirkontu/stovn/rakstrarstað <span type="quote">”Húsaleiguskattur”</span>, sí niðanfyri) D: 0365 <em type="bold">Á hvørja høvuðs- og undirkontu skal inntøkan frá Húsaleiguskattinum bókast? </em>Inntøka frá húsaleiguskatti skal bókast á: Grein: 20 Inntøkur Høvuðskonta: 52.11.xxx. Kommunuskattur (til dømis 52.11.110 hjá Tórshavnar kommunu) Undirkonta: 02 Húsaleiguskattur Í Lundanum merkir hetta, at stovnsnummarið skal vera 20.52.11.xxx.02, meðan í Navision verður gjørt eitt rakstrarstað, ið verður knýtt at omanfyrinevndu høvuðskontu og undirkontu. </p>
+</body></document>

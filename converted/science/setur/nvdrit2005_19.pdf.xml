@@ -1,0 +1,240 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2194</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2005_19.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Sjálvinduktión og sínámillum induktión </em></p>
+<p xml:lang="dan"><em type="bold">Magnus Danielsen </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2005:19 2 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p><em type="bold">Sjálvinduktión og sínámillum induktión </em></p>
+<p><em type="italic">Høvundar / Authors </em></p>
+<p xml:lang="dan">Magnus Danielsen</p>
+<p xml:lang="eng"><em type="italic">Ritslag / Report Type </em></p>
+<p xml:lang="eng">Undirvísingartilfar/Teaching Material</p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2005:19 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p xml:lang="eng">ISSN1601-9741</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 3 <em type="bold">1. Induktiónskomponentar </em>Magnetfelt verður skapt av elektriskum streymi. Senda vit elektriska streymin I ígjøgnum ein leiðara, t.d. kopartráð, verður ein magnetisk induktión <em type="bold">B </em>skapt rundan um hann, hvørs stødd er proportional við streymin. <em type="bold">B </em>er ein vektor knýttur at hvørjum staði í rúminum og er tí eitt vektorfelt. Er tráðurin vundin upp sum ein spoli, vil magnetiska induktiónin inni í spolanum peika í rætningin, sum verður sagt okkum av sokallaðu <em type="bold">høgruhandar tummulfingra lógini </em>: <em type="italic"><span type="quote">“Tak við høgru hond um spolan við fingrunum í streymrætningin. Tá vendir tummulfingurin í sama rætning sum magnetiska induktiónin inni í spolanum”</span>. </em>Um tann magnetiska induktiónin <em type="bold">B </em>broytist við tíðini, verður ein spenningur V induseraður millum endarnar á leiðaranum. Nú ber tað so á, at <em type="bold">B </em>kann verða skapt av streyminum I í sjálvum spolanum soleiðis, at V verður heftur av I. Ein slíkur elektroniskur lutur verður nevndur ein <em type="bold">sjálvinduktión </em>. Er harafturímóti magnetiska induktiónin <em type="bold">B </em>skapt av streyminum í einum øðrum spola, verður spenningurin V heftur av streyminum í tí spolanum. Hetta gevur støði undir elektriska lutinum (komponentinum), ið verður nevndur <em type="bold">sínámillum induktión </em>, ella <em type="bold">transformatorur </em>. Niðanfyristandandi verða grundleggjandi eginleikarnir hjá hesum elektrisku lutunum útgreinaðir við støði í støddfrøðini og alisfrøðini, tó uttan at fara niður í djúparigangandi útleiðingar av teoriini aftanfyri. 4 <em type="bold">2. Sjálvinduktión </em></p>
+<p xml:lang="eng">Mynd 1</p>
+<p xml:lang="eng">I + V −</p>
+<p><em type="bold">B </em>φ </p>
+<p>Í mynd 1 er ein spoli, ið leiðir ein streym I, avmyndaður. Streymurin skapar eina magnetiska induktión <em type="bold">B </em>. Magnetiska induktiónin er upphavið til ein magnetiskan fluks gjøgnum spolan </p>
+<p>Φ, ið verður defineraður sum flatuintegralið av magnetisku induktiónini yvir ein tvørskurð av rúminum inni í spolanum vinkulrætt á ásin.: (1) ∫∫µ==</p>
+<p>Hda</p>
+<p>Bda</p>
+<p>Í líkningini (1) er magnetiska induktiónin <em type="bold">B </em>skrivað sum ein konstantur µ ferðir magnetiska feltið <em type="bold">H </em>: (2) </p>
+<p><em type="bold">B </em>= µ⋅ <em type="bold">H </em>har µ er ein tilfarskonstantur fyri tilfarið inni í spolanum og verður nevndur magnetiski permeabiliteturin. Hetta, at innføra eitt nýtt magnetiskt felt <em type="bold">H </em>, kann tykjast at vera eitt sindur løgi, eftirsum <em type="bold">B </em>og <em type="bold">H </em>eru proportionalar støddir. Orsøkin til kortini at innføra tvær støddir fyri hesum sama er at finna í tí fyribrigdi, at <em type="bold">H </em>er óheft av tí tilfarinum, ið er í og uttanum spolan, meðan <em type="bold">B </em>verður ávirkað av tilfarinum við µ. Summi evni eru inhomogen ella aninisotrop evni og hava so samansettar magnetiskar eginleikar, at magnetiski permeabiliteturin µ ikki longur er konstantur. Eisini kann henda, at µ er ein matrix (tensor) og kunnu <em type="bold">B </em>og <em type="bold">H </em>tá peika í hvør sín rætning. </p>
+<p>Uttan at lýsa hesar feltstøddir gjøllari, kann verða nevnt, at í alisfrøðini er <em type="bold">B </em>knýtt at magnetisku kraftini, meðan <em type="bold">H </em>feltið er knýtt at tí elektriska streyminum, sum skapar feltið, og er ikki beinleiðis ávirkað av magnetisku eginleikunum í rúminum. 5 </p>
+<p>Magnetiski permeabiliteturin í vaccuum er givin við (3) )</p>
+<p xml:lang="eng">Am/</p>
+<p xml:lang="eng">Vs(m/</p>
+<p>H10470−⋅π=µ</p>
+<p>Soleiðis kann magnetiski permeabiliteturin verða skrivaður (4) 0r µµ=µ ið definerar tann relativa magnetiska permeabilitetin µr. Úr alisfrøðini fáa vit eisini at vita, at, um vit útrokna kurvuintegralið framvið einari afturlatnari leið, sum gongur gjøgnum spolan og fevnir um allar vindingarnar, verður úrslitið produktið av streymi og tali av vindingum, (5)</p>
+<p xml:lang="eng">NI</p>
+<p>Hdxspolanruntð</p>
+<p xml:lang="eng">Integrera=∫</p>
+<p>Av tí at H og</p>
+<p>Φ eru proportional, verður fluksurin Φ soleiðis eisini proportionalur við NI.</p>
+<p>Summurin av fluksinum gjøgnum allar teir einstøku vindingarnar, ofta nevndur spolafluksurin,</p>
+<p>Nverður proportionalur við N2I, og kann skrivast (6)</p>
+<p xml:lang="eng">LI</p>
+<p xml:lang="eng">N=</p>
+<p>Φ har L er ein konstantur, nevndur <em type="bold">sjálvinduktiónin </em>, og er proportionalur við N2. Í elektromagnetisku alisfrøðini verður roknað út, at fyri ein <em type="italic">langan spola (og bert langar spolar) </em>við víddini A og longdini (t.e. </p>
+<p xml:lang="dan">A&gt;&gt;) er sjálvinduktiónin (7) /</p>
+<p>L2µ=</p>
+<p>Lata vit nú fluxin</p>
+<p>Φ broytast við tíðini vil ein spenningur V verða induseraður í spolanum, ið hevur somu stødd sum differentialkoefficienturin av</p>
+<p>Φ, og kann við brúk av líkning (6) skrivast sum (8) dtdI</p>
+<p xml:lang="dan">Ldtd</p>
+<p xml:lang="dan">V=</p>
+<p>Φ=</p>
+<p>Eindirnar á hesum nevndu støddum er: Magnetisk induktión <em type="bold">B </em>Weber/m2 = Vs/m2 Magnetiskt felt <em type="bold">H </em>Ørsted = A/m Magnetiskur fluksur </p>
+<p xml:lang="eng">Weber = Vs</p>
+<p>Magnetiskur permebilitetur µ</p>
+<p xml:lang="eng">H/m = Vs/Am</p>
+<p>Sjálvinduktión L</p>
+<p xml:lang="eng">Henry = H = Vs/A 6</p>
+<p><em type="bold">Sjálvinduktión sum elektroniskur lutur </em>Líkning (8) er grundleggjandi líkningin fyri sjálvinduktiónir til samanknýting av streymi I og spenningi V. Hesa líkning kunnu vit brúka beinleiðis í loysn av spurningum í streymrásum har sjálvinduktiónir verða nýttar sum elektroniskir lutir, og síggja vit, at magnetiski fluksurin bert er ein undirliggjandi alisfrøðilig stødd, sum ikki kemur beinleiðis at innganga í streymráslíkningarnar. Tí avmarka vit okkum til at skriva og brúka hesa grundlíkningina fyri sjálvinduktiónir (8) dt)t(dI </p>
+<p>L)t(</p>
+<p xml:lang="dan">V=</p>
+<p>Grundað á hesa líkning kunnu vit nýta L sum elektriskan lut (komponent) sum víst í mynd 2. Integrera vit hesa líkningina finna vit streymin (9) 0</p>
+<p>L0tt</p>
+<p xml:lang="eng">I)t(</p>
+<p xml:lang="eng">Idt</p>
+<p>L)t(</p>
+<p xml:lang="dan">V)t(</p>
+<p>I0+=+=∫ har t0 er byrjunnarstundin, og I(t0) = I0 er tann arbitreri integratiónskonstanturin, sum er júst streymurin í byrjunnarstundini. Integralið IL er sostatt streymurin, um byrjunnarstreymurin var null.</p>
+<p>Grundað á líkning (9) kunnu vit seta eina javnmetisrás (ekvivalensrás) upp, sum víst í mynd 3</p>
+<p xml:lang="eng">I(t)</p>
+<p xml:lang="eng">I(t)</p>
+<p xml:lang="eng">L + V −</p>
+<p xml:lang="eng">I0</p>
+<p xml:lang="eng">IL+ V −</p>
+<p>Mynd 3 Javnmetisrás fyri sjálvinduktión</p>
+<p>Mynd 2 Sjálvinduktión sum elektriskur lutur (komponentur) 7 <em type="bold">3. Sínámillum induktión </em></p>
+<p>Φ11</p>
+<p>Φ21</p>
+<p>Φ12</p>
+<p>Φ22</p>
+<p>Spoli 2</p>
+<p>Spoli 1</p>
+<p xml:lang="eng">I2 + V2 −</p>
+<p xml:lang="eng">I1 + V1 −</p>
+<p xml:lang="eng">Mynd 4</p>
+<p>Tveir spolar, hvør við sínum streymi og hvør við sínum spenningi millum leiðaraendarnar, hava ávirkan á hvønn annan gjøgnum tað magnetiska feltið. Lat okkum nevna spolarnar spoli 1 og spoli 2, sum víst er í mynd 4. Streymarnir í spolunum verða nevndir I1 og I2. Spenningarnir yvir spolarnar verða nevndir V1 og V2. Spenningarnir verða her defineraðir + á tí leiðaraendanum, har streymurin er defineraður at koma inn í spolan. Streymurin I1 í spola 1 ger ein magnetiskan fluks, sum er samansettur av tveimum liðum, 2111</p>
+<p>Φ+</p>
+<p>Φ, har</p>
+<p>Φ er tann parturin av fluksinum, sum bert gongur gjøgnum spola 1, og 1121</p>
+<p>Φ er tann parturin av fluksinum, sum er felags fyri spola 1 og spola 2, t.e. gongur gjøgnum báðar spolarnar, men stavar frá spola 1. Streymurin I2 í spola 2 ger ein magnetiskan fluks, sum er samansettur av tveimum liðum, 1222</p>
+<p>Φ+</p>
+<p>Φ, har Φ er tann parturin av fluksinum, sum bert gongur gjøgnum spola 2, og 2212</p>
+<p>Φ er tann parturin av fluksinum, sum er felags fyri spola 2 og spola 1, t.e. gongur gjøgnum báðar spolarnar, men stavar frá spola 2. Tann samlaði fluksurin gjøgnum spola 1 verður sostatt (10) 1221111)(</p>
+<p>Φ±</p>
+<p>Φ+</p>
+<p>Φ=</p>
+<p>Φ har støddin í klombruni stavar frá spola 1, meðan seinasta lið stavar frá spola 2. Tann samlaði fluksurin gjøgnum spola 2 verður tilsvarandi 8(11) 2112222)(</p>
+<p>Φ±</p>
+<p>Φ+</p>
+<p>Φ=</p>
+<p>Φ har støddin í klombruni stavar frá spola 2, meðan seinasta lið stavar frá spola 1. Seinasta liðið í báðum líkningum er skrivað við frammanfyri fyri at vísa á, um spolin svarandi til hetta liðið gevur ein fluks frá sær, sum vendir sama veg (+) ella øvugtan veg (−) av fluksinum frá hinum spolanum. ±</p>
+<p>Teir defineraðu fluksarnir eru proportionalir við streymin í og vindingstalið á spolanum hann stavar frá. Tí eru (12) 111111</p>
+<p xml:lang="eng">P=</p>
+<p>Φ222222</p>
+<p xml:lang="eng">P=</p>
+<p>Φ112121</p>
+<p xml:lang="eng">P=</p>
+<p>Φ221212</p>
+<p xml:lang="eng">P=</p>
+<p>Φ har P11, P22, P21 og P12 eru konstantar, og N1 og N2 eru vindingstølini í ávikavist spola 1 og spola 2.</p>
+<p>Verður hetta innsett í líkningarnar (10) og (11) fæst (13) 22121121111</p>
+<p xml:lang="eng">N)</p>
+<p>P(±+=</p>
+<p>Φ (14) 22122211212</p>
+<p xml:lang="eng">N)</p>
+<p xml:lang="eng">P(</p>
+<p>P++±=</p>
+<p>Spenningurin V1 yvir spola 1 verður nú funnin sum differentialkoefficienturin av fluxinum gjøgnum spola 1 faldaður við talinum av vindingum N1. Haraftrat skal spenninginum , ið stavar frá spenningsfallinum yvir <span type="quote">“ohmsku”</span> mótstøðuna R11I</p>
+<p>R1 í spola 1 leggjast aftrat. Tilsvarandi verður spenningurin V2 funnin. Úrslitið eru hesar líkningarnar (15) dtdI</p>
+<p xml:lang="eng">PdtdI</p>
+<p xml:lang="eng">N)</p>
+<p xml:lang="eng">P(</p>
+<p xml:lang="dan">Rdtd</p>
+<p xml:lang="eng">V22112)(12121111111111−+++=</p>
+<p xml:lang="eng">Φ+=(16) dtdI</p>
+<p xml:lang="eng">N)</p>
+<p xml:lang="eng">P(dtdI</p>
+<p xml:lang="dan">Rdtd</p>
+<p xml:lang="dan">V22 2122212121)(2222222++=</p>
+<p xml:lang="eng">Φ+=−</p>
+<p>Í alisfrøðini verður víst, at P12 og P21 eru eins stórir, og verður hesin konstantur nevndur (17) Pm = P12 = P21.</p>
+<p>Vanligt er at geva samansetingunum av konstantum frammanfyri differentialkoefficentarnar nýggj nøvn soleiðis, at <em type="bold">sjálvinduktiónin fyri spola 1 </em>verður (18) 2121111 </p>
+<p xml:lang="eng">N)</p>
+<p xml:lang="eng">P(</p>
+<p>L+= <em type="bold">sjálvinduktiónin fyri spola 2 </em>verður (19) 2 212222 </p>
+<p xml:lang="eng">N)</p>
+<p xml:lang="eng">P(</p>
+<p>L+= og <em type="bold">sínámillum induktiónin </em>verður 9 (20) 21m </p>
+<p xml:lang="eng">M±=</p>
+<p>Við hesum heitum koma grundleggjandi líkningarnar fyri tann veruliga transformatorin brúktur sum elektriskur lutur í streymrásum at vera (21) dtdI</p>
+<p xml:lang="eng">MdtdI</p>
+<p xml:lang="dan">V211111++=(22) dtdI</p>
+<p xml:lang="eng">LdtdI</p>
+<p xml:lang="dan">V221222++=</p>
+<p>Vit skulu her minnast til, at M kann vera antin positivt ella negativt, og hongur tað saman við, at í summum førum venda fluksarnir frá báðum spolum sama veg, meðan teir í øðrum førum venda øvugtan veg alt eftir, hvussu spolarnir venda, og forteknini hjá streymunum og spenningunum eru definerað. <em type="bold">Koblingstalið fyri transformatorar </em>Koblingstalið í einum transformatori er definerað sum (23) 21L </p>
+<p>Mk=</p>
+<p>Við at innseta (18), (19) og (20) í (23) finna vit, at nummeriska virðið av koblingstalinum k er avmarkað til (24) 1k≤</p>
+<p><em type="bold">Transformator uttan orkutap </em>Mótstøðurnar í líkning (21) og (22) føra við sær, at transformatorurin hevur orkutap, sum verður til hita í vindingunum. Seta vit hesar mótstøðurnar R1 = R2 = 0, verða líkningarnar galdandi fyri orkutapsfría transformatorin (25) dtdI </p>
+<p xml:lang="eng">MdtdI</p>
+<p xml:lang="dan">V2111+=(26) dtdI</p>
+<p xml:lang="eng">LdtdI</p>
+<p xml:lang="dan">V2212+=</p>
+<p>Samlaða orkan W(t), sum verður avsett í henda transformatorin, verður at rokna sum summurin av orkunum inn í spola 1 og spola 2, ið kann útroknast við brúk av (25) og (26) at vera 10(27) []212 22211t2221t1211t22t11</p>
+<p xml:lang="eng">MI2</p>
+<p>L21dt)t(</p>
+<p xml:lang="eng">IdtdI</p>
+<p xml:lang="eng">LdtdI</p>
+<p>Mdt)t(</p>
+<p xml:lang="eng">IdtdI</p>
+<p xml:lang="eng">MdtdI</p>
+<p>Ldt)t(</p>
+<p xml:lang="eng">I)t(</p>
+<p>Vdt)t(</p>
+<p xml:lang="eng">I)t(</p>
+<p xml:lang="dan">V)t(</p>
+<p xml:lang="eng">W++=+++=+=∫∫∫∫∞−∞−∞−∞−</p>
+<p>Hesa líkning kunnu vit umforma til (28) []2121212122211212121212 22211</p>
+<p xml:lang="eng">I)</p>
+<p xml:lang="eng">M(</p>
+<p xml:lang="eng">I)</p>
+<p xml:lang="eng">M()</p>
+<p>L(21</p>
+<p xml:lang="eng">I)</p>
+<p xml:lang="eng">M(2</p>
+<p>L2</p>
+<p>L21)t(</p>
+<p>W±≥±+=±++=∓∓har vit velja ovara teknið um I1I2 &gt; 0 og niðara teknið, um I1I2 &lt; 0. Orkan er altíð positiv W(t) ≥ 0 fyri øll virði av I1I2. Nú kunnu vit kanna hvørt av hesum førum fyri seg:</p>
+<p>I1I2 &gt; 0, har ovara teknið verður valt: 0</p>
+<p xml:lang="eng">I)</p>
+<p xml:lang="eng">M()t(</p>
+<p>W2121≥+≥ viðførir, at 21L</p>
+<p>L−≥</p>
+<p>I1I2 &lt; 0, har niðara teknið verður valt: 0</p>
+<p xml:lang="eng">I)</p>
+<p xml:lang="eng">M()t(</p>
+<p>W2121≥−≥ viðførir, at 0</p>
+<p>L21≤−</p>
+<p>M, við tað at I1I2 er negativt, og tí harav 21L</p>
+<p xml:lang="eng">M≤</p>
+<p>Samanumtikið er treytin fyri M og tilsvarandi koblingstal k, at (29) 1</p>
+<p>Mk121≤=≤−</p>
+<p>Hetta er sama úrslitið, sum vit funnu á ein annan hátt í líkning (24). <em type="bold">Transformatorar við koblingstalinum k = 1 </em>Tá koblingstalið k = 1, fer allur tann magnetiski fluksurin skaptur av spola 1 eisini gjøgnum spola 2, og somuleiðis fer eisini allur tann magnetiski fluksurin skaptur av spola 2 gjøgnum spola 1. Hetta merkir eisini at P11 = P22 = 0, og formlarnir (18) og (19) geva okkum (30) 2121 </p>
+<p>L =11</p>
+<p>Vit hava tá eina tættast møgulig ella fullkomna magnetiska kobling millum spolarnar. Í hesum føri verður 21L</p>
+<p>L±=</p>
+<p>M, sum innsett í líkning (25) gevur (31) )dtdI</p>
+<p xml:lang="eng">LdtdI(</p>
+<p xml:lang="eng">L)dtdI</p>
+<p xml:lang="eng">LdtdI</p>
+<p>V21211212111±=±=og úrslitið fyri V1 verður (32) )dtdIndtdI(</p>
+<p>V2111+= har n. Forteknið hjá n verður valt sum sama fortekn, ið M hevur. Líkning (26) gevur okkum tilsvarandi 2121</p>
+<p xml:lang="eng">N/</p>
+<p>L/</p>
+<p xml:lang="eng">L±=±=(33) +=±±=+±=)dtdIndtdI(</p>
+<p xml:lang="eng">Ln)dtdI</p>
+<p xml:lang="eng">LdtdI(</p>
+<p xml:lang="eng">LdtdI</p>
+<p xml:lang="eng">LdtdI</p>
+<p xml:lang="dan">V2112121112221122</p>
+<p>Seta vit V1 í staðin fýrkantaðu parantesina sambært líkning (32) fæst úrslitið fyri V2 (34) 12nV</p>
+<p xml:lang="dan">V=</p>
+<p><em type="bold">Fullkomni transformatorurin </em>Fullkomni (ideelli) transformatorurin er ein transformator, sum umframt at hava koblingstalið k = 1 , t. e. at allur magnetiski fluksurin gongur gjøgnum báðar spolarnar, eisini hevur tann eginleika, at magnetiski permeabiliteturin µ er sera stórur; vit kunnu siga, at vit lata µ→ ∞. Við tað, at sjálv-induktiónin L1 er proportional við µ, vil eisini L1 → ∞. Fyri, at V1 sambært (32) ikki skal ganga móti óendaligum, sum jú alisfrøðiliga ikki er møguligt, má parantesin í hesi líkning vera nul. Vit finna sostatt (35) 12 </p>
+<p xml:lang="eng">In1</p>
+<p xml:lang="eng">I−=</p>
+<p>Umframt verður líkning (34) eisini galdandi fyri fullkomna transformatorin (36) 12nV</p>
+<p xml:lang="dan">V=12</p>
+<p xml:lang="eng"><em type="bold">Transformator - Javngildisrás </em></p>
+<p xml:lang="eng">M L1 L2 + V1 − + V2 −</p>
+<p xml:lang="eng">I2</p>
+<p xml:lang="eng">I1</p>
+<p xml:lang="eng">I1</p>
+<p xml:lang="eng">I2</p>
+<p xml:lang="eng">L1−M + V2 − + V1 −</p>
+<p>L2−M</p>
+<p xml:lang="eng">Mynd 6</p>
+<p xml:lang="eng">Mynd 5</p>
+<p>Møguligt er at umskipa transformatorlíkningarnar (25) og (26) fyri transformatorin í mynd 5 soleiðis, at tær kunnu brúkast til at uppseta eina javngildisrás, sum víst er í mynd 6. Verður soleiðis støddin 1dI</p>
+<p>Mdttikin frá í fyrra liði fyrra liði og løgd aftrat í seinna liði í líkning (25) kemur líkning (37) burtur úr.</p>
+<p>Somuleiðis kunnu vit taka 2dI</p>
+<p>Mdt frá í seinna liði og leggja hesa støddina aftrat í fyrra liði í líkning (26) og fáa líkning (38) burturúr. (37) dt)</p>
+<p xml:lang="eng">I(d</p>
+<p xml:lang="eng">MdtdI)</p>
+<p xml:lang="eng">L(dtdI</p>
+<p xml:lang="eng">MdtdI</p>
+<p xml:lang="eng">V12112111++−=+=(38) dtdI)</p>
+<p xml:lang="eng">L(dt)</p>
+<p xml:lang="eng">I(d</p>
+<p xml:lang="eng">MdtdI</p>
+<p xml:lang="eng">LdtdI</p>
+<p xml:lang="eng">V22212212−++=+=</p>
+<p>Úrslitið av hesum er at fyrra liðið í líkning (37) umboðar spenningsfallið yvir sjálvinduktiónina L1 – M í mynd 6, meðan seinna liðið í somu líkning umboðar spenningsfallið yvir sjálvinduktiónina M. V1 verður soleiðis samansett av hesum báðum liðunum í javngildisrásini í mynd 6. Somuleiðis umboðar seinna liðið í líkning (38) spenningsfallið yvir sjálvinduktiónina L2 – M í mynd 6, meðan fyrra liðið í somu líkning umboðar spenningsfallið yvir sjálvinduktiónina M. V2 verður soleiðis samansett av hesum báðum liðunum í javngildisrásini í mynd 6.</p>
+</body></document>

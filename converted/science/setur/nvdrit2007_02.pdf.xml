@@ -1,0 +1,19 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>266</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2007_02.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Fasuseinking og signalseinking </em></p>
+<p xml:lang="dan">Magnus Danielsen</p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2007:02 </p>
+<p xml:lang="eng">Heiti / Title</p>
+<p><em type="bold">Fasuseinking og signalseinking </em></p>
+<p>Høvundar / Authors</p>
+<p xml:lang="dan">Magnus Danielsen</p>
+<p xml:lang="eng">Ritslag / Report Type</p>
+<p xml:lang="eng"><em type="italic">Tøknifrágreiðing/Technical Report </em></p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2007:02 © </p>
+<p>Náttúruvísindadeildin og høvundurin</p>
+<p xml:lang="eng">ISSN1601-9741</p>
+<p>Útgevari / Publisher</p>
+<p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
+<p>Bústaður / Address</p>
+<p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo</p>
+<p><em type="bold">Abstract: </em>English: <em type="bold">Phase delay and group delay </em>Phase delay and group delay (signal delay) are derived for a pulse modulated carrier signal. Useful formulas for the phase and group delays are derived for general transfer functions for linear systems both for analogue and discrete signals, using Fourier transform, Laplace transform, z-transform, and bilinear transform formulation for digital filters. <em type="bold">Fasuseinking og signalseinking </em>Fasuseinking og signalseinking (group delay) eru viðgjørd við støði í pulsmoduleraðum beribylgjusignali ella signalpakka, ið inniheldur frekvensir, sum gruppera seg rundan um ein senturfrekvens. Formlar fyri fasu- og signalseinking eru funnir fyri generella yvirføringsfunktión fyri linjurættar skipanir. Úrslit eru bæði fyri analog og diskret signal við brúk av Fourier transformión, Laplace transformatión, z-transformatión og tvílinjurættari transformatión, ið verður brúkt til digital filtur. <em type="bold">Innihald: </em>1. Útleiðing av fasu- og signalseinking fyri signalpakka s. 1 2. Fasa ψ og signalseinking Tg roknað út frá Fourier transforminum H(jω) s. 2 3. Fasa ψ og signalseinking Tg roknað út frá Laplace transforminum H(s) fyri analog signal s. 3 4. Fasa ψ og signalseinking Tg roknað út frá Z-transforminum H(z) fyri digital signal s. 4 5. Fasa ψ og signalseinking Tg roknað út frá λ-transforminum H(λ) fyri digital signal s. 6 </p>
+</body></document>
