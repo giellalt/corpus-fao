@@ -1,6 +1,6 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1089</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2005_18.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Operatiónstyrkjarar</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1084</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2005_18.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Operatiónstyrkjarar</p>
 <p xml:lang="dan">Magnus Danielsen</p>
-<p xml:lang="eng">NVD <em type="italic">Rit </em>2005:18 2 </p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2005:18 </p>
 <p xml:lang="eng"><em type="italic">Heiti / Title </em></p>
 <p>Operatiónsstyrkjarar <em type="italic"></em></p>
 <p><em type="italic">Høvundar / Authors </em></p>
@@ -14,7 +14,7 @@
 <p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
 <p>Bústaður / Address</p>
 <p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
-<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 3</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo</p>
 <p><em type="bold">OPERATIÓNSSTYRKJARIN </em>Operatiónsstyrkjarin verður ofta tikin fyri at vera ideellur, t.e. hevur óendaliga stóran styrkjarafaktor Ao = ∞ , inngangsmótstøðuna Ri = ∞, og útgangsmótstøðuna Ro = 0 umframt, at hann eisini hevur somu styrking við allar frekvensir. Hesir ideellu eginleikar eru sjálvsagt ikki til staðar í einum veruligum operatiónsstyrkjara, og viðhvørt er tað tí eisini neyðugt at taka tær veruligu støddirnar av Ao , Ri og Ro við í útrokningar av støddunum í streymrásum. Í hesum ískoyti verða teir ikki-ideellu eginleikarnir viðgjørdir eitt sindur gjøllari og serstakliga í tí sambandi, har ein mótstøða R er knýtt millum styrkjaraútgangin og styrkjarainngangin – ein styrkjarauppseting, ið vanliga verður nevnd transresistansstyrkjarin. <em type="bold">1. Javnmetisrás fyri inverterandi transresistansstyrkjaran. </em>Operatiónsstyrkjarin í mynd 1.1 er ikki ideellur og hevur javnmetisrásina víst í mynd 1.2. Knýta vit mótstøðuna R millum útgang og inngang á styrkjaranum og umframt ein spenningsgerða við spenninginum VS og innaru mótstøðuni RS til styrkjarainngangin, og eina lastmótstøðu RL til styrkjaraútgangin sum víst í mynd 1.3 verður javnmetisrásin fyri alla uppsetingina sum víst í mynd 1.4. Við hesi mynd kunnu vit finna styrkingina A og EMK (elektromotorisku-) styrkingina AVs, umframt inngangsmótstøðuna RI og útgangs-mótstøðuna RO uttan approximatiónir. Inngangsspenningarnir eru Vp á + terminalinum og </p>
 <p>Vn á – terminalinum. Munurin Vi = Vn – Vp er sostatt spenningurin, ið verður styrktur við spenningsstyrkingini –Ao .</p>
 <p xml:lang="dan">Mynd 1.1 <em type="bold">+ Vi </em><em type="bold">_ </em><em type="bold">+ Vo </em><em type="bold">_ </em>_ + </p>
@@ -28,7 +28,7 @@
 <p><em type="bold">RS </em></p>
 <p xml:lang="eng">Mynd 1.4 <em type="bold">+ </em></p>
 <p xml:lang="eng"><em type="bold">Ro </em></p>
-<p xml:lang="dan"><em type="bold">Ri -Ao Vi </em><em type="bold">_ </em><em type="bold">+ Vi </em><em type="bold">_ </em><em type="bold">+ Vo </em><em type="bold">_ </em><em type="bold">+ VS </em><em type="bold">_ </em><em type="bold">+ VS </em><em type="bold">_ </em>4 </p>
+<p xml:lang="dan"><em type="bold">Ri -Ao Vi </em><em type="bold">_ </em><em type="bold">+ Vi </em><em type="bold">_ </em><em type="bold">+ Vo </em><em type="bold">_ </em><em type="bold">+ VS </em><em type="bold">_ </em><em type="bold">+ VS </em><em type="bold">_ </em></p>
 <p>Fyri hesa streymrás kunnu vit seta upp knútapunktslíkningarnar: Vi –VS</p>
 <p xml:lang="dan">Vi</p>
 <p xml:lang="dan">Vi – Vo  +  +  = 0</p>
@@ -41,7 +41,7 @@
 <p xml:lang="eng">R ella í matrixformulering:  [1/RS + 1/Ri + 1/R] [-1/R]   Vi  VS/RS      =    [-1/R + Ao/Ro] [1/R + 1/Ro + 1/RL]   Vo  0  <em type="bold">2. Útgangsspenningurin VO </em></p>
 <p>Útgangsspenningurin verður funnin beinleiðis sum loysnin til hesa matrixlíkning: [1/RS + 1/Ri + 1/R] [VS/RS]  [-1/R + Ao/Ro] [ 0 ] </p>
 <p xml:lang="eng">Vo =  = [1/RS + 1/Ri + 1/R] [-1/R]  [-1/R + Ao/Ro] [1/R + 1/Ro + 1/RL]  - VS/RS ⋅ ( -1/R + Ao/Ro ) =  ( 1/RS + 1/Ri + 1/R )⋅(1/R + 1/Ro + 1/RL ) + 1/R ⋅ (-1/R + Ao/Ro) <em type="bold">3. Inngangsspenningurin Vi </em></p>
-<p><em type="bold"></em>Inngangsspenningurin Vi verður somuleiðis funnin beinleiðis frá matrixlíkningini 5[VS/RS] [-1/R]  [ 0 ] [1/R + 1/Ro + 1/RL]  </p>
+<p><em type="bold"></em>Inngangsspenningurin Vi verður somuleiðis funnin beinleiðis frá matrixlíkningini [VS/RS] [-1/R]  [ 0 ] [1/R + 1/Ro + 1/RL]  </p>
 <p xml:lang="eng">Vi =  = [1/RS + 1/Ri + 1/R] [-1/R]  [-1/R + Ao/Ro] [1/R + 1/Ro + 1/RL] </p>
 <p>VS/RS ⋅ ( 1/R + 1/Ro + 1/RL ) =  ( 1/RS + 1/Ri + 1/R )⋅(1/R + 1/Ro + 1/RL ) + 1/R ⋅ (-1/R + Ao/Ro) <em type="bold">4. Spenningsstyrkingin A </em>Spenningsstyrkingin A verður definerað sum lutfallið millum útgangsspenningin Vo og inngangsspenningin Vi , og vit rokna út </p>
 <p xml:lang="eng">Vo -</p>
@@ -58,7 +58,7 @@
 <p xml:lang="eng">VS ( 1/RS+ 1/Ri + 1/R )⋅(1/R + 1/Ro + 1/RL ) + 1/R ⋅ (-1/R + Ao/Ro)</p>
 <p xml:lang="eng">R -Ro/R + Ao = −  ⋅ </p>
 <p xml:lang="eng">Ro (Ro RL+R)Ro (  +Ao)</p>
-<p>RS Ri ⋅ Ro RL 6 <em type="bold">6. Inngangsmótstøða RI </em></p>
+<p>RS Ri ⋅ Ro RL <em type="bold">6. Inngangsmótstøða RI </em></p>
 <p>Inngangsmótstøðan RI verður definerað sum lutfallið millum inngangsspenningin Vi og inngangsstreymin Ii og vit rokna út</p>
 <p xml:lang="dan">Vi</p>
 <p xml:lang="dan">Vi</p>
@@ -70,7 +70,7 @@
 <p>Útgangsmótstøðan RO verður definera sum lutfallið millum tómgangsspenning VT og kortslutningsstreym IK . Útgangsspenningurin er funnin í avsnitti 2. VT finst við markvirðisyvirgongdini - VS/RS ⋅ ( -1/R + Ao/Ro )</p>
 <p xml:lang="eng">VT = lim Vo =  RL →∞ ( 1/RS + 1/Ri + 1/R )⋅(1/R + 1/Ro) + 1/R ⋅ (-1/R + Ao/Ro)</p>
 <p>Somuleiðis verður kortslutningsstreymurin IK funnin við markvirðisyvirgongdini - 1/RS ⋅ (1/R + Ao/Ro)</p>
-<p xml:lang="eng">IK = lim Vo /RL =  VS RL →0 1/RS + 1/Ri + 1/R 7</p>
+<p xml:lang="eng">IK = lim Vo /RL =  VS RL →0 1/RS + 1/Ri + 1/R</p>
 <p>Útgangsmótstøðan er so</p>
 <p xml:lang="eng">VT 1/RS + 1/Ri + 1/R</p>
 <p xml:lang="dan">RO =  = </p>

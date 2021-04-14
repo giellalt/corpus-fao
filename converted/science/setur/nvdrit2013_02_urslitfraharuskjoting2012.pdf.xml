@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8036</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2013_02_urslitfraharuskjoting2012.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Haruveiðan í Føroyum </em><em type="bold">2012 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>7860</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2013_02_urslitfraharuskjoting2012.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Haruveiðan í Føroyum </em><em type="bold">2012 </em></p>
 <p xml:lang="eng">Hunting of hare in the Faroe Islands in 2012</p>
 <p>Eyðfinn Magnussen</p>
 <p xml:lang="eng">NVD <em type="italic">Rit </em>2013:02 </p>
@@ -293,20 +293,12 @@
 <p>Eystur við egg og uppi í Dali03/11375</p>
 <p>Tvørdalur23/115224/119518/1233</p>
 <p>Uppi í Dal17/1252</p>
-<p>Úti í Líð 24/1151</p>
 <p>Tal av bygdum Tal av oyggjum Tal av heimildarfólkum</p>
 <p><em type="italic">Upplýsingar um harutølini, sum vórðu savnaði saman fyri veiðitíðina 2012. </em></p>
-<p xml:lang="eng"><em type="bold">Appendix </em></p>
 <p><em type="bold">Haruveiðan 2012 </em></p>
 <p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2012:</p>
 <p>Skipað eftir oyggj, bygd, hagaparti og dato.</p>
-<p>Tal av skotnum harum Tal av harutúrum Tal av hagapartum28</p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum31/1273</p>
+<p>Tal av skotnum harum Tal av harutúrum Tal av hagapartum31/1273</p>
 <p>Viðvík17/1120831/12286</p>
 <p>Borðoy</p>
 <p>Árnafjørður</p>
@@ -332,13 +324,7 @@
 <p>Múlahagi03/119317/118327/125331/1253</p>
 <p><em type="bold">Tilsamans </em><em type="bold">27 </em></p>
 <p>Norðoyri</p>
-<p>Miðhagi02/1117503/119322/113129</p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum27/128131/1294</p>
+<p>Miðhagi02/1117503/119322/113127/128131/1294</p>
 <p><em type="bold">Tilsamans </em><em type="bold">46 </em></p>
 <p>Norðtoftir</p>
 <p>Tjørnudalur31/12122</p>
@@ -364,13 +350,7 @@
 <p><em type="bold">Tilsamans </em><em type="bold">22 </em></p>
 <p>Skarð</p>
 <p>Fyri Innanxx‐112206/1234331/12175</p>
-<p><em type="bold">Tilsamans </em><em type="bold">53 </em>30 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">53 </em></p>
 <p>Kalsoy</p>
 <p>Húsar</p>
 <p>Dalarnir31/1233</p>
@@ -394,13 +374,7 @@
 <p>Miðhagi08/123227/122127/122531/1231xx/xx21xx/xx31</p>
 <p><em type="bold">Tilsamans </em><em type="bold">15 </em></p>
 <p>Slættaratindur03/1116510/1116520/112229/118407/121112/122212/123118/124131/1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">53 </em>31 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">53 </em></p>
 <p>Vaðhorn02/113205/111110/111112/111118/115219/111328/112201/125201/121227/125328/1225</p>
 <p><em type="bold">Tilsamans </em><em type="bold">27 </em></p>
 <p>Fuglafjørður</p>
@@ -418,13 +392,7 @@
 <p>Líðin27/1122</p>
 <p>Gjógv</p>
 <p>Fløtur03/1115517/111230/117131/1243</p>
-<p><em type="bold">Tilsamans </em><em type="bold">27 </em>32 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">27 </em></p>
 <p>Í Dalinum03/114527/1226</p>
 <p>Líðin31/1265</p>
 <p>Lamba</p>
@@ -456,13 +424,7 @@
 <p>Streymoy</p>
 <p>Haldórsvík</p>
 <p>Langasandshagi03/1115417/113201/124215/122229/1212431/1232</p>
-<p><em type="bold">Tilsamans </em><em type="bold">39 </em>33 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">39 </em></p>
 <p>Norðann Á03/1110410/112217/118319/113324/113129/112201/126314/128124/122127/1210131/1243</p>
 <p><em type="bold">Tilsamans </em><em type="bold">58 </em></p>
 <p>Sunna fyri Fossá03/111117/112223/1132</p>
@@ -484,13 +446,7 @@
 <p>Miðdalahagi31/1222</p>
 <p>Kaldbak</p>
 <p>Áarhagi, Heimanfyri02/114122/129227/1218331/1264</p>
-<p><em type="bold">Tilsamans </em><em type="bold">37 </em>34 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">37 </em></p>
 <p>Áarhagi, Miðrøktin08/122217/1219?22/121227/124131/12294</p>
 <p><em type="bold">Tilsamans </em><em type="bold">55 </em></p>
 <p>Áarhagi, Norðasti02/1162</p>
@@ -511,13 +467,7 @@
 <p>Hamrahagi, Frammi við Gjógv03/117426/118304/123214/121227/1283</p>
 <p><em type="bold">Tilsamans </em><em type="bold">27 </em></p>
 <p>Heygshagi12/12103</p>
-<p>Oyrareingjahagixx‐128519/124135</p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p>Oyrareingjahagixx‐128519/1241</p>
 <p>Signabøshagixx‐1221xx‐1221xx‐1221xx‐xx6112/124119/124127/123231/1285</p>
 <p><em type="bold">Tilsamans </em><em type="bold">31 </em></p>
 <p>Sjóvarhagi, Fremri partur03/113206/112120/11194xx‐xx72xx‐xx12xx‐xx31xx‐xx5121/12142xx‐1211xx‐1200</p>
@@ -531,13 +481,7 @@
 <p>Norðuri í Haga (Junkarhagi)03/11221214/114115/114120/112204/121113/129227/123327/124231/12610</p>
 <p><em type="bold">Tilsamans </em><em type="bold">55 </em></p>
 <p>Ognarhagin ‐ Gásafelli02/1137617/110208/125222/124131/1255</p>
-<p><em type="bold">Tilsamans </em><em type="bold">51 </em>36 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">51 </em></p>
 <p>Presthagi, Heimara gonga02/1119703/1118520/1111229/111101/1225604/121108/123217/123119/123122/122224/124127/123229/121331/12119</p>
 <p><em type="bold">Tilsamans </em><em type="bold">105 </em></p>
 <p>Leynar</p>
@@ -552,13 +496,7 @@
 <p>Dúvugarðar03/1135527/1237327/1291xx/xx21xx/xx21xx/xx142xx/xx3131/1284</p>
 <p><em type="bold">Tilsamans </em><em type="bold">110 </em></p>
 <p>Svartáhagi, Fyri Niðan03/11498</p>
-<p>Svartáhagi, Fyri Uttan08/1112224/1114237</p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p>Svartáhagi, Fyri Uttan08/1112224/11142</p>
 <p>Skælingur</p>
 <p>Skælingahagi, Sunnari partur03/1114506/113113/113317/112124/114431/1295</p>
 <p><em type="bold">Tilsamans </em><em type="bold">35 </em></p>
@@ -582,13 +520,7 @@
 <p>Sjeyndir01/111117/1112324/1122506/121114/1214124/126127/1223231/12123</p>
 <p><em type="bold">Tilsamans </em><em type="bold">91 </em></p>
 <p>Tórshavn</p>
-<p>Húsahagi + Flatnahagi08/111162. dagur823. dagur624. dagur2331/1215738</p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p>Húsahagi + Flatnahagi08/111162. dagur823. dagur624. dagur2331/12157</p>
 <p><em type="bold">Tilsamans </em><em type="bold">42 </em></p>
 <p>Sundshagi, Innari partur03/1125301/1214314/1222</p>
 <p><em type="bold">Tilsamans </em><em type="bold">41 </em></p>
@@ -605,13 +537,7 @@
 <p>Norðari Spakiseyður02/1117617/117327/124331/1232</p>
 <p><em type="bold">Tilsamans </em><em type="bold">31 </em></p>
 <p>Syðri Spakiseyður02/115310/115117/114124/117114/121231/1257</p>
-<p><em type="bold">Tilsamans </em><em type="bold">27 </em>39 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">27 </em></p>
 <p>Velbastaður + Kirkjubøur</p>
 <p>Gimbrarnar + Inni í Dølum02/1112407/111110/110312/111117/112419/111107/125322/123331/1207</p>
 <p><em type="bold">Tilsamans </em><em type="bold">25 </em></p>
@@ -630,13 +556,7 @@
 <p>Reynið (Partur av Fjallshaga)</p>
 <p>Samla24?</p>
 <p>Úti í Haga á Bjørgum02/1118701/1212420/121527/1240831/12145</p>
-<p><em type="bold">Tilsamans </em><em type="bold">85 </em>40 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">85 </em></p>
 <p>Vágoy</p>
 <p>Bø</p>
 <p>Tormanshagi03/1137817/12167</p>
@@ -662,13 +582,7 @@
 <p>Giljahagi03/1113517/112224/114201/124108/121114/121118/120127/125529/120131/1276</p>
 <p><em type="bold">Tilsamans </em><em type="bold">37 </em></p>
 <p>Gimbragongan10/1116317/114223/112129/111101/124208/122211/124112/123118/1233</p>
-<p><em type="bold">Tilsamans </em><em type="bold">39 </em>41 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">39 </em></p>
 <p>Oknadalur20/1120618/125231/1233</p>
 <p><em type="bold">Tilsamans </em><em type="bold">28 </em></p>
 <p>Oyragjáarhagi</p>
@@ -688,13 +602,7 @@
 <p><em type="bold">Tilsamans </em><em type="bold">120 </em></p>
 <p>Selvíkarhagi, Eystari partur31/12101</p>
 <p>Sunnari Suðurtriðingur24/114605/121210/1211418/124424/122227/122331/1213</p>
-<p><em type="bold">Tilsamans </em><em type="bold">25 </em>42 </p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p><em type="bold">Tilsamans </em><em type="bold">25 </em></p>
 <p xml:lang="eng">Útitriðingurxx/xx8?</p>
 <p>Úttriðingur, Teigarnir03/116410/114417/113324/112324/121227/121231/1214</p>
 <p><em type="bold">Tilsamans </em><em type="bold">18 </em></p>
@@ -732,13 +640,7 @@
 <p>Rókhagi03/112124/114128/111128/1221</p>
 <p><em type="bold">Tilsamans </em><em type="bold">9 </em></p>
 <p>Froba</p>
-<p>Botnaskarshagi18/1213443</p>
-<p>Oygg</p>
-<p xml:lang="eng">Bygd</p>
-<p>Hagapartur</p>
-<p xml:lang="eng">Dato</p>
-<p>Tal av harum</p>
-<p>Tal av byrsum</p>
+<p>Botnaskarshagi18/12134</p>
 <p>Hov</p>
 <p>Hjallaskorahagi09/113105/121131/1222</p>
 <p><em type="bold">Tilsamans </em><em type="bold">6 </em></p>
@@ -763,5 +665,5 @@
 <p>Klappjakt02/11501721/1261</p>
 <p>Øravík</p>
 <p>Dals og Líðarhagi12/1251</p>
-<p><em type="bold">Tilsamans fyri allar Føroyar </em><em type="bold">5.381 </em>44 </p>
+<p><em type="bold">Tilsamans fyri allar Føroyar </em><em type="bold">5.381 </em></p>
 </body></document>

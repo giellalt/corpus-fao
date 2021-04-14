@@ -1,7 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>10382</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>fiskaskipanin02feb2012.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="eng"><em type="bold">F </em><em type="bold">is </em><em type="bold">k </em><em type="bold">as </em><em type="bold">k </em><em type="bold">ip </em><em type="bold">an </em><em type="bold">in </em></p>
-<p xml:lang="dan"><em type="bold">E </em><em type="bold">yð </em><em type="bold">fi </em><em type="bold">n </em><em type="bold">n M </em><em type="bold">ag </em><em type="bold">nu </em><em type="bold">ss </em><em type="bold">en </em></p>
-<p xml:lang="eng">Rwww.fsg.fo</p>
-<p>Eyðfinn MagnussEn</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8840</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>fiskaskipanin02feb2012.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="eng"><em type="bold">F </em><em type="bold">is </em><em type="bold">k </em><em type="bold">as </em><em type="bold">k </em><em type="bold">ip </em><em type="bold">an </em></p>
 <p xml:lang="eng"><em type="bold">F I S K A S K I P A N </em></p>
 <p>Eyðfinn Magnussen</p>
 <p><em type="bold">Fiskaskipanin </em>lýst við dømum við fiskinum á Føroyabanka </p>
@@ -25,14 +22,6 @@
 <p>Samandráttur av eyðkennum - mynd 33</p>
 <p>Eyðkenni 35</p>
 <p>Annar lesnaður 40</p>
-<p>Eyðfinn Magnussen: Fiskaskipanin lýst við dømum við fiskinum á Føroyabanka© 2008 Føroya Skúlabókagrunnur</p>
-<p>Strikutekningar, umbróting og uppseting: Ole Wich - www.wichgrafik.dk</p>
-<p>Fiskatekningar úr Fiskar undir Føroyum: Astrid Andreasen</p>
-<p>Fotomyndir: Rógvi Mouritsen bls. 4-5, 13, 16-17, 19, 21, 23, 24-25, 34, 39, 41</p>
-<p xml:lang="eng">Niels Petersen bls. 6, 31</p>
-<p xml:lang="dan">Prent og innbinding: Sjónband</p>
-<p>Útgáva: Føroya Skúlabókagrunnur, Tórshavn - www.fsg.fo1. útgáva, 1. upplag: februar 2008</p>
-<p xml:lang="eng">ISBN: 4978-99918-0486-6</p>
 <p>Hetta er ein roynd at fáa til vega undirvísingartilfar á føroyskum um fiskaskipanina (fish taxonomy á enskum). Bókin er ætlað undir-vísingini í miðnámsskúlunum og á Fróðskaparsetrinum og annars øllum, sum hava áhuga fyri fiski.</p>
 <p>Útgangsstøðið í bókini er heftið <span type="quote">“Fiskasystematikkur”</span>, sum kom út á heysti 2003 og varð nýtt til undir-vísingina í fiskalívfrøði, ið er ein av lærugreinunum í lívfrøðiútbúg-vingini á Fróðskaparsetrinum.</p>
 <p>Bókin byrjar við at geva eina al-menna lýsing av fiski, og hvussu nógv fiskasløg vit kenna í dag (kapittul 1). Síðani verður greitt frá útsjóndini á fiski og nøkrum grundleggjandi hugtøkum um fisk (kapittul 2). Greitt verður í stuttum frá vistskipanini á Føroyabanka og fiskinum, sum heldur til á Banka-num (kapittul 3). Eftir hetta verður farið undir at greiða frá djóra-skipanini, og hvussu fiskur og aðrar livandi verur verða bólkaðar við støði í felags eyðkennum (kapittul 4). At enda verður tikið samanum eyðkennini hjá fisk-unum, sum eru umrøddir í hesi bókini (kapittul 5). Aftast í bókini er ein listi við øðrum lesnaði um</p>
@@ -137,7 +126,7 @@
 <p>Enska navnið</p>
 <p xml:lang="eng">Tilhalds-</p>
 <p>Dýpdarøki (m)øki&lt;100100-200200-300300-400400-500&gt;500</p>
-<p>Alt økið</p>
+<p>Alt øk</p>
 <p>Havmús</p>
 <p xml:lang="eng"><em type="italic">C </em><em type="italic">hi </em><em type="italic">m </em><em type="italic">ae </em><em type="italic">ra m </em><em type="italic">on </em><em type="italic">st </em><em type="italic">ro </em><em type="italic">sa </em></p>
 <p xml:lang="eng">Rabbit fish</p>
@@ -238,7 +227,7 @@
 <p>Longa</p>
 <p><em type="italic">M </em><em type="italic">ol </em><em type="italic">va m </em><em type="italic">ol </em><em type="italic">va </em></p>
 <p xml:lang="eng">Ling</p>
-<p>B++++++++++++++++++++</p>
+<p>B+++++++++++++++++++</p>
 <p>Blálonga</p>
 <p><em type="italic">M </em><em type="italic">ol </em><em type="italic">va d </em><em type="italic">ip </em><em type="italic">te </em><em type="italic">ry </em><em type="italic">gi </em><em type="italic">a </em></p>
 <p xml:lang="eng">Blue ling</p>
@@ -250,15 +239,15 @@
 <p>Toskur</p>
 <p xml:lang="eng"><em type="italic">G </em><em type="italic">ad </em><em type="italic">u </em><em type="italic">s m </em><em type="italic">or </em><em type="italic">hu </em><em type="italic">a </em></p>
 <p xml:lang="eng">Cod</p>
-<p>B++++++++-+-+++</p>
+<p>B++++++++-+-++</p>
 <p>Upsi</p>
 <p xml:lang="eng"><em type="italic">P </em><em type="italic">ol </em><em type="italic">la </em><em type="italic">ch </em><em type="italic">iu </em><em type="italic">s v </em><em type="italic">ir </em><em type="italic">en </em><em type="italic">s </em></p>
 <p xml:lang="eng">Saithe</p>
-<p>B+++++++++++++++++++</p>
+<p>B++++++++++++++++++</p>
 <p>Hýsa</p>
 <p><em type="italic">M </em><em type="italic">el </em><em type="italic">an </em><em type="italic">og </em><em type="italic">ra </em><em type="italic">m </em><em type="italic">m </em><em type="italic">u </em><em type="italic">s a </em><em type="italic">eg </em><em type="italic">le </em><em type="italic">fi </em><em type="italic">n </em><em type="italic">u </em><em type="italic">s </em></p>
 <p>Haddock</p>
-<p>B++++++++++++++++++</p>
+<p>B+++++++++++++++++</p>
 <p>Tilhaldsøkia</p>
 <p xml:lang="dan"><em type="italic">A </em><em type="italic">rkt </em><em type="italic">isk </em><em type="italic">fiskasløg </em></p>
 <p xml:lang="eng"><em type="italic">B </em><em type="italic">or </em><em type="italic">eal fiskasløg </em>aB </p>
@@ -388,7 +377,7 @@
 <p xml:lang="eng"><em type="italic">R </em><em type="italic">ei </em><em type="italic">n </em><em type="italic">h </em><em type="italic">ar </em><em type="italic">dt </em><em type="italic">iu </em><em type="italic">s h </em><em type="italic">ip </em><em type="italic">po </em><em type="italic">gl </em><em type="italic">os </em><em type="italic">so </em><em type="italic">id </em><em type="italic">es </em></p>
 <p xml:lang="eng">Greenland halibuta-( )---++( )</p>
 <p>Tal av fiskasløgum19433121283659</p>
-<p>Tal av troltóvum2417844172119303</p>
+<p>Tal av troltóvum241784417211930</p>
 <p><em type="bold">Fiskaskipanin </em></p>
 <p>Føroyskt Danskt Enskt Latín</p>
 <p xml:lang="eng">Ríki Rige Kingdom Regnum Fylki Række Phylum Phylum Flokkur Klasse Class Classis Hópur Orden Order Ordo Ætt Familie Family Familia Slekt Slægt Genus Genus Slag Art Species Species</p>
@@ -699,25 +688,8 @@
 <p><em type="bold">Yvirflokkur </em></p>
 <p xml:lang="eng"><em type="bold">BEINFISKAR </em></p>
 <p xml:lang="eng">Osteichthyes</p>
-<p><em type="bold">KJAFTFISKAR </em></p>
-<p xml:lang="eng">Gnathostomata</p>
-<p><em type="bold">Flokkur </em></p>
 <p xml:lang="eng"><em type="bold">BRÓSKFISKAR </em></p>
 <p xml:lang="eng">Chondrichthyes</p>
-<p><em type="bold">Flokkur </em></p>
-<p><em type="bold">Undirflokkur </em></p>
-<p xml:lang="eng"><em type="bold">BEINFISKAR </em></p>
-<p xml:lang="eng">Osteichthyes</p>
-<p xml:lang="eng"><em type="bold">TEINAFJAÐRAFISKAR </em></p>
-<p xml:lang="eng">Actinopterygii</p>
-<p xml:lang="eng"><em type="bold">KJØTFJAÐRAFISKAR </em></p>
-<p xml:lang="eng">Sarcopterygii</p>
-<p xml:lang="eng"><em type="bold">VERULIGIR BEINFISKAR </em></p>
-<p>Teleostei</p>
-<p xml:lang="eng"><em type="bold">KVEISTRAFISKAR </em></p>
-<p xml:lang="eng">Crossopterygii</p>
-<p><em type="bold">LUNGAFISKAR </em></p>
-<p xml:lang="dan">Dipneusti</p>
 <p><em type="bold">Fylki </em></p>
 <p><em type="bold">Undirfylki </em></p>
 <p xml:lang="eng"><em type="bold">RYGGSTREINGJA DÝR </em></p>
@@ -763,17 +735,6 @@
 <p xml:lang="eng">Crossopterygii</p>
 <p><em type="bold">LUNGAFISKAR </em></p>
 <p xml:lang="dan">Dipneusti</p>
-<p><em type="bold">Fylki </em></p>
-<p><em type="bold">Undirfylki </em></p>
-<p xml:lang="eng"><em type="bold">RYGGSTREINGJA DÝR </em></p>
-<p xml:lang="eng">Chordata</p>
-<p xml:lang="eng"><em type="bold">POSADÝR </em></p>
-<p xml:lang="eng">Urochordata</p>
-<p xml:lang="eng"><em type="bold">TREVSUMUNNAR </em></p>
-<p xml:lang="eng">Cephalochordata</p>
-<p xml:lang="dan"><em type="bold">RYGGDÝR </em></p>
-<p>Vertebrata</p>
-<p><em type="bold">Fiskar </em></p>
 <p><em type="bold">Yvirflokkur </em></p>
 <p><em type="bold">Fiskar </em></p>
 <p><em type="bold">Fiskar </em></p>
@@ -808,17 +769,6 @@
 <p xml:lang="eng">Crossopterygii</p>
 <p><em type="bold">LUNGAFISKAR </em></p>
 <p xml:lang="dan">Dipneusti</p>
-<p><em type="bold">Fylki </em></p>
-<p><em type="bold">Undirfylki </em></p>
-<p xml:lang="eng"><em type="bold">RYGGSTREINGJA DÝR </em></p>
-<p xml:lang="eng">Chordata</p>
-<p xml:lang="eng"><em type="bold">POSADÝR </em></p>
-<p xml:lang="eng">Urochordata</p>
-<p xml:lang="eng"><em type="bold">TREVSUMUNNAR </em></p>
-<p xml:lang="eng">Cephalochordata</p>
-<p xml:lang="dan"><em type="bold">RYGGDÝR </em></p>
-<p>Vertebrata</p>
-<p><em type="bold">Fiskar </em></p>
 <p><em type="bold">Yvirflokkur </em></p>
 <p><em type="bold">Fiskar </em></p>
 <p><em type="bold">Fiskar </em></p>
@@ -864,21 +814,7 @@
 <p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
 <p>Slætthavaættin (Triakidae)</p>
 <p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)20</p>
+<p>Havaættin (Squalidae)20</p>
 <p>Undirflokkur 1.2:</p>
 <p xml:lang="eng"><em type="bold">TVØRMUNNAR </em></p>
 <p xml:lang="eng"><em type="italic">Elasmobranchii </em></p>
@@ -915,73 +851,18 @@
 <p>Ljoshavaættin (Etmopteridae)</p>
 <p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
 <p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
 <p>Slætthavaættin (Triakidae)</p>
 <p>Ljoshavaættin (Etmopteridae)</p>
 <p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
 <p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
 <p>Slætthavaættin (Triakidae)</p>
 <p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
+<p>Havaættin (Squalidae)</p>
 <p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
 <p>Slætthavaættin (Triakidae)</p>
 <p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)21</p>
+<p>Havaættin (Squalidae)21</p>
 <p>Hópur 1.2.3:</p>
 <p xml:lang="dan"><em type="bold">SKØTUR </em><em type="italic">Rajiformes </em></p>
 <p>Flatvaksnar. Liva fyri tað mesta á botni. Eygu og innstreymingarop omaná, muður og táknurivur á búksíðuni. Uggafjaðrarnar, rav- arnir eru stórar og samanvaksnar við høvdið og verða nýttir at svimja við. Eingi eygnalok. Hornhinnan í eygunum er fest beinleiðis í skræðuna rundan um eyguni. At forða fyri, at botntilfar kemur í táknurnar, verður sjógvurin sogin inn gjøgnum innstreymingarop í erva í staðin fyri ígjøgnum munn-in, sum er á undirsíðuni.</p>
@@ -991,24 +872,11 @@
 <p>Allar skøtur leggja egg. Eggini liggja í fýrakantaðum horn-hylkjum, sum hava ein tráð í hvørjum horni at festa hylkið fast við.</p>
 <p xml:lang="eng">S K Ø T U R</p>
 <p xml:lang="eng">S K Ø T U R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
 <p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
 <p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)22</p>
+<p>Toskar (Gadinae)22</p>
 <p>Flokkur 2:</p>
 <p xml:lang="eng"><em type="bold">BEINFISKAR </em><em type="italic">Osteichthyes </em></p>
 <p>Beinagrindin er av beinvevnaði.</p>
@@ -1052,16 +920,8 @@
 <p><em type="bold">LUNGAFISKAR </em></p>
 <p xml:lang="dan">Dipneusti</p>
 <p><em type="bold">Fylki </em></p>
-<p><em type="bold">Undirfylki </em></p>
 <p xml:lang="eng"><em type="bold">RYGGSTREINGJA DÝR </em></p>
 <p xml:lang="eng">Chordata</p>
-<p xml:lang="eng"><em type="bold">POSADÝR </em></p>
-<p xml:lang="eng">Urochordata</p>
-<p xml:lang="eng"><em type="bold">TREVSUMUNNAR </em></p>
-<p xml:lang="eng">Cephalochordata</p>
-<p xml:lang="dan"><em type="bold">RYGGDÝR </em></p>
-<p>Vertebrata</p>
-<p><em type="bold">Fiskar </em></p>
 <p><em type="bold">Yvirflokkur </em></p>
 <p><em type="bold">Fiskar </em></p>
 <p><em type="bold">Fiskar </em></p>
@@ -1078,20 +938,7 @@
 <p>Slætthavaættin (Triakidae)</p>
 <p>Ljoshavaættin (Etmopteridae)</p>
 <p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)23</p>
+<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)23</p>
 <p>Hópur 2.1.2:</p>
 <p xml:lang="eng"><em type="bold">SILDAFISKAR </em><em type="italic">Clupeiformes </em></p>
 <p>Hávaksnir fiskar við avlongum kroppi. Vanliga bert eina rygg-fjøður. Gongur ofta í torvum.</p>
@@ -1100,25 +947,12 @@
 <p><em type="bold">Sildaættin </em><em type="italic">Clupeidae </em></p>
 <p>Silvurblankur fiskur, sum gongur í torvum. Fjaðrarnar bleytar. Bert eina rygg fjøður. Búkfjaðrarnar eru aftarlaga á kroppinum undir ryggfjøðruni.</p>
 <p xml:lang="dan">S i L D A F i S K A R</p>
-<p xml:lang="dan">S i L D A F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
+<p xml:lang="eng">S i L D A F i S K A R6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
 <p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)2</p>
+<p>Havtaskuættin (Lophiidae)2</p>
 <p>Hópur 2.1.3:</p>
 <p xml:lang="eng"><em type="bold">GLITFISKAR </em><em type="italic">Argentiniformes </em></p>
 <p>Sterturin vanliga sýldur. Við ella uttan fitifjøður. Skaftið aftur úr gómabeininum er munandi styttri enn hjá fiskum í øðrum hópum.</p>
@@ -1132,43 +966,18 @@
 <p>Hevur onga roðslu á høvdinum.</p>
 <p>Tenninar vanliga smáar. Táknu-tindarnir langir og nógvir í tali.</p>
 <p xml:lang="eng">G L i T F i S K A R</p>
-<p xml:lang="eng">G L i T F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
+<p xml:lang="eng">G L i T F i S K A R6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
 <p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
 <p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)2</p>
+<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)2</p>
 <p>Hópur 2.1.4:</p>
 <p xml:lang="eng"><em type="bold">TOSKAFISKAR </em><em type="italic">Gadiformes </em></p>
 <p>Búkfjaðrarnar niðan fyri ella framman fyri uggafjaðrarnar.</p>
@@ -1185,61 +994,24 @@
 <p xml:lang="eng"><em type="bold">Hornabrosmuættin </em><em type="italic">Phycidae </em></p>
 <p>Tvær ella tríggjar ryggfjaðrar. Eina gotfjøður. Hvørki rygg- ella got-fjaðrar eru tó samanvaksnar við stertin. Búkfjaðrarnar við tveim-um teinum hangandi afturúr.</p>
 <p xml:lang="eng">T O S K A F i S K A R</p>
-<p xml:lang="eng">T O S K A F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
+<p xml:lang="eng">T O S K A F i S K A R7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
+<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
+<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
+<p>Toskar (Gadinae)</p>
+<p>Havtaskuættin (Lophiidae)</p>
 <p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
 <p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
 <p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
 <p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
 <p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)2</p>
+<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)2</p>
 <p>Ætt 2.1.4.4:</p>
 <p><em type="bold">Toskaættin </em><em type="italic">Gadidae </em></p>
 <p>Fyrsta ryggfjøður aftan fyri høvd-ið. Fjaðrarnar eru bleytar og uttan píkar. Búkfjaðrarnar eru framman fyri uggafjaðrarnar. Tenn uppi undir gómanum. Sundmagin hevur einki samband við innara oyrað. Toskaættin verður skild sundur í tvær undirættir:</p>
@@ -1253,40 +1025,14 @@
 <p xml:lang="eng">T O S K A F i S K A R</p>
 <p xml:lang="eng">T O S K A F i S K A R</p>
 <p><em type="italic">Brosma úr Fiskar undir Føroyum </em></p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
 <p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
 <p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
+<p>Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
+<p xml:lang="eng">Kvoysuættin (Scophthalmidae)</p>
 <p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
 <p>Longur og brosmur (Lotinae)2</p>
 <p>Hópur 2.1.5:</p>
@@ -1298,24 +1044,12 @@
 <p xml:lang="eng">T U S S A F i S K A R</p>
 <p xml:lang="eng">T U S S A F i S K A R</p>
 <p><em type="italic">Havtaska úr Fiskar undir Føroyum </em></p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
 <p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
 <p>Knurrhanaættin (Triglidae)</p>
 <p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)2</p>
+<p>Steinbitaættin (Anarhichadidae)2</p>
 <p>Hópur 2.1.6:</p>
 <p xml:lang="eng"><em type="bold">SPORÐDREKAFISKAR </em></p>
 <p xml:lang="eng"><em type="italic">Scorpaeniformes </em></p>
@@ -1334,60 +1068,23 @@
 <p>Búkfjaðrarnar eru umgjørdar til eina súgskál undir búkinum sum hjá rognkelsi. Skræðan er sluprut og manglar roðslu. Rygg- og got-fjaðrar langar og samanvaksnar við stertin, ella næstan saman-vaksnar.</p>
 <p xml:lang="eng">S P O R Ð D R E K A F i S K A R</p>
 <p xml:lang="eng">S P O R Ð D R E K A F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
 <p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
 <p>Knurrhanaættin (Triglidae)</p>
+<p>Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)17 Sugfiskaættin (Liparidae)</p>
+<p>Knurrhanaættin (Triglidae)</p>
 <p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
 <p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
+<p xml:lang="eng">Makrelættin (Scombridae)25 Stinglaksaættin (Trichiuridae)</p>
 <p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
 <p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
 <p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)29</p>
+<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)29</p>
 <p>Hópur 2.1.7:</p>
 <p xml:lang="eng"><em type="bold">ÁBURRUFISKAR </em><em type="italic">Perciformes </em></p>
 <p>Áburrufiskarnir er tann mest fjøl-broytti av øllum fiskahópunum.</p>
@@ -1410,78 +1107,28 @@
 <p>Høvdið stórt og avrundað. Ramlig-ar tenn. Framtenninar eru høgar og spískar, meðan hinar eru flatar og jaksilskapaðar. Harafturat eru tríggjar røðir av meira avrundaðum tonnum undir gómanum. Roðslan er lítil og sløtt ella manglar heilt.</p>
 <p>Strikan kám. Ryggfjøðurin er ber.</p>
 <p>Uggafjaðrarnar stórar. Búkfjaðrar mangla. Sterturin lítil. Táknu-membranurin festur í kílan undir øsini, gilluna.á B U R R U F i S K A Rá B U R R U F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
+<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
+<p>Knurrhanaættin (Triglidae)</p>
+<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
+<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
+<p xml:lang="eng">Floayfiskaættin (Callionymidae)25 Stinglaksaættin (Trichiuridae)</p>
 <p>Toskar (Gadinae)</p>
 <p>Havtaskuættin (Lophiidae)</p>
 <p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
 <p>Knurrhanaættin (Triglidae)</p>
 <p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
+<p>Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)17 Sugfiskaættin (Liparidae)</p>
+<p>Knurrhanaættin (Triglidae)</p>
+<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
 <p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
+<p xml:lang="eng">Makrelættin (Scombridae)25 Stinglaksaættin (Trichiuridae)</p>
 <p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
 <p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
 <p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
-<p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
-<p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)30</p>
+<p xml:lang="eng">Flundruættin (Pleuronectidae)30</p>
 <p>Ætt 2.1.7.5:</p>
 <p xml:lang="dan"><em type="bold">Nebbasildaættin </em><em type="italic">Ammodytidae </em></p>
 <p>Klænvaksnir fiskar. Strikan er ovarlaga á síðuni. Týðiligt undir-bit. Eina ryggfjøður. Rygg- og got-fjaðrarnar eru langvaksnar, men lágar, og skilja seg týðiliga frá stertinum. Ongar búkfjaðrar.</p>
@@ -1499,72 +1146,24 @@
 <p>Hjá summum sløgum eru ryggfjaðrarnar sundur-skildar við einum innviki. Got-fjøðurin hevur 2 tinda- og 56-121 bleytteinar. Sterturin er lítil ella heilt burtur. Uggafjaðrarnar eru niðarlaga á kroppinum. Búk-fjaðrarnar eru smáar ella heilt burtur.</p>
 <p>Ætt 2.1.7.8:</p>
 <p xml:lang="eng"><em type="bold">Makrelættin </em><em type="italic">Scombridae </em></p>
-<p>Kroppurin torpedoformaður. Tvær ryggfjaðrar, sum kunnu leggjast niður í foyrur á rygginum. Aftan fyri rygg- og gotfjaðrarnar eru fleiri smáfjaðrar. Fremra rygg-fjøðurin byrjar eitt fitt petti aftan fyri høvdið. Uggafjøðurin ovarlaga á kroppinum. Búkfjøðurin, sum hevur seks teinar, er undir uggafjøðurini. Aftast eru ein til tveir kílar hvørjumegin á sporlin-um. Roðslan er lítil og sløtt.á B U R R U F i S K A Rá B U R R U F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
+<p>Kroppurin torpedoformaður. Tvær ryggfjaðrar, sum kunnu leggjast niður í foyrur á rygginum. Aftan fyri rygg- og gotfjaðrarnar eru fleiri smáfjaðrar. Fremra rygg-fjøðurin byrjar eitt fitt petti aftan fyri høvdið. Uggafjøðurin ovarlaga á kroppinum. Búkfjøðurin, sum hevur seks teinar, er undir uggafjøðurini. Aftast eru ein til tveir kílar hvørjumegin á sporlin-um. Roðslan er lítil og sløtt.á B U R R U F i S K A Rá B U R R U F i S K A R21 Ulvfiskaættin (Zoarcidae)</p>
 <p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
 <p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
 <p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
 <p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
 <p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
 <p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
 <p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
 <p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
 <p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
 <p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
 <p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
 <p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
 <p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
@@ -1588,42 +1187,15 @@
 <p>Høgravendir flatfiskar (eyguni eru á høgru síðu). Aftari kanturin av táknukápuni berur. Ryggfjøðurin byrjar oman fyri eygað. Rogn uttan oljudropa.</p>
 <p xml:lang="dan">F L A T F i S K A R</p>
 <p xml:lang="dan">F L A T F i S K A R</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
-<p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
-<p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
+<p xml:lang="eng">Kvoysuættin (Scophthalmidae)</p>
 <p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
 <p>Longur og brosmur (Lotinae)</p>
-<p>Havmusaættin (Chimaeridae)2 Reyðhavaættin (Scyliorhinidae)</p>
-<p>Slætthavaættin (Triakidae)</p>
-<p>Ljoshavaættin (Etmopteridae)</p>
-<p>Havaættin (Squalidae)6 Skøtuættin (Rajidae)7 Snipallaættin (Nemichthyidae)8 Sildaættin (Clupeidae)</p>
-<p xml:lang="eng">Gulllaksaættin (Argentinidae)10 Slætthøvdaættin(Alepocephalidae)</p>
-<p xml:lang="eng">Langasporlaættin (Macrouridae)12 Moruættin (Moridae)</p>
-<p xml:lang="eng">Hornabrosmuættin (Phycidae)</p>
-<p>Toskar (Gadinae)</p>
-<p>Havtaskuættin (Lophiidae)</p>
-<p>Kongafiskaættin (Scorpaenidae)17 Sugfiskaættin (Liparidae)</p>
-<p>Knurrhanaættin (Triglidae)</p>
-<p xml:lang="dan">Glomuættin (Epigonidae)20 Rossamakrelættin (Carangidae)21 Ulvfiskaættin (Zoarcidae)</p>
-<p xml:lang="eng">Steinbitaættin (Anarhichadidae)23 Nebbasildaættin (Ammodytidae)</p>
 <p xml:lang="dan">Floayfiskaættin (Callionymidae)</p>
 <p xml:lang="eng">Makrelættin (Scombridae)</p>
 <p xml:lang="eng">Kvoysuættin (Scophthalmidae)25 Stinglaksaættin (Trichiuridae)</p>
 <p xml:lang="eng">Flundruættin (Pleuronectidae)</p>
-<p>Longur og brosmur (Lotinae) <em type="bold">1 </em><em type="bold">4-15 </em><em type="bold">23-26 </em><em type="bold">56 </em><em type="bold">16-20 </em><em type="bold">2 </em><em type="bold">48-55 </em><em type="bold">57-60 63-66 69-71 </em><em type="bold">84 </em><em type="bold">75-77 </em><em type="bold">93-94 </em><em type="bold">86-87 </em><em type="bold">126-134 </em><em type="bold">40-43 </em><em type="bold">21 </em><em type="bold">27-30 </em><em type="bold">35-36 </em><em type="bold">61-62 </em><em type="bold">67-68 72-73 74 </em><em type="bold">78 </em><em type="bold">137-138 </em><em type="bold">135-136 </em><em type="bold">117-121 </em><em type="bold">111-116 </em><em type="bold">106-110 </em><em type="bold">100-105 </em><em type="bold">97 </em><em type="bold">79 </em><em type="bold">80-81 </em><em type="bold">82-83 </em><em type="bold">85 </em><em type="bold">98-99 </em><em type="bold">95-96 </em><em type="bold">122-125 </em><em type="bold">88-89 </em><em type="bold">90-91 </em><em type="bold">92 </em><em type="bold">3 </em><em type="bold">33-34 </em><em type="bold">37 38-39 </em><em type="bold">31-32 </em><em type="bold">44-47 </em><em type="bold">22 </em></p>
+<p>Longur og brosmur (Lotinae) <em type="bold">1 </em><em type="bold">4-15 </em><em type="bold">23-26 </em><em type="bold">16-20 </em><em type="bold">2 </em><em type="bold">48-55 </em><em type="bold">57-60 63-66 69-71 </em><em type="bold">40-43 </em><em type="bold">21 </em><em type="bold">27-30 </em><em type="bold">35-36 </em><em type="bold">61-62 </em><em type="bold">67-68 72-73 74 </em><em type="bold">3 </em><em type="bold">33-34 </em><em type="bold">37 38-39 </em><em type="bold">31-32 </em><em type="bold">44-47 </em><em type="bold">22 </em></p>
 <p><em type="bold">Fylki </em></p>
 <p><em type="bold">Undirfylki </em></p>
 <p><em type="bold">Yvirflokkur </em></p>
@@ -1637,27 +1209,9 @@
 <p xml:lang="eng">BEINFISKAR</p>
 <p>HEILSKØLTAR</p>
 <p>Snípuállur</p>
-<p>Havtaska</p>
 <p>Lítliglámur</p>
 <p>Gulllaksur</p>
 <p xml:lang="eng">Sild</p>
-<p>Bláriddari</p>
-<p>Morafiskur</p>
-<p xml:lang="eng">Nebbasild</p>
-<p>Stóra nebbasild</p>
-<p>Steinbítur</p>
-<p>Rossamakrelur</p>
-<p>Knurrhani</p>
-<p>Kikarafiskur</p>
-<p>Úlvfiskur</p>
-<p>Lítlabrosma</p>
-<p>Floyfiskur</p>
-<p>Hvasshvoysa</p>
-<p>Glashvoysa</p>
-<p>Makrelur</p>
-<p>Pinkur</p>
-<p>Stinglaksur</p>
-<p xml:lang="eng">VERULIGIR BEINFISKAR</p>
 <p>LL</p>
 <p xml:lang="eng">FI</p>
 <p>SK</p>
@@ -1668,42 +1222,8 @@
 <p xml:lang="eng">LI</p>
 <p xml:lang="eng">FI</p>
 <p>SK</p>
-<p>SS</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
-<p>SK</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
-<p xml:lang="dan">BU</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
-<p>SP</p>
-<p xml:lang="eng">EK</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
-<p>FL</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
 <p>Snípuállaættin</p>
 <p>Gulllaksaættin</p>
-<p>Havtaskuættin</p>
-<p>Moraættin</p>
-<p>Toskaættin</p>
-<p>Hornabrosmuættin</p>
-<p>Langasporlsættin</p>
-<p>Úlvfiskaættin</p>
-<p>Glómuættin</p>
-<p>Knurrhanaættin</p>
-<p>Rossamakrelættin</p>
-<p>Steinbítaættin</p>
-<p>Nebbasildaættin</p>
-<p>Floyfiskaættin</p>
-<p>Stinglaksaættin</p>
-<p>Makrelættin</p>
-<p>Súgfiskaættin</p>
-<p>Kongafiskaættin</p>
-<p>Kvoysuættin</p>
-<p>Flundruættin</p>
 <p>Sildaættin</p>
 <p>Havmúsaættin</p>
 <p>Havmús</p>
@@ -1734,48 +1254,11 @@
 <p>Klingruskøta</p>
 <p>Hvítaskøta</p>
 <p>Naglaskøta</p>
-<p xml:lang="eng">Trantlangasporl</p>
-<p>Kubbuta langasporl</p>
-<p>Slætta langasporl</p>
-<p>Rísna langasporl</p>
-<p>Longa</p>
-<p>Blálonga</p>
-<p xml:lang="eng">Brosma</p>
-<p>Toskur</p>
-<p>Upsi</p>
-<p>Hýsa</p>
-<p>Glýsufiskur</p>
-<p>Silvurmurtur</p>
-<p>Svartkjaftur</p>
-<p>Hvítingur</p>
-<p>Stóri kongafiskur</p>
-<p>Trant kongafiskur</p>
-<p>Lítli kongafiskur</p>
-<p>Kjaftsvarti kongafiskur</p>
-<p>Lálla</p>
-<p>Skrubba</p>
-<p>Tunga</p>
-<p>Reyðsprøka</p>
-<p>Hvassasprek</p>
-<p xml:lang="dan">Kalvi</p>
-<p>Svartkalvi32 <em type="bold">1 </em><em type="bold">4-15 </em><em type="bold">23-26 </em><em type="bold">56 </em><em type="bold">16-20 </em><em type="bold">2 </em><em type="bold">48-55 </em><em type="bold">57-60 63-66 69-71 </em><em type="bold">84 </em><em type="bold">75-77 </em><em type="bold">93-94 </em><em type="bold">86-87 </em><em type="bold">126-134 </em><em type="bold">40-43 </em><em type="bold">21 </em><em type="bold">27-30 </em><em type="bold">35-36 </em><em type="bold">61-62 </em><em type="bold">67-68 72-73 74 </em><em type="bold">78 </em><em type="bold">137-138 </em><em type="bold">135-136 </em><em type="bold">117-121 </em><em type="bold">111-116 </em><em type="bold">106-110 </em><em type="bold">100-105 </em><em type="bold">97 </em><em type="bold">79 </em><em type="bold">80-81 </em><em type="bold">82-83 </em><em type="bold">85 </em><em type="bold">98-99 </em><em type="bold">95-96 </em><em type="bold">122-125 </em><em type="bold">88-89 </em><em type="bold">90-91 </em><em type="bold">92 </em><em type="bold">3 </em><em type="bold">33-34 </em><em type="bold">37 38-39 </em><em type="bold">31-32 </em><em type="bold">44-47 </em><em type="bold">22 </em></p>
-<p><em type="bold">Fylki </em></p>
-<p><em type="bold">Undirfylki </em></p>
-<p><em type="bold">Yvirflokkur </em></p>
-<p><em type="bold">Flokkur </em></p>
-<p><em type="bold">Undirflokkur </em></p>
-<p><em type="bold">Hópur </em></p>
-<p><em type="bold">Ætt </em></p>
-<p><em type="bold">Fiskasløg </em></p>
-<p xml:lang="eng">RYGGSTREINGJADÝR</p>
-<p xml:lang="eng">BRÓSKFISKAR</p>
-<p xml:lang="eng">BEINFISKAR</p>
-<p>HEILSKØLTAR</p>
-<p>Snípuállur</p>
+<p xml:lang="eng">Trantlangaspo</p>
+<p>Kubbuta langa</p>
+<p>Slætta langaspo</p>
+<p>Rísna langaspo32 <em type="bold">56 </em><em type="bold">84 </em><em type="bold">75-77 </em><em type="bold">93-94 </em><em type="bold">86-87 </em><em type="bold">126-134 </em><em type="bold">78 </em><em type="bold">137-138 </em><em type="bold">135-136 </em><em type="bold">117-121 </em><em type="bold">111-116 </em><em type="bold">106-110 </em><em type="bold">100-105 </em><em type="bold">97 </em><em type="bold">79 </em><em type="bold">80-81 </em><em type="bold">82-83 </em><em type="bold">85 </em><em type="bold">98-99 </em><em type="bold">95-96 </em><em type="bold">122-125 </em><em type="bold">88-89 </em><em type="bold">90-91 </em><em type="bold">92 </em></p>
 <p>Havtaska</p>
-<p>Lítliglámur</p>
-<p>Gulllaksur</p>
-<p xml:lang="eng">Sild</p>
 <p>Bláriddari</p>
 <p>Morafiskur</p>
 <p xml:lang="eng">Nebbasild</p>
@@ -1793,16 +1276,6 @@
 <p>Pinkur</p>
 <p>Stinglaksur</p>
 <p xml:lang="eng">VERULIGIR BEINFISKAR</p>
-<p>LL</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
-<p xml:lang="eng">SI</p>
-<p xml:lang="dan">LD</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
-<p xml:lang="eng">LI</p>
-<p xml:lang="eng">FI</p>
-<p>SK</p>
 <p>SS</p>
 <p xml:lang="eng">FI</p>
 <p>SK</p>
@@ -1819,8 +1292,6 @@
 <p>FL</p>
 <p xml:lang="eng">FI</p>
 <p>SK</p>
-<p>Snípuállaættin</p>
-<p>Gulllaksaættin</p>
 <p>Havtaskuættin</p>
 <p>Moraættin</p>
 <p>Toskaættin</p>
@@ -1839,40 +1310,6 @@
 <p>Kongafiskaættin</p>
 <p>Kvoysuættin</p>
 <p>Flundruættin</p>
-<p>Sildaættin</p>
-<p>Havmúsaættin</p>
-<p>Havmús</p>
-<p>Ringhávur</p>
-<p>Gráhávur</p>
-<p>Slætthávaættin</p>
-<p>Reyðhávaættin</p>
-<p>Hávur</p>
-<p>Búksvarti hávur</p>
-<p>Svarthávur</p>
-<p>SK</p>
-<p>BB</p>
-<p>SK</p>
-<p>Skøtuættin</p>
-<p>Hávaættin</p>
-<p>Ljóshávaættin</p>
-<p xml:lang="eng">EY</p>
-<p>LO</p>
-<p>SH</p>
-<p xml:lang="eng">TVØRMUNNAR</p>
-<p xml:lang="dan">RYGGDÝR</p>
-<p>KJAFTFISKAR</p>
-<p>Glámaættin</p>
-<p>Tindaskøta</p>
-<p>Skøta</p>
-<p>Nebbaskøta</p>
-<p>Sandskøta</p>
-<p>Klingruskøta</p>
-<p>Hvítaskøta</p>
-<p>Naglaskøta</p>
-<p xml:lang="eng">Trantlangasporl</p>
-<p>Kubbuta langasporl</p>
-<p>Slætta langasporl</p>
-<p>Rísna langasporl</p>
 <p>Longa</p>
 <p>Blálonga</p>
 <p xml:lang="eng">Brosma</p>
@@ -1883,9 +1320,9 @@
 <p>Silvurmurtur</p>
 <p>Svartkjaftur</p>
 <p>Hvítingur</p>
-<p>Stóri kongafiskur</p>
-<p>Trant kongafiskur</p>
-<p>Lítli kongafiskur</p>
+<p>Stóri kongafisk</p>
+<p>Trant kongafisk</p>
+<p>Lítli kongafisku</p>
 <p>Kjaftsvarti kongafiskur</p>
 <p>Lálla</p>
 <p>Skrubba</p>

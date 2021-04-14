@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>671</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>framløga.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">FÍGGJARLÓGIN 2017 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>655</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>framløga.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">FÍGGJARLÓGIN 2017 </em></p>
 <p xml:lang="dan">VØ KST U R , VÆ L F E R Ð &amp; VA RS E M I3.5004.0004.5005.0005.50020102011201220132014</p>
 <p>M2 015</p>
 <p>J2016</p>
@@ -7,11 +7,9 @@
 <p>Æ2 019</p>
 <p>Æ2 020</p>
 <p>Æ2 021</p>
-<p xml:lang="dan"><em type="bold">Tu </em><em type="bold">si </em><em type="bold">nd </em><em type="bold">e </em></p>
 <p><em type="bold">Útreiðslur </em></p>
 <p><em type="bold">Inntøkur </em></p>
 <p>Mió. kr.</p>
-<p><em type="bold">Gongdin er vend </em>frá halli til vaksandi avlop </p>
 <p><em type="bold">Gongur væl í Føroyum </em></p>
 <p>Búskaparvøkstur á 7-‐‑8% Lønargjaldingar vøkstur á 6-‐‑7% Arbeiðsloysið á bert góð 2% Fólk og vinna spara nógv upp Fólkavøkstur á omanfyri 600 fólk Men „fløskuhálsar“ innan byggivinnu</p>
 <p>Í 2015 var tøk BTI pr. íbúgva í</p>
@@ -80,7 +78,6 @@
 <p>Æ2 019</p>
 <p>Æ2 020</p>
 <p>Æ2 021</p>
-<p xml:lang="dan"><em type="bold">Tu </em><em type="bold">si </em><em type="bold">nd </em><em type="bold">e </em></p>
 <p><em type="bold">Útreiðslur </em></p>
 <p><em type="bold">Inntøkur </em></p>
 <p>Mió. kr.</p>

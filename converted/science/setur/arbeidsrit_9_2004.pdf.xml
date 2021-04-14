@@ -1,5 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>13905</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5058/arbeidsrit_9_2004.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Granskingardepilin fyri økismenning</p>
-<p xml:lang="deu">GRANSKINGARVERKÆTLANIN FYRI ØKISMENNING</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>13719</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5058/arbeidsrit_9_2004.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="deu">GRANSKINGARVERKÆTLANIN FYRI ØKISMENNING</p>
 <p xml:lang="deu"><em type="bold">ARBEIÐSRIT </em></p>
 <p xml:lang="deu"><em type="bold">WORKING PAPER </em></p>
 <p xml:lang="kal">ISSN 1601-9423</p>
@@ -10,23 +9,18 @@
 <p type="listitem">700 Klaksvík</p>
 <p type="listitem" xml:lang="est">Tel. +298 45 77 44</p>
 <p type="listitem">37 44 77 (Suðuroy)</p>
-<p type="listitem" xml:lang="eng">Fax + 298 45 77 43e-mail: region@region.fo</p>
-<p type="listitem" xml:lang="nno">Heimasíða: www.region.fo</p>
+<p type="listitem" xml:lang="som">Fax + 298 45 77 43</p>
 <p><em type="bold">Ung, útbúgving og fiskivinna </em></p>
 <p>Olga Biskopstø og Bjarni Mortensen</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
-<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 9/2004 </em><em type="bold">2 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">3 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 9/2004 </em></p>
 <p><em type="bold">Ung, útbúgving og fiskivinna </em></p>
 <p>Olga Biskopstø og Bjarni Mortensen</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
 <p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 9/2004 </em></p>
 <p xml:lang="sms"><em type="bold">ISBN 99918-971-8-6 </em></p>
 <p><em type="italic">Um arbeiðsrit: </em></p>
-<p>Arbeiðsrit eru samfelagsfakliga grundað arbeiði, sum eru minni í vavi og dýpd enn veruligar gransk-ingarverkætlanir. Hesi rit kunnu eitt nú vera umbidnar kanningar, t.e. kanningararbeiði sum Gransk-ingardepilin ger aftur fyri gjald. Hetta kunnu eisini vera ávegis arbeiði av størri granskingarverkætlanum, undirvisingar- og kunningartilfar ella líknandi. Arbeiðsrit verða altíð skrivað á føroyskum. Hava fólk handrit, sum halda hóska til útgávu í Arbeiðsriti, eru tey vælkomin at seta seg í samband við depilin (sí adressu á forsíðuni). <em type="bold">4 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">5 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p>Arbeiðsrit eru samfelagsfakliga grundað arbeiði, sum eru minni í vavi og dýpd enn veruligar gransk-ingarverkætlanir. Hesi rit kunnu eitt nú vera umbidnar kanningar, t.e. kanningararbeiði sum Gransk-ingardepilin ger aftur fyri gjald. Hetta kunnu eisini vera ávegis arbeiði av størri granskingarverkætlanum, undirvisingar- og kunningartilfar ella líknandi. Arbeiðsrit verða altíð skrivað á føroyskum. Hava fólk handrit, sum halda hóska til útgávu í Arbeiðsriti, eru tey vælkomin at seta seg í samband við depilin (sí adressu á forsíðuni).</p>
 <p>Formæli Í seinnu helvt av árinum 2002 fór Granskingardepilin fyri økis-menning undir eina verkætlan: <span type="quote">“Rekruttering til fiskivinnuna”</span>.</p>
 <p>Yvirskipaða endamálið er at viðgera spurningin um ungdóm, út-búgvingarval og framtíðina hjá føroysku fiskivinnuni. Verkætlan-in tekur støði í tí andsøgn, at samstundis sum alt fleiri ung velja fiskivinnuna frá, tá ið tey skulu velja lívsleiðina, so er tað alt meiri viðurkent, at tað eisini í komandi árum er fiskivinnan, vit skulu seta okkara lít á. Men tað er eitt heilt annað slag av fiski-vinnu enn tann, vit kenna, sum talan verður um. Tí samstundis, sum tørvurin á fólki í veiðuliði og vanligari fiskaframleiðslu er minkandi, vaksa krøvini til okkara førleika sum fiskivinnutjóð.</p>
 <p>Krøv um burðardygga menning, nýggj marknaðarkrøv, nýggja tøknifrøði, nýggjar matvørur, nýggir stýringarhættir og økt krøv til arbeiðsviðurskifti og -umhvørvi, eru bara nøkur av teimum fyribrigdum, sum troka seg framat. Alt hetta merkir, at fiskivinnan hevur ein alt størri tørv á førleikamenning, og hetta er galdandi fyri øll lið í vinnuni.</p>
@@ -37,15 +31,11 @@
 <p>Fiskavirkinum í Gøtu og S/pf. Norðoyggjafelagnum. Vit takka fyri stuðulin og vóna, at hann kemur fiskivinnuni til góðar.</p>
 <p>Klaksvík, oktobur 2004</p>
 <p xml:lang="vep">Gestur Hovgaard, Ph.D.</p>
-<p xml:lang="isl">Verkætlanarleiðari <em type="bold">6 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">7 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p xml:lang="isl">Verkætlanarleiðari</p>
 <p>Innihaldsyvirlit <em type="bold">Inngangur </em>............................................................................................................................... 9 <em type="bold">1. Partur </em><em type="bold">, Ung, útbúgving og arbeiði </em>.................................................................................11 Útbúgving – sjálvandi! ............................................................................................................ 11 Fyrimunir við útbúgving ......................................................................................................... 12 Hvat ynskja tey ungu av teirra útbúgving? ............................................................................ 1 2 Útbúgving og framtíðar starv ................................................................................................. 1 3 Munur á gentum og dreingjum .............................................................................................. 1 4 Mest aktuellu útbúgvingarnar ................................................................................................ 1 4 Arbeiðs- og familjulív ............................................................................................................ 1 4 Áhugi og dugnaskapur .......................................................................................................... 1 5 Hvat gera tey í frítíðini? ......................................................................................................... 1 6 Samleiki, hugburður og eginleikar ......................................................................................... 1 7 Bjartskygni og sjálvsálit ......................................................................................................... 1 8 Bústaður, útbúgving og vinna ............................................................................................... 1 8 Ùtheimurin dregur .................................................................................................................. 1 9 Samanumtøka ...................................................................................................................... 20 <em type="bold">2.partur </em><em type="bold">, Tey ungu og fiskivinnan </em>..................................................................................... 23 Royndir og kunnleiki .............................................................................................................. 23 Hvar vilja føroyskir ungdómar arbeiða? ............................................................................... 2 4 Kynsbýtið ............................................................................................................................... 25 Hvar vilja føroyskar gentur arbeiða? ..................................................................................... 2 6 Hvar vilja føroyskir dreingir arbeiða? ................................................................................... 27 Hvørji størv í fiskivinnuni eru mest áhugaverd? .................................................................... 2 8 Gransking og tøknimenning .................................................................................................. 2 8 Hvussu trívast tey í fiskivinnuni? ........................................................................................... 2 8 Ymsar fortreytir at fáa arbeiðsmegi ....................................................................................... 30 Fiskivinnan og ynskini hjá ungdóminum ............................................................................... 31 Ávirkan .. 32 </p>
 <p>Samanumtøka ....................................................................................................................... 32</p>
 <p><em type="bold">Niðurstøður </em>.......................................................................................................................... 35 Fiskivinna og økismenning .................................................................................................... 35 Tey ungu og framtíðin hjá fiskivinnuni .................................................................................. 3 6 Tilmælir .. 3 7 </p>
-<p><em type="bold">Keldulisti </em>.............................................................................................................................. 3 9 <em type="bold">Fylgiskjøl </em>.............................................................................................................................. 41 Framferðarháttur ................................................................................................................... 41 Útbreiðsla av spurnablaðnum ............................................................................................... 42 <em type="bold">8 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">9 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p><em type="bold">Keldulisti </em>.............................................................................................................................. 3 9 <em type="bold">Fylgiskjøl </em>.............................................................................................................................. 41 Framferðarháttur ................................................................................................................... 41 Útbreiðsla av spurnablaðnum ............................................................................................... 42 </p>
 <p xml:lang="isl"><em type="bold">Inngangur </em></p>
 <p>Hvørji ynski hevur ungdómurin til framtíðina, tá tað snýr seg um útbúgvingar- og vinnuval? Hvat heldur ungdómurin um fiskivinnuna, og kunnu størv har ganga ynski teirra fyri framtíðina á møti?</p>
 <p>Hesir spurningar verða lýstir í hesari frágreið-ingini, ið byggir á eina víðfevnda spurnablaðs-kanning, gjørd millum føroyska ungdómin.</p>
@@ -60,9 +50,7 @@
 <p>Í 3. parti verður tikið samanum úrslitini av kanningini, og viðgjørt verður, hvat hesi úrslitini merkja fyri føroysku fiskivinnuna. Harumframt verða, við støði í kanningini, givin nøkur tilmæli til, hvussu styrkjast kann um rekrutteringina til fiskivinnuna.</p>
 <p>Vit ynskja at veita eina tøkk til Gest Hovgaard,</p>
 <p>Dennis Holm, sum hava viðmerkt handritið. Eisi-ni ein tøkk til Jákup í Skemmuni fyri rættlestur og til Abraham Mikladal fyri grafiska hjálp.</p>
-<p><em type="bold">Teknfrágreiðing: </em><em type="bold">(N=) </em>: sigur talið á teimum sum hava svarað hvørjum einstakum spurningi. <em type="bold">(Sí t1.f2) </em>: merkir, at talan er um talvu nr.1 í fylgiskjali nr. 2; t2.f2 merkir talva 2 í fylgiskjali nr. 2, o.s.fr. <em type="bold">10 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">11 </em></p>
-<p>Granskingardepilin fyri økismenning1. Partur</p>
+<p><em type="bold">Teknfrágreiðing: </em><em type="bold">(N=) </em>: sigur talið á teimum sum hava svarað hvørjum einstakum spurningi. <em type="bold">(Sí t1.f2) </em>: merkir, at talan er um talvu nr.1 í fylgiskjali nr. 2; t2.f2 merkir talva 2 í fylgiskjali nr. 2, o.s.fr.1. Partur </p>
 <p><em type="bold">Ung, útbúgving og arbeiði </em></p>
 <p>Í hesum partinum seta vit kikaran á teir spurningar, ið lýsa, hvørji val ungdómurin hevur hug at gera í sambandi við útbúgvingar- og vinnuval, og hvat ið býr undir vali teirra. Hvørjum stremba tey ungu eftir, og hvørjar fyrimunir seta tey fram um aðrar?</p>
 <p>Hvat ætla tey at leggja dent á, tá ið tey skulu velja útbúgving og arbeiði.</p>
@@ -86,8 +74,7 @@
 <p>Als ikki</p>
 <p>Veit ikki</p>
 <p>Gevur betri vinnuligar møguleikar</p>
-<p><em type="bold">Hvørjar fyrimunir gevur ein útbúgving? </em><em type="bold">12 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p><em type="bold">Hvørjar fyrimunir gevur ein útbúgving? </em></p>
 <p><em type="bold">Fyrimunir við útbúgving </em></p>
 <p>Tey ungu meta, at útbúgving er lykilin til fram-tíðina. Hetta sæst við at hyggja at teimum fyri-munum, ið ungdómurin metir, at ein útbúgving ber við sær. Tey eru ikki í iva um, at talan er um eina røð av fyrimunum, hóast tey ikki eru á einum máli um, hvørjir fyrimunir eru størri enn aðrir.</p>
 <p>Raðfestingin millum tey ungu sæst á mynd 1.1.</p>
@@ -116,8 +103,7 @@
 <p>Als ikki</p>
 <p>Veit ikki</p>
 <p>At útbúgvingin er ein avbjóðing?</p>
-<p><em type="bold">Hvat ynskja tey ungu av einari útbúgving? </em><em type="bold">13 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p><em type="bold">Hvat ynskja tey ungu av einari útbúgving? </em></p>
 <p xml:lang="eng"><em type="bold">Mynd 1.3 </em></p>
 <p><em type="italic">Sp. Hvørji ynski hevur tú til títt framtíðarstarv? Um tú skuldi valt millum viðurskiftini niðanfyri, hvørji hevði tú </em><em type="italic">so raðfæst hægst? (Brúka tølini 1-5 til tínar raðfestingar - 1 fyri ynskið, tú setir fremst o.s.v.) </em>munandi minni undirtøku millum tey ungu. Og tað, sum hevur lægst undirtøku, er, at útbúgvingin er høgt í metum millum fólk. </p>
 <p>Tey ungu síggja sostatt útbúgvingina sum eina heilt persónliga verkætlan, sum ikki er so nógv tengd at, hvat onnur halda.</p>
@@ -145,8 +131,7 @@
 <p xml:lang="fra">Gentur</p>
 <p>Dreingir</p>
 <p xml:lang="isl"><em type="bold">Ynski til framtíðarstarv </em></p>
-<p xml:lang="kal">N=856 <em type="bold">14 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p xml:lang="kal">N=856</p>
 <p>Hvørja førleikagevandi útbúgving kunditú hugsað tær?</p>
 <p xml:lang="est">Tal Prosent</p>
 <p>Handil- og skrivstovuyrkið337,6%</p>
@@ -188,8 +173,7 @@
 <p>Á talvu 1.1 sæst, hvørjar útbúgvingar tey ætla sær at fara undir. Útbúgvingarnar eru flokkaðar upp í 28 ymisk øki, hetta fyri at geva eina so út-greinaða mynd sum gjørligt. Eitt eyðkenni fyri valini er, at tað serliga eru útbúgvingar, ið kunnu takast í Føroyum, ið tey flestu eru áhugað í, t.d. handils- og skrivstovuyrkið, námsfrøðingar, sjúk-rasystrar, útbúgvingar innan hár-, andlits- og kropsrøkt umframt skipara- og navigatørútbúgv-ingar.</p>
 <p>Samanbera vit við spurningin um, hvar tey ungu helst vilja arbeiða í framtíðini, sum nærum øll hava svarað, so er gott samsvar ímillum ynski um arbeiði og val av útbúgving.</p>
 <p xml:lang="isl"><em type="bold">Arbeiðs- og familjulív </em></p>
-<p>Kanningin vísir, at tey ungu eru ikki so samd um, hvussu tey vilja raðfesta arbeiði og familjulív, tá ið tey einaferð koma út á arbeiðsmarknaðin, sí mynd 1.4. Tey flestu vilja tó hava fastar arbeiðs-tíðir, so at bæði familjulívið og arbeiðslív kunnu leggjast í fastar karmar. Næst koma tey, sum ynskja stuttar arbeiðsdagar, so at nógv tíð verður til familjuna, og tey, sum vilja leggja arbeiðstíðina <em type="bold">15 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p>Kanningin vísir, at tey ungu eru ikki so samd um, hvussu tey vilja raðfesta arbeiði og familjulív, tá ið tey einaferð koma út á arbeiðsmarknaðin, sí mynd 1.4. Tey flestu vilja tó hava fastar arbeiðs-tíðir, so at bæði familjulívið og arbeiðslív kunnu leggjast í fastar karmar. Næst koma tey, sum ynskja stuttar arbeiðsdagar, so at nógv tíð verður til familjuna, og tey, sum vilja leggja arbeiðstíðina</p>
 <p xml:lang="eng"><em type="bold">Mynd 1.4 </em></p>
 <p><em type="italic">Sp. Hvussu vónar tú, at arbeiðstíðirnar hjá tær skulu vera, tá tú hevur fingið familju (børn)? </em>soleiðis til rættis, at tey sum foreldur kunnu vera heima. Leggja vit hesi bæði seinnu saman, eru tað rættiliga nógv (41 %) av teimum ungu, ið vilja raðfesta familjulívið ovarlaga. Serliga eru tað gentur, sum velja hesar loysnirnar, men áhuga-vert er, at dreingirnir eisini eru væl við. </p>
 <p>At vera sjálvstøðugt vinnurekandi hevur ikki høgan prioritet millum tey ungu, og heldur ikki tankin um, at familjulívið má laga seg eftir arbeið-unum. Samanlagt kann sostatt sigast, at familjan verður raðfest ovarlaga.</p>
@@ -210,8 +194,7 @@
 <p xml:lang="deu">Gentir</p>
 <p>Dreingir</p>
 <p><em type="bold">Hvussu vónar tú, at arbeiðstíðirnar hjá tær skulu </em><em type="bold">vera? </em></p>
-<p><em type="bold">Hvussu vónar tú, at arbeiðstíðirnar hjá tær skulu vera? </em><em type="bold">16 </em></p>
-<p>Granskingardepilin fyri økismenningkann grundast á, at næmingarnir eru skúlatroyttir í 9. flokki.</p>
+<p><em type="bold">Hvussu vónar tú, at arbeiðstíðirnar hjá tær skulu vera? </em>kann grundast á, at næmingarnir eru skúlatroyttir í 9. flokki. </p>
 <p>Sum heild trívast næmingarnir í miðnámsskúl-unum munandi betur enn teir, sum ganga í fólka-skúla (sí t6.f2). Orsøkin er helst tann, at tað serliga eru næmingar, sum trívast rímiliga væl í skúlanum, sum fara undir eina miðnámsskúlaútbúgving.</p>
 <p>Afturat hesum er tað eisini í størri mun teirra egna val.</p>
 <p>Hyggja vit at skúlaviðurskiftum annars, eitt nú karakterum, so er miðalkarakterurin hjá flest-um næmingum millum 8 og 9. Talið á teimum, sum liggja hægri enn hetta, er sera lítið, og gentur-nar fáa betri skoðsmál enn dreingirnir (sí t7.f2).</p>
@@ -260,7 +243,7 @@
 <p xml:lang="swe">Sera illa9%16%</p>
 <p><em type="bold">Áhugin hjá ungum fyri skúlagongd? </em></p>
 <p xml:lang="kal">N=879</p>
-<p>Her sæst, at føroyskur ungdómur á mangan hátt tekst við tey somu tingini, sum ungdómar aðrastaðni, tvs. sær teir somu filmarnar, áhugin fyri ítrótti o.s.fr. Í so máta eru tey vorðin <span type="quote" xml:lang="eng">“global”</span> í sínum frítíðarvali, meðan tey <span type="quote" xml:lang="fin">“lokalu”</span> ítrivini</p>
+<p>Her sæst, at føroyskur ungdómur á mangan hátt tekst við tey somu tingini, sum ungdómar aðrastaðni, tvs. sær teir somu filmarnar, áhugin fyri ítrótti o.s.fr. Í so máta eru tey vorðin <span type="quote" xml:lang="eng">“global”</span> í sínum frítíðarvali, meðan tey <span type="quote" xml:lang="olo">“lokalu”</span> ítrivini</p>
 <p><em type="bold">Hvat gera tey í frítíðini ? </em></p>
 <p xml:lang="fra">Gentur</p>
 <p>Dreingir</p>
@@ -277,8 +260,7 @@
 <p>Politiskt virksemi3%6%</p>
 <p xml:lang="est"><em type="bold">Talva 1.4 </em></p>
 <p>Sp. Hvørji frítíðarítriv íðkar tú javnan? (Tú kanst seta fleiri krossar)</p>
-<p xml:lang="kal">N=899 <em type="bold">17 </em></p>
-<p>Granskingardepilin fyri økismenning(t.d. útilív, fiska) ikki fáa so høga raðfesting.</p>
+<p>N=899(t.d. útilív, fiska) ikki fáa so høga raðfesting.</p>
 <p><em type="bold">Samleiki, hugburður og eginleikar </em></p>
 <p>Arbeiði og útbúgving hava alstóran týdning fyri samleikan hjá hvørjum einstøkum. Ofta er tað soleiðis, at fyrstu ferð, ein hittir eitt frem-mandafólk, verður ein spurdur: hvat gert tú? Ella: hvat ert tú?</p>
 <p>Krøvini til at skapa sín egna samleika eru økt nógv, so hvørt sum gongdin í samfelagnum hevur havt við sær, at fólk gerast leysari av gomlum normum, siðvenju og samfelagsligum bindingum.</p>
@@ -301,8 +283,7 @@
 <p xml:lang="kal">N=867</p>
 <p xml:lang="eng"><em type="bold">Mynd 1.6 </em></p>
 <p><em type="italic">Sp. Tá ið tú skal taka eina avgerð, hvat leggur tú </em><em type="italic">størstan dent á? </em></p>
-<p><em type="bold">Hvørjar fyrimunir gevur ein útbúgving? </em><em type="bold">18 </em></p>
-<p>Granskingardepilin fyri økismenningfegin taka avbjóðingar og hugkveikjandi møgu-leikar til sín – og at tey ungu leggja stóran dent á tað sosiala umhvørvið, sum t.d. samanhald, opin-leika og trúnað, og at <span type="quote">“tað skal vera stuttligt”</span>.</p>
+<p><em type="bold">Hvørjar fyrimunir gevur ein útbúgving? </em>fegin taka avbjóðingar og hugkveikjandi møgu-leikar til sín – og at tey ungu leggja stóran dent á tað sosiala umhvørvið, sum t.d. samanhald, opin-leika og trúnað, og at <span type="quote">“tað skal vera stuttligt”</span>. </p>
 <p><em type="bold">Bjartskygni og sjálvsálit </em></p>
 <p>Í svarunum hjá teimum ungu, m.a. um ynskini til útbúgving og arbeiði, kunnu vit staðfesta, at tey seta stór krøv til sín sjálvan og framtíðina. Menhóast hesi høgu krøvini, so metir væl oman fyri ein helvt av teimum, at tey fáa møguleika at arbeiða við tí, tey hava hug til (sí t8.f2). Hetta kann ikki annað enn tulkast sum bjartskygni. Tey eru bert nøkur fá, sum halda, at tað ikki er so sjálvsagt at røkka teimum málum, ið verða sett.</p>
 <p>Sum nevnt eru tey ungu rættiliga miðvís og hugsa nógv um framtíðina (sí t9.f2). Um helvtin av teimum siga, at tey í stóran mun hugsa um, hvat tey skulu gera í framtíðini, meðan meiri enn ein triðingur í ein ávísan mun hugsar um hetta.</p>
@@ -324,8 +305,7 @@
 <p>Hava sjálvsálit</p>
 <p>Tolsom við onnur</p>
 <p>Trúføst</p>
-<p><em type="bold">Hvørjar persónligar eginleikar seta tey ungu hægst? </em><em type="bold">19 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p><em type="bold">Hvørjar persónligar eginleikar seta tey ungu hægst? </em></p>
 <p xml:lang="eng"><em type="bold">Mynd 1.8 </em></p>
 <p><em type="italic">Sp. Hvørji krøv setur tú til samveru og samstarv við onnur? (Brúka tølini 1,2 og 3 til tínar raðfestingar - 1 fyri </em><em type="italic">kravið, tú setir fremst o.s.fr.) At tað er: </em></p>
 <p>N=766framtíðar starvið uppfylt í heimstaðnum, so vilja nógv fegin búseta seg har. Hetta setur uttan iva stór krøv til bæði arbeiðsmarknaðin og møguleikarnar hjá fólki at trívast í økinum.</p>
@@ -344,8 +324,7 @@
 <p xml:lang="eng">Trygt</p>
 <p xml:lang="nob">Merkt av samanhaldi</p>
 <p xml:lang="kal">Stuttligt</p>
-<p><em type="bold">Hvørji krøv seta tey ungu til samveru samstarv við onnur? </em><em type="bold">20 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p><em type="bold">Hvørji krøv seta tey ungu til samveru samstarv við onnur? </em></p>
 <p>Konufólk hava vanliga størri trupulleikar av teim-um keðiligu síðunum við at búgva á lutfalsligum smáum plássum, sum bæði bygdirnar og býirnir í Føroyum mugu sigast at vera. Eisini riggar bygdatilveran betur til mannfólk við tað, at fleiri arbeiðs- og frítíðaruppgávur eru til menn enn til konufólk (seyður, útróður v.m). Tá harumframt verður hugsað um, at konufólk í løntari vinnu arbeiða í tænastuvinnunum, og at tey mest áhuga-verdu av hesum størvum ofta eru á størri plássum, er støðan hjá konufólkunum ein serlig avbjóðing fyri økismenningina.</p>
 <p>Tá bústaðarvalið hjá ungdóminum í stóran mun er tengt at útbúgving og arbeiðsmarknaðinum, er tað avgerandi fyri vinnuna m.a. í útjaðaranum at føra seg fram í kappingini um at vera áhugaverd og fakliga nøktandi arbeiðspláss.</p>
 <p><em type="bold">Samanumtøka </em></p>
@@ -374,11 +353,8 @@
 <p xml:lang="eng"><em type="bold">Mynd 1.9 </em></p>
 <p><em type="italic">Sp. Ynskir tú at búseta teg í tínari heimbygd/ </em><em type="italic">heimbýi, tá ið tú ert (heilt) liðug/ur at útbúgva teg? </em></p>
 <p xml:lang="kal">N=884</p>
-<p xml:lang="kal">N=833 <em type="bold">21 </em></p>
-<p>Granskingardepilin fyri økismenningí arbeiðslívinum, sum eisini eru millum teirra ynski um eitt framtíðarstarv.</p>
-<p>Tey ungu eru bjartskygd, og hóast tey hugsa nógv um, hvat starv tey skulu hava í framtíðini, so eru tey rættiliga vís í, at tey sleppa at arbeiða við tí, tey helst vilja. Møguleikin at arbeiða í heimbygdini tykist ikki at vera nakað, sum verður raðfest høgt, tá ið ræður um, hvørja útbúgving, tey velja sær, harafturímóti hava tey ein ávísan áhuga í at búgva í heimbygdini eftir lokna út-búgving. Ungdómurin hugsar fyrst og fremst um at skapa sær sína egnu persónligu tilveru – atlitini til heimbygdina og tey samfelagsligu atlitini sum heild koma í aðru røð. Hetta merkir tó ikki tað sama, sum at tey ungu eru sjálvsøkin, men heldur at teirra samfelagsliga virksemi og atlit er undir broyting. <em type="bold">22 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">23 </em></p>
-<p>Granskingardepilin fyri økismenning2.partur</p>
+<p>N=833í arbeiðslívinum, sum eisini eru millum teirra ynski um eitt framtíðarstarv.</p>
+<p>Tey ungu eru bjartskygd, og hóast tey hugsa nógv um, hvat starv tey skulu hava í framtíðini, so eru tey rættiliga vís í, at tey sleppa at arbeiða við tí, tey helst vilja. Møguleikin at arbeiða í heimbygdini tykist ikki at vera nakað, sum verður raðfest høgt, tá ið ræður um, hvørja útbúgving, tey velja sær, harafturímóti hava tey ein ávísan áhuga í at búgva í heimbygdini eftir lokna út-búgving. Ungdómurin hugsar fyrst og fremst um at skapa sær sína egnu persónligu tilveru – atlitini til heimbygdina og tey samfelagsligu atlitini sum heild koma í aðru røð. Hetta merkir tó ikki tað sama, sum at tey ungu eru sjálvsøkin, men heldur at teirra samfelagsliga virksemi og atlit er undir broyting.2.partur</p>
 <p><em type="bold">Tey ungu og fiskivinnan </em></p>
 <p>Í hesum partinum fara vit at hyggja nærri at, hvar tey ungu helst vilja arbeiða, og serliga taka atlit til, hvat tey halda um fiski- og alivinnuna. Hava tey ungu roynt seg í fiskivinnuni, og hvussu hava tey trivist har, og halda tey, at eitt starv í fiskivinn-uni kann vera nakað fyri tey.</p>
 <p><em type="bold">Royndir og kunnleiki </em></p>
@@ -410,8 +386,7 @@
 <p>Fiskivinnan er framtíðarvinnaní Føroyumí stóran muní ávísan muní minni munals ikkiveit ikki</p>
 <p>Hetta er natúrligt, tí nógv fleiri størv eru í fiski-vinnuni. Tað er serliga á fiskavirkjunum, at nógv hava roynt seg (uml. 30%). Harumframt hava um-leið 20% egnt og líknandi, 12% hava verið til skips, og 7% hava róð út. Munandi færri hava roynt seg í alivinnuni – 2,4% hava arbeitt á kryvji-virki, 3% á alibrúki og 3,7% hava starvast á smolt-støð.</p>
 <p xml:lang="kal">N=844</p>
-<p xml:lang="kal">N=859 <em type="bold">24 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p xml:lang="kal">N=859</p>
 <p><em type="bold">Hvar vilja føroyskir ungdómar arbeiða? </em></p>
 <p>Hvørjar vinnur kunnu best liva upp til krøv og ynski hjá ungdóminum um framtíðar arbeiði, og hvar vilja tey helst arbeiða?</p>
 <p>Tær natúrligu bindingarnar at einum ávísum staði ella vinnu eru ikki til staðar longur. Orsøkir-nar eru, at samfelagsskipanin, sum vit nevna ídn-aðarsamfelagið, er í broyting. Í dag tosa vit um, at samfelagið er eitt postídnaðarsamfelag, har tey flestu fólkini arbeiða við persónsrættaðum tæn-astuvirksemi (t.d. læknar, lærarar, frisørar v.m.) ella sokallað <span type="quote">“symbolarbeiði”</span> (gransking, teldu-virksemi v.m.). Føroyar eru onki undantak í hesari gongdini. Ein ábending um, hvussu henda gongd-in ávirkar ungdómin og ynskini, ungdómurin hevur, fæst við at hyggja at mynd 2.2. Myndin vísir, hvar ungfólk ímynda sær, at tey helst vilja arbeiða í framtíðini. Næmingarnir vórðu bidnir um at velja tær tríggjar vinnurnar, har teir helst kundu hugsað sær at arbeitt. Tey fingu 21 møgu-leikar at velja ímillum.</p>
@@ -425,7 +400,7 @@
 <p xml:lang="isl">Landbúnaður</p>
 <p>Almen umsiting</p>
 <p xml:lang="isl">Ídnaðar- og framleiðsluvinna</p>
-<p xml:lang="isl">Alivinnan</p>
+<p xml:lang="olo">Alivinnan</p>
 <p xml:lang="isl">Flutningsvinnan</p>
 <p xml:lang="isl">Fiskivinnan á landi</p>
 <p>Banki/trygging</p>
@@ -447,8 +422,7 @@
 <p xml:lang="nno">Hotell/matstova/ferðavinna</p>
 <p>Verkfrøði/byggifrøði</p>
 <p xml:lang="isl">Almenn umsiting</p>
-<p><em type="bold">Hvar vilja tey ungu helst arbeiða? </em><em type="bold">25 </em></p>
-<p>Granskingardepilin fyri økismenningog fiskivinnan á landi (3,2 %). Tað eru sostatt lut-falsliga fá ung, sum hava hug at arbeiða innan ráevnis- og framleiðsluvinnurnar, harímillum eru alivinnan og fiskivinnan á landi.</p>
+<p><em type="bold">Hvar vilja tey ungu helst arbeiða? </em>og fiskivinnan á landi (3,2 %). Tað eru sostatt lut-falsliga fá ung, sum hava hug at arbeiða innan ráevnis- og framleiðsluvinnurnar, harímillum eru alivinnan og fiskivinnan á landi. </p>
 <p type="listitem">Ynskini hjá ungdóminum samsvara rættiliga væl við verandi vinnubýtið í Føroyum. Sum sagt vil ein stórur partur av teimum ungu helst sleppa at arbeiða innan tænastuvinnurnar. Og tað er eisini ein stórur partur av føroyingum, sum arbeiða í tænastuvinnunum. Vinnubýtið mált í løngjalding-um  var  soleiðis  í  2002  (Árbók  fyri  Føroyar 2003)</p>
 <p type="listitem">59,2%  av  samanløgdu  løngjaldingunum  í</p>
 <p type="listitem">Føroyum  vórðu  goldnar  til  starvsfólk  í tænastuvinnunum  (3.vinna)1  -  tilsamans  3. 563,6 mio.kr.</p>
@@ -459,12 +433,11 @@
 <p xml:lang="kal">N=483</p>
 <p><em type="bold">Mynd 2.3 </em>Sp. Sp.: Niðanfyri er ein listi við ymiskum vinnum. Innan hvørja vinnu kundi tú helst hugsað tær at arbeitt? (Brúka tølini 1,2 og 3 til tínar raðfestingar – 1 fyri tað tú best kundi hugsað tær, 2 fyri næstbest og 3 fyri triðbest. </p>
 <p><em type="bold">Nota 1: </em>1.vinna fevnir um vinnugreinarnar: Landbúnaður, Fiskiskapur, Ali- og kryvjivirki og Ráevnisvinna. 2.vinna fevnir um vinnugreinarnar: Fiska-vøruídnaður,Skipasmiðjur/smiðjur, Framleiðsla annars, Bygging, Orkuveiting. 3.vinna fevnir um vinnugreinarnar: Handil og umvæling, Gisting og matstovur, </p>
-<p xml:lang="isl">Sjóflutningur, Flutningur annars, Postur, fjarskifti, Fígging og trygging, Vinnuligar tænastur, Húshaldstænastur, Almenn fyrisiting o.a., Undirvísing, Heilsu- &amp; almannaverk, Felagsskapir.</p>
 <p><em type="bold">Hvar vilja føroyskar gentur helst arbeiða? </em>10,1%24,6%0,2%1,4%1,4%1,7%2,1%2,1%2,7%2,9%3,1%8,3%8,9%9,1%10,8%12,4%13,3%17,2%19,9%21,5%21,9%29,2%36,2%0,0%5,0%10,0%15,0%20,0%25,0%30,0%35,0%40,0% </p>
 <p>Veit ikki</p>
 <p xml:lang="isl">Annað</p>
 <p xml:lang="isl">Flutningsvinnan</p>
-<p xml:lang="isl">Alivinnan</p>
+<p xml:lang="olo">Alivinnan</p>
 <p xml:lang="isl">Ídnaðar- og framleiðsluvinna</p>
 <p xml:lang="isl">Fiskivinnan á landi</p>
 <p>KT-vinna</p>
@@ -489,8 +462,7 @@
 <p xml:lang="isl">Grafikk/lýsingar</p>
 <p>Verkfrøði/byggifrøði</p>
 <p xml:lang="isl">Almenn umsiting</p>
-<p><em type="bold">Hvar vilja føroyskar gentur helst arbeiða? </em><em type="bold">26 </em></p>
-<p>Granskingardepilin fyri økismenningtil kvinnur. Innan vinnuna skipasmiðjur, smiðjur vórðu 93% av lønunum útgoldnar til menn og 7% til kvinnur. Hinvegin eru kvinnurnar í stórum meiriluta innan vinnugreinirnar heilsu og almanna-verk – har vórðu 81% av lønunum goldnar til kvinnur og 19 % til menn (Árbók fyri Føroyar, 2003).</p>
+<p><em type="bold">Hvar vilja føroyskar gentur helst arbeiða? </em>til kvinnur. Innan vinnuna skipasmiðjur, smiðjur vórðu 93% av lønunum útgoldnar til menn og 7% til kvinnur. Hinvegin eru kvinnurnar í stórum meiriluta innan vinnugreinirnar heilsu og almanna-verk – har vórðu 81% av lønunum goldnar til kvinnur og 19 % til menn (Árbók fyri Føroyar, 2003). </p>
 <p><em type="bold">Hvar vilja føroyskar gentur arbeiða? </em></p>
 <p>Tá ið vit viðgera spurningin um, hvar føroyski ungdómurin best kundi hugsað sær at arbeitt, ber ikki til at viðgera ungdómin undir einum. Kvinnur arbeiða fyrst og fremst innan tænastuvinnurnar.</p>
 <p>Í 2002 vórðu heili 83% av lønunum útgoldnar til kvinnur, goldnar innan tænastuvinnurnar, meðan 14% vórðu goldnar innan framleiðsluvinnurnar og einans 3% innan ráevnisvinnurnar (Árbók fyri</p>
@@ -507,7 +479,7 @@
 <p>Heilsu- og almannaøkið</p>
 <p xml:lang="isl">Landbúnaður</p>
 <p xml:lang="isl">Ídnaðar- og framleiðsluvinna</p>
-<p xml:lang="isl">Alivinnan</p>
+<p xml:lang="olo">Alivinnan</p>
 <p xml:lang="isl">Fiskivinnan á landi</p>
 <p>Hotel/matstova/ferðavinna</p>
 <p>Banki/trygging</p>
@@ -527,8 +499,7 @@
 <p>Verkfrøði/byggifrøði</p>
 <p xml:lang="nno">Hotell/matstova/ferðavinna</p>
 <p xml:lang="isl">Almenn umsiting</p>
-<p><em type="bold">Hvar vilja føroyskir dreingir helst arbeiða? </em><em type="bold">27 </em></p>
-<p>Granskingardepilin fyri økismenningkonufólk í fiskivinnuni á landi. Í 2001 arbeiddu meir enn 1200 konufólk í fiskivinnuni á landi (sambært fiskavirkisskipanini hjá ALS). Hóast hetta, so eru tað færri enn 2% av gentunum, sum hava svarað, at tær kundu hugsað sær at arbeitt í fiskivinnuni á landi.</p>
+<p><em type="bold">Hvar vilja føroyskir dreingir helst arbeiða? </em>konufólk í fiskivinnuni á landi. Í 2001 arbeiddu meir enn 1200 konufólk í fiskivinnuni á landi (sambært fiskavirkisskipanini hjá ALS). Hóast hetta, so eru tað færri enn 2% av gentunum, sum hava svarað, at tær kundu hugsað sær at arbeitt í fiskivinnuni á landi. </p>
 <p>Nógv fiskavirkir á landi hava seinnu árini havt trupulleikar við at fáa nóg mikið av starvs-fólki. Henda kanningin stuðlar undir hesum, tí fiskivinna á landi er millum tær vinnur, har fæstar gentur hava áhuga fyri at arbeiða. Viðmerkjast kann í hesum sambandi, at bert fá konufólk hava leiðarastørv í fiskivinnuni á landi – størv, sum undir øllum umstøðum eru meiri lokkandi, tá ið tað kemur til løn og arbeiðsuppgávur. Hetta hevur við sær, at fáar kvinnuligar fyrimyndir eru hjá gentum, tá ið tað kemur til góð størv í fiskivinnu-ni.</p>
 <p>Eisini alivinnan er millum tær vinnur, har fæstar gentur kundu hugsað sær at arbeitt (1,4%).</p>
 <p>Hetta er eisini ein vinna, har ein stórur meiriluti av starvsfólkunum eru mannfólk. Í 2002 vóru 80 % av lønunum útgoldnar til mannfólk, meðan einans 20% vórðu goldnar til konufólk (Árbók fyri Føroyar 2003).</p>
@@ -569,8 +540,7 @@
 <p><em type="bold">Hvar í alivinnuni kundi tú helst hugsað </em><em type="bold">tær at arbeitt? </em></p>
 <p><em type="bold">Hvar í fiskivinnuni á landi kundu tey ungu helst </em><em type="bold">hugsað sær at arbeitt? </em></p>
 <p><em type="bold">Hvørji størv innan fiskiskap kundu tey ungu helst </em><em type="bold">hugsað sær? </em></p>
-<p><em type="bold">Hvørji størv í alivinnuni kundu tey ungu helst </em><em type="bold">hugsa sær? </em><em type="bold">28 </em></p>
-<p>Granskingardepilin fyri økismenninghava eisini verið fleiri føroyingar, sum hava arbeitt sum fulltíðar ítróttarfólk. Sostatt er møgu-leikin fyri at arbeiða innan ítrótt vorðin ein meiri veruleikakendur møguleiki hjá føroyskum ung-fólki, samanborið við t.d. fyri 10-15 árum síðani.</p>
+<p><em type="bold">Hvørji størv í alivinnuni kundu tey ungu helst </em><em type="bold">hugsa sær? </em>hava eisini verið fleiri føroyingar, sum hava arbeitt sum fulltíðar ítróttarfólk. Sostatt er møgu-leikin fyri at arbeiða innan ítrótt vorðin ein meiri veruleikakendur møguleiki hjá føroyskum ung-fólki, samanborið við t.d. fyri 10-15 árum síðani. </p>
 <p>Tað er vert at leggja til merkis, at tað eru munandi færri gentur, sum halda tað vera lokkandi at hava ítrótt sum starv.</p>
 <p><em type="bold">Hvørji størv í fiskivinnuni eru mest </em><em type="bold">áhugaverd? </em></p>
 <p>Í kanningini varð spurt, hvat tey helst høvdu valt, um tey skuldu arbeitt í fiskivinnuni, sí mynd 2.5 a, b og c. Sum vit hava sæð frammanfyri, hava nógv av teimum ungu ongar beinleiðis ætlanir um at arbeiða í ali- og fiskivinnuni. Men myndin gevur hóast tað ábendingar um, hvørji størv verða mett at vera tey bestu og mest lokkandi.</p>
@@ -597,8 +567,7 @@
 <p xml:lang="smj">Illa</p>
 <p xml:lang="swe">Sera illa</p>
 <p>Veit ikki</p>
-<p><em type="bold">Hvussu hava tey ungu trivist í fiskivinnuni? </em><em type="bold">29 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p><em type="bold">Hvussu hava tey ungu trivist í fiskivinnuni? </em></p>
 <p>Á mynd 2.6 sæst, at ein stórur meiriluti av teimum, sum hava roynt seg í fiskivinnuni – út ímóti 80% – hava dámt nøkulunda ella gott tað arbeiðið, tey høvdu. Umleið fimti hvør hevði ring-ar royndir.</p>
 <p>Allarflestu dreingir tykjast at trívast væl í fiski-vinnuni. Næstan 85% av dreingjunum hava havt tað nøkulunda ella gott, og einans 15% hava trivist illa. Hetta má sigast at vera rættiliga positivt, og átti at verið eitt gott grundarlag hjá vinnuni at bygt víðari á.</p>
 <p>Hinvegin er støðan ein heilt onnur, tá tað kem-ur til genturnar. Tað eru nevniliga nógv færri gent-ur, sum hava trivist væl í fiskivinnuni. Meðan meiri enn helvtin av dreingjum siga, at teir trivust væl í fiskivinnuni, so er tað einans fjórða hvør genta, ið hevur positivar royndir. Og meðan tað eru 15% av dreingjunum, sum hava trivist illa, so eru tað 27% av gentunum.</p>
@@ -625,8 +594,7 @@
 <p xml:lang="smj">Illa</p>
 <p xml:lang="swe">Sera illa</p>
 <p>Veit ikki</p>
-<p><em type="bold">Hvussu hava tey ungu trivist ymsastaðni í fiskivinnuni? </em><em type="bold">30 </em></p>
-<p>Granskingardepilin fyri økismenningsæst, at tey ungu hava trivist best á sjónum, meðan tey hava trivist ringast á fiskavirkjunum. Millum tey ungfólkini, sum hava róð út, siga meir enn 70% av teimum, at teimum hevur dámt sera væl (43%) ella væl (38%), og ongin sigur seg hava trivist illa. Eisini ein stórur partur av teimum, sum hava verið til skips, hava havt góðar royndir av tí - 38% dámdu sera væl, meðan 25% dámdu væl. Gott og væl tíggjundi hvør hevur ringar royndir av at vera til skips. Tað eru eisini nógv av teimum, sum hava arbeitt á alibrúkum, ið hava trivist væl. Meir enn 80% láta væl at (35% sera væl, og 31% væl).</p>
+<p><em type="bold">Hvussu hava tey ungu trivist ymsastaðni í fiskivinnuni? </em>sæst, at tey ungu hava trivist best á sjónum, meðan tey hava trivist ringast á fiskavirkjunum. Millum tey ungfólkini, sum hava róð út, siga meir enn 70% av teimum, at teimum hevur dámt sera væl (43%) ella væl (38%), og ongin sigur seg hava trivist illa. Eisini ein stórur partur av teimum, sum hava verið til skips, hava havt góðar royndir av tí - 38% dámdu sera væl, meðan 25% dámdu væl. Gott og væl tíggjundi hvør hevur ringar royndir av at vera til skips. Tað eru eisini nógv av teimum, sum hava arbeitt á alibrúkum, ið hava trivist væl. Meir enn 80% láta væl at (35% sera væl, og 31% væl). </p>
 <p>Tann vinnugreinin, har tey flestu ungu hava roynt seg, er á fiskavirkjunum. Hetta er eisini tann vinnugreinin, har tey ungu hava trivist ring-ast. Her eru tey munandi færri, sum hava trivist væl – einans 31%. Nógv siga , at teimum hevur dámt arbeiðið nøkulunda (43%), men um fjórði hvør (26%) sigur, at sær hevur beinleiðis dámt illa.</p>
 <p>Viðvíkjandi skipabólkunum, sum hava størst áhuga millum ungdómin, liggja trolarar undir</p>
 <p>Føroyum fremst, síðani koma langfaratrolararnir.</p>
@@ -645,7 +613,7 @@
 <p xml:lang="kal">Garnaskipi</p>
 <p xml:lang="isl">Útróðrarbáti</p>
 <p xml:lang="kal">Nótaskipi</p>
-<p xml:lang="est">Línuskipi</p>
+<p xml:lang="olo">Línuskipi</p>
 <p xml:lang="rmy-rlo">Langfaratrolara</p>
 <p>Trolara undir Føroyum</p>
 <p><em type="bold">Hvørjum skipabólki kundi tú hugsað tær </em><em type="bold">at farið við </em></p>
@@ -657,8 +625,7 @@
 <p xml:lang="isl">Í minni mun</p>
 <p>Als ikki</p>
 <p>Veit ikki</p>
-<p><em type="bold">Fiskivinnan kann geva góða løn og fakligar avbjóðingar </em><em type="bold">31 </em></p>
-<p>Granskingardepilin fyri økismenningum ungu hava positivar royndir av at vera til skips ella útróðrar, kann eisini vera, at fiskiskapur hevur høgan status millum dreingir.</p>
+<p><em type="bold">Fiskivinnan kann geva góða løn og fakligar avbjóðingar </em>um ungu hava positivar royndir av at vera til skips ella útróðrar, kann eisini vera, at fiskiskapur hevur høgan status millum dreingir. </p>
 <p><em type="bold">Fiskivinnan og ynskini hjá ungdóminum </em></p>
 <p>Sum vit longu hava nevnt, eru tey mest útbreiddu ynskini til framtíðarstarvið hjá ungdóminum, at starvið gevur góða løn, spennandi avbjóðingar, at tað passar til teirra evni og førleika, og at passa-ligt býti er millum arbeiði og frítíð. Ongin orsøk er at halda, at størv – t.d. leiðara- og millumleiðara-størv í fiskivinnuni – ikki kunnu liva upp til hesi krøv, tvørturímóti. Men hvat heldur ungdómurin um fiskivinnuna?</p>
 <p>Góð inntøka vóru tey viðurskifti, sum flest ung tóku undir við, tá ið tey skuldu siga, hvat tey løgdu størstan dentin á, tá tey skuldu velja sær útbúgving og arbeiði. Í mynd 2.8 sæst, at ein stór-ur meiriluti, 81% , tekur undir við, at fiskivinnan gevur møguleikar fyri góðari inntøku. Ein mun-andi partur ynskir eisini, at teirra framtíðarstarv gevur teimum spennandi og krevjandi avbjóð-ingar. Í somu mynd sæst, at umleið helvtin heldur, at tað í stóran ella í ávísan mun ber til at fáa hesar avbjóðingar í fiskivinnuni. Hinvegin er tó meir enn ein triðingur, sum er heilt ósamdur í hesum sjónarmiði, og bert í minni mun ella als ikki held-ur, at fiskivinnan kann geva teimum fakligar av-bjóðingar. Eisini í hesum føri eru dreingirnir meiri positivir mótvegis teimum møguleikum, sum eru í fiskivinnuni. Væl fleiri dreingir enn gentur halda, at fiskivinnan kann geva fakligar avbjóð-ingar og góða inntøku.</p>
@@ -679,8 +646,7 @@
 <p xml:lang="smj">Illa</p>
 <p>Veit ikki</p>
 <p>Hampiliga væl</p>
-<p><em type="bold">Kann fiskivinnan liva upp til krøvini? </em><em type="bold">32 </em></p>
-<p>Granskingardepilin fyri økismenningfiskivinnan kann liva upp til teirra krøv, sí mynd 2.10. Nógvar orsøkir kunnu vera til hetta. Fyri tað fyrsta kann tað hugsast at vera ringt hjá teim-um flestu at siga akkurát, hvat tey ynskja sær av sínum framtíðarstarvi. Eisini kann tað hugsast, at summi halda, at fiskivinnan kann liva upp til nøk-ur av teirra ynskjum, men ikki til onnur. Harum-framt kann vantandi kunnleiki til hesa vinnuna vera ein orsøk.</p>
+<p><em type="bold">Kann fiskivinnan liva upp til krøvini? </em>fiskivinnan kann liva upp til teirra krøv, sí mynd 2.10. Nógvar orsøkir kunnu vera til hetta. Fyri tað fyrsta kann tað hugsast at vera ringt hjá teim-um flestu at siga akkurát, hvat tey ynskja sær av sínum framtíðarstarvi. Eisini kann tað hugsast, at summi halda, at fiskivinnan kann liva upp til nøk-ur av teirra ynskjum, men ikki til onnur. Harum-framt kann vantandi kunnleiki til hesa vinnuna vera ein orsøk. </p>
 <p xml:lang="fin"><em type="bold">Ávirkan </em></p>
 <p>Eyðvitað verða ungfólk ávirkað av umhvørvi-num, heimi, vinum og skúla, í øllum lívsins viður-skiftum, og tí eisini, tá ið tey skulu velja útbúgving og starv. Í kanningini hava vit tí spurt næming-arnar, um tey verða eggjað til fiskivinnu sum eitt møguligt lívsstarv, sí mynd 2.11. Upp á henda spurning svaraðu 20% av dreingjunum og 7% av gentunum, at tey vóru eggjað til tess. Tey, sum høvdu eggjað teimum vóru í flestu førum pápar, abbar ella onnur í familjuni.</p>
 <p>Tølini vísa eisini, at tað bara er ein avmarkaður partur (14%) av teimum ungu, sum halda, at tey læra nógv um fiskivinnu í skúlanum. Harafturímóti eru sera nógv, sum halda, at tey læra í minna lagi ella einki (83%), sí mynd 2.12.</p>
@@ -709,12 +675,9 @@
 <p xml:lang="nno">Nei</p>
 <p><em type="bold">Verða tey ungu eggjað til at gera fiskivinnu til </em><em type="bold">sítt lívsstarv? </em>tey hava eitt forstáilsi fyri, hvat tað merkir at búleikast í einum fiskivinnusamfelag. </p>
 <p>Sera stórur munur er á, hvar ávikavist gentur og dreingir hava hug at arbeiða. Hóast tey ungu sum heild eru positiv mótvegis fiskivinnuni, eru tað serliga tænastuvinnurnar, sum hava størstan áhuga sum starvsøki. Hetta er serliga galdandi fyri genturnar, ið einamest hava áhuga fyri tæn-astuvinnum, sum frisørar, heilsu- og almannaøkið og líknandi. Bert fáar gentur siga seg at vera áhugaðar at fáa starv innan fiskivinnuna. Millum dreingir er áhugin heilt øðrvísi. Tann vinnan, har flestir dreingir siga seg kunna hugsað sær at starv-ast, er innan fiskiskap - so eftir øllum at døma</p>
-<p><em type="bold">Hvussu nógv meta tey ungu at tey læra um </em><em type="bold">fiskivinnu í skúlanum? </em><em type="bold">33 </em></p>
-<p>Granskingardepilin fyri økismenningverður tað ikki nakar trupulleiki at manna før-oyska fiskiflotan í framtíðini. Næstbest vælum-tókta vinnan millum dreingir var handverk og bygging. Av øðrum vinnum, er m.a. tónleikur og list ovarlaga á ynskilistanum. Hinvegin liggur fiskivinnan á landi rættiliga langt niðri á listanum yvir vinnur, har flest ung hav hug at arbeiða.</p>
+<p><em type="bold">Hvussu nógv meta tey ungu at tey læra um </em><em type="bold">fiskivinnu í skúlanum? </em>verður tað ikki nakar trupulleiki at manna før-oyska fiskiflotan í framtíðini. Næstbest vælum-tókta vinnan millum dreingir var handverk og bygging. Av øðrum vinnum, er m.a. tónleikur og list ovarlaga á ynskilistanum. Hinvegin liggur fiskivinnan á landi rættiliga langt niðri á listanum yvir vinnur, har flest ung hav hug at arbeiða. </p>
 <p>Ein munandi partur av teimum ungu, sum hava arbeitt innan fiskivinnuna hava positivar royndir. Men stórur munur er á, hvussu ávikavist gentur og dreingir hava trivist. Dreingir flest hava trivist væl, meðan ein størri partur av gentunum ikki hava eins góðar royndir. Vert er at leggja til merkis, at tey sum hava roynt seg í fiskivinnuni eru munandi meiri positiv fyri at fiskivinnan kann liva upp til ynskini, tey hava til teirra framtíðarstarv, tá borið verður saman við tey, sum ikki hava roynt seg í hesari vinnuni.</p>
-<p>Føroyskur ungdómur metir ikki, at hann fær nóg hollan kunnleika til fiskivinnu í skúlunum, og fleiri eru eisini í iva, um tey vita nóg nógv um fiskivinnuna til at gera av, um hon kann vera áhugaverd sum framtíðar arbeiðspláss. <em type="bold">34 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">35 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p>Føroyskur ungdómur metir ikki, at hann fær nóg hollan kunnleika til fiskivinnu í skúlunum, og fleiri eru eisini í iva, um tey vita nóg nógv um fiskivinnuna til at gera av, um hon kann vera áhugaverd sum framtíðar arbeiðspláss.</p>
 <p><em type="bold">Niðurstøður </em></p>
 <p>Í hesari frágreiðingini hava vit viðgjørt spurningin um, hvørjar vónir ungdómurin hevur til framtíðina, tá ið tað snýr seg um útbúgvingar- og vinnuval, og serliga knýtt hetta at spurninginum um rekrut-tering til fiskivinnuna. Í hesum partinum verður tikið samanum úrslitini av kanningini, umframt at viðgjørt verður, hvat hesi úrslit kunnu merkja fyri føroysku fiskivinnuna og hennara fortreytir fyri at fáa starvsfólk í framtíðini.</p>
 <p>Ein greið niðurstøða í kanningini er, at tey ungu velja sær útbúgvingarvegin, og at tey síggja útbúgving sum tann týdningarmesta mátan at skapa sær eina trygga framtíð. Næstan øll tey ungu ætla at fáa sær eina útbúgving, og tey hava rættiliga stórar vónir til, at tað loysir seg. Tey ungu meta, at útbúgving kann geva teimum eina røð av fyrimunum, so sum betri møguleikar at sleppa at arbeiða við tí, tey hava hug til, betri vinnuligar møguleikar og størri ávirkan á egið arbeiði. Við øðrum orðum kann sigast, at útbúgv-ing verður sæð sum vegurin til tað góða lívið. Tá tey skulu taka avgerð um, hvørja útbúgving, tey skulu fáa sær, og hvat tey ynskja av framtíðar-starvi sínum, eru tað teir persónligu fyrimunirnir, sum tey leggja dent á – at tey fáa góða løn og viðkomandi avbjóðingar. Tey meiri samfelagsligu atlitini, sum at útbúgvingin er týdningarmikil fyri samfelagið, og at útbúgvingin gevur teimum møguleikar at arbeiða í heimbygdini, verða hin-vegin raðfest lægst. Hetta nýtist ikki at merkja tað, at tey ungu einans eru sjálvsøkin, men heldur tað, at teirra samfelagsligu atlit eru nøkur heilt onnur enn tey, sum eldra ættarliðið hevur lagt dent á.</p>
@@ -723,8 +686,7 @@
 <p>Tað er vert at leggja til merkis, at munandi fleiri av teimum, sum hava roynt seg í fiski- og alivinnuni, halda, at fiskivinnan kann liva upp til teirra krøv og ynski til framtíðarstarv, samanborið við tey, ið ikki hava roynt at arbeiða innan hesar vinnur. Hetta er enn ein orsøk til, at tað er týdn-ingarmikið, at ungfólk framhaldandi eiga at fáa møguleikan at arbeiða í fiski- og alivinnuni t.d. í summarfrítíðini.</p>
 <p>Hóast fiskivinnan ikki er fremmand fyri teim-um ungu, vóru tey bara 40%, sum hildu seg vita nóg mikið til at kunna gera av, um fiskivinnan var áhugaverd sum arbeiðspláss fyri tey, meðan 46% av teimum ungu ikki hildu seg hava ta neyð-ugu vitanina. Tey ungu meta heldur ikki, at tey læra serliga nógv um fiskivinnu í skúlanum. Næst-an 85% siga, at tey læra lítið og einki um fiski-vinnu í skúlanum, meðan einans góð 15% siga seg læra nógv.</p>
 <p><em type="bold">Fiskivinna og økismenning </em></p>
-<p>Umframt, at fiskivinnan má liva upp til krøvini, ungfólk hava til starv sítt, so hevur staðið, har virkið er, eisini avgerandi týdning fyri, hvørt ungfólk velja at starvast innan eina vinnu. Sam-stundis eru flestu økini í Føroyum rættiliga knýtt at gongdini í fiskivinnuni - bæði búskaparliga og sosialt. Tí hevur tað týdning at vita, hvønn hug- <em type="bold">36 </em></p>
-<p>Granskingardepilin fyri økismenningburð ungdómurin hevur til at vera búsitandi í heimbygdini, ella at venda aftur eftir lokna útbúgving.</p>
+<p>Umframt, at fiskivinnan má liva upp til krøvini, ungfólk hava til starv sítt, so hevur staðið, har virkið er, eisini avgerandi týdning fyri, hvørt ungfólk velja at starvast innan eina vinnu. Sam-stundis eru flestu økini í Føroyum rættiliga knýtt at gongdini í fiskivinnuni - bæði búskaparliga og sosialt. Tí hevur tað týdning at vita, hvønn hug-burð ungdómurin hevur til at vera búsitandi í heimbygdini, ella at venda aftur eftir lokna útbúgving.</p>
 <p>Umleið ein triðingur av føroyska ungdóminum ivast, hvar hann ella hon vil seta búgv, tá tey eru liðug við útbúgvingina. Hetta er galdandi fyri tey ungu um alt landið – tað vil siga, at eisini í teimum størru plássunum eru tey nógv, sum ivast í spurn-inginum um, hvørt tey kundu hugsað sær at búð í heimbygdini eftir tað, at tey hava nomið sær útbúgving. Tað, at so nógv ivast í, hvar tey vilja búgva, undirstrikar, at Føroyar eru í einari støðug-ari kapping við útheimin um at fáa ungfólk at búsetast í Føroyum. Hetta er ongin nýggj støða, tí í nógv ár hevur tað – sum heild – verið soleiðis, at fleiri fólk eru flutt úr Føroyum enn til Føroya.</p>
 <p>Vitanin um, hvat hendir aðrastaðni, hevur tó ongantíð verið størri enn í dag. Fólk ferðast nógv og fáa dagliga vitan um, hvat fyriferst rundan um okkum gjøgnum sjónvarp, útvarp og alnet. Hetta er sostatt ein gongd, sum vindur uppá seg, og tí av serstakliga stórum týdningi hjá vinnu og mynd-ugleikum at fyrihalda seg til.</p>
 <p>Meir enn ein triðingur av øllum gentunum í kanningini siga, at tær ynskja at búgva í útlondum eftir tað, at tær eru lidnar at útbúgva seg. Hetta kann takast sum eitt tekin til føroyska samfelagið um, at tað er ikki nóg áhugavert fyri ein munandi part av føroyskum konufólkum at vera her. Tað verður ofta ført fram, at t.d. bygdatilveran riggar betur til mannfólk við tað, at fleiri arbeiðsuppgávur eru til menn meir enn til konufólk. Meginparturin av konufólkunum ynskja sær eisini starv í tænastu-vinnunum, og hesi størvini eru nú einaferð fyrst og fremst á størru plássunum, serliga í Havn.</p>
@@ -743,8 +705,7 @@
 <p type="listitem">At eg havi dámligar starvsfelagar</p>
 <p type="listitem">At passaligt býti er millum arbeiði og frítíð/familjulív</p>
 <p type="listitem">At arbeiðið er fjølbroytt</p>
-<p>Hjá virkjunum ræður sostatt um at seta røttu fólk-ini til røttu størvini, at birta uppundir gott sosialt umhvørvi, og annars at leggja starvsfólkapolit-ikkin soleiðis til rættis, at til ber hjá starvsfólkunum at fáa arbeiðs- og familjulív at sampakka. Alt <em type="bold">37 </em></p>
-<p>Granskingardepilin fyri økismenninghetta eru viðurskifti, sum lutvíst kunnu verða av-gjørd innanhýsis hjá einstøku fyritøkuni. Tað merkir, at um tann einstaka fyritøkan hevur møguleikan og er til reiðar at leggja arbeiðs-gongdirnar til rættis í mun til ynskini hjá starvs-fólkunum, átti tað at borið væl til at livað upp til tey krøv / ynski, sum ungdómurin setur.</p>
+<p>Hjá virkjunum ræður sostatt um at seta røttu fólk-ini til røttu størvini, at birta uppundir gott sosialt umhvørvi, og annars at leggja starvsfólkapolit-ikkin soleiðis til rættis, at til ber hjá starvsfólkunum at fáa arbeiðs- og familjulív at sampakka. Alt hetta eru viðurskifti, sum lutvíst kunnu verða av-gjørd innanhýsis hjá einstøku fyritøkuni. Tað merkir, at um tann einstaka fyritøkan hevur møguleikan og er til reiðar at leggja arbeiðs-gongdirnar til rættis í mun til ynskini hjá starvs-fólkunum, átti tað at borið væl til at livað upp til tey krøv / ynski, sum ungdómurin setur.</p>
 <p>Fortreytirnar hjá ymsu vinnunum fyri at megna at gera seg áhugaverdar millum ungfólk - og onnur starvsfólk - eru rættiliga ymiskar. Talan kann m.a. vera um, at tøkni, úrdráttir og framleiðslu-gongdir seta avmarkingar fyri, hvussu lætt tað er at gera nakað, ið veruliga munar við nevndu viðurskifti – t.d. á flakavirkjunum. Tað eru eisini nógv føroysk virki, sum miðvíst arbeiða við at betra umstøðurnar, t.d. gjøgnum íløgur í nýggja framleiðslutøkni, ið er meiri høglig fyri starvs-fólkini. Og okkurt virki hevur gjørt avtalu við fysioterapeut um at mýkja vøddarnar á starvsfólk-unum, umframt aðrar ábøtur og ágóðar.</p>
 <p xml:lang="est"><em type="bold">Tilmæli </em></p>
 <p type="listitem">At enda skulu vit, við støði í teimum úrslitum henda frágreiðingin hevur tikið fram, koma við nøkrum almennum tilmælum, sum greitt fara at vera við til at styrkja rekrutteringina til framtíðar føroysku fiskivinnuna, og møguliga gera fiskivinnuna áhugaverdari fyri ungfólk.</p>
@@ -754,9 +715,7 @@
 <p type="listitem">Fiskivinnan eigur at skipa so fyri, at børn og ung í størri mun fáa høvi at <span type="quote">“uppliva”</span> umhvør-við í fiskivinnuni - sleppa inn á virkini, um borð á skip og annars fáa innlit í, hvat fiski-vinnan hevur at bjóða.</p>
 <p type="listitem">Tað er neyðugt í størri mun at skapa eitt javnari kynsbýti í fiskivinnuni. Kvinnum eigur í størri mun enn nú at standa í boði aðrar uppgávur enn tær traditionellu ófaklærdu uppgávurnar.</p>
 <p type="listitem">Rekruttering av kvinnum verður í framtíðini nógv tengd at, hvussu avbjóðandi og áhugaverd fiskavirkini kunnu gerast sum arbeiðspláss.</p>
-<p type="listitem">Fiskivinnan  gerst  alsamt  meira  ein  vitanar-vinna. Hetta gevur vinnuni møguleika at út-vega sær fólk við millum- og hægri útbúgv-ingum. Men hetta krevur, at fiskivinnan í størri mun kunnar ungfólk og lesandi um tey fakliga avbjóðandi størvini, sum eru í hesi vinnu. 38</p>
-<p>Granskingardepilin fyri økismenning <em type="bold">39 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p type="listitem">Fiskivinnan  gerst  alsamt  meira  ein  vitanar-vinna. Hetta gevur vinnuni møguleika at út-vega sær fólk við millum- og hægri útbúgv-ingum. Men hetta krevur, at fiskivinnan í størri mun kunnar ungfólk og lesandi um tey fakliga avbjóðandi størvini, sum eru í hesi vinnu.</p>
 <p xml:lang="est">Keldulisti</p>
 <p xml:lang="nob">Arbo, P. (1997) Høyere utdanning i Nord-Norge - En drivkraft for utvikling eller avfolking av landsdelen?” Universitetet i Tromsø.</p>
 <p xml:lang="eng">Elstad, Å. (1999) Changing labour roles in north</p>
@@ -797,11 +756,9 @@
 <p xml:lang="eng">Soininen, A. (2000) ”Living in the North Or</p>
 <p xml:lang="eng">Moving to the South – Young people And Their</p>
 <p xml:lang="eng">Future Plans”. Paper presented in Nordic Youth</p>
-<p xml:lang="fin">Researsh Symposium 2000. Helsinki. <em type="bold">40 </em></p>
-<p>Granskingardepilin fyri økismenning <em type="bold">41 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p xml:lang="fin">Researsh Symposium 2000. Helsinki.</p>
 <p xml:lang="nno">Fylgiskjøl</p>
-<p xml:lang="isl"><em type="bold">Fylgiskjal 1. </em></p>
+<p xml:lang="olo"><em type="bold">Fylgiskjal 1. </em></p>
 <p><em type="bold">Framferðarháttur </em></p>
 <p>Henda kanning er ein spurnablaðskanning, sum er gjørd millum føroyska ungdómin. Kanningin byggir á spurnabløð, sum hava verið býtt út mill-um næstan 1000 næmingar í føroyska útbúgv-ingarverkinum. Hetta vóru teir næmingarnar, sum í januar 2003 gingu í 9. flokki í føroyska fólka-skúlanum, eins og teir næmingar, sum tá gingu seinasta árið í miðnámsskúlunum. Hesi ungfólkini standa og skulu taka týðandi avgerðir, sum koma at ávirka teirra lívsleið, og tí er tað týdningarmikið at spyrja tey, hvørjar tankar og ynski tey hava í hesum sambandi.</p>
 <p>Fleiri fyrimunir eru við at nýta spurnablaðs-kanningar sum samfelagsvísindaligt háttalag. Við einari spurnablaðskanning ber til at fáa kunnleika um, hvussu útbreiddar fatanir og meiningar eru millum fólk innan tað evnið, ið ætlanin er at kanna. Við støði í innsavnaða tilfarinum ber eisini til at kanna, um ymiskir bólkar av fólki í størri mun enn aðrir hava serstakar meiningar. Til dømis dreingir samanborið við gentur, og ung av bygd samanborið við ung úr býum.</p>
@@ -830,8 +787,7 @@
 <p>Tekniski skúli4 (36%)7 (64%)11</p>
 <p><em type="bold">Hvussu nógv fólk búgva í kommununi, </em><em type="bold">har tú vaks upp? </em></p>
 <p xml:lang="est">Tal Prosent</p>
-<p>Undir 20036 (4%)200-49973 (8%)500-999137 (16%)1000-1999176 (20%)2000-499996 (11%)5000 ella fleiri357 (44%) <em type="bold">42 </em></p>
-<p>Granskingardepilin fyri økismenningnóg stórt til, at til ber at siga nakað munagott um tann bólkin, sum verður kannaður, og at tey, sum spurd verða, umboða populatiónina alla, sum hon er, so væl, sum til ber.</p>
+<p>Undir 20036 (4%)200-49973 (8%)500-999137 (16%)1000-1999176 (20%)2000-499996 (11%)5000 ella fleiri357 (44%)nóg stórt til, at til ber at siga nakað munagott um tann bólkin, sum verður kannaður, og at tey, sum spurd verða, umboða populatiónina alla, sum hon er, so væl, sum til ber.</p>
 <p>Í innsavningararbeiðnum bóru vit okkum soleiðis at: vit ringdu fyrst til allar skúlarnar og greiddu skúlaleiðslunum frá, hvat kanningin snúði seg um og spurdu, um teir vildu hjálpa okk-um við kanningini. Allir skúlarnir vóru sera beina-samir og vildu gjarna hjálpa okkum. Ein persónur á hvørjum skúla fekk ábyrgdina av, at næmingarnir fingu spurnabløðini útflýggjað, svarað og inn-savnað. Eftir hetta vitjaðu vit teir flestu skúlarnar og góvu teimum spurnabløðini til tey, sum høvdu ábyrgdina av, at tey vórðu svarað. Í nøkrum førum vórðu spurnabløðini tó send við postinum. Spurna-bløðini vórðu svarað inni í ymsu flokkunum undir leiðslu av einum lærara.</p>
 <p><em type="bold">Útbreiðsla av spurnablaðnum </em></p>
 <p>Spurnablaðið varð býtt út til allar næmingar, ið gingu í 9. flokki í føroyska fólkaskúlanum skúla-árið 2002/03 eins og teir næmingar, sum gingu seinasta árið í føroysku miðnámsskúlunum skúla-árið 2002/03 – t.e. Studentaskúla, HF-skeið,</p>
@@ -840,8 +796,7 @@
 <p>Miðnámsskúlunum. Av teimum fingu við 287 svarað bløð aftur – t.e. 85%.</p>
 <p>Talið av spurnabløðum, sum eru lisin inn í telduskipan, er 899, ið svarar til 90% av øllum teimum spurnabløðum, sum vórðu latin skúlunum.</p>
 <p>Hetta má metast at vera eitt rættiliga gott úrslit og er eitt gott grundarlag at byggja okkara kann-ingar á.</p>
-<p>Á Tekniska skúla í Klaksvík ber til at taka útbúgvingina Tekniskt Studentsprógv, sum er ein miðnámsskúlaútbúgving, ið serliga er ætlað teim-um, ið hava áhuga fyri at arbeiða við tøkni, bæði verkliga og ástøðiliga <em type="bold">43 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p>Á Tekniska skúla í Klaksvík ber til at taka útbúgvingina Tekniskt Studentsprógv, sum er ein miðnámsskúlaútbúgving, ið serliga er ætlað teim-um, ið hava áhuga fyri at arbeiða við tøkni, bæði verkliga og ástøðiliga</p>
 <p><em type="bold">Ætlar tú at fáa tær eina útbúgving? </em></p>
 <p xml:lang="nno">Ja91%nei1%</p>
 <p>Veit ikki8%</p>
@@ -906,8 +861,7 @@
 <p>Als ikki1%</p>
 <p>Veit ikki 1%</p>
 <p xml:lang="kal">N=884</p>
-<p xml:lang="est"><em type="bold">Talva 9 </em><em type="bold">44 </em></p>
-<p>Granskingardepilin fyri økismenning</p>
+<p xml:lang="est"><em type="bold">Talva 9 </em></p>
 <p><em type="bold">Í Føroyum eru í dag nøkur størv innan </em><em type="bold">fiskivinnugransking, tøknimenning, o.l. - </em><em type="bold">kundu hesi størv havt tín áhuga? </em></p>
 <p xml:lang="smj">Ja</p>
 <p>Møguliga</p>

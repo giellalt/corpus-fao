@@ -1,6 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4705</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2006.05 Kanning v landbúnaðarframleiðsluni í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 1</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
-<p><em type="bold">Innihaldsyvirlit </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4445</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2006.05 Kanning v landbúnaðarframleiðsluni í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Innihaldsyvirlit </em></p>
 <p xml:lang="dan"><em type="bold">INNLEIÐING ................................................................................................................................ 2 </em></p>
 <p>AVMARKINGAR AV KANNINGINI................................................................................................... 2</p>
 <p>AÐRAR KANNINGAR ..................................................................................................................... 2</p>
@@ -16,9 +14,7 @@
 <p>INNGJALD TIL TAÐ ALMENNA ..................................................................................................... 15</p>
 <p>STUDNINGUR FRÁ TÍ ALMENNA .................................................................................................. 16</p>
 <p>NETTOSTØÐAN ........................................................................................................................... 17 <em type="bold">5. VERJITOLLUR ...................................................................................................................... 18 </em><em type="bold">6. NIÐURSTØÐA ........................................................................................................................ 19 </em></p>
-<p type="listitem">TALVUR ...................................................................................................................................... 20</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 2</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p><em type="bold">TALVUR ...................................................................................................................................... 20 </em></p>
 <p><em type="bold">Innleiðing </em></p>
 <p>Henda kanningin er umbiðin av Búnaðarstovuni fyri at kanna, hvussu gongdin í landbúnaðarframleiðslan í Føroyum hevur verið seinastu árini.</p>
 <p>Kanningin fevnir um: 1. Uppgerð av sjálvari landbúnaðarframleiðsluni 2. Uppgerð av backward og forward linkum 3. Uppgerð av peningarensli til og frá tí almenna</p>
@@ -31,8 +27,6 @@
 <p>Bjarnason í 2005. Nakrar talvur, útrokningar og hugsjónir eru endurnýttar úr tí álitinum.</p>
 <p type="listitem">Hóast henda uppgerðin serliga tekur støði í landbúnaðarálitinum frá 1997, er munur á hesi uppgerðini og uppgerðini í landbúnaðarálitinum, serliga tí at:</p>
 <p type="listitem">Backward og forward linking – tvs. avleitt virksemi – var ikki við í landbúnaðarálitinum, men er tikið við her.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 3</p>
-<p type="listitem">Kanningin er umbiðin av Búnaðarstovuni   www.bunadarstovan.fo</p>
 <p type="listitem">MBM var ikki við í landbúnaðarálitinum, men er við her.</p>
 <p type="listitem">Avgjøld vóru ikki tikin við í landbúnaðarálitinum, men er við her – talan er serliga um MVG.</p>
 <p type="listitem">Meting av peningarenslinum millum landbúnaðin og tað almenna var ikki við í landbúnaðarálitinum, men er við her.</p>
@@ -46,9 +40,7 @@
 <p><em type="bold">MVG </em></p>
 <p>Tá BTÚ og BFI skulu gerast upp fyri eina vinnugrein, eiga avgjøldini at vera tikin við inn í uppgerðina. Tískil má tað metast sum ein beinleiðis feilur í uppgerðini í landbúnaðar-álitinum, at MVG’ið ikki er tikið við inn í uppgerðina. Hesin feilurin er rættaður her.</p>
 <p><em type="bold">Peningarenslið við tað almenna </em></p>
-<p type="listitem">Peningarenslið við tað almenna er tikið við fyri at fáa eina meiri fullfíggjaða mynd av viðurskiftunum í landbúnaðinum. Hesin parturin er eisini lutvíst við í landbúnaðar-álitinum, men er tó ikki so útgreinaður, sum í hesi uppsetingini.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 4</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo <em type="bold">1. Lýsing av landbúnaðinum og kanningarhátti </em></p>
+<p>Peningarenslið við tað almenna er tikið við fyri at fáa eina meiri fullfíggjaða mynd av viðurskiftunum í landbúnaðinum. Hesin parturin er eisini lutvíst við í landbúnaðar-álitinum, men er tó ikki so útgreinaður, sum í hesi uppsetingini. <em type="bold">1. Lýsing av landbúnaðinum og kanningarhátti </em></p>
 <p>Fyri at geva eina fatan av hvussu landbúnaðurin í Føroyum er bygdur upp og hvussu hendan frágreiðingin vil lýsa hann, verður her givin ein stutt lýsing av landbúnaðinum og kanningarháttinum.</p>
 <p>Tá týdningurin av eini vinnugrein skal lýsast, verður ofta bæði hugt eftir sjálvari vinnugreinini og hvørjar fylgjur vinnan hevur fyri aðrar vinnur.</p>
 <p>Ídnaðir, sum eru bygdir á landbúnaðin</p>
@@ -62,18 +54,14 @@
 <p>Sjálv landbúnaðarframleiðslan</p>
 <p>Á myndini omanfyri er landbúnaðurin settur inn í miðjuna. Har er bæði talan um framleiðslu av mjólk, seyði, eggum, eplum og líknandi. Við í landbúnaðin er eisini tikin víðari framleiðslan av mjólkaúrdráttunum – tvs. MBM er her roknað við í sjálvan landbúnaðinum. Orsøkin til at MBM fær hesa støðu er, at framleiðslan hjá MBM er nær tengd at landbúnaðinum, bæði sum keypari av mjólk og øðrum frá landbúnaðinum og sum veitari av vørum og tænastum til landbúnaðin.</p>
 <p xml:lang="dan">Forward og backward linking</p>
-<p type="listitem">Umframt tær beinleiðis framleiðslunar sum landbúnaðurin hevur, eru eisini nakrar óbeinleiðis ávirkanir. Hesar vera róptar fyri backward og forward linking. Talan er um backward linking tá landbúnaðurin keypir vørur ella tænastur frá undirveitarum – t.d. fóður, medisin, bygging av súrhoyggjabrunni e.l.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 5</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Umframt tær beinleiðis framleiðslunar sum landbúnaðurin hevur, eru eisini nakrar óbeinleiðis ávirkanir. Hesar vera róptar fyri backward og forward linking. Talan er um backward linking tá landbúnaðurin keypir vørur ella tænastur frá undirveitarum – t.d. fóður, medisin, bygging av súrhoyggjabrunni e.l.</p>
 <p>Talan er um forward linking tá landbúnaðurin letur vørur ella tænastur til ein keypara <span type="quote">“longri frammi í ketuni”</span>. T.d. hevur danski landbúnaðurin havt eina beinleiðis ávirkan á insulin-framleiðsluna, við tað at insulin upprunaliga er komið úr svínum. Sostatt er talan um samanhangandi vinnur, sum vanliga ikki verða bólkaðar saman, men sum hava link ímillum sín.</p>
 <p>MBM kundi bæði verið bólkað sum backward og forward link, men her er, sum áður nevnt, valt at fata MBM sum part av landbúnaðinum í staðin.</p>
 <p>Umframt MBM hevur føroyski landbúnaðurin ógvuliga fá forward link – nakað av ull verður latið til nakrar troyggjuframleiðarar o.l., men annars eru stórt sæð eingi forward link í Føroyum. Backward linking frá føroyska landbúnaðinum er eisini avmarkað, men tó ikki heilt so avmarkað sum í forward linking.</p>
 <p>Tað almenna</p>
 <p>At enda hava vit tað almenna. Her er einans talan um eina búskaparliga lýsing, so talan er um skatt og avgjøld, sum landbúnaðurin letur til tað almenna og um studningar sum landbúnaðurin fær frá tí almenna. Lógir og reglugerðir av ymiskum slag, sum tað almenna áleggur landbúnaðinum, verða ikki tikin við her.</p>
 <p>Um landbúnaðurin hevði verið ein stórur netto-skattgjaldari, átti lýsingin eisini at tikið hædd fyri, at landbúnaðurin er við til at gjalda fyri nøkur almenn arbeiðspláss, men, sum vit kom at síggja longur frammi í frágreiðingini, er føroyski landbúnaðurin ein netto-móttakari av peningi frá tí almenna – tískil er ikki neyðugt at fara longur inn á henda partin.</p>
-<p type="listitem">Niðurstøðan er sostatt, at tá talan er um landbúnaðin er avmarkað av backward og forward linkum, samstundis sum støðan yvirfyri tí almenna antin javnvigar ella er <span type="quote" xml:lang="dan">“negativ”</span>. Samanlagt vil ein uppgerð av landbúnaðinum tískil í størsta mun fevna einans um kjarnuna, tvs. sjálvan landbúnaðin – meðan avleiddar ávirkanir frá landbúnaðinum eru so avmarkaðar, at tær hava ógvuliga lítlan týdning.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 6</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo <em type="bold">2. Sjálv landbúnaðarframleiðslan </em></p>
+<p>Niðurstøðan er sostatt, at tá talan er um landbúnaðin er avmarkað av backward og forward linkum, samstundis sum støðan yvirfyri tí almenna antin javnvigar ella er <span type="quote" xml:lang="dan">“negativ”</span>. Samanlagt vil ein uppgerð av landbúnaðinum tískil í størsta mun fevna einans um kjarnuna, tvs. sjálvan landbúnaðin – meðan avleiddar ávirkanir frá landbúnaðinum eru so avmarkaðar, at tær hava ógvuliga lítlan týdning. <em type="bold">2. Sjálv landbúnaðarframleiðslan </em></p>
 <p>Landbúnaðarframleiðslan í Føroyum, er sum sagt tað sum er avmyndað í miðjuni av myndini omanfyri. Framleiðslan kann lýsast við at hyggja eftir BTÚ ella BFI.</p>
 <p>Vanliga verður hugt eftir BTÚ tá hugt verður eftir støddini av einum búskapi ella eini vinnugrein. Av tí at føroyski landbúnaðurin fær so nógvan studning, er tó neyðugt at hyggja nakað eftir BFI eisini. Munurin millum BTÚ og BFI er studningur og avgjøld.</p>
 <p>Fallið í framleiðsluvirðinum í 1993 stavar frá tveimum ymiskum keldum – MVG’ið, sum kom í 1993 førdi til prísfall á seyðakjøti, og svínaframleiðslan gavst í 1992.</p>
@@ -82,9 +70,7 @@
 <p><em type="bold">Mynd 1. BTÚ og BFI í landbúnaði 1990-2005 </em>020.00040.00060.00080.000100.000120.0001990199520002005 </p>
 <p>BFI</p>
 <p>BTÚ</p>
-<p type="listitem">Kelda: Landbúnaðarálitið og egnar útrokningar bygdar á ymiskar keldur.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 7</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Kelda: Landbúnaðarálitið og egnar útrokningar bygdar á ymiskar keldur.</p>
 <p>Hyggja vit eftir tølunum fyri BFI, sum sigur nakað um støddina av inntøkuni frá vinnuni, liggja tey nakað hægri – um 110 mió. kr., og gevur hetta somu niðurstøðu, nevniliga at inntøkan frá landbúnaðarframleiðsluni er uml. 1 prosent av samlaðu inntøkuskapini í</p>
 <p>Føroyum.</p>
 <p>Býtið av landbúnaðarframleiðsluni í Føroyum</p>
@@ -99,9 +85,7 @@
 <p>BTÚ - Neyt og mjólk</p>
 <p>BTÚ - Seyður og svín</p>
 <p>BTÚ - Annað</p>
-<p type="listitem">Kelda: Egnar útrokningar</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 8</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Kelda: Egnar útrokningar</p>
 <p>Viðmerkjast skal, at av tí at seyðurin og mjólkineytini nýta av sama fóðurinum – og hetta ávirkar rávørunýtsluna í báðum vinnunum – skal býtið millum seyðahald og mjólkframleiðsluna ikki takast fyri stórt meiri enn ein grundað meting.</p>
 <p><em type="bold">Seyður </em></p>
 <p>Framleiðslan av seyði fer í stóran mun fram sum einstaklingaframleiðsla, har einstaklingar eiga nakað av jørð og hava seyð gangandi – antin á trøðum ella í haga.</p>
@@ -113,16 +97,12 @@
 <p><em type="bold">Mynd 3. Prísur á seyðakjøti (kr/kg) – uttan MVG </em>354555651990199520002005 </p>
 <p>Prísur á seyðakjøti v/MVG</p>
 <p>Prísur á seyðakjøti u/MVG</p>
-<p type="listitem">Kelda: Bóndafelagið</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 9</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo lótu mjólk til MBM – í dag er talið komið niður um 50 og fer væntandi at falla enn meiri komandi árini. Talan hevur verið um rímiliga javna minking í talinum.</p>
+<p>Kelda: Bóndafelagið lótu mjólk til MBM – í dag er talið komið niður um 50 og fer væntandi at falla enn meiri komandi árini. Talan hevur verið um rímiliga javna minking í talinum.</p>
 <p>Umframt at talið av framleiðslueindum er minkað, er framleiðslan til hvørja kúgv vaksin.</p>
 <p>Myndin niðanfyri vísir innvigaðu mjólkina til hvørja kúgv og til hvønn garð. Innvigaða mjólkin er farin úr 5-6.000 litrum til hvørja kúgv árliga upp í 7.000 litrar árliga.</p>
 <p>Samstundis er innvigaða mjólkin til hvønn garðin farin úr 60.000 litrum upp í góðar 150.000 litrar. Talan er sostatt bæði um, at úrtøkan til hvørja kúgv er farin upp, samstundis sum at garðarnir eru vorðnir størri.</p>
 <p><em type="bold">Mynd 4. Tal av bóndum, sum lata mjólk </em>02550751001990199520002005 </p>
-<p type="listitem">Kelda: Hagstova Føroya og MBM</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 10</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Kelda: Hagstova Føroya og MBM</p>
 <p><em type="bold">Onnur framleiðsla </em></p>
 <p type="listitem">Framleiðslan av øðrum er:</p>
 <p type="listitem" xml:lang="dan">Epli</p>
@@ -137,9 +117,7 @@
 <p><em type="bold">Mynd 5. Innvigað mjólk, 1.000 litrar </em>02468199019952000200504080120160 </p>
 <p>Innvigað mjólk til hv. kúgv (vinstra ás)</p>
 <p>Innvigað mjólk til hv. garð (høgra ás)</p>
-<p type="listitem">Kelda: Hagstova Føroya og MBM</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 11</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Kelda: Hagstova Føroya og MBM</p>
 <p>Nakrar broytingar eru hendar í samansetingini av studninginum, við tað at í dag er einamest talan um studning til mjólkaframleiðsluna, tvs. talan er næstan einans um vørustudning. Annar studningur, t.d. studningur til velting, er ógvuliga avmarkaður í dag.</p>
 <p>Myndin niðanfyri vísir gongdina í studninginum, um hædd verður tikin fyri avgjøldum, sum landbúnaðurin letur til tað almenna – tvs. MVG. Gongdin her er ikki tann saman sum omanfyri, her er talan um fallandi <span type="quote" xml:lang="dan">“netto-studning”</span> frá tí almenna, soleiðis at samlaði studningurin er minkaður niður á um 15 mió. kr. árliga. Verður hædd tikin fyri prísvøkstri, er realað fallið enn størri.</p>
 <p><em type="bold">Mynd 7. Studningur minus avgjøld, 1.000 kr. </em>010.00020.00030.0001990199520002005 </p>
@@ -148,9 +126,7 @@
 <p><em type="bold">Mynd 6. Studningur til landbúnaðin, 1.000 kr. </em>05.00010.00015.00020.00025.00030.00035.00040.0001990199520002005 </p>
 <p>Annar studningur tilsamans</p>
 <p>Vørustudningar tilsmans</p>
-<p type="listitem">Kelda: Hagstova Føroya, landskassaroknskapir, landbúnaðarálitið og MBM</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 12</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Kelda: Hagstova Føroya, landskassaroknskapir, landbúnaðarálitið og MBM</p>
 <p>At enda kunnu vit hyggja eftir studninginum í mun til framleiðsluna í vinnuni. Myndin niðanfyri vísir, at síðan 1993 hevur verið talan um fallandi studning í mun til BTÚ – hetta óansæð um vit einans hyggja eftir studninginum ella um vit hyggja eftir netto-støðuni eftir at hædd er tikin fyri avgjøldum.</p>
 <p>Sum heild kann sigast, at ein studningur millum 20 og 30 prosent er ikki nógv í mun til tað, sum landbúnaðurin fær í øðrum londum. Í ávísum londum fær landbúnaðurin upp í 70 prosent av BTÚ.</p>
 <p>Samanumtikið um sjálva landbúnaðarframleiðsluna</p>
@@ -161,9 +137,7 @@
 <p>Studningur í mun til BTÚ</p>
 <p>Studn. minus avgj. í mun til BTÚ</p>
 <p>Kelda: Hagstova Føroya, landskassaroknskapir, landbúnaðarálitið,</p>
-<p type="listitem">MBM og egnar útrokningar.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 13</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo <em type="bold">3. Forward og backward linking </em></p>
+<p>MBM og egnar útrokningar. <em type="bold">3. Forward og backward linking </em></p>
 <p>Eftir at hava hugt eftir sjálvari landbúnaðarframleiðsluni, verður her hugt efter forward og backward linking, sum eru tær avleiðingarnar landbúnaðurin hevur á aðrar vinnur.</p>
 <p>Hetta kann vera sum keyp av vørum og tænastum frá onkrum veitara (backward linking) ella sum søla av vørum til onkran, sum viðgerð vøruna meiri onkursvegna (forward linking)</p>
 <p xml:lang="dan">Forward linking</p>
@@ -176,9 +150,7 @@
 <p>Backward linking er vinnur sum lata til landbúnaðin, td. bygging av fjósi, djóralæknar, søla av kraftfóðuri o.l.</p>
 <p>MBM er uttan iva størsti veitari av fóðuri, tøðum, amboðum o.l. til landbúnaðin – virksemi hjá MBM er longu roknað inn í landbúnaðin og er sostatt við í uppgerðini.</p>
 <p>Harumframt eru aðrir minni veitarar, sum lata traktorar, setepli, tøð o.l.</p>
-<p type="listitem">Út frá innflutningum av fóðuri o.ø., søluni hjá MBM og uppgerðini av rávørunýtsluni hjá landbúnaðinum, kann metast, at uml. 10 – 20 mió. kr. av vørum og tænastum verða</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 14</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo árliga keyptar frá øðrum veitarum enn MBM. Um vit aftur rokna við einum 20-30 prosents vinningi, kann metast, at runt roknað 5 mió. kr. av BTÚ verða skaptar árliga, sum fylgju av backward linking frá landbúnaðinum.</p>
+<p>Út frá innflutningum av fóðuri o.ø., søluni hjá MBM og uppgerðini av rávørunýtsluni hjá landbúnaðinum, kann metast, at uml. 10 – 20 mió. kr. av vørum og tænastum verða árliga keyptar frá øðrum veitarum enn MBM. Um vit aftur rokna við einum 20-30 prosents vinningi, kann metast, at runt roknað 5 mió. kr. av BTÚ verða skaptar árliga, sum fylgju av backward linking frá landbúnaðinum.</p>
 <p>Samanumtikið um forward og backward linking</p>
 <p>Samlaða ávirkanin frá landbúnaðinum á aðrar vinnur vil leysliga mett liggja um:</p>
 <p xml:lang="dan">Forward linking:</p>
@@ -189,9 +161,7 @@
 <p><em type="bold">Umleið 20 mió. kr. </em></p>
 <p>Talan er serliga um árin av at mjólkin verður seld í handlunum – her skal tó havast í huga, at um handlarnir ikki seldu føroyska mjólk høvdu teir uttan iva selt útlendska mjólk – tvs. at árinið hevði neyvan verið stórt øðrvísi um eingin mjólkaframleiðsla var í</p>
 <p>Føroyum. Um vit velja at frárokna árinið av mjólkaframleiðsluni, hevði samlaða árinið minkað niður í umleið eina helvt – tvs. um 10 mió. kr.</p>
-<p type="listitem">Harafturímóti høvdu hinar framleiðslurnar – tøting, byggivirksemi, undirveiting av ymiskum tænastum o.l. – neyvan verið í Føroyum um eingin landbúnaður var. Tvs. hesi árinini eru beinleiðis tengd at eini landbúnaðarframleiðslu í Føroyum.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 15</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo <em type="bold">4. Tað almenna </em></p>
+<p>Harafturímóti høvdu hinar framleiðslurnar – tøting, byggivirksemi, undirveiting av ymiskum tænastum o.l. – neyvan verið í Føroyum um eingin landbúnaður var. Tvs. hesi árinini eru beinleiðis tengd at eini landbúnaðarframleiðslu í Føroyum. <em type="bold">4. Tað almenna </em></p>
 <p>Landbúnaðurin fær nakað av studningi frá tí almenna og letur samstundis nakað aftur til tað almenna í skatti og avgjøldum.</p>
 <p>Við at hyggja nærri eftir peningarenslinum millum landbúnaðin og tað almenna, fæst ein mynd av netto-støðuni hjá landbúnaðinum.</p>
 <p>Inngjald til tað almenna</p>
@@ -203,9 +173,7 @@
 <p><em type="bold">Mynd 9. Inngjald til tað almenna </em>05.00010.00015.00020.00025.00030.0001990199520002005 </p>
 <p>MVG</p>
 <p>Skattur</p>
-<p type="listitem">Kelda: Egnar útrokningar.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 16</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Kelda: Egnar útrokningar.</p>
 <p>Studningur frá tí almenna</p>
 <p>Nógvur ymiskur studningur verður latin til landbúnaðin. Studningurin hevur verið nakað viðgjørdur í <span type="quote">“Studningur til landbúnaðin”</span> á síðu 10. Her skal tí einans verða givin ein stutt lýsing av hvørjir studningar talan er um.</p>
 <p>Talvan niðanfyri vísir hvørjir studningar vóru latnir til landbúnaðin í 2005.</p>
@@ -220,9 +188,7 @@
 <p><em type="bold">Annar studningur, sum óbeinleiðis hevur við landbúnaðin at gera </em>Træplanting 0 Føroysk húsdjór 50 </p>
 <p><em type="bold">Tilsamans 50 </em></p>
 <p><em type="bold">Studningur tilsamans </em><em type="bold">26.470 </em></p>
-<p type="listitem">Samlaða myndin av studninginum til landbúnaðain er sostatt, at talan einamest er um studning til mjólkframleiðsluna.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 17</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Samlaða myndin av studninginum til landbúnaðain er sostatt, at talan einamest er um studning til mjólkframleiðsluna.</p>
 <p>Nettostøðan</p>
 <p>Myndin niðanfyri vísir inngjaldið av skatti og avgjøldum frá landbúnaðin til tað almenna, studningin frá tí almenna til landbúnaðin og nettostøðuna av peningarenslinum.</p>
 <p>Meðan gjaldið frá tí almenna hevur staðið nøkulunda í stað, er inngjaldið frá landbúnaðinum vaksið munandi seinastu árini.</p>
@@ -232,9 +198,7 @@
 <p>Nettogjald til tað almenna</p>
 <p>Gjald frá tí almenna</p>
 <p>Gjald til tað almenna</p>
-<p type="listitem">Kelda: Egnar útrokningar.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 18</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo <em type="bold">5. Verjitollur </em></p>
+<p>Kelda: Egnar útrokningar. <em type="bold">5. Verjitollur </em></p>
 <p>Føroyski landbúnaðurin er vardur við verjitolli. Verjitollurin er:</p>
 <p>Tollur</p>
 <p>Punktavgjald</p>
@@ -249,16 +213,12 @@
 <p>Sum dømi um árinið av verjitollinum kunnu vit t.d. hugsa okkum at føroysku framleiðarnir kunnu selja mjólkina til handlarnar fyri kr. 6 pr. litur u/MVG, tvs. 7,50 v/MVG. Um handlarnir skulu keypa sama slag mjólk úr útlondum, mugu teir fyrst av við toll og punktavgjald. Tvs. at mjólkin ikki má kosta meiri enn kr. 4,50 í innkeypi, tí (4,50*1,2)+0,6=6,00. Tvs. at útlendska mjólkin í hesum døminum má keypast fyri 75 % av tí, sum føroyska mjólkin kostar.</p>
 <p>Tá talan er um Jogurt er munurin enn størri. Um vit framvegis siga at føroyskt jogurt kann seljast fyri kr. 6,00 pr. litur, má útlendska mjólkin ikki kosta meiri enn kr. 3,28 pr. litur um hon skal hava sama prís í handlinum.</p>
 <p>Verjitollurin gevur sostatt føroysku framleiðarum ein fyrimun í mun til útlendsku framleiðarnar. Harumframt fær MBM eisini MVG’ið afturborið, tvs. at veruligi munurin er enn størri.</p>
-<p type="listitem">Íslandssáttmálin kann tó møguliga koma til at minka um hesa verju.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 19</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo <em type="bold">6. Niðurstøða </em></p>
+<p>Íslandssáttmálin kann tó møguliga koma til at minka um hesa verju. <em type="bold">6. Niðurstøða </em></p>
 <p>Føroyski landbúnaðurin hevur eina framleiðslu á uml. 90 – 100 mió. kr. árliga – alt eftir um avleiddar vinnur verða tiknar við ella ikki. Hetta svarar til umleið eitt prosent av BTÚ í</p>
 <p>Føroyum.</p>
 <p>Landbúnaðarframleiðslan er serliga framleiðsla av seyðakjøti og mjólk. Nakað verður framleitt av øðrum vørum, men henda framleiðsla er rættiliga avmarkað. Talan er serliga um epli, sum verða velt til egna nýtslu, og egg, framleidd á Velbastað.</p>
 <p>Landbúnaðurin fær umleið 26,5 mió. kr. í studningi, men letur samstundis út við eins stóra upphædd aftur til almennu kassarnar í skatti og avgjøldum. Studningurin til føroyska landbúnaðin er annars munandi minni enn í flestu londunum rundan um okkum.</p>
-<p type="listitem">Landbúnaðurin er vardur av verjitolli. Talan er serliga um toll á mjólkavørum, sum er við til at verja føroyska mjólkaframleiðslu. Íslandssáttmálin kann tó møguliga koma til at minka um hesa verju.</p>
-<p type="listitem">Kanning av landbúnaðarframleiðsluni í Føroyum síða 20</p>
-<p>Kanningin er umbiðin av Búnaðarstovuni www.bunadarstovan.fo</p>
+<p>Landbúnaðurin er vardur av verjitolli. Talan er serliga um toll á mjólkavørum, sum er við til at verja føroyska mjólkaframleiðslu. Íslandssáttmálin kann tó møguliga koma til at minka um hesa verju.</p>
 <p><em type="bold">Talvur </em><em type="bold">1990 </em><em type="bold">1991 </em><em type="bold">1992 </em><em type="bold">1993 </em><em type="bold">1994 </em><em type="bold">1995 </em><em type="bold">1996 </em><em type="bold">1997 </em><em type="bold">1998 </em><em type="bold">1999 </em><em type="bold">2000 </em><em type="bold">2001 </em><em type="bold">2002 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em></p>
 <p><em type="bold">Landbúnaðarframleiðsla </em></p>
 <p><em type="bold">Kjøtframleiðsla </em>av seyði51.62451.62451.62453.77547.80049.71251.62451.62451.62454.49257.36057.36057.36057.36057.36057.360av neytum2.0352.3182.5832.5733.0953.2632.7562.9533.2062.7002.5282.6732.7882.6832.3862.085av svíni2.6822.6284.2460000000000000 </p>

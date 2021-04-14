@@ -1,7 +1,6 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>58853</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2009.10 Krabbameinsætlan fyri Føroyar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Krabbameins </em>ætlanfyri Føroyar </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>58840</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2009.10 Krabbameinsætlan fyri Føroyar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Krabbameins </em>ætlanfyri Føroyar </p>
 <p>Heilsumálaráðið</p>
-<p>Oktober 2009www.hmr.fo</p>
-<p><em type="bold">Krabbameinsætlan </em>fyri Føroyar </p>
+<p>Oktober 2009www.hmr.fo fyri Føroyar</p>
 <p>Heilsumálaráðið - Oktober 2009</p>
 <p><em type="bold">Krabbameinsætlan </em><em type="bold">fyri Føroyar </em>2 © 2009, Heilsumálaráðið Prent: Føroyaprent Tórshavn, 2009 ISBN 978‐99918‐970‐2‐8 3 </p>
 <p><em type="bold">Formæli </em>Krabbamein er ein sjúka, ið flest allir føroyingar kenna til. Um vit sjálvi ikki hava verið rakt, so kenna vit altíð onkran, ið er raktur av hesi álvarsomu sjúku. Umleið 150 nýggir tilburðir av krabbameini verða staðfestir í Føroyum um árið, og enn lata tíverri fleiri føroyingar lív av krabbameini. At so nógv verða rakt og doyggja av hesi sjúku reisir spurningin, um føroyska heilsuverkið kann gera meira fyri at tryggja hesum sjúklingum so góða viðgerð sum møguligt umframt at ráðgeva og stuðla sjúklingi og næstu avvarandi, sum eisini verða hart rakt, tá ið krabbamein verður staðfest í familjuni. </p>
@@ -981,18 +980,18 @@
 <p><em type="bold">Kyn </em></p>
 <p xml:lang="dan"><em type="bold">Diagnosa </em><em type="bold">2000 </em><em type="bold">2001 </em><em type="bold">2002 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em></p>
 <p><em type="bold">Kvinnur </em></p>
-<p>Bróstkrabbi ‐ ‐ ‐ 1 ‐ 7 1 9</p>
-<p>Krabbamein í baktarmi 1 1 3 1 1 ‐ 1 2</p>
-<p>Lívmóðurhálskrabbi 2 2 3 5 ‐ 2 1 1</p>
-<p>Lívmóðurkrabbi 1 ‐ ‐ ‐ 2 4 ‐ ‐</p>
-<p>Krabbamein í langa ‐ ‐ 1 ‐ ‐ ‐ ‐ 1</p>
-<p>Krabbmein í eggrótum 1 ‐ ‐ 2 ‐ 1 2 3</p>
-<p>Kvinnur tilsamans 5 3 7 9 3 14 5 16</p>
+<p>Bróstkrabbi ‐ ‐ ‐ 1 ‐ 7 1</p>
+<p>Krabbamein í baktarmi 1 1 3 1 1 ‐ 1</p>
+<p>Lívmóðurhálskrabbi 2 2 3 5 ‐ 2 1</p>
+<p>Lívmóðurkrabbi 1 ‐ ‐ ‐ 2 4 ‐</p>
+<p>Krabbamein í langa ‐ ‐ 1 ‐ ‐ ‐ ‐</p>
+<p>Krabbmein í eggrótum 1 ‐ ‐ 2 ‐ 1 2</p>
+<p>Kvinnur tilsamans 5 3 7 9 3 14 5</p>
 <p><em type="bold">Menn </em></p>
-<p>Krabbamein í baktarmi ‐ 1 3 2 1 3 2 ‐</p>
-<p>Krabbamein í langa ‐ ‐ ‐ 1 ‐ ‐ ‐ 1</p>
-<p>Menn tilsamans ‐ 1 3 3 1 3 2 1</p>
-<p><em type="bold">Bæði kyn tilsamans </em><em type="bold">5 </em><em type="bold">4 </em><em type="bold">10 </em><em type="bold">12 </em><em type="bold">4 </em><em type="bold">17 </em><em type="bold">7 </em><em type="bold">17 </em></p>
+<p>Krabbamein í baktarmi ‐ 1 3 2 1 3 2</p>
+<p>Krabbamein í langa ‐ ‐ ‐ 1 ‐ ‐ ‐</p>
+<p>Menn tilsamans ‐ 1 3 3 1 3 2</p>
+<p><em type="bold">Bæði kyn tilsamans </em><em type="bold">5 </em><em type="bold">4 </em><em type="bold">10 </em><em type="bold">12 </em><em type="bold">4 </em><em type="bold">17 </em><em type="bold">7 </em></p>
 <p>Talva 7.5 Somu diagnosubólkar sum í talvu 7.4, sum verða sendir til Danmarkar til skurðviðgerð. 92</p>
 <p>Fyrivarni skal tó takast fyri tølunum í talvunum. Tað kann vera, at onkur av skurðviðgerðunum ikki er skrásett undir rætta skrásetingarnummarinum, men tølini mugu roknast at vera á einari leið. Eitt annað, sum kann vera eitt sindur misvísandi, er at vit hava ikki hagtølini fyri viðgerðir av føroyskum krabbameinssjúkligum í øðrum londum enn Danmark. Nakrir krabbameinssjúklingar verða sendir til Íslands, men fyri hesar sjúklingar skráseta vit ikki diagnosu og viðgerð, men bara deildina, hagar sjúklingurin er sendur. Hetta eigur at verða gjørt, so til ber at sígga neyvt, hvørjar viðgerðir føroyingar fáa uttanlands.</p>
 <p>Eisini er tørvur á yvirlitum yvir tað virksemi, sum longu er í Føroyum – fyri at kunna legga til rættis eina skipan við atliti at altjóða leiðreglum fyri skurðviðgerð av krabbameinssjúkum. 7.5.1.1 Miðsavning av krabbameinsskurðviðgerðum</p>
@@ -1399,8 +1398,8 @@
 <p>Í Føroyum hava vit onga kanning av, hvar palliativir sjúklingar helst vilja doyggja. Men tað er ein sannroynd, at teir allarflestu føroysku krabbameinssjúklingar doyggja á sjúkrahúsi.</p>
 <p>Talva 10.1 vísir, at sera fáir krabbameinssjúklingar í Føroyum doyggja í egnum heimi – bara 12 av tilsamans 85 sjúklingum í 2007. Hetta svarar til 14%. Heili 72% av føroysku krabbameinssjúklingunum, sum doyðu í 2007, doyðu á sjúkrahúsi.</p>
 <p><em type="bold">KYN </em></p>
-<p><em type="bold">Stað </em><em type="bold">2000 2001 2002 2003 2004 2005 2006 2007 </em><em type="bold">1. Maður </em>1. Sjúkrahús 25393727 31 4347352. Ellisheim/vard heim 3142 3 7453. Egin bústaður 1311911 16 81094. Annað 1 1 1 <em type="bold">1. Maður tils. </em>41525040 50 596150 <em type="bold">2. Kvinna </em>1. Sjúkrahús 28223329 31 4123262. Ellisheim/vard heim 6346 6 8663. Egin bústaður 711811 8 10334. Annað 411 1 1 <em type="bold">2. Kvinna tils. </em>41404647 46 603235 </p>
-<p><em type="bold">Tilsamans </em>82929687 96 1199385 </p>
+<p><em type="bold">Stað </em><em type="bold">2000 2001 2002 2003 2004 2005 2006 2007 </em><em type="bold">1. Maður </em>1. Sjúkrahús 25393727 31 43472. Ellisheim/vard heim 3142 3 743. Egin bústaður 1311911 16 8104. Annað 1 1 <em type="bold">1. Maður tils. </em>41525040 50 5961 <em type="bold">2. Kvinna </em>1. Sjúkrahús 28223329 31 41232. Ellisheim/vard heim 6346 6 863. Egin bústaður 711811 8 1034. Annað 411 1 1 <em type="bold">2. Kvinna tils. </em>41404647 46 6032 </p>
+<p><em type="bold">Tilsamans </em>82929687 96 11993 </p>
 <p>Talva 10.1: Býtið millum støð, har føroyskir krabbameinssjúklingar doyggja 2000‐2007. (Kelda: Heilsumálaráðið)</p>
 <p type="listitem">Spurningurin  um  eitt  hospice122  hevur  verið  frammi  í  Føroyum.  Í  2000  setti  táverandi landsstýrismaður í almanna‐ og heilsumálum ein arbeiðsbólk at kanna tørvin á palliatión og koma  við  uppskoti  um  palliativ  tilboð.  Arbeiðsbólkurin  mælti  til,  at  hesir  møguleikarnir  vórðu  settir  á  stovn:</p>
 <p type="listitem">Eitt hospice við pláss fyri 7 sjúklingum</p>

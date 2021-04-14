@@ -1,9 +1,8 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>20589</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2007.03 Kanning um happing.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">ISBN: 978-99918-60-11-4 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>20266</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2007.03 Kanning um happing.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">ISBN: 978-99918-60-11-4 </em></p>
 <p><em type="bold">Happing í føroyska fólkaskúlanum </em><em type="bold">- ein spurnakanning </em></p>
 <p>Karin Jóhanna L. Knudsen, Martha H. Mýri &amp; Jógvan Mørkøre</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
 <p><em type="bold">ARBEIÐSRIT NR. 17/2007 </em>!" ! #$# $#%&amp; </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>1 </p>
 <p><em type="bold">Úrtak </em>Henda frágreiðing er úrslit av eini spurnakanning, ið varð gjørd millum fólkaskúlanæmingar í Føroyum í marts 2007. </p>
 <p>Kanningin byggir á 1995 svaraði spurnabløð millum næmingar í 5., 7., og 9. flokki. Samlaða talið av næmingum í hesum flokkum er – sambært tølum frá Mentamálaráðnum – 2.281. Hetta gevur eitt svarprosent uppá 88%.</p>
 <p>Kanningin viðger, hvussu umfatandi happing er á føroysku skúlunum og hvat eyðkennir hana. Viðgerðin av fyribrigdinum happing tekur støði í kanningarháttinum hjá serfrøðinginum Dan Olweus.</p>
@@ -11,7 +10,6 @@
 <p>Happingin fer í høvuðsheitum fram í skúlagarðinum í fríkorterinum, í gongini og í flokshølinum bæði meðan undirvísing er, og tá eingin er. Teir mest nýttu hættirnir at happa eru beinleiðis happing, bæði fysisk og verbal.</p>
 <p>Tað vísir seg ikki at vera nakað beinleiðis samband ímillum tal av næmingum, sum siga seg verða happað ella hava happað og lutfalsliga partin av teimum, ið hava luttikið í tiltøkum mótvegis happing, soleiðis at skilja, at færri næmingar verða happaðir ella hava happað á teimum skúlunum, ið hava havt átøk mótvegis happing.</p>
 <p>Samanborið við støðuna uttanlands, vísir happingarmynstrið og happingartíttleikin í Føroyum seg sum heild at líkist tí í øðrum londum.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>2 </p>
 <p><em type="bold">Innihald </em></p>
 <p><em type="bold">ÚRTAK . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. 1 </em><em type="bold">1 </em><em type="bold">INNGANGUR. . . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . . 3 </em><em type="bold">2 </em><em type="bold">FRAMFERÐARHÁTTUR. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . . 4 </em>2.1 </p>
 <p>ARBEIÐS- OG FYLGIBÓLKUR ............................................................................................. 4 2.2</p>
@@ -35,33 +33,28 @@
 <p>TILTØK Á SKÚLUM.......................................................................................................... 30 <em type="bold">7 </em><em type="bold">SAMANBERINGAR VIÐ STØÐUNA UTTANLANDS.. .. . . .. . . . .. . . . .. . . .. . . . .. . . . 33 </em><em type="bold">8 </em><em type="bold">NIÐURSTØÐA OG TILRÁÐINGAR . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . 36 </em>8.1 </p>
 <p>NIÐURSTØÐA.................................................................................................................. 36 8.2</p>
 <p>TILRÁÐINGAR................................................................................................................. 37 <em type="bold">9 </em><em type="bold">KELDULISTI. . . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . 38 </em><em type="bold">10 </em></p>
-<p><em type="bold">ÍSKOYTI . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . . 39 </em>10.1 SPURNABLAÐ ................................................................................................................. 39 10.2 TIL ÁLITISFÓLKIÐ ........................................................................................................... 51 10.3 SPURNABLAÐ TIL SKÚLAR............................................................................................... 55 10.4 SKRIV TIL SKÚLAR.......................................................................................................... 56 10.5 SKRIV TIL SKÚLALEIÐARAR............................................................................................. 57 10.6 DÁTURAPPORT ............................................................................................................... 58 </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>3 <em type="bold">1 Inngangur </em>Happing er eitt alheimsfyribrigdi, sum kann hava álvarsamar avleiðingar fyri skúlaumhvørvið og rættin hjá tí einstaka næminginum at læra í einum tryggum umhvørvi. Hóast happing hevur verið nógv frammi seinnu árini, so er tað er ikki fyrr enn í fyrru helvt av 1970unum, at fólk veruliga fóru undir at granska henda trupulleika. </p>
+<p><em type="bold">ÍSKOYTI . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . . 39 </em>10.1 SPURNABLAÐ ................................................................................................................. 39 10.2 TIL ÁLITISFÓLKIÐ ........................................................................................................... 51 10.3 SPURNABLAÐ TIL SKÚLAR............................................................................................... 55 10.4 SKRIV TIL SKÚLAR.......................................................................................................... 56 10.5 SKRIV TIL SKÚLALEIÐARAR............................................................................................. 57 10.6 DÁTURAPPORT ............................................................................................................... 58 <em type="bold">1 Inngangur </em>Happing er eitt alheimsfyribrigdi, sum kann hava álvarsamar avleiðingar fyri skúlaumhvørvið og rættin hjá tí einstaka næminginum at læra í einum tryggum umhvørvi. Hóast happing hevur verið nógv frammi seinnu árini, so er tað er ikki fyrr enn í fyrru helvt av 1970unum, at fólk veruliga fóru undir at granska henda trupulleika. </p>
 <p>Ein av undangongumonnunum innan hetta øki frá byrjan, var norsk/svenski granskarin og nú serfrøðingur innan økið, Dan Olweus. Hann byrjaði at gera fleiri kanningar í skandinavisku londunum. Fleiri av hesum kanningum prógva, at tað ber til at gera nakað við trupulleikan.</p>
 <p>Eitt úrslit av arbeiðnum hjá Dan Olweus er ein serligur kanningarháttur og menningin av einum fyribyrgingarleisti, sum skal tálma happing í skúlum. Hesin kanningarháttur og fyribyrgingarleistur hevur verið nýttur í landsumfatandi kanningum í skandinavisku londum.</p>
 <p>Kanningar av sama slagi uttanlands vísa um happing sum heild, at gentur happa minni enn dreingir, gentur og dreingir happa á ymiskan hátt, og happing minkar við aldrinum.1</p>
 <p>Sum liður í eini meiri umfantandi æltan at minka um happing í føroysku skúlunum, hevur Mentamálaráðið heitt á Granskingardepilin fyri Økismenning um at standa fyri eini spurnakanning millum føroyskar skúlanæmingar. Eftir ynski frá Mentamálaráðnum verður kanningarhátturin hjá Dan Olweus nýttur sum útgangsstøði í hesum arbeiði.</p>
-<p>Endamálið við kanningini verður at staðfesta, <em type="italic">hvussu umfatandi happing er á føroysku skúlunum og hvat eyðkennir happing í føroysku skúlunum. </em>1 Sí, Craig &amp; Harel (2002: 134). </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>4 <em type="bold">2 Framferðarháttur </em></p>
+<p>Endamálið við kanningini verður at staðfesta, <em type="italic">hvussu umfatandi happing er á føroysku skúlunum og hvat eyðkennir happing í føroysku skúlunum. </em>1 Sí, Craig &amp; Harel (2002: 134). <em type="bold">2 Framferðarháttur </em></p>
 <p>Tá ein fer undir slíkar kanningar, verður altíð fyrst hugt at, hvat endamálið við kanningini er, síðani hvør framerðarháttur er hóskandi at náa endamálinum.</p>
 <p>Grundleggjandi eru tveir ymiskir kanningarhættir í samfelagsfrøðini – tann <em type="italic">kvantitativi </em>og tann <em type="italic">kvalitativi </em>. Kvantitativar kanningar leggja áherðslu á at seta tøl á úrslitini av kanningini ella at kvantifisera úrslitini. Í hesum kanningarhættum er avgjørt frammanundan, hvat hevur týdning, er talan um spurnarblaðskanningar ella samrøður, so eru spurningarnir fastlagdir, og svarmøguleikarnir eru eisini ofta fastlagdir. Kanningar av hesum slagi geva eina breiða lýsing av av teimum viðurskiftum, ið verða kannað. Kvalitativar kanningar, hinvegin, leggja áherðslu á, hvussu einstaklingurin fatar ella merkir eitthvørt, og verða úrslitini ofta endurgivin í orðum heldur enn tølum. Hesar kanningar eru ofta meira opnar og leyst skipaðar og geva meira nágreiniligar upplýsingar. </p>
 <p>Av tí at endamálið við hesi kanning er at fáa eina heildarmeting av, hvussu umfatandi happing er í føroysku skúlunum og seta tøl á fyribrigdið, er neyðugt at nýta kvantitativa kanningarháttin. Mentamálaráðið gjørdi av at nýta spurnarblaðið um happing, ið Dan Olweus hevur ment, og sum hevur verið nýtt millum hunduraðtúsund av næmingum kring allan heim. 2.1 Arbeiðs- og fylgibólkur</p>
 <p>Ein týdningarmikil partur av kanningini er, at ein arbeiðs- og fylgibólkur, ið Mentamálaráðið setti, hevur verið knýttur at arbeiðinum. Við í arbeiðs- og fylgibólkinum hava verið Jenny Lydersen og Janus Jensen frá Mentamálaráðnum, Rógvi Thomsen frá Føroya Læraraskúla, Hanna Kampmann frá Sernámsdeplinum, Dávið Jacobsen frá Føroya Lærarafelag, Heri Joensen frá felagnum Heim og Skúli og Mary Ann Hansen frá Skúlaleiðarafelagnum.</p>
 <p>Uppgávan hjá arbeiðs- og fylgibólkinum hevur verið ymisk í teimum ymisku tíðarskeiðunum av arbeiðinum, men í høvuðsheitum hevur bólkurin skula tryggjað, at tað lidna arbeiðið er <span type="quote">“rætt og relevant.”</span></p>
-<p>Tað er altíð soleiðis, at tá fólk uttanífrá skulu seta seg inn í eitt stórt evni í lutfalsliga stutta tíð, kunnu tey misskilja okkurt, sum er ein sjálvfylgja fyri fólk, sum dagliga arbeiða innan økið. Tað hevur tí eisini verið ein uppgáva hjá fylgibólkinum at lúka møguligar villur ella misskiljingar úr tilfarinum, áðrenn endaliga frágreiðingin er latin úr hondum.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>52.2 Kanningarhátturin hjá Olweus </p>
+<p>Tað er altíð soleiðis, at tá fólk uttanífrá skulu seta seg inn í eitt stórt evni í lutfalsliga stutta tíð, kunnu tey misskilja okkurt, sum er ein sjálvfylgja fyri fólk, sum dagliga arbeiða innan økið. Tað hevur tí eisini verið ein uppgáva hjá fylgibólkinum at lúka møguligar villur ella misskiljingar úr tilfarinum, áðrenn endaliga frágreiðingin er latin úr hondum. 2.2 Kanningarhátturin hjá Olweus</p>
 <p>Kanningarhátturin og fyribyrgingarleisturin hjá Olweus er grundaður á kvantitativa háttin og er skipaður í fýra partar. Fyrsti partur er ein spurnakanning, sum skal staðfesta trupulleikan. Næsti partur er at upplýsa og gera foreldur, lærarar og teimum, sum varða av fólkaskúlanum varug við, hvussu umfatandi trupulleikin er. Triði partur er at fáa skúlarnar at gera ein fyribyrgingarleist soleiðis, at næmingar, foreldur og lærarar arbeiða saman um at tálma happing. At enda eigur sama spurnakanning sum henda at verða gjørd enn einaferð fyri at kanna, hvørja ávirkan fyribyrgingararbeiðið hevur havt.</p>
 <p>Spurnablaðið hjá Olweus er føroyskað við bert heilt smáum broytingum. Tað er, fyri at kanningin skal hóska betur til føroysk viðurskifti. Ein stórur fyrimunur við at nýta hansara spurnablað er, at vit kunnu samanbera føroysku tølini við útlendsk tøl. Harumframt er kanningarhátturin hjá Olweus royndur frammanundan og hevur verið nýttur fleiristaðni í skandinavisku londunum. 2.3 Dátuinnsavning, mannagongd og umboðan</p>
 <p>Spurnablaðið umfataði 39 spurningar, sum frammanundan vóru fastlagdir við føstum svarmøguleikum, ið næmingarnir kundu velja ímíllum.</p>
 <p>Ein veikleiki við spurnakanningum av hesum slagi kann vera, at vit ikki við vissu kunnu siga, um næmingarnir hava skilt spurningarnar í tí løtu, tey svara. Hugsandi er eisini, at tey svara soleiðis, ið tey halda, at tey áttu at gjørt, heldur enn at svara, sum tað er. Fyri at byrgja fyri hesum, er mannagongdin háttað soleiðis, at tað við byrjan av kanningini væl varð greitt frá fyri næmingunum, hvat happing er (sambært Olweus). Eisini kundu næmingarnir spyrja ábyrgdarfólkið, um tey ikki skiltu okkurt. Fyri næmingunum í 5. flokki varð spurnablaðið lisið upp í síni heild (sí ískoyti, til álitisfólkið) - eisini fyri at tryggja, at tey skiltu spurningarnar. Í onkrum førum fyltu lesiveikir næmingar spurnablaðið út saman við álitisfólkinum. Hetta var gjørt í samráð við lærarar/skúlastjórar.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>6 </p>
 <p>Spurningarnir 12a og 32a manglaðu eina viðmerking um, at teir næmingar, sum ikki høvdu verið fyri hesum ella gjørt hetta skuldu leypa spurningarnar um. Hetta var tó eingin trupulleiki, tí ábyrgdarfólkini kunnaðu næmingarnar um hetta. Harafturat er møguleiki tvey í spurningi 33 komin skeivt fyri. Hann eigur ikki at vera har. Hetta fangaðu tey flestu av teimum spurdu, og fyri tey, ið svaraðu, at tey ikki høvdu happað á annan hátt, var fyrra svarið natúrligt. (sí ískoyti, spurnablað).</p>
 <p>Fyri fleiri næmingar var spurningur 23 eitt sindur torførur at svara. Tey søgdu, at hvat tey kendu ella hugsaðu var tengt at umstøðunum – hvør tað var, sum happaði, og hví viðkomandi varð happað/ur.</p>
 <p>Somuleiðis varð tað trupult hjá nøkrum næmingum at svara einans í mun til <span type="quote">“er ikki hent mær seinastu mánaðirnar.”</span> Tey viðmerktu, at tað var hent teimum, men longur afturi í tíðini, ella kanska at tey ikki vistu, hvussu langt síðani tað var, at tað hendi.</p>
 <p>Føroyar vóru skipaðar sundur í 8 økir, og dátuinnsavningin fór fram við støði í hesum økjum. Spurnabløðini vóru borin út á skúlarnar av Granskingardeplinum, og eitt álitisfólk stóð fyri kanningini. Innsavningin fór fram í vikunum 10,11 og 12. Tó vóru spurnabløðini send nøkrum av teimum smáu skúlunum á útoyggj, og var tað lærarin í hesum førum, ið stóð fyri dátuinnsavningini. Av tí at talan er um sera fáar næmingar, sum ganga í skúla á útoyggj verður mett, at hetta ikki hevur stórvegis ávirkan á úrslitið sum heild. Undan kanningini løgdu álitisfólkini stóran dent á, at spurnablaðið var navnloynt, og at einki einstakt spurnablað fór at verða sjónligt í sjálvari kanningini.</p>
 <p>Mentamálaráðið hevði kunnað skúlarnar um kanningina, áðrenn dátuinnsavningina (ískoytini- skriv til skúlar og til skúlaleiðarar). Sum heild gekk væl at savna inn í flestu skúlunum. Skúlarnir vóru í flestu førum fyrikomandi og høvdu fyrireikað seg til kanningina. Tó var í onkrum flokkum, og eisini á onkrum skúlum, sera nógvir ófriður millum næmingarnar. Serliga kundi hetta vera í 7. flokkunum. Sum heild tóku flestu næmingar kanningina í álvara.</p>
 <p>Sambært tølunum hjá Mentamálaráðnum er samlaða talið av næmingum í 5.,7. og 9. flokki 2.281. Av teimum eru 2.001 spurnabløð svarað – herav eru 6 vrakað. Samlaða talið av spurnabløðum í kanningini er sostatt 1995. Tað vil siga, at svarprosentið er 88%.2 2 Vanliga siga vit í samfelagsfrøðini, at svarprosent hægri enn 85% er sera gott, 85-50% er nøktandi og minni enn 50% er ikki nøktandi (sí Boolsen 2004: 71).</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>7 </p>
 <p>Býtið av svarprosenti í mun til geografiskt øki, flokk og kyn er sum tilskilað í talvuni niðanfyri.3 Á talvuni niðanfyri síggja vit, at prosentbýtið millum flokkar, kyn og øki av teimum, sum hava tikið lut í kanningini samsvarar væl við veruliga býti. Hetta styrkir uppaftur meira kanningina. Vit kunnu siga, at flokkar, kyn og øki eru sera væl umboðað í kanningini.</p>
 <p><em type="bold">Talva 1: Býtið av svarprosenti í mun til flokkar, kyn og økir </em></p>
 <p><em type="bold">Tal av </em><em type="bold">næmingum </em></p>
@@ -86,8 +79,7 @@
 <p>Gentur 1123 50 993 50</p>
 <p>Dreingir 1144 50 1001 50</p>
 <p>Vantar/ikki svarað - - 1 0</p>
-<p><em type="bold">Tilsamans </em>22676 100 1995 100 3 Talvur og myndir eru í rundaðum tølum. 4 Í mun til tal av næmingum. 5 Í mun til svarað spurnabløð . 6 Býtið av gentum og dreingjum í fólkaskúlanum er sambært tølum, sum Mentamálaráðnum fær fráboðan um frá skúlunum. </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>82.4 Sundurgreining og framløga av kanningarúrslitinum </p>
+<p><em type="bold">Tilsamans </em>22676 100 1995 100 3 Talvur og myndir eru í rundaðum tølum. 4 Í mun til tal av næmingum. 5 Í mun til svarað spurnabløð . 6 Býtið av gentum og dreingjum í fólkaskúlanum er sambært tølum, sum Mentamálaráðnum fær fráboðan um frá skúlunum. 2.4 Sundurgreining og framløga av kanningarúrslitinum </p>
 <p type="listitem">Endamálið  við  kanningini  er  fyrst  og  fremst  at  staðfesta,  hvussu  umfatandi  happing  er,  og  hvat   eyðkennir happing í føroysku skúlunum. Við hesum í huga verður miðað  ímóti at vísa á: 1.  Hugburðin  í  fólkaskúlanum  til  happing.  Teir  partar  av  kanningini,  sum  skulu  lýsa  hesi viðurskifti eru millum annað spurningarnir 23, 36, 37 (sí, ískoyti, spurnablað). 2.  Hvussu umfatandi er happingin í fólkaskúlanum. Teir spurningar, ið skulu lýsa hendan partin eru teir, ið snúgva seg um:</p>
 <p type="listitem">Hvussu nógv og hvør tekur lut í happingini (spurningarnir 1-4 og 14, 15, 16, 17, 24)</p>
 <p type="listitem">Hvørji verða happað (spurningarnir 1, 2, 3) 3.  Hvør happar hvønn. Teir spurningarnir, sum spyrja um hesi viðurskifti eru spurningarnir 14 – 17. 4.  Hvussu og hvar verður happað</p>
@@ -97,24 +89,20 @@
 <p type="listitem">Hvat  halda  tey  spurdu,  at  lærar,  foreldur  og  næmingar  gera  við  trupulleikan (spurningarnir 20, 21, 22, 34, 35, 39).</p>
 <p type="listitem">Fleiri skúlar hava ella hava havt tiltøk, ið skulu basa/tálma happing í skúlunum. Tí varð eitt spurblað eisini sent til skúlarnar umvegis internetið at svara spurningum um  tey tiltøk (nær og hvussu), tey hava havt. Úrslitið av hesum verður greinað í partinum  um, hvat verður gjørt við trupulleikan (sí, ískoyti, 10.3). 6.  At enda verða samanberingar gjørdar við støðuna uttanlands.</p>
 <p>Bygnaðurin á framløguni verður í høvuðsheitum skipaður eftir omanfyristandi punktum. Í framløguni verður arbeitt við rundaðum tølum. Ein dáturapport er eisini hjáløgd (sí, ískoytir).</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>9 </p>
 <p><em type="bold">Happing sum fyribrigdi </em></p>
 <p>Hetta er ein spurningur, sum allarhelst ørkymlar fleiri lærarar, granskarar og onnur. Fyribrigdið happing fevnir um nógvar ymiskar negativar hendingar, sum fólk kunnu vera fyri. Tó vísir tað seg at vera semja um, at fyrbrigdið onkursvegna snýr seg um vald, ósemjur, harðskap, diskriminering og særandi/háðandi atburð mótvegis einum persóni.7</p>
 <p>Kanningar- og fyribyrgingarleisturin hjá Olweus tekur í høvuðsheitum støði í einstaklinginum. Hann granskar fyribrigdið við tí kvantitativa kanningarháttinum sum útgangsstøði og leggur sostatt áherðslu á at seta tøl á og tessvegna kvantifisera happing sum fyribrigdi. Somuleiðis leggur Olweus í síni gransking størsta dentin á næmingin og ikki so nógva á umhvørvið og læraran.8 Sambært Olweus (2001:15) verður ein persónur happaður: <span type="quote">“tá hann ella hon ferð eftir ferð og yvir eitt tíðarskeið verður plágað/ur við negativum gerðum av einum ella fleiri persónum.”</span></p>
 <p>Við hesum í huga kunnu vit staðfesta, at tað eru trý viðurskifti, ið eyðkenna happing, soleiðis sum Olweus definarar fyribrigdið: 1. Negativar og óreinar gerðir 2. Endurtekur seg 3. Ójavni í vald og styrki millum persónar 2.5 Negativar og óreinar gerðir</p>
 <p>Olweus sigur, at happing er negativar og óreinar gerðir, sum verða framdar við einum negativum hugburði mótvegis ofrinum. Hinvegin, so eru meinaleys erting ella argan ikki happing. 2.6 Endurtekur seg</p>
-<p>Happing endurtekur seg ferð eftir ferð og heldur fram í eitt tíðarskeið. Hendingarnar, persónur verður fyri, eru tí ikki eindømi ella isoleraðar, men systematiskt rættaðar mótvegis sama persóni ferð eftir ferð. 7 Sí, Hareide, 2004: 23. 8 Ibid, 18-19.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>10 2.7 Ójavni í vald og styrki mil um persónar </p>
+<p>Happing endurtekur seg ferð eftir ferð og heldur fram í eitt tíðarskeið. Hendingarnar, persónur verður fyri, eru tí ikki eindømi ella isoleraðar, men systematiskt rættaðar mótvegis sama persóni ferð eftir ferð. 7 Sí, Hareide, 2004: 23. 8 Ibid, 18-19. 2.7 Ójavni í vald og styrki mil um persónar</p>
 <p>Happing snýr seg eisini um assymetri í mun til vald - sterkir persónar mótvegis veikum. Ein persónur, ið verður happaður megnar ikki at verja seg ella <span type="quote">“at kasta bóltin aftur.”</span> Tískil snýr happing seg ikka einans um vanligar ósemjur millum menniskju. Hetta tí, at í vanligum ósemjum eru persónarnir eins sterkir ella veikir (Halse et al, 2001:9). 2.8 Eisini eitt bólkafyribrigdi</p>
 <p>Dan Olweus leggur dent á, at happing frá einum bólki er øðrvísi enn happing, sum verður framd av einum persóni. Orsøkin til hetta er, millum annað, at ein bólkur ofta styrkir um tær negativu gerðirnar, tí persónarnir eru innanhýsis tengdir at hvørjum øðrum. Tann, í bólkinum, sum er grovur, <span type="quote">“verður lønt/ur”</span> við at hini flenna, eru bangin og síggja upp til viðkomandi. Fyri tann happaða merkir hetta, at hann ella hon fær eina kenslu av at verða heilt útihýst/ur ikki bert av einum persóni, men av einum heilum bólki. 2.9 Hættir at happa</p>
 <p type="listitem">Olweus  (2000:  16)  skilir  millum  beinleiðis  happing  og  óbeinleiðis  happing.  Tá  talan  er  um  beinleiðis happing, sæst hetta sum ein sosial forfylging har álopini á ofrið eru lutfalsliga opin og  sjónlig  og  tí  lættari  at  leggja  merki  til.  Óbeinleiðis  happing  hevur  við  sær  sosiala  avbyrging  og  útihýsing  úr  bólkinum.  Hesin  seinni  hátturin  er  ikki  altíð  so  lættur  at  leggja  merki  til.  Í  spurnablaðnum verða dømi tikin um bæði beinleiðis og óbeinleiðis happing. Til dømis:</p>
 <p type="listitem">Beinleiðis happing -  siga okkurt óreint ella ljótt við ein persón, gera gjøldur burtur úr honum/henni ella nýta illavorðin og særandi eyknevni. -    sláa, sparka, royta, skumpa ella steingja ein persón inni.</p>
 <p type="listitem">Óbeinleiðis happing -  leypa ein persón um ella steingja viðkomandi úr vinaflokkinum við vilja. -  Lúgva ella slatra okkurt ósatt um ein persón, senda ljót boð og royna at fáa onnur til ikki at dáma viðkomandi.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>11 </p>
 <p>Sambært Höistad, so er fysiski hátturin tann mest sjónligi. Hann nevnir somu dømi, sum Olweus, men leggur aftrat, at her ber til at síggja tekin sum rivin og skrødd klæðir, blá merkir o.s.fr. Teir eru báðir samdir um, at hetta slag av happing er mest at síggja í lægru flokkum og ímillum dreingir. Fysisk happing verður ofta framd við, at happarin <span type="quote">“av óvart”</span> kemur at skumpa, renna á, sláa ella oyðileggja okkurt hjá ofrinum. Hetta verður gjørt fyri at so fá sum gjørligt skulu leggja merki til, at ein happar onkran (Höistad, 1999: 42-48 &amp; Olweus, 2000:16).</p>
 <p>Höistad nevnir eisini verbala happping. Tann, sum happar kemur, við viðmerkingum um t.d. útsjónd, hárstíl, klæðir, og annars um alt, sum ofrið ger og sigur. Verbal happing kann tó eisini vera óbeinleiðis við tað, at onkur baktalar ofrið. Gentur nýta ofta óbeinleiðis happing, sum ikki er so løtt at leggja merki til. Eitt nú kunna tær loypa út í orð søgur um ein persón ella royna at fáa onnur at halda við sær.</p>
-<p>Sambært Höistad, so kann verbal og psykisk happing fara fram uttan orð við mimikki, hjartasuffum, teskan, gálvan, snerkjan, niðurgerandi eygnabráum, handakeipum, at venda bak til persónin, og at steingja ofrið úti sosialt ella leypa viðkomandi um (Höistad, 1999: 42-48).</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>12 <em type="bold">3 Hvussu umfatandi er happingin í føroyska fólkaskúlanum </em></p>
+<p>Sambært Höistad, so kann verbal og psykisk happing fara fram uttan orð við mimikki, hjartasuffum, teskan, gálvan, snerkjan, niðurgerandi eygnabráum, handakeipum, at venda bak til persónin, og at steingja ofrið úti sosialt ella leypa viðkomandi um (Höistad, 1999: 42-48). <em type="bold">3 Hvussu umfatandi er happingin í føroyska fólkaskúlanum </em></p>
 <p>Vit venda nú aftur til definisjónina hjá Olweus av happing. Sambært honum, er talan um happing, tá <em type="italic">ein persónur </em><em type="italic">ferð eftir ferð og yvir eitt tíðarskeið verður plágað/ur við negativum gerðum av einum ella fleiri persónum. </em>Tað vil við øðrum orðum siga, at talan er um afturvendandi hendingar. </p>
 <p>Lesa vit mynd 1, síggja vit, at samanlagt 85% av teimum spurdu siga seg ikki verða happað ella bert eina ferð. Hinvegin, siga 15% samanlagt seg vera happað ( <em type="italic">offur </em>) meiri enn einaferð.9 </p>
 <p>Í mun til tey, ið siga seg happa ( <em type="italic">aggressorar </em>), vísir mynd 2, at 87% samanlagt siga seg ikki hava happað seinastu mánaðirnar ella bert eina ferð. Hinvegin, so siga 13% samanlagt seg hava happað aðrar næmingar meir enn ein ferð (sí notu 8). </p>
@@ -137,7 +125,6 @@
 <p>N=1995; 1948 taldar við</p>
 <p><em type="bold">Mynd 2 </em></p>
 <p><em type="italic">Sp.: Hvussu ofta hevur tú verið við til at happa annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>13 </p>
 <p>Soleiðis verða tølini eisini bólkað í mun til tey, sum happa. <em type="italic">Ei happað </em>eru tey, ið siga seg ikki hava happað teir seinastu mánaðirnar og bert eina ferð. <em type="italic">Hevur happað </em>eru tey, ið siga seg hava gjørt hetta 2 ella 3 ferðir um mánaðin, umleið 1 ferð um vikuna og fleiri ferðir um vikuna. Samlaðu samanteljingina síggja vit í talvu 2. </p>
 <p>Hvussu støðan er í mun til tey, ið siga seg ikki vera partur í happing og tey sum eru, síggja vit á myndunum 3 og 4.</p>
 <p type="listitem">Við  at  nýta  definisjón  Olweusar  og  bólka  tølini  í  ei  happað,  happað  og  hevur  happað,  fáa  vit  eina  greiðari  mynd av, hvussu umfatandi happingin  er í føroyska fólkaskúlanum. Tað er tí,  at  tveir  spurningar  eru  tengdir  at  definisjónini:</p>
@@ -163,8 +150,7 @@
 <p>Happað <em type="italic">(offur) </em></p>
 <p>Ei happað</p>
 <p>N=1995; 1921 taldar við</p>
-<p><em type="bold">Mynd 3 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>14 3.1 Hugburður til happing </p>
+<p><em type="bold">Mynd 3 </em>3.1 Hugburður til happing </p>
 <p>Hugburður er eitt nógv nýtt hugtak og tó sera trupult at lýsa. Hetta tí, at okkara tankar og kenslur ikki eru sjónlig. Kortini er hugtakið hent at nýta, tá vit skulu skilja og greina atburð hjá fólki. Positivur og negativur hugburður mótvegis einhvørjum hevur ávirkan á, hvussu vit bera okkum at í mun til ymiskar hendingar - í hesum føri mótvegis happing.</p>
 <p>Í spurnablaðnum eru nakrir spurningar, sum serliga skulu lýsa hugburðin hjá næmingunum. Onkrar av teimum høvdu næmingarnir eitt sindur ilt við at skilja og svara. Til dømis spurningurin: <em type="italic">Tá tú sært ein næming á tínum aldri verða happaðan, hvat kennir tú tá? </em>Her viðmerktu fleiri næmingar, at tað valdaðist, hvør næmingurin var. Til dømis, um tað var ein næmingur, ið ofta happaði aðrar næmingar. Vit hava valt lýsa hugburðin hjá næmingunum við støði í tveimum av spurningunum, sum skula lýsa hugburðin hjá næmingunum. Tann fyrri, <em type="italic">kundi tú hugsað tær at verið við til at happa annan næming, tær ikki dámar, </em>lýsir hugburðin, meðan tann seinni, <em type="italic">hvussu bert tú teg at, um tú finnur útav, at ein næmingur á aldur við teg verður happað/ur av øðrum næmingum, </em>í størri mun lýsir atburðin. Vit bera spurningarnar saman við kyni, aldri, teimum, sum verða happað og teimum, ið happa. </p>
 <p>Mynd 5 vísir, at ein meiriluti av teimum spurdu ikki kundu hugsað sær at happa ein næming, teimum ikki dámar. Tó eiga vit at leggja til merkis, at lutfalsliga fleiri næmingar í 5. flokki hava ein meira støðufastan ( <em type="italic">als ikki </em>) hugburð í mun til hinar aldursbólkarnar. Merkisvert er eisini, at talið av teimum, ið siga seg møguliga kunna hugsa sær at happa ein næming teimum ikki dámar økist við aldrinum – úr 3% til 9%. </p>
@@ -178,7 +164,6 @@
 <p>N=1995; 1963 taldar við</p>
 <p><em type="bold">Mynd 5 </em></p>
 <p><em type="italic">Sp.: Kundi tú hugsað tær at verið við til at happa annan næming, sum tær ikki dámar? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>15 </p>
 <p>Á mynd 6 síggja vit, at jú eldri næmingarnir verða, betur leggja tey til merkis, at ein annar næmingur verður happað/ur. Harumframt økist talið av teimum, ið siga seg bara hyggja at úr 5% upp í 13%.</p>
 <p>Hugsast kann, at teir munir, vit síggja í mun til aldur fyri ein part koma av, at teir eldru og búnari næmingarnir hava eina meiri fjølbroytta fatan av fyribrigdinum happing. Hetta eisini í mun til, at evnini at síggja, at happing fer fram økist við árunum.</p>
 <p>Sambært tølunum (mynd 7) hava gentur, eins og næmingarnir í 5. flokki, ein meira støðufastan hugburð til happing enn dreingir. 54% av teimum siga seg <em type="italic">als ikki </em>kunna hugsa sær at happa ein næming teimum ikki dámar, har 30% av dreingjunum siga hetta. </p>
@@ -199,7 +184,6 @@
 <p>N=1995; 1932 taldar við</p>
 <p><em type="bold">Mynd 6 </em></p>
 <p><em type="italic">Sp.: Hvussu bert tú teg vanliga at, um tú finnur útav, at ein næmingur á aldur við teg verður happað/ur av øðrum næmingum? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>16 </p>
 <p>Mynd 8 vísir, at fleiri gentur enn dreingir (ávikavist 70% og 51%) siga seg <em type="italic">hava hug til </em>ella <em type="italic">royna at hjálpa </em>einum næmingi, sum verður happað/ur. </p>
 <p>Harumframt vísir myndin, at fleiri dreingir enn gentur siga seg vera passivar, tá teir síggja happing fara fram ( <em type="italic">bara hyggja at, hvat hendir </em>). </p>
 <p>Lesa vit hugburðin hjá teimum spurdu við støði í teimum, sum verða happað ( <em type="italic">happað </em>) og teimum, ið happað ( <em type="italic">hevur happað) </em>og so teimum, sum ikki eru partar av happing ( <em type="italic">ei happað </em>), síggja vit ein mun á hugburðinum hjá teimum, ið eru partur í happing og teimum sum ikki eru. </p>
@@ -221,7 +205,6 @@
 <p><em type="bold">Mynd 9 </em></p>
 <p><em type="italic">Sp.: Kundi tú hugsað tær at happa annan næming, sum tær ikki dámar? </em></p>
 <p>N=1995; 1927 taldar við</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>17 </p>
 <p>Á mynd 10 sæst eisini ein lítil munur á, tá talan er um samkenslu við tí sum verður happað/ur. 59% av teimum, ið ikki eru happað siga seg hava hug at hjálpa ella royna at hjálpa. Hetta siga 68% av teimum sum verða happað.</p>
 <p>Vit síggja, at tey, ið eru happað í størri mun royna at hjálpa.</p>
 <p>Myndin broytist týðiliga, tá vit spyrja tey, sum hava happað. Her siga nógv fleiri (12% í mun til 2%), at tey <em type="italic">kundu hugsað sær at happa ein næming, teimum ikki dámar </em>og trífalt so nógv (15% í mun til 5%), at tey <em type="italic">møguliga kundu hugsað sær tað </em>. Eisini siga 46% av teimum, ið ikki hava happað, siga seg <em type="italic">als ikki </em>hava hug til at happa annan næming, teimum ikki dámar. Hetta siga einans 15% av teimum, sum hava happað. </p>
@@ -244,7 +227,6 @@
 <p>N=1995; 1925 taldar við</p>
 <p><em type="bold">Mynd 11 </em></p>
 <p><em type="italic">Sp.: Kundi tú hugsað tær at happa annan næming, sum tær ikki dámar? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>18 </p>
 <p>At myndin broytist týðiliga, tá vit spyrja tey, sum hava happað, síggja vit eisini, tá vit spyrja næmingarnir, hvat tey gera, um tey síggja ein annan næming verða happað/ur. 10% av teimum, sum hava happað siga seg taka lut. Hetta siga 0% av teimum, ið ikki hava happað. Eisini er ein ásýniligur munur í mun til teirra, sum ikki taka lut/bara hyggja at. Vit síggja, at tey, sum happa eru passivari enn tey, ið ikki happa. 7% av teimum, sum ikki hava happað, siga seg bara hyggja at. Hetta siga 20% av teimum, ið hava happað. Um tey, ið ikki hava happað, í staðin hjálpa/stuðla tí happaða næminginum, er ilt at siga. Vit kunnu tó staðfesta, at 64% av teimum siga seg antin vilja hjálpa ella royna at gera tað, har 44% av teimum, sum hava happað, siga seg gera tað.</p>
 <p>Kanningin vísir, at ein meiriluti av næmingunum hevur samkenslu við tí, sum verður happað/ur. Yngru aldursbólkarnir hava ein meira støðufastan hugburð mótvegis happing. Harumframt vísa tølini, at hugburðurin/hugurin at hjálpa fellur við aldrinum.</p>
 <p>Gentur vísa seg at hava ein meira støðufastan hugburð til happing enn dreingir og síggja betri, tá hon fer fram. Ilt er at siga, hví so er. Hugsast kann, at gentur og dreingir fyri ein part hava ymiska fatan av fyribrigdinum happing, og at tey tískil leggja merki til ymisk ting – hvørt talan er um <em type="italic">beinleiðis </em>ella <em type="italic">óbeinleiðis </em>happing. </p>
@@ -260,8 +242,7 @@
 <p>Eg royni at hjálpa tí happaða næminginum á ein el a annan hátt</p>
 <p>N=1995; 1897 taldar við</p>
 <p><em type="italic">Sp.: Hvussu bert tú teg vanliga at, um tú finnur útav, at ein annar næmingur á aldur við teg verður happað/ur av øðrum næmingum? </em></p>
-<p><em type="bold">Mynd 12 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>19 3.2 Happing og tal av næmingum </p>
+<p><em type="bold">Mynd 12 </em>3.2 Happing og tal av næmingum </p>
 <p>Næmingatalið í skúlunum runt um landið er sera ymiskt. Tí er tað eisini áhugavert at kanna, um munur er á, hvussu umfatandi happingin er ávikavist í størri og minni skúlum – bæði í mun til tal av næmingum í skúlanum og í mun til næmingar pr. lærara.</p>
 <p>Fyrst kannaðu vit, um samlaða talið av næmingum í skúlanum hevði ávirkan á, hvussu nógv søgdu seg <em type="italic">verða happað </em>og síðani, hvussu nógv søgdu seg <em type="italic">hava happað </em>. Her benda tølini á, at so er ikki. </p>
 <p>Sum sæst á myndunum 13 og 14 er einans talan um smáar marginalar. Tó er tað merkisvert, at lutfalsliga fleiri næmingar í teimum smæstu skúlunum siga seg verða happað. Somu mynd fáa vit í mun til teirra, ið hava happað aðrar næmingar. Her sýnist munurin enn størri .</p>
@@ -277,7 +258,6 @@
 <p><em type="bold">Tal av næmingum </em></p>
 <p><em type="bold">Mynd 14 </em></p>
 <p><em type="italic">Sp.: Hvussu ofta hevur tú verið við til at happa annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>20 </p>
 <p>Tá vit hyggja eftir støðuni í mun til tal av næmingum pr. lærara, vísir ein áhugaverd mynd seg.</p>
 <p>Á mynd 15 síggja vit sama mynstur sum omanfyri – lutfalsliga líka nógvir næmingar í smærri og størri skúlum siga seg <em type="italic">verða happað </em>. </p>
 <p>Hinvegin, so vísir mynd 16, at talið av næmingum, ið siga seg <em type="italic">hava happað </em>fellur so líðandi sum talið av næmingum pr. lærara økist. Hóast talan er um lág næmingatøl í nøkrum førum, er talan um lutfalsliga nógvar skúlar, sum hava lágt næmingatal. </p>
@@ -293,8 +273,7 @@
 <p>Ei happað Havi happað</p>
 <p>N=1995; 1948 taldar við</p>
 <p><em type="italic">Sp.: Hvussu ofta hevur tú verið við til at happa annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar? </em></p>
-<p><em type="bold">Mynd 16 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>21 annað, sum eisini eyðkennir primerbólkar er, at teir (limirnir í bólkinum) hava lyndi til at royna at halda konfliktum og ósemjum niðri og oftani døma/virðismeta fólk eftir sereyðkennum, ið tey hava.10 3.3 Happing og kyn </p>
+<p><em type="bold">Mynd 16 </em>annað, sum eisini eyðkennir primerbólkar er, at teir (limirnir í bólkinum) hava lyndi til at royna at halda konfliktum og ósemjum niðri og oftani døma/virðismeta fólk eftir sereyðkennum, ið tey hava.10 3.3 Happing og kyn </p>
 <p>Myndirnar 17 og 18 vísa, at fleiri dreingir enn gentur eru partur í happing. Munurin er størstur, tá talan er um at happa onnur. Meira enn dupult so nógvir dreingir sum gentur, siga seg vera við til at happa – ávikavist 17% og 8%.</p>
 <p>Hetta merkir tó ikki, at dreingir neyðturviliga eru aggressivari enn gentur í sjálvum sær. Sosialiseringstilgongdin hjá dreingjum og gentum er ymisk. Tað kann hugsast, at tey skilja fyribrigdið happing á ymsan hátt. Hetta vístu vit eisini á í partinum omanfyri um hugburð, har gentur sýnast at leggja betur til merkis, tá happing fer fram enn dreingir.</p>
 <p>Happingin kann vera <em type="italic">beinleiðis </em>og <em type="italic">óbeinleiðis </em>og tí ikki altíð so løtt at fáa eyga á. Beinleiðis happing er sjónlig og kann eisini umfata bardagar har óbeinleiðis ikki altíð er so sjónligt, av tí at tað ofta snýr seg um at hýsa/frysta fólk úti. Munurin í tølunum kann eisini stava frá, hvussu kynini fata fyribrigdið og eisini, hvussu sjónlig happingin er. 10 Sí eisini, Boyesen &amp; Bru (1999), sum í eini kanning vísa á, at tað var lítil munur á elting og ósemjum millum næmingar stórum og smáum flokkum. </p>
@@ -311,8 +290,7 @@
 <p>N=1995; 1948 taldar við</p>
 <p><em type="italic">Sp.: Hvussu ofta hevur tú verið við til at happa annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar? </em></p>
 <p><em type="bold">Mynd 18 </em></p>
-<p><em type="italic">Sp.: Hvussu ofta ert tú happað/ur í skúlanum seinastu </em><em type="italic">mánaðirnar? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>22 3.4 Happing og aldur </p>
+<p><em type="italic">Sp.: Hvussu ofta ert tú happað/ur í skúlanum seinastu </em><em type="italic">mánaðirnar? </em>3.4 Happing og aldur </p>
 <p>Gongdin vísir seg at vera sera greið, tá talan er um happing í mun til aldur. Sum sæst á mynd 19, so lækkar títtleikin so hvørt sum næmingarnir gerast eldri fyri tey, ið siga seg verða happað - úr 21% í 5. flokki niður í 10% í 9. flokki.</p>
 <p>Í mun til tey, ið happa, vísir tað seg at títtleikin veksur frá 11 ára aldur til 13 ára aldur (5.-7. flokk) fyri síðani at lækka aftur.</p>
 <p>At títtleikin í mun til teirra, ið <em type="italic">hava happað </em>toppar millum tey 13 ára gomlu, kann uttan iva setast saman við kynsbúningina og tað skiftið, næmingarnir eru í hetta skeiðið í lívinum.11 </p>
@@ -326,8 +304,7 @@
 <p>Ei happað Havi happað</p>
 <p>N=1995; 1948 taldar við</p>
 <p><em type="italic">Sp.: Hvussu ofta hevur tú verið við til at happað annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar? </em></p>
-<p><em type="bold">Mynd 20 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>23 3.5 Happing og trivnaður </p>
+<p><em type="bold">Mynd 20 </em>3.5 Happing og trivnaður </p>
 <p>Í mun til happing og trivnað vísir tað seg at vera ein sera greiður samanhangur millum, hvussu nógv <em type="italic">hava happað </em>og hvussu nógv <em type="italic">verða happað </em>. Jú færri næmingar verða happað, jú fleiri siga seg trívast sera væl (mynd 21) og jú færri næmingar happa, tess fleiri siga seg trívast sera væl (mynd 22). </p>
 <p>Vert er eisini at leggja til merkis, at nærum helmingurin (45%) av teimum, sum siga seg happa aðrar næmingar trívast antin illa ella sera illa. Talið fyri tey, sum verða happað, vísir tað sama. 45% av teimum, sum verða happað, trívast antin illa ella sera illa.</p>
 <p>Bera vit trivnað saman við tal av næmingum í skúlanum (mynd 23 á næstu síðu) síggja vit, at tað eru nærum eins nógvir næmingar í teimum smæstu og teimum størstu skúlunum, sum siga seg trívast <em type="italic">væl </em>ella <em type="italic">sera væl. </em></p>
@@ -352,7 +329,6 @@
 <p><em type="italic">Sp.: Hvussu dámar tær í skúlanum? </em></p>
 <p>N=1995; 1940 taldar við</p>
 <p><em type="bold">Mynd 21 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>24 </p>
 <p>Fyri teir smærru skúlarnar (&lt;60 næmingar) eru tølini ávikavist 43% og 13% og fyri teir størru (532-592) eru tølini ávikavist 49% og 18%. Henda støða samsvarar væl við støðuna, sum vit sóu hana í mun til happing og tal av næmingum omanfyri.</p>
 <p>Tó broytist støðan eitt sindur, tá vit bera trivnaðin saman við tal av næmingum pr. lærarar. Mynd 24 vísir, at tá talið av næmingum pr. lærara er 1-3, eru tað 83% av næmingunum, ið siga seg trívast <em type="italic">væl </em>ella <em type="italic">sera </em><em type="italic">væl </em>. </p>
 <p>Samsvarandi talið fyri skúlar, har talið av næmingum pr. lærara liggur millum 21-24 er 40%. Myndin vísir, at tess færri tal av næmingum pr. lærara, tess betur trívast næmingarnir.</p>
@@ -374,8 +350,7 @@
 <p>Sera væl</p>
 <p>N=1995; 1979 taldar við</p>
 <p><em type="bold">Mynd 24 </em></p>
-<p><em type="italic">Sp.: Hvussu dámar tær í skúlanum? </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>25 <em type="bold">4 Hvør happar hvønn </em></p>
+<p><em type="italic">Sp.: Hvussu dámar tær í skúlanum? </em><em type="bold">4 Hvør happar hvønn </em></p>
 <p>Sambært myndunum 25 &amp; 26, kunnu vit samanumtikið siga, at gentur happa gentur, og dreingir happa dreingir. Tó verða gentur í størri mun happaðar av báðum kynunum. 27% av gentum siga seg verða happaðar av bæði gentum og dreingjum, meðan 11% av dreingjunum siga tað sama.</p>
 <p>Í mun til aldur vísir tað seg eisini, at dreingir happa meira enn gentur bæði einsæris og í bólkum. At dreingir í størri mun enn gentur eru partar av happing, sóu vit eisini omanfyri. Harafturat vísir tað seg, at talið av gentum, ið happa veksur frá 5.- 7. flokk fyri síðan at minka aftur.</p>
 <p><em type="bold">Happing og kyn </em>23%3%8%6%23%42%19%38%27%11%0%5%10%15%20%25%30%35%40%45% </p>
@@ -397,8 +372,7 @@
 <p>Av bæði gentum og dreingjum</p>
 <p xml:lang="dan">N=506</p>
 <p><em type="italic">Sp.: Ert tú happað/ur av dreingjum ella gentum? </em></p>
-<p><em type="bold">Mynd 26 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>26 <em type="bold">5 Hvussu og hvar verður happað </em>5.1 Á hvønn hátt verður happað Sum nevnt í partinum um,hvat happing er, so verður skilt ímillum <em type="italic">beinleiðis </em>og <em type="italic">óbeinleiðis </em>happing. Beinleiðis happing er at siga okkurt ljótt, kalla fólk særandi eyknevni, gera gjøldur burtur úr teimum og sláa, sparka ella royta tey – til dømis. Óbeinleiðis happing er ikki so sjónlig og er sum oftast at lúgva, slatra ella fáa onnur fólk at ikki at dáma ein persón. </p>
+<p><em type="bold">Mynd 26 </em><em type="bold">5 Hvussu og hvar verður happað </em>5.1 Á hvønn hátt verður happað Sum nevnt í partinum um,hvat happing er, so verður skilt ímillum <em type="italic">beinleiðis </em>og <em type="italic">óbeinleiðis </em>happing. Beinleiðis happing er at siga okkurt ljótt, kalla fólk særandi eyknevni, gera gjøldur burtur úr teimum og sláa, sparka ella royta tey – til dømis. Óbeinleiðis happing er ikki so sjónlig og er sum oftast at lúgva, slatra ella fáa onnur fólk at ikki at dáma ein persón. </p>
 <p>Teir spurningarnir í spurnablaðnum, ið snúgva seg um hættirnar at happa, eru spurningarnir 5-13 og 24-33 (sí, ískoyti, spurnablað). Eins og í undanfarnu pørtunum, hava vit valt at býta framløguna av háttinum, sum verður nýttur, sundur í tey sum <em type="italic">verða happað </em>og tey sum <em type="italic">hava happað </em>.12 12 Legg til merkis, at tey kundu seta kross við fleiri ymiskar hættir, og tí verður samlaða talið ikki 100%. </p>
 <p><em type="bold">Mynd 27 </em></p>
 <p><em type="bold">Á hvønn hátt verður happað </em>3%3%4%5%7%7%7%8%9%13%0%2%4%6%8%10%12%14% </p>
@@ -414,7 +388,6 @@
 <p><em type="bold">Aðrir næmingar hava happað meg, tí eg havi øðrvísi huðarlit ella tí, at eg komi aðrastaðni frá. </em></p>
 <p xml:lang="dan">N=304</p>
 <p><em type="italic">Sp.: Aðrir næmingar hava ... </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>27 </p>
 <p>Sum vit síggja á mynd 27 (omanfyri), so siga teir næmingarnir, ið eru happaðir, at tann mest nýtti hátturin er at kalla tey okkurt ljótt ella særandi. Næst eftir hesum siga tey, at tað verður logið og slatrað um tey – okkurt sum ikki passar. Nógvir næmingar siga eisini, at tey verða happað á annan hátt, men í flestu førum verður ikki greitt frá hvussu. Fysisk happing verður mest nýtt aftaná aðrar hættir.13</p>
 <p>Her síggja vit (mynd 28), at teir hættir, tey mest nýta eru at siga okkurt særandi ella ljótt og gera gjøldur burturúr. Eftir hetta kemur annað, har tey sum heild ikki tilskila, á hvønn hátt tað er. Sum tað triðja siga tey seg nýta at hýsa øðrum næmingum úti við vilja.</p>
 <p>Samanumtikið vísir kanningin, at teir mest nýtti hættirnir eru beinleiðis happing – fysisk og verbal. 13 Sí, ískoytir, dáturapport, á hvønn hátt gentir og dreingir happa.</p>
@@ -431,8 +404,7 @@
 <p><em type="bold">Eg havi hótt ella noytt hann/hana at gera ymiskt hann/hon ikki vildi gera. </em></p>
 <p><em type="bold">Eg havi tikið pengar ella okkurt annað frá honum/henni ella oyðilagt ymiskt fyri hann/hana. </em></p>
 <p xml:lang="dan">N=245</p>
-<p><em type="italic">Sp.: Eg havi ... </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>28 5.2 Hvar fer happingin fram </p>
+<p><em type="italic">Sp.: Eg havi ... </em>5.2 Hvar fer happingin fram </p>
 <p>Sum vit síggja á mynd 29, so fer happingin í høvuðsheitum fram í skúlagarðinum í fríkorterinum, í gongini og í flokshølinum bæði meðan undirvísing er, og tá eingin er.</p>
 <p>Fyri nógvar av næmingunum, ið verða happaðir, er so at siga einki friðskjól. Vit hava kannað, um tey, sum siga seg <em type="italic">verða happað </em>í flokshølinum meðan eingin undirvísing var, eisini verða happað í gongini og í skúlagarðinum í fríkorterinum. Hetta siga 75% av teimum, at tey eru (sí, ískoyti, dáturapport). Hugsast kann, at fyri onkrar næmingar, ið verða happaðir í teimum smærru skúlunum kring landið, verður støðan skerpað enn meira. Tað er millum annað, tí tey helst ikki hava nógva aðra staðir at fara – t.v.s. næmingar í øðrum flokkum, øðrum skúlum ella í umhvørvinum uttan fyri skúlan. </p>
 <p><em type="bold">Hvar fer happingin fram </em>23%29%62%40%90%70%76%81%84%69%77%71%38%60%30%24%19%16%31%10%0%10%20%30%40%50%60%70%80%90%100% </p>
@@ -449,8 +421,7 @@
 <p>Nei Ja</p>
 <p><em type="italic">Sp.: Hvar ert tú happað/ur? </em></p>
 <p xml:lang="dan">N=304</p>
-<p><em type="bold">Mynd 29 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>29 <em type="bold">6 Hvat verður gjørt við trupulleikan </em>6.1 Flokslærarin og næmingarnir </p>
+<p><em type="bold">Mynd 29 </em><em type="bold">6 Hvat verður gjørt við trupulleikan </em>6.1 Flokslærarin og næmingarnir </p>
 <p>Fyri at kanna, um næmingarnir kenna, at tað loysir seg at gera vart við trupulleikan í skúlaumhvørvinum, hava vit samanborið spurningarnar <em type="italic">Hevur tú sagt við flokslæraran/ vinmann/vinkonu, at tú ert happað/ur, </em>og hvussu nógv tey halda at gjørt verður fyri at fyribyrgja happing. </p>
 <p>Úrslitið sýnist at vera sera greitt. Tað loysir seg at siga tað við flokslæraran, at ein verður happað/ur, men ikki stórvegis við aðrar næmingar. Sum talva 30 vísir, so siga nærum helmingurin (42%) av teimum, ið hava sagt við flokslæraran, at tey verða happað, at lærarin hevur gjørt <em type="italic">nokk so nógv </em>ella <em type="italic">nógv </em>fyri at fyribyrgja happing í flokkinum. </p>
 <p>Valmøguleikarnir fyri spurningin um vinmenn/vinkonur (mynd 31) eru ikki heilt teir somu. Her siga 16%, at aðrir næmingar <em type="italic">ofta </em>ella <em type="italic">næstan altíð </em>royna at gera okkurt fyri at steðga, at ein annar næmingur verður happað/ur í skúlanum. </p>
@@ -475,8 +446,7 @@
 <p xml:lang="dan">N=174</p>
 <p><em type="italic">Sp.: Hevur tú sagt, at tú ert happað/ur við ein vinnmann ella vinkonu? </em></p>
 <p><em type="italic">Sp.: Hvussu ofta royna aðrir næmingar at gera okkurt fyri at steðga, at ein næmingur verður happað/ur í skúlanum? </em></p>
-<p><em type="bold">Mynd 31 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>30 6.2 Tiltøk á skúlum </p>
+<p><em type="bold">Mynd 31 </em>6.2 Tiltøk á skúlum </p>
 <p>Fleiri av skúlunum í kanningini hava havt ella hava tiltøk, sum skulu fyribyrgja happing. Flestu skúlarnir, ið hava sett tiltøk í verk, gera tað sambært arbeiðsháttinum hjá danska sálarfrøðinginum Helle Højby. Tó hava onkrir nýtt aðrar arbeiðshættir, millum annað mediasjón, evnisarbeiði og verkætlanir um happing.</p>
 <p>Fyri at kanna um tiltøkini møguliga hava havt ávirkan á, hvussu umfatandi happingin á teimum ymsu skúlum er, valdu vit at spyrja skúlarnar umvegis internetið, um teir hava havt tiltøk at basa/tálma happing í skúlanum (sí, ískoyti, spurnablað til skúlar). Vit valdu at spyrja, um tey hava havt tiltøk í skúlaárunum 2005/06 og 2006/07. Av teimum skúlum, ið eru við í kanningini svaraðu í alt 22 skúlar. Nakrir hava eingi tiltøk havt, nakrir einans ta eina skúlaárið og nakrir bæði. At ein meiriluti av skúlunum ikki svaraðu spurnablaðnum, kann tulkast sum, at teir ikki hava havt serlig tiltøk mótvegis happing.</p>
 <p>Úrslitið av hesum partinum av kanningini hava vit sett upp í myndirnar 32 og 33. Mynd 32 vísir lutfalsliga partin av næmingunum á skúlunum, ið siga seg <em type="italic">verða happað </em>í mun til lutfalsliga partin av teimum, sum hava luttikið í tiltøkum at tálma happing. Mynd 33 vísir sama bílæt, einans fyri tey, sum siga seg <em type="italic">hava happað </em>. </p>
@@ -493,8 +463,7 @@
 <p><em type="bold">Skúlar skipaðir eftir happing </em></p>
 <p><em type="bold">P </em><em type="bold">ar </em><em type="bold">tu </em><em type="bold">r </em><em type="bold">av </em><em type="bold">n </em><em type="bold">æ </em><em type="bold">m </em><em type="bold">in </em><em type="bold">g </em><em type="bold">u </em><em type="bold">m </em><em type="bold">, i </em><em type="bold">ð </em><em type="bold">s </em><em type="bold">ig </em><em type="bold">a </em><em type="bold">se </em><em type="bold">g </em><em type="bold">h </em><em type="bold">av </em><em type="bold">a </em><em type="bold">h </em><em type="bold">ap </em><em type="bold">p </em><em type="bold">að </em><em type="bold">( </em><em type="bold">% </em><em type="bold">) </em>020406080100120 </p>
 <p><em type="bold">P </em><em type="bold">ar </em><em type="bold">tu </em><em type="bold">r </em><em type="bold">av </em><em type="bold">s </em><em type="bold">p </em><em type="bold">u </em><em type="bold">rd </em><em type="bold">u </em><em type="bold">m </em><em type="bold">, i </em><em type="bold">ð </em><em type="bold">h </em><em type="bold">av </em><em type="bold">a </em><em type="bold">lu </em><em type="bold">tt </em><em type="bold">ik </em><em type="bold">ið </em><em type="bold">í </em><em type="bold">ti </em><em type="bold">lt </em><em type="bold">ø </em><em type="bold">ku </em><em type="bold">m </em><em type="bold">( </em><em type="bold">% </em><em type="bold">) </em></p>
-<p><em type="bold">Mynd 33 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>33 <em type="bold">7 Samanberingar við støðuna uttanlands </em></p>
+<p><em type="bold">Mynd 33 </em><em type="bold">7 Samanberingar við støðuna uttanlands </em></p>
 <p>Tað hava ikki verið gjørdar nakrar so umfatandi kanningar av happing í fólkaskúlanum í Føroyum áður. Tí er tað natúrligt at samanbera hesa kanning við kanningar av sama slagi aðrastaðni. Tað, at henda kanning er grundað á Olweus kanningarháttin, ger tað eisini møguligt at samanbera úrslitið í Føroyum við úrslitið í øðrum londum.</p>
 <p>Ì hesum partinum fara vit at samanbera við úrslitið frá <em type="italic">Health Behaviour in School-aged Children </em>(HBSC), ið er eitt granskingarsamstarv í virkisøkinum hjá WHO, har 41 lond samstarva. Tað verða gjørdar regluligar kanningar um børn/ung, vælferð, trivnað, heilsu og útbúgving. Viðmerkjast skal, at tølini, vit samanbera við, eru frá 2002. Dátu verða savnað inn 4. hvørt ár. Nýggj tøl eru savnað inn í 2006, men ikki almannakunngjørd enn. </p>
 <p>Talvurnar 34 og 35 vísa okkara støðu í mun til tey, sum <em type="italic">verða happað </em>og tey, ið <em type="italic">hava happað </em>. Mannagongdin er, at eitt miðaltal verður roknað fyri ávikavist gentur og dreingir fyri hvørt landið sær. Síðani verða tey ymsu londini skipað eftir hesum miðaltali. Grundarlagið fyri miðaltølini í Føroyum, eru sum tilskilað í dáturapportini( sí, ískoyti). </p>
@@ -510,18 +479,15 @@
 <p>Fø: 8,3 12,6</p>
 <p>Fø: 8,6 20,8</p>
 <p>Fø: 7,2 17,8</p>
-<p><em type="bold">Mynd 35 </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>36 <em type="bold">8 Niðurstøða og tilráðingar </em>8.1 Niðurstøða Í hesi kanning hava vit viðgjørt spurningin um, <em type="italic">hvussu umfatandi happing er í føroyska fólkaskúlanum, og hvat eyðkennir happingina. </em>Við einum svarprosenti upp á 88% og einum prosentbýti millum flokkar, kyn og øki, ið samsvarar væl við veruliga býtið, er tað innkomna tilfarið eitt haldgott grundarlag fyri at lýsa, hvussu umfatandi happing er í føroyska fólkaskúlanum og hvat eyðkennir hana. </p>
+<p><em type="bold">Mynd 35 </em><em type="bold">8 Niðurstøða og tilráðingar </em>8.1 Niðurstøða Í hesi kanning hava vit viðgjørt spurningin um, <em type="italic">hvussu umfatandi happing er í føroyska fólkaskúlanum, og hvat eyðkennir happingina. </em>Við einum svarprosenti upp á 88% og einum prosentbýti millum flokkar, kyn og øki, ið samsvarar væl við veruliga býtið, er tað innkomna tilfarið eitt haldgott grundarlag fyri at lýsa, hvussu umfatandi happing er í føroyska fólkaskúlanum og hvat eyðkennir hana. </p>
 <p>Vit hava staðfest, at happingarmynstrið og happingartíttleikin í Føroyum sum heild líkist tí í øðrum londum. Kanningin vísir, at dreingir í størri mun enn gentur eru partar av happing, og at happing millum skúlanæmingar minkar við aldrinum. Harumframt hava vit eisini staðfest, at greiður samanhangur er ímillum mistrivnað og happing, og at happingin í høvuðsheitum fer fram í flokshølinum, í gongini og í skúlagarðinum.</p>
 <p>Kanningin bendir á, at eingin greiður samanhangur er ímillum skúla- og floksstødd og happing. Samanhangurin millum tal av næmingum fyri hvønn lærara og happing er óvæntaður. Kanning vísir, at happingartíttleikin er hægri, jú færri næmingar eru fyri hvønn lærara. Hesin samanhangur peikar á, at happing er eitt fløkt fyribrigdi, sum ikki einans kann avmarkast til skúlaumhvørvið.</p>
 <p>Somuleiðis vísir kanningin, at tað ikki er ein greiður samanhangur millum, hvussu umfatandi happingin er á teimum einstøku skúlunum og tey tiltøk, sum skúlarnir hava sett í verk fyri at tálma happing. Ein veikleiki her er, at vit ikki vita frammanundan, hvussu støðið var undan átøkunum, og tískil kunnu vit ikki siga, um happingin er minkandi.</p>
 <p>Vit hava nýtt kanningarháttin hjá Olweus, sum er nógv royndur og nýttur í fleiri londum. Fyrimunurin við at nýta henda háttin er, at vit fáa identifiserað, um tað eru øki ella viðurskifti, ið eiga at verða kannað gjøllari, og at vit kunnu gera samanberingar yvir tíð og stað.</p>
-<p>Í kanningini hava vit gjørt samanberingar við kanningarúrslit hjá HBSC. Vit síggja, at Føroyar sum heild, samanborið við onnur lond, liggja í ovara endanum, tá talan er um happingartíttleika.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>37 8.2 Tilráðingar </p>
+<p>Í kanningini hava vit gjørt samanberingar við kanningarúrslit hjá HBSC. Vit síggja, at Føroyar sum heild, samanborið við onnur lond, liggja í ovara endanum, tá talan er um happingartíttleika. 8.2 Tilráðingar</p>
 <p>Tilráðingarnar taka støði í teimum royndum og fatanum, ið næmingarnir í hesi kanning hava givið til kennar umframt í øðrum kanningum, ið lýsa happing og tað, sum eyðkennir fyribrigdið.</p>
 <p>Kanningin vísir ikki ein greiðan samanhang millum, hvussu umfatandi happingin er á teimum einstøku skúlunum og tey tiltøk, sum skúlarnir hava sett í verk fyri at tálma happing. Happing er eitt fløkt fyribrigdi, har nógvir aktørar eru við og ikki einans avmarkað til skúlaumhvørvið. Skúlaumhvørvið er partur av einum nógv størri mynstri, har samfelagið rundanum eisini hevur stóra ávirkan á viðurskiftini í skúlanum. Tað kann tí tykjast torført at finna tí røttu loysnina at tálma happing og er tað ikki óhugsandi, at átøk mótvegis happing í einum skúlaflokki eisini smitta av uppá aðrar aktørar í umhvørvinum. Fyri at fáa eina betri fatan av, hvørja ávirkan møgulig átøk hava, er tørvur á neyvari upplýsingum um tey tiltøk, sum skúlar hava sett í verk, og hví skúlarnir hava valt viðkomandi leist.</p>
-<p>Vit hava í hesi kanning samanborið við tøl frá HBSC-samtakinum – <em type="italic">Health Behaviour in Schoolaged Children </em>- sum er eitt granskingarsamstarv undir WHO. HBSC-kanningarnar hava til endamáls at kanna og upplýsa um heilsu, vælferð og útbúgving hjá børnum og ungdómum. Hetta fyri at eggja myndugleikum og altjóða felagskapum at hava eftirlit við heilsustøðuni hjá børnum og ungum. Føroyar eru, lutvíst, longu við í teimum stóru frágreiðingunum frá hesum, um tær sonevndu ESPAD-kanningarnar - <em type="italic">European School Survey Project on Alchol and Other Drugs </em>. Hesar hava verið samskipaðar í Evropa síðan 1993 og hava til endamáls at lýsa rúsnýtslu hjá skúlaungdómi. Fyri at arbeiða meiri miðvíst við happing og teimum trupulleikum, sum standast av henni, og heilsustøðuni hjá okkara børnum og ungdómi, er tørvur á luttøku í altjóða granskingarsamstarvi. Tí áttu vit at luttikið í HBSC-granskingarsamstarvinum. Eitt nú gjørdist Grønland partur av hesum samstarvinum í byrjanini av 1990 árunum. Í HBSC eru granskarar við ymiskari fakligari bakgrund úr Evropa og Norður Amerika. Luttøka í altjóða granskingarfora sum hesum gevur okkum møguleika at samskifta, samanbera úrslit og ogna okkum nýggjastu vitan um fyrbrigdið happing og heilsustøðuna hjá okkara børnum og ungdómi. Á henda hátt verður arbeiðið við happing, og hvussu vit tálma henni meira miðvíst og við framtíðini í huga. </p>
-<p xml:lang="dan"><em type="bold">Granskingardepilin fyri Økismenning </em>38 <em type="bold">9 Keldulisti </em><em type="bold">Boolsen, Merete Watt </em>(2004). <em type="italic">Fra spørgeskema til statistisk analyse </em>. Genvej til pålidelige og gyldige analyser på et samfundsvidenskabeligt grundlag. København: C.A. Reitzel. <em type="bold">Boysen, Marit and Bru, Edvin </em>(1999). <em type="italic">Small Classes, Small Problems? </em>A Study of Peer </p>
+<p>Vit hava í hesi kanning samanborið við tøl frá HBSC-samtakinum – <em type="italic">Health Behaviour in Schoolaged Children </em>- sum er eitt granskingarsamstarv undir WHO. HBSC-kanningarnar hava til endamáls at kanna og upplýsa um heilsu, vælferð og útbúgving hjá børnum og ungdómum. Hetta fyri at eggja myndugleikum og altjóða felagskapum at hava eftirlit við heilsustøðuni hjá børnum og ungum. Føroyar eru, lutvíst, longu við í teimum stóru frágreiðingunum frá hesum, um tær sonevndu ESPAD-kanningarnar - <em type="italic">European School Survey Project on Alchol and Other Drugs </em>. Hesar hava verið samskipaðar í Evropa síðan 1993 og hava til endamáls at lýsa rúsnýtslu hjá skúlaungdómi. Fyri at arbeiða meiri miðvíst við happing og teimum trupulleikum, sum standast av henni, og heilsustøðuni hjá okkara børnum og ungdómi, er tørvur á luttøku í altjóða granskingarsamstarvi. Tí áttu vit at luttikið í HBSC-granskingarsamstarvinum. Eitt nú gjørdist Grønland partur av hesum samstarvinum í byrjanini av 1990 árunum. Í HBSC eru granskarar við ymiskari fakligari bakgrund úr Evropa og Norður Amerika. Luttøka í altjóða granskingarfora sum hesum gevur okkum møguleika at samskifta, samanbera úrslit og ogna okkum nýggjastu vitan um fyrbrigdið happing og heilsustøðuna hjá okkara børnum og ungdómi. Á henda hátt verður arbeiðið við happing, og hvussu vit tálma henni meira miðvíst og við framtíðini í huga. <em type="bold">9 Keldulisti </em><em type="bold">Boolsen, Merete Watt </em>(2004). <em type="italic">Fra spørgeskema til statistisk analyse </em>. Genvej til pålidelige og gyldige analyser på et samfundsvidenskabeligt grundlag. København: C.A. Reitzel. <em type="bold">Boysen, Marit and Bru, Edvin </em>(1999). <em type="italic">Small Classes, Small Problems? </em>A Study of Peer </p>
 <p xml:lang="dan">Harassment, Emotional Problems and Student Perception of Social Support at School in Small and</p>
 <p xml:lang="dan">Large Classes. School Psychology International, Vol. 20(4), pp. 338-351. London, Thousand Oaks,</p>
 <p xml:lang="dan">Ca and New Dehli: Sage Publications. <em type="bold">Craig, Wendy M. and Harel, Yossi </em>(2004). <span type="quote" xml:lang="dan">“Bullying, physical fighting and victimization.”</span> Currie </p>
@@ -529,8 +495,7 @@
 <p xml:lang="dan">Regional Office for Europe, Copenhagen. <em type="bold">Halse, John Aasted et al </em>(2001). <em type="italic">AMOR, Antimobberåd. </em>Artikelsamling om udstødelse blant skolebørn. Valby: Børns Vilkårs Forlag. Hareide, Dag (2004). ”En kritisk beretning om ’Den store nordiske mobbekrigen’.” Skolepsykologi. </p>
 <p xml:lang="dan">Tidsskrift for pedagogisk-psykoloigsk tjeneste, nr. 6 –2004, årgang 39. <em type="bold">Höistad, Gunnar </em>(1999). <em type="italic">Mobning - forebyggelse og løsninger </em>. Værløse: Billesø &amp; Baltzer. <em type="bold">Kjølbro, Turið </em>(2005). <span type="quote">“Lærarar hava skyldu at taka happing í álvara.”</span> <em type="italic"></em>Skúlablaðið, 5/2005, pp. 16-25. <em type="bold">Olweus Dan </em>(2005). <em type="italic">Spørreskjema om mobbing til elever. </em><em type="bold">Olweus Dan </em>(2001). General Information about the Revised Olweus Bully/Victim Questionaire, PC </p>
 <p xml:lang="dan">Program, and Teacher Handbook. <em type="bold">Olweus Dan </em>(2000). Instruksjoner ved administering av Olweus’ spørreskema om mobbing til elever på lavere og høyere klassetrinn (KLTR 3-9). <em type="bold">Olweus, Dan </em>(2000). <em type="italic">Mobning i skolen </em>. København: Hans Reitzels Forlag. <em type="bold">Petersen, Jógvan Jón, Dam, Jan Christian, Poulsen, Harriet </em>(2002). <em type="italic">Happing </em>. </p>
-<p>Próvtøkuverkætlan í námsfrøði, sálarfrøði og serlestri 4 L. Føroya Læraraskúli februar 2002. <em type="bold">Ráðleggingarnevnd Fólkaskúlans </em>(1996). <em type="italic">Álit um nýggja fólkaskúlalóg </em>. Landsskúlafyrisitingin. </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>39 <em type="bold">10 Ískoyti </em>10.1 Spurnablað </p>
+<p>Próvtøkuverkætlan í námsfrøði, sálarfrøði og serlestri 4 L. Føroya Læraraskúli februar 2002. <em type="bold">Ráðleggingarnevnd Fólkaskúlans </em>(1996). <em type="italic">Álit um nýggja fólkaskúlalóg </em>. Landsskúlafyrisitingin. <em type="bold">10 Ískoyti </em>10.1 Spurnablað </p>
 <p><em type="bold">Spurnablað til næmingar um happing </em></p>
 <p>Skúli: ...............................................................................................................................</p>
 <p>Flokkur(við tali og bókstavi, t.d. 6B).............................. Dagfesting.............................</p>
@@ -538,7 +503,6 @@
 <p xml:lang="dan"><em type="bold">Floksstig: </em></p>
 <p><em type="bold">Floksbókstavur: </em></p>
 <p xml:lang="dan">Copyright: Dan Olweus, 1996-2005</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>40 </p>
 <p>Í hesum hefti eru fleiri spurningar um vinmenn og vinkonur, um hvussu tú trívist í skúlanum og um happing. Hvør spurningur hevur fleiri svarmøguleikar, sum hava rút frammanfyri. 1.</p>
 <p>Hvussu dámar tær í skúlanum?</p>
 <p>Sera illa Illa Hvørki væl ella illa Væl Sera væl</p>
@@ -548,8 +512,7 @@
 <p>Tú skal ikki skriva navnið hjá tær á hetta heftið. Tí eingin skal vita, at tað er tú, sum hevur svarað. Men tað er týdningarmikið, at tú svarar júst soleiðis, sum tað er. Onkuntíð kann tað sjálvandi vera torført at vera vís/ur í, hvussu okkurt er, og hvussu tú skalt svara. Tá mást tú bara svara soleiðis, sum tú heldur ella meinar, at tað er. Tú kanst rætta hondina upp, um tú hevur nakað at spyrja um.</p>
 <p>Flestu spurningarnir í hesum hefti spyrja um, hvussu tú hevur havt tað teir seinastu mánaðirnar, t.v.s. frá tí at skúlin byrjaði eftir jólaferiuna og til nú. Tað er altso ikki bara spurningur um, hvussu tú hevur tað júst nú. 2.</p>
 <p>Ert tú genta ella drongur?</p>
-<p>Genta Drongur</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>41 3. </p>
+<p>Genta Drongur 3.</p>
 <p>Hvussu nógvar góðar vinmenn/vinkonur, hevur tú í tínum flokki?</p>
 <p>Eg havi onga/n góðan vinmann/vinkonu í flokkinum Eg havi 1 góða/n vinmann/vinkonu í flokkinum Eg havi 2 ella 3 góðar vinmenn/vinkonur í flokkinum Eg havi 4 ella 5 góðar vinmenn/vinkonur í flokkinum Eg havi 6 ella fleiri góðar vinmenn /vinkonur í flokkinum</p>
 <p type="listitem">Um at verða happað/ur  Vit skulu nú halda fram við spurningum um happing. Fyrst skulu vit greiða frá orðinum happing  soleiðis, at tú veitst, hvørjum tú skalt svara. Vit siga, at ein næmingur verður happaður, tá ein annar  næmingur ella fleiri aðrir næmingar:</p>
@@ -561,39 +524,29 @@
 <p>Tá ein verður happað/ur, endurtaka hesar hendingar seg fleiri ferðir, og tað er torført fyri tann happaða at verja seg. Um ein næmingur verður argaður fleiri ferðir á ein óreinan og særandi hátt, so er talan um happing.</p>
 <p>Tað er ikki happing, um onkur verður argað/ur á ein skemtiligan og vinarligan hátt. Tað er heldur ikki talan um happing, tá tveir næmingar, sum eru umleið eins sterkir berjast ella klandrast. 4.</p>
 <p>Hvussu ofta ert tú happað/ur í skúlanum seinastu mánaðirnar? eg eri ikki vorðin happað/ur í skúlanum seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>42 </p>
 <p><em type="bold">Hevur tú verið happað/ur í skúlanum seinastu mánaðirnar á ein ella </em><em type="bold">fleiri av hesum mátunum? </em></p>
 <p><em type="italic">Vinarliga svara øllum spurningunum. </em>5. </p>
 <p>Aðrir næmingar hava flent eftir mær, kallað meg okkurt ljótt ella argað meg á ein óreinan og særandi hátt. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 6.</p>
 <p>Aðrir næmingar hava við vilja hildið meg uttanfyri, stongt meg úti úr vinaflokkinum ella heilt lopið meg um. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 7.</p>
 <p>Eg eri sligin, sparkað/ur, roytt/ur, skumpað/ur ella stongd/ur inni. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 8.</p>
 <p>Aðrir næmingar hava logið og slatrað okkurt ósatt um meg og roynt at fáa onnur til ikki at dáma meg. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 9.</p>
-<p>Pengar ella onnur ting eru tikin frá mær ella oyðiløgd. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>43 10. Aðrir næmingar hava hótt ella tvungið meg til at gera ymiskt, sum eg ikki hevði viljað gjørt. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 11. Aðrir næmingar hava happað meg, tí eg havi øðrvísi húðalit, ella av tí, at eg komið aðrastaðni frá. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 12. Aðrir næmingar hava happað meg við fúlum orðum ella grovum teknum. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 12 a Aðrir næmingar hava happað meg við ótespiligum ella særandi boðum, samrøðum ella øðrum við fartelefonini ella á internetinum. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 12 b Um tú er happað/ur við fartelefonini ella á internetinum, á hvønn hátt er hetta farið fram? bara við fartelefonini bara á internetinum bæði við fartelefonini og á internetinum 13. Eg eri happað/ur á annan hátt. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>44 14. Í hvørjum flokki ganga næmingarnir, sum happa teg? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar ganga í mínum flokki ganga í einum øðrum flokki, men á sama floksstigi (parallellflokki) ganga í hægri flokki ganga í lægri flokki ganga í ymiskum flokkum 15. Ert tú happað/ur av dreingjum ella gentum? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar mest av einari gentu av fleiri gentum mest av einum drongi av fleiri dreingjum av bæði gentum og dreingjum 16. Hvussu nógvir næmingar happa teg vanliga? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar mest av einum næmingi av einum bólki við 2-3 næmingum av einum bólki við 4-9 næmingum av einum bólki við fleiri enn 9 næmingum av ymiskum næmingum ella bólkum av næmingum 17. Hvussu leingi ert tú happað/ur? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar tað vardi í eina ella tvær vikur tað vardi umleið ein mánað tað vardi umleið eitt hálvt ár tað vardi umleið eitt ár tað hevur vart í fleiri ár 18. </p>
+<p>Pengar ella onnur ting eru tikin frá mær ella oyðiløgd. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 10. Aðrir næmingar hava hótt ella tvungið meg til at gera ymiskt, sum eg ikki hevði viljað gjørt. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 11. Aðrir næmingar hava happað meg, tí eg havi øðrvísi húðalit, ella av tí, at eg komið aðrastaðni frá. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 12. Aðrir næmingar hava happað meg við fúlum orðum ella grovum teknum. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 12 a Aðrir næmingar hava happað meg við ótespiligum ella særandi boðum, samrøðum ella øðrum við fartelefonini ella á internetinum. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 12 b Um tú er happað/ur við fartelefonini ella á internetinum, á hvønn hátt er hetta farið fram? bara við fartelefonini bara á internetinum bæði við fartelefonini og á internetinum 13. Eg eri happað/ur á annan hátt. tað er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið 1 ferð um vikuna fleiri ferðir um vikuna 14. Í hvørjum flokki ganga næmingarnir, sum happa teg? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar ganga í mínum flokki ganga í einum øðrum flokki, men á sama floksstigi (parallellflokki) ganga í hægri flokki ganga í lægri flokki ganga í ymiskum flokkum 15. Ert tú happað/ur av dreingjum ella gentum? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar mest av einari gentu av fleiri gentum mest av einum drongi av fleiri dreingjum av bæði gentum og dreingjum 16. Hvussu nógvir næmingar happa teg vanliga? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar mest av einum næmingi av einum bólki við 2-3 næmingum av einum bólki við 4-9 næmingum av einum bólki við fleiri enn 9 næmingum av ymiskum næmingum ella bólkum av næmingum 17. Hvussu leingi ert tú happað/ur? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar tað vardi í eina ella tvær vikur tað vardi umleið ein mánað tað vardi umleið eitt hálvt ár tað vardi umleið eitt ár tað hevur vart í fleiri ár 18.</p>
 <p>Hvar ert tú happað/ur?</p>
 <p>Eg eri ikki happað/ur seinastu mánaðirnar ( <em type="italic">um tú </em><em type="italic">setur kross við henda rút, far so víðari til </em><em type="italic">spurning 19 </em>). <em type="italic"></em></p>
 <p>Eg eri happað/ur á einum ella fleiri støðum seinastu mánaðirnar ( <em type="italic">halt fram niðanfyri </em>). </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>45 </p>
 <p><em type="bold">Ert tú happað/ur seinastu mánaðirnar halt so fram her. </em></p>
 <p xml:lang="dan">Ert tú happað/ur: 18a. 18b. 18c. 18d. 18e. 18f. 18g. 18h. 18i. 18j.</p>
 <p>Í skúlagarðinum ( í fríkorterinum)? Í gongini? Í flokshølinum í tímunum? Í flokshølinum (meðan ongin undirvísing var)? Á vesinum? Í fimleikahøllini ella í skiftirúminum/brúsurúminum? Á veg til og úr skúla? Á bussplássinum? Í bussinum/skúlabussinum? Á øðrum staði í skúlanum?</p>
 <p>Nei ja nei ja nei ja nei ja nei ja nei ja nei ja nei ja nei ja nei ja, skriva hvar:_______________________ 19.</p>
-<p>Hevur tú sagt fyri nøkrum, at tú ert happað/ur í skúlanum seinastu mánaðirnar? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar ( <em type="italic">um tú setir kross við henda rút, </em><em type="italic">kanst tú fara víðari til spurning 20 </em>) eg eri happað/ur, men eg havi ikki sagt nøkrum tað ( <em type="italic">um tú setir kross við henda rút, kanst tú fara </em><em type="italic">víðari til spurning 20 </em>) eg eri happað/ur, og eg havi sagt tað við onkran (halt fram niðanfyri) </p>
-<p xml:lang="dan"><em type="bold">Granskingardepilin fyri Økismenning </em>46 19a. 19b. 19c. 19d. 19e. 19f. </p>
-<p><em type="bold">Hevur tú sagt, at tú ert </em><em type="bold">happað/ur við: </em>flokslæraran? onkran annan vaksnan í skúlanum (t.d. ein annan lærara, skúlastjóra, heilsusystir, pedellin, ella sálarfrøðingin)? onkran vaksnan heima? ein beiggja ella eina systur? ein vinmann ella vinkonu? onkran annan? nei ja nei ja nei ja nei ja nei ja nei ja, skriva so hvønn:____________________ 20. Hvussu ofta royna lærararnir ella onnur vaksin í skúlanum at gera okkurt fyri at steðga, at ein næmingur verður happaður í skúlanum? næstan ongantíð sjáldan av og á ofta næstan altíð 21. Hvussu ofta royna aðrir næmingar at gera okkurt fyri at steðga, at ein næmingur verður happaður í skúlanum? næstan ongantíð sjáldan av og á ofta næstan altíð22. Hevur nakar av teimum vaksnu heima tosað við skúlan fyri at fáa enda á, at tú verður happað/ur í skúlanum? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar nei, tey hava ikki tosað við skúlan ja, tey hava tosað við skúlan eina ferð ja, tey hava tosað við skúlan fleiri ferðir </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>4723. Tá tú sært, at ein næmingur á tínum aldri verður happaður í skúlanum, hvat kennir og hugsar tú tá? tað er júst tað, sum hann/hon hevur uppiborið eg kenni onki serligt eg taki eitt sindur synd í honum/henni eg taki synd í honum/henni og vil fegin hjálpa honum/henni </p>
+<p>Hevur tú sagt fyri nøkrum, at tú ert happað/ur í skúlanum seinastu mánaðirnar? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar ( <em type="italic">um tú setir kross við henda rút, </em><em type="italic">kanst tú fara víðari til spurning 20 </em>) eg eri happað/ur, men eg havi ikki sagt nøkrum tað ( <em type="italic">um tú setir kross við henda rút, kanst tú fara </em><em type="italic">víðari til spurning 20 </em>) eg eri happað/ur, og eg havi sagt tað við onkran (halt fram niðanfyri) 19a. 19b. 19c. 19d. 19e. 19f. </p>
+<p><em type="bold">Hevur tú sagt, at tú ert </em><em type="bold">happað/ur við: </em>flokslæraran? onkran annan vaksnan í skúlanum (t.d. ein annan lærara, skúlastjóra, heilsusystir, pedellin, ella sálarfrøðingin)? onkran vaksnan heima? ein beiggja ella eina systur? ein vinmann ella vinkonu? onkran annan? nei ja nei ja nei ja nei ja nei ja nei ja, skriva so hvønn:____________________ 20. Hvussu ofta royna lærararnir ella onnur vaksin í skúlanum at gera okkurt fyri at steðga, at ein næmingur verður happaður í skúlanum? næstan ongantíð sjáldan av og á ofta næstan altíð 21. Hvussu ofta royna aðrir næmingar at gera okkurt fyri at steðga, at ein næmingur verður happaður í skúlanum? næstan ongantíð sjáldan av og á ofta næstan altíð22. Hevur nakar av teimum vaksnu heima tosað við skúlan fyri at fáa enda á, at tú verður happað/ur í skúlanum? eg eri ikki happað/ur í skúlanum seinastu mánaðirnar nei, tey hava ikki tosað við skúlan ja, tey hava tosað við skúlan eina ferð ja, tey hava tosað við skúlan fleiri ferðir 23. Tá tú sært, at ein næmingur á tínum aldri verður happaður í skúlanum, hvat kennir og hugsar tú tá? tað er júst tað, sum hann/hon hevur uppiborið eg kenni onki serligt eg taki eitt sindur synd í honum/henni eg taki synd í honum/henni og vil fegin hjálpa honum/henni </p>
 <p><em type="bold">Um at happa aðrar næmingar </em>24. Hvussu ofta hevur tú verið við til at happa annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar? </p>
-<p>Eg havi ikki happað annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 25. Eg havi gjørt gjøldur burturúr øðrum næmingi/næmingum, kallað hann ymiskt ljótt ella argað hann á ein óreinan og særandi hátt. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 26. Eg havi við vilja hildið annan næming uttanfyri, stongt hann/hana uttan fyri vinaflokkin ella lopið hann/hana um. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 27. Eg havi sligið, sparkað, roytt, skumpað hann/hana ella stongt hann/hana inni. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 28. Eg havi slatrað okkurt ósatt um hann/hana og roynt at fingið onnur til ikki at dáma hann/hana. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 29. Eg havi tikið pengar ella okkurt annað frá honum/henni ella oyðilagt ymiskt fyri hann/hana. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>482 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 30. Eg havi hótt ella noytt hann/hana at gera ymiskt hann/hon ikki vildi gera. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 31. Eg havi happað hann/hana, tí hann/hon hevur øðrvísi húðalit ella kemur aðrastaðni frá. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 32. Eg havi happað hann/hana við fúlum orðum ella grovum teknum. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 32 a Eg havi happað hann/hana við ótespiligum ella særandi boðum, samrøðum ella øðrum við fartelefonini ella á internetinum. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 32 b Um tú hevur happað aðrar næmingar við fartelefonini ella á internetinum, á hvønn hátt er hetta farið fram? bara við fartelefonini bara á internetinum bæði við fartelefonini og á internetinum </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>4933. </p>
+<p>Eg havi ikki happað annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 25. Eg havi gjørt gjøldur burturúr øðrum næmingi/næmingum, kallað hann ymiskt ljótt ella argað hann á ein óreinan og særandi hátt. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 26. Eg havi við vilja hildið annan næming uttanfyri, stongt hann/hana uttan fyri vinaflokkin ella lopið hann/hana um. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 27. Eg havi sligið, sparkað, roytt, skumpað hann/hana ella stongt hann/hana inni. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 28. Eg havi slatrað okkurt ósatt um hann/hana og roynt at fingið onnur til ikki at dáma hann/hana. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 29. Eg havi tikið pengar ella okkurt annað frá honum/henni ella oyðilagt ymiskt fyri hann/hana. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 30. Eg havi hótt ella noytt hann/hana at gera ymiskt hann/hon ikki vildi gera. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 31. Eg havi happað hann/hana, tí hann/hon hevur øðrvísi húðalit ella kemur aðrastaðni frá. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 32. Eg havi happað hann/hana við fúlum orðum ella grovum teknum. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 32 a Eg havi happað hann/hana við ótespiligum ella særandi boðum, samrøðum ella øðrum við fartelefonini ella á internetinum. tað havi eg ikki gjørt seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna 32 b Um tú hevur happað aðrar næmingar við fartelefonini ella á internetinum, á hvønn hátt er hetta farið fram? bara við fartelefonini bara á internetinum bæði við fartelefonini og á internetinum 33.</p>
 <p>Eg havi happað hann/hana á annan hátt. tað havi eg ikki gjørt seinastu mánaðirnar er ikki hent mær seinastu mánaðirnar bert eina ferð 2 ella 3 ferðir um mánaðin umleið eina ferð um vikuna fleiri ferðir um vikuna</p>
-<p>Skriva so á hvønn hátt: _______________________________________ 34. Hevur flokslærarin ella onkur av hinum lærarunum tosað við teg um, at tú hevur happað aðrar næmingar í skúlanum seinastu mánaðirnar? eg havi ikki happað aðrar næmingar í skúlanum seinastu mánaðirnar nei, teir hava ikki tosað við meg um tað ja, teir hava tosað við meg um tað eina ferð ja, teir hava tosað við meg um tað fleiri ferðir 35. Hevur nakar av teimum vaksnu heima tosað við teg um, at tú hevur happað aðrar næmingar í skúlanum seinastu mánaðirnar? eg havi ikki happað aðrar næmingar í skúlanum seinastu mánaðirnar nei, tey hava ikki tosað við meg um tað ja, tey hava tosað við meg um tað eina ferð ja, tey hava tosað við meg um tað fleiri ferðir 36. Kundi tú hugsað tær at verið við til at happa ein næming, sum tær ikki dámar? ja ja, møguliga eg veit ikki nei, eg haldi ikki nei nei, als ikki 37. Hvussu bert tú teg vanliga at, um tú sært ella finnur útav, at ein næmingur á aldur við teg verður happaður av øðrum næmingum? eg havi ongantíð lagt merki til, at næmingar á mínum aldri eru happað eg eri sjálv/ur við til happingina eg happi ikki, men haldi, at tað er í lagi at happa eg bara hyggi at, hvat hendir eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum eg royni at hjálpa tí happaða næminginum á ein ella annan hátt</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>50 38. </p>
+<p>Skriva so á hvønn hátt: _______________________________________ 34. Hevur flokslærarin ella onkur av hinum lærarunum tosað við teg um, at tú hevur happað aðrar næmingar í skúlanum seinastu mánaðirnar? eg havi ikki happað aðrar næmingar í skúlanum seinastu mánaðirnar nei, teir hava ikki tosað við meg um tað ja, teir hava tosað við meg um tað eina ferð ja, teir hava tosað við meg um tað fleiri ferðir 35. Hevur nakar av teimum vaksnu heima tosað við teg um, at tú hevur happað aðrar næmingar í skúlanum seinastu mánaðirnar? eg havi ikki happað aðrar næmingar í skúlanum seinastu mánaðirnar nei, tey hava ikki tosað við meg um tað ja, tey hava tosað við meg um tað eina ferð ja, tey hava tosað við meg um tað fleiri ferðir 36. Kundi tú hugsað tær at verið við til at happa ein næming, sum tær ikki dámar? ja ja, møguliga eg veit ikki nei, eg haldi ikki nei nei, als ikki 37. Hvussu bert tú teg vanliga at, um tú sært ella finnur útav, at ein næmingur á aldur við teg verður happaður av øðrum næmingum? eg havi ongantíð lagt merki til, at næmingar á mínum aldri eru happað eg eri sjálv/ur við til happingina eg happi ikki, men haldi, at tað er í lagi at happa eg bara hyggi at, hvat hendir eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum eg royni at hjálpa tí happaða næminginum á ein ella annan hátt 38.</p>
 <p>Hvussu ofta kennir tú teg bangna/n fyri at verða happað/happaður av øðrum næmingum í skúlanum? ongantíð sjáldan av og á nokk so ofta ofta sera ofta 39. Hvussu nógv heldur tú, at flokslærarin hevur gjørt fyri at fyribyrgja happing í flokkinum seinastu mánaðirnar, sum heild? lítið og onki nokk so lítið eitt sindur nokk so nógv nógv</p>
 <p>Takk fyri hjálpina!</p>
-<p xml:lang="dan">Copyright: Dan Olweus, 1996 – 2005</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>5110.2 Til álitisfólkið </p>
+<p xml:lang="dan">Copyright: Dan Olweus, 1996 – 2005 10.2 Til álitisfólkið</p>
 <p type="listitem">Hetta er ein spurnakanning viðvíkjandi happing á føroysku skúlunum. Kanningin skal fremjast millum allar 5., 7. og 9. flokkarnar í Føroyum, um leið 2.000 – 2.500 næmingar.  Endamálið við spurnakanningini er at staðfesta, hvussu umfatandi happing er og hvat eyðkennir happing í føroysku skúlunum. Kanningin miðar ímóti at vísa á:</p>
 <p type="listitem">Hvussu nógv happa</p>
 <p type="listitem">Hvat halda føroysk skúlabørn um happing</p>
@@ -605,7 +558,6 @@
 <p type="listitem">Hvat halda næmingar, at skúlin, lærarar, næmingar og foreldur gera við happingartrupulleikan</p>
 <p>Tað er sera týdningarmikið, at álitisfólkið lesur spurnablaðið væl ígjøgnum, soleiðis at hann/hon kennir spurningarnar og kann hjálpa næmingum, sum ivast í, hvat teir merkja. Álitisfólkið skal eisini seta seg væl inní, hvussu spurnakanningin fer fram á skúlunum. Greitt verður frá tí niðanfyri.</p>
 <p><em type="bold">Reglur viðvíkjandi fyriskipan av spurnakanningini </em>Luttøka í spurnakanningini eigur at verða sjálvboðin. Um ein næmingur ikki ynskir at vera við í kanningini kann hann ella hon lata spurnablaðið ósvarað innaftur. Næmingar skulu ikki rýma úr flokshølinum, fyrr enn øll hava svarað spurnablaðnum. Verður ein næmingur liðugur fyri tíðina, kann hann gera skúlaarbeiði ella okkurt tílíkt, meðan bíðað verður. Um nakrir fáir næmingar nýta longri tíð enn aðrir orsakað av lesi/talutrupulleikum, kann álitisfólkið biðja hinar næmingarnar fara í fríkorter, meðan hesir næmingar svara spurnablaðnum liðugt. Um nógvir næmingar hava lesi/talutrupulleikar kunna 5. og 7. floks næmingar við lesi/talutrupulleikum svara spurnablaðnum saman á øðrum staði ella aðra tíð. Eru tríggir ella fleiri næmingar burtur, tá kanningin skal fara fram, kann hon verða útsett ella gjøgnumførast við burturstøddu næmingunum nakrar dagar seinni. Álitisfólkið skal helst ikki ganga runt í flokkinum, tí hetta kann skiljast, sum at hann/hon roynir at hyggja eftir, hvat næmingarnir svara. Men um einstakir næmingar hava trupulleikar við at útfylla spurnablaðið, skal álitisfólkið sjálvandi geva neyðuga hjálp. </p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>52 </p>
 <p type="listitem">Álitisfólkið hevur ábyrgdina av:</p>
 <p type="listitem">At næmingarnir sita so langt frá hvørjum øðrum, at teir ikki síggja í hjá hvørjum øðrum</p>
 <p type="listitem">At steðga øllum, sum kann órógva flokkin</p>
@@ -617,7 +569,6 @@
 <p>Hvussu dámar tær á skúlanum?</p>
 <p>Sera illa Illa Hvørki væl ella illa Væl Sera væl</p>
 <p>Tú svarar spurninginum við at seta ein týðuligan kross í rútin fyri tað svarið, sum hóskar best til tín. Um tær dámar sera illa á skúlanum, setur tú kross við rútin har tað stendur <span type="quote">“sera illa”</span>. Um tær dámar sera væl á skúlanum, setur tú kross við rútin framman fyri <span type="quote">“sera væl”</span> o.s. fr. Tú skalt einans seta kross í ein rút. Royn at seta krossin innan fyri rútin. Set nú kross í rútin við svarið, sum hóskar best til tín: Um tú setur kross í skeivan rút, skalt tú broyta títt svar soleiðis: Tú litar rútin svartan, so at hann sær soleiðis út . . Síðani setur tú kross í rættan rút, har, sum tú vilt, at svarið skal vera. Tú skal ikki seta títt navn á hetta hefti. Tí eingin skal vita, at tað er tú, sum hevur svarað. Men tað er týdningarmikið, at tú svarar júst soleiðis, sum tað er. Onkuntíð kann tað sjálvandi vera torført at vera vís/ur í, hvussu okkurt er, og hvat tú skalt svara. Tá mást tú bara svara soleiðis, sum tú heldur ella meinar, at tað er. Tú kanst rætta hondina upp, um tú hevur nakað at spyrja um.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>53 </p>
 <p>Flestu spurningarnir í hesum hefti spyrja um, hvussu tú hevur havt tað teir seinastu mánaðirnar, t.v.s. frá tí at skúlin byrjaði eftir summarferiuna/jólaferiuna og til nú. Tað er altso ikki bara spurningur um, hvussu tú hevur tað júst nú. 2.</p>
 <p>Ert tú genta ella drongur genta drongur 3.</p>
 <p>Hvussu nógvar góðar vinir/vinkonur hevur tú í tínum flokki?</p>
@@ -631,17 +582,14 @@
 <p>Tá ein verður happaður, endurtaka hesar hendingar seg fleiri ferðir, og tað er torført fyri tann happaða at verja seg. Um ein næmingur verður argaður fleiri ferðir á ein keðiligan og særandi hátt, so er talan um happing. Tað er ikki happing um onkur verður argaður á ein skemtiligan og vinarligan hátt. Tað er heldur ikki talan um happing, tá tveir næmingar, sum eru umleið eins sterkir berjast ella klandrast.</p>
 <p><em type="bold">Hava øll skilt, hvat vit meina við orðið happing? </em></p>
 <p>Um onkur spyr, hvat happing merkir, kann álitisfólkið greina hugtakið nærri og møguliga nevna okkurt dømi. Men tað er týdningarmikið, at álitisfólkið skilir væl allýsingina, sum varð nýtt omanfyri, sum bygdi á tríggjar treytir. Happing snýr seg um: 1. Negativa, ringa atferð sum 2. endurtekur seg ferð eftir ferð 3. millum persónar, sum ikki eru javnsettir, tá tað kemur til vald og styrki, har offrið tí hevur trupult við at verja seg.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>54 </p>
-<p>Tað kann vera serliga trupult hjá næmingunum at skilja millum argan, sum lutvíst er vinarlig og meinaleys (ikki happing) og óreina og særandi argan (=happing). Síðani heldur álitisfólkið fram við at lesa allar spurningarnar við svarmøguleikum fyri næmingunum í 5. flokki, meðan næmingarnir í 7. og 9. flokki kunna halda fram einsamallir. Tá næmingarnir eru lidnir at svara spurnabløðunum, samlar álitisfólkið spurnabløðini inn og koyrir tey í ein brævbjálva, sum verður eyðmerktur. Viðlagt í brævbjálvan verður skrásetingarblaðið, sum álitisfólkið fyllir út.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>5510.3 Spurnablað til skúlar </p>
+<p>Tað kann vera serliga trupult hjá næmingunum at skilja millum argan, sum lutvíst er vinarlig og meinaleys (ikki happing) og óreina og særandi argan (=happing). Síðani heldur álitisfólkið fram við at lesa allar spurningarnar við svarmøguleikum fyri næmingunum í 5. flokki, meðan næmingarnir í 7. og 9. flokki kunna halda fram einsamallir. Tá næmingarnir eru lidnir at svara spurnabløðunum, samlar álitisfólkið spurnabløðini inn og koyrir tey í ein brævbjálva, sum verður eyðmerktur. Viðlagt í brævbjálvan verður skrásetingarblaðið, sum álitisfólkið fyllir út. 10.3 Spurnablað til skúlar</p>
 <p><em type="bold">Skúli: </em></p>
 <p><em type="bold">Skúlaárið 2005/06 </em></p>
 <p><em type="bold">Skúlaárið 2006/07 </em></p>
 <p><em type="bold">Hevur skúlin sett nøkur </em><em type="bold">tiltøk í verk til tess at basa </em><em type="bold">happing millum skúla- </em><em type="bold">næmingar tvey tey seinastu </em><em type="bold">skúlaárini? </em></p>
 <p><em type="bold">Um ja, á hvørjum </em><em type="bold">floksstigum? </em></p>
 <p><em type="bold">Hvørji vóru hesi tiltøk ( stutt </em><em type="bold">lýsing)? </em></p>
-<p>Skúlarnir verða bidnir um at svara hesum spurningum og senda teir til janus@mmr.fo í seinasta lagi mikudagin 16. mai 2007.</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>5610.4 Skriv til skúlar Skriv til skúlarnar </p>
+<p>Skúlarnir verða bidnir um at svara hesum spurningum og senda teir til janus@mmr.fo í seinasta lagi mikudagin 16. mai 2007. 10.4 Skriv til skúlar Skriv til skúlarnar</p>
 <p><em type="bold">Kanning av happing millum skúlanæmingar </em></p>
 <p>Mentamálaráðið hevur tikið stig til at gera eina kanning av happing millum næmingar í fólkaskúlanum.</p>
 <p>Avtala er gjørd við Granskingardepilin fyri Økismenning um at taka sær av ítøkiligu fyriskipanini og eftirviðgerðini av kanningini.</p>
@@ -654,16 +602,14 @@
 <p>Skúlaleiðarin verður bidnir um at kunna lærarar og foreldur um kanningina frammanundan.</p>
 <p>Vinarliga</p>
 <p>Mentamálaráðið</p>
-<p>Janus Jensen <em type="italic">undirvísingarleiðari </em></p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>5710.5 Skriv til skúlaleiðarar Til skúlaleiðararnar </p>
+<p>Janus Jensen <em type="italic">undirvísingarleiðari </em>10.5 Skriv til skúlaleiðarar Til skúlaleiðararnar </p>
 <p>Í sambandi við at spurnarkanning um happing nú verður gjørd í 5., 7. og 9. flokkunum er tað av stórum týdningi, at foreldrini hjá hesum næmingum verða kunnað um hetta, áðrenn kanningin verður gjørd.</p>
 <p>Tit verða vinarligast bidnir um at fáa hetta í lag.</p>
 <p>Vinarliga</p>
 <p>Mentamálaráðið</p>
 <p>Janus Jensen, undirvísingarleiðari</p>
 <p>Hoyvíksvegur 72 100 Tórshavn</p>
-<p>Tlf: +298355043</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>5810.6 Dáturapport <em type="bold"></em></p>
+<p>Tlf: +29835504310.6 Dáturapport <em type="bold"></em></p>
 <p><em type="bold">Øki </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -689,7 +635,6 @@
 <p>Drongur 1001 50.2 50.2</p>
 <p>Vantar/ikki svarað 1 0.1 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1994 eindir av í alt 1995 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>59 </p>
 <p><em type="bold">Hvussu ofta er tú happað/ur </em><em type="bold">í skúlanum seinastu mánaðirnar? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -714,7 +659,6 @@
 <p>Happað 304 15.2 15.6</p>
 <p>Vantar/ikki svarað 41 2.1 - -------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1954 eindir av í alt 1995 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>60 </p>
 <p><em type="bold">Hevur happað – samantalt </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -744,7 +688,6 @@
 <p>Eg royni at hjálpa tí happaða næminginum á ein ella annan hátt 547 27.4 28.3</p>
 <p>Vantar/ikki svarað 63 3.2 - ------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1932 eindir av í alt 19951995 100.0 100.0 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>61 </p>
 <p><em type="bold">Ert tú happað/ur av dreingjum </em><em type="bold">ella gentum? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -774,7 +717,6 @@
 <p>Fleiri ferðir um vikuna 39 2.0 2.0</p>
 <p>Vantar/ikki svarað 49 2.5 - -------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1946 eindir av í alt 1995 -------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>62 </p>
 <p><em type="bold">Eg eri sligin, sparkað/ur, roytt/ur, </em><em type="bold">skumpað/ur ella stongd/ur inni. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -802,7 +744,6 @@
 <p>Fleiri ferðir um vikuna 12 0.6 0.6</p>
 <p>Vantar/ikki svarað 46 2.3 - ------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1949 eindir av í alt 1995 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>63 </p>
 <p><em type="bold">Aðrir næmingar hava hótt ella tvungið </em><em type="bold">meg at gera ymiskt, sum eg ikki </em><em type="bold">hevði viljað gjørt. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -830,7 +771,6 @@
 <p>Fleiri ferðir um vikuna 28 1.4 1.4</p>
 <p>Vantar/ikki svarað 59 3.0 - ----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1936 eindir av í alt 1995 ----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>64 </p>
 <p><em type="bold">Aðrir næmingar hava happað meg við </em><em type="bold">ótespiligum ella særandi boðum, </em><em type="bold">samrøðum ella øðrum við fartelefonini </em><em type="bold">ella á internetinum. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -857,7 +797,6 @@
 <p>Fleiri ferðir um vikuna 37 1.9 1.9</p>
 <p>Vantar/ikki svarað 78 3.9 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1917 eindir av í alt 1995 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>65 </p>
 <p><em type="bold">Kundi tú hugsað tær at verið </em><em type="bold">við til at happa annan næming, </em><em type="bold">sum tær ikki dámar? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -880,7 +819,6 @@
 <p>Eg royni at hjálpa tí happaða næminginum á ein ella annan hátt 547 27.4 28.3</p>
 <p>Vantar/ikki svarað 63 3.2 - -------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1932 eindir av í alt 1995 -------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>66 </p>
 <p><em type="bold">Ert tú happað/ur av dreingjum </em><em type="bold">ella gentum? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -910,7 +848,6 @@
 <p>Fleiri ferðir um vikuna 39 2.0 2.0</p>
 <p>Vantar/ikki svarað 49 2.5 - ----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1946 eindir av í alt 1995 ---------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>67 </p>
 <p><em type="bold">Eg eri sligin, sparkað/ur, roytt/ur, </em><em type="bold">skumpað/ur ella stongd/ur inni. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -938,7 +875,6 @@
 <p>Fleiri ferðir um vikuna 12 0.6 0.6</p>
 <p>Vantar/ikki svarað 46 2.3 - ----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1949 eindir av í alt 1995 ----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>68 </p>
 <p><em type="bold">Aðrir næmingar hava hótt ella tvungið </em><em type="bold">meg at gera ymiskt, sum eg ikki </em><em type="bold">hevði viljað gjørt. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -966,7 +902,6 @@
 <p>Fleiri ferðir um vikuna 28 1.4 1.4</p>
 <p>Vantar/ikki svarað 59 3.0 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1936 eindir av í alt 1995 -----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>69 </p>
 <p><em type="bold">Aðrir næmingar hava happað meg við </em><em type="bold">ótespiligum ella særandi boðum, </em><em type="bold">samrøðum ella øðrum við fartelefonini </em><em type="bold">ella á internetinum. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -993,7 +928,6 @@
 <p>Fleiri ferðir um vikuna 37 1.9 1.9</p>
 <p>Vantar/ikki svarað 78 3.9 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1917 eindir av í alt 1995 -----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>70 </p>
 <p><em type="bold">Eg havi gjørt gjøldur burtur úr øðrum </em><em type="bold">næmingi/næmingum, kallað hann/hana </em><em type="bold">ymiskt ljótt ella argað hann/hana á </em><em type="bold">ein óreinan og særandi hátt. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1012,7 +946,6 @@
 <p>Fleiri ferðir um vikuna 13 0.7 0.7</p>
 <p>Vantar/ikki svarað 60 3.0 - --------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1935 eindir av í alt 1995 --------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>71 </p>
 <p><em type="bold">Eg havi sligið, sparkað, roytt, skumpað </em><em type="bold">hann/hana ella stongt hann/hana inni. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1031,7 +964,6 @@
 <p>Fleiri ferðir um vikuna 6 0.3 0.3</p>
 <p>Vantar/ikki svarað 68 3.4 - ------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1927 eindir av í alt 1995 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>72 </p>
 <p><em type="bold">Eg havi tikið pengar ella okkurt </em><em type="bold">annað frá honum/henni ella oyðilagt </em><em type="bold">ymiskt fyri hann/hana. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1050,7 +982,6 @@
 <p>Fleiri ferðir um vikuna 3 0.2 0.2</p>
 <p>Vantar/ikki svarað 84 4.2 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1911 eindir av í alt 1995 -----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>73 </p>
 <p><em type="bold">Eg havi happað hann/hana, tí hann/hon </em><em type="bold">hevur øðrvísi huðarlit ella kemur </em><em type="bold">aðrastaðn frá. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1069,7 +1000,6 @@
 <p>Fleiri ferðir um vikuna 12 0.6 0.6</p>
 <p>Vantar/ikki svarað 81 4.1 - ------------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1914 eindir av í alt 1995 ------------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>74 </p>
 <p><em type="bold">Eg havi happað hann/hana við </em><em type="bold">ótespiligum ella særandi boðum, </em><em type="bold">samrøðum ella øðrum við fartelefonini </em><em type="bold">ella á internetinum. </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1097,7 +1027,6 @@
 <p>Fleiri ferðir um vikuna 11 0.6 0.6</p>
 <p>Vantar/ikki svarað 160 8.0 - ----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1835 eindir av í alt 1995 ----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>75 </p>
 <p><em type="bold">Hvar ert tú happað/ur </em><em type="bold">- í skúlagarðinum í fríkorterinum? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1126,7 +1055,6 @@
 <p>Ja 180 9.0 49.2</p>
 <p>Vantar/ikki svarað/ikki happað 1629 81.7 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 366 eindir av í alt 1995 -----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>76 </p>
 <p><em type="bold">Hvar ert tú happað/ur - Á vesinum? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1156,7 +1084,6 @@
 <p>Ja 51 2.6 15.0</p>
 <p>Vantar/ikki svarað/ikki happað 1656 83.0 - ----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 339 eindir av í alt 1995 ----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>77 </p>
 <p><em type="bold">Hvar ert tú happað/ur - Í bussinum/ </em><em type="bold">skúlabussinum? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1185,7 +1112,6 @@
 <p>Ja 204 10.2 66.0</p>
 <p>Vantar/ikki svarað/ikki happað 1686 84.5 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 309 eindir av í alt 1995 -----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>78 </p>
 <p><em type="bold">Hvussu nógv heldur tú, at flokslærarin hevur gjørt </em><em type="bold">fyri at fyribyrgja happing í flokkinum </em><em type="bold">seinastu mánaðirnar, sum heild? </em></p>
 <p><em type="bold">Tal </em></p>
 <p><em type="bold">Í % </em><em type="bold">% Gildugar </em></p>
@@ -1206,7 +1132,6 @@
 <p>Næstan altíð 94 4.7 4.9</p>
 <p>Vantar/ikki svarað 65 3.3 - -----------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 1995 100.0 100.0 1930 eindir av í alt 1995 -----------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>79 </p>
 <p>Happað</p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Aðrir næmingar hava flent eftir mær, </em><em type="bold">kallað meg okkurt ljótt ella argað meg </em><em type="bold">á ein óreinan og særandi hátt. </em></p>
@@ -1241,7 +1166,6 @@
 <p>Fleiri ferðir um vikuna 1.1 3.0 2.1 --------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 967 981 1948 1948 eindir av í alt 1995 -------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>80 </p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Aðrir næmingar hava logið og slatrað okkurt </em><em type="bold">ósatt um meg og roynt at fáa onnur til </em><em type="bold">ikki at dáma meg. </em></p>
 <p><em type="bold">Genta </em></p>
@@ -1275,7 +1199,6 @@
 <p>Fleiri ferðir um vikuna 1.0 0.6 0.8 ---------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 967 984 1951 1951 eindir av í alt 1995 ---------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>81 </p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Aðrir næmingar hava happað meg, tí eg havi </em><em type="bold">øðrvísi húðalit, ella av tí, at eg </em><em type="bold">komið aðrastaðni frá. </em></p>
 <p><em type="bold">Genta </em></p>
@@ -1309,7 +1232,6 @@
 <p>Fleiri ferðir um vikuna 0.8 0.6 0.7 --------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 952 953 1905 1905 eindir av í alt 1995 -------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>82 </p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Um tú er happað/ur við fartelefonini ella </em><em type="bold">á internetinum, á hvønn hátt er </em><em type="bold">hetta farið fram? </em></p>
 <p><em type="bold">Genta </em></p>
@@ -1331,7 +1253,6 @@
 <p>Fleiri ferðir um vikuna 1.8 2.1 1.9 --------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 953 964 1917 1917 eindir av í alt 1995 -------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>83 </p>
 <p>Hevur happað</p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Eg havi gjørt gjøldur burtúr øðrum næmingi/ </em><em type="bold">næmingum, kalla hann/hana ymsikt ljótt ella </em><em type="bold">argað hann/hana á ein óreinan og særandi hátt. Genta </em></p>
@@ -1354,7 +1275,6 @@
 <p>Fleiri ferðir um vikuna 0.5 0.8 0.7 ---------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 968 967 1935 1935 eindir av í alt 1995 --------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>84 </p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Eg havi sligið, sparka, roytt, skumpað hann/ </em><em type="bold">hana ella stongt hann/hana inni. </em></p>
 <p><em type="bold">Genta </em></p>
@@ -1387,7 +1307,6 @@
 <p>Fleiri ferðir um vikuna 0.2 0.2 0.2 --------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 958 952 1910 1910 eindir av í alt 1995 --------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>85 </p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Eg havi hótt ella noytt hann/hana at gera ymiskt </em><em type="bold">hann/hon ikki vildi gera. </em></p>
 <p><em type="bold">Genta </em></p>
@@ -1421,7 +1340,6 @@
 <p>Fleiri ferðir um vikuna 0.2 1.0 0.6 --------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 958 956 1914 1914 eindir av í alt 1995 --------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>86 </p>
 <p><em type="bold">Ert tú genta ella drongur? </em></p>
 <p><em type="bold">Eg havi happað hann/hana við ótespiligum ella </em><em type="bold">særandi boðum, samrøðum ella øðrum við </em><em type="bold">fartelefonini ella á internetinum. </em></p>
 <p><em type="bold">Genta </em></p>
@@ -1455,7 +1373,6 @@
 <p>Fleiri ferðir um vikuna 0.9 0.3 0.6 --------------------------------------------------------------------------------------------------------------</p>
 <p>Tilsamans 100.0 100.0 100.0</p>
 <p>N= 918 917 1835 1835 eindir av í alt 1995 -------------------------------------------------------------------------------------------------------------</p>
-<p><em type="bold">Granskingardepilin fyri Økismenning </em>87 </p>
 <p><em type="bold">Samanberingar við støðuna uttanlands - happing í mun til kyn og aldur </em></p>
 <p><em type="bold">Genta Drongur Tilsamans </em><em type="bold">5. flokkur </em></p>
 <p>Ei happað 84,4% 75,9% 79,1%</p>

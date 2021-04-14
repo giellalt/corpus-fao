@@ -1,15 +1,7 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>779</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>vegleiðing-til-skattaavseting-fyri-kommunurnar-2012.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">FÍGGJARMÁLARÁÐIÐ </em></p>
-<p type="listitem">Kvíggjartún 1</p>
-<p type="listitem">Postsmoga 2039</p>
-<p type="listitem">165  Argir   (+298) 35 20 20</p>
-<p type="listitem"> (+298) 35 20 25</p>
-<p type="listitem" xml:lang="dan">fmr@fmr.fo</p>
-<p type="listitem">www.fmr.fo</p>
-<p><em type="bold">Vegleiðing til skattaavseting fyri kommunur </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>670</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>vegleiðing-til-skattaavseting-fyri-kommunurnar-2012.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Vegleiðing til skattaavseting fyri kommunur </em></p>
 <p>Kommunur skulu sambært kontuskipanini avseta fyri skatt, ið ikki er goldin. Hetta skrivið er vegleiðing í, hvussu funnið verður fram til tølini, ið avsett skulu vera.</p>
 <p><em type="bold">Hvussu verður avsett? </em></p>
 <p>Kommunur skulu avseta hvørt ár við ársenda við at brúka STRKT 6191 og STRKT 0339. Hesar báðar konturnar skulu tí altíð javnviga. Kommunur avskriva ikki í sínum bókhaldi, tí TAKS fremur avskrivingina samsvarandi skattalógini. Kommunur avseta í sínum bókhaldi soleiðis: Inniverandi roknskaparár: 0 % av saldo hetta árið 1. ár undan inniverandi roknskaparári: 20 % av saldo á ávikavist 0330 og 0331 2. ár undan inniverandi roknskaparári: 40 % av saldo á ávikavist 0330 og 0331 3. ár undan inniverandi roknskaparári: 60 % av saldo á ávikavist 0330 og 0331 4. ár undan inniverandi roknskaparári: 80 % av saldo á ávikavist 0330 og 0331 5. ár og meira undan inniverandi roknskaparári: 100% av saldo á ávikavist 0330 og 0331 Prinsippið verður brúkt fyri bæði persónsskatt og felagsskatt. Bókað verður við at útreiðsluføra á STRKT 6191 <em type="italic">Avseting móti tapi </em>og skuldarføra á STRKT 0339 <em type="italic">Avsetingar móti tapi </em>. Avsetingin STRK 6191 verður gjørt á rakstrarstaðnum fyri ávíkavist kommunuskatt og felagsskatt. Saldan fyri einstøku skattaárini kann finnast í leiðslukunningarskipanini (sí vegleiðing niðanfyri). </p>
-<p><em type="bold">F Í G G J A R M Á L A R Á Ð I Ð </em>2/ <em type="bold">6 </em></p>
 <p><em type="bold">Dømi fyri avseting </em></p>
 <p>Eitt dømi fyri avseting verður her gjøgnumgingið: Við ársenda 2010 sóu saldurnar á 0330 og 0331 soleiðis út býttar á skattaár:</p>
 <p><em type="bold">Skattaár Upphædd </em>2010 1.100 2009 900 2008 700 2007 500 2006 300 2005 og eldri 200 </p>
@@ -19,14 +11,10 @@
 <p>Skattaavsetingin skal vanliga verða gjørd í tíðarskeið 13 í roknskaparárinum. Til ber tó eisini at nýta tíðarskeið 12 ella tíðarskeið 14.</p>
 <p><em type="bold">Hvussu finni eg tølini? </em></p>
 <p>Í leiðslukunningini kunnu finnast tølini fyri álíknaðan skatt og goldnan skatt ár fyri ár, og við at rokna munin millum hesi bæði, ber til at finna skattaeftirstøðuna fyri hvørt árið. Í leiðslukunningini verður farið inn á kommunuavrokningina fyri tína kommunu (her verður Fuglafjarðar kommuna brúkt sum dømi):</p>
-<p><em type="bold">F Í G G J A R M Á L A R Á Ð I Ð </em>3/ <em type="bold">6 </em></p>
 <p>Á næstu myndini, trýst á 0330 fyri at koma inn á persónsskattin ella 0331 fyri at koma inn á felagsskattin:</p>
-<p><em type="bold">F Í G G J A R M Á L A R Á Ð I Ð </em>4/ <em type="bold">6 </em></p>
 <p>Í myndini sum komið verður inn á, ber til at síggja álíknaða skattin útgreinaðan eftir skattaári, við at velja útgreining 1000 (Goldin skattur sæst við at trýsta á útgreining 5000):</p>
 <p>Á síðuni sæst nú álíknaður kommunuskattur býttur eftir skattaári uppbýtt í primotøl og rørslur í árinum (sí tølini í fyrstu kolonnu aftanfyri punktum):</p>
-<p><em type="bold">F Í G G J A R M Á L A R Á Ð I Ð </em>5/ <em type="bold">6 </em></p>
 <p>Tølini fyri primo 2011 er sjálvandi soma tølini sum ultimo 2010, og eru tí tølini sum skulu brúkast til at uppgera álíknaða skattin uppbýtt eftir ári per ultimo 2010. Tølini í <span type="quote">“Primo”</span><span type="quote">”-kolonnuni verða tí sett inn í rokniark, uppbýtt eftir ári. Fyri at lætta um innlesingina í Excel, ber til at trýsta á knøttin ovast í høgra horni og síðani trýsta Excel format - “Innles”</span><span type="quote" xml:lang="dan">“Innles”</span></p>
-<p><em type="bold">F Í G G J A R M Á L A R Á Ð I Ð </em>6/ <em type="bold">6 </em></p>
 <p>Um Windows er sett rætt upp, skuldi tølini nú verðið innlisin í Excel. Um hetta ikki virkar, so er neyðugt at innlesa í rokniark manuelt. Á sama hátt verða tølini fyri goldna skattin (útgreining 5000) innlisin í rokniark. Fyri hvørt ár verður skattaeftirstøðan funnin sum munurin millum álíknaðan og goldnan skatt skattaár fyri skattaár. Samlaða upphæddin, sum skal vera avsett ultimo, verður síðani roknað eftir hvat ár talan er um (0% av ikki-goldna skattinum skal vera avsett, um talan er um inniverandi ár, 20% um 1 ár áðrenn inniverandi ár osfr.). Fyri at avsetta upphæddin ultimo skal vera røtt, verður bókað munurin millum tað, sum avsett er primo, og tað sum skal vera avsett ultimo.</p>
 <p><em type="bold">Hvussu við samanlagdum kommunum? </em></p>
 <p>Avseting skal sjálvandi gerast fyri allar <span type="quote">“kommunur”</span> í kommununi. Til dømis avsetir Klaksvíkar kommuna av fyri Klaksvíkar, Svínoyar og Mikladals kommunur.</p>
