@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>38509</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>rapport-om-kortlægning-af-pensionsreglerne-på-færøerne-i-grønland-og-da.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan"><em type="bold">Rapport om kortlægning af pensionsreglerne på Færøerne, i Grønland og Danmark </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>38478</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>rapport-om-kortlægning-af-pensionsreglerne-på-færøerne-i-grønland-og-da.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan"><em type="bold">Rapport om kortlægning af pensionsreglerne på Færøerne, i Grønland og Danmark </em></p>
 <p xml:lang="dan">Arbejdsgruppens rapport</p>
 <p>Juni 2016</p>
 <p xml:lang="dan"><em type="bold">Indholdsfortegnelse </em></p>
@@ -324,7 +324,7 @@
 <p xml:lang="dan">Grundbeløb 89.9881 59.900 72.756</p>
 <p>Tillæg 45.252 74.300 76.7882</p>
 <p xml:lang="dan">Alderspension, samlet 135.240 134.200 149.544</p>
-<p xml:lang="dan">Note: 1. Beløbet består af grundbeløb (43.068 kr.) + solidarisk arbejdsmarkedsefterløn (46.920 kr.). 2. Pensionstil æg til reelt enlige.</p>
+<p xml:lang="dan">Note: 1. Beløbet består af grundbeløb (43.068 kr.) + solidarisk arbejdsmarkedsefterløn (46.920 kr.). 2. Pensionstillæg til reelt enlige.</p>
 <p xml:lang="dan"><em type="bold">Indkomstbetingede tillæg til enlige alderspensionister </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Færøerne </em></p>
 <p><em type="bold">Grønland </em></p>
@@ -342,8 +342,8 @@
 <p>Danmark</p>
 <p xml:lang="dan">Fradrag, grundbeløb ved arbejdsindtægt 310.000</p>
 <p xml:lang="dan">Fradrag, tillæg reelt enlig 68.400</p>
-<p xml:lang="dan">Fradrag, varmetillæg, helbredstil æg, supplerende pensionsydelse1, 2 19.700</p>
-<p xml:lang="dan">Note: 1. Formuegrænse for helbredstil æg og supplerende pensionsydelse er 82.600 kr. 2. Ved opgørelse af indtægtsgrundlaget ses bort fra alderspensionistens indtægt ved personligt arbejde på op til 60.000 kr. i et kalenderår.</p>
+<p xml:lang="dan">Fradrag, varmetillæg, helbredstillæg, supplerende pensionsydelse1, 2 19.700</p>
+<p xml:lang="dan">Note: 1. Formuegrænse for helbredstillæg og supplerende pensionsydelse er 82.600 kr. 2. Ved opgørelse af indtægtsgrundlaget ses bort fra alderspensionistens indtægt ved personligt arbejde på op til 60.000 kr. i et kalenderår.</p>
 <p xml:lang="dan"><em type="bold">Ydelser til par/gifte alderspensionister i hver rigsdel, ved fuld bopælstid i hver rigsdel (før skat), 2016 </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Færøerne </em></p>
 <p><em type="bold">Grønland </em></p>
@@ -369,8 +369,8 @@
 <p>Danmark</p>
 <p xml:lang="dan">Fradrag, grundbeløb ved arbejdsindtægt 310.000</p>
 <p xml:lang="dan">Fradrag, tillæg gifte/samlevende 137.300</p>
-<p xml:lang="dan">Fradrag, varmetil æg, helbredstil æg, supplerende pensionsydelse, gifte/samlevende1, 2 39.000</p>
-<p xml:lang="dan">Note: 1. Formuegrænse for helbredstil æg og supplerende pensionsydelse er 82.600 kr. 2. Ved opgørelse af indtægtsgrundlaget ses bort fra alderspensionistens indtægt ved personligt arbejde på op til 60.000 kr. i et kalenderår.</p>
+<p xml:lang="dan">Fradrag, varmetillæg, helbredstillæg, supplerende pensionsydelse, gifte/samlevende1, 2 39.000</p>
+<p xml:lang="dan">Note: 1. Formuegrænse for helbredstillæg og supplerende pensionsydelse er 82.600 kr. 2. Ved opgørelse af indtægtsgrundlaget ses bort fra alderspensionistens indtægt ved personligt arbejde på op til 60.000 kr. i et kalenderår.</p>
 <p xml:lang="dan"><em type="bold">Tillæg som følge af status som alderspensionist </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Beløb/værdi - årligt </em></p>
 <p xml:lang="dan">Færøerne1</p>
@@ -386,7 +386,7 @@
 <p xml:lang="dan">Personligt tillæg3</p>
 <p xml:lang="dan">Ordinært børnetilskud, når begge et barns forældre modtager alderspension, pr. barn 5.432</p>
 <p xml:lang="dan">Særligt børnetilskud, når en eller begge barnets forældre modtager alderspension, pr. barn 15.684</p>
-<p xml:lang="dan">Note: 1. Desuden kan ansøges om personligt til æg ved afholdelse af særlige udgifter. 2. Børnetillægget er pt. på 1.000 kr. pr. md. De 2 øvrige til æg er skønsmæssigt fastsat. 3. Ydelser er behovsbestemte.</p>
+<p xml:lang="dan">Note: 1. Desuden kan ansøges om personligt tillæg ved afholdelse af særlige udgifter. 2. Børnetillægget er pt. på 1.000 kr. pr. md. De 2 øvrige tillæg er skønsmæssigt fastsat. 3. Ydelser er behovsbestemte.</p>
 <p xml:lang="dan"><em type="bold">Førtidspension </em></p>
 <p xml:lang="dan"><em type="bold">Samlet ydelse1 til enlig førtidspensionist i hver rigsdel, ved fuld bopælstid i rigsdelen (før skat), 2016 </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Færøerne </em></p>
@@ -400,7 +400,7 @@
 <p xml:lang="dan">Mellemste 129.468 73.776 183.816 ..</p>
 <p xml:lang="dan">Forhøjet almindelig3 .. .. 183.816 ..</p>
 <p xml:lang="dan">Laveste/Almindelig 128.472 55.332 183.816 ..</p>
-<p xml:lang="dan">Note: 1. Særlige til æg m.v. er ikke inkluderet 2. Førtidspensionsydelsen i Danmark ved tilkendelse efter 1.1. 2003 3. Særlig dansk førtidspensionsydelse tilkendt før 1.1. 2003</p>
+<p xml:lang="dan">Note: 1. Særlige tillæg m.v. er ikke inkluderet 2. Førtidspensionsydelsen i Danmark ved tilkendelse efter 1.1. 2003 3. Særlig dansk førtidspensionsydelse tilkendt før 1.1. 2003</p>
 <p xml:lang="dan"><em type="bold">Specificeret ydelse1 til enlig førtidspensionist i hver rigsdel, ved fuld bopælstid i rigsdelen (før skat), 2016 </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Højeste </em></p>
 <p xml:lang="dan"><em type="bold">Mellemste </em></p>
@@ -433,7 +433,7 @@
 <p xml:lang="dan">Danmark (efter 1.1.-2003)</p>
 <p xml:lang="dan">Førtidspension 217.464 - heraf udgør tillæg 59.556</p>
 <p xml:lang="dan">Danmark i alt <em type="italic">217.464 </em></p>
-<p xml:lang="dan">Note: 1. Særlige til æg m.v. er ikke inkluderet. 2. Ydelsessatser gældende fra 1. juli 2016. 3. Modtagere af førtidspension efter regler før 1.1.-2003, er berettiget til børnetilskud, som modtagere af alderspension, jf. ovenfor.</p>
+<p xml:lang="dan">Note: 1. Særlige tillæg m.v. er ikke inkluderet. 2. Ydelsessatser gældende fra 1. juli 2016. 3. Modtagere af førtidspension efter regler før 1.1.-2003, er berettiget til børnetilskud, som modtagere af alderspension, jf. ovenfor.</p>
 <p xml:lang="dan"><em type="bold">Fradragsgrænser for modtagelse af førtidspensionsydelser, enlige </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Beløb/værdi </em></p>
 <p xml:lang="dan">Færøerne</p>
@@ -449,7 +449,7 @@
 <p xml:lang="dan">Fradrag, varmetillæg, helbredstillæg, supplerende pensionsydelse2 19.700</p>
 <p xml:lang="dan">Danmark (efter 1.1.-2003)</p>
 <p>Fradrag 74.300</p>
-<p xml:lang="dan">Note: 1. Ydelsessatser gældende fra 1. juli 2016. 2. Formuegrænse for helbredstil æg og supplerende pensionsydelse er 82.600 kr.</p>
+<p xml:lang="dan">Note: 1. Ydelsessatser gældende fra 1. juli 2016. 2. Formuegrænse for helbredstillæg og supplerende pensionsydelse er 82.600 kr.</p>
 <p xml:lang="dan"><em type="bold">Samlet ydelse1 til gift førtidspensionist i hver rigsdel, ved fuld bopælstid i rigsdelen (før skat), 2016 </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Færøerne </em></p>
 <p><em type="bold">Grønland </em></p>
@@ -462,7 +462,7 @@
 <p xml:lang="dan">Mellemste 115.344 73.776 144.576 ..</p>
 <p xml:lang="dan">Forhøjet almindelig3 .. .. 144.756 ..</p>
 <p xml:lang="dan">Laveste/Almindelig 113.064 55.332 144.756 ..</p>
-<p xml:lang="dan">Note: 1. Særlige til æg m.v. er ikke inkluderet. 2. Førtidspensionsydelsen i Danmark ved tilkendelse efter 1.1. 2003. 3. Særlig dansk førtidspensionsydelse tilkendt før 1.1. 2003.</p>
+<p xml:lang="dan">Note: 1. Særlige tillæg m.v. er ikke inkluderet. 2. Førtidspensionsydelsen i Danmark ved tilkendelse efter 1.1. 2003. 3. Særlig dansk førtidspensionsydelse tilkendt før 1.1. 2003.</p>
 <p xml:lang="dan"><em type="bold">Specificeret ydelse1 til gift førtidspensionist i hver rigsdel, ved fuld bopælstid i rigsdelen (før skat), 2016 </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Højeste </em></p>
 <p xml:lang="dan"><em type="bold">Mellemste </em></p>
@@ -495,7 +495,7 @@
 <p xml:lang="dan">Danmark (efter 1.1.-2003)</p>
 <p xml:lang="dan">Førtidspension 184.848 - heraf udgør tillæg 51.180</p>
 <p xml:lang="dan">Danmark i alt <em type="italic">184.848 </em></p>
-<p xml:lang="dan">Note: 1. Særlige til æg m.v. er ikke inkluderet. 2. Ydelsessatser gældende fra 1. juli 2016. 3. Modtagere af førtidspension efter regler før 1.1.2003, er berettiget til børnetilskud, som modtagere af alderspension, jf. ovenfor.</p>
+<p xml:lang="dan">Note: 1. Særlige tillæg m.v. er ikke inkluderet. 2. Ydelsessatser gældende fra 1. juli 2016. 3. Modtagere af førtidspension efter regler før 1.1.2003, er berettiget til børnetilskud, som modtagere af alderspension, jf. ovenfor.</p>
 <p xml:lang="dan"><em type="bold">Fradragsgrænser for modtagelse af førtidspensionsydelser, par/gifte </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Beløb/værdi </em></p>
 <p xml:lang="dan">Færøerne</p>
@@ -511,7 +511,7 @@
 <p xml:lang="dan">Fradrag, varmetillæg, helbredstillæg, supplerende pensionsydelse3 39.000</p>
 <p xml:lang="dan">Danmark (efter 1.1.-2003)</p>
 <p>Fradrag 117.700</p>
-<p xml:lang="dan">Note: 1. Ydelsessatser gældende fra 1. juli 2016 2. Første 100.000 kr. af partners indtægt medregnes ikke 3. Formuegrænse for helbredstil æg og supplerende pensionsydelse er 82.600 kr.</p>
+<p xml:lang="dan">Note: 1. Ydelsessatser gældende fra 1. juli 2016 2. Første 100.000 kr. af partners indtægt medregnes ikke 3. Formuegrænse for helbredstillæg og supplerende pensionsydelse er 82.600 kr.</p>
 <p xml:lang="dan"><em type="bold">Tillæg som følge af status som førtidspensionist </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Beløb værdi årligt </em></p>
 <p xml:lang="dan">Færøerne1</p>
@@ -528,7 +528,7 @@
 <p xml:lang="dan">Varmetillæg, helbredstillæg3 og 4 ..</p>
 <p xml:lang="dan">Ordinært børnetilskud, når begge et barns forældre modtager førtidspension efter regler gældende før 1.1.-2003, pr. barn. 5.432</p>
 <p xml:lang="dan">Særligt børnetilskud, når en eller begge barnets forældre modtager førtidspension efter regler gældende før 1.1.-2003, pr. barn 15.684</p>
-<p xml:lang="dan">Note: 1. Desuden kan ansøges om personligt til æg ved afholdelse af særlige udgifter. 2. Det er muligt at modtage personlige til æg enten som løbende ydelse el er som engangsbeløb til dækning af særlige behov. 3. Ydelser er behovsbestemte. 4. Formuegrænse for helbredstil æg er 82.600 kr.</p>
+<p xml:lang="dan">Note: 1. Desuden kan ansøges om personligt tillæg ved afholdelse af særlige udgifter. 2. Det er muligt at modtage personlige tillæg enten som løbende ydelse eller som engangsbeløb til dækning af særlige behov. 3. Ydelser er behovsbestemte. 4. Formuegrænse for helbredstillæg er 82.600 kr.</p>
 <p xml:lang="dan"><em type="bold">Ydelser, der træder i stedet for førtidspension, til berettigede med tilknytning til arbejdsmarkedet </em>(kr.) </p>
 <p xml:lang="dan"><em type="bold">Beløb/værdi </em></p>
 <p xml:lang="dan">Færøerne</p>
@@ -580,11 +580,11 @@
 <p xml:lang="dan"><em type="bold">Aktivitetsparat </em></p>
 <p xml:lang="dan"><em type="bold">Aktivitetsparat, </em><em type="bold">aktivitetstillæg </em><em type="bold">eller </em><em type="bold">barselstillæg </em></p>
 <p xml:lang="dan">Fyldt 30 år og forsørger (§ 25, stk. 2, nr. 1)14.575</p>
-<p xml:lang="dan">Intet til æg 14.575</p>
-<p xml:lang="dan">Intet til æg</p>
+<p xml:lang="dan">Intet tillæg 14.575</p>
+<p xml:lang="dan">Intet tillæg</p>
 <p xml:lang="dan">Fyldt 30 år og ikke forsørger (§ 25, stk. 2, nr. 2)10.968</p>
-<p xml:lang="dan">Intet til æg 10.968</p>
-<p xml:lang="dan">Intet til æg</p>
+<p xml:lang="dan">Intet tillæg 10.968</p>
+<p xml:lang="dan">Intet tillæg</p>
 <p xml:lang="dan"><em type="bold">Ikke fyldt 30 år </em>Enlige forsørgere, som har erhvervet ret til ekstra børnetilskud) (§ 25, stk. 3, nr. 1) 13.931 644 (§ 25, stk. 9, nr. 1) 13.931 644 (§ 25, stk. 9, nr. 1) </p>
 <p xml:lang="dan">Forsørgere under 30 år som ikke har erhvervet ret til ekstra børnetilskud (§ 25, stk. 3, nr. 2)9.746 4.829 (§ 25, stk. 9, nr. 2) 9.746 4.829 (§ 25, stk. 9, nr. 2)</p>
 <p xml:lang="dan">Under 30, gravid (passeret 12 svangerskabsuge) (§ 25, stk. 3, nr. 3)10.968 10.968</p>
@@ -592,7 +592,7 @@
 <p xml:lang="dan">Under 30 år, psykisk syg, udeboende (§ 25, stk. 3, nr. 5)10.968 10.968 25-29 år, udeboende(§ 25, stk. 3, nr. 6)7.069 3.899 (§ 25, stk. 9, nr. 3) 7.069 3.899 (§ 25, stk. 9, nr. 3) 25-29 år, hjemmeboende(§ 25, stk. 3, nr. 7)3.411 7.557 (§ 25, stk. 9, nr. 4) 3.411 7.557 (§ 25, stk. 9, nr. 4)</p>
 <p xml:lang="dan">Under 25 år, udeboende (§ 25, stk. 3, nr. 8)7.069 7.069</p>
 <p xml:lang="dan">Under 25 år, hjemmeboende (§ 25, stk. 3, nr. 9)3.411 3.411</p>
-<p xml:lang="dan">Under 30 år, bidragspligt, maksimum hjælp inkl. til æg (§ 25, stk. 4) 14.575 14.575</p>
+<p xml:lang="dan">Under 30 år, bidragspligt, maksimum hjælp inkl. tillæg (§ 25, stk. 4) 14.575 14.575</p>
 <p xml:lang="dan"><em type="bold">Under 30 år </em></p>
 <p xml:lang="dan"><em type="bold">Uddannelses- </em><em type="bold">parat </em></p>
 <p xml:lang="dan"><em type="bold">Uddannelses- </em><em type="bold">parat </em><em type="bold">barselstillæg </em></p>
@@ -605,7 +605,7 @@
 <p xml:lang="dan">Under 30 år, psykisk syg, udeboende (§ 23, stk. 3, nr. 5)10.968 10.968 25-29 år, udeboende(§ 23, stk. 3, nr. 6)6.010 4.958 (§ 24, stk. 3, nr. 3) 6.010 4.958 (§ 24, stk. 3, nr. 3) 25-29 år, hjemmeboende(§ 23, stk. 3, nr. 7)2.590 8.378 (§ 24, stk. 3, nr. 4) 2.590 8.378 (§ 24, stk. 3, nr. 4)</p>
 <p xml:lang="dan">Under 25 år, udeboende (§ 23, stk. 3, nr. 8)6.010 1.059 (§ 24, stk. 3, nr. 5) 6.010 1.059 (§ 24, stk. 3, nr. 5)</p>
 <p xml:lang="dan">Under 25 år, hjemmeboende (§ 23, stk. 3, nr. 9) 2.590 821 (§ 24, stk. 3, nr. 6) 2.590 821 (§ 24, stk. 3, nr. 6)</p>
-<p xml:lang="dan">Under 30 år, bidragspligt, maksimum hjælp inkl. til æg (§ 23, stk. 3) 14.575 14.575</p>
+<p xml:lang="dan">Under 30 år, bidragspligt, maksimum hjælp inkl. tillæg (§ 23, stk. 3) 14.575 14.575</p>
 <p xml:lang="dan">Alle § -henvisninger er til lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 468 af 20. maj 2016.</p>
 <p xml:lang="dan"><em type="bold">Bilag 4 a </em></p>
 <p xml:lang="dan"><em type="bold">Færøerne </em></p>
@@ -814,7 +814,7 @@
 <p xml:lang="dan">Førtidspensionsalder 18-6618-6418-64</p>
 <p xml:lang="dan">Antal modtagere 1.729 2.565 233.862</p>
 <p xml:lang="dan">I pct. af aldersgruppe i rigsdel 5,9 6,8 6,8</p>
-<p xml:lang="dan">Note: 1. 2 pct. af modtagere af færøsk førtidspension er bosiddende uden for rigsfæl esskabet.2. 4.700 (2 pct.) af danske førtidspensionister er i 2015 bosiddende uden for rigsfæl esskabet ifølge tal fra Danmarks Statistik (Kilde:</p>
+<p xml:lang="dan">Note: 1. 2 pct. af modtagere af færøsk førtidspension er bosiddende uden for rigsfællesskabet.2. 4.700 (2 pct.) af danske førtidspensionister er i 2015 bosiddende uden for rigsfællesskabet ifølge tal fra Danmarks Statistik (Kilde:</p>
 <p xml:lang="dan">Nyt fra Danmarks Statistik, nr. 168 fra 8. april 2015).</p>
 <p xml:lang="dan"><em type="bold">Antal alders- og førtidspensionister i de enkelte rigsdele </em></p>
 <p xml:lang="dan"><em type="bold">Modtagere af pension </em></p>
@@ -1015,7 +1015,7 @@
 <p xml:lang="dan">Efterfølgende er det den samlede bopælstid i hver enkelt rigsdel der danner grundlag for opgørelse af brøkandelen i hver enkelt rigsdel og det forhold det samledes antal brøkandele udgør i forhold til retten til fuld pension, som fastsættes til 40/40-dele indenfor riget.</p>
 <p xml:lang="dan">Med andre ord: Det skal efter en brøkberegning af retten til førtidspension fra de enkelte dele af riget, ikke været muligt at optjene en ret til pension, der er større end fuld pension, svarende til 40/40-dele fra rigsdelene.</p>
 <p xml:lang="dan">I tilfælde af bopæl udenfor riget, og deraf følgende ret til brøkpension fra lande udenfor riget, skal denne ret kunne lægges til brøkpensionen indenfor riget, efter samme regler som i gældende aftaler.</p>
-<p xml:lang="dan">I følgende eksempel er et scenarie over et livsforløb, for en person, der flytter indenfor riget. I udgangspunktet er vedkommende i hele sin levetid indtil pensionstilkendelsen i en af rigets tre dele. <em type="bold">2 A. Eksempel på bopælsperioder til il ustration af konsekvenser for brøkberegning </em></p>
+<p xml:lang="dan">I følgende eksempel er et scenarie over et livsforløb, for en person, der flytter indenfor riget. I udgangspunktet er vedkommende i hele sin levetid indtil pensionstilkendelsen i en af rigets tre dele. <em type="bold">2 A. Eksempel på bopælsperioder til illustration af konsekvenser for brøkberegning </em></p>
 <p xml:lang="dan">Rigsdel</p>
 <p xml:lang="dan">Alder, fra</p>
 <p xml:lang="dan">Alder, til</p>
@@ -1052,7 +1052,7 @@
 <p xml:lang="dan">Decimalangivelsen i brøkberegningen er nødvendig, og følger af gældende dansk og færøske lovgivning, hvor der afrundes til nærmeste antal måneder, ved opgørelse af bopælstid.</p>
 <p xml:lang="dan">Heraf må det følge at en opgørelse af forholdet mellem optjeningsretten og bopælstiden ligeledes må tage hensyn til en korrekt fordeling af forholdet, således brøkandelene bliver anvist med antal år og måneder.</p>
 <p xml:lang="dan">I det tilfælde at bopælsmønsteret, vist i eksempel 2 A forandres til at inkludere en periode med ophold uden for rigsdelene, vil en brøkberegning foregå på samme måde, ved først at fastslå, hvorvidt den samlede bopælstid i riget medfører fuld optjent ret til førtidspension. Herefter foretages en beregnet fordeling af brøkandelene, svarende til den fastslåede optjente pensionsret, fra de enkelte dele af riget.</p>
-<p xml:lang="dan">I eksempel 2 D er vist det bopælsmønster der ligger til grund for beregningen, og eksempel 2 E viser fordelingen af brøker mellem rigsdelene. <em type="bold">2 D. Eksempel på bopælsperioder til il ustration af konsekvenser for brøkberegning </em></p>
+<p xml:lang="dan">I eksempel 2 D er vist det bopælsmønster der ligger til grund for beregningen, og eksempel 2 E viser fordelingen af brøker mellem rigsdelene. <em type="bold">2 D. Eksempel på bopælsperioder til illustration af konsekvenser for brøkberegning </em></p>
 <p xml:lang="dan">Rigsdel</p>
 <p xml:lang="dan">Alder, fra</p>
 <p xml:lang="dan">Alder, til</p>
@@ -1076,7 +1076,7 @@
 <p xml:lang="dan">Eksemplet viser at fordelingsmetoden betyder at pensionsbrøkerne gældende for alle rigsdele forandres uanset, at der er tale om, at det kun er opholdet på Færøerne der reduceres i forhold til eksempel 2 A.</p>
 <p xml:lang="dan">Pensionsydelse optjent i Sverige vil blive lagt til den optjente ret i riget, svarende til gældende regler og aftaler.</p>
 <p xml:lang="dan">Forholdet mellem det samlede, beregnede antal brøker reduceres fra 68 i eksempel 2 C til 58 i eksempel 2 E, hvorfor forholdet mellem de enkelte brøkdele i hver rigsdel skal beregnes i forhold til en lavere nævner i dette eksempel. Resultatet er en stigning i dansk brøkandel og reduktion i færøsk og grønlandsk brøkandel.</p>
-<p xml:lang="dan">De sidste eksempler 2 F og 2 G viser det tilfælde, hvor den samlede bopælstid i riget, ved første beregning af den samlede ret til førtidspension, at der ikke er ret til fuld førtidspension. Det kan eksempelvis være det tilfælde, hvor personen flytter til en rigsdel i sen alder. <em type="bold">2 F. Eksempel på bopælsperioder til il ustration af konsekvenser for brøkberegning </em></p>
+<p xml:lang="dan">De sidste eksempler 2 F og 2 G viser det tilfælde, hvor den samlede bopælstid i riget, ved første beregning af den samlede ret til førtidspension, at der ikke er ret til fuld førtidspension. Det kan eksempelvis være det tilfælde, hvor personen flytter til en rigsdel i sen alder. <em type="bold">2 F. Eksempel på bopælsperioder til illustration af konsekvenser for brøkberegning </em></p>
 <p xml:lang="dan">Rigsdel</p>
 <p xml:lang="dan">Alder, fra</p>
 <p xml:lang="dan">Alder, til</p>
@@ -1105,7 +1105,7 @@
 <p xml:lang="dan">Uden for riget <em type="bold">4. Bilag </em></p>
 <p xml:lang="dan">I dette bilag vises eksempler på alder og bopælsperiode for retten til fuld førtidspension, ifølge gældende lovgivning i rigets tre dele. <em type="bold">4 A. Andel brøkpension til førtidspensionister som følge af bopælstid i riget jf. dansk lovgivning </em></p>
 <p xml:lang="dan">Noter: 1) Denne kolonne viser given alder for retten til tilkendelse af førtidspension ifølge lovgivningen, gående fra yngste mulige ogindtil aktuel alderspensionsalder.2) Denne kolonne viser det beregnede mindstekrav til bopæl i riget for retten til fuld førtidspension (40/40-dele) på baggrund afbopælstiden siden det 15. år.3) Denne kolonne viser det beregnede mindstekrav i note 2, omregnet til hele år og antal måneder.4) Denne del af diagrammet viser to ting: Første række med cifrene 3 – 40 beskriver antal bopælsår i riget for en given alder.</p>
-<p xml:lang="dan">Dernæst er det ud for hvert alderstrin i første kolonne muligt at aflæses den beregnede brøkandel for retten til førtidspension for en given alder, krydset med antal hele bopælsår. Er cel en markeret med grøn, er dette udtryk for ret til fuld førtidspension.</p>
+<p xml:lang="dan">Dernæst er det ud for hvert alderstrin i første kolonne muligt at aflæses den beregnede brøkandel for retten til førtidspension for en given alder, krydset med antal hele bopælsår. Er cellen markeret med grøn, er dette udtryk for ret til fuld førtidspension.</p>
 <p xml:lang="dan"><em type="bold">Alder ved tilkendelse 1) </em></p>
 <p xml:lang="dan"><em type="bold">Mindstekrav til bopælstid siden 15. år 2) </em><em type="bold">3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 </em>182,424193,232 3720440 30 40214,849 25 33225,657 21 28 35236,464 18 25 31 37247,272 16 22 27 33 3825880 15 20 25 30 35 40268,889 13 18 22 27 31 36279,697 12 16 20 25 29 33 372810,4 104 11 15 19 23 26 30 34 382911,2 112 10 14 17 21 25 28 32 35 393012 120 10 13 16 20 23 26 30 33 36 403112,8 129 9 12 15 18 21 25 28 31 34 373213,6 137 8 11 14 17 20 23 26 29 32 35 383314,4 144 8 11 13 16 19 22 25 27 30 33 36 383415,2 152 7 10 13 15 18 21 23 26 28 31 34 36 393516 160 7 10 12 15 17 20 22 25 27 30 32 35 37 403616,8 169 7 9 11 14 16 19 21 23 26 28 30 33 35 383717,6 177 6 9 11 13 15 18 20 22 25 27 29 31 34 36 383818,4 184 6 8 10 13 15 17 19 21 23 26 28 30 32 34 36 393919,2 192 6 8 10 12 14 16 18 20 22 25 27 29 31 33 35 37 394020 200 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 404120,8 209 5 7 9 11 13 15 17 19 21 23 25 26 28 30 32 34 36 384221,6 217 5 7 9 11 12 14 16 18 20 22 24 25 27 29 31 33 35 37 384322,4 224 5 7 8 10 12 14 16 17 19 21 23 25 26 28 30 32 33 35 37 394423,2 232 5 6 8 10 12 13 15 17 18 20 22 24 25 27 29 31 32 34 36 37 394524 240 5 6 8 10 11 13 15 16 18 20 21 23 25 26 28 30 31 33 35 36 38 404624,8 249 4 6 8 9 11 12 14 16 17 19 20 22 24 25 27 29 30 32 33 35 37 384725,6 257 4 6 7 9 10 12 14 15 17 18 20 21 23 25 26 28 29 31 32 34 35 37 394826,4 264 4 6 7 9 10 12 13 15 16 18 19 21 22 24 25 27 28 30 31 33 34 36 37 394927,2 272 4 5 7 8 10 11 13 14 16 17 19 20 22 23 25 26 27 29 30 32 33 35 36 38 395028 280 4 5 7 8 10 11 12 14 15 17 18 20 21 22 24 25 27 28 30 31 32 34 35 37 38 405128,8 289 4 5 6 8 9 11 12 13 15 16 18 19 20 22 23 25 26 27 29 30 31 33 34 36 37 385229,6 297 4 5 6 8 9 10 12 13 14 16 17 18 20 21 22 24 25 27 28 29 31 32 33 35 36 37 395330,4 304 3 5 6 7 9 10 11 13 14 15 17 18 19 21 22 23 25 26 27 28 30 31 32 34 35 36 38 395431,2 312 3 5 6 7 8 10 11 12 14 15 16 17 19 20 21 23 24 25 26 28 29 30 32 33 34 35 37 38 395532 320 3 5 6 7 8 10 11 12 13 15 16 17 18 20 21 22 23 25 26 27 28 30 31 32 33 35 36 37 38 405632,8 329 3 4 6 7 8 9 10 12 13 14 15 17 18 19 20 21 23 24 25 26 28 29 30 31 32 34 35 36 37 395733,6 337 3 4 5 7 8 9 10 11 13 14 15 16 17 19 20 21 22 23 25 26 27 28 29 30 32 33 34 35 36 38 395834,4 344 3 4 5 6 8 9 10 11 12 13 15 16 17 18 19 20 22 23 24 25 26 27 29 30 31 32 33 34 36 37 38 395935,2 352 3 4 5 6 7 9 10 11 12 13 14 15 17 18 19 20 21 22 23 25 26 27 28 29 30 31 32 34 35 36 37 38 396036 360 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 30 31 32 33 34 35 36 37 38 406136,8 369 3 4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21 22 23 25 26 27 28 29 30 31 32 33 34 35 36 38 396237,6 377 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 34 35 36 37 38 396338,4 384 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 26 27 28 29 30 31 32 33 34 35 36 37 38 396439,2 392 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 396540 400 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 </p>
 <p xml:lang="dan"><em type="bold">Bopælsbetingelse for fuld pension </em></p>
@@ -1123,7 +1123,7 @@
 <p xml:lang="dan"><em type="bold">Bopælsbetingelse for fuld pension </em></p>
 <p xml:lang="dan"><em type="bold">Andele af brøkpension ved bopælstider op til fuld pension 4) </em></p>
 <p xml:lang="dan"><em type="bold">År / Måned 3) </em><em type="bold">4 C. Andel brøkpension til førtidspensionister som følge af bopælstid i riget jf. grønlandsk lovgivning </em></p>
-<p xml:lang="dan">Noter: 1) Denne kolonne viser given alder for retten til tilkendelse af førtidspension ifølge lovgivningen, gående fra yngste mulige ogindtil aktuel alderspensionsalder.2) Denne kolonne viser det beregnede mindstekrav til bopæl i riget for retten til fuld førtidspension (40/40-dele) på baggrund afbopælstiden siden det 15. år.3) Denne kolonne viser det beregnede mindstekrav i note 2, omregnet til hele år og antal måneder, hvis man efter grønlandsklovgivning anvendte denne regel. Er her medtaget til for at opnå bedre sammenligning mel em rigsdelenes lovgivning.4) Denne del af diagrammet viser to ting: Første række med cifrene 3 – 40 beskriver antal bopælsår i riget for en given alder.</p>
+<p xml:lang="dan">Noter: 1) Denne kolonne viser given alder for retten til tilkendelse af førtidspension ifølge lovgivningen, gående fra yngste mulige ogindtil aktuel alderspensionsalder.2) Denne kolonne viser det beregnede mindstekrav til bopæl i riget for retten til fuld førtidspension (40/40-dele) på baggrund afbopælstiden siden det 15. år.3) Denne kolonne viser det beregnede mindstekrav i note 2, omregnet til hele år og antal måneder, hvis man efter grønlandsklovgivning anvendte denne regel. Er her medtaget til for at opnå bedre sammenligning mellem rigsdelenes lovgivning.4) Denne del af diagrammet viser to ting: Første række med cifrene 3 – 40 beskriver antal bopælsår i riget for en given alder.</p>
 <p xml:lang="dan">Dernæst er det ud for hvert alderstrin i første kolonne muligt at aflæses den beregnede brøkandel for retten til førtidspension for en given alder, krydset med antal hele bopælsår. Er cellen markeret med grøn, er dette udtryk for ret til fuld førtidspension.</p>
 <p xml:lang="dan">Ved at anvende 5/6-dels princippet opnås en større ret til fuld førtidspension ved et alderstrin der ligger 2 år føralderspensionsalderen, som vist i de to nederste rækker i diagrammet.</p>
 <p xml:lang="dan"><em type="bold">Alder ved tilkendelse 1) </em></p>

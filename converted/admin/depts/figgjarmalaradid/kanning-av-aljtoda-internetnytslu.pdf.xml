@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4324</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>kanning-av-aljtóða-internetnýtslu.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Government Online <em type="italic">an international perspective </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4337</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>kanning-av-aljtóða-internetnýtslu.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Government Online <em type="italic">an international perspective </em></p>
 <p xml:lang="dan">NOVEMBER, 2002</p>
 <p xml:lang="dan">TNS CONSULTANTS: W MELLOR, V PARR <em type="bold">2002 </em></p>
 <p><em type="bold">ANNUAL GLOBAL REPORT </em></p>
@@ -26,7 +26,7 @@
 <p xml:lang="dan">An optional second question, regarding perceptions of safety when providing personal information to Government was asked of everyone in 27 countries, and asked of Internet users in one countries.**</p>
 <p xml:lang="dan">Sample size…</p>
 <p xml:lang="dan">All country results have been weighted to be representative of their country population.</p>
-<p type="listitem" xml:lang="dan">This report was prepared by Wendy Mellor and Victoria Parr from TNS Australia.200231 countries28,952 people interviewed200127 countries29,077 people interviewed</p>
+<p type="listitem">This report was prepared by Wendy Mellor and Victoria Parr from TNS Australia.200231 countries28,952 people interviewed200231 countries28,952 people interviewed200127 countries29,077 people interviewed200127 countries29,077 people interviewed</p>
 <p type="listitem">Asia Pacific...</p>
 <p type="listitem">Australia</p>
 <p type="listitem" xml:lang="dan">Hong Kong</p>
@@ -105,7 +105,7 @@
 <p xml:lang="dan">Spain and the Netherlands also increased in Government Online usage, including Information Seeking.</p>
 <p xml:lang="dan">The Turkish Government has placed greater emphasis on electronic communication since 2001, particularly in making more information available to citizens on the Internet. The result has been substantial increases in usage (from 3% to 13%).</p>
 <p xml:lang="dan">Recent developments have allowed citizens to be able to search for and receive personal information, such as university results and ID and tax number, via the Internet.</p>
-<p xml:lang="dan">Among East European (Post-Communist) countries the level of Government Online usage varies from 3% in Hungary and 4% in Poland to 31% in Estonia. The adoption of Government Online is a continuing challenge for all these countries and is directly affected by government policy towards developing an <span type="quote" xml:lang="dan">“information society”</span>. In Poland Government Online is currently not a high priority in government policy and encouragement for using Internet general y is low. A very different government policy in Estonia is reflected in the results.</p>
+<p xml:lang="dan">Among East European (Post-Communist) countries the level of Government Online usage varies from 3% in Hungary and 4% in Poland to 31% in Estonia. The adoption of Government Online is a continuing challenge for all these countries and is directly affected by government policy towards developing an <span type="quote" xml:lang="dan">“information society”</span>. In Poland Government Online is currently not a high priority in government policy and encouragement for using Internet generally is low. A very different government policy in Estonia is reflected in the results.</p>
 <p xml:lang="dan">Latvia has only recently adopted an e-government project, and at the moment are at initial stage of development of GO communication. This policy will likely impact on incidence levels of GO in Lativia when next measured.</p>
 <p xml:lang="dan">Singapore stands out as an Asia Pacific country where citizens have strongly embraced Government Online. The policy of the Singapore Government to transform Singapore into an intelligent island has involved initiatives including educating Singaporeans in Internet skills (National IT Literacy Programme), nationwide broadband network that delivers interactive multimedia applications and services (S-One) and a dedicated portal that allows accessibility to a range of e-Government services (www.ecitizen.gov.sg). The d ate of fieldwork in Singapore coincided with the dates for filing incomes and paying Income tax. Much have been done by the Government to encourage Singaporeans to file their income or pay their tax electronically (e-filing).</p>
 <p xml:lang="dan">Australia, with a history of being highly adoptive of new technologies, has experienced the greatest increase in Government Online usage, from information seeking to transacting. National and State Governments have made a wide range of services available over the Internet with a whole-of -Government portal.</p>
@@ -320,6 +320,8 @@
 <p xml:lang="dan"><em type="bold">Of Total Adu </em><em type="bold">lt Popul </em><em type="bold">ation </em><em type="bold">% </em></p>
 <p xml:lang="dan"><em type="bold">Internet Users GO Uptake - Country Average Use (61%) </em></p>
 <p xml:lang="dan"><em type="bold">Medium Penetration </em></p>
+<p xml:lang="dan"><em type="bold">Medium Penetration </em></p>
+<p xml:lang="dan"><em type="bold">High Penetration </em></p>
 <p xml:lang="dan"><em type="bold">High Penetration </em><em type="italic">(16% to 35% are users) </em><em type="italic">(36% to 50% are users) </em></p>
 <p>Slovak Republic</p>
 <p>Turkey</p>
@@ -353,7 +355,8 @@
 <p xml:lang="dan">Denmark</p>
 <p>Faroe Islands</p>
 <p xml:lang="dan"><em type="bold">Very High Penetration </em></p>
-<p><em type="bold">Very </em><em type="italic">(more than 50% are users) </em></p>
+<p><em type="bold">Very High Penetration </em><em type="italic">(more than 50% are users) </em></p>
+<p xml:lang="dan"><em type="bold">Low Penetration </em></p>
 <p xml:lang="dan"><em type="bold">Low Penetration </em></p>
 <p xml:lang="dan">Government Online? <em type="italic">uses the </em><em type="italic">a n d </em></p>
 <p xml:lang="dan"><em type="italic">Internet </em></p>

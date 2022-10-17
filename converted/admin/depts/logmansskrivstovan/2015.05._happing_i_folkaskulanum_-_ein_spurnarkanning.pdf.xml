@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>22760</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2015.05. Happing í fólkaskúlanum - ein spurnarkanning.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">HAPPING Í FÓLKASKÚLANUM </em><em type="bold">- ein spurnakanning </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>22751</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2015.05. Happing í fólkaskúlanum - ein spurnarkanning.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">HAPPING Í FÓLKASKÚLANUM </em><em type="bold">- ein spurnakanning </em></p>
 <p>Granskingardepilin - Fróðskaparsetur Føroya 2015</p>
 <p><em type="bold">ISBN 978-9991-8-60-24-4 </em></p>
 <p><em type="bold">Happing í fólkaskúlanum </em><em type="bold">- ein spurnakanning </em></p>
@@ -409,11 +409,11 @@
 <p>N=1848 <em type="italic">”Ein drongur læsti eina gentu í flokkinum inn í eitt </em><em type="italic">skáp. Hon flutti flokk”. </em>22978136361473901427364713126613014025020406080100120 </p>
 <p>Sera væl</p>
 <p>Væl</p>
-<p>Hvørki væl el a il a</p>
-<p>Il a</p>
-<p>Sera il a</p>
+<p>Hvørki væl ella illa</p>
+<p>Illa</p>
+<p>Sera illa</p>
 <p><em type="bold">Hvussu dugur tú í skúlanum? - Hvussu trívist tú í skúlanum? </em></p>
-<p>Dugir sera væl Dugir væl Dugir hvørki væl el a il a Dugir il a Dugir sera il aeru happað. Av teimum, sum ikki eru happað, trív ast 94% væl og sera væl, meðan einans 46% av teimum, sum ofta eru fyri happing, kunnu siga tað sama. Av teimum, sum ikki eru happað, sigur einans 1%, at tey trívast illa, meðan 26% av teim–um, sum á onkran hátt hava verið fyri happing, siga, at tey trívast illa og sera illa. <em type="italic">“Tað barnið, sum verður happað, hevur tað sjálvandi </em><em type="italic">ikki gott, men tey, sum hava happað, hava tað heldur </em><em type="italic">ikki so gott, tá tey hugsa um, hvat tey hava gjørt”. </em></p>
+<p>Dugir sera væl Dugir væl Dugir hvørki væl ella illa Dugir illa Dugir sera illaeru happað. Av teimum, sum ikki eru happað, trív ast 94% væl og sera væl, meðan einans 46% av teimum, sum ofta eru fyri happing, kunnu siga tað sama. Av teimum, sum ikki eru happað, sigur einans 1%, at tey trívast illa, meðan 26% av teim–um, sum á onkran hátt hava verið fyri happing, siga, at tey trívast illa og sera illa. <em type="italic">“Tað barnið, sum verður happað, hevur tað sjálvandi </em><em type="italic">ikki gott, men tey, sum hava happað, hava tað heldur </em><em type="italic">ikki so gott, tá tey hugsa um, hvat tey hava gjørt”. </em></p>
 <p>Mynd 12. vísir, hvussu týdningarmikið tað er fyri trivnaðin í fólkaskúlunum kring landið, at næming-ar ikki vera fyri happing. Men tað er ikki happing einsamalt, ið skapar mistrivnað í skúlunum, sæð í mun til talið á teimum, sum hvørki trívast væl ella illa, illa og sera illa, men henda kanningin kann ikki geva okkum svar uppá, hvat liggur aftanfyri hesi tølini, og hetta er heldur ikki ein partur av okkara uppgávu.</p>
 <p>Tey, sum happa, tykjast heldur ikki at trívast væl. Hyggja vit at myndini 13., sæst, at tey flestu, ið eru við til at happa, trívast hvørki væl ella illa. Samstundis síggja vit, at sama støðan er galdandi fyri tey, sum ikki eru við til at happa. <em type="bold">Trivnaður - kyn, flokkar og stødd á skúla </em></p>
 <p>Tað er ikki nakar sjónligur munur millum trivnað og kyn, trivnað og flokkar ella trivnað og stødd á skúla, tí vit síggja eitt sera javnt býti millum allar hesar bólkingar. Tað verður ofta borið upp á mál, at dreingir ikki trívast eins væl í skúlanum og gentur, men henda kanning vísir ikki hetta.</p>
@@ -1254,7 +1254,7 @@
 <p>Heilsufrøðing❏</p>
 <p>Annan vaksnan í skúlanum❏</p>
 <p>Onkran vaksnan heima ❏</p>
-<p>Tann el a tey, sum happaðu meg❏</p>
+<p>Tann ella tey, sum happaðu meg❏</p>
 <p>Onkran annan Hvønn: ___________❏</p>
 <p>Nei❏</p>
 <p>Hevði ongan at siga tað við❏</p>

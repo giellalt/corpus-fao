@@ -89,11 +89,11 @@
 <p>Φ+</p>
 <p>Φ, har Φ er tann parturin av fluksinum, sum bert gongur gjøgnum spola 2, og 2212</p>
 <p>Φ er tann parturin av fluksinum, sum er felags fyri spola 2 og spola 1, t.e. gongur gjøgnum báðar spolarnar, men stavar frá spola 2. Tann samlaði fluksurin gjøgnum spola 1 verður sostatt (10) 1221111)(</p>
-<p>Φ±</p>
+<p xml:lang="dan">Φ±</p>
 <p>Φ+</p>
 <p>Φ=</p>
 <p>Φ har støddin í klombruni stavar frá spola 1, meðan seinasta lið stavar frá spola 2. Tann samlaði fluksurin gjøgnum spola 2 verður tilsvarandi (11) 2112222)(</p>
-<p>Φ±</p>
+<p xml:lang="dan">Φ±</p>
 <p>Φ+</p>
 <p>Φ=</p>
 <p>Φ har støddin í klombruni stavar frá spola 2, meðan seinasta lið stavar frá spola 1. Seinasta liðið í báðum líkningum er skrivað við frammanfyri fyri at vísa á, um spolin svarandi til hetta liðið gevur ein fluks frá sær, sum vendir sama veg (+) ella øvugtan veg (−) av fluksinum frá hinum spolanum. ±</p>
@@ -141,7 +141,7 @@
 <p xml:lang="eng">LdtdI</p>
 <p xml:lang="dan">V221222++=</p>
 <p>Vit skulu her minnast til, at M kann vera antin positivt ella negativt, og hongur tað saman við, at í summum førum venda fluksarnir frá báðum spolum sama veg, meðan teir í øðrum førum venda øvugtan veg alt eftir, hvussu spolarnir venda, og forteknini hjá streymunum og spenningunum eru definerað. <em type="bold">Koblingstalið fyri transformatorar </em>Koblingstalið í einum transformatori er definerað sum (23) 21L </p>
-<p>Mk=</p>
+<p xml:lang="eng">Mk=</p>
 <p>Við at innseta (18), (19) og (20) í (23) finna vit, at nummeriska virðið av koblingstalinum k er avmarkað til (24) 1k≤</p>
 <p><em type="bold">Transformator uttan orkutap </em>Mótstøðurnar í líkning (21) og (22) føra við sær, at transformatorurin hevur orkutap, sum verður til hita í vindingunum. Seta vit hesar mótstøðurnar R1 = R2 = 0, verða líkningarnar galdandi fyri orkutapsfría transformatorin (25) dtdI </p>
 <p xml:lang="eng">MdtdI</p>
@@ -177,7 +177,7 @@
 <p xml:lang="eng">I)</p>
 <p xml:lang="eng">M()t(</p>
 <p>W2121≥+≥ viðførir, at 21L</p>
-<p>L−≥</p>
+<p xml:lang="dan">L−≥</p>
 <p>I1I2 &lt; 0, har niðara teknið verður valt: 0</p>
 <p xml:lang="eng">I)</p>
 <p xml:lang="eng">M()t(</p>

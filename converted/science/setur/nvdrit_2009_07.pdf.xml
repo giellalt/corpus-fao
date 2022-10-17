@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8166</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_07.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Digitalur og analogur elektronikkur </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8165</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_07.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Digitalur og analogur elektronikkur </em></p>
 <p><em type="bold">Starvsstovuvenjingar </em></p>
 <p xml:lang="dan">Magnus Danielsen</p>
 <p>Benadikt Joensen Ólavur Simonsen</p>
@@ -112,7 +112,7 @@
 <p>Mynd 3 3 <em type="bold">555 </em>2 6 <em type="bold">4. Venjingarskrá </em></p>
 <p type="listitem">Venjingarskráin er tann sama uttan mun til omanfyri givnu streymrásir.</p>
 <p type="listitem">Útrokningar áðrenn uppstillingin verður sett saman: 1  Vel eina av nevndu rásum til at uppbyggja og kanna.  2  Avger ella rokna passandi virði fyri allar mótstøðurnar Ri og kondensatorin C, sum eru við til at fastleggja frekvensin.  (Um t.d. R er givin, skal C roknast). 3  Set streymrásina saman sambært funnu elektronisku lutunum.</p>
-<p type="listitem">Mátingar (Minst til at avlesa øll relevant virði á ossil oskopinum!!)</p>
+<p type="listitem">Mátingar (Minst til at avlesa øll relevant virði á ossilloskopinum!!)</p>
 <p>Máta við ossilloskopi, hvussu hesi signal síggja út við <em type="italic">t/T </em>umleið 0,5 , har <em type="italic">t </em>er pulslongdin og <em type="italic">T </em>er periodulongdin: 4 Spenningurin yvir mótstøðuna, ið er bundin til basis ella gate (t.e. <em type="italic">R </em>3 ella <em type="italic">R </em>5). 5 Inngangsspenningurin á transistorinum (t.e. basisspenningur ella gatespenningur í mun til jørð). 6 Útspenningur á transistorinum (t.e. collektor-emitter spenningur ella drain-source spenningur) </p>
 <p>Máta við ossilloskopi, hvussu hesi signal síggja út við <em type="italic">t </em>/ <em type="italic">T </em>umleið 0,1, umleið 0,5 og umleið 0,9 , har <em type="italic">t </em>er pulslongdin og <em type="italic">T </em>er periodulongdin. 7 Inn- og útspenningur á ossillatorrásini 8 Spenningur yvir motorin og streymur gjøgnum motorin 9 Hygg at streyminum í einum resistansi, sum verður settur í staðin fyri motorin </p>
 <p>Máta við ossilloskopi og voltmetri: 10 Hvussu hongur motorspenningurin saman við <em type="italic">t </em>/ <em type="italic">T </em>fyri <em type="italic">t </em>/ <em type="italic">T </em>umleið 0,1 - 0,3 - 0,5 - 0,7 og 0,9. <em type="italic"></em></p>
@@ -203,7 +203,7 @@
 <p xml:lang="eng">CMI KODARI</p>
 <p xml:lang="eng">CMI DEKODARI</p>
 <p xml:lang="eng">CMI</p>
-<p>NRZ NRZ</p>
+<p xml:lang="dan">NRZ NRZ</p>
 <p xml:lang="eng">Mynd 2.2</p>
 <p><em type="italic">At svara í starvsstovuni: </em><em type="bold">Spurningur 2: </em></p>
 <p>Bygg dataklokkusignalgerðan upp við Quartus II Schematic og simulera hann. <em type="bold">4. Orðgerði </em>Í hesi venjing hevði verið best at brúkt ein orðgerða, ið ger tilvildarlig orð, til at royna CMI kodaran og dekodaran við. Hann er ikki tøkur. Í staðin fyri vilja vit byggja ein orðgerða, ið kann gera eina fyriskrivaða røð av bittum, ið síðan verður endurtikin periodiskt. Í byrjanini velja vit 8 bit, sum so eitt í senn við hjálp av einum multipleksara 74151 verða send út á útgangin Y. Adressuinngangirnir ABC fáa signal frá binera teljara-num 74393 sum víst á mynd 4.1. Orðið, ið verður sent út á Yútganginum er D0, D1, D2, D3, D4, D5, D6, D7, ið er sett til logiskt <span type="quote">”0” ella logiskt ”1”</span>, svarandi til orðið, ið vit ynskja. <em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em><em type="bold">Spurningur 3 </em>: Hvussu kunnu vit broyta orðgerðan við at brúka enable inngangin á multipleksaranum , soleiðis at 8 bit røðin, sum vit hava stillað við givnum virðum verður eftirfylgd av 8 nullum, og síðan endurtikið periodiskt. <em type="italic">At svara í starvsstovuni: </em><em type="bold">Spurningur 4: </em></p>
@@ -212,7 +212,7 @@
 <p xml:lang="eng">Ck 7474 − Q o /Q</p>
 <p xml:lang="eng">Mynd 3.1</p>
 <p xml:lang="eng">CK QA</p>
-<p>QB</p>
+<p xml:lang="dan">QB</p>
 <p xml:lang="eng">QC</p>
 <p xml:lang="dan">QD</p>
 <p xml:lang="eng">CLR</p>

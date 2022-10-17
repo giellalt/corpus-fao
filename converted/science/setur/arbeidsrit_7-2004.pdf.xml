@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>6916</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5056/arbeidsrit_7-2004.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-5-1 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>6912</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5056/arbeidsrit_7-2004.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-5-1 </em></p>
 <p><em type="bold">Kommunusamanlegging - hvat siga suðringar? </em></p>
 <p xml:lang="nob">Dennis Holm og Bjarni Mortensen</p>
 <p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 7/2004 </em>!" ! #$#$#%&amp; </p>
@@ -29,7 +29,7 @@
 <p><em type="bold">Atkvøður </em></p>
 <p>Runavík 78,9% 21,1% 951</p>
 <p xml:lang="sme">Skála 85,2% 14,8% 391</p>
-<p><em type="italic">Val uttøka 55.6 % í Runavík og 79,5 % í Skála </em></p>
+<p><em type="italic">Valluttøka 55.6 % í Runavík og 79,5 % í Skála </em></p>
 <p><em type="bold">Fólkaatkvøða í kommunum kring Sundalagið </em><em type="bold">6. Mai 2003 </em></p>
 <p xml:lang="smj"><em type="bold">Ja % </em></p>
 <p xml:lang="nno"><em type="bold">Nei % </em></p>
@@ -49,12 +49,12 @@
 <p xml:lang="smj"><em type="bold">Ja % </em></p>
 <p xml:lang="nno"><em type="bold">Nei % </em></p>
 <p><em type="bold">Atkvøður </em>61,6% 38,4% 138 </p>
-<p xml:lang="olo"><em type="italic">Val uttøka 95,8 % </em></p>
+<p xml:lang="fin"><em type="italic">Valluttøka 95,8 % </em></p>
 <p><em type="bold">Fólkaatkvøða í Oyndafjarðar kommunu </em><em type="bold">18. Nov. 2003 </em></p>
 <p xml:lang="smj"><em type="bold">Ja % </em></p>
 <p xml:lang="nno"><em type="bold">Nei % </em></p>
 <p><em type="bold">Atkvøður </em>72,7% 27,3% 110 </p>
-<p><em type="italic">Val uttøka 81,0 % </em>teirra kommuna skal leggja saman við aðrari kommunu. Eins og hesi viðurskifti eisini verða við til at leggja trýst á tað einstaka kommunustýri í samband við veitingar av tænastum til borgaran. </p>
+<p><em type="italic">Valluttøka 81,0 % </em>teirra kommuna skal leggja saman við aðrari kommunu. Eins og hesi viðurskifti eisini verða við til at leggja trýst á tað einstaka kommunustýri í samband við veitingar av tænastum til borgaran. </p>
 <p xml:lang="isl"><em type="bold">Fólkatal, aldurs- og kynsbýtið </em></p>
 <p>Størsta kommuna í Suðuroynni er Tvøroyrar kommuna, har 1.867 fólk búðu við árslok í 2002. Tann minsta kommunan var við árslok 2002 Fámjins kommuna, sum tá hevði 111 íbúgvar. Ein trupulleiki í Suðuroyggin er aldur- og kynsbýtið, hetta serliga, tá samanborið verður við býtið í Føroyum sum heild. Har eru rættliga stór frávik, serliga á tann hátt, at tað eru lutfalsliga fleiri eldri suðringar, enn tað eru í Føroyum sum heild – og lutfalsliga færri yngri fólk í Suðuroynni, samanborið við í Føroyum sum heild. Eisini eru munandi fleiri mannfólk enn konufólk í Suðuroynni. Eitt skeivt aldurs- og kynsbýti eru vanlig eyðkenni fyri lokalsamfeløg, ið hava trupulleikar at dragast við. Aldurs- og kynsbýti í kommununum í Suðuroynni (sí fylgiskjal 1), er tó rættliga líkt í teimum einstøku kommunum, hóast nøkur frávik eru. Til dømis eru tað í teimum smærri kommununum lutfalsliga fleiri fólk, sum eru 60 ár og eldri, enn tað eru í teimum størri</p>
 <p xml:lang="isl"><em type="bold">Fólkatal við árslok 2002 </em></p>
@@ -132,7 +132,7 @@
 <p xml:lang="kal">N=342</p>
 <p><em type="italic">Mynd 4. Av teimum, sum eru fyri kommunusamanlegging, siga flest, </em><em type="italic">at kommunuskrivstovan skal vera í Hovi. </em></p>
 <p><em type="bold">Um ja, nær skulu kommunurnar leggja </em><em type="bold">saman? </em><em type="bold">48,7% </em><em type="bold">28,8% </em><em type="bold">5,1% </em><em type="bold">17,4% </em>0,0%20,0%40,0%60,0% </p>
-<p>Ongantíð ovskjót</p>
+<p>Ongantíð ovskjótt</p>
 <p>Viðkommunuvalið í2008</p>
 <p xml:lang="isl">Seinni ennkommunuvalið í2008</p>
 <p>Veit ikki</p>
@@ -363,7 +363,7 @@
 <p>Í ávísan mun</p>
 <p xml:lang="isl">Í minni mun</p>
 <p>Als ikki</p>
-<p>Veit ikki a) ...betri og effektivari umsiting 12345á) ...betri kommunalar tænastur 12345b) ...betri samanhald mil um bygdirnar/býirnar í</p>
+<p>Veit ikki a) ...betri og effektivari umsiting 12345á) ...betri kommunalar tænastur 12345b) ...betri samanhald millum bygdirnar/býirnar í</p>
 <p>Suðuroynni 12345d) ...Suðuroyggin stendur sterkari út-at-til 12345 <em type="bold">8. Um ongin kommunusamanlegging verður framd – eigur man so at økja samstarvið í oynni? </em>1 </p>
 <p>Ja, samstarvið eigur at økjast 2</p>
 <p>Núverandi samstarv er nøktandi3</p>

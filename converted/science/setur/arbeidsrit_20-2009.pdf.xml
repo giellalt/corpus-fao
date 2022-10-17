@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>5884</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5041/arbeidsrit_20-2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 978-99918-60-15-2 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>5882</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5041/arbeidsrit_20-2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 978-99918-60-15-2 </em></p>
 <p><em type="bold">Bygnaðarligu trupulleikarnir </em><em type="bold">størsta avbjóðingin </em></p>
 <p xml:lang="nob">Dennis Holm</p>
 <p><em type="italic">Granskingardepilin fyri Samfelagsmenning </em></p>
@@ -83,7 +83,7 @@
 <p>Onga útbúgving</p>
 <p xml:lang="isl">Lesandi / í læru</p>
 <p>Stutta útbúgving</p>
-<p>Miðal anga útbúgving</p>
+<p>Miðallanga útbúgving</p>
 <p>Hægri útbúgving</p>
 <p>Suðuroy</p>
 <p>Norðanfjørðs</p>
@@ -169,7 +169,7 @@
 <p><em type="italic">Kelda: Dennis Holm og Bogi Mortensen, 2006. </em>Við øðrum orðum eggja tey ófaklærdu á flaka- og fiskavirkjunum sostatt børn síni til at fáa sær útbúgving, soleiðis at tey ikki skulu koma at arbeiða á flaka- ella fiskavirki. <em type="bold">Suðuroyingar fáa sær eisini útbúgving </em>Kanningin, sum Suðuroyarportalurin hevur gjørt á vetri 2008/2009, vísir, at 80% av teimum, sum hava svarað, hava tikið eina miðallanga ella eina hægri útbúgving – verða styttri førleikagevandi útbúgvingar tiknar við, so hava 93% av teimum, sum hava gingið á miðnámsskúla í Suðuroynni fingið sær eina førleikagevandi útbúgving. </p>
 <p xml:lang="isl"><em type="bold">Útbúgving eftir miðnámsskúlaútbúgving </em><em type="bold">16% </em><em type="bold">54% </em><em type="bold">13% </em><em type="bold">10% </em><em type="bold">7% </em>0%10%20%30%40%50%60% </p>
 <p xml:lang="isl">Hægriútbúgving</p>
-<p xml:lang="isl">Miðal angaútbúgving</p>
+<p xml:lang="isl">Miðallangaútbúgving</p>
 <p>Stutta útbúgving Lesandi / í læru Onga útbúgving</p>
 <p xml:lang="isl"><em type="bold">Mynd 16. Útbúgving eftir miðnámsskúlaútbúgving </em></p>
 <p><em type="italic">Kelda: Suðuroyarportalurin www.sudurras.fo </em></p>

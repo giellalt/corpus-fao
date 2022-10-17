@@ -929,7 +929,7 @@
 <p>Væntaða pengavirði (EMV) er ein útrokning av NPV, har jarðfrøðiligi váðin er roknaður uppí. Dømi:</p>
 <p><em type="bold">Úrslit </em></p>
 <p><em type="bold">Sannlíkindi </em></p>
-<p><em type="bold">NPV </em></p>
+<p xml:lang="dan"><em type="bold">NPV </em></p>
 <p>Olja verður ikki funnin 90% -5,2 mio. USD (íløgur í leiting, ið ikki gav úrslit)</p>
 <p>Olja verður funnin 10% + 69,3 mio. USD</p>
 <p><em type="italic">EMV: (90%*(-5,2))+(10%*69,3)=2,3 mió. USD </em></p>

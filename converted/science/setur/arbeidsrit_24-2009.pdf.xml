@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>3724</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5045/arbeidsrit_24-2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Hvar endaðu tey øll? </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>3721</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5045/arbeidsrit_24-2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Hvar endaðu tey øll? </em></p>
 <p><em type="bold">Kanning millum miðnámsskúlanæmingar </em><em type="bold">í suðuroynni 1976 - 2006 </em></p>
 <p xml:lang="nob"><em type="bold">Dennis Holm </em></p>
 <p><em type="bold">ARBEIÐSRIT 24/2009 </em>granskingardepilin fyri samfelagsmenning </p>
@@ -7,7 +7,7 @@
 <p><em type="bold">Kanning millum miðnámsskúlanæmingar </em><em type="bold">í Suðuroynni 1976-2006 </em></p>
 <p xml:lang="nob">Dennis Holm</p>
 <p><em type="italic">Granskingardepilin fyri Samfelagsmenning </em> </p>
-<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 24/2009 </em>                          </p>
+<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 24/2009 </em>                         </p>
 <p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>2 </p>
 <p><em type="bold">Granskingardepilin fyri Samfelagsmenning </em>3 </p>
 <p><em type="bold">Hvar endaðu tey øll? - Kanning millum miðnámsskúlanæmingar í Suðuroynni 1976-2006 </em>Dennis Holm 2009 Útgevari: Granskingardepilin fyri Samsfelagsmenning Prent: Føroyaprent Forsíðumynd: Erik Christensen <em type="bold">ISBN: 978-99918-60-17-6 ISSN: 1601-9423 </em></p>
@@ -73,7 +73,7 @@
 <p>Tá hugt verður at, hvat slag av útbúgving hesi hava nomið sær eftir miðnámsskúlaútbúgvingina, so hava 2/3 nomið sær eina miðallanga útbúgving (t.v.s. eina 3 ára útbúgving eftir miðnámsskúlan). Eins og víst í mynd 2 niðanfyri so hava heili 82 prosent av teimum, sum hava nomið sær útbúgving, nomið eina miðallanga ella langa útbúgving, meðan 18 prosent hava nomið sær eina stutta útbúgving.</p>
 <p><em type="bold">Flest nomið sær miðallanga útbúgving </em><em type="bold">16% </em><em type="bold">66% </em><em type="bold">18% </em>0%10%20%30%40%50%60%70% </p>
 <p>Langa útbúgving</p>
-<p>Miðal anga útbúgving</p>
+<p>Miðallanga útbúgving</p>
 <p>Stutta útbúgving</p>
 <p xml:lang="kal"><em type="bold">N=605 </em></p>
 <p><em type="bold">Mynd 2. Hvat slag av útbúgving </em></p>
@@ -241,7 +241,7 @@
 <p xml:lang="isl"><em type="bold">Menn </em></p>
 <p><em type="bold">Tilsamans </em></p>
 <p>Leiðari 3% 12% 7%</p>
-<p>Mil umleiðari 2% 6% 3%</p>
+<p xml:lang="isl">Millumleiðari 2% 6% 3%</p>
 <p xml:lang="isl">Annað 81% 69% 76%</p>
 <p xml:lang="isl">Lesandi / í læru 14% 13% 14%</p>
 <p><em type="bold">Tilsamans </em><em type="bold">100% </em><em type="bold">100% </em><em type="bold">100% </em></p>

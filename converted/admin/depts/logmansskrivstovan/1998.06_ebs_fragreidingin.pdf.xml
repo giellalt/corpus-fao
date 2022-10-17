@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3275</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>1998.06 EBS frágreiðingin.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tórshavn, 22. juni 1998.</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3265</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>1998.06 EBS frágreiðingin.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tórshavn, 22. juni 1998.</p>
 <p>Jógvan Jespersen Tommy Petersen Kjartan Kristiansen</p>
 <p>Jan Mortensen Annsy Høghamar Maria Róin</p>
 <p>Gloria Kalsø</p>
@@ -9,11 +9,11 @@
 <p><em type="bold">Føroyar gerast partur av EFTA við danskari umboðan vegna Føroyar. </em></p>
 <p><em type="bold">Føroyar gerast partur av EFTA við sjálvstøðugari umboðan. </em></p>
 <p>Frí-handils-øki</p>
-<p>Tol -samgonga</p>
+<p>Toll-samgonga</p>
 <p>Felagsmarknaður</p>
 <p>Innmarknaður</p>
 <p>Pengapolitisktsamveldi</p>
-<p>Búskaparligtsamveldi <em type="bold">fríhandilsøki </em>beina tey burtur allan toll og kvotur í handlinum sínámillum, <em type="bold">tol samgongu </em>hava limalondini harafturímóti bundið seg bæði til ikki at brúka sjónligar <em type="bold">innmarknaðinum </em>verða allar sjónligu og serliga tær minnu sjónligu avmarkingarnar í <em type="bold">pengapolitiskum samveldi </em>(moneterari unión) verður farið enn longur. Eitt slíkt samstarv <em type="bold">búskaparligt samveldi </em>er eitt pengapolitiskt samveldi har búskaparpolitikkurin hjá3. Torqueray4. Geneve5. Dillon- umfarið6. Kennedy-umfarið7. Tokyo-umfarið8. Uruguay-umfarið195119561960-621963-671971-791986-94 </p>
+<p>Búskaparligtsamveldi <em type="bold">fríhandilsøki </em>beina tey burtur allan toll og kvotur í handlinum sínámillum, <em type="bold">tollsamgongu </em>hava limalondini harafturímóti bundið seg bæði til ikki at brúka sjónligar <em type="bold">innmarknaðinum </em>verða allar sjónligu og serliga tær minnu sjónligu avmarkingarnar í <em type="bold">pengapolitiskum samveldi </em>(moneterari unión) verður farið enn longur. Eitt slíkt samstarv <em type="bold">búskaparligt samveldi </em>er eitt pengapolitiskt samveldi har búskaparpolitikkurin hjá3. Torqueray4. Geneve5. Dillon- umfarið6. Kennedy-umfarið7. Tokyo-umfarið8. Uruguay-umfarið195119561960-621963-671971-791986-94 </p>
 <p><em type="bold">Most-favoured-nation-reglan </em>. Øll lond skulu hava somu treytir fyrimarknaðaratgongd, sum tað landið, ið hevur bestu treytirnar. Undantøkini eru fríhandilsøki og tollsamgongur. Í slíkum førum kundu handilsforðingar millum luttakandi londini takast burtur, men varðveitast mótvegis restini av heiminum. Harumframt kundu menningarlond fáa serligar sømdir. Tey kundu eitt nú nýta handilsforðingar í størri mun enn ídnaðarlondini. <em type="bold">Stabilar eftirgevingar </em>. Eftirgevingar ella sersømdir veittar einumlandi, serliga sum ásettir tollsatsir, kundu ikki takast aftur, uttan at landið fekk samsvarandi sømdir afturfyri. <em type="bold">Reglan um natiónala viðgerð </em>. Útlendskar vørur skulu, eftir at tæreru komnar inn í landið, viðgerast eins og natiónalar vørur í sambandi við avgjøld og aðrar handilsatgerðir. <em type="bold">Forboð móti innflutningskvotum </em>. Høvuðsreglan var forboð mótikvantitativum innflutningsforðingum. Sáttmálin hevði tó týdningarmikil undantøk, sum hann ikki fevndi um, eitt nú fyri landbúnaðarvørur. </p>
 <p>Harumframt hevði GATT eina skipan fyri tveyparta-tingingar og loysn av trætum í handilsmálum.</p>
 <p><em type="bold">Vøruhandil </em>: Tollurin skuldi skerjast við einum triðingi, og aðrar handilsforðingar, sum ikki eru í galdandi avtalum, skuldu takast burtur. </p>
@@ -35,7 +35,7 @@
 <p xml:lang="dan">Agreement on</p>
 <p xml:lang="dan">Trade-Related</p>
 <p xml:lang="dan">Aspect of</p>
-<p xml:lang="dan">Intel ectual Property</p>
+<p xml:lang="dan">Intellectual Property</p>
 <p><em type="bold">Skipan at </em><em type="bold">loysa trætumál </em></p>
 <p>Yvirlit yvir bindingarhjá einstøkumlondum</p>
 <p>Yvirlit yvir bindingarhjá einstøkumlondum</p>
@@ -67,7 +67,7 @@
 <p xml:lang="dan">EPS 1970</p>
 <p xml:lang="dan">Cominfom 1947</p>
 <p>Hernaðarligt samstarv</p>
-<p>Bruxel espaktin 1948</p>
+<p xml:lang="dan">Bruxellespaktin 1948</p>
 <p xml:lang="dan">WEU 1954</p>
 <p>Atlantssáttmálin 1949</p>
 <p>Warszawasáttmálin1955</p>
@@ -100,7 +100,7 @@
 <p>Undirskrivað12. september 1963.</p>
 <p>Kom í gildi 1.</p>
 <p>Desember 1963 íóavmarkaða tíð</p>
-<p>Leggur upp til at seta ástovn tol samgongu ítrimum stigum.</p>
+<p>Leggur upp til at seta ástovn tollsamgongu ítrimum stigum.</p>
 <p>Avtalan nevnirmøguleikan fyri, at</p>
 <p>Turkaland kann gerastlimur í EF</p>
 <p xml:lang="dan">Working Partyreport adopted25/3/65</p>
@@ -108,7 +108,7 @@
 <p xml:lang="dan">Common Position bythe EC-Turkey</p>
 <p xml:lang="dan">Association Councilon the final phase ofthe Custom Union</p>
 <p>Kom í gildi31. desember 1995</p>
-<p>Setir í verk síðstastigið í tol samgongunieftir eina 22 áraskiftistíð, sum avtalanfrá 1963 legði støðiundir</p>
+<p>Setir í verk síðstastigið í tollsamgongunieftir eina 22 áraskiftistíð, sum avtalanfrá 1963 legði støðiundir</p>
 <p>Skrásett í des.1995, áðrenn honkom í gildi.</p>
 <p>Verður kannað av</p>
 <p xml:lang="dan">Committee on</p>
@@ -117,7 +117,7 @@
 <p>Undirskrivað19. desember 1972.</p>
 <p>Kom í gildi 1. juni 1973.</p>
 <p>Er ikki tíðaravmarkað</p>
-<p>Ásetir, at miðast skaleftir at seta á stovntol samgongu ítveimum stigum</p>
+<p>Ásetir, at miðast skaleftir at seta á stovntollsamgongu ítveimum stigum</p>
 <p xml:lang="dan">Working Partyreport adopted21/6/74</p>
 <p xml:lang="dan">Agreementestablishing an</p>
 <p xml:lang="dan">Association betweenthe European</p>
@@ -125,13 +125,13 @@
 <p xml:lang="dan">Community and</p>
 <p>Malta</p>
 <p>Undirskrivað í des.1970. Kom í gildi 1.apríl 1971. Er ikki tíðar-avmarkað</p>
-<p>Ásetir, at miðast skaleftir at seta á stovntol samgongu ítveimum stigum</p>
+<p>Ásetir, at miðast skaleftir at seta á stovntollsamgongu ítveimum stigum</p>
 <p xml:lang="dan">Working Partyreport adopted29/5/72</p>
 <p xml:lang="dan">Agreement betweenthe EEC and the</p>
 <p xml:lang="dan">Principality of</p>
 <p xml:lang="dan">Andorra</p>
 <p>Kom í gildi1. januar 1991. Er ikkitíðaravmarkað</p>
-<p>Ásetir, at miðast skaleftir at seta á stovntol samgongu fyriídnarvørur í tveimumstigum</p>
+<p>Ásetir, at miðast skaleftir at seta á stovntollsamgongu fyriídnarvørur í tveimumstigum</p>
 <p>Ikki fráboðað WTO</p>
 <p xml:lang="dan">Interim Agree-menton Trade and</p>
 <p xml:lang="dan">Customs Unionbetween the EEC andthe Republic of San</p>
@@ -140,7 +140,7 @@
 <p xml:lang="dan">Co-operation and</p>
 <p xml:lang="dan">Custom Union</p>
 <p>Agreement, undir-skrivað 16.12.91 kemurí gildi</p>
-<p>Ásetir, at tol samgongaskal setast á stovn</p>
+<p>Ásetir, at tollsamgongaskal setast á stovn</p>
 <p>Ikki fráboðað WTO</p>
 <p>At vørur, tænastur, kapitalur og persónar hava frítt at fara um landamørk. At fáa í lag eina skipan, sum forðar fyri, at kappingin verður avlagað, og at ásetingarnar verða umsitnar eins í øllum samstarvsøkinum. At fáa í lag eitt tættari samstarv á øðrum økjum, eitt nú gransking og menning, umhvørvi, útbúgving og viðurskifti viðvíkjandi arbeiðslívinum.</p>
 <p>Luttøku í felagsstovnum í ES (Europeiska Ráðið, ES-ráðið, ESnevndin, ES-tingið og EF-dómstólinum). Felags handilspolitikkin hjá ES mótvegis londum, sum ikki eru limir, og samstarvið um menningarhjálp. Felags landbúnaðarpolitikkin hjá ES. Felags fiskivinnupolitikkin hjá ES. Regiónalpolitiska samstarvið. Samstarvið um skatt og avgjøld. Tættari samskipan av búskapar- og pengapolitikkinum. Samstarvið um uttanríkis- og trygdarpolitikk. Samstarvið um løgreglu- og innanríkismál.</p>

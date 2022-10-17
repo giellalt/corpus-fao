@@ -371,7 +371,7 @@
 <p xml:lang="dan">P og450 m lys</p>
 <p><em type="bold">FLY </em></p>
 <p><em type="bold">TOW </em></p>
-<p><em type="bold">PAX </em></p>
+<p xml:lang="dan"><em type="bold">PAX </em></p>
 <p><em type="bold">TOW PAX TOW PAX TOW PAX TOW PAX </em></p>
 <p>B737-500 47,7 100 49,9 118 51,5 118 53,8 118 55,5 118</p>
 <p>B737-700 56,5 65 60,2 108 61,0 121 63,4 148 66,4 148</p>
@@ -381,20 +381,20 @@
 <p>NA 86 NA 86 NA 86 NA 86</p>
 <p>RJ 100 40,3 87 41,7 99 41,7 99 41,7 99 46 99</p>
 <p xml:lang="dan">A319* NA 1</p>
-<p>NA</p>
+<p xml:lang="dan">NA</p>
 <p>NA NA NA NA NA 136 NA 136</p>
 <p xml:lang="dan">EMB-170</p>
-<p>NA</p>
-<p>NA</p>
-<p>NA NA</p>
+<p xml:lang="dan">NA</p>
+<p xml:lang="dan">NA</p>
+<p xml:lang="dan">NA NA</p>
 <p>NA NA 36,0 78 36,0 78</p>
 <p xml:lang="dan">MD 81</p>
-<p>NA</p>
-<p>NA</p>
+<p xml:lang="dan">NA</p>
+<p xml:lang="dan">NA</p>
 <p>NA NA NA NA 56,0 112 59,0 143</p>
 <p>B757-200</p>
-<p>NA</p>
-<p>NA</p>
+<p xml:lang="dan">NA</p>
+<p xml:lang="dan">NA</p>
 <p>NA NA NA NA 104,0 200 107,0 200</p>
 <p xml:lang="dan"><em type="bold">Samlet </em><em type="bold">170 mio.kr. </em><em type="bold">180 mio.kr. </em><em type="bold">280 mio.kr. </em><em type="bold">400 mio.kr. </em></p>
 <p xml:lang="dan">Tabel 5.6g Baneforlængelser – pris og gevinst. ( <em type="italic">Kilde: NAR Consulting.) </em>I tabel 5.6g er regnet med, at passagerer inkl. bagage vejer ca. 95 kg. I Tabel 5.6g er vist - det maksimale antal passagerer, der kan flyves med ved de givne banelængder for de angivne flytyper på ruten mellem København og Vágar - </p>

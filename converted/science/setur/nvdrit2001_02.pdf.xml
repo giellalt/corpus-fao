@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>753</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2001_02.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Túrfrágreiðing</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>749</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2001_02.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Túrfrágreiðing</p>
 <p><em type="italic">Úrslit frá yvirlitstrolingini á Føroyabanka </em><em type="italic">12.-19. september 2001 </em></p>
 <p xml:lang="eng">Cruise report: Results from the groundfish trawl survey on Faroe Bank 12-19th September 2001</p>
 <p>Eyðfinn Magnussen</p>
@@ -58,8 +58,7 @@
 <p>Talva 1 : Samlaða veiðan og tal av mátingum/prøvum frá Føroyabankatúrinum 14.-18. september 2001.</p>
 <p><em type="bold">Toskur </em></p>
 <p xml:lang="dan">Kg tal</p>
-<p><em type="bold">Toskur </em></p>
-<p>Kg ta54543168200401947001025276431909419502008161320824101390320940371506484397243199705024141322154034</p>
+<p><em type="bold">Tosk </em>54543168200401947001025276431909419502008161320824101390320940371506484397243199705024141322154034 </p>
 <p>Mynd 1 : Veiða av toski (Kg og tal pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðnum 14.-18. september 2001.</p>
 <p><em type="bold">Longdarbýti av toski </em>(Miðallongd 78 cm)0102030402535455565758595105115 </p>
 <p xml:lang="eng"><em type="bold">Longd (cm) </em></p>
@@ -67,8 +66,6 @@
 <p>Mynd 2 : Samlað longdarbýti av toski, fiskaður á yvirlitstrolingini á Føroyabanka í tíðarskeiðinum 14.-18. september 2001. 010020030040019911992199319941995199619971998199920002001 <em type="bold">(kg/tov) </em></p>
 <p>Mynd 3 : Miðalveiðan av toski (kg/tíma) á heyst-yvirlitstrolingini á Føroyabanka árini 1991-2001.</p>
 <p xml:lang="dan">Kg tal</p>
-<p><em type="bold">Hýsa </em></p>
-<p>Kg ta</p>
 <p><em type="bold">Hýsa </em>2,17849716082551649183,5930291,1787452235392,613 1,542 1,41936901,280 826485031941,1213082,32584620766266170983021992623555092,474 1,512 1,20434701,230 946115418308255268 </p>
 <p>Mynd 4 : Veiða av hýsu (Kg og tal pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðnum 14..-18. september.</p>
 <p><em type="bold">Longdarbýti av hýsu </em>(Miðallongd 38 cm)050010001500200025001020304050607080 </p>
@@ -78,8 +75,8 @@
 <p>Mynd 6 : Miðalveiðan av hýsu (kg/tíma) á heyst-yvirlitistrolingini á Føroyabanka árini 1991–2001.</p>
 <p xml:lang="dan">Kg tal</p>
 <p><em type="bold">Upsi </em></p>
-<p xml:lang="dan">Kg tal</p>
-<p xml:lang="eng"><em type="bold">Ups </em>3249003963590017124312112451115780193232618182621,13464146006796211760582351159253511561291303653515462662652,602 </p>
+<p>Kg ta</p>
+<p xml:lang="eng"><em type="bold">Up </em>3249003963590017124312112451115780193232618182621,13464146006796211760582351159253511561291303653515462662652,602 </p>
 <p>Mynd 7 : Veiða av upsa (kg og tal pr. tov) fingin á yvirlitstrolingini á Føroyabanka í tíðarskeiðnum 14.-18. september 2001.</p>
 <p><em type="bold">Longdarbýti av upsa </em>(Miðallongd 56 cm)050100150200250300405060708090100 </p>
 <p xml:lang="eng"><em type="bold">Longd (cm) </em></p>

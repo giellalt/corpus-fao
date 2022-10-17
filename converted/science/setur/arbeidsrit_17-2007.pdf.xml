@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>20266</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5037/arbeidsrit_17-2007.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN: 978-99918-60-11-4 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>19785</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5037/arbeidsrit_17-2007.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN: 978-99918-60-11-4 </em></p>
 <p><em type="bold">Happing í føroyska fólkaskúlanum </em><em type="bold">- ein spurnakanning </em></p>
 <p>Karin Jóhanna L. Knudsen, Martha H. Mýri &amp; Jógvan Mørkøre</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
@@ -11,29 +11,29 @@
 <p>Tað vísir seg ikki at vera nakað beinleiðis samband ímillum tal av næmingum, sum siga seg verða happað ella hava happað og lutfalsliga partin av teimum, ið hava luttikið í tiltøkum mótvegis happing, soleiðis at skilja, at færri næmingar verða happaðir ella hava happað á teimum skúlunum, ið hava havt átøk mótvegis happing.</p>
 <p>Samanborið við støðuna uttanlands, vísir happingarmynstrið og happingartíttleikin í Føroyum seg sum heild at líkist tí í øðrum londum.</p>
 <p xml:lang="isl"><em type="bold">Innihald </em></p>
-<p xml:lang="deu"><em type="bold">ÚRTAK . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. 1 </em><em type="bold">1 </em><em type="bold">INNGANGUR. . . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . . 3 </em><em type="bold">2 </em><em type="bold">FRAMFERÐARHÁTTUR. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . . 4 </em>2.1 </p>
+<p xml:lang="deu"><em type="bold">ÚRTAK ......................................................................................................................................... 1 </em><em type="bold">1 </em><em type="bold">INNGANGUR........................................................................................................................ 3 </em><em type="bold">2 </em><em type="bold">FRAMFERÐARHÁTTUR.................................................................................................... 4 </em>2.1 </p>
 <p xml:lang="sme">ARBEIÐS- OG FYLGIBÓLKUR ............................................................................................. 4 2.2</p>
 <p>KANNINGARHÁTTURIN HJÁ OLWEUS ................................................................................. 5 2.3</p>
 <p xml:lang="sme">DÁTUINNSAVNING, MANNAGONGD OG UMBOÐAN.............................................................. 5 2.4</p>
 <p xml:lang="nno">SUNDURGREINING OG FRAMLØGA AV KANNINGARÚRSLITINUM .......................................... 8</p>
-<p xml:lang="deu"><em type="bold">HAPPING SUM FYRIBRIGDI. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . . 9 </em>2.5 </p>
+<p xml:lang="deu"><em type="bold">HAPPING SUM FYRIBRIGDI.................................................................................................... 9 </em>2.5 </p>
 <p xml:lang="sme">NEGATIVAR OG ÓREINAR GERÐIR ...................................................................................... 9 2.6</p>
 <p xml:lang="sme">ENDURTEKUR SEG ............................................................................................................ 9 2.7</p>
 <p>ÓJAVNI Í VALD OG STYRKI MILLUM PERSÓNAR................................................................. 10 2.8</p>
 <p>EISINI EITT BÓLKAFYRIBRIGDI......................................................................................... 10 2.9</p>
-<p xml:lang="isl">HÆTTIR AT HAPPA .......................................................................................................... 10 <em type="bold">3 </em><em type="bold">HVUSSU UMFATANDI ER HAPPINGIN Í FØROYSKA FÓLKASKÚLANUM. .. . . . 12 </em>3.1 </p>
+<p xml:lang="isl">HÆTTIR AT HAPPA .......................................................................................................... 10 <em type="bold">3 </em><em type="bold">HVUSSU UMFATANDI ER HAPPINGIN Í FØROYSKA FÓLKASKÚLANUM.......... 12 </em>3.1 </p>
 <p xml:lang="sme">HUGBURÐUR TIL HAPPING............................................................................................... 14 3.2</p>
 <p xml:lang="nno">HAPPING OG TAL AV NÆMINGUM..................................................................................... 19 3.3</p>
 <p xml:lang="sme">HAPPING OG KYN............................................................................................................ 21 3.4</p>
 <p xml:lang="sme">HAPPING OG ALDUR........................................................................................................ 22 3.5</p>
-<p xml:lang="sme">HAPPING OG TRIVNAÐUR ................................................................................................ 23 <em type="bold">4 </em><em type="bold">HVØR HAPPAR HVØNN. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . 25 </em><em type="bold">5 </em><em type="bold">HVUSSU OG HVAR VERÐUR HAPPAÐ .. . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . 26 </em>5.1 </p>
+<p xml:lang="sme">HAPPING OG TRIVNAÐUR ................................................................................................ 23 <em type="bold">4 </em><em type="bold">HVØR HAPPAR HVØNN.................................................................................................. 25 </em><em type="bold">5 </em><em type="bold">HVUSSU OG HVAR VERÐUR HAPPAÐ ........................................................................ 26 </em>5.1 </p>
 <p xml:lang="isl">Á HVØNN HÁTT VERÐUR HAPPAÐ .................................................................................... 26 5.2</p>
-<p xml:lang="ron">HVAR FER HAPPINGIN FRAM............................................................................................ 28 <em type="bold">6 </em><em type="bold">HVAT VERÐUR GJØRT VIÐ TRUPULLEIKAN. . . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . 29 </em>6.1 </p>
+<p xml:lang="ron">HVAR FER HAPPINGIN FRAM............................................................................................ 28 <em type="bold">6 </em><em type="bold">HVAT VERÐUR GJØRT VIÐ TRUPULLEIKAN........................................................... 29 </em>6.1 </p>
 <p xml:lang="sme">FLOKSLÆRARIN OG NÆMINGARNIR ................................................................................. 29 6.2</p>
-<p xml:lang="sme">TILTØK Á SKÚLUM.......................................................................................................... 30 <em type="bold">7 </em><em type="bold">SAMANBERINGAR VIÐ STØÐUNA UTTANLANDS.. .. . . .. . . . .. . . . .. . . .. . . . .. . . . 33 </em><em type="bold">8 </em><em type="bold">NIÐURSTØÐA OG TILRÁÐINGAR . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . 36 </em>8.1 </p>
+<p xml:lang="sme">TILTØK Á SKÚLUM.......................................................................................................... 30 <em type="bold">7 </em><em type="bold">SAMANBERINGAR VIÐ STØÐUNA UTTANLANDS.................................................... 33 </em><em type="bold">8 </em><em type="bold">NIÐURSTØÐA OG TILRÁÐINGAR ................................................................................ 36 </em>8.1 </p>
 <p xml:lang="vep">NIÐURSTØÐA.................................................................................................................. 36 8.2</p>
-<p xml:lang="vep">TILRÁÐINGAR................................................................................................................. 37 <em type="bold">9 </em><em type="bold">KELDULISTI. . . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . 38 </em><em type="bold">10 </em></p>
-<p><em type="bold">ÍSKOYTI . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . . 39 </em>10.1 SPURNABLAÐ ................................................................................................................. 39 10.2 TIL ÁLITISFÓLKIÐ ........................................................................................................... 51 10.3 SPURNABLAÐ TIL SKÚLAR............................................................................................... 55 10.4 SKRIV TIL SKÚLAR.......................................................................................................... 56 10.5 SKRIV TIL SKÚLALEIÐARAR............................................................................................. 57 10.6 DÁTURAPPORT ............................................................................................................... 58 <em type="bold">1 Inngangur </em>Happing er eitt alheimsfyribrigdi, sum kann hava álvarsamar avleiðingar fyri skúlaumhvørvið og rættin hjá tí einstaka næminginum at læra í einum tryggum umhvørvi. Hóast happing hevur verið nógv frammi seinnu árini, so er tað er ikki fyrr enn í fyrru helvt av 1970unum, at fólk veruliga fóru undir at granska henda trupulleika. </p>
+<p xml:lang="vep">TILRÁÐINGAR................................................................................................................. 37 <em type="bold">9 </em><em type="bold">KELDULISTI...................................................................................................................... 38 </em><em type="bold">10 </em></p>
+<p><em type="bold">ÍSKOYTI ......................................................................................................................... 39 </em>10.1 SPURNABLAÐ ................................................................................................................. 39 10.2 TIL ÁLITISFÓLKIÐ ........................................................................................................... 51 10.3 SPURNABLAÐ TIL SKÚLAR............................................................................................... 55 10.4 SKRIV TIL SKÚLAR.......................................................................................................... 56 10.5 SKRIV TIL SKÚLALEIÐARAR............................................................................................. 57 10.6 DÁTURAPPORT ............................................................................................................... 58 <em type="bold">1 Inngangur </em>Happing er eitt alheimsfyribrigdi, sum kann hava álvarsamar avleiðingar fyri skúlaumhvørvið og rættin hjá tí einstaka næminginum at læra í einum tryggum umhvørvi. Hóast happing hevur verið nógv frammi seinnu árini, so er tað er ikki fyrr enn í fyrru helvt av 1970unum, at fólk veruliga fóru undir at granska henda trupulleika. </p>
 <p>Ein av undangongumonnunum innan hetta øki frá byrjan, var norsk/svenski granskarin og nú serfrøðingur innan økið, Dan Olweus. Hann byrjaði at gera fleiri kanningar í skandinavisku londunum. Fleiri av hesum kanningum prógva, at tað ber til at gera nakað við trupulleikan.</p>
 <p>Eitt úrslit av arbeiðnum hjá Dan Olweus er ein serligur kanningarháttur og menningin av einum fyribyrgingarleisti, sum skal tálma happing í skúlum. Hesin kanningarháttur og fyribyrgingarleistur hevur verið nýttur í landsumfatandi kanningum í skandinavisku londum.</p>
 <p>Kanningar av sama slagi uttanlands vísa um happing sum heild, at gentur happa minni enn dreingir, gentur og dreingir happa á ymiskan hátt, og happing minkar við aldrinum.1</p>
@@ -94,7 +94,7 @@
 <p>Kanningar- og fyribyrgingarleisturin hjá Olweus tekur í høvuðsheitum støði í einstaklinginum. Hann granskar fyribrigdið við tí kvantitativa kanningarháttinum sum útgangsstøði og leggur sostatt áherðslu á at seta tøl á og tessvegna kvantifisera happing sum fyribrigdi. Somuleiðis leggur Olweus í síni gransking størsta dentin á næmingin og ikki so nógva á umhvørvið og læraran.8 Sambært Olweus (2001:15) verður ein persónur happaður: <span type="quote">“tá hann ella hon ferð eftir ferð og yvir eitt tíðarskeið verður plágað/ur við negativum gerðum av einum ella fleiri persónum.”</span></p>
 <p>Við hesum í huga kunnu vit staðfesta, at tað eru trý viðurskifti, ið eyðkenna happing, soleiðis sum Olweus definarar fyribrigdið: 1. Negativar og óreinar gerðir 2. Endurtekur seg 3. Ójavni í vald og styrki millum persónar 2.5 Negativar og óreinar gerðir</p>
 <p>Olweus sigur, at happing er negativar og óreinar gerðir, sum verða framdar við einum negativum hugburði mótvegis ofrinum. Hinvegin, so eru meinaleys erting ella argan ikki happing. 2.6 Endurtekur seg</p>
-<p>Happing endurtekur seg ferð eftir ferð og heldur fram í eitt tíðarskeið. Hendingarnar, persónur verður fyri, eru tí ikki eindømi ella isoleraðar, men systematiskt rættaðar mótvegis sama persóni ferð eftir ferð. 7 Sí, Hareide, 2004: 23. 8 Ibid, 18-19. 2.7 Ójavni í vald og styrki mil um persónar</p>
+<p>Happing endurtekur seg ferð eftir ferð og heldur fram í eitt tíðarskeið. Hendingarnar, persónur verður fyri, eru tí ikki eindømi ella isoleraðar, men systematiskt rættaðar mótvegis sama persóni ferð eftir ferð. 7 Sí, Hareide, 2004: 23. 8 Ibid, 18-19. 2.7 Ójavni í vald og styrki millum persónar</p>
 <p>Happing snýr seg eisini um assymetri í mun til vald - sterkir persónar mótvegis veikum. Ein persónur, ið verður happaður megnar ikki at verja seg ella <span type="quote">“at kasta bóltin aftur.”</span> Tískil snýr happing seg ikka einans um vanligar ósemjur millum menniskju. Hetta tí, at í vanligum ósemjum eru persónarnir eins sterkir ella veikir (Halse et al, 2001:9). 2.8 Eisini eitt bólkafyribrigdi</p>
 <p>Dan Olweus leggur dent á, at happing frá einum bólki er øðrvísi enn happing, sum verður framd av einum persóni. Orsøkin til hetta er, millum annað, at ein bólkur ofta styrkir um tær negativu gerðirnar, tí persónarnir eru innanhýsis tengdir at hvørjum øðrum. Tann, í bólkinum, sum er grovur, <span type="quote">“verður lønt/ur”</span> við at hini flenna, eru bangin og síggja upp til viðkomandi. Fyri tann happaða merkir hetta, at hann ella hon fær eina kenslu av at verða heilt útihýst/ur ikki bert av einum persóni, men av einum heilum bólki. 2.9 Hættir at happa</p>
 <p type="listitem">Olweus  (2000:  16)  skilir  millum  beinleiðis  happing  og  óbeinleiðis  happing.  Tá  talan  er  um  beinleiðis happing, sæst hetta sum ein sosial forfylging har álopini á ofrið eru lutfalsliga opin og  sjónlig  og  tí  lættari  at  leggja  merki  til.  Óbeinleiðis  happing  hevur  við  sær  sosiala  avbyrging  og  útihýsing  úr  bólkinum.  Hesin  seinni  hátturin  er  ikki  altíð  so  lættur  at  leggja  merki  til.  Í  spurnablaðnum verða dømi tikin um bæði beinleiðis og óbeinleiðis happing. Til dømis:</p>
@@ -110,7 +110,7 @@
 <p xml:lang="isl"><em type="bold">Happað </em>11%7%4% 4%74%0%10%20%30%40%50%60%70%80% </p>
 <p><em type="bold">Títtleiki </em></p>
 <p>Eg eri ikki vorðin happað/ur í skúlanum seinastu mánaðirnar</p>
-<p>Bert eina ferð2 el a 3 ferðir um mánaðin</p>
+<p>Bert eina ferð2 ella 3 ferðir um mánaðin</p>
 <p>Umleið 1 ferð um vikuna</p>
 <p>Fleiri ferðir um vikuna</p>
 <p>N=1995; 1954 taldar við</p>
@@ -119,7 +119,7 @@
 <p><em type="bold">Hevur happað </em>69%18%9%3% 1%0%10%20%30%40%50%60%70%80% </p>
 <p><em type="bold">Títtleiki </em></p>
 <p>Eg havi ikki happað annan næming/aðrar næmingar í skúlanum seinastu mánaðirnar</p>
-<p>Bert eina ferð2 el a 3 ferðir um mánaðin</p>
+<p>Bert eina ferð2 ella 3 ferðir um mánaðin</p>
 <p>Umleið 1 ferð um vikuna</p>
 <p>Fleiri ferðir um vikuna</p>
 <p>N=1995; 1948 taldar við</p>
@@ -180,7 +180,7 @@
 <p>Eg happi ikki, men haldi, at tað er í lagi at happa</p>
 <p>Eg bara hyggi at, hvat hendir</p>
 <p>Eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum</p>
-<p>Eg royni at hjálpa tí happaða næminginum á ein el a annan hátt</p>
+<p>Eg royni at hjálpa tí happaða næminginum á ein ella annan hátt</p>
 <p>N=1995; 1932 taldar við</p>
 <p xml:lang="eng"><em type="bold">Mynd 6 </em></p>
 <p><em type="italic">Sp.: Hvussu bert tú teg vanliga at, um tú finnur útav, at ein næmingur á aldur við teg verður happað/ur av øðrum næmingum? </em></p>
@@ -194,7 +194,7 @@
 <p>Eg havi ongantíð lagt merki til, at næmingar á mínum aldri eru happað Eg eri sjálv/ur við til happingina</p>
 <p>Eg happi ikki, men haldi, at tað er í lagi at happa</p>
 <p>Eg bara hyggi at, hvat hendir</p>
-<p>Eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum Eg royni at hjálpa tí happaða næminginum á ein el a annan hátt</p>
+<p>Eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum Eg royni at hjálpa tí happaða næminginum á ein ella annan hátt</p>
 <p><em type="italic">Sp.: Hvussu bert tú teg vanliga at, um tú finnur útav, at ein næmingur á aldur við teg verður happað/ur av øðrum næmingum? </em></p>
 <p>N=1995; 1932 taldar við</p>
 <p xml:lang="eng"><em type="bold">Mynd 8 </em></p>
@@ -216,7 +216,7 @@
 <p>Eg happi ikki, men haldi, at tað er í lagi at happa</p>
 <p>Eg bara hyggi at, hvat hendir</p>
 <p>Eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum</p>
-<p>Eg royni at hjálpa tí happaða næminginum á ein el a annan hátt</p>
+<p>Eg royni at hjálpa tí happaða næminginum á ein ella annan hátt</p>
 <p>N=1995; 1900 taldar við</p>
 <p><em type="italic">Sp.: Hvussu bert tú teg vanliga at, um tú finnur útav, at ein annar næmingur á aldur við teg verður happað/ur av øðrum næmingum? </em></p>
 <p xml:lang="eng"><em type="bold">Mynd 10 </em></p>
@@ -239,7 +239,7 @@
 <p>Eg happi ikki, men haldi, at tað er í lagi at happa</p>
 <p>Eg bara hyggi at, hvat hendir</p>
 <p>Eg happi ikki, men eg haldi, at eg skuldi roynt at hjálpt tí happaða næminginum</p>
-<p>Eg royni at hjálpa tí happaða næminginum á ein el a annan hátt</p>
+<p>Eg royni at hjálpa tí happaða næminginum á ein ella annan hátt</p>
 <p>N=1995; 1897 taldar við</p>
 <p><em type="italic">Sp.: Hvussu bert tú teg vanliga at, um tú finnur útav, at ein annar næmingur á aldur við teg verður happað/ur av øðrum næmingum? </em></p>
 <p><em type="bold">Mynd 12 </em>3.2 Happing og tal av næmingum </p>
@@ -334,9 +334,9 @@
 <p>Samsvarandi talið fyri skúlar, har talið av næmingum pr. lærara liggur millum 21-24 er 40%. Myndin vísir, at tess færri tal av næmingum pr. lærara, tess betur trívast næmingarnir.</p>
 <p><em type="bold">Trivnaður og tal av næmingum í skúlanum </em>0%10%20%30%40%50%60% <em type="bold">&lt;60 </em><em type="bold">60- </em><em type="bold">118 </em><em type="bold">119- </em><em type="bold">177 </em><em type="bold">178- </em><em type="bold">236 </em><em type="bold">237- </em><em type="bold">295 </em><em type="bold">296- </em><em type="bold">354 </em><em type="bold">355- </em><em type="bold">413 </em><em type="bold">414- </em><em type="bold">472 </em><em type="bold">532- </em><em type="bold">592 </em></p>
 <p><em type="bold">Tal av næmingum </em></p>
-<p xml:lang="est">Sera il a</p>
-<p xml:lang="eng">Il a</p>
-<p>Hvørki væl el a il a</p>
+<p xml:lang="swe">Sera illa</p>
+<p xml:lang="smj">Illa</p>
+<p>Hvørki væl ella illa</p>
 <p>Væl</p>
 <p>Sera væl</p>
 <p>N=1995; 1979 taldar við</p>
@@ -344,9 +344,9 @@
 <p xml:lang="eng"><em type="bold">Mynd 23 </em></p>
 <p><em type="bold">Trivnaður og tal av næmingum pr. lærara </em>0%20%40%60%80%100%120% <em type="bold">1-3,29 3,30- </em><em type="bold">5,59 </em><em type="bold">5,60- </em><em type="bold">7,89 </em><em type="bold">7,90- </em><em type="bold">10,19 </em><em type="bold">10,20- </em><em type="bold">12,49 </em><em type="bold">12,50- </em><em type="bold">14,70 </em><em type="bold">14,80- </em><em type="bold">17,09 </em><em type="bold">17,10- </em><em type="bold">19,39 </em><em type="bold">19,40- </em><em type="bold">21,69 </em><em type="bold">21,70- </em><em type="bold">24 </em></p>
 <p><em type="bold">Tal av næmingum </em></p>
-<p xml:lang="est">Sera il a</p>
-<p xml:lang="eng">Il a</p>
-<p>Hvørki væl el a il a Væl</p>
+<p xml:lang="swe">Sera illa</p>
+<p xml:lang="smj">Illa</p>
+<p>Hvørki væl ella illa Væl</p>
 <p>Sera væl</p>
 <p>N=1995; 1979 taldar við</p>
 <p xml:lang="eng"><em type="bold">Mynd 24 </em></p>

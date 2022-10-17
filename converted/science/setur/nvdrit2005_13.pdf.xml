@@ -112,7 +112,7 @@
 <p>Stýriskipan</p>
 <p>Stýriteljari (3-teljari)</p>
 <p>Klokkusignal</p>
-<p>VX</p>
+<p xml:lang="dan">VX</p>
 <p>Digitalt mát fyri spenninginum V5 volt</p>
 <p>Mynd 2.1 Yvirlitsrás.</p>
 <p>Fyrsta trýst gevur 1. støðu, annað trýst gevur 2. støðu, og triðja trýst gevur 3.støðu, og o verður byrjað av nýggjum. Umframt signalið frá trýteljaranum, fær kontrolskipanin eisini eitt signal frá útganginum av binera teljaranum.Hetta signalið sigur frá, nær bineri teljarin hevur talt upp til maksimum. Tað er endamálið við hesi venjing at byggja upp tær ymsu lutskipaninar hvør sær og royna tær. Síðan skulu tær bindast saman til eitt samlað digitalvoltmetur, ið her hevur binera útlesing til 8 ljósdiodur sum detektorar, eina til hvørt einstakt bit. Venjingin er skipað í: 1. ein fyrireikingarpart, ið snýr seg um at seta seg inn í tað neyðturvuliga lærubókatilfarið til at kunna skilja og loysa spurningarnar í hesi venjingini (er umfatað av tí sum higartil er gjøgnumgingið), 2. nakrar teoretiskar spurningar í samband við uppbygging av skipanini og <em type="italic">skulu verða </em><em type="italic">svaraðir áðrenn, møtt verður upp í starvsstovuni, </em>3. sjálva starvsstovuvenjingina, sum snýr seg um at uppbyggja skipanina, fáa hana at virka, gera neyðugar mátingar og avlesingar. <em type="italic">Hvør lutskipan sær skal uppbyggjast, roynast og skjalprógvast áðrenn, tær verða bundnar saman til eina heildarskipan. </em>4. og dokumentera bæði uppbygging og úrslit, og skriva eina samanhangandi frágreiðing um úrslitini. </p>
@@ -207,10 +207,10 @@
 <p xml:lang="eng">CMI-KODARI</p>
 <p xml:lang="eng">CMI-DEKODARI</p>
 <p xml:lang="eng">CMI</p>
-<p>NRZ NRZ</p>
+<p xml:lang="dan">NRZ NRZ</p>
 <p>Mynd 2.2 <em type="bold">4. Orðgerði </em>Í hesi venjing hevði verið best at brúkt ein orðgerða, ið ger tilvildarlig orð, til at royna CMI kodaran og dekodaran við. Hann er ikki tøkur. Í staðin fyri vilja vit byggja ein orðgerða, ið kann gera eina fyriskrivaða røð av bittum, ið síðan verður endurtikin periodiskt. Í byrjanini velja vit 8 bit, sum so eitt í senn við hjálp av einum multipleksara 74LS151 verða send út á útgangin Y. Adressuinngangirnir ABC fáa signal frá binera teljaranum 74LS393 sum víst á mynd 4.1. Orðið, ið verður sent út á Y-útganginum er D0, D1, D2, D3, D4, D5, D6, D7, ið er sett til logiskt <span type="quote">”0” ella logiskt ”1”</span>, svarandi til orðið, ið vit ynskja. <em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em><em type="bold">Spurningur 3 </em>: Hvussu kunnu vit broyta orðgerðan við at brúka enable inngangin á multipleksaranum , soleiðis at 8 bit røðin, sum vit hava stillað við givnum virðum verður eftirfylgd av 8 nullum, og síðan endurtikið periodiskt. <em type="italic">At svara í starvsstovuni: </em><em type="bold">Spurningur 4: </em>Set 8 bit orðgerðan upp. Ger broytingina sambært sp.3. Royn orðgerðan, áðrenn og aftan á broytingina. <em type="bold">5. CMI-kodari </em>Sum tað gongur fram av frágreiðingini í parti 2 og mynd 5.1, ger CMI kodarin brúk av einum klokkufrekvensi, sum er dupult so stórur sum dataklokkufrekvensurin. Nú er so spurningurin, hvørjir inngangsvariablar stýra, hvørjum virði 0 ella 1, ið CMI útgangurin skal hava í hvørjum CMI-klokkuintervalli. Givið er, at datasignalið, ið vit nevna DATA, má vera inngangsvariabul. Vit síggja eisini, at CMI signalið, svarandi til DATA = 0, skiftir í miðjum intervalli. Hetta ger dataklokkan eisini. Tí má dataklokkusignalið <span type="quote" xml:lang="dan">“DKL”</span> vera ein hóskandi inngangsvariabul. </p>
 <p xml:lang="eng">CK QA</p>
-<p>QB</p>
+<p xml:lang="dan">QB</p>
 <p xml:lang="eng">QC</p>
 <p xml:lang="dan">QD</p>
 <p xml:lang="eng">CLR</p>

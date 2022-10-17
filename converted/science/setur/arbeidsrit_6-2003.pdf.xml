@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>18867</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5055/arbeidsrit_6-2003.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-4-3 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>18835</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5055/arbeidsrit_6-2003.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-4-3 </em></p>
 <p>Kanning av viðurskiftum hjá apopleksiraktum í Føroyum</p>
 <p xml:lang="nob">Dennis Holm</p>
 <p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 6/2003 </em>!" ! #$#$#%&amp; </p>
@@ -115,9 +115,9 @@
 <p>Muðurin var skeivur</p>
 <p>Ring/-ur í høvuðpínu</p>
 <p xml:lang="nno">Neglekt</p>
-<p>Trupul eikar við at føla</p>
-<p>Trupul eikar við sjónini</p>
-<p>Trupul eikar við at tosa</p>
+<p>Trupulleikar við at føla</p>
+<p>Trupulleikar við sjónini</p>
+<p>Trupulleikar við at tosa</p>
 <p xml:lang="isl">Eg var klár/-ur</p>
 <p xml:lang="kal">N=51 N=71 N=31 N=43</p>
 <p xml:lang="kal">N=33</p>
@@ -149,7 +149,7 @@
 <p xml:lang="est">Avlamispensjónist</p>
 <p xml:lang="isl">Fólkapensjónist</p>
 <p>Arbeiddi part-tíð</p>
-<p>Arbeiddi ful a-tíð</p>
+<p>Arbeiddi fulla-tíð</p>
 <p xml:lang="kal">N=109</p>
 <p><em type="italic">Mynd 9. Hvussu var tín støða á </em><em type="italic">arbeiðsmarknaðinum, tá skaðin hendi? </em></p>
 <p>Um hugt verður at, hvør støðan var á arbeiðsmarknaðin um og í hvønn mun skaðin hevði ávirkan á arbeiðsførleikan, so gevur kanningin nakrar ábendingar um, at tey eldri ættarliðini (tvs. tey sum frammanundan vóru fólka- og avlamispensjónistar) ikki tykjast vera eins hart rakt av skaðanum og tey yngru ættarliðini (tey, sum eru virkin á arbeiðsmarknaðinum), sí <em type="italic">Mynd 12 </em>. Samanbera vit við donsku hagtølini, ið sum sagt vísa, at 25 % av teimum apopleksiraktu venda aftur til gerandisdagin, so er samsvarandi talið í Føroyum sambært hesari kanningini væl lægri. Ein av orsøkunum til, at talið í Føroyum er lutfalsliga lágt samanborið við í Danmark kann vera, at <em type="italic">hendan </em>kanningin ikki hevur rokkið øll tey, sum eru vorðin frísk aftur eftir skaðan (eins og nevnt 2. parti). Jón á Steig, leiðandi yvirlækni á Medisinsku deild á Landssjúkrahúsinum, vísir eisini á, at ein orsøk helst er, at í Føroyum eru tað fá <span type="quote">”lættari”</span> arbeiði (sokallaði ” <em type="italic">skánejobs </em><span type="quote">”) ella vard størv, og hetta ger tað trupult at koma inn á arbeiðsmarknaðin aftur eftir ein skaða. Jón á Steig sigur eisini, at ”útslusningin”</span> ella skifti frá sjúkrahúsi til vanliga gerandisdagin ikki er nóg gott, og at tað vantar ein ambulant uppvenjingarskipan. Ein onnur orsøk kann vera, at tilboðini, hvat viðgerð og uppvenjing viðvíkur, eru væl betri í Danmark, og av somu orsøk eru tað fleiri í Danmark, sum koma heilt væl fyri seg aftur eftir skaðan, men hetta er tó rættiliga trupult at siga nakað um út frá hesari kanningini. <em type="bold">Kropsliga støðan </em>Sum lýst í 3. parti kann apopleksi føra við sær víttfevnandi fylgir, bæði hvat viðvíkur kropsligum førleika, mobiliteti og førleikanum at samskifti við onnur. Harumframt kann apopleksi eisini ávirka, í hvønn mun ein er førur fyri at skipa og gera ting, ið vanliga </p>
@@ -157,7 +157,7 @@
 <p><em type="bold">Gjørdist tú óarbeiðsfør/-ur orsaka av skaðanum? </em>0%20%40%60%80%100% </p>
 <p xml:lang="isl">Annað</p>
 <p xml:lang="isl">Fólka- / Avlamispensjónist</p>
-<p>Arbeiddi ful a- / part tíð</p>
+<p>Arbeiddi fulla- / part tíð</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="fra">Ja, partvíst</p>
 <p xml:lang="nno">Nei</p>
@@ -189,10 +189,10 @@
 <p><em type="bold">Hevur tú trupulleikar við at samskifta </em><em type="bold">(tosa, skriva, lesa)? </em>10%13%28%46%33%38%0% 10% 20% 30% 40% 50% </p>
 <p xml:lang="isl">Annað</p>
 <p xml:lang="nno">Neglekt</p>
-<p>Trupul eika við sjónini</p>
-<p>Trupul eika við at skriva, lesaog rokna</p>
-<p>Trupul eika við at tosa ítelefon</p>
-<p>Trupul eika við at tosa viðonnur</p>
+<p>Trupulleika við sjónini</p>
+<p>Trupulleika við at skriva, lesaog rokna</p>
+<p>Trupulleika við at tosa ítelefon</p>
+<p>Trupulleika við at tosa viðonnur</p>
 <p><em type="italic">Mynd 16. Hevur tú trupulleikar við minninum? </em><em type="italic">(fleiri krossar kunnu setast) </em></p>
 <p><em type="bold">Hevur tú trupulleikar við minninum? </em>7%27%21%13%0% 5% 10% 15% 20% 25% 30% </p>
 <p xml:lang="isl">Annað</p>
@@ -204,10 +204,10 @@
 <p><em type="italic">Mynd 18. Hevur tú trupulleikar viðílatin og </em><em type="italic">persónligari røkt, so sum? (fleiri krossar </em><em type="italic">kunnu setast) </em></p>
 <p><em type="bold">Hevur tú trupulleikar við ílating og </em><em type="bold">persónligari røkt, so sum? </em>8%7%33%14%19%13%33%56%0% 10% 20% 30% 40% 50% 60% </p>
 <p xml:lang="isl">Annað</p>
-<p>At planleggja eina handling. .</p>
-<p>At kenna gerandis ambo ð aftur. .</p>
+<p>At planleggja eina handling...</p>
+<p>At kenna gerandis ambo ð aftur...</p>
 <p>A t smyrja breyð</p>
-<p>At busta tenn. .</p>
+<p>At busta tenn...</p>
 <p>At vita hvat plagg ho yrir til hvønnkropslut</p>
 <p>At fáa arm í røttu ermu</p>
 <p>At venda klæðunum rætt</p>
@@ -247,7 +247,7 @@
 <p>Í spurnarblaðnum varð eisini spurt um tey apopleksiraktu búgva saman við nøkrum. Gott og væl 70 % svaraðu, at tey búðu saman við hjúnafelaga/maka ella saman við øðrum (í seinna førinum búgva umleið helvtin saman við børnum). 23 % svaraðu, at tey búgva einsamøll, meðan gott og væl 5 % svaraðu <em type="italic">annað </em>(tey flestu av hesum búgva á røktarheimi, í vardari íbúð ella í sambýli). Hóast ein lítil fjórðingur av teimum apopleksiraktu búgva einsamøll, so merkir hetta tó ikki, at tey onki samband hava við onnur. Tey flestu vísa á, at tey hava fleiri avvarðandi í nærumhvørvinum – eins og víst í <em type="italic">Mynd 22. </em>. Men styrkin av einum sosialum netverki er tó eisini tengd at hvussu ofta samband ella samskifti er við eitt nú familju- og avvarðandi. Í kanningini varð tí eisini spurt um hesi viðurskifti. Tveir triðingar vísa á, at tey dagliga hava samskifti við avvarðandi. 15 % hava svarað, at tey javnan hava samskifti við avvarðandi. Onnur 15 % hava svarað, at tey av og á hava samskifti við avvarðandi, meðan 4 % vísa á, at tey sjáldan hava samskifti við avvarðandi. Ein partur av teimum, sum hava svarað, at tey <em type="italic">av og á </em>og <em type="italic">sjáldan </em>hava samskifti við avvarðandi búgva á </p>
 <p><em type="bold">Eru tit fleiri í húsi? </em>6%23%14%57%0%10% 20% 30% 40% 50% 60% </p>
 <p xml:lang="isl">Annað</p>
-<p xml:lang="nno">Nei, búgvieinsamøl /-mal ur</p>
+<p xml:lang="nno">Nei, búgvieinsamøll/-mallur</p>
 <p>Ja, búgvi samanvið øðrum</p>
 <p xml:lang="smj">Ja, búgvi samanviðhjúnafelaga/maka</p>
 <p xml:lang="isl"><em type="italic">Mynd 21. Eru tit fleiri í húsi? </em></p>
@@ -568,7 +568,7 @@
 <p>Fleiri enn 5.000 fólk <em type="bold">6. Hvussu eru íbúðarviðurskiftini hjá tær – eru tit fleiri í húsi? </em>1 </p>
 <p>Ja, búgvi saman við hjúnafelaga / maka 2</p>
 <p>Ja, búgvi saman við øðrum 3</p>
-<p xml:lang="nno">Nei, búgvi einsamøl /-mal ur 4</p>
+<p>Nei, búgvi einsamøll/-mallur 4</p>
 <p>Annað _____________________________________ <em type="bold">6a. Hvussu eru íbúðarviðurskiftini hjá tær – hvussu býrt tú? </em>6 </p>
 <p>Búgvi inni hjá avvarðandi; hvørjum a</p>
 <p>Børnum á</p>
@@ -631,10 +631,10 @@
 <p>Í beininum á</p>
 <p>Í beininum 1</p>
 <p xml:lang="isl">Eg var klár/-ur 2</p>
-<p>Eg hevði trupul eikar við at tosa 3</p>
-<p>Eg hevði trupul eikar við sjónini 4</p>
-<p>Eg hevði trupul eikar við at føla 5</p>
-<p>Neglekt - eg kendist il a/ikki við aðru síðuna av kroppinum / rúminum 6</p>
+<p>Eg hevði trupulleikar við at tosa 3</p>
+<p>Eg hevði trupulleikar við sjónini 4</p>
+<p>Eg hevði trupulleikar við at føla 5</p>
+<p>Neglekt - eg kendist illa/ikki við aðru síðuna av kroppinum / rúminum 6</p>
 <p>Var ring/-ur í høvuðpínu 7</p>
 <p>Muðurin var skeivur 8</p>
 <p>Eg hevði einki vit 11</p>
@@ -649,10 +649,10 @@
 <p xml:lang="isl">Ríkissjúkrahúsið 4</p>
 <p>Onnur, hvør: <em type="bold">___________________________ </em>5 </p>
 <p>Eg og avvarðandi 6</p>
-<p>Ongin uppvenjing el a eftirviðgerð varð skipað <em type="bold">21. Hvussu heldur tú/tit at viðgerðin eftir at tú varð útskrivað/-ur hevur verið skipað? </em>1 </p>
+<p>Ongin uppvenjing ella eftirviðgerð varð skipað <em type="bold">21. Hvussu heldur tú/tit at viðgerðin eftir at tú varð útskrivað/-ur hevur verið skipað? </em>1 </p>
 <p>Sum heild hevur viðgerðin verið væl skipað 2</p>
 <p>Viðgerðin hevur verið nøkulunda skipað 3</p>
-<p>Viðgerðin hevur verið il a skipað</p>
+<p>Viðgerðin hevur verið illa skipað</p>
 <p>Viðmerking: <em type="bold">________________________________ </em><em type="bold">_________________________________________ </em><em type="bold">_________________________________________ </em><em type="bold">22. Hvussu hevur sambandið, samstarvið og samskiftið við niðan fyri nevndu stovnar/fólk verið eftir </em><em type="bold">at tú er útskrivað/-ur? </em></p>
 <p>Heilt gott</p>
 <p xml:lang="sms">Gott</p>
@@ -694,7 +694,7 @@
 <p xml:lang="isl">Mobil/-ur í koyristóli a Eri sjálvhjálpiná</p>
 <p>Má hava hjálp 6</p>
 <p xml:lang="est">Eri seingjaliggjandi 7</p>
-<p>Annað, skriva hvat: <em type="bold">_________________________________________ </em><em type="bold">_____________________________________________________________ </em><em type="bold">_____________________________________________________________ </em><em type="bold">26. Hevur tú trupulleikar við ílating og persónligari røkt, so sum? </em>( <em type="italic">Fleiri krossar kunnu setast) </em>1 at venda klæðunum rætt 2 at fáa arm í røttu ermu 3 at vita hvat plagg hoyrir til hvønn kropslut4 at busta tenn (venda bustini rættan veg, fáa passaligt av tannkremi) 5 at smyrja breyð6 at kenna dagligdags amboð aftur (t.d. gaffil, knív) og vita hvat tey skulu brúkast til og á hvønn hátt 7 at planleggja eina handling (t.d. gera drekkamunn, keypa inn) 8 annað, skriva hvat: <em type="bold">_____________________________ </em><em type="bold">______________________________________________ </em><em type="bold">27. Hevur tú trupulleikar við at samskifta (tosa, skriva, lesa)? </em>( <em type="italic">Fleiri krossar kunnu setast) </em>1 trupul eika við at tosa við onnur (at finna orð, at gera setningar, at skilja tað sum onnur siga, at onnur hava trupul eika við at skilja teg os.fr.) 2 trupul eika við at tosa í telefon 3 trupul eika við at skriva, lesa og rokna (kenna bókstavir og tøl og brúka hesi) 4 havi trupul eikar við sjónini 5 neglekt - eg kennist il a/ikki við aðru síðuna av kroppinum / rúminum 6 viðmerking: ____________________________________________________________________ <em type="bold">28. Hevur tú trupulleikar við minninum? </em>( <em type="italic">Fleiri krossar kunnu setast) </em>1 trupul eika við at minnast egið navn, føðingardag, bústað, tíð og stað 2 trupul eika við at minnast ætlaðar fundir og gjørdar avtalur 3 trupul eika við at minnast til at gera ávís ting 4 viðmerking: ____________________________________________________________________ </p>
+<p>Annað, skriva hvat: <em type="bold">_________________________________________ </em><em type="bold">_____________________________________________________________ </em><em type="bold">_____________________________________________________________ </em><em type="bold">26. Hevur tú trupulleikar við ílating og persónligari røkt, so sum? </em>( <em type="italic">Fleiri krossar kunnu setast) </em>1 at venda klæðunum rætt 2 at fáa arm í røttu ermu 3 at vita hvat plagg hoyrir til hvønn kropslut4 at busta tenn (venda bustini rættan veg, fáa passaligt av tannkremi) 5 at smyrja breyð6 at kenna dagligdags amboð aftur (t.d. gaffil, knív) og vita hvat tey skulu brúkast til og á hvønn hátt 7 at planleggja eina handling (t.d. gera drekkamunn, keypa inn) 8 annað, skriva hvat: <em type="bold">_____________________________ </em><em type="bold">______________________________________________ </em><em type="bold">27. Hevur tú trupulleikar við at samskifta (tosa, skriva, lesa)? </em>( <em type="italic">Fleiri krossar kunnu setast) </em>1 trupulleika við at tosa við onnur (at finna orð, at gera setningar, at skilja tað sum onnur siga, at onnur hava trupulleika við at skilja teg os.fr.) 2 trupulleika við at tosa í telefon 3 trupulleika við at skriva, lesa og rokna (kenna bókstavir og tøl og brúka hesi) 4 havi trupulleikar við sjónini 5 neglekt - eg kennist illa/ikki við aðru síðuna av kroppinum / rúminum 6 viðmerking: ____________________________________________________________________ <em type="bold">28. Hevur tú trupulleikar við minninum? </em>( <em type="italic">Fleiri krossar kunnu setast) </em>1 trupulleika við at minnast egið navn, føðingardag, bústað, tíð og stað 2 trupulleika við at minnast ætlaðar fundir og gjørdar avtalur 3 trupulleika við at minnast til at gera ávís ting 4 viðmerking: ____________________________________________________________________ </p>
 <p><em type="bold">Spurningar í smb. við viðgerð og tilboð </em><em type="bold">29. Fært tú heimarøkt? </em>1 </p>
 <p xml:lang="smj">Ja, heimahjálp 2</p>
 <p xml:lang="fkv">Ja, heimasjúkrasystir 3</p>
@@ -740,7 +740,7 @@
 <p>At arbeitt á vardum verkstað / gingið á ALV skúlanum við Áir 13</p>
 <p>Øðrum, hvørjum:______ ___ _________________________</p>
 <p><em type="bold">Spurningar í smb. við arbeiði og frítíð </em><em type="bold">34. Hvussu var tín støða á arbeiðsmarknaðinum, tá skaðin hendi? </em>1 </p>
-<p>Arbeiddi ful a tíð 2</p>
+<p>Arbeiddi fulla tíð 2</p>
 <p>Arbeiddi part-tíð3</p>
 <p xml:lang="isl">Arbeiðsleys/-ur 4</p>
 <p xml:lang="nob">Fólkapensjónist/-ur 5</p>

@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>12624</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2009.12 Ferðavinna og útboð av mati.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Ferðavinna og útboð av mati</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>12685</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2009.12 Ferðavinna og útboð av mati.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Ferðavinna og útboð av mati</p>
 <p>Útgreining og uppskot</p>
 <p>Frágreiðing</p>
 <p xml:lang="dan">Desember 2009</p>
@@ -143,25 +143,35 @@
 <p type="listitem">Matur til ferðaløg í tí privata húsarhaldinum. Borðreiðingin skal vera í privatkøki/-stovu, so eingin ivi er um, at talan er um mat, sum er  virkaður í privata køkinum.</p>
 <p>Matvørulógin er tó galdandi á økinum, og útbjóðarin hevur ábyrgd av. at matvørutrygdin er í lagi. Mælt verður til, at í sambandi við eina nýggja matvørulóg og í eini komandi kunngerð um løggilding/góðkenning/skráseting verður ásett, hvat kemur undir løggilding/góðkenning/skráseting. Eisini verður mælt til, at ein kunngerð kemur um heilsufrøðilig viðurskifti fyri matfyritøkur á heimamarknaðinum.</p>
 <p><em type="bold">F.1. Framløga frá fundi á HFS </em>1 </p>
-<p>H e i l s u f r ø ð i l i g a s t a r v s s t o v a n</p>
+<p xml:lang="dan">H e i l s u f r</p>
+<p>H e i l s u f r øø ð i l i g a s t a r v s s t o v a n</p>
 <p>Falkavegur 6, 2. h æd d F O-100 Tó rshavn Faroe Islands Tel. <em type="bold">+298 556 400 </em>Fax. <em type="bold">+298 556 401 </em>E-mail: hfs @hfs.fo Homepage: http :\\www.hfs.fo </p>
 <p>Vegleiðing til matstovur</p>
-<p>Laila Jacobsendeildarleiðari fyri matvørudeildina2</p>
+<p>Laila</p>
+<p>Laila Jacobsendeildarleiðari fyri deildarleiðari fyri matvørudeildinarudeildina2</p>
 <p>Vegleiðingar á www.hfs.fo:</p>
-<p>Hotel og stórar matstovur Matstovur, kaffistovurkaffistovur , kaféir o.l.</p>
-<p>Bygdahús/samkomuhs/samkomuh ús/ítróttarhallir o.l.</p>
-<p>Gryll- og pylsuvognar / støð Matur út úr húsinum Matsøluvognar Smásøla, har virking ella pakking fer framrakstrarreglur3456</p>
+<p>Hotel og stórarrar matstovur</p>
+<p>Matstovur, kaffistovurkaffistovur , , kaféir o.l.</p>
+<p>Bygdah</p>
+<p>Bygdahús/samkomuhs/samkomuh ús/s/ íítróóttarhallir o.l.</p>
+<p>Gryll-- og pylsuvognar / støøð</p>
+<p>Matur úút úúr hhúsinum</p>
+<p>Matsøøluvognar</p>
+<p>Sm</p>
+<p>Smáss øøla, har virking ella pakking fer fer framframrakstrarreglur3456</p>
 <p>Um ætlanir eru um at lata matstovu upp:</p>
-<p>Søkja um matstovuloyvimatstovuloyvi hjá politinum.</p>
-<p>Politiið biður umum viðmæli frá:- Kommununi - Brunaumsjón landsins - Heilsufr øðiligu starvsstovuni7</p>
+<p>Søøkja um matstovuloyvimatstovuloyvi hjáá politinumpolitinum ..</p>
+<p>Politiið biður umum viðmæli frá::- Kommununi</p>
+<p>Kommununi- Brunaumsjóón landsins- Heilsufr</p>
+<p>Heilsufrøøðiliguðiligu starvsstovunistarvsstovuni7</p>
 <p>Heilsufr øðiliga starvsstovan hevur :</p>
-<p>Vegleiðing - Matstovur, kaffistovur, kaféir o.l.</p>
+<p>Vegleiðing - Matstovur, kaffistovurkaffistovur , kafkaf éé ir o.l.</p>
 <p>U m s</p>
-<p>U m óknarblað til góðkenningrakstrarreglur8</p>
+<p>U m óknarblað til góðkenningðkenningrakstrarreglur8</p>
 <p>Vegleiðing til matstovur, kaféir o.l. :- Hølir - Innrætting - Útbúnað - Tilfar - Burturkastskipan - Reingerð - Persónligt reinføri - Annað9</p>
 <p><em type="bold">Vegleiðing - Matstovur , kaffistovur , kafèi r o.l. </em></p>
 <p>Hølir:</p>
-<p>Vørum ót øka+ stað til returvørur</p>
+<p>Vørum óttøka+ stað til returvørur</p>
 <p>Goymslur : - til turrv ørur, køli- og frystivørur . - til borðbúnað</p>
 <p>Køkur:- ella køksumráði, atskilt fr á viðskiftaf ólki við diski - uppvaskirúm ella -stað.</p>
 <p>Burturkast: - rúm ella bingja</p>
@@ -208,20 +218,26 @@
 <p>Arbeiðast skal soleiðis, at trygd verður veittfyri, at liðugv øran ikki verður dálkað av rávøruni ella nærumhvørvinum.</p>
 <p>Royking er bannað á øllum støðum, harmatur verður viðgjørdur ella goymdur22</p>
 <p>Tað sum ikki krevur góðkenning:</p>
-<p>Færri enn 12 fastir kostgangarar Hissini søla (1-2 ferðir um ári í maks 14 dagar 14 dagar samlað)</p>
-<p>Kaffi, the og keyptar smákøkur Dagrøkt kt í privata h úsarhaldinum</p>
-<p>Stovnar við dagtilboði til børni og ung, við avmarkaðari matgerð</p>
-<p>Morgunmat í sambandi við ból og biti í tí privata húsarhaldinum tó max. 12 fólk23</p>
-<p>Køkurin í heiminum:</p>
-<p>Tann privati køkurin kann ikki nýtast til útboð av mati í søluendmáli.</p>
-<p>Hví?</p>
-<p>Reinføris- og matv ørutrygdaráðum</p>
-<p>Serstakliga tað at ikki kann setast krav til sjs jálvsrøkt, persónligt reinfnligt reinf øri, ri, í privata húsarhaldinum</p>
-<p>Vandi fyri at at yvirføra s jsjúkuelvandi bakteriur, virus og aðrar d álkingar til matin sum verður gj ørdur24</p>
-<p>Minstakraviðtil borðreiðing (matur frtil borðreiðing (matur fr á góðkendum køki)</p>
-<p>Køk (t.d. Annrættarkøkur), goymslu, starvsfólkaviðurskifti til endamálið</p>
-<p>Liðugur matur frá góðkendum veitara</p>
-<p>Hóskandi plasering av hølunum í mun til hvørt annað</p>
+<p>Færri enn 12 fastir kostgangarar Hissini søla (1la (1-2 ferðir um ári í maks 14 dagar 14 dagar samlað)</p>
+<p xml:lang="dan">Kaffi,</p>
+<p xml:lang="dan">Kaffi, the og keyptar smog keyptar sm ákk økur kur</p>
+<p>Dagrøøkt kt íí privata hprivata húsarhaldinum</p>
+<p>Stovnar við</p>
+<p>Stovnar við dagtilboði til til bbørni og ung, við avmarkaðari matgerðavmarkaðari matgerð</p>
+<p>Morgunmat í sambandi við bóól og biti í ttíí privata privata húsarhaldinum tó max. 12 fólk23</p>
+<p>Køkurin kurin íí heiminum:</p>
+<p>Tann privati k</p>
+<p>Tann privati køkurin kann ikki nýtast til kurin kann ikki nýtast til útboð av mati ísøluendmáli.</p>
+<p>Hvíí?</p>
+<p>Reinførisris - og matvøørutrygdaráðum</p>
+<p>Serstakliga tað at ikki kann setast krav til sjs jáá lvsrøkt, persónligt reinfnligt reinf øri, ri, í privata húsarhaldinum</p>
+<p>Vandi fyri at</p>
+<p>Vandi fyri at at yvirføøra s jsjúkuelvandi bakteriur, virus og kuelvandi bakteriur, virus og aðrar daðrar dáá lkingar til matin sum verður gjlkingar til matin sum verður gjørdur24</p>
+<p>Minstakravið</p>
+<p>Minstakraviðtil borðreiðing (matur frtil borðreiðing (matur fr á ggóðkendum køki)</p>
+<p>Køk (t.d. Annrættarkøkur), goymslu, ), goymslu, starvsfóólkaviðurskifti til endamááliðlið</p>
+<p>Liðugur matur fráá góóðkendum veitaraveitara</p>
+<p>Hóskandi plasering av hskandi plasering av hølunum í mun til hvmun til hv ørt annaðannað</p>
 <p>Ikki privati køkurin25</p>
 <p>Tey sum ætla s ær í hált við s ølu av matvørum skulu: 1. Gera sær greitt hvat tey ætla at gera!</p>
 <p>Gott er at útfylla umsóknarblaðið og tekna upp hvussu innrættingin av køkinum og tilhoyrandi rúmum er/verður og síðani biða um fundi við Matvørudeildina2. Gera køk og tilhoyrandi r úm klár 3. S økja um matstovuloyvi 4. S økja um góðkenning frá HS – lata umsóknarblað inn 5. Biða um at fáa umst øðurnar sýnaðar, tá ið kl árt er26</p>

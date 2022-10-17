@@ -2,9 +2,9 @@
 <p><em type="bold">Støði undir digitalum elektronikki </em></p>
 <p xml:lang="dan">Magnus Danielsen</p>
 <p xml:lang="eng">NVD <em type="italic">Rit </em>2005:12 </p>
-<p>R’</p>
+<p xml:lang="dan">R’</p>
 <p xml:lang="eng">Vref</p>
-<p>Kn</p>
+<p xml:lang="eng">Kn</p>
 <p>Kn-1</p>
 <p xml:lang="eng">K2</p>
 <p xml:lang="eng">K1</p>
@@ -227,7 +227,7 @@
 <p xml:lang="dan">G(221231321++=⋅−⋅++ (3.16) 224313</p>
 <p xml:lang="dan">V)</p>
 <p xml:lang="dan">G(</p>
-<p xml:lang="eng">G−=⋅++⋅−</p>
+<p xml:lang="dan">G−=⋅++⋅−</p>
 <p>Eisini kunnu líkningarnar verða skrivaðar sum eina matrikslíkning (3.17) −++=+−−++2221214333321</p>
 <p xml:lang="dan">V)</p>
 <p xml:lang="dan">G()</p>
@@ -318,7 +318,7 @@
 <p xml:lang="eng">Last + V −</p>
 <p xml:lang="eng">I + ETH −</p>
 <p xml:lang="eng">RTH b.</p>
-<p>Vt</p>
+<p xml:lang="dan">Vt</p>
 <p xml:lang="eng">Ik</p>
 <p xml:lang="eng">I )</p>
 <p xml:lang="eng">I(</p>
@@ -899,11 +899,11 @@
 <p>Mynd 7.8 Uppbygging av CMOS – rás av n- og p-kanal transistorum av <span type="quote" xml:lang="eng">”enhancement”</span> slagnum</p>
 <p xml:lang="eng">VDD = 5 V 0 V + V1 −+ V2 −+ V1 −+ V2 −</p>
 <p xml:lang="eng">Rp</p>
-<p>Rn</p>
+<p xml:lang="eng">Rn</p>
 <p xml:lang="dan">VDD</p>
 <p>Mynd 7.10 Javnmetisrás fyri CMOS.</p>
 <p xml:lang="dan">Inngangsspenningur V1</p>
-<p>Rn</p>
+<p xml:lang="eng">Rn</p>
 <p xml:lang="dan">Rp 0 V</p>
 <p xml:lang="eng">Rn,off = 1 – 10 MΩ</p>
 <p xml:lang="eng">Rp,on = 20 – 200 Ω 5 V</p>
@@ -990,7 +990,7 @@
 <p xml:lang="eng"><em type="italic">I </em><em type="italic">mA </em><em type="italic">r </em></p>
 <p xml:lang="eng"><em type="italic">I </em>β&lt;=+=26,9 </p>
 <p>Tí er transistorin mettaður og</p>
-<p>RB</p>
+<p xml:lang="dan">RB</p>
 <p>RC</p>
 <p xml:lang="eng">VX + - + ECC − + VY −</p>
 <p>Mynd 8.11 Invertarauppseting við npn-transistori</p>
@@ -1059,7 +1059,7 @@
 <p>RC2</p>
 <p xml:lang="eng">RE2</p>
 <p>ECC = 5volt</p>
-<p>VX</p>
+<p xml:lang="dan">VX</p>
 <p xml:lang="eng">VY a) NOT – gate : Y = X’</p>
 <p>T2</p>
 <p>T3</p>
@@ -1156,7 +1156,7 @@
 <p xml:lang="eng">E2 + -</p>
 <p xml:lang="eng">R2</p>
 <p xml:lang="dan">En + -</p>
-<p>Rn</p>
+<p xml:lang="eng">Rn</p>
 <p>Differensstyrkjari kann gerast við einføldu streymrásini í mynd 9.8 Við t.d. at brúka superpositiónsrokniháttin kunnu vit finna, at (9.10)</p>
 <p>Útgangsspenningur 2300012121233</p>
 <p xml:lang="eng">E(E</p>
@@ -1214,8 +1214,8 @@
 <p xml:lang="eng">E + − + V −</p>
 <p xml:lang="eng">R1</p>
 <p xml:lang="eng">R2</p>
-<p>Vα</p>
-<p>Vβ</p>
+<p xml:lang="dan">Vα</p>
+<p xml:lang="dan">Vβ</p>
 <p xml:lang="eng">Eα</p>
 <p xml:lang="eng">Eβ</p>
 <p>Mynd 9.13 Útgangsspenningur V sum funktión av inngangsspenningi E fyri inverterandi Schmitt triggara (9.15)</p>
@@ -1237,8 +1237,8 @@
 <p>Schmitt triggara innbygdir í digitalar IC rásir eru skiftispenningarnir eisini numeriskt ymiskir, og eru teir og hysteresuspenningurin fastlagdir sum partur av eginleikanum av IC rásini. Schmitt triggarin, ið er viðgjørdur her, er nevndur inverterandi Schmitt triggari við tað, at hann virkar sum ein invertari uttan fyri hysteresuøki. Til ber eisini at gera ikki inverterandi Schmitt triggara, men verður ikki viðgjørt her. t t</p>
 <p xml:lang="eng">Eα</p>
 <p xml:lang="eng">Eβ</p>
-<p>Vα</p>
-<p>Vβ</p>
+<p xml:lang="dan">Vα</p>
+<p xml:lang="dan">Vβ</p>
 <p xml:lang="eng">Mynd 9.14</p>
 <p>Útgangsspenningur V = V(t) frá Schmitt triggara við skiftandi spenningi E(t) á innganginum. (9.18) τ = RC upp móti asymptotiska spenningsvirðinum (9.19)</p>
 <p>V−(∞) = Vα</p>
@@ -1247,9 +1247,9 @@
 <p xml:lang="eng">Schmitt triggara − + + V −</p>
 <p xml:lang="eng">R1</p>
 <p xml:lang="eng">R2</p>
-<p>V−</p>
+<p xml:lang="dan">V−</p>
 <p xml:lang="dan">V+</p>
-<p>Vα</p>
+<p xml:lang="dan">Vα</p>
 <p>Vβ t</p>
 <p xml:lang="dan">V+ t</p>
 <p xml:lang="eng">Eα</p>
@@ -1258,7 +1258,7 @@
 <p>V− t</p>
 <p xml:lang="eng">Eβ</p>
 <p xml:lang="eng">Eα</p>
-<p>Vα</p>
+<p xml:lang="dan">Vα</p>
 <p>Vβ t1 t2 t3</p>
 <p>T (9.20) 1t t</p>
 <p xml:lang="dan">V (t) V(E</p>
@@ -1323,10 +1323,10 @@
 <p xml:lang="dan">E t</p>
 <p xml:lang="dan">V t</p>
 <p xml:lang="eng">ECC −ECC</p>
-<p>Vα</p>
-<p>Vβ</p>
+<p xml:lang="dan">Vα</p>
+<p xml:lang="dan">Vβ</p>
 <p xml:lang="dan">E1 t</p>
-<p>Vβ</p>
+<p xml:lang="dan">Vβ</p>
 <p xml:lang="dan">Vα −VD0</p>
 <p xml:lang="eng">Eα</p>
 <p>T+∆t</p>
@@ -1353,7 +1353,7 @@
 <p xml:lang="eng">R0 + V −</p>
 <p xml:lang="eng">R2</p>
 <p xml:lang="eng">R3</p>
-<p>Rn</p>
+<p xml:lang="eng">Rn</p>
 <p xml:lang="eng">R1</p>
 <p xml:lang="eng">K1</p>
 <p xml:lang="eng">K2</p>
@@ -1364,8 +1364,8 @@
 <p xml:lang="eng">K1</p>
 <p xml:lang="eng">K2</p>
 <p xml:lang="eng">K3</p>
-<p>Kn</p>
-<p>VR</p>
+<p xml:lang="eng">Kn</p>
+<p xml:lang="dan">VR</p>
 <p xml:lang="eng">R 2R − +</p>
 <p xml:lang="eng">R0 + V −b.</p>
 <p xml:lang="eng">IR</p>

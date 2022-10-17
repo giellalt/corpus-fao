@@ -1,11 +1,11 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>24604</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5032/arbeidsrit_12-2006.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-60-06-1 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>24296</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5032/arbeidsrit_12-2006.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-60-06-1 </em></p>
 <p><em type="bold">Sjúkrarøktarfrøðingur í 2006 </em><em type="bold">- ein trivnaðarkanning </em></p>
 <p xml:lang="nob">Karin Jóhanna L. Knudsen og Martha H. Mýri</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
 <p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 12/2006 </em>!"! #$# $#%&amp; </p>
 <p xml:lang="vep"><em type="bold">INNIHALDSYVIRLIT </em></p>
 <p xml:lang="deu">FORMÆLI..........................................................................................................................4</p>
-<p xml:lang="sme">ÚRTAK ..............................................................................................................................6 <em type="bold">1. </em><em type="bold">PARTUR: ENDAMÁL, ÁSTØÐI OG FRAMFERÐARHÁTTUR . . . .. . . . .. . . .. .10 </em></p>
+<p xml:lang="sme">ÚRTAK ..............................................................................................................................6 <em type="bold">1. </em><em type="bold">PARTUR: ENDAMÁL, ÁSTØÐI OG FRAMFERÐARHÁTTUR ..........................10 </em></p>
 <p xml:lang="vep">ENDAMÁL VIÐ KANNINGINI................................................................................................11</p>
 <p xml:lang="eng">ÁSTØÐI .............................................................................................................................12</p>
 <p><em type="italic">Sjúkrarøktarfrøðingar í refleksiva samfelagnum ...........................................................12 </em></p>
@@ -23,25 +23,25 @@
 <p>NÆRUMHVØRVIÐ HJÁ SJÚKRARØKTARFRØÐINGINUM..........................................................28</p>
 <p><em type="italic">Arbeiðstíðir og karmar í arbeiðinum.............................................................................30 </em></p>
 <p>FJARUMHVØRVIÐ HJÁ SJÚKRARØKTARFRØÐINGINUM..........................................................34</p>
-<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................36 <em type="bold">3. </em><em type="bold">PARTUR: NØGDSEMI MILLUM SJÚKRARØKTARFRØÐINGAR. . . .. . . . .. .37 </em></p>
+<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................36 <em type="bold">3. </em><em type="bold">PARTUR: NØGDSEMI MILLUM SJÚKRARØKTARFRØÐINGAR...................37 </em></p>
 <p xml:lang="deu">NØGDSEMI SUM HEILD .......................................................................................................38</p>
 <p><em type="italic">Fleiri umhugsað at søkja annað starv ...........................................................................39 </em></p>
 <p xml:lang="deu">TAÐ GÓÐA ARBEIÐIÐ .........................................................................................................41</p>
 <p><em type="italic">Hvat er eitt gott arbeiði?...............................................................................................41 </em></p>
 <p><em type="italic">Tað góða arbeiðið og nøgdsemi....................................................................................43 </em></p>
-<p xml:lang="isl">SAMANDRÁTTUR ...............................................................................................................44 <em type="bold">4. </em><em type="bold">PARTUR: KRØV Í ARBEIÐINUM . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. .45 </em></p>
+<p xml:lang="isl">SAMANDRÁTTUR ...............................................................................................................44 <em type="bold">4. </em><em type="bold">PARTUR: KRØV Í ARBEIÐINUM ..........................................................................45 </em></p>
 <p xml:lang="isl">KRØV, GREIDLEIKI OG MÁTIN EVNINI VERÐA NÝTT Í ARBEIÐINUM. ......................................46</p>
 <p xml:lang="vep">KVANTITATIV KRØV ..........................................................................................................48</p>
 <p xml:lang="vep">KVALITATIV KRØV ............................................................................................................50</p>
-<p xml:lang="isl">SAMANDRÁTTUR ...............................................................................................................52 <em type="bold">5. </em><em type="bold">PARTUR: ÁVIRKAN Í ARBEIÐINUM . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. .53 </em></p>
+<p xml:lang="isl">SAMANDRÁTTUR ...............................................................................................................52 <em type="bold">5. </em><em type="bold">PARTUR: ÁVIRKAN Í ARBEIÐINUM ...................................................................53 </em></p>
 <p xml:lang="vep">SJÁLVRÆÐI .......................................................................................................................54</p>
 <p xml:lang="deu">FØRLEIKAMENNING ...........................................................................................................55</p>
-<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................57 <em type="bold">6. </em><em type="bold">PARTUR: STUÐUL . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. .59 </em></p>
+<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................57 <em type="bold">6. </em><em type="bold">PARTUR: STUÐUL ...................................................................................................59 </em></p>
 <p xml:lang="deu">ARBEIÐSUMHVØRVIÐ SUM HEILD .......................................................................................60</p>
 <p xml:lang="vep">LEIÐSLUVIÐURSKIFTI.........................................................................................................64</p>
 <p xml:lang="vep">STARVSFELAGAR...............................................................................................................67</p>
 <p xml:lang="vep">SAMSÝNING ......................................................................................................................68</p>
-<p xml:lang="sme">SAMANDRÁTTUR ...............................................................................................................69 <em type="bold">7. </em><em type="bold">PARTUR: TEY NØGDU OG TEY ÓNØGDU. . .. . . .. . . . .. . . . .. . . . .. . . . .. . . .. .71 </em></p>
+<p xml:lang="sme">SAMANDRÁTTUR ...............................................................................................................69 <em type="bold">7. </em><em type="bold">PARTUR: TEY NØGDU OG TEY ÓNØGDU..........................................................71 </em></p>
 <p xml:lang="sme">EYÐKENNI VIÐ TEIMUM NØGDU OG ÓNØGDU.......................................................................72</p>
 <p xml:lang="isl"><em type="italic">Nøgdsemi og aldur........................................................................................................72 </em></p>
 <p><em type="italic">Nøgdsemi og arbeiðsøki................................................................................................73 </em></p>
@@ -53,17 +53,17 @@
 <p xml:lang="nob"><em type="italic">Krøv og nøgdsemi.........................................................................................................77 </em></p>
 <p xml:lang="isl"><em type="italic">Ávirkan og nøgdsemi ....................................................................................................79 </em></p>
 <p xml:lang="isl"><em type="italic">Stuðul og nøgdsemi.......................................................................................................80 </em></p>
-<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................82 <em type="bold">8. </em><em type="bold">PARTUR: SAMANBERINGAR VIÐ STØÐUNA UTTANLANDS.. . .. . . .. . . . .. .84 </em></p>
+<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................82 <em type="bold">8. </em><em type="bold">PARTUR: SAMANBERINGAR VIÐ STØÐUNA UTTANLANDS.........................84 </em></p>
 <p xml:lang="deu">GRUNDARLAG UNDIR SAMANBERINGUNUM ........................................................................85</p>
 <p xml:lang="deu">NØGDSEMI ........................................................................................................................86</p>
 <p xml:lang="deu">SJÚKRAFRÁVERA...............................................................................................................87</p>
 <p xml:lang="nob">UMHUGSA AT SØKJA ANNAÐ STARV ...................................................................................88</p>
 <p xml:lang="isl">KRØV Í ARBEIÐINUM..........................................................................................................88</p>
 <p xml:lang="isl">TILFEINGI Í ARBEIÐINUM....................................................................................................89</p>
-<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................91 <em type="bold">9. </em><em type="bold">PARTUR: NIÐURSTØÐA &amp; TILRÁÐINGAR . .. . . .. . . . .. . . . .. . . . .. . . .. . . . .. .92 </em></p>
+<p xml:lang="vep">SAMANDRÁTTUR ...............................................................................................................91 <em type="bold">9. </em><em type="bold">PARTUR: NIÐURSTØÐA &amp; TILRÁÐINGAR ........................................................92 </em></p>
 <p xml:lang="vep">NIÐURSTØÐA.....................................................................................................................93</p>
 <p xml:lang="vep">TILRÁÐINGAR....................................................................................................................94</p>
-<p xml:lang="sme"><em type="bold">BÓKMENTIR OG KELDUR . . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . .. .97 </em><em type="bold">ÍSKOYTI: SPURNARBLAÐ .. . .. . . . .. . . . .. . . .. . . . .. . . . .. . . .. . . . .. . . .. . . . .. . . . ..101 </em></p>
+<p xml:lang="sme"><em type="bold">BÓKMENTIR OG KELDUR ............................................................................................97 </em><em type="bold">ÍSKOYTI: SPURNARBLAÐ ...........................................................................................101 </em></p>
 <p xml:lang="isl"><em type="bold">Formæli </em></p>
 <p>Sjúkrarøktarfrøðingur í 2006 – ein trivnaðarkanning er evnið, sum verður viðgjørt í hesi frágreiðing.</p>
 <p>Kanningin byggir á eina spurnablaðskanning, sum Felagið Føroyskir Sjúkrarøktarfrøðingar (hereftir FFS) heitti á Granskingardepilin fyri Økismenning um at gera. Sjálv spurnakanningin varð gjørd í juni mánaði 2006 og høvuðsviðgerðin av hesum tilfari í tíðarskeiðinum juni – oktober 2006.</p>
@@ -248,8 +248,8 @@
 <p xml:lang="eng">Scand J Work Enivon Health 2001; 27:97-105</p>
 <p><em type="italic">Hvussu trívist tú við at arbeiða náttarvakt? </em>35%15%20%20%8%2%0% 10% 20% 30% 40% </p>
 <p>Arbeiði ikki náttarvakt</p>
-<p xml:lang="est">Sera il a</p>
-<p xml:lang="eng">Il a</p>
+<p xml:lang="swe">Sera illa</p>
+<p xml:lang="smj">Illa</p>
 <p xml:lang="tur">Nøkulunda</p>
 <p>Væl</p>
 <p>Sera væl</p>
@@ -273,7 +273,7 @@
 <p>Í samrøðunum, sum gjørdar vóru í mai mánaði, kom eisini fram, at tað er misjavnt, hvussu karmarnir hjá heilsufrøðingum eru, og at amboðini, teir hava í arbeiðinum ikki eru nøktandi. Orsøkirnar til hetta eru m.a., at ógreitt er, um tað er landið ella kommunan, ið hevur ábyrgdina av fysisku karmunum og amboðum í arbeiðinum. Hetta ger, at karmarnir eru ymiskir, alt eftir hvussu stóran leiklut kommunan hevur valt at taka í hesum føri. Avleiðingarnar av 0%10%20%30%40%50%60%70%80%90% 100%</p>
 <p xml:lang="olo">Sjúkrahús</p>
 <p>Heilsurøkt</p>
-<p xml:lang="nno">El is/røktarheim</p>
+<p xml:lang="nob">Ellis/røktarheim</p>
 <p xml:lang="nno">Heimarøkt</p>
 <p xml:lang="nno">Sambýli o.t.</p>
 <p>Læknaviðtalu</p>
@@ -288,7 +288,7 @@
 <p><em type="bold">Mynd 6: Arbeiðsøki og nøgdsemi við karmar </em>0%10%20%30%40%50%60%70%80%90% 100% </p>
 <p xml:lang="olo">Sjúkrahús</p>
 <p>Heilsurøkt</p>
-<p xml:lang="nno">El is/røktarheim</p>
+<p xml:lang="nob">Ellis/røktarheim</p>
 <p xml:lang="nno">Heimarøkt</p>
 <p xml:lang="nno">Sambýli o.t.</p>
 <p>Læknaviðtalu</p>
@@ -377,7 +377,7 @@
 <p>At vera saman við fólki</p>
 <p>At arbeiði er samfelagsgagnligt</p>
 <p>At arbeiða í somu bygd/øki, sum eg búgvi</p>
-<p>Samanhangur er mil um arbeiði og frítíð</p>
+<p>Samanhangur er millum arbeiði og frítíð</p>
 <p>Tryggar arbeiðsumstøður</p>
 <p>Fjølbroytt arbeiði</p>
 <p>At arbeiða sjálvstøðugt</p>
@@ -463,7 +463,7 @@
 <p>Er neyðugt at arbeiða sera skjótt 15% 51% 28% 5% 1% 409</p>
 <p>Er arbeiðið ójavnt býtt, so at tað hópar seg upp? 2% 23% 44% 25% 5% 408</p>
 <p>Hvussu ofta hendir, at tú ikki nær</p>
-<p xml:lang="isl">Al ar arbeiðsuppgávurnar? 2% 25% 42% 25% 6% 410</p>
+<p xml:lang="isl">Allar arbeiðsuppgávurnar? 2% 25% 42% 25% 6% 410</p>
 <p>Er neyðugt at arbeiða yvirtíð? 1% 24% 44% 23% 7% 409</p>
 <p>Mást tú leypa steðgir um, tí tað er ov nógv at gera? 6% 37% 36% 16% 4% 408</p>
 <p>Sum sæst í talvuni, so kemur tað fyri, at sjúkrarøktarfrøðingarnir ikki náa allar arbeiðsuppgávurnar - 42% siga, at tað kemur <em type="italic">onkuntíð </em>fyri, at allar arbeiðsuppgávurnar verða náddar. Tað kemur eisini fyri, at arbeiði hópar seg upp – hetta vísa 44% á - og at teir onkuntíð eisini mugu arbeiða yvir – hetta vísa 44% á. Vert er at leggja til merkis, at 37% siga seg noyðast at leypa steðgir um ofta og 36% onkuntíð. </p>
@@ -583,12 +583,12 @@
 <p xml:lang="isl"><em type="bold">Í minni </em><em type="bold">mun </em></p>
 <p><em type="bold">Als ikki Veit ikki N= </em></p>
 <p>Fólk eru opin fyri uppskotum og nýggjum tiltøkum 15% 54% 23% 6% 1% 407</p>
-<p>Fólk stuðla hvørjum øðrum og loysa trupul eikarnir í felag 13% 46% 28% 10% 1% 407</p>
+<p>Fólk stuðla hvørjum øðrum og loysa trupulleikarnir í felag 13% 46% 28% 10% 1% 407</p>
 <p>Hvør passar sítt 16% 41% 25% 14% 2% 406</p>
 <p>Tað eru nógvar óloystar ósemjur 23% 28% 29% 10% 6% 400</p>
 <p>Umhvørvið er fakliga kveikjandi og spennandi 20% 38% 27% 13% 1% 407</p>
-<p>Gott kol egialt umhvørvi 36% 45% 12% 5% 1% 408</p>
-<p>Góð viðurskifti mil um leiðslu og sjúkrarøktarfrøðingar 15% 31% 25% 26% 2% 408</p>
+<p>Gott kollegialt umhvørvi 36% 45% 12% 5% 1% 408</p>
+<p>Góð viðurskifti millum leiðslu og sjúkrarøktarfrøðingar 15% 31% 25% 26% 2% 408</p>
 <p>Eitt gott og vinarligt umhvørvi 30% 50% 15% 3% 0% 406</p>
 <p>Eitt strongjandi umhvørvi 17% 46% 24% 10% 1% 406</p>
 <p>Ein køvandi stemningur 9% 23% 26% 38% 2% 405</p>
@@ -638,7 +638,7 @@
 <p><em type="bold">Vantar/Ikki </em><em type="bold">svarað </em></p>
 <p xml:lang="kal"><em type="bold">N= </em></p>
 <p>Hvussu ofta fært tú hjálp og stuðul frá tínum nærmasta leiðara? 10% 22% 39% 20% 9% 1% 408</p>
-<p>Hvussu ofta eru tín nærmast leiðari til reiðar at lurta eftir tínum trupul eikum í arbeiðinum? 13% 27% 29% 23% 6% 2% 406</p>
+<p>Hvussu ofta eru tín nærmast leiðari til reiðar at lurta eftir tínum trupulleikum í arbeiðinum? 13% 27% 29% 23% 6% 2% 406</p>
 <p>Hvussu ofta tosar tú við tín nærmasta leiðara um, hvussu gott tú gert títt arbeiði? 1% 7% 23% 33% 35% 2% 407</p>
 <p>Hvussu ofta hevur tú fakliga sparring við tín nærmasta leiðara? 1% 6% 21% 27% 44% 1% 410</p>
 <p>Talvan vísir, at 39% onkuntíð fáa hjálp frá sínum nærmasta leiðara og 29% sjáldan og ongantíð/næstan ongantíð. Harafturat siga 29%, at teirra nærmasti leiðari onkuntíð er til reiðar at lurta eftir teirra trupulleikum í arbeiðinum og 29% sjáldan og ongantíð/næstan ongantíð. Harumframt siga ávikavist 35% og 44%, at teir ongantíð/næstan ongantíð tosa við sín nærmasta leiðara um, hvussu væl teir gera arbeiðið og hava fakliga sparring við viðkomandi. At ávikavist 35% og 44% halda seg ongantíð/næstan ongantíð tosa við sín nærmasta leiðara um, hvussu væl teir gera sítt arbeiði og hava fakliga sparring við viðkomandi, má metast at vera rímiliga høg tøl.</p>
@@ -655,8 +655,8 @@
 <p>Sp.: <em type="italic">Fært tú upplýsingar um týdningarmiklar avgerðir, </em><em type="italic">broytingar og framtíðarætlanir á arbeiðsplássinum í </em><em type="italic">góðari tíð? </em></p>
 <p><em type="bold">Mynd 30: Kunning um týdningarmiklar avgerðir </em>11%26%30%22%10%1%0%10%20%30%40% </p>
 <p>Veit ikki</p>
-<p xml:lang="est">Sera il a</p>
-<p xml:lang="eng">Il a</p>
+<p xml:lang="swe">Sera illa</p>
+<p xml:lang="smj">Illa</p>
 <p xml:lang="tur">Nøkulunda</p>
 <p>Væl</p>
 <p>Sera væl</p>
@@ -671,7 +671,7 @@
 <p><em type="bold">Vantar/Ikki </em><em type="bold">svarað </em></p>
 <p xml:lang="kal"><em type="bold">N= </em></p>
 <p>Hvussu ofta fært tú hjálp og stuðul frá starvsfeløgunum? 18% 45% 27% 6% 1% 2% 407</p>
-<p>Hvussu ofta eru starvsfelagarnir til reiðar at lurta eftir tínum trupul eikum í arbeiðinum? 22% 47% 24% 4% 2% 2% 407</p>
+<p>Hvussu ofta eru starvsfelagarnir til reiðar at lurta eftir tínum trupulleikum í arbeiðinum? 22% 47% 24% 4% 2% 2% 407</p>
 <p>Hvussu ofta tosar tú við starvsfelagarnar um, hvussu gott tú gert títt arbeiði? 1% 13% 34% 30% 20% 1% 408</p>
 <p>Hvussu ofta tosar tú við starvsfelagarnar um, hvussu gott tey gera sítt arbeiði? 3% 24% 41% 23% 8% 1% 409</p>
 <p>Hvussu ofta hevur tú fakliga sparring við starvsfelagarnar (t.d. vegleiðing/supervisjón)? 1% 14% 32% 30% 22% 1% 410 63% av teimum spurdu siga, at teir altíð ella ofta fáa hjálp frá starvsfeløgum og 69%, at starvsfelagar altíð ella ofta eru til reiðar at lurta eftir teirra trupulleikum í arbeiðinum. Vit eiga at leggja merki til, at einans 14% siga, at teir tosa altíð ella ofta við starvsfelagarnar um, hvussu gott teir gera sítt arbeiði og einans 15% siga seg altíð ella ofta at hava fakliga sparring við starvsfelagar. 22 Sí www.sygeplejersken.dk, blad nr.16/2006 og www.ami.dk, Arbejdsmiljøinstituttet.</p>
@@ -717,7 +717,7 @@
 <p xml:lang="nno">Nøgd</p>
 <p xml:lang="olo">Sjúkrahús</p>
 <p>Heilsurøkt</p>
-<p xml:lang="nno">El is/Røktarheim</p>
+<p xml:lang="nob">Ellis/Røktarheim</p>
 <p xml:lang="nno">Heimarøkt</p>
 <p xml:lang="vep">Sambýli</p>
 <p xml:lang="olo">Læknavitalu</p>
@@ -873,7 +873,7 @@
 <p>Ónøgd</p>
 <p xml:lang="nno">Nøgd</p>
 <p>Sera væl</p>
-<p>Væl Nøkulunda Il a Sera il a Veit ikki n/a 13</p>
+<p>Væl Nøkulunda Illa Sera illa Veit ikki n/a 13</p>
 <p>Sp.: <em type="italic">Hvussu ert tú nøgd við møguleikarnar fyri supervisjón á </em><em type="italic">tínum arbeiðsplássi? </em></p>
 <p><em type="bold">Mynd 46: Møguleikarnir fyri supervisjón og nøgdsemi </em>siga, at tey antin eru illa ella sera illa nøgd við møguleikarnar fyri supervisjón. Hetta siga 49% av teimum nøgdu. </p>
 <p>Tey nøgdu og ónøgdu hava eisini ymiska støðu, tá talan er um forsøgn í arbeiðinum. 58% av teimum nøgdu siga, at tey í minni mun ella als ikki verða kunnað um týdningarmiklar avgerðir í góðari tíð. 89% av teimum ónøgdu siga, at tey í minni mun ella als ikki fáa upplýsingar um týdningarmiklar avgerðir í góðari tíð.</p>
@@ -1062,7 +1062,7 @@
 <p><em type="bold">Felagið Føroyskir Sjúkrarøktarfrøðingar </em></p>
 <p>Lucas Debesar gøta 14 ∗ 100 Tórshavn ∗ Tlf. 311309 ∗ Telefontíð má., tý., fr., kl. 9-13.00, hó. Kl 13-17.00.</p>
 <p><em type="bold">Sjúkrarøktarfrøðingar í Føroyum </em></p>
-<p>Niðanfyri er heitið <em type="bold">sjúkrarøktarfrøðingur </em>nýtt um al ar limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar. </p>
+<p>Niðanfyri er heitið <em type="bold">sjúkrarøktarfrøðingur </em>nýtt um allar limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar. </p>
 <p>Hetta av praktiskum ávum. Hevur tú serútbúgving sum t.d. heilsufrøðingar, narkosusjúkrarøktarfrøðingar, heimasjúkrarøktarfrøðingar, leiðari o.s.fr. verður tú biðin um <em type="bold">at tilskila hetta í spurningi 7 og 7b. </em></p>
 <p><em type="bold">Um teg 1. Kyn </em>: 1 </p>
 <p xml:lang="olo">Kvinna 2</p>
@@ -1085,32 +1085,32 @@
 <p>Eg eri arbeiðsleys 6</p>
 <p>Eg eri vikarur 7</p>
 <p xml:lang="isl">Annað_______________</p>
-<p>Um tú t.d. ert í farloyvi el a ert sjúkrameldað, skalt tú svara spurnablaðnum út frá teimum royndum, tú hevur frá tí arbeiðsstaði, tú ert í farloyvi el a ert sjúkrameldað frá. Um tú ert lesandi skalt tú svara spurnablaðnum út frá royndum, tú hevur í núverandi praktikkplássi. Um tú ert avloysari, vikarur el a tílíkt, skalt tú svara spurnablaðnum út frá teimum royndum, tú hevur í tínum núverandi arbeiðsstaði. <em type="bold">9. Innan hvat øki arbeiðir tú? </em><em type="italic">(set bert ein kross) </em><em type="bold"></em>1 </p>
+<p>Um tú t.d. ert í farloyvi ella ert sjúkrameldað, skalt tú svara spurnablaðnum út frá teimum royndum, tú hevur frá tí arbeiðsstaði, tú ert í farloyvi ella ert sjúkrameldað frá. Um tú ert lesandi skalt tú svara spurnablaðnum út frá royndum, tú hevur í núverandi praktikkplássi. Um tú ert avloysari, vikarur ella tílíkt, skalt tú svara spurnablaðnum út frá teimum royndum, tú hevur í tínum núverandi arbeiðsstaði. <em type="bold">9. Innan hvat øki arbeiðir tú? </em><em type="italic">(set bert ein kross) </em><em type="bold"></em>1 </p>
 <p xml:lang="olo">Sjúkrahús 2</p>
 <p>Heilsurøkt 3</p>
-<p xml:lang="nno">El is/Røktarheim 4</p>
+<p xml:lang="nob">Ellis/Røktarheim 4</p>
 <p xml:lang="nno">Heimarøkt 5</p>
 <p>Sambýli o. tílíkt 6</p>
 <p>Læknaviðtalu 7</p>
 <p>Undirvísing/Ráðgeving 8</p>
-<p>Annað________________ <em type="bold">10. Hvussu nógv arbeiðir tú vanliga um vikuna sum sjúkrarøktarfrøðingur? </em>1 Ful a tíð 2 Niðursetta tíð/Setanarbrøkur ____________ 3 Hálva tíð 4 Annað _____________ <em type="bold">11. Kundi tú hugsað tær? </em>1 At fari niður í tíð2 </p>
+<p>Annað________________ <em type="bold">10. Hvussu nógv arbeiðir tú vanliga um vikuna sum sjúkrarøktarfrøðingur? </em>1 Fulla tíð 2 Niðursetta tíð/Setanarbrøkur ____________ 3 Hálva tíð 4 Annað _____________ <em type="bold">11. Kundi tú hugsað tær? </em>1 At fari niður í tíð2 </p>
 <p>At arbeitt meira3</p>
 <p>Núverandi tíðin er nøktandi <em type="bold">12. Hvørja vakt hevur tú vanliga í tínum arbeiði? </em>1 </p>
-<p xml:lang="nno">Dagvakt (mil um 06-18) 2</p>
-<p>Kvøldvakt (Mil um 15-24) 3</p>
+<p>Dagvakt (millum 06-18) 2</p>
+<p>Kvøldvakt (Millum 15-24) 3</p>
 <p xml:lang="sme">Náttarvakt (22-08) 4</p>
 <p>Skiftandi vaktir 5</p>
 <p>Annað: __________________ <em type="bold">13. Hvussu trívist tú við at arbeiða náttarvakt? </em><em type="italic">(set bert ein kross) </em><em type="bold"></em>1 </p>
 <p>Sera væl 2</p>
 <p>Væl 3</p>
 <p xml:lang="tur">Nøkulunda 4</p>
-<p xml:lang="eng">Il a 5</p>
-<p xml:lang="est">Sera il a 6</p>
+<p xml:lang="smj">Illa 5</p>
+<p xml:lang="swe">Sera illa 6</p>
 <p>Arbeiði ikki náttarvakt <em type="bold">14. Hevur tú hjástarv? </em>1 Ja 2 Nei <em type="bold">14b. Um ja, hvussu nógvar tímar arbeiðir tú í meðal um vikuna við hesum? ______________ tímar </em><em type="bold">15. </em></p>
 <p><em type="bold">Hvussu nógvar sjúkradagar hevur tú havt í arbeiðinum teir seinastu 12 mánaðirnar? </em>_______ <em type="italic">(Skriva tal av heilum døgum) </em><em type="bold">15b. Hvørjar eru orsøkirnar til, at tú hevur havt sjúkradagar? </em>(tú kanst seta fleiri krossar) 1 </p>
 <p xml:lang="isl">Umfarsjúka 2</p>
 <p xml:lang="est">Kronisk sjúka 3</p>
-<p>Trupul eikar í viðgongutíð 4</p>
+<p>Trupulleikar í viðgongutíð 4</p>
 <p xml:lang="nob">Sjúkt barn 5</p>
 <p xml:lang="isl">Arbeiðsskaði 6</p>
 <p xml:lang="nob">Strongd7</p>
@@ -1141,12 +1141,12 @@
 <p>Als ikki 5</p>
 <p>Veit ikki</p>
 <p><em type="bold">Nøgdsemi í arbeiðinum </em><em type="bold">20. <span type="quote">”Tað góða arbeiðið”</span> – hvat merkir tað fyri teg? </em></p>
-<p>Skuldi tú valt mil um tey viðurskiftini, sum eru nevnd niðanfyri, hvørji fimm hevði tú so raðfest hægst? ( <em type="italic">set í mesta lagi 5 krossar </em>) a </p>
+<p>Skuldi tú valt millum tey viðurskiftini, sum eru nevnd niðanfyri, hvørji fimm hevði tú so raðfest hægst? ( <em type="italic">set í mesta lagi 5 krossar </em>) a </p>
 <p>Góða løn á</p>
 <p>At hava góðar fysiskar karmar b</p>
 <p>Arbeiða í somu bygd/øki, sum eg búgvi d</p>
 <p>At arbeiðstíðin passar til mín ð</p>
-<p>Samanhangur mil um arbeiði og frítíð e</p>
+<p>Samanhangur millum arbeiði og frítíð e</p>
 <p>At starvið passar til míni evni og førleikar f</p>
 <p>At arbeiða sjálvstøðugt g</p>
 <p xml:lang="isl">Tryggar arbeiðsumstøður h</p>
@@ -1198,7 +1198,7 @@
 <p><em type="bold">Als ikki </em></p>
 <p><em type="bold">Spurningurin er </em><em type="bold">ikki viðkomandi </em><span type="quote">“Ólagaligar arbeiðstíðir”</span>12345 </p>
 <p xml:lang="nno">Ábyrgd og førleika12345</p>
-<p>Annað (telefonviðbøtur v.m.) <em type="bold"></em>12345 <em type="bold">29. Spurningar um arbeiðið sum heild. Hvussu væl nøgd ert tú við..............? </em><em type="italic">(set bert ein kross við hvønn spurning, og svarað vinarliga øl um spurningunum) </em></p>
+<p>Annað (telefonviðbøtur v.m.) <em type="bold"></em>12345 <em type="bold">29. Spurningar um arbeiðið sum heild. Hvussu væl nøgd ert tú við..............? </em><em type="italic">(set bert ein kross við hvønn spurning, og svarað vinarliga øllum spurningunum) </em></p>
 <p><em type="bold">Sera væl nøgd </em></p>
 <p xml:lang="nno"><em type="bold">Nøgd </em></p>
 <p><em type="bold">Ónøgd </em></p>
@@ -1226,11 +1226,11 @@
 <p>Ja, ónøgdin er vaksin í stóran mun 6</p>
 <p>Spurningurin er óviðkomandi, tí eg havi verið so stutt í starvi 7</p>
 <p>Veit ikki</p>
-<p><em type="bold">Arbeiðsumhvørvið </em><em type="bold">34. Hvussu vilt tú lýsa arbeiðsumhvørvið? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øl um </em><em type="italic">spurningunum) </em></p>
+<p><em type="bold">Arbeiðsumhvørvið </em><em type="bold">34. Hvussu vilt tú lýsa arbeiðsumhvørvið? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øllum </em><em type="italic">spurningunum) </em></p>
 <p>Í stóran mun</p>
 <p>Í ávísan mun</p>
 <p xml:lang="isl">Í minni mun</p>
-<p>Als ikki Veit ikki a. Fólk eru opin fyri uppskotum og nýggjum tiltøkum 12345á. Fólk stuðla hvørjum øðrum og loysa trupul eikarnar í felag 12345b. Hvør passar sítt 12345d. Tað eru nógvar óloystar ósemjur 12345ð. Umhvørvið er fakliga kveikjandi og spennandi 12345e. Gott kol egialt umhvørvi 12345f. Góð viðurskifti mil um leiðslu og sjúkrarøktarfrøðingar 12345g. Eitt gott og vinarligt umhvørvi 12345h. Eitt strongjandi umhvørvi 12345i. Ein køvandi stemningur 12345í. Umhvørvið er eyðkent av stagnatión 12345j. Teir fysisku karmarnir eru nøktandi 12345k. Tey amboð (bilur, fartelefon, telda v.m.) tær tørvar, eru nøktandi. 12345 <em type="bold">35. Hvussu nógva ávirkan hevur tú í arbeiðinum? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øl um spurningunum) </em></p>
+<p>Als ikki Veit ikki a. Fólk eru opin fyri uppskotum og nýggjum tiltøkum 12345á. Fólk stuðla hvørjum øðrum og loysa trupulleikarnar í felag 12345b. Hvør passar sítt 12345d. Tað eru nógvar óloystar ósemjur 12345ð. Umhvørvið er fakliga kveikjandi og spennandi 12345e. Gott kollegialt umhvørvi 12345f. Góð viðurskifti millum leiðslu og sjúkrarøktarfrøðingar 12345g. Eitt gott og vinarligt umhvørvi 12345h. Eitt strongjandi umhvørvi 12345i. Ein køvandi stemningur 12345í. Umhvørvið er eyðkent av stagnatión 12345j. Teir fysisku karmarnir eru nøktandi 12345k. Tey amboð (bilur, fartelefon, telda v.m.) tær tørvar, eru nøktandi. 12345 <em type="bold">35. Hvussu nógva ávirkan hevur tú í arbeiðinum? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øllum spurningunum) </em></p>
 <p><em type="bold">Altíð Ofta Onkuntíð Sjáldan </em></p>
 <p><em type="bold">Ongantíð/ </em></p>
 <p><em type="bold">Næstan ongantíð </em>a. Hevur tú stóra ávirkan á, hvørjar avgerðir verða tiknar um títt arbeiði? 12345á. Hevur tú ávirkan á, hvat tú gert í tínum arbeiði? 12345b. Hevur tú ávirkan á, hvønn tú arbeiðir/ert á vakt saman við? 12345d. Hevur tú ávirkan á nøgdina av arbeiði? 12345 <em type="bold">36. Veitst tú greitt, hvørja ábyrgd tú hevur í arbeiðinum? </em><em type="italic">(set bert ein kross) </em><em type="bold"></em>1 </p>
@@ -1238,7 +1238,7 @@
 <p>Í ein ávísan mun 3</p>
 <p xml:lang="isl">Í minni mun 4</p>
 <p>Als ikki 5</p>
-<p>Veit ikki <em type="bold">37. Mótstríðandi krøv í arbeiðinum. </em><em type="italic">(Set bert ein kross við hvønn spurning, og svara vinarliga øl um spurningunum) </em></p>
+<p>Veit ikki <em type="bold">37. Mótstríðandi krøv í arbeiðinum. </em><em type="italic">(Set bert ein kross við hvønn spurning, og svara vinarliga øllum spurningunum) </em></p>
 <p><em type="bold">Í sera </em><em type="bold">stóran mun </em></p>
 <p><em type="bold">Í stóran </em><em type="bold">mun </em></p>
 <p xml:lang="isl"><em type="bold">Lutvíst </em></p>
@@ -1249,7 +1249,7 @@
 <p><em type="bold">Onkuntíð </em></p>
 <p xml:lang="sme"><em type="bold">Sjáldan </em></p>
 <p><em type="bold">Ongantíð/ </em></p>
-<p><em type="bold">Næstan ongantíð </em>a. Er neyðugt at arbeiða sera skjótt? 12345á. Er arbeiðið ójavnt býtt, so at tað hópar seg upp? 12345b. Hvussu ofta hendir, at tú ikki nær al ar arbeiðsuppgávurnar? 12345d. Er neyðugt at arbeiða yvirtíð? 12345ð. Mást tú leypa steðgir um, tí tað er ov nógv at gera? 12345e. Er neyðugt at hava yvirlit yvir nógv ymiskt samstundis í arbeiðinum? 12345f. Krevur arbeiðið, at tú dugir væl at koma við hugskotum? 12345g. Krevur arbeiðið, at tú minnist nógv? 12345h. Krevur arbeiðið, at tú tekur torførar avgerðir? 12345i. Hvussu ofta kemur tú í kensluliga torførar støður? 12345í. Er arbeiðið kensluliga tyngjandi? 12345j. Verður tú kensluliga rørd av arbeiðinum? 12345k. Krevur arbeiðið, at tú letur vera við at siga tína hugsan? 12345l. Krevur arbeiðið, at tú goymir tínar kenslur? 12345 <em type="bold">39. Heldur tú, at krøvini frá brúkaranum/sjúklinginum eru broytt seinnu árini? </em><em type="italic">(set bert ein kross) </em><em type="bold"></em>1 </p>
+<p><em type="bold">Næstan ongantíð </em>a. Er neyðugt at arbeiða sera skjótt? 12345á. Er arbeiðið ójavnt býtt, so at tað hópar seg upp? 12345b. Hvussu ofta hendir, at tú ikki nær allar arbeiðsuppgávurnar? 12345d. Er neyðugt at arbeiða yvirtíð? 12345ð. Mást tú leypa steðgir um, tí tað er ov nógv at gera? 12345e. Er neyðugt at hava yvirlit yvir nógv ymiskt samstundis í arbeiðinum? 12345f. Krevur arbeiðið, at tú dugir væl at koma við hugskotum? 12345g. Krevur arbeiðið, at tú minnist nógv? 12345h. Krevur arbeiðið, at tú tekur torførar avgerðir? 12345i. Hvussu ofta kemur tú í kensluliga torførar støður? 12345í. Er arbeiðið kensluliga tyngjandi? 12345j. Verður tú kensluliga rørd av arbeiðinum? 12345k. Krevur arbeiðið, at tú letur vera við at siga tína hugsan? 12345l. Krevur arbeiðið, at tú goymir tínar kenslur? 12345 <em type="bold">39. Heldur tú, at krøvini frá brúkaranum/sjúklinginum eru broytt seinnu árini? </em><em type="italic">(set bert ein kross) </em><em type="bold"></em>1 </p>
 <p>Tey eru økt í stóran mun 2</p>
 <p>Tey eru økt í ávísan mun 3</p>
 <p>Óbroytt 4</p>
@@ -1265,22 +1265,22 @@
 <p>Sera væl 2</p>
 <p>Væl3</p>
 <p xml:lang="tur">Nøkulunda 4</p>
-<p xml:lang="eng">Il a5</p>
-<p xml:lang="est">Sera il a 6</p>
+<p xml:lang="smj">Illa5</p>
+<p xml:lang="swe">Sera illa 6</p>
 <p>Veit ikki <em type="bold">43. Fært tú upplýsingar um týdningarmiklar avgerðir, broytingar og framtíðarætlanir á </em><em type="bold">arbeiðsplássinum í góðari tíð? </em><em type="italic">(set bert ein kross) </em>1 </p>
 <p>Í stóran mun 2</p>
 <p>Í ein ávísan mun 3</p>
 <p xml:lang="isl">Í minni mun 4</p>
 <p>Als ikki 5</p>
-<p>Veit ikki <em type="bold">44. Í hvønn mun kanst tú siga, at tín nærmasti leiðari......? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øl um spurningunum) </em></p>
+<p>Veit ikki <em type="bold">44. Í hvønn mun kanst tú siga, at tín nærmasti leiðari......? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øllum spurningunum) </em></p>
 <p><em type="bold">Í sera </em><em type="bold">stóran mun </em></p>
 <p><em type="bold">Í stóran </em><em type="bold">mun </em></p>
 <p xml:lang="isl"><em type="bold">Lutvíst </em></p>
 <p><em type="bold">Í lítlan </em><em type="bold">mun </em></p>
-<p><em type="bold">Í sera </em><em type="bold">lítlan mun </em>a. Syrgir fyri, at tann einstaki sjúkrarøktarfrøðingurin hevur góðar menningarmøguleikar12345á. Raðfestir trivnað á arbeiðsplássinum høgt? 12345b. Dugir væl at leggja arbeiðið til rættis? 12345d. Dugir væl at loysa konfliktir? 12345 <em type="bold">45. Samstarv, feedback og felagsskapur á arbeiðsplássinum? </em><em type="italic">(set bert ein kross við hvønn spurning, og svarað vinarliga øl um spurningunum) </em></p>
+<p><em type="bold">Í sera </em><em type="bold">lítlan mun </em>a. Syrgir fyri, at tann einstaki sjúkrarøktarfrøðingurin hevur góðar menningarmøguleikar12345á. Raðfestir trivnað á arbeiðsplássinum høgt? 12345b. Dugir væl at leggja arbeiðið til rættis? 12345d. Dugir væl at loysa konfliktir? 12345 <em type="bold">45. Samstarv, feedback og felagsskapur á arbeiðsplássinum? </em><em type="italic">(set bert ein kross við hvønn spurning, og svarað vinarliga øllum spurningunum) </em></p>
 <p><em type="bold">Altíð Ofta Onkuntíð Sjáldan </em></p>
 <p><em type="bold">Ongantíð/ </em></p>
-<p><em type="bold">Næstan ongantíð </em>a. Hvussu ofta fært tú hjálp og stuðul frá starvsfeløgum?12345á. Hvussu ofta eru starvsfelagarnir til reiðar at lurta eftir tínum trupul eikum í arbeiðinum? 12345b. Hvussu ofta fært tú hjálp og stuðul frá tínum nærmasta leiðara? 12345d. Hvussu ofta eru tínir nærmastu leiðarar til reiðar at lurta eftir tínum trupul eikum í arbeiðinum? 12345ð. Er stemningurin mil um teg og starvsfelagarnir góður? 12345e. Kennir tú teg sum partur av einum felagsskapi á arbeiðsplássinum? 12345f. Er samstarvið mil um starvsfelagarnar gott? 12345g. Hvussu ofta tosar tú við tín nærmasta leiðara um, hvussu gott tú gert títt arbeiði? 12345h. Hvussu ofta tosar tú við starvsfelagarnar um, hvussu gott tú gert títt arbeiði? 12345i. Hvussu ofta tosar tú við starvsfelagarnar um, hvussu gott tey gera teirra arbeiði? 12345í. Hvussu ofta hevur tú fakliga sparring við starvsfelagarnar (t.d. vegleiðing/supervisión)? 12345j. Hvussu ofta hevur tú fakliga sparring við tín nærmasta leiðara (t.d. vegleiðing/supervisión)? 12345k. Arbeiðir tú avskorin frá starvsfeløgum? 12345 <em type="bold">46. Heldur tú, at tað tey seinnu árini hava verið fleiri ella færri ósemjur á tínum arbeiðsplássi? </em>1 </p>
+<p><em type="bold">Næstan ongantíð </em>a. Hvussu ofta fært tú hjálp og stuðul frá starvsfeløgum?12345á. Hvussu ofta eru starvsfelagarnir til reiðar at lurta eftir tínum trupulleikum í arbeiðinum? 12345b. Hvussu ofta fært tú hjálp og stuðul frá tínum nærmasta leiðara? 12345d. Hvussu ofta eru tínir nærmastu leiðarar til reiðar at lurta eftir tínum trupulleikum í arbeiðinum? 12345ð. Er stemningurin millum teg og starvsfelagarnir góður? 12345e. Kennir tú teg sum partur av einum felagsskapi á arbeiðsplássinum? 12345f. Er samstarvið millum starvsfelagarnar gott? 12345g. Hvussu ofta tosar tú við tín nærmasta leiðara um, hvussu gott tú gert títt arbeiði? 12345h. Hvussu ofta tosar tú við starvsfelagarnar um, hvussu gott tú gert títt arbeiði? 12345i. Hvussu ofta tosar tú við starvsfelagarnar um, hvussu gott tey gera teirra arbeiði? 12345í. Hvussu ofta hevur tú fakliga sparring við starvsfelagarnar (t.d. vegleiðing/supervisión)? 12345j. Hvussu ofta hevur tú fakliga sparring við tín nærmasta leiðara (t.d. vegleiðing/supervisión)? 12345k. Arbeiðir tú avskorin frá starvsfeløgum? 12345 <em type="bold">46. Heldur tú, at tað tey seinnu árini hava verið fleiri ella færri ósemjur á tínum arbeiðsplássi? </em>1 </p>
 <p>Fleiri 2</p>
 <p>Óbroytt 3</p>
 <p>Færri 4</p>
@@ -1290,7 +1290,7 @@
 <p>Ov stór arbeiðsmongd/strongd 4</p>
 <p>Umsitingarligar broytingar 5</p>
 <p>Ov nógvar broytingar í senn 6</p>
-<p>Veit ikki <em type="bold">48. Hvussu er samstarvið við aðrar fakbólkar? </em>(set bert ein kross við hvønn spurning, og svarað vinarliga øl um spurningunum) </p>
+<p>Veit ikki <em type="bold">48. Hvussu er samstarvið við aðrar fakbólkar? </em>(set bert ein kross við hvønn spurning, og svarað vinarliga øllum spurningunum) </p>
 <p><em type="bold">Sera gott Gott Nøktandi </em></p>
 <p><em type="bold">Ikki nóg </em><em type="bold">gott </em></p>
 <p><em type="bold">Als ikki nóg </em><em type="bold">gott </em></p>
@@ -1318,7 +1318,7 @@
 <p>Óbroytt 3</p>
 <p>Til tað verra4</p>
 <p>Veit ikki</p>
-<p><em type="bold">Virðingin fyri starvinum sum sjúkrarøktarfrøðingur 54. Hvussu heldur tú, at arbeiðið tú gert sum sjúkrarøktarfrøðingur sum heild, verður virðismett av.....? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øl um spurningunum) </em></p>
+<p><em type="bold">Virðingin fyri starvinum sum sjúkrarøktarfrøðingur 54. Hvussu heldur tú, at arbeiðið tú gert sum sjúkrarøktarfrøðingur sum heild, verður virðismett av.....? </em><em type="italic">(set bert ein kross við hvønn spurning, og svara vinarliga øllum spurningunum) </em></p>
 <p>Í stóran mun Í ávísan mun Í minni mun</p>
 <p>Als ikki Veit ikki a. Brúkaranum/sjúklinginum 12345á. Nærmastu leiðslu 12345b. Ovastu leiðslu 12345d. Almenninginum 12345ð. Politisku myndugleikunum 12345 <em type="bold">55. Heldur tú, at virðingin hjá politisku myndugleikunum fyri starvinum sum sjúkrarøktarfrøðingur er </em><em type="bold">broytt tey seinastu árini? </em><em type="italic">(set bert ein kross) </em>1 </p>
 <p>Til tað betra 2</p>

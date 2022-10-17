@@ -304,7 +304,7 @@
 <p type="listitem">Kontaktsmitta (beinleiðis/óbeinleiðis)</p>
 <p type="listitem">Luftborin smitta</p>
 <p type="listitem">Stunguskaðar</p>
-<p type="listitem">Vehikelborin smitta (føðsla, vatn, medisin o.l.)</p>
+<p type="listitem">Vehikelborin smitta  (føðsla, vatn, medisin o.l.)</p>
 <p>Tær almennu smittufyribyrgjandi leið reglurnar skulu altíð fylgjast í røktini og í við gerð ini. Er talan um mótstøðuføra smá veru hjá innløgdum sjúklingi, skulu serligar smittu fyribyrgj andi leiðreglur fylgjast.</p>
 <p>Hetta merkir, at sjúklingurin skal avbyrgjast á eina stovu, at starvs fólkini nýta handskar, eingangs svintu/kittil og munnbind, tá tað er neyðugt. Hesar serligu leiðreglur verða ikki nýttar í viðgerðarstøðum í primera heilsu geiranum, men tað verður altíð mælt til at fylgja teimum almennu smittufyribyrgjandi leiðreglunum óansæð, um sjúk ling urin/borgarin er berari av mótstøðuførum smá verum ella ikki, bæði tá arbeitt verður í primera heilsugeiranum ella á sjúkra hús unum.</p>
 <p>Smittufyribyrgjandi tiltøk eiga eisini at verða sett í verk uttanfyri heilsuverkið so sum á vøggu stovum, barnagørðum, skúlum um framt kunning til foreldur.</p>
@@ -381,7 +381,7 @@
 <p>Virksemi í mikrobiologiini á</p>
 <p type="listitem">Landssjúkrahúsinum í dag:</p>
 <p type="listitem">Klassisk dyrkan av sjúkuelvandi bakterum og teirra mótstøðuføri fyri antibiotika (útsáðan á agarplátur)</p>
-<p type="listitem">Sjóneykukanning av sóttreinsaðum vætum, bakterium og krystallum (vát- og litað tilfar)</p>
+<p type="listitem">Sjóneykukanning av sóttreinsaðum vætum, bakterium og krystallum  (vát- og litað tilfar)</p>
 <p type="listitem">Kanning av mótstøðuførum bakterium, bæði við klassiskari dyrkan og molekyler-biologiskum kanningarháttum (BD MAX) fyri MRSA, ESBL, VRE, og CPE</p>
 <p type="listitem">Kanningar við blóðdyrkanartóli (BD</p>
 <p type="listitem">BACTEC FX), sum kann staðfesta bakteriu vøkstur í blóðfløskum</p>
@@ -569,8 +569,8 @@
 <p>Amoxicillin verður brúkt um bak teriæmi ikki skal koma fyri (t.d. sum endocarditis profylaksa).</p>
 <p>Vit brúka í høvuðsheitum antibiotika: 1) fyribyrgjandi 2) sum viðgerð av ígerð í/frá tonnum ella í/frá tannhaldi ella umliggjandi vevnaði.</p>
 <p type="listitem" xml:lang="dan">Fyribyrgjandi antibiotika:</p>
-<p type="listitem">Tá antibiotika verður brúkt profylaktiskt verður givið: vaksin: 2g amoxicillin (børn 50mg/kg)</p>
-<p type="listitem">1 tíma áðrenn viðgerð, við allergi verður givið: vaksin 500mg clarithromycin (børn 7,5mg/kg)</p>
+<p type="listitem">Tá antibiotika verður brúkt profylaktiskt verður givið: vaksin: 2g amoxicillin  (børn 50mg/kg)</p>
+<p type="listitem">1 tíma áðrenn viðgerð, við allergi verður givið: vaksin 500mg clarithromycin  (børn 7,5mg/kg)</p>
 <p type="listitem">1 tíma áðrenn viðgerð.</p>
 <p>Fyribyrgjandi antibiotika verður brúkt, tá opererað verður í inficeraðum øki, ella um talan er um stór inngreb (frakturkirurgi ella ortokir). Her verður profylaktiskt anti biotika brúkt, eisini um pt. annars er frískur.</p>
 <p>Er vandi fyri infektiøsum endocarditis (t.e. hevur pt.: áður haft endocarditis, kunstigar hjarta klaffar, ávísan viðføddan hjartafeil) verður antibiotikaprofylaksa eisini brúkt.</p>
@@ -647,7 +647,7 @@
 <p xml:lang="dan">J01 D, Cefalosporin og carbapenem nýtsla LS</p>
 <p>FYLGISKJAL 4 – ÚTGERÐ Í KOMMUNULÆKNAVIÐTALUM</p>
 <p type="listitem">Tilfar, sum allar kommunulæknaviðtalur í landinum sum krav skulu hava:</p>
-<p type="listitem">CRP</p>
+<p type="listitem" xml:lang="dan">CRP</p>
 <p type="listitem" xml:lang="dan">StrepA</p>
 <p type="listitem">Stix</p>
 <p type="listitem">Tympanometri</p>
@@ -718,9 +718,9 @@
 <p>Mátingar av sjúku</p>
 <p xml:lang="dan">Patogen</p>
 <p>Sjúkuagens – sjúkuelvandi</p>
-<p>PCR</p>
+<p xml:lang="dan">PCR</p>
 <p xml:lang="dan">Polimerase Chain Reaction – gen-opformeringsteknikkur</p>
-<p>PLI</p>
+<p xml:lang="dan">PLI</p>
 <p>Database til kliniskar vegleiðingar á Landssjúkrahúsinum</p>
 <p>Primeri heilsugeirin</p>
 <p>Heilsuverkið uttanfyri sjúkrahúsini</p>

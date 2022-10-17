@@ -1,7 +1,7 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>6650</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5054/arbeidsrit_5-2003.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-1-9 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>6635</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5054/arbeidsrit_5-2003.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-1-9 </em></p>
 <p><em type="bold">Ynski og tørvur á eldraøkinum í Vágum </em></p>
 <p xml:lang="nob">Dennis Holm</p>
-<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 5/2003 </em>! <span type="quote" xml:lang="mrj">"#"#"</span>$% </p>
+<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 5/2003 </em>! <span type="quote" xml:lang="koi">"#"#"</span>$% </p>
 <p><em type="bold">Innihaldsyvirlit </em>1. Inngangur.................................................................................................................. 3 1.1. Tal av pensjónistum, røktarheimsplássum og bíðilistar ....................................... 3 1.2. Endamálið við kanningini................................................................................... 5 1.3. Framferðarháttur ................................................................................................ 5 2. Bústaðarynski hjá eldri í Vágum ............................................................................... 7 2.1. Kenslan av tryggleika......................................................................................... 8 2.2. Tørvur á ella ynski um eldrabústað..................................................................... 9 </p>
 <p>Eldraíbúðir – ynskir og tørvur ............................................................................. 10 Ynski um eldrasambýli........................................................................................ 11 Røktarheim, vardar eldraíbúðir og demensdeild/-heim......................................... 12 2.3. Hví flyta í annan bústað? .................................................................................. 12 3. Tørvur á tænastum .................................................................................................. 13 4. Samandráttur og niðurstøður ................................................................................... 17 Eftirmæli..................................................................................................................... 20 Fylgiskjal 1. Spurnarblað .............................................................................................. 1</p>
 <p><em type="bold">Ynski og tørvur á eldraøkinum í Vágum </em><em type="bold">1. Inngangur </em></p>
@@ -108,7 +108,7 @@
 <p><em type="bold">Hví flyta í annan bústað? </em>0%10% 20% 30% 40% </p>
 <p>Veit ikki</p>
 <p>Onnur orsøk</p>
-<p xml:lang="nno">Eg tori il a at vera einsamøl /-mal ur</p>
+<p>Eg tori illa at vera einsamøll/-mallur</p>
 <p>Fíggjarliga byrðan</p>
 <p>Heilsustøðan er vánalig</p>
 <p>Húsini / íbúðin ov stór</p>
@@ -190,11 +190,11 @@
 <p xml:lang="smj">Ja 2</p>
 <p xml:lang="nno">Nei3</p>
 <p>Annað ________________________________________ <em type="bold">6. Um tú býr inni hjá ella saman við avvarandi, er tað so orsakað av? </em>1 </p>
-<p xml:lang="nno">Eg tori il a at vera einsamøl /-mal ur 2</p>
+<p>Eg tori illa at vera einsamøll/-mallur 2</p>
 <p>Heilsustøðan er vánalig3</p>
 <p>Onnur orsøk __________________________________ 4</p>
 <p>Ongin serlig orsøk <em type="bold">7. Fáa tygum heimahjálp? </em>1 </p>
-<p>Ja 2 Nei <em type="bold">7a. Um </em>ja, <em type="bold">hvussu ofta? </em>1 1 ferð um dagin 2 2-3 ferðir um dagin3 4 el a fleiri ferðir um dagin 4 1-2 ferðir um vikuna 5 1 ferð 14. hvønn dag6 </p>
+<p>Ja 2 Nei <em type="bold">7a. Um </em>ja, <em type="bold">hvussu ofta? </em>1 1 ferð um dagin 2 2-3 ferðir um dagin3 4 ella fleiri ferðir um dagin 4 1-2 ferðir um vikuna 5 1 ferð 14. hvønn dag6 </p>
 <p>Annað <em type="bold"></em><em type="bold">8. Fáa tygum vitjan av heimasjúkrasystur? </em>1 </p>
 <p>Ja 2 Nei <em type="bold">8a. Um </em>ja, <em type="bold">hvussu ofta? </em>1 1 ferð um dagin 2 2-3 ferðir um vikuna3 1 ferð um vikuna 4 1 ferð 14. hvønn dag 5 </p>
 <p>Annað <em type="bold"></em><em type="bold">9. Hava tygum søkt um búpláss á ellis- og avlamisheiminum? </em>1 Ja 2 Nei <em type="bold">9a. Um </em>ja, <em type="bold">hava tygum so søkt um? </em>1 </p>
@@ -229,7 +229,7 @@
 <p>Veit ikki <em type="bold">14. Um tygum ynskja at flyta í annan bústað, hvør er so orsøkin? </em>( <em type="italic">fleiri krossar kunnu setast </em>) 1 </p>
 <p>Húsini / íbúðin er ov stór 2</p>
 <p>Fíggjarliga byrðan 3</p>
-<p xml:lang="nno">Eg tori il a at vera einsamøl /-mal ur 4</p>
+<p>Eg tori illa at vera einsamøll/-mallur 4</p>
 <p>Heilsustøðan er vánalig 5</p>
 <p>Onnur orsøk, hvør ____________________________ 6</p>
 <p>Veit ikki <em type="bold"></em></p>
@@ -237,18 +237,18 @@
 <p><em type="bold">Takk fyri hjálpina! </em></p>
 <p><em type="bold">Vegleiðandi lýsing av ymiskum møguleikum viðvíkjandi eldrabústaðum </em></p>
 <p xml:lang="isl"><em type="bold">Eldraíbúð </em></p>
-<p>Eldraíbúðir eru fyri brúkarar / fólkapensjónistar í <span type="quote" xml:lang="isl">”góðum árum”</span>, sum hava varðveitt sín ful a førleika, men ynskja at flyta í ein minni bústað</p>
+<p>Eldraíbúðir eru fyri brúkarar / fólkapensjónistar í <span type="quote" xml:lang="isl">”góðum árum”</span>, sum hava varðveitt sín fulla førleika, men ynskja at flyta í ein minni bústað</p>
 <p><em type="bold">Vardar eldraíbúðir </em></p>
 <p>Vardar eldraíbúðir eru ætlaðar at hýsa brúkarum / fólkapensjónistum við likamligum breki og sum tí ikki kunnu búgva í vanligum húsum.</p>
 <p xml:lang="vep"><em type="bold">Eldrasambýli </em></p>
-<p>Eldrasambýli er ein minni eind, sum kann hýsa 7-10 fólkapensjónistum, ið partvíst eru sjálvhjálpnir, men sum hava tørv á stuðli, vegleiðing og støðugari hjáveru, t.d. um tey ikki føla seg trygg einsamøl el a kunnu búgva einsamøl .</p>
+<p>Eldrasambýli er ein minni eind, sum kann hýsa 7-10 fólkapensjónistum, ið partvíst eru sjálvhjálpnir, men sum hava tørv á stuðli, vegleiðing og støðugari hjáveru, t.d. um tey ikki føla seg trygg einsamøll ella kunnu búgva einsamøll.</p>
 <p xml:lang="nno"><em type="bold">Røktarheim </em></p>
 <p>Røktarheim er ein størri stovnur, sum hýsir 35-48 búfólkum / fólkapensjónistum, sum hava tørv á røkt, stuðli, vegleiðing og støðugari eygleiðing og viðgerð. Á røktarheimum er sjúkrasystir á vakt alt samdøgrið og røktin verður annars veitt av sjúkrahjálparum, heilsuatstøðingum og hjálparstarvsfólki.</p>
 <p xml:lang="nno"><em type="bold">Demensdeild/-heim </em></p>
 <p>Demensdeild/-heim er ein lítil eind ætlað til í mesta lagi 9 brúkarar / fólkapensjónistar, sum hava tørv á røkt í einum vardum umhvørvi, ið kann varðveita teirra serliga tørv fyri virksemi, samstundis sum teimum tørvar tryggleika.</p>
 <p>Demensdeildin er nomerað við sjúkrasystrum, heilsurøktarum og sjúkrahjálparum, og eigur normeringin at vera enn hægri enn á vanligari røktardeild.</p>
 <p xml:lang="dan"><em type="bold">Dagstovnatilboð </em></p>
-<p>Dagstovnur er eitt tilboð fyri fólka- og avlamispensjónistar, sum hava niðursettan likamligan og / el a mentalan førleika, og hava tørv á sosialari samveru, og / el a likamligari og mentalari stimbran.</p>
+<p>Dagstovnur er eitt tilboð fyri fólka- og avlamispensjónistar, sum hava niðursettan likamligan og / ella mentalan førleika, og hava tørv á sosialari samveru, og / ella likamligari og mentalari stimbran.</p>
 <p xml:lang="dan"><em type="bold">Dagtilhald </em></p>
 <p>Dagtilhald er fyri frískar og ferðugar pensjónistar, sum koma dagliga í tilhaldið at nýta tilboðini har, tá tey hava hug og tørv á tí.</p>
 <p xml:lang="isl"><em type="bold">Annað </em></p>
