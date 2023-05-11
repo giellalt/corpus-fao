@@ -203,7 +203,7 @@
 <p xml:lang="eng">CMI KODARI</p>
 <p xml:lang="eng">CMI DEKODARI</p>
 <p xml:lang="eng">CMI</p>
-<p xml:lang="dan">NRZ NRZ</p>
+<p>NRZ NRZ</p>
 <p xml:lang="eng">Mynd 2.2</p>
 <p><em type="italic">At svara í starvsstovuni: </em><em type="bold">Spurningur 2: </em></p>
 <p>Bygg dataklokkusignalgerðan upp við Quartus II Schematic og simulera hann. <em type="bold">4. Orðgerði </em>Í hesi venjing hevði verið best at brúkt ein orðgerða, ið ger tilvildarlig orð, til at royna CMI kodaran og dekodaran við. Hann er ikki tøkur. Í staðin fyri vilja vit byggja ein orðgerða, ið kann gera eina fyriskrivaða røð av bittum, ið síðan verður endurtikin periodiskt. Í byrjanini velja vit 8 bit, sum so eitt í senn við hjálp av einum multipleksara 74151 verða send út á útgangin Y. Adressuinngangirnir ABC fáa signal frá binera teljara-num 74393 sum víst á mynd 4.1. Orðið, ið verður sent út á Yútganginum er D0, D1, D2, D3, D4, D5, D6, D7, ið er sett til logiskt <span type="quote">”0” ella logiskt ”1”</span>, svarandi til orðið, ið vit ynskja. <em type="italic">At svara áðrenn møtt verður í starvsstovuni: </em><em type="bold">Spurningur 3 </em>: Hvussu kunnu vit broyta orðgerðan við at brúka enable inngangin á multipleksaranum , soleiðis at 8 bit røðin, sum vit hava stillað við givnum virðum verður eftirfylgd av 8 nullum, og síðan endurtikið periodiskt. <em type="italic">At svara í starvsstovuni: </em><em type="bold">Spurningur 4: </em></p>
@@ -212,7 +212,7 @@
 <p xml:lang="eng">Ck 7474 − Q o /Q</p>
 <p xml:lang="eng">Mynd 3.1</p>
 <p xml:lang="eng">CK QA</p>
-<p xml:lang="dan">QB</p>
+<p>QB</p>
 <p xml:lang="eng">QC</p>
 <p xml:lang="dan">QD</p>
 <p xml:lang="eng">CLR</p>

@@ -21,10 +21,10 @@
 <p xml:lang="eng">Mynd 1.2 <em type="bold">+ </em></p>
 <p xml:lang="eng"><em type="bold">Ro </em></p>
 <p xml:lang="dan"><em type="bold">Ri -Ao Vi </em><em type="bold">_ </em><em type="bold">+ Vi </em><em type="bold">_ </em><em type="bold">+ Vo </em><em type="bold">_ </em></p>
-<p xml:lang="dan"><em type="bold">RL </em></p>
+<p><em type="bold">RL </em></p>
 <p><em type="bold">RS </em></p>
 <p xml:lang="dan">Mynd 1.3 <em type="bold">+ Vi </em><em type="bold">_ </em><em type="bold">+ Vo </em><em type="bold">_ </em>_ + </p>
-<p xml:lang="dan"><em type="bold">RL </em></p>
+<p><em type="bold">RL </em></p>
 <p><em type="bold">RS </em></p>
 <p xml:lang="eng">Mynd 1.4 <em type="bold">+ </em></p>
 <p xml:lang="eng"><em type="bold">Ro </em></p>
@@ -36,7 +36,7 @@
 <p>Ri</p>
 <p xml:lang="dan">Vo Vo – (–Ao )Vi</p>
 <p xml:lang="dan">Vo – Vi   +  = 0 +</p>
-<p xml:lang="dan">RL</p>
+<p>RL</p>
 <p xml:lang="eng">Ro</p>
 <p xml:lang="eng">R ella í matrixformulering:  [1/RS + 1/Ri + 1/R] [-1/R]   Vi  VS/RS      =    [-1/R + Ao/Ro] [1/R + 1/Ro + 1/RL]   Vo  0  <em type="bold">2. Útgangsspenningurin VO </em></p>
 <p>Útgangsspenningurin verður funnin beinleiðis sum loysnin til hesa matrixlíkning: [1/RS + 1/Ri + 1/R] [VS/RS]  [-1/R + Ao/Ro] [ 0 ] </p>
@@ -95,7 +95,7 @@
 <p><em type="bold">RS </em></p>
 <p xml:lang="dan"><em type="bold">Rg </em></p>
 <p xml:lang="eng"><em type="bold">Vp </em></p>
-<p xml:lang="dan"><em type="bold">RL </em></p>
+<p><em type="bold">RL </em></p>
 <p><em type="bold">RS </em><em type="bold">+ Vg </em><em type="bold">_ </em></p>
 <p xml:lang="eng">Mynd 8.1</p>
 <p xml:lang="eng"><em type="bold">Vn </em><em type="bold">+ Vo </em><em type="bold">_ </em>_ + </p>
