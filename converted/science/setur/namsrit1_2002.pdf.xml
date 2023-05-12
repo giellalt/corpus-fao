@@ -1,11 +1,11 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2265</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5087/namsrit1_2002.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-955-0-7 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2265</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.setur.fo/media/5087/namsrit1_2002.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">ISBN 99918-955-0-7 </em></p>
 <p><em type="bold">Uppgerð av løgtingsvalinum </em></p>
-<p xml:lang="nob">Dennis Holm og Bjarni Mortensen</p>
+<p>Dennis Holm og Bjarni Mortensen</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em>www.region.fo </p>
-<p xml:lang="vep"><em type="bold">NÁMSRIT 1/2002 </em></p>
-<p xml:lang="isl"><em type="italic">Um námsrit: </em></p>
+<p><em type="bold">NÁMSRIT 1/2002 </em></p>
+<p><em type="italic">Um námsrit: </em></p>
 <p><em type="bold">Námrit eru rit, ið kunnu nýtast sum undirvísingartilfar í føroyska skúlaverkinum, eitt nú í miðnáms- og handilsskúlum. Námsrit eru frágreiðandi lýsingar av samfelagsligum evnum og vera altíð skrivaði á føroyskum. Hava fólk handrit, sum tey halda eru egnaði til útgávu í Námsriti, eru tey vælkomin at seta seg í samband við depilin (sí adressu á forsíðuni). </em><em type="italic"></em></p>
-<p xml:lang="isl"><em type="bold">Innihaldsyvirlit </em></p>
+<p><em type="bold">Innihaldsyvirlit </em></p>
 <p><em type="bold">Uppgerð av løgtingsvalinum............................................................................ 3 </em></p>
 <p>Valdømisvald umboð.................................................................................................... 3</p>
 <p>Vald ømisvald umboð og l øgtingsvalið 1998..................................................................................... 5</p>
@@ -18,7 +18,7 @@
 <p>Talva 2. Býtið av valdømisvaldum umboðum...............................................................................4</p>
 <p>Talva 3. Býtið av valdømisvaldum umboðum, atkvøðum og prosentbýtið...................................5</p>
 <p>Talva 4. Bara 4 flokkar fingu valdømisvald umboð við løgtingsvalið 1998.................................6</p>
-<p>Talva 5. Tal av umboðum, um hvørt umboð <span type="quote" xml:lang="isl">”kostaði”</span> tað sama, sum hjá Fólkaflokkinum.........7</p>
+<p>Talva 5. Tal av umboðum, um hvørt umboð <span type="quote">”kostaði”</span> tað sama, sum hjá Fólkaflokkinum.........7</p>
 <p>Talva 6. Tal av umboðum flokkarnir, sum hava rætt til eykavald umboð, fáa..............................8</p>
 <p>Talva 7. Býtið av eykavaldum umboð ...........................................................................................8</p>
 <p>Talva 8. Býtið av valdømis- og eykavaldum umboðum á flokkar.................................................9</p>
@@ -29,7 +29,7 @@
 <p>Skipanin við valdømisvaldum umboðum skal tryggja, at øll valdømini eru tryggjað eina ávísa umboðan á Føroya Løgtingi. Meðan skipanin við eykavaldum skal viga upp fyri ella tryggja eina rættvísari politiska umboðan (sí eisini niðanfyri viðv. eykavaldum umboðum).</p>
 <p>Sambært løgtingsvallógini eru valdømini hesi, og talið av valdømisvaldum umboðum er sum víst í talvuni niðanfyri:</p>
 <p><em type="bold">Talva 1. Tal av valdømisvaldum umboðum </em></p>
-<p xml:lang="vep"><em type="bold">Valdømi </em></p>
+<p><em type="bold">Valdømi </em></p>
 <p><em type="bold">Valdømisvald umboð </em></p>
 <p>Suðuroyar valdømi 4</p>
 <p>Sandoyar valdømi 2</p>
@@ -52,7 +52,7 @@
 <p>Javnaðarflokkurin <em type="bold">(1) 1.418 </em><em type="bold">(2) 709 </em></p>
 <p>Sjálvstýrisflokkurin 3919,5</p>
 <p>Tjóðveldisflokkurin <em type="bold">(3) </em><em type="bold">629 </em>314,5 </p>
-<p xml:lang="isl">Kristiligi Fólkafl. 5226</p>
+<p>Kristiligi Fólkafl. 5226</p>
 <p>Miðflokkurin 9547,5</p>
 <p>Verkamannafylkingin 5050:2 = 25</p>
 <p>Í Talvu 2. síggja vit, at Javnaðarflokkurin til Løgtingsvalið í 1998 fekk flestar atkvøður í</p>
@@ -71,7 +71,7 @@
 <p>Javnaðarflokkurin 6 6.063 21,9 %</p>
 <p>Sjálvstýrisflokkurin 0 2.116 7,6 %</p>
 <p>Tjóðveldisflokkurin 8 6.584 23,8 %</p>
-<p xml:lang="isl">Kristiligi Fólkafl. 0 698 2,5 %</p>
+<p>Kristiligi Fólkafl. 0 698 2,5 %</p>
 <p>Miðflokkurin 0 1.125 4,1 %</p>
 <p>Verkamannafylkingin 0 215 0,8 %</p>
 <p><em type="bold">Tilsamans </em><em type="bold">27 </em><em type="bold">27.682 </em><em type="bold">100 % </em></p>
@@ -84,29 +84,29 @@
 <p>Fólkaflokkurin ella Verkamannafylkingin fáa eykavald umboð við Løgtingsvalið í 1998 (sí Talvu 3. omanfyri). 4. Eftir hetta verður talið av atkvøðum hjá tí einstaka flokkinum býtt við talinum av valdømisvaldum, sum tann sami flokkur hevur fingið.</p>
 <p>Vit brúka aftur løgtingsvalið 1998 sum dømi:</p>
 <p><em type="bold">Talva 4. Bara 4 flokkar fingu valdømisvald umboð við løgtingsvalið 1998 </em></p>
-<p xml:lang="isl"><em type="bold">Flokkur </em></p>
-<p xml:lang="isl"><em type="bold">Atkvøður Valdømisvald </em></p>
+<p><em type="bold">Flokkur </em></p>
+<p><em type="bold">Atkvøður Valdømisvald </em></p>
 <p><em type="bold">Atkvøður býttar við </em><em type="bold">valdømisvaldum </em></p>
 <p>Fólkaflokkurin 5.886 8 5.886 : 8 = 735,8</p>
 <p>Sambandsflokkurin 4.995 5 4.995 : 5 = 999</p>
 <p>Javnaðarflokkurin 6.063 6 6.063 : 6 = 1.010,5</p>
 <p>Tjóðveldisflokkurin 6.584 8 6.585 : 8 = 823</p>
-<p>Á hendan hátt verður funnið fram til, hvussu nógvar atkvøður í miðal fara til hvørt valdømisvalt umboð; populært sagt: ” <em type="italic">hvussu nógvar atkvøður hvørt umboð kostar </em>” ella ” <em type="italic">hvussu dýrt ella bíligt hvørt umboð er </em>”. Í Talvu 4. síggja vit, at Fólkaflokkurin fekk tey <span type="quote">”bíligastu”</span> valdømisvaldu: Hvørt valdømisvalt umboð <span type="quote" xml:lang="isl">”kostaði”</span> í miðal bert 735,8 atkvøður; Javnaðarflokkurin fekk tey <span type="quote" xml:lang="olo">”dýrastu”</span> valdømisvaldu umboðini: Hvørt valdømisvalt umboð <span type="quote" xml:lang="isl">”kostaði”</span> heilar 1.010,5 atkvøður í miðal. § Tann flokkur, sum hevur <em type="italic">lægsta </em>miðaltalið, í hesum føri (1998) Fólkaflokkurin, fær onki eykavalt umboð. § Miðaltalið hjá tí flokkinum, sum hevur <em type="italic">lægsta </em>miðaltalið verður hereftir brúkt sum útgangsstøði, tá roknað verður út, hvussu nógv eykavald umboð skulu vera. Til løgtingsvalið í 1998 hevði Fólkaflokkurin lægst miðaltal, har hvørt umboð <span type="quote" xml:lang="isl">”kostaði”</span> 735,8 atkvøður: § Atkvøðurnar hjá hinum flokkunum verða sostatt býttar við hesum miðaltalið fyri at finna fram til, hvussu nógv umboð hinir flokkarnir áttu at fingið, um teir høvdu sama miðaltal. </p>
-<p><em type="bold">Talva 5. Tal av umboðum, um hvørt umboð <span type="quote" xml:lang="isl">”kostaði”</span> tað sama, sum hjá </em></p>
+<p>Á hendan hátt verður funnið fram til, hvussu nógvar atkvøður í miðal fara til hvørt valdømisvalt umboð; populært sagt: ” <em type="italic">hvussu nógvar atkvøður hvørt umboð kostar </em>” ella ” <em type="italic">hvussu dýrt ella bíligt hvørt umboð er </em>”. Í Talvu 4. síggja vit, at Fólkaflokkurin fekk tey <span type="quote">”bíligastu”</span> valdømisvaldu: Hvørt valdømisvalt umboð <span type="quote">”kostaði”</span> í miðal bert 735,8 atkvøður; Javnaðarflokkurin fekk tey <span type="quote">”dýrastu”</span> valdømisvaldu umboðini: Hvørt valdømisvalt umboð <span type="quote">”kostaði”</span> heilar 1.010,5 atkvøður í miðal. § Tann flokkur, sum hevur <em type="italic">lægsta </em>miðaltalið, í hesum føri (1998) Fólkaflokkurin, fær onki eykavalt umboð. § Miðaltalið hjá tí flokkinum, sum hevur <em type="italic">lægsta </em>miðaltalið verður hereftir brúkt sum útgangsstøði, tá roknað verður út, hvussu nógv eykavald umboð skulu vera. Til løgtingsvalið í 1998 hevði Fólkaflokkurin lægst miðaltal, har hvørt umboð <span type="quote">”kostaði”</span> 735,8 atkvøður: § Atkvøðurnar hjá hinum flokkunum verða sostatt býttar við hesum miðaltalið fyri at finna fram til, hvussu nógv umboð hinir flokkarnir áttu at fingið, um teir høvdu sama miðaltal. </p>
+<p><em type="bold">Talva 5. Tal av umboðum, um hvørt umboð <span type="quote">”kostaði”</span> tað sama, sum hjá </em></p>
 <p><em type="bold">Fólkaflokkinum </em></p>
 <p><em type="bold">Atkvøður </em></p>
-<p><em type="bold">Tal av umboðum, um hvørt umboð </em><em type="bold"><span type="quote" xml:lang="isl">”kostaði”</span> tað sama, sum hjá Fólkafl. </em></p>
+<p><em type="bold">Tal av umboðum, um hvørt umboð </em><em type="bold"><span type="quote">”kostaði”</span> tað sama, sum hjá Fólkafl. </em></p>
 <p><em type="bold">Valdømis </em><em type="bold">vald umboð </em></p>
 <p>Sambandsflokkurin 4.995 4.995 : 735,8 = 6,78 Ë 7 5</p>
 <p>Javnaðarflokkurin 6.063 6.063 : 735,8 = 8,24 Ë 8 6</p>
 <p>Sjálvstýrisflokkurin 2.116 2.116 : 735,8 = 2,87 Ë 3 0</p>
 <p>Tjóðveldisflokkurin 6.584 6.584 : 735,8 = 8,94 Ë 9 8</p>
 <p>Miðflokkurin 1.125 1.125 : 735,8 = 1,52 Ë 2 0</p>
-<p><em type="bold">Tilsamans </em><em type="bold">20.883 </em><em type="bold">29 </em><em type="bold">19 </em>§ Um hvørt umboð hjá hinum flokkum <span type="quote" xml:lang="isl">”kostaði”</span> tað sama, sum umboðini hjá </p>
+<p><em type="bold">Tilsamans </em><em type="bold">20.883 </em><em type="bold">29 </em><em type="bold">19 </em>§ Um hvørt umboð hjá hinum flokkum <span type="quote">”kostaði”</span> tað sama, sum umboðini hjá </p>
 <p>Fólkaflokkinum, so høvdu hesir flokkar tilsamans fingið 29 løgtingsumboð. § Samlaða talið av valdømisvalum umboðum, sum hesir flokkar sínamillum fingu við løgtingsvalið í 1998, var 19 umboð: Fólkaflokkurin fekk 8 umboð (tils. 27). § Talið av valdømisvaldum, sum flokkarnir <em type="italic">hava fingið </em>sínamillum, verður drigið frá talinum av umboðum, sum flokkarnir <em type="italic">høvdu fingið </em>útfrá talvuni omanfyri. T.v.s. 29 – 19 = 10; og <em type="italic">áttu </em>flokkarnir sostatt at fingið 10 eykavald umboð at býta sínamillum, skuldi talan verðið um eitt rætt býti. Men sambært løgtingsvallógini kunnu í mesta lagi vera 5 eykavald umboð. § Samanlagt fingu flokkarnir, sum hava rætt til eykavald umboð, sostatt 24 umboð til løgtingsvalið í 1998. t.e. 19 valdømisval og 5 eykavald. </p>
 <p>Eftir er at gera upp, hvør flokkur fær tey eykavaldu umboðini.</p>
 <p><em type="bold">Hvør flokkur fær tey eykavaldu umboðini? </em></p>
-<p>Tá gjørt verður upp, hvussu tey eykavaldu umboðini skulu býtast, verður samlaða atkvøðutalið hjá flokkunum, ið hava rætt til eykavald umboð, býtt við samlaða talinum av umboðum (bæði valdømis- og eykavaldum), ið hesir flokkar sínamillum fáa. § Við løgtingsvalið í 1998 fingu flokkarnir 20.883 atkvøður og tilsamans 24 umboð: 20.883 : 24 = 870,13 § Hvørt av teimum 24 umboðum <span type="quote" xml:lang="isl">”kostaði”</span> also 870,13 atkvøður. § Samlaða talið av atkvøðum hjá tí einstaka flokkinum verður so býtt við 870,13, fyri at finna fram til, hvussu nógv umboð, hvør flokkur hevur rætt til. Aftur her verður løgtingsvalið í 1998 brúkt sum dømi:</p>
+<p>Tá gjørt verður upp, hvussu tey eykavaldu umboðini skulu býtast, verður samlaða atkvøðutalið hjá flokkunum, ið hava rætt til eykavald umboð, býtt við samlaða talinum av umboðum (bæði valdømis- og eykavaldum), ið hesir flokkar sínamillum fáa. § Við løgtingsvalið í 1998 fingu flokkarnir 20.883 atkvøður og tilsamans 24 umboð: 20.883 : 24 = 870,13 § Hvørt av teimum 24 umboðum <span type="quote">”kostaði”</span> also 870,13 atkvøður. § Samlaða talið av atkvøðum hjá tí einstaka flokkinum verður so býtt við 870,13, fyri at finna fram til, hvussu nógv umboð, hvør flokkur hevur rætt til. Aftur her verður løgtingsvalið í 1998 brúkt sum dømi:</p>
 <p><em type="bold">Talva 6. Tal av umboðum flokkarnir, sum hava rætt til eykavald umboð, </em><em type="bold">fáa </em></p>
 <p><em type="bold">Atkvøður </em></p>
 <p><em type="bold">Talið av umboðum flokkurin hevur </em><em type="bold">rætt til </em></p>
@@ -137,9 +137,9 @@
 <p>Miðflokkurin 0 1 1</p>
 <p><em type="bold">Tilsamans </em><em type="bold">27 </em><em type="bold">5 </em><em type="bold">32 </em></p>
 <p><em type="bold">Í hvørjum valdømi skulu tey eykavaldu finnast </em></p>
-<p>Eftir er so at finna fram til, hvørjum valdømi, tey eykavaldu umboðini, verða vald í. Her er avgerandi hvussu nógvar <span type="quote">”avlops-atkvøður”</span> teir fýra flokkarnir, sum fáa eykavald umboð, hava í tí einstaka valdøminum. Sum dømi kunnu vit brúka Sambandsflokkin, sum við løgtingsvalið í 1998 fekk 1 eykavalt umboð. § Við løgtingsvalið í 1998 fekk Sambandflokkurin 4.995 atkvøður og 5 valdømisvald umboð, umframt 1 eykavalt umboð. Í miðal <span type="quote" xml:lang="isl">”kostaði”</span> hvørt umboð (4.995 : 6 =) 832,5 atkvøður, og verða hesar atkvøður frádrignar atkvøðunum í tí einstaka valdøminum.</p>
+<p>Eftir er so at finna fram til, hvørjum valdømi, tey eykavaldu umboðini, verða vald í. Her er avgerandi hvussu nógvar <span type="quote">”avlops-atkvøður”</span> teir fýra flokkarnir, sum fáa eykavald umboð, hava í tí einstaka valdøminum. Sum dømi kunnu vit brúka Sambandsflokkin, sum við løgtingsvalið í 1998 fekk 1 eykavalt umboð. § Við løgtingsvalið í 1998 fekk Sambandflokkurin 4.995 atkvøður og 5 valdømisvald umboð, umframt 1 eykavalt umboð. Í miðal <span type="quote">”kostaði”</span> hvørt umboð (4.995 : 6 =) 832,5 atkvøður, og verða hesar atkvøður frádrignar atkvøðunum í tí einstaka valdøminum.</p>
 <p><em type="bold">Talva 9. Uppgerð í smb. við eykavalda umboðið hjá Sambandsflokkinum </em></p>
-<p xml:lang="vep"><em type="bold">Valdømi </em></p>
+<p><em type="bold">Valdømi </em></p>
 <p><em type="bold">Valdømisvald umboð </em></p>
 <p><em type="bold">Avlopsatkvøður </em></p>
 <p>Suðuroyar valdømi 1 499 - 832,5 = (-333,5 Ë) <em type="bold">0 </em></p>
@@ -157,7 +157,7 @@
 <p>Suðurstreymoy.</p>
 <p>Soleiðis varð funnið fram til endaliga býtið av valdømis- og eykavaldum umboðum til løgtingsvalið í 1998.</p>
 <p><em type="bold">Talva 10. Býtið av valdømis- og eykavaldum umboðum á valdømi </em></p>
-<p xml:lang="vep"><em type="bold">Valdømi </em></p>
+<p><em type="bold">Valdømi </em></p>
 <p><em type="bold">Valdømisvald umboð </em></p>
 <p><em type="bold">Eykavald umboð </em></p>
 <p>Suðuroyar valdømi 4 0</p>
@@ -170,10 +170,10 @@
 <p><em type="bold">Valdømisvaldir tilsamans </em><em type="bold">27 </em><em type="bold">5 </em></p>
 <p><em type="bold">Keldur </em></p>
 <p><em type="bold">Arnbjerg </em>, Holger. 1990. <em type="bold"></em><em type="italic">Tingmannabýtið 1990 </em>. Tórshavn. Dimmalætting nr. 136, 1990. <em type="bold"></em></p>
-<p xml:lang="nob"><em type="bold">Løgmansskrivsstovan </em>. 1998. <em type="bold"></em></p>
+<p><em type="bold">Løgmansskrivsstovan </em>. 1998. <em type="bold"></em></p>
 <p><em type="italic">Løgtingið 30. apríl 1998, uppgerð av valinum. </em>Tórshavn. </p>
-<p xml:lang="rmy-rka">Løgmansskrivsstovan. <em type="bold"></em></p>
+<p>Løgmansskrivsstovan. <em type="bold"></em></p>
 <p><em type="bold">Løgtingsvallógin </em>. 1978. <em type="bold"></em>Løgtingslóg nr. 49 frá 20.07.1978 um <em type="italic">Val til Føroya Løgting </em>sum seinast broytt við Ll. nr. 27 frá 21.03.2002. <em type="bold"></em></p>
-<p xml:lang="nob"><em type="bold">Wang </em>, Zakarias. 1988. <em type="bold"></em></p>
+<p><em type="bold">Wang </em>, Zakarias. 1988. <em type="bold"></em></p>
 <p><em type="italic">Stjórnmálafrøði. </em>Tórshavn. Forlagið Futura, 1988. <em type="bold"></em></p>
 </body></document>

@@ -1,21 +1,21 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>9026</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>104328-verk-c3-a6tlanarlei-c3-b0sla-innlei-c3-b0sla-hefti-1.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Verkætlanarleiðsla í landsfyrisitingini</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>9026</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>104328-verk-c3-a6tlanarlei-c3-b0sla-innlei-c3-b0sla-hefti-1.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Verkætlanarleiðsla í landsfyrisitingini</p>
 <p><em type="bold">Innleiðsla til </em><em type="bold">verkætlanarleiðslu </em><em type="bold">og ráð til ovastu leiðslu </em>(hefti 1) </p>
 <p>Lagt til rættis hava:</p>
 <p>Verkætlanarleiðsla í landsfyrisitingini</p>
 <p><em type="bold">Innleiðsla til verkætlaraleiðslu </em><em type="bold">og ráð til ovastu leiðslu </em></p>
-<p xml:lang="vep">Mai 2014</p>
+<p>Mai 2014</p>
 <p><em type="bold">Verkætlanarleiðsla í landsfyrisitingini (hefti 1) </em>Útgevari: Føroya landsstýri, mai 2014, www.tinganes.fo </p>
-<p xml:lang="nno">Uppseting og prent: Føroyaprent, www.foroyaprent.fo</p>
-<p xml:lang="eng">InnIhald</p>
-<p xml:lang="isl">Inngangur . . . . . . . . . . . . . . . . . . . . . . . . . . <em type="bold">7 </em></p>
-<p xml:lang="isl">Samandráttur . . . . . . . . . . . . . . . . . . . . . . . . <em type="bold">8 </em><em type="bold">1. VerkætlanararbeIðI </em>. . . . . . . . . . . . . . . . <em type="bold">9 </em></p>
+<p>Uppseting og prent: Føroyaprent, www.foroyaprent.fo</p>
+<p>InnIhald</p>
+<p>Inngangur . . . . . . . . . . . . . . . . . . . . . . . . . . <em type="bold">7 </em></p>
+<p>Samandráttur . . . . . . . . . . . . . . . . . . . . . . . . <em type="bold">8 </em><em type="bold">1. VerkætlanararbeIðI </em>. . . . . . . . . . . . . . . . <em type="bold">9 </em></p>
 <p>Týdningurin av verkætlanarleiðslu . . . . . . . . . . . . . <em type="bold">9 </em></p>
-<p xml:lang="isl">Verkætlanarstjørnan . . . . . . . . . . . . . . . . . . . . <em type="bold">10 </em><em type="bold">2.VerkætlanarleIðsla í landsfyrIsItIngInI </em>. . . <em type="bold">11 </em></p>
+<p>Verkætlanarstjørnan . . . . . . . . . . . . . . . . . . . . <em type="bold">10 </em><em type="bold">2.VerkætlanarleIðsla í landsfyrIsItIngInI </em>. . . <em type="bold">11 </em></p>
 <p>Verkætlanarumstøðurnar eru serligar í tí almenna . . . . . <em type="bold">11 </em></p>
 <p>Verkætlanarlaging er treyt fyri góðum almennum verkætlanum. . . . . . . . . . . . . . <em type="bold">13 </em></p>
 <p>Landsfyrisitingin eigur at vera verkætlanarlagað . . . . . <em type="bold">16 </em><em type="bold">3. VegleIðIng tIl oVastu leIðsluna </em>. . . . . . . . . <em type="bold">17 </em></p>
-<p xml:lang="isl">Leiklutir . . . . . . . . . . . . . . . . . . . . . . . . . . <em type="bold">17 </em></p>
-<p xml:lang="isl">Verkætlanarskipan . . . . . . . . . . . . . . . . . . . . . <em type="bold">18 </em></p>
+<p>Leiklutir . . . . . . . . . . . . . . . . . . . . . . . . . . <em type="bold">17 </em></p>
+<p>Verkætlanarskipan . . . . . . . . . . . . . . . . . . . . . <em type="bold">18 </em></p>
 <p>Listi til ovastu leiðsluna – tá lagt verður til rættis . . . . . <em type="bold">19 </em></p>
 <p>Javnvág millum uppgávu og arbeiðsskipan . . . . . . . <em type="bold">20 </em></p>
 <p>Slag av verkætlan . . . . . . . . . . . . . . . . . . . . <em type="bold">21 </em></p>
@@ -29,9 +29,9 @@
 <p>Bæði heftini eru tøk á heimasíðuni hjá Løg mans skriv stovuni (www.tinganes.fo)</p>
 <p>Tórshavn 24. apríl 2014 <em type="bold">stýrisbólkur: </em></p>
 <p>Marjun Hanusardóttir, formaður og eigari Poul Geert Hansen Turid Arge Rógvi Reinert</p>
-<p xml:lang="isl"><em type="bold">Verkætlanarbólkur: </em></p>
+<p><em type="bold">Verkætlanarbólkur: </em></p>
 <p>Heini Hátún, verkætlanarleiðari Rúni Rasmussen Nicolai M. Balle Heri Joensen</p>
-<p xml:lang="isl">Inngangur</p>
+<p>Inngangur</p>
 <p>Ein stórur partur av arbeiðinum í landsfyrisitingini verður meiri ella minni tilvitað skipað í verkætlanir av ymiskum slagi. Ofta røkka verkætlaninir tvørtur um deildir, stovnar og ráð.</p>
 <p>Í 2010 varð skipað fyri skeiði um verkætlanararbeiði innan tað almenna.</p>
 <p>Ovasta leiðslan í almennu skipanini – aðalstjórar, deildarleiðarar og stovnsleiðarar – var við, umframt leiðarar fyri verkætlanir innan tað almenna.</p>
@@ -50,7 +50,7 @@
 <p type="listitem">Góður verkætlanareigaraskapur er avgjørd fortreyt fyri góðum úrslitum. Hesin leiklutur, eigur  at vera mannaður so skjótt sum gjørligt, tá ein  verkætlan er í umbúna.</p>
 <p type="listitem">Tað kann vera trupult at staðfesta, hvør skal eiga eina verkætlan.</p>
 <p type="listitem">Um undirtøka og karmar ikki eru fyri einum verkætl an arhugskoti, er týdningarmikið at sleppa  átøk unum í góðari tíð, so tey ikki binda orku  frá øðrum uppgávum.</p>
-<p xml:lang="isl">Samandráttur</p>
+<p>Samandráttur</p>
 <p>Tá so nógv arbeiði innan tað almenna í roynd og veru verður gjørt í verkætlan um, hevur tað sera stóra týdning alla tíðina at menna hetta arbeiðið. Góð evni at fremja verkætlanir hava avgerandi týdning fyri landið.</p>
 <p>Stórur partur av almennu játtanunum fer til politiskar heildarætlanir og nýskipanir, verksetan av nýggjari tøkni, tillaging og ábøtur á undirstøðukervið, umlegg ing av stovnum osfr. Hetta eru arbeiðsuppgávur, sum eru verkætlanir.</p>
 <p>Verkætlanir stremba eftir at fáa meira burtur úr av mark aðum tilfeingi og at skapa betri virði fyri borgaran.</p>
@@ -73,7 +73,7 @@
 <p type="listitem">tryggja greitt ábyrgdarbýti.</p>
 <p type="listitem">fremja tað, vit hava sett okkum fyri, lata veitinginga og ikki minst, at vit fáa nyttuna, ið var  endamálið við verkætlanini. Og at tað verður  framt innan tíðar og fíggjar ætlan.</p>
 <p type="listitem">taka samanum, læra av tilgongdini og tryggja viðlíkahald, framhald og víðari menning á við komandi øki.</p>
-<p xml:lang="olo"><em type="bold">Verkætlan </em></p>
+<p><em type="bold">Verkætlan </em></p>
 <p>Ein verkætlan er eitt átak, sum grundleggjandi hevur egnar málsetningar, tíðarkarmar, útreiðsl ur og góðsku og er eyðkent við síni serligu arbeiðsskipan.</p>
 <p>Ein verkætlan er eitt átak har tilfeingið, t.e. starvs fólk, tilfar og fígging, er skipað á serligan hátt fyri at loysa eina serliga uppgávu, ið er nágrein liga lýst. Hevur avmarkað tilfeingi og tíðarkar mar og sum fylgir einari standard gongd fyri at fremja positivar broytingar, ið samsvara við málslýsingina, ið bæði eigur at vera kvantitativ og kvalitativ. <em type="italic">(Allýsing frá IPMA) </em>rætt vísandi knýti millum nyttu og veiting er krevj andi, og er uppgávan hjá verkætlanareigara og verkætlanarleiðara. </p>
 <p><em type="bold">Kostnaðir og tíðarætlan </em>Verkætlanarleiðarin metir neyvt um, hvat krevst fyri at gera veitingina. Her verður hugsað um førleikar, starvsfólkatal, amboð og kostnað. </p>
@@ -85,16 +85,16 @@
 <p>Verkætlanin skal enda við, at ætlaða nyttan fæst burturúr.</p>
 <p>Fyri at fáa nyttuna, skal okkurt mennast, og tað verður gjørt fyri ein ávísan kostnað og innan ávísa tíð.</p>
 <p>Øll hesi økini eru knýtt hvørt at øðrum. Verður eitt broytt, broytast hini eisini.</p>
-<p xml:lang="isl"><em type="bold">Nyttan (effektmál) </em></p>
+<p><em type="bold">Nyttan (effektmál) </em></p>
 <p>Effektin kann vera betri tænasta, betri góðska, størri inn tøka, sparingar í arbeiðsgongdini, nøgdari við skifta fólk. Nyttan er at skapa samfelagnum størri virði. Nyttan sæst vanliga eftir, at verkætlanin er liðug. Tað er ábyrgdin hjá leiðsluni at tryggja nyttuna.</p>
 <p><em type="bold">Veitingarmál (leveransumál) </em></p>
 <p>Veitingingin er fyritreytin fyri, at ætlaða nyttan fæst burturúr, men er ikki nóg mikið. Undirtøka skal fáast millum brúkarar, og veitingin skal verða brúkt. Men tað eru veitingarnar, sum projektið skal framleiða, og verkætlanarleiðarin hevur ábyrgdina av hesum.</p>
 <p>Tað er avgerandi, at felagsfatan er um veit ing ina millum eigara, verkætlanarleiðara og verk ætl an ar luttakarar. Hvat væntar eiga rin sær burtur úr, hvat skal verkætlanarleiðarin gera og hvussu skulu verk ætlanarluttakararnir arbeiða. At gera eitt</p>
 <p>Kostnaður</p>
-<p xml:lang="krl">Nytta</p>
+<p>Nytta</p>
 <p>Tíðarætlan</p>
 <p>Veitingar</p>
-<p xml:lang="isl"><em type="bold">Verkætlanareigari </em></p>
+<p><em type="bold">Verkætlanareigari </em></p>
 <p>Er tann, sum biður um og eigur verkætlanina, og sum stendur við evstu ábyrgd. Skal vera navngivin per sónur, og umboðar stovnin ella stovnarnar, ið hava ábyrgdina. Allýsir málini, nyttuna og veit ing arnar.verkætlanarStjørnanverkætlanarumStøðurnar eru SerlIgar í tí almenna</p>
 <p><em type="bold">Skiftandi mál </em>Mál og raðfestingar skifta ofta. Tað kann vera árliga, tá ið nýggjar fíggjarlógir verða samtyktar og ikki minst, tá ið landsstýri skifta. Eisini um politiskar avgerðir vera tiknar, ið ikki samsvara við yvirskipaðu poli tisku avtalurnar, t.d. samgongu skjal. Verkætlanir, ið landsfyristingin útinnir ella tekur stig til, eru poli tiskt motiveraðar. </p>
 <p><em type="bold">Sterkar bindingar eru millum partarnar </em></p>
@@ -103,9 +103,9 @@
 <p type="listitem">Tætt tilknýti og sterkar bindingar eru við aðrar stovnar undir liðini omanfyri ella undir. Stovn ar er flættaðir í hvør annan – summir skapa  for treytir fyri øðrum við beinleiðis at umsita  amboð, sum aðrir brúka, tann eini er treytaður  av, at hin veitir osfr. Onnur sita við amboðum,  vitan ella myndugleika um viðurskifti, einum  sjálvum tørvar</p>
 <p type="listitem">Virksemið er treytað av lógum og reglum, ið kunnu binda virksemið serliga fast – og sum  kunnu vera í andsøgn við mál og ynski. Fyri at  skapa neyðuga broyting má stovnurin fáa onnur  at broyta lógir og reglur.</p>
 <p>Kostnaður</p>
-<p xml:lang="krl">Nytta</p>
+<p>Nytta</p>
 <p>Tíðarætlan</p>
-<p xml:lang="isl">Veitingar2.verkætlanarleIðSla í landSFyrISItIngInI</p>
+<p>Veitingar2.verkætlanarleIðSla í landSFyrISItIngInI</p>
 <p>Almennar verkætlanir seta serlig krøv samanborið við verkætlanir í vinnuni. At fáa javnvág í verk ætl an arstjørnuna er tí serliga avbjóðandi.</p>
 <p type="listitem">Spíssarnir á stjørnuni eru broytiligir, tí tað er trupult  at fáa felagsfatan um tey fýra høvuðsevnini. Ymsar  meiningar og fatanir eru, umframt mótstríðandi  áhugamál í samfelagnum og í almennu skipanini:</p>
 <p type="listitem">Hvat er endamálið? hvør er samfelagsnyttan?</p>
@@ -124,20 +124,20 @@
 <p>Játtanarskipanin er snikkað soleiðis, at flestu verk ætlanir eru fíggjaðar við rakst rarjáttanum og ikki verk ætl anarjáttanum. Rakstur og menning verða fíggjað við sama slag av játtan, hóast tørvurin er ymiskur. Tað er avbjóðandi at skapa rúm til verkætlanararbeiði, tí raksturin skal til eina og hvørja tíð vera intaktur.</p>
 <p>Ein tann óhepnasta støða, leiðsla kann at koma í, er tá ið menningartrýstið er høgt og tá raksturin sam stund is skal klára vanlig rakstrarkrøv og málsviðgerð. Vit skulu broyta og endurnýggja, men skulu sam stundis halda dagliga rakstrurin (málsviðgerð, lóg ar smíð, tænastuveiting) gangandi.</p>
 <p>Strategi/ætlan</p>
-<p xml:lang="isl">Mál (visión)</p>
+<p>Mál (visión)</p>
 <p>Førleikar</p>
 <p>Tøkni</p>
-<p xml:lang="isl">Bygnaður</p>
+<p>Bygnaður</p>
 <p>UppgávurverkætlanarlagIng er treyt</p>
 <p>FyrI góðum almennum verkætlanum</p>
 <p><em type="bold">Landsfyrisitingin er verkætlanartung </em>Landsfyrisitingin tekur stig til broytingar og skapar karmar fyri øllum hinum stovnunum. </p>
 <p>Landsfyristingin hevur ofta leiklut, sum eigari og/ ella programmleiðari av størri tvørgangandi átøk um, har fleiri verkætlanir skulu samskipast fyri at røkka yvirskipaðum málum. Landsfyrisitingin hev ur stóran tørv á projektsam skipanarleiðslu og pro gramm leiðslu, fyri at vita, hvussu stendur til við menn ingini í tí almenna og fyri at kenna tørvin á kørm um til verkætlanirnar.</p>
 <p type="listitem">Dømi um projekttung øki og projekttungar stovnar annars:</p>
 <p type="listitem">KT menning og vegleiðing í landsfyrisitingini eru projekttung, tí tøknin broytist skjótt, nýggir  møguleikar koma, og mangt verður skjótt ov  gamalt. Og veitingarnar skulu takast í nýtslu  uttan fyri egnar veggir.</p>
-<p type="listitem" xml:lang="isl">Vitanarmenning er projekttung, t.d. hag talsfram leiðsla  og  greiningarvirk semi  (búskap ar grein ing og ráðgeving).</p>
+<p type="listitem">Vitanarmenning er projekttung, t.d. hag talsfram leiðsla  og  greiningarvirk semi  (búskap ar grein ing og ráðgeving).</p>
 <p type="listitem">Ráðgevandi stovnar eru vanliga projektungir.</p>
 <p type="listitem">Almennir granskingarstovnar eru í grundini altíð projekttungir.</p>
-<p type="listitem" xml:lang="nob">Politikkgerð er projekttung.</p>
+<p type="listitem" xml:lang="dan">Politikkgerð er projekttung.</p>
 <p>Góð projektúrslit eru treytað av, at javni er í nøkrum grund leggjandi samanhangum í verk ætl an ar um hvørv inum. Nakrar fortreytir skulu vera til stað ar, inni í og kring verkætlanina. Ketan er ikki sterk ari enn veikasti liðurin.</p>
 <p>Virksemistjørnan hjá Leavitt vísir tilknýtini. Ein or gani satión er samansett av fýra lutum; uppgávur, bygn aður, tøkni og starvsfólk (førleikar). Lutirnir eru síná millum knýttir saman. Teir annaðhvørt avmarkað ella skapa møguleikar hvør fyri øðrum.</p>
 <p>Ein organisatión kann vera ein stovnur, ella fleiri stovnar, ella fleiri ráð, sum eru knýtt saman um ávísar uppgávur.</p>
@@ -167,7 +167,7 @@
 <p><em type="bold">Viðgjørt á </em><em type="bold">politiskum </em><em type="bold">landsstýris </em><em type="bold">fundi </em></p>
 <p><em type="bold">Lógar </em><em type="bold">uppskot </em><em type="bold">gjørt í </em><em type="bold">stjórn ar </em><em type="bold">ráðnum </em></p>
 <p><em type="bold">Lógar </em><em type="bold">upp skot </em><em type="bold">við gjørt á </em><em type="bold">poli tisk um </em><em type="bold">lands stýris </em><em type="bold">fundi </em></p>
-<p xml:lang="isl"><em type="bold">Lógar </em><em type="bold">uppskot </em><em type="bold">stað fest á </em><em type="bold">form ligum </em><em type="bold">lands stýris </em><em type="bold">fundi </em></p>
+<p><em type="bold">Lógar </em><em type="bold">uppskot </em><em type="bold">stað fest á </em><em type="bold">form ligum </em><em type="bold">lands stýris </em><em type="bold">fundi </em></p>
 <p><em type="bold">Lógar upp  </em><em type="bold">skot latið </em></p>
 <p type="listitem">Løg tinginum</p>
 <p type="listitem">Verkætlanin  fer  ikki  í  gongd,  men  liggur  og  órógvar tilvitskuna hjá av varðandi landsstýrismanni  og leiðsluni.</p>
@@ -186,7 +186,7 @@
 <p type="listitem">Hjá leiðsluni er tað serliga at tryggja verk ætl anun um  rúm,  góðar  verkætla nar leið sluførleikar  og  at taka eigaraleiklutin í størsta álvara.</p>
 <p type="listitem">Hjá politisku skipanini er tað serliga mátin raðfest verður, og mátin fíggjar karmar vera lagdir til  rættis.</p>
 <p>Verkætlanarleiðsluførleikar og felagsfatan um menn ing ar tilgongdina í sam felagnum eru fyrsta fortreytin fyri at verk ætlanarlaga landsfyrisitingina. Við førleika og hug burði, fara tillagingar í háttalagi og bygnaði kunna taka seg upp líðandi og framhaldandi. At verk ætlanarlaga eina organisatión er drúgt. At verk ætlanarlaga eina landsfyristing er ein áhaldandi til gongd, ið tekur fleiri ár.landSFyrISItIngIn eIgur at vera verkætlanarlagað</p>
-<p xml:lang="isl"><em type="bold">Verkætlanarsamskipan </em></p>
+<p><em type="bold">Verkætlanarsamskipan </em></p>
 <p>Verkætlanarsamskipan og stýring er viðkoman di fyri verkætlanartungar stovnar – har nógvar verkætlanir eru á skránni alla tíðina. Verkætlanar samskipan er ein formlig skipan, har leiðslan hevur ábyrgd av raðfestingini (hvat skal í gongd, og hvat skal ikki) og ábyrgd av uppfylging av verkætlanum, sum eru í gongd</p>
 <p type="listitem">Ovasta landsfyrisitingin eigur at vera verk ætlanar lagað, tí:</p>
 <p type="listitem">Hon er í mongum førum stigtakari til broytingar í samfelagnum og hevur ábyrgdina av at tryggja  góðar karmar, tá ið stig verða tikin, og er sum  oftast eigari av torgreiddu verkætlanunum.</p>
@@ -197,7 +197,7 @@
 <p type="listitem">Landsfyrisitingin hevur møguleikan at virka fyri menning og projekttillag ing av almenna  geiranum sum heild.</p>
 <p>Politiski myndugleikin er valdið og parturin, ið rað festir. Í tí politiskari heiminum vilja avgerðir til tíðir vera í andsøgn við meginreglur um langtíðar menn ing.</p>
 <p><em type="bold">Aðalstjórin í samstarvi við </em><em type="bold">stovnsleiðslurnar </em>Í torgreiddum, tvørgangandi verkætlanum eru stigini til verkætlanina oftani tikin oman fyri einstøku almennu stovnarnar, og er yvirskipaða leiðslan tá at finna á tí hægra stignum. Tað er aðalstjórin, ið setur karmarnar hjá fleiri stovnum undir sama stjórn arráði. Er talan um tvørgangandi verkætlanir mill um stovnar undir einum stjórnarráð, er aðalstjórin ovasta leiðslan í samstarvi við stovnsleiðslurnar. </p>
-<p xml:lang="isl"><em type="bold">Avvarandi aðalstjórar og stovnsleiðarar </em></p>
+<p><em type="bold">Avvarandi aðalstjórar og stovnsleiðarar </em></p>
 <p>Tað eru fleiri aðalstjórar, ið seta karmarnar hjá fleiri stjórnar ráðum. Er talan um tvørgangandi verkætlanir, har fleiri stovnar undir ymsum stjórnarráðum eru við, er ovasta leiðslan avvarðandi aðalstjórar og stovns leiðarar. Í hesari støðuni er tað torført at stað festa ábyrgdir.</p>
 <p>Eigarin í ávísari verkætlan ella programmi nýtist ikki at vera ovasta leiðslan, sjálvur leikluturin kann leggjast út til annan navngivnan skikkaðan persón. Hetta er ofta neyðugt í hægsta stignum í landsfyrisitingini, har leið slan hevur ov breiða ábyrgd at umsita einstakar verk ætlanir. Tað er í torgreiddu verkætlan unum í landsfyrisitingini, at tað er avbjóðandi at taka støðu til eigaraskap og at manna ítøkiliga leiklutin.leIklutIr</p>
 <p>Verkætlanararbeiðið hevur hesar grundleiklutir í sær:1) Eigaraskapur og yvirskipað leiðsla.2) Útinna verkætlanarleiðslu.3) Útinna fakarbeiði og umsiting.</p>
@@ -208,7 +208,7 @@
 <p type="listitem">Deildarleiðarar við ábyrgd fyri serøkjum í ovastu landsfyrisitingini, ið kunnu standa fyri ávísum  almennum stovnum.</p>
 <p type="listitem">Stovnsleiðarar, ið standa fyri virkseminum á hesum stovni.</p>
 <p>Hvør yvirskipaða leiðslan í eini verkætlan er, veldst um einstøku verkætlanina.</p>
-<p xml:lang="isl"><em type="bold">Stovnsleiðari </em></p>
+<p><em type="bold">Stovnsleiðari </em></p>
 <p>Er talan um eina verkætlan, ið ein ávísur stovnsleiðari hevur fult ræði á og tekur stig til, er hesin stovnsleiðari yvir skipað leiðsla og eigari.3. vegleIðIng tIl ovaStu leIðSluna</p>
 <p><em type="bold">Verkætlanarbólkur og luttakarar </em>Verkætlanartbólkurin eru tey, ið hava ábyrgd av at útinna uppgávuna. Luttakar arnir hava ofta ser ligar upp gávur, eitt nú kunning og samskifti, KT, góð sku trygg ing, fakliga ábyrgd. </p>
 <p><em type="bold">Tilvísingarbólkur </em></p>
@@ -216,18 +216,18 @@
 <p><em type="bold">Undirveitarar </em></p>
 <p>Fremja ítøkiligar uppgávur sambært sáttmála, veita tilfar, ráð, og útgerð.verkætlanarSkIpan</p>
 <p>Hesi leiklutir eru vanligir:</p>
-<p xml:lang="som"><em type="bold">Eigari </em></p>
+<p><em type="bold">Eigari </em></p>
 <p>Tann, sum biðir um og eigur verkætlanina og stendur við evstu ábyrgd. Skal vera navngivin persónur, og umboðar stovnin ella stovnarnar, ið hava ábyrgd ina. Tekur stig, raðfestir og skapar karmar (fígging o.a.), definerar málini, nyttuna og veitingarnar.</p>
-<p xml:lang="isl"><em type="bold">Stýrisbólkur </em></p>
+<p><em type="bold">Stýrisbólkur </em></p>
 <p>Tey sum fíggja og definera verkætlanaruppgávuna, veita karmar(pengar og tíð) og fylgja við gongdini.</p>
-<p xml:lang="isl"><em type="bold">Stýrisbólkaformaður </em></p>
+<p><em type="bold">Stýrisbólkaformaður </em></p>
 <p>Stýrisbólkaformaðurin er ofta eigarin. Leiðir stýris bólk in. Hevur evstu ábyrgd av, at avgerðir vera tiknar. Helst í samráð við stýrislimirnar. Kann skera ígjøgnum. Í stýrisbólkinum eru limir, sum hava ávísar upp gávur eitt nú góðskutrygging, fígging, umsiting o.a.</p>
-<p xml:lang="isl"><em type="bold">Verkætlanarleiðari </em></p>
+<p><em type="bold">Verkætlanarleiðari </em></p>
 <p>Leiðir og stýrir verkætlanini og verkætlanarbólkinum. Skal útinna uppgávuna, sum eigarin hevur biðið um, og sum er í tráð við verkætlanarstjørnuna. Verk ætlan ar leiðsla snýr seg ikki um at útinna verk ætl an ar arbeiðið, men at leiða og sjónliggera tilgongdina.</p>
 <p>Tað kann vera ein avbjóðing at skilja millum hesi við ur skifti. Er talan um smærri verkætlanir, vil verk ætl an arleiðarin eisini hava eina út inn ing ar upp  gávu. Jú størri og torgreiddari verkætlanin er, jú meiri rúm eigur verkætlanarleiðarin at brúka til verk ætlanarleiðslu.</p>
-<p xml:lang="pol">Projektbólkur</p>
+<p>Projektbólkur</p>
 <p>Tilvísingarbólkur</p>
-<p xml:lang="isl">Stýrisbólkur</p>
+<p>Stýrisbólkur</p>
 <p>Undirveitarar</p>
 <p><em type="italic">Ein vanlig verkætlanarorganisatión sær soleiðis út : </em></p>
 <p>Tað kann vera ein avbjóðing at skyna á hesum við ur skiftum. Er talan um smáar verkætlanir, skal verk ætl an arleiðarin eisini loysa uppgávuna. Tess størri og torgreiddari verkætlanin er, tess størri rúm eigur verkætlanarleiðarin at brúka til leiðslu.</p>
@@ -239,15 +239,15 @@
 <p>Fremja ítøkiligar uppgávur sambært sáttmála, útvega tilfar, ráðgeva og útvega útgerð.</p>
 <p><em type="bold">Hesi leiklutir eru vanligir: </em></p>
 <p><em type="bold">Eigari </em>Eigari er tann, sum biður um og eigur verkætlanina og stendur við evstu ábyrgdini. Skal vera navngivin persónur og umboða stovnin ella stovnarnar, ið hava ábyrgdina. Tekur stig, raðfestir og skapar karmar (fígging o.a.), allýsir málini, nyttuna og veitingarnar. </p>
-<p xml:lang="isl"><em type="bold">Stýrisbólkur </em></p>
+<p><em type="bold">Stýrisbólkur </em></p>
 <p>Tey, sum fíggja og allýsa verkætlanaruppgávuna, útvega karmar (pengar og tíð) og fylgja við gongdini.</p>
-<p xml:lang="isl"><em type="bold">Stýrisbólksformaður </em></p>
+<p><em type="bold">Stýrisbólksformaður </em></p>
 <p>Eigarin er ofta stýrisbólkaformaðurin. Leiðir stýris bólkin. Hevur evstu ábyrgd av, at avgerðir verða tiknar. Helst í samráð við stýrislimirnar. Kann taka avgerðir í ivamálum. Í stýrisbólkinum eru limir, sum hava ávísar uppgávur til dømis góðskutrygging, fígging, umsiting o.a.</p>
-<p xml:lang="isl"><em type="bold">Verkætlanarleiðari </em></p>
+<p><em type="bold">Verkætlanarleiðari </em></p>
 <p>Leiðir og stýrir verkætlanini og verkætlanarbólkinum. Skal loysa uppgávuna, sum eigarin hevur biðið um, og sum samsvarar við verkætlanarstjørnuna. Verk ætl an arleiðsla snýr seg ikki um at útinna verk ætl an ar arbeiðið, men at leiða og gera tilgongdina sjón liga.</p>
-<p xml:lang="pol">Projektbólkur</p>
+<p>Projektbólkur</p>
 <p>Tilvísingarbólkur</p>
-<p xml:lang="isl">Stýrisbólkur</p>
+<p>Stýrisbólkur</p>
 <p>UndirveitararverkætlanarSkIpan</p>
 <p>Ein vanlig verkætlanarorganisatión sær soleiðis út:</p>
 <p><em type="bold">Óneyðug verkætlanarleiðsla </em>Í summum førum verður hinvegin eldhugað lagt til brots við væl fyrireikaðum verkætlanarleiðslufokusi, hóast talan er um innanhýsis uppgávu, har tørvurin á verk ætlanarleiðslu ikki er serliga stórur. Tað hendir, at van ligar uppgávur ella smáar menningartilgongdir vera kallaðar verkætlanir, tó at uppgávurnar kunnu loys ast meira automatiskt, tí fólk hava royndirnar, ella tí nýttir verða kendir arbeiðshættir, ið verða nýtt ir av handahógvi. </p>
@@ -256,17 +256,17 @@
 <p>Raksturin er tað, sum skal verða gjørt, tað, sum fyri tøk an ella stovnurin hevur sum høvuðsuppgávu. Til døm is at málsviðgera, krevja gjøld, gjalda lønir og ve it ingar, fremja eftirlit, skriva standard lógartekst, stað festa sjúkueyðkenni hjá sjúklingum, undirvísa næm ing um sambært undirvísingarætlan, halda vegir við líka osfr.</p>
 <p>Raksturin er ofta rættiliga ítøkiligur og merktur av fak ligari vitan, sum rakstaruppgávurnar snúgva seg um. Ymisk sløg av stovnum (tænastuveiting, fyri sit ing, eftirlit o.a.) hava síni fakligu eyðkenni.lIStI tIl ovaStu leIðSluna – tá lagt verður tIl rættIS</p>
 <p>Er talan um projekt ella rakstur?</p>
-<p xml:lang="isl">Rakstrarmanna-gongdir</p>
+<p>Rakstrarmanna-gongdir</p>
 <p>Hvat slag av projektum?</p>
 <p>Hvussu kompleks eru projektini</p>
-<p xml:lang="vep">Projekt</p>
+<p xml:lang="dan">Projekt</p>
 <p>Rakstur og uppgávur</p>
-<p xml:lang="vep">KT</p>
-<p xml:lang="isl">Bygging</p>
-<p xml:lang="eng">Politikkmenning (Policy Making)</p>
+<p>KT</p>
+<p>Bygging</p>
+<p xml:lang="dan">Politikkmenning (Policy Making)</p>
 <p>Organisatiónosfr. Smá/einkul</p>
-<p xml:lang="isl">Meðal</p>
-<p xml:lang="vep">Stór/kompleks</p>
+<p>Meðal</p>
+<p xml:lang="dan">Stór/kompleks</p>
 <p>Tá ovasta leiðslan á stovninum skal skipa sítt arbeiði, er umráðandi at skapa sær eitt yvirlit yvir, hvørji krøv ymsu uppgávurnar seta – at finna javnvág millum arbeiðsskipan (førleikar, amboð og karmar) og krøvini, ið uppgávurnar seta. Leiðslan eigur at fyrieika seg og seta hesar spurningarn:</p>
 <p><em type="bold">Krøv, ið uppgávurnar seta </em></p>
 <p>Tað kann seta síni krøv í einum rokaligum ger and is degi at skilja millum verkætlanir, smærri menn ing aruppgávur og rakstur og málsviðgerð. Nær er talan um eina verkætlan og nær er talan um rakstur ella vanliga málsviðgerð ella menningaruppgávur?</p>
@@ -296,7 +296,7 @@
 <p>Slag av verkætlan</p>
 <p>Tá ið leiðslan skal fyrireika verkætlanina, er týdn inga mikið at hyggja at, hvørja verkætlan talan er um. Leiðsluavbjóðingarnar eru ymiskar, og tørv urin á verkætlanarleiðsluførleika og amboðum í verk ætlanarleiðslu amboðskassanum ymiskur.</p>
 <p>Leiðslan eigur at hava eyguni eftir stóra sam an hangunum í verkætlanunum. KT verk ætlanir hava oftast eina organisatiónssíðu, or gani sa tións verk ætlanir eina KTsíðu.</p>
-<p xml:lang="isl"><em type="bold">KTverkætlanir </em></p>
+<p><em type="bold">KTverkætlanir </em></p>
 <p type="listitem">KT verkætlanir eru ofta meira umfatandi enn enn  hildið verður. Skjótt er at undirmeta ella forsøma  ymsar síðir av verkætlanini:</p>
 <p type="listitem">At leggja upp fyri óvæntaðum kompleksiteti.</p>
 <p type="listitem">Serliga um brúkaraskarin, sum kunnu vera aðrir  inngreinaðir stovnar, er stórur.</p>
@@ -308,7 +308,7 @@
 <p>Nýskapanarpolitikkur, javnstøðupolitikkur, um hvørvis politikkur eru dømi um politikkir, ið ganga tvørtur um stjórnarráð. Henda tilgongdin er krevj andi. Lættari er hjá avmarkaðum pørtum at taka avgerðir um politikk. Vandin tá er, at politikkurin ikki verður framdur.</p>
 <p>Stórur tørvur er á programmleiðslu sum ískoyti til politikkmenning.</p>
 <p>Stór krøv eru til leiðslu og myndugleikar um at finna javnvágina millum nyttu, veitingar og kostnað.</p>
-<p xml:lang="isl"><em type="bold">Byggiverkætlanir </em></p>
+<p><em type="bold">Byggiverkætlanir </em></p>
 <p>Hetta er eitt yrkisøki sum vanliga fæst við verk ætl an ar leiðslu.</p>
 <p>Tó er ofta størri fokus á veitingarnar (tekningar, snið og sjálvan bygningin) enn á ta nyttuna, sum bygningurin hevur.</p>
 <p>Er talan um at samskipa stórar byggiverkætlanir við at umskipa tæn astutilboð, verður verkætlanin sera torgreidd.</p>
@@ -342,7 +342,7 @@
 <p>Eitt livandi samskifti millum eigara og verk ætl an ar leið ara er av størsta týdningi soleiðis, at felagsfatan fram haldandi er um verk ætlanarskipanina, amboð osfr.</p>
 <p type="listitem">Trupulleikar stinga seg upp, um leiklutirnir eru ógreiðir Ikki er óvanligt at síggja hesar trupulleikar í skipanini  og fatan av leiklutum.</p>
 <p type="listitem">Eigarin tekur yvir og virkar bæði sum verkætlan</p>
-<p xml:lang="isl">Verkætlanarlaging er hugtak, hetta hefti trívir í.</p>
+<p>Verkætlanarlaging er hugtak, hetta hefti trívir í.</p>
 <p>Í hesum parti verður greitt gjøllari frá hesum hug tak inum og uppgávuni hjá ovastu leiðsluni at laga um hvørvið til verkætlanararbeiði í mun til tørvin.</p>
 <p type="listitem">Verkætlanarlaging er, tá ið henda heildin gongur  upp:</p>
 <p type="listitem">Røttu førleikarnir eru til taks í menn ing ar umhvørv inum.</p>
@@ -379,11 +379,11 @@
 <p type="listitem">At fysiskar umstøður, útgerð og útbúnaður eru til verkætlanina.</p>
 <p type="listitem">Felagsfatan er í organisatiónini um, at tíð er at arbeiða í uppgávublokkum.</p>
 <p>Førleikin og hugburðurin hjá ovastu leiðsluni gera av, um øll hesi viðurskifti koma í rættlag.</p>
-<p type="listitem" xml:lang="isl">Kendastu stovnarnir eru:</p>
-<p type="listitem" xml:lang="eng">PMI (Project Management Institute).</p>
-<p type="listitem" xml:lang="eng">IPMA (International Project Management Associa tion).</p>
-<p type="listitem" xml:lang="eng">Prince 2 (Projects in Controlled Environments).</p>
-<p type="listitem" xml:lang="deu">ISO (International Standard Organisation).</p>
+<p type="listitem">Kendastu stovnarnir eru:</p>
+<p type="listitem" xml:lang="dan">PMI (Project Management Institute).</p>
+<p type="listitem" xml:lang="dan">IPMA (International Project Management Associa tion).</p>
+<p type="listitem" xml:lang="dan">Prince 2 (Projects in Controlled Environments).</p>
+<p type="listitem" xml:lang="dan">ISO (International Standard Organisation).</p>
 <p>Ymsu standardirnir hava ymsar styrkir og veikleikar. Men sum heild verður mett, at allir frymlar viðgera byrjanina ov illa, sjálva raðfestingina og endan á verkætlanum. Meira fokus er á tað, sum skal gerast (veitingina), enn á upplæring og rakstur og tað at tryggja úrslitið.</p>
 <p type="listitem">Verkætlanarleiðsla sum heild er ein standard  amboðs kassi. Ovasta leiðsla og verkætlanarleiðarin  eiga tó í hvørjum einstøkum føri at velja sín ítøkiliga  amboðskassa út frá:</p>
 <p type="listitem">Verkætlanarslagnum (KT, byggifrøði osfr).</p>
@@ -404,10 +404,10 @@
 <p>Attrup og Olsson (Power i projekter &amp; portefølje) lýsa eitt programm soleiðis: „Eitt programm er myndaliga talað ein teggja av átøkum (verkætlanum ella uppgávum), ið skulu fá ávís úrslit og tryggja, at verulig nytta fæst burturúr.“allýSIngar</p>
 <p><em type="bold">Verkætlan/projekt </em>IPMA allýsir hugtakið verkætlan soleiðis:„Ein verkætlan er eitt átak, sum grundleggjandi hev ur síni egnu mál, egnar tíðarkarmar, útreiðslur og góð sku og er eyðkent við síni serligu arbeiðsskipan. </p>
 <p>Ein verk ætlan er eitt átak, har tilfeingi, starvsfólk, tilfar og fígg ing, eru skipað á serligan hátt fyri at loysa eina ávísa uppgávu, ið er nágreinliga lýst, hevur avmark að tilfeingið og tíðarkarmar, og sum fylgir einari standard lívsrás fyri at seta í verk broytingar til tað betra, ið samsvara við málslýsingina, ið bæði eigur at vera kvantitativ og kvalitativ“.</p>
-<p xml:lang="isl"><em type="bold">Verkætlanarleiðsla </em></p>
+<p><em type="bold">Verkætlanarleiðsla </em></p>
 <p>Verkætlanarleiðsla snýr seg um at seta í gongd, leiða og enda eitt broytin garátak.</p>
 <p>IPMA allýsir hugtakið verkætlanarleiðslu soleiðis: „At leiða eina verkætlan er at leggja ráð, skipa fyri, fylgja við og stýra teimum viðurskiftum, ið víkja at verkætlanini. At leiða er eisini at eggja fólki til at gera arbeiðið til ásetta tíð, fyri tær upphæddir, ið eru avsettar, og síggja til, at alt er væl úr hondum greitt.“</p>
-<p xml:lang="isl"><em type="bold">Verkætlanarleiðslufrymil </em></p>
+<p><em type="bold">Verkætlanarleiðslufrymil </em></p>
 <p>Oftan verður blandað millum verkætlanarleiðslufrymil og verkætlanarfrymil. Verkætlanarleiðslufrymlar leggja dent á sjálva leiðsluuppgávuna á ein almenn an hátt, sama, hvat slag av verkætlan talan er um.</p>
 <p>Ein verkætlanarleiðslufrymil vísir grafiskt og við vegleiðing leiðsluuppgávuna hjá eigara og verk ætl an arleiðara so hvørt, sum verkætlanin tekur seg fram.</p>
 <p>Slíkir frymlar vera ofta nýttir hjá fyritøkum og stov un um, sum leistur fyri amboðskassan, ið fyritøkan nýt ir til sínar verkætlanir.</p>
@@ -434,26 +434,26 @@
 <p>Leikluturin hjá programmleiðara er at samskipa eigaraskaran við útinnara skaran.</p>
 <p>Programmleiðsla skal skipast formliga, so býtið av leik lutunum verður greitt og góðtikið av øllum. Pro gramm leiðarin stendur við ábyrgdini fyri heildini, hinir leiðararnir ábyrgdast fyri einstøku verkætlanirnar.</p>
 <p>Játtanarbygnaðurin í landsfyrisitingini setur skott ímillum stovnar, og tí krevur tað meira arbeiði at fáa játtanir at fara út um ein stovn. Við hvørt má stovnur lata øðrum stovni bæði ábyrgd og myndugleika.</p>
-<p xml:lang="vep">STJÓRNARRÁÐ</p>
-<p xml:lang="isl">Stovnur 1</p>
-<p xml:lang="vep">STJÓRNARRÁÐ</p>
-<p xml:lang="isl">Stovnur 2</p>
-<p xml:lang="vep">STJÓRNARRÁÐ</p>
-<p xml:lang="isl">Stovnur 3</p>
-<p xml:lang="vep">STJÓRNARRÁÐ</p>
-<p xml:lang="isl">Stovnur 4</p>
-<p xml:lang="vep">Projekt 1</p>
+<p>STJÓRNARRÁÐ</p>
+<p>Stovnur 1</p>
+<p>STJÓRNARRÁÐ</p>
+<p>Stovnur 2</p>
+<p>STJÓRNARRÁÐ</p>
+<p>Stovnur 3</p>
+<p>STJÓRNARRÁÐ</p>
+<p>Stovnur 4</p>
+<p xml:lang="dan">Projekt 1</p>
 <p>Projektleiðari</p>
 <p>Projektleiðari</p>
 <p>Projektleiðari</p>
 <p>Projektleiðari</p>
-<p xml:lang="isl">Stýrisbólkur</p>
-<p xml:lang="isl">Stýrisbólkur</p>
-<p xml:lang="isl">Stýrisbólkur</p>
-<p xml:lang="isl">Stýrisbólkur</p>
-<p xml:lang="vep">Projekt 2</p>
-<p xml:lang="vep">Projekt 3</p>
-<p xml:lang="vep">Projekt 4</p>
+<p>Stýrisbólkur</p>
+<p>Stýrisbólkur</p>
+<p>Stýrisbólkur</p>
+<p>Stýrisbólkur</p>
+<p xml:lang="dan">Projekt 2</p>
+<p xml:lang="dan">Projekt 3</p>
+<p xml:lang="dan">Projekt 4</p>
 <p>Programleiðari</p>
 <p>Landsstýrið og landsfyrisitingin hava av sonnum ábyrgd fyri projektsamskipan, tí tað eru altíð verk ætlanir, sum eru í gongd, sum skulu setast í gongd og summar skulu verða steðgaðar.</p>
 <p>Í politiskum verkætlanum er tað avvarðandi lands stýris fólk ella løgmaður, sum er verkætlanareigari. Men tað er aðalstjórin, sum umsitur eigaraskapin vegna landsstýrisfólkið. Tað er sera týdningarmikið, at landsstýrisfólkið og aðalstjórin hava greiða felags fatan av leiklutum og ábyrgdarbýti í teimum politisku verkætlanunum. Hetta eru verkætlanir og mál, sum fyri tað mesta eru ásett í samgonguskjalinum.</p>
@@ -464,5 +464,5 @@
 <p>Stórar fyritøkur og almennar fyrisitingar aðrastaðni skipa seg ofta við einari serligari skrivstovu, sum bara hevur projektsamskipan um hendi.</p>
 <p>Skal projektsamskipanin virka í verki, skal verða arbeitt eftir einum greiðum leisti. Verkætlanarleiðararnir skulu vera væl skikkaðir og brúka skipaðar frá boð an ar manngongdir, so projektsamskipanin altíð hevur eitt fullfíggjað og eftirfarandi yvirlit yvir, á hvørjum stigi tær ymisku verkætlanirnar eru. Pro jekt samskipanin kann síggja møguleikar at skapa syn ergi, optimera nýtslu na av samlaða tilfeinginum og tryggja tilknýtið til yvirskipaðar ætlanir.</p>
 <p>Føroya landsstýri</p>
-<p xml:lang="nno">Mai 2014www.tinganes.fo</p>
+<p>Mai 2014www.tinganes.fo</p>
 </body></document>

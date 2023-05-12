@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>159</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>toskurin_a_foroyabanka2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Eyðfinn Magnussen</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>159</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>toskurin_a_foroyabanka2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Eyðfinn Magnussen</p>
 <p>Fróðskaparsetur Føroya</p>
 <p><em type="bold">Føroyabanki </em></p>
 <p><em type="bold">Botnurin </em></p>
@@ -15,7 +15,7 @@
 <p>Tunga</p>
 <p>Knurrhani</p>
 <p><em type="bold">Fiskaslag </em></p>
-<p xml:lang="dan"><em type="bold">R </em><em type="bold">e </em><em type="bold">la </em><em type="bold">ti </em><em type="bold">v </em><em type="bold">l </em><em type="bold">o </em><em type="bold">n </em><em type="bold">g </em><em type="bold">d </em><em type="bold">( </em><em type="bold">% </em><em type="bold">) </em></p>
+<p><em type="bold">R </em><em type="bold">e </em><em type="bold">la </em><em type="bold">ti </em><em type="bold">v </em><em type="bold">l </em><em type="bold">o </em><em type="bold">n </em><em type="bold">g </em><em type="bold">d </em><em type="bold">( </em><em type="bold">% </em><em type="bold">) </em></p>
 <p><em type="bold">Støddin á føroyabankafiski </em><em type="bold">samanborið við aðrastaðni </em></p>
 <p><em type="bold">Føðin </em></p>
 <p><em type="bold">Hitin við botnin </em>7.58.08.59.0 </p>

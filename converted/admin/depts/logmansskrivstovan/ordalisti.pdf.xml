@@ -1,86 +1,86 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>257</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>orðalisti.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="est">L Ø G M A N S S K R I V S T O V A N</p>
-<p xml:lang="est">P R I M E M I N I S T E R ´ S O F F I C E</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>257</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>orðalisti.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">L Ø G M A N S S K R I V S T O V A N</p>
+<p xml:lang="dan">P R I M E M I N I S T E R ´ S O F F I C E</p>
 <p><em type="bold">Góðkendur løgfrøðiligur orðalisti </em></p>
-<p xml:lang="nob">Adgangskode:</p>
-<p xml:lang="isl">Loyniorð</p>
-<p xml:lang="eng">Afpressing:</p>
-<p xml:lang="isl">Avnoyðsla</p>
-<p xml:lang="nob">Bringe sig i beruset tilstand av egnum ávum gerst rúsaður</p>
-<p xml:lang="ron">Citater:</p>
+<p xml:lang="dan">Adgangskode:</p>
+<p>Loyniorð</p>
+<p xml:lang="dan">Afpressing:</p>
+<p>Avnoyðsla</p>
+<p>Bringe sig i beruset tilstand av egnum ávum gerst rúsaður</p>
+<p xml:lang="dan">Citater:</p>
 <p>Endurtøkur</p>
 <p xml:lang="dan">Etnisk oprindelse:</p>
-<p xml:lang="isl">Etniskur uppruni</p>
+<p>Etniskur uppruni</p>
 <p xml:lang="dan">Fjernelse af organer:</p>
 <p>Lívgagnatøka</p>
-<p xml:lang="nno">Flygte:</p>
+<p xml:lang="dan">Flygte:</p>
 <p>Flýggja</p>
 <p xml:lang="dan">Fornærmelige ord eller handlinger:</p>
-<p xml:lang="isl">Niðrandi orð ella gerðir</p>
+<p>Niðrandi orð ella gerðir</p>
 <p xml:lang="dan">Forstikke</p>
-<p xml:lang="fkv">Burturfjala</p>
+<p>Burturfjala</p>
 <p xml:lang="dan">Forsætligt:</p>
 <p>Tilætlað</p>
 <p xml:lang="dan">Gengivelser:</p>
-<p xml:lang="isl">Endurgevingar</p>
+<p>Endurgevingar</p>
 <p xml:lang="dan">Gerningsmand</p>
-<p xml:lang="isl">Gerningsmaður</p>
-<p xml:lang="nob">Handling:</p>
-<p xml:lang="isl">Gerð</p>
-<p xml:lang="nob">Hindre:</p>
-<p xml:lang="isl">Forða</p>
+<p>Gerningsmaður</p>
+<p xml:lang="dan">Handling:</p>
+<p>Gerð</p>
+<p xml:lang="dan">Hindre:</p>
+<p>Forða</p>
 <p xml:lang="dan">Hvervning til fremmed væbnet styrke:</p>
-<p xml:lang="isl">Útvega fólk til fremmand herlið</p>
-<p xml:lang="nob">Håndhæve:</p>
+<p>Útvega fólk til fremmand herlið</p>
+<p xml:lang="dan">Håndhæve:</p>
 <p>Handhevja</p>
-<p xml:lang="tur">Hæleri:</p>
+<p>Hæleri:</p>
 <p>Fæloynd</p>
 <p xml:lang="dan">Indretning:</p>
 <p>Útbúnað <span type="quote">“tað sum ein er útgjørdur við”</span> – reiðskapur, tól. Nýtt í samband við hjálp til sjúkum og særdum í kríggi.</p>
-<p xml:lang="vep">Kode:</p>
-<p>Kota <span type="quote" xml:lang="fin">“Kota”</span> hevur ein breiðari týdning enn <span type="quote">“loyniorð”</span> Samanber við <span type="quote" xml:lang="swe">“adgangskode”</span></p>
-<p xml:lang="deu">Kredit:</p>
-<p xml:lang="isl">Kredittur</p>
-<p xml:lang="kal">Kriminalforsorg</p>
+<p xml:lang="dan">Kode:</p>
+<p>Kota <span type="quote">“Kota”</span> hevur ein breiðari týdning enn <span type="quote">“loyniorð”</span> Samanber við <span type="quote" xml:lang="dan">“adgangskode”</span></p>
+<p xml:lang="dan">Kredit:</p>
+<p>Kredittur</p>
+<p xml:lang="dan">Kriminalforsorg</p>
 <p>Brotsumsorgan</p>
 <p>Hetta er einans navnið á hugtakið, ikki á stovninum.</p>
-<p xml:lang="est">Legemsangreb:</p>
-<p xml:lang="sme">Likamsálop</p>
-<p xml:lang="ron">Materiel:</p>
+<p xml:lang="dan">Legemsangreb:</p>
+<p>Likamsálop</p>
+<p xml:lang="dan">Materiel:</p>
 <p>Útgerð <span type="quote">“útbúnaður á t.d. skipi, báti o.tíl., hentleikar, reiðskapur, amboð, tól”</span> Nýtt í samband við hjálp til sjúkum og særdum í kríggi.</p>
-<p xml:lang="nob">Medvirke:</p>
+<p xml:lang="dan">Medvirke:</p>
 <p>Viðvirka</p>
 <p xml:lang="dan">Midler:</p>
 <p>Fæ</p>
 <p xml:lang="dan">Offentlig tjeneste eller hverv:</p>
 <p>Tænastu ella starv hjá tí almenna</p>
-<p xml:lang="nob">Opløb:</p>
-<p xml:lang="isl">Ófriðarflokkur</p>
+<p xml:lang="dan">Opløb:</p>
+<p>Ófriðarflokkur</p>
 <p>Hetta er bert galdandi í revsirættarligum høpi. Opløb kann annars hæva rættiliga ólíkar merkingar í donskum</p>
-<p xml:lang="eng">Proformaretshandel:</p>
-<p xml:lang="isl">Sýnisrættargerð</p>
-<p xml:lang="vep">Propagandavirksomhed:</p>
-<p xml:lang="vep">Propagandavirksemi</p>
-<p xml:lang="deu">Ruffer</p>
-<p xml:lang="isl">Ruffari</p>
-<p xml:lang="tur">Rufferi</p>
-<p xml:lang="isl">Ruffarí</p>
+<p xml:lang="dan">Proformaretshandel:</p>
+<p>Sýnisrættargerð</p>
+<p xml:lang="dan">Propagandavirksomhed:</p>
+<p>Propagandavirksemi</p>
+<p>Ruffer</p>
+<p>Ruffari</p>
+<p>Rufferi</p>
+<p>Ruffarí</p>
 <p xml:lang="dan">Seksuel orientering:</p>
 <p>Kynsligur samleiki</p>
-<p xml:lang="nob">Stalking:</p>
+<p>Stalking:</p>
 <p>Tráfylging</p>
-<p xml:lang="est">Strakstilhold</p>
+<p xml:lang="dan">Strakstilhold</p>
 <p>Bráfeingis frástøðuboð</p>
-<p xml:lang="eng">Tilhold</p>
+<p>Tilhold</p>
 <p>Frástøðuboð</p>
-<p xml:lang="nob">Tjenestehandling:</p>
+<p xml:lang="dan">Tjenestehandling:</p>
 <p>Tænastugerð</p>
-<p xml:lang="swe">Uagtsomt:</p>
-<p xml:lang="nob">Av ósketni</p>
-<p xml:lang="nob">Udbytte:</p>
+<p xml:lang="dan">Uagtsomt:</p>
+<p>Av ósketni</p>
+<p xml:lang="dan">Udbytte:</p>
 <p xml:lang="dan">Vinning</p>
 <p xml:lang="dan">Ulovlig omgang med hittegods:</p>
-<p xml:lang="isl">Finningsbrot</p>
-<p xml:lang="nob">Unddrage brev:</p>
+<p>Finningsbrot</p>
+<p xml:lang="dan">Unddrage brev:</p>
 <p>Halda einum brævi aftur</p>
 <p xml:lang="dan">Den undvegne</p>
 <p>Tann Rýmdi</p>

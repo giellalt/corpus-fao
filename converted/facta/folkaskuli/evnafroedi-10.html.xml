@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Evnafrøði 10</title><genre code="facta"/><author><unknown/></author><wordcount>5141</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/vallaerugreinar/evnafroedi-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Evnafrøði 10</title><genre code="facta"/><author><unknown/></author><wordcount>5141</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/vallaerugreinar/evnafroedi-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -14,8 +14,8 @@
 <list><p type="listitem">Kravdar lærugreinar</p>
 <p type="listitem">Vallærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
 <p type="listitem">Alisfrøði 10</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">23. februar 2017 - Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">23. februar 2017 - Enskt 4-10</p>
 <p type="listitem">Evnafrøði 10</p>
 <p type="listitem">Fiskivinna 8-10</p>
 <p type="listitem">Fjølmiðlar 8-10</p>
@@ -39,7 +39,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -68,9 +68,9 @@
 <p>Kjarnaøkini í evnafrøði í 10. flokki eru grundarlagið undir at fakligu málini í lærugreinini verða rokkin.</p>
 <p type="title">Bygnaður hjá evnum</p>
 <p>Økið fevnir um grundevnaskipanin, atombygnaður, mýlfyrimyndir, sýrur, basur og sølt, jon, kolvetni, umframt evnafrøðilig navngeving.</p>
-<p type="title" xml:lang="dan">Evnafrøðilig mongdarrokning</p>
+<p type="title">Evnafrøðilig mongdarrokning</p>
 <p>Arbeitt verðu við hugtøkununum moltal, molarnøgd og konsentratión (við eindini mol/L). Mongdarrokning eftir reaktiónstalvu við moltali verður viðgjørd. Útrokningar verða serliga gjørdar í sambandi við royndararbeiði.</p>
-<p type="title" xml:lang="dan">Evnafrøðilig reaktiónssløg</p>
+<p type="title">Evnafrøðilig reaktiónssløg</p>
 <p>Grundleggjandi reaktiónssløg so sum fellingar, sýru-basureaktiónir og redoxreaktiónir verða viðgjørd, teirra millum brenningar.</p>
 <p>Hugtøkini oxidatión, reduktión og oxidatiónstal, umframt avstemman av reaktiónsskema, verða tikin upp, serliga í sambandi við at redoxreaktiónir verða nýttar í verki.</p>
 <p type="title">Kunnleiki til evni</p>
@@ -116,7 +116,7 @@
 <p type="listitem">at leita fram, velja út og nýta viðkomandi evnafrøðiligar upplýsingar úr ymiskum keldum, m.a. kt-grundaðum vitanarkeldum,</p>
 <p type="listitem">at skráseta og viðgera dátur og eygleiðingar, og greiða frá royndum, bæði munnliga og skrivliga, og</p>
 <p type="listitem">at handfara evnafrøðilig evnir og útgerð í starvsstovuni og heima við hús á skynsaman hátt.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal eftirmetast ávegis í undirvísingargongdini við støði í antin skrivligum ella munnligum framløgum. Næmingurin eigur at hava eina greiða fatan av støðu síni í mun til fakligu málini í lærugreinini, og hann eigur at fáa vegleiðing um, hvussu og hvørjum arbeiðast skal við fyri at røkka málunum.</p>
 <p>Tá ið undirvísingin er liðug, fær næmingurin støðumet. Metið verður givið við støði í málunum í námsætlanini, og tað verður givið við støði í einari heildarmeting av næmingsins førleikum í lærugreinini.</p>
@@ -135,7 +135,7 @@
 <p type="title">Munnligt E-stig</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er neyvt, tulkingin er sera væl grundað, við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini evnafrøði. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Fá og týdningarleys brek kunnu koma fyri.</p>
@@ -221,13 +221,13 @@
 <p>Næmingurin skal hava venjing í at skriva so, at hann eisini skrivliga kann vera partur av toymisarbeiði og verkætlanum. Á tann hátt kann næmingurin verða mentur til at geva og taka ímóti viðmerkingum til skrivlig upprit, sum verða løgd fram. Kunningartøknin letur harumframt upp fyri munagóðum og ítøkiligum møguleikum í sambandi við vegleiðing og umrøðu í sjálvari skrivitilgongdini.</p>
 <p type="title">Samrøða</p>
 <p>Munnliga miðlanin verður best styrkt, um einstaki næmingurin so nógv sum gjørligt sleppur til orðanna. Hetta kann fáast í lag við at lærari og næmingur samrøða sínámillum, og at næmingar samrøða, tveir og tveir og í bólki. Eisini kann hetta verða gjørt við at einstaki næmingurin av og á sleppur at leggja fram tilfar úr tíðarritum o.tíl., ella at halda stuttar fyrilestrar. Eisini framløgur í smærri bólkum kunnu stimbra munnliga táttin hjá næminginum, so hann fær venjing í at brúka móðurmáli í lærugreinuni.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa ymisk sløg teksti í evnafrøði, so sum greinar í dagbløðum, populerum náttúruvísindaligum tíðarritum, úrdráttum úr fakbókum og faktíðarritum, tilfari av internetinum o.tíl. Hetta fyri at kjarnaøki og ískoytisøki skulu verða betur lýst.</p>
 <p>Eitt gott lesiumhvørvi á skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum lesivanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

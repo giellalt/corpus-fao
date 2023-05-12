@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>12626</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>foeroyanattura_havidkringfoeroyar_kap3.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>FØROYA NÁTTÚRA</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>12626</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>foeroyanattura_havidkringfoeroyar_kap3.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>FØROYA NÁTTÚRA</p>
 <p>Lívfrøðiligt margfeldi3</p>
 <p>Havið kring Føroyar</p>
 <p>Eilif Gaard, Bogi Hansen, Jan Arge Jacobsen, Eyðfinn Magnussen, Bjarni Mikkelsen, Bergur Olsen, Petur Steingrund og Jan Sørensen</p>
@@ -24,16 +24,16 @@
 <p><em type="bold">Hav: </em></p>
 <p><em type="bold">Atlants- </em><em type="bold">sjógvur </em></p>
 <p><em type="bold">Íslands- </em><em type="bold">frontur </em>2,4˚C5,2˚C7,6˚C10,0˚C12,4˚C </p>
-<p xml:lang="eng"><em type="bold">Land: </em></p>
+<p><em type="bold">Land: </em></p>
 <p>Hitin í vatnskorpuni millum Ísland, Skotland og Noreg í vikuni 8.-14. desember 1997 við støði í mátingum frá fylgisveini. Hitin er vístur við litum, sum fylgja litstiganum í neðra. Pílarnir vísa vanliga rákið í vatnskorpuni. Fylgisveinamyndin er frá Veðurstovuni í Niðurlondum (KNMI).81012050200</p>
-<p xml:lang="eng">Hiti (°C)</p>
+<p>Hiti (°C)</p>
 <p>Dýpi (m)</p>
 <p><em type="bold">Februar </em></p>
-<p xml:lang="eng"><em type="bold">Mai </em></p>
+<p><em type="bold">Mai </em></p>
 <p><em type="bold">Juli </em></p>
-<p xml:lang="eng"><em type="bold">November </em></p>
-<p xml:lang="eng"><em type="bold">September </em>150100911 </p>
-<p xml:lang="eng"><em type="bold">Mynd 3.3 </em></p>
+<p><em type="bold">November </em></p>
+<p><em type="bold">September </em>150100911 </p>
+<p><em type="bold">Mynd 3.3 </em></p>
 <p>Hitin í teimum ovastu 200 metrunum á einum ávísum staði í Bankarennuni fimm ymiskar dagar í 1998. Um summarið hitna teir ovastu 20-50 metrarnir nógv meir enn tann djúpari sjógvurin.øllum øðrum livandi verum, og viðurskiftini í tí ovasta lagnum eru tí avgerandi fyri, hvat kann liva longri niðri. Á føroyskum havøki er veðrið ógvuliga skiftandi. Upphitingin frá sólini og røringurin frá vindi skifta frá degi til dags, og gróðrarlíkindini eru tí eisini skiftandi úti á opnum havi.</p>
 <p><em type="bold">Tann djúpi sjógvurin </em>Tá ið farið verður niður á størri dýpi, sæst stórur munur millum tær vestaru og tær eystaru leiðirnar. Hetta sæst á mynd 3.4, sum vísir ein skurð tvørtur um Íslandsryggin. Vestan fyri ryggin er heitur atlantssjógvur niður á stór dýpi, men eystanfyri er sjógvurin kaldari enn 0°C frá uml. 500 m dýpi og niður á botn. Tað kemst av tí, at í teimum køldu høvunum langt norðan fyri okkum søkkur kaldur sjógvur úr erva og niður á stór dýpi og fyllir alt dýpið við ísakøldum sjógvi. </p>
 <p>Hesin kaldi sjógvur ferðast á uml. 500-1.000 m dýpi móti okkara leiðum og fer so upp um ryggin út í Atlantshavið. Á mynd 3.4 síggja vit nakað av hesum kalda sjógvi smúgva sær yvir um Íslandsryggin. Hann ferðast eisini suður um okkum, inn í Hetlandsrennuna og gjøgnum Bankarennuna (mynd 3.5), sum er tað djúpasta skarðið í rygginum millum Grønland og Skotland. Tá ið hann er komin út í Atlantshav, søkkur hann skjótt og ferðast víðari út í heimshøvini. Tí sæst ikki so nógv til hansara vestanfyri, og stórur munur verður á hitanum millum tey eystaru og tey vestaru økini á flestum dýpum. Nøkur støð vestanfyri fáa tó tann kalda sjógvin inn á seg meira ella minni regluliga (mynd 3.4 og mynd 3.5) og verða kaldari.</p>
@@ -44,14 +44,14 @@
 <p><em type="bold">Sjóvarhitin </em><em type="bold">juli-august 1994 </em></p>
 <p><em type="bold">Atlantshav </em></p>
 <p><em type="bold">Norskahavið </em></p>
-<p xml:lang="eng"><em type="bold">Íslandsfrontur </em><em type="bold">5 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">3 </em><em type="bold">8 </em><em type="bold">2 </em><em type="bold">1 </em><em type="bold">0 </em><em type="bold">4 </em>&gt;8°C 4° - 8°C 0° - 4°C &lt; 0°C </p>
+<p><em type="bold">Íslandsfrontur </em><em type="bold">5 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">3 </em><em type="bold">8 </em><em type="bold">2 </em><em type="bold">1 </em><em type="bold">0 </em><em type="bold">4 </em>&gt;8°C 4° - 8°C 0° - 4°C &lt; 0°C </p>
 <p><em type="bold">Mynd 3.4 Hiti í sjónum </em></p>
 <p>Ein skurður tvørtur um Íslandsryggin (reyð strika á kortinum).</p>
 <p>Kortið høgrumegin vísir hitan í sjónum á ymiskum dýpum tvørtur um Íslandsryggin.</p>
 <p><em type="bold">Hetland </em></p>
-<p xml:lang="eng"><em type="bold">Ísland </em></p>
+<p><em type="bold">Ísland </em></p>
 <p><em type="bold">Norskahavið </em></p>
-<p xml:lang="eng"><em type="bold">Atlantshav </em>&gt;6˚C&lt;0˚C </p>
+<p><em type="bold">Atlantshav </em>&gt;6˚C&lt;0˚C </p>
 <p><em type="bold">Hetlandsren </em><em type="bold">nan </em></p>
 <p><em type="bold">Mynd 3.5 Yvirlit, hiti í sjónum </em></p>
 <p>Yvirlitsmynd, sum vísir vanliga hitan á uml. 800 m dýpi báðumegin Íslandsryggin. Pílarnir vísa kaldan sjógv, sum fer tvørtur um Íslandsryggin ella gjøgnum Hetlandsrennuna og Bankarennuna.øki, er røringurin. Aldur og streymur fáa røring í sjógvin allastaðni. Tó er streymurin harðari inni á grunnum, og minni sjógvur er at fáa røring í, har tað er grunt. Tey grunnu økini verða tí vanliga rørd so hart, at hiti, saltinnihald og onnur viðurskifti eru óbroytt úr vatnskorpu og niður á botn. Inni á grunnum skal allur sjógvurin um summarið hitast upp, og bara tað ovasta lagið úti á djúpum. Sjógvurin á landgrunninum er tí kaldari enn vatnskorpan longri úti um summarið. Um veturin verður sjógvurin inni á grunnum afturímóti køldur meira enn sjógvurin longri úti. Tí er sjógvurin inni á grunnum á landgrunninum – og helst eisini á Føroyabanka – mestsum alt árið kaldari enn sjógvurin í vatnskorpuni longri úti (mynd 3.6).</p>
@@ -61,12 +61,12 @@
 <p>Hitin á 5 m dýpi (reyð strika) og á 100 m dýpi (blá strika) á djúpum vatni í Bankarennuni og hitin á landgrunninum (grønt) gjøgnum árið.</p>
 <p><em type="bold">Hitin í Bankarennuni á 5 m dýpi Hitin í Bankarennuni á 100 m dýpi </em>5678910111213 </p>
 <p>Jan</p>
-<p xml:lang="eng">Mars</p>
-<p xml:lang="eng">Mai</p>
+<p>Mars</p>
+<p>Mai</p>
 <p>Juli</p>
 <p>Sept</p>
 <p>Nov</p>
-<p xml:lang="eng">Hiti ( C)</p>
+<p>Hiti ( C)</p>
 <p><em type="bold">Landgrunnurin </em></p>
 <p><em type="bold">Mynd 3.7 Fylgisveinamynd </em></p>
 <p>Ein fylgisveinamynd, sum vísir hitan í vatnskorpuni 18. mai 1980. Tey ljósu økini eru kaldari enn tey myrku. Tey <span type="quote">“ullintu”</span> hvítu økini í ovasta høgra horni eru skýggj. Teir reyðu pílarnir vísa høvuðsrákið á teimum grunnu pørtunum á landgrunninum og á Føroyabanka.nógv (mynd 3.8). Eisini har, sum tann kaldi sjógvurin norðaneftir kemur vestur um ryggin og út í Atlantshav, kunnu vera stórar hitabroytingar (mynd 3.5 á bls. 40).</p>
@@ -88,7 +88,7 @@
 <p>Uppi í sjónum verður plantuætið etið av smáum djóraæti. Tað, ið ikki verður etið, søkkur niður á botn, har tað er føði hjá botndjórunum. Plantuátararnir eru sostatt annar liður í føðiketini.</p>
 <p>Í triðja liði er t.d. størri djóraæti, fiska-larvur og uppsjóvarfiskur. Síðan koma t.d. botnfiskar, súgdjór, fuglar og at enda vit menniskju. Seinni í føðiketunum djórini eru, fjølbroyttari er vanliga føði teirra. Djórini í seinnu liðunum í føðiketunum eta eisini ofta úr fleiri liðum, alt eftir hvar mesta og besta føðin er. Í veruleikanum snýr tað seg tí um føðinet, heldur enn føðiketur.</p>
 <p>Av røttum kann alt havið kallast ein vistskipan. Men ein slík skipan er so stór og fjølbroytt, at torført er at fáa yvirlit yvir hana. Tí verða vistskipanir vanliga býttar sundur í smærri eindir, alt eftir hvørjum hugt verður at. Eitt nú eru føroysku firðirnir so ymiskir frá sjónum uttanfyri, at teir í stóran mun virka sum serskildar vistskipanir. Somuleiðis er við t.d. landgrunninum og Føroyabanka. Sjógvurin er so leingi á hesum økjum, at økini kunnu metast sum serskildar vistskipanir. Plantuætið, sum veksur á hesum økjum, er føði hjá djóraæti, ið aftur er føði hjá fiskalarvum, fiskayngli og t.d. nebbasild. Víðari er nebbasild føði hjá botnfiski og sjófugli. Lívrunnið tilfar søkkur eisini niður á botn og føðir tað djóralívið, ið har er. Seinast í føðiketuni eru menniskjuni, ið eta fisk, fugl og hval.</p>
-<p xml:lang="dan">Grønlands -</p>
+<p>Grønlands -</p>
 <p>Skotlandsryggurin</p>
 <p>Atlantssjógvur</p>
 <p>Kaldur sjógvur</p>
@@ -99,15 +99,15 @@
 <p>Bert uml. 10-20% av orkuni í einum liði í føðiketuni verður ført víðari til næsta lið. Restin fer til rørslu og hita. Tískil minkar framleiðslan nógv gjøgnum føðiketuna. Á landi eru flest av teimum djórum, sum vit eta, t.d. seyður og neyt, ið eru plantuátarar og sostatt eru í øðrum liði í føðiketuni. Á sjónum eru t.d. toskur og hýsa í 4. og 5. liði, og tí er teirra framleiðsla í mun til gróðurin nógv minni enn hjá seyði og neytum.</p>
 <p>Samband er ímillum, hvussu støðugt umhvørvið er, og hvussu fjølbroytt plantu- og djóralívið er. Vanliga er plantu- og djóralívið fjølbroytt, tá ið umhvørvið broytist lítið, og øvut. Ógvisligari broytingarnar gerast, færri dýr og plantur klára tær. Eisini plagar djóralívið á botni at gerast meira fjølbroytt, tess meira av lívrunnum tilfari søkkur niður á botn. Men kemur heilt nógv tilfar á botnin, broytast djórasamfeløgini, og lívfrøðiliga margfeldið kann minka.</p>
 <p>Einfaldað yvirlit yvir føðiketur í sjónum.</p>
-<p xml:lang="eng"><em type="bold">Plankton </em></p>
+<p><em type="bold">Plankton </em></p>
 <p>Verur, ið svimja so spakuliga, at tær ikki sjálvar eru førar fyri at gera av, hvar tær skulu vera, men reka frítt við streyminum, nevna vit plankton. Tó kann plankton oftast svimja so mikið, at tað kann gera av, á hvørjum dýpi tað er. Plankton verður vanliga býtt sundur í tveir høvuðsbólkar: Plantuplankton og djóraplankton. Ofta verða hesar verur eisini kallaðar plantu- og djóraæti. Í orðinum æti liggur tó ein annar týdningur, nevniliga at tað er føði hjá onkrum. Nebbasild verður ofta nevnd djóraæti, hóast hon ikki kann sigast at vera djóraplankton, við tað at nebbasild sjálv ger av, hvar hon heldur til í sjónum.</p>
 <p>Plantuplankton er smáar einkyknaðar algur, oftast ímillum 1/100 mm og 1/30 mm til støddar. Hjá summum sløgum eru fleiri algur festar saman, og aðrar liva ein og ein. Tær eru ov smáar til at kunna síggjast við berum eygum. Tá ið nógvar algur eru í sjónum, gerst sjógvurin myrkur ella gruggutur. Á myndini niðanfyri eru víst nøkur dømi um, hvussu planktonalgur kunnu síggja út.</p>
 <p>Gróðurin er vanliga bert í ovastu 50-100 metrunum. Longri niðri í sjónum er oftast ov myrkt. Næstan allur gróðurin í føroyskum sjógvi og havleiðunum nærindis er frá mai til september (mynd 3.10 á bls. 46). Várgróðurin er vanliga nógvur, serliga úti á opnum havi, men skjótt minkar hann nakað, og um summarið kann hann</p>
 <p>Ymisk sløg av plantuplankton, ið eru vanlig í Norðuratlantshavi um várið. vera nakað ójavnur, alt eftir hvussu veðrið er. Um heystið heldur gróðurin mestsum uppat. Inni á landgrunninum – og eisini á Føroyabanka – er vanliga eitt sindur meiri av plantuæti enn úti á opnum havi, og flest ár kemur hann eisini eitt sindur fyrr enn úti á opnum havi.</p>
 <p>Smátt djóraplankton í sjónum etur av plantuplanktoninum. Tað er í høvuðsheitum smá krabbadjór, serliga vatnloppur (Copepoda), uml. 1-3 millimetur til longdar.</p>
 <p>Nógv ymisk sløg eru, og sum heild er munur á sløgunum á landgrunninum og Føroyabanka og teimum á víðum havi. Á landgrunninum – og partvíst eisini á Føroyabanka – eru landgrunssløg saman við sløgum, ið eru komin inn uttaneftir. Um várið og fyrru helvt av summarinum plaga eisini at vera nógvar larvur frá botndjórum og fiskalarvur. Úti á víðum havi kring Føroyar eru færri sløg enn á landgrunninum, og tað týdningarmesta</p>
-<p xml:lang="dan">D024681 01 2 <em type="bold">1997 </em><em type="bold">1998 </em><em type="bold">1999 </em><em type="bold">2000 </em><em type="bold">2001 </em><em type="bold">2002 </em><em type="bold">2003 </em><em type="bold">b </em>0246 </p>
-<p xml:lang="eng">D <em type="bold">a </em></p>
+<p>D024681 01 2 <em type="bold">1997 </em><em type="bold">1998 </em><em type="bold">1999 </em><em type="bold">2000 </em><em type="bold">2001 </em><em type="bold">2002 </em><em type="bold">2003 </em><em type="bold">b </em>0246 </p>
+<p>D <em type="bold">a </em></p>
 <p><em type="bold">Norskahavið </em></p>
 <p><em type="bold">Nøgd av plantuplankton </em></p>
 <p><em type="bold">Nøgd av plantuplankton </em></p>
@@ -144,17 +144,17 @@
 <p>Við undirkjafti</p>
 <p>Bróskfiskar</p>
 <p>Havmýs 5 30</p>
-<p xml:lang="eng"><em type="italic"></em>Gnathostomata <em type="italic"></em></p>
-<p xml:lang="eng">Chondrichtyes</p>
-<p xml:lang="eng"><em type="italic">Holocephali </em></p>
+<p><em type="italic"></em>Gnathostomata <em type="italic"></em></p>
+<p>Chondrichtyes</p>
+<p><em type="italic">Holocephali </em></p>
 <p>Hávar og skøtur 38 800</p>
-<p xml:lang="eng"><em type="italic">Elasmobranchii </em></p>
+<p><em type="italic">Elasmobranchii </em></p>
 <p>Beinfiskar</p>
 <p>Lippufjaðraðir fiskar 0 8</p>
-<p xml:lang="eng">Osteichthyes <em type="italic"></em></p>
-<p xml:lang="eng">Sarcopterygii</p>
+<p>Osteichthyes <em type="italic"></em></p>
+<p>Sarcopterygii</p>
 <p>Strálufjaðraðir fiskar 194 25.000</p>
-<p xml:lang="eng">Actinopterygii</p>
+<p>Actinopterygii</p>
 <p>Høvuðsflokkingarskipan fyri fiskasløgini. Tal á sløgum í Føroyum og í heiminum er víst aftast.</p>
 <p><em type="bold">Mynd 3.11 Fiskayvirlit </em>kunnu eisini liggja langt hvør frá øðrum sum hjá svartkjafti, sum gýtir vestan fyri Bretsku Oyggjarnar og leitar sær føði norðan fyri Føroyar. Flestir uppsjóvarfiskar, sum eru á føroyskum øki, gýta ikki her, teir nýta bert føroyska havøkið sum føðiøki, og føðin er oftast æti. Hinvegin halda flestu botnfiskarnir til á føroyskum havøki alt lívið. </p>
 <p>Fiskasløgini halda til á ymiskum dýpum (mynd 3.12). Summi fiskasløg eru bert á grunnum vatni, sum til dømis toskur, hýsa og nebbasild, og onnur fiskasløg eru bert fingin á djúpum vatni, sum til dømis svartkalvi. Mynd 3.12 vísir, at fiskasløgini so at siga hava býtt dýpini ímillum sín, har tað er ein líðandi gongd frá grunnum út á djúpt vatn. Hetta sundurbýtið eftir dýpi hevur millum annað nakað við hitan í sjónum at gera. Vanliga er sjógvurin lutfalsliga heitur (5-11°C), har dýpið er minni enn 200 m. Á 200-400 m dýpi eystan fyri Føroyar er hitin óstøguður og kann koma niður í 0°C. Vestanfyri er sjógvurin heitari. Djúpari enn 400-500 m er sjógvurin vanliga kaldur (&lt; 0-2°C).</p>
@@ -179,7 +179,7 @@
 <p>Havmús</p>
 <p>Kjaftsvarti hávur</p>
 <p>Silvurmurtur</p>
-<p xml:lang="eng">Brosma</p>
+<p>Brosma</p>
 <p>Kjaftsvarti kongafiskur</p>
 <p>Stóri kongafiskur</p>
 <p>Hvassasprek</p>
@@ -194,17 +194,17 @@
 <p>Rossamakrelur</p>
 <p>Steinbítur</p>
 <p>Knurrhani</p>
-<p xml:lang="dan">Rognkelsi</p>
+<p>Rognkelsi</p>
 <p>Hýsa</p>
 <p>Hvítingur</p>
-<p xml:lang="dan">Kalvi</p>
+<p>Kalvi</p>
 <p>Reyðsprøka</p>
 <p>Tunga</p>
 <p>Makrelur</p>
 <p>Toskur</p>
 <p>Sandsprøka</p>
-<p xml:lang="eng">Nebbasild</p>
-<p xml:lang="eng">Sild</p>
+<p>Nebbasild</p>
+<p>Sild</p>
 <p><em type="bold">Mynd 3.12 Fiskayvirlit </em></p>
 <p>Nøkur botnfiskasløg verða veidd, og árligu nøgdirnar eru vístar í mynd 3.13. Mest verður veitt av upsa, toski og hýsu, men eisini verður nakað veitt av stóra kongafiski, trantkongafiski og svartkalva.</p>
 <p><em type="bold">Lívfrøðin hjá toski á føroyska landgrunninum </em></p>
@@ -217,22 +217,22 @@
 <p>Hýsa <em type="italic">Melanogrammus aeglefinus </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.000 </p>
 <p>Hvítingur <em type="italic">Merlangius merlangus </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 800 </p>
 <p>Kalvi <em type="italic">Hippoglossus hippoglossus </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 </p>
-<p xml:lang="eng">Tunga <em type="italic">Microstomus kitt </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 </p>
-<p xml:lang="eng">Reyðsprøka <em type="italic">Pleuronectes platessa </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 </p>
-<p xml:lang="eng">Havtaska <em type="italic">Lophius piscatorius </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 800 </p>
-<p xml:lang="eng">Brosma <em type="italic">Brosme brosme </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.000 </p>
+<p>Tunga <em type="italic">Microstomus kitt </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 </p>
+<p>Reyðsprøka <em type="italic">Pleuronectes platessa </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 </p>
+<p>Havtaska <em type="italic">Lophius piscatorius </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 800 </p>
+<p>Brosma <em type="italic">Brosme brosme </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.000 </p>
 <p>Longa <em type="italic">Molva molva </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.000 </p>
 <p>Blálonga <em type="italic">Molva dipterygia </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.500 </p>
 <p>Stóri kongafiskur <em type="italic">Sebastes marinus </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . 4.000 </p>
-<p xml:lang="eng">Upsi <em type="italic">Pollachius virens </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35.000 </p>
+<p>Upsi <em type="italic">Pollachius virens </em>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35.000 </p>
 <p>Trantkongafiskur <em type="italic">Sebastes mentella . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </em>6.000 </p>
-<p xml:lang="dan">Svartkalvi <em type="italic">Reinhardtius hippoglossoides </em>. . . . . . . . . . . . . . . . . . . . . . . 3.500 </p>
+<p>Svartkalvi <em type="italic">Reinhardtius hippoglossoides </em>. . . . . . . . . . . . . . . . . . . . . . . 3.500 </p>
 <p>Ársveiða í miðal av teimum týdningarmestu botnfiskasløgunum á føroyska landgrunninum.</p>
 <p>Gýtingarøki hjá toski á føroyska landgrunninum.</p>
 <p>Búning frá rognkorni til toskalarvu.</p>
 <p><em type="bold">Mynd 3.13 Ársveiða </em></p>
 <p><em type="bold">Mynd 3.14 Gýtingarøki </em></p>
-<p xml:lang="dan">Rognkorn</p>
+<p>Rognkorn</p>
 <p>Blommusekkjarlarva</p>
 <p>Larvaeru grynri enn 200 m. Hann er tá uml. 40 cm langur og føðin er framvegis smá krabbadýr og smáur fiskur sum t.d. nebbasild. Tað er eisini tá, hann byrjar at koma inn í fiskiskapin, serstakliga á línu og snellu nær landi. Tá ið uml. eitt ár er farið, og toskurin er 3 ára gamal, gerst hann kynsbúgvin. Hann byrjar at svimja móti gýtingarøkjunum longu í januarmánaði og gýtir í marsmánaði. Eftir gýtingina spjaðist toskurin aftur út um allan landgrunnin.</p>
 <p>Toskurin kann gerast upp til 150 cm langur og 20 ár ella eldri. Tað er tó sera sjáldsamt, at toskur gerst so stórur á føroysku havleiðunum, tí hann verður fiskaður áðrenn. Vanliga verður toskur uml. 10 ára gamal, og tá er hann 120 cm langur.</p>
@@ -259,7 +259,7 @@
 <p>Knurrhani</p>
 <p>Hýsa</p>
 <p>Glýsufiskur</p>
-<p xml:lang="dan">Kalvi</p>
+<p>Kalvi</p>
 <p>Longa</p>
 <p>Skøta</p>
 <p>Agnhøgguslokkur</p>
@@ -269,7 +269,7 @@
 <p>Glashvoysa</p>
 <p>Havtaska</p>
 <p>Stóri kongafiskur</p>
-<p xml:lang="eng">Brosma</p>
+<p>Brosma</p>
 <p>Havmús</p>
 <p>Kjaftsvarti kongafiskur</p>
 <p>Silvurmurtur</p>
@@ -297,7 +297,7 @@
 <p>Ikki er vist, hvørjar ávirkanir sildin hevur á æti á økinum norðan fyri Føroyar, men givið er, at tær stóru nøgdirnar av sild, ið komu inn á føroyskt øki at leita sær føði, tóku ein stóran part av djóraætinum. Hvussu hetta hevur ávirkað onnur djór, fisk, fugl og hval, er ikki gjørligt at meta um.</p>
 <p><em type="bold">Mannaelvdar ávirkanir á fisk </em>Havøkið uttan um Føroyar er av sera stórum týdningi fyri vøkstur hjá flestum av okkara fiskastovnum. Tí er týdningarmikið, at javnvágin í hesi vistskipan ikki fer av lagi av mannaávum. </p>
 <p>Fiskiskapur ávirkar kynsbúning og vøkstur hjá fiski. Um fiskiskapurin er ov harður, gerst tað meira sannlíkt, at fiskur, ið búnast seint, verður fiskaður, áðrenn hann hevur gýtt, og harvið verða færri eftirkomarar í stovninum. Vit kunnu siga, at tað er hend ein broyting í arvfeinginum í stovninum, har fiskurin búnast sum smærri fiskur enn áður. Tað eru fleiri óhepnar avleiðingar av einari tílíkari broyting í</p>
-<p xml:lang="eng">Sild</p>
+<p>Sild</p>
 <p>Gýtingarøkið (G) hjá norðhavssild við vesturstrond Noregs. Yngulin rekur norðureftir til uppvakstrarøkið (U) í Barentshavinum (grønir pílar). Føðiøkið (F) hjá norðhavssildini, ið er búgvin (t.e. 5 ár og eldri), er alt økið norðan fyri Føroyar. Seint á heysti fer sildin inn á vetrarøkið (V) í einum firði innast við Lofot.</p>
 <p><em type="bold">Mynd 3.17 Sild </em>stovnssamansetingini. Í fyrsta lagi kunnu vit vænta, at framleiðslan í stovninum minkar, av tí at árligi vøksturin av fiski minkar, eftir at fiskurin er vorðin kynsbúgvin, og tí verður úrtøkan minni úr stovninum sum frá líður. Í øðrum lagi verður miðalstøddin í fiskiskapinum minni, og við hesum verður eisini úrtøkan og peningaliga virðið úr stovninum minni. Í triðja lagi er tað sera óheppið, tá ið ein tílík broyting í arvfeinginum er farin fram í einum stovni, av tí at tað tekur stovninum langa tíð at koma aftur í rættlag, hóast fiskiskapurin verður linkaður munandi. Sum dømi vigaði ein 5 ára gamal toskur uml. 4,5 kg fyrst í sekstiárunum, men í tíðarskeiðinum 1998-2001 vigaði hann bert 2,3-3,9 kg. Fyri svartkjaft er aldursbýtið broytt munandi hesi seinnu árini. Í 1980-árunum tók fiskiskapurin mest 3-5 ára gamlan svartkjaft, men veiðan í 2000-2002 var mest 2-3 ára gamal fiskur. </p>
 <p>Tekin eru eisini um, at ferðamynstrið hjá norðhavssild broytist við stovnsstøddini og aldursbýtinum. Um stovnurin er stórur, hevur hann tørv á at fara út á hav at leita sær føði. Síðan 1995, tá ið sildin kom í føroyskan sjógv, er ferðamynstrið hjá norðhavssildini broytt, soleiðis at hon fór longri og longri norður aftan á gýtingina um várið, og var ikki á okkara øki í tíðarskeiðnum 1999-2002. Nú er sild aftur at síggja norðanfyri, og í 2005 var heilt væl av sild í føroyskum øki. Ikki er heilt greitt, hví hesar broytingar eru farnar fram. Ein av orsøkunum kann vera broytingar í umhvørvinum, men eisini er hugsandi, at fiskiskapurin hevur minkað um stovnsstøddina, soleiðis at sildini kanska ikki tørvar at fara út á hav at leita sær føði. Tað vísir seg eisini, at tað er tann størra, t.e. eldra sildin, ið ferðast longst suður og vestur í hav at leita sær føði.</p>
@@ -321,8 +321,8 @@
 <p>Seinnu árini er gjørt nógv burtur úr at lýsa korallar og tað ríka dýralívið, sum er knýtt at hesum dýrum. Korallar (Anthozoa) eru samanvaksin smá dýr, sum liva í hópum inni í kálkhúsum, ið korallarnir sjálvir gera. Tað vanligasta koralldýrið í Føroyum er <em type="italic">Lophelia pertusa </em>. Korallar savna sær føði úr sjónum við smáum ørmum. Okkara </p>
 <p>Øðubotnur er víða um á landgrunninum, tó mest inni við land. Tað tykist eisini, sum støddin og skeljastyrkin er ymisk, soleiðis at øðurnar longri úti eru soltnari og minni enn tær, sum liva inni við land. Føðin er ivaleyst orsøkin. Øðan er at finna í hópum. Øður <em type="italic">Modiola </em>eru støðufastar, og sum frá líður gerast øðuhópar búøki hjá øðrum dýrum. Vit kunnu tí tosa um eitt heilt serligt dýrasamfelag, ið er knýtt at øðubotni. </p>
 <p>Á myndini síggjast umframt øðu eisini ljósareytt igulker</p>
-<p xml:lang="eng"><em type="italic">Echinus </em>(a) lúsakrabbar </p>
-<p xml:lang="dan"><em type="italic">Hyas </em>(b) og trøllahummari </p>
+<p><em type="italic">Echinus </em>(a) lúsakrabbar </p>
+<p><em type="italic">Hyas </em>(b) og trøllahummari </p>
 <p><em type="italic">Galatea </em>. Víddin á avmyndaða økinum er 0,87 m2. </p>
 <p>Korallhópur við ljósum livandi korallum og myrkum deyðum korallum.</p>
 <p>Stóra jákupsskelin.</p>

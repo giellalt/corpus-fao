@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1158</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>petersen_hp_navnordaavleidslur_2008.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Navnorðaavleiðslur </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1158</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>petersen_hp_navnordaavleidslur_2008.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Navnorðaavleiðslur </em></p>
 <p>Í morfologi verður millum annað skilt ímillum <em type="bold">bending </em>og <em type="bold">av- </em></p>
 <p>Greinin er í høvuðsheitinum í trimum: fyrst koma kallkynsav-</p>
 <p>Ein onnur avleiðsla í kallkyni er ein nullavleiðsla sum í <em type="bold">at fara </em></p>
@@ -6,9 +6,9 @@
 <p>Nomen agentis orð í føroyskum eru leidd av sagnorðum. Hetta geldur eisini í hinum norðurlandamálunum og germanskum. Eftirfestið er lænt úr latíni - <em type="bold">arius </em>(PEO). Í føroyskum er formurin - <em type="bold">ar </em>og endingin er - <em type="bold">i </em>sum í <em type="bold">at renna </em>=&gt; <em type="bold">renn-ar-i </em>. Eftirfestið svarar til - <em type="bold">er </em>í donskum og enskum. </p>
 <p>Tann vanligasta bendingin í talumáli er sum niðanfyri, men síggj</p>
 <p>Weyhe (1991), har bygdarmál eru viðgjørd.</p>
-<p xml:lang="dan"><em type="bold">Nomen agentis </em></p>
-<p xml:lang="eng"><em type="bold">Veikt bent navnorð </em>rennarigranni </p>
-<p xml:lang="dan">Eintal: Hvørf. renn-ar-igrann-i</p>
+<p><em type="bold">Nomen agentis </em></p>
+<p><em type="bold">Veikt bent navnorð </em>rennarigranni </p>
+<p>Eintal: Hvørf. renn-ar-igrann-i</p>
 <p>Hvønnf.renn-ar-agrann-a</p>
 <p>Hvørjumf. renn-ar-agrann-a</p>
 <p>Fleirtal: Hvørf.renn-ar-irgrann-ar</p>
@@ -39,7 +39,7 @@
 <p>Tann ítøkiliga merkingin kemur uppaftur betur fram í <em type="bold">toyggingur </em></p>
 <p>So skulu nevnast onnur navnorð: <em type="bold">karvingur </em>, <em type="bold">peningur </em>, <em type="bold">salingur </em>, </p>
 <p><em type="bold">Navnorð </em></p>
-<p xml:lang="eng"><em type="bold">Sagnorð </em>bygningurbyggjadegningurdegnadrepningurdrepalesningurlesaloyningurloynamálningurmálaredningurreddarekningurreka(st)skapningurskapaskilningurskilja </p>
+<p><em type="bold">Sagnorð </em>bygningurbyggjadegningurdegnadrepningurdrepalesningurlesaloyningurloynamálningurmálaredningurreddarekningurreka(st)skapningurskapaskilningurskilja </p>
 <p>Summi av hesum navorðunum hava antin eina neiliga ella jaliga</p>
 <p>Onnur navnorð eru <em type="bold">brislingur </em>. </p>
 <p>Navnorðið <em type="bold">døglingur </em>merkti 'høvdingi' í norrønum. Henda merk- </p>
@@ -72,18 +72,18 @@
 <p>Tey eru ikki so nógv. Nøkur eru niðanfyri:</p>
 <p><em type="bold">Sagnorð </em></p>
 <p><em type="bold">Navnorð </em>argaargilsibannabannilsigarteragarterilsiluktaluktilsirimparimpilsirúkarokilsi </p>
-<p xml:lang="eng"><em type="bold">Bókmentalisti: </em></p>
+<p><em type="bold">Bókmentalisti: </em></p>
 <p>Andreasen, P. &amp; Dahl, Á. 1997. <em type="italic">Mállæra. </em>Tórshavn: Føroya </p>
 <p>Skúlabókagrunnur.</p>
-<p xml:lang="dan">Conzett, P. 2004. <em type="italic">"Frå einskap til ulikskap? Ei gransking av </em><em type="italic">genustilhøvet ved avleiingar på -skap i skandinavisk" </em>. Norsk Lingvistisk Tidsskrift 22: 169-173. </p>
-<p xml:lang="eng">Krahe. H &amp; Meid, W. 1967. <em type="italic">Germanische Sprachwissenschaft III. </em></p>
-<p xml:lang="eng"><em type="italic">Wortbildungslehre </em>. Berlin: Walter de Gruyter &amp; Co. </p>
-<p xml:lang="eng">Krahe. H. &amp; Meid, W. 1969. <em type="italic">Germanische Sprachwissenschaft II. </em></p>
-<p xml:lang="eng"><em type="italic">Formenlehre </em>. Berlin: Walter de Gruyter &amp;Co. </p>
-<p xml:lang="eng">Lehmann, W.P. 1958. <em type="italic">"On earlier stages of the Indo-European </em><em type="italic">nominal inflection." </em>Language 34: 179-202. </p>
-<p xml:lang="eng">Leiss, E. 2000. <em type="italic"><span type="quote" xml:lang="eng">"Gender in Old High German"</span> </em>. <em type="italic">In Gender in gram </em><em type="italic">mar and cognition. I: Approaches to gender. II: Manifesta tions of gender </em>, (eds) Barbara Unterbeck &amp; Matti Rissanen. Berlin, New York: Mouton de Gruyter, pp. 237-259. </p>
-<p xml:lang="dan">PEO. 2000. <em type="italic">Politikens etymologiske ordbog </em>. Weyhe, Ei. 1991. <em type="italic">'Pluralis af nomina agentis på -ari i færøsk' </em>. </p>
-<p xml:lang="dan">Danske folkemål 33:263-275.</p>
+<p>Conzett, P. 2004. <em type="italic">"Frå einskap til ulikskap? Ei gransking av </em><em type="italic">genustilhøvet ved avleiingar på -skap i skandinavisk" </em>. Norsk Lingvistisk Tidsskrift 22: 169-173. </p>
+<p>Krahe. H &amp; Meid, W. 1967. <em type="italic">Germanische Sprachwissenschaft III. </em></p>
+<p><em type="italic">Wortbildungslehre </em>. Berlin: Walter de Gruyter &amp; Co. </p>
+<p>Krahe. H. &amp; Meid, W. 1969. <em type="italic">Germanische Sprachwissenschaft II. </em></p>
+<p><em type="italic">Formenlehre </em>. Berlin: Walter de Gruyter &amp;Co. </p>
+<p>Lehmann, W.P. 1958. <em type="italic">"On earlier stages of the Indo-European </em><em type="italic">nominal inflection." </em>Language 34: 179-202. </p>
+<p>Leiss, E. 2000. <em type="italic"><span type="quote">"Gender in Old High German"</span> </em>. <em type="italic">In Gender in gram </em><em type="italic">mar and cognition. I: Approaches to gender. II: Manifesta tions of gender </em>, (eds) Barbara Unterbeck &amp; Matti Rissanen. Berlin, New York: Mouton de Gruyter, pp. 237-259. </p>
+<p>PEO. 2000. <em type="italic">Politikens etymologiske ordbog </em>. Weyhe, Ei. 1991. <em type="italic">'Pluralis af nomina agentis på -ari i færøsk' </em>. </p>
+<p>Danske folkemål 33:263-275.</p>
 <p>Hjalmar P. Petersen</p>
 <p><em type="bold">Lýsingarorð </em></p>
 <p><em type="bold">Navnorð </em>ansinansniágrýtinágrýtnidølskurdølsknierrinernifyrnaðurfyrnifýsinfýsnigírigurgírnihegnigurhegniíðinídnikønurkønilýðinlýdninakinnakniopsinopsniprippinpripnisleiskinsleisknitykkintyknivandinvandni </p>

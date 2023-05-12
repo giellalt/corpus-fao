@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Alis- og evnafrøði 7-9</title><genre code="facta"/><author><unknown/></author><wordcount>5050</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/alis-og-evnafroedi-7-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Alis- og evnafrøði 7-9</title><genre code="facta"/><author><unknown/></author><wordcount>5050</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/alis-og-evnafroedi-7-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -68,9 +68,9 @@
 </list><p type="title">3. Stig og tímatal</p>
 <p>Lærugreinin <em type="italic">Alis- og evnafrøði </em>fevnir um 7.-9. flokk í fólkaskúlanum. Lærugreinin er kravd í 7. flokki og vallærugrein í 8. og 9. flokki. Undirvísingin fevnir um 60 klokkutímar á hvørjum floksstigi, tó 90 klokkutímar á 9. floksstigi. </p>
 <p>Stig</p>
-<p xml:lang="dan">7. fl</p>
-<p xml:lang="dan">8. fl.</p>
-<p xml:lang="dan">9. fl.</p>
+<p>7. fl</p>
+<p>8. fl.</p>
+<p>9. fl.</p>
 <p>klokkutímar</p>
 <p>60</p>
 <p>60</p>
@@ -123,7 +123,7 @@
 <p>Førleikin <em type="italic">at skapa </em>snýr seg í a <em type="italic">lis- og evnafrøði </em>um at gera næmingin tilvitaðan um og líta á egin evni, so hann gerst førur fyri sjálvur at byggja víðari á tað, sum lært er. Næmingurin skal læra, hvussu náttúruvísindini hava verið við til at broytt náttúru, lívsáskoðan, mentan og samfeløg. Næmingurin skal læra, at verkligar royndir og frágreiðingar um alis- og evnafrøðilig viðurskifti eru ein partur av skapandi tilgongdini, sum byggir á hugflog, íblástur og treystleika. Við atliti at búningarstigi og serligu gávum næmingsins verður arbeitt miðvíst við skapandi tilgongdum, sum fremja íblástur og stimbra hugflogið. Við at arbeiða við myndlum lærir næmingurin at meta um dygdina í avrikum hjá sær sjálvum og øðrum. </p>
 <p type="title">Fakligir førleikar</p>
 <p>Lærugreinin <em type="italic">alis- og evnafrøði </em>hevur ávegismál fyri 7. og 8. floksstig og endalig mál fyri 9. floksstig. Ávegismálini eru vegleiðandi, tó soleiðis at skilja, at um munandi frávik koma fyri, skal hetta fráboðast leiðslu skúlans, sum við støði í lýsta tørvinum hevur skyldu til at seta neyðug tiltøk í verk. Verða endaligu málini eftirmett við próvtøku, eru tey bindandi. </p>
-<p type="title" xml:lang="dan">7. floksstig</p>
+<p type="title">7. floksstig</p>
 <p type="title">Ellæra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at síggja mun á leiðarum og isolatorum (ikki-leiðarum)</p>
@@ -143,14 +143,14 @@
 <p type="listitem">at greiða frá atomsamansetingum so sum vatni og carbondioxid</p>
 <p type="listitem">at greiða frá einføldum evnafrøðiligum tilgongdum (t.d hvat hendir, tá ið kol ella hydrogen verða brend)</p>
 <p type="listitem">at arbeiða við atom- og mýlfyrimyndir.</p>
-</list><p type="title" xml:lang="dan">8. floksstig</p>
+</list><p type="title">8. floksstig</p>
 <p type="title">Magnetir</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at greiða frá bygnaðinum í magnetiskum evnum</p>
 <p type="listitem">at greiða frá, hvar magnetir verða nýttar</p>
 <p type="listitem">at magneta</p>
 <p type="listitem">at greiða frá um jarðarmagnetismuna og kumpass.</p>
-</list><p type="title" xml:lang="dan">Elektromagnetisma</p>
+</list><p type="title">Elektromagnetisma</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at gera eina elektromagnet</p>
 <p type="listitem">at finna pólarnar í einari elektromagnet</p>
@@ -179,7 +179,7 @@
 <list><p type="listitem">at greiða frá nøkrum metallum og eginleikum teirra</p>
 <p type="listitem">at greiða frá pH-stiganum og finna pH-virði í ymiskum evnum</p>
 <p type="listitem">at greiða frá sterkum sýrum og sterkum basum.</p>
-</list><p type="title" xml:lang="dan">9. floksstig</p>
+</list><p type="title">9. floksstig</p>
 <p type="title">Ellæra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at gera streym við induktión</p>
@@ -218,8 +218,8 @@
 <p type="listitem">at greiða frá, hvat ein katalysatorur er, og hvussu teir kunnu verða brúktir í gerandisdegnum</p>
 <p type="listitem">at greiða frá um poler/ópoler evni og emulgatorar</p>
 <p type="listitem">at greiða frá positivlistanum.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
-<p type="title" xml:lang="dan">9. floksstig</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
+<p type="title">9. floksstig</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal ávegis í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini. Næmingurin skal hava eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir, munnligar framløgur og skrivligar royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini.</p>
 <p>Eftirmetingarnar skulu skjalfestast skrivliga.</p>
@@ -245,10 +245,10 @@
 <p type="listitem">at taka ymisk faklig sjónarmið uppí og soleiðis seta próvtøkutilfarið í frásjón.</p>
 </list><p>Givið verður eitt próvtal við støði í einari fakligari og einari heildarmeting av samlaða avriki próvtakarans.</p>
 <p type="title">Próvtalslýsingar</p>
-<p type="title" xml:lang="dan">Munnligt 9. floksstig</p>
+<p type="title">Munnligt 9. floksstig</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er neyvt, tulkingin er sera væl grundað, við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini Alis- og evnafrøði. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Fá og týdningarleys brek kunnu koma fyri</p>
@@ -293,12 +293,12 @@
 <p type="title">Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri føroyskum máli sum intellektuellum amboði, ið skal víðka sjónarringin hjá næminginum. Umráðandi er, at næmingurin fær venjing í at brúka móðurmáli í lærugreinini, eitt nú við sínámillum tosi og við tí at siga frá.</p>
 <p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðaval og talugávur mennast. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar (tilevnaðar) samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa nógv. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar skulu lesa eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

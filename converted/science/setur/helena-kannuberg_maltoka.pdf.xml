@@ -1,14 +1,14 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8722</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>helena-kannuberg_máltøka.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="eng">MÁLTØKA</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>8722</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>helena-kannuberg_máltøka.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>MÁLTØKA</p>
 <p>Kanning av máltøku hjá einum føroyskum dreingi</p>
 <p>HELENA KANNUBERG</p>
 <p>STUDNR. 2012.289</p>
 <p>UNDIRVÍSARI: SISSAL M. RASMUSSEN</p>
-<p xml:lang="eng">INNLATINGARFREIST: 06.07.17</p>
+<p>INNLATINGARFREIST: 06.07.17</p>
 <p><em type="bold">Innihaldsyvirlit </em></p>
 <p><em type="bold">Inngangur </em><em type="bold">3 </em><em type="bold">1. Máltøka hjá børnum </em><em type="bold">5 </em><em type="italic">1.1 Mál tillagað børnum </em><em type="italic">5 </em><em type="italic">1.2 Varðar á leiðini </em><em type="italic">6 </em>1.2.1 Samskifti 7 1.2.2 Fonologi 8 1.2.3 Orðatilfeingi 10 <em type="bold">2. Case og háttalag, ið nýtt verður til kanningina </em><em type="bold">11 </em><em type="italic">2.1 Case </em><em type="italic">11 </em><em type="italic">2.2 CDI foreldrafrágreiðingar </em><em type="italic">12 </em><em type="bold">3. Kanningin: viðgerð og meting </em><em type="bold">15 </em><em type="italic">3.1 Dátuinnsavning </em><em type="italic">15 </em><em type="italic">3.2 Savnað úrslit </em><em type="italic">15 </em><em type="italic">3.3 Orðaflokkar </em><em type="italic">17 </em><em type="italic">3.4 Orðatilfeingi </em><em type="italic">19 </em><em type="italic">3.5 Samanburður </em><em type="italic">21 </em></p>
 <p><em type="bold">Niðurstøða </em><em type="bold">24 </em></p>
 <p><em type="bold">Keldulisti </em><em type="bold">26 </em></p>
-<p xml:lang="dan"><em type="bold">Fylgiskjal A </em><em type="bold">27 </em></p>
+<p><em type="bold">Fylgiskjal A </em><em type="bold">27 </em></p>
 <p><em type="bold">Fylgiskjal B </em><em type="bold">32 </em></p>
 <p><em type="bold">Inngangur </em></p>
 <p>Mál er eitt sereyðkenni hjá menniskjum, sum hevur ein týðandi leiklut gjøgnum alt lívið.</p>
@@ -20,7 +20,7 @@
 <p>Fyri at røkka endamálinum við kanningini, eru fleiri bókmentir nýttar:</p>
 <p><em type="italic">Child Language. Acquisition and development </em>(2010) eftir Matthew Saxton viðger gjølla, hvussu børn læra ella menna sítt móðurmál. Í uppgávuni verður bókin nýtt, tá ið málsligt íkast verður viðgjørt, t.v.s. tá ið hugt verður eftir, hvussu vaksin fólk á ymiskar hættir laga sína talu til børn. </p>
 <p><em type="italic">Language Development </em>(2014) eftir Eriku Hoff lýsir gjølla, hvussu máltøka hjá børnum hevur verið granskað bæði søguliga, men eisini í samtíðini. Bókin gevur sostatt eina góða fatan av máltøku hjá børnum, og verður í uppgávuni serliga nýtt til viðgerðina av málsligum varðum, sum smábørn fara ígjøgnum. Hugtøk úr bókini vera harumframt eisini nýtt har, ið tað verður mett viðkomandi. </p>
-<p xml:lang="dan"><em type="italic">Tidlig kommunikativ udvikling </em>(2007) eftir Dorthe Bleses, Werner Vach, Sonju Wehberg, </p>
+<p><em type="italic">Tidlig kommunikativ udvikling </em>(2007) eftir Dorthe Bleses, Werner Vach, Sonju Wehberg, </p>
 <p>Karinu Faber og Thomas O. Madsen er ein brúkaravegleiðing til CDI foreldrakanningina.</p>
 <p>Bókin og føroysku skemuni eru grundarlag undir sjálvari kanningini. Harumframt inniheldur bókin úrslitini hjá donskum børnum, sum harvið kunnu verða sammett við úrslitini í hesari kanningini.</p>
 <p>Omanfyri nevndu verk hava stóran týdning fyri kanningina, men aðrar bókmentir eru tó eisini nýttar, og eru tær at finna afturi í keldulistanum. <em type="bold">1. Máltøka hjá børnum </em><em type="bold">1.1 Mál tillagað børnum </em></p>
@@ -40,7 +40,7 @@
 <p>Øll trý stigini eru týdningarmiklir varðar á leiðini, men serliga týdningarmikil er gongdin frá perlokusjonerum til illokusjonerar talugerðir. Hetta lop er treytað av eini stórari kognitivari menning. Tá ið børn gerast før fyri at útinna lokusjonerar talugerðir, eru tey nevniliga før fyri at samskifta við ein persón um ein lut. Hetta verður eisini kallað fyri <em type="italic">joint attention </em>, t.e. felags uppmerksemi. Sambært Tomasello hevur hesin eginleiki saman við førleikanum at fata onnur sum samskiftisligar verur jaliga ávirkan á máltøku hjá børnum. Tess fleiri støður við felags uppmerksemi, tess betur gerst hvørt einstakt barn fyri málsliga. Sambært Tomasello kemst hetta av, at mál einans er eitt slag av felags uppmerksemi: menniskju nýta mál fyri at ávirka og manipulera við uppmerksemi hjá øðrum (Tomasello 2003:21). Hoff vísir harafturímóti á, at børn eisini læra mál í samfeløgum, har ið tað ikki er vanligt hjá vaksnum at tosa við børn, sum ikki duga at tosa. </p>
 <p>Hetta vil siga, at børn, sum ikki uppliva felags uppmerksemi ella fáa líknandi íkast, kortini læra seg mál (Hoff 2014:78). Uttan at taka dagar ímillum, um tað er Hoff ella Tomasello, sum hevur rætt, so ber kortini at sláa fast, at børn úr báðum samfelagssløgum fara gjøgnum fleiri samskiftislig stig gjøgnum sítt fyrsta liviár, ið ávirkar teirra samskiftisligu evni, ið er ein fortreyt fyri máltøku. <em type="bold">1.2.2 Fonologi </em></p>
 <p>Mál er sett saman av ljóðeindum. Skulu børn menna sítt mál, mugu tey fyrst læra seg ljóðeindirnar, sum móðurmálið er sett saman av. Føroysk børn skulu sostatt læra seg føroyskar ljóðeindir. Hóast kanningar vísa, at børn longu í móðurlívi kenna ljóð og røddir aftur, so eru tey ikki beinanvegin før fyri sjálvi at framleiða ljóð. Við støði í Stark metir</p>
-<p>Hoff, at børn gjøgnum fyrsta liviárið fara ígjøgnum fimm ljódlig menningarstig. Hesi stigini hava hvør síni eyðkenni, og eru øll týdningarmikil. Serliga týdningarmikil eru tó triðja, fjórða og fimta stig, ið tískil verða viðgjørd nærri niðanfyri. Hesi verða nevnd fyri ávíkavist <span type="quote" xml:lang="eng">“vocal play”</span> t.e. raddarspæl, <span type="quote" xml:lang="eng">“canonical babbling”</span> t.e. regluligt pjátr og <span type="quote" xml:lang="dan">“variegated babbling”</span> t.e. fjølbroytt pjátr:9</p>
+<p>Hoff, at børn gjøgnum fyrsta liviárið fara ígjøgnum fimm ljódlig menningarstig. Hesi stigini hava hvør síni eyðkenni, og eru øll týdningarmikil. Serliga týdningarmikil eru tó triðja, fjórða og fimta stig, ið tískil verða viðgjørd nærri niðanfyri. Hesi verða nevnd fyri ávíkavist <span type="quote">“vocal play”</span> t.e. raddarspæl, <span type="quote">“canonical babbling”</span> t.e. regluligt pjátr og <span type="quote">“variegated babbling”</span> t.e. fjølbroytt pjátr:9</p>
 <p>Raddarspæl: hetta stig varir frá børn eru uml. 4-7 mánaðir gomul. Í hesum tíðarskeiðinum økist nýtslan av sjálvljóðs- og hjáljóðslíknandi ljóðum munandi. Smábørn tykjast her at fáa størri ræði á framleiðslu síni, umframt at tey seta ljóðini saman á ymiskar hættir.Virði á ljóðunum, sum børn framleiða, er tengt av teirra markmáli, t.e. málinum, ið tey læra seg (Hoff 2009:143).10</p>
 <p>Regluligt pjátr: hetta stig varir frá børn eru uml. 6-9 mánaðir gomul. Úttalan á pjátrinum broytist her í mun til stigið áðrenn. Í hesum stiginum duga børn at framleiða verulig sjálvljóð og hjáljóð. Harumframt endurtaka børn ymiskar ljóðeindir, stavilsi, ferð eftir ferð, t.d. [dada]. Talan er um perlokusjonerar talugerðir, t.v.s. at børn ikki framleiða hesar ljóðstreymar fyri at samskifta við onnur. Børn kunnu t.d. sita einsamøll aftanfyri í bili ella í rimaseingini og pjátra, uttan at vísa tekin um, at tey ynskja uppmerksemi frá øðrum (Hoff 2009: 143).</p>
 <p>Fjølbroytt pjátr: hetta er seinasta stig, sum børn fara ígjøgnum, áðrenn tey byrja at práta, og er ein víðari menning av undanfarna stigi. Børn gerast her før fyri at framleiða fleiri ljóð, bæði sjálvljóð og hjáljóð, umframt at tey megna at seta fleiri ljóð saman (Hoff 2009: 144). Pjátrið byrjar her at líkjast veruligum práti.</p>
@@ -88,18 +88,18 @@
 <p>Miðalvarping</p>
 <p>Sagnorð</p>
 <p>Fyrisetingar og hjáorðnavnorð, miðalvarpingar, sagnorð og fyrisetingar og hjáorð. Orðatilfeingið hjá dreinginum gjøgnum hettta tíðarskeiðið er tískil sett saman av orðum úr hesum flokkum.</p>
-<p>Lagt verður fyri at hyggja eftir navnorðunum. Í 1:0 liggja navnorðini á einum deildum fyrstaplássi saman við miðalvarpingum, meðan tey í 1:1-1:3 í miðal liggja 2,3 orð niðanfyri miðalvarpingarnar. Í 1:4 broytist støðan tó, og megnar navnorðaflokkurin við einum størri vøkstri enn undanfarnu mánaðir at yvirhála miðalvarpingarnar og endar sostatt á einum fyrstaplássi. At navnorðini í 1:4 við 45,95% enda við at vera best umboðaði orðaflokkurin, er ikki óvanligt. Nógvar kanningar vísa nevniliga, at navnorð vanliga er størsti orðaflokkur hjá smáum børum (Hoff 2009:188-189). Hetta kemst av teirri orsøk, at børn fyrst siga tey orð, ið tey duga at knýta eina meining at. Verður hugt nærri eftir, hvat tað er, sum eyðkennir navnorðini hjá dreinginum, so er tað júst tað, at orðini antin vísa til ítøkiligar persónar s.s. <span type="quote">“mamma”</span> og <span type="quote" xml:lang="eng">“babba”</span> ella ítøkiligar lutir s.s. <span type="quote">“bað”</span>. Hinvegin dugir drongurin eingi navnorð fyri kenslur ella hugtøk, ið eru at meta sum úrtøkilig.</p>
-<p>Síðan verður hugt eftir miðalvarpingunum. Í 1:0 liggja miðalvarpingarnar á einum deildum fyrsta plássi saman við navnorðunum, meðan tær í 1:1-1:3 í miðal liggja 2,3 orð omanfyri navnorðini. Miðalvarpingarnar hava ein støðugan vøkstur gjøgnum alt tíðarskeiðið, og førir hetta við sær, at tær í 1:4 enda á einum øðrum plássi við 40,54%, tí navnorðini gera eitt lop tann mánaðin. Miðalvarpingarnar umboða smáorð ella ljóð, sum vera nýtt í talu, fyri at vísa kenslur ella hvørjum hýri vit eru í. Sum dømi um smáorð ber til at nevna, at drongurin sigur <span type="quote">“hey”</span>, <span type="quote" xml:lang="dan">“bei”</span> og <span type="quote">“takk”</span>. Hann sigur eisini ljóðið <span type="quote">“bø”</span>, tá ið hann vísur andlitið eftir at hava krógvað tað aftanfyri eitthvørt. Millum miðalvarpingarnar hjá dreinginum ber eisini til at finna ljóð, sum verða nýtt, tá ið rópt verður á kríatúr ella fyri at herma eftir kríatúrum. Dømi um slík ljóðhermandi orð eru t.d. <span type="quote" xml:lang="dan">“mæ mæ”</span> og <span type="quote" xml:lang="eng">“voff voff”</span>. Orsøkin til at hesin flokkurin er so stórur partur av samlaða orðatilfeinginum hjá dreinginum er óivað knýtt at royndum, sum drongurin gjøgnum gerandisdagin fær.</p>
-<p>Kanningar vísa nevniliga, at royndir hava ávirkan á fyrstu orðini hjá børnum (Hoff 2009:188). Drongurin hevur sostatt upplivað nógvar støður, har ið heilsað hevur verið við orðunum <span type="quote">“hey”</span> ella <span type="quote" xml:lang="dan">“bei”</span>, umframt at drongurin hevur hoyrt djóraljóð, antin verulig ella tá ið persónar herma. Øll orðini í hesum flokkinum hava eitt stavilsi, og eru sostatt rímiliga løtt at læra seg at úttala.</p>
-<p>Væl niðanfyri navnorðini liggur triði flokkurin, ið eru fyrisetingar og hjáorð. Hesi eru flokkað saman, av tí at tey eru so fá. Hesin bólkurin gerst ikki virkin fyrr enn í 1:2, tá ið tvær fyrisetingar og eitt hjáorð gerast partur av virkna orðatilfeingi hansara. Gjøgnum kannaða tíðarskeiðið gerst mongdin ikki størri, og tískil er linjan vatnrøtt skeiðið út. Í 1:4 telur hesin flokkur 8,11%. Drongurin sigur bæði <span type="quote" xml:lang="eng">“ubbisey/ubba”</span> (upp) og <span type="quote">“upp”</span>. At <span type="quote">“upp”</span> í roynd og veru kemur tvær ferðir fyri, hevur sína orsøk. Í skemanum stendur <span type="quote" xml:lang="eng">“ubbisey/ubba”</span> undir pinkubarnamáli, meðan <span type="quote">“upp”</span> stendur undir fyrisetingum, hjáorðum o.ø. Sambært mammuni hoyrir drongurin bæði frá ymiskum persónum í húskinum, og hevur hetta ført við sær, at hann brúkar báðar formarnar. Mamman veit tó ikki at siga, um eitt ávíst mynstur er í hansara nýtslu av ávíkavist <span type="quote" xml:lang="eng">“ubbisey/ubba”</span> og <span type="quote">“upp”</span>.</p>
+<p>Lagt verður fyri at hyggja eftir navnorðunum. Í 1:0 liggja navnorðini á einum deildum fyrstaplássi saman við miðalvarpingum, meðan tey í 1:1-1:3 í miðal liggja 2,3 orð niðanfyri miðalvarpingarnar. Í 1:4 broytist støðan tó, og megnar navnorðaflokkurin við einum størri vøkstri enn undanfarnu mánaðir at yvirhála miðalvarpingarnar og endar sostatt á einum fyrstaplássi. At navnorðini í 1:4 við 45,95% enda við at vera best umboðaði orðaflokkurin, er ikki óvanligt. Nógvar kanningar vísa nevniliga, at navnorð vanliga er størsti orðaflokkur hjá smáum børum (Hoff 2009:188-189). Hetta kemst av teirri orsøk, at børn fyrst siga tey orð, ið tey duga at knýta eina meining at. Verður hugt nærri eftir, hvat tað er, sum eyðkennir navnorðini hjá dreinginum, so er tað júst tað, at orðini antin vísa til ítøkiligar persónar s.s. <span type="quote">“mamma”</span> og <span type="quote">“babba”</span> ella ítøkiligar lutir s.s. <span type="quote">“bað”</span>. Hinvegin dugir drongurin eingi navnorð fyri kenslur ella hugtøk, ið eru at meta sum úrtøkilig.</p>
+<p>Síðan verður hugt eftir miðalvarpingunum. Í 1:0 liggja miðalvarpingarnar á einum deildum fyrsta plássi saman við navnorðunum, meðan tær í 1:1-1:3 í miðal liggja 2,3 orð omanfyri navnorðini. Miðalvarpingarnar hava ein støðugan vøkstur gjøgnum alt tíðarskeiðið, og førir hetta við sær, at tær í 1:4 enda á einum øðrum plássi við 40,54%, tí navnorðini gera eitt lop tann mánaðin. Miðalvarpingarnar umboða smáorð ella ljóð, sum vera nýtt í talu, fyri at vísa kenslur ella hvørjum hýri vit eru í. Sum dømi um smáorð ber til at nevna, at drongurin sigur <span type="quote">“hey”</span>, <span type="quote">“bei”</span> og <span type="quote">“takk”</span>. Hann sigur eisini ljóðið <span type="quote">“bø”</span>, tá ið hann vísur andlitið eftir at hava krógvað tað aftanfyri eitthvørt. Millum miðalvarpingarnar hjá dreinginum ber eisini til at finna ljóð, sum verða nýtt, tá ið rópt verður á kríatúr ella fyri at herma eftir kríatúrum. Dømi um slík ljóðhermandi orð eru t.d. <span type="quote">“mæ mæ”</span> og <span type="quote">“voff voff”</span>. Orsøkin til at hesin flokkurin er so stórur partur av samlaða orðatilfeinginum hjá dreinginum er óivað knýtt at royndum, sum drongurin gjøgnum gerandisdagin fær.</p>
+<p>Kanningar vísa nevniliga, at royndir hava ávirkan á fyrstu orðini hjá børnum (Hoff 2009:188). Drongurin hevur sostatt upplivað nógvar støður, har ið heilsað hevur verið við orðunum <span type="quote">“hey”</span> ella <span type="quote">“bei”</span>, umframt at drongurin hevur hoyrt djóraljóð, antin verulig ella tá ið persónar herma. Øll orðini í hesum flokkinum hava eitt stavilsi, og eru sostatt rímiliga løtt at læra seg at úttala.</p>
+<p>Væl niðanfyri navnorðini liggur triði flokkurin, ið eru fyrisetingar og hjáorð. Hesi eru flokkað saman, av tí at tey eru so fá. Hesin bólkurin gerst ikki virkin fyrr enn í 1:2, tá ið tvær fyrisetingar og eitt hjáorð gerast partur av virkna orðatilfeingi hansara. Gjøgnum kannaða tíðarskeiðið gerst mongdin ikki størri, og tískil er linjan vatnrøtt skeiðið út. Í 1:4 telur hesin flokkur 8,11%. Drongurin sigur bæði <span type="quote">“ubbisey/ubba”</span> (upp) og <span type="quote">“upp”</span>. At <span type="quote">“upp”</span> í roynd og veru kemur tvær ferðir fyri, hevur sína orsøk. Í skemanum stendur <span type="quote">“ubbisey/ubba”</span> undir pinkubarnamáli, meðan <span type="quote">“upp”</span> stendur undir fyrisetingum, hjáorðum o.ø. Sambært mammuni hoyrir drongurin bæði frá ymiskum persónum í húskinum, og hevur hetta ført við sær, at hann brúkar báðar formarnar. Mamman veit tó ikki at siga, um eitt ávíst mynstur er í hansara nýtslu av ávíkavist <span type="quote">“ubbisey/ubba”</span> og <span type="quote">“upp”</span>.</p>
 <p>Síðsti og niðasti flokkurin í ritmynd 3.2 er sagnorð. Sagnorð gerast partur av orðatilfeinginum hjá dreinginum í 1:1, tá ið hann dugir at siga sagnorðini <span type="quote">“namma”</span> (eta) og <span type="quote">“adda”</span>. Hetta er tann orðaflokkurin, sum við sínum tveimum sagnorðum er minst umboðaður í virkna orðatilfeinginum hjá dreinginum, og telur í 1:4 einans 5,41%.</p>
 <p>Kanningar hava víst á, at sagnorð koma seinni í virkna orðatilfeingi hjá børnum enn navnorð, umframt at tey einans eru ein lítil partur av samlaða orðatilfeinginum (Hoff 2009:189). Hetta er galdandi hjá hesum dreinginum, men drongurin er harumframt eitt dømi uppá, at sagnorðini eisini koma aftaná miðalvarpingar. Við hesum eru orðaflokkarnir, sum eru umboðaðir í virkna orðatilfeinginum hjá dreinginum liðugt viðgjørdir. <em type="bold">3.4 Orðatilfeingi </em></p>
 <p>Áhugavert er at hyggja nærri eftir sjálvum orðunum, sum eru grundarlagið undir kanningini. Viðkomandi at kanna er, um tey orð, sum gerast partur av virkna orðatilfeinginum hjá dreinginum, vera verandi, ella um orð detta burtur aftur, meðan onnur orð leggjast afturat. Tað er nevniliga soleiðis, at hóast børn eitt ávíst tíðarskeið duga at siga eitt ávíst orð, so merkir tað ikki, at orðið gerst fastur partur av virkna orðatilfeinginum hjá barninum fyri tað (Hoff 2009:192).</p>
-<p>Grundleggjandi rákið gjøgnum alt tíðarskeiðið er, at orð, sum fyrst gerast partur av virkna orðatilfeinginum hjá dreinginum, vera verandi, men nøkur fá undantøk eru tó, og verða tvey viðgjørd nærri her. Lagt verður fyri við orðinum <span type="quote" xml:lang="dan">“omma”</span>. Drongurin sigur <span type="quote" xml:lang="dan">“omma”</span> bæði í 1:0 og í 1:1, men eftir hetta fer orðið úr virkna orðatilfeingi hansara. Í dátunum sæst tó, at drongurin framhaldandi skilur orðið, hann gevst bara at siga tað. Orsøkin til at <span type="quote" xml:lang="dan">“omma”</span> dettur úr aftur virkna orðatilfeinginum er uttan iva, at orðið ljódliga er ov tørført fyri dreingin at siga. Eftir at hava sagt <span type="quote" xml:lang="dan">“omma”</span> týðiliga nakrar ferðir í stutta tíðarskeiðinum, byrjaði drongurin brádliga at siga tað somikið ótýðiliga, at einans mamman og omman vóru førar fyri at skilja tað. Trupulleikin var serliga byrjanin av orðinum, ið er runda bakgómaljóðið [ɔ]. Drongurin dugdi brádliga ikki longur at framleiða tað ljóðið, men broytti tað til órunda bakgómaljóðið [a]. Hetta førdi við sær, at [ɔm:a] brádliga varð til [amna].</p>
+<p>Grundleggjandi rákið gjøgnum alt tíðarskeiðið er, at orð, sum fyrst gerast partur av virkna orðatilfeinginum hjá dreinginum, vera verandi, men nøkur fá undantøk eru tó, og verða tvey viðgjørd nærri her. Lagt verður fyri við orðinum <span type="quote">“omma”</span>. Drongurin sigur <span type="quote">“omma”</span> bæði í 1:0 og í 1:1, men eftir hetta fer orðið úr virkna orðatilfeingi hansara. Í dátunum sæst tó, at drongurin framhaldandi skilur orðið, hann gevst bara at siga tað. Orsøkin til at <span type="quote">“omma”</span> dettur úr aftur virkna orðatilfeinginum er uttan iva, at orðið ljódliga er ov tørført fyri dreingin at siga. Eftir at hava sagt <span type="quote">“omma”</span> týðiliga nakrar ferðir í stutta tíðarskeiðinum, byrjaði drongurin brádliga at siga tað somikið ótýðiliga, at einans mamman og omman vóru førar fyri at skilja tað. Trupulleikin var serliga byrjanin av orðinum, ið er runda bakgómaljóðið [ɔ]. Drongurin dugdi brádliga ikki longur at framleiða tað ljóðið, men broytti tað til órunda bakgómaljóðið [a]. Hetta førdi við sær, at [ɔm:a] brádliga varð til [amna].</p>
 <p>Næsta dømi um orð, ið dettur úr aftur virkna orðatilfeinginum hjá dreinginum, er orðið <span type="quote">“klappa”</span>. Hetta orðið kemur fyri í 1:1, men dettur síðan burtur aftur og kemur ikki aftur.</p>
 <p>Í dátunum sæst tó, at orðið gjøgnum alt tíðarskeiðið er partur av óvirkna orðatilfeinginum.</p>
-<p>Mamman upplýsti, at um onnur søgdu <span type="quote">“klappa”</span>, so klappaði sonurin. Støðan við hesum orðinum er ikki tann sama sum við <span type="quote" xml:lang="dan">“omma”</span>, t.v.s. at úttalan hjá dreinginum broyttist.</p>
-<p>Mamman hevur nevniliga upplýst, at drongurin hvørki nevnir orðið ella nakað, ið hon fær sett í samband við eina roynd at siga orðið. Verður í hesum sambandi hugt nærri eftir rúgvumikla tilfarinum hjá Deb Roy (Roy 2011), so vísa ljóðupptøkur í hansara verkætlan, hvussu drongurin í teirri kanningini gjøgnum eitt langt tíðarskeið lærdi seg at siga <span type="quote" xml:lang="eng">“water”</span>. Frá tí at tað fyrstu ferð eydnaðist honum at siga orðið, gekk rúm tíð, áðrenn <span type="quote" xml:lang="eng">“water”</span> gjørdist fastur partur av virkna orðatilfeinginum. Áhugavert við hansara rúgvumikla tilfari er, at tað eisini fevnir um allar tær sokallaðu <em type="italic">miseydnaðu </em>royndirnar hjá dreinginum at siga <span type="quote" xml:lang="eng">“water”</span>. Sostatt ber neyvt til at lurta eftir, hvussu broytingin ella ljódliga menningin spakuliga fer fram, inntil orðið endaliga gerst fastur partur av virkna orðatilfeinginum hjá tí dronginum. Mett verður, at tað sama ger seg galdandi í hesi kanningini, t.v.s. at hóast mamman ikki er før fyri at skilja tað, tá ið drongurin roynir at siga <span type="quote">“klappa”</span>, so ger hann tað óivað kortini. Við hesum síðsta døminum ber til at taka samanum og siga, at bæði orðini eru dømi um, at tað hjá dreinginum kemur fyri, at orð, sum gerast partur av bæði virkna og óvirkna orðatilfeingi hansara, av ymiskum orsøkum detta burtur aftur. <em type="bold">3.5 Samanburður </em></p>
+<p>Mamman upplýsti, at um onnur søgdu <span type="quote">“klappa”</span>, so klappaði sonurin. Støðan við hesum orðinum er ikki tann sama sum við <span type="quote">“omma”</span>, t.v.s. at úttalan hjá dreinginum broyttist.</p>
+<p>Mamman hevur nevniliga upplýst, at drongurin hvørki nevnir orðið ella nakað, ið hon fær sett í samband við eina roynd at siga orðið. Verður í hesum sambandi hugt nærri eftir rúgvumikla tilfarinum hjá Deb Roy (Roy 2011), so vísa ljóðupptøkur í hansara verkætlan, hvussu drongurin í teirri kanningini gjøgnum eitt langt tíðarskeið lærdi seg at siga <span type="quote">“water”</span>. Frá tí at tað fyrstu ferð eydnaðist honum at siga orðið, gekk rúm tíð, áðrenn <span type="quote">“water”</span> gjørdist fastur partur av virkna orðatilfeinginum. Áhugavert við hansara rúgvumikla tilfari er, at tað eisini fevnir um allar tær sokallaðu <em type="italic">miseydnaðu </em>royndirnar hjá dreinginum at siga <span type="quote">“water”</span>. Sostatt ber neyvt til at lurta eftir, hvussu broytingin ella ljódliga menningin spakuliga fer fram, inntil orðið endaliga gerst fastur partur av virkna orðatilfeinginum hjá tí dronginum. Mett verður, at tað sama ger seg galdandi í hesi kanningini, t.v.s. at hóast mamman ikki er før fyri at skilja tað, tá ið drongurin roynir at siga <span type="quote">“klappa”</span>, so ger hann tað óivað kortini. Við hesum síðsta døminum ber til at taka samanum og siga, at bæði orðini eru dømi um, at tað hjá dreinginum kemur fyri, at orð, sum gerast partur av bæði virkna og óvirkna orðatilfeingi hansara, av ymiskum orsøkum detta burtur aftur. <em type="bold">3.5 Samanburður </em></p>
 <p>Fyri at fáa eina betri fatan av máltøkuni hjá dreinginum, er gott at síggja, hvussu hansara máltøka er í mun til onnur børn. Best hevði verið at samanborið við føroysk miðaltøl, ið eisini eru grundað CDI foreldrafrágreiðingar, men av tí at slík tøl ikki eru tøk, er valt at samanbera við donsk miðaltøl, ið eru grundað á CDI foreldrafrágreiðingar, ið vórðu savnað í 2003 og 2004 og síðan viðgjørd og útgivin í bókini <em type="italic">Tidlig kommunikativ </em><em type="italic">udvikling </em>(2007). Hetta er donsk tvørskurðarkanning, ið fevndi um meira enn 6000 børn í aldrinum 8-30 mánaðir. Talan er um ein av heimsins størstu kanningum av sínum slag, og fevnir m.a. um meira enn 3,6 milliónir orð hjá donskum børnum (Bleses, Vach, </p>
 <p>Wehberg, Faber og Madsen 2007:10). Børnini í kanningini eru einmælt donsk børn, ið lúka allar vanligar treytir fyri at læra mál. Børn, ið hava foreldur við langum útbúgvingum, eru tó yvirumboða sammett við danska samfelagsbygnaðin, og kann hetta føra við sær, at miðaltølini eru betri enn veruliga danska miðaltalið. Kanningin fevnir bæði um <em type="italic">CDI – orð og keipur </em>og <em type="italic">CDI –orð og setningar, </em>men samanborið verður einans við <em type="italic">CDI – orð og keipur </em>, og tíðarskeiðið er avmarkað til einans at fevna um 1:0-1:4, t.e. sama tíðarskeið, sum verður kannað hjá føroyska dreinginum. Fyri at samanbera verða donsku úrslitini sett inn í ritmynd 3.3 saman við úrslitunum hjá føroyska dreinginum. </p>
 <p>Ritmyndin vísir sostatt, hvussu nógv orð drongurin skilur, og hvussu nógv orð hann bæði skilur og sigur, frá tí at hann var 12-16 mánaðir gamal, umframt at ritmyndin eisini vísur somu miðaltøl hjá donskum børnum.</p>
@@ -119,23 +119,23 @@
 <p>Byrjað var við at hyggja eftir, hvussu nógv orð drongurin skilur, og hvussu nógv orð hann bæði skilur og sigur gjøgnum kannaða tíðarskeiðið. Síðan varð sjóneykan sett á hansara virkna orðatilfieingi, og varð hugt eftir, hvørjir orðaflokkar eru umboðaðir í hansara virkna orðatilfeingi gjøgnum tíðarskeiðið, kanningin fór fram. Eftir tað var kannað, um tað eru tey somu orðini, sum ganga aftur gjøgnum alt tíðarskeiðið, ella um nakað av útskifting fer fram.</p>
 <p>Úrslitið av kanningini er, at drongurin fylgir einum vanligum mynstri viðvíkjandi máltøku. Gjøgnum kannaða tíðarskeiðið skilir hann fleiri orð, enn hann sigur, samstundis sum at orð allatíðina leggjast afturat bæði virkna og óvirkna orðatilfeinginum. Í virkna orðatilfeingi hansara eru navnorð, miðalvarpingar, fyrisetingar, hjáorð og sagnorð umboðað. Tey flestu orðini, sum hann lærir at siga, gerast fastur partur av orðatilfeingi hansara, men summi orð hvørva aftur. Við at seta hansara máltøku upp í móti donskum miðaltølum kom fram, at drongurin var hampiliga væl fyri. Gjøgnum tíðarskeiðið skilur hann allatíðina færri orð enn donsku børnini í miðal gera, men hinvegin dugdi hann at siga fleiri orð enn tey. Um mamma hansara ynskir, at hann skal gerast enn betri fyri, verður viðmælt, at drongurin fær enn meiri málsligt íkast, umframt at hann upplivir fleiri løtur við felags uppmerksemi.</p>
 <p><em type="bold">Keldulisti </em></p>
-<p xml:lang="eng"><em type="bold">Bókmentir </em></p>
+<p><em type="bold">Bókmentir </em></p>
 <p><em type="bold">Bleses, Dorthe, Faber, Karina, Madsen, Tomas O., Wehberg, Sonja og Vach, </em></p>
-<p xml:lang="dan"><em type="bold">Werner. </em>2007. <em type="italic">Tidlig kommunikativ udvikling. Verktøj til beskrivelse af sprogtilegnelse </em><em type="italic">baseret på CDI-forældrerapportundersøgelser af danske normalthørende og </em><em type="italic">hørehæmmede børn. </em>Odense: Syddansk Universitetsforlag. </p>
-<p xml:lang="eng"><em type="bold">Clark, Eve V. </em>2009. <em type="italic">First Language Acquisition. </em>Cambridge: Cambridge University </p>
-<p xml:lang="eng">Press.</p>
-<p xml:lang="eng"><em type="bold">Hoff, Erika. </em>2009. <em type="italic">Language Development. </em>Belmont: Wadsworth. </p>
-<p xml:lang="eng"><em type="bold">Hoff, Erika. </em>2014. <em type="italic">Language Development. </em>Belmont: Wadsworth. </p>
-<p xml:lang="eng"><em type="bold">Saxton, Matthew. </em>2010. <em type="italic">Child Language. Aquistion and development. </em>London, </p>
-<p xml:lang="eng">Thousand Oaks, New Delhi og Singapore: Sage Publications Ltd.</p>
-<p xml:lang="eng"><em type="bold">Tomasello, Michael . </em>2003. <em type="italic">Constructing a Language. A Usage-Based Theory of </em></p>
-<p xml:lang="eng"><em type="italic">Language Acquisition. </em>Cambridge and London: Harvard University Press. </p>
-<p xml:lang="dan"><em type="bold">Vagle, Wenche; Sandvik, Margareth; Svenning, Jan. </em>2008. <em type="italic">Tekst og kontekst. En </em><em type="italic">innføring i tekstlingvistikk og pragmatikk. </em>Oslo: J. W. Cappelens Forlag. </p>
+<p><em type="bold">Werner. </em>2007. <em type="italic">Tidlig kommunikativ udvikling. Verktøj til beskrivelse af sprogtilegnelse </em><em type="italic">baseret på CDI-forældrerapportundersøgelser af danske normalthørende og </em><em type="italic">hørehæmmede børn. </em>Odense: Syddansk Universitetsforlag. </p>
+<p><em type="bold">Clark, Eve V. </em>2009. <em type="italic">First Language Acquisition. </em>Cambridge: Cambridge University </p>
+<p>Press.</p>
+<p><em type="bold">Hoff, Erika. </em>2009. <em type="italic">Language Development. </em>Belmont: Wadsworth. </p>
+<p><em type="bold">Hoff, Erika. </em>2014. <em type="italic">Language Development. </em>Belmont: Wadsworth. </p>
+<p><em type="bold">Saxton, Matthew. </em>2010. <em type="italic">Child Language. Aquistion and development. </em>London, </p>
+<p>Thousand Oaks, New Delhi og Singapore: Sage Publications Ltd.</p>
+<p><em type="bold">Tomasello, Michael . </em>2003. <em type="italic">Constructing a Language. A Usage-Based Theory of </em></p>
+<p><em type="italic">Language Acquisition. </em>Cambridge and London: Harvard University Press. </p>
+<p><em type="bold">Vagle, Wenche; Sandvik, Margareth; Svenning, Jan. </em>2008. <em type="italic">Tekst og kontekst. En </em><em type="italic">innføring i tekstlingvistikk og pragmatikk. </em>Oslo: J. W. Cappelens Forlag. </p>
 <p><em type="bold">Hansen, Zakaris Svabo, Jacobsen, Jógvan í Lon og Jonas, Dianne </em>. 1997. <span type="quote">“Um hvussu føroysk børn læra føroyskt – fyribils úrslit”</span>. <em type="italic">Málting </em>nr. 19: 10-16. </p>
 <p><em type="bold">Tilfar av alnótini </em></p>
-<p xml:lang="eng"><em type="bold">Roy, Deb. </em>2011. <span type="quote" xml:lang="eng">“The birth of a word”</span>: https://www.ted.com/talks/deb_roy_the_birth_of_a_word?language=en#t-88499 01.17.17 </p>
-<p xml:lang="eng"><em type="bold">Roy, Deb </em>. 2015. <span type="quote" xml:lang="eng">“Predicting the birth of a spoken word”</span>: http://www.pnas.org/content/112/41/12663.full.pdf 01.07.17 </p>
-<p xml:lang="dan"><em type="bold">Fylgiskjal A </em></p>
+<p><em type="bold">Roy, Deb. </em>2011. <span type="quote">“The birth of a word”</span>: https://www.ted.com/talks/deb_roy_the_birth_of_a_word?language=en#t-88499 01.17.17 </p>
+<p><em type="bold">Roy, Deb </em>. 2015. <span type="quote">“Predicting the birth of a spoken word”</span>: http://www.pnas.org/content/112/41/12663.full.pdf 01.07.17 </p>
+<p><em type="bold">Fylgiskjal A </em></p>
 <p>Niðanfyri eru orðini, sum drongurin skilur og skilur og sigur mánað fyri mánað. Orðini standa bólkað á sama hátt, sum tey bólkað í <em type="italic">CDI – orð og keipur. </em><em type="bold">1:0 </em></p>
 <p><em type="bold">Skilur </em></p>
 <p>Pinkubarnamál: mæ, namma (eta), ubbisey/ubba (upp).</p>
@@ -146,12 +146,12 @@
 <p>Spæl og gerandisløtur: bei, góða nátt, hey, sova, nei, shhh/hússj, spæla bø, takk, trilla.</p>
 <p>Orð um gerðir: drekka, eta, klappa, lesa.</p>
 <p>Hjáorð o.a.: ikki, meira.</p>
-<p xml:lang="eng"><em type="bold">Tils. 31 </em></p>
+<p><em type="bold">Tils. 31 </em></p>
 <p><em type="bold">Skilir og sigur </em></p>
 <p>Ymisk ljóð og djóraljóð: mæ mæ, voff voff.</p>
 <p>Fólk: babba, omma, mamma.</p>
 <p>Spæl og gerandisløtur: hey.</p>
-<p xml:lang="eng"><em type="bold">Tils. 6 </em><em type="bold">1:1 </em></p>
+<p><em type="bold">Tils. 6 </em><em type="bold">1:1 </em></p>
 <p><em type="bold">Skilur </em></p>
 <p>Pinkubarnamál: adda (út at ganga), bibbar (fulgar), dada (bei ella út), mæ, namma (eta), nina, ubbisey/ubba (upp). <em type="bold"></em></p>
 <p>Ymisk ljóð og djóraljóð: brmm (billjóð), mæ mæ, voff voff.</p>
@@ -163,14 +163,14 @@
 <p>Orð um gerðir: drekka, eta, klappa, klemma, lesa, mussa, sova</p>
 <p>Fyrsetingar, hjáorð o.a.: upp.</p>
 <p>Hjáorð o.a.: ikki, meira.</p>
-<p xml:lang="eng"><em type="bold">Tils. 43 </em></p>
+<p><em type="bold">Tils. 43 </em></p>
 <p><em type="bold">Skilur og sigur </em></p>
 <p>Pinkubarnamál: bibbar (fulgar), mæ, namma (eta).</p>
 <p>Ymisk ljóð og djóraljóð: brmm (billjóð), mæ mæ, voff voff.</p>
 <p>Fólk: babba, omma, mamma.</p>
 <p>Spæl og gerandisløtur: bei, hey, spæla bø, takk.</p>
 <p>Orð um gerðir: klappa.</p>
-<p xml:lang="eng"><em type="bold">Tils. 14 </em><em type="bold">1:2 </em></p>
+<p><em type="bold">Tils. 14 </em><em type="bold">1:2 </em></p>
 <p><em type="bold">Skilur </em></p>
 <p>Pinkubarnamál: adda (út at ganga), bibbar (fuglar), dada (bei ella út), gagga (dunna), mæ, namma (eta), nina, ubbisey/ubba (upp), voffur (hundur).</p>
 <p>Ymisk ljóð og djóraljóð: Avv!, áh áh, brmm (billjóð), mm mm, mjav, muh, mæ mæ, voff voff.</p>
@@ -186,7 +186,7 @@
 <p>Orð sum lýsa: svong/svangur.</p>
 <p>Fyrisetingar, hjáorð o.a. upp, út, við.</p>
 <p>Hjáorð o.a.: ikki, meira.</p>
-<p xml:lang="eng"><em type="bold">Tils. 64 </em></p>
+<p><em type="bold">Tils. 64 </em></p>
 <p><em type="bold">Skilur og sigur </em></p>
 <p>Pinkubarnamál: adda (út at ganga), dada (bei ella út), gagga (dunna), mæ, namma (eta),</p>
 <p>Ymisk ljóð og djóraljóð: avv!, brmm brmm (billjóð), mm mm, mæ mæ, voff voff.</p>
@@ -194,7 +194,7 @@
 <p>Fólk: abbi, babba, navn á pedagodi/dagrøktara, mamma.</p>
 <p>Spæl og gerandisløtur: bei, hey, nei, spæla bø, takk.</p>
 <p>Fyrisetingar, hjáorð o.a.: upp, við.</p>
-<p xml:lang="eng"><em type="bold">Tils. 22 </em><em type="bold">1:3 </em></p>
+<p><em type="bold">Tils. 22 </em><em type="bold">1:3 </em></p>
 <p><em type="bold">Skilur </em></p>
 <p>Pinkubarnamál: adda (út at ganga), bibbar (fuglar), dada (bei ella út) gagga (dunna), maua (ketta), mua, mæ, namma (eta), nina, ubbisey/ubba (upp), voffur.</p>
 <p>Ymisk ljóð og djóraljóð: avv!, áh áh, brmm (billjóð), gvagg gvagg, kykkeliky, mm mm, mjav, muh, mæ mæ, voff voff.</p>
@@ -213,7 +213,7 @@
 <p>Spurnarorð: ha?</p>
 <p>Fyrisetingnar, hjáorð o.a.: upp, út, við.</p>
 <p>Hjáorð o.a.: ikki, meira</p>
-<p xml:lang="eng"><em type="bold">Tils. 91 </em></p>
+<p><em type="bold">Tils. 91 </em></p>
 <p><em type="bold">Skilur og sigur </em></p>
 <p>Pinkubarnamál: dada (bei ella út), gagga (dunna), maua (ketta), mua, mæ, namma (eta), ubbisjey/ubba (upp).</p>
 <p>Ymisk ljóð og djóraljóð: avv!, brmm (billjóð), gvagg gvagg, mm mm, mæ mæ, voff voff.</p>
@@ -222,7 +222,7 @@
 <p>Spæl og gerandisløtur: bað, bei, hey, nei, spæla bø, takk.</p>
 <p>Spurnarorð: ha?</p>
 <p>Fyrisetingnar, hjáorð o.a.: upp, við.</p>
-<p xml:lang="eng"><em type="bold">Tils. 27 </em><em type="bold">1:4 </em></p>
+<p><em type="bold">Tils. 27 </em><em type="bold">1:4 </em></p>
 <p><em type="bold">Skilur </em></p>
 <p>Pinkubarnamál: adda, babu (bilur), bibbar (fuglar), dada, gagga (dunna), maua (ketta), mua, mæ, nalli (nalvi), namma (eta), nina, ubbisey/ubba (upp), voffur.</p>
 <p>Ymisk ljóð og djóraljóð: avv!, áh áh, brmm (billjóð), gvagg gvagg, kykkeliky, mm mm, mjav, muh, mæ mæ, voff voff.</p>
@@ -241,7 +241,7 @@
 <p>Spurnarorð: ha?</p>
 <p>Fyrisetingar, hjáorð o.a.: upp, út, við.</p>
 <p>Hjáorð o.a.: ikki, meira.</p>
-<p xml:lang="eng"><em type="bold">Tils. 97 </em></p>
+<p><em type="bold">Tils. 97 </em></p>
 <p><em type="bold">Skilir og sigur </em></p>
 <p>Pinkubarnamál: adda, babu (bilur), gagga (dunna), maua (ketta), mua, mæ, nalli (nalvi), namma (eta), ubbisey/ubba (upp).</p>
 <p>Ymisk ljóð og djóraljóð: avv!, áh áh, brmm (billjóð), gvagg gvagg, mm mm, mjav, muh, mæ mæ, voff voff.</p>
@@ -252,7 +252,7 @@
 <p>Spæl og gerandisløtur: bað, bei, hey, nei, spæla bø, takk.</p>
 <p>Spurnarorð: ha?</p>
 <p>Fyrisetingar, hjáorð o.a.: upp, við.</p>
-<p xml:lang="eng"><em type="bold">Tils. 37 </em></p>
+<p><em type="bold">Tils. 37 </em></p>
 <p><em type="bold">Fylgiskjal B </em></p>
 <p>Niðanfyri eru orðini, sum drongurin skilur og sigur bólkað í orðaflokkar mánað fyri mánað. <em type="bold">1:0 </em></p>
 <p>Navnorð: babba, omma, mamma.</p>

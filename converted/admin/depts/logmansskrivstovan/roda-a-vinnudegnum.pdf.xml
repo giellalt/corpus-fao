@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>843</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>røða-á-vinnudegnum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nno"><em type="bold">F Ø R O Y A L A N D S S T Ý R I </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>843</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>røða-á-vinnudegnum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan"><em type="bold">F Ø R O Y A L A N D S S T Ý R I </em></p>
 <p><em type="bold">Røða løgmans á Vinnudegnum 2019 </em></p>
 <p>Góðan dagin øll somul, góðan dagin góða vinna!</p>
 <p>Saman við fólkinum eru tit motorurin í okkara samfelag!</p>
@@ -6,7 +6,7 @@
 <p>Tí mugu vit áhaldandi betra um møguleikarnar hjá vinnuni at vaksa og mennast.</p>
 <p>Og tí er neyðugt at bøta um marknaðaratgongdina hjá vinnuni út í heim.</p>
 <p>Hetta er vinnupolitiska kósin hjá nýggja landsstýrinum.</p>
-<p xml:lang="smj">Ja.</p>
+<p>Ja.</p>
 <p>Kanska stór og ambitiøs mál.</p>
 <p>Men eisini neyðug mál fyri at hava eitt kappingarført samfelag. Tí saman við raska fólkinum, ið her býr, vilja vit hava eitt samfelag í serflokki.</p>
 <p>Vit vilja gera okkara til, at vit fáa eina enn sterkari og kappingarførari vinnu í Føroyum. ---</p>
@@ -31,7 +31,7 @@
 <p>Eisini mugu vit tora at viðgera ognarlutin hjá landinum í fleiri vinnufyritøkum.</p>
 <p>Og vit í landsstýrinum ætla, at privata vinnan skal fáa møguleikan at bjóða seg fram at veita almennar tænastur, har tað kann gerast við fyrimuni fyri borgaran. Eg skal kortini her gera vart við, at tað almenna framhaldandi fer at veita allar kjarnuvælferðartænastur. ---</p>
 <p>Skal eg leggja hondina á hjarta, so haldi eg, at vit í Føroyum mugu gerast betri til at tosa saman og samstarva. Vinnan.</p>
-<p xml:lang="isl">Politikarar. Fakfeløgini og aðrir viðkomandi áhugabólkar.</p>
+<p>Politikarar. Fakfeløgini og aðrir viðkomandi áhugabólkar.</p>
 <p>Skulu vit fáa meira burtur úr, má samskiftið og samstarvið millum partarnar styrkjast.</p>
 <p>Tí komi eg í dag við einari ítøkiligari áheitan til tykkum:</p>
 <p>Latið okkum tosa meira saman. Latið okkum styrkja samstarvið.</p>

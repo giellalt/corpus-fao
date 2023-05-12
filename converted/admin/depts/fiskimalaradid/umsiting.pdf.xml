@@ -1,8 +1,8 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6175</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>umsiting.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Umsitingarætlan </em><em type="bold">fyri </em><em type="bold">toska-, hýsu- og upsastovnarnar </em><em type="bold">í føroyskum sjógvi </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6175</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>umsiting.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Umsitingarætlan </em><em type="bold">fyri </em><em type="bold">toska-, hýsu- og upsastovnarnar </em><em type="bold">í føroyskum sjógvi </em></p>
 <p><em type="bold">Upprit frá arbeiðsbólki, settur av </em><em type="bold">landsstýrismanninum </em><em type="bold">í fiskivinnumálum </em></p>
-<p xml:lang="deu"><em type="bold">Oktober 2011 </em>2 3 </p>
-<p xml:lang="isl"><em type="bold">Innihald </em></p>
-<p xml:lang="isl">Samandráttur ..................................................................................................................................................... 4 1.</p>
+<p xml:lang="dan"><em type="bold">Oktober 2011 </em>2 3 </p>
+<p><em type="bold">Innihald </em></p>
+<p>Samandráttur ..................................................................................................................................................... 4 1.</p>
 <p>Bakgrund og arbeiðið hjá bólkinum ........................................................................................................... 5 2.</p>
 <p>Krøv um burðardyggan fiskiskap ................................................................................................................ 6 3.</p>
 <p>Vísindaliga ráðgevingin ............................................................................................................................... 7 4.</p>
@@ -11,7 +11,7 @@
 <p>Uppskot um eina umsitingarætlan fyri botnfisk í føroyskum sjógvi ........................................................ 10 7.</p>
 <p>Átøk at betra um grundarlagið undir umsitingini av botnfiski í føroyskum sjógvi ................................... 12</p>
 <p>Fylgiskjal : Uppskot um eina umsitingarætlan fyri tosk, hýsu og upsa í føroyskum sjógvi .............................. 13 4</p>
-<p xml:lang="isl"><em type="bold">Samandráttur </em></p>
+<p><em type="bold">Samandráttur </em></p>
 <p>Ein arbeiðsbólkur, sum landsstýrismaðurin í fiskivinnumálum setti í august 2011, hevur gjørt uppskot til eina umsitingarætlan fyri fiskiskapin eftir toski á landgrunninum, og hýsu og upsa í føroyskum sjógvi.</p>
 <p>Føroyskir myndugleikar hava ongantíð sett sær ítøkiligar ætlanir fyri fiskiskapin eftir botnfiski í føroyskum sjógvi fyri at tryggja burðardyggan fiskiskap. Tørvur er á slíkum umsitingarætlanum. Ikki bert sum eitt amboð í okkara egnu umsiting, men eisini mótvegis umheiminum fyri at fáa fiskiskapin góðkendan sum burðardyggan og samsvarandi vísindaligari ráðgeving.</p>
 <p>Ein partur av eini umsitingarætlan er ein veiðiregla, sum setir út í kortið, hvussu fiskastovnarnir skulu røkjast og fiskiskapurin skipast í framtíðini. Veiðireglan er eitt slag av tilbúgvingarætlan, sum sigur, at tiltøk skulu setast í verk, tá ávaringarklokkurnar ringja, og vandi er fyri, at fiskastovnarnir nærkast einum niðara vandamarki.</p>
@@ -36,7 +36,7 @@
 <p>Hesar endamálsorðingar eru rættiliga breiðar. Í stuttum er tó talan um eitt stovnsrøktarendamál, eitt búskaparligt endamál og eitt samfelagsligt endamál. Stovnsrøktarendamálið er rokkið, um gýtingarstovnurin er omanfyri ávísa minstustødd, og at veiðitrýstið síðani er so, at ikki ov nógv verður veitt úr stovninum á hvørjum ári.</p>
 <p>Búskaparliga endamálið er rokkið, um fiskiveiðan innan fyri hesar karmar er før fyri at útvega fiskimonnum rímiliga úrtøku, at nóg mikið er til rakstur og kapitalútreiðslur, at møguleiki er fyri, at fiskiflotin kann endurnýggjast, og at tilfeingisrentan kemur samfelagnum til góðar.</p>
 <p>Samfelagsliga endamálið snýr seg um at tryggja inntøku og arbeiðsmøguleikar kring alt landið.</p>
-<p>Við eini umsitingarætlan verða breiðu endamálsorðingarnar í lógini raðfestar og gjørdar ítøkiligari, so tær kunnu brúkast í praktiska politikkinum. Tað snýr seg um at seta orð á hugtakið <span type="quote" xml:lang="isl">“burðardygd”</span>.</p>
+<p>Við eini umsitingarætlan verða breiðu endamálsorðingarnar í lógini raðfestar og gjørdar ítøkiligari, so tær kunnu brúkast í praktiska politikkinum. Tað snýr seg um at seta orð á hugtakið <span type="quote">“burðardygd”</span>.</p>
 <p><em type="bold">Altjóða krøv um burðardyggan fiskiskap </em>Í altjóða samanhangi eru fleiri sáttmálar, yvirlýsingar og leiðreglur, har Føroyar, saman við øðrum londum, hava fest á blað meginreglur um burðardyggan fiskiskap. Nógvar av hesum meginreglum eru longu, ella koma at verða, eitt krav, sum verður nýtt fyri at ein ávísur fiskiskapur skal fáa heitið <span type="quote">“burðardyggur”</span>. </p>
 <p>Í hesum sambandi skal fyrst verða víst til <em type="italic">Havrættarsáttmálan hjá ST </em>frá 1982 (staðfestur av </p>
 <p>Løgtinginum í 2003), sum gevur strandarlondum rætt til at gagnnýta livandi náttúrutilfeingi í heimasjógvi, men sum eisini áleggur londunum skyldur. Strandarlandið skal tryggja, at livandi tilfeingið ikki verður trároynt, og skal seta í verk tiltøk til tess at tryggja, at stovnarnir verða varðveittir á eini legu, sum gevur mest varandi úrtøkuna (maximum sustainable yield, MSY).</p>
@@ -47,22 +47,22 @@
 <p>Privat feløg, t.d. Marine Stewardship Council (MSC), hava boðið seg fram fyri m.ø. evropeiskum framleiðarum og sølufyritøkum at góðkenna, at vørurnar lúka hesar treytir. Í hesum sambandi skal eisini vera víst á, at vísindaliga ráðgevingin frá ICES hevur sera stóran týdning, tí tær fyritøkur, ið veita góðkenning um burðardyggan fiskiskap, styðja seg fyrst og fremst til ICES ráðgevingina. <em type="bold">3. Vísindaliga ráðgevingin </em></p>
 <p>Setningurin hjá arbeiðsbólkinum er at gera eitt upprit um eina umsitingarætlan, sum í best møguligan mun tryggjar burðardygga gagnnýtslu av tilfeinginum, og har vísindaligu tilmælini skulu fylgjast, tá ið fiskiorkan, kvotur og fiskidagar verða ásett.</p>
 <p>Vísindaligu tilmælini um fiskiskapin eftir toski, hýsu og upsa fáa føroyskir myndugleikar frá Havstovuni. Hesi tilmæli byggja vanliga á tríggjar meginreglur:</p>
-<p xml:lang="eng">Vistskipanarliga sjónarmiðið (ecosystem approach), fyrivarnisreglan (precautionary approach) og mestu varandi úrtøkuna (Maximum Sustainable Yield, MSY).</p>
+<p>Vistskipanarliga sjónarmiðið (ecosystem approach), fyrivarnisreglan (precautionary approach) og mestu varandi úrtøkuna (Maximum Sustainable Yield, MSY).</p>
 <p><em type="bold">Vistskipanarliga sjónarmiðið </em>Vistskipanarliga sjónarmiðið kann allýsast upp á fleiri mátar. Í stuttum gongur tað út uppá, at umsitingin av fiskiskapinum eigur at síggjast í eini heild, og at atlit eiga at verða tikin fyri øllum vistfrøðiligum viðurskiftum av týdningi. </p>
 <p>Lívfrøðiliga merkir tað, at í stýringini av fiskiveiðuni skal ein hava í huga sambandið millum ymisku djóra- og plantuverurnar og tess umhvørvi í vistskipanini.</p>
-<p xml:lang="isl"><em type="bold">Fyrivarnisreglan </em></p>
+<p><em type="bold">Fyrivarnisreglan </em></p>
 <p>Fyrivarnisreglan skal nýtast í breiðum høpi til tess at tryggja livandi tilfeingið í havinum, og at trot á haldgóðum vísindaligum upplýsingum ikki skal nýtast sum grundgeving fyri at lata vera við at fara undir varðveitingar- og umsitingartiltøk.</p>
 <p>Lívfrøðiliga miðar fyrivarnisreglan eftir, at gýtingarføri parturin av einum fiskastovni altíð er nóg stórur til, at hann er førur fyri at endurnýggja seg sjálvan og klárar at framleiða eina líkinda tilgongd í vanligum náttúruviðurskiftum.</p>
 <p><em type="bold">MSY-hugtakið og tilvísingarvirði </em>ICES er í ferð við at broyta sín leist fyri ráðgeving soleiðis, at dentur verður lagdur á málið um mestu varandi veiðu (Maximum Sustainable Yield, MSY), ið samstundis er burðardygt. Hetta merkir, at tilvísingarvirði verða sett fyri teir ymsu stovnarnar, og so skal ráðgevingin meta um stovnsstøddir og veiðitrýst í mun til hesi virði. Tilvísingarvirðið fyri gýtingarstovn nevnist MSY Btrigger og fyri veiðitrýst FMSY. </p>
 <p>MSY hugtakið er víst á mynd 1 við einum hugsaðum dømi. Á myndini eru tveir y-‐ásir, vinstrumegin er veiðan, høgrumegin gýtingarstovnurin, og x-‐ásin vísir veiðitrýstið (fiskideyðin F). Myndin byggir á eitt sonevnt produktiónsmodell, har til ber at rokna eitt veiðitrýst (FMSY), og har stovnurin, sum frá líður, vil geva ta størstu varandi veiðuna (MSY). Meiningin er so, at veiðitrýstið skal regulerast soleiðis, at tað í miðal verður FMSY. Reguleringin kann gerast við at áseta kvotur ella eina hóskandi veiðiorku (t.d. tal á fiskidøgum), fyri at røkka málinum.</p>
 <p>Grundsjónarmiðið í MSY-hugsanini er, at veiðitrýstið er tann variabulin, vit kunnu gera nakað beinleiðis við í reguleringini av fiskiskapinum. Vit kunnu í minni mun stýra stovnsstøddini, m.a. tí, at stovnarnir eisini verða nógv ávirkaðir av skiftandi náttúruviðurskiftum.8</p>
 <p><em type="bold">Mynd 1. </em>Ørvurin vísir tað veiðitrýstið (FMSY), ið sum frá líður í miðal gevur hægstu varandi veiðuna. (X-‐ásur: Veiðitrýst (F). 1. Y-‐ásur: Veiða. 2. Y-‐ásur: Gýtingarstovnur). </p>
-<p><em type="bold">Umsitingarætlanir og veiðireglur </em>Ein týdningarmikil partur av eini umsitingarætlan eru reglur, sum greitt tilskila mannagongdir og leiðreglur fyri avgerðum um, hvussu fiskiskapurin skal skipast tað komandi tíðarskeiðið. Hetta er kjarnin í hugtakinum veiðiregla (á enskum <span type="quote" xml:lang="eng">“harvest control rule”</span>, HCR). Veiðireglan sigur, hvussu vit røkka settum málum, hvat skal gerast, um veiðireglurnar ikki halda, og hvussu skipanin skal fáast aftur á kós. Um fiskastovnarnir eru sera illa fyri, tosar mann ofta um ein <span type="quote" xml:lang="eng">“recovery plan”</span> – eina endurreisingarætlan fyri fiskastovnarnar. Mynd 2 er ætlað at vísa høvuðstættirnar í eini veiðireglu, og hvussu veiðireglan virka. </p>
-<p xml:lang="isl">Veiðistrýst, F</p>
-<p xml:lang="deu">FMSY</p>
-<p xml:lang="ita">BMSY-trigger</p>
-<p xml:lang="isl">Gýtingarstovnur, B</p>
-<p xml:lang="isl"><em type="bold">Mynd 2 </em>. Veiðiregla, sum byggir á MSY-sjónarmiðið </p>
+<p><em type="bold">Umsitingarætlanir og veiðireglur </em>Ein týdningarmikil partur av eini umsitingarætlan eru reglur, sum greitt tilskila mannagongdir og leiðreglur fyri avgerðum um, hvussu fiskiskapurin skal skipast tað komandi tíðarskeiðið. Hetta er kjarnin í hugtakinum veiðiregla (á enskum <span type="quote" xml:lang="dan">“harvest control rule”</span>, HCR). Veiðireglan sigur, hvussu vit røkka settum málum, hvat skal gerast, um veiðireglurnar ikki halda, og hvussu skipanin skal fáast aftur á kós. Um fiskastovnarnir eru sera illa fyri, tosar mann ofta um ein <span type="quote" xml:lang="dan">“recovery plan”</span> – eina endurreisingarætlan fyri fiskastovnarnar. Mynd 2 er ætlað at vísa høvuðstættirnar í eini veiðireglu, og hvussu veiðireglan virka. </p>
+<p>Veiðistrýst, F</p>
+<p>FMSY</p>
+<p xml:lang="dan">BMSY-trigger</p>
+<p>Gýtingarstovnur, B</p>
+<p><em type="bold">Mynd 2 </em>. Veiðiregla, sum byggir á MSY-sjónarmiðið </p>
 <p>Stovnsstøddin, ið sum frá líður gevur størstu varandi veiðuna, verður nevnd BMSY. Hendan støddin er trupul at meta neyvt, men um tað ber til at stýra veiðitrýstið til FMSY (í miðal), so 9 hugsar mann sær, at stovnurin fer at sveiggja nakað um eitt miðalvirði (B MSY). Hetta minnir um tað, ið Skipanarnevndin segði í 1995, bert við øðrvísi tilvísingarvirðum. Hetta ger eisini, at tað ikki skuldi verið neyðugt at stilla dagatalið o.tíl. á hvørjum ári. Men tað er tó alla tíðina neyðugt at fylgja væl við stovnsstøddini, og skuldi tað hent, at stovnurin, t.d. vegna broytt viðurskifti í vistskipanini, skuldi minkað ella vaksið nógv, hóast veiðitrýstið í miðal liggur um FMSY, so kann gerast neyðugt at tillaga veiðitrýstið.</p>
 <p>Í veiðiregluni, víst á mynd 2, er ein stovnsstødd, B MSY-‐trigger (ið sum oftast er á leið tað sama sum</p>
 <p>Bpa í PA ráðgevingini). Um gýtingarstovnurin fer niður um hetta, skal veiðitrýstið minkast, og longur hann fer niður um hetta virðið, meira skal veiðitrýstið minkast. Hvat skal henda, tá gýtingarstovnurin verður heilt lítil (brotna farstrikan á mynd 2), er ikki heilt vist, men allarhelst verður lívfrøðiliga ráðgevingin tá at gevast við fiskiskapinum. Ein slík veiðiregla vil fyri Føroyar merkja, at tað bert í heilt fáum førum verður mælt til heilt at steðga fiskiskapinum. <em type="bold">4. Umsitingarætlanir og veiðireglur higartil </em></p>
@@ -108,7 +108,7 @@
 <p><em type="bold">Meðal veiðitrýst, F </em><em type="bold">seinastu 3 árini </em><em type="bold">2008, 2009, 2010 </em></p>
 <p><em type="bold">Mál fyri veiðitrýst, F, í </em><em type="bold">2015 </em><em type="bold">(FMSY) </em></p>
 <p>Toskur á landgrunninum 0,41 0,32</p>
-<p xml:lang="isl">Hýsa 0,24 0,25</p>
+<p>Hýsa 0,24 0,25</p>
 <p>Upsi 0,46* 0,28* 14 * Gongdin seinastu árini vísir, at stovnurin, vegna góða tilgongd, sær út til, fyri tíðina, at tola eitt hægri veiðitrýst enn tilmælt. Gýtingarstovnurin hevur seinastu árini verið væl fyri, hóast miðal veiðitrýstið (F) seinastu 3 árini hevur ligið uppi á 0,46, og stovnurin er í løtuni mettur at vera um 110.000 tons. Hetta er væl omanfyri lægstamarkið, 55.000 tons.</p>
 <p>Talvan vísir meðalveiðitrýstið fyri tosk, hýsu og upsa árini 2008-2010, og tað veiðitrýst, sum eftir tilmælunum frá ICES gevur størstu varandi úrtøkuna úr stovnunum. Í tillagingartíðini er málið at røkka FMSY fyri teir tríggjar høvuðsfiskastovnarnar í seinasta lagi í 2015.</p>
 <p>MSY-sjónarmiðið leggur upp fyri, at veiðitrýstið F og stovnsmetingarnar í vísindaligu metingunum broytast ár um ár. Hetta merkir, at tá málið fyri t.d. toskastovnin er FMSY er 0,32, so skal veiðitrýstið í meðal yvir eitt áramál liggja um 0.32. Málið er at regulera veiðitrýstið soleiðis, at tað í miðal verður FMSY. MSY-sjónarmiðið er eisini grundað á, at tann stovnsstøddin, ið sum frá líður gevur størstu varandi veiðuna, er trupul at meta neyvt. Tí er hugsanin, at við at regulera veiðitrýstið til FMSY (í miðal), so kann stovnurin sveiggja nakað um eitt miðalvirði (B MSY), ið ikki er neyðugt at kenna so neyvt.</p>
@@ -118,24 +118,24 @@
 <p>Stovnsmetingarnar vísa, at gýtingarstovnurin av upsa er væl fyri, og verður mettur at vera um 110.000 tons. Hetta er væl oman fyri lægstamarkið, 55.000 tons. Hóast tað í tillagingartíðini ikki verður sett nøkur ítøkilig veiðiregla fyri upsa, so eigur eitt vakið eyga at verða hildið við gongdini í upsastovninum. Ansast má eftir, at gýtingarstovnurin 15 ikki fer niður um 82.000 tons, sum er miðal av tí lægsta, gýtingarstovnurin hevur verið árini 2000-2010. Um so verður, so má veiðitrýstið (F) líðandi minkast niður ímóti FMSY. 4.3.</p>
 <p>Hóast ásetingarnar í 4.1. og 4.2. skulu tiltøk setast í verk í tillagingartíðini, um tað við fiskiársbyrjan vísir seg, at støddin á einum av fiskastovnunum verður mett at vera undir lægstamarkinum, og vísindaliga metingin vísir, at eingi útlit eru fyri, at gongdin broytist tað komandi fiskiárið. 4.4.</p>
 <p>Tillagingartíðin endar, tá málini um veiðitrýst eru rokkin, og tá lægstumørkini og fyrivarnisvirðini fyri stovnsstøddirnar í langtíðarveiðisetninginum eru nádd. <em type="bold">5. </em></p>
-<p xml:lang="isl"><em type="bold">Langtíðarveiðiregla </em>5.1. </p>
+<p><em type="bold">Langtíðarveiðiregla </em>5.1. </p>
 <p>Tilvísingarvirðini í langtíðarveiðiregluni eru víst í talvu 2.</p>
 <p><em type="bold">Talva 2: Tilvísingarvirði í langtíðarveiðiregluni Stovnur </em></p>
 <p><em type="bold">Veiðitrýst </em></p>
-<p xml:lang="deu"><em type="bold">FMSY </em></p>
+<p><em type="bold">FMSY </em></p>
 <p><em type="bold">Verandi </em><em type="bold">meting av </em><em type="bold">gýtingarstovni </em></p>
-<p xml:lang="fra"><em type="bold">Tons </em></p>
+<p><em type="bold">Tons </em></p>
 <p><em type="bold">Lægstamark fyri </em><em type="bold">stødd á </em><em type="bold">gýtingarstovni, </em></p>
-<p xml:lang="hbs"><em type="bold">Blim </em></p>
-<p xml:lang="fra"><em type="bold">Tons </em></p>
+<p><em type="bold">Blim </em></p>
+<p><em type="bold">Tons </em></p>
 <p><em type="bold">Fyrivarnisstødd á </em><em type="bold">gýtingarstovni </em></p>
-<p xml:lang="nob"><em type="bold">MSY B trigger </em></p>
-<p xml:lang="fra"><em type="bold">Tons </em></p>
+<p xml:lang="dan"><em type="bold">MSY B trigger </em></p>
+<p><em type="bold">Tons </em></p>
 <p>Toskur á landgrunninum 0,32 31.400 21.000 40.000</p>
-<p xml:lang="isl">Hýsa 0,25 22.300 22.000 35.000</p>
+<p>Hýsa 0,25 22.300 22.000 35.000</p>
 <p>Upsi 0,28* 110.600 ** 55.000 * Sí viðmerking í talvu 1 ** <em type="bold">Blim </em>fyri upsa er ikki ásett í ICES-ráðgevingini <em type="italic">5.2. </em></p>
 <p><em type="italic">Toskur og hýsa </em>5.2.1. Um støddin á einum av stovnunum undanfarnu trý árini, við fiskiársbyrjan, verður mett at vera á sama støði sum fyrivarnisstøddin á gýtingarstovninum, sambært talvu 2, skulu tiltøk setast í verk fyri at avmarka veiðina eftir hesum stovni. Hetta kann gerast við tíðaravmarkaðum friðingum og/ella tekniskum reguleringum fyri teir skipabólkar, ið royna mest eftir hesum stovni. 5.2.2. Um støddin á einum av stovnunum undanfarnu trý árini, við fiskiársbyrjan, verður mett at vera undir fyrivarnisstøddina, og yvir lægstamarkinum, sambært talvu 2, verður fiskidagatalið hjá teimum skipabólkum, ið fiska mest av hesum stovni, tillagað við støði í vísindaligu tilmælunum, umframt at onnur tiltøk, fyri at avmarka veiðina, verða sett í verk. 5.2.3. Um støddin á einum av stovnunum undanfarnu trý árini, við fiskiársbyrjan, verður mett at vera undir lægstamarkinum, sambært talvu 2, verður fiskidagatalið hjá teimum skipabólkum, ið fiska mest av hesum stovni, tillagað við støði í vísindaligu tilmælunum. Eisini verða onnur tiltøk sett í verk fyri at avmarka veiðina, umframt at veiðireglan skal eftirmetast. <em type="italic">5.3. </em></p>
-<p xml:lang="hbs"><em type="italic">Upsi </em></p>
+<p><em type="italic">Upsi </em></p>
 <p>Gongdin seinastu árini bendir á, at upsastovnurin, vegna góða tilgongd, sær út til, fyri tíðina, at tola eitt hægri veiðitrýst enn tey verandi tilvísingarvirðini. 16</p>
 <p>Í tillagingartíðini fram til 2015 verður gjørd ein langtíðar veiðiregla fyri upsa. 5.4.</p>
 <p>Tá langtíðarveiðireglan er galdandi – t.e. tá gýtingarstovnurin er oman fyri minstuvirðini, og veiðitrýstið er tætt við FMSY - kann fiskidagatalið ongantíð verða sett meira enn fimm prosent hægri ella lægri enn fiskiárið frammanundan. 5.5.</p>

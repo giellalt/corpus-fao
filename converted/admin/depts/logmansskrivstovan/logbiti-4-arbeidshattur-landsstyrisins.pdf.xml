@@ -1,13 +1,13 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>874</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>løgbiti-4-arbeiðsháttur-landsstýrisins.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Arbeiðsháttur landsstýrisins</p>
-<p xml:lang="est">L Ø G M A N S S K R I V S T O VA N</p>
-<p xml:lang="nno"><em type="bold">Lógartænastan januar 2019 </em></p>
-<p xml:lang="spa">Løgbitar</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>874</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>løgbiti-4-arbeiðsháttur-landsstýrisins.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Arbeiðsháttur landsstýrisins</p>
+<p xml:lang="dan">L Ø G M A N S S K R I V S T O VA N</p>
+<p><em type="bold">Lógartænastan januar 2019 </em></p>
+<p>Løgbitar</p>
 <p>Ætlanin við løgbitunum er stutt at lýsa nøkur yvirskipað løgfrøðilig ella faklig evni, sum tað er gott at hava sum undirstøði, tá ein lóg ella aðrar rættarreglur skulu gerast.</p>
-<p xml:lang="isl">Løgbitarnir eru eitt leiðbeinandi ískoyti til rundskrivið um lógarsmíð.</p>
+<p>Løgbitarnir eru eitt leiðbeinandi ískoyti til rundskrivið um lógarsmíð.</p>
 <p>Løgbitarnir eru gjørdir í samráð við tey stjórnarráð ella myndugleikar, sum hava serligan kunnleika innan økið, sum løgbitin viðvíkur.</p>
-<p xml:lang="fin">Nella Festirstein</p>
-<p xml:lang="isl">Deildarstjóri á lógartænastuni</p>
-<p xml:lang="nob"><em type="bold">Løgbiti nr. 4 </em></p>
+<p>Nella Festirstein</p>
+<p>Deildarstjóri á lógartænastuni</p>
+<p xml:lang="dan"><em type="bold">Løgbiti nr. 4 </em></p>
 <p><em type="bold">Arbeiðsháttur landsstýrisins </em></p>
 <p><em type="bold">Um at samskipa politisk mál </em>Sambært stýrisskipanarlógini § 33 stk. 2 samskipar løgmaður starv landsstýrismanna og boðar í hesum sambandi regluliga til landsstýrisfundar, har m.a. øll uppskot landsstýrisins til løgtingslógir og ríkislógartilmæli o.a. verða framløgd, áðrenn tey verða løgd fyri </p>
 <p>Løgtingið.</p>
@@ -20,10 +20,10 @@
 <p type="listitem">Mál  Á landsstýrisfundi eiga mál sum hesi at verða løgd fram:</p>
 <p type="listitem">Uppskot til lógir og samtyktir at leggja fyri Løgtingið</p>
 <p type="listitem">Fíggjarlógaruppskot, eykafíggjarlóg, eykajáttanarlógir og fíggjarnevndarskjøl</p>
-<p type="listitem" xml:lang="isl">Kunngerðir</p>
+<p type="listitem">Kunngerðir</p>
 <p type="listitem">Frásagnir at leggja fyri Løgtingið um týdningarmikil viðurskifti og evni, t.d. frá greið-ingar um vinnupolitikk, búskaparpolitikk, almannapolitikk, fiskivinnupolitikk o.t.</p>
-<p type="listitem" xml:lang="isl">Løgmansfrágreiðing og løglisti</p>
-<p type="listitem" xml:lang="isl">Mál til aðalorðaskifti</p>
+<p type="listitem">Løgmansfrágreiðing og løglisti</p>
+<p type="listitem">Mál til aðalorðaskifti</p>
 <p type="listitem">Størri politiskar ætlanir, tiltøk ella fundir, ið hava víðfevnandi ella altjóðalig eyðkenni</p>
 <p type="listitem">Mál, ið gerast áleikandi, tí tey t.d. við eitt fáa politiskan týdning og/ella verða viðgjørdí fjølmiðlunum, og sum landsstýrið má hava eina felags støðu til</p>
 <p type="listitem">Týdningarmikil mál, sum at seta ráð, nevndir og almennar stjórar</p>
@@ -35,7 +35,7 @@
 <p>Landsstýrið tekur meginregluliga ikki felags avgerðir í einstøkum málum. Landsstýrið sameinar sjónarmið og viðger viðurskifti og mál, ið løgmaður ella landsstýrismaðurin einsamallur ger av.</p>
 <p><em type="bold">Frásøgn </em>Ein stutt avgerðarfrásøgn við niðurstøðum verður skrivað og send landsstýrismonnunum og aðalstjórunum. </p>
 <p><em type="bold">Mannagongdir </em>Tað er umráðandi, at málini eru væl fyrireikað og gjølla viðgjørd bæði politiskt og fyri-sitingar liga, áðrenn tey verða løgd fyri Løgtingið. Tí verður henda mannagongd at fylgja:1) </p>
-<p>Áðrenn farið verður undir at evna til lógaruppskot, skal landsstýrismaðurin tryggjasær, at høvuðsendamálið við uppskotinum samsvarar við politikk landsstýrisins áøkinum. Landsstýrismaðurin skrivar eitt stuttorðað og nágreiniligt upprit. Leisturin:<span type="quote" xml:lang="nno">“Upprit til landsstýrisfund”</span> verður brúktur.2)</p>
+<p>Áðrenn farið verður undir at evna til lógaruppskot, skal landsstýrismaðurin tryggjasær, at høvuðsendamálið við uppskotinum samsvarar við politikk landsstýrisins áøkinum. Landsstýrismaðurin skrivar eitt stuttorðað og nágreiniligt upprit. Leisturin:<span type="quote" xml:lang="dan">“Upprit til landsstýrisfund”</span> verður brúktur.2)</p>
 <p>Hvønn hósmorgun kl. 8.30 er fyrireikandi fundur til landsstýrisfundin ástjóraráðsstigi. Løgmansskrivstovan ger skrá, og skráin verður saman viðlandsstýristilfari send stjórnarráðunum mikudag seinnapart. Tilfar um máliniskulu verða Løgmansskrivstovuni í hendi í seinasta lagi mikumorgun kl. 8.00.3)</p>
 <p>Politiskur landsstýrisfundur er hvønn mánamorgun kl. 9.00. Løgmaður ger av, hvørjimál verða sett á dagsskrá. Skráin verður send landsstýrismonnunum saman viðtilfarinum fríggjadag fyri kl. 12.00. Mál, ið ikki eru fráboðað, kunnu ikki væntastat verða viðgjørd.4)</p>
 <p>Fær landsstýrismaðurin undirtøku fyri at arbeiða víðari við málinum, verðurlógaruppskot evnað til. Stjórnarráðið hevur ábyrgdina av, at uppskotið er í lagimálsliga, innihaldsliga og sambært rundskrivinum um lógarsmíð og § 37 í Tingskipan</p>

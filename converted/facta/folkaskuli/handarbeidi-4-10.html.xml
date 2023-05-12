@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Handarbeiði 4-10</title><genre code="facta"/><author><unknown/></author><wordcount>5638</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/handarbeidi-4-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Handarbeiði 4-10</title><genre code="facta"/><author><unknown/></author><wordcount>5638</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/handarbeidi-4-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -80,7 +80,7 @@
 <p type="listitem">arbeiðsgongd og arbeiðslýsing</p>
 <p type="listitem">samstarv, hjálpsemi og ábyrgd</p>
 <p type="listitem">ætlan og endamál við lutinum</p>
-<p type="listitem" xml:lang="dan">eftirmeting</p>
+<p type="listitem">eftirmeting</p>
 </list><p type="title">Handaligu arbeiðsøkini</p>
 <list><p type="listitem">at gera snið og framleiða pløgg og tóvirki</p>
 <p type="listitem">handilig tøkni, maskinur og tól</p>
@@ -92,7 +92,7 @@
 <p type="listitem">trygd og heilsukrøv í arbeiði og arbeiðshøli</p>
 <p type="listitem">arbeiðsstøður og arbeiðslag</p>
 <p type="listitem">burðardygd í arbeiðsgongdini</p>
-</list><p type="title" xml:lang="dan">Samfelagsligt og mentanarligt innihald</p>
+</list><p type="title">Samfelagsligt og mentanarligt innihald</p>
 <list><p type="listitem">týdningurin av handiliga tilvirkaðum lutum og verkum</p>
 <p type="listitem">tilvirkaðir handverkslutir av staðbundnum uppruna</p>
 <p type="listitem">náttúrugivin og mentanarlig viðurskifti av týdningi</p>
@@ -141,14 +141,14 @@
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at kasta uppá, binda stiklavond, rætt og rangt og læsa av</p>
 <p type="listitem">at hekla luftmaskur</p>
-<p type="listitem" xml:lang="dan">at brodera krosssting og baksting</p>
+<p type="listitem">at brodera krosssting og baksting</p>
 <p type="listitem">at handseyma</p>
 <p type="listitem">at taka seymikoyrikort</p>
 <p type="listitem">at veva einkulta veving</p>
 <p type="listitem">at bregda og at flætta</p>
 <p type="listitem">at tráða nál og at hefta endar</p>
 <p type="listitem">at nálatøva og at tøva einfalda tøving</p>
-</list><p type="title" xml:lang="dan">Samfelagsligt og mentanarligt innihald</p>
+</list><p type="title">Samfelagsligt og mentanarligt innihald</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at kenna, at handarbeiði er ein partur av okkara siðaarvi, og at best er at kenna sína egnu mentan, áðrenn hugt verður úteftir.</p>
 <p type="listitem">at gera framløgur, bæði at seta visuelt upp, gera tekst til framløgu at bera fram og plakatir við myndum og teksti</p>
@@ -177,7 +177,7 @@
 <p type="listitem">at lita t.d. batik ella prent</p>
 <p type="listitem">at veva við ymiskum tilfari</p>
 <p type="listitem">bond: tólvta og binda knútar</p>
-</list><p type="title" xml:lang="dan">Samfelagsligt og mentanarligt innihald</p>
+</list><p type="title">Samfelagsligt og mentanarligt innihald</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at seta sín persónliga stíl á teir lutir, hann ger</p>
 <p type="listitem">at virðismeta tað gamla, føroyska handarbeiðið</p>
@@ -209,7 +209,7 @@
 <p type="listitem">at finna kveikjandi hugskot</p>
 <p type="listitem">at gera sær egnar royndir við ymiskum tilfari og arbeiðshættum</p>
 <p type="listitem">at gera eina arbeiðs- og tíðarætlan og velja tilfar</p>
-</list><p type="title" xml:lang="dan">Samfelagsligt og mentanarligt innihald</p>
+</list><p type="title">Samfelagsligt og mentanarligt innihald</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at vera tilvitaður um, at móti og snið vísa persónligan samleika</p>
 <p type="listitem">at fata, at veðurlag, umhvørvi og mentan ávirka val av sniði og tilfari</p>
@@ -220,7 +220,7 @@
 <p type="listitem">at grundgeva fyri vali av tilfari í mun til kostnaðin á tilfarinum</p>
 <p type="listitem">at endurnýta og umskapa</p>
 <p type="listitem">at virða týdningin av endurnýtslu, eitt nú í mun til umhvørvi.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
 <p type="title">9. flokkur</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, munnligar og skrivligar royndir, munnlig upplegg og testir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvørjum arbeiðast skal við í lærugreinini fyri at lúka málini. Eftirmetingarnar skulu skjalfestast skrivliga.</p>
@@ -246,7 +246,7 @@
 <p>9. flokkur munnlig próvtøka</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Famúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað. Málið í framløguni er fjølbroytt, gott og neyvt. Næmingurin er virkin og skarar framúr undir fakligu samrøðuni. Verkætlanin er væl løgd til rættis, fullførd og mett við sjálvstøðugum arbeiði, hegni og yvirliti, og vitan frá øðrum lærugreinum í útbúgvingini er tikin við.</p>
@@ -292,7 +292,7 @@
 <p>10. flokkur munnlig próvtøka</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Famúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað. Málið í framløguni er fjølbroytt, gott og neyvt. Næmingurin er virkin og skarar framúr undir fakligu samrøðuni. Verkætlanin er væl løgd til rættis, fullførd og mett við sjálvstøðugum arbeiði, hegni og yvirliti, og vitan frá øðrum lærugreinum í útbúgvingini er tikin við.</p>
@@ -342,12 +342,12 @@
 <p type="title">Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri móðurmálinum sum eitt intellektuelt amboð, ið skal víðka sjónarringin hjá næminginum. Allir flokkar skulu tí gera royndir við málinum, eitt nú við sínámillum tosi og við tí at siga frá.</p>
 <p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðatilfeingi og talugávur verða ment. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa nógv. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini. Í byrjanini kunnu næmingarnir t.d. lesa eina stutta bók um dagin. So hvørt sum bøkurnar gerast longri, má meira tíð setast av til at lesa eina bók. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar skulu lesa eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at hugsa um sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

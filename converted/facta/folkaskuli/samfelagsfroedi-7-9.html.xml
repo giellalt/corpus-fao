@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Samfelagsfrøði 7-9</title><genre code="facta"/><author><unknown/></author><wordcount>5411</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/samfelagsfroedi-7-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Samfelagsfrøði 7-9</title><genre code="facta"/><author><unknown/></author><wordcount>5411</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/samfelagsfroedi-7-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -143,10 +143,10 @@
 <p type="listitem">At leggja fram faklig úrslit munnliga. At brúka ymiskar framløguhættir, m.a. eisini at brúka KT at stuðla framløgur við.</p>
 <p type="listitem">At eygleiða einfaldar samfelagsligar samanhangir í nærumhvørvinum. At gera kanningararbeiði úti í samfelagnum, har smærri einfaldar samrøður ella spurnakanningar verða nýttar.</p>
 <p type="listitem">At leita sær týðandi og álítandi vitan, bæði gjøgnum internetið og fysiskar miðlar. At nýta grundleggjandi keldukritikk.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
 <p type="title">9. flokkur</p>
 <p>Vegleiðing um próvtøku í samfelagsfrøði í 9.flokki.pdf</p>
-<p type="title" xml:lang="dan">Eftirmeting</p>
+<p type="title">Eftirmeting</p>
 <p>Einstaki næmingurin skal eftirmetast ávegis í undirvísingargongdini við støði í antin skrivligum ella munnligum framløgum. Næmingurin eigur at hava eina greiða fatan av støðu síni í mun til fakligu málini í lærugreinini, og hann eigur at fáa vegleiðing um, hvussu og hvørjum arbeiðast skal við fyri at røkka málunum.</p>
 <p>Týðandi er, at allir næmingar verða hoyrdir í undirvísingini, soleiðis at tryggjað verður, at allir næmingar hava eina nøktandi fakliga menning. Lærarin eigur javnan at kunna einstaka næmingin um, hvørji førleikamál eru rokkin. Eisini skal samtala við einstaka næmingin tryggja, at hann gerst tilvitaður um, hvat hann megnar, og hvørjar førleikar, hann eigur at styrkja.</p>
 <p>Einstaki skúlin ger skrivligar reglur fyri, nær og hvussu eftirmetingarnar verða framdar, og hvussu eftirmetingarnar verða latnar næmingunum.</p>
@@ -180,7 +180,7 @@
 <p type="title">9. flokkur munnlig próvtøka</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað. Málið í framløguni er fjølbroytt og neyvt. Próvtakarin er sera virkin í fakligu samrøðuni. Próvtakarin kemur framúr væl kring evnið, við bert fáum ella ongum týðandi manglum. Próvtakarin vísir, at hann hevur gott innlit í vitan og hugtøk í lærugreinini og dugir at nýta fleiri arbeiðshættir til at viðgera og meta um. Hann megnar eisini væl at flyta seg úr tí ítøkiliga í tað úrtøkiliga.</p>
@@ -218,10 +218,10 @@
 <p>Endamálið við teimum ymisku arbeiðsháttunum er fyrst og fremst at menna fakligu førleikarnar og harvið ogna sær vitan um kjarnaøki og ískoytisøki, samstundis sum næmingarnir gerast tilvitaðir um sína egnu læring.</p>
 <p>Av tí at samfelagsfrøði er ein tíðarbær lærugrein, eigur dentur at verða lagdur á hendingar, sum eru uppi í tíðini, ið m.a. kunnu taka støði í upplivingum hjá næmingunum ella fjølmiðlafrásøgn. Tí skulu hendingar, sum eru uppi í tíðini, knýtast at ástøðiligum hugtøkum og myndlum. Flestu mál kunnu síggjast úr ymiskum sjónarhornum, og harvið kunnu ymisk hugtøk og myndlar knýtast at hendingunum. Tað er sera avgerandi, at næmingarnir ikki bert síggja samfelagsliga veruleikan úr sínum egna sjónarhorni, men gjøgnum hugtøk fáa innlit í viðurskifti, teir annars ikki høvdu fingið.</p>
 <p>Eisini hevur tað týdning, at mál ikki einans verða umrødd og viðgjørd sundurskild, men verða sett í ein størri samanhang og knýtt at teimum rákum, sum eru. Flestu samfelagsligar hendingar eru ikki stakhendingar, men ein liður í eini longri søguligari gongd. Næmingarnir eiga at skilja, at ein hending ikki bert er ein endalig støða, men ein liður í eini broyting. Úr einum fólkaræðisligum sjónarmiði eigur næmingurin sostatt at skilja, at núverandi samfelagsstøða er eitt úslit av fortíðar gerðum og avgerðum, og at næmingurin í framtíðini sjálvur kann vera við til at ávirka, hvar rákið fer. Samfelagsfrøði er tó ikki søga, og tað snýr seg tí ikki um at samanseta langar søgugongdir, men heldur um at knýta verandi støði til myndlar, ið sýna ymisk samfelagslig menningarstøði.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí verða næmingarnir eggjaðir til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>11205</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>tilbúgvingin-í-føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Formæli </em>Tilbúgvingin í Føroyum lýsir karmarnar um tilbúgvingina í Føroyum á sjónum, í luftini og á landi, men lýsir ikki alla tilbúgving í Føroyum út í æsir. </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>11205</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>tilbúgvingin-í-føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Formæli </em>Tilbúgvingin í Føroyum lýsir karmarnar um tilbúgvingina í Føroyum á sjónum, í luftini og á landi, men lýsir ikki alla tilbúgving í Føroyum út í æsir. </p>
 <p>Í <em type="italic">Tilbúgvingin í Føroyum </em>verða ábyrgd og uppgávur hjá myndugleikum o.ø. lýstar. Somuleiðis verða grundreglur og mannagongdir, sum øll tilbúgvingin skal byggja á, lýstar. </p>
 <p>Megingrundarlagið undir tilbúgvingini í Føroyum er løgtingslóg nr. 61 frá 15. mai 2012 um tilbúgving.</p>
 <p>Allir partar av tilbúgvingini eru ikki yvirtiknir, men verða røktir av ríkismyndugleikunum, til dømis løgreglan og ikki-sivila tilbúgvingin, sum Arktisk Kommando varðar av, og tilbúgvingarlógin fevnir ikki um hesar partar. Í praksis voldir hetta tó ikki trupulleikar, tí at partarnir samstarva og gera avtalur um, hvussu ríkiseindirnar skulu samvirka.</p>
@@ -10,45 +10,45 @@
 <p>Endamálið við hesum skjali, kallað <span type="quote">“Tilbúgvingin í Føroyum”</span>, er at lýsa, hvussu tilbúgvingin er uppbygd, soleiðis at eindirnar og myndugleikarnir í tilbúgvingini skilja, hvussu teirra partur av uppgávuni er skipaður og kann samvirka í samlaðu tilbúgvingini.</p>
 <p>Umframt at lýsa tilbúgvingina, soleiðis sum hon sær út í dag, eru einstøk tilmæli í skjalinum .</p>
 <p>Skjalið er góðkent av Tilbúgvingarráðnum í oktober 2017.</p>
-<p xml:lang="isl">Vegna arbeiðsbólkin og Tilbúgvingarráðið.</p>
-<p xml:lang="nno">Andras Marr Poulsen,</p>
+<p>Vegna arbeiðsbólkin og Tilbúgvingarráðið.</p>
+<p>Andras Marr Poulsen,</p>
 <p>Tilbúgvingarsamskipari 3</p>
-<p xml:lang="isl"><em type="bold">Innihaldsyvirlit </em><em type="bold">1 </em><em type="bold">Inngangur ................................................................................................................................................. 6 </em><em type="bold">2 </em><em type="bold">Um tilbúgving .......................................................................................................................................... 6 </em>2.1 </p>
+<p><em type="bold">Innihaldsyvirlit </em><em type="bold">1 </em><em type="bold">Inngangur ................................................................................................................................................. 6 </em><em type="bold">2 </em><em type="bold">Um tilbúgving .......................................................................................................................................... 6 </em>2.1 </p>
 <p>Tilbúgvingarlógin .................................................................................................................. 6 2.2</p>
 <p>Tilbúgvingarráðið .................................................................................................................. 6 2.3</p>
 <p>Umsitingarráðið ..................................................................................................................... 7 2.4</p>
 <p>Hvør hevur ábyrgd av tilbúgvingini í Føroyum .................................................................. 7 2.5</p>
-<p xml:lang="isl">Grundreglur ........................................................................................................................... 8 2.6</p>
+<p>Grundreglur ........................................................................................................................... 8 2.6</p>
 <p>Hvat er tilbúgving? ................................................................................................................ 8 2.7</p>
 <p>Tilbúgvingarætlanir .............................................................................................................. 8 2.8</p>
 <p>At góðkenna tilbúgvingarætlanir ......................................................................................... 9 2.9</p>
 <p>Týdningurin av fyribyrging og eftirliti í tilbúgving ............................................................. 9 2.10 Fyribyrging .......................................................................................................................... 10 2.11 Eftirlit ................................................................................................................................... 10 2.12 Samvirkandi tilbúgving ....................................................................................................... 11 <em type="bold">3 </em><em type="bold">Samskipan av tilbúgving ................................................................................................................... 11 </em><em type="bold">4 </em><em type="bold">Økisábyrgd ............................................................................................................................................. 12 </em><em type="bold">5 </em><em type="bold">Landstilbúgving .................................................................................................................................... 12 </em>5.1 </p>
 <p>Heilsutilbúgvingin ............................................................................................................... 12 5.1.1</p>
 <p>Tilbúgvingin á sjúkrahúsunum ................................................................................................... 13 5.1.2</p>
-<p xml:lang="isl">Sjúkraflutningstænastan ............................................................................................................... 13 5.1.3</p>
+<p>Sjúkraflutningstænastan ............................................................................................................... 13 5.1.3</p>
 <p>Sjúkralið og sálarlig kreppuhjálp ............................................................................................... 13 5.1.4</p>
 <p>Sjúkraflutningur við tyrlu ............................................................................................................. 14 5.1.5</p>
 <p>Tvørfakligt samstarv ....................................................................................................................... 14 5.1.6</p>
-<p xml:lang="isl">Landslæknin ....................................................................................................................................... 14 5.1.7</p>
-<p xml:lang="vep">Epideminevnd .................................................................................................................................... 14 5.1.8</p>
-<p xml:lang="isl">Pandemibólkur .................................................................................................................................. 15 5.1.9</p>
+<p>Landslæknin ....................................................................................................................................... 14 5.1.7</p>
+<p xml:lang="dan">Epideminevnd .................................................................................................................................... 14 5.1.8</p>
+<p>Pandemibólkur .................................................................................................................................. 15 5.1.9</p>
 <p>Trýsttangi ............................................................................................................................................. 15 5.1.10 Landsapotekarin ............................................................................................................................... 15 5.1.11 Heilsutilbúgving á sjónum ............................................................................................................ 15 4 5.2</p>
-<p xml:lang="nno">Kjarnorku-, evna- og lívfrøðilig tilbúgving ........................................................................ 15 5.3</p>
+<p>Kjarnorku-, evna- og lívfrøðilig tilbúgving ........................................................................ 15 5.3</p>
 <p>Yvirgangur ........................................................................................................................... 16 5.4</p>
 <p>Heilsufrøðiliga starvsstovan ............................................................................................... 16 5.4.1</p>
-<p xml:lang="isl">Matur ..................................................................................................................................................... 16 5.4.2</p>
-<p xml:lang="isl">Djór ......................................................................................................................................................... 17 5.5</p>
+<p>Matur ..................................................................................................................................................... 16 5.4.2</p>
+<p>Djór ......................................................................................................................................................... 17 5.5</p>
 <p>Vegir, tunlar, havnir o.a. ...................................................................................................... 17 5.5.1</p>
 <p>Tilbúgving í tunlum.......................................................................................................................... 17 5.5.2</p>
-<p xml:lang="fkv">Kreppusamskifti ................................................................................................................................ 18 5.5.3</p>
+<p>Kreppusamskifti ................................................................................................................................ 18 5.5.3</p>
 <p>Serligt um undirsjóvartunlar ....................................................................................................... 18 5.5.4</p>
 <p>Havnir .................................................................................................................................................... 18 5.5.5</p>
 <p>Floghavnir ............................................................................................................................................ 19 <em type="bold">6 </em><em type="bold">Kommunala tilbúgvingin .................................................................................................................. 19 </em>6.1 </p>
 <p>Ábyrgdarøkið hjá kommunum ........................................................................................... 20 6.2</p>
-<p xml:lang="isl">Samstarvsavtalur ................................................................................................................. 21 6.3</p>
-<p xml:lang="swe">Felagskommunal tilbúgving ............................................................................................... 21 6.4</p>
-<p xml:lang="isl">Aðrar samstarvsavtalur ...................................................................................................... 21 6.5</p>
-<p xml:lang="isl">Skylda – eindarhugsjónin.................................................................................................... 22 6.6</p>
+<p>Samstarvsavtalur ................................................................................................................. 21 6.3</p>
+<p xml:lang="dan">Felagskommunal tilbúgving ............................................................................................... 21 6.4</p>
+<p>Aðrar samstarvsavtalur ...................................................................................................... 21 6.5</p>
+<p>Skylda – eindarhugsjónin.................................................................................................... 22 6.6</p>
 <p>Tilbúgvingarnevndin ........................................................................................................... 22 6.7</p>
 <p>Eftirlit við kommunalu tilbúgvingini ................................................................................. 23 <em type="bold">7 </em><em type="bold">Virksemistilbúgving ............................................................................................................................ 23 </em>7.1 </p>
 <p>Virki, sum við sínum virksemi kunnu volda skaða á fólk, umhvørvi, djór og virðir ...... 24 7.2</p>
@@ -58,11 +58,11 @@
 <p>Vanlukkur tvørtur um kommunumark .............................................................................. 27 8.3</p>
 <p>Tilbúgving á sjónum – MRCC Tórshavn ............................................................................. 27 8.4</p>
 <p>Dálking á sjónum ................................................................................................................. 28 8.5</p>
-<p xml:lang="nob">Land/sjógvur - grásonur ..................................................................................................... 28 8.6</p>
-<p xml:lang="isl">Innara og ytra skaðastað ..................................................................................................... 28 8.7</p>
+<p>Land/sjógvur - grásonur ..................................................................................................... 28 8.6</p>
+<p>Innara og ytra skaðastað ..................................................................................................... 28 8.7</p>
 <p>Átaksleiðsla .......................................................................................................................... 29 8.8</p>
 <p>Átaksleiðslubygnaður býttur sundur eftir funksjónum ................................................... 29 8.9</p>
-<p xml:lang="isl">Stafetthugsjónin................................................................................................................... 30 <em type="bold">9 </em><em type="bold">Samskifti ................................................................................................................................................. 30 </em>5 9.1 </p>
+<p>Stafetthugsjónin................................................................................................................... 30 <em type="bold">9 </em><em type="bold">Samskifti ................................................................................................................................................. 30 </em>5 9.1 </p>
 <p>Samskift verður ígjøgnum Alarmsentralin 1-1-2 ella MRCC Tórshavn ........................... 30 <em type="bold">10 </em><em type="bold">Førleikamenning og útbúgving ....................................................................................................... 31 </em><em type="bold">11 </em><em type="bold">Útreiðslur................................................................................................................................................ 31 </em><em type="bold">12 </em><em type="bold">Skylda at boða frá og hjálpa ............................................................................................................. 32 </em><em type="bold">13 </em><em type="bold">Átaksstig .................................................................................................................................................. 32 </em><em type="bold">14 </em><em type="bold">Altjóða samstarv .................................................................................................................................. 33 </em>14.1 Keypmannahavnaravtalan .................................................................................................. 33 14.2 Nordisk redningsoverenskomst (NORDRED) ................................................................... 33 14.3 Samstarv um sjóbjarging .................................................................................................... 33 <em type="bold">15 </em><em type="bold">Bjargingarfeløgini ................................................................................................................................ 34 </em><em type="bold">16 </em><em type="bold">Venjingar ................................................................................................................................................. 34 </em><em type="bold">17 </em><em type="bold">Tilbúgvingarboð ................................................................................................................................... 35 </em>6 <em type="bold">1 Inngangur </em></p>
 <p>Tilbúgvingin í Føroyum, sum er skipað fyri at verja fólk, djór, umhvørvi, virði og ognir og at tryggja virkisførið í samfelagnum á besta hátt, verður lýst í hesum skjali. Tað er ábyrgdin hjá landi og kommunum at røkja uppgávur, sum hava týdning fyri samfelagið, eisini, tá ið óvæntaðir tilburðir hótta virkisførið í samfelagnum. Endamálið við hesum skjali, kallað <span type="quote">“Tilbúgvingin í Føroyum”</span>, er at lýsa, hvussu tilbúgvingin er uppbygd, soleiðis at eindirnar og myndugleikarnir í tilbúgvingini skilja, hvussu teirra partur av uppgávuni er skipaður og kann samvirka í samlaðu tilbúgvingini. Umframt at lýsa tilbúgvingina, soleiðis sum hon sær út í dag, eru einstøk tilmæli í skjalinum. Henda frágreiðing miðar eftir, at allir partar fáa eina felags fatan av tilbúgvingini í Føroyum, hvussu ábyrgd og uppgávur eru skipaðar, og hvørjar eindir eru at røkja uppgávurnar, bæði tá ið virkað verður einsæris og í felag við aðrar eindir, tá ið tørvur er á samstarvi í tilbúgvingini. <em type="bold">2 Um tilbúgving </em><em type="bold">2.1 Tilbúgvingarlógin2 </em></p>
 <p>Tilbúgvingarlógin setir karmar um og greinar ábyrgdarbýtið í føroysku tilbúgvingini. Høvuðssetningurin í tilbúgvingarlógini er, at allar eindir í tilbúgvingini skulu kunna virka saman sum ein eind, so at stórir tilburðir kunnu handfarast sum best, so sleppast kann undan óneyðugum og dýrkandi dupultfunksjónum. <em type="bold">2.2 Tilbúgvingarráðið3 </em></p>
@@ -88,12 +88,12 @@
 <p>Til tess at skipa tilbúgving skal tilbúgvingarætlan verða gjørd fyri hvørt virkisøki í samfelagnum.</p>
 <p>Tilbúgvingarætlanir kunnu gerast eftir ymiskum leisti, men hava tó sum oftast nøkur felags eyðkenni, og verða vanliga gjørdar í stigum. Fyrsta stigið er vanliga at gera eina váðameting, sum lýsir sannlíkindini fyri, at ymiskir tilburðir henda og skaðan av hesum somu tilburðum. Harnæst má støða takast til, hvussu tilfeingið skal raðfestast fyri at fyribyrgja og handfara avleiðingar, ið kunnu standast av hesum tilburðum. Eisini má støða verða tikin til, um fyribyrging og eftirlit skal uppraðfestast, so at sjálv tilbúgvingin í sambandi við tilburðir kann avmarkast. Ein tilbúgvingarætlan er eitt skjal, sum støðugt verður tillagað, serliga í sambandi við, at tilburðir verða eftirmettir og vísa eina nýggja mynd av váðanum.</p>
 <p><em type="bold">Dømi um, hvussu ein tilbúgvingarætlan verður ment í 5 stigum </em>9 </p>
-<p xml:lang="eng"><em type="bold">Mynd 1 </em></p>
+<p><em type="bold">Mynd 1 </em></p>
 <p>Sambært tilbúgvingarlógini skulu tilbúgvingarætlanir, bæði hjá kommunum og virkjum, verða sendar landsstýrismanninum í tilbúgvingarmálum til viðmerkingar og kunningar. Endamálið er, at landstilbúgvingin er kunnað um, hvørjar ætlanir skulu samvirka, og at samskipandi tilbúgvingarmyndugleikin kann veita ráðgeving og vegleiðing, so at eindarhugsjónin verður framd í verki. Tað er Fiskimálaráðið, sum eigur ta uppgávuna. <em type="bold">2.8 At góðkenna tilbúgvingarætlanir </em></p>
 <p>Tilbúgvingarætlanir hjá kommunum skulu góðkennast av kommunustýrinum aftaná, at landsstýrismaðurin í tilbúgvingarmálum hevur gjørt viðmerkingar. <em type="bold">2.9 Týdningurin av fyribyrging og eftirliti í tilbúgving </em></p>
 <p>Ofta verður ov lítið av orku og peningi nýtt til fyribyrging og eftirlit, hóast tað er her mannalív, umhvørvi og virði best kunnu verjast. Tilbúgvingarpyramidan niðanfyri vísir, hvussu fyribyrging og harnæst eftirlit í eini góðari tilbúgving minka um talið av hendingum, sum krevja, at tilbúgvingarátøk verða sett í verk, og eisini minkar um vandan av hvørjari einstakari hending. Tað er, tá ið óhappini henda, at vandin fyri at missa mannalív og virði gerst veruleiki.</p>
 <p><em type="bold">Ímynd av eini góðari tilbúgving: </em></p>
-<p xml:lang="isl"><em type="bold">Mynd 2 </em>10 <em type="bold">2.10 Fyribyrging </em></p>
+<p><em type="bold">Mynd 2 </em>10 <em type="bold">2.10 Fyribyrging </em></p>
 <p>Sambært § 1 í tilbúgvingarlógini er eitt av endamálunum við tilbúgvingini at fyribyrgja skaðatilburðum. Hóast tilbúgving ofta verður hugsað sum, hvat verður gjørt, eftir at tilburðir eru hendir, so hevur fyribyrging alstóran týdning, tá tað ræður um tilbúgving.</p>
 <p>Nógv fyribyrgjandi atlit eru skipað í aðrari lóggávu enn tilbúgvingarlógini, men eru týdningarmikil í fyribyrgjandi tilbúgving, har ymsir stovnar og eftirlitsmyndugleikar hava uppgávuna at tryggja, at høli, virki, før o.a. verða innrættað, so at vandi fyri og avleiðingar av óhappum og vanlukkum, verða avmarkað mest møguligt. Hesir stovnar eru skipaðir við serlóggávu og verða ikki greinaðir út í æsir í hesum skjali. Sum dømi kunnu nevnast stovnar sum Akstovan, Sjóvinnustýrið, Trafikstyrelsen og Arbeiðs- og brunaeftirlitið.</p>
 <p>Umframt fyribyrging í serlóggávu er landsstýrismanninum í samferðslumálum heimilað at seta kunngerðir4 um fyribyrging í gildi. Sum dømi kann nevnast, at flutningur á landi av eldfimum løgi ikki er beinleiðis reguleraður í Tilbúgvingarlógini, men at kunngerðir um fyribyrging av eldi og spreingingum kunnu setast í gildi fyri tílíkt virksemi við heimild í § 36, stk. 1, nr. 25.</p>
@@ -282,7 +282,7 @@
 <p>Átaksleiðslan á landi og sjónum kann sigast at hava tríggjar funksjónir. 1. Fyrsta funksjónin er samskipandi og er hjá løgregluni á landi og MRCC Tórshavn á sjónum. 2. Onnur funksjónin er tann heilsuliga, sum er hjá samskipandi lækna (KOOL-funksjónini). KOOL/Liðlækni hevur ovastu ábyrgdina av øllum tí præhospitala átakinum í átaksøkinum. Tað er vanliga KOOL, sum samstarvar við samskipandi myndugleikan, t.e. løgreglu ella MRCC Tórshavn um sjúkraflutning. Um neyðugt, verður eisini samstarvað við vakthavandi landslækna. 3. Triðja funksjónin er tann tøkniliga, sum liggur hjá átaksleiðaranum hjá kommunalu tilbúgvingini. Tann tøkniliga leiðslan av átakinum á einum skaðastaði er undir ábyrgd av einum átaksleiðara frá kommunalu tilbúgvingini á landi. Á sjónum er tað ein átaksleiðari, sum vanliga er vakthavandi á MRCC Tórshavn ella ein on-scene coordinator, sum verður útnevndur av MRCC Tórshavn. <em type="bold">8.8 Átaksleiðslubygnaður býttur sundur eftir funksjónum </em></p>
 <p>Kommunali átaksleiðarin frá tilbúgvingini hevur tøkniligu leiðsluna á innara skaðastaðnum á landi, og løgreglan hevur leiðsluna á uttara skaðastaðnum.</p>
 <p>Heilsuverkið skipar seg sjálvt á skaðastaðnum, og í einum átaki ávísir løgreglan pláss til bilar og aðra útgerð. Hjálp frá t.d. bjargingarfeløgum verður umbiðin gjøgnum samskipandi myndugleikan, t.e. løgregluna.</p>
-<p>Á sjónum. MRCC Tórshavn hevur átaksleiðsluna fyri SAR átøk. Tøkniliga leiðslan á staðnum kann latast einari eind á átaksøkinum, t.d. skipara á sjóverjuskipi ella fiskiskipi, sum verður ein sokallaður <span type="quote" xml:lang="nob">“On-Scene Coordinator”</span> (OSC). 30 <em type="bold">8.9 Stafetthugsjónin </em></p>
+<p>Á sjónum. MRCC Tórshavn hevur átaksleiðsluna fyri SAR átøk. Tøkniliga leiðslan á staðnum kann latast einari eind á átaksøkinum, t.d. skipara á sjóverjuskipi ella fiskiskipi, sum verður ein sokallaður <span type="quote" xml:lang="dan">“On-Scene Coordinator”</span> (OSC). 30 <em type="bold">8.9 Stafetthugsjónin </em></p>
 <p>Fer eitt átak á sjónum upp á land, ella fer eitt átak á landi út á sjógv, skal stafetthugsjónin vera tann berandi. Tað merkir, at samskipandi leiðslan heldur fram, til stafettin er handað nýggju samskipandi leiðsluni, og hon hevur kvittað fyri móttøkuna.</p>
 <p>Eisini kann verða avtalað, at átakið ikki skiftir samskipandi leiðslu, um tað verður hildið at vera ein fyrimunur fyri átakið. <em type="bold">9 Samskifti </em></p>
 <p>Samskiftisbygnaðurin er ein hornasteinur í samvirkandi tilbúgvingini. Løgreglan er ofta samskipandi myndugleiki millum átaksleiðaran og t.d. eitt bjargingarfelag. <em type="bold">9.1 Samskift verður ígjøgnum Alarmsentralin 1-1-2 ella MRCC Tórshavn </em></p>
@@ -306,9 +306,9 @@
 <p>Lógin ásetur, at hvør tann, ið verður varugur við skaðatilburð ella vanlukku, ella umstøður, ið vísa, at hóttandi vandi er fyri skaðatilburði ella vanlukku, alt fyri eitt skal siga teimum frá, sum eru hótt av vanda, senda boð eftir hjálp og royna at byrgja fyri vandanum48.</p>
 <p>Tann, ið er hjástaddur, har skaði ella vanlukka er hend, skal, tá ið átaksleiðarin á skaðastaðnum krevur tað, vera við í hjálpararbeiðinum. Tann, sum hevur verið uppi í hjálpararbeiðinum, hevur rætt til endurgjald fyri mista arbeiðsinntøku, sum prógv verður veitt fyri49. <em type="bold">13 Átaksstig </em></p>
 <p>Í eini tilbúgvingarstøðu verður skilt millum ymisk stig, alt eftir hvussu álvarsligur tilburðurin er í mun til møguleikan hjá tí, sum hevur ábyrgdina av átakinum at útinna uppgávuna.</p>
-<p xml:lang="isl"><em type="bold">Stig Hvør fremur átak </em></p>
+<p><em type="bold">Stig Hvør fremur átak </em></p>
 <p><em type="bold">Hvussu verður átakið framt og møguligt eftirlit </em><em type="bold">1 </em></p>
-<p xml:lang="smn">Kommunuátak / økisábyrgd</p>
+<p>Kommunuátak / økisábyrgd</p>
 <p>Kommunan fremur átak sambært egnari tilbúgvingarætlan. <em type="bold">2 </em></p>
 <p>Grannahjálp/stuðul frá øðrum eindum</p>
 <p>Hevur kommunala tilbúgvingin ikki orku til at megna uppgávuna einsamøll, kann hon biðja um hjálp frá grannakommunum. 47</p>
@@ -334,107 +334,107 @@
 <p>Venjingar eru sera avgerandi fyri at tryggja, at tilbúgvingarætlanir kunnu virka sum ætlað. Venjingar eiga tí at verða gjørdar í kommunalu tilbúgvingini, í landstilbúgvingini og í virksemistilbúgvingini so ofta, at eindirnar kenna tær føstu mannagongdirnar, tá ið átøk eru. Eisini er týdningarmikið, at tær kommunalu, lands- og privatu eindirnar hava venjingar saman, um teimum tørvar samstarv. Reglur eru um kravdar venjingar á 54</p>
 <p>Avtalan er formliga gjørd sum ein “Letter of Agreement“ millum MRCC Tórshavn og JRCC Iceland. 55</p>
 <p>Avtalan er formliga gjørd við Her Majesty’s Coastguard um samstarv millum MRCC Tórshavn og MRCC</p>
-<p xml:lang="deu">Aberdeen. 56</p>
+<p xml:lang="dan">Aberdeen. 56</p>
 <p>Forbindelseselement Færøerne er deildin hjá Arktisk Kommando í Føroyum. Deildin varðar av verju- og bjargingarskipunum hjá donsku sjóverjuni eins og tyrlum og flogførum hjá donsku verjuni. 57</p>
 <p>Sambært § 5 í tilbúgvingarlógini. 35 nógvum økjum. Nevnast kann, at regluligar venjingar skulu vera á skipum, og at kommunala tilbúgvingin, løgregla og flogvøllir hava regluligar venjingar. Eisini gera MRCC Tórshavn og hernaðartænastan regluligar venjingar saman við fleiri øðrum eindum. <em type="bold">17 Tilbúgvingarboð </em></p>
 <p>Í sambandi við átrokandi boð, sum snúgva seg um tilbúgving, er avtala gjørd millum Kringvarp Føroya, Føroya landfúta og Tilbúgvingarstovn Føroya58. Avtalan gevur almennum og kommunalum myndugleikum møguleika ígjøgnum alarmsentralin hjá løgregluni at senda átrokandi boð út gjøgnum Kringvarpið. Talan kann til dømis vera um hóttan, ið stendst av kemiskum óhappi, ógvusligum eldsbruna ella geisling, ið ger tað neyðugt at ávara almenningin við boðum um at halda seg innandura.</p>
 <p>Alarmsentralurin hjá løgregluni gevur Kringvarpinum boðini, sum verða send gjøgnum útvarpið, á heimasíðu Kringvarpsins ella í sjónvarpinum. 58</p>
 <p>Avtalan er gjørd 16. august 2011. 36</p>
-<p xml:lang="est"><em type="bold">Orðalisti </em></p>
-<p xml:lang="deu">AA</p>
-<p xml:lang="eng">Atlantic Airways</p>
-<p xml:lang="deu">ADR</p>
-<p xml:lang="eng">European Agreement concerning the International Carriage of Dangerous Goods by Roads</p>
-<p xml:lang="deu">AFIS</p>
-<p xml:lang="nob">A Flight Information Service (t.d. tornið á flogvøllinum)</p>
-<p xml:lang="deu">AKF</p>
-<p xml:lang="nob">Arktisk Kommando Færøerne</p>
-<p xml:lang="vep">ATS</p>
-<p xml:lang="fra">Air Traffic Service</p>
-<p xml:lang="eng">DCI</p>
-<p xml:lang="eng">Decompression Illness</p>
-<p xml:lang="deu">DNV</p>
-<p xml:lang="nno">Det Norske Veritas</p>
-<p xml:lang="nob">DSC</p>
-<p xml:lang="nno">Digital Selective Calling</p>
-<p xml:lang="deu">EDV</p>
+<p><em type="bold">Orðalisti </em></p>
+<p>AA</p>
+<p>Atlantic Airways</p>
+<p xml:lang="dan">ADR</p>
+<p xml:lang="dan">European Agreement concerning the International Carriage of Dangerous Goods by Roads</p>
+<p>AFIS</p>
+<p>A Flight Information Service (t.d. tornið á flogvøllinum)</p>
+<p>AKF</p>
+<p xml:lang="dan">Arktisk Kommando Færøerne</p>
+<p xml:lang="dan">ATS</p>
+<p>Air Traffic Service</p>
+<p xml:lang="dan">DCI</p>
+<p xml:lang="dan">Decompression Illness</p>
+<p xml:lang="dan">DNV</p>
+<p xml:lang="dan">Det Norske Veritas</p>
+<p xml:lang="dan">DSC</p>
+<p xml:lang="dan">Digital Selective Calling</p>
+<p xml:lang="dan">EDV</p>
 <p xml:lang="dan">Elektronisk Dátu Viðgerð</p>
-<p xml:lang="deu">EPIRB</p>
-<p xml:lang="eng">Emergency Positioning Indicating Radio Beacon</p>
-<p xml:lang="deu">ES</p>
-<p xml:lang="eng">EEC European Economic Community</p>
-<p xml:lang="eng">EURDEP European Radiological Data Exchange Platform</p>
-<p xml:lang="deu">FEF</p>
+<p xml:lang="dan">EPIRB</p>
+<p>Emergency Positioning Indicating Radio Beacon</p>
+<p>ES</p>
+<p xml:lang="dan">EEC European Economic Community</p>
+<p xml:lang="dan">EURDEP European Radiological Data Exchange Platform</p>
+<p>FEF</p>
 <p xml:lang="dan">Forbindelseselement Færøerne</p>
-<p xml:lang="deu">FMA</p>
-<p xml:lang="eng">Faroese Maritime Authority (Sjóvinnustýrið)</p>
-<p xml:lang="deu">FRK</p>
-<p xml:lang="isl">Færøernes Kommando – nú Arktisk Kommando</p>
-<p xml:lang="smn">FT</p>
+<p>FMA</p>
+<p>Faroese Maritime Authority (Sjóvinnustýrið)</p>
+<p>FRK</p>
+<p>Færøernes Kommando – nú Arktisk Kommando</p>
+<p>FT</p>
 <p>Føroya Tele</p>
-<p xml:lang="deu">FVE</p>
+<p>FVE</p>
 <p>Fiskiveiðieftirlitið</p>
-<p xml:lang="deu">GMDSS</p>
-<p xml:lang="eng">Global Maritime Distress Safety System</p>
-<p xml:lang="sms">GSM</p>
-<p xml:lang="eng">Global System for Mobile Communications</p>
-<p xml:lang="eng">ICAO</p>
-<p xml:lang="eng">International Civil Aviation Organization</p>
-<p xml:lang="hbs">IMO</p>
-<p xml:lang="eng">International Maritime Organisation</p>
-<p xml:lang="deu">ISAVIA</p>
-<p xml:lang="eng">Manages air traffic in the Icelandic control area</p>
-<p xml:lang="deu">ISM</p>
-<p xml:lang="eng">International Safety Management</p>
-<p xml:lang="est">ISO</p>
-<p xml:lang="eng">International Standard Organization</p>
-<p xml:lang="deu">ISPS</p>
-<p xml:lang="eng">International Ship and Port Facility Security Code</p>
-<p xml:lang="fit">JRCC</p>
-<p xml:lang="eng">Joint Rescue Coordination Centre</p>
-<p xml:lang="olo">KOOL</p>
+<p>GMDSS</p>
+<p xml:lang="dan">Global Maritime Distress Safety System</p>
+<p>GSM</p>
+<p xml:lang="dan">Global System for Mobile Communications</p>
+<p xml:lang="dan">ICAO</p>
+<p xml:lang="dan">International Civil Aviation Organization</p>
+<p xml:lang="dan">IMO</p>
+<p xml:lang="dan">International Maritime Organisation</p>
+<p>ISAVIA</p>
+<p xml:lang="dan">Manages air traffic in the Icelandic control area</p>
+<p>ISM</p>
+<p xml:lang="dan">International Safety Management</p>
+<p xml:lang="dan">ISO</p>
+<p xml:lang="dan">International Standard Organization</p>
+<p>ISPS</p>
+<p xml:lang="dan">International Ship and Port Facility Security Code</p>
+<p>JRCC</p>
+<p xml:lang="dan">Joint Rescue Coordination Centre</p>
+<p>KOOL</p>
 <p xml:lang="dan">Koordinerende læge</p>
-<p xml:lang="vep">KSN</p>
-<p xml:lang="ron">Kommandocentral</p>
-<p xml:lang="vep">KST</p>
-<p xml:lang="est">Kommandostade (skaðastaðsleiðsla)</p>
-<p xml:lang="vep">MAS</p>
-<p xml:lang="eng">Maritime Assistance Service 37</p>
-<p xml:lang="deu">MRCC</p>
-<p xml:lang="eng">Maritime Rescue Coordination Centre</p>
-<p xml:lang="kal">NCR</p>
-<p xml:lang="eng">Non Conformity Report (Frávik)</p>
-<p xml:lang="nno">NM</p>
-<p xml:lang="isl">Near Miss (Um reppi hending)</p>
+<p>KSN</p>
+<p xml:lang="dan">Kommandocentral</p>
+<p>KST</p>
+<p>Kommandostade (skaðastaðsleiðsla)</p>
+<p>MAS</p>
+<p>Maritime Assistance Service 37</p>
+<p>MRCC</p>
+<p xml:lang="dan">Maritime Rescue Coordination Centre</p>
+<p>NCR</p>
+<p xml:lang="dan">Non Conformity Report (Frávik)</p>
+<p>NM</p>
+<p>Near Miss (Um reppi hending)</p>
 <p>NORDRED Avtala um bjargingarsamarbeiði millum Svøríki, Finnland, Danmark, Ísland og Noreg</p>
-<p xml:lang="fra">LS</p>
+<p>LS</p>
 <p>Landssjúkrahúsið</p>
-<p xml:lang="est">LV</p>
-<p xml:lang="isl">Landsverk</p>
-<p xml:lang="rmn">OSC</p>
-<p xml:lang="nob">On Scene Coordinator</p>
-<p xml:lang="vep">SART</p>
-<p xml:lang="eng">Search And Rescue Transponder</p>
-<p xml:lang="vep">SLAR</p>
-<p xml:lang="nob">Side Looking Airborne Radar</p>
-<p xml:lang="vep">SMC</p>
-<p xml:lang="eng">Search And Rescue Mission Coordinator</p>
-<p xml:lang="vep">SMM</p>
-<p xml:lang="eng">Safety Management Manual</p>
-<p xml:lang="sma">SMS</p>
-<p xml:lang="eng">Safety Management System</p>
-<p xml:lang="fra">SOPEP</p>
-<p xml:lang="eng">Shipboard Oil Pollution Emergency Plan</p>
-<p xml:lang="sme">SSL</p>
-<p xml:lang="isl">Strandfaraskip landsins</p>
+<p xml:lang="dan">LV</p>
+<p xml:lang="dan">Landsverk</p>
+<p>OSC</p>
+<p xml:lang="dan">On Scene Coordinator</p>
+<p>SART</p>
+<p xml:lang="dan">Search And Rescue Transponder</p>
+<p>SLAR</p>
+<p xml:lang="dan">Side Looking Airborne Radar</p>
+<p>SMC</p>
+<p xml:lang="dan">Search And Rescue Mission Coordinator</p>
+<p>SMM</p>
+<p xml:lang="dan">Safety Management Manual</p>
+<p>SMS</p>
+<p xml:lang="dan">Safety Management System</p>
+<p>SOPEP</p>
+<p xml:lang="dan">Shipboard Oil Pollution Emergency Plan</p>
+<p>SSL</p>
+<p>Strandfaraskip landsins</p>
 <p>TF</p>
 <p>Tilbúgving Føroya</p>
-<p xml:lang="hbs">US</p>
-<p xml:lang="nno">Umhvørvisstovan – Landsfólkayvirlit – Tinglýsing - Skógrøkt</p>
-<p xml:lang="vep">VØRN</p>
+<p xml:lang="dan">US</p>
+<p>Umhvørvisstovan – Landsfólkayvirlit – Tinglýsing - Skógrøkt</p>
+<p>VØRN</p>
 <p>Stovnur sum fevnir um: MRCC Tórshavn/Tórshavn Radio, Fiskiveiðieftirlitið og Veðurstøðina</p>
-<p xml:lang="deu">WHO</p>
-<p xml:lang="eng">World Health Organization</p>
-<p xml:lang="pol">WP</p>
-<p xml:lang="vep">Way Point</p>
+<p xml:lang="dan">WHO</p>
+<p>World Health Organization</p>
+<p>WP</p>
+<p xml:lang="dan">Way Point</p>
 </body></document>

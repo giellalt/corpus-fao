@@ -1,21 +1,21 @@
-<document xml:lang="fao" id="no_id"><header><title>Fornaldarfrøði</title><genre code="facta"/><author><unknown/></author><wordcount>20</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://namsaetlanir.fo/midnam/laerugreinar/fornaldarfroedi/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem" xml:lang="isl">Nám</p>
-<p type="listitem" xml:lang="olo">Próvstovan</p>
-<p type="listitem" xml:lang="isl">Snar</p>
-<p type="listitem" xml:lang="isl">Námsætlanir</p>
-<p type="listitem" xml:lang="eng">Office 365</p>
-</list><p xml:lang="vep">{$logoLinkText}</p>
-<list><p type="listitem" xml:lang="tur"></p>
-<p type="listitem" xml:lang="tur"></p>
-<p type="listitem" xml:lang="tur"></p>
-<p type="listitem" xml:lang="tur"></p>
-<p type="listitem" xml:lang="tur"></p>
-<p type="listitem" xml:lang="tur"></p>
-</list><p xml:lang="isl">Miðnám</p>
-<list><p type="listitem" xml:lang="isl">Fornaldarfrøði C</p>
-</list><p type="title" xml:lang="isl">Fornaldarfrøði</p>
-<list><p type="listitem" xml:lang="isl">Fornaldarfrøði C</p>
-</list><list><p type="listitem" xml:lang="eng">All rights reserved</p>
-<p type="listitem" xml:lang="eng">Contact us</p>
-<p type="listitem" xml:lang="est">Sitemap</p>
-<p type="listitem" xml:lang="est">Legal</p>
+<document xml:lang="fao" id="no_id"><header><title>Fornaldarfrøði</title><genre code="facta"/><author><unknown/></author><wordcount>20</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/midnam/laerugreinar/fornaldarfroedi/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<p type="listitem">Próvstovan</p>
+<p type="listitem">Snar</p>
+<p type="listitem">Námsætlanir</p>
+<p type="listitem">Office 365</p>
+</list><p>{$logoLinkText}</p>
+<list><p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+<p type="listitem"></p>
+</list><p>Miðnám</p>
+<list><p type="listitem">Fornaldarfrøði C</p>
+</list><p type="title">Fornaldarfrøði</p>
+<list><p type="listitem">Fornaldarfrøði C</p>
+</list><list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
+<p type="listitem">Sitemap</p>
+<p type="listitem">Legal</p>
 </list></body></document>

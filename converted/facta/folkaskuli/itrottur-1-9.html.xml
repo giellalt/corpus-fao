@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Ítróttur 1-9</title><genre code="facta"/><author><unknown/></author><wordcount>4228</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/itrottur-1-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Ítróttur 1-9</title><genre code="facta"/><author><unknown/></author><wordcount>4228</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/itrottur-1-9/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -73,7 +73,7 @@
 <p>Kjarnaøkið útilív fevnir um at skipa, leggja til rættis og fremja ymisk sløg av útivirksemi, leiki, kapping, ferðing, gongutúrum, gisting úti og tílíkum.</p>
 <p type="title">Bóltspæl</p>
 <p>Kjarnaøkið bóltspæl fevnir um bóltspøl av ymiskum slag. Dentur verður lagdur á at venja og menna førleikar næmingsins at handfara bóltin í bóltspæli.</p>
-<p type="title" xml:lang="dan">Svimjing</p>
+<p type="title">Svimjing</p>
 <p>Kjarnaøkið svimjing fevnir um førleikarnar at svimja, at styrkja evnini hjá næminginum at svimja. Eisini fevnir hetta kjarnaøki um kunning um viðurskifti í sambandi við venjing og í sambandi við vandar, ið eru knýttir at svimjing, eitt nú um grundleggjandi bjargingarhættir og fyrstuhjálp.</p>
 <p type="title">Ískoytisøki</p>
 <p>Ískoytisøki eru valfrí øki, sum lærari og næmingar í einstaka flokkinum semjast um í felag. Ískoytisøki kunnu styðja og lýsa eitt ella fleiri kjarnaøki frá øðrum sjónarhornum og vera við til at menna førleikar næmingsins samsvarandi teimum førleikamálum, ið ásett eru. Endamálið við ískoytisøkjum er harumframt at geva skúlum og útbúgvingarbreytum rúm fyri serligum eyðkennum og arbeiðsháttum.</p>
@@ -132,7 +132,7 @@
 <list><p type="listitem">at kasta og lofta</p>
 <p type="listitem">at sparka</p>
 <p type="listitem">einføld bóltspøl við fáum reglum.</p>
-</list><p type="title" xml:lang="dan">Svimjing</p>
+</list><p type="title">Svimjing</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">vatntryggleika og sjálvbjargni</p>
 <p type="listitem">at taka svimjiroyndina Nósi, har møguleiki er fyri tí.</p>
@@ -140,8 +140,8 @@
 <p type="title">Frælsur ítróttur</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at gera samansetingar við renning og lop</p>
-<p type="listitem" xml:lang="dan">avsett og lending</p>
-<p type="listitem" xml:lang="dan">renning, lop og køst.</p>
+<p type="listitem">avsett og lending</p>
+<p type="listitem">renning, lop og køst.</p>
 </list><p type="title">Fimleikur</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at gera grundleggjandi venjingar á ymiskum amboðum.</p>
@@ -164,7 +164,7 @@
 <p type="listitem">at vera við í minibóltspølum og øðrum smáspølum</p>
 <p type="listitem">at síggja, hvønn týdning reglar hava í bóltspæli</p>
 <p type="listitem">einfalt samanspæl.</p>
-</list><p type="title" xml:lang="dan">Svimjing</p>
+</list><p type="title">Svimjing</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at vísa á og greiða frá um ymiskar bjargingarhættir og fyrstuhjálp</p>
 <p type="listitem">og kennir til ymiskar mátar at bjarga sær sjálvum.</p>
@@ -196,7 +196,7 @@
 <p type="listitem">at brúka slagamboð, ketjara, hokkistav og ymisk sløg av battum</p>
 <p type="listitem">at taka lut í minispølum í hond-, fót-, flog- ella kurvabólti</p>
 <p type="listitem">at brúka torførari reglugerðir í bóltspølum.</p>
-</list><p type="title" xml:lang="dan">Svimjing</p>
+</list><p type="title">Svimjing</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">ella kennir bjargingar/sjálvbjargingarhættir</p>
 <p type="listitem">ella veit, hvussu hann kann hjálpa, um vanlukka hendir, uttan at seta seg sjálvan í vanda</p>
@@ -239,7 +239,7 @@
 <p type="listitem">at skapa egin bóltspøl og ítróttarleikir við givnum eins væl og egnari regluskipan</p>
 <p type="listitem">at nýta tøkniligar førleikar úr einsæris ítróttaroyndum og úr liðítrótti</p>
 <p type="listitem">at leggja til rættis taktisk upplegg í ymiskum ítróttum.</p>
-</list><p type="title" xml:lang="dan">Svimjing</p>
+</list><p type="title">Svimjing</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at virka og bera seg trygt at í vatni og á floti.</p>
 </list><p type="title">10. flokkur</p>
@@ -260,10 +260,10 @@
 </list><p type="title">Bóltspæl</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at menna sínar førleikar av undanfarnum stigum víðari.</p>
-</list><p type="title" xml:lang="dan">Svimjing</p>
+</list><p type="title">Svimjing</p>
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at menna sínar førleikar av undanfarnum stigum víðari.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
 <p type="title">9. og 10. flokkur</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir, upplegg og royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini. Eftirmetingarnar skulu skjalfestast skrivliga.</p>
@@ -281,7 +281,7 @@
 </list><p><em type="italic">Ástøðisfatan </em></p>
 <list><p type="listitem">Evni at samansjóða ástøði, verklig viðurskifti og venjingar</p>
 <p type="listitem">Vitan um góðan og sunnan kost, og hvat hetta hevur at týða í virknishøpi</p>
-</list><p xml:lang="dan"><em type="italic">Venjing </em></p>
+</list><p><em type="italic">Venjing </em></p>
 <list><p type="listitem">Likamligt áhaldni</p>
 <p type="listitem">Ráðlegging og fremjan av upphitingarskráum og grundleggjandi venjingarskráum</p>
 </list><p>Næmingarnir skulu eisini eftirmetast við støði í bæði kynssamasjóðaðari og kynstillagaðari undirvísing. Evni teirra at sameina ástøðilig og verklig evni telja eisini við í eftirmetingini.</p>
@@ -317,12 +317,12 @@
 <p type="title">Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri móðurmálinum sum eitt intellektuelt amboð, ið skal víðka sjónarringin hjá næminginum. Allir flokkar skulu tí gera royndir við málinum, eitt nú við sínámillum tosi og við tí at siga frá.</p>
 <p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðatilfeingi og talugávur verða ment. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa nógv. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini. Í byrjanini kunnu næmingarnir t.d. lesa eina stutta bók um dagin. So hvørt sum bøkurnar gerast longri, má meira tíð setast av til at lesa eina bók. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar skulu lesa eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Støddfrøði 1-10</title><genre code="facta"/><author><unknown/></author><wordcount>6694</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/stoeddfroedi-1-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Støddfrøði 1-10</title><genre code="facta"/><author><unknown/></author><wordcount>6694</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/stoeddfroedi-1-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -64,16 +64,16 @@
 </list><p type="title">3. Stig og tímatal</p>
 <p>Lærugreinin <em type="italic">Støddfrøði </em>røkkur frá 1. flokki í fólkaskúla til A-stig í miðnámsskúla. Lærugreinin er kravd í 1. til og við 9. flokki, og er vallærugrein í 10. flokki. Harumframt verður undirvíst í støddfrøði á miðnámsskúlastigi á hesum breytum: Búskaparbreyt (C-, B- og A-stig), Hugbreyt og Fyrireikingarbreyt (C- og B-stig), Náttúrubreyt (C-, B- og A-stig) og á Tøkni- og Tilfeingisbreyt (C-, B- og A-stig). Førleikamálini í støddfrøðini verða mett eftir 2., 4., 6., 9., 10. í fólkaskúlanum og eftir C-stig, B-stig og A-stig í miðnámsútbúgvingunum. </p>
 <p>Stig</p>
-<p xml:lang="dan">1.fl.</p>
-<p xml:lang="dan">2.fl.</p>
-<p xml:lang="dan">3.fl.</p>
-<p xml:lang="dan">4.fl.</p>
-<p xml:lang="dan">5.fl.</p>
-<p xml:lang="dan">6.fl.</p>
-<p xml:lang="dan">7.fl.</p>
-<p xml:lang="dan">8.fl.</p>
-<p xml:lang="dan">9.fl.</p>
-<p xml:lang="dan">10.fl.</p>
+<p>1.fl.</p>
+<p>2.fl.</p>
+<p>3.fl.</p>
+<p>4.fl.</p>
+<p>5.fl.</p>
+<p>6.fl.</p>
+<p>7.fl.</p>
+<p>8.fl.</p>
+<p>9.fl.</p>
+<p>10.fl.</p>
 <p>Klokkutímar</p>
 <p>210</p>
 <p>210</p>
@@ -92,7 +92,7 @@
 <p type="title">Tøl og algebra</p>
 <p>Kjarnaøkið <em type="italic">tal og algebra </em>er um talfatan. Undirvísingin skal dýpa kunnleika næmingsins til tøl, talviðgerð og talhugtakið. Vant verður at rokna bæði við tølum og bókstavum so at grundarlag verður lagt undir undirvísingina í hinum kjarnaøkjunum. Tøl fevna bæði um heil tøl, brot og reell tøl, roknireglur fyri brot og reell tøl, potens og rót, umframt prosentrokning. Algebra verður serliga nýtt í kjarnaøkjunum <em type="italic">geometri </em>og <em type="italic">funktiónum </em>. </p>
 <p>Undirvísingin kann fara fram við kanningum, spæli, spølum og við at rokna uppgávur við greiðsluevnum. Í byrjanini verður arbeitt við at menna talfatanina og at styrkja kunnleikan um tað sum bindur mongd, talorð og taltekn saman. Eindir verða taldar, og funnið verður fram til eindir við at leggja saman og draga frá. Tøl verða býtt, og roknað verður við einføldum brotum og kommatølum. Hugtøk sum "flest" og "fæst", "dupult" og "helvtin", at býta, talfylgdir, brot og kommatøl verða umrødd og viðgjørd. Roknimaskina og KT verða nýtt í hóskandi mun.</p>
-<p type="title" xml:lang="dan">Geometri og trigonometri</p>
+<p type="title">Geometri og trigonometri</p>
 <p>Geometri snýr seg um at greina eginleikar hjá tvey- og trídimensionalum skapum, og at gera tekningar og útrokningar. Í hesum arbeiði brúkar næmingurin KT-amboð. Spegling, snaring og flyting av skapum eru eisini partur av undirvísingini í geometri. At byrja við eru viðrakingar av lutum og fyribrigdum í gerandisdegnum týðandi partur av samtaluni um geometri. Í hesum kjarnaøki verður eisini arbeitt við geometrisk hugtøk so sum stødd, skap og symmetri, umframt at tættir úr gerandisdegnum verða endurgivnir í tekning. Lutir verða skipaðir eftir skapi, stødd og øðrum eginleikum, og mátingar verða gjørdar av fjarstøðu, flata, rúmi og vekt.</p>
 <p>Við at rita/tekna, lýsa og kanna ymiskar figurar og mynstur, verður støði lagt undir samrøðu um geometriskar mannagongdir og hugtøk. Í hesum sambandi verður arbeitt við evni og hugtøk so sum vinkulhugtakið, vinkulsummar í tríkantum og øðrum polygonum, linjuparalellitetur, umframt sambandið millum ummátið og diameturin í einum sirkli, og symmetri.</p>
 <p type="title">Støddfrøði í nýtslu</p>
@@ -129,7 +129,7 @@
 <p>Næmingurin evnar at orða spurningar og at seta fram tilhugsanir, sum kunnu verða kannaðar, próvføra og skifta orð um hetta við atliti at øðrum støddfrøðiligum upplýsingum. Tað merkir, at næmingurin skal vera við í samrøðum, samskifta við onnur um hugskot og tosa um spurningar og hugsandi loysnir.</p>
 <p>Næmingurin skal læra, at verkligar royndir og frágreiðingar um støddfrøðilig viðurskifti eru ein partur av skapandi tilgongdini, sum byggir á hugflog, íblástur og treystleika. Við atliti at búningarstigi og serligu gávum næmingsins verður arbeitt miðvíst við skapandi tilgongdum, sum fremja íblástur og stimbra hugflog. Við at arbeiða við myndlum lærir næmingurin at meta um dygdina í avrikum hjá sær sjálvum og øðrum.</p>
 <p type="title">Fakligir førleikar</p>
-<p type="title" xml:lang="dan">2. floksstig</p>
+<p type="title">2. floksstig</p>
 <p type="title">Tøl og algebra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">teljitølini og at skyna á støðubundnu talskipanini við <em type="italic">einarum </em>, <em type="italic">tíggjarum </em>og <em type="italic">hundrarum </em></p>
@@ -138,7 +138,7 @@
 <p type="listitem">at falda smá tøl, t.e. tøl við í mesta lagi tveimum talteknum, og vita raðfylgjuna av rokniháttunum</p>
 <p type="listitem">at finna tað dupulta og helvtina og kenna desimaltøl, t.d. í sambandi við pening</p>
 <p type="listitem">at nýta lummaroknara at loysa uppgávur úr gerandisdegnum.</p>
-</list><p type="title" xml:lang="dan">Geometri</p>
+</list><p type="title">Geometri</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at greiða frá einføldum skapum so sum tríkantum, fýrkantum og sirklum</p>
 <p type="listitem">at flyta, spegla og broyta stødd á skapum</p>
@@ -154,7 +154,7 @@
 <list><p type="listitem">at lýsa støddfrøðiligar mannagongdir og greiða frá teimum, harímillum at lýsa egin uppskot til loysnir</p>
 <p type="listitem">at meta um úrslit</p>
 <p type="listitem">at arbeiða saman um greiðsluevni, sum hava í sær fleiri loysnir.</p>
-</list><p type="title" xml:lang="dan">4. floksstig</p>
+</list><p type="title">4. floksstig</p>
 <p type="title">Tøl og algebra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at skyna á støðubundnu talskipanini við <em type="italic">einarum </em>, <em type="italic">tíggjarum </em>og <em type="italic">hundrarum </em></p>
@@ -167,7 +167,7 @@
 <p type="listitem">krossskipanina og sambandið millum tøl og tekning</p>
 <p type="listitem">loysa einfaldar líkningar, sum hava samanlegging, frádrátt og falding í sær</p>
 <p type="listitem">at nýta lummaroknara at loysa uppgávur úr gerandisdegnum.</p>
-</list><p type="title" xml:lang="dan">Geometri</p>
+</list><p type="title">Geometri</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at greiða frá eyðkennum hjá tríkantum, fýrkantum og sirklum</p>
 <p type="listitem">at rokna ummál og vídd á tríkantum og fýrkantum</p>
@@ -184,7 +184,7 @@
 <list><p type="listitem">at lýsa støddfrøðiligar mannagongdir og greiða frá teimum, har ímillum at lýsa egin uppskot til loysnir</p>
 <p type="listitem">at meta um úrslit</p>
 <p type="listitem">at arbeiða saman um greiðsluevni, sum hava í sær fleiri loysnir.</p>
-</list><p type="title" xml:lang="dan">6. floksstig</p>
+</list><p type="title">6. floksstig</p>
 <p type="title">Tøl og algebra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at skyna á støðubundnu talskipanini</p>
@@ -197,7 +197,7 @@
 <p type="listitem">loysa einfaldar líkningar og vísa á dømi um nýtslu av brigdli í einføldum líkningum og formlum</p>
 <p type="listitem">krossskipanina og sambandið millum tøl og tekning</p>
 <p type="listitem">at nýta lummaroknara at loysa uppgávur og greiðsluevni.</p>
-</list><p type="title" xml:lang="dan">Geometri</p>
+</list><p type="title">Geometri</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at arbeiða við hugtøkini <em type="italic">punkt </em>, <em type="italic">linjustykki </em>, <em type="italic">rættar linjur </em>og <em type="italic">vinklar </em>. </p>
 <p type="listitem">hugtøkini <em type="italic">radius </em>, <em type="italic">tvørmát </em>og <em type="italic">vinkulmát </em>. </p>
@@ -219,7 +219,7 @@
 <list><p type="listitem">at savna og skipa dátur í sambandi við eygleiðingar, spurnarkanningar og royndir</p>
 <p type="listitem">at leggja úrslit fram í talvum og ritmyndum, at lesa og greina tær bæði munnliga, á pappíri og við hentleikunum í talgildum rokniarki</p>
 <p type="listitem">at arbeiða saman um greiðsluevni, sum hava í sær fleiri loysnir.</p>
-</list><p type="title" xml:lang="dan">9. floksstig</p>
+</list><p type="title">9. floksstig</p>
 <p type="title">Tøl og algebra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at skyna á støðubundnu talskipanini</p>
@@ -234,7 +234,7 @@
 <p type="listitem">beint og øvut lutfall</p>
 <p type="listitem">at nýta formlar m.a. í sambandi við útrokning av rúmd og rentu</p>
 <p type="listitem">at nýta teldu og framkomnan lummaroknara til útrokningar og til at loysa greiðsluevni.</p>
-</list><p type="title" xml:lang="dan">Geometri</p>
+</list><p type="title">Geometri</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at greiða frá eyðkennum hjá tvey- og trídimensjonellum skapum</p>
 <p type="listitem">at rokna ummál, vídd og rúmd</p>
@@ -261,7 +261,7 @@
 <p type="listitem">at meta um gildið av úrslitum og framløguhátti</p>
 <p type="listitem">at orða spurdómar, lýsa mannagongdir og siga frá loysnum munnliga og skrivliga</p>
 <p type="listitem">at arbeiða saman um greiðsluevni, sum hava í sær fleiri loysnir.</p>
-</list><p type="title" xml:lang="dan">10. floksstig</p>
+</list><p type="title">10. floksstig</p>
 <p type="title">Tøl og algebra</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at skyna á støðubundnu talskipanini. Vita um menningina av tølunum sum skrivingarhátt.</p>
@@ -277,7 +277,7 @@
 <p type="listitem">at nýta kendar og ókendar formlar m.a. í sambandi við útrokning av rúmd og rentutilskriving</p>
 <p type="listitem">tekna funktiónir á 2. stigi og rokna nullpunkt eftir leiðarriti (forskrift)</p>
 <p type="listitem">at nýta teldu og lummaroknara, sum hevur súmbolmanipulatión til útrokningar og til at loysa greiðsluevni.</p>
-</list><p type="title" xml:lang="dan">Geometri</p>
+</list><p type="title">Geometri</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at kenna og greiða frá eyðkennum hjá ymiskum geometriskum skapum</p>
 <p type="listitem">at rokna ummál, vídd og rúmd</p>
@@ -304,7 +304,7 @@
 <p type="listitem">at meta um gildið av úrslitum og framløguhátti</p>
 <p type="listitem">at orða spurdómar, lýsa mannagongdir og siga frá loysnum munnliga og skrivliga</p>
 <p type="listitem">at arbeiða saman um greiðsluevni, sum hava í sær fleiri loysnir.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
 <p type="title">9. flokkur</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal ávegis í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini. Næmingurin skal hava eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir, munnligar framløgur og skrivligar royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisni fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini.</p>
@@ -334,10 +334,10 @@
 <p type="listitem">sýnir fakligt hegni</p>
 </list><p>Givið verður eitt próvtal í greiðslurokning og eitt í fimisrokning við støði í einari heildarmeting av samlaða avriki próvtakarans.</p>
 <p type="title">Próvtalslýsingar</p>
-<p type="title" xml:lang="dan">Skrivlig próvtøka - 9. floksstig</p>
+<p type="title">Skrivlig próvtøka - 9. floksstig</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Próvtøkusvarið er greitt, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Próvtakarin endurgevur, greinar og viðger spurningarnar framúr væl, og vísir sera gott innlit í próvtilfarið. Hann brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini.Viðløgdu útrokningar og tilfar annars stuðlar próvtøkusvarinum sera væl. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -377,10 +377,10 @@
 <p type="listitem">evnar at síggja uppgávuna í frásjón</p>
 </list><p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans.</p>
 <p type="title">Próvtalslýsingar</p>
-<p type="title" xml:lang="dan">Skrivliglig próvtøka - 10. floksstig</p>
+<p type="title">Skrivliglig próvtøka - 10. floksstig</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Próvtøkusvarið er greitt, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Próvtakarin endurgevur, greinar og viðger spurningarnar framúr væl, og vísir sera gott innlit í próvtilfarið. Hann brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini.Viðløgdu útrokningar og tilfar annars stuðlar próvtøkusvarinum sera væl. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -392,7 +392,7 @@
 <p type="title">Munnlig próvtøka - 10. floksstig</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Framløgan er greið, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Próvtakarin endurgevur og greinar próvtøkutilfarið sera væl og viðgerðin er sera væl grundað, við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -434,12 +434,12 @@
 <p type="title">Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri móðurmálinum sum intellektuellum amboði, ið skal víðka sjónarringin hjá næminginum. Umráðandi er, at næmingurin fær venjing í at brúka móðurmáli í lærugreinini, eitt nú við sínámillum tosi og við tí at siga frá.</p>
 <p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðaval og talugávur mennast. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar (tilevnaðar) samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa nógv. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar skulu lesa eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

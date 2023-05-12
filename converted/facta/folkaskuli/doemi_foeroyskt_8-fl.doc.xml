@@ -1,11 +1,11 @@
 <document xml:lang="fao" id="no_id"><header><title> 
 Untitled
-</title><genre code="facta"/><author><unknown/></author><wordcount>179</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>Doemi_foeroyskt_8-fl.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">U </em><em type="bold">ndirvísingargongd </em><em type="bold"></em></p>
+</title><genre code="facta"/><author><unknown/></author><wordcount>179</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>Doemi_foeroyskt_8-fl.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">U </em><em type="bold">ndirvísingargongd </em><em type="bold"></em></p>
 <p><em type="bold">Eftir hvørja lokna undirvísingargond, letur l </em><em type="bold">ærari </em><em type="bold">n </em><em type="bold">leiðslu </em><em type="bold">skúlans eitt eintak av hesum skjali. </em><em type="bold"></em><em type="bold">Er talan um flokk, sum skal til munnliga próvtøku, verður skjalið eisini latið próvdómara. </em><em type="bold"></em></p>
 <p><em type="bold">Skúlaár </em></p>
 <p><em type="bold">Skúli </em></p>
 <p><em type="bold">Floksheiti </em></p>
-<p xml:lang="dan"><em type="bold">Floksstig </em></p>
+<p><em type="bold">Floksstig </em></p>
 <p><em type="bold">8 </em><em type="bold">. flokkur </em><em type="bold"></em></p>
 <p><em type="bold">Lærugrein </em></p>
 <p><em type="bold">Føroyskt </em><em type="bold"></em></p>
@@ -34,7 +34,7 @@ Untitled
 <p type="listitem">Grundleggjandi greining og tulking av ymiskum tekstasløgum.</p>
 <p type="listitem">Grundleggjandi greining av skaldskapi av mannamunni</p>
 </list><p><em type="bold">Arbeiðshættir </em></p>
-<list><p type="listitem" xml:lang="dan">Faklig lesing</p>
+<list><p type="listitem">Faklig lesing</p>
 <p type="listitem">Floksundirvísing</p>
 <p type="listitem">Næmingar hava arbeitt einsæris</p>
 <p type="listitem">Kjak</p>
@@ -46,7 +46,7 @@ Untitled
 <p type="listitem">FO-110  Tórshavn</p>
 <p type="listitem">(+298) 35 50 50</p>
 <p type="listitem">(+298) 35 50 55</p>
-<p type="listitem" xml:lang="dan">mmr@mmr.fo</p>
-<p type="listitem" xml:lang="dan">www.mmr.fo</p>
+<p type="listitem">mmr@mmr.fo</p>
+<p type="listitem">www.mmr.fo</p>
 <p>mentamálaráðið</p>
 </body></document>

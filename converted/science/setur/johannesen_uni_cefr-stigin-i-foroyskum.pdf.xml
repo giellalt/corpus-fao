@@ -1,10 +1,10 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>14942</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>johannesen_uni_cefr-stigin-í-føroyskum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">CEFR-stigin í føroyskum </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>14942</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>johannesen_uni_cefr-stigin-í-føroyskum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">CEFR-stigin í føroyskum </em></p>
 <p>Lýsing av føroyskum eftir CEFR-stiganum. Tilmæli um, hvør mállæra skal lærast nær, tá ið føroyskt verður lært sum fremmant mál.</p>
 <p>Uni Johannesen</p>
 <p>Studentanummar: 2015.176</p>
 <p>BA-ritgerð</p>
 <p>Vegleiðari: Hjalmar P. Petersen</p>
-<p xml:lang="dan">Dagfesting: 05.10.2018</p>
+<p>Dagfesting: 05.10.2018</p>
 <p><em type="bold">Innihaldsyvirlit </em>1 </p>
 <p><em type="bold">Inngangur </em>................................................................................................................... 1 2 </p>
 <p><em type="bold">Háttalag </em>....................................................................................................................... 2 3 </p>
@@ -13,9 +13,9 @@
 <p>Undirvísing fyri nýmælt í dag ............................................................................ 4 3.2.1</p>
 <p>Tilfar í undirvísingini ........................................................................... 5 3.2.2</p>
 <p>Nýføroyingurin og undirvísingin ......................................................... 5 4</p>
-<p xml:lang="eng"><em type="bold">CEFR </em>........................................................................................................................... 7 5 </p>
+<p><em type="bold">CEFR </em>........................................................................................................................... 7 5 </p>
 <p><em type="bold">CEFR-stigin í føroyskum </em>.......................................................................................... 9 5.1 </p>
-<p xml:lang="eng">Pre-A1 .............................................................................................................. 10 5.1.1</p>
+<p>Pre-A1 .............................................................................................................. 10 5.1.1</p>
 <p>Kyn ..................................................................................................... 11 5.1.2</p>
 <p>Kenniorð ............................................................................................. 11 5.1.3</p>
 <p>Navnorð .............................................................................................. 11 5.1.4</p>
@@ -26,7 +26,7 @@
 <p>Fyrisetingar ........................................................................................ 13 5.1.9</p>
 <p>Hjáorð ................................................................................................. 13 5.1.10</p>
 <p>Sambindingarorð ................................................................................ 13 5.2</p>
-<p xml:lang="eng">A1 ..................................................................................................................... 13 5.2.1</p>
+<p>A1 ..................................................................................................................... 13 5.2.1</p>
 <p>Kyn ..................................................................................................... 13 5.2.2</p>
 <p>Kenniorð ............................................................................................. 14 5.2.3</p>
 <p>Navnorð .............................................................................................. 14 5.2.4</p>
@@ -39,7 +39,7 @@
 <p>Sambindingarorð ................................................................................ 21 5.2.11</p>
 <p>Setningafrøði ...................................................................................... 21 5.2.12</p>
 <p>Orðasamansetingar &amp; avleiðslur ........................................................ 21 5.3</p>
-<p xml:lang="eng">A2 ..................................................................................................................... 21 5.3.1</p>
+<p>A2 ..................................................................................................................... 21 5.3.1</p>
 <p>Navnorð .............................................................................................. 21 5.3.2</p>
 <p>Lýsingarorð ........................................................................................ 22 5.3.3</p>
 <p>Talorð ................................................................................................. 23 5.3.4</p>
@@ -69,7 +69,7 @@
 <p>Sambindingarorð ................................................................................ 32 5.5.8</p>
 <p>Orðasamansetingar &amp; avleiðslur ........................................................ 32 5.5.9</p>
 <p>Umljóð og ljóðlíking .......................................................................... 32 5.6</p>
-<p xml:lang="eng">C1 ..................................................................................................................... 33 5.6.1</p>
+<p>C1 ..................................................................................................................... 33 5.6.1</p>
 <p>Navnorð .............................................................................................. 33 5.6.2</p>
 <p>Lýsingarorð ........................................................................................ 33 5.6.3</p>
 <p>Talorð ................................................................................................. 33 5.6.4</p>
@@ -78,12 +78,12 @@
 <p>Sambindingarorð ................................................................................ 34 5.6.7</p>
 <p>Setningafrøði ...................................................................................... 34 5.6.8</p>
 <p>Orðasamansetingar &amp; avleiðslur ........................................................ 34 5.7</p>
-<p xml:lang="eng">C2 ..................................................................................................................... 35 5.7.1</p>
+<p>C2 ..................................................................................................................... 35 5.7.1</p>
 <p>Fornøvn .............................................................................................. 35 5.7.2</p>
 <p>Sagnorð .............................................................................................. 35 5.7.3</p>
 <p>Setningafrøði ...................................................................................... 36 6</p>
 <p><em type="bold">Umrøða &amp; niðurstøða </em>.............................................................................................. 36 7 </p>
-<p xml:lang="eng"><em type="bold">Bókmentalisti </em>............................................................................................................ 38 8 </p>
+<p><em type="bold">Bókmentalisti </em>............................................................................................................ 38 8 </p>
 <p><em type="bold">Fylgiskjøl </em>................................................................................................................... 40 8.1 </p>
 <p>Fylgiskjal 1: Brot av teksti av heimasíðuni hjá Útlendingastovuni.................. 40 8.2</p>
 <p>Fylgiskjal 2: Jórun Høgnesen svarar ................................................................ 42 8.3</p>
@@ -129,7 +129,7 @@
 <p>Kringvarpið hevur gjørt. Við tí fái eg at vita, hvussu nógvir ymiskir tilfytarar hava upplivað at skula læra føroyskt. Fyri at fáa størri innlit í málið, havi eg eisini tosað við</p>
 <p>Julianu Arias, sum flutti til Føroya í 2016.</p>
 <p>Eitt, sum verður nevnt aftur og aftur, er, at tað almenna ger ov lítið fyri at lofta tilflytarunum; og her er tað, at tøttu familjubondini í Føroyum hava ein fyrimun við sær.</p>
-<p>T.d. nevnir Jacob Haugaard, at <span type="quote" xml:lang="dan">“Færøerne er et familiebundet samfund. [...] Hvis du ikke er bundet på en familie, så er du lidt tabt deroppe”</span> ( <em type="italic">Gløgt er gestsins eyga </em>2009: 26:31). </p>
+<p>T.d. nevnir Jacob Haugaard, at <span type="quote">“Færøerne er et familiebundet samfund. [...] Hvis du ikke er bundet på en familie, så er du lidt tabt deroppe”</span> ( <em type="italic">Gløgt er gestsins eyga </em>2009: 26:31). </p>
 <p>Tað er sjálvandi gott, at familjan hjá hjúnafelaganum hjá tilflytaranum kann hjálpa við máli, mentan og dagliga lívinum annars, men tað er ikki altíð, at tað ber til. Tí má tað almenna hava eitt greitt tilboð til allar tilflytarar. Tá einki ella eitt avmarkað tilboð er til tilflytarar at læra seg føroyskt, so ávirkar hetta dagliga lívið hjá tilflytaranum, soleiðis at hann illa fær samskift við starvsfelagar og vinir. Petra Majtanova, sum er úr Slovakia, heldur nevniliga, at um tú ikki skilir onnur og onnur ikki skilja teg, so endar tað við, at tú aldri fert út og at tú sostatt ikki verður integreraður í samfelagið ( <em type="italic">Úr útlendskum í føroyskt </em>2014: 22:57). Kate Sanderson heldur eisini, at tað er brúk fyri, at meir verður gjørt við <span type="quote">“at hjálpa fólki at betri integrera seg í føroyska samfelagið,”</span> og víðari sigur hon, <span type="quote">“her hugsi eg serliga kanska um møguleikan at læra seg málið [...]”</span> ( <em type="italic">Gløgt er gestsins eyga </em>2009: 10:10). </p>
 <p>Sum sagt hevði eg eina samrøðu við Julianu Arias úr Kolumbia. Hon er gift føroyingi og hevur lært týskt tá hon las í Týsklandi, so hon hevur góðar fortreytir fyri at læra føroyska mállæru. Tá hon fyrst kom, fór hon á eitt kvøldskeið hjá Tórshavnar kvøldskúla. Hetta skeiðið var ætlað útlendingum, sum ikki eru úr Norðurlondum, og hon helt tað vera fínt, men tilfarið, sum varð brúkt, var kanska ikki so eggjandi, tí tað vóru nógvar barnabøkur og tey spældu ymisk barnaspøl í tímunum. Juliana helt hetta tó vera í lagi, tí hetta var bara eitt kvøld um vikuna – hon var glað fyri at kunna luttaka á skeiðnum, men móti endanum tyktist skeiðið henni ov keðsamt. (Arias 2018)</p>
 <p>Seinni fór hon á intensiva skeiðið hjá Tórshavnar kvøldskúla. Her var talan um 4 tímar um dagin, men av tí at skeiðið hjá Bergljót var fullteknað, og so mong vóru á bíðilista, varð eitt seinnapartsskeið gjørt. Juliana var á hesum skeiðnum, og her upplivdi hon manglandi bygnaðin í undirvísingartilboðum í føroyskum fyri útlendingar. Juliana metti, at lærarin á seinnapartsskeiðnum ikki hevði fingið so nógva vegleiðing í, hvussu skeiðið skuldi skipast, tí tað byrjaði fínt við at tey brúktu bókina <em type="italic">Vælkomin </em>hjá Bergljót av Skarði, men sum frá leið fóru tey aftur at lesa barnabøkur. Juliana og onnur á hesum skeiðnum sóu eisini, hvussu førleikarnir í føroyskum hjá luttakarunum á fyrraparts-skeiðnum mentust, meðan teirra egnu førleikar ikki mentust líka nógv. Hon ger vart við, at hetta er eitt tekn uppá vantandi bygnað, tí í roynd og veru áttu hesi bæði skeiðini at verið eins, men úrkoman var hvør sín. Juliana helt tað vera so keðiligt at skula brúka so nógva tíð uppá nakað, sum ikki gav nevniverd úrslit, so hon valdi at gevast á skeiðnum. </p>
@@ -139,9 +139,9 @@
 <p>Har verður mælt til, at Mentamálaráðið brúkar CEFR-skipanina, tá hetta økið skal skipast í Føroyum. Fílst verður eisini at, at tey tilboðini um undirvsísing, sum nú eru, eru ov óskipað. Tað skal møguliga vera krav at læra tey føroyskt, men fyrst mugu vit <span type="quote">“megna at skipa fyri dygdargóðum skeiðum í føroyskum fyri útlendingar”</span> (Málráðið 2017).</p>
 <p>Mentamálaráðið (2018) svarar næstan eitt ár seinni, at tey eru samd í, at tað átti at verið krav hjá tilflytarum at lært seg føroyskt, men tey siga seg ikki hava ræði á hesum. Tey eru tó ósamd í, at tilboðini eru óskipað, og siga seg skipa fyri nógvum undirvísingartilboðum á ymsum stigum kring landið (Mentamálaráðið 2018). Eg haldi ikki, at vit kunnu siga, at undirvísingin hjá Julianu var nakað serliga væl skipað, hóast Mentamálaráðið staðiliga vil vera við, at undirvísingin er skipað. Við eini skipan sum CEFR høvdu vit kunna bygt okkara undirvísingartilboð eftir evropeiskum standardum og harvið eisini <span type="quote">“fingið ágóðan av royndum hjá øðrum”</span> (Málráðið 2017), sum kanska er neyðugt nú vit fáa fleiri og fleiri tilflytarar til Føroya, sum helst skulu læra føroyskt so skjótt sum teir koma. <em type="bold">4 CEFR </em></p>
 <p>CEFR stendur fyri Common European Framework of Reference for Languages, og verður styttingin í dag ofta brúkt fyri skipanina, sum varð lýst í bókini <em type="italic">Common European </em></p>
-<p xml:lang="eng"><em type="italic">Framework of Reference for Languages: Learning, Teaching, Assesment </em>, sum </p>
+<p><em type="italic">Framework of Reference for Languages: Learning, Teaching, Assesment </em>, sum </p>
 <p>Evroparáðið gav út í 2001 (Council of Europe 2001). CEFR kann á føroyskum týðast til</p>
-<p><em type="italic">Samanburðarskipanin hjá Evroparáðnum </em>ella <em type="italic">ein felags evropisk samanburðarramma </em><em type="italic">fyri tungumál </em>, men nevni eg hesar týðingar mest fyri at útgreina, hvat CEFR stendur fyri á føroyskum, tí <span type="quote" xml:lang="eng">“CEFR”</span>-styttingin er so mikið nógv brúkt, at tað man vera best at halda seg til hana í Føroyum eisini. </p>
+<p><em type="italic">Samanburðarskipanin hjá Evroparáðnum </em>ella <em type="italic">ein felags evropisk samanburðarramma </em><em type="italic">fyri tungumál </em>, men nevni eg hesar týðingar mest fyri at útgreina, hvat CEFR stendur fyri á føroyskum, tí <span type="quote">“CEFR”</span>-styttingin er so mikið nógv brúkt, at tað man vera best at halda seg til hana í Føroyum eisini. </p>
 <p>CEFR er ein lýsing av tí, sum fólk, sum læra eitt mál, skulu læra, fyri at kunna samskifta í hesum máli. Hendan lýsingin er býtt upp í stig, soleiðis at tað ber til at fylgja við, hvussu málmenningin gongur hjá tí, sum lærir seg tungumálið. Við CEFR ber til hjá útbúgvingarstovnum og øðrum at leggja frálærutilfar til rættis, soleiðis at útbúgvingar-tilboð innan tungumál fylgja sama leisti tvørturum landamørk og fyri øll tungumálini í</p>
 <p>Evropa. CEFR verður brúkt at meta um málførleikar í næstan øllum londunum í ES, umframt at tað hevur vunnið seg fram í øðrum londum eisini. (Council of Europe 2001: 1 &amp; Council of Europe 2018: 25)</p>
 <p>Undirheitið á bókini er <em type="italic">Learning, Teaching, Assessment </em>, og hóast tað er hetta seinasta, <em type="italic">assessment </em>, ella metingin við CEFR-stigunum, sum man vera tað, sum CEFR er best kent fyri, so verður eisini nógv greitt frá, um hvussu fólk læra, og hvørjir hættir eru bestu frálæruhættirnir. Tað serliga við hesum er, at høvuðsdenturin verður lagdur á sjálvar samskiftisførleikarnar og ikki bara hvat tú dugir av mállæruni. Eg fari ikki at gera meir við tað, sum stendur í bókini um tilmæli um frálæruhættir og ástøði um hvussu fólk læra mál, men leggi heldur dent á mállæruna, hóast hon kanska ikki verður so gjølla lýst í bókini. Tað eru tó nakrir kapitlar um ymiskt, sum mann skal duga á ymsum stigum, og verður tað serliga hetta, eg leggi orku í. Hóast t.d. framburður, rættskriving og teknseting kunnu sigast at vera partur av mállæruni fyri eitt mál, so velji eg her í høvuðsheitum at viðgera teir partarnar, sum hava við bendingar og setningsbygnað at gera. </p>
@@ -152,45 +152,45 @@
 <p>IOL hevur greinað skeiðini á heimasíðuni soleiðis (IcelandicOnline):</p>
 <p><em type="bold">Skeið á IOL </em></p>
 <p><em type="bold">Skeiðsheiti </em></p>
-<p xml:lang="eng"><em type="bold">CEFR </em></p>
+<p><em type="bold">CEFR </em></p>
 <p><em type="bold">Bjargir </em></p>
 <p>Yvirlivingarskeið fyri fullkomnar byrjarar</p>
-<p xml:lang="eng">Pre-A12</p>
-<p xml:lang="eng"><em type="bold">IOL1 </em></p>
+<p>Pre-A12</p>
+<p><em type="bold">IOL1 </em></p>
 <p>Byrjanarskeið</p>
-<p xml:lang="eng">A1</p>
-<p xml:lang="eng"><em type="bold">IOL2 </em></p>
+<p>A1</p>
+<p><em type="bold">IOL2 </em></p>
 <p>Lægri framhaldsskeið</p>
-<p xml:lang="eng">A1/A2</p>
-<p xml:lang="eng"><em type="bold">IOL3 </em></p>
+<p>A1/A2</p>
+<p><em type="bold">IOL3 </em></p>
 <p>Framhaldsskeið</p>
-<p xml:lang="eng">A2/B1</p>
-<p xml:lang="eng"><em type="bold">IOL4 </em></p>
+<p>A2/B1</p>
+<p><em type="bold">IOL4 </em></p>
 <p>Hægri framhaldsskeið</p>
 <p>B1/B2</p>
-<p xml:lang="eng"><em type="bold">IOL5 </em></p>
+<p><em type="bold">IOL5 </em></p>
 <p>Víðkað skeið</p>
-<p xml:lang="eng">C1</p>
+<p>C1</p>
 <p><em type="italic">Talva 1 Yvirlit yvir IOL í mun til CEFR </em></p>
 <p>Her havi eg týtt IOL-skeiðsheitini úr enskum í føroyskt. Pre-A1 er ikki tikið við í</p>
 <p>IOL, møguliga tí tað er rættiliga nýtt. Tað verður umrøtt í <em type="italic">CEFR Companion Volume </em>sum eitt stundum neyðugt stig fyri summi at taka eisini (Council of Europe 2018: 46). </p>
 <p>Um eg vendi hesum við, soleiðis at vit byrja við CEFR, og eg síðani leggi IOL og kapitlarnar í lesibókini í FLC inn í her, fáa vit ein CEFR-stiga, sum nøkulunda sigur, á hvørjum CEFR-stigi skeiðini á IOL og kapitlarnir í FLC eru á. Hetta seinna er bara ein leyslig meting út frá samlaða tali av kapitlum í mun til samlað tal av CEFR-stigum. 2 CEFR-flokkingin Pre-A1 fyri <span type="quote">“Bjargir”</span> er mín egna flokking.</p>
-<p xml:lang="eng"><em type="bold">CEFR </em></p>
+<p><em type="bold">CEFR </em></p>
 <p><em type="bold">Skeið á IOL </em></p>
 <p><em type="bold">Kapitlar í FLC </em></p>
-<p xml:lang="eng"><em type="bold">Pre-A1 </em></p>
+<p><em type="bold">Pre-A1 </em></p>
 <p>Bjargir 1</p>
-<p xml:lang="eng"><em type="bold">A1 </em></p>
-<p xml:lang="eng">IOL1-2 1-3</p>
-<p xml:lang="eng"><em type="bold">A2 </em></p>
-<p xml:lang="eng">IOL2-3 3-5</p>
+<p><em type="bold">A1 </em></p>
+<p>IOL1-2 1-3</p>
+<p><em type="bold">A2 </em></p>
+<p>IOL2-3 3-5</p>
 <p><em type="bold">B1 </em></p>
-<p xml:lang="eng">IOL3-4 5-7</p>
+<p>IOL3-4 5-7</p>
 <p><em type="bold">B2 </em></p>
-<p xml:lang="eng">IOL4 7-10</p>
-<p xml:lang="eng"><em type="bold">C1 </em></p>
-<p xml:lang="eng">IOL5 11-13</p>
-<p xml:lang="eng"><em type="bold">C2 </em>- 13-15 </p>
+<p>IOL4 7-10</p>
+<p><em type="bold">C1 </em></p>
+<p>IOL5 11-13</p>
+<p><em type="bold">C2 </em>- 13-15 </p>
 <p><em type="italic">Talva 2 Mín leysa útluting av skeiðum á IOL og kapitlum í FLC yvir CEFR-stigini. </em></p>
 <p>Havast skal í huga, at hetta bara er ein fyribils talva, soleiðis at tað betur ber til at meta um, hvat skal lærast nær. Frameftir merkir FLC3, at eg meini við 3. kapittul í FLC og FLC4 meinast við 4. kapittul, o.s.fr.</p>
 <p>Eg velji her at seta markið millum hvørt stig soleiðis, at tann sum lærir seg føroyskt, skal duga alla mállæruna í tí eina stiginum fyri at standa hetta stigið og kunna fara víðari á næsta stig. Altso, tá ein dugir alla mállæruna í A1, kann viðkomandi fara víðari á stig</p>
@@ -201,7 +201,7 @@
 <p>At byrja við kann vera nokk at nevna, at vit á føroyskum hava trý kyn: kallkyn, kvennkyn og hvørkikyn. Kallkynið er sermerkt við, at orðið endar við <em type="italic">-ur </em>(ella <em type="italic">-i </em>), kvennkynið er sermerkt við at orðið endar við <em type="italic">-a </em>(ella við ongum ( <em type="italic">-0 </em>)), meðan hvørkikynið er sermerk við at tað endar við ongum ( <em type="italic">-0 </em>) (ella við <em type="italic">-i </em>ella <em type="italic">-a </em>). Tað sum er í klombrum kunnu vit tó bíða við. </p>
 <p>FOL sigur hetta ikki beinleiðis, men tað sæst stundum. Tó eru navnorðini ikki vald, soleiðis at hetta mynstrið týðiliga sæst. <em type="italic">5.1.2 Kenniorð </em></p>
 <p>Tað bundna kenniorðið kann standa aftast í orði, og er navnorðið tá bundið. Av tí at <em type="italic">borðið hjá mær/tær </em>er tann vanligasta possesivbygnaðurin, so verður eisini nomið við bundin navnorð í hvørfalli, eintali: </p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn dagur-in ferð-in tjald-ið</p>
 <p><em type="italic">Talva 3 Bendingarendingarnar skiftar á kyn fyri bundin navnorð í hvørfalli </em></p>
@@ -229,9 +229,9 @@
 <p>Av tí at Pre-A1-stigið er so mikið nýtt, og tí at tað kanska ikki altíð fer at verða brúkt í undirvísingarskipanum, velji eg her eisini at nevna sumt, sum eg kanska longu havi nevnt har. <em type="italic">5.2.1 Kyn </em></p>
 <p>Stundum ber til at gita sær til kynið á einum navnorði í føroyskum (Adams &amp;</p>
 <p>Petersen 2014: 361). Niðanfyri eru seks vanligar bendingarendingar, tvær fyri hvørt kynið, bygt á Adams &amp; Petersen (2014: 4). Øll orðini standa í hvørfalli, eintali.</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
-<p xml:lang="dan">Hvørkikyn hval-ur mynd-0 hav-0 lund-i kon-a kaff-i, eyg-a</p>
+<p>Hvørkikyn hval-ur mynd-0 hav-0 lund-i kon-a kaff-i, eyg-a</p>
 <p><em type="italic">Talva 4 Vanligar bendingarendingar í føroyskum navnorðum </em></p>
 <p>Hetta stendur ikki beinleiðis á FOL, men brúkarin kann sjálvur fáa eyga á mynstrið.</p>
 <p>Valdu orðini gera hetta tó ikki so týðiligt. Hetta er at læra í FLC1, so tað passar væl at hava við her. <em type="italic">§1.11.1(a) &amp; §3(c) </em><em type="italic">5.2.2 Kenniorð </em><em type="italic">5.2.2.1 Bundna kenniorðið: </em></p>
@@ -240,12 +240,12 @@
 <p>Læra um kallkyn, kvennkyn og hvørkikyn. Um tey hava bundna kenniorðið sum eftirfesti, eru tey bundin. Kall- og kvennkyn hava –(i)n og hvørkikyn hevur -(i)ð.</p>
 <p>Læra hvat stovnurin í einum navnorði er. <em type="italic">5.2.3.1 Veikt og sterkt bend navnorð </em></p>
 <p>Veikt og sterkt bend navnorð hava ymiskar bendingarendingar. Vanliga enda veikt bend navnorð við sjálvljóði í eintali:</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
-<p xml:lang="dan">Hvørkikyn grann-i kon-a eyg-a</p>
+<p>Hvørkikyn grann-i kon-a eyg-a</p>
 <p><em type="italic">Talva 5 Vanligastu bendingarendingarnar fyri veikt bend navnorð í hvørfalli. </em></p>
 <p>Sterkt bend navnorð enda vanliga við einum hjáljóði í eintali:</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn dag-ur hurð- tjald-</p>
 <p><em type="italic">Talva 6 Vanligastu bendingarendingarnar fyri sterkt bend navnorð í hvørfalli. </em>4 Óbundna kenniorðið verður ikki nógv brúkt í íslendskum. </p>
@@ -260,7 +260,7 @@
 <p>Tað kann vera skilagott at býta hetta upp eftir veikt og sterkt bendum navnorðum, har veikt bend kallkynsorð vanliga enda við <em type="italic">-ar </em>, veikt bend kvennkynsorð enda við <em type="italic">-ur </em>, meðan veikt bend hvørkikynsorð ikki broytast ella fáa eitt analogiskt <em type="italic">-r </em>skoytt uppí. Tey sterkt bendu navnorðini hava so eitt sindur fløktari bendingarendingar í fleirtali. </p>
 <p>FLC viðger fleirtal av navnorðum í kapitli 2, meðan tað eru nógv navnorð í fleirtali á IOL1, har bendingin er í bæði hvønn- og hvørjumfalli í fleirtali. Tað haldi eg vit skulu bíða eitt sindur við. <em type="italic">5.2.3.4 Bundin navnorð í hvørfalli og hvønnfalli í øllum tølum </em></p>
 <p>Bundin navnorð skulu lærast her, bæði í hvør- og hvønnfalli. Á IOL1 verða allar bendingarendingarnar fyri bundin navnorð gjøgnumgingin, men eg meti tað vera betri at bíða við tí, og heldur bara taka hvør- og hvønnfall fyrst. Í FLC1 er bara bendingarendingin í hvørfalli, meðan hon er fyri bæði hvør- og hvønnfall í FLC3, so tað samsvarar rímiliga væl við at læra tað her. Yvirlit yvir hetta sæst niðanfyri, bygt á Adams &amp; Petersen (2014: 28 &amp; 50).</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
 <p>Hvørfall -nir -nar -(i)ni</p>
@@ -268,18 +268,18 @@
 <p><em type="italic">Talva 7 Bendingarendingar í hvør- og hvønnfalli, fleirtali. </em><em type="italic">§2.1 </em><em type="italic">5.2.4 Lýsingarorð </em></p>
 <p>Kynið á navnorðinum, sum lýsingarorðið lýsir, avger hvørjum kyni lýsingarorðið er í: <em type="italic">gulur bilur </em>, <em type="italic">gul nátt </em>, <em type="italic">gult borð </em>. Vit skulu læra formarnar av lýsingarorðinum í teimum ymsu kynunum. Mynstrið er, at kallkyn endar við <em type="italic">-ur </em>, kvennkyn við <em type="italic">-0 </em>og hvørkykin við <em type="italic">-t </em>. Hetta samsvarar við IOL1 og við at hetta verður viðgjørt í FLC3. <em type="italic">§4 </em><em type="italic">5.2.4.1 Lýsingarorð bendast í falli, tali, veikt og sterkt. </em></p>
 <p>Læra bendingarendingarnar fyri lýsingarorð í hvør- og hvønnfalli, bæði sterkt bent (óbundið) og veikt bent (bundið), bæði í eintali og fleirtali. Talvan niðanfyri er gjørd sambært Adams &amp; Petersen (2014: 63f).</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="eng">Eintal</p>
-<p xml:lang="dan">Hvørfall -ur -i -0 -a -t -a</p>
-<p xml:lang="eng">Hvønnfall -an -a -a -u -t -a</p>
+<p>Eintal</p>
+<p>Hvørfall -ur -i -0 -a -t -a</p>
+<p>Hvønnfall -an -a -a -u -t -a</p>
 <p>Fleirtal Hvørfall -ir -u -ar -u -0 -u</p>
 <p>Hvønnfall -ar -u -ar -u -0 -u</p>
 <p><em type="italic">Talva 8 Bendingarendingar fyri sterkt og veikt bend lýsingarorð í hvør- og hvønnfalli í øllum kynum. </em></p>
@@ -287,7 +287,7 @@
 <p>Tá navnorðið, sum lýsingarorðið lýsir, er bundið, stendur lýsingarorðið veikt bent: <em type="italic">brúni </em><em type="italic">stólurin </em>, <em type="italic">brúna </em><em type="italic">bókin </em>og <em type="italic">brúna </em><em type="italic">eygað </em>. Vit læra eisini hetta á IOL2. <em type="italic">§4.2.1 </em><em type="italic">5.2.5 Talorð </em><em type="italic">5.2.5.1 Grundtøl </em></p>
 <p>Skulu duga at siga tølini 1-3 í øllum kynum og í hvørfalli og hvønnfalli. Byrja við hvørfalli og síðani hvønnfall. Øll hini tølini skulu eisini lærast, men helst ikki í sambandi við 1-3, tí tey bendast ikki. Lærast skal, hvat fyri kyn verður brúkt í sambandi við t.d. at siga klokkuna, árstal, aldur o.s.fr. Alt hetta er longu á skránni í FOL, so í hesum sambandi havi eg býtt tað meir sundur, nær ein lærir tølini. Hetta er eisini í FLC2. <em type="italic">§5.1 </em><em type="italic">5.2.6 Fornøvn </em><em type="italic">5.2.6.1 Persónsfornøvn </em></p>
 <p>Persónsfornavnið samsvarar við kynið á navnorðinum, sum tað lýsir. Av tí at navnorð kunnu hava kyn í føroyskum, kunnu persónfornøvnini, sum lýsa hesi, vera bæði hann, hon og tað, t.d.: <em type="italic">hetta er ein hvalur </em>&gt; <em type="italic">hann svimur skjótt </em>. Vit byrja við persónsfornøvnunum í hvørfalli og hvønnfalli, 1., 2., og 3. persóni: </p>
-<p xml:lang="eng">Eintal</p>
+<p>Eintal</p>
 <p>Fleirtal</p>
 <p>Hvørfall</p>
 <p>Hvønnfall</p>
@@ -302,7 +302,7 @@
 <p>Kk.</p>
 <p>Kvk.</p>
 <p>Hvk.</p>
-<p xml:lang="eng">Eintal</p>
+<p>Eintal</p>
 <p>Hvørfall mín mín mítt tín tín títt</p>
 <p>Hvønnfall mín mína mítt tín tína títt</p>
 <p>Fleirtal</p>
@@ -320,7 +320,7 @@
 <p>Bólkur 3</p>
 <p>Bólkur 4</p>
 <p>Bólkur 5 kalla venja/flyta døma/roykja rógva bíta</p>
-<p xml:lang="dan">Eintal 1. pers. -i -i -i -i -i 2. pers. -ar -ur -ir -t -ur 3. pers. -ar -ur -ir -0 -ur</p>
+<p>Eintal 1. pers. -i -i -i -i -i 2. pers. -ar -ur -ir -t -ur 3. pers. -ar -ur -ir -0 -ur</p>
 <p>Fleirtal 1., 2., 3. -a -a -a -a -a</p>
 <p><em type="italic">Talva 11 Yvirlit yvir bendingarendingarnar í sagnorðabólkunum. </em></p>
 <p>Bólkarnir 1, 2, 3 og 4 innihalda veikt bend sagnorð, meðan bólkur 5 inniheldur sterkt bend sagnorð. Tað er gott at byrja við veikt bendu sagnorðunum, tí tey eru meir reglulig.</p>
@@ -345,22 +345,22 @@
 <p>Tað er gott fyri læruna av orðfeinginum at duga at seta orð saman og serliga at duga at býta tey sundur fyri at gera tað lættari at fata long, samansett orð. Tað er best byrja við at venja samansett orð, har fyrri liður er eitt veikt bent navnorð, sum t.d. <em type="italic">søgustaður </em>, sett saman av <em type="italic">søga </em>+ <em type="italic">staður </em>. Á IOL1 verður eisini vant at seta orð saman, sum eru torskildari enn tað, t.d. <em type="italic">gonguferð </em>, <em type="italic">jarðfrøði </em>, <em type="italic">handklæði </em>og <em type="italic">lívsstílur </em>, har stovnurin broytist og har hvørsfall verður brúkt. Eg mæli til at bíða við slíkum samansetingum. Hetta verður ikki viðgjørt fyrrenn í FLC6. <em type="italic">§12.1 </em>5.3 A2 <em type="italic">5.3.1 Navnorð </em><em type="italic">5.3.1.1 Hvørjumfall í eintali og fleirtali </em></p>
 <p>Av tí at hvørjumfallið er so mikið reglubundið í føroyskum, meti eg tað vera í lagi at læra so mikið tíðliga, bæði í eintali og fleirtali. Fleirtalið er so einkult, tí har endar alt við <em type="italic">-um </em>. Vit skulu tó leggja til merkis, at summi navnorð hava umljóð í hvørjumfalli (sí 5.5.9). Niðanfyri sæst eitt yvirlit yvir bendingarendingarnar í hvørjumfalli, eintali, bygt á </p>
 <p>Adams &amp; Petersen (2014: 111).</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
-<p xml:lang="dan">Hvørfall -i -ur -a -0 -a -0</p>
-<p xml:lang="dan">Hvørjumfall -a -i -u -0 -a -i</p>
+<p>Sterkt</p>
+<p>Hvørfall -i -ur -a -0 -a -0</p>
+<p>Hvørjumfall -a -i -u -0 -a -i</p>
 <p><em type="italic">Talva 13 Bendingarendingar í øllum føllum í hvørjumfalli, eintali. </em></p>
 <p>Hvørjumfallið er longu við í IOL0, men eg meti tað vera betur at bíða við tí til nú.</p>
 <p>At bíða við tí samsvarar væl við, at FLC hevur hvørjumfallið so seint sum í kapitli 5. <em type="italic">§3.1 – 3.3 </em><em type="italic">5.3.1.2 Hvørjumfall bundið </em></p>
 <p>Hesir skulu eisini lærast, bæði í eintali og fleirtali. Talva niðanfyri sambært Adams &amp; Petersen (2014: 111).</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
 <p>Eintal -(i)num -(i)ni -(i)num</p>
@@ -370,7 +370,7 @@
 <p>Skulu læra, at fólkanøvn bendast. Bending teirra sæst á Sprotanum.</p>
 <p>Hvørsfalsformurin saman við fyrisetingini <em type="italic">til </em>er ikki neyðugur at læra, tá talan er um sterkt bend fólkanøvn, tí hann verður ofta ikki brúktur av føroyingum heldur. Veikt bend fólkøvn skulu bendast í øllum føllum. <em type="italic">§3.4 </em><em type="italic">5.3.2 Lýsingarorð </em><em type="italic">5.3.2.1 Fleirtal </em></p>
 <p>Regluliga fleirtalsbendingin fyri lýsingarorð skal lærast. Vit taka bara hvørfall fyrst: (u-umljóð tá <em type="italic">a </em>er í rótini og ljóðlíking í rótini og bendingarendingini , sí 5.5.9) . </p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn Hvørkikyn Kallkyn</p>
 <p>Kvennkyn Hvørkikyn</p>
 <p>Eintal veik-ur veik- veik-t kald-ur køld- kal-t</p>
@@ -378,23 +378,23 @@
 <p><em type="italic">Talva 15 Regluligar bendingarendingar fyri lýsingarorð í øllum kynum í eintali og fleirtali. </em></p>
 <p>Hetta er longu at læra í IOL1, men eg haldi tað passar fínt at læra tað seinni. Í FLC er tað í kapitli 3. <em type="italic">5.3.2.2 Lýsingarorð við -in </em></p>
 <p>Tað er fínt at læra, at lýsingarorð, sum enda við -in, hava rættiliga regluliga bending:</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
-<p xml:lang="eng">Eintal bang-in bang-in bang-ið</p>
-<p xml:lang="eng">Fleirtal bang-nir</p>
-<p xml:lang="eng">Bang-nar løg-in</p>
+<p>Eintal bang-in bang-in bang-ið</p>
+<p>Fleirtal bang-nir</p>
+<p>Bang-nar løg-in</p>
 <p><em type="italic">Talva 16 Bending av lýsingaorðum, sum enda við -in </em></p>
 <p>Hetta er at læra í IOL1. <em type="italic">5.3.2.3 Hvørjumfall </em></p>
 <p>Lýsingarorð í hvørjumfalli í eintali og fleirtali, bæði í veikari og sterkari bending, skulu lærast. Talvan sambært Adams &amp; Petersen (2014: 112).</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
 <p>Eintal -um -a -ari -u -um -a</p>
 <p>Fleirtal -um -u -um -u -um -u</p>
@@ -403,7 +403,7 @@
 <p>Tølini 1-3 skulu lærast í hvørjumfalli. Tølini 1-4 í hvørjumfalli vóru longu á IOL1, men eg meti tað vera betri at bíða við, til vit í A2 hava lært um hvørjumfallið. <em type="italic">§5.1 </em><em type="italic">5.3.3.2 Raðtøl </em></p>
 <p>Raðtølini 1-20 skulu lærast í hvørfalli. Tað verða tey eisini á IOL2. <em type="italic">§5.2 </em><em type="italic">5.3.4 Fornøvn </em><em type="italic">5.3.4.1 Persónsfornøvn í hvørjumfalli </em></p>
 <p>Persónsfornøvnini skulu lærast í hvørjumfalli, í bæði eintali og fleirtali. Tað samsvarar við, at vit læra tað í FLC5.</p>
-<p xml:lang="eng">Eintal</p>
+<p>Eintal</p>
 <p>Fleirtal 1. persónur mær okkum 2. persónur tær tykkum 3. persónur honum/henni/tí teimum</p>
 <p><em type="italic">Talva 18 Persónsfornøvnini í hvørjumfalli í øllum persónum og tølum. </em><em type="italic">5.3.4.2 Ognarfornøvn í hvørjumfalli </em></p>
 <p>Ognarfornøvnini <em type="italic">mín </em>og <em type="italic">tín </em>í hvørjumfalli í øllum tølum: </p>
@@ -430,24 +430,24 @@
 <p>Læra um orð, sum eru gjørd úr sagnorði + navnorði. Her er sum oftast eitt <em type="italic">-i- </em>millum stovnin á sagnorðinum og navnorðið: <em type="italic">skrivibók </em>og <em type="italic">roknimaskina </em>. Er at læra í FLC6 og á </p>
 <p>IOL1-3. <em type="italic">§12.1.1 </em>5.4 B1 <em type="italic">5.4.1 Navnorð </em><em type="italic">5.4.1.1 Hvørsfall eintal og fleirtal </em></p>
 <p>Hvørsfallið skal lærast onkuntíð, hóast tað ikki er produktivt fall í føroyskum. Tað verður brúkt, tá vit seta saman orð og stundum saman við ávísum fyrisetingum. Øll navnorð enda við <em type="italic">-a </em>í hvørsfalli fleirtali. Talva gjørd sambært Adams &amp; Petersen (2014: 118): </p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
+<p>Sterkt</p>
 <p>Veikt</p>
-<p xml:lang="dan">Sterkt</p>
-<p xml:lang="dan">Hvørfall -i -ur -a/-i -0 -a -0</p>
+<p>Sterkt</p>
+<p>Hvørfall -i -ur -a/-i -0 -a -0</p>
 <p>Hvørsfall -a -s/-ar -u/-i -ar -a -s</p>
 <p><em type="italic">Talva 20 Bendingarendingar í hvørsfalli fyri veikt og sterkt bend navnorð í øllum kynum. </em></p>
 <p>Hvørsfallið verður lært í FLC5 og á IOL3, so tað passar væl at hava her. <em type="italic">5.4.1.2 Hvørsfall bundið </em></p>
 <p>Bundnu formarnir í hvørsfalli skulu eisini lærast, bæði í eintali og fleirtali. Talva niðanfyri sambært Adams &amp; Petersen (2014: 118).</p>
-<p xml:lang="eng">Kallkyn</p>
+<p>Kallkyn</p>
 <p>Kvennkyn</p>
 <p>Hvørkikyn</p>
-<p xml:lang="dan">Eintal -(i)ns -(i)nnar -(i)ns</p>
+<p>Eintal -(i)ns -(i)nnar -(i)ns</p>
 <p>Fleirtal -nna</p>
 <p><em type="italic">Talva 21 Bendingarendingar fyri bundin navnorð í hvørfalli í øllum tølum og kynum. </em></p>
 <p>Hetta verður eisini viðgjørt í FLC5 og á IOL3. <em type="italic">5.4.2 Lýsingarorð </em><em type="italic">5.4.2.1 Stigbending </em></p>
@@ -522,61 +522,61 @@
 <p>Skarði seg ongantíð hava havt eitt skeið á FFM3 ella brúka upptøkuroyndir. Tá næmingar so koma til undirvísing, sum eigur at verða løgd til rættis út frá námsætlanini, so er undirvísingin ikki so væl skipað hjá øllum undirvísarum, meðan tilfarið, sum verður brúkt, ikki altíð er so hóskandi, tí sumt av tí er ætlað børnum.</p>
 <p>Juliana endaði í einum flokki, har undirvísingin ikki var so væl skipað, og tað eigur ikki at henda, um undirvísingarætlanin er nóg greið, tí tað er neyðugt, at allir tilflytarar hava atgongd til væl skipaða undirvísing á sama støði. CEFR-skipanin er ein skipan við drúgvum royndum, so tað burdi verið væl møguligt at brúkt hana í Føroyum og fingið munagóðar ágóðar av henni uppá lutfalsliga stutta tíð.</p>
 <p>CEFR sigur einki um, hvat fyri mállæra skal lærast nær, men lýsir heldur hvussu væl ein málbrúkari skal duga at samskifta á hvørjum stigi. Hóast tað, so havi eg her eftir bestum førimuni býtt føroyska mállæru sundur í tey ymisku CEFR-stigini, soleiðis at tað ber til at læra føroyska mállæru í stigum eftir einum føstum bygnaði. Uppbýtingin hjá mær er bygd á uppbýtingar, sum longu er gjørdar í íslendskum og í føroyskum. Við hesum uppbýtinum av føroyskari mállæru í tey ymisku CEFR-stigini vóni eg, at fyrsta stigið í eini meir regluligari undirvísing í føroyskum sum fremmandamál er tikið, og at støður, sum tann, sum Juliana kom í, verða alsamt sjáldsamari. <em type="bold">7 Bókmentalisti </em></p>
-<p xml:lang="eng">Adams, Jonathan &amp; Petersen, Hjalmar P. 2014. <em type="italic">Faroese. A Language Course for </em></p>
+<p>Adams, Jonathan &amp; Petersen, Hjalmar P. 2014. <em type="italic">Faroese. A Language Course for </em></p>
 <p><em type="italic">Beginners </em>. 3. útgáva. Hoyvík: Stiðin. </p>
 <p>Arias, Juliana. 2018. Óutgivin samrøða millum Una Johannesen og Julianu Arias tann 7. mai 2018. Upptøkan liggur á geyma, sum fylgir ritgerðini.</p>
-<p xml:lang="eng">Council of Europe. 2001. <em type="italic">Common European Framework of Reference for </em></p>
-<p xml:lang="eng"><em type="italic">Languages: Learning, Teaching, Assesment </em>. Cambridge University. https://rm.coe.int/1680459f97 (23. august 2018). </p>
-<p xml:lang="eng">Council of Europe. 2018. <em type="italic">Common European Framework of Reference for </em></p>
-<p xml:lang="eng"><em type="italic">Languages: Learning, teaching, assessment. Companion Volume with New Descriptors </em>. https://rm.coe.int/cefr-companion-volume-with-new-descriptors-2018/1680787989 (22. august 2018). </p>
-<p xml:lang="dan">Europarådet. 2008. <em type="italic">Den Fælles Europæiske Referenceramme for Sprog. Læring, </em><em type="italic">undervisning og evaluering. </em>Donsk týðing av ensku útgávuni frá 2001. </p>
-<p xml:lang="dan">Keypmannahavn: Ministeriet for Flygtninge, Indvandrere og Integration. Tøkt á http://uim.dk/publikationer/den-faelles-europaeiske-referenceramme-for-sprog-laering- undervisning-og-evaluering/@@download/publication (23. august 2018).</p>
+<p>Council of Europe. 2001. <em type="italic">Common European Framework of Reference for </em></p>
+<p><em type="italic">Languages: Learning, Teaching, Assesment </em>. Cambridge University. https://rm.coe.int/1680459f97 (23. august 2018). </p>
+<p>Council of Europe. 2018. <em type="italic">Common European Framework of Reference for </em></p>
+<p><em type="italic">Languages: Learning, teaching, assessment. Companion Volume with New Descriptors </em>. https://rm.coe.int/cefr-companion-volume-with-new-descriptors-2018/1680787989 (22. august 2018). </p>
+<p>Europarådet. 2008. <em type="italic">Den Fælles Europæiske Referenceramme for Sprog. Læring, </em><em type="italic">undervisning og evaluering. </em>Donsk týðing av ensku útgávuni frá 2001. </p>
+<p>Keypmannahavn: Ministeriet for Flygtninge, Indvandrere og Integration. Tøkt á http://uim.dk/publikationer/den-faelles-europaeiske-referenceramme-for-sprog-laering- undervisning-og-evaluering/@@download/publication (23. august 2018).</p>
 <p><em type="italic">Gløgt er gestsins eyga </em>. 2009. Kringvarp Føroya. Annie Heinesen legði til rættis. </p>
 <p>Tøk á http://kvf.fo/netvarp/sv/2011/04/11/glgt-er-gestsins-eyga-26-desember-2009 (5.</p>
-<p xml:lang="eng">September 2018).</p>
+<p>September 2018).</p>
 <p>Gullstein, Sjúrðir. Einki árstal. Óútgivin orðatíttleikalisti, sum bleiv gjørdur til syntetisku taluna hjá Blindastovninum. Listin er lagdur á geyma, sum fylgir uppgávuni.</p>
 <p>Høgnesen, Jórun. 2018. Óútgivið spurnablað við svørum frá Jóruni Høgnesen, sum sendi mær svaraða spurnablaðið við telduposti tann 9. mai 2018. Fylgiskjal 2.</p>
 <p>Høgnesen, Runa Preeti. 2015. <em type="italic">Tilmæli um integratiónspolitikk </em>. Desember 2015. https://www.torshavn.fo/get.file?ID=2490 (3. august 2018). </p>
-<p xml:lang="eng">Innlendismálaráðið. 2011. Integrasjónsálit. https://d1d6zxt0xmx99c.cloudfront.net/media/2052/2011-03-integratiónsálit.pdf (9. august 2018).</p>
+<p>Innlendismálaráðið. 2011. Integrasjónsálit. https://d1d6zxt0xmx99c.cloudfront.net/media/2052/2011-03-integratiónsálit.pdf (9. august 2018).</p>
 <p>IcelandicOnline. Eingin dagfesting. <em type="italic">About Icelandic Online </em>[heimasíða]. Tøk á https://icelandiconline.com/about (23. september 2018). </p>
-<p xml:lang="eng">Knooihuizen, Remco. 2010. Perspectives on the Norn-to-Scots language shift in</p>
+<p>Knooihuizen, Remco. 2010. Perspectives on the Norn-to-Scots language shift in</p>
 <p>Shetland. Í <em type="italic">Jakob Jakobsen in Shetland and the Faroes </em>. Turið Sigurðardóttir og Brian </p>
 <p>Smith (ritstj.). Tórshavn: Fróðskaparsetur Føroya.</p>
-<p xml:lang="eng">Leo, Jens Hákun. 2018. <em type="italic">KVF to make Faroese news in English as “up to 1200 </em></p>
-<p xml:lang="eng"><em type="italic">Faroese don’t understand Faroese” </em>. 26. februar. http://local.fo/kvf-make-faroese-news- english-1200-faroese-dont-understand-faroese/ (2. oktober 2018). </p>
+<p>Leo, Jens Hákun. 2018. <em type="italic">KVF to make Faroese news in English as “up to 1200 </em></p>
+<p><em type="italic">Faroese don’t understand Faroese” </em>. 26. februar. http://local.fo/kvf-make-faroese-news- english-1200-faroese-dont-understand-faroese/ (2. oktober 2018). </p>
 <p>Málráðið. 2017. Óútgivið bræv til Mentamálaráðið, 23. februar. Brævið er viðheft sum fylgiskjal 3.</p>
 <p>Mentamálaráðið. 2018. Óútgivin teldupostur til Málráðið, 9. januar. Brævið er viðheft sum fylgiskjal 4.</p>
 <p>Mikkelsen, Lív. 2018. <em type="italic">Útbúgving á enskum </em>. 27. februar. https://kvf.fo/netvarp/sv/2018/02/27/20180227atlanirumensktmaltmidnam (3. oktober 2018). </p>
-<p xml:lang="eng">Schumann, John H. 1976. <em type="italic">The Pidginization Process. A Model for Second </em></p>
+<p>Schumann, John H. 1976. <em type="italic">The Pidginization Process. A Model for Second </em></p>
 <p><em type="italic">Language Acquisition </em>. Newsbury House Publishers. av Skarði, Bergljót. 2018. Óútgivin samrøða millum Una Johannesen og Bergljót av Skarði tann 11. mai 2018. Upptøkan liggur á geyma, sum fylgir ritgerðini. </p>
 <p><em type="italic">Úr útlendskum í føroyskt </em>. 2014. Kringvarp Føroya. Ivan Hentze Niclasen legði til rættis. Tøkt á http://kvf.fo/dokumentarurin?sid=22735 (25. august 2018). </p>
 <p>Útlendingastovan. <em type="italic">Hagtøl fyri 2017 – uppihaldsloyvi til føroya givin av donsku </em><em type="italic">útlendingamyndugleikunum </em>. Tøkt á https://www.utlendingastovan.fo/fo/um- okkum/hagtol/ (8. august 2018). Er eisini viðheft sum fylgiskjal 1. <em type="bold">8 Fylgiskjøl </em>8.1 Fylgiskjal 1: Brot av teksti av heimasíðuni hjá Útlendingastovuni https://www.utlendingastovan.fo/fo/um-okkum/hagtol/ </p>
 <p><em type="bold">Hagtøl fyri 2017 – uppihaldsloyvi til Føroya givin av donsku </em><em type="bold">útlendingamyndugleikunum </em></p>
 <p><em type="italic">Samlaða talið av avgerðum um at geva uppihaldsloyvi á føroyska útlendingaøkinum í 2017 er 846 (øll mál, upprunaloyvi, leingjan og varandi uppihaldsloyvi). Hetta talið er nakað yvir miðal, um hugt verður eftir seinastu 10-15 árunum. </em></p>
 <p><em type="bold">Fyrivarni </em></p>
-<p><em type="italic">Tølini vísa uppihaldsloyvi og fyrivarni skulu takast, tí tølini vísa avgerðir um uppihaldsloyvi, og ikki tilflyting/búseting í Føroyum. Her hyggja vit serliga eftir upprunaloyvum, tað er uppihaldsloyvi givið fyrstu ferð til ein einstakling (<span type="quote" xml:lang="dan">"førstegang"</span>). Á arbeiðsøkinum kann tó eitt upprunaloyvi vera givið einum og sama persóni meiri enn einaferð yvir eitt longri tíðarskeið (við t.d. starvsskifti) – hetta síðsta er meiri sjáldsamt. </em></p>
+<p><em type="italic">Tølini vísa uppihaldsloyvi og fyrivarni skulu takast, tí tølini vísa avgerðir um uppihaldsloyvi, og ikki tilflyting/búseting í Føroyum. Her hyggja vit serliga eftir upprunaloyvum, tað er uppihaldsloyvi givið fyrstu ferð til ein einstakling (<span type="quote">"førstegang"</span>). Á arbeiðsøkinum kann tó eitt upprunaloyvi vera givið einum og sama persóni meiri enn einaferð yvir eitt longri tíðarskeið (við t.d. starvsskifti) – hetta síðsta er meiri sjáldsamt. </em></p>
 <p><em type="italic">Við hesum tølum loyva vit okkum at gera ein meting av, hvussu tilflytingin til Føroya sær út í undanfarna ári. Tølini yvir uppihaldsloyvi geva, sum áðurnevnt, ikki eina lýsing av hvussu nógv fara av landinum, og ei heldur, hvussu samlaða talið av útlendingum er í Føroyum í løtuni. Sambært hagtølum hjá Landsfólkayvirlitið var talið av útlendingum við øðrum tjóðskapi enn norðurlendskum við ársenda 2017, 1269. </em></p>
 <p><em type="bold">Yvirskipað </em></p>
 <p><em type="italic">Tilflytingin til Føroya í 2017 av persónum við øðrum tjóðskapi enn norðurlendskum er merkt av: </em><em type="italic">1) arbeiðstakarum serliga, t.e. uppihaldsloyvi grundað á arbeiði og sáttmála, oftast er talan um fyribils uppihald í landinum, og </em><em type="italic">2) familjusameiningum, børn og hjúnafelagar/samlív, har endamálið kann roknast við at vera at taka búgv í Føroyum yvir longri tíð. </em></p>
 <p><em type="italic">Um hugt verður eftir tjóðskapinum hjá útlendingum í Føroyum, so er talan um ríkisborgarar úr londum í Evropa fyri størsta partin, og ábendingar eru um at hetta er arbeiðskraft (sí talvu i). Verður tað hugt eftir teimum, sum søkja um varandi uppihaldsloyvi í Føroyum, so eru asiatisk lond best umboðaði, (sí talvu ii). </em>[...] <em type="bold">ii - Varandi loyvi, eftir tjóðskapi – 2017 </em></p>
 <p><em type="bold">Samlað </em><em type="bold">71 </em><em type="bold">1 </em></p>
 <p>Filipsoyggjar <em type="bold">17 </em><em type="bold">2 </em></p>
-<p xml:lang="eng">Teiland <em type="bold">9 </em><em type="bold">3 </em></p>
-<p xml:lang="eng">Serbia <em type="bold">5 </em><em type="bold">4 </em></p>
-<p xml:lang="eng">Stórabretland <em type="bold">5 </em><em type="bold">5 </em></p>
-<p xml:lang="eng">Brasilia <em type="bold">3 </em></p>
+<p>Teiland <em type="bold">9 </em><em type="bold">3 </em></p>
+<p>Serbia <em type="bold">5 </em><em type="bold">4 </em></p>
+<p>Stórabretland <em type="bold">5 </em><em type="bold">5 </em></p>
+<p>Brasilia <em type="bold">3 </em></p>
 <p>Kenja <em type="bold">3 </em></p>
-<p xml:lang="dan">USA <em type="bold">3 </em></p>
+<p>USA <em type="bold">3 </em></p>
 <p>Móritius <em type="bold">3 </em><em type="bold">iii – Eftir tjóðskapi, øll mál í 2017 (upprunaloyvi, leingjan og varandi loyvi) </em></p>
 <p><em type="bold">Samlað </em><em type="bold">846 </em><em type="bold">1 </em></p>
 <p>Rumenia <em type="bold">222 </em><em type="bold">2 </em></p>
 <p>Filipsoyggjar <em type="bold">93 </em><em type="bold">3 </em></p>
-<p xml:lang="eng">Pólland <em type="bold">70 </em><em type="bold">4 </em></p>
-<p xml:lang="eng">Teiland <em type="bold">38 </em><em type="bold">5 </em></p>
-<p xml:lang="eng">Serbia <em type="bold">36 </em><em type="bold">6 </em></p>
-<p xml:lang="eng">Bulgaria <em type="bold">31 </em><em type="bold">7 </em></p>
+<p>Pólland <em type="bold">70 </em><em type="bold">4 </em></p>
+<p>Teiland <em type="bold">38 </em><em type="bold">5 </em></p>
+<p>Serbia <em type="bold">36 </em><em type="bold">6 </em></p>
+<p>Bulgaria <em type="bold">31 </em><em type="bold">7 </em></p>
 <p>Litava <em type="bold">28 </em><em type="bold">8 </em></p>
-<p xml:lang="eng">Stórabretland <em type="bold">20 </em><em type="bold">9 </em></p>
+<p>Stórabretland <em type="bold">20 </em><em type="bold">9 </em></p>
 <p>Ungarn <em type="bold">17 </em><em type="bold">10 </em></p>
 <p>Brasilia <em type="bold">15 </em>8.2 Fylgiskjal 2: Jórun Høgnesen svarar </p>
 <p>Eg sendi Jóruni Høgnesen, undirvísara í føroyskum fyri tilflytarum í Klaksvíkar kvøldskúla, nakrar spurningar gjøgnum teldupost. Hesi eru svørini:</p>
@@ -589,10 +589,10 @@
 <p>Brúka tit CEFR-stigan? Er undirvísingin skipað í mun til nær tey luttakandi á skeiðnum læra hvat? <em type="italic">Nei vit brúka ikki CEFR stigan. Undivísingin verður skipað sum omanfyri nevnt. </em></p>
 <p>Verður námsætlanin <span type="quote">"Føroyskt fyri nýmælt"</span> brúkt?</p>
 <p>Sí http://namsaetlanir.net/node/232 Ja, í mest møguligan mun. 8.3 Fylgiskjal 3: Bræv til Mentamálaráðið frá Málráðnum 8.4 Fylgiskjal 4: Svar frá Mentamálaráðnum</p>
-<p xml:lang="dan"><em type="bold">Fra: </em>Jenny Lydersen [mailto:Jenny@mmr.fo] </p>
-<p xml:lang="dan"><em type="bold">Sendt: </em>9. januar 2018 17:19 </p>
+<p><em type="bold">Fra: </em>Jenny Lydersen [mailto:Jenny@mmr.fo] </p>
+<p><em type="bold">Sendt: </em>9. januar 2018 17:19 </p>
 <p><em type="bold">Til: </em>Marius Staksberg &lt;MariusS@setur.fo&gt;; Zakaris Hansen &lt;ZakarisH@setur.fo&gt; </p>
-<p xml:lang="eng"><em type="bold">Cc: </em>Martin Næs &lt;MartinN@mmr.fo&gt; </p>
+<p><em type="bold">Cc: </em>Martin Næs &lt;MartinN@mmr.fo&gt; </p>
 <p><em type="bold">Emne: </em>16/00850-5 - Føroyskt fyri útlendingar Málráðið </p>
 <p><em type="bold">Viðvíkjandi skrivi tygara um føroyskt fyri útlendingar </em>Tygum hava sent Mentamálaráðnum skriv í februar í 2017, har tygum vísa á umstøðurnar hjá tilflytarum at læra føroyskt. Mentamálaráðið er samt við tygum í, at tað er umráðandi í strembanini at taka ímóti nýggju borgarunum, at teir læra málið í landinum so væl sum gjørligt, so at teir kunnu taka lut í samfelagslívinum á øllum øki. Tygum fílast á, at tað verður gjørt ov lítið við at undirvísa útlendingum í føroyskum, at tað, sum verður gjørt, er rættiliga óskipað, og at sum er, so hava útlendingar rætt til 20 tímar í føroyskum. Eisini vísa tygum á, at í okkara grannalondum er tað vanliga eitt krav at læra málið í landinum og ikki bert eitt tilboð. Tygum greiða m.a. eisini frá tí stóru ávirkan sum enskt hevur fingið kring heimin, og sum tað eisini er í ferð við at fáa í Føroyum, at málskifti frá føroyskum til enskt ikki er óhugsandi, og at tað longu í dag ikki altíð er neyðugt at duga føroyskt fyri at starvast í Føroyum. Niðurstøða tygara er, at vit skulu bjóða tilflytarum vælkomnum til Føroya, og vit skulu eisini laga okkara samfelag til teirra tørv, men málsliga eiga tey at laga seg til okkara samfelag og fáa møguleika til tess. Samstundis heita tygum á Mentamálaráðið um at taka henda spurning til viðgerðar, so at vit innan alt ov langa tíð hava nøktandi undirvísing í føroyskum fyri útlendingar. Mentamálaráðið kann ikki taka undir við tygum í, at undirvísingin er óskipað, og at útlendingar hava rætt til 20 tímar undirvísing í føroyskum. Hesi viðurskifti eru ikki í samsvari við ta undirvísing, sum Mentamálaráðið skipar fyri. Tað eru ongar ásetingar í lóg, kunngerð ella rundskrivum, sum Mentamálaráðið umsitur, um at útlendingar hava rætt til 20 tímar í føroyskum. Í rundskrivi um serundirvísing vaksnamanna er ásett í § 5, at fólk, ið ikki hava føroyskt sum móðurmál, men eru skrásett í fólkayvirlitinum í Føroyum, kunnu fáa undirvísing í føroyskum máli og føroyskari mentan. Einasta tímatal, sum er ásett, er í námsætlanini, Føroyskt fyri nýmælt í Føroyum, har ásett er, at hvør partur hevur umleið 350 tímar og endar við roynd. </p>
 <p>Mentamálaráðið hevur seinastu árini í samstarvi við kommunurnar roynt at ment undirvísingartilboð fyri tilflytarar. Harvið er ikki sagt, at skipanin ikki kundi verið betri, men at siga at viðurskiftini eru óskipaði, kann Mentamálaráðið ikki taka undir við. Mentamálaráðið hevur veitt tímar til undirvísing í føroyskum bæði til børn og vaksin, sum eru tilflytarar og ikki duga føroyskt. Vaksin 14 ár og eldri hava møguleika at fáa undirvísing í føroyskum máli, mentan og samfelagsviðurskiftum í ymsum stigum, innleiðsluskeið, grundleggjandi undirvísing og drúgvari skeið í føroyskum máli, mentan og samfelagsviðurskiftum svarandi til 350 tímar. Harumframt hevur Fróðskaparsetrið eisini skipa fyri útbúgvingarskeiðum í føroyskum fyri útlendingar.</p>
@@ -600,17 +600,17 @@
 <p type="listitem">Innleiðsluskeið í føroyskt mál og mentan. Hetta eru styttri skeið 20 – 40 tímar við nøkrum fáum luttakarum oftast 4- 6 fólk, men tað veldst um tey tosa sama mál ella  hava ymiskt tungumál og um tey skilja enskt.</p>
 <p type="listitem">Føroyskt fyri útlendingar 60 – 80 tímar, sum serliga er ætlað teimum, sum hava verið á innleiðsluskeiði</p>
 <p type="listitem">Drúgvari skeið í føroyskum máli, mentan og samfelagsviðurskiftum, sum eru 350 tímar, men kommunurnar kunnu gera undantak. Skeiðini verða skipað bæði sum dag-  og kvøldundirvísing. Hesi skeið verða skipa í økjum, í verandi skúlaári í Klaksvík,  Tórshavn og á Tvøroyri. Tað hava verið rættiliga nógvir luttakarar á hesum drúgvaru  skeiðunum, og í Havn hava ofta tvey skeið verið samstundi. Dentur verður lagdur á  uppmøting og ávíst førleikastøði fyri at kunnna gjøgnumføra skeiðini, sín námsætlan,  sum liggur á heimasíðuni, www.namsaetlanir.net.</p>
-<p type="listitem">Umframt hesi skeið, skipar Fróðskaparsetrið fyri málundirvísing fyri útlendingum, men hettahava tit ítøkiligari vitan um. Sambært upplýsingum, Mentamálaráðið hevur  frá setrinum, er talan um tvey ymisk fjarlestrarskeið og eitt summarskeið: a.  Faroese  for  foreigners  I,  har  fortreytin  er,  at  tey  lesandi  skulu  hava miðnámsskúlaprógv ella tað, sum svara til eitt slíkt. b.  Faroese for foreigners II, har fortreytin er, at tey lesandi skulu hava tikið fyrra skeiðið  <span type="quote" xml:lang="eng">“Faroese  for  foreigners  I”</span>  ella  hava  eitt  summarskeið  í  føroyskum.Endamálið er at geva teimum lesandi innlit í føroyska mállæru og  málnýtslu. Serliga verður dentur lagdur á málførleikarnar at tosa, at fata, at  lesa og partvís eisini at skriva. Skeiðini eru eina lestrarhálvu og verða hildin  á Føroyamálsdeildini. c.  Summarskeið í føroyskum máli og mentan fyri útlendingum annað hvørt ár.</p>
+<p type="listitem">Umframt hesi skeið, skipar Fróðskaparsetrið fyri málundirvísing fyri útlendingum, men hettahava tit ítøkiligari vitan um. Sambært upplýsingum, Mentamálaráðið hevur  frá setrinum, er talan um tvey ymisk fjarlestrarskeið og eitt summarskeið: a.  Faroese  for  foreigners  I,  har  fortreytin  er,  at  tey  lesandi  skulu  hava miðnámsskúlaprógv ella tað, sum svara til eitt slíkt. b.  Faroese for foreigners II, har fortreytin er, at tey lesandi skulu hava tikið fyrra skeiðið  <span type="quote">“Faroese  for  foreigners  I”</span>  ella  hava  eitt  summarskeið  í  føroyskum.Endamálið er at geva teimum lesandi innlit í føroyska mállæru og  málnýtslu. Serliga verður dentur lagdur á málførleikarnar at tosa, at fata, at  lesa og partvís eisini at skriva. Skeiðini eru eina lestrarhálvu og verða hildin  á Føroyamálsdeildini. c.  Summarskeið í føroyskum máli og mentan fyri útlendingum annað hvørt ár.</p>
 <p>Skeiðið telur 10 ECTS. Lesandi skulu hava kunnleika til eitt germanskt mál, ella kunnleika til málfrøði/málvísindi.</p>
 <p>Mentamálaráðið er sannført um, at ein grundleggjandi fortreyt fyri, at útlendingar kunnu læra bæði at tosa og skriva føroyskt og at kenna seg sum part av føroyska samfelagnum, luttaka í arbeiðslívi og sosialum høpi, er ein drúgvari undirvísing í føroyskum máli og føroyskum viðurskiftum.</p>
 <p>Viðvíkjandi sjónarmiði tygara um, at undirvísingin í føroyskum ikki er eitt krav, men eitt tilboð, er Mentamálaráðið samt við tygum og hevur víst á hesi viðurskifti. Mentamálaráðið umsitur undirvísingartilboð til tilflytarar, men umsitur ikki útlendingamál og t.d. at seta treytir til, at tilflytarar læra føroyskt sum liður í játtanini at fáa uppihalds- og arbeiðsloyvi í Føroyum. <em type="bold">Blíðar heilsanir/Best Regards </em></p>
 <p><em type="bold">Jenny Lydersen </em>Mentamálaráðið : +298 30 65 00 · Fax.: +298 30 65 55 : Direct.: +298 55 50 44 ella +298 30 65 44 mailto:jenny@mmr.fo </p>
 <p>Homepage: www.mmr.fo 8.5 Fylgiskjal 5: CEFR-stigin: heildarstigin</p>
-<p xml:lang="eng">Týddur eftir Council of Europe (2018: 24) &amp; Europarådet (2008: 43)</p>
+<p>Týddur eftir Council of Europe (2018: 24) &amp; Europarådet (2008: 43)</p>
 <p>Dugnaligur málbrúkari</p>
-<p xml:lang="eng">C2</p>
+<p>C2</p>
 <p>Skilir lættliga so at siga alt, sum verður lisið og hoyrt. Klárar at taka samanum upplýsingar frá ymiskum talaðum og skrivligum keldum og at endurgeva grundgevingar og frágreiðingar uppá ein samanhangandi máta. Megnar at málbera seg spontant, sera flótandi og nágreiniliga, umframt at skilja millum hárfínar merkingarmunir, eisini í fløktum støðum.</p>
-<p xml:lang="eng">C1</p>
+<p>C1</p>
 <p>Skilir alskyns krevjandi, longri tekstir og klárar at fanga undirskiltar merkingar. Klárar at málbera seg flótandi og spontant uttan alt ov týðiliga at leita eftir máliskum. Klárar at brúka málið smidliga og væl í sosialum, akademiskum og yrkisligum høpi. Megnar at framleiða týðiligan, væl uppbygdan og nágreiniligan tekst um fløkt evni, har hann/hon vísir seg hava tamarhald á nýtslu av bygnaðarligum mynstrum, sambindarum og samanhangsskapandi málsligum miðlum.</p>
 <p>Sjálvstøðugur málbrúkari</p>
 <p>B2</p>
@@ -618,23 +618,23 @@
 <p>B1</p>
 <p>Skilir høvuðspunktini í einari týðiligari og vanligari framseting um væl kend evni, sum eru vanlig til arbeiðis, í skúla, í frítíðini o.s.fr. Klárar at handfara tær flestu støðurnar, sum kunnu stinga seg upp, tá ið ferðast verður í økinum, har málið verður tosað. Megnar at framleiða einfaldan, samanhangandi tekst um evni í gerandisdegnum ella sum hava persónligan áhuga. Kann lýsa upplivingar og hendingar, dreymar, vónir og ambitiónir, umframt at hann/hon kann koma við grundgevingum og frágreiðingum uppá hugburðir og ætlanir.</p>
 <p>Støðis- málbrúkari</p>
-<p xml:lang="eng">A2</p>
+<p>A2</p>
 <p>Klárar at skilja setningar og ofta brúktar máliskur, sum hava nakað at gera við tað, sum hendir kring viðkomandi (t.d. sera grundleggjandi persónligir upplýsingar og upplýsingar um familju, at keypa inn, landalæran í økinum, arbeiði). Megnar at samskifta í ófløktum og rutinukendum støðum, sum krevja eitt einkult og beinleiðis orðaskifti við upplýsingum um væl kend og rutinukend viðurskifti. Kann við einføldum máliskum lýsa ymiskt um sína bakgrund, sítt nærumhvørvi og beinleiðis tørvir.</p>
-<p xml:lang="eng">A1</p>
+<p>A1</p>
 <p>Skilir og klárar at brúka gerandismáliskur og aðrar grundleggjandi máliskur til tess at klára grundleggjandi tørvir. Klárar at presentera seg og onnur og kann spyrja og svara spurningum um ymiskt persónligt, so sum hvar hann/hon býr, um fólk hann/honn kennir og um lutir, sum hann/hon hevur. Megnar at samskifta við fólk, um tey tosa seint og týðiliga og eru til reiðar at hjálpa. 8.6 Fylgiskjal 6: Heildartalva fyri mállæru</p>
-<p xml:lang="eng">Týdd eftir Council of Europe (2018: 131) &amp; Europarådet (2008: 157)</p>
-<p xml:lang="eng">C2</p>
+<p>Týdd eftir Council of Europe (2018: 131) &amp; Europarådet (2008: 157)</p>
+<p>C2</p>
 <p>Klárar at útnytta fjølbroyttar og álítandi førleikar innan eina sera umfatandi málsliga vitan til at orða sínar tankar nágreiniliga, leggja dent á og greina millum, umframt at beina burtur margtýdningar. Eingi tekn um at hann/hon noyðist at avmarka tað, hann/hon ynskir at siga.</p>
-<p xml:lang="eng">C1</p>
+<p>C1</p>
 <p>Klárar smidliga at brúka alskyns hóskandi, fløktar, málfrøðiligar bygnaðir.</p>
 <p>B2</p>
 <p>Klárar at málbera seg týðiliga og uttan nógv tekn um at noyðast at avmarka seg í tí, hann/hon ynskir at siga. Hevur eina nóg góða málsliga vitan til at kunna geva týðiligar frágreiðingar, siga frá sjónarmiðum og koma við grundgevingum uttan nøkur serliga týðilig tekn uppá leitan eftir orðum. Hetta verður gjørt meðan nakrir fløktir setningsbygnaðir verða brúktir.</p>
 <p>B1</p>
 <p>Hevur eina nóg góða málsliga vitan til at kunna lýsa brátt íkomnar støður, greiða frá høvuðspunktunum í einum hugskoti ella trupulleika við rímiligum nákvæmi, umframt at kunna siga frá tonkum um úrtøkilig ella mentanarlig evni, so sum tónleik og film. Hevur nokk av máli og orðfeingi til at málbera seg við einum sindri av drálan og nøkrum umorðingum um evni so sum familja, frítíðarítriv og áhugamál, arbeiði, ferðing og tær nýggjastu hendingarnar, men avmarkaða orðfeingið hevur við sær endurtøkur og enntá eisini trupulleikar við at orða seg viðhvørt.</p>
-<p xml:lang="eng">A2</p>
+<p>A2</p>
 <p>Hevur eina vitan av grundleggjandi máli, sum gevur honum/henni møguleika at fyrihalda seg til væntandi gerandisstøður, hóast hann/hon vanliga noyðist at linka boðskapin og leita eftir orðum. Klárar at siga stuttar máliskur fyri at nøkta einkultar tørvir: persónligir upplýsingar, dagligar rutinur, tað sum ein ynskir og hevur brúk fyri, áheitan um upplýsingar. Klárar at brúka grundleggjandi setningsbygnaðir og at samskifta við setningum, sum eru lærdir uttanat, við bólkum av nøkrum fáum orðum og við máliskum um seg sjálva/n og onnur, um hvat arbeiði tey hava, støði, ognir o.s.fr. Dugir nakrar fáar máliskur, sum eru lærdar uttanat, um væntandi yvirlivilsisstøður; tráðurin verður ofta mistur, og misskiljingar henda ofta, tá ið støðan ikki er rutinukend.</p>
-<p xml:lang="eng">A1</p>
+<p>A1</p>
 <p>Klárar at brúka grundleggjandi bygnaðir í einkultum setningum, har sumt ikki verður sagt til fulnar ella als ikki.</p>
-<p xml:lang="eng">Pre-A1</p>
+<p>Pre-A1</p>
 <p>Klárar at brúka einstøk orð og grundleggjandi máliskur til at veita einfaldar upplýsingar um seg sjálva/n.</p>
 </body></document>

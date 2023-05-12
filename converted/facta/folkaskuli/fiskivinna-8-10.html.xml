@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Fiskivinna 8-10</title><genre code="facta"/><author><unknown/></author><wordcount>3635</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/vallaerugreinar/fiskivinna-8-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Fiskivinna 8-10</title><genre code="facta"/><author><unknown/></author><wordcount>3635</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/vallaerugreinar/fiskivinna-8-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -14,8 +14,8 @@
 <list><p type="listitem">Kravdar lærugreinar</p>
 <p type="listitem">Vallærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
 <p type="listitem">Alisfrøði 10</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">23. februar 2017 - Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">23. februar 2017 - Enskt 4-10</p>
 <p type="listitem">Evnafrøði 10</p>
 <p type="listitem">Fiskivinna 8-10</p>
 <p type="listitem">Fjølmiðlar 8-10</p>
@@ -39,7 +39,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -83,7 +83,7 @@
 <p>At sigla við seglum</p>
 <p>Røkiskap og trygd</p>
 <p>Hav og botn</p>
-<p xml:lang="dan">Aling</p>
+<p>Aling</p>
 <p>Grind</p>
 <p>Fuglaveiðu</p>
 <p>Fiskifrøði</p>
@@ -148,8 +148,8 @@
 <p type="listitem">at greiða frá um góðsking, fiskaprísir, bæði avreiðingar- og útflutningsprísir</p>
 <p type="listitem">at bøta eitt slætt stykki av troli og kenna stykkini í trolinum</p>
 <p type="listitem">at vísa kunnleika um, hvørjir útbúgvingarmøguleikar eru innan fiskivinnu.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
-<p type="title" xml:lang="dan">Eftirmeting</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
+<p type="title">Eftirmeting</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðumetingar, testir, munnlig upplegg og skrivligar royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini. Eftirmetingarnar skulu skjalfestast skrivliga.</p>
 <p>Einstaki skúlin ger skrivligar reglur fyri, nær og hvussu eftirmetingarnar verða framdar, og hvussu eftirmetingarnar verða latnar næmingunum.</p>
 <p type="title">Próvtøka</p>
@@ -186,12 +186,12 @@
 <p type="title">Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri føroyskum máli sum intellektuellum amboði, ið skal víðka sjónarringin hjá næminginum. Umráðandi er, at næmingurin fær venjing í at brúka móðurmálið í lærugreinini, eitt nú við sínámillum tosi og við tí at siga frá.</p>
 <p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðaval og talugávur verða ment. Næmingurin skal sleppa at royna veruligar eins væl og tilevnaðar samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa, tí eisini í fiskivinnu er tørvur á hjá næminginum at duga at lesa ymisk sløg av teksti. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Fyri at røkka góðum lesivanum er av stórum týdningi, at lesingin gerst ein natúrligur partur av skúlagongdini. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar eiga at lesa í minsta lagi eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

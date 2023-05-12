@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>3820</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>arinskanningavfunningsfirdiisambandvidvatnorkuutbygginghjasev.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Árinskanning av Funningsfirði </em><em type="bold">í sambandi við vatnorkuútbygging hjá SEV </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>3820</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>arinskanningavfunningsfirdiisambandvidvatnorkuutbygginghjasev.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Árinskanning av Funningsfirði </em><em type="bold">í sambandi við vatnorkuútbygging hjá SEV </em></p>
 <p>Ávegis frágreiðing</p>
 <p><em type="bold">Eilif Gaard, Fiskirannsóknarstovan </em></p>
 <p><em type="bold">Maria Gunnleivsdóttir Hansen, Heilsufrøðiliga starvsstovan </em></p>
@@ -14,14 +14,14 @@
 <p>Minkaða útskiftingin ávirkar týðiliga gróðurin (framleiðslu av plantuplankton) í fjørðinum. Ávirkanin er tó ójøvn og er størst tey ár, tá nógv tøðevni eru á Landgrunninum. Miðal ár til veður kann árligi gróðurin økjast 18%, tá nógv tøðevni eru á Landgrunninum, og við upp til 7%, um lítið er av tøðevnum. Sum vera man er ávirkanin størst um summarið. Í juli kann gróðurin í innasta parti av fjørðinum økjast við upp til 27% um nógv av tøðevnum reka inn og við upp til 18% um lítið er av tøðsøltum í sjónum, ið rekur inn. Longri úti í fjørðinum er ávirkanin minni.</p>
 <p>Botndjór, evnafrøðilig viðurskifti á botni og vøkstur fram við sjóvarmálanum eru kannaði í 2001, 2002 og 2003. Hesar kanningarnar benda ikki á broytingar, ið hava samband við Eiði 3 inntrivið. Fyri at kanna eftir, um ávirkan kann íkoma tá longri tíð er fráliðin, verða hesar kanningar endurtiknar í 2005. Endaligu niðurstøðurnar um botnin og lívið fram við sjóvarmálanum verða gjørdar, tá úrslitini frá hesum kanningunum eru tøk.</p>
 <p>Tórshavn, 7. juli 2005 Eilif</p>
-<p xml:lang="dan">Gaard</p>
+<p>Gaard</p>
 <p>Signar</p>
-<p xml:lang="eng">P.</p>
+<p>P.</p>
 <p>Heinesen</p>
 <p>Maria</p>
-<p xml:lang="dan">G.</p>
+<p>G.</p>
 <p>Hansen Henning</p>
-<p xml:lang="eng">Jacobsen</p>
+<p>Jacobsen</p>
 <p>Eyðfinn</p>
 <p>Magnussen</p>
 <p>Innihaldsyvirlit</p>
@@ -31,7 +31,7 @@
 <p>Gróður og oksygen 10</p>
 <p>Inngangur 10</p>
 <p>Mannagongd 11</p>
-<p xml:lang="eng">Úrslit 11</p>
+<p>Úrslit 11</p>
 <p>Botndjór og botnviðurskifti 14</p>
 <p>Inngangur 14</p>
 <p>Mannagongd 14</p>
@@ -40,8 +40,8 @@
 <p>Inngangur 17</p>
 <p>Mannagongd 17</p>
 <p>Ávegis úrslit 17</p>
-<p xml:lang="dan">Referensur 19 <em type="bold">Frágreiðingar frá kanningunum </em>- Modellering af estuarint vandskifte i Funningsfjord </p>
-<p xml:lang="dan"><em type="italic">Dansk Hydraulisk Institut, 2004 </em>- Modellering af plankton dynamik og iltforhold i Funningsfjord </p>
+<p>Referensur 19 <em type="bold">Frágreiðingar frá kanningunum </em>- Modellering af estuarint vandskifte i Funningsfjord </p>
+<p><em type="italic">Dansk Hydraulisk Institut, 2004 </em>- Modellering af plankton dynamik og iltforhold i Funningsfjord </p>
 <p><em type="italic">Dansk Hydraulisk Institut, 2005 </em>- Ávegis frágreiðing av djóralívskanning á tveimum støðum á Funningsfirði. 2001-2003 </p>
 <p><em type="italic">Havlívfrøðiliga Royndarstøðin, 2005 </em>- Kanningar av sjóvarmálanum í Funningsfirði. Ávegis frágreiðing 2001-2003 </p>
 <p><em type="italic">Føroya Náttúrugripasavn, 2004 </em></p>
@@ -60,7 +60,7 @@
 <p><em type="bold">Saltari, kaldari </em></p>
 <p>Niðara lag</p>
 <p>Ovara lag</p>
-<p xml:lang="dan"><em type="bold">Dý </em><em type="bold">p </em><em type="bold">i ( </em><em type="bold">m </em><em type="bold">) </em><em type="bold">0 </em><em type="bold">2 </em><em type="bold">4 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">1 </em><em type="bold">3 </em><em type="bold">5 </em></p>
+<p><em type="bold">Dý </em><em type="bold">p </em><em type="bold">i ( </em><em type="bold">m </em><em type="bold">) </em><em type="bold">0 </em><em type="bold">2 </em><em type="bold">4 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">1 </em><em type="bold">3 </em><em type="bold">5 </em></p>
 <p><em type="bold">Km </em></p>
 <p>Mynd 1. Ósarákið í Funningsfirði.</p>
 <p>Mannagongd Matematisk modellering er gjørd av fjørðinum. Upplýsingar um t.d. skap á fjørðinum, vind, regn, áarvatn, hita og saltinnihald í sjónum eru koyrd inn í modellið. Útroknaða saltinnihaldið í fjørðinum er samanborið við mátingar ávikavist áðrenn og eftir Eiði 3 inntrivið.</p>
@@ -71,12 +71,12 @@
 <p>Mynd 2. Avfalsøkið í og kring Funningsfjørð. Parturin, ið er brúktur í Eiði 3 verkætlanini, er vístur við gráum.</p>
 <p>Úrslitini frá modellinum vísa, at alt eftir veðrinum minkaði útskiftingin í innasta partinum av fjørðinum (við grynnuna, tvørtur um skurð 1) við 11-14% eftir inntrivið (Talva 1). Minkingin er tengd at avfallinum og er størst tá nógv regn er.</p>
 <p>Talva 1. Høvuðsúrslit frá modelroyndum av miðal vatnføring og útskifting, ávikavist við upprunaligari og minkaðari vatnføring í ymiskum veðri tvørtur um grynnuna á Funningsfirði (skurður 1). Eisini er víst broyting í uppihaldstíðini.</p>
-<p xml:lang="eng"><em type="italic">Broyting </em></p>
+<p><em type="italic">Broyting </em></p>
 <p>Støða</p>
 <p>Miðal nøgdir av vatni (m3/s)</p>
-<p xml:lang="eng">Útskifting (m3/s)</p>
+<p>Útskifting (m3/s)</p>
 <p>Uppihaldstíð (døgn)</p>
-<p xml:lang="dan">Døgn <em type="italic">% </em></p>
+<p>Døgn <em type="italic">% </em></p>
 <p>Vanligt summarveður áðrenn aftaná 0,31 0,19 45,0 40,2 6,2 6,9 + 0,7 <em type="italic">+ 11 </em></p>
 <p>Liggjandi góðveður áðrenn aftaná 0,25 0,15 37,4 33,4 7,5 8,3 + 0,8 <em type="italic">+ 11 </em></p>
 <p>Vanligt vetrarveður áðrenn aftaná 1,37 0,84 79,1 69,9 3,5 4,0 + 0,5 <em type="italic">+ 14 </em></p>
@@ -85,13 +85,13 @@
 <p>Kanningin er nærri lýst í ( <em type="bold">2 </em>). </p>
 <p><em type="bold">Gróður og oksygen </em>Inngangur Ósarákið hevur stóran týdning fyri gróður av plantuplankton í firðum. Tøðevni, sum reka inn í firðirnar, verða drigin uppeftir inni í firðunum. Lagdeilingin og ljósið gera tá, at fyritreytirnar fyri gróðri gerast góðar. Ein partur av algunum søkka niður á botn (sedimenterast) inni í firðunum, og ein partur rekur út í erva. <em type="bold">80 </em><em type="bold">60 </em><em type="bold">40 </em><em type="bold">20 </em><em type="bold">0 </em></p>
 <p><em type="bold">Færri tøðevni </em></p>
-<p xml:lang="dan"><em type="bold">Dý </em><em type="bold">p </em><em type="bold">i ( </em><em type="bold">m </em><em type="bold">) </em><em type="bold">0 </em><em type="bold">2 </em><em type="bold">4 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">1 </em><em type="bold">3 </em><em type="bold">5 </em></p>
+<p><em type="bold">Dý </em><em type="bold">p </em><em type="bold">i ( </em><em type="bold">m </em><em type="bold">) </em><em type="bold">0 </em><em type="bold">2 </em><em type="bold">4 </em><em type="bold">6 </em><em type="bold">7 </em><em type="bold">1 </em><em type="bold">3 </em><em type="bold">5 </em></p>
 <p><em type="bold">Km </em></p>
 <p><em type="bold">Tøðevni </em></p>
 <p><em type="bold">Gróður </em></p>
-<p xml:lang="eng"><em type="bold">Plantuplankton </em></p>
-<p xml:lang="eng"><em type="bold">Plantuplankton </em></p>
-<p xml:lang="eng"><em type="bold">Sedimentering </em></p>
+<p><em type="bold">Plantuplankton </em></p>
+<p><em type="bold">Plantuplankton </em></p>
+<p><em type="bold">Sedimentering </em></p>
 <p>Mynd 3. Ávirkan frá ósaráki á tøðevni og gróður í Funningsfirði.</p>
 <p>Um ósarákið minkar, kann tað ávirka gróðurin. Hugsast kann, at minkaða innrákið av tøðevnum ger, at gróðurin í fjørðinum minkar. Men møguligt er eisini, at longra uppihaldstíðin í fjørðinum ger, at gróðurin gerst størri. Broytingar í gróðri ávirka, hvussu nógv av lívrunnum tilfari søkkur niður á botn. Tað veldst m.a. um hvussu nógvur gróðurin er, og eisini hvussu grunt ella djúpt algurnar eru. Slík ávirkan er krevjandi at máta beinleiðis, av tí at skiftandi veður ávirkar gróður og spjaðing av algunum heilt nógv yvir stutta tíð. Tí varð mett, at frægasta loysnin var at eftirkanna ávirkanina við modelroyndum á teldu.</p>
 <p>Úrslitini frá streymmodellinum vórðu brúkt sum grundarlag, og afturat tí vórðu onnur viðurskifti, t.d. ljós, tøðevni, aling o.a. løgd í eitt lívfrøðiligt model.</p>
@@ -114,19 +114,19 @@
 <p><em type="bold">Støð 2 </em></p>
 <p><em type="bold">Støð 3 </em></p>
 <p><em type="bold">Støð 4 </em></p>
-<p xml:lang="eng"><em type="bold">Mai </em>22 (0%) 24 (3%) 20 (1%) 19 (0%) </p>
+<p><em type="bold">Mai </em>22 (0%) 24 (3%) 20 (1%) 19 (0%) </p>
 <p><em type="bold">Juni </em>25 (5%) 27 (5%) 23 (1%) 22 (0%) </p>
 <p><em type="bold">Juli </em>17 (14%) 18 (13%) 13 (5%) 11 (3%) </p>
-<p xml:lang="eng"><em type="bold">August </em>1,1 (114%) 1,2 (115%) 0,5 (92%) 0,2 (14%) </p>
+<p><em type="bold">August </em>1,1 (114%) 1,2 (115%) 0,5 (92%) 0,2 (14%) </p>
 <p>Talva 3. Gróður í Funningsfirði (gC/m2/mðr) í mai-august eftir Eiði 3 inntrivið í støðu, tá nógv er av tøðevnum í sjónum, sum rekur inn í fjørðin (2003 støðan). Í parantes er víst lutfalsliga økingin í mun til áðrenn inntrivið.</p>
 <p><em type="bold">Støð 1 </em></p>
 <p><em type="bold">Støð 2 </em></p>
 <p><em type="bold">Støð 3 </em></p>
 <p><em type="bold">Støð 4 </em></p>
-<p xml:lang="eng"><em type="bold">Mai </em>20 (9%) 23 (9%) 18 (1%) 11 (4%) </p>
+<p><em type="bold">Mai </em>20 (9%) 23 (9%) 18 (1%) 11 (4%) </p>
 <p><em type="bold">Juni </em>41 (17%) 45 (16%) 31 (12%) 18 (2%) </p>
 <p><em type="bold">Juli </em>30 (27%) 33 (25%) 23 (16%) 13 (5%) </p>
-<p xml:lang="eng"><em type="bold">August </em>8 (20%) 9 (19%) 6 (10%) 3 (0%) </p>
+<p><em type="bold">August </em>8 (20%) 9 (19%) 6 (10%) 3 (0%) </p>
 <p>Eisini nøgdirnar (biomassin) av algum hækka mest í juni og juli og broytingin er størst har inni í fjørðinum. Tá mánaðarliga hækkingin er størst, er hon knapt 20% har inni í fjørðinum, men oftast er hon minni enn tað. Hugsast kann tó, at sannlíkindini fyri uppblómingum av algum í styttri tíðarskeið einstøk ár eru vorðin størri.</p>
 <p>Tá alingin lá innarliga í fjørðinum, økti hon gróðurin nakað. Í 1995 var henda økingin um 8%.</p>
 <p>Tá alingin flutti longur út á fjørðin, minkaði árinið á gróðurin til næstan einki, sjálvt um framleiðslan av fiski øktist munandi.</p>
@@ -159,6 +159,6 @@
 <p>Ávegis úrslit Taravøksturin er av slíkum slagi, ið er vanligur fyri innastu partarnar av okkara mest vardu firðum. Í stóran mun eru tarasløg, ið trívast á vardum økjum, har sjógvurin er minni saltur. Ikki var gjørligt at ávísa nakrar størri broytingar tey trý árini, ið kanningarnar vóru gjørdar. Frammanundan eru gjørdar kanningar í FARCOS verkætlanini í 1995 umframt at VKI gjørdi kanningar í 1982. Úrslitini í hesari kanningini líkjast nógv úrslitunum frá teimum báðum eldru kanningunum. Hetta er taravøkstur, ið er vanligur á støðum, har fjøran er soleiðis háttað sum hon er í Funningsfirði. Samanumtikið benda ávegis úrslitini ikki á nakrar størri broytingar í taravøkstrinum hesi trý árini. Í 2005 verður sjóvarmálin aftur kannaður og endalig niðurstøða verður gjørd.</p>
 <p>Kanningin er nærri lýst í ( <em type="bold">5 </em>). </p>
 <p><em type="bold">Referensur </em>(1). Úrskurður í yvirfriðingarmáli nr 67/1979: Viðvíkjandi ætlaðu vatnorkuútbyggingini í </p>
-<p xml:lang="dan">Eysturoynni hjá elfelagnum SEV. Dagf. 30/12-1983. (2). Dansk Hydraulisk Institut, 2004. Modellering af estuarint vandskifte i Funningsfjord. (3). Dansk Hydraulisk Institut, 2005. Modellering af plankton dynamik og iltforhold i</p>
+<p>Eysturoynni hjá elfelagnum SEV. Dagf. 30/12-1983. (2). Dansk Hydraulisk Institut, 2004. Modellering af estuarint vandskifte i Funningsfjord. (3). Dansk Hydraulisk Institut, 2005. Modellering af plankton dynamik og iltforhold i</p>
 <p>Funningsfjord. (4). Havlívfrøðiliga royndarstøðin, 2004. Umhvørviskanning. Funningsfjørður. Ávegis frágreiðing av djóralívskanning á tveimum støðum á Funningsfirði. Kanningarnar eru gjørdar í august 2001, 2002 og 2003. (5). Føroya Náttúrugripasavn, 2005. Kanningar av sjóvarmálanum í Funningsfirði. Ávegis frágreiðing 2001-2003.</p>
 </body></document>

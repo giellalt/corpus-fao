@@ -1,7 +1,7 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>6635</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.setur.fo/media/5054/arbeidsrit_5-2003.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sms"><em type="bold">ISBN 99918-971-1-9 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>6635</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.setur.fo/media/5054/arbeidsrit_5-2003.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">ISBN 99918-971-1-9 </em></p>
 <p><em type="bold">Ynski og tørvur á eldraøkinum í Vágum </em></p>
-<p xml:lang="nob">Dennis Holm</p>
-<p xml:lang="kal"><em type="bold">ARBEIÐSRIT NR. 5/2003 </em>! <span type="quote" xml:lang="vep">"#"#"</span>$% </p>
+<p>Dennis Holm</p>
+<p><em type="bold">ARBEIÐSRIT NR. 5/2003 </em>! <span type="quote">"#"#"</span>$% </p>
 <p><em type="bold">Innihaldsyvirlit </em>1. Inngangur.................................................................................................................. 3 1.1. Tal av pensjónistum, røktarheimsplássum og bíðilistar ....................................... 3 1.2. Endamálið við kanningini................................................................................... 5 1.3. Framferðarháttur ................................................................................................ 5 2. Bústaðarynski hjá eldri í Vágum ............................................................................... 7 2.1. Kenslan av tryggleika......................................................................................... 8 2.2. Tørvur á ella ynski um eldrabústað..................................................................... 9 </p>
 <p>Eldraíbúðir – ynskir og tørvur ............................................................................. 10 Ynski um eldrasambýli........................................................................................ 11 Røktarheim, vardar eldraíbúðir og demensdeild/-heim......................................... 12 2.3. Hví flyta í annan bústað? .................................................................................. 12 3. Tørvur á tænastum .................................................................................................. 13 4. Samandráttur og niðurstøður ................................................................................... 17 Eftirmæli..................................................................................................................... 20 Fylgiskjal 1. Spurnarblað .............................................................................................. 1</p>
 <p><em type="bold">Ynski og tørvur á eldraøkinum í Vágum </em><em type="bold">1. Inngangur </em></p>
@@ -10,8 +10,8 @@
 <p>Arbeiðsbólkurin vendi sær í januar 2003 til Granskingardepilin fyri Økismenning, har heitt var á okkum at standa fyri einari spurnarblaðskanning um hesi viðurskifti. Fyrireikandi arbeiðið er gjørt í samráð við arbeiðsbólkin, og stóðu kommunurnar í apríl mánaði fyri útbering og innsavnan av spurnarbløðum (sí fylgiskjal 1) til allar borgarar í Vágum, ið tá vóru 65 ár og eldri. Hendan frágreiðingin lýsir og tulkar innkomnu svarini frá spurnarbløðunum og er hon skipað soleiðis, at fyrst verða endamálið og framferðarhátturin lýst í ávikavist broti 1.2. og 1.3. niðanfyri. Í seinna brotinum verður eisini lýst nærri, hvørji hava svarað spurnarblaðnum, og í hvønn mun hetta er nøktandi svar fyri at umboða samlaða bólkin av eldri fólki í Vágunum. 2. og 3. partur lýsir tey ynski og tann tørv, tey eldru í Vágum vísa á, viðvíkjandi bústaðartørvi og tænastum (tulking av svarunum). 4. partur er ein samandráttur og niðurstøðan av kanningini. 1.1. Tal av pensjónistum, røktarheimsplássum og bíðilistar</p>
 <p>Áðrenn farið varð undir hesa spurnarblaðskanning, hevði arbeiðsbólkurin gjørt ymiskar kanningar á eldraøkinum Vágum. Millum annað var gjørd ein uppgerð yvir tal av pensjónistum í hvørjari kommunu, umframt at gjørt var upp, hvussu nógv fólk úr hvørjari kommunu búðu á Ellis- og Avlamisheiminum, og hvussu nógv fingu heimarøkt. Uppgerðin er gjørd pr. september 2002, sí talvu 1. niðanfyri.</p>
 <p><em type="bold">Kommuna Tal av pensjónistum Á Ellis- og Avlamisheiminum Fáa heimrøkt </em>Bíggjar 20 1 2 </p>
-<p xml:lang="isl">Miðvágs 147 11 15</p>
-<p xml:lang="olo">Mykines 2 1 0</p>
+<p>Miðvágs 147 11 15</p>
+<p>Mykines 2 1 0</p>
 <p>Sandavágs 127 9 15</p>
 <p>Sørvágs 135 7 15</p>
 <p><em type="bold">Tilsamans </em><em type="bold">431 </em><em type="bold">29 </em><em type="bold">47 </em></p>
@@ -30,52 +30,52 @@
 <p><em type="bold">Kynsbýtið í kanningini og kynsbýtið í </em></p>
 <p><em type="bold">Vágum </em>0%10%20%30%40%50%60% </p>
 <p>Kvinnur</p>
-<p xml:lang="isl">Menn</p>
+<p>Menn</p>
 <p>Kynsbýtið í kanningini</p>
 <p>Kynsbýtið í Vágum</p>
-<p xml:lang="kal">N=260</p>
-<p xml:lang="kal">N=265</p>
+<p>N=260</p>
+<p>N=265</p>
 <p>Ein spurnarblaðskanning av hesum slagi er soleiðis háttað, at spurningarnir - og harvið svarmøguleikarnir - eru fastlagdir frammanundan. Hetta kann føra við sær, at hóast fólk svara tað sama upp á sama spurning, so leggja tey ymiskt í svarið, ella hava skilt spurningin á ymiskan hátt. Fyri at minka um hendan veikleikan, eru spurningarnir í hesi kanningini gjørdir so einfaldir sum gjørligt. At spurnarblaðið, sum longu nevnt, er gjørt í samráð við stovnar og fakfólk innan eldraøkið, umframt at brúkarar av tænastum á eldraøkinum hava gjørt viðmerkingar, er við til at minka um hendan vandan. Ein vanligur trupulleiki við spurnarblaðskanningum er, at tann, ið svarar, einans kann svara upp á teir spurningar, sum eru settir, og einans innan teir svarmøguleikar, ið gjørdir eru frammanundan. Vit hava roynt at minka um hesar avmarkingarnar við at eggja teimum, ið svara, til at skoyta upp í viðmerkingar, um tey hava nakað at leggja afturat. Hetta er gjørt í fleiri førum, sum vit eisini koma at vísa á seinni. Greitt er sostatt, at kanningin kann sigast vera umboðandi fyri tey, ið eru 65 ár og eldri í Vágum, og er grundarlagið fyri at gera nakrar niðurstøður út frá spurnarblaðskanningini sum heild gott. <em type="bold">2. Bústaðarynski hjá eldri í Vágum </em></p>
 <p>Í hesum partinum skulu vit lýsa nærri, hvørji bústaðarynski tey eldru í Vágunum siga seg hava. Útgangsstøðið fyri hesum ynski er sjálvsagt núverandi støðan hjá teimum eldri, har fleiri enn 90 %, sum nú er, búgva í egnum húsum ella í egnari íbúð. Færri enn 5 % búgva til leigu ella inni hjá avvarðandi, meðan bert einstøk hava víst á annað slag av bústaði enn tey nevndu.</p>
 <p><em type="bold">Hvussu búgva tygum? </em>0%20% 40% 60% 80% 100% </p>
-<p xml:lang="isl">Annað</p>
+<p>Annað</p>
 <p>Búgvi inni hjá avvarðandi</p>
 <p>Til leigu í húsum/íbúð</p>
 <p>Í egnum húsum/íbúð</p>
 <p><em type="italic">Mynd 2. Hvussu búgva tygum? </em></p>
-<p xml:lang="kal">N=261</p>
+<p>N=261</p>
 <p>Hjúnalagsstøðan er soleiðis, at stór 55 % eru gift, meðan fleiri enn 35 % eru einkjur ella einkjumenn, og færri enn 10 % ógift. 2.1. Kenslan av tryggleika</p>
 <p>Av stórum týdningi fyri tryggleikan hjá tí einstaka pensjonistinum er sjálvsagt, hvørt tey búgva einsamøll ella ikki. Kanningin vísir, at 70 % av teimum eldri búgva saman við onkrum, antin hjúnafelaga ella maka (uml. 60 %) ella hjá/saman við børnum ella øðrum (uml. 10 %). 30 % svaraðu, at tey búðu einsamøll. Av teimum 30 %, ið búgva einsamøll, svaraðu bert heilt fá, at tey ikki føldu seg trygg at búgva einsamøll. Heili 90 % søgdu, at tey føla seg trygg at búgva einsamøll. Men hóast bert fá í kanningini hava víst á, at tey ikki føla seg trygg einsamøll, so bendir nakað tó á, at vit ikki eiga at undirmeta hendan trupulleikan. Nøkur hava eisini brúkt høvið at vísa á, hvørjar støður gera, at tey ikki altíð føla seg trygg.</p>
 <p><em type="bold">Eru tygum einsamøll/-mallur í húsi? </em>0%10% 20% 30% 40% 50% 60% 70% </p>
 <p>Búgvi saman viðøðrum</p>
 <p>Búgvi saman viðbørnum</p>
-<p xml:lang="isl">Búgvi saman viðhjúnafelaga/maka</p>
-<p xml:lang="smj">Ja</p>
+<p>Búgvi saman viðhjúnafelaga/maka</p>
+<p>Ja</p>
 <p><em type="bold">Um ja, følir tú teg trygga/-n at búgva </em><em type="bold">einsamøll/-mallur </em>0%20%40%60%80%100% </p>
-<p xml:lang="isl">Annað</p>
-<p xml:lang="nno">Nei</p>
-<p xml:lang="smj">Ja</p>
+<p>Annað</p>
+<p>Nei</p>
+<p>Ja</p>
 <p><em type="italic">Mynd 4. Einsamøll og kenslan av tryggleika </em></p>
-<p xml:lang="kal">N=260</p>
-<p xml:lang="kal">N=84</p>
-<p xml:lang="isl"><em type="bold">Hjúnalagsstøða </em>0%20%40%60% </p>
+<p>N=260</p>
+<p>N=84</p>
+<p><em type="bold">Hjúnalagsstøða </em>0%20%40%60% </p>
 <p>Einkja/einkjumaður</p>
-<p xml:lang="isl">Ógift/-ur</p>
-<p xml:lang="deu">Gift/-ur</p>
-<p xml:lang="kal">N=224</p>
-<p xml:lang="isl"><em type="italic">Mynd 3. Hjúnalagsstøða </em></p>
+<p>Ógift/-ur</p>
+<p>Gift/-ur</p>
+<p>N=224</p>
+<p><em type="italic">Mynd 3. Hjúnalagsstøða </em></p>
 <p><em type="bold">Kvinna millum 70-74 ár </em>Eg havi ein eldri mann. Vit klára okkum, tá ið vit eru frísk, men tað er ringt hjá mær, tá ið hann er sjúkur, og tað kemur tíðum fyri. (…) Tá føli eg meg ikki trygga. 2.2. Tørvur á ella ynski um eldrabústað </p>
 <p>Eitt av høvuðsendamálunum við kanningini er sum sagt at fáa greiðu á, hvønn tørv ella hvørji ynski, tey eldru í Vágum hava viðvíkjandi bústaði í teirra aldurdómi. Í spurnarblaðskanningini varð tí spurt um, hvør bústaður hevði hóskað teimum best, um tey skuldu flutt í annan bústað. Fyri at kanna nærri, hvønn tørv og ynski tey eldru høvdu til bústað í teirra aldurdómi, varð høvið givið at velja ímillum fimm ymisk sløg av bústaðarmøguleikum: eldraíbúðir, vardar eldraíbúðir, eldrasambýli, røktarheim og demensdeild/-heim. Harumframt var eisini gjørligt at svara <em type="italic">annað </em>og tí sambandinum skriva egna viðmerking, ella svara <em type="italic">veit ikki </em>. Í spurnarblaðnum varð eisini greitt frá, hvat skiljast skal við hesar ymsu bústaðarmøguleikar, sí frágreiðing í boksini niðanfyri. </p>
 <p>Av teimum 269, ið hava svarað spurnarblaðnum, hava 237 svarað spurninginum viðvíkjandi eldrabústaði. Smá 80 % av hesum hava eina greiða støðu, meðan nøkur fá</p>
-<p xml:lang="isl"><em type="bold">Eldraíbúð </em></p>
-<p>Eldraíbúðir eru fyri brúkarar / fólkapensjónistar í <span type="quote" xml:lang="isl">”góðum árum”</span>, sum hava varðveitt sín fulla førleika, men ynskja at flyta í ein minni bústað</p>
+<p><em type="bold">Eldraíbúð </em></p>
+<p>Eldraíbúðir eru fyri brúkarar / fólkapensjónistar í <span type="quote">”góðum árum”</span>, sum hava varðveitt sín fulla førleika, men ynskja at flyta í ein minni bústað</p>
 <p><em type="bold">Vardar eldraíbúðir </em></p>
 <p>Vardar eldraíbúðir eru ætlaðar at hýsa brúkarum / fólkapensjónistum við likamligum breki og sum tí ikki kunnu búgva í vanligum húsum.</p>
-<p xml:lang="vep"><em type="bold">Eldrasambýli </em></p>
+<p><em type="bold">Eldrasambýli </em></p>
 <p>Eldrasambýli er ein minni eind, sum kann hýsa 7-10 fólkapensjónistum, ið partvíst eru sjálvhjálpnir, men sum hava tørv á stuðli, vegleiðing og støðugari hjáveru, t.d. um tey ikki føla seg trygg einsamøll ella kunnu búgva einsamøll.</p>
-<p xml:lang="nno"><em type="bold">Røktarheim </em></p>
+<p><em type="bold">Røktarheim </em></p>
 <p>Røktarheim er ein størri stovnur, sum hýsir 35-48 búfólkum / fólkapensjónistum, sum hava tørv á røkt, stuðli, vegleiðing og støðugari eygleiðing og viðgerð. Á røktarheimum er sjúkrasystir á vakt alt samdøgrið og røktin verður annars veitt av sjúkrahjálparum, heilsuatstøðingum og hjálparstarvsfólki.</p>
-<p xml:lang="nno"><em type="bold">Demensdeild/-heim </em></p>
+<p><em type="bold">Demensdeild/-heim </em></p>
 <p>Demensdeild/-heim er ein lítil eind ætlað til í mesta lagi 9 brúkarar / fólkapensjónistar, sum hava tørv á røkt í einum vardum umhvørvi, ið kann varðveita teirra serliga tørv fyri virksemi, samstundis sum teimum tørvar tryggleika.</p>
 <p>Demensdeildin er nomerað við sjúkrasystrum, heilsurøktarum og sjúkrahjálparum, og eigur normeringin at vera enn hægri enn á vanligari røktardeild. <em type="italic"></em>prosent hava svarað <em type="italic">annað </em>og viðmerkt, hvat ynski tey hava. 19 % hava svarað, at tey ikki vita, hvør bústaðarmøguleiki hóskar best til tey. Ein stórur partur av teimum, sum hava ein støðu til hendan spurning – umleið 45 % av teimum 237 – hava víst á, at tey halda, at <em type="italic">eldraíbúðir </em>hóska best til tey. Umleið 15 % vísa á, at tey halda, at <em type="italic">eldrasambýli </em>hóskar best, meðan 10 % meina, at <em type="italic">røktarheim </em>er rætti bústaðurin fyri tey. Góð 5 % svaraðu, at <em type="italic">vardar eldraíbúðir </em>hóskaði teimum best, meðan bert einstøk hildu, at <em type="italic">demensdeild/-heim </em>hóskaði best til tey1. </p>
 <p><em type="bold">Eldraíbúðir – ynskir og tørvur </em></p>
@@ -83,13 +83,13 @@
 <p><em type="italic">Mynd 5. Hvør bústaður hóskar best til tygum? </em></p>
 <p><em type="bold">Hvør bústaður hóskar best til tygum? </em>0% 10% 20% 30% 40% 50% </p>
 <p>Veit ikki</p>
-<p xml:lang="isl">Annað</p>
-<p xml:lang="nno">Demensdeild / -heim</p>
+<p>Annað</p>
+<p>Demensdeild / -heim</p>
 <p>Vardar eldraíbúðir</p>
-<p xml:lang="nno">Røktarheim</p>
-<p xml:lang="vep">Eldrasambýli</p>
+<p>Røktarheim</p>
+<p>Eldrasambýli</p>
 <p>Eldraíbúð (minni íbúðir)</p>
-<p xml:lang="kal">N=237</p>
+<p>N=237</p>
 <p><em type="bold">Aldursbýtið og ynski um eldraíbúðir </em>0%10%20%30%40%65-69 ár70-74 ár75-79 ár80-84 ár85-89 ár90 ár og eldri </p>
 <p>Aldursbýtið í kanningini</p>
 <p>Aldursbýtið o g ynski um eldraíbúðir</p>
@@ -102,7 +102,7 @@
 <p>Um hugt verður at, hvørjar orsøkir liggja aftan fyri ynski um at flyta í annan bústað, so hevur umleið ein triðingur svarað, at orsøkin til at flyta í annan bústað er, at húsini / íbúðin eru ov stór3. Smá 15 % svaraðu, at vánaliga heilsustøðan var orsøkin, meðan um 5 % søgdu, at orsøkin var fíggjarliga byrðan, ella at tey tordu illa at vera einsamøll. 3 Ein kanning, sum Gallup Føroyar gjørdi í des. 2002 og jan. 2003, í smb. við álit um alternativa bústaðarbygging, vísti eisini, at meira enn helvtin av teimum, ið eru 60 ár og eldri halda, at bústaður teirra er ov stórur (Alternativ bústaðarbygging, Familju- og Heilsmálaráðið &amp; Fíggjamálaráðið, 2003)</p>
 <p>Aldursbýtið er nøkulunda javnt á teimum, sum siga orsøkina til at flyta í annan bústað vera, at húsini eru ov stór. Hinvegin eru tað lutfalsliga fleiri í teimum eldru ættarliðunum í kanningin, t.v.s. tey, sum eru 75 ár og eldri, ið ynskja at flyta orsakað av vánaligu heilsustøðuni. Nøkur einstøk hava víst á, at fíggjarliga byrðan er orsøkin. Somuleiðis hava nøkur fá víst á, at tey tora illa at vera einsamøll, og tí vilja tey flyta í annan bústað. Um hugt verður nærri at, hvussu hesi búgva, so vísir tað seg, at tey flestu búgva í egnum húsum, meðan einstøk búgva inni hjá avvarðandi ella leiga hús/íbúð. Smá 5 % hava víst á aðrar orsøkir til, at tey ynskja at flyta í annan bústað. Millum aðrar orsøkir, varð í fleiri førum víst á, at trappurnar vóru ein trupulleiki, t.v.s. at tey kláraðu ikki at ganga í trappum, og var hetta ein stórur trupulleiki í teimum førum, har baðirúmið er á aðru hædd. Ein partur av hesum fólkunum hoyra til tey, sum hava tørv á øðrum bústaði, meðan tørvurin hjá øðrum kundi verið nøktaður, um t.d. innrættingin av húsunum varð broytt. <em type="bold">3. Tørvur á tænastum </em></p>
 <p>Í spurnarblaðskanningini varð eisini spurt, um umstøðurnar at búgva heima vóru nøktandi. Av teimum 252, ið svaraðu hesum spurninginum, svaraðu umleið 90 %, at umstøðurnar at búgva heima vóru nøktandi. Hinvegin svaraðu góð 5%, at umstøðurnar vóru ikki nøktandi, meðan smá 5 % svaraðu <em type="italic">annað </em>. Sostatt eru umstøðurnar at búgva </p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 80-84 ár: </em></p>
+<p><em type="bold">Kvinna millum 80-84 ár: </em></p>
 <p>Vit mugu bæði sova í stovuni. Kundu hugsað okkum brúsu í miðhæddini, tí vit klára ikki trappurnar.</p>
 <p><em type="italic">Mynd 7. Hví flyta í annan bústað? </em></p>
 <p><em type="bold">Hví flyta í annan bústað? </em>0%10% 20% 30% 40% </p>
@@ -115,7 +115,7 @@
 <p>N=162 heima nøktandi hjá einum stórum parti av teimum í Vágum, ið eru 65 ár og eldri. Fleiri viðmerktu eisini í spurnarblaðnum, at tey ynsktu at búgva heima so longi sum gjørligt.</p>
 <p>Um hugt verður at, hvørji siga, at umstøðurnar <em type="italic">ikki </em>eru nøktandi at búgva heima, so tykist talan vera um, at lutfalsliga fleiri í eldru aldursbólkunum siga hetta. Hinvegin kann sigast, at talan er bæði um fólk, ið búgva einsamøll og um fólk, sum búgva saman við hjúnafelaga/maka ella inni hjá børnum ella avvarðandi. Áhugavert er, at ein partur av teimum, ið siga, at umstøðurnar at búgva heima ikki eru nøktandi, eisini vísa á, at vánaliga heilsustøðan er ein orsøk til, at tey ynskja at flyta í annan bústað. Nøkur av teimum, ið siga, at umstøðurnar eru ikki nøktandi at búgva heima, hava søkt búpláss á Ellis- og Avlamisheiminum. Í spurnarblaðnum var eisini møguleiki fyri at vísa á ávísar tænastur, ið høvdu kunnað bøtt um umstøðurnar at búgva heima. Til bar at velja ímillum hesar tænastur4: </p>
 <p><em type="bold">Hjálpitól </em>. Her verður hugsað um ymisk hjálpitól (frá eitt nú Hjálpitóla miðstøðini), sum høvdu lætt um í dagligdegnum, t.d. serlig song. <em type="bold">Heimarøkt </em>. Heimahjálp ella heimasjúkrasystir gjøgnum heimarøktarskipanina. <em type="bold">Døgnrøkt </em>. Vitjan um náttina gjøgnum heimarøktarskipanina. Døgnrøktarskipanin verður væntandi sett í verk á heysti 2003. <em type="bold">Dagstovnatilboð </em>. Dagstovnur er eitt tilboð fyri fólka- og avlamispensjónistar, sum hava niðursettan likamligan og / ella mentalan førleika, og hava tørv á sosialari samveru, og / ella likamligari og mentalari stimbran. <em type="bold">Dagtilhald </em>. Dagtilhald er fyri frískar og ferðugar pensjónistar, sum koma dagliga í tilhaldið at nýta tilboðini har, tá tey hava hug og tørv á tí. 4 Í spurnarblaðnum varð bert skrivað hjálpitól, heimarøkt, døgnrøkt, dagstovnatilboð os.fr., men vórðu gjørdar nakrar lýsingar av, hvat hesi hugtøk merkja – øll hugtøk vórðu tó ikki lýst. </p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 70-74 ár: </em></p>
+<p><em type="bold">Kvinna millum 70-74 ár: </em></p>
 <p>Ynski at búgva í mínum egna heimi longst møguligt.</p>
 <p><em type="bold">Mattænasta </em>. Sum er verður mattænasta skipað á Ellis- og Avlamisheiminum, men køksumstøðurnar seta nátúrligar avmarkingar á talinum á brúkarum av hesari tænastu. <em type="bold">Koyritænasta </em>. Koyritænasta til handils ella til tiltøk, møtir, fundir os.fr. <em type="bold">Uppvenjing/viðgerð heima við hús </em>. Til dømis fysioterapi heima við hús, so at tað slepst undan at fara út til fysioterapi, um ein ikki er førur fyri tí. <em type="bold">Annað </em>. Her kann vera talan um, at onkur umbygging kann gerast í egnum heimi, t.d. taka burtur gáttir, gera brúsu og wc á somu hædd sum sovikamar, køkur og stova. </p>
 <p>Sum sagt so svaraðu lutfalsliga fá (14 fólk), at umstøðurnar at búgva heima ikki vóru nøktandi. Av somu orsøk, so ber ikki til at geva nakra greiða mynd av, hvørjar tænastur, sum heild høvdu kunnað bøtt um umstøðurnar at búgva heima, til hetta eru spurnarbløðini ov fá. Tó ber til at siga eitt sindur um, hvørjar tænastur <em type="italic">tey </em>, ið søgdu at umstøðurnar at búgva heima ikki vóru nøktandi, halda høvdu bøtt um viðurskiftini hjá <em type="italic">teimum </em>. Tey flestu av teimum (11 av 14), ið svaraðu, at umstøðurnar at búgva heima ikki vóru nøktandi, vístu á, at hjálpitól høvdu bøtt um umstøðurnar. Somuleiðis hava fleiri (11 av 14) víst á, at um tey fingu heimarøkt ella meiri heimarøkt, so hevði tað eisini bøtt um umstøðurnar. </p>
@@ -123,33 +123,33 @@
 <p><em type="bold">Maður og kvinna millum 80-84 ár: </em></p>
 <p>Vit kundu ynskt, at tað hevði verið møguleiki at fingið døgurða útbornan frá</p>
 <p>Ellisheiminum, tá ið tørvur er á tí.</p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 80-84 ár: </em></p>
+<p><em type="bold">Kvinna millum 80-84 ár: </em></p>
 <p>Eg vildi ynskt at fingið mat bornan inn ella gjørdan her við hús og annað, tá man liggur sjúkur. Eg havi ligið sjúk 3-4 vikur og onga hjálp kunnað fingið í 2 dagar, so tað kunnu tit rokna út sjálv, hvussu tað er tá man er 81 ár.</p>
 <p><em type="bold">Maður millum 75-79 ár: </em></p>
 <p>Eg vildi fegin fingið heimahjálp oftari enn nú, so hon kundi fingið tíð at tosa eina løtu við meg.</p>
 <p>Aftur onnur vísa á, at dagtilhald og koyritænasta høvdu bøtt um umstøðurnar hjá teimum at búgva heima.</p>
 <p>Umframt valmøguleikarnar, ið frammanundan vóru fastlagdir, so var eisini møguleiki fyri at skriva aðrar orsøkir og gera egnar viðmerkingar. Hetta høvið brúktu nøkur.</p>
 <p>Umframt at tørvur er á ymiskum tænastum (sum víst omanfyri), so eru tað eisini nøkur eldri fólk í Vágum, sum eru einsamøll og eftirlýsa einum tilboði, sum gevur teimum møguleika at fáa eitt sindur av tíð saman við øðrum fólkum. Sigast kann, at hesi í ávísan mun eru sosialt marginaliserað – sosialt avskorin, við lítlum og ongum sambandi við onnur fólk, ein støða sum ongin okkara ynskir at koma í. Summastaðni í landinum er skipað ein vitjanartænasta fyri júst at forða fyri, at eldri fólk gerast einsamøll og verða sosialt avskorin – og er hetta uttan iva eitt tilboð, ið átti at verið skipað um alt landið, eisini í Vágum. Eisini sóknast summi eftir fleiri tilboðum á dagtilhaldi ella dagstovni.</p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 75-79 ár: </em></p>
+<p><em type="bold">Kvinna millum 75-79 ár: </em></p>
 <p>Kundi ynskt, at tilboð vóru dagliga (dagtilhald). Eg var á Ellisheiminum síðsta heyst til ítriv, men hetta varð skorið niður. Kundi hugsað mær, at hetta var uppafturtikið.</p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 75-79 ár: </em></p>
+<p><em type="bold">Kvinna millum 75-79 ár: </em></p>
 <p>Ynski mær møguleikan at hava eitt stað/ein persón, sum eg kann seta meg í samband við, tá eg tørvi hjálp vegna sjúku.</p>
 <p><em type="bold">Maður millum 85-89 ár: </em></p>
 <p>Tað er alt í lagi við stórum og góðum heimum og inventari, men tað er allar viktigast við tí livandi inventarinum, at tað er egnað at umgangast eldri fólki, so man ikki følir, at mann er bara sum eitt inventar. Tá mann hevur verið pensjónist í 20 ár, so hevur mann vissar royndir. Takk fyri. Roynið sum best. <em type="bold">4. Samandráttur og niðurstøður </em></p>
 <p>Hendan frágreiðing lýsir ynskini til og tørvin á eldraøkinum í Vágum. Frágreiðingin er grundað á eina spurnarblaðskanning millum tey í Vágum, sum eru 65 ár og eldri. Kanningin varð gjørd í apríl mánaða 2003. Endamálið við kanningini varð at spyrja: <em type="italic">hvørji ynski og hvønn tørv tey í Vágum, sum eru 65 ár og eldri, hava til framtíðar bústaðarmøguleikar í teirra ellisárum um umstøður pensjonistanna at búgva heima eru nøktandi, og hvørjar tænastur tey meta, kundu bøtt um hesar umstøður </em></p>
 <p><em type="bold">Ynski og tørvur á eldrabústaðum </em>Kanningin vísti, at umleið 45 % av teimum (fleiri enn 100 fólk), sum hava víst á ynski um ella tørvi á framtíðarbústaði í teirra ellisárum, halda, at <em type="italic">eldraíbúðir </em>hóska best til tey. Umleið 15 % (umleið 35 fólk) halda, at <em type="italic">eldrasambýli </em>hóskar best, meðan 10 % (umleið 25 fólk) meina, at <em type="italic">røktarheim </em>er rætti bústaður fyri tey. Góð 5 % svaraðu, at <em type="italic">vardar eldraíbúðir </em>hóskaði teimum best, meðan bert einstøk hildu, at <em type="italic">demensdeild/-heim </em>hóskaði best til tey5. Skiljast má ímillum ynski og tørv á eldrabústaðum. Tey yngru ættarliðini (tey, sum eru millum 65 – 74 ár), við góðari heilsu, umboða í stóran mun eitt ynski til eldrabústað – eitt ynski um ein framtíðarbústað. Hesi ynski eru m.a. grundað á verandi støðu, ein støða sum í løtuni er góð m.a. hvat viðvíkur heilsu – og av somu orsøk er ikki stórvegis tørvur á eldratænastum (heimarøkt, eldrabústaði os.fr.). Um so er, at t.d. heilsustøðan broytist, so vil ynski um eldrabústað helst eisini broytast. Fleiri viðurskifti eru eisini ógreið, viðvíkjandi tí at flyta í eina eldraíbúð, t.d. hvat egin hús kunnu seljast fyri, hvussu nógv tað kostar at leiga ella keypa eina eldraíbúð, hvar verður eldraíbúðin, 5 Í álitinum um eldraøkið (Álit um Eldraøkið, Eldrabólkurin 2002: 39) verður víst á, at í Heimarøktarøki 2 (Norðurstreymoy og Vágar) er tørvur á 42 plássum á sambýli, røktarheim og heimi fyri minnisveik (demensheim). hvussu hon kemur at síggja út o.s.fr. – og av somu orsøk er rættliga ivasamt, hvørt fólk eru før fyri at taka endaliga avgerð í verandi støðu. Talan er tí heldur um eitt ynski enn ein beinleiðis tørv, men kanningin vísir tó, at í prinsippinum kundu nógv eldri <em type="italic">hugsað </em>sær at flutt í eldraíbúð, spurningurin er, hvørjar fortreytir hetta ynskið er grundað á? Neyðugt er tí at gera eitt framhaldandi arbeiði viðvíkjandi eldraíbúðum, hetta í samstarvi við tey eldru. Hvat viðvíkur teimum eldru ættarliðunum (tey, sum eru 80 ár og eldri), so er heilsustøðan í nøkrum førum farin at bila. Talan er eisini um ein bólk av eldri í Vágum, har heilsustøðan ikki er góð, og har ein partur av teimum dagliga fær heimarøkt og aðrar tænastur fyri at klára seg. Hesin bólkur hevur ein akuttan tørv á eldrabústaði – og hava hesi eisini víst á, at tey kundu hugsað sær at flutt í eldrabústað, har starvsfólk eru, ið kunnu taka hædd fyri heilsustøðuni hjá tí einstaka, sum t.d. í vardari eldraíbúð, í eldrasambýli, á røktarheimi ella á demensheimi. Hvat viðvíkur vardum eldraíbúðum, røktarheimsplássi ella plássi á demsensheimi, so er talan um tørv á umleið 40 plássum, meðan talan helst er um ein tørv á umleið 25-30 sambýlisplássum6. <em type="bold">Hví flyta í annan bústað? </em>Høvuðsorsøkirnar til ynski um at flyta í annan bústað eru, at húsini/íbúðin er ov stór, og at heilsustøðan er vánalig. Fleiri enn 30 % vístu á, at um tey skuldu flutt í annan bústað, so var hetta orsakað av, at húsini/íbúðin var ov stór. Meðan smá 15 % vístu á, at orsøkin var vánaliga heilsustøðan. <em type="bold">Umstøðurnar at búgva heima í stóran mun nøktandi </em>Kanningin vísti eisini, at umleið 90 % av teimum í Vágum, sum eru 65 ár og eldri, halda, at umstøðurnar at búgva heima eru nøktandi. Smá 5 % vístu á, at umstøðurnar vóru ikki nøktandi, meðan onnur 5 % hava svarað <em type="italic">annað </em>. Tey, ið siga umstøðurnar ikki verða nøktandi, vísa m.a. á, at heimarøkt ella meiri heimarøkt, mattænasta og dagtilhald høvdu bøtt um teirra umstøður at búgva heima. Onnur hava viðmerkt, at teimum tørvar 6 Bólkurin, ið vísir á tørv á sambýlisplássum fevnir ikki bara um tey, sum eru 80 ár og eldri, ein partur av teimum eru millum 74-79 ár ein persón ella eitt stað, sum tey kunnu venda sær til, um tey hava tørv á tí, t.d. tá tey eru sjúk. Samumtikið, so hava tey allarflestu tað gott og og klára seg, antin við egnari hjálp ella við hjálp frá hvør øðrum, teimum avvarðandi og tí almenna. Tað er tó ein bólkur av eldri fólki, ið greitt hevur ein tørv á betri umstøðum, serliga hvat viðvíkur bústaðarviðurskiftum. Harumframt vísa nøkur eisini á tørv á sosialari samveru, hetta antin við heimavitjan (t.d. við at heimarøktin fær fleiri tímar) ella við tilboðum á dagtilhaldi ella dagstovni. <em type="bold">Eldrabústaðir og bústaðarmarknaðurin </em>Um tey, ið hava ynski um og tørv á øðrum bústaði høvdu fingið tilboð um at flyta í annan bústað, so hevði hetta ført við sær ávísar broytingar á húsamarknaðinum í Vágum. Húsini hjá teimum, sum høvdu flutt í eldraíbúð, í eldrasambýli, á røktarheim ella í annan eldrabústað, høvdu verið boðin út á húsamarknaðinum, og hevði hetta viðført, at tørvurin á nýggjum húsum, grundstykkjum og harvið eisini á útstykkingum hevði minkað. Ístaðin fyri at byggja nýggj hús, so hevði ein útskifting farið fram, har tey yngru ættarliðini høvdu yvirtikið húsini hjá teimum eldru ættarliðunum, sum vóru flutt í eldrabústaðir. Fyri bæði tey yngru og tey eldru ættarliðini hevði hetta verið ein góð fíggjarlig loysn; tey yngru høvdu fingið bíligari hús, meðan tey eldru høvdu fingið størri fíggjarligt rásarúm í sínum aldurdómi, eina fríheit, sum ein ikki hevur, tá ein er bundin at einum húsum. </p>
-<p xml:lang="isl"><em type="bold">Eftirmæli </em></p>
+<p><em type="bold">Eftirmæli </em></p>
 <p>At enda fari eg stutt at umrøða eina afturvendandi viðmerking, ið fólk hava skrivað á spurnarblaðið. Hendan viðmerking snýr seg um, at fólk eru glað fyri, at okkurt verður gjørt viðvíkjandi eldraøkinum í Vágum. Niðanfyri eru nøkur dømi um viðmerkingar um hetta:</p>
 <p>Hesi dømini – og aðrar viðmerkingar líkar hesum – vísa, at fólk, umframt at tey eru væl nøgd við, at okkurt verður gjørt á eldraøkinum, eisini føla seg eitt sindur tryggari viðvíkjandi framtíðini. Fleiri hava viðmerkt í spurnarblaðið, at tey ikki hava nakran tørv, sum er, men at ongin kann vita, hvønn tørv ein hevur um nøkur ár – og hava nøkur lagt afturat, at tað er gott, at okkurt verður gjørt. Onnur hava víst á, at tey eru glað fyri, at tey verða spurd um, hvat tey halda – at tey fáa loyvi at koma til orðanna. So at siga ongin siðvenja er í Føroyum fyri at kanna, hvat brúkarin ella framtíðar brúkarar á t.d. eldraøkinum halda og ynskja. Hendan kanningin vísir greitt, at fólk hava stóran áhuga í at sleppa til orðanna og á tann hátt ávirka egin kor, soleiðis sum tey eru nú, ella sum tey verða í framtíðin.</p>
 <p><em type="bold">Maður millum 75-79 ár </em></p>
 <p>Hetta tiltakið er sera gott.</p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 70-74 ár </em></p>
+<p><em type="bold">Kvinna millum 70-74 ár </em></p>
 <p>Tað er ikki nemt at svara, soleingi man hevur tað gott, og ikki veit hvør tørvurin kann verða seinri, men hugskotið er avbera gott.</p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 65-69 ár </em></p>
+<p><em type="bold">Kvinna millum 65-69 ár </em></p>
 <p>Hetta er eitt frálíkt uppskot.</p>
-<p xml:lang="isl"><em type="bold">Kvinna millum 75-79 ár </em></p>
+<p><em type="bold">Kvinna millum 75-79 ár </em></p>
 <p>Eg eri takksom fyri, at eg klári meg sjálva, men eg biði tykkum so staðiliga framhaldandi at arbeiða við hesum góða máli. Ynski góða eydnu.</p>
-<p xml:lang="isl"><em type="bold">Fylgiskjal 1. Spurnarblað </em></p>
+<p><em type="bold">Fylgiskjal 1. Spurnarblað </em></p>
 <p><em type="bold">Kanning av tørvi á eldraøkinum í Vágum </em></p>
 <p>Kommunurnar í Vágum hava ásannað, at tað eru ávísir tørvir á eldraøkinum í Vágum, sum í dag ikki verða nøktaðir. Tekin eru um, at tørvur er á einum eldrasambýli ella øðrum eldrabústaðum, umframt at tørvur er á ávísum øðrum tænastum innan eldraøkið.</p>
 <p>Fyri at fáa lýst hendan tørv, hevur Felagskommunan í Vágum gjørt av at seta ein arbeiðsbólk fyri at kanna tørvin hjá teimum eldru í Vágum. Í arbeiðsbólkinum eru:</p>
@@ -170,25 +170,25 @@
 <p>Um tit hava spurningar um kanningina kunnu tit ringja til Jónhild Jørgensen, forkvinnu í</p>
 <p>Felagskommununi í Vágum (tlf. 22 87 82) ella Dennis Holm á Granskingardeplinum fyri</p>
 <p>Økismenning (tlf. 37 44 77).</p>
-<p xml:lang="som"><em type="bold">Vinarliga </em></p>
+<p><em type="bold">Vinarliga </em></p>
 <p><em type="bold">Felagskommunan í Vágum </em></p>
 <p><em type="bold">FO-370 Miðvágur </em></p>
-<p xml:lang="eng"><em type="bold">Tlf. 22 87 82 </em></p>
-<p xml:lang="isl"><em type="bold">Spurnarblað til heimabúgvandi borgarar í Vágum, </em><em type="bold">sum eru 65 ár og eldri </em><em type="bold">1. Aldur: </em>___________ ár <em type="bold">2. Kyn </em>: 1 Kvinna 2 Maður <em type="bold">3. Hjúnalagsstøða: </em>1 </p>
-<p xml:lang="deu">Gift/-ur 2</p>
-<p xml:lang="isl">Ógift/-ur 3</p>
+<p><em type="bold">Tlf. 22 87 82 </em></p>
+<p><em type="bold">Spurnarblað til heimabúgvandi borgarar í Vágum, </em><em type="bold">sum eru 65 ár og eldri </em><em type="bold">1. Aldur: </em>___________ ár <em type="bold">2. Kyn </em>: 1 Kvinna 2 Maður <em type="bold">3. Hjúnalagsstøða: </em>1 </p>
+<p>Gift/-ur 2</p>
+<p>Ógift/-ur 3</p>
 <p>Einkja/einkjumaður <em type="bold">4. Hvussu eru íbúðarviðurskiftini hjá tygum - hvussu búgva tygum? </em>1 </p>
 <p>Í egnum húsum/íbúð 2</p>
 <p>Til leigu í húsum/íbúð 3</p>
-<p xml:lang="isl">Í vardari íbúð 4</p>
+<p>Í vardari íbúð 4</p>
 <p>Búgvi inni hjá avvarandi 5</p>
 <p>Annað: _______________________________________ <em type="bold">5. Eru tygum einsamøll/-mallur í húsi? </em>1 </p>
-<p xml:lang="smj">Ja 2</p>
+<p>Ja 2</p>
 <p>Nei, búgvi saman við hjúnafelaga / maka3</p>
 <p>Nei, búgvi saman við børnum 4</p>
 <p>Nei, búgvi saman við øðrum <em type="bold">5a. Um </em>ja, <em type="bold">følir tú teg trygga/-n at búgva einsamøll/-mallur? </em>1 </p>
-<p xml:lang="smj">Ja 2</p>
-<p xml:lang="nno">Nei3</p>
+<p>Ja 2</p>
+<p>Nei3</p>
 <p>Annað ________________________________________ <em type="bold">6. Um tú býr inni hjá ella saman við avvarandi, er tað so orsakað av? </em>1 </p>
 <p>Eg tori illa at vera einsamøll/-mallur 2</p>
 <p>Heilsustøðan er vánalig3</p>
@@ -198,8 +198,8 @@
 <p>Annað <em type="bold"></em><em type="bold">8. Fáa tygum vitjan av heimasjúkrasystur? </em>1 </p>
 <p>Ja 2 Nei <em type="bold">8a. Um </em>ja, <em type="bold">hvussu ofta? </em>1 1 ferð um dagin 2 2-3 ferðir um vikuna3 1 ferð um vikuna 4 1 ferð 14. hvønn dag 5 </p>
 <p>Annað <em type="bold"></em><em type="bold">9. Hava tygum søkt um búpláss á ellis- og avlamisheiminum? </em>1 Ja 2 Nei <em type="bold">9a. Um </em>ja, <em type="bold">hava tygum so søkt um? </em>1 </p>
-<p xml:lang="deu">Fast búpláss 2</p>
-<p xml:lang="isl">Umlættingarpláss3</p>
+<p>Fast búpláss 2</p>
+<p>Umlættingarpláss3</p>
 <p>Annað <em type="bold"></em><em type="bold">10. Gera tygum nýtslu av dagstovnatilboðum á ellis- og avlamisheiminum? </em>1 Ja 2 Nei <em type="bold">10a. Um </em>nei, <em type="bold">hví ikki? </em>1 </p>
 <p>Eri óvitandi um tilboðið 2</p>
 <p>Havi ikki áhuga fyri tilboðnum3</p>
@@ -209,23 +209,23 @@
 <p>Havi ikki áhuga fyri tilboðnum3</p>
 <p>Heilsustøðan er ov vánalig 4</p>
 <p>Annað <em type="bold"></em><em type="bold">12. Eru umstøðurnar at búgva heima nøktandi? </em>1 Ja 2 Nei 3 Annað <em type="bold">12a. Um nei, hvørjar av niðan fyri nevndu tænastum høvdu bøtt um tygara umstøður? </em>( <em type="italic">fleiri krossar kunnu setast </em>) 1 </p>
-<p xml:lang="isl">Hjálpitól 2</p>
-<p xml:lang="nno">Heimarøkt a</p>
-<p xml:lang="isl">Heimahjálp á</p>
-<p xml:lang="isl">Heimasjúkrasystir 3</p>
+<p>Hjálpitól 2</p>
+<p>Heimarøkt a</p>
+<p>Heimahjálp á</p>
+<p>Heimasjúkrasystir 3</p>
 <p>Døgnrøkt (vitjan um náttina) 4</p>
-<p xml:lang="nno">Dagstovnatilboð 5</p>
-<p xml:lang="dan">Dagtilhald 6</p>
-<p xml:lang="fin">Mattænasta 7</p>
-<p xml:lang="fin">Koyritænasta 8</p>
+<p>Dagstovnatilboð 5</p>
+<p>Dagtilhald 6</p>
+<p>Mattænasta 7</p>
+<p>Koyritænasta 8</p>
 <p>Uppvenjing / viðgerð heima við hús 9</p>
 <p>Annað ____________________________________ <em type="bold">13. Um tygum skuldu flutt í annan bústað, hvør møguleiki hóskar best til tygum? </em>( <em type="italic">fleiri krossar kunnu setast </em>) Sí eisini frágreiðing aftast 1 </p>
 <p>Eldraíbúð (minni íbúðir) 2</p>
 <p>Vardar eldraíbúðir 3</p>
-<p xml:lang="vep">Eldrasambýli 4</p>
-<p xml:lang="nno">Røktarheim 5</p>
-<p xml:lang="nno">Demensdeild/-heim 6</p>
-<p xml:lang="isl">Annað ____________________________________________ 7</p>
+<p>Eldrasambýli 4</p>
+<p>Røktarheim 5</p>
+<p>Demensdeild/-heim 6</p>
+<p>Annað ____________________________________________ 7</p>
 <p>Veit ikki <em type="bold">14. Um tygum ynskja at flyta í annan bústað, hvør er so orsøkin? </em>( <em type="italic">fleiri krossar kunnu setast </em>) 1 </p>
 <p>Húsini / íbúðin er ov stór 2</p>
 <p>Fíggjarliga byrðan 3</p>
@@ -236,21 +236,21 @@
 <p><em type="bold">Hava tygum nakra viðmerking at enda, so ber til at skriva hana niðanfyri </em></p>
 <p><em type="bold">Takk fyri hjálpina! </em></p>
 <p><em type="bold">Vegleiðandi lýsing av ymiskum møguleikum viðvíkjandi eldrabústaðum </em></p>
-<p xml:lang="isl"><em type="bold">Eldraíbúð </em></p>
-<p>Eldraíbúðir eru fyri brúkarar / fólkapensjónistar í <span type="quote" xml:lang="isl">”góðum árum”</span>, sum hava varðveitt sín fulla førleika, men ynskja at flyta í ein minni bústað</p>
+<p><em type="bold">Eldraíbúð </em></p>
+<p>Eldraíbúðir eru fyri brúkarar / fólkapensjónistar í <span type="quote">”góðum árum”</span>, sum hava varðveitt sín fulla førleika, men ynskja at flyta í ein minni bústað</p>
 <p><em type="bold">Vardar eldraíbúðir </em></p>
 <p>Vardar eldraíbúðir eru ætlaðar at hýsa brúkarum / fólkapensjónistum við likamligum breki og sum tí ikki kunnu búgva í vanligum húsum.</p>
-<p xml:lang="vep"><em type="bold">Eldrasambýli </em></p>
+<p><em type="bold">Eldrasambýli </em></p>
 <p>Eldrasambýli er ein minni eind, sum kann hýsa 7-10 fólkapensjónistum, ið partvíst eru sjálvhjálpnir, men sum hava tørv á stuðli, vegleiðing og støðugari hjáveru, t.d. um tey ikki føla seg trygg einsamøll ella kunnu búgva einsamøll.</p>
-<p xml:lang="nno"><em type="bold">Røktarheim </em></p>
+<p><em type="bold">Røktarheim </em></p>
 <p>Røktarheim er ein størri stovnur, sum hýsir 35-48 búfólkum / fólkapensjónistum, sum hava tørv á røkt, stuðli, vegleiðing og støðugari eygleiðing og viðgerð. Á røktarheimum er sjúkrasystir á vakt alt samdøgrið og røktin verður annars veitt av sjúkrahjálparum, heilsuatstøðingum og hjálparstarvsfólki.</p>
-<p xml:lang="nno"><em type="bold">Demensdeild/-heim </em></p>
+<p><em type="bold">Demensdeild/-heim </em></p>
 <p>Demensdeild/-heim er ein lítil eind ætlað til í mesta lagi 9 brúkarar / fólkapensjónistar, sum hava tørv á røkt í einum vardum umhvørvi, ið kann varðveita teirra serliga tørv fyri virksemi, samstundis sum teimum tørvar tryggleika.</p>
 <p>Demensdeildin er nomerað við sjúkrasystrum, heilsurøktarum og sjúkrahjálparum, og eigur normeringin at vera enn hægri enn á vanligari røktardeild.</p>
-<p xml:lang="dan"><em type="bold">Dagstovnatilboð </em></p>
+<p><em type="bold">Dagstovnatilboð </em></p>
 <p>Dagstovnur er eitt tilboð fyri fólka- og avlamispensjónistar, sum hava niðursettan likamligan og / ella mentalan førleika, og hava tørv á sosialari samveru, og / ella likamligari og mentalari stimbran.</p>
-<p xml:lang="dan"><em type="bold">Dagtilhald </em></p>
+<p><em type="bold">Dagtilhald </em></p>
 <p>Dagtilhald er fyri frískar og ferðugar pensjónistar, sum koma dagliga í tilhaldið at nýta tilboðini har, tá tey hava hug og tørv á tí.</p>
-<p xml:lang="isl"><em type="bold">Annað </em></p>
+<p><em type="bold">Annað </em></p>
 <p>Her kann verða talan um, at onkur umbygging kann gerast í egnum heimi, t.d. taka burtur gáttir, gera brúsu og wc á somu hædd sum sovikamar, køkur og stova.</p>
 </body></document>

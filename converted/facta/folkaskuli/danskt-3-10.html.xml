@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Danskt 3-10</title><genre code="facta"/><author><unknown/></author><wordcount>7747</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/danskt-3-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Danskt 3-10</title><genre code="facta"/><author><unknown/></author><wordcount>7747</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/danskt-3-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -43,7 +43,7 @@
 <p type="listitem">Kunngerð um próvtalsstiga í fólkaskúlanum</p>
 <p type="listitem">Vegleiðing í at nýta próvtalsstigan</p>
 </list><p type="title">Námsætlan til fólkaskúla:</p>
-<p type="title" xml:lang="dan">Danskt 3-10</p>
+<p type="title">Danskt 3-10</p>
 <p type="title">Seinast broytt:</p>
 <p>23. feb. 2017</p>
 <p type="title">Viðmerking:</p>
@@ -78,7 +78,7 @@
 <p>Lærugreinin danskt hevur 4 ymisk kjarnaøki, ið eru tey somu frá lægsta til hægsta stig. Økini umskarast og virka fyri ein stóran part saman í undirvísingini:</p>
 <p>Stig</p>
 <p>Kjarnaøki</p>
-<p xml:lang="dan">3-9 fl.</p>
+<p>3-9 fl.</p>
 <p>Talaða málið</p>
 <p>Skrivaða málið</p>
 <p>Samansettir tekstir</p>
@@ -119,7 +119,7 @@
 <p><em type="italic">Førleikin at skapa </em>snýr seg í donskum um at gera næmingin tilvitaðan um og líta á egin evni, so hann gerst førur fyri sjálvur at byggja víðari á tað, sum lært er. Næmingurin skal læra, hvussu bókmentalig og listarlig nýbrot hava broytt lívsáskoðanir og mentan. Næmingurin skal læra, at tekstframleiðsla er ein skapandi tilgongd, sum byggir á hugflog, íblástur og treystleika. Við atliti at búningarstigi og serligu gávum næmingsins verður arbeitt miðvíst við skapandi tilgongdum, sum fremja íblástur og stimbra hugflogið. Við at gera sær fyrimyndir skal næmingurin læra at meta um dygdina í avrikum hjá sær sjálvum og øðrum. </p>
 <p type="title">Fakligir førleikar</p>
 <p>Danskt hevur ávegismál fyri 4. og 6. floksstig og endalig mál fyri 9. og 10. floksstig og endalig mál fyri A-stig. Ávegismálini eru vegleiðandi, tó soleiðis at skilja, at um munandi frávik koma fyri, skal hetta fráboðast leiðslu skúlans, sum við støði í lýsta tørvinum hevur skyldu til at seta neyðug tiltøk í verk. Um endaligu málini verða eftirmett við próvtøku, eru tey bindandi.</p>
-<p type="title" xml:lang="dan">4. floksstig</p>
+<p type="title">4. floksstig</p>
 <p type="title">Talaða málið</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at nýta danska málið í samrøðu og skilja innihaldið, tá ið tosað verður um viðkomandi evni</p>
@@ -142,7 +142,7 @@
 <p><em type="italic">Næmingurin dugir </em></p>
 <list><p type="listitem">at greina ein setning og kenna navnorð, sagnorð og lýsingarorð</p>
 <p type="listitem">at nýta einfaldar stavi- og bendingarreglur og seta punktum.</p>
-</list><p type="title" xml:lang="dan">6. floksstig</p>
+</list><p type="title">6. floksstig</p>
 <p type="title">Talaða málið</p>
 <p><em type="italic">Næmingurin dugir </em></p>
 <list><p type="listitem">at málbera seg greitt og samanhangandi við røttum framburði um viðkomandi evni</p>
@@ -169,7 +169,7 @@
 <list><p type="listitem">orðaflokkarnar, grundleggjandi mállæru og málbygnað</p>
 <p type="listitem">at nýta stavi-, bendingar- og teknsetingarreglur og gera reglubrot</p>
 <p type="listitem">at lesa lættar svenskar og norskar tekstir og skilja tað lisna.</p>
-</list><p type="title" xml:lang="dan">9. floksstig</p>
+</list><p type="title">9. floksstig</p>
 <p type="title">Talaða málið</p>
 <p><em type="italic">Næmingurin dugir </em></p>
 <list><p type="listitem">at málbera seg greitt og samanhangandi við røttum framburði í samsvari við samskiftisstøðuna</p>
@@ -198,7 +198,7 @@
 <p type="listitem">at nýta vitan um mál, málbrúk og fjølbroytni í málinum</p>
 <p type="listitem">at lesa svenskar og norskar tekstir og skilja tað lisna</p>
 <p type="listitem">at skilja svenska og norska talu.</p>
-</list><p type="title" xml:lang="dan">10. floksstig</p>
+</list><p type="title">10. floksstig</p>
 <p type="title">Talaða málið</p>
 <p>Næmingurin dugir</p>
 <list><p type="listitem">at málbera seg greitt, samanhangandi og fjøltáttað við røttum framburði í samsvari við samskiftisstøðuna</p>
@@ -226,9 +226,9 @@
 <p type="listitem">at nýta vitan og meta um málnýtslu og fjølbroytni í málinum</p>
 <p type="listitem">at lesa svenskar og norskar tekstir og skilja tað lisna</p>
 <p type="listitem">at skilja svenska og norska talu.</p>
-</list><p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
-<p type="title" xml:lang="dan">9. floksstig</p>
-<p type="title" xml:lang="dan">Eftirmeting</p>
+</list><p type="title">6. Eftirmeting og próvtøka</p>
+<p type="title">9. floksstig</p>
+<p type="title">Eftirmeting</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir, portfolio, logbók, verkætlanarframløga og munnligar ella skrivligar royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslagið og arbeiðssemið hjá næminginum eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvussu og hvat arbeiðast skal við í lærugreinini fyri at lúka málini. Eftirmetingarnar skulu skjalfestast skrivliga.</p>
 <p>Einstaki skúlin ger skrivligar reglur fyri, nær og hvussu eftirmetingarnar verða framdar, og hvussu eftirmetingarnar verða latnar næmingunum.</p>
 <p type="title">Próvtøkuhættir</p>
@@ -274,7 +274,7 @@
 <p type="title">Danskt skrivligt í 9. flokki</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Málburðurin er góður, fjølbroyttur og rættur við ongum ella bert fáum týdningarleysum villum. Próvtakarin er kunnigur við tekstslag, heldur seg til evnið og byggir avrikið skilvíst upp. Próvtakarin handfer bæði stavseting og teknseting á tryggan hátt. Innihaldið er ríkt og sera væl skipað, bæði í mun til innihald og tekstslag. Onkur smávegis, men týdningarleys lýti kunnu koma fyri.</p>
@@ -286,7 +286,7 @@
 <p type="title">Danskt munnligt í 9. flokki, tá ið próvtøkuháttur A verður nýttur</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í próvtøkutilfarið. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað, við neyvum og greinandi eygleiðingum. Próvtakarin brúkar tey amboð, ið natúrliga eru knýtt at dansklærugreinini, trygt og sjálvstøðugt og er sera virkin í fakligu samrøðuni. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Framløgan er væl skipað. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -298,7 +298,7 @@
 <p type="title">Danskt munnligt í 9. flokki, tá ið próvtøkuháttur B verður nýttur</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Próvtakarin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Synopsan er væl skipað og orðað, og próvtakarin evnar at taka fram týðandi tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -307,8 +307,8 @@
 <p>02</p>
 <p>Nøktandi</p>
 <p>Munnliga framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men málsliga veik. Greiningin er veik og tulkingin ógreið. Evnini at síggja sambond millum mál, innihald og tekstslag eru veik. Synopsan er heldur veikt orðað og skipað, og próvtakarin evnar so dánt at taka fram tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Próvtakarin er við í fakligu samrøðuni. Týðandi lýti koma fyri.</p>
-<p type="title" xml:lang="dan">10. floksstig</p>
-<p type="title" xml:lang="dan">Eftirmeting</p>
+<p type="title">10. floksstig</p>
+<p type="title">Eftirmeting</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakliga avrikinum í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir, portfolio, logbók, verkætlanarframløga og munnligar ella skrivligar royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu fakliga arbeiðslagið og arbeiðssemið hjá næminginum eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvussu og hvat arbeiðast skal við í lærugreinini fyri at lúka málini. Eftirmetingarnar skulu skjalfestast skrivliga.</p>
 <p>Einstaki skúlin ger skrivligar reglur fyri, nær og hvussu eftirmetingarnar verða framdar, og hvussu eftirmetingarnar verða latnar næmingunum.</p>
 <p type="title">Próvtøkuhættir</p>
@@ -349,7 +349,7 @@
 <p type="title">Danskt skrivligt í 10. flokki</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Málburðurin er góður, fjølbroyttur og rættur við ongum ella bert fáum týdningarleysum villum. Próvtakarin er kunnigur við tekstslag, heldur seg til evnið og byggir avrikið skilvíst upp. Próvtakarin handfer bæði stavseting og teknseting á tryggan hátt. Innihaldið er ríkt og sera væl skipað, bæði í mun til innihald og tekstslag. Onkur smávegis, men týdningarleys lýti kunnu koma fyri.</p>
@@ -361,7 +361,7 @@
 <p type="title">Danskt munnligt í 10. flokki, tá ið próvtøkuháttur A verður nýttur</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað, og próvtakarin vísir, at hann hevur gott innlit í próvtøkutilfarið. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað, við neyvum og greinandi eygleiðingum. Próvtakarin brúkar tey amboð, ið natúrliga eru knýtt at dansklærugreinini, trygt og sjálvstøðugt og er sera virkin í fakligu samrøðuni. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Framløgan er væl skipað. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -373,7 +373,7 @@
 <p type="title">Danskt munnligt í 10. flokki, tá ið próvtøkuháttur B verður nýttur</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Munnliga framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er fjølbroytt, gott og neyvt, tulkingin er sera væl grundað við neyvum og greinandi eygleiðingum. Próvtakarin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Synopsan er væl skipað og orðað, og próvtakarin evnar at taka fram týðandi tættir í tilfarinum og seta teir í sambandi við tættir í hugdýpingarøkinum. Fá og týdningarleys lýti kunnu koma fyri.</p>
@@ -416,12 +416,12 @@
 <p type="title">Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri at læra málið.</p>
 <p>Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðatilfeingi og talugávur verða ment. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa nógv. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini. Í byrjanini kunnu næmingarnir t.d. lesa eina stutta bók um dagin. So hvørt sum bøkurnar gerast longri, má meira tíð setast av til at lesa eina bók í. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar skulu lesa eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

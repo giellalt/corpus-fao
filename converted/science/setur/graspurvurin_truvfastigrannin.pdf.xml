@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1953</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>graspurvurin_truvfastigrannin.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Hóast Hann Hevur veingir, so Heldur gráspurvurin seg fyri tað mesta innan fyri einans 700 metra radius. av teimum 2.167 gráspurvunum, sum higartil eru merktir í føroyum, eru allar fráboðanirnar komnar aftur í føroyum og einans tvær úr aðrari bygd enn</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1953</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>graspurvurin_truvfastigrannin.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Hóast Hann Hevur veingir, so Heldur gráspurvurin seg fyri tað mesta innan fyri einans 700 metra radius. av teimum 2.167 gráspurvunum, sum higartil eru merktir í føroyum, eru allar fráboðanirnar komnar aftur í føroyum og einans tvær úr aðrari bygd enn</p>
 <p>Henni, Har gráspurvarnir upprunaliga vórðu merktir. sostatt er gráspurvurin ein tann støðufastasti búfuglurin, sum er í føroyum</p>
 <p>Gráspurvurin sær onkran av spurvunum. Hann tekur eina bók upp úr lummanum og skrivar upplýsingarnar í bókina, so hann seinni kann brúka teir í sínum granskingar arbeiði.</p>
 <p>At festa ringar á beinini á fugli, so til ber at fylgja tí ein staka fuglinum gjøgn um lívið, hevur verið ein týdningar mikil liður í arbeiðinum at savna saman ta vitan, sum vit í dag hava. Í ár eru liðin júst 100 ár, síðani fyrstu fuglar nir vórðu ringmerktir í Før oyum. Hetta hendi, tá danin Hans Rudolphi vitj aði í Havn og merkti 45 likkuskurar. Tríggjar fráboðanir komu aftur um hesar skurarnar: ein úr Minetu í Portugal, ein úr Casablanca í Marokko og ein úr Eysturoynni. Síðani eru merktir fleiri enn 100.000 fuglar í Føroyum. Hetta arbeiðið er hildið fram, og í 2011 vórðu tilsamans 2.702 fuglar av 37 ymisk sløgum merktir í Føroyum, sam stundis sum 126 fráboðanir komu aftur um fugl, sum var merktur og sæddur aftur í Føroyum.</p>
@@ -11,7 +11,7 @@
 <p><em type="bold">Stutta livitíð </em>Út frá úrslitum frá merkiroyndum ber eisini til at siga hvussu leingi ein fuglur livir. Um ungarnir verða merktir, meðan teir eru í reiðrinum, ber til at fylgja teimum líka til teir doyggja. Kanningar av føroyska gráspurvinum vísa, at hann gerst ikki serliga gamal. Miðal livitíðin hjá einum føroyskum gráspurvi er einans 1,3 ár. Tað er serliga ta fyrstu tíðina, at nógvir av teimum nýfloygdu ungunum doyggja. Kanningarnar vísa, at longu eftir fýra mánaðum eru helvtin av teimum nýfloygdu ungunum deyðir, og einans 25% av teimum unnast at ger ast eldri enn 16 mánaðar gamlir. Líkn andi úrslit eru funnin aðrastaðni. </p>
 <p><em type="bold">Kettan størsti fíggindin </em>Tá fólk boða frá merktum fugli, eru hes ir sum oftast deyðir. Í flestu førum eru teir deyðir av ókendum ávum, men er deyðsorsøkin kend, verður hendan eis ini skrásett. Av teimum fráboðaðu før oysku gráspurvunum vórðu 98 funnir deyðir. Í 68% av førunum var deyðs orsøkin ókend, men annars var kettan tann størsti syndarin. 18% av teimum deyðu gráspurvunum vóru tiknir av kettum, 6% vóru eitraðir og 3% doyðu, tá teir rendu móti rútum á koyrandi bilum.»Hasar lorta ketturnar«, hugsar </p>
 <p>Hans, men ketturnar fær hann einki gjørt við.</p>
-<p xml:lang="eng"><em type="bold">VITAN </em>&amp; <em type="bold">VísINdI </em></p>
+<p><em type="bold">VITAN </em>&amp; <em type="bold">VísINdI </em></p>
 <p><em type="bold">Eyðfinn MagnussEn </em></p>
 <p><em type="italic">Biologur, </em></p>
 <p><em type="italic">Fróðskaparsetur Føroya </em></p>
@@ -53,7 +53,7 @@
 <p>Hestur: áðrenn 1980</p>
 <p>Sandvík: uml. 1944</p>
 <p>Vágur: uml. 1935-36</p>
-<p xml:lang="eng">Strond:1981</p>
+<p>Strond:1981</p>
 <p>Velbastaður: uml. 1950020400-55-1010-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70&gt;70</p>
 <p><em type="bold">Livitíð </em><em type="bold">(mánar) </em>25%-markið 1.1 Miðjan 75%-markið </p>
 <p>Miðal livitíð 0-55-1010-15 15-20 20-25 25-30 30-35 35-40 40-45 45-50 50-55 55-60 60-65 65-70&gt;70</p>
@@ -62,11 +62,11 @@
 <p><em type="bold">Livitíð </em><em type="bold">(mánar) </em><em type="bold">% </em>25%-markið 1.1 Miðjan 475%-markið 15 </p>
 <p>Miðal livitíð 16</p>
 <p>Tey, sum ynskja at vita meira um Føroyska gráspurvin, kunnu lesa hesar greinarnar, sum eru at finna sum pdffílur á heimasíðuni hjá Setrinum: www.setur.fo</p>
-<p xml:lang="eng">Magnussen, E., and Jensen, J. K. 2009. ringing recoveries of house sparrow <em type="italic">(Passer domesticus) </em>in the faroe islands during the years 1963-2007. fróðskaparrit, 57: 182-189. </p>
-<p xml:lang="eng">Magnussen, E., and Jensen, J. K. 2010. Breeding biology of the house sparrow <em type="italic">(Passer domesticus) </em>in the faroe islands. fróðskaparrit, 58: 125-132. </p>
-<p xml:lang="eng">Bengtson, s. a., Eliasen, K., Jacobsen, L. M., and Magnussen, E. 2004. a history of colonization and current status of the house sparrow <em type="italic">(Passer domesticus) </em>in the faroe islands. fróðskaparrit, 51: 237-251. </p>
-<p xml:lang="dan">Eliasen, K. and Jacobsen, L.M. (2002) Gråspurvens udbredelse og antal på færøerne set ud fra et metapopulations perspektiv. nvD-rit, 2002:12, Bsc. Thesis, p.1-63.</p>
-<p xml:lang="eng">Bengtson, s. a., Eliasen, K., Jacobsen, L. M., and Magnussen, E. 2010. Man-dependence of House sparrows <em type="italic">(Passer domesticus) </em>in the faroe islands: habitat patch characteristics as determinants of presence and numbers. <em type="italic">In </em>Dorete - her book, pp. 227-243. </p>
+<p>Magnussen, E., and Jensen, J. K. 2009. ringing recoveries of house sparrow <em type="italic">(Passer domesticus) </em>in the faroe islands during the years 1963-2007. fróðskaparrit, 57: 182-189. </p>
+<p>Magnussen, E., and Jensen, J. K. 2010. Breeding biology of the house sparrow <em type="italic">(Passer domesticus) </em>in the faroe islands. fróðskaparrit, 58: 125-132. </p>
+<p>Bengtson, s. a., Eliasen, K., Jacobsen, L. M., and Magnussen, E. 2004. a history of colonization and current status of the house sparrow <em type="italic">(Passer domesticus) </em>in the faroe islands. fróðskaparrit, 51: 237-251. </p>
+<p>Eliasen, K. and Jacobsen, L.M. (2002) Gråspurvens udbredelse og antal på færøerne set ud fra et metapopulations perspektiv. nvD-rit, 2002:12, Bsc. Thesis, p.1-63.</p>
+<p>Bengtson, s. a., Eliasen, K., Jacobsen, L. M., and Magnussen, E. 2010. Man-dependence of House sparrows <em type="italic">(Passer domesticus) </em>in the faroe islands: habitat patch characteristics as determinants of presence and numbers. <em type="italic">In </em>Dorete - her book, pp. 227-243. </p>
 <p><em type="italic">Síðani 1963 eru tilsamans 2.167 gráspurvar ringmerktir í Føroyum. Av hesum vórðu 225 antin fingnir aftur ella sæddir. Hetta svarar til 10%. Góð helvtin av fráboðanunum komu tær fyrstu átta vikurnar eftir, at teir vórðu merktir, 25% tær fyrstu tríggjar vikurnar. Einans 25% av fráboðanunum komu seinni enn eitt ár, eftir at fuglurin varð merktur. </em></p>
 <p><em type="italic">Gráspurvurin er lutfalsliga nýggjur fuglur í Føroyum. Teir fyrstu komu til Vágs í 1935 ella 1936. Síðani hevur hann spjatt seg um so at siga alt landið og er nú at finna í 94 av teimum 118 føroysku bygdunum. Á kortinum sæst nær gráspurvurin er komin til tær ymisku bygdirnar í Føroyum. </em></p>
 <p><em type="italic">Búsetingarmynstrið hjá gráspurvanum í Føroyum </em></p>

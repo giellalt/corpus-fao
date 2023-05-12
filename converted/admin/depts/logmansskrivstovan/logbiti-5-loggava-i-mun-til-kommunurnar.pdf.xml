@@ -1,13 +1,13 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1184</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>løgbiti-5-lóggáva-í-mun-til-kommunurnar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Lóggáva í mun til kommunurnar</p>
-<p xml:lang="est">L Ø G M A N S S K R I V S T O VA N</p>
-<p xml:lang="nno"><em type="bold">Lógartænastan januar 2019 </em></p>
-<p xml:lang="spa">Løgbitar</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1184</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>løgbiti-5-lóggáva-í-mun-til-kommunurnar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Lóggáva í mun til kommunurnar</p>
+<p xml:lang="dan">L Ø G M A N S S K R I V S T O VA N</p>
+<p><em type="bold">Lógartænastan januar 2019 </em></p>
+<p>Løgbitar</p>
 <p>Ætlanin við løgbitunum er stutt at lýsa nøkur yvirskipað løgfrøðilig ella faklig evni, sum tað er gott at hava sum undirstøði, tá ein lóg ella aðrar rættarreglur skulu gerast.</p>
-<p xml:lang="isl">Løgbitarnir eru eitt leiðbeinandi ískoyti til rundskrivið um lógarsmíð.</p>
+<p>Løgbitarnir eru eitt leiðbeinandi ískoyti til rundskrivið um lógarsmíð.</p>
 <p>Løgbitarnir eru gjørdir í samráð við tey stjórnarráð ella myndugleikar, sum hava serligan kunnleika innan økið, sum løgbitin viðvíkur.</p>
-<p xml:lang="fin">Nella Festirstein</p>
-<p xml:lang="isl">Deildarstjóri á lógartænastuni</p>
-<p xml:lang="nob"><em type="bold">Løgbiti nr. 5 </em></p>
+<p>Nella Festirstein</p>
+<p>Deildarstjóri á lógartænastuni</p>
+<p xml:lang="dan"><em type="bold">Løgbiti nr. 5 </em></p>
 <p><em type="bold">Lóggáva í mun til kommunurnar </em><em type="bold">1. Løggildisgrundreglan </em>Kommunurnar er fevndar av vanligu løggildisgrundregluni. Hetta merkir, at tær uppgávur, sum kommunurnar hava ábyrgd av, skulu hava heimild í lóg, og at røktanin av hesum uppgávum má ikki stríða móti nakrari lóg. <em type="bold">2. Sjálvstøðuga støðan hjá kommununum </em>Sjálvstøðuga støða hjá kommununum sæst í Stýrisskipanarlógini § 56 (Grundlógini § 82), har tað er ásett, at rættur kommunanna at skipa egin viðurskifti undir eftirliti landsstýrisins verður ásettur í løgtingslóg, m.a. í hvønn mun kommunur og millumkommunufelagsskapir kunnu skuldbindast við láni, borgan o.ø.m. </p>
 <p>Kommunur eru sjálvstøðugar eindir og eru fyrisitingarliga ikki undirgivnar landinum.</p>
 <p>Tað merkir m.a. at bindandi regulering av virkseminum hjá kommununum einans kann gerast við lóg ella við heimild í lóg. Er ongin heimild, kann tað ikki við bindandi virknaði regulerast í viðurskiftum hjá kommununum. <em type="bold">3. Serligt viðvíkjandi kæru </em>Av tí at tað eru ikki nøkur yvir-/undirskipanarviðurskifti millum landsfyrisitingina og kommunurnar, eru avgerðir, sum kommunurnar taka mótvegis borgarunum, endaligar innan fyrisitingina. Skal ein avgerð kunna kærast til landsstýrismannin, skal hetta verða ásett beinleiðis í løgtingslógini. <em type="bold">4. Skyldan hjá kommununum </em>Er tað í løgtingslóg álagt kommununum at røkja eina uppgávu, hava kommunurnar skyldu at fylgja løgtingslógini og kunnu ikki sleppa sær undan hesi uppgávuni. Tað kann t.d. eisini verða ásett í lóg, at ein kommuna ikki kann átaka sær ávísar uppgávur. </p>
@@ -27,11 +27,11 @@
 <p>Eftir vanligum almennum rættaraðalreglum viðvíkjandi kommunalum uppgávum er tað ikki ein kommunal uppgáva at reka handil, handverk, ídnað ella fíggjarligt virksemi uttan so, at lógarheimild er fyri hesum. Tað finnast tó undantøk:</p>
 <p><em type="bold">Framleiðsla til egið brúk </em></p>
 <p>Kommunur kunnu framleiða vørur og tænastur, ið eru knýttar at teimum uppgávum, sum kommunan sambært lóg ella kommunufulltrúini hevur átikið sær. Tað má tó ikki vera nógv dýrari at framleiða hjá kommununi, enn um kommunan keypti vøruna ella tænastuna frá privatum.</p>
-<p xml:lang="isl"><em type="bold">Hjáframleiðsla </em></p>
+<p><em type="bold">Hjáframleiðsla </em></p>
 <p>Kommunur kunnu selja vørur, ið eru hjáframleiðsla av eini annars lógligari kommunalari uppgávu. Hjáframleiðslan skal vera ein natúrlig, tilvildarlig og óumberlig avleiðing av eini lógligari kommunalari uppgávu.</p>
-<p xml:lang="nno"><em type="bold">Avlop </em></p>
+<p xml:lang="dan"><em type="bold">Avlop </em></p>
 <p>Kommunur kunnu í vissan mun gagnnýta tað avlop, sum stendst av eini annars lógligari kommunalari uppgávu.</p>
-<p xml:lang="isl"><em type="bold">Hjávirksemi </em></p>
+<p><em type="bold">Hjávirksemi </em></p>
 <p>Kommunur kunnu í avmarkaðan mun røkja hjávirksemi, sum í sjálvum sær fellur uttan fyri kommunufulltrúina, men sum hevur tætt og natúrligt tilknýti til lógligt kommunalt virksemi. Kommunan kann tó bert eiga slíkt virksemi, ikki reka. <em type="bold">7.3. Tá ið lóggivið verður innan fyri kommunufulltrúina </em>Kommunufulltrúin sæst aftur og er ment í siðvenjuni, og hon víkir fyri tí skrivaðu lógini. </p>
 <p>Lóggávan kann eitt nú seta avmarkingar í mun til, hvat ein kommuna kann og ikki kann fara í holt við. Um eitt øki, sum annars er fevnt av kommunufulltrúini, verður ásett við lóg, skal havast í huga, um talan er um tømandi ásetingar. Tílíkar ásetingar kunnu føra við sær, at kommunufulltrúin ikki verður galdandi framyvir.</p>
 <p>Tað hevur týdning at lýsa sambandið millum kommunufulltrúina og lógaruppskotið í viðmerkingum til uppskotið, um lógaruppskotið avmarkar ella víðkar heimildirnar hjá kommununum í mun til kommunufulltrúina.</p>

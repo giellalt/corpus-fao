@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Tónleikur 1-10</title><genre code="facta"/><author><unknown/></author><wordcount>5098</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/tonleikur-1-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Tónleikur 1-10</title><genre code="facta"/><author><unknown/></author><wordcount>5098</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kravdar-laerugreinar/tonleikur-1-10/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -12,8 +12,8 @@
 <p type="listitem"></p>
 </list><p>Fólkaskúli</p>
 <list><p type="listitem">Kravdar lærugreinar <list><p type="listitem">Alis- og evnafrøði 7-9</p>
-<p type="listitem" xml:lang="dan">Danskt 3-10</p>
-<p type="listitem" xml:lang="dan">Enskt 4-10</p>
+<p type="listitem">Danskt 3-10</p>
+<p type="listitem">Enskt 4-10</p>
 <p type="listitem">Føroyskt 1-9</p>
 <p type="listitem">Handarbeiði 4-10</p>
 <p type="listitem">Handaverk og list 1-7</p>
@@ -35,7 +35,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -59,16 +59,16 @@
 </list><p type="title">3. Stig og tímatal</p>
 <p>Lærugreinin tónleikur fevnir um 1.-7. floksstig í fólkaskúlanum, sum kravd lærugrein við 30 klokkutímum á hvørjum stigi, ella samanlagt 180 klokkutímum í 6 ár, umframt sum valgrein í 7. flokki við 60 klokkutímum. Harumframt er lærugreinin tónleikur valgrein í 8., 9. og 10. flokki í fólkaskúlanum við 180 klokkutímum samanlagt.</p>
 <p>Stig</p>
-<p xml:lang="dan">1. fl.</p>
-<p xml:lang="dan">2. fl.</p>
-<p xml:lang="dan">3. fl.</p>
-<p xml:lang="dan">4. fl.</p>
-<p xml:lang="dan">5. fl.</p>
-<p xml:lang="dan">6. fl.</p>
-<p xml:lang="dan">7. fl.</p>
-<p xml:lang="dan">8. fl.</p>
-<p xml:lang="dan">9. fl.</p>
-<p xml:lang="dan">10. fl.</p>
+<p>1. fl.</p>
+<p>2. fl.</p>
+<p>3. fl.</p>
+<p>4. fl.</p>
+<p>5. fl.</p>
+<p>6. fl.</p>
+<p>7. fl.</p>
+<p>8. fl.</p>
+<p>9. fl.</p>
+<p>10. fl.</p>
 <p>Klokkutímatal</p>
 <p>30</p>
 <p>30</p>
@@ -86,7 +86,7 @@
 <p>Lærugreinin tónleikur hevur trý kjarnaøki, ið eru tey somu frá lægsta til hægsta stig. Økini umskarast og virka fyri ein stóran part saman í undirvísingini. Tey eru:</p>
 <p>Stig</p>
 <p>Kjarnaøki</p>
-<p xml:lang="dan">1.-10. fl.</p>
+<p>1.-10. fl.</p>
 <p>Tónleikaíðkan</p>
 <p>Tónleikaástøði</p>
 <p>Tónleikafatan</p>
@@ -210,7 +210,7 @@
 <p>Næmingurin dugir:</p>
 <list><p type="listitem">at luttaka í samanspæli við mikrofonsangi (mikrofonteknikk), klaveri, gittara, bassi, ljómborði, trummum/slagljóðførum o.ø.</p>
 <p type="listitem">at syngja unisont og fleirraddað við denti á intonatión, klang og úttrykk</p>
-<p type="listitem" xml:lang="dan">melodispæl, harmoniskt/ rútmiskt undirspæl og improvisatión</p>
+<p type="listitem">melodispæl, harmoniskt/ rútmiskt undirspæl og improvisatión</p>
 <p type="listitem">at læra seg løg við hjálp av nótum og beciffringum</p>
 <p type="listitem">at venja og framføra egna tónleikaskrá</p>
 <p type="listitem">at standa á palli framman fyri áhoyrarafjøld</p>
@@ -237,7 +237,7 @@
 </list><p type="title">10. flokkur – tónleikabreyt</p>
 <p type="title">Tónleikaíðkan</p>
 <p>Næmingurin dugir:</p>
-<list><p type="listitem" xml:lang="dan">at intonera</p>
+<list><p type="listitem">at intonera</p>
 <p type="listitem">at syngja fleirraddað</p>
 <p type="listitem">mikrofonteknikk og at fáast við ljóðeffektir</p>
 <p type="listitem">í samspæli at vera tilvitaður um form, samljóð (harmonikk) , rytmu, ljómlit og dýnamikk</p>
@@ -271,8 +271,8 @@
 <p type="listitem">at viðgera tónleikafilmar</p>
 <p type="listitem">tónleikasøgu í høvuðsheitum</p>
 </list><p>Framførslur eiga at verða við jøvnum millumbilum. Farið verður til konsert, tá høvi býðst.</p>
-<p type="title" xml:lang="dan">6. Eftirmeting og próvtøka</p>
-<p type="title" xml:lang="dan">9. floksstig</p>
+<p type="title">6. Eftirmeting og próvtøka</p>
+<p type="title">9. floksstig</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakligum avriki og luttøku í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir og royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini.</p>
 <p>Eftirmetingarnar skulu skjalfestast skrivliga.</p>
@@ -289,11 +289,11 @@
 <p type="listitem">dugir at nýta grundleggjandi tónleikalig hugtøk</p>
 <p type="listitem">dugir at handfara eitt ljóðføri (sangrødd íroknað).</p>
 </list><p>Givið verður eitt próvtal við støði í einari heildarmeting av samlaða avriki próvtakarans.</p>
-<p type="title" xml:lang="dan">Próvtalslýsing</p>
+<p type="title">Próvtalslýsing</p>
 <p type="title">9. flokkur munnlig próvtøka</p>
 <p>Próvtal</p>
 <p>Heiti</p>
-<p xml:lang="dan">Lýsing</p>
+<p>Lýsing</p>
 <p>12</p>
 <p>Framúr gott</p>
 <p>Framløgan er greið, samanhangandi og væl skipað, og næmingurin vísir, at hann hevur gott innlit í tilfarið, sum próvtøkan er grundað á. Málið í framløguni er neyvt, tulkingin er sera væl grundað, við neyvum og greinandi eygleiðingum. Næmingurin brúkar trygt og sjálvstøðugt tey amboð, ið natúrliga eru knýtt at lærugreinini <em type="italic">tónleiki </em>. Sjónarmiðini eru væl lýst og vísa gott innlit í lærugreinina. Fá og týdningarleys brek kunnu koma fyri. </p>
@@ -302,7 +302,7 @@
 <p>02</p>
 <p>Nøktandi</p>
 <p>Framløgan er heldur trilvandi og hongur ikki væl saman. Framløgan er so dánt væl skipað, skillig, men bæði fak- og málsliga veik. Greiningin er veik og tulkingin ógreið. og fakliga eygleiðingin veik. Næmingurin er við í fakligu samrøðuni, týðandi brek koma tó fyri.</p>
-<p type="title" xml:lang="dan">10. floksstig</p>
+<p type="title">10. floksstig</p>
 <p type="title">Eftirmetingar</p>
 <p>Einstaki næmingurin skal ávegis og javnan í undirvísingargongdini eftirmetast við støði í fakligum avriki og luttøku í lærugreinini, so næmingurin fær eina greiða meting av fakligu støðuni hjá sær í mun til ásettu málini, og hvat hann skal arbeiða við, um málini ikki eru rokkin. Eftirmetingarnar kunnu vera av ymiskum slagi, t.d. støðukanningar, testir og royndir. Í eftirmetingini av einstaka næminginum skal eisini tilskilast, hvussu arbeiðslag og arbeiðssemi næmingsins eru, bæði viðvíkjandi einsæris avriki og avriki í bólki. Eftirmetingin skal eisini fevna um eina vegleiðing til einstaka næmingin um, hvat arbeiðast skal við í lærugreinini fyri at lúka málini.</p>
 <p>Eftirmetingarnar skulu skjalfestast skrivliga.</p>
@@ -341,12 +341,12 @@
 <p>Samrøða</p>
 <p>Munnlig framseting hevur reglur og lýsingar, sum næmingurin skal duga at nýta og framhaldandi menna. Skúlin skal tí leggja dent á frásøgn og málburð, og við hesum eggja til forvitni og skapa áhuga fyri móðurmálinum sum eitt intellektuelt amboð, ið skal víðka sjónarringin hjá næminginum. Allir flokkar skulu tí gera royndir við málinum, eitt nú við sínámillum tosi og við tí at siga frá.</p>
 <p>Skúlin skal vera so rúmur, at til ber at tosa um kenslur, evni, hugtøk og hendingar í gerandisdegnum. Næmingurin skal arbeiða við at lurta og at vera umhugsin øll skúlaárini, samstundis sum orðatilfeingi og talugávur verða ment. Næmingurin skal sleppa at royna veruligar eins væl og gjørdar samrøður. Floks- og bólkakjak skal javnan eftirmetast so, at næmingarnir gerast tilvitaðir um, hvat tað er, sum fær tosið á glið og samrøðuna ella orðaskiftið at rigga og ganga væl.</p>
-<p type="title" xml:lang="dan">Lesing</p>
+<p type="title">Lesing</p>
 <p>Næmingurin skal haldast til at lesa nógv. Eitt gott lesiumhvørvi í skúlanum er ein treyt fyri at menna góðar og fjølbroyttar lesiførleikar. Hetta verður skapt í flokkinum við nógvum ymiskum lesitilfari og góðum vanum. Skúlabókasavnið er ein sjálvsagdur partur av hesum góðu vanum. Fyri at røkka góðum lesiumhvørvi er av stórum týdningi, at skúlabókasavnið er ein natúrligur partur av skúlagongdini. Í byrjanini kunnu næmingarnir t.d. lesa eina stutta bók um dagin. So hvørt sum bøkurnar gerast longri, má meira tíð setast av til at lesa eina bók. Umráðandi er, at lesingin verður løgd til rættis samsvarandi tí førleikastigi, næmingurin er á. Allir næmingar skulu lesa eina aldurshóskandi skaldsøgu ella samsvarandi tekstmongd um mánaðin øll skúlaárini.</p>
-<p type="title" xml:lang="dan">Lívlong læring</p>
+<p type="title">Lívlong læring</p>
 <p>Umráðandi er, at næmingurin gerst tilvitaður um samfelagsliga og persónliga týdningin av tí menniskjaliga og samfelagsliga tilfeingi, útbúgving er. Tí skulu næmingar eggjast til at umhugsa sína egnu framtíð og seta sær persónlig mál, har lærarin leggur lag á og skapar umstøður, sum stimbra hugin til at læra nýtt alt lívið.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

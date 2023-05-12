@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title>Kunning um námsætlanir</title><genre code="facta"/><author><unknown/></author><wordcount>654</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>https://namsaetlanir.fo/folkaskuli/kunning-um-namsaetlanir/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
+<document xml:lang="fao" id="no_id"><header><title>Kunning um námsætlanir</title><genre code="facta"/><author><unknown/></author><wordcount>654</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://namsaetlanir.fo/folkaskuli/kunning-um-namsaetlanir/</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem">Nám</p>
 <p type="listitem">Próvstovan</p>
 <p type="listitem">Snar</p>
 <p type="listitem">Námsætlanir</p>
@@ -16,7 +16,7 @@
 <p type="listitem">Kravd undirvísingarevni</p>
 <p type="listitem">B-próvtøkuháttur í munnligum enskum</p>
 <p type="listitem">Frymlar fyri ársætlan</p>
-<p type="listitem" xml:lang="dan">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
+<p type="listitem">Tillagingar i skrivligu próvtøkum fólkaskúlans</p>
 <p type="listitem">Broytingar í próvtøkum og próvtøkuháttum</p>
 <p type="listitem">Um nýggjan próvtalsstiga</p>
 <p type="listitem">Kunning um námsætlanir</p>
@@ -49,10 +49,10 @@
 <p>· 02: fyri toluligt avrik, sum kann verða góðtikið</p>
 <p>· 00: fyri ikki nøktandi avrik</p>
 <p>· -3: fyri heilt vánaligt avrik</p>
-<p xml:lang="dan">Kunning</p>
+<p>Kunning</p>
 <p>Í sambandi við at nýggjar námsætlanir og nýggjur próvtalsstigi verða sett í gildi, verður farið undir at kunna og vegleiða lærarum og skúlaleiðslum um, hvussu námsætlanir og próvtalsstigi eru ætlað at verða nýtt í verki.</p>
-<list><p type="listitem" xml:lang="dan">All rights reserved</p>
-<p type="listitem" xml:lang="dan">Contact us</p>
+<list><p type="listitem">All rights reserved</p>
+<p type="listitem">Contact us</p>
 <p type="listitem">Sitemap</p>
 <p type="listitem">Legal</p>
 </list></body></document>

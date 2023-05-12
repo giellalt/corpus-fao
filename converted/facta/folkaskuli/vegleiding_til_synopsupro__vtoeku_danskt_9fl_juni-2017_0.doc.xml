@@ -1,6 +1,6 @@
 <document xml:lang="fao" id="no_id"><header><title> 
 Untitled
-</title><genre code="facta"/><author><unknown/></author><wordcount>1458</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>Vegleiding_til_synopsupro__vtoeku_danskt_9fl_juni-2017_0.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Vegleiðing</p>
+</title><genre code="facta"/><author><unknown/></author><wordcount>1458</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>Vegleiding_til_synopsupro__vtoeku_danskt_9fl_juni-2017_0.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Vegleiðing</p>
 <p>Synopsupróvtøkuháttur</p>
 <p>í donskum</p>
 <p>(9. flokkur)</p>
@@ -21,14 +21,14 @@ Untitled
 <p>Lutakastið skal fevna um í minsta lagi 20 ymisk hugdýpingarøki, og seinasti næmingur ella bólkur skal hava í minsta lagi 5 hugdýpingarøki at velja í.</p>
 <p>Tekstir kunnu ganga um aftur í ymiskum hugdýpingarøkjum.</p>
 <p><em type="bold">Dømi um hugdýpingarøki </em><em type="bold"></em></p>
-<list><p type="listitem" xml:lang="dan">salmen som genre</p>
-<p type="listitem" xml:lang="dan">kærlighedsnoveller</p>
-<p type="listitem" xml:lang="dan">dokumentarfilm</p>
-<p type="listitem" xml:lang="dan">kriminoveller</p>
-<p type="listitem" xml:lang="dan">essay med temaet unge</p>
-<p type="listitem" xml:lang="dan">kvindelige forfattere i det 20. århundrede</p>
-<p type="listitem" xml:lang="dan">internet - webside om TV2</p>
-<p type="listitem" xml:lang="dan">kunsteventyr af H. C. Andersen</p>
+<list><p type="listitem">salmen som genre</p>
+<p type="listitem">kærlighedsnoveller</p>
+<p type="listitem">dokumentarfilm</p>
+<p type="listitem">kriminoveller</p>
+<p type="listitem">essay med temaet unge</p>
+<p type="listitem">kvindelige forfattere i det 20. århundrede</p>
+<p type="listitem">internet - webside om TV2</p>
+<p type="listitem">kunsteventyr af H. C. Andersen</p>
 <p type="listitem">...</p>
 <p type="listitem">...</p>
 </list><p><em type="bold">Tíðarætlan/ráðlegging </em></p>
@@ -95,6 +95,6 @@ Untitled
 <p type="listitem">synopsuna (sum próvhoyrari og próvdómari hava fingið sambært pkt. 5)</p>
 <p type="listitem">upprit/viðmerkingar</p>
 <p type="listitem">tekstbrotið, sum hann skal lesa upp, og sum hann sjálvur hevur valt.</p>
-</list><p xml:lang="dan"><em type="bold">Vegleiðing Synopsup </em><em type="bold">róvtøka </em><em type="bold">Dan </em><em type="bold">skt </em><em type="bold">9 </em><em type="bold">fl </em></p>
+</list><p><em type="bold">Vegleiðing Synopsup </em><em type="bold">róvtøka </em><em type="bold">Dan </em><em type="bold">skt </em><em type="bold">9 </em><em type="bold">fl </em></p>
 <list><p type="listitem"></p>
 </list></body></document>

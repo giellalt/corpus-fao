@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>415</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>hvussunogvkjoeteraeinariharu.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>fýra vaksnum fólkum, men hvussu nógv kjøt er í veruleikanum á einari haru? <em type="bold">30 harur kannaðar </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>415</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>hvussunogvkjoeteraeinariharu.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>fýra vaksnum fólkum, men hvussu nógv kjøt er í veruleikanum á einari haru? <em type="bold">30 harur kannaðar </em></p>
 <p>So var farið til verka. 30 harur vóru kannaðar.</p>
 <p>Seks teirra vórðu skotnar 10. november, hinar tann 17. november. Fyrst vórðu harurnar vigaðar heilar, síðani vórðu tær flettar: Skinni varð tikið av, innvølurin tikin innan úr og høvdi skorið av og harukrovið varð vigað. Úrslitið er víst á mynd</p>
 <p>Eyðfinn Magnussen og Jens-Kjeld Jensen</p>
@@ -8,9 +8,9 @@
 <p>Pedersen hava skrivað sæst, at haran lætnar 22% tá hon verður kruvd. Tá hon so eisini verður skrædla, viðar krovið 53% av vektini hjá heilu haruni.</p>
 <p>Teir hava eisin kannað, hvussu nógv tey einstøku stykkini á einari haru viga. Úrslitið er víst í talvu 1. Hóast henda haran kanska ikki er limað sundur á sama hátt, sum tað er vanligt nógvastaðni í Føroyum, so eru úrslitini tó áhugaverd hjá føroyskum harumonnum.</p>
 <p>Úrslitið hjá teimum báðum normonnunum vísir, at tjógvini á einari haru eru 39% av vektini av tí samlaða krovinum, tey trý ryggjastykkini eru 35%, bógvarnir eru15% og síðurnar 11%.</p>
-<p xml:lang="dan"><em type="bold">Vekt </em></p>
+<p><em type="bold">Vekt </em></p>
 <p><em type="italic">Kroppur </em><em type="bold"></em><em type="italic">(gr) </em>Heil hara 3.200 </p>
-<p xml:lang="dan">Kruvd 2.500 (78%)</p>
+<p>Kruvd 2.500 (78%)</p>
 <p>Skrædlað 1.700 (53%)</p>
 <p><em type="italic">Stykkir </em><em type="italic">(gr) </em></p>
 <p>Hálsur 120 ( 7%)</p>
