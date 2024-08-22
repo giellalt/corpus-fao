@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6148</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2012.12 Førleikamenning - tørvur og skipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">17. desember 2012</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6148</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2012.12 Førleikamenning - tørvur og skipan.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Tilmæli 17. desember 2012</p>
 <p>Førleikamenning – tørvur og skipan</p>
 <p>Fólkaskúlaráðið <em type="bold">2 | </em></p>
 <p>Tilmæli frá Fólkaskúlaráðnum um tørv á førleikamenning og skipan</p>
@@ -10,7 +10,7 @@
 <p>Jónleif Johannesen ____________________________ 17. desember 2012 <em type="bold">3 | </em></p>
 <p><em type="italic">Innihald </em></p>
 <p xml:lang="dan"><em type="italic">Formæli ______________________________________________________ 4 </em></p>
-<p><em type="italic">Inngangur ___________________________________________________ 7 </em><em type="italic">1.0. </em><em type="italic">Tørvur á førleikamenning _________________________________ 8 </em><em type="italic">2.0. Førleikaskeið ____________________________________________ 16 </em><em type="italic">3.0. Menning av serútbúgvingum _____________________________ 19 </em><em type="italic">4.0. Ábyrgd og skipan av førleikamenning fólkaskúlans _______ 26 </em></p>
+<p><em type="italic">Inngangur ___________________________________________________ 7 1.0. Tørvur á førleikamenning _________________________________ 8 2.0. Førleikaskeið ____________________________________________ 16 3.0. Menning av serútbúgvingum _____________________________ 19 4.0. Ábyrgd og skipan av førleikamenning fólkaskúlans _______ 26 </em></p>
 <p><em type="italic">Bókmentir ___________________________________________________ 31 </em><em type="bold">4 | </em></p>
 <p xml:lang="dan">Formæli</p>
 <p>Landsstýriskvinnan í mentamálum, Helena Dam á Neystabø, setti Fólkaskúla-ráðið 1. februar 2011. Limirnir í ráðnum eru valdir eftir serkunnleika innan ymisk starvsøki í fólkaskúlanum, og hevur ráðið samsvarandi hesum býtt ábyrgdina av økjunum sínámillum.</p>
@@ -159,7 +159,7 @@
 <p type="listitem">Kandidat útbúgving</p>
 <p type="listitem">Førleikamenning innan verandi og nýggj serøki</p>
 <p type="listitem">Námsfrøðilig skeið</p>
-<p type="listitem" xml:lang="dan">Kreativ/handalig førleikamenning 4.3. Nám</p>
+<p type="listitem" xml:lang="dan">Kreativ/handalig førleikamenning  4.3. Nám</p>
 <p>Annar veitari er Nám. Skeiðini, sum Nám kann hugsast at veita, eru tey somu, sum tey hava veitt frammanundan. Eisini er Nám ført fyri í tøttum samstarvi við skúlarnar at hava menningarvirksemi við atliti at nýggja námsfrøðiliga rák-inum. Hetta kann Nám eins og í dag gera í einum dynamiskum samstarvi við skúlarnar. <em type="italic">4.4. Skipan </em></p>
 <p>Øll førleikamenning, bæði skeið og útbúgvingar, eigur at verða ráðløgd og lýst í góðari tíð. Førleikamenningin skal leggjast inn í ársverkið hjá hvørjum einstøkum lærara, og soleiðis ávirka undirvísingina í skúlanum sum minst.</p>
 <p>Tímarnir til skeið skulu telja 85 minuttir, soleiðis at lærarar fáa fyrireikingartíð.</p>
@@ -180,7 +180,7 @@
 <p xml:lang="dan">Teacher Librarian. <em type="italic">The Journal for School Library Professionals, 28( </em>3), 9–15. </p>
 <p xml:lang="dan">Egelund, N. &amp; Fibæk Laursen, P. Det forsømte lederskab, <em type="italic">Asterisk nr. 38, </em>2007/08. </p>
 <p xml:lang="dan">Egelund, N. &amp; Hermansen, M. (2010), Uroen stopper når læreren bliver professionelle ledere, <em type="italic">Asterix 51. </em></p>
-<p xml:lang="dan">PISA-undersøgelsen 2009: <em type="italic">http://www.uvm.dk/~/media/Files/Udd/Folke/PDF10/101207_PISA_2009_Skole </em><em type="italic">styrelsens_beskrivelse_af_resultaterne.ashx. </em></p>
+<p xml:lang="dan">PISA-undersøgelsen 2009: <em type="italic">http://www.uvm.dk/~/media/Files/Udd/Folke/PDF10/101207_PISA_2009_Skolestyrelsens_beskrivelse_af_resultaterne.ashx. </em></p>
 <p>Fólkaskúlalógin ein avbjóðing (2001)www.mmr.fo</p>
 <p>Fólkaheilsuráðið (2012). Kanning: Matur á dagstovnum. <em type="italic">www. folkaheilsa.fo </em></p>
 <p>Førleikatørvur og skipan. Tilmæli frá arbeiðsbólkinum í sambandi við TALIS-kanningarnar. <em type="italic">www.mmr.fo </em><em type="bold">32 | </em></p>
@@ -190,24 +190,24 @@
 <p>Jensen, &amp; J. Hansen, H. (13.02.2012) Kunning í Fólkaskúlaráðnum.</p>
 <p xml:lang="dan">Hermansen, M. (2010) <em type="italic">Spilleregler i klassen – læringsledelse i teori og praksis </em>. </p>
 <p xml:lang="dan">København: Akademisk forlag.</p>
-<p xml:lang="dan">Jensen, E. &amp; Løw, O. (red.) (2011). <em type="italic">Klasseledele – nye forståelser og </em><em type="italic">handlemuligheder. </em>København: Akademisk Forlag. </p>
+<p xml:lang="dan">Jensen, E. &amp; Løw, O. (red.) (2011). <em type="italic">Klasseledele – nye forståelser og handlemuligheder. </em>København: Akademisk Forlag. </p>
 <p xml:lang="dan">Johannessen, J. A. &amp; Olsen, B. (2008). <em type="italic">Skoleledelse – skolen som organisation </em></p>
 <p xml:lang="dan">Oslo: Fakbokforlaget.</p>
-<p xml:lang="dan">Jónasson, Jón Torfi (2011). <em type="italic">What should be the role of TEIs and how might </em><em type="italic">they be more active? </em></p>
-<p xml:lang="dan">Krejsler, J. B. &amp; Moos, L. (red.) (2008). <em type="italic">Klasseledelse – magtkampe i praksis, </em><em type="italic">pædagogik og politik </em>. København: Dafolo. </p>
+<p xml:lang="dan">Jónasson, Jón Torfi (2011). <em type="italic">What should be the role of TEIs and how might they be more active? </em></p>
+<p xml:lang="dan">Krejsler, J. B. &amp; Moos, L. (red.) (2008). <em type="italic">Klasseledelse – magtkampe i praksis, pædagogik og politik </em>. København: Dafolo. </p>
 <p>Ludvig, M. (07.11.2011) Kunning í Fólkaskúlaráðnum.</p>
 <p>Talis-tengd kanning 2009: Fatan av praksis á skúlaøkinum í Føroyum. <em type="italic">www.mmr.fo </em></p>
 <p xml:lang="dan">Nielsen, P. R. (2010). <em type="italic">Professionssamarbejdet mellem lærere og pædagoger </em>. </p>
 <p xml:lang="dan">København: Dafolo.</p>
-<p xml:lang="dan">Qvortrup, L. (1998). <em type="italic">Det hyperkomplekse samfund. 14 fortællinger om </em><em type="italic">informationssamfundet. </em>København: Gyldendal. </p>
-<p xml:lang="dan">Rasmussen, Jens (2008). Hvad ved vi om den gode lærers praksis? Í: <em type="italic">UP Nr. </em><em type="italic">8/2008 </em><em type="bold">33 | </em></p>
+<p xml:lang="dan">Qvortrup, L. (1998). <em type="italic">Det hyperkomplekse samfund. 14 fortællinger om informationssamfundet. </em>København: Gyldendal. </p>
+<p xml:lang="dan">Rasmussen, Jens (2008). Hvad ved vi om den gode lærers praksis? Í: <em type="italic">UP Nr. 8/2008 </em><em type="bold">33 | </em></p>
 <p>Remmel, B.(2000): <em type="italic">Sprogblanding og sprogbevidsthed </em>. Ritgerð í føroyskum. </p>
 <p xml:lang="dan">Roskilde.</p>
 <p>Róin, A. ( 03.10.2011) Kunning í Fólkaskúlaráðnum</p>
 <p>Sigfússon, J &amp; Gaini ,F. <em type="italic">Ungfolk/Ungt fólk </em>. Føroysk/íslendsk kanning 2012. ICSRA </p>
 <p xml:lang="dan">Reykjavik University.</p>
 <p xml:lang="dan">Schmidt, S. E. &amp; Boström, L. 2011). <em type="italic">Læringsstile </em>. København: Munksgaard. </p>
-<p>Tóroddsdóttir, T. (1999). <em type="italic">Rura. Rørslumenning og sansaskipan hjá føroyskum </em><em type="italic">børnum </em>. Tórshavn: Føroya Skúlabókagrunnur. </p>
+<p>Tóroddsdóttir, T. (1999). <em type="italic">Rura. Rørslumenning og sansaskipan hjá føroyskum børnum </em>. Tórshavn: Føroya Skúlabókagrunnur. </p>
 <p>Tóroddsdóttir, T. (13.02.2012) Kunning í Fólkaskúlaráðnum.</p>
 <p>Tilmæli frá Pisa – arbeiðsbólkinum (2006) <em type="italic">www.mmr.fo </em></p>
 </body></document>

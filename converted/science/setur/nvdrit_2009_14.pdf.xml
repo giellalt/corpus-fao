@@ -1,6 +1,6 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2441</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_14.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Transmissiónslinjur </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>2417</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_14.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Transmissiónslinjur </em></p>
 <p xml:lang="dan">Magnus Danielsen</p>
-<p xml:lang="eng">NVD <em type="italic">Rit </em>2009:14 </p>
+<p xml:lang="eng">NVD <em type="italic">Rit </em>2009:14 2 </p>
 <p xml:lang="eng">Heiti / Title</p>
 <p><em type="bold">Transmissiónslinjur </em></p>
 <p>Høvundar / Authors</p>
@@ -14,7 +14,8 @@
 <p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
 <p>Bústaður / Address</p>
 <p>Nóatún 3, FO 100 Tórshavn, Føroyar (Faroe Islands)</p>
-<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo s. 4</p>
+<p>Postrúm / P.O. box2109, FO 165 Argir, Føroyar (Faroe Islands) y y @+298 352550 y +298 352551 y nvd@setur.fo 3</p>
+<p xml:lang="eng"><em type="bold">Innihaldsyvirlit: </em>Transmissiónslinjulíkningar s. 4 </p>
 <p>Háfrekvensøki s. 6</p>
 <p xml:lang="eng">Lágfrekvensøki s. 6</p>
 <p>Bylgjuútbreiðsla s. 7</p>
@@ -22,8 +23,8 @@
 <p xml:lang="eng">Reflektión s. 8</p>
 <p>Kaðaleginleikar í ymiskum kaðalum s. 9</p>
 <p>Data fyri koaxialkaðalar s. 10</p>
-<p xml:lang="eng"><em type="bold">Føroyskur samandráttur: Transmissiónslinjur </em>Grundleggjandi hugtøk og eginleikar verða viðgjørd og lýst við líkningunum fyri transmissiónslinjur. Transmissiónslinjuimpedansur, útbreiðslu eginleikar og týdningur teirra fyri signalini, ið verða send eftir linjuni, herundir impedanslast og reflektiónir, eru greinað. <em type="bold">English abstract: Transmission Lines </em>The topic of this note is a description of the fundamental phenomena and characteristics of transmission lines based on the transmission line equations. The characteristic impedance and the propagation constant and velocity are treated. Impedance loads, and reflection coefficients are developed. <em type="bold"></em></p>
-<p><em type="bold">Transmissiónslinjur : </em><em type="bold">1. Transmissiónslinjulíkningar </em></p>
+<p xml:lang="eng"><em type="bold">Føroyskur samandráttur: Transmissiónslinjur </em>Grundleggjandi hugtøk og eginleikar verða viðgjørd og lýst við líkningunum fyri transmissiónslinjur. Transmissiónslinjuimpedansur, útbreiðslu eginleikar og týdningur teirra fyri signalini, ið verða send eftir linjuni, herundir impedanslast og reflektiónir, eru greinað. <em type="bold">English abstract: Transmission Lines </em>The topic of this note is a description of the fundamental phenomena and characteristics of transmission lines based on the transmission line equations. The characteristic impedance and the propagation constant and velocity are treated. Impedance loads, and reflection coefficients are developed. <em type="bold"></em>4 </p>
+<p><em type="bold">Transmissiónslinjur : 1. Transmissiónslinjulíkningar </em></p>
 <p>Ein transmissiónslinja hevur tveir leiðarar við elektriskum spenningi millum og leiðir elektriskan streym. Spenningurin V = V(x,t) og streymurin I = I(x,t) er funktiónir av staðnum x og tíðini t. Í mynd 1 er ein tekning av transmissiónslinju. Her eru spennings- og streymstøddirnar vístar í tveimum støðum á staðarásinum x við fjarstøðuni dx ímillum. Transmissiónslinjan og egileikar hennara verða lýst við fýra støddum: Seriumótstøða í leiðarunum (báðum) pr. metur:</p>
 <p xml:lang="eng">R =</p>
 <p>Ω/m</p>
@@ -56,7 +57,7 @@
 <p xml:lang="eng">I(x,t)</p>
 <p xml:lang="eng">I(x+dx,t)</p>
 <p xml:lang="eng">I(x+dx,t)</p>
-<p xml:lang="eng">I(x,t) x = x x = x + dx x (2) ( )( )( )( )( )( )dI xdV x</p>
+<p xml:lang="eng">I(x,t) x = x x = x + dx x 5(2) ( )( )( )( )( )( )dI xdV x</p>
 <p xml:lang="eng">GV xdxdtdV xdI x</p>
 <p xml:lang="eng">RI xdxdt= −−= −−</p>
 <p>Vit kunnu nú brúka harmoniskt varierandi spenning og streym: (3) ( ) ( )( )( )( )( )</p>
@@ -85,7 +86,7 @@
 <p>Iexp xj t</p>
 <p xml:lang="dan">V x, t</p>
 <p xml:lang="dan">V expxj t</p>
-<p xml:lang="dan">V exp xj t= ⋅−γ + ω + ⋅γ + ω=⋅−γ + ω +⋅γ + ω</p>
+<p xml:lang="dan">V exp xj t= ⋅−γ + ω + ⋅γ + ω=⋅−γ + ω +⋅γ + ω 6</p>
 <p>Komplexi útbreiðslukonstanturin verður ofta skrivaður sum summin av einum realparti α og einum immaginerparti β : (9) ()()()()2j C G j L Rj</p>
 <p>LC RGj</p>
 <p xml:lang="eng">LG CRjγ =ω +ω +=ω−− ω+= α + β</p>
@@ -111,7 +112,7 @@
 <p>L&gt;&gt; ω . Tá verður (32) ()()j C G j L Rj CR</p>
 <p xml:lang="eng">CR</p>
 <p xml:lang="eng">CRj22jγ =ω +ω +≅ωωω≅+= α + β(33)</p>
-<p>CR2ωα ≅ β ≅ <em type="bold">4. Bylgjuútbreiðsla </em></p>
+<p>CR2ωα ≅ β ≅7 <em type="bold">4. Bylgjuútbreiðsla </em></p>
 <p><em type="italic">Útbreiðsla í positivan x-rætning: </em>(34) ( )()()()()( )()()()()1111 </p>
 <p xml:lang="eng">I x, t</p>
 <p xml:lang="dan">I expxj t</p>
@@ -141,7 +142,7 @@
 <p xml:lang="eng">Ij C Gj C Gγω += += +ω +ω +</p>
 <p>Vegna henda egileika definera vit støddina: <em type="italic">Karakteristiski impedansurin </em>(41) ()101 </p>
 <p>Vj L R</p>
-<p xml:lang="eng">Ij C Gj C Gγω +====ω +ω +</p>
+<p xml:lang="eng">Ij C Gj C Gγω +====ω +ω +8</p>
 <p>Støddin av Z0 er heft av, hvussu stórur frekvensurin er, og finna vit ymiskar støddir í háfrekvensøkinum og lágfrekvensøkinum: (42)</p>
 <p>Háfrekvensøkið: 0</p>
 <p xml:lang="eng">C= (ωL &gt;&gt; R, ωC &gt;&gt; G ~ 0)</p>
@@ -173,7 +174,7 @@
 <p xml:lang="eng">Z + V −</p>
 <p>Mynd 3 Reflektión á transmissiónslinju</p>
 <p xml:lang="eng">Z(x)</p>
-<p xml:lang="eng">Z(0) x = A</p>
+<p xml:lang="eng">Z(0) x = A 9</p>
 <p>I=, ið er ohms lóg fyri impedansin Z (44) 12</p>
 <p xml:lang="dan">V V</p>
 <p xml:lang="dan">V=+(45) 12</p>
@@ -208,7 +209,7 @@
 <p xml:lang="eng">Z1</p>
 <p xml:lang="eng">ZjZ tan+ ρ −+β− ==− ρ −+β</p>
 <p>A <em type="bold">7. Kaðaleginleikar í ymsum kaðalum </em></p>
-<p>Sum vit hava sæð verða útbreiðslueginleikarnir í kaðalum avgjørdir av teimum 4 støddunum: parallellkapacititi pr. longdareind C, sjálvinduktión pr. longdareind L, seriumótstøðu pr. longdareind R og parallellkonduktansi pr. longdareind G. Hesar støddirnar eru aftur avgjørdar av tilfarseginleikum av leiðaratilfari og isolatiónstilfari millum leiðararnar, umframt av geometriini av uppbyggingini av kaðalinum.</p>
+<p>Sum vit hava sæð verða útbreiðslueginleikarnir í kaðalum avgjørdir av teimum 4 støddunum: parallellkapacititi pr. longdareind C, sjálvinduktión pr. longdareind L, seriumótstøðu pr. longdareind R og parallellkonduktansi pr. longdareind G. Hesar støddirnar eru aftur avgjørdar av tilfarseginleikum av leiðaratilfari og isolatiónstilfari millum leiðararnar, umframt av geometriini av uppbyggingini av kaðalinum. 10</p>
 <p><em type="italic">Koaxial kaðal: </em></p>
 <p>Radius í innara og ytra leiðara eru ávikavist a og b. (37) 2</p>
 <p xml:lang="eng">C = blnaπε   (38) b</p>
@@ -227,80 +228,80 @@
 <p xml:lang="eng">Z ==</p>
 <p xml:lang="eng">Ccoshd−µπ ε   </p>
 <p>Mynd 4 Koalial kaðal tvørskurður</p>
-<p>Mynd 5 Tvørskurður av óskermaðum par-kaðali <em type="bold">8. Data fyri koaxial kaðalar </em></p>
-<p xml:lang="eng"><em type="bold">Table of RG standards (Ref. Wikipedia) </em><em type="bold">dielectric </em><em type="bold">overall </em><em type="bold">diameter </em><em type="bold">type </em><em type="bold">impedance </em><em type="bold">[ohms] </em><em type="bold">core </em><em type="bold">type </em><em type="bold">[in] </em><em type="bold">[mm] </em><em type="bold">in mm </em><em type="bold">braid </em><em type="bold">velocity </em><em type="bold">factor </em><em type="bold">comments </em></p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">6/U </em>75 1.0 mm Solid PE 0.185 4.7 0.270 6.86 double 0.75 </p>
+<p>Mynd 5 Tvørskurður av óskermaðum par-kaðali 11 <em type="bold">8. Data fyri koaxial kaðalar </em></p>
+<p xml:lang="eng"><em type="bold">Table of RG standards (Ref. Wikipedia) dielectric overall diametertype impedance [ohms] core type [in] [mm] in mmbraid velocity factor comments </em></p>
+<p xml:lang="eng"><em type="bold">RG-6/U </em>75 1.0 mm Solid PE 0.185 4.7 0.270 6.86 double 0.75 </p>
 <p xml:lang="eng">Low loss at high frequency for cable television, satellite television and cable modems</p>
-<p xml:lang="dan"><em type="bold">RG- </em><em type="bold">6/UQ </em>75 </p>
+<p xml:lang="dan"><em type="bold">RG-6/UQ </em>75 </p>
 <p xml:lang="eng">Solid PE0.298 7.57 quad</p>
 <p xml:lang="eng">This is <span type="quote" xml:lang="eng">"quad shield RG-6"</span>. It has four layers of shielding; regular RG-6 only has one or two</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">8/U </em>50 2.17 mm Solid PE 0.285 7.2 0.405 10.3 </p>
+<p xml:lang="eng"><em type="bold">RG-8/U </em>50 2.17 mm Solid PE 0.285 7.2 0.405 10.3 </p>
 <p xml:lang="eng">Amateur radio; Thicknet (10BASE5) is similar</p>
-<p><em type="bold">RG- </em><em type="bold">9/U </em>51 </p>
+<p><em type="bold">RG-9/U </em>51 </p>
 <p xml:lang="eng">Solid PE0.420 10.7</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">11/U </em>75 1.63 mm Solid PE 0.285 7.2 0.412 10.50.66 </p>
+<p xml:lang="eng"><em type="bold">RG-11/U </em>75 1.63 mm Solid PE 0.285 7.2 0.412 10.50.66 </p>
 <p xml:lang="eng">Used for long drops and underground conduit</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">58/U </em>50 0.9 mm Solid PE 0.116 2.9 0.195 5.0 single 0.66/0.78 </p>
+<p xml:lang="eng"><em type="bold">RG-58/U </em>50 0.9 mm Solid PE 0.116 2.9 0.195 5.0 single 0.66/0.78 </p>
 <p xml:lang="eng">Used for radiocommunication and amateur radio, thin Ethernet (10BASE2) and NIM electronics. Common.</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">59/U </em>75 0.81 mm Solid PE 0.146 3.7 0.242 6.1 single 0.66 </p>
-<p xml:lang="eng">Used to carry baseband video in closed-circuit television, previously used for cable television. Generally it has poor shielding but will carry an HQ HD signal or video over short distances.</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">60/U </em>50 1.024 mm Solid PE0.425 10.8 single </p>
+<p xml:lang="eng"><em type="bold">RG-59/U </em>75 0.81 mm Solid PE 0.146 3.7 0.242 6.1 single 0.66 </p>
+<p xml:lang="eng">Used to carry baseband video in closed-circuit television, previously used for cable television. Generally it has poor shielding but will carry an HQ HD signal or video over short distances.12</p>
+<p xml:lang="eng"><em type="bold">RG-60/U </em>50 1.024 mm Solid PE0.425 10.8 single </p>
 <p xml:lang="eng">Used for highdefinition cable TV and high-speed cable Internet.</p>
-<p><em type="bold">RG- </em><em type="bold">62/U </em>92 </p>
+<p><em type="bold">RG-62/U </em>92 </p>
 <p xml:lang="eng">Solid PE0.242 6.1 single 0.84</p>
 <p xml:lang="eng">Used for ARCNET and automotive radio antennas.</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">62A </em>93 </p>
+<p xml:lang="eng"><em type="bold">RG-62A </em>93 </p>
 <p xml:lang="eng">ASP 0.242 6.1 single</p>
 <p xml:lang="eng">Used for NIM electronics</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">174/U </em>50 0.48 mm Solid PE 0.100 2.5 0.100 2.55 single 0.66 </p>
+<p xml:lang="eng"><em type="bold">RG-174/U </em>50 0.48 mm Solid PE 0.100 2.5 0.100 2.55 single 0.66 </p>
 <p xml:lang="eng">Common for wifi pigtails: more flexible but higher loss than RG58; used with LEMO 00 connectors in NIM electronics.</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">178/U </em>50 7×0.1 mm (Ag plated Cu clad </p>
+<p xml:lang="eng"><em type="bold">RG-178/U </em>50 7×0.1 mm (Ag plated Cu clad </p>
 <p xml:lang="eng">Steel)</p>
 <p xml:lang="eng">PTFE 0.033 0.84 0.071 1.8 single 0.69</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">179/U </em>75 7×0.1 mm (Ag plated </p>
+<p xml:lang="eng"><em type="bold">RG-179/U </em>75 7×0.1 mm (Ag plated </p>
 <p xml:lang="eng">Cu)</p>
 <p xml:lang="eng">PTFE 0.063 1.6 0.098 2.5 single 0.67</p>
 <p>VGA RGBHV</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">213/U </em>50 7×0.0296 in Cu </p>
+<p xml:lang="eng"><em type="bold">RG-213/U </em>50 7×0.0296 in Cu </p>
 <p xml:lang="eng">Solid PE 0.285 7.2 0.405 10.3 single 0.66</p>
 <p xml:lang="eng">For radiocommunication and amateur radio, EMC test antenna cables. Typically lower loss than RG58. Common.</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">214/U </em>50 7×0.0296 in </p>
+<p xml:lang="eng"><em type="bold">RG-214/U </em>50 7×0.0296 in </p>
 <p xml:lang="eng">PTFE 0.285 7.2 0.425 10.8 double 0.66</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">218 </em>50 0.195 in </p>
+<p xml:lang="eng"><em type="bold">RG-218 </em>50 0.195 in </p>
 <p xml:lang="eng">Cu</p>
 <p xml:lang="eng">Solid PE0.660 (0.680?)16.76 (17.27?)0.870 22 single 0.66</p>
 <p xml:lang="eng">Large diameter, not very flexible, low loss (2.5dB/100' @ 400 MHz), 11kV dielectric withstand.</p>
-<p><em type="bold">RG- </em><em type="bold">223/U </em>50 0.88 mm </p>
+<p><em type="bold">RG-223/U </em>50 0.88 mm </p>
 <p xml:lang="eng">PE</p>
 <p xml:lang="eng">Foam 0.08152.07 0.212 5.4 Double 0.66</p>
 <p xml:lang="eng">Sample RG-223</p>
 <p xml:lang="dan">Datasheet</p>
-<p xml:lang="eng"><em type="bold">RG- </em><em type="bold">316/U </em>50 7x0.0067 in </p>
+<p xml:lang="eng"><em type="bold">RG-316/U </em>50 7x0.0067 in </p>
 <p xml:lang="eng">PTFE 0.060 1.5 0.102 2.6 single 0.695 used with LEMO 00 connectors in NIM electronics</p>
-<p xml:lang="eng">PE is Polyethylene; PTFE is Polytetrafluoroethylene; ASP is Air Space Polyethylene[4]</p>
-<p xml:lang="eng"><em type="bold">Commercial designations </em><em type="bold">dielectric </em><em type="bold">overall </em><em type="bold">diameter </em><em type="bold">type </em><em type="bold">impedance </em><em type="bold">[ohms] </em><em type="bold">core </em><em type="bold">type [in] [mm] </em><em type="bold">in </em><em type="bold">mm </em><em type="bold">braid </em><em type="bold">velocity </em><em type="bold">factor </em><em type="bold">comments </em></p>
+<p xml:lang="eng">PE is Polyethylene; PTFE is Polytetrafluoroethylene; ASP is Air Space Polyethylene[4] 13</p>
+<p xml:lang="eng"><em type="bold">Commercial designations dielectric overall diameter type impedance [ohms] core type [in] [mm]in mmbraidvelocity factor comments </em></p>
 <p xml:lang="eng"><em type="bold">H155 </em>50 0.79 lower loss at high frequency for radiocommunication and amateur radio </p>
 <p xml:lang="eng"><em type="bold">H500 </em>50 0.82 low loss at high frequency for radiocommunication and amateur radio </p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">195 </em>50 low loss drop-in replacement for RG-58 </p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">200 </em></p>
-<p><em type="bold">HDF- </em><em type="bold">200 </em></p>
-<p xml:lang="eng"><em type="bold">CFD- </em><em type="bold">200 </em>50 1.12 mm </p>
+<p xml:lang="eng"><em type="bold">LMR-195 </em>50 low loss drop-in replacement for RG-58 </p>
+<p xml:lang="eng"><em type="bold">LMR-200 </em></p>
+<p><em type="bold">HDF-200 </em></p>
+<p xml:lang="eng"><em type="bold">CFD-200 </em>50 1.12 mm </p>
 <p xml:lang="eng">Cu</p>
 <p xml:lang="eng">PF</p>
 <p xml:lang="eng">CF 0.116 2.95 0.195 4.950.83 low loss communications, 0.554 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">400 </em></p>
-<p><em type="bold">HDF- </em><em type="bold">400 </em></p>
-<p xml:lang="eng"><em type="bold">CFD- </em><em type="bold">400 </em>50 2.74 mm (Cu clad </p>
+<p xml:lang="eng"><em type="bold">LMR-400 </em></p>
+<p><em type="bold">HDF-400 </em></p>
+<p xml:lang="eng"><em type="bold">CFD-400 </em>50 2.74 mm (Cu clad </p>
 <p xml:lang="eng">Al)</p>
 <p xml:lang="eng">PF</p>
 <p xml:lang="eng">CF 0.285 7.24 0.405 10.290.85 low loss communications, 0.223 dB/meter @ 2.4 GHz[5]</p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">600 </em>50 4.47 mm (Cu clad </p>
+<p xml:lang="eng"><em type="bold">LMR-600 </em>50 4.47 mm (Cu clad </p>
 <p xml:lang="eng">Al)</p>
 <p xml:lang="eng">PF 0.455 11.56 0.590 14.990.87 low loss communications, 0.144 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">900 </em>50 6.65 mm (BC tube) </p>
+<p xml:lang="eng"><em type="bold">LMR-900 </em>50 6.65 mm (BC tube) </p>
 <p xml:lang="eng">PF 0.680 17.27 0.870 22.100.87 low loss communications, 0.098 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">1200 </em>50 8.86 mm (BC tube) </p>
+<p xml:lang="eng"><em type="bold">LMR-1200 </em>50 8.86 mm (BC tube) </p>
 <p xml:lang="eng">PF 0.920 23.37 1.200 30.480.88 low loss communications, 0.075 dB/meter @ 2.4 GHz</p>
-<p xml:lang="eng"><em type="bold">LMR- </em><em type="bold">1700 </em>50 13.39 mm (BC tube) </p>
+<p xml:lang="eng"><em type="bold">LMR-1700 </em>50 13.39 mm (BC tube) </p>
 <p xml:lang="eng">PF 1.350 34.29 1.670 42.420.89 low loss communications, 0.056 dB/meter @ 2.4 GHz</p>
 </body></document>

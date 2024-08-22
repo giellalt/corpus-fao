@@ -1,8 +1,9 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>58840</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2009.10 Krabbameinsætlan fyri Føroyar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Krabbameins </em>ætlanfyri Føroyar </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>58799</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2009.10 Krabbameinsætlan fyri Føroyar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Krabbameins </em>ætlanfyri Føroyar </p>
 <p>Heilsumálaráðið</p>
-<p>Oktober 2009www.hmr.fo fyri Føroyar</p>
+<p>Oktober 2009www.hmr.fo</p>
+<p><em type="bold">Krabbameinsætlan </em>fyri Føroyar </p>
 <p>Heilsumálaráðið - Oktober 2009</p>
-<p><em type="bold">Krabbameinsætlan </em><em type="bold">fyri Føroyar </em>2 © 2009, Heilsumálaráðið Prent: Føroyaprent Tórshavn, 2009 ISBN 978‐99918‐970‐2‐8 3 </p>
+<p><em type="bold">Krabbameinsætlan fyri Føroyar </em>2 © 2009, Heilsumálaráðið Prent: Føroyaprent Tórshavn, 2009 ISBN 978‐99918‐970‐2‐8 3 </p>
 <p><em type="bold">Formæli </em>Krabbamein er ein sjúka, ið flest allir føroyingar kenna til. Um vit sjálvi ikki hava verið rakt, so kenna vit altíð onkran, ið er raktur av hesi álvarsomu sjúku. Umleið 150 nýggir tilburðir av krabbameini verða staðfestir í Føroyum um árið, og enn lata tíverri fleiri føroyingar lív av krabbameini. At so nógv verða rakt og doyggja av hesi sjúku reisir spurningin, um føroyska heilsuverkið kann gera meira fyri at tryggja hesum sjúklingum so góða viðgerð sum møguligt umframt at ráðgeva og stuðla sjúklingi og næstu avvarandi, sum eisini verða hart rakt, tá ið krabbamein verður staðfest í familjuni. </p>
 <p>Tað er júst hetta, sum hendan krabbameinsætlan skal slóða fyri. Við at vísa á, hvar veikleikar eru, og hvørjar avbjóðingar standa fyri framman á krabbameinsøkinum, vilja vit við uppskotinum vísa á, hvussu føroyska heilsuverkið kann veita krabbameinssjúklingum eina so góða viðgerð sum gjørligt í eini samanhangandi sjúklingagongd.</p>
 <p>Henda krabbameinsætlan, ið er tann fyrsta av sínum slag í Føroyum, hevur ikki færri enn 58 tilmælir um at betra tey viðurskifti, sum innganga í eina sjúklingagongd umframt tann fyribygjandi partin. Arbeiðsbólkurin metir, at tilmælini fara at betra um yvirlivingina hjá sjúklingunum og betra dygdina á teimum veitingum, ið verða bjóðaðar krabbameinssjúklingum. Harumframt metir bólkurin, at tilmælini um at styrkja fyribyrging og screening fara at hava við sær færri krabbameinstilburðir ella færri álvarsamar tilburðir í Føroyum í framtíðini.</p>
@@ -14,7 +15,7 @@
 <p><em type="italic">Óluva Zachariasen, samskipari fyri krabbameinsætlanini </em>4 </p>
 <p><em type="bold">Innihaldsyvirlit </em></p>
 <p><em type="bold">FORMÆLI ................................................................................................................................................... 3 </em></p>
-<p><em type="bold">INNIHALDSYVIRLIT ..................................................................................................................................... 4 </em><em type="bold">1 </em></p>
+<p><em type="bold">INNIHALDSYVIRLIT ..................................................................................................................................... 41 </em></p>
 <p xml:lang="dan"><em type="bold">INNGANGUR ..................................................................................................................................... 8 </em>1.1 </p>
 <p>AVBJÓÐINGAR VIÐVÍKJANDI KRABBAMEINI Í FØROYUM ....................................................................................... 9 1.2</p>
 <p>ROYNDIR VIÐ KRABBAMEINSÆTLANUM Í ØÐRUM LONDUM ................................................................................ 10 1.3</p>
@@ -66,10 +67,10 @@
 <p>VIT MÆLA TIL: ..................................................................................................................................... 67 <em type="bold">6 </em></p>
 <p><em type="bold">SCREENING ..................................................................................................................................... 69 </em>6.1 </p>
 <p>SCREENING FYRI LÍVMÓÐURHÁLSKRABBA ....................................................................................................... 69 <em type="italic">6.1.1 </em></p>
-<p><em type="italic">Screening fyri lívmóðurhálskrabba í øðrum londum ................................................................... 70 </em><em type="italic">6.1.2 </em></p>
+<p><em type="italic">Screening fyri lívmóðurhálskrabba í øðrum londum ................................................................... 70 6.1.2 </em></p>
 <p><em type="italic">Screening fyri lívmóðurhálskrabba – støðan í Føroyum .............................................................. 71 </em>6.2 </p>
 <p>SCREENING FYRI BRÓSTKRABBA .................................................................................................................... 72 <em type="italic">6.2.1 </em></p>
-<p><em type="italic">Mammografiscreening í øðrum londum ...................................................................................... 73 </em><em type="italic">6.2.2 </em></p>
+<p><em type="italic">Mammografiscreening í øðrum londum ...................................................................................... 73 6.2.2 </em></p>
 <p><em type="italic">Screening fyri bróstkrabbamein – støðan í Føroyum ................................................................... 74 </em>6.3 </p>
 <p>SCREENING FYRI KRABBAMEIN Í LANGA OG BAKTARMI ...................................................................................... 74 <em type="italic">6.3.1 </em></p>
 <p><em type="italic">Screening fyri krabbamein í langa og baktarmi – støðan í Føroyum. ......................................... 75 </em>6.4 </p>
@@ -81,7 +82,7 @@
 <p>SJÚKLINGAGONGD Í DAG ............................................................................................................................ 82 7.3</p>
 <p>PREHOSPITALUR PARTUR ............................................................................................................................ 82 7.4</p>
 <p xml:lang="dan">DIAGNOSTISKUR PARTUR ............................................................................................................................ 86 <em type="italic">7.4.1 </em></p>
-<p><em type="italic">Røntgendeildin á Landssjúkrahúsinum ........................................................................................ 87 </em><em type="italic">7.4.2 </em></p>
+<p><em type="italic">Røntgendeildin á Landssjúkrahúsinum ........................................................................................ 87 7.4.2 </em></p>
 <p><em type="italic">Patologi á Landssjúkrahúsinum ................................................................................................... 89 </em>7.5 </p>
 <p>VIÐGERÐAR PARTURIN ............................................................................................................................... 89 <em type="italic">7.5.1 </em></p>
 <p><em type="italic">Skurðviðgerð................................................................................................................................ 89 </em>7.5.1.1 </p>
@@ -97,13 +98,13 @@
 <p>SJÚKLINGAGONGD Í DAG SAMMETT VIÐ OPTIMALU SJÚKLINGAGONGDINA .......................................................... 104 7.9</p>
 <p>GÓÐSKUTRYGGING AV DIAGNOSTIKKI OG VIÐGERÐ ........................................................................................ 104 7.10</p>
 <p>HEILDARTILGONGDIR .......................................................................................................................... 106 <em type="italic">7.10.1 </em></p>
-<p><em type="italic">Heildartilgongdir í Føroyum? ..................................................................................................... 106 </em><em type="italic">7.10.2 </em></p>
-<p><em type="italic">Fyrimunir og vansar við heildartilgongdum .............................................................................. 107 </em><em type="italic">7.10.3 </em></p>
+<p><em type="italic">Heildartilgongdir í Føroyum? ..................................................................................................... 106 7.10.2 </em></p>
+<p><em type="italic">Fyrimunir og vansar við heildartilgongdum .............................................................................. 107 7.10.3 </em></p>
 <p><em type="italic">Máting av bíðitíðum .................................................................................................................. 108 </em>7.11 </p>
 <p>SAMSKIPAN AV GONGDUM .................................................................................................................. 108 <em type="italic">7.11.1 </em></p>
 <p><em type="italic">Sjúklingasamskipan í føroyska sjúkrahúsverkinum ................................................................... 109 </em>7.12 </p>
 <p>KUNNINGARTØKNI ............................................................................................................................. 109 <em type="italic">7.12.1 </em></p>
-<p xml:lang="dan"><em type="italic">Telemedisin................................................................................................................................ 109 </em><em type="italic">7.12.2 </em></p>
+<p xml:lang="dan"><em type="italic">Telemedisin................................................................................................................................ 109 7.12.2 </em></p>
 <p><em type="italic">Talgilda heilsuskipanin, THS ...................................................................................................... 111 </em>7.13 </p>
 <p>KRABBAMEINSSTÝRISBÓLKUR ............................................................................................................... 1117.14</p>
 <p>VIT MÆLA TIL: ................................................................................................................................... 112 <em type="bold">8 </em></p>
@@ -118,8 +119,8 @@
 <p>HVAT ER ENDURMENNING? ...................................................................................................................... 121 9.2</p>
 <p>AVLEIÐINGAR AV KRABBAMEINI ................................................................................................................. 122 9.3</p>
 <p>ENDURMENNING Í FØROYUM .................................................................................................................... 123 <em type="italic">9.3.1 </em></p>
-<p xml:lang="dan"><em type="italic">Likamlig endurmenning ............................................................................................................. 123 </em><em type="italic">9.3.2 </em></p>
-<p xml:lang="dan"><em type="italic">Sálarlig/eksistentiell endurmenning .......................................................................................... 124 </em><em type="italic">9.3.3 </em></p>
+<p xml:lang="dan"><em type="italic">Likamlig endurmenning ............................................................................................................. 123 9.3.2 </em></p>
+<p xml:lang="dan"><em type="italic">Sálarlig/eksistentiell endurmenning .......................................................................................... 124 9.3.3 </em></p>
 <p xml:lang="dan"><em type="italic">Sosial/materiell endurmenning ................................................................................................. 125 </em>9.4 </p>
 <p>VIÐGERÐ UTTANLANDS ............................................................................................................................ 125 9.5</p>
 <p xml:lang="dan">AVVARÐANDI ......................................................................................................................................... 126 9.6</p>
@@ -137,10 +138,10 @@
 <p>KRABBAMEINSGRANSKING Í FØROYSKUM HØPI ......................................................................................... 13411.2</p>
 <p>HVAT ER KRABBAMEINSGRANSKING? ..................................................................................................... 13411.3</p>
 <p>VERKÆTLANIR ................................................................................................................................... 135 <em type="italic">11.3.1 </em></p>
-<p xml:lang="dan"><em type="italic">Malignant haematological diseases – 1961 – 2009 .................................................................. 135 </em><em type="italic">11.3.2 </em></p>
-<p xml:lang="dan"><em type="italic">Ovarie cancer forkanning – epidemiologi 1962 – 2009 ............................................................. 136 </em><em type="italic">11.3.3 </em></p>
-<p xml:lang="dan"><em type="italic">Mammae cancer forkanning – epidemiologi 1962 – 2009 ........................................................ 136 </em><em type="italic">11.3.4 </em></p>
-<p><em type="italic">Aðrar verkætlanir ...................................................................................................................... 136 </em><em type="italic">11.3.5 </em></p>
+<p xml:lang="dan"><em type="italic">Malignant haematological diseases – 1961 – 2009 .................................................................. 135 11.3.2 </em></p>
+<p xml:lang="dan"><em type="italic">Ovarie cancer forkanning – epidemiologi 1962 – 2009 ............................................................. 136 11.3.3 </em></p>
+<p xml:lang="dan"><em type="italic">Mammae cancer forkanning – epidemiologi 1962 – 2009 ........................................................ 136 11.3.4 </em></p>
+<p><em type="italic">Aðrar verkætlanir ...................................................................................................................... 136 11.3.5 </em></p>
 <p><em type="italic">Patologiskrásetingarverkætlanin .............................................................................................. 136 </em>11.4 </p>
 <p>ÍLEGUSAVNIÐ / GENETIC BIOBANK ......................................................................................................... 13711.5</p>
 <p>GRANSKINGARBIOBANKI TIL GENETISKAR (ARVAFRØÐILIGAR) GRANSKINGARVERKÆTLANIR ................................ 13711.6</p>
@@ -301,7 +302,7 @@
 <p>Í Føroyum eru ongar leiðreglur fyri nýtslu av <span type="quote" xml:lang="dan">”second opinion”</span>‐fyriskipanini, og fyriskipanin hevur verið nýtt ógvuliga avmarkað av viðgerandi læknum. Tað hevði verið ein fyrimunur bæði fyri Visitasjónsnevndina, tann viðgerandi læknan og ikki minst fyri teir krabbameinssjúlingar, har viðgerandi læknin ikki kann bjóða teimum meira viðgerð, at sjúklingarnir verða kunnaðir um fyriskipanina, og at sjúklingurin gjøgnum viðgerandi læknan fekk møguleika at fáa eina meting frá serfrøðinganevndini. Ein slík meting kundi seinni av viðgerandi læknanum verið løgd fyri Visitasjónsnevndina til endaliga støðutakan.</p>
 <p>Tá tað kemur til sjúklingatrygging í Føroyum, so varð tann danska <span type="quote" xml:lang="dan">”Lov om patientforsikring”</span> løgd fram sum konglig fyriskipan og samtykt í Løgtinginum í 1999, men við eini viðmerking til ásetingarnar um ígildiskomuna um, at lógin ikki varð sett í gildi, fyrr enn tvær aðrar lógir vórðu settar í gildi.</p>
 <p>Hinar báðar lógirnar hava gildi frá 1. januar 2010, og tað merkir, at lógin um sjúklingatrygging eisini kemur í gildi tá. Í hesum sambandi hevur tað avgerandi týdning, at Heilsumálaráðið fyrireikar íverksetanina av lógini og endurmetir tíggju ára gomlu lógina við atliti til møguligar dagføringar og fyrireikar møguligar kunngerðir, sum skulu setast í gildi saman við lógini.</p>
-<p>Viðvíkjandi sjúklingarættindum ger arbeiðsbólkurin hesi tilmæli: 38. At tað við lóg verður gjørd ein viðgerðartrygd fyri krabbameinssjúklingar, sum ásetir mest loyvdu bíðitíðir til útgreinan og viðgerð. <em type="bold"></em>39. At ábyrgdin fyri at bíðitíðir verða hildnar, liggur hjá føroyska sjúkrahúsverkinum ‐ eisini eftir at sjúklingurin er sendur til krabbameinsviðgerð uttanlands. <em type="bold"></em>20 40. At Visitatiónsnevndin í samráð við Heilsumálaráðið ger leiðreglur um sonevndu <span type="quote" xml:lang="dan">”second opinion”</span>‐skipanina. Leiðreglurnar skulu í høvuðsheitum fevna um krabbameinssjúklingar, sum eru uppgivnir av viðgerandi lækna. Sjúklingarnir skulu kunnast um skipanina og gjøgnum viðgerandi lækna fáa møguleika at fáa eina meting frá serfrøðinganevndini. Metingin kann síðani leggjast fyri Visitatiónsnevndina til endaliga støðutakan. 41. At Heilsumálaráðið fyrireikar íverksetanina av lógini um sjúklingatrygd, sum varð samtykt í 1999 og sum kemur í gildi 1. januar 2010. Í hesum sambandi skal tann 10 ára gamla lógin eftirmetast við tí fyri eyga at gera møguligar dagføringar umframt at fyrireika møguligar kunngerðir, sum skulu setast í gildi saman við lógini. <em type="bold"></em><em type="bold">2.6 Endurmenning </em></p>
+<p>Viðvíkjandi sjúklingarættindum ger arbeiðsbólkurin hesi tilmæli: 38. At tað við lóg verður gjørd ein viðgerðartrygd fyri krabbameinssjúklingar, sum ásetir mest loyvdu bíðitíðir til útgreinan og viðgerð. <em type="bold"></em>39. At ábyrgdin fyri at bíðitíðir verða hildnar, liggur hjá føroyska sjúkrahúsverkinum ‐ eisini eftir at sjúklingurin er sendur til krabbameinsviðgerð uttanlands. <em type="bold"></em>20 40. At Visitatiónsnevndin í samráð við Heilsumálaráðið ger leiðreglur um sonevndu <span type="quote" xml:lang="dan">”second opinion”</span>‐skipanina. Leiðreglurnar skulu í høvuðsheitum fevna um krabbameinssjúklingar, sum eru uppgivnir av viðgerandi lækna. Sjúklingarnir skulu kunnast um skipanina og gjøgnum viðgerandi lækna fáa møguleika at fáa eina meting frá serfrøðinganevndini. Metingin kann síðani leggjast fyri Visitatiónsnevndina til endaliga støðutakan. 41. At Heilsumálaráðið fyrireikar íverksetanina av lógini um sjúklingatrygd, sum varð samtykt í 1999 og sum kemur í gildi 1. januar 2010. Í hesum sambandi skal tann 10 ára gamla lógin eftirmetast við tí fyri eyga at gera møguligar dagføringar umframt at fyrireika møguligar kunngerðir, sum skulu setast í gildi saman við lógini. <em type="bold">2.6 Endurmenning </em></p>
 <p>Alt fleiri fólk gerast frísk av krabbameini, og fleiri liva longri við sjúkuni. Krabbamein kann tí í størri mun roknast sum ein kronisk sjúka og ikki bara ein sjúka, ein doyr av.</p>
 <p>Hetta økir um tørvin á endurmenning (rehabilitering). Krabbamein er nevniliga ein sjúka, sum setir síni spor, bæði likamliga, sálarliga og materielt/sosialt. Í summum førum er talan um avleiðingar, sum vara alt lívið. Við at seta í verk tiltøk so tíðliga í sjúkugongdini sum gjørligt, ber til at fyribyrgja og avmarka negativu árinini av krabbameini.</p>
 <p>Endurmenning snýr seg fyrst og fremst um tann sjúka og hansara næstu avvarðandi. At stuðla, soleiðis at gerandisdagur teirra kann halda fram á best møguligan hátt.</p>
@@ -352,7 +353,7 @@
 <p>Sum tað skilst av talvu 4.1, so hevur árliga talið av nýggjum krabbameinstilburðum í Føroyum verið vaksandi síðani 1960. Fyri konufólk sær út til, at tað framhaldandi er ein vøkstur, meðan tað fyri mannfólk er trupult at meta, um talið hevur lagt seg í eina fasta legu, ella um tað framvegis veksur10. Í talvu 4.2 sæst, at krabbameinstíttleikin í Føroyum seinastu árini hevur ligið millum 128 og 150 tilburðir árliga. Í hagtølunum er vanligur húðkrabbi ikki tikin við, fyrst og fremst tí hetta krabbameinsslag er ikki deyðiligt, og tí skrásetingin av royndum er vánalig.</p>
 <p><em type="bold">Menn </em></p>
 <p><em type="bold">Konufólk </em></p>
-<p xml:lang="dan"><em type="bold">Íalt </em><em type="bold">1996 </em>6765132 <em type="bold">1997 </em>66 62 128 <em type="bold">1998 </em>8355138 <em type="bold">1999 </em>70 80 150 <em type="bold">2000 </em>5178129 <em type="bold">2001 </em>51 77 128 <em type="bold">2002 </em>6660126 <em type="bold">2003 </em>70 65 135 <em type="bold">2004 </em>6564129 <em type="bold">2005 </em>69 76 145 </p>
+<p xml:lang="dan"><em type="bold">Íalt 1996 </em>6765132 <em type="bold">1997 </em>66 62 128 <em type="bold">1998 </em>8355138 <em type="bold">1999 </em>70 80 150 <em type="bold">2000 </em>5178129 <em type="bold">2001 </em>51 77 128 <em type="bold">2002 </em>6660126 <em type="bold">2003 </em>70 65 135 <em type="bold">2004 </em>6564129 <em type="bold">2005 </em>69 76 145 </p>
 <p>Talva 4.2 Krabbameinstíttleikin í Føroyum í tølum 1996‐2005</p>
 <p>Krabbameinstíttleikin í Føroyum, bæði hjá monnum og konufólkum, er munandi lægri enn í hinum Norðurlondunum. Talva 4.3 vísir, at roknað um til aldursstandardiseraðir partar, var títtleikin fyri føroyskar menn í tíðarskeiðnum 2001‐2005 326 tilburðir. Hetta er nógv lægri enn fyri mannfólk í hinum Norðurlondunum. Svøríki er tað landið av Norðurlondunum, ið hevur næstlægsta títtleikan, nevniliga 535. Hægsta títtleikan fyri norðurlendsk mannfólk hevur Noreg við 610. m æ n dk v i n d e rm æ n dk v i n d e r</p>
 <p><em type="bold">P o p u l a t i o n </em></p>
@@ -367,8 +368,8 @@
 <p>I s l a n d5 9 04 6 32 7 81 9 8</p>
 <p xml:lang="dan">N o r g e6 1 04 5 43 0 91 9 7</p>
 <p xml:lang="dan">S v e r i g e5 3 54 0 32 7 21 8 8</p>
-<p xml:lang="dan"><em type="bold">I n c i d e n s D ø d e l i g h e d </em><em type="bold">a l d e r ( 0 - 8 5 + ) ; a l l e f o r m e r u n d t a g e n a l m i n d e l i g h u d </em></p>
-<p xml:lang="dan"><em type="bold">A l d e r s s t a n d a r d i s e r e d e r a t e r ( A S R - N ) , d v s a n t a l p r 1 0 0 . 0 0 0 f o r </em><em type="bold">p e r i o d e n 2 0 0 1 - 2 0 0 5 </em></p>
+<p xml:lang="dan"><em type="bold">I n c i d e n s D ø d e l i g h e da l d e r ( 0 - 8 5 + ) ; a l l e f o r m e r u n d t a g e n a l m i n d e l i g h u d </em></p>
+<p xml:lang="dan"><em type="bold">A l d e r s s t a n d a r d i s e r e d e r a t e r ( A S R - N ) , d v s a n t a l p r 1 0 0 . 0 0 0 f o r p e r i o d e n 2 0 0 1 - 2 0 0 5 </em></p>
 <p>Talva 4.3 Krabbameinstíttleiki og –deyðiligheit í Norðurlondum 2001‐2005. 10 Tær keldur, ið eru nýttar í hesum parti eru frá ávikavist Nordcan‐dátugrunninum, atkomuligum dáta frá donsku krabbameinsskránni og frá Heilsumálaráðnum í Føroyum. 28</p>
 <p>Norðurlendsku konufólkini hava munandi lægri krabbameinstíttleika enn mannfólkini, undantikið í Føroyum, har tølini fyri mannfólk og konufólk eru nærum eins. Donsk konufólk hava hægsta títtleikan, meðan finsku konufólkini hava tann næstlægsta.</p>
 <p>Hóast stórur munur er á Føroyum og hinum Norðurlondunum í krabbameinstíttleika, er tó ógvuliga lítil munur á londunum, tá tað snýr seg um deyðiligheit av krabbameini. Í roynd og veru liggja føroysku konufólkini næsthægst í Norðurlondum í krabbameinsdeyðiligheit (bert Danmark liggur hægri). Føroysk mannfólk hava næstlægstu deyðiligheitina, men tætt fylgd av teimum flestu av hinum Norðurlondunum.</p>
@@ -407,7 +408,7 @@
 <p>Talið av krabbameinssjúklingum, sum eru á lívi eina ávísa tíð, endurspeglar sambandið millum títtleika, viðgerðarúrslit og deyðiligheit.</p>
 <p>Kunnleiki til prevalensin hevur avgerðandi týdning fyri tað tilfeingi, ið skal setast av á heilsuøkinum til at handfara krabbameinssjúklingarnar. Fyri Føroyar finnast í løtuni eingi tøl fyri, hvussu nógvir persónar við eini krabbameinsdiagnosu eru á lívi (prevalensurin).</p>
 <p>Men í hinum Norðurlondunum eru uppgerðir yvir prevalens sum víst í talvu 4.9. Hjá øllum londunum er prevalensurin øktur, undantikið Ísland, har prevalensurin tykist at hava verið støðugur síðani miðskeiðis í 1970‐unum.</p>
-<p>Talva 4.9 Krabbameinsprevalensurin í Norðurlondum 1963‐2002. <em type="bold">4.3 Krabbameinsyvirliving </em></p>
+<p><em type="italic"></em><em type="bold">4.3 Krabbameinsyvirliving </em></p>
 <p>Heldur enn deyðiligheit ber til at hyggja at teimum, ið yvirliva eftir eina krabbameinsdiagnosu. Eitt ofta brúkt mát er 5‐ára yvirlivingin, sum ofta verður nýtt í samanberingum millum lond, og sum verður nýtt, tá metast skal um effektivitetin av nýggjum viðgerðartiltøkum. 33</p>
 <p type="listitem">Tað  hevur  víst  seg  at  vera  ógvuliga  trupult  at  finna  ein  líkinda  hátt  at  máta  dygdina  á  krabbameinsviðgerðum, men sum minstamark er neyðugt at kenna:</p>
 <p type="listitem">býtið av sjúkustigunum, tá diagnosan verður sett</p>
@@ -609,7 +610,7 @@
 <p>Sjómenn</p>
 <p>Talva 5.2 BMI hjá sjómonnum samanborið við fólkaheilsukanningar 33http://www.health.fo 34http://www.health.fo 57</p>
 <p><em type="bold">BMI í Føroyum og Region Midtjylland </em>337421725035130102030405060undirvekt normalvektyvirvektnógvyvirvekt </p>
-<p><em type="bold">BMI klassar </em><em type="bold">% </em></p>
+<p><em type="bold">BMI klassar% </em></p>
 <p>Føroyar Region Midtjylland</p>
 <p>Talva 5.3 BMI hjá føroyingum sammett við BMI hjá íbúgvum í Region Midtjylland.</p>
 <p>Ein samanbering við íbúgvar í Region Midtjylland í Danmark, sum er lýst í talvu 5.3 vísir, at føroyingar ganga undan í teimum hægru tyngdarflokkunum. 42% av føroyingum eru ov tungir samanborið við 35% af íbúgvunum í Miðjútlandi. Tá talan er um nógva yvirvekt, eru tølini ávikavist 17% og 13%. Og bert ein góður triðingur av føroyingum hava normala vekt samanborið við eina helvt av íbúgvunum í Region Midtjylland. <em type="bold">5.3 Kropsligt virkni </em></p>
@@ -637,8 +638,8 @@
 <p>Tað finst ein vaksandi evidensur fyri, at frukt og grønmeti eisini er gagnligt í mun til aðrar kroniskar sjúkur. Kunnleikin til nágreiniligu árinsmekanismurnar er enn ófullfíggjaður, men hetta er ikki neyðugt fyri at kunna geva íbúgvunum heilsutilráðingar. Grundað á okkara vitan í dag kann ein á ongan hátt tilmæla vitaminir og mineralir sum kostískoyti til at minka um krabbameinsvandan.</p>
 <p>Kortini er tað trupult at tilskila eina neyva mongd av fruktum og grønmeti, og tað er torført at ímynda sær eina væleydnaða kanning av eini hækkandi nýtslu av grønmeti og frukt við tilvildarliga útvaldum persónum, sigur ECAC, sum mælir til, at ein helst skal at eta frukt og grønmeti í sambandi við allar máltíðir og miðvíst býta munnbitar (snacks) millum máltíðir um við frukt og grønmeti. Hetta er í samsvari við tilráðingar frá bæði Heimsheilsustovninum, WHO og USA. 5.4.1 Kostvanar – støðan í Føroyum</p>
 <p>Kostvanarnir hjá føroyingum eru ikki væl lýstir. Í 1981‐82 varð gjørt ein landsumfatandi kanning av kosti40, og í 2000‐2001 vórðu samrøður gjørdar við barnakonur um teirra kostvanar41. Høvðsúrslitið var sum víst í talvunum niðanfyri:</p>
-<p><em type="bold">Kostvanar hjá føroyingum 1981‐ 1982 </em><em type="bold">(miðal nøgd pr. persón) </em></p>
-<p><em type="bold">Kostvanar hjá føroyingum (barnakonum) 2000‐2001 </em><em type="bold">(miðal nøgd pr. persón) </em></p>
+<p><em type="bold">Kostvanar hjá føroyingum 1981‐ 1982 (miðal nøgd pr. persón) </em></p>
+<p><em type="bold">Kostvanar hjá føroyingum (barnakonum) 2000‐2001 (miðal nøgd pr. persón) </em></p>
 <p><em type="bold">Mjólkaúrdráttir </em>390 g 517 g </p>
 <p xml:lang="dan"><em type="bold">Kjøt </em>68 g 155 g </p>
 <p><em type="bold">Fiskur </em>72 g 38 g </p>
@@ -656,7 +657,7 @@
 <p>Ein nýggj doktararitgerð um vandatættirnar fyri bróstkrabba orsakað av lívshátti staðfestir, at 580 tilburðir av bróstkrabba í Danmark standast av rúsdrekka. Í ritgerðini eru greinað dáta frá eini stórari kanning, har áleið 24.000 danskar kvinnur hava svarað spurnarbløðum um teirra lívshátt. Niðurstøðan í greiningini er m.a., at ov nógv rúsdrekka er orsøkin til 14% av tilburðunum av bróstkrabba í Danmark43.</p>
 <p>Viðmerkt verður, at danska Heilsustýrið átti at lækka almennu rúsdrekkatilráðingina fyri kvinnur úr í mesta lagi 14 alkoeindum um vikuna niður í sjey. Hetta er sama eindarmark, sum ECAC mælti til í 200344. Danska Heilsustýrið umhugsar í løtuni eina lækking av verandi eindarmarki. 42Magnusson, Cecilia. Cancerprevensjon. 2008. (Fylgiskjal til svensku krabbameinsætlanina) s 30 43 Tjønneland Anne: Lifestyle risk factors for breast cancer – Diet, Cancer and Health, a prospective cohort study in Denmark. Doctoral Thesis. University of Copenhagen, 2008 44 ECAC mælir til í mesta lagi 2 alkoeindir um dagin hjá monnum og 1 hjá kvinnum. Hetta er galdandi fyri bæði øl, vín og brennivín. 62</p>
 <p>At áseta mark fyri rúsdrekkanýtslu er tó komplekst, tí rúsdrekka hevur eisini víst seg at hava gagnliga ávirkan á heilsuna. Tað er haldgóður evidensur fyri einum U‐skapaðum vandamynstri av samlaða deyðatalinum og hjarta‐æðra sjúkum samsvarandi tí hækkandi rúsdrekkanýtsluni. Talva 5.7 vísir minkandi heilsuvanda hjá persónum við lítlari rúsdrekkanýtslu samanborið við persónar, ið ongantíð drekka, og øktan vanda tá rúsdrekkanýtslan økist.</p>
-<p>Talva 5.7 Árliga deyðiligheitin hjá monnum, sum hevur samband við alkoholnýtslu <em type="bold">45 . </em></p>
+<p><em type="italic"></em><em type="bold">45 . </em></p>
 <p>Sambært <span type="quote" xml:lang="dan">”Cancerprevensjon”</span> (fylgiskjal til fyribyrgingarpartin í svensku krabbameinsætlanini) verður kostnaðarstigið mett at hava størstu ávirkanina á rúsdrekkanýtsluna í einum samfelag. Positiv ávirkan av prísi og avgjøldum skal tó vigast upp ímóti vandanum fyri ólógligum innflutningi og framleiðslu av heimabryggjaðum rúsdrekka. Kanningar benda eisini á, at rúsdrekkamonopol sum tað í Svøríki, Íslandi og Kanada avmarka rúsdrekkanýtslu og skaðar avleiddir av rúsdrekka. Tað er eisini prógvað, at avmarkingar í upplatingartíðum hjá sølustøðunum umframt landafrøðilig plasering í mun til skúlar og størri arbeiðspláss minka um rúsdrekkanýtsluna46. 5.5.1 Rúsdrekka – støðan í Føroyum</p>
 <p>Kjakast hevur verið nógv um rúsdrekkanýtsluna í Føroyum síðani seinnu helvt av 1800‐talinum. Skaðiligu árinini av rúsdrekka fyri bæði einstaklingar og samfelag høvdu við sær eitt krav frá fólkinum um eina tálmandi lóggávu, sum varð samtykt fyrst í 1900‐talinum. Eftir hetta bar ikki til at keypa rúsdrekka í smásølu í Føroyum fyrr enn í 1992, tá rúsdrekkaeinkarsøla varð stovnað eftir norðurlendskari fyrimynd.</p>
 <p>Nýtslan av rúsdrekka hundrað tey seinastu árini broytist nógv, sum tað sæst í talvu 5.8. Nýtslan var lægst í tíðini millum fyrra og seinna heimsbardaga og er síðani spakuliga økt til nýtsluna í dag, sum er umleið 7 litrar av reinum alkoholi fyri hvønn persón yvir 15 ár. Hetta er nakað lægri enn í Danmark og Grønlandi. Føroyar er tað norðurlandið, sum hevur flest fráhaldsfólk, t.v.s. fólk, ið slettis ikki drekka rúsdrekka (27% av konufólkunum og 14% av monnunum). Hetta er ikki broytt síðani rúsdrekkalóggávan broyttist. Sambært kanningini ”Hvussu hevur tú tað?” frá 2006/07 er bert 45 www.cancercode.org./figure4.htm 46Magnusson, Cecilia. Cancerprevensjon. 2008. Bilag til den svenske kræftplan. p 31 63 ein lítil partur av monnum (4‐6%) og enn minni partur av kvinnunum, sum drekka meira enn tilráðingarnar frá Heilsustýrinum47.</p>
@@ -675,13 +676,13 @@
 <p xml:lang="dan">Førøerne 91 Førøerne 9420-29644351730-4971285121050-69112319152420</p>
 <p xml:lang="dan">Total10121181314</p>
 <p xml:lang="dan"><em type="bold">Kvinner </em>20-2981092252130-4917261410232250-69435037284043 </p>
-<p xml:lang="dan">Total 23 27 20 15 28 27</p>
+<p xml:lang="dan">Total 27 20 15 28 27</p>
 <p>Talva 5.8 (t.v.) Alkoholnýtsla í Føroyum í 165 ár</p>
 <p>Talva 5.9 (t.h.)Prosent av fólki í teimum ymsu norðurlondum, sum siga seg als ikki at hava drukkið rúsdrekka seinasta árið.</p>
 <p>Orsøkin til at rúsdrekkanýtslan í Føroyum er lutfalsliga lág sammett við í Danmark má metast at standast av tí tálmandi rúsdrekkapolitikkinum, sum byggir á at nýta atkomu og prís sum javningaramboð. Eisini skal havast í huga stóra talið á fráhaldsfólkum í Føroyum. Skal tað eydnast at halda nýtsluni á verandi stigi, og kanska lækka hana, sum sýnist hóskandi sæð frá einum krabbameinsfyribyrgjandi sjónarmiði, verður neyðugt eisini í framtíðini at nýta hesi javningaramboð. Tað tykist ikki realistiskt bert við upplýsing at náa eini so lágari nýtslu sum í mesta lagi 2 alkoeindir fyri mannfólk um dagin og 1 alkoeind fyri konufólk. <em type="bold">5.6 Sólarljós </em></p>
 <p>Húðkrabbi er í mestan mun – men ikki bert – ein sjúka, ið ein sær hjá hvítum. Flestu tilburðirnir eru á støðum, har búfólk við ljósari húð eru fyri nógvari ultraviolettari geisling sum t.d. í Avstralia. Størsta umhvørvisliga orsøkin til húðkrabba er at vera nógv í sól, og UV‐geisling er mett sum tann parturin av sólarljósinum, ið er atvoldin til húðkrabba.</p>
 <p>Móðurmerkjakrabbi er tað slagið av húðkrabba, har vandin er størstur fyri spjaðing og deyða. Talva 5.10 vísir talið á móðurmerkjakrabbatilburðum býtt á aldursbólkar í útvaldum londum. Títtleikin er nógv størstur í Avstralia. 47http://www.health.fo 64</p>
-<p>Talva 5.10 Tilburðir av móðurmerkjakrabba býttir á aldursbólkar í útvaldum londum <em type="bold">48 . </em></p>
+<p><em type="italic"></em><em type="bold">48 . </em></p>
 <p type="listitem">Tað eru trý høvuðssløg av húðkrabba, ið standast av at vera í sólini:</p>
 <p type="listitem">Plátukyknukrabbi vísir týðiligasta samanhangin við áhaldandi sólargeilsing. Hetta slagið av húðkrabba er tí tann mest vanligi hjá persónum, ið hava útiarbeiði.</p>
 <p type="listitem">Basalkyknukrabbi er vanligasta slagið av húðkrabba og samstundis tað minst hættisliga, tí tað  breiðir  seg  ikki.  Basalkyknukrabbi  hevur  sama  samband  við  sólargeilsing  sum  móðurmerkjakrabbi.</p>
@@ -807,7 +808,7 @@
 <p>Royndirnar hjá Krabbameinsfelagnum í Føroyum saman við royndum frá okkara grannalondum vísa eisini, at nógvir krabbameinssjúklingar ikki altíð uppliva eina optimala sjúklingagongd.</p>
 <p>Sjúkugongdin er bæði kropsliga og sálarliga krevjandi fyri sjúklingarnar. Tí má føroyska heilsuverkið leggja øktan dent á spurningin, hvussu krabbameinssjúklingar kunnu fáa best møguliga sjúklingagongd. Tí er tørvur á at gera framhyggjandi tilmælir til tess at bøta um sjúklingagongdina fyri krabbameinssjúklingar í Føroyum, og verður hetta høvuðsendamálið í hesum partinum. <em type="bold">7.1 Optimala sjúklingagongdin </em></p>
 <p>Ein optimal sjúklingagongd er treytað av fleiri viðurskiftum: Gott samband og samrøður millum sjúklingar og viðgerðara undir allari gongdini, skjótan diagnostikk og útgreining, stutta bíðitíð, samanhangandi viðgerðargongd og ein málrættaðan innsats, tá sjúklingurin er liðugt viðgjørdur, herímillum tilboð um endurmenning og palliatión. Niðanfyri er lagt fram eitt modell við nøkrum generellum metingum um, hvat ein góð sjúklingagongd er fyri krabbameinssjúklingar og sum tekur atlit til føroysk viðurskifti. Modellið hevur Lene Jarlbæk, sum er serlækni í onkologi og limur í arbeiðsbólkinum, gjørt.</p>
-<p><em type="bold">Sjúklingurin leggur fram eitt sjúkueyðkenni – hjá egnum lækna/praktiserandi serlækna ella á sjúkrahúsi, sum verður kannað nærri. Kanningarnar hava við sær <span type="quote">”grundaðan illgruna um krabbameinssjúku”</span>, sum er stikkorðið til at seta í verk <span type="quote">”TA OPTIMALA SJÚKUGONGDINA”</span>, sum merkir: </em><em type="bold">1. </em></p>
+<p><em type="bold">Sjúklingurin leggur fram eitt sjúkueyðkenni – hjá egnum lækna/praktiserandi serlækna ella á sjúkrahúsi, sum verður kannað nærri. Kanningarnar hava við sær <span type="quote">”grundaðan illgruna um krabbameinssjúku”</span>, sum er stikkorðið til at seta í verk <span type="quote">”TA OPTIMALA SJÚKUGONGDINA”</span>, sum merkir: 1. </em></p>
 <p>Ein optimal útgreining av tí grundaða illgrunanum upp á stytst møguligu tíð. <em type="bold">2. </em></p>
 <p>Ein optimal læknafaklig meting av diagnosu og sjúkustigi, saman við teimum viðgerðarmøguleikunum, sum teir prognostisku og prædiktivu faktorarnir leggja upp til – tað vil siga meting í <span type="quote">”einum tvørfakligum toymi”</span>. <em type="bold">3. </em></p>
 <p>Læknalig meting av støðu sjúklingans svarandi til ætlaðu viðgerðarmøguleikarnar. <em type="bold">4. </em></p>
@@ -867,8 +868,8 @@
 <p>Leikluturin hjá kommunulæknanum verður ofta lýstur sum gatekeeper (duravørður). Tað er ofta hansara uppgáva at flokka sjúklingarnar: Hann viðger teir sjúklingar, sum kunnu viðgerast í viðtaluni (og tað er størsti parturin), meðan restin verður send til viðkomandi sergreinir á sjúkrahúsinum til nærri útgreining.</p>
 <p>Fyri sjúklingin er tað týdningarmikið, at kommunulæknin sum eingin annar í heilsuverkinum, er skúlaður í at síggja spennið í tí normala og at kunna skilja ímillum tað fríska og tað sjúka. Hann skal meta, um møguligur ótti er grundaður ella ógrundaður – um sjúkueyðkennini stava frá álvarsamari sjúku, ella um talan er meinaleysa sjúku, sum lekir seg sjálva. At koma fram á tey, sum skulu kannast víðari, kann vera torført og krevur drúgvar kliniskar royndir. Ímillum nógvar sjúklingar skal læknin peika út tey fáu, sum hava krabbamein.</p>
 <p><em type="bold">Ár </em></p>
-<p><em type="bold">Tal á mammografikanningum </em><em type="bold">1995 </em>726 <em type="bold">1996 </em>792 <em type="bold">1997 </em>821 <em type="bold">1998 </em>786 <em type="bold">1999 </em>944 <em type="bold">2000 </em>905 <em type="bold">2001 </em>836 <em type="bold">2002 </em>900 <em type="bold">2003 </em>967 <em type="bold">2004 </em>1005 <em type="bold">2005 </em>1121 <em type="bold">2006 </em>1031 <em type="bold">2007 </em>1160 <em type="bold">2008 </em>1248 </p>
-<p>Talva 7.1 Tal á mammografikanningum á Røntgendeildini á Landssjúkrahúsinum 1995‐2008 <em type="bold">71 . </em></p>
+<p><em type="bold">Tal á mammografikanningum 1995 </em>726 <em type="bold">1996 </em>792 <em type="bold">1997 </em>821 <em type="bold">1998 </em>786 <em type="bold">1999 </em>944 <em type="bold">2000 </em>905 <em type="bold">2001 </em>836 <em type="bold">2002 </em>900 <em type="bold">2003 </em>967 <em type="bold">2004 </em>1005 <em type="bold">2005 </em>1121 <em type="bold">2006 </em>1031 <em type="bold">2007 </em>1160 <em type="bold">2008 </em>1248 </p>
+<p><em type="italic"></em><em type="bold">71 . </em></p>
 <p>Við uml. 20‐25 nýggjum tilburðum av bróstkrabbameini árliga, er tað í meðal uml. 1 av hesum sjúklingum til hvønn kommunulækna, men talið á kvinnum, sum venda sær til kommunulækna, tí tær meta seg hava sjúkueyðkenni fyri bróstkrabba ella eru bangnar fyri sjúkuni, er nógv hægri. <em type="italic"></em></p>
 <p>Eftir hagtølunum í talvu 7.1 økist talið í hvørjum. Røntgendeildin gjørdi mammografi hjá 363 kvinnum í 1995. Í fjør var talið nærum tvífalt so stórt, nevniliga uml. 62472 kvinnur.</p>
 <p>Leikluturin sum duravørður verður mettur sum týdningarmikil av samfelagsbúskaparligum orsøkum, av tí at hesin heldur meginpartin av sjúklingunum burtur frá kostnaðarmiklum 71 Kelda: Røntgendeildin á Landssjúkrahúsinum. 72 Vanliga verða mammografimyndir tiknar av báðum bróstum. Hjá heilt ungum kvinnum vera myndir bara tiknar av aktuella bróstinum. Summar kvinnur hava fingið tikið annað brósti. Kanningarnar verða skrásettar sum ein kanning fyri hvørt bróst. Um tølini verða býtt við 2 fáa vit á góðari leið talið av kvinnum. Tí verður talið 1248 mammografikanningar í 2008 til 624 kvinnur. 84 diagnostiskum ella viðgerðarligum veitingum hjá meira spesialiseraðum viðgerðarum, har hetta ikki er læknaliga grundað73.</p>
@@ -876,7 +877,7 @@
 <p>Heilt grundleggjandi er tað sjálvandi, at sjúklingar <em type="italic">hava </em>atgongd til ein kommunulækna, og at bíðitíðin til viðtalu er stutt. Hetta kann vera ein trupulleiki í Føroyum, har bert 18 av teimum normeraðu 32 læknastørvunum í kommunulæknaskipanini eru sett, meðan nøkur av hinum størvunum verða sett við skiftandi avloysarum74. Sí talvu 7.2. </p>
 <p>Av teimum settu størvunum eru helvtin av læknunum yvir 60 ár (3 av hesum eru yvir 70 ár). Við hækkandi krabbameintíttleika, er tað avgerandi, at vit í Føroyum hava eitt nøktandi tal á kommunulæknum, sum kunnu gera ta neyðugu flokkingina av sjúklingum til víðari diagnostiska útgreining.</p>
 <p><em type="bold">Læknadømi </em></p>
-<p><em type="bold">Norðoya Fugla‐ </em><em type="bold">fjarðar </em></p>
+<p><em type="bold">Norðoya Fugla‐fjarðar </em></p>
 <p><em type="bold">Runa‐ víkar </em></p>
 <p><em type="bold">Skála </em></p>
 <p><em type="bold">Eiðis </em></p>
@@ -886,12 +887,12 @@
 <p><em type="bold">Sand‐ oyar </em></p>
 <p><em type="bold">SNH* </em></p>
 <p><em type="bold">SSH** </em></p>
-<p><em type="bold">Tal av </em><em type="bold">normeraðum </em><em type="bold">størvum </em><em type="bold">4 </em><em type="bold">2 </em><em type="bold">2 </em><em type="bold">1 </em><em type="bold">2 </em><em type="bold">2 </em><em type="bold">11 </em><em type="bold">2 </em><em type="bold">2 </em><em type="bold">2 </em><em type="bold">2 </em></p>
-<p><em type="bold">Læknar í føstum </em><em type="bold">starvi </em><em type="bold">1 </em><em type="bold">½ </em><em type="bold">0 </em><em type="bold">0 </em><em type="bold">0 </em><em type="bold">2 </em><em type="bold">8 ½ </em><em type="bold">2 </em><em type="bold">1 </em><em type="bold">1 </em><em type="bold">2 </em></p>
-<p><em type="bold">Tal av </em><em type="bold">íbúgvum </em>5980 3685 4000 1800 2420 2830 18430 3000 1440 2532 2250 </p>
-<p xml:lang="dan"><em type="bold">Íbúgvar pr. </em><em type="bold">norm. lækna </em><em type="bold">1495 </em><em type="bold">1843 </em><em type="bold">2000 </em><em type="bold">1800 </em><em type="bold">1210 </em><em type="bold">1415 </em><em type="bold">1676 </em><em type="bold">1500 </em><em type="bold">720 </em><em type="bold">1266 </em><em type="bold">1125 </em></p>
+<p><em type="bold">Tal av normeraðum størvum 4 2 2 1 2 2 11 2 2 2 2 </em></p>
+<p><em type="bold">Læknar í føstum starvi 1 ½ 0 0 0 2 8 ½ 2 1 1 2 </em></p>
+<p><em type="bold">Tal av íbúgvum </em>5980 3685 4000 1800 2420 2830 18430 3000 1440 2532 2250 </p>
+<p xml:lang="dan"><em type="bold">Íbúgvar pr. norm. lækna 1495 1843 2000 1800 1210 1415 1676 1500 720 1266 1125 </em></p>
 <p><em type="bold">Virkin læknastørv </em>3 2 2 1 1 2 9 2 2 2 2 </p>
-<p><em type="bold">Íbúgvar pr. </em><em type="bold">virkið starv </em><em type="bold">1993 </em><em type="bold">1843 </em><em type="bold">2000 </em><em type="bold">1800 </em><em type="bold">2420 </em><em type="bold">1415 </em><em type="bold">2048 </em><em type="bold">1500 </em><em type="bold">720 </em><em type="bold">1266 </em><em type="bold">1125 </em><em type="bold">*Suðuroyar Norðara Helvt **Suðuroyar Sunnara Helvt </em></p>
+<p><em type="bold">Íbúgvar pr. virkið starv 1993 1843 2000 1800 2420 1415 2048 1500 720 1266 1125 *Suðuroyar Norðara Helvt **Suðuroyar Sunnara Helvt </em></p>
 <p>Talva 7.2 Manningin av kommunulæknastørvum í Føroyum sept. 2009 (Kelda: Heilsumálaráðið)</p>
 <p>Tað er sum sagt týdningarmikið, at kommunulæknin kann skilja ímillum tað fríska og tað sjúka. Fyri at stuðla læknanum í hesum arbeiði, eiga teir at fylgja kliniskum leiðreglum fyri sjúkurnar. Hetta eru leiðreglur, sum m.a. áseta, hvørji sjúkueyðkenni eiga at geva orsøk til illgruna um krabbamein. Eftirmeting av fyrstu donsku krabbameinsætlanini vísti fyri nøkrum árum síðani, at bert ein lítil partur av kommunulæknunum fylgdu niðurskrivaðu donsku leiðreglum í teirra ávísingarpraksis75. 73 Bojlén, Nina S &amp; Gannik, Dorthe E: Almen praksis på åbent hav. Ugeskrift for læger 2002; 164 (01):37 74 Kelda: Heilsumálaráðið 75 Kræftplan 2 ‐ Sundhedsstyrelsens anbefalinger til forbedringer af indsatsen på kræftområdet.Sundhedsstyrelsen 2005, s 31‐32 85</p>
 <p>Frá kommunulæknafelagnum vita vit, at føroyskir kommunulæknar brúka ikki standardiseraðar kliniskar vegleiðingar til krabbameinssjúkuavgerð. Teir brúka ta vitan, teir hava frá útbúgvingini og annars frá teirra royndum í viðtaluni.</p>
@@ -960,7 +961,7 @@
 <p><em type="bold">Tal á skurðviðgerðum </em></p>
 <p><em type="bold">Útskrivingarár </em></p>
 <p><em type="bold">Kyn </em></p>
-<p xml:lang="dan"><em type="bold">Diagnosa </em><em type="bold">2000 </em><em type="bold">2001 </em><em type="bold">2002 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em></p>
+<p xml:lang="dan"><em type="bold">Diagnosa 2000 2001 2002 2003 2004 2005 2006 2007 </em></p>
 <p><em type="bold">Kvinnur </em></p>
 <p>Bróstkrabbi 21 23 14 15 35 14 14 11</p>
 <p>Krabbamein í baktarmi 2 4 2 2 1 2 ‐ 3</p>
@@ -968,30 +969,30 @@
 <p>Lívmóðurkrabbi 6 1 3 3 2 4 6 5</p>
 <p>Krabbamein í langa 4 4 2 5 8 5 2 2</p>
 <p>Krabbmein í eggrótum 2 1 1 2 2 1 1 ‐</p>
-<p>Kvinnur tilsamans 36 34 24 28 49 26 24 21</p>
+<p>36 34 24 28 49 26 24 21</p>
 <p><em type="bold">Menn </em></p>
 <p>Krabbamein í baktarmi ‐ 1 1 ‐ 4 5 3 3</p>
 <p>Krabbamein í langa 5 6 3 5 5 8 6 4</p>
-<p>Menn tilsamans 5 7 4 5 9 13 9 7</p>
-<p><em type="bold">Bæði kyn tilsamans </em><em type="bold">41 </em><em type="bold">41 </em><em type="bold">28 </em><em type="bold">33 </em><em type="bold">58 </em><em type="bold">39 </em><em type="bold">33 </em><em type="bold">28 </em></p>
+<p>5 7 4 5 9 13 9 7</p>
+<p><em type="bold">Bæði kyn tilsamans 41 41 28 33 58 39 33 28 </em></p>
 <p>Talva 7.4 Krabbameinsskurðviðgerðir í Føroyum 2000‐2007.</p>
 <p><em type="bold">Tal á skurðviðgerðum </em></p>
 <p><em type="bold">Útskrivingarár </em></p>
 <p><em type="bold">Kyn </em></p>
-<p xml:lang="dan"><em type="bold">Diagnosa </em><em type="bold">2000 </em><em type="bold">2001 </em><em type="bold">2002 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em></p>
+<p xml:lang="dan"><em type="bold">Diagnosa 2000 2001 2002 2003 2004 2005 2006 2007 </em></p>
 <p><em type="bold">Kvinnur </em></p>
-<p>Bróstkrabbi ‐ ‐ ‐ 1 ‐ 7 1</p>
-<p>Krabbamein í baktarmi 1 1 3 1 1 ‐ 1</p>
-<p>Lívmóðurhálskrabbi 2 2 3 5 ‐ 2 1</p>
-<p>Lívmóðurkrabbi 1 ‐ ‐ ‐ 2 4 ‐</p>
-<p>Krabbamein í langa ‐ ‐ 1 ‐ ‐ ‐ ‐</p>
-<p>Krabbmein í eggrótum 1 ‐ ‐ 2 ‐ 1 2</p>
-<p>Kvinnur tilsamans 5 3 7 9 3 14 5</p>
+<p>Bróstkrabbi ‐ ‐ ‐ 1 ‐ 7 1 9</p>
+<p>Krabbamein í baktarmi 1 1 3 1 1 ‐ 1 2</p>
+<p>Lívmóðurhálskrabbi 2 2 3 5 ‐ 2 1 1</p>
+<p>Lívmóðurkrabbi 1 ‐ ‐ ‐ 2 4 ‐ ‐</p>
+<p>Krabbamein í langa ‐ ‐ 1 ‐ ‐ ‐ ‐ 1</p>
+<p>Krabbmein í eggrótum 1 ‐ ‐ 2 ‐ 1 2 3</p>
+<p>5 3 7 9 3 14 5 16</p>
 <p><em type="bold">Menn </em></p>
-<p>Krabbamein í baktarmi ‐ 1 3 2 1 3 2</p>
-<p>Krabbamein í langa ‐ ‐ ‐ 1 ‐ ‐ ‐</p>
-<p>Menn tilsamans ‐ 1 3 3 1 3 2</p>
-<p><em type="bold">Bæði kyn tilsamans </em><em type="bold">5 </em><em type="bold">4 </em><em type="bold">10 </em><em type="bold">12 </em><em type="bold">4 </em><em type="bold">17 </em><em type="bold">7 </em></p>
+<p>Krabbamein í baktarmi ‐ 1 3 2 1 3 2 ‐</p>
+<p>Krabbamein í langa ‐ ‐ ‐ 1 ‐ ‐ ‐ 1</p>
+<p>‐ 1 3 3 1 3 2 1</p>
+<p><em type="bold">Bæði kyn tilsamans 5 4 10 12 4 17 7 17 </em></p>
 <p>Talva 7.5 Somu diagnosubólkar sum í talvu 7.4, sum verða sendir til Danmarkar til skurðviðgerð. 92</p>
 <p>Fyrivarni skal tó takast fyri tølunum í talvunum. Tað kann vera, at onkur av skurðviðgerðunum ikki er skrásett undir rætta skrásetingarnummarinum, men tølini mugu roknast at vera á einari leið. Eitt annað, sum kann vera eitt sindur misvísandi, er at vit hava ikki hagtølini fyri viðgerðir av føroyskum krabbameinssjúkligum í øðrum londum enn Danmark. Nakrir krabbameinssjúklingar verða sendir til Íslands, men fyri hesar sjúklingar skráseta vit ikki diagnosu og viðgerð, men bara deildina, hagar sjúklingurin er sendur. Hetta eigur at verða gjørt, so til ber at sígga neyvt, hvørjar viðgerðir føroyingar fáa uttanlands.</p>
 <p>Eisini er tørvur á yvirlitum yvir tað virksemi, sum longu er í Føroyum – fyri at kunna legga til rættis eina skipan við atliti at altjóða leiðreglum fyri skurðviðgerð av krabbameinssjúkum. 7.5.1.1 Miðsavning av krabbameinsskurðviðgerðum</p>
@@ -1050,7 +1051,7 @@
 <p>Sum talva 7.7 vísir, er talið á sjúklingum í Onkologiska Ambulatorium tvífaldað seinastu 12 árini – frá at vera 206 sjúklingar í 1997 til 405 sjúklingar í 2009.</p>
 <p>Størsti bólkurin er bróstkrabbasjúklingar, sum eru millum ein triðing og helvtina av sjúklingunum. Næststørsti bólkur eru sjúklingar, ið hava krabbamein í langa og baktarmi.</p>
 <p><em type="bold">Ár </em></p>
-<p><em type="bold">Tal av sjúklingum, </em><em type="bold">knyttir at amb. </em>1 jan 2009 405 25 okt 2007 339 31 maj 2002 332 14 febr 2001 287 5 febr 1997 206 </p>
+<p><em type="bold">Tal av sjúklingum, knyttir at amb. </em>1 jan 2009 405 25 okt 2007 339 31 maj 2002 332 14 febr 2001 287 5 febr 1997 206 </p>
 <p><em type="italic">Talva 7.7 Tal á sjúklingum, ið eru knýttir at Onkologiska Ambulatorium 1997‐2009. </em></p>
 <p>Møguleiki er fyri at heimtaka fleiri medisinskar viðgerðir, um so er at Onkologiska Ambulatorium verður mannað við fleiri onkologiskum sjúkrarøktarfrøðingunum. Og uppaftur fleiri viðgerðir kunnu heimtakast, um onkolog‐konsulentskipanin verður víðkað. Tí verður mælt til, at Landssjúkrahúsið systematiskt eftirkannar allar medisinskar krabbameinsviðgerðir við atliti til at meta um, hvørjar viðgerðir kunnu takast heim. Landssjúkrahúsið átti eisini at funnið fram til møguligar heimtøkur av eftirlitum (kontrollum) við krabbameinssjúklingum.</p>
 <p>Dentur má leggjast á, at viðgerðir og eftirlit, ið verða heimtikin, í minsta lagi mugu hava somu góðsku/dygd sum uttanlands. Fíggjarligi vinningurin eigur at takast við sum síðuvinningur og ikki sum tað fremsta málið. 7.5.2.4 Stráluviðgerð</p>
@@ -1062,7 +1063,7 @@
 <p><em type="bold">Skurðviðgerð </em></p>
 <p><em type="bold">Strálur </em></p>
 <p xml:lang="dan"><em type="bold">Kemo </em></p>
-<p><em type="bold">Antihormon Targeterað </em><em type="bold">viðgerð </em></p>
+<p><em type="bold">Antihormon Targeterað viðgerð </em></p>
 <p xml:lang="dan"><em type="bold">Zometa </em></p>
 <p><em type="bold">Bróst </em></p>
 <p xml:lang="dan">DK+FO</p>
@@ -1304,8 +1305,8 @@
 <p>Hetta hava tey eisini ásannað í øðrum krabbameinsætlanum. Í Danmark hava tey gjørt tvær krabbameinsætlanir, men ikki fyrr enn í teirri triðju, sum skal vera liðug komandi ár, verður rættiligt fokus sett á endurmenningina. Í svensku krabbameinsætlanini, sum kom í februar, var endurmenningin ikki við. Hetta vísir, at krabbamein er eitt sera víðfevnt og komplekst øki, sum ikki ber til at lýsa og greina út í æsir á fáum síðum eftir stuttari tíð.</p>
 <p>Arbeiðsbólkurin metir, at endurmenningin er av alstórum týdningi fyri viðgerðargongdina hjá krabbameinssjúklingum, og at hetta økið er raðfest alt ov lítið í Føroyum. Vit hava í hesum partinum valt at seta fokus á nakrar av trupulleikunum, sum føroyskir krabbameinssjúklingar javnan eru fyri og at koma við uppskotum um ábøtur og loysnir. <em type="bold">9.1 Hvat er endurmenning? </em></p>
 <p>Hóast endurmenning ikki er eitt nýtt hugtak, er tað ikki fyrr enn tey seinastu gott 10 árini, at sjóneykan rættiliga er sett á málrættaða endurmenning í sambandi við krabbamein.</p>
-<p>Nordisk Cancer Union, sum er felagið hjá norðurlendsku krabbameinsfeløgunum, allýsir hugtakið endurmenning viðvíkjandi krabbameini soleiðis: <em type="italic"><span type="quote">“Endamálið við endurmenning av fólki rakt av krabbameini er at geva sjúklinginum vitan, virkismøguleikar og stuðul, soleiðis at gerandisdagurin kann halda fram á best møguligan hátt við teimum avmarkingum, sum sjúkan førir við sær likamliga, sálarliga, sosialt og eksistensielt”</span> </em><em type="italic">111. </em></p>
-<p>Niðanfyri er ein onnur allýsing av endurmenning, sum vit meta lýsir væl hetta hugtakið: <em type="italic"><span type="quote">“Endurmenning er ein málrættað og tíðaravmarkað samarbeiðsgongd millum borgara, avvarðandi og fakfólk. Endamálið er, at borgarin, sum hevur ella er í vanda fyri at fáa týdningarmiklar avmarkingar í likamligum, sálarligum og sosialum førleika, fær eitt sjálvstøðugt og innihaldsríkt lív. Endurmenning er grundað á alla lívsstøðuna og avgerðir og er samansett av einum samskipaðum, samanhangandi og vitanargrundaðum innsatsi”</span> </em><em type="italic">112. </em></p>
+<p>Nordisk Cancer Union, sum er felagið hjá norðurlendsku krabbameinsfeløgunum, allýsir hugtakið endurmenning viðvíkjandi krabbameini soleiðis: <em type="italic"><span type="quote">“Endamálið við endurmenning av fólki rakt av krabbameini er at geva sjúklinginum vitan, virkismøguleikar og stuðul, soleiðis at gerandisdagurin kann halda fram á best møguligan hátt við teimum avmarkingum, sum sjúkan førir við sær likamliga, sálarliga, sosialt og eksistensielt”</span>111. </em></p>
+<p>Niðanfyri er ein onnur allýsing av endurmenning, sum vit meta lýsir væl hetta hugtakið: <em type="italic"><span type="quote">“Endurmenning er ein málrættað og tíðaravmarkað samarbeiðsgongd millum borgara, avvarðandi og fakfólk. Endamálið er, at borgarin, sum hevur ella er í vanda fyri at fáa týdningarmiklar avmarkingar í likamligum, sálarligum og sosialum førleika, fær eitt sjálvstøðugt og innihaldsríkt lív. Endurmenning er grundað á alla lívsstøðuna og avgerðir og er samansett av einum samskipaðum, samanhangandi og vitanargrundaðum innsatsi”</span>112. </em></p>
 <p>Endurmenning verður ofta nýtt synonymt við endurvenjing, og ofta verður endurmenning uppfatað ymiskt av ymiskum fakbólkum. Vanabundna <em type="italic">endurvenjingin </em>hevur sín uppruna í eini medisinskari fatan av førleika. Hon tekur støði í likamligum førleikum og hevur til endamáls at endurreisa hesar. 111 Nordisk Cancer Union, faldari 2004: Fra behov til tilbud ‐ rehabilitering af patienter med kræft 112 Hvidbog om rehabilitering, Marselisborgcenteret 2004 122 </p>
 <p><em type="italic">Endurmenning </em>hinvegin snýr seg ikki bert um at vinna likamligan førleika, men leggur eisini dent á samlaðu lívsstøðuna, gerandisdagin og luttøku í samfelagnum. </p>
 <p>Endurmenning tekur støði í tørvinum hjá tí einstaka. Tørvurin hjá tí einstaka er ymiskur, og tí kunnu loysnirnar vera eins ymiskar. Endurmenning snýr seg ikki bara um at geva sjúklinginum rætta viðgerðartilboðið, men eisini at síggja sjúklingin sum eitt tilfeingi113.</p>
@@ -1398,8 +1399,8 @@
 <p>Í Føroyum hava vit onga kanning av, hvar palliativir sjúklingar helst vilja doyggja. Men tað er ein sannroynd, at teir allarflestu føroysku krabbameinssjúklingar doyggja á sjúkrahúsi.</p>
 <p>Talva 10.1 vísir, at sera fáir krabbameinssjúklingar í Føroyum doyggja í egnum heimi – bara 12 av tilsamans 85 sjúklingum í 2007. Hetta svarar til 14%. Heili 72% av føroysku krabbameinssjúklingunum, sum doyðu í 2007, doyðu á sjúkrahúsi.</p>
 <p><em type="bold">KYN </em></p>
-<p><em type="bold">Stað </em><em type="bold">2000 2001 2002 2003 2004 2005 2006 2007 </em><em type="bold">1. Maður </em>1. Sjúkrahús 25393727 31 43472. Ellisheim/vard heim 3142 3 743. Egin bústaður 1311911 16 8104. Annað 1 1 <em type="bold">1. Maður tils. </em>41525040 50 5961 <em type="bold">2. Kvinna </em>1. Sjúkrahús 28223329 31 41232. Ellisheim/vard heim 6346 6 863. Egin bústaður 711811 8 1034. Annað 411 1 1 <em type="bold">2. Kvinna tils. </em>41404647 46 6032 </p>
-<p><em type="bold">Tilsamans </em>82929687 96 11993 </p>
+<p><em type="bold">Stað 2000 2001 2002 2003 2004 2005 2006 20071. Maður </em>1. Sjúkrahús 25393727 31 4347352. Ellisheim/vard heim 3142 3 7453. Egin bústaður 1311911 16 81094. Annað 1 1 1 <em type="bold">1. Maður tils. </em>41525040 50 596150 <em type="bold">2. Kvinna </em>1. Sjúkrahús 28223329 31 4123262. Ellisheim/vard heim 6346 6 8663. Egin bústaður 711811 8 10334. Annað 411 1 1 <em type="bold">2. Kvinna tils. </em>41404647 46 603235 </p>
+<p><em type="bold">Tilsamans </em>82929687 96 1199385 </p>
 <p>Talva 10.1: Býtið millum støð, har føroyskir krabbameinssjúklingar doyggja 2000‐2007. (Kelda: Heilsumálaráðið)</p>
 <p type="listitem">Spurningurin  um  eitt  hospice122  hevur  verið  frammi  í  Føroyum.  Í  2000  setti  táverandi landsstýrismaður í almanna‐ og heilsumálum ein arbeiðsbólk at kanna tørvin á palliatión og koma  við  uppskoti  um  palliativ  tilboð.  Arbeiðsbólkurin  mælti  til,  at  hesir  møguleikarnir  vórðu  settir  á  stovn:</p>
 <p type="listitem">Eitt hospice við pláss fyri 7 sjúklingum</p>
@@ -1469,8 +1470,8 @@
 <p><em type="bold">Viðmerking </em></p>
 <p><em type="bold">Meirkostnaður </em></p>
 <p><em type="bold">Tíðar‐ ætlan </em></p>
-<p><em type="bold">Rakstur </em><em type="bold">árliga </em></p>
-<p><em type="bold">Løga/ein‐ gangs‐ útreiðsla </em><em type="bold">1 </em></p>
+<p><em type="bold">Rakstur árliga </em></p>
+<p><em type="bold">Løga/ein‐ gangs‐ útreiðsla 1 </em></p>
 <p>At Landssjúkrahúsið og Heilsumálaráðið uppraðfesta skráseting, eftirlit og uppfylging av føroysku krabbameins‐ hagtølunum. Og at krabbameinshagtølini eina ferð árliga verða greinað við tí fyri eyga at meta um gongdina viðvíkjandi deyðiligheit, nýggjum tilburðum o.s.fr.</p>
 <p>Útreiðslurnar eru til løn hjá einum starvsfólki at arbeiða við skráseting av krabbameins‐ hagtølunum umframt gjald til uttanhýsis ekspertisu, sum kann greina hagtølini. 460.000 kr ‐ 2011 ‐ <em type="bold">2 </em></p>
 <p>At Heilsumálaráðið setur av neyðugu orkuna til at gera upp, hvussu nógvir føroyingar liva við krabbameini (preva‐ lensin).</p>
@@ -1615,7 +1616,7 @@
 <p>Samstundis er í metingunum ikki tikið hædd fyri, at fleiri av tilmælunum uppá longri sikt hava við sær sparingar, t.d. fyribyrgingarátøk, heimtøkur av ávísum viðgerðum, screeningstiltøk v.m.</p>
 <p>Mett verður tó leysliga, at meirkostnaðurin í rakstri av at seta tilmælini í verk vil verða uppá góðar 20 mió. kr. tilsamans um árið, tá ið tey hava fingið fullan virkna. Summar av hesum útreiðslu liggja eisini uttanfyri heilsuverki, t.d. tilmæli um at Heimatænastan verður útbygd til at taka sær av heimabúgvandi sjúklingum við tørvi á palliativari røkt, ið verður mett at kosta 4,5 mió kr. um árið. 150</p>
 <p>Harumframt kemur umleið 1,7 mió kr. í eingangs útreiðslum til millum annað íverksetan.</p>
-<p>Viðvíkjandi íløgum verða útreiðslurnar góðar 27 mió. kr. til medicotekniskan tólbúnað, ella umleið 9‐10 <em type="bold"></em>mió kr. um árið í eitt trý ára skeið frá 2010.151 <em type="bold">13 Fylgiskjøl </em><em type="bold">13.1 Skjalalisti </em></p>
+<p>Viðvíkjandi íløgum verða útreiðslurnar góðar 27 mió. kr. til medicotekniskan tólbúnað, ella umleið 9‐10 <em type="bold"></em>mió kr. um árið í eitt trý ára skeið frá 2010.151 <em type="bold">13 Fylgiskjøl 13.1 Skjalalisti </em></p>
 <p>Fylgiskjal 1:</p>
 <p>Arbeiðssetningur til arbeiðsbólk, ið skal gera virkisætlan fyri krabbameinsøkið í Føroyum.</p>
 <p>Fylgiskjal 2:</p>
@@ -1644,7 +1645,7 @@
 <p>Virkisætlanin fyri krabbameinsøkið í Føroyum verður handað landsstýrismanninum í almanna- og heilsumálaráðnum í seinasta lagi 1. juli 2009. 153</p>
 <p>Fylgiskjal 2: 154 155</p>
 <p>Fylgiskjal 3:</p>
-<p><em type="bold">Fundur við kommunulæknar 29. januar 2009 í sambandi við krabbameinsætlanina </em></p>
+<p><em type="italic"></em><em type="bold">Fundur við kommunulæknar 29. januar 2009 í sambandi við krabbameinsætlanina </em></p>
 <p>Við umleið 150 krabbameinstilburðum árliga, eru einir 6-7 nýggir krabbameinssjúklingar til hvønn kommunulækna í Føroyum.</p>
 <p>Ynski hjá kommunulæknunum: Tað finnast ongar fastar vegleiðingar fyri viðgerð av føroyskum krabbameinssjúklingum. Hvør viðgerðarháttur, ið verður valdur, liggur allarhelst uttanfyri økið hjá kommunulæknunum, hildu kommunulæknarnir. Nakrir kommunulæknar hildu, at øll krabbameinsviðgerð, íroknað skurðviðgerð, eigur at ganga fyri seg uttanlands, av tí at fólkagrundarlagið í Føroyum er ov lítið til at kunna halda uppi nakran serkunnleika á økinum. Donsku krabbameinspakkarnir høvdu áhuga, men ongin helt seg vita nóg nógv um hetta til at kunna taka støðu fyri ella ímóti. Kortini var semja um, at tað kann gerast sera trupult og fløkjasligt, um man í Føroyum velja at <span type="quote">“shoppa”</span> í ymiskum londum eftir fleiri ymiskum viðgerðum til sama sjúkling, alt eftir, hvat land hevur bestu eydnu við skurðviðgerð, strálum og medisinskari viðgerð. Bíðitíðin til kanning varð mett til í mesta lagi at skula vera 1-2 vikur.</p>
 <p>Óvissa um móttøkuna á LS: Verandi læknatrot hevur við sær, at nógv størv eru sett av avloysarum. Óvissa valdar, um tilvísingarnar verða móttiknar á LS. Kommunulæknarnir søgdu seg í veruleikanum ikki vita, um tilvísingarnar verða visiteraðar. Orsakað av hesum er praksis millum allar kommunulæknar, at teir altíð persónliga og við telefon seta seg í samband við læknar á LS, hava teir álvarsaman illgruna um krabbamein. Hvønn lækna, teir seta seg í samband við, er eitt sindur ymiskt og veldst sjálvandi rættiliga nógv um, hvat slag av krabbameini, illgruni er um. Skal tað henda skjótt, stendur valið ofta millum hæmatolog, skurðlækna og gynækolog, av tí at tað eru fæstu vikurnar, at kommunulæknarir hava atgongd tilonkolog og urolog.</p>

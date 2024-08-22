@@ -1,9 +1,23 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>402</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_10.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tøknifrágreiðing</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>416</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit_2009_10.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tøknifrágreiðing</p>
 <p>Sjóvarfalsrákiðá</p>
 <p>Munkagrunninumíár2010</p>
 <p xml:lang="dan">Knud</p>
 <p>Simonsen21 18 15 12 9 6 3 <em type="bold">25.07 </em></p>
 <p xml:lang="eng">NVDRit2009:10</p>
+<p>NÁ</p>
+<p>TTÚR</p>
+<p xml:lang="eng">UVÍSIND</p>
+<p xml:lang="eng">ADEILDIN</p>
+<p xml:lang="eng">FR</p>
+<p xml:lang="eng">ÓSKAP</p>
+<p xml:lang="eng">ARSETUR</p>
+<p>ØR</p>
+<p xml:lang="eng">Faultyof</p>
+<p xml:lang="eng">Sieneand</p>
+<p xml:lang="eng">Tehnology</p>
+<p xml:lang="eng">Universityofthe</p>
+<p>Faroe</p>
+<p xml:lang="eng">Islands</p>
 <p>Heiti/</p>
 <p xml:lang="eng">Title</p>
 <p>Sjóvarfalsrákiðá</p>
@@ -54,7 +68,9 @@
 <p>O165</p>
 <p>Argir,</p>
 <p>Føroyar/Faroe</p>
-<p xml:lang="eng">Islands····</p>
+<p xml:lang="eng">Islands</p>
+<p xml:lang="eng">Tlf.·</p>
+<p>Fax·+298352550·+298352551·nvdsetur.fo</p>
 <p>Inngangur</p>
 <p>Útrokningarnarerugrundaðaráeinaristreymmátingápositión61◦12'</p>
 <p>Nog6◦30'</p>
@@ -75,18 +91,18 @@
 <p>Simonsen</p>
 <p>Náttúruvísindadeildin</p>
 <p>Fróðskaparsetur</p>
-<p>Føroya.</p>
+<p>Føroya.1</p>
 <p>Streymrósa</p>
 <p>Einstreymrósavísirhvussustóranbrøkpartaveinumárið,iðrákiáeinumstaðiðhevurávísaferðogkós.</p>
 <p>Ámynd1erstreymrósafyri</p>
 <p>Munkagrunniníár2009.</p>
 <p>Honvísir,ateystfalliðámátistaðnumstórtsæðliggurmillumeystanoghøganeystan,meðanvestfalliðliggurmillumvestanogútsynning.</p>
 <p>Streymferðinábroddiligguroftastmillum0.5og2.0knob,menstundumrekurnakaðharðari.</p>
-<p>Eisinisæst,attaðersjálvdanheiltkyrtáhesumstaðnum.0.250.500.751.00 <em type="bold">1 </em><em type="bold">2 </em><em type="bold">3 </em></p>
+<p>Eisinisæst,attaðersjálvdanheiltkyrtáhesumstaðnum.0.250.500.751.00 <em type="bold">123 </em></p>
 <p xml:lang="eng">Mynd1:</p>
 <p>Streymrósafyri</p>
 <p>Munkagrunnin2010.</p>
-<p>Sirklarnirvísastreymferðíknob,oglitirnirvísabrøkpartin(%)aveinumárið,iðrákiðhevurávísaferðogkósílopumáávikavist10◦og0.125knob.</p>
+<p>Sirklarnirvísastreymferðíknob,oglitirnirvísabrøkpartin(%)aveinumárið,iðrákiðhevurávísaferðogkósílopumáávikavist10◦og0.125knob.2</p>
 <p>Streymellipsur</p>
 <p>Streymurintileinaávísatíðkannlýsastviðeinumørvi,sumvísirtannvegin,iðrákier.</p>
 <p>Umslíkirørvarverðateknaðirfyrieiritíðir,sofæst,atørvurinferðasteftureinumsindurøtumsirkli,sumnevnisteinellipsa.</p>
@@ -97,7 +113,7 @@
 <p>Serligaásunnaruleiðunumálandgrunninumhevurtaðdagligasjóvarfallitýðning.</p>
 <p xml:lang="dan">Het-tager,attveirfylgjandibroddarikkialtíðerulíkaharðirellaattveyfylgjandikyrrindirikkierulíkakyrr.</p>
 <p>Ámyndunum2og3erhettavístviðsjóvarfalsellipsumá</p>
-<p>Munkagrun-ninumfyrinakrardagarí2009.421 18 15 12 9 6 3 <em type="bold">1.07 </em></p>
+<p>Munkagrun-ninumfyrinakrardagarí2009.3421 18 15 12 9 6 3 <em type="bold">1.07 </em></p>
 <p><em type="bold">S </em>21 18 15 12 9 6 3 <em type="bold">7.07 </em></p>
 <p><em type="bold">S </em>21 18 15 12 9 6 3 <em type="bold">18.07 </em></p>
 <p><em type="bold">S </em>21 18 15 12 9 6 3 <em type="bold">25.07 </em></p>
@@ -123,7 +139,7 @@
 <p>Munkagrunninum.</p>
 <p>Hóastroknaðarákiðbertergaldandifyrisjálvtmátistaðið,soerulutfalsligubroytingarnargaldandifyristórarpartaravlandgrunninum.</p>
 <p>Ferðinergiviníknob(sjómílumtíman).</p>
-<p>Avtíatútrokningarnarerugrundaðarámátingar,eigurikkiatverðaroknaðviðnakrariseinkingístreyminumímuntilkurvurnar.7</p>
+<p>Avtíatútrokningarnarerugrundaðarámátingar,eigurikkiatverðaroknaðviðnakrariseinkingístreyminumímuntilkurvurnar.67</p>
 <p><em type="bold">Februar </em>369121518212427300123 </p>
 <p xml:lang="eng"><em type="bold">Mars </em>369121518212427300123 </p>
 <p><em type="bold">Apríl </em>369121518212427300123 </p>
@@ -159,7 +175,7 @@
 <p>Hóastroknaðarákiðikkiergaldandiaðrastaðniennámátistaðnum,soertannlutfalsligimunurintógaldandiástórumpartiálandgrunninum.</p>
 <p>Hesiviðurskiftinierutóikkigaldandiestustaðninærlandioginniárðunum,harstreymurinernærumeinginákyrrindunum.</p>
 <p>Viðíútrokningunumersjóvarfalliðogeittmiðalrák,sumeríeinlandsynningsunnanámátistaðnum.</p>
-<p>Streymur,iðerorsakaðuravvindiogbroytandibarometurstandi,erikkivið.9</p>
+<p>Streymur,iðerorsakaðuravvindiogbroytandibarometurstandi,erikkivið.89</p>
 <p>Januar2010</p>
 <p xml:lang="eng">Pos.:61◦12'</p>
 <p xml:lang="eng">N,6◦30'</p>

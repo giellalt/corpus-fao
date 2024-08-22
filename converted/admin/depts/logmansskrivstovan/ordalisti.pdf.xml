@@ -1,5 +1,12 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>257</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>orðalisti.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">L Ø G M A N S S K R I V S T O V A N</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>278</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>orðalisti.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">L Ø G M A N S S K R I V S T O V A N</p>
 <p xml:lang="dan">P R I M E M I N I S T E R ´ S O F F I C E</p>
+<p type="listitem">Tinganes</p>
+<p type="listitem">FO-110 Tórshavn</p>
+<p type="listitem" xml:lang="dan">Faroes</p>
+<p type="listitem" xml:lang="dan">Tel.: (+298) 306000</p>
+<p type="listitem">Fax: (+298) 306015</p>
+<p type="listitem" xml:lang="dan">e-mail: info@tinganes.fo</p>
+<p type="listitem">www.tinganes.fo</p>
 <p><em type="bold">Góðkendur løgfrøðiligur orðalisti </em></p>
 <p xml:lang="dan">Adgangskode:</p>
 <p>Loyniorð</p>
@@ -36,6 +43,7 @@
 <p>Fæloynd</p>
 <p xml:lang="dan">Indretning:</p>
 <p>Útbúnað <span type="quote">“tað sum ein er útgjørdur við”</span> – reiðskapur, tól. Nýtt í samband við hjálp til sjúkum og særdum í kríggi.</p>
+<p xml:lang="dan">Løgmansskrivstovan 2 / <em type="bold">3 </em></p>
 <p xml:lang="dan">Kode:</p>
 <p>Kota <span type="quote">“Kota”</span> hevur ein breiðari týdning enn <span type="quote">“loyniorð”</span> Samanber við <span type="quote" xml:lang="dan">“adgangskode”</span></p>
 <p xml:lang="dan">Kredit:</p>
@@ -78,6 +86,7 @@
 <p>Av ósketni</p>
 <p xml:lang="dan">Udbytte:</p>
 <p xml:lang="dan">Vinning</p>
+<p xml:lang="dan">Løgmansskrivstovan 3 / <em type="bold">3 </em></p>
 <p xml:lang="dan">Ulovlig omgang med hittegods:</p>
 <p>Finningsbrot</p>
 <p xml:lang="dan">Unddrage brev:</p>

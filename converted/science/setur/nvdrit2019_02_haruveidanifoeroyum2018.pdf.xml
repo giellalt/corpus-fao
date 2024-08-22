@@ -1,10 +1,10 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>15278</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2019_02_haruveidanifoeroyum2018.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Haruveiðan í Føroyum </em><em type="bold">2018 </em><em type="bold">og søgan um rýpurnar, sum fyrr vóru í Føroyum </em></p>
-<p xml:lang="eng"><em type="italic">Hunting of hare in the Faroe Islands in 2018 </em><em type="italic">and the past history of ptarmigan and red grouse </em><em type="italic">in the Faroe Islands </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>15694</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2019_02_haruveidanifoeroyum2018.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Haruveiðan í Føroyum 2018 og søgan um rýpurnar, sum fyrr vóru í Føroyum </em></p>
+<p xml:lang="eng"><em type="italic">Hunting of hare in the Faroe Islands in 2018 and the past history of ptarmigan and red grouse in the Faroe Islands </em></p>
 <p><em type="bold">Eyðfinn Magnussen </em></p>
 <p xml:lang="eng">NVD <em type="italic">Rit </em>2019:02 </p>
 <p xml:lang="eng">Heiti / <em type="italic">Title </em></p>
-<p><em type="bold">Haruveiðan í Føroyum 2018 </em><em type="bold">og søgan um rýpurnar, sum fyrr vóru í Føroyum </em></p>
-<p xml:lang="eng"><em type="italic">Hunting of hare in the Faroe Islands in 2018 </em><em type="italic">and the past history of ptarmigan and red grouse </em>in the Faroe Islands </p>
+<p><em type="bold">Haruveiðan í Føroyum 2018 og søgan um rýpurnar, sum fyrr vóru í Føroyum </em></p>
+<p xml:lang="eng"><em type="italic">Hunting of hare in the Faroe Islands in 2018 and the past history of ptarmigan and red grouse </em>in the Faroe Islands </p>
 <p>Høvundur / <em type="italic">Author </em></p>
 <p><em type="bold">Eyðfinn Magnussen </em></p>
 <p xml:lang="eng">Ritslag / <em type="italic">Report Type </em></p>
@@ -21,21 +21,21 @@
 <p><em type="bold">Innihaldsyvirlit </em>1. Samandráttur ................................................................................................................................. 4 1.1 Summary (in English) ....................................................................................................... 5 1.2 Resumé (på dansk) .......................................................................................................... 6 2. Innsavning av veiðutølum .............................................................................................................. 7 2.1 Hvussu fullfíggjað er kanningin? ..................................................................................... 9 3. Hvussu nógvar harur vórðu skotnar í 2018? ................................................................................ 11 3.1 Hagapartar ..................................................................................................................... 12 3.2 Oyggj .............................................................................................................................. 17 3.3 Bygd ............................................................................................................................... 18 3.4 Útvaldir dagar ................................................................................................................ 19 3.5 Veiða dag fyri dag í 2018 og 2017 ................................................................................. 20 3.6 Hvussu nógvar harur fingu teir hvønn túrin? ................................................................ 21 3.7 Hvussu nógvir skjúttar vóru við hvønn túrin? ............................................................... 22 3.8. Hvussu nógvir mans skutu harur í Føroyum í 2018? .................................................... 23 4. Føroyska veðrið í november og desember mánað 2018 ............................................................. 24 5. Allir, ið skrásettu harutúrar við í lutakasti .................................................................................... 27 6. Haruveiða í Sandavági 1970 – 1986 ............................................................................................. 28 7. Hara sum handilsvøra................................................................................................................... 31 7.1 Haruragout .................................................................................................................... 31 7.2 Ísaðar harur útfluttar til Keypmannahavnar ................................................................. 32 8. Rýpur í Føroyum ........................................................................................................................... 33 8.1 Ymiskar royndir við útseting .......................................................................................... 34 8.2 Andrias Reinert .............................................................................................................. 37 8.3 Tvær frásagnir um rýpur í Føroyum .............................................................................. 38 8.3.1 Grønlendsku rýpurnar í Føroyum ....................................................................... 39 8.3.2 Whiskyrýpan <span type="quote" xml:lang="eng">”The Red Grouse”</span> og <span type="quote" xml:lang="eng">”lirype”</span> úr Noregi ....................................... 53 9. Heimildir ....................................................................................................................................... 83 </p>
 <p xml:lang="eng"><em type="bold">Appendix </em>: </p>
 <p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2018:</p>
-<p>Skipað eftir oyggj, bygd, hagaparti og dato ............................................ síða 84 – 102</p>
+<p>Skipað eftir oyggj, bygd, hagaparti og dato ............................................ síða 84 – 1024 <em type="bold">1. Samandráttur </em></p>
 <p>Hetta er sjeynda frágreiðingin, sum eg skrivi um haruveiðuna í Føroyum. Fyrsta royndin var gjørd í 2012. Í yvirlitinum eru tilsamans 5.136 harur skrásettar at vera skotnar í Føroyum í 2018. Kanningin byggir á tøl frá tilsamans 749 harutúrum í 281 hagapørtum kring landið. Helvtin av harunum vórðu skotar í 45 hagapørtum, av hesum vórðu 1.335 harur (25%), skotnar í 17 hagapørtum. Í 20 teimum bestu haruhøgunum skutu teir tilsamans 1.457 harur, sum er 28% av samlaðu veiðuni í Føroyum í 2018. Raskastu at skjóta harur í Føroyum í 2018 vóru teir, sum skutu í skutu í Kvíggjarhamars- haga í Saksun. Teir skutu tilsamans 123 harur, sum teir fingu á 6 túrum. Teimum á baki vóru teir í <span type="quote">“Skálatoftahaga”</span> á Borðoynni. Teir fingu 102 harum á 6 túrum. Á triðja plássi vóru harumenninir, sum skutu í Suðurhelvt á Eiði, vanliga nevndur Slættaratindur, Teir fingu 96 harur á 10 túrum. Verður hædd tikin fyri, hvussu nógvir túrar vórðu gingnir í hvørjum haga og hvussu nógvir skjúttar vóru við hvønn túrin, broytist úrslitið. Eftir hesum útrokningarháttinum, lá best fyri í hagapartinum <span type="quote">“Bergið”</span> í Árnafirði. Í hesum hagunum var ein einsamallur maður ein túr, har hann skeyt 27 harur. Næstbestur var hagin <span type="quote">“Fyri oman Rætt – Fjallið”</span> við Gjógv, har teir í miðal skutu 7,5 harur pr byrsu hvønn dagin. Á triðja plássi var <span type="quote">“ Áarhagi – Heimanfyri”</span> í Kaldbak har ein einsamallur maður ein dag fekk 7 harur. Fyri alt landið vórðu skotnar 2,79 harur pr. byrsu hvønn dagin. Hetta er minni enn í 2017, tá teir skutu 3,18 harur pr. byrsu hvønn dagin, men meir enn bæði í 2016 og 2015, tá miðalveiðan var ávikavist 2,38 og 2,36 harur pr. byrsu hvønn dagin. Í 2014 og 2013 var miðalveiðan ávikavist 3,1 og 2,9 harur pr. byrsu hvønn dagin.</p>
 <p>Flest harurnar vórðu skotnar á Streymoynni, íalt 2.011 harur, sum er 39% av samlaða talinum av harum, sum vórðu skotnar í Føroyum í 2018. Í Vágum skutu teir 1.027 harur, í Eysturoynni 929 og á Borðoynni 418 harur. Vestmanna er, eins og undanfarin ár, tann bygdin í Føroyum, har flestu harurnar vórðu skotnar í 2018. Tilsamans skutu vestmenningar 436 harur á 44 túrum. Fyrsta dag, loyvt var at skjóta haru í 2018, var fríggjadagin 2. november. Hendan dagin fingu teir tilsamans 1.027 harur, sum vórðu skotnar í 66 hagapørtum kring landið. Fyrsta leygardag, 3. november, fingur teir 137 harur í 16 høgum. Á teimum 714 harutúrunum, sum vórðu gjørdir í 2018, var veiðan millum 0 og 80 harur hvønn túrin. Vanligast var at fáa 1 til 4 harur á einum túri. Í miðal vórðu skotnar 7,02 harur á hvørjum túri í 2018. Hetta er minni enn í 2017, tá teir í miðal fingur 8,14 harur á hvørjum túri, men eitt sindur meira enn bæði í 2016 og 2015, tá teir i miðal fingu ávikavist 6,40 og 6,23 harur hvønn túrin. Í 2014 og 2013 miðalveiðan ávikavist 8,12 og 8,2 harur pr. túr.</p>
 <p>Talið av skjúttum á hvørjum harutúri í 2018 var millum 1 og 17. Helvtin av túrunum vóru teir 2 ella færri skjúttar á hvørjum túri. 271 ferðir (38%) var bert ein maður og skeyt. Mett verður, at í 2018 skutu umleið 900 ymiskir mans harur í Føroyum. Hetta talið er tað sama sum í 2017, men hægri enn í 2016. Tá vísti saman roknistykkið, at 700 mans skutu harur í Føroyum. Fyri 2015 vísti sama roknistykkið, at 800 mans skutu harur, í 2014 1.222 mans og í 2013 skutu 1.044 mans harur í Føroyum.</p>
-<p>Aftast í frágreiðingini eru 50 síður, sum lýsa søguna hjá rýpunum, sum fyrr vóru í Føroyum.</p>
+<p>Aftast í frágreiðingini eru 50 síður, sum lýsa søguna hjá rýpunum, sum fyrr vóru í Føroyum. 5 <em type="bold">1.1 Summary (in English) </em></p>
 <p xml:lang="eng">This is the seventh yearly census of hares hunted in the Faroe Islands. The hunting season is from 2 November to 31 December. The first census was conducted in 2012. The survey is based on data collected through the webpage <span type="quote">“haran.fo”</span>, which was created for this purpose. The investigation is based on information from 749 distinct hunting expeditions carried out in 281 outfields covering most of the Faroe Islands. In the present overview, 5,136 hares are registered as shot in the Faroe Islands. Based on this, I estimate the total number of hunted hares as being around 5,400 animals in 2018. Half of the hares were shot in 45 outfields. Half of these, i.e. 1,335 hares, where shot in 17 of the best outfields. In the 20 best hunting fields, a total of 1,457 hares were shot, corresponding to 28% of the hunted hares. The most successful hare-hunters in the Faroe Islands in 2018 were those from the outfield ‘Kvíggjarhamarshaga’ belonging to the village Saksun. In total, they shot 123 hares in 6 trips. In second place were those from ‘<span type="quote">“Skálatoftahaga”</span> ’, on the islands of Borðoy, with 102 hares in total in 6 trips. Number three were those from ‘Suðurhelvt’ in village Eiði. They shot 96 hares in 10 hunting expeditions. However, if the hunting statistics are adjusted by the number of trips and shots, then the top-3 list changes. Then the field ‘Bergið’, belonging to the village Árnafjørður was the most successful. In this field a man shot 27 hares in a single trip. Number two would be the field ‘Fyri oman Rætt - Fjallið’, belonging to the village of Gjógv, where the average outcome was 7.5 hares per gun per day. Number three was the field ‘Áarhagi – Heimanfyri’ in village Kaldbak, where a single man shot 7 hares in one day. Overall, 2.79 hares where shot per gun per day in the Faroe Islands in 2018. This is less than in 2017, when 3.18 hares were shot per gun per day, but more than in 2016 and 2015, when they got 2.38 and 2.36 hares per gun per day, respectively. In 2014 and 2013, 3.1 and 2.9 hares were shot per gun per day. Most of the hares were shot on the island of Streymoy with a total of 2,011, corresponding to 39% of the hunted hares in the Faroe Islands in 2018. On the island Vágar, 1,027 hares were shot, 929 on Eysturoy and 418 hares on the island of Borðoy. The village Vestmanna on the island Streymoy is, as in the previous years, the place where most hares were shot in 2018. In total, they shot 436 hares on 44 trips. On the first hunting day (Friday 2th November) 1.027 hares were shot in 66 fields. On the first</p>
 <p xml:lang="eng">Saturday, 3th November, 137 hares were shot in 16 fields.</p>
-<p xml:lang="eng">During the 714 individual hunting trips in 2018, the hunting success ranged from 0 to 80 hares on each trip. The most common success rate was between 1 and 4 hares on a single day. Over the whole season, 7.02 hares were shot on an average a trip. This is less than in 2017, when they shot 8.14 in average in a day but somewhat more than both in 2016 and 2015, when on average 6.40 and 6.23 hares were obtained per trip, respectively. In 2014 and 2013, they shot 8.12 and 8.2 hares on average during each trip, respectively. The number of hunters on a trip ranged from 1 to 17. On half of the trips (the median), an average of 2.0 or fewer hunters participated, In 271 cases (38%), the hunter was alone. Only men hunt hares in the Faroe Islands. It is estimated that approximately 900 distinct hunters participated in hare-hunting in the Faroe Islands in 2018, corresponding to around 4% of the male population. The last 50 pages of this report descript the past history of ptarmigan and red grouse in the Faroe Islands.</p>
+<p xml:lang="eng">During the 714 individual hunting trips in 2018, the hunting success ranged from 0 to 80 hares on each trip. The most common success rate was between 1 and 4 hares on a single day. Over the whole season, 7.02 hares were shot on an average a trip. This is less than in 2017, when they shot 8.14 in average in a day but somewhat more than both in 2016 and 2015, when on average 6.40 and 6.23 hares were obtained per trip, respectively. In 2014 and 2013, they shot 8.12 and 8.2 hares on average during each trip, respectively. The number of hunters on a trip ranged from 1 to 17. On half of the trips (the median), an average of 2.0 or fewer hunters participated, In 271 cases (38%), the hunter was alone. Only men hunt hares in the Faroe Islands. It is estimated that approximately 900 distinct hunters participated in hare-hunting in the Faroe Islands in 2018, corresponding to around 4% of the male population. The last 50 pages of this report descript the past history of ptarmigan and red grouse in the Faroe Islands.6 <em type="bold">1.2 Resumé (på dansk) </em></p>
 <p xml:lang="dan">På Færøerne er harejagt er tilladt i perioden 2. november til 31. december. Dette er den syvende rapport, som jeg skriver om den færøske harejagt. Den første rapport udkom I 2012. I alt blev 5.136 harer registreret nedlagt i 2018. På baggrund heraf vurderer jeg, at det samlede antal nedlagte harer på Færøerne har været omkring 5.400 i 2018. Undersøgelsen er baseret på data, som er indsamlet via hjemmesiden <span type="quote">"haran.fo"</span>, der er oprettet til formålet. I 2018 blev i alt 749 jagtture registreret fra 281 forskellige jagtområder, der dækker det meste af Færøerne. Halvdelen af harerne blev skudt i 45 jagtområder. Af disse blev halvdelen (dvs. ¼) skudt i 17 af de bedste jagtområder. I 20 af de bedste jagtområder skød jægerne tilsammen 1.457 harer, svarende til 28 % af alle harerne, som blev nedlagt på Færøerne i 2018. De bedste harejægere på Færøerne i 2018 var dem, som gik på jagt i området 'Kvíggjarhamarshaga', som tilhører landsbyen Saksun. De skød tilsammen 123 harer, som de fik på 6 ture. På andenpladsen var dem fra 'Skálatoftahaga' på øen Borðoy, med 102 harer på 6 ture. Nummer tre var dem fra <span type="quote">“Suðurhelvt”</span>, i landsbyen Eiði. De fik tilsammen 96 harer på 10 jagtture. Hvis vi i jagtstatistikken også tager højde for antallet af ture og hvor mange jægere, der var med på hver tur, ændres top 3-listen. Så var det jægeren, der gik på jagt i området 'Bergið', tilhørende landsbyen Árnafjørður, dem med størst udbytte. I dette jagtområde skød en enkel jæger 27 harer på en enkel tur. Nummer to er jægerne i '</p>
-<p xml:lang="dan">Fyri oman Rætt – Fjallið', der tilhører byen Gjógv. Deres gennemsnitlige resultat var 7,5 harer pr. gevær per dag. Nummer tre var jagtområdet 'Áarhagi – Heimanfyri' i landsbyen Kaldbak, hvor en enkel jæger skød 7 harer på en dag. På hele Færøerne blev der i 2018 i gennemsnit skudt 2,79 harer pr. gevær pr. dag. Dette er mindre end in 2017, da der i gennemsnit blev skudt 3,18 harer pr. gevær pr. dag, men mere end i både 2016 og 2015, hvor de i gennemsnit skød henholdsvis 2,38 og 2,36 harer pr. gevær pr. dag. I 2014 blev der i gennemsnit nedlagde 2,9 harer pr. gevær pr. dag. De fleste harer blev skudt på øen Streymoy. I alt fik de 2.011 harer, som svarer til 39 % af alle harerne, som blev skudt på Færøerne i 2018. På øen Vágar blev der skudt 1.027 harer, på Eysturoy 929 harer og på øen Borðoy 418 harer. Bygden Vestmanna på øen Streymoy er, som i de foregående år, også det sted, hvor flest harer blev skudt i 2018. I alt blev der skudt 436 harer på 44 ture. På den første jagtdag (fredadag den 2. november) blev der tilsammen skudt 1.027 harer i 66 jagtområder. Den første lørdag, 3. november, blev 137 harer skudt i 16 jagtområder. På de 714 individuelle jagtture, som blev foretaget i 2018, varierede fangsten fra 0 til 80 harer på hver tur. Den mest almindelige fangst på en enkel jagttur var mellem 1 og 4 harer. For hele jagtsæsonen var den gennemsnitlige fangst på 7,02 harer pr. jagttur, hvilket er mindre en i 2017, hvor der blev skudt 8,14 harer pr. jagttur, men mere end i både 2016 og 2015, hvor gennemsnit var henholdsvis 6,40 og 6,23 harer pr tur. I 2014 og 2013 var den gennemsnitlige harefangst på på Færøerne på henholdsvis 8,12 og 8,2 harer på hver tur. Antallet af jægere på hver enkel tur varierede fra 1 til 17. På halvdelen af turene var der to eller færre jægere på jagt. På 271 af turene (38 %) var jægeren alene på jagten. Kun mænd går på harejagt på Færøerne. Det skønnes, at ca. 900 jægere deltog i harejagten på Færøerne i 2018, svarende til omkring 4 % af den mandlige befolkning, hvilket er det samme som i 2017. I 2016 deltog 700 jægere, i 2015 800 og i 2014 deltog 1.200 jægere i den færøske harejagt. De sidste 50 sider af rapport giver en beskrivelse af ryperne, som blev sat ud og levede på Færøerne før i tiden. <em type="bold"></em></p>
+<p xml:lang="dan">Fyri oman Rætt – Fjallið', der tilhører byen Gjógv. Deres gennemsnitlige resultat var 7,5 harer pr. gevær per dag. Nummer tre var jagtområdet 'Áarhagi – Heimanfyri' i landsbyen Kaldbak, hvor en enkel jæger skød 7 harer på en dag. På hele Færøerne blev der i 2018 i gennemsnit skudt 2,79 harer pr. gevær pr. dag. Dette er mindre end in 2017, da der i gennemsnit blev skudt 3,18 harer pr. gevær pr. dag, men mere end i både 2016 og 2015, hvor de i gennemsnit skød henholdsvis 2,38 og 2,36 harer pr. gevær pr. dag. I 2014 blev der i gennemsnit nedlagde 2,9 harer pr. gevær pr. dag. De fleste harer blev skudt på øen Streymoy. I alt fik de 2.011 harer, som svarer til 39 % af alle harerne, som blev skudt på Færøerne i 2018. På øen Vágar blev der skudt 1.027 harer, på Eysturoy 929 harer og på øen Borðoy 418 harer. Bygden Vestmanna på øen Streymoy er, som i de foregående år, også det sted, hvor flest harer blev skudt i 2018. I alt blev der skudt 436 harer på 44 ture. På den første jagtdag (fredadag den 2. november) blev der tilsammen skudt 1.027 harer i 66 jagtområder. Den første lørdag, 3. november, blev 137 harer skudt i 16 jagtområder. På de 714 individuelle jagtture, som blev foretaget i 2018, varierede fangsten fra 0 til 80 harer på hver tur. Den mest almindelige fangst på en enkel jagttur var mellem 1 og 4 harer. For hele jagtsæsonen var den gennemsnitlige fangst på 7,02 harer pr. jagttur, hvilket er mindre en i 2017, hvor der blev skudt 8,14 harer pr. jagttur, men mere end i både 2016 og 2015, hvor gennemsnit var henholdsvis 6,40 og 6,23 harer pr tur. I 2014 og 2013 var den gennemsnitlige harefangst på på Færøerne på henholdsvis 8,12 og 8,2 harer på hver tur. Antallet af jægere på hver enkel tur varierede fra 1 til 17. På halvdelen af turene var der to eller færre jægere på jagt. På 271 af turene (38 %) var jægeren alene på jagten. Kun mænd går på harejagt på Færøerne. Det skønnes, at ca. 900 jægere deltog i harejagten på Færøerne i 2018, svarende til omkring 4 % af den mandlige befolkning, hvilket er det samme som i 2017. I 2016 deltog 700 jægere, i 2015 800 og i 2014 deltog 1.200 jægere i den færøske harejagt. De sidste 50 sider af rapport giver en beskrivelse af ryperne, som blev sat ud og levede på Færøerne før i tiden. <em type="bold"></em>7 <em type="bold">2. Innsavning av veiðutølum </em></p>
 <p>Hetta er sjeynda royndin hjá mær at fáa fatur á upplýsingum um haruveiðuna í Føroyum. Fyrsta royndin varð gjørd í 2012, og hevur skrásetingin av haruveiðuni síðani verið gjørd á hvørjum ári, og tá harutíðin er liðug, er frágreiðing skrivað. Tær seks frágreiðingarnar, sum eru komnar, eru:</p>
 <p>Magnussen, E. (2018). <em type="bold">Haruveiðan í Føroyum 2017 </em>. NVDrit 2018:02, p. 1-51. Kann lesast her. </p>
 <p>Magnussen, E. (2017). <em type="bold">Haruveiðan í Føroyum 2016 </em>. NVDrit 2017:02, p. 1-42. Kann lesast her. </p>
 <p>Magnussen, E. (2016). <em type="bold">Haruveiðan í Føroyum 2015 </em>. NVDrit 2016:02, p. 1-44. Kann lesast her. </p>
-<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku </em><em type="bold">haruna </em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
+<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku haruna </em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
 <p>Magnussen, E. (2014). <em type="bold">Haruveiðan í Føroyum 2013 </em>. NVDrit 2014:02, p. 1-57. Kann lesast her. </p>
 <p>Magnussen, E. (2013). <em type="bold">Haruveiðan í Føroyum 2012 </em>. NVDrit 2013:02, p. 1-44. Kann lesast her. </p>
 <p>Fyrstu árini var skrásetingin av føroysku haruveiðuni gjørd í Facebook-bólkinum <span type="quote">“Haruskjóting í Føroyum”</span>. Hetta er ein afturlatin bólkur, sum framvegis er virkin, og sum 13. mars 2019 hevði 2.479 limir.</p>
@@ -43,7 +43,8 @@
 <p>Harumenninir skráseta sum sagt sjálvir úrslitini inn í skipanina á heimasíðuni <span type="quote">“Haran.fo”</span>. Fyri at skráseta, skalt tú trýsta á ein knøtt, sum er ovast á síðuni í høgra horni <span type="quote">“Skráset Harutúr”</span>. Her eru sjey felt, sum skulu fyllast úr:  Oyggj  Bygd/Býur  Hagi  Dato </p>
 <p>Tal av skotnum harum </p>
 <p>Tal av byrsum”  Heimildarfólk.</p>
-<p>Tá feltini eru útfylt, verða úrslitini løgd inn í skipanina. Her ber til síggja øll úrslitini, sum eru skrásett, og til ber at fylgja við gongdini í haruveiðuni kring landið (Mynd 2.1). Á einum grafi mitt á síðuni sæst, hvussu veiðan hevur verið dag fyri dag og hvussu nógvir túrar hava verið gjørdir. Til ber at síggja, hvussu nógvar harur eru skotnar tilsamans í hvørjari oyggj, bygd og haga kring landið. Eisini sæst hvussu nógvar harur eru skotnar hvørja viku og hvønn dag í harutíðini.</p>
+<p>Tá feltini eru útfylt, verða úrslitini løgd inn í skipanina. Her ber til síggja øll úrslitini, sum eru skrásett, og til ber at fylgja við gongdini í haruveiðuni kring landið (Mynd 2.1). Á einum grafi mitt á síðuni sæst, hvussu veiðan hevur verið dag fyri dag og hvussu nógvir túrar hava verið gjørdir. Til ber at síggja, hvussu nógvar harur eru skotnar tilsamans í hvørjari oyggj, bygd og haga kring landið. Eisini sæst hvussu nógvar harur eru skotnar hvørja viku og hvønn dag í harutíðini. 8</p>
+<p>Samandráttur av úrslitunum frá innsavningini í 2018 er víst í talvu 2.1. Umframt upplýsingar frá teimum 712 einstøku túrunum, sum vórðu skrásettir, eru eisini átta skrásetingar fyri samlaða talið av harum, sum vórðu skotnar á 37 túrum í átta høgum ella oyggjum, og upplýsingar um 34 hagar, har teir ikki hava skotið harur í 2018, og tríggir hagar, sum eru skotnir saman við grannahøgunum. Samlaða talið kemur sostatt upp á 757 skrásetingar fyri árið 2018.</p>
 <p>Tal av skrásettum skotnum harum5.136</p>
 <p>Tal av skrásetingum 757</p>
 <p>Tal av harutúrum (Einstakir túrar við dato: 710 túrar) (Einstakir túrar uttan dato: 2 túrar) (Samlað veiða: 8 hagar, 37 túrar)749</p>
@@ -52,13 +53,16 @@
 <p>Tal av oyggjum 15</p>
 <p>Tal av heimildarfólkum 227</p>
 <p>Talva 2.1: Upplýsingar um harutølini, sum vórðu savnaði saman fyri veiðitíðina 2018</p>
-<p>Mynd 2.1: Forsíðani av heimasíðuni <span type="quote">“Haran.fo”</span>. <em type="bold"></em></p>
+<p><em type="italic"></em><em type="bold"></em>9 <em type="bold">2.1 Hvussu fullfíggjað er kanningin? </em></p>
 <p>Kanningin byggir á upplýsingar frá 797 skrásetingum í 281 ymiskum hagapørtum kring landið. Eg havi tíanverri ikki fingið fatur á úrslitunum frá øllum harutúrunum, sum vóru gjørdir í 2018. Hóast hetta, so vísa tølini, at bæði talið av skrásettum túrum, skrásettum harum, og hvussu nógvir hagar eru við í hesi kanningini, er eitt vet lægri enn í 2017, men hægri enn í bæði 2016 og 2015 (Talva 3.1).</p>
 <p>Fyri at meta um hvussu fullfíggjað kanningin er, havi eg gjørt eitt yvirlit, sum vísir, hvussu nógvir hagapartar eru í teimum 15 oyggjunum, har hara finst, og úr hvussu nógvum av hesum hagapørtunum eg havi fingið harutøl frá í veiðutíðini í 2018. Úrslitini eru víst í talvu 2.2. <em type="italic"></em></p>
 <p>Í Føroyum eru tilsamans 455 hagapartar, har møguligt er at skjóta haru (Talva 2.2 og mynd 2.2). Eingin hara er í Koltri, Stóru Dímun og Lítlu Dímun. Flest hagapartar eru í Eysturoynni (112), Streymoynni (82) og í Suðuroynni (70). Í hesi kanningini eru harutøl fingin fyri 281 hagapartar, sum svarar til 62 % av øllum høgunum í Føroyum, har møguleiki er at skjóta harur. Í teimum flestu av hagunum, sum ikki eru við í kanningini, verður ikki skotið. Sum oftast tí, at lítil ella ongin hara er fáa.</p>
-<p>Flest tøl eru fingin úr Streymoynni, har veiðitøl eru fingin fyri 71 hagar (86%). Í Vágum eru eisini tøl fyri allar 38 hagarnar, sum eru í oynni, Í Eysturoynni eru tøl fyri 59 hagar (53%) og í Borðoynni 15 hagar (54%) (Talva 2.2).</p>
-<p>Mynd 2.2: Kortið vísir teir 455 haruhagarnir, sum eru í Føroyum. Fyri teir 284 hagarnir, sum eru vístir við grønum , eru upplýsingar fingnir um haruveiðuna í 2018. Fyri 171 hagar, sum eru vístir við ljósagulum , eru eingir upplýsingar skrásettir. <em type="bold">markatals- </em><em type="bold">bydgum </em><em type="bold">á oynni </em></p>
-<p><em type="bold">Við haru- </em><em type="bold">tølum </em><em type="bold">% </em></p>
+<p>Flest tøl eru fingin úr Streymoynni, har veiðitøl eru fingin fyri 71 hagar (86%). Í Vágum eru eisini tøl fyri allar 38 hagarnar, sum eru í oynni, Í Eysturoynni eru tøl fyri 59 hagar (53%) og í Borðoynni 15 hagar (54%) (Talva 2.2). 10</p>
+<p>Talva 2.2 : Tal av markatalsbygdum á hvørjari oyggj har hara finst og talið av hagapørtum, sum hoyra til bygdirnar. Hara er ikki í Koltri, Stóru Dímun og Lítlu Dímun. Høgrumegin sæst talið av hagapørtum, sum eru við í uppteljingini av haruveiðuni í Føroyum í 2018, og hvussu stóran prosentpart hetta svarar til, í mun til talið av høgum, sum eru í oynni. Av teimum 281 høgunum, sum tøl eru fingin fyri í 2018, varð skotið í 247 høgum. Í 34 høgunum varð ikki skotið. Markatalsbygdir eru bygdir, ið nevndar eru í elstu jarðarbókum.</p>
+<p>Mynd 2.2: Kortið vísir teir 455 haruhagarnir, sum eru í Føroyum. Fyri teir 284 hagarnir, sum eru vístir við grønum , eru upplýsingar fingnir um haruveiðuna í 2018. Fyri 171 hagar, sum eru vístir við ljósagulum , eru eingir upplýsingar skrásettir.</p>
+<p><em type="bold">Oyggj Tal av markatals- bydgum </em></p>
+<p><em type="bold">Tal av høgum á oynni </em></p>
+<p><em type="bold">Við haru- tølum % </em></p>
 <p>Fugloy 28</p>
 <p>Øll oyggin100</p>
 <p>Svínoy 19</p>
@@ -81,11 +85,11 @@
 <p>Sandoy 54313 30</p>
 <p>Skúgvoy 153 60</p>
 <p>Suðuroy 107026 27</p>
-<p><em type="bold">Samlað 83 </em><em type="bold">452 </em><em type="bold">281 </em><em type="bold">62 </em></p>
+<p><em type="bold">Samlað 83452281 62 </em>11 <em type="bold">3. Hvussu nógvar harur vórðu skotnar í 2018? </em></p>
 <p>Sambært hesi skrásetingini, vórðu tilsaman 5.136 harur skotnar í Føroyum í 2018 (Talva 3.1 og Mynd 3.1). Hetta talið er tó ikki heilt fullfíggjað, tí tað eru uttan iva veiðitøl, sum tað ikki er eydnast mær at fáa fatur á. Hvussu nógv tøl mangla, er ringt at meta neyvt um. Eg vænti tó, at eg havi fingið fatur av flestu av teimum <span type="quote">“stóru tølunum”</span>. Samlaða haruveiðan í 2018 man tí helst hava verið eitt sindur hægri enn tær 5.136 harurnar, sum vórðu skrásettar fyri 2018.</p>
 <p><em type="bold">Samlað talið av skotnum harum í 2018 man helst liggja um tær 5.400 harurnar. </em></p>
 <p>Tær 5.136 skotnu harurnar, sum eru skrásettar í 2018, eru 20% minni enn í 2017 og túratalið (557 túrar) er 3% lægri. Tá skutu teir 6.409 harur á 780 túrum. Samanborið við onnur ár, má 2018 metast at vera eitt miðal ár til haru. Í mun til 2014, var veiðan tó bara ein góð helvt og túratalið tveir triðingar av tí, sum varð skotið fyri fýra árum síðani. Tá skutu teir 9.318 harurnar á 1.123 túrum (Mynd 3.1 og Talva 3.1).</p>
-<p><em type="bold">Upplýsingar 2018 </em><em type="bold">2017 </em><em type="bold">2016 </em><em type="bold">2015 </em><em type="bold">201 </em><em type="bold">2013 2012 </em></p>
+<p><em type="bold">Upplýsingar 20182017201620152012013 2012 </em></p>
 <p>Tal av skrásettum skotnum harum 5.136 6.409 2.950 4.012 9.318 7.756 5.381</p>
 <p>Tal av harutúrum 749780451636 1.123 904649</p>
 <p>Tal av hagapørtum 281263187197348 269199</p>
@@ -93,17 +97,17 @@
 <p>Tal av oyggjum 1515151415 1513</p>
 <p>Tal av heimildarfólkum 227243193212366 283183</p>
 <p>Talva 3.1: Upplýsingar um harutølini, sum eru savnaði saman í veiðitíðini, árini 2012 til 2018.</p>
-<p>Mynd 3.1 :Samlað tal av skrásettum skotnum harum í Føroyum, árini 2012-2018. Hesi sjey árini hevur miðalveiðan verið 5.843 harur hvørt árið.</p>
+<p><em type="italic"></em>12 <em type="bold">3.1 Hagapartar </em></p>
 <p>Tað er sera ymiskt hvussu nógvar harur vórðu skotnar í teimum ymisku høgunum kring landið; frá ongari haru til 123 harur, í tí haganum, har flestar harur vóru skotnar (Mynd 3.2). <em type="italic"></em></p>
 <p>Mynd 3.2a: Talið av harum, sum vórðu skotnar í teimum ymisku haruhøgunum norðanfjørðs í Føroyum í 2018. Myrkari liturin er, fleiri harur eru skotnar.</p>
-<p>Mynd 3.2b: Talið av harum, sum vórðu skotnar í teimum ymisku haruhøgunum sunnanfjørðs í Føroyum í 2018.</p>
+<p>Mynd 3.2b: Talið av harum, sum vórðu skotnar í teimum ymisku haruhøgunum sunnanfjørðs í Føroyum í 2018. 13</p>
 <p>Úrslitið fyri teir 20 bestu haruhagarnar í Føroyum í 2018 er víst í talvu 3.2. Í hesum 20 haruhøgunum vórðu skotnar tilsaman 1.457 harur, sum svarar til 28% av øllum harunum, sum vórðu skotnar í Føroyum í 2018.</p>
 <p>Teir, sum skutu nógv flestar harur í 2018 vóru teir, ið skutu í Kvíggjarhamarshaga í Saksun. Teir skutu tilsamans 123 harur, sum teir fingu á 6 túrum. Teimum á baki vóru teir, ið skutu í Skálatoftahaga, sum er á vestursíðuni norðarlaga á Borðoynni. Teir fingu 102 harum á 6 túrum. Á triðja plássi vóru harumenninir, sum skutu í Suðurhelvt á Eiði, vanliga nevndur Slættaratindur, Teir fingu 96 harur á 10 túrum (Talva 3.2).</p>
 <p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2018, skipað eftir: oyggj, bygd, hagaparti og dato, eru víst í Appendix á síðu 84 – 102.</p>
 <p><em type="bold">Hagapartur </em></p>
 <p xml:lang="eng"><em type="bold">Bygd </em></p>
-<p><em type="bold">Samlað tal av </em><em type="bold">skotnum harum </em></p>
-<p><em type="bold">Tal av túrum </em><em type="bold">1. </em>Kvíggjarhamarshagi Saksun 1236 <em type="bold">2. </em>Skálatoftahagi Skálatoftir 1026 <em type="bold">3. </em>Suðurhelvt (Slættaratindur) </p>
+<p><em type="bold">Samlað tal av skotnum harum </em></p>
+<p><em type="bold">Tal av túrum1. </em>Kvíggjarhamarshagi Saksun 1236 <em type="bold">2. </em>Skálatoftahagi Skálatoftir 1026 <em type="bold">3. </em>Suðurhelvt (Slættaratindur) </p>
 <p>Eiði 9610 <em type="bold">4. </em>Fjallið (partur av Fjalshaga) </p>
 <p>Vestmanna 877 <em type="bold">5. </em>Uttanhús á Fjøllum </p>
 <p>Miðvágur 827 <em type="bold">6. </em>Klappjaktin Trongisvágur 801 <em type="bold">7. </em>Norðurtriðingur – Norðaripartur </p>
@@ -116,16 +120,19 @@
 <p>Streymnes 579 <em type="bold">19. </em>Eystur við Egg - Vestastipartur </p>
 <p>Viðareiði 563 <em type="bold">20. </em>Áarhagi - Miðrøktin </p>
 <p>Kaldbak 553</p>
-<p><em type="bold">Samlað </em><em type="bold">1.457 </em><em type="bold">108 </em></p>
-<p>Talva 3.2 : Talvan vísir teir 20 hagapartarnar í Føroyum, har flestar harur vórðu skotnar í 2018. Eisini sæst hvussu nógvir túrar vórðu gjørdir í hesum hagapørtunum. Tær 1.457 harurnar, sum vórðu skotnar í hesum 20 hagapørtunum, svarar til 28 % av øllum harum, sum vórðu skotnar í Føroyum í 2018.</p>
+<p><em type="bold">Samlað 1.457108 </em></p>
+<p>Talva 3.2 : Talvan vísir teir 20 hagapartarnar í Føroyum, har flestar harur vórðu skotnar í 2018. Eisini sæst hvussu nógvir túrar vórðu gjørdir í hesum hagapørtunum. Tær 1.457 harurnar, sum vórðu skotnar í hesum 20 hagapørtunum, svarar til 28 % av øllum harum, sum vórðu skotnar í Føroyum í 2018. 14</p>
+<p>Talið av harum, sum teir skutu í teimum bestu haruhøgunum í Føroyum, kann vera eitt sindur skiftandi frá einum ári til annað. Síðan 2014, hevur hetta talið ligið millum 90 og 280 harur (Mynd 3.3) . Hesi sjey árini,sum eg havi skrásett haruveiðuna í Føroyum, eru tað fýra hagar, sum hav skiftst um at vera bestir. Teir eru: Skálatoftahagi, Úti í Haga á Bjørgum, Kvíggjarhamarshagi og Norðurtriðingur – Norðaripartur.</p>
 <p>Mynd 3.3 : Myndin vísir talið av harum, sum eru skotnar í tí haganum, sum var bestur tey einstøku árini, frá 2012 (longst til høgru) til 2018 (longst til vinstru. Reyða linjan vísir túratalið.</p>
 <p>Í talvu 3.2 hava vit einans hugt eftir, hvussu nógvar harur vóru skotnar í hvørjum hagaparti, men hava ikki mett um innsatsin, sum var gjørdur, fyri at fáa fatur á hesum harunum. Vit vita, at tað er rættuliga ymiskt, hvussu nógvir túrar verða gjørdir í hvørjum haga, og hvussu nógvir skjúttar eru við. Í tí haganum, har teir skutu oftast, vóru teir 11 túrar. Talið av skjúttum í teimum ymisku túrunum kring landið var millum 1 og 17 mans.</p>
 <p>Hvussu nógvar harur, ið verða skotnar í einum hagaparti, eitt ávíst ár, er í høvuðsheitum tengt at 6 viðurskiftum:  Hvussu nógv er til av haru í haganum.  Hvussu veðurlíkindini eru.  Hvussu nógvir túrar verða gjørdir.  Hvussu nógvir skjúttar eru við.  Hvussu royndir skjúttarnir eru.  Hvussu langir túrarnir eru.</p>
-<p>Hvussu nógv er til av haru, veðurlíkindini, royndirnar hjá skjúttunum og hvussu langir túrarnir eru, fáa vit ikki gjørt nakað við. Men í útrokningunum kunna vit taka hædd fyri, hvussu nógvir túrar verða gjørdir og hvussu nógvir skjúttar eru við hvønn túrin. Tá fáa vit eitt úrslit, sum vísir, hvussu nógvar harur eru skotnar pr. dag pr. byrsu. Úrslitini frá hesi útrokningin er víst í talvu 3.3.</p>
+<p>Hvussu nógv er til av haru, veðurlíkindini, royndirnar hjá skjúttunum og hvussu langir túrarnir eru, fáa vit ikki gjørt nakað við. Men í útrokningunum kunna vit taka hædd fyri, hvussu nógvir túrar verða gjørdir og hvussu nógvir skjúttar eru við hvønn túrin. Tá fáa vit eitt úrslit, sum vísir, hvussu nógvar harur eru skotnar pr. dag pr. byrsu. Úrslitini frá hesi útrokningin er víst í talvu 3.3. 15</p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
 <p><em type="bold">Tal av túrum </em></p>
-<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
-<p><em type="bold">Samlað </em><em type="bold">tal av </em><em type="bold">byrsum </em></p>
-<p><em type="bold">Tal av harum </em><em type="bold">pr. byrsu </em><em type="bold">pr.dag </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Samlað tal av byrsum </em></p>
+<p><em type="bold">Tal av harum pr. byrsu pr.dag </em></p>
 <p>Bergið</p>
 <p>Árnafjørður1271 27,0</p>
 <p>Fyri oman Rætt ‐ Fjallið</p>
@@ -146,34 +153,33 @@
 <p>Bøur161 6,0</p>
 <p>Yvir í Skorum</p>
 <p>Hvannasund161 6,0</p>
-<p><em type="bold">Samlað fyri alt landið </em><em type="bold">716 </em><em type="bold">5.016 </em><em type="bold">1.849 </em><em type="bold">2,79 </em></p>
+<p><em type="bold">Samlað fyri alt landið 7165.0161.849 2,79 </em></p>
 <p>Talva 3.3 : Standardiserað haruveiða. Talvan vísir teir 10 hagapartarnar, har flestar harur vórðu skotnar í 2018, tá hædd verður tikið fyri, hvussu nógvir túrar vórðu gjørdir í hvørjum haga og hvussu nógvir skjúttar vóru við hvønn túrin. Umframt tær 5.016 harurnar, sum vórðu skotnar á teimum 716 einstøku túrunum, eru eisini 120 harur har hvørki, túratal ella tal av byrsum eru upplýst. Hesar íroknað, kemur samlaða harutalið upp 5.136 harur.</p>
 <p>Í 2018 vóru tilsamans 1.849 byrsur í føroysku høgunum, sum hvør í miðal skeyt 2,79 harur hvønn dagin. Eftir hesum útrokningarháttinum, lá best fyri í hagapartinum <span type="quote">“Bergið”</span> í Árnafirði. Í hesum hagunum var ein einstakur maður ein túr, har hann skeyt 27 harur tann dagin. Næstbestur var <span type="quote">“Fyri oman Rætt – Fjallið”</span> við Gjógv, har teir í miðal skutu 7,5 harur pr byrsu hvønn dagin. Á triðja plássi var <span type="quote">“ Áarhagi – Heimanfyri”</span> í Kaldbak har ein einsamallur maður ein dag fekk 7 harur (Talva 3.3).</p>
 <p>Fyri alt landið vórðu skotnar 2,79 harur pr. byrsu hvønn dagin. Hetta er minni enn í 2017, tá teir skutu 3,18 harur pr. byrsu hvønn dagin, men meir enn bæði í 2016 og 2015, tá miðalveiðan var ávikavist 2,38 og 2,36 harur pr. byrsu hvønn dagin. Í 2014 og 2013 var miðalveiðan ávikavist 3,1 og 2,9 harur pr. byrsu hvønn dagin.</p>
-<p>Tað er sera ymiskt hvussu nógvar harur vórðu skotnar í teimum ymisku høgunum kring landið; frá einari haru, til 123 harur í tí haganum, har teir fingu mest (Mynd 3.1 og 3.4). Av teimum 715 høgunum, har skotið varð í 2018, varð helvtin av samlaðu árligu veiðuni skotin í 45 høgum, av hesum vórðu 25% av harunum skotnar í 17 teimum bestu høgunum, tað eru 1.335 harur. (Mynd 3.4 og 3.5 ). Tey fyrstu 25% av harunum, har teir fingu fægst harur, vórðu skotnar í 125 hagapørtunum.</p>
+<p>Tað er sera ymiskt hvussu nógvar harur vórðu skotnar í teimum ymisku høgunum kring landið; frá einari haru, til 123 harur í tí haganum, har teir fingu mest (Mynd 3.1 og 3.4). Av teimum 715 høgunum, har skotið varð í 2018, varð helvtin av samlaðu árligu veiðuni skotin í 45 høgum, av hesum vórðu 25% av harunum skotnar í 17 teimum bestu høgunum, tað eru 1.335 harur. (Mynd 3.4 og 3.5 ). Tey fyrstu 25% av harunum, har teir fingu fægst harur, vórðu skotnar í 125 hagapørtunum. 16</p>
 <p>Mynd 3.4: Myndin vísir býtið av samlaðu haruveiðuna í teimum 215 høgunum, hara teir skutu harur í Føroyum í 2018.</p>
-<p>Mynd 3.5: Myndin vísir, hvussu stórur prosent-partur av harunum vóru skotnar í hvørjum av teimum 215 høgunum kring landið. Teir bestu hagarnir eru til høgru á myndini, teir vánaligastu til vinstur. Tey fyrstu 25% av teimum íalt 5.136 harunum vórðu skotnar í 125 ymiskum hagapørtum, 50 % í 171 av høgunum og 75% í 199 av høgunum. Tey seinastu 25% eru skotin í 17 teimum bestu høgunum. <em type="bold"></em></p>
+<p><em type="italic"></em><em type="bold"></em>17 <em type="bold">3.2 Oyggj </em></p>
 <p>Eins og undanfarin ár, vóru eisini flestu harurnar í 2018 skotnar í Streymoynni; íalt 2.011 harur, sum svarar til 39% av øllum harunum, sum vórðu skotnar í Føroyum í 2018 (Mynd 3.6).</p>
 <p>At sløk helvtin av øllum harunum í Føroyum verða skotnar í Streymoynni er vanligt. Í 2012 vóru 47% av teimum føroysku harunum skotnar í Streymoynni, í 2013, 45%, í 2014, 42%, í 2015, 40% og í 2016 og 2017, 43%.</p>
 <p>Tað var eisini á Streymoynni, at flestu túrarnir vórðu gjørdir í 2018, íalt 246 túrar, sum svarar til 33% av øllum túrunum, sum vórðu gingnir í Føroyum í 2018. Í 2017 vóru 39% av øllum túrunum gjørdir á Streymoynni.</p>
 <p>Næstflestar harur vórðu skotnar í Vágunum, har teir tilsamans fingu 1.027 harur á 152 túrum. Í Eysturoynni skutur teir 929 harur í 2018, og á Borðoynni 418 harur (Mynd 3.6).</p>
-<p>Mynd 3.6: Myndin vísir, hvussu nógvar harur vórðu skotnar tilsamans í hvørjari oyggj í 2018 (vinstrumegin) og hvussu nógvir harutúrar vórðu gjørdir (høgrumegin).</p>
+<p xml:lang="eng"><em type="italic"></em>18 <em type="bold">3.3 Bygd </em></p>
 <p>Vestmanna var, eins og undanfarin ár, tann bygdin í Føroyum, har flestu harurnar vórðu skotnar 2018. Tilsaman skutu vestmenningar 436 harur á 44 túrum (Mynd 3.7). Men hetta er bert góður triðingur av tí, sum teir fingu í 2014, tá vestmenningar skutu 1.120 harur á 74 túrum. Næstflestar harur skutu teir í Miðvági, 304 harur á 51 túrum. Á triðja plássi er Saksun við 266 harum á 20 túrum og á fjórða plássi er Sørvágur við 252, sum teir fingu á 38 túrum.</p>
-<p>Mynd 3.7: Myndin vísir, hvussu nógvar harur vórðu skotnar í tíggju teimum bestu bygdunum í Føroyum í 2018 (vinstrumegin), og hvussu nógvir harutúrar vórðu gjørdir í hesum bygdunum (høgrumegin).</p>
+<p><em type="italic"></em>19 <em type="bold">3.4 Útvaldir dagar </em></p>
 <p>Hóast tað í Føroyum er loyvt at skjóta haru einar 50 dagar um árið, so verður tó mest skotið leygardagar, umframt fyrsta dag og so dagarnar millum jól og nýggjár.</p>
 <p>Tølini vísa, at ein góður triðingur av øllum harunum vórðu skotnar ta fyrstu vikuna í veiðitíðini og so dagarnar millum jól og nýggjár (Mynd 3.8); 23% av harunum vórðu skotnar ta fyrstu vikuna og 15% eftir jól, meðan ávikavist 11% og 22% av øllum túrunum vórðu gingnir hesar báðar vikurnar (Mynd 3.8).</p>
 <p>Á mynd 3.9 er víst, hvussu veiðan var 13 ávísar dagar í veiðitíðini í 2018: Fyrsta dag, átta fylgjandi leygardagar, og so teir fýra dagarnar eftir jól. Av samlaðu árligu veiðuni, vórðu 62% av harunum (3.189) og 59% av túrunum (420) gingnir hesar 13 dagarnar (Mynd 3.9).</p>
 <p>Fyrsta dag loyvt var at skjóta harur í 2018 var fríggjadagin 2. november. Hendan dagin, vórðu tilsamans 1.027 harur skotnar í 66 hagapørtum kring landið, og var hetta nógv tann besti einstaki harudagurin í árinum (Mynd 3.9). Fyrsti leygardagur var 3. november. Tá skutu teir einans 137 harur í 16 túrum. Dagarnar millum jól og nýggjár vóru nógvir túrar, men lítið var at fáa (Mynd 3.8 og 3.9).</p>
-<p>Mynd 3.8: Myndin vísir, hvussu nógvar harur vórðu skotnar hvørja viku í 2018 (vinstrumegin), og í hvussu nógvir harutúrar vórðu gjørdir hesa vikuna (høgrumegin). Vikan byrjar mánadag og enda leygardag. Í 2018 var fyrsti harudagur fríggjadagin 2. november, og seinasti dagur var mánadagur 31. desember.. <em type="bold"></em></p>
-<p>Mynd 3.9: Myndin vísir, hvussu nógvar harur vórðu skotnar 13 ávísar dagar í 2018 (vinstrumegin), og í hvussu nógvum hagapørtum, skotið varð í (høgrumegin). Talan er um fyrsta dag, átta fylgjandi leygardagar, og so teir fýra dagarnar eftir jól. <em type="bold"></em>82728682356146911441605010015044454647484950515253 </p>
+<p><em type="italic"></em><em type="bold"></em>82728682356146911441605010015044454647484950515253 </p>
 <p xml:lang="eng"><em type="bold">Tal </em></p>
 <p><em type="bold">Vikunummar </em></p>
-<p><em type="bold">Tal av harutúrum </em><em type="bold">3.5 Veiða dag fyri dag í 2018 og 2017 </em></p>
+<p><em type="bold">Tal av harutúrum </em>20 <em type="bold">3.5 Veiða dag fyri dag í 2018 og 2017 </em></p>
 <p>Í hesi kanningini er skrásetingin av haruveiðuni gjørd fyri hvønn einstakan dag, sum skotið hevur verið. Tí ber til at gera upp, hvussu veiðan hevur hilnast gjøgnum árið, dag fyri dag, og at samanbera veiðuna við undanfarin ár. Úrslitið frá hesi samanbering er víst á mynd 3.10.</p>
-<p>Mynd 3.10: Myndin vísir talið av harum ( ── ), sum eru skotnar hvønn dagin í veiðitíðini, 2. november til 30. desember 2018, og hvussu nógvir túrar eru gjørdir teir einstøku dagarnar ( - - - - - ). Úrslitið fyri 2018 ( reyðu linjurnar ) er samanborið við 2017 ( bláu linjurnar ). Fyri átta hagar er bara tað samlaða talið av harum uppgivið. Har fingu teir tilsamans 121 harur. Fyri tveir túrar er dato ókent, har fingu teir 10 harur. Samlaða úrslitið fyri 2018 gjørdist sostatt 5.136 harur. <em type="bold"></em></p>
+<p>── ), sum eru skotnar hvønn dagin í veiðitíðini, 2. november til 30. desember 2018, og hvussu nógvir túrar eru gjørdir teir einstøku dagarnar ( - - - - - ). Úrslitið fyri 2018 ( reyðu linjurnar ) er samanborið við 2017 ( bláu linjurnar ). Fyri átta hagar er bara tað samlaða talið av harum uppgivið. Har fingu teir tilsamans 121 harur. Fyri tveir túrar er dato ókent, har fingu teir 10 harur. Samlaða úrslitið fyri 2018 gjørdist sostatt 5.136 harur. <em type="bold"></em></p>
 <p>Í 2018 var fyrsti dagur, har loyvt var at skjóta harur, fríggjadagur 2. november. Hendan dagin, vórðu tilsamans 1.027 harur skotnar á 66 túrum kring landið (Mynd 3.9). Í 2017 var fyrsti harudagur hósdagur 2. november. Tann dagin fingur teir 681 harur á 50 túrum. Fyrsta leygardag í 2018 skutur teir einans 137 harur 16 túrum, samanborið við 939 harur á 72 túrum fyrsta leygardag í 2017.</p>
 <p>Samanbera vit haruveiðuna í 2018 við 2017 (Mynd 3.10), síggja vit, at gongdin hevur verið á leið tann sama bæði árini, tó var tað eingin dagur í 2018 sum skaraði framúr.</p>
-<p>Sum heild royndist 2017 betur gjøgnum alla veiðitíðina, og samlaða úrslitið gjørdist tí eisini at, talið av skotnum harum í 2018 var 20% minni enn í 2017, og túratalið 3% minni enn í 2017.</p>
+<p>Sum heild royndist 2017 betur gjøgnum alla veiðitíðina, og samlaða úrslitið gjørdist tí eisini at, talið av skotnum harum í 2018 var 20% minni enn í 2017, og túratalið 3% minni enn í 2017. 21 <em type="bold">3.6 Hvussu nógvar harur fingu teir hvønn túrin? </em></p>
 <p>Á teimum 714 harutúrunum, sum vórðu gjørdir í 2018, var veiðan millum 0 og 80 harur á hvørjum túri (Mynd 3.11. Tað vanligasta var at fáa 1-4 harur á einum túri. Hetta var veiðan á 49% av túrunum. Á 85 túrum (12%) fingu teir bara eina haru, 102 túrar (14%) fingu teir tvær harur, 83 túrar (12%) fingu teir tríggjar harur og á 82 túrum (11%) fingu teir fýra harur.</p>
 <p>Í miðal vórðu skotnar 7,02 harur á hvørjum túri í 2018. Hetta er minni enn í 2017, tá teir í miðal fingur 8,14 harur á hvørjum túri, men eitt sindur meira enn bæði í 2016 og 2015, tá teir i miðal fingu ávikavist 6,40 og 6,23 harur hvønn túrin. Í 2014 og 2013 miðalveiðan ávikavist 8,12 og 8,2 harur pr. túr.</p>
 <p>Einans 12 túrar eru uppgivnir, har teir onga haru siga seg at hava fingið. Men hetta talið er uttan iva alt ov lágt, tí tað eru helst fleiri bummtúrar, sum ikki eru uppgivnir.</p>
@@ -181,8 +187,8 @@
 <p>Úrslitið av teimum fimm bestu harutúrunum, sum vórðu gjørdir í 2018 eru vístir í talvu 3.4. Tann besti túrurin var gjørdur á Trongisvági, har 17 mans á <span type="quote">“Klappjaktini”</span> fingu 80 haru. Á hinum <span type="quote">“góðu túrunum”</span>, sum allir vóru fyrsta harudag, fingu teir einar 50 harur í hvørjum haga (Talva 3.4).</p>
 <p><em type="bold">Hagapartur Bygd </em></p>
 <p xml:lang="eng"><em type="bold">Dato </em></p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
-<p><em type="bold">Tal av </em><em type="bold">monnum </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av monnum </em></p>
 <p>Klappjakt (4 hagar)</p>
 <p>Trongisvágur 9. nov. 80 17</p>
 <p>Suðurhelvt (Slættaratindur)</p>
@@ -190,11 +196,11 @@
 <p>Tormanshagi Bøur 2. nov. 49 8</p>
 <p>Heimi í Haga á Bjørgum – Vestari (Sjúrðarstovuhagi) Vestmanna 2. nov. 48 11</p>
 <p>Fjallið (partur av Fjalshaga) Vestmanna 2. nov. 47 10</p>
-<p>Talva 3.4 : Fimm teir bestu harutúrarnir, sum vórðu gjørdir í 2018. <em type="bold">3.7 Hvussu nógvir skjúttar vóru við hvønn túrin? </em></p>
+<p><em type="italic"></em>22 <em type="bold">3.7 Hvussu nógvir skjúttar vóru við hvønn túrin? </em></p>
 <p>Talið av skjúttum, sum vóru við á harutúrunum í 2018, var millum 1 og 17. Helvtina av túrunum (medianurin) vóru 2,0 skjúttar ella færri og skutu. Sæð yvir alla veiðitíðina, var tað mest vanliga, at ein einsamallur maður var og skeyt (Mynd 3.12). Hetta hendi á 271 túrum (38%). Á 190 túrum (27%) vóru tvær byrsur. Tá flest mans skutu á einum túri, vóru teir 17. Hetta var á <span type="quote">“Klappjaktini”</span> í Trongisvági 9. november, har teir fingu 80 harur.</p>
 <p>Samlaða býtið av talinum av skjúttum, sum vóru við teir ymisku túrarnar í 2018, er á leiðt tað sama sum tað var í 2017 og 2016 (Mynd 3.13)</p>
 <p>Mynd 3.12: Talið á skjúttum, sum vóru við á teimum 716 harutúrunum, sum vórðu gjørdir í Føroyum í 2018.</p>
-<p>Mynd 3.13: Talið á skjúttum, sum vóru við á hvørjum harutúri í 2017 (780 túrar) og 2016 (451 túrar).</p>
+<p><em type="italic"></em>23 <em type="bold">3.8. Hvussu nógvir mans skutu harur í Føroyum í 2018? </em></p>
 <p>Sambært hesi skrásetingini, vórðu tilsaman 5.136 harur skotnar í Føroyum í 2018 (Talva 2.1), men hvussu nógvir mans hava skotið hesar harurnar?</p>
 <p>Hetta vita vit ikki neyvt, tí vit hava ongi tøl um hetta. Men við støði í veiðitølunum, sum eg havi savnað saman fyri 2018 (Talva 2.1), ber til at gera eina meting av, hvussu nógvir mans hava luttikið í haruskjótingini í Føroyum hetta árið.</p>
 <p><em type="bold">Tal av heimildarfólkum </em>: Í frágreiðingini eru 227 ymisk heimildarfólk, sum hava latið mær upplýsingar. Talið av teimum, sum skjóta er tí í øllum førum nógv hægri enn hettar, tí tað er bert eitt heimildarfólk fyri hvønn túrin, hóast fleiri mans vóru við á túrinum. </p>
@@ -202,89 +208,92 @@
 <p>Hetta roknistykkið gevur 856 mans.</p>
 <p>Fráboðanir frá onkrum av høgunum mangla uttan iva í hesi frágreiðingini, so helst er talið nakað hægri enn 856, men hinvegin, so er helst onkur av monnunum, sum hevur skotið í fleiri hagapørtum, men tað mest vanliga er tó, at hvør maður bert skjýtur í einum haga.</p>
 <p>Niðurstøðan er tí, at: <em type="bold">einir 900 mans skutu harur í Føroyum í 2018. </em></p>
-<p>Hetta talið er tað sama sum í 2017, men hægri enn í 2016. Tá vísti saman roknistykkið, at 700 mans skutu harur í Føroyum. Fyri 2015 vísti sama roknistykkið, at 800 mans skutu harur, í 2014 1.222 mans og í 2013 skutu 1.044 mans harur í Føroyum. <em type="bold"></em></p>
+<p>Hetta talið er tað sama sum í 2017, men hægri enn í 2016. Tá vísti saman roknistykkið, at 700 mans skutu harur í Føroyum. Fyri 2015 vísti sama roknistykkið, at 800 mans skutu harur, í 2014 1.222 mans og í 2013 skutu 1.044 mans harur í Føroyum. <em type="bold"></em>24 <em type="bold">4. Føroyska veðrið í november og desember mánað 2018 </em></p>
 <p>Niðanfyri verður greitt frá, hvussu veðrið var í Føroyum í november og desember mánað í 2018 (Myndirnar 4.1 - 4.5). Tølini eru frá heimasíðuni hjá Danmarks Meteorologiske Institut (DMI), (https://www.dmi.dk/vejrarkiv/), og frá eini veðurstøð, sum Landsverk hevur á Velbastaðhálsi (Mynd 4.3).</p>
 <p><em type="bold"></em>Tað, sum eyðkendi harutíðina í 2018, var tann nógva lágættin, sum var, bæði í november og desember mánað (Mynd 4.3), har landsynningur var tann vanligasta ættin (Mynd 4.3). Høgættin vat so at siga burtur alla harutíðina. Havast skal í huga, mátingarnar, sum vísa vind og ætt teir einstøku dagarnar, eru gjørdar á Flogvøllinum í Vágum (Mynd 4.2), meðan mátingarnar, sum vísa samlaða yvirliti fyri november og desember mánað (Mynd 4.3), eru gjørdar á Velbastaðhálsi.Tað kann tí vera ein ávísur muur millum úrslitini á hesum báðum myndunum. <em type="bold"></em></p>
-<p>Mynd 4.1: Minsti, miðal og mesti hitin ( <em type="italic">0C </em>) <em type="italic">mátaður í døgninum í november (niðara) og </em><em type="italic">desember mánað (ovara) 2018 í Tórshavn. Vanligi miðalhitin fyri november mánað er 4,6 </em><em type="italic">0C, fyri desember er hann 3,7 0C.(Kelda: DMI). </em></p>
+<p><em type="italic"></em>( <em type="italic">0C </em>) <em type="italic">mátaður í døgninum í november (niðara) og desember mánað (ovara) 2018 í Tórshavn. Vanligi miðalhitin fyri november mánað er 4,6 0C, fyri desember er hann 3,7 0C.(Kelda: DMI). </em>25 </p>
 <p>Mynd 4.2: Vindferð (m/s) og ætt (pílar niðast á myndini), í november (niðara myndin) og desember mánað (ovara myndin) í 2018, mátað á Flogvøllinum í Vágum. (Kelda: DMI).</p>
-<p>Mynd 4.3: Vindrósa. Býti av ætt og vindferð, mátað á Velbastaðhálsi í november (vinstrumegin) og desember mánað 2018 (høgrumegin). (Mátingar: Landsverk. Bárður Niclasen hevur gjørt myndirnar).</p>
+<p>Mynd 4.3: Vindrósa. Býti av ætt og vindferð, mátað á Velbastaðhálsi í november (vinstrumegin) og desember mánað 2018 (høgrumegin). (Mátingar: Landsverk. Bárður Niclasen hevur gjørt myndirnar). 26</p>
 <p>Mynd 4.4: Regnmongdin í Tórshavn í november (niðara stabbamyndin) og desember mánað 2018 (ovara stabbamyndin). Gevi gætur , y-aksin fyri báðar mánarnar eru ymiskir. (Kelda: DMI).</p>
-<p>Mynd 4.5: Sóltímar í Tórshavn í november (ovara stabbamyndin) og desember mánað 2017 (ovara stabbamyndin). (Kelda: DMI).</p>
+<p><em type="italic"></em>27 <em type="bold">5. Allir, ið skrásettu harutúrar við í lutakasti </em></p>
 <p>Fyri at eggja fólki at skráseta harutúrarnar á heimasíðuni <span type="quote">“Haran.fo”</span>, vóru øll tey, ið skrásettu túrarnar við í einum lutakasti av einum gávukortið uppá 1.000 kr, sum handilin <span type="quote">"Jógvan Weihe"</span> hevði latið. Ein lutaseðil varð latin fyri hvørja skráseting.</p>
 <p>Tilsamans vórðu 712 einstakir harutúrar skrásettir. Tríggir hagar eru skrásettir saman við grannahøgunum. Fyri átta hagar vóru bara upplýsingar fyri samlaða talið av harum, sum vórðu skotnar í haganum. Fyri 34 hagar er upplýst, at har hava teir IKKI skotið í 2018. Samlaða talið av skrásetingum kemur sostatt upp á 757 fyri árið 2018. Tilsamans 227 fólk skrásettu túrarnar. Tann, ið skrásetti flestur túrar, var Wentzel Mouritzen úr Sørvági. Hann skrásetti 23 túrar. Hálvfems fólk skrásettu ein einkultan túr.</p>
 <p>Týsdagin 26. mars var so lutakastið. Hepni vinnarin gjørdist Allan Nielsen í Sandavági. Allan hevur skrásett tilsamans 15 túrar, sum hann hevur skotið í fýra høgum í Sandavági: Slættaneshaga, Oyrargjáarhaga, Rákarhaga og Gimbragongu. Á hesum 15 túrunum skutu teir tilsamans 89 harur.</p>
-<p>Mynd 5.1: Gunnar Oluf Weihe, sum er handilsleiðari í handlinum <span type="quote">“Jógvan Weihe”</span>, tekur her vinnaraseðilin úr posanum. Tann hepni vinnarin gjørdist Allan Nielsen úr Sandavági. Allan fær eitt gávukort áljóðandi 1.000 kr, sum handilin hjá Jógvan Weihe hevur latið.</p>
+<p><em type="italic"></em>28 <em type="bold">6. Haruveiða í Sandavági 1970 – 1986 </em></p>
 <p>Í frágreiðingin <span type="quote">“Haruveiðan í Føroyum 2012”</span>, er á síðu 24 ein partur um, hvussu nógvar harur vórðu skotnar tilsaman í Sandavági, árini 1970 til 1986.</p>
 <p>Tað er Leivur Joensen úr Sandavági, sum hevði savnað tølini saman og sent tey til bróðurin, Jákup Sverra Joensen, sum tá var stjóri á Fiskirannsóknarstovuni (núverandi Havstovan). Hesi tølini fann eg í 2011 sum eina stabbamynd í einari skuffu inni á Havstovuni. Hendan stabbamyndin vísti samlaðu veiðuna fyri teir sjey til átta hagarnar, sum tá vóru í Sandavági.</p>
 <p>Nú er tað eydnast mær at fáa fatur á uppruna tølunum, sum nevnda stabbamynd byggir á. Pappírini stóðu í einum ringbindi, sum Andrias Reinert hevði standandi heima. Andrias hevur verið so beinasamur at lána mær hesi pappírini.</p>
 <p>Samlaða úrsliti, hvørt árið, fyri allar hagarnar í Sandavági, er víst á mynd 6.1, og samlaða veiðan fyri hvønn haga hesi 14 árini er víst í talvu 6.1. Besti hagi í Sandavági hesi 14 árin hevur verið <span type="quote">“Giljar”</span>. Nítjan prosent av øllum harunum í Sandavági vóru skotnar í hesum haganum. Á øðrum plássi er <span type="quote" xml:lang="dan">“Slættanes”</span> við 15 % (Talva 6.1). Á mynd 6.2a 6.2b sæst, hvussu nógv teir hava skotið í hvørjum haga hvørt ári frá 1970 til 1986.</p>
 <p>Mynd 6.1: Samlaða haruveiðan í Sandavági árini árini 1970 til 1986. Eingi tøl eru fyri 1973. Í 1977 er bert upplýst, at <span type="quote">“tað var nógv hara”</span>, men eingi tøl eru niðurskrivað. Í 1979 var haran friðað, so einki varð skotið hetta árið. Hesi 14 árini, sum tøl eru fyri, hevur samlaða haruveiðan í Sandavági verið millum 322 (1983) og 628 (1982) harur um árið. Í miðal 453 harur.</p>
 <p><em type="bold">Hagi </em></p>
-<p><em type="bold">Tilsamans </em><em type="bold">% </em>1. Giljar 1.19219 2. Slættanes 95315 3. Gimbrarnar (Húsafelli) 81513 4. Sund 79613 5. Oyrargjógv 76312 6. Handasti hagi (Heldarstindur) 60410 7. Dalhagi (Hálsar og Malingstindur) 68511 8. Oknadalur 5298 </p>
-<p><em type="bold">Samlað </em><em type="bold">6.337 100 </em></p>
+<p><em type="bold">Tilsamans% </em>1. Giljar 1.19219 2. Slættanes 95315 3. Gimbrarnar (Húsafelli) 81513 4. Sund 79613 5. Oyrargjógv 76312 6. Handasti hagi (Heldarstindur) 60410 7. Dalhagi (Hálsar og Malingstindur) 68511 8. Oknadalur 5298 </p>
+<p><em type="bold">Samlað 6.337 100 </em></p>
 <p>Talva 6.1: Samlaða haruveiðan í høgunum í Sandavági árini 1970-1986 og hvussu veiðan er býtt millum teir átta hagarnar. 41158335804853454314250562444628322 326501 5160200400600197019721974197619781980198219841986</p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
-<p><em type="bold">Samlaða haruveiðan í Sandavági </em></p>
+<p><em type="bold">Samlaða haruveiðan í Sandavági </em>29 </p>
 <p>Mynd 6.2a : Árliga haruveiðan í høgunum í Sandavági árini 1970 - 1986. 631248186956065109951155945761190306090120197019721974197619781980198219841986</p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
-<p><em type="bold">Ár </em>28103491346510175635110394579570306090120197019721974197619781980198219841986 </p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Ár </em></p>
+<p><em type="bold">Giljar </em>28103491346510175635110394579570306090120197019721974197619781980198219841986 </p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
 <p xml:lang="dan"><em type="bold">Slættanes </em>108864130304052417280445279600306090120197019721974197619781980198219841986 </p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
 <p><em type="bold">Gimbrarnar (Húsafelli) </em>55625359305955956880294552540306090120197019721974197619781980198219841986 </p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
-<p xml:lang="eng"><em type="bold">Sund </em></p>
+<p xml:lang="eng"><em type="bold">Sund </em>30 </p>
 <p>Mynd 6.2b : Árliga haruveiðan í høgunum í Sandavági árini 1970 - 1986. 51656068454838534579334868620306090120197019721974197619781980198219841986</p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
-<p><em type="bold">Ár </em>601033642183435643260321618540306090120197019721974197619781980198219841986 </p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Ár </em></p>
+<p><em type="bold">Oyrargjógv </em>601033642183435643260321618540306090120197019721974197619781980198219841986 </p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
 <p><em type="bold">Handasti hagi (Heldarstindur) </em>46403830344547716062433671620306090120197019721974197619781980198219841986 </p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
 <p><em type="bold">Dalhagi (Hálsar og Malingstindur) </em>36284458666742433958480306090120197019721974197619781980198219841986 </p>
-<p><em type="bold">Tal </em><em type="bold">av </em><em type="bold">harum </em></p>
+<p><em type="bold">Tal av harum </em></p>
 <p><em type="bold">Ár </em></p>
-<p><em type="bold">Oknadalur </em></p>
+<p><em type="bold">Oknadalur </em>31 <em type="bold">7. Hara sum handilsvøra </em></p>
 <p>Vanliga er tað so, at harurnar, sum menn skjóta í Føroyum, bert verða nýttar til húsbrúk. Men hjá teimum, sum fáa nógv, hevur eisini verið vanligt, at geva burtur av, til grannar og til onnur í familjuni. Eg eri tó komin fram á nøkur dømi, har hara eisini hevur verið nýtt sum handilsvøra. <em type="bold">7.1 Haruragout </em></p>
 <p>Inni á skrivstovuni hjá Valdimar Lützen á Skálatrøð, hava tey eina mynd hangandi á vegginum, sum vísir ymiskar etikettir, sum teir klistraðu á blikk av niðursjóðaðum vørum, sum <em type="italic">Fabrikkin </em>við Rættará framleiddi fyrst í 1900-árunum. Hetta var ein framleiðsla, sum teir høvdu til tann føroyska marknaðin og til útflutning. Høvuðsframleiðslan á <em type="italic">Fabrikkini </em>var fiskabollar, men teir framleiddu eisini niðursjóðaðar lomvigabringur og niðursjóðaðar harur (Mynd 7.3). </p>
 <p>Á einari av hesum etikettunum stendur <span type="quote" xml:lang="eng">“Hareragout”</span> (Mynd 7.1). Á vinstru síðu á etikettini stendur “ <em type="italic">Sæt Daasen i kogende Vand i 20 Minutter og den er gennemvarm. Til Haren laves Vildsauce, hvortil Kraften benyttes </em>”. Á høgru síðu stendur sami tekstur skrivaður á enskum máli, so helst hava teir eisini framleitt til enska marknaðin. Hvussu stór framleiðslan av haruragout var hesi árini, er ikki eydnast mær at finna fram til. </p>
 <p>Mynd 7.1: Etiketta, sum var sett á blikk við niðursjóðaðum harum, sum keypmaðurin Jacob Lützen &amp; Sönner framleiddu á Skálatrøð til útflutning fyrst í 1900-árunu (Mynd: Ole Wich).</p>
-<p>Mynd 7.2: Fabrikkin hjá Östrøm, sum hon sær út í dag. Útsjóndin á bygninginum og vindeygum er júst tann sama, sum á etikettini omanfyri.</p>
-<p>Mynd 7.2: Framleiðsla av haruragout á fabrikkini hjá Jacob Lützen &amp; Sönner fyrst í 1900-árunum (Mynd: Valdemar Lützen) <em type="bold">7.2 Ísaðar harur útfluttar til Keypmannahavnar </em></p>
+<p>Mynd 7.2: Fabrikkin hjá Östrøm, sum hon sær út í dag. Útsjóndin á bygninginum og vindeygum er júst tann sama, sum á etikettini omanfyri. 32</p>
+<p><em type="italic"></em><em type="bold">7.2 Ísaðar harur útfluttar til Keypmannahavnar </em></p>
 <p>Í 1909 vóru eftir øllum at døma ísaðar feskar føroyskar harur útfluttar til Keypmannahavnar. Tað var handilsmaðurin Dethlef Thomsen, sum útflutti harurnar. Detlev var sonur Hans August Thomsen, sum í 1861 flutti føroyskar harur til Íslendsku oynna <span type="quote">“Viðey”</span>, sum liggur uttanfyri býin Reykjavík. Hetta havi eg skrivað um á síðu 27 í frágreiðingini <span type="quote">“Haruveiðan í Føroyum 2015”</span>.</p>
 <p>Hesar føroysku harurnar vóru tó nøkur ár seinni avafturtiknar, tí hildið var, at tær órógvaðu tær mongu æðurnar, sum hildu til á oynni. Dúnið, sum tey hentaðu úr reiðrunum og seldu, góðu fólkinum fitta av inntøku, men hendan inntøkan minkaði, tá føroysku harurnar vórðu sleptar á oynna. Harurnar vórðu tí avlívaðar. Føroysku harurnar komu sostatt ongantíð veruligar fyri seg í Íslandi.</p>
-<p>Dethlef var størsti handilsmaður í Íslandi fram til fyrra heimsbardaga, men enska handilsblokadan rakti hann meint. Detlev var eitt sindur av einum droymara, men eisini framsøkin. Í 1909 fór hann undir at innflyta frystar ella køldar vørur úr Russlandi og úr Føroyum. Hetta hevur Rókur Tummasarson sagt mær. Víðari sigur Rókur “ <em type="italic">Hann ætlaði millum annað at selja portiónir til íslendsku húsarhaldini. Klippfisk, rýpur, harur, høsn og gæs úr Russlandi. Veit bara um hetta, tí hann bað langabban um nakrar kassar at útflyta ísaðar harur úr Føroyum, sum vóru á goymslu í Havn </em>”. (Kelda: Rókur Tummasarson) <em type="bold">8. Rýpur í Føroyum </em></p>
+<p>Dethlef var størsti handilsmaður í Íslandi fram til fyrra heimsbardaga, men enska handilsblokadan rakti hann meint. Detlev var eitt sindur av einum droymara, men eisini framsøkin. Í 1909 fór hann undir at innflyta frystar ella køldar vørur úr Russlandi og úr Føroyum. Hetta hevur Rókur Tummasarson sagt mær. Víðari sigur Rókur “ <em type="italic">Hann ætlaði millum annað at selja portiónir til íslendsku húsarhaldini. Klippfisk, rýpur, harur, høsn og gæs úr Russlandi. Veit bara um hetta, tí hann bað langabban um nakrar kassar at útflyta ísaðar harur úr Føroyum, sum vóru á goymslu í Havn </em>”. (Kelda: Rókur Tummasarson) 33 <em type="bold">8. Rýpur í Føroyum </em></p>
 <p>Veiða hevur altíð havt stóra áhuga millum Føroyingar. Fyrr í tíðini var hetta grundarlagið fyri, at fólk kundu búleikast á hesum oyggjum. Maturin var í høvuðsheitum fiskurin, sum varð veiddur í sjónum, og so fuglaveiða í bjørgunum. Seinni fóru menn eisini at skjóta svartfugl á sjónum og eisini at veiða hann við snaru. Á landi var lítil veiða. Umframt haruna, sum vað innflutt til Føroyar úr Norra í 1855, so eru tað eingin dýr, sum verða veidd av týdningi á landi í Føroyum. Royndir hava tó verið gjørdar at økja um veiðutilfeingið her á landi. Í fleiri umførum eru royndir gjørdar at seta út rýpur. Royndirnar vórðu gjørdar við tveimum sløgum av rýpum. Fyrst við <em type="bold">fjallarýpu </em>( <em type="italic">Lagopus mutus </em>) (Mynd 8.1) <em type="italic">, </em>síðani við <em type="bold">heiðarýpu </em>( <em type="italic">Lagopus lagopus </em>) (Mynd 8.2). </p>
-<p>Mynd 8. 1: Fjallarýpa (Lagopus mutus). Is: Fjallrjúpa - en: ptarmigan - da: Fjeldrype - no: Fjellrype. Rýpur eru høsnafuglar. Fjallarýpa skiftir lit við árstíðini. Um veturin eru tær hvítar við svørtum fjaðrum á velinum. Um summarið er hon svørt og gulmorreyð um kroppin og nakað av veingjarlívdarfjaðrunum. Hin parturin av veingjunum er snjóhvítur. Allur búnin skriftir lit um summarið, uttan veingirnir. Teir eru hvítir alt árið. Føturnir eru lodnir niður á klógv. Munur er á steggja og bøgu. Steggin hevur alt árið ein húðarlepa omanfyri eygað og eina svarta striku frá nevinum til eygað, men hetta sæst best, tá hann er í vetrarbúna. Fjaðurskiftið millum summar og vetur er fløkjasligt, og er heldur ikki eins hjá steggja og bøgu, t. d. ber steðgin hvíta vetrarbúnan langt út á várið. Fjallarýpan eigur í øllum frostmýrum norðanfyri, har turt ella vátt eru um, oftast í kjarri, so at reiðrið fær ligið fjalt. Í Íslandi er hon vanlig á Norðurlandinum. Longur norðuri er hon bæði í Grønlandi og á Svalbard. Syðri í Evropa eru eisini stovnar av fjallarýpum í høgum fjallalendi. Fjallarýpan etur plantur, men ungarnir taka mest skordýr.</p>
-<p>Mynd 8.2 : Heiðarýpa (Lagopus lagopus). is: Lyngrjúpa - en: Red Grouse - da: Grouse - no: Lirype ella skogsrype. Heiðarýpa er førligur fuglur, eitt sindur størri enn fjallarýpa. Vinstra myndin vísir skotskar heiðarýpur; bøgu og steggja. Høgra mynd vísir norskar heiðarýpur (dalarýpur) í vetrarbúna. Tær skotsku heiðarýpurnar (L.l. scotica) eru næstan einlitt reyðbrúnar alt árið,bæði kroppur og veingir. Steggin er heldur dimmari enn bøgan og er eyðkendur av einum reyðum húðarlepa, sum er omanfyri eygað. Norska heiðarýpan – dalarýpan (L.l lagopus) er øðrvísi litt enn tann skotska. Hon hevur hvítar veingir og skiftir lit um veturin, tá hon verður hvít, eins og fjallarýpa. Heiðarýpan etur fyri tað mesta lyng men kann eisini eta korn, og onkuntíð eisini skordýr. <em type="bold">8.1 Ymiskar royndir við útseting </em></p>
-<p xml:lang="dan">Gjøgnum árini eru fleiri royndir gjørdar at seta rýpur út í Føroyum. Fyrst vóru íslendskar fjallarýpur ( <em type="italic">Lagopus mutus </em>) settar út, síðani grønlendska fjallarýpur og so skotskar og norskar heiðarýpur ( <em type="italic">Lagopus lagopus </em>). Fyrstur at seta rýpur út í Føroyum, var sýslumaðurin H.C. Müller. Hetta vóru íslendskar fjallarýpur, sum vórðu sleptar upp í seinnu helvt av átjanhundrað. Seinni royndi eisini íslendingurin Hannes Finsen, sum var amtmaður í Føroyum frá 1871 til 1892, at seta út íslendskar fjallarýpur í Føroyum. Eisini hendan royndin miseydnaðist. Íslendsku rýpurnar, sum bæði Müller og Finsen fingur til Føroyar, vóru so ússaligar, og komu tí ongantíð veruliga fyri seg. Í 1896 keypti exam. jur., E. Müller, í Havn rýpur í Skotlandi, sum hann setti út <span type="quote">“Uppi undir Varða”</span> í Húsahaganum. Hesar rýpurnar vórðu, sambært Føroyingatíðindum, seinni sæddar millum annað á Sundshálsi. Tær doyðu tó eisini útaftur. Í 1890 royndi Rasmus Müller, sonur H.C. Müller, at seta rýpur út í Føroyum. Hesar vóru grønlendskar fjallarýpur. Henda royndin eydnaðist væl. Rýpurnar komu fyri seg. Tær fingu ungar og spjaddu seg kring oyggjarnar. Árini 1973 til 1977 gjørdi Andrias Reinert royndir við at seta rýpur út í Føroyum; fyrst rýpur úr Skotlandi, síðani <span type="quote">“Dalrýpur”</span> úr Norra. “ <em type="italic">Efter de oplysninger, som jeg fra forskellige sider har erholdt, og om hvis pålidelighed jeg ikke har grund til at nære tvivl, skal det være højst sandsynligt, at der her på øerne findes samtlige de betingelser, der er nødvendige for at ryper (perdrix blanche) skal kunne trives her. – Denne fugl, der i mængde findes i den del af Norge, der ligger på samme breddegrad som Færøerne, såvel som på Island og Grønland, hvor naturforholdene ligner de, som findes her, afgiver ikke blot et for befolkningen på de nævnte steder vigtigt fødemiddel, men er tillige en ikke uvæsentlig udførselsartikel; det ville derfor være meget fordelagtigt for de herværende beboere, dersom det måtte kunne lykkes at få den forplantet hertil. Jeg har i betragtning heraf længe ønsket, at et forsøg i så henseende kunne blive anstillet. En her bosat mand forsøgte i foråret at få levende ryper bragt hertil fra Island; men skibet, hvormed fuglene, 5 à 6 stk i alt, afsendtes fra Island, havde en temmelig uheldig rejse, hvis årsag fuglene døde undervejs. </em></p>
+<p>Mynd 8. 1: Fjallarýpa (Lagopus mutus). Is: Fjallrjúpa - en: ptarmigan - da: Fjeldrype - no: Fjellrype. Rýpur eru høsnafuglar. Fjallarýpa skiftir lit við árstíðini. Um veturin eru tær hvítar við svørtum fjaðrum á velinum. Um summarið er hon svørt og gulmorreyð um kroppin og nakað av veingjarlívdarfjaðrunum. Hin parturin av veingjunum er snjóhvítur. Allur búnin skriftir lit um summarið, uttan veingirnir. Teir eru hvítir alt árið. Føturnir eru lodnir niður á klógv. Munur er á steggja og bøgu. Steggin hevur alt árið ein húðarlepa omanfyri eygað og eina svarta striku frá nevinum til eygað, men hetta sæst best, tá hann er í vetrarbúna. Fjaðurskiftið millum summar og vetur er fløkjasligt, og er heldur ikki eins hjá steggja og bøgu, t. d. ber steðgin hvíta vetrarbúnan langt út á várið. Fjallarýpan eigur í øllum frostmýrum norðanfyri, har turt ella vátt eru um, oftast í kjarri, so at reiðrið fær ligið fjalt. Í Íslandi er hon vanlig á Norðurlandinum. Longur norðuri er hon bæði í Grønlandi og á Svalbard. Syðri í Evropa eru eisini stovnar av fjallarýpum í høgum fjallalendi. Fjallarýpan etur plantur, men ungarnir taka mest skordýr. 34</p>
+<p><em type="italic"></em><em type="bold">8.1 Ymiskar royndir við útseting </em></p>
+<p>Gjøgnum árini eru fleiri royndir gjørdar at seta rýpur út í Føroyum. Fyrst vóru íslendskar fjallarýpur ( <em type="italic">Lagopus mutus </em>) settar út, síðani grønlendska fjallarýpur og so skotskar og norskar heiðarýpur ( <em type="italic">Lagopus lagopus </em>). Fyrstur at seta rýpur út í Føroyum, var sýslumaðurin H.C. Müller. Hetta vóru íslendskar fjallarýpur, sum vórðu sleptar upp í seinnu helvt av átjanhundrað. Seinni royndi eisini íslendingurin Hannes Finsen, sum var amtmaður í Føroyum frá 1871 til 1892, at seta út íslendskar fjallarýpur í Føroyum. Eisini hendan royndin miseydnaðist. Íslendsku rýpurnar, sum bæði Müller og Finsen fingur til Føroyar, vóru so ússaligar, og komu tí ongantíð veruliga fyri seg. Í 1896 keypti exam. jur., E. Müller, í Havn rýpur í Skotlandi, sum hann setti út <span type="quote">“Uppi undir Varða”</span> í Húsahaganum. Hesar rýpurnar vórðu, sambært Føroyingatíðindum, seinni sæddar millum annað á Sundshálsi. Tær doyðu tó eisini útaftur. Í 1890 royndi Rasmus Müller, sonur H.C. Müller, at seta rýpur út í Føroyum. Hesar vóru grønlendskar fjallarýpur. Henda royndin eydnaðist væl. Rýpurnar komu fyri seg. Tær fingu ungar og spjaddu seg kring oyggjarnar. Árini 1973 til 1977 gjørdi Andrias Reinert royndir við at seta rýpur út í Føroyum; fyrst rýpur úr Skotlandi, síðani <span type="quote">“Dalrýpur”</span> úr Norra. 35 </p>
+<p xml:lang="dan">Eg skal her greiða eitt sindur nærri frá teimum ymisku útsetingunum av rýpum í Føroyum. Carl Emil Dahlerup, sum var amtmaður í Føroyum 1849-1861, var maðurin, sum innflutti haruna til Føroyar. Hetta var í 1855. Seinni hevði hann eisini ætlanir um at seta rýpur út í Føroyum, so føroyingar kundu fáa okkurt afturat at lívbjarga sær við. Í tí sambandi heitti hann á donsku myndugleikarnar um at stuðla tiltakinum fíggjarliga. Í brævi til Justitsministeriet, dagfest 4. februar 1864, skriva Dahlerup millum annað. “ <em type="italic">Efter de oplysninger, som jeg fra forskellige sider har erholdt, og om hvis pålidelighed jeg ikke har grund til at nære tvivl, skal det være højst sandsynligt, at der her på øerne findes samtlige de betingelser, der er nødvendige for at ryper (perdrix blanche) skal kunne trives her. – Denne fugl, der i mængde findes i den del af Norge, der ligger på samme breddegrad som Færøerne, såvel som på Island og Grønland, hvor naturforholdene ligner de, som findes her, afgiver ikke blot et for befolkningen på de nævnte steder vigtigt fødemiddel, men er tillige en ikke uvæsentlig udførselsartikel; det ville derfor være meget fordelagtigt for de herværende beboere, dersom det måtte kunne lykkes at få den forplantet hertil. Jeg har i betragtning heraf længe ønsket, at et forsøg i så henseende kunne blive anstillet. En her bosat mand forsøgte i foråret at få levende ryper bragt hertil fra Island; men skibet, hvormed fuglene, 5 à 6 stk i alt, afsendtes fra Island, havde en temmelig uheldig rejse, hvis årsag fuglene døde undervejs. </em></p>
 <p xml:lang="dan"><em type="italic">Når et sådant forsøg skal anstilles, må man imidlertid ikke indskrænke sig til et for ringe antal fugle, og frem for alt må man ikke lade sig afskrække ved det uheldige udfald af et enkelt forsøg. </em></p>
 <p xml:lang="dan"><em type="italic">Uagtet det mindre heldige udfald, det nævnte forsøg havde, ønskede jeg dog at anstille et nyt forsøg, og navnlig med et større antal fugle. </em>“ </p>
 <p xml:lang="dan">Í brævinum biður Dahlerup Justitsministeriet um loyvi at brúka 30 til 40 rbd (Rigs Banks Daler) til “ <em type="italic">.... i Island at lade indkøbe levende ryper for at anstille et nyt forsøg på at forplante denne fugl her til øerne. </em>” </p>
 <p>Umsóknin verður játtað, og í brævi frá Justitsministeriunum, dagfest 23. februar 1883, fær Dahlerup játtaðar 40 rbd til “ <em type="italic">.... at indkøbe og overføre til Færøerne et parti levende ryper </em>”, men tá var Dahlerup farin av landinum, og óvist er, um royndin at seta út tær íslendsku rýpurnar í Føroyum nakrantíð gjørdust til veruleika. </p>
 <p>Upplýsingarnar omanfyri havi eg fingið frá Charlotte Langkilde. Tað er hon, sum hevur skrivað bókina <span type="quote" xml:lang="dan">“Færøerne – En moderne nation fødes”</span>. Í sínum arbeiði at skriva bókina, hevur hon skrivað av (transkribera) tað mesta av brævaskiftinum, sum Dahlerup hevði við donsku myndugleikarnar, umframt annað tilfar um Dahlerup, sum finst arkivinum. Charlotte Langkilde hevur verið so beinasom a geva mær partar av hesum tilfarinum. Tað eri eg henni takksamur fyri.</p>
-<p>Rýpurnar, sum sýslumaðurin H.C. Müller setti út í Føroyum vóru fjallarýpur, sum hann hevði fingið úr Íslandi. Í 1864 skrivar H.C. Müller soleiðis í brævi til lív- og jarðfrøðingin Sir Walter Calverly Trevelyan (1797-1879): ” <em type="italic">Fleiri ferðir havi eg roynt at slept rýpum úr Íslandi upp her, men ikki hevur borið til enn. Tað sær út til, at tær bert liva tveir ella tríggjar dagar aftan á at tær eru fangaðar. Við eggum hevur heldur ikki borið til. Tey flestu hava verið í stropa </em>”. Í 1890 gjørdi Rasmus Müller royndir við at seta grønlendskar rýpur út í Føroyum. Rasmus Müller var sonur sýslumannin H.C. Müller, sum fyrr hevði gjørt royndir við at seta út íslendskar rýpur út í Føroyum. Rasmus Müller arbeiddi sum kolonibestýrari í Grønlandi. Í forvitnisligari grein, sum nevnist “ <em type="italic">Da grønlandske ryper kom til Færøerne - </em></p>
+<p>Rýpurnar, sum sýslumaðurin H.C. Müller setti út í Føroyum vóru fjallarýpur, sum hann hevði fingið úr Íslandi. Í 1864 skrivar H.C. Müller soleiðis í brævi til lív- og jarðfrøðingin Sir Walter Calverly Trevelyan (1797-1879): ” <em type="italic">Fleiri ferðir havi eg roynt at slept rýpum úr Íslandi upp her, men ikki hevur borið til enn. Tað sær út til, at tær bert liva tveir ella tríggjar dagar aftan á at tær eru fangaðar. Við eggum hevur heldur ikki borið til. Tey flestu hava verið í stropa </em>”. Í 1890 gjørdi Rasmus Müller royndir við at seta grønlendskar rýpur út í Føroyum. Rasmus Müller var sonur sýslumannin H.C. Müller, sum fyrr hevði gjørt royndir við at seta út íslendskar rýpur út í Føroyum. Rasmus Müller arbeiddi sum kolonibestýrari í Grønlandi. Í forvitnisligari grein, sum nevnist “ <em type="italic">Da grønlandske ryper kom til Færøerne - </em>36 <em type="italic">nogle træk om den initiativrige kolonibestyrer og jæger Rasmus Müller </em>”, greiðir Henning Scheel frá, hvussu Rasmus Müller fekk fatur á 11 pørum av grønlendskum rýpum, sum hann, við serligum hegni og dugnaskapi, førdi við skipi; fyrst úr Grønlandi til Keypmannahavnar, og síðani aftur sama veg við postbátinum til Føroyar. Fyrstu tíðina hevði Rasmus Müller rýpurnar byrgdar inni. Har vandi hann tær at drekka og at eta lyng, bygg og fuglafræ. Tá rýpurnar vórðu farna at eta og drekka, bygdi Rasmus stórar kassar til rýpurnar, sum so vórðu fluttar við skipi; fyrst úr Grønlandi til Keypmannahavnar, og síðani aftur sama veg við postbátinum til Føroyar. Av teimum 22 rýpunum, sum vórðu sendar úr Grønlandi, doyðu tvær undir ferðini til Føroyar og ein slapp leys. Sostatt komu 19 grønlendskar rýpur til Føroyar. Rýpurnar komu til Havnar í juni mánað 1890, har bróðurin og pápin, H.C. Müller, tóku ímóti flutningskassunum. Kassarnir vórðu bornir niðan í fjøllini og rýpurnar sleptar leysar. Sambært blaðnum <span type="quote">“Føroyingatíðindum”</span>, vórðu rýpurnar sleptar á Kirkjubøreyni. Rýpurnar trivust væl í Føroyum, og longu 21. august sama árið var ein fráboðan um, at ein rýpuhøna var sædd við átta ungum, tætt við har rýpurnar vórðu sleptar út. Rýpurnar spjaddust kring landið, og vóru millum annað sæddar í Nólsoy, Eysturoynni og í Norðoyggjum. Grønlendsku rýpurnar doyðu tó útaftur. Frásøgnin hjá Henning Scheel, sum kom út í 1965, endar við hesum orðum <em type="italic">“.....men efter den 17. oktober 1902, hvor nogle stykker blev set på Myggnæs, er der ikke fundet ryper på Færøerne </em>”. Hetta man tó neyvan vera rætt, tí Andrias Reinert veit um, at fleiri rýpur hava verið sæddar fleiri ár eftir hetta Í 1973 fór Andrias Reinert undir at seta út skotskar rýpur í Føroyum. Hetta vóru heiðarýpur ( <em type="italic">Lagopus lagopus scoticus </em>), sum hann, árini 1972 -1976, fekk sendandi úr Skotlandi. Rýpurnar vóru fyrstu tíðina havdar í búrum í Hoydølum, har tær vurpu. Úr eggunum komu ungar, sum so vóru settir út um summarið. Í 1974 gjørdi Andrias Reinert eisini royndi við at seta út norskar dalrýpur. Hetta árið vóru lítlar vónir um at fáa skotskar rýpur til Føroyar. Andrias Reinert setti tí lýsing í bløðini, har fólk kundu<span type="quote">”ættleiða”</span> eitt rýpupar fyri kr. 400. Áhugin fyri tiltakinum var stórur millum fólk, og skjótt høvdu nóg mikið av monnum teknað seg (tað vóru bara menn), so nóg mikið var av pengum at keypa teir norsku rýpuungarnar fyri. Hetta er tað, sum nú á døgum verður nevnt <span type="quote" xml:lang="eng">“crowdfunding”</span>, og man vera fyrstu ferð, at hetta er roynt í Føroyum. Fjøruti ungar vórðu fingnir frá <span type="quote" xml:lang="dan">“Direktoratet for vilt og ferskvannsfiske”</span> í Norra, sum hvør kostaðu 200 NKr. Norsku rýpurnar vóru heiðarýpurnar, ella tað sum á føroyskum verður nevnt <span type="quote">“dalrýpur”</span> ( <em type="italic">Lagopus lagopus lagopus </em>), tað sum norðmenn nevna <span type="quote" xml:lang="eng">“lirype”</span> ella <span type="quote" xml:lang="dan">“skogsrype”</span>. Norsku rýpurnar komu við flogfari 25. august 1974, og vórðu fyrstu tíðina havdar í búrum innandura í Hoydølum. Tær vurpu og úr eggunum komu ungar, sum vóru settir út í Suðurstreymi og við Toftavatn. 37 <em type="bold">8.2 Andrias Reinert </em></p>
 <p>Andrias Reinert er føddur Havn 24. februar 1934. Í 1954 fór hann undir at lesa lívfrøði á universitetinum í Keypmannahavn. Í 1958 fekk hann arbeiði sum biologassistentur á Fiskirannsóknarstovuni (núverandi Havstovan), har hann millum annað skuldi taka sær av at lesa aldur á fiski út frá nitrum. Á Fiskirannsóknarstovuni fekst hann eisini við ymiskt annað. Eitt nú kannaði hann kóp undir Føroyum. Í 1960-árunum gjørdi hann eitt stórt arbeiði við at kanna lomvigan undir Føroyum, fyri millum annað at staðfesta, hvussu stórur føroyski lomvigastovnurin var og hvussu hann ferðaðist millum lond. Í seksti og sjeytiárunum gjørdi hann kanningar av Føroysku haruni. Hetta hevur hann skrivað um í bókini <span type="quote" xml:lang="dan">“Danmarks natur - Færøerne”</span>, sum kom út í triðju útgávu í 1982. Í 20 ár, 1968 til 1988, arbeiddi hann við at byggja upp ein nýggjan føroyskan grágásastovn, eftir at hesin av grammleika varð oydd í Føroyum um ár 1830. Tá Føroyingar so smátt fóru undir alivinnuna seinast í seksti- og fyrst í sjeytiárunum, var Andrias Reinert eisini ein av undangongumonnunum, har hann, saman við m. a. Júst í Túni av Toftum og Edmund Joensen av Oyrarbakka, stóð fyri alingini, sum Fiskaaling hevði við Streymin og á gomlu hvalastøðini við Áir. Tá landið í 1973 yvirtók allan partapeningin Fiskaaling , gjørdist Andrias Reinert stjóri í felagnum. Hetta starvið røkti hann í 22 ár, til 1995. Eftir hetta varð hann settur sum aliráðgevi hjá Føroya Landsstýri . Sum tøkk fyri sítt slóðbrótandi arbeiði innan føroysku alivinnuna, gjørdi Havbúnarfelagið í 2018 Andrias Reinert til heiðurslim í felagnum. Umframt alt tað, sum er nevnt omanfyri, gjørdi Andrias Reinert frá 1972 til 1976 eisini royndir við, at seta út skotskar og norskar rýpur út í Føroyum. Hesum verður greitt frá niðanfyri.</p>
-<p>Mynd 5.2: Andrias Reinert í køkinum heima á Villingardalsvegnum, tá eg vitjaði hann 8. november 2018. Hann lænti mær ymiskt tilfar um føroysku haruna, sum hann hevði savnað saman gjøgnum árini og greiddi mær eisini frá arbeiðinum, sum hann fyrr hevði gjørt at set rýpur út Føroyum . <em type="bold">8.3 Tvær frásagnir um rýpur í Føroyum </em></p>
-<p>Tann 21 oktober og 18. desember 20018 hevði Andrias Reinert tvær myndarøðir við tilhoyrandi teksti á Facebook, har hann sera hegnisliga greiðir frá royndunum at seta rípur ú tí Føroyum Fyrra myndarøðin (s. 39 – 52 ) nevnist: “ <em type="bold">Grønlendsku rýpurnar í Føroyum - Hví fánaði stovnurin burtur aftur í einki? </em>”. Tann seinna (s. 53 – 83 ) nevnist “ <em type="bold">Whiskyrýpan <span type="quote" xml:lang="eng">”The Red Grouse”</span> og <span type="quote" xml:lang="eng">”lirype”</span> úr Noregi – heiðarýpa og dalrýpa – sera skjótt gjørdu tær av í Føroyum </em>”. Andrias Reinert hevur verið so beinasamur at loyva mær at endurgeva hesar báðar myndarøðirnar í hesi frágreiðingini. Tað er i eg Andriasi sera takksamur fyri. </p>
+<p><em type="italic"></em>. 38 <em type="bold">8.3 Tvær frásagnir um rýpur í Føroyum </em></p>
+<p>Tann 21 oktober og 18. desember 20018 hevði Andrias Reinert tvær myndarøðir við tilhoyrandi teksti á Facebook, har hann sera hegnisliga greiðir frá royndunum at seta rípur ú tí Føroyum Fyrra myndarøðin (s. 39 – 52 ) nevnist: “ <em type="bold">Grønlendsku rýpurnar í Føroyum - Hví fánaði stovnurin burtur aftur í einki? </em>”. Tann seinna (s. 53 – 83 ) nevnist “ <em type="bold">Whiskyrýpan <span type="quote" xml:lang="eng">”The Red Grouse”</span> og <span type="quote" xml:lang="eng">”lirype”</span> úr Noregi – heiðarýpa og dalrýpa – sera skjótt gjørdu tær av í Føroyum </em>”. Andrias Reinert hevur verið so beinasamur at loyva mær at endurgeva hesar báðar myndarøðirnar í hesi frágreiðingini. Tað er i eg Andriasi sera takksamur fyri. 39 <em type="bold">8.3.1 Grønlendsku rýpurnar í Føroyum </em></p>
 <p><em type="bold">Hví fánaði stovnurin burtur aftur í einki? </em></p>
-<p><em type="bold">Andrias Reinert </em><em type="bold">1 </em>. Myndin er úr sera áhugaverdari grein í tíðarritinum GRØNLAND 1965, nr. 9, har m.a. verður greitt frá hvussu Rasmus Müller við serligum dugnaskapi og snildi í 1890 fekk 20 rýpur í øllum góðum, fyrst við skipi til Danmarkar, og haðani aftur við skipi til Føroyar, har bróðurin og pápin H.C. Müller fyrst í Juni bóru kassarnar við rýpunum niðan í Kirkjubøreyn, og sóu fuglarnar í flokki hvørva um sýn. – Væl hava teir verið fyri, tí longu 21. august sama ár sá bróðurin eina rýpuhønu við 8 ungum, ikki langt frá har teir sleptu fuglunum fyrst í juni. Hóast rýpurnar vórðu friðaðar tey fyrstu 10 árini, frættist at ein varð skotin á Sandoynni og ein í Suðuroy. Eisini vórðu tær sæddar í Nólsoy, í Eysturoy og Norðoyggjum, - so tær fóru víða um. www.tidsskriftetgronland.dk/archive/1965-9-Artikel05.pdf?fbclid=IwAR2nvdemyaGQNqMJZG9adaSCYOFr0Gpm_UzlI0OxJNXTFVuvBMKZly hULHM#page=1 <em type="bold">2. </em>Vanliga ganga eini 10 ár millum tey heilt góðu <span type="quote">”rýpuárini”</span> í Grønlandi, tá er ovmikið av rýpu um alt landið, og stórir flokkar flyta norðari frá til Suðurgrønlands. Onnur ár kann hinvegin vera sera lítið til av rýpu í Grønlandi. <em type="bold">3. </em>Á rýpuveiðu nakað sunnan fyri Nuuk í 1956. (Mynd: Andrias Reinert). <em type="bold">4. </em>Pápi Rasmus, sýslumaðurin H. C. Müller, hevði mong ár undan roynt at flyta rýpur til Føroya. Í brævi til lív- og jarðfrøðingin Sir Walter Calverly Trevelyan (1797-1879) skrivar hann í 1864: <span type="quote">”Fleiri ferðir havi eg roynt at slept rýpum úr Íslandi upp her, men ikki hevur borið til enn. Tað sær út til at tær bert liva tveir ella tríggjar dagar aftan á at tær eru fangaðar. Við eggum hevur heldur ikki borið til, Tey flestu hava verið í stropa”</span>. (Mynd: Klaus Kiesewetter, íslendsk rýpa í summarbúna). <em type="bold">5. </em>Føringatíðindi juli 1890: 20 rýpur hevur Rasmus Müller, kolonibestýrari, sent higar úr Grønlandi. Ein var deyð á vegnum, hinar eru sleptar upp á Kirkjubøreyn….Tvær reisur fyrr er roynt at nøra um rýpur í Føroyum. Finsen, amtmaður, og H. C. Müller, sýslumaður, hava fingið rýpur úr Íslandi, sum teir hava slept upp. Tær hava tó frá fyrstu ferð verið ússaligar, og eru skjótt deyðar. (Kelda: Føringatíðindi. (Mynd: Ómar Runólfsson. Íslendsk rýpa 15. oktober 2018). <em type="bold">6. </em>Februar 1891: Rýpurnar, ið sleptar vórðu á Kirkjubøreyn í summar, eru sæddar í fleiri støðum, nakrar her á reyninum við ungum, nakrar í fjøllunum við Haldórsvík og nakrar í Suðuroy, har ein varð skotin av óvart. (Kelda: Føringatíðindi). <em type="bold">7. </em>Februar 1892: Rýpur sigast at vera skotnar í Norðurstreymi. – Veturin er ringur, nógvur seyður er farin fyri bakka. (Kelda: Føringatíðindi). <em type="bold">8 </em>. Tann 4. oktober 1894 skrivar Føroyingatíðindi: <span type="quote">“Rýpurnar, sum nú í næstum lítið er frætt frá, hava fyri kortum verið sæddar í rúgvu í Norðoyggjum. Summastaðni í haganum skulu tær vera sæddar at bøla”</span>. (Kelda: Føringatíðindi). <em type="bold">9 </em>. 15. oktober 1896: H.C. Müller hevur slept skotskum rýpum út í hagan við Havnina. (Kelda: Føringatíðindi). (Mynd: Andrias Reinert. Skotskur rýpusteggi við Toftavatn 1974). <em type="bold">10 </em>. Tann 18. oktober 1894 skrivar Føroyingatíðindi: <span type="quote">“Rýpurnar nørast nú almikið víða hvar um Føroyar á teimum hægstu fjøllunum. Marius Johannesen í Funningi hevur sæð rýpur uppi á Vaðhorni, hann biður fólk um ikki at skjóta tær, sum hann heldur hevur borist á fyrr. ...Eisini á Viðoy og Borðoy hava tær latið seg sæð”</span>. (Kelda: Føringatíðindi). <em type="bold">11 </em>. Tann 3. desember 1896 skriva Føroyingatíðindi: <span type="quote">“Av teimum skotsku rýpunum, sum H. C. Müller hevur slept út í hagan við Havnina. eru nakrar sæddar á Sundshálsi…...Av grønlandsrýpum er á Skælingsfjalli sæddur flokkur o.u. 50. Í Norðoyggjum er almikið á hægstu fjøllum, eisini norðuri í Eysturoy og Streymoy á høgum fjøllum síggjast tær íðuliga”</span>. (Kelda: Føringatíðindi). <em type="bold">12 </em>. Tann 16. desember 1897 skriva ð Føroyingatíðindi: <span type="quote">“Tey fuglasløg sum kolonibest. R. Müller í Grønlandi fyri nøkrum árum síðan sendi til Føroya og ”</span><span type="quote">”skotskar rýpur”</span> (grouser), sum exam. jur. E. Müller í Havn keypti úr Skotlandi munnu nú, sum søgur ganga, fara at nørast fyri álvara her. Rýpurnar úr Grønlandi eru at síggja í stórum flokkum á ymsum fjallatoppum á norðara parti av landinum, og hinar skotsku, sum ikki eru meira enn ársgamlar í Føroyum, síggjast eisini í støðum. Ein hevur vorpið í Toftahaganum…..” (Kelda: Føringatíðindi) <em type="bold">13 </em>. Á rýpuveiðu í fjøllunum inn av Sisimiut í 1956. (Mynd: Andrias Reinert). <em type="bold">14 </em>. Jens Reinert: <span type="quote">”Ovast á Sornfelli sóu vit í mong ár eitt rýpupar, tað sat næstan altíð inni á sjálvum slættanum í erva. Sera vakrar og spakar at koma framvið, tá vit skutu harur, so snjóhvítar hesa árstíð. Pápi mín, ”Andrias í Norðradali,” var sárur um rýpuparið, og legði okkum eina við, ikki at skjóta. Veturin 1914-15 komu tveir nólsoyingar Sigmund og Óli við at skjóta harur. Sum eg gangi í niðaru rókunum í ”Fjalli millum Botna”</span> hoyri eg áhaldandi dun av byrsuskotum úr mjørkanum í erva, og undrist á, hvat er, tí so gott <span type="quote">”harupláss”</span> átti ikki at veri. (Kelda: Jens Reinert). <em type="bold">15 </em>. Men oman úr mjørkanum, og sera fegnir um góðan fong, komu nú nólsoyingarnir við 7 ella 8 rýpum. Onkur var farin út av hamrinum, sum teir ikki høvdu fingið fatur á. Teir høvdu bast øllum flokkinum, eini 10 fuglum. Harurnar bóru vit til hús, men rýpurnar tyrvdu vit nakað væl uttan fyri bøgarðin við ein klett. Tá pápi dagin eftir fór við einum veðragjólingi til Skælings, og gott og væl var farin um sýn, varð roytt og kókað, og væl smakkaði hesin forkunnugi fuglur. Minti ikki sørt um haru.” (Kelda: Jens Reinert). <em type="bold">16. </em><span type="quote" xml:lang="dan">”Grækaris”</span> kom fram á rýpu við smáum ungum á Núgvuni, í tí vallingini, sum hellur oman móti Sundshaganum. (Kelda: Jens Reinert). <em type="bold">17 </em>. Einaferð í 1920-unum sá Johan Haraldsen í Elduvík eitt rýpupar við ellivu ungum uppi á Bláhomrum. (Kelda: Hans Pauli Hansen). <em type="bold">18. </em>Uppi undir toppinum á Múlatindi (umleið 1937) leitaði eg einaferð leingi eftir reiðrinum hjá eini rýpu, hon skrukkaði sum høna (vildi liggja) men eg fann ikki reiðrið. Her uppi á Múlatindi vóru tær ofta at síggja. Kundi síggja einar seks vaksnar ein dag. Hetta var í 30-unum. Plagdi at skjóta harur har. (Kelda: Hans Pauli Hansen). <em type="bold">19. </em>Í Lokkafelli sóust tær eisini, í 1919 skeyt eg eina her. Hon kom undan einum steini, eg tók hana fyri eina haru. Havi ikki sæð rýpu hesi seinnu árini” (Kelda: Hans Pauli Hansen). <em type="bold">20 </em>. Karl Johan Bech, fyrrverandi djóralækni hevði skotið tvær rýpur. Hann hevði hugt eftir, hvat var í maganum, men kendi ikki vøksturin. Vit royndu at finna út av hvat tað mundi vera, og tá eg bar honum Hostajavna (sum á myndini), helt hann at hetta mundi vera tað, sum hann hevði funnið í báðum rýpunum. (Kelda: Andrias Reinert). <em type="bold">21 </em>. Andrias Djurhuus sá tvær rýpur undir Reyðafellstindi veturin 1914-15, og sá eisini rýpur á hásumri undir Skælingi. Hin tiltikni páskakavin í 1917, einki líknandi hevur verið í Føroyum, mundi gera enda á meginpartinum av tí sum var eftir av rýpu, og fara ógvuliga illa við haruni, og neyvan eru hvítar harur sæddar síðani. (Kelda: Andrias Djurhuus). <em type="bold">22. </em>Janus í Jákupslon av Norðoyri sigur, at teir sóu 9 rýpur í Oyrahaga, tá hann saman við bróðrinum skeyt harur har nakað fyri jól í 1929 (Kelda: Sámal Petersen). <em type="bold">23 </em>. Jákup á Grømma segði frá, at hann sá fyrstu rýpuna, tá hann var um 11 ár (um 1902). Henda rýpan hevði leitað sær oman til húsini hjá teimum á Viðareiði. Hetta var um veturin, hon var hvít og hevði lodnar føtur. Hann kendi ikki fuglin tá, men seinni sá hann rýpur fleiri ferðir ovast í rókunum á Malingsfjalli (Kelda: Sámal Petersen). <em type="bold">24. </em>Nicolai Poulsen lærari í Árnafirði: Vit vóru á fjalli í Mjóvaseyðinum í Árnafirði 16. oktober í ár (1969). Eg gekk nakað undir Eggjaklettinum, og niðan fyri meg gingu tríggir tólv áragamlir dreingir. Tá vit nærkast út móti Múlanum, rópti ein av dreingjunum: <span type="quote">”Hvat er hatta fyri ein undarligur fuglur, hann flýgur so undarliga”</span>. Eg vendi mær á og sá, at tað var ein rýpa. Hon var í skotmála hjá mær, so har var einki at taka feil. Hon kom undan einum steini beint við føturnar á tí eina dreinginum. Eg kann leggja tað afturat , at tær flestu rýpurnar, sum eru sæddar her av bygdarmonnum, nettupp eru sæddar um somu leið sum henda. (Kelda: Sámal Petersen). <em type="bold">25. </em>Frá Sigmundi í Dali hevur onkur sagt mær, at hann sá rýpu á Havnatindi í Svínoy, meðan hann máldi upp har, eg eri ikki førur at siga dag, ei heldur ár. Ungur Kunoyingur sá rýpuflokk uppi á Kunoynni í 1964. (Kelda: Sámal Petersen). <em type="bold">26 </em>. Regin Leonson Joensen sá eina rýpu 7. november 1969 upp av Selvíkum í Vágum. Teir vóru og skutu harur. Maðurin hevur verið nógv í Íslandi og er kunnugur við rýpur. (Kelda: Sámal Petersen). <em type="bold">27 </em>. Jógvan Frederiksen, Klaksvík, gekk á fjalli alla sína tíð, hann segði seg at hava sæð nakrar rýpur av og á bæði í Uppsalahaga og Strandahaga. Tær seinastu sá hann 3. oktober 1964 upp av Ritudali í Uppsalahaga og eina 7. oktober 1965 eystantil á Lokka í Strandahaga. (Kelda: Sámal Petersen). <em type="bold">28 </em>. Heystið 1969 sá S. J. Hansen í Árnafirði tríggjar rýpur uppi á fjallinum norðanfyri Árnafjørð. (Kelda: Sámal Petersen). <em type="bold">29 </em>. Januar 1974: Poul Joensen, lækni í Havn sigur seg hava sæð ein hvíta rýpu undir Heinafelli á Vágoynni veturin 1971-72 í kava. Hann var tætt hjá henni, og eingin ivi var um, at tað var ein rýpa. Verfaðir hansara í Gásadali segði, tá hann spurdi hann, at teir sóu tær av og á. <em type="bold">30. </em>Líggjas Vágslíð segði mær nú ein dagin, at hann helt, at rýpur vóru í Klakkinum í heyst (1974), tí har vóru 6 fuglar (eitt par við ungum), men hann var teimum ikki nóg nær, at siga við fullari vissu, at tað vóru rýpur. Hann er ættaður úr Fugloy, og hann hevur í dreingjaárum sæð tær har úti av og á. (Kelda: Sámal Petersen) (Hetta kann møguliga hava verið skotskar rýpur, sum eg, Andrias Reinert, hevði slept tá. (Kelda: Andrias Reinert). <em type="bold">31 </em>. Læknin Petur Waagstein (hevur verið nógv í Grønlandi) segði, at hann sá eina rýpu við unga ella ungum við Toftavatn í heyst (1974). (Kelda: Sámal Petersen) (Hetta eru tó skotskar rýpur, sum eg, Andrias Reinert, hevði slept upp har í 1974) (Mynd: Andrias Reinert. Skotskur rýpusteggi við hálvvaksnum unga við Toftavatn í 1974). <em type="bold">32. </em>Hví minkaði stovnurin av rýpum niður aftur í einki? Kann tað hugsast at gróðurin, sum er egnaður til rýpuføði, og sum ikki nógv er til av í Føroyum, ikki toldi bitið av stórum rýpuflokkum?? <em type="bold">33. </em>Ella kann tað heldur hava verið <span type="quote">”innannøring”</span> sum hevur volt til at lítið og einki, sum frá leið, er komið undan av ungum. Innfluttu fuglarnir fóru jú víða um land, og nakrir vórðu skotnir, so óivað stavaði stovnurin, sum mentist norðanfyri, frá bert fáum pørum. Ringir vetrar eru óivað eisini ferð eftir ferð farnir illa við, og hava minkað um bæði rýpu og harustovn?? (sí 21). </p>
+<p><em type="bold">Andrias Reinert 1 </em>. Myndin er úr sera áhugaverdari grein í tíðarritinum GRØNLAND 1965, nr. 9, har m.a. verður greitt frá hvussu Rasmus Müller við serligum dugnaskapi og snildi í 1890 fekk 20 rýpur í øllum góðum, fyrst við skipi til Danmarkar, og haðani aftur við skipi til Føroyar, har bróðurin og pápin H.C. Müller fyrst í Juni bóru kassarnar við rýpunum niðan í Kirkjubøreyn, og sóu fuglarnar í flokki hvørva um sýn. – Væl hava teir verið fyri, tí longu 21. august sama ár sá bróðurin eina rýpuhønu við 8 ungum, ikki langt frá har teir sleptu fuglunum fyrst í juni. Hóast rýpurnar vórðu friðaðar tey fyrstu 10 árini, frættist at ein varð skotin á Sandoynni og ein í Suðuroy. Eisini vórðu tær sæddar í Nólsoy, í Eysturoy og Norðoyggjum, - so tær fóru víða um. www.tidsskriftetgronland.dk/archive/1965-9-Artikel05.pdf?fbclid=IwAR2nvdemyaGQNqMJZG9adaSCYOFr0Gpm_UzlI0OxJNXTFVuvBMKZly hULHM#page=1 40 <em type="bold">2. </em>Vanliga ganga eini 10 ár millum tey heilt góðu <span type="quote">”rýpuárini”</span> í Grønlandi, tá er ovmikið av rýpu um alt landið, og stórir flokkar flyta norðari frá til Suðurgrønlands. Onnur ár kann hinvegin vera sera lítið til av rýpu í Grønlandi. <em type="bold">3. </em>Á rýpuveiðu nakað sunnan fyri Nuuk í 1956. (Mynd: Andrias Reinert). <em type="bold">4. </em>Pápi Rasmus, sýslumaðurin H. C. Müller, hevði mong ár undan roynt at flyta rýpur til Føroya. Í brævi til lív- og jarðfrøðingin Sir Walter Calverly Trevelyan (1797-1879) skrivar hann í 1864: <span type="quote">”Fleiri ferðir havi eg roynt at slept rýpum úr Íslandi upp her, men ikki hevur borið til enn. Tað sær út til at tær bert liva tveir ella tríggjar dagar aftan á at tær eru fangaðar. Við eggum hevur heldur ikki borið til, Tey flestu hava verið í stropa”</span>. (Mynd: Klaus Kiesewetter, íslendsk rýpa í summarbúna). 41 <em type="bold">5. </em>Føringatíðindi juli 1890: 20 rýpur hevur Rasmus Müller, kolonibestýrari, sent higar úr Grønlandi. Ein var deyð á vegnum, hinar eru sleptar upp á Kirkjubøreyn….Tvær reisur fyrr er roynt at nøra um rýpur í Føroyum. Finsen, amtmaður, og H. C. Müller, sýslumaður, hava fingið rýpur úr Íslandi, sum teir hava slept upp. Tær hava tó frá fyrstu ferð verið ússaligar, og eru skjótt deyðar. (Kelda: Føringatíðindi. (Mynd: Ómar Runólfsson. Íslendsk rýpa 15. oktober 2018). <em type="bold">6. </em>Februar 1891: Rýpurnar, ið sleptar vórðu á Kirkjubøreyn í summar, eru sæddar í fleiri støðum, nakrar her á reyninum við ungum, nakrar í fjøllunum við Haldórsvík og nakrar í Suðuroy, har ein varð skotin av óvart. (Kelda: Føringatíðindi). 42 <em type="bold">7. </em>Februar 1892: Rýpur sigast at vera skotnar í Norðurstreymi. – Veturin er ringur, nógvur seyður er farin fyri bakka. (Kelda: Føringatíðindi). <em type="bold">8 </em>. Tann 4. oktober 1894 skrivar Føroyingatíðindi: <span type="quote">“Rýpurnar, sum nú í næstum lítið er frætt frá, hava fyri kortum verið sæddar í rúgvu í Norðoyggjum. Summastaðni í haganum skulu tær vera sæddar at bøla”</span>. (Kelda: Føringatíðindi). 43 <em type="bold">9 </em>. 15. oktober 1896: H.C. Müller hevur slept skotskum rýpum út í hagan við Havnina. (Kelda: Føringatíðindi). (Mynd: Andrias Reinert. Skotskur rýpusteggi við Toftavatn 1974). <em type="bold">10 </em>. Tann 18. oktober 1894 skrivar Føroyingatíðindi: <span type="quote">“Rýpurnar nørast nú almikið víða hvar um Føroyar á teimum hægstu fjøllunum. Marius Johannesen í Funningi hevur sæð rýpur uppi á Vaðhorni, hann biður fólk um ikki at skjóta tær, sum hann heldur hevur borist á fyrr. ...Eisini á Viðoy og Borðoy hava tær latið seg sæð”</span>. (Kelda: Føringatíðindi). <em type="bold">11 </em>. Tann 3. desember 1896 skriva Føroyingatíðindi: <span type="quote">“Av teimum skotsku rýpunum, sum H. C. Müller hevur slept út í hagan við Havnina. eru nakrar sæddar á Sundshálsi…...Av grønlandsrýpum er á Skælingsfjalli sæddur flokkur o.u. 50. Í Norðoyggjum er almikið á hægstu fjøllum, eisini norðuri í Eysturoy og Streymoy á høgum fjøllum síggjast tær íðuliga”</span>. (Kelda: Føringatíðindi). 44 <em type="bold">12 </em>. Tann 16. desember 1897 skriva ð Føroyingatíðindi: <span type="quote">“Tey fuglasløg sum kolonibest. R. Müller í Grønlandi fyri nøkrum árum síðan sendi til Føroya og ”</span><span type="quote">”skotskar rýpur”</span> (grouser), sum exam. jur. E. Müller í Havn keypti úr Skotlandi munnu nú, sum søgur ganga, fara at nørast fyri álvara her. Rýpurnar úr Grønlandi eru at síggja í stórum flokkum á ymsum fjallatoppum á norðara parti av landinum, og hinar skotsku, sum ikki eru meira enn ársgamlar í Føroyum, síggjast eisini í støðum. Ein hevur vorpið í Toftahaganum…..” (Kelda: Føringatíðindi) <em type="bold">13 </em>. Á rýpuveiðu í fjøllunum inn av Sisimiut í 1956. (Mynd: Andrias Reinert). 45 <em type="bold">14 </em>. Jens Reinert: <span type="quote">”Ovast á Sornfelli sóu vit í mong ár eitt rýpupar, tað sat næstan altíð inni á sjálvum slættanum í erva. Sera vakrar og spakar at koma framvið, tá vit skutu harur, so snjóhvítar hesa árstíð. Pápi mín, ”Andrias í Norðradali,” var sárur um rýpuparið, og legði okkum eina við, ikki at skjóta. Veturin 1914-15 komu tveir nólsoyingar Sigmund og Óli við at skjóta harur. Sum eg gangi í niðaru rókunum í ”Fjalli millum Botna”</span> hoyri eg áhaldandi dun av byrsuskotum úr mjørkanum í erva, og undrist á, hvat er, tí so gott <span type="quote">”harupláss”</span> átti ikki at veri. (Kelda: Jens Reinert). <em type="bold">15 </em>. Men oman úr mjørkanum, og sera fegnir um góðan fong, komu nú nólsoyingarnir við 7 ella 8 rýpum. Onkur var farin út av hamrinum, sum teir ikki høvdu fingið fatur á. Teir høvdu bast øllum flokkinum, eini 10 fuglum. Harurnar bóru vit til hús, men rýpurnar tyrvdu vit nakað væl uttan fyri bøgarðin við ein klett. Tá pápi dagin eftir fór við einum veðragjólingi til Skælings, og gott og væl var farin um sýn, varð roytt og kókað, og væl smakkaði hesin forkunnugi fuglur. Minti ikki sørt um haru.” (Kelda: Jens Reinert). <em type="bold">16. </em><span type="quote" xml:lang="dan">”Grækaris”</span> kom fram á rýpu við smáum ungum á Núgvuni, í tí vallingini, sum hellur oman móti Sundshaganum. (Kelda: Jens Reinert). 46 <em type="bold">17 </em>. Einaferð í 1920-unum sá Johan Haraldsen í Elduvík eitt rýpupar við ellivu ungum uppi á Bláhomrum. (Kelda: Hans Pauli Hansen). <em type="bold">18. </em>Uppi undir toppinum á Múlatindi (umleið 1937) leitaði eg einaferð leingi eftir reiðrinum hjá eini rýpu, hon skrukkaði sum høna (vildi liggja) men eg fann ikki reiðrið. Her uppi á Múlatindi vóru tær ofta at síggja. Kundi síggja einar seks vaksnar ein dag. Hetta var í 30-unum. Plagdi at skjóta harur har. (Kelda: Hans Pauli Hansen). <em type="bold">19. </em>Í Lokkafelli sóust tær eisini, í 1919 skeyt eg eina her. Hon kom undan einum steini, eg tók hana fyri eina haru. Havi ikki sæð rýpu hesi seinnu árini” (Kelda: Hans Pauli Hansen). 47 <em type="bold">20 </em>. Karl Johan Bech, fyrrverandi djóralækni hevði skotið tvær rýpur. Hann hevði hugt eftir, hvat var í maganum, men kendi ikki vøksturin. Vit royndu at finna út av hvat tað mundi vera, og tá eg bar honum Hostajavna (sum á myndini), helt hann at hetta mundi vera tað, sum hann hevði funnið í báðum rýpunum. (Kelda: Andrias Reinert). 48 <em type="bold">21 </em>. Andrias Djurhuus sá tvær rýpur undir Reyðafellstindi veturin 1914-15, og sá eisini rýpur á hásumri undir Skælingi. Hin tiltikni páskakavin í 1917, einki líknandi hevur verið í Føroyum, mundi gera enda á meginpartinum av tí sum var eftir av rýpu, og fara ógvuliga illa við haruni, og neyvan eru hvítar harur sæddar síðani. (Kelda: Andrias Djurhuus). <em type="bold">22. </em>Janus í Jákupslon av Norðoyri sigur, at teir sóu 9 rýpur í Oyrahaga, tá hann saman við bróðrinum skeyt harur har nakað fyri jól í 1929 (Kelda: Sámal Petersen). <em type="bold">23 </em>. Jákup á Grømma segði frá, at hann sá fyrstu rýpuna, tá hann var um 11 ár (um 1902). Henda rýpan hevði leitað sær oman til húsini hjá teimum á Viðareiði. Hetta var um veturin, hon var hvít og hevði lodnar føtur. Hann kendi ikki fuglin tá, men seinni sá hann rýpur fleiri ferðir ovast í rókunum á Malingsfjalli (Kelda: Sámal Petersen). 49 <em type="bold">24. </em>Nicolai Poulsen lærari í Árnafirði: Vit vóru á fjalli í Mjóvaseyðinum í Árnafirði 16. oktober í ár (1969). Eg gekk nakað undir Eggjaklettinum, og niðan fyri meg gingu tríggir tólv áragamlir dreingir. Tá vit nærkast út móti Múlanum, rópti ein av dreingjunum: <span type="quote">”Hvat er hatta fyri ein undarligur fuglur, hann flýgur so undarliga”</span>. Eg vendi mær á og sá, at tað var ein rýpa. Hon var í skotmála hjá mær, so har var einki at taka feil. Hon kom undan einum steini beint við føturnar á tí eina dreinginum. Eg kann leggja tað afturat , at tær flestu rýpurnar, sum eru sæddar her av bygdarmonnum, nettupp eru sæddar um somu leið sum henda. (Kelda: Sámal Petersen). <em type="bold">25. </em>Frá Sigmundi í Dali hevur onkur sagt mær, at hann sá rýpu á Havnatindi í Svínoy, meðan hann máldi upp har, eg eri ikki førur at siga dag, ei heldur ár. Ungur Kunoyingur sá rýpuflokk uppi á Kunoynni í 1964. (Kelda: Sámal Petersen). <em type="bold">26 </em>. Regin Leonson Joensen sá eina rýpu 7. november 1969 upp av Selvíkum í Vágum. Teir vóru og skutu harur. Maðurin hevur verið nógv í Íslandi og er kunnugur við rýpur. (Kelda: Sámal Petersen). 50 <em type="bold">27 </em>. Jógvan Frederiksen, Klaksvík, gekk á fjalli alla sína tíð, hann segði seg at hava sæð nakrar rýpur av og á bæði í Uppsalahaga og Strandahaga. Tær seinastu sá hann 3. oktober 1964 upp av Ritudali í Uppsalahaga og eina 7. oktober 1965 eystantil á Lokka í Strandahaga. (Kelda: Sámal Petersen). <em type="bold">28 </em>. Heystið 1969 sá S. J. Hansen í Árnafirði tríggjar rýpur uppi á fjallinum norðanfyri Árnafjørð. (Kelda: Sámal Petersen). <em type="bold">29 </em>. Januar 1974: Poul Joensen, lækni í Havn sigur seg hava sæð ein hvíta rýpu undir Heinafelli á Vágoynni veturin 1971-72 í kava. Hann var tætt hjá henni, og eingin ivi var um, at tað var ein rýpa. Verfaðir hansara í Gásadali segði, tá hann spurdi hann, at teir sóu tær av og á. 51 <em type="bold">30. </em>Líggjas Vágslíð segði mær nú ein dagin, at hann helt, at rýpur vóru í Klakkinum í heyst (1974), tí har vóru 6 fuglar (eitt par við ungum), men hann var teimum ikki nóg nær, at siga við fullari vissu, at tað vóru rýpur. Hann er ættaður úr Fugloy, og hann hevur í dreingjaárum sæð tær har úti av og á. (Kelda: Sámal Petersen) (Hetta kann møguliga hava verið skotskar rýpur, sum eg, Andrias Reinert, hevði slept tá. (Kelda: Andrias Reinert). <em type="bold">31 </em>. Læknin Petur Waagstein (hevur verið nógv í Grønlandi) segði, at hann sá eina rýpu við unga ella ungum við Toftavatn í heyst (1974). (Kelda: Sámal Petersen) (Hetta eru tó skotskar rýpur, sum eg, Andrias Reinert, hevði slept upp har í 1974) (Mynd: Andrias Reinert. Skotskur rýpusteggi við hálvvaksnum unga við Toftavatn í 1974). <em type="bold">32. </em>Hví minkaði stovnurin av rýpum niður aftur í einki? Kann tað hugsast at gróðurin, sum er egnaður til rýpuføði, og sum ikki nógv er til av í Føroyum, ikki toldi bitið av stórum rýpuflokkum?? 52 <em type="bold">33. </em>Ella kann tað heldur hava verið <span type="quote">”innannøring”</span> sum hevur volt til at lítið og einki, sum frá leið, er komið undan av ungum. Innfluttu fuglarnir fóru jú víða um land, og nakrir vórðu skotnir, so óivað stavaði stovnurin, sum mentist norðanfyri, frá bert fáum pørum. Ringir vetrar eru óivað eisini ferð eftir ferð farnir illa við, og hava minkað um bæði rýpu og harustovn?? (sí 21). </p>
 <p><em type="bold">Keldur </em></p>
 <p>Føroyingatíðindi 1890 – 1897 (f.t.)</p>
 <p>Bræv frá Sámal Petersen, Biskupsstøðargøta, Klaksvík januar 1974: (s.p.).</p>
 <p>Banduptøka: Andrias Djurhuus (Kollferingurin) 1973 (Andrias Djurhuus)</p>
 <p>Hans Pauli Hansen, Funningsfjørður – 27. februar 1970: (h.p.h.)</p>
 <p>Jens Reinert, Tórshavn, (uppvaksin í Norðradali): (Jens Reinert)</p>
-<p>Myndir, har einki er viðmerkt, eru læntar av netinum. <em type="bold"></em><em type="bold">heiðarýpa og dalrýpa – sera skjótt gjørdu tær av í Føroyum </em></p>
-<p><em type="bold">Andrias Reinert </em><em type="bold">1 </em>. So mikið av útlendskum valuta leggur rýpuveiða eftir sær, at bert Whiskey, skip, ferðavinna og tweed muna meira í húsarhaldinum í Skotlandi. Vanlig ár verða eini 2 milliónir rýpur skotnar í Bretlandi. Rýpa verður tó ikki so gomul, sum hesir edlu gylti dropar – <span type="quote" xml:lang="eng">“The Famous Grouse”</span><span type="quote">”- , tí hóast tú á onkrari oyggj, kann koma fram á 7-8 ára gamla rýpu, so verða bert heilt fáar rýpur ársgamlar. On ”The Glourious Twelvt”</span> (12 september) fekk parlamentið frí, so limirnir kundu verða við at skjóta <span type="quote">”fyrsta rýpudag”</span>. Oljusjeikar og aðrir ríkiskroppar koma í hópatali til Bretlands, og gjalda har í dýrum dómum, fyri at sleppa at verða við í hesi spennandi veiðu. Privat flogfør kappast um at flúgva rýpur, sum eru skotnar <span type="quote">”fyrsta dag”</span> í Skotlandi til Londons, har <span type="quote">”fínastu”</span> matstøðini hvørt í sínum lagi kappast um at verða fyrst, at seta nýskotnar Red Grouse á <span type="quote" xml:lang="eng">”matarlepan”</span>, hetta serstaka kvøld <em type="bold">2. </em>Vanligt er at veiða rýpu við vandum veiðihundum. Tá hundurin tevjar fong støðgar hann fyrst á, og fær ikki fuglin á flog fyrrenn veiðimaðurin sigur til. Sera spennandi var á vári í 1976, at sleppa at vera við, at telja rýpur á víðari lyngklæddari líð í Skotlandi saman við rýpuserfrøðingi og tveimum av hesum væl vandu veiðihundum. <em type="bold">3. </em>Eins og nólsoyingar her hava lagað sær eitt stilli í fjøruni, til at skjóta skurar. <em type="bold"></em><em type="bold">4. </em>Laga teir sær eisini stilli í Skotlandi. Veiðimennirnir sita tá kúrrir í stillunum, og hópar av arbeiðsleysum ungdómi saman við <span type="quote">”pensjónistum”</span> tvassa, sum klapparar, gjøgnum síða lyngin, g vinna sær væl av pundum, við at reka rýpurnar móti stillunum. <em type="bold">5. </em>Í 1971 skrivaði eg til <span type="quote" xml:lang="dan">”Direktotatet for Jakt, Viltstell og Ferskvannsfiske”</span> í Noregi, og spurdi um møguleikar vóru at fáa rýpur úr Noregi til enn eina roynd , at fáa hetta fuglaslag at trívast í Føroyum. Teir høvdu tó tá ongan møguleika at hjálpa okkum við hesum, menn ráddu mær til at skriva til Dr. Adam Watson, The Nature Conservancy. Skotar aldu tá Rýpur í Bancory í Skotlandi. Longu 4. apríl fekk eg játtandi svar frá skotum, og aftur í juni, at vit kundu fáa 6 rýpupør í juli - august, um onkur kundi koma eftir teimum, og fáa tær til Føroya. Og her kom Sofus Poulsen til sín rætt. <em type="bold"></em><em type="bold">6. </em>Gunnar Gunnarson á Fiskivinnustovuni var tá støðugt í sambandi við Sendistovuna hjá Skarðhamar í Aberdeen, og eg síggi á einum seðli, at eg havi skrivað: <span type="quote">”Rýpumaðurin hjá Skarðhamar eitur Sofus Poulsen”</span>, sum eg tá einki vist hvør var, men hesin <span type="quote" xml:lang="eng">”Mr. Poulsen”</span> kom at hava ein heilt avgerandi leiklut í øllum <span type="quote">”rýpu-komersinum”</span>. Sofus gjørdist persónligur vinur við <span type="quote" xml:lang="eng">”Mr Glennie”</span> og hini fólkini, sum fingust við at ala rýpu í <span type="quote" xml:lang="eng">”Bancory”</span>. Tað var hann, sum hvørja ferð árini 1972-1976, koyrdi eftir fuglunum, fóðri, heilivági v.m. og sum altíð visti, nær tað lá fyri at fáa fugl og vørur við bátum, sum tá antin vóru á veg inn, ella lógu í Aberdeen, á veg til Føroya. <em type="bold"></em><em type="bold">7. </em>Sámal Petersen, sum var landsstýrismaður tá, hevði serstakan áhuga fyri rýpum, eins og fyri øllum øðrum í natúruni, og hann tók av heilum huga undir við, at stuðla einari roynd afturat at sleppa rýpum. <em type="bold"></em><em type="bold">8. </em>Av tí at eg tá gekk við brotnum beini, hevði eg í 1972 ikki fingið brúkt allan peningin, sum var játtaður til lomvigakanningar hetta árið, og eg fekk frá landsstýrinum loyvi at nýta nakað av hesum til rýpuroyndina. Rýpurnar kostaðu einki, tær fingu vit øll árini sum gávu frá skotum. <em type="bold"></em><em type="bold">9. </em>Minkagarðurin í Miðhoydølum varð givin, og frá býráðnum í Havn fekk eg loyvi at klippa mær so nógv minkanet, sum eg hevði brúk fyri, og at innrætta rýpubúr í tilbygningi til hoyggjhúsið hjá Skræddaranum í Hoydølum. <em type="bold"></em><em type="bold">10. </em>Otto bróður, sum var sera fittur í hondunum, og eg gjørdu her 6 óføra snøgg og góð búr, til rýpupørini. Her sæst ein rýpuhøna fáa sær ein <span type="quote">”gin og tonic”</span> og fóðurautomatirnar vóru somuleiðis eitt lítið plastikílat, har tú kundi fylla fóður í rørið uttan fyri hegnið. <em type="bold">11. </em>Umframt vatn, serligt rýpufóður úr Scotlandi, sand og skelsand ótu rýpurnar væl av nálum av furugreinunum, sum vit hongdu inn til tær. Men grammast vóru tær tó, tá tær fingu sær av lynginum, sum vit kliptu til tær, og sum er føðin, sum skotska rípan livur mest av. <em type="bold">12. </em>Fuglarnir trivust óføra væl. Móti vári sást at okkurt var á vási, og 1. mai 1973 lá fyrsta rýpueggið í einum reiðri. Mangur tími fór at sita í friði í hoyggjhúsinum og eygleiða. <em type="bold">13. </em>Her, eini 7 miles norðan fyri Fort William, eri eg og Sofus Poulsen á veg inn í ein av <span type="quote">”Gondolunum”</span> á Nevis Range Skilift. <em type="bold">14. </em>Sofus í Gondolinum, sum hálaði okkum upp á 650 metra hædd á fjallinum. Okkurt smávegis fingu vit okkum her á matstovuni <span type="quote" xml:lang="eng">”The Snow Goose”</span>, og tað sum var heilt sjaldsamt á hesi fjallaferð var, at vit á veg omanaftur, av tilvild hittu <span type="quote">”rýpuserfrøðingin”</span> Dr. Adam Watson, <em type="bold">15. </em>Her í skotsku fjallalíðini fekk eg sagt honum frá, hvussu tað hevði gingist við skotsku rýpunum í Føroyum til tá. <em type="bold">16. </em>Tann 24. juni 1973 sleptu vit pari nr.1 við 9 ungum, sum vóru áleið 3 vikur gamlir í búður við Djúpagil í Hoyvíkshaganum. Rypuhønan og ungarnir gingu 6 dagar í búrinum áðrenn latið varð upp. Í innilokaða partinum av búrinum var ein fóðurautomat og í opna partinum var ein vatnautomat . Steggin heldur vakt uttanfyri. <em type="bold"></em><em type="bold">17. </em>Á morgni 30. juni klipti eg hol á netið, og tá eg vitjaði um kvøldið lá rýpan í friði og náðum og bøldi ungunum tætt við inngongdina. Løtu seinni fór alt inn at fáa sær ein slurk og mat, og so út um aftur at bøla. Eisini dagin eftir bøldi hon nær við búrið, tá eg kom. Men tá flokkurin løtu seinni hevði verið inni og fingið sær, fór alt nakað burtur frá at bíta sær av lynginum. Bert høvdið á gomlu sást undan, tá hon aftur legði seg at bøla ungunum í síða lynginum. <em type="bold"></em><em type="bold">18. </em>Tá tey aftur ressaðust, flugu fyrst 2 ungar um ánna, og so alt aftaná. Gamla støðgaði á og læt eftir einum lítlum unga, ið ikki hevði slept sær yvirum saman við hinum; síðan gekk flokkurin víða um og fekk sær í brekkuni. Nú vit hava flutt búrini, liggja vit eina løtu í friði og eygleiða rýpuflokkin. <em type="bold">19. </em>Her hevur rýpa gjørt sær frálíkt reiður í einum búri við Villingadalsvegin. Níggju egg eru í reiðrinum. <em type="bold">20. </em>Rýpuhøna við smáum ungum í Hoyvíkshaga. Vit klaktu eisini rýpuegg undir dvørghønum, og allar rýpurnar tóku sera væl ímóti, tá eg slepti <span type="quote">”fremmandar”</span> ungar til tær, eisini um hesir vóru nakað størri enn teirra egnu. <em type="bold"></em><em type="bold">21. </em>Í lynginum í Hoyvíkshaganum var ikki lætt at fáa eyga á rýpufamiljurnar, tí allur flokkurin <span type="quote">”frysti”</span> við brestin, tá tú nærkaðist. Men hyggur tú væl her, sæst rýpa við ungum niðarlaga á myndini. <em type="bold">22 </em>. Fyri at lætta um, havi eg sett svarta striku undir, har ungar eru og tvær undir rýpuhønuna. Hoyrdist krákumál í nánd, tá flokkurin gekk á biti <span type="quote">”frysti”</span> alt sum snarljós, og lá stein deytt heilt leingi, og tað hendi ofta tá eg vitjaði. <em type="bold"></em><em type="bold">23 </em>. Rýpuhøna í Hoyvíkshaganum. <em type="bold">24 </em>. Rýpusteggi <em type="bold">25. </em>Móti skýming 10. august 1973: sá eg steggjan flúgva upp og gorra nakað eystan fyri gilið. Hoyrdi bøgu tætt hjá, og síðan veikt steggjamál. Tá eg fór nærri, kom eg fram á bøgu 1 við ánna við øllum ungunum. Nú sá eg, at tað var ein av ungunum, sum hevði látið, og 3 ungar fóru nú áhaldandi at láta við steggjamáli. Eg fór so oman til búrið, koyrdi mat í automatina og legði meg nær við. Skjótt dagaði flokkurin á <span type="quote">”Klettinum”</span> og trekti heldur trekliga oman móti búrinum. Fóru inn at fáa sær, men vóru skjót út aftur. Glyvursnes í baksýni á myndini. <em type="bold"></em><em type="bold">26. </em>Automatin í hinum búrinum var sum vant tóm, og tá eg hevði fylt í, kom flokkur 2, sum var tætt hjá, at fáa sær. Eg legði meg eina løtu í friði, við báðum rýpuflokkunum tætt hjá hvørju megin við. Alt át dúgliga av lynginum í skýmingini, og flokkur 1 trekti nakað norðureftir. Ungarnir vóru nú mest sum vaksnar rýpur at síggja til. <em type="bold"></em><em type="bold">27. </em>Eisini stóru ungarnir eru væl littir at fella í eitt við umhvørvið her. <em type="bold"></em><em type="bold">28. </em>Tann 16. mars 1974 tók eg myndir av rýpupari á trøðni hjá Lamhauge við Varðagøtu, har tær høvdu verið nakrar dagar. Parið hvarv 2 dagar aftaná. Bøgan hevði 2 ringar, steggin bert ein. Eftir øllum at døma var hetta sama parið, sum alt vár hevur verið at sæð í Hoyvíkshaganum á somu leið, har tær vórðu sleptar í fjør. Steggin spakur og <span type="quote" xml:lang="eng">”agressivur”</span>. <em type="bold"></em><em type="bold">29. </em>Í síðum lyngi, bert 30 m frá búrinum, har rýpurnar vórðu sleptar í fjør, sá eg tann 9. juni í 1974 í knokkin á einari rýpu. <em type="bold"></em><em type="bold">30. </em>Úr øðrum vinkli sæst hon her betur. Hetta vísti seg at vera sama hønan, sum varð slept í búrið við ungum í fjør, meðan steggin var ein av ungunum úr hinum 1973 flokkinum. <em type="bold">31. </em>Tá eg koyrdi rýpuna av, sást fjálgt reiður við 8 eggum, og sera skjót var rýpan aftur á reiðri. Stutt frá fór tá ein heilt annar fuglur av reiðrinum her uppi í Langagili í Hoyvíkshaganum, fór til gongu omaneftir, meðan hon støðugt hugdi aftur um seg. Hetta var æða. . Tá eg nakrar dagar seinni var aftur við rýpureiðrið, metti eg av eggjakoppunum, at alt var komið út, men 23. juni tá flokkurin sást norður móti Hvítanesi hevði parið bert 2 stórar ungar,. Steggin hoyrdist um somu leið 1. juli. <em type="bold"></em><em type="bold">32. </em>Talvan er frágreiðing til skotar, um hvussu vignaðist fyrsta árið. Sum sæst gekst væl í Hoyvíkshaga, har 13 av 16 ungum komu undan í øllum góðum, meðan tað gekk av skriðuni við Toftavatn, har bert 1 av 9 ungum kom undan. <em type="bold">33. </em>steggi <em type="bold"></em><em type="bold">34. </em>Frágreiðing til skotar: Her sæst hvar rýpur eru sæddar í september til desember 1973, og vanliga fer hetta rýpuslag ikki langa leið burtur frá staðnum, har tað er vaksið upp. <em type="bold"></em><em type="bold">35 </em>. Nógvur lyngur er her við Toftavatn, og tað var á hesi leið at eitt rýpureiður varð funnið, tá H.C. Müller á sinni í 1896 slepti skotskum rýpum. Eg gjørdu tí av, at seta 2 rýpubúur í síða lynginum nakað væl omanfyri vegin í 1973. Men meðan tað gekst sera væl í Hoyvíkshaganum, gekst av skriðuni við Toftavatn. <em type="bold">36. </em>Tann 25. juli 1973 sleptu vit einum pari við 4 ungum í eystara búrið, og par við 3 ungum í vestara búrið. Seint á kvøldið 27. juli hevði Poul Olsen lækni (sum hjálpti mær við hesum) latið búrini upp, og tá hann vitjaði aftur 31. juli var parið við 2 ungum við eystara búrið, men einki at síggja við hitt. Fóður var etið úr báðum búrum. Tann 4. august lá ungi deyður í vestara búri, og 14 dagar seinni varð rýpuhønan funnin deyð, drigin til hús av kettu. Hvat er hent hinum veit eingin. <em type="bold">37 </em>. Steggin lættur sær á. Hetta parið var rúma tíð at síggja við Toftavatn við 2 ungum, men út á heystið bert við tí eina unganum, sum víst á fyrru myndini. Ein dagin eg hevði fylt fóður í automatirnar og var komin oman aftur á vegin, hevði eg gloymt okkurt uppi við eystara búrið. Tá eg so aftur nærkaðist búrinum, tusti ein heilur <span type="quote">”herur”</span> av rottum í skundi út úr búrinum. Hetta kann væl hava verið fremsta orsøkin til, at so lítið kom burtur úr royndunum við Toftavatn og seinni somuleiðis í Glyvradali og aðrastaðni við . <em type="bold">38. </em>Í Skotabrúgv í Havnardali sá bilførari summarið 1975 rýpu við eini 4-5 smáum ungum, sum tó flugu….. (myndin er úr Hoyvíkshaganum. Minst 5 ungar eru á myndini!). Fyrsta árið, sum vit høvdu rýpur í Hoyvíkshaga, sóu vit ikki farveg eftir rottu, men í 74 gróvu rottur holur nærhendis, og vit løgdu tá rottukrút í fleiri hol. Hetta endurtók seg, og í 76 løgdu vit eitt nú rottugift fyrst í apríl og aftur í desember. <em type="bold"></em><em type="bold">39 </em>. Direktoratet for vilt og ferskvannsfiske sigur í brævi í 1974 frá, at <span type="quote" xml:lang="dan">”Skogfjordvatn grunnejerlag”</span> í Noregi kann lata okkum 40 rýpuungar fyri N.kr. 200 fyri hvønn. <em type="bold"></em><em type="bold">40, </em>Vónir at fáa skotskar rýpur í 1974 vóru júst tá smáar, og tá eg setti lýsing í bløðini, vísti tað seg, at sera mong høvdu hug at <span type="quote">”ættleiða”</span> eitt rýpupar fyri kr. 400. Og alt fyri eitt, høvdu vit nóg mikið til at keypa rýpuungarnar fyri. Norsku <span type="quote">”dalrýpurnar”</span> (lirýpe) komu við flogfari 25. august, og húsaðust fyrst í innandurabúrunum í Hoydølum <em type="bold">41 </em>. Longu dagin eftir, 26. august 1974, fluttu vit 18 ungar í búður í Hoyvíkshagan, og 10 fóru seinni í búður í Norðradali, sum varð sett opið um kvøldið 28. august. <em type="bold"></em><em type="bold">42 </em>. Skotsk rýpa við 3 ungum var í økinum tá eg seinnapartin 27. august setti opið hjá teimum norsku. Hesir næstan vaksnu fuglar, sum høvdu verið í búri alt lívið, háttaðu sær heilt øðrvísi enn hóvligu skotsku hønurnar við ungum. Í ovfarakæti flákraðu tær í allar ættir, nú teir fyrstu ferð í lívinum vóru undir fríum himni. <em type="bold">43 </em>. Úr at gera, at fáa rikið hetta <span type="quote">”pakkið”</span> aftur móti búrinum, men tá eg hevði rikið 3 ella 4 ferðir taldi eg 15 fuglar við búrið. Um kvøldið vóru bert tær 4 skotsku og tvær norskar inni. (Mynd: Kalmar Lindenskov). <em type="bold">44. </em>Men fekk tó samlað 8 ungar nærhendis og rikið teir til hinar. (Mynd: Kalmar Lindenskov). <em type="bold">45. </em>Illveður og regn var 28. august, og um kvøldið vóru tær 4 skotsku og 6 norsku rípurnar inni. Eg fekk samlað 5 afturat, sum vóru spjaddar rættiliga víða. Onkur fuglur mátti <span type="quote">”handtakast”</span>. Í skýmingini fleyg allur flokkurin nakað burtur frá búrinum. (Mynd:Kalmar Lindenskov) <em type="bold">46. </em>Tá norsku rýpurnar vóru tevsaðar, gingu tær, eins og tær skotsku, friðarliga á biti í lendinum. <em type="bold">47. </em>Men var okkurt óvanligt, dugdu hesar norsku <span type="quote">”búrhønurnar”</span> tó sanniliga eisini væl at <span type="quote">”frysta”</span> á staðnum. <em type="bold">48. </em>Hendan norska rýpan hevur hug at reisa knokkin, nú eg eri í so naskur við linsuni. <em type="bold">49. </em>Skotsku og norsku rýpurnar fylgdust, og sýntust ikki á nakran hátt at halda annað, enn at tær vóru eitt og sama fuglaslag. <em type="bold">50. </em>Út á heystið í 1974 sóust bert 2 skotskir steggjar í fylgi við 7 norskum rýpum í hesum økinum í Hoyvíkshaganum. Tær norsku eru á hesi myndini næstan lidnar at kasta summarbúnan. <em type="bold">51. </em>Her er ein sera <span type="quote" xml:lang="dan">”optimistisk”</span> lýsing í <span type="quote" xml:lang="dan">”Amtstidende for Færøerne”</span>, sum heitur á harumenn, ikki at skjóta rýpurnar. <em type="bold">52. </em>Eg helt fram við at fylla fóður í automatirnar í búrunum, og her eru tær norsku, sum nú eru snjóhvítar, farnar inn at fáa sær eina tuggu av <span type="quote">”handilsfóðuri”</span>. <em type="bold">53. </em>Fuglunum dámdu væl at sita á gomlu kráunum, tá tær hvíldu seg. Eitt par av skotskum rýpum við 3 ungum og ein norsk høna vórðu sleptar inni í Dølum á Viðareiði. Jákup Petersen á Viðareiði hevði skotsku hønuna (5005362) á hondum 26. august 1977: ” ógvuliga spøk og sær út til at liva væl. Varð slept aftur á sama stað”. Fyrst í september sleptu vit einum tilkomnum unga (5005375) á hesi leið, og beint sum hann var sleptur, kom ein skotsk rýpa til hansara. <em type="bold">54. </em>Eftir umbøn sendi eg ein steggja og 3 hønur av norska slagnum til rýpufarmin í Skotlandi, sum hevði stuðlað royndunum hjá okkum so óvanliga væl. Teir skuldu gera onkrar royndir at sammeta hesar norsku við skotsku rýpuna. <em type="bold">55. </em>Tvær skotskar og tríggjar norskar, í hvør sínum heilt ymiska vetrarbúna. Umframt í Hoyvíkshaga og við Toftavatn vórðu skotskar rýpur sleptar í Norðradali, Við Loranstøðina á Eiði, inni í Dølum á Viðareiði, á Glyvradali og í Rituvík. Og norskar í Norðradali. <em type="bold">56. </em>Vakurt var í góðum kavaveðri at fylgjast í haganum við hesum snotuligu fuglum, sum royndu at bíta sær av tí sindrið av vøkstri, sum kom undan kavanum. Serliga løgdu rýpurnar eftir berjalyngi. Hesi árini vit sleptu rýpum, árini 1973-77, vóru tær at síggja víða um. Sum vera man, sóust flestar nærhendis har tær vóru sleptar. Í dølum og á flestu fjøllunum í Suðurstreymoy. Eisini løgdust tær víða um sunnarlaga í Eysturoy og norður til Norðskála og Fuglafjarðar, ja heilt eystur til Sørvágs og suður til Vágs vóru tær at síggja. <em type="bold">57. </em>Ilt er at síggja mun á dalrýpu og fjallarýpu hønu tá tær eru í vetrarbúna. Fjallarýpu steggin kennist tá av svørtu strikuni úr nevi til eygað. Í staðin fyri at nørast, sum vit høvdu vónað, longdist ímillum at vit frættu um rýpur, og seinast eg sá rýpur í Hoyvíkshaganum var í 1980. Tá eg sá eina skotska, og eina sum var blendingur millum skotska og norska rýpu. <em type="bold">58. </em>í Harutíðini, tætt oman fyri bygdina á Velbastað, varð ein ungur steggi skotin 17. november 19??. Sera væl í holdum, 40 cm langur og vegaði 640 g (5005065). Í januar-februar mánað 1965 vigaðu norðmenn 374 liryper, og tær gomlu vigaðu í meðal 614 g og ungarnir frá árinum fyri 596 g. Fjallarýpurnar er smærri ávikavist: 488g og 458 g. Samanumtikið haldi eg, at hendan royndin at sleppa út heiða- og dalrýpu, var so <span type="quote">”væleydnað”</span>, at tað ikki loysur seg at royna aftur við hesum fuglasløgum. <em type="bold">59. </em>Írska rýpan er heldur ljósari á liti, enn tær á skotska meginlandinum, og fuglarnir á Hebridunum og Orknoyggjunum minna um hesar Írsku. Rýpa var upprunaliga ikki í Hetlandi, men er slept upp, og ein lítil stovnur trívist á Mainland. Liturin á hesum steggjanum, sum varð avmyndaður har í ár, minnir um írska slagið. <em type="bold">60 </em>. Fjallavatn. Íðan, hvat hevur hetta við Rýpu at gera ? Ikki annað enn, at her sleppa vit grágásaungum. Frá vinstru: Andrias og Thóra, Annlot Rasmussen, Sigrun Joensen, Edmund Joensen og Sverri Joensen. ( Mynd: Bjarni Rasmussen). <em type="bold">9. Heimildir </em></p>
+<p>Myndir, har einki er viðmerkt, eru læntar av netinum. <em type="bold"></em>53 <em type="bold">8.3.2 Whiskyrýpan <span type="quote" xml:lang="eng">”The Red Grouse”</span> og <span type="quote" xml:lang="eng">”lirype”</span> úr Noregi heiðarýpa og dalrýpa – sera skjótt gjørdu tær av í Føroyum </em></p>
+<p><em type="bold">Andrias Reinert 1 </em>. So mikið av útlendskum valuta leggur rýpuveiða eftir sær, at bert Whiskey, skip, ferðavinna og tweed muna meira í húsarhaldinum í Skotlandi. Vanlig ár verða eini 2 milliónir rýpur skotnar í Bretlandi. Rýpa verður tó ikki so gomul, sum hesir edlu gylti dropar – <span type="quote" xml:lang="eng">“The Famous Grouse”</span><span type="quote">”- , tí hóast tú á onkrari oyggj, kann koma fram á 7-8 ára gamla rýpu, so verða bert heilt fáar rýpur ársgamlar. On ”The Glourious Twelvt”</span> (12 september) fekk parlamentið frí, so limirnir kundu verða við at skjóta <span type="quote">”fyrsta rýpudag”</span>. Oljusjeikar og aðrir ríkiskroppar koma í hópatali til Bretlands, og gjalda har í dýrum dómum, fyri at sleppa at verða við í hesi spennandi veiðu. Privat flogfør kappast um at flúgva rýpur, sum eru skotnar <span type="quote">”fyrsta dag”</span> í Skotlandi til Londons, har <span type="quote">”fínastu”</span> matstøðini hvørt í sínum lagi kappast um at verða fyrst, at seta nýskotnar Red Grouse á <span type="quote" xml:lang="eng">”matarlepan”</span>, hetta serstaka kvøld 54 <em type="bold">2. </em>Vanligt er at veiða rýpu við vandum veiðihundum. Tá hundurin tevjar fong støðgar hann fyrst á, og fær ikki fuglin á flog fyrrenn veiðimaðurin sigur til. Sera spennandi var á vári í 1976, at sleppa at vera við, at telja rýpur á víðari lyngklæddari líð í Skotlandi saman við rýpuserfrøðingi og tveimum av hesum væl vandu veiðihundum. <em type="bold">3. </em>Eins og nólsoyingar her hava lagað sær eitt stilli í fjøruni, til at skjóta skurar. <em type="bold">4. </em>Laga teir sær eisini stilli í Skotlandi. Veiðimennirnir sita tá kúrrir í stillunum, og hópar av arbeiðsleysum ungdómi saman við <span type="quote">”pensjónistum”</span> tvassa, sum klapparar, gjøgnum síða lyngin, g vinna sær væl av pundum, við at reka rýpurnar móti stillunum. 55 <em type="bold">5. </em>Í 1971 skrivaði eg til <span type="quote" xml:lang="dan">”Direktotatet for Jakt, Viltstell og Ferskvannsfiske”</span> í Noregi, og spurdi um møguleikar vóru at fáa rýpur úr Noregi til enn eina roynd , at fáa hetta fuglaslag at trívast í Føroyum. Teir høvdu tó tá ongan møguleika at hjálpa okkum við hesum, menn ráddu mær til at skriva til Dr. Adam Watson, The Nature Conservancy. Skotar aldu tá Rýpur í Bancory í Skotlandi. Longu 4. apríl fekk eg játtandi svar frá skotum, og aftur í juni, at vit kundu fáa 6 rýpupør í juli - august, um onkur kundi koma eftir teimum, og fáa tær til Føroya. Og her kom Sofus Poulsen til sín rætt. <em type="bold">6. </em>Gunnar Gunnarson á Fiskivinnustovuni var tá støðugt í sambandi við Sendistovuna hjá Skarðhamar í Aberdeen, og eg síggi á einum seðli, at eg havi skrivað: <span type="quote">”Rýpumaðurin hjá Skarðhamar eitur Sofus Poulsen”</span>, sum eg tá einki vist hvør var, men hesin <span type="quote" xml:lang="eng">”Mr. Poulsen”</span> kom at hava ein heilt avgerandi leiklut í øllum <span type="quote">”rýpu-komersinum”</span>. Sofus gjørdist persónligur vinur við <span type="quote" xml:lang="eng">”Mr Glennie”</span> og hini fólkini, sum fingust við at ala rýpu í <span type="quote" xml:lang="eng">”Bancory”</span>. Tað var hann, sum hvørja ferð árini 1972-1976, koyrdi eftir fuglunum, fóðri, heilivági v.m. og sum altíð visti, nær tað lá fyri at fáa fugl og vørur við bátum, sum tá antin vóru á veg inn, ella lógu í Aberdeen, á veg til Føroya. <em type="bold"></em>56 <em type="bold">7. </em>Sámal Petersen, sum var landsstýrismaður tá, hevði serstakan áhuga fyri rýpum, eins og fyri øllum øðrum í natúruni, og hann tók av heilum huga undir við, at stuðla einari roynd afturat at sleppa rýpum. <em type="bold">8. </em>Av tí at eg tá gekk við brotnum beini, hevði eg í 1972 ikki fingið brúkt allan peningin, sum var játtaður til lomvigakanningar hetta árið, og eg fekk frá landsstýrinum loyvi at nýta nakað av hesum til rýpuroyndina. Rýpurnar kostaðu einki, tær fingu vit øll árini sum gávu frá skotum. <em type="bold"></em>57 <em type="bold">9. </em>Minkagarðurin í Miðhoydølum varð givin, og frá býráðnum í Havn fekk eg loyvi at klippa mær so nógv minkanet, sum eg hevði brúk fyri, og at innrætta rýpubúr í tilbygningi til hoyggjhúsið hjá Skræddaranum í Hoydølum. <em type="bold">10. </em>Otto bróður, sum var sera fittur í hondunum, og eg gjørdu her 6 óføra snøgg og góð búr, til rýpupørini. Her sæst ein rýpuhøna fáa sær ein <span type="quote">”gin og tonic”</span> og fóðurautomatirnar vóru somuleiðis eitt lítið plastikílat, har tú kundi fylla fóður í rørið uttan fyri hegnið. <em type="bold">11. </em>Umframt vatn, serligt rýpufóður úr Scotlandi, sand og skelsand ótu rýpurnar væl av nálum av furugreinunum, sum vit hongdu inn til tær. Men grammast vóru tær tó, tá tær fingu sær av lynginum, sum vit kliptu til tær, og sum er føðin, sum skotska rípan livur mest av. 58 <em type="bold">12. </em>Fuglarnir trivust óføra væl. Móti vári sást at okkurt var á vási, og 1. mai 1973 lá fyrsta rýpueggið í einum reiðri. Mangur tími fór at sita í friði í hoyggjhúsinum og eygleiða. <em type="bold">13. </em>Her, eini 7 miles norðan fyri Fort William, eri eg og Sofus Poulsen á veg inn í ein av <span type="quote">”Gondolunum”</span> á Nevis Range Skilift. <em type="bold">14. </em>Sofus í Gondolinum, sum hálaði okkum upp á 650 metra hædd á fjallinum. Okkurt smávegis fingu vit okkum her á matstovuni <span type="quote" xml:lang="eng">”The Snow Goose”</span>, og tað sum var heilt sjaldsamt á hesi fjallaferð var, at vit á veg omanaftur, av tilvild hittu <span type="quote">”rýpuserfrøðingin”</span> Dr. Adam Watson, 59 <em type="bold">15. </em>Her í skotsku fjallalíðini fekk eg sagt honum frá, hvussu tað hevði gingist við skotsku rýpunum í Føroyum til tá. <em type="bold">16. </em>Tann 24. juni 1973 sleptu vit pari nr.1 við 9 ungum, sum vóru áleið 3 vikur gamlir í búður við Djúpagil í Hoyvíkshaganum. Rypuhønan og ungarnir gingu 6 dagar í búrinum áðrenn latið varð upp. Í innilokaða partinum av búrinum var ein fóðurautomat og í opna partinum var ein vatnautomat . Steggin heldur vakt uttanfyri. <em type="bold">17. </em>Á morgni 30. juni klipti eg hol á netið, og tá eg vitjaði um kvøldið lá rýpan í friði og náðum og bøldi ungunum tætt við inngongdina. Løtu seinni fór alt inn at fáa sær ein slurk og mat, og so út um aftur at bøla. Eisini dagin eftir bøldi hon nær við búrið, tá eg kom. Men tá flokkurin løtu seinni hevði verið inni og fingið sær, fór alt nakað burtur frá at bíta sær av lynginum. Bert høvdið á gomlu sást undan, tá hon aftur legði seg at bøla ungunum í síða lynginum. <em type="bold"></em>60 <em type="bold">18. </em>Tá tey aftur ressaðust, flugu fyrst 2 ungar um ánna, og so alt aftaná. Gamla støðgaði á og læt eftir einum lítlum unga, ið ikki hevði slept sær yvirum saman við hinum; síðan gekk flokkurin víða um og fekk sær í brekkuni. Nú vit hava flutt búrini, liggja vit eina løtu í friði og eygleiða rýpuflokkin. <em type="bold">19. </em>Her hevur rýpa gjørt sær frálíkt reiður í einum búri við Villingadalsvegin. Níggju egg eru í reiðrinum. 61 <em type="bold">20. </em>Rýpuhøna við smáum ungum í Hoyvíkshaga. Vit klaktu eisini rýpuegg undir dvørghønum, og allar rýpurnar tóku sera væl ímóti, tá eg slepti <span type="quote">”fremmandar”</span> ungar til tær, eisini um hesir vóru nakað størri enn teirra egnu. <em type="bold">21. </em>Í lynginum í Hoyvíkshaganum var ikki lætt at fáa eyga á rýpufamiljurnar, tí allur flokkurin <span type="quote">”frysti”</span> við brestin, tá tú nærkaðist. Men hyggur tú væl her, sæst rýpa við ungum niðarlaga á myndini. 62 <em type="bold">22 </em>. Fyri at lætta um, havi eg sett svarta striku undir, har ungar eru og tvær undir rýpuhønuna. Hoyrdist krákumál í nánd, tá flokkurin gekk á biti <span type="quote">”frysti”</span> alt sum snarljós, og lá stein deytt heilt leingi, og tað hendi ofta tá eg vitjaði. <em type="bold">23 </em>. Rýpuhøna í Hoyvíkshaganum. 63 <em type="bold">24 </em>. Rýpusteggi <em type="bold">25. </em>Móti skýming 10. august 1973: sá eg steggjan flúgva upp og gorra nakað eystan fyri gilið. Hoyrdi bøgu tætt hjá, og síðan veikt steggjamál. Tá eg fór nærri, kom eg fram á bøgu 1 við ánna við øllum ungunum. Nú sá eg, at tað var ein av ungunum, sum hevði látið, og 3 ungar fóru nú áhaldandi at láta við steggjamáli. Eg fór so oman til búrið, koyrdi mat í automatina og legði meg nær við. Skjótt dagaði flokkurin á <span type="quote">”Klettinum”</span> og trekti heldur trekliga oman móti búrinum. Fóru inn at fáa sær, men vóru skjót út aftur. Glyvursnes í baksýni á myndini. <em type="bold"></em>64 <em type="bold">26. </em>Automatin í hinum búrinum var sum vant tóm, og tá eg hevði fylt í, kom flokkur 2, sum var tætt hjá, at fáa sær. Eg legði meg eina løtu í friði, við báðum rýpuflokkunum tætt hjá hvørju megin við. Alt át dúgliga av lynginum í skýmingini, og flokkur 1 trekti nakað norðureftir. Ungarnir vóru nú mest sum vaksnar rýpur at síggja til. <em type="bold">27. </em>Eisini stóru ungarnir eru væl littir at fella í eitt við umhvørvið her. <em type="bold">28. </em>Tann 16. mars 1974 tók eg myndir av rýpupari á trøðni hjá Lamhauge við Varðagøtu, har tær høvdu verið nakrar dagar. Parið hvarv 2 dagar aftaná. Bøgan hevði 2 ringar, steggin bert ein. Eftir øllum at døma var hetta sama parið, sum alt vár hevur verið at sæð í Hoyvíkshaganum á somu leið, har tær vórðu sleptar í fjør. Steggin spakur og <span type="quote" xml:lang="eng">”agressivur”</span>. <em type="bold"></em>65 <em type="bold">29. </em>Í síðum lyngi, bert 30 m frá búrinum, har rýpurnar vórðu sleptar í fjør, sá eg tann 9. juni í 1974 í knokkin á einari rýpu. <em type="bold">30. </em>Úr øðrum vinkli sæst hon her betur. Hetta vísti seg at vera sama hønan, sum varð slept í búrið við ungum í fjør, meðan steggin var ein av ungunum úr hinum 1973 flokkinum. <em type="bold">31. </em>Tá eg koyrdi rýpuna av, sást fjálgt reiður við 8 eggum, og sera skjót var rýpan aftur á reiðri. Stutt frá fór tá ein heilt annar fuglur av reiðrinum her uppi í Langagili í Hoyvíkshaganum, fór til gongu omaneftir, meðan hon støðugt hugdi aftur um seg. Hetta var æða. . Tá eg nakrar dagar seinni var aftur við rýpureiðrið, metti eg av eggjakoppunum, at alt var komið út, men 23. juni tá flokkurin sást norður móti Hvítanesi hevði parið bert 2 stórar ungar,. Steggin hoyrdist um somu leið 1. juli. <em type="bold"></em>66 <em type="bold">32. </em>Talvan er frágreiðing til skotar, um hvussu vignaðist fyrsta árið. Sum sæst gekst væl í Hoyvíkshaga, har 13 av 16 ungum komu undan í øllum góðum, meðan tað gekk av skriðuni við Toftavatn, har bert 1 av 9 ungum kom undan. <em type="bold">33. </em>steggi <em type="bold"></em>67 <em type="bold">34. </em>Frágreiðing til skotar: Her sæst hvar rýpur eru sæddar í september til desember 1973, og vanliga fer hetta rýpuslag ikki langa leið burtur frá staðnum, har tað er vaksið upp. <em type="bold">35 </em>. Nógvur lyngur er her við Toftavatn, og tað var á hesi leið at eitt rýpureiður varð funnið, tá H.C. Müller á sinni í 1896 slepti skotskum rýpum. Eg gjørdu tí av, at seta 2 rýpubúur í síða lynginum nakað væl omanfyri vegin í 1973. Men meðan tað gekst sera væl í Hoyvíkshaganum, gekst av skriðuni við Toftavatn. 68 <em type="bold">36. </em>Tann 25. juli 1973 sleptu vit einum pari við 4 ungum í eystara búrið, og par við 3 ungum í vestara búrið. Seint á kvøldið 27. juli hevði Poul Olsen lækni (sum hjálpti mær við hesum) latið búrini upp, og tá hann vitjaði aftur 31. juli var parið við 2 ungum við eystara búrið, men einki at síggja við hitt. Fóður var etið úr báðum búrum. Tann 4. august lá ungi deyður í vestara búri, og 14 dagar seinni varð rýpuhønan funnin deyð, drigin til hús av kettu. Hvat er hent hinum veit eingin. <em type="bold">37 </em>. Steggin lættur sær á. Hetta parið var rúma tíð at síggja við Toftavatn við 2 ungum, men út á heystið bert við tí eina unganum, sum víst á fyrru myndini. Ein dagin eg hevði fylt fóður í automatirnar og var komin oman aftur á vegin, hevði eg gloymt okkurt uppi við eystara búrið. Tá eg so aftur nærkaðist búrinum, tusti ein heilur <span type="quote">”herur”</span> av rottum í skundi út úr búrinum. Hetta kann væl hava verið fremsta orsøkin til, at so lítið kom burtur úr royndunum við Toftavatn og seinni somuleiðis í Glyvradali og aðrastaðni við . 69 <em type="bold">38. </em>Í Skotabrúgv í Havnardali sá bilførari summarið 1975 rýpu við eini 4-5 smáum ungum, sum tó flugu….. (myndin er úr Hoyvíkshaganum. Minst 5 ungar eru á myndini!). Fyrsta árið, sum vit høvdu rýpur í Hoyvíkshaga, sóu vit ikki farveg eftir rottu, men í 74 gróvu rottur holur nærhendis, og vit løgdu tá rottukrút í fleiri hol. Hetta endurtók seg, og í 76 løgdu vit eitt nú rottugift fyrst í apríl og aftur í desember. <em type="bold"></em>70 <em type="bold">39 </em>. Direktoratet for vilt og ferskvannsfiske sigur í brævi í 1974 frá, at <span type="quote" xml:lang="dan">”Skogfjordvatn grunnejerlag”</span> í Noregi kann lata okkum 40 rýpuungar fyri N.kr. 200 fyri hvønn. <em type="bold"></em>71 <em type="bold">40, </em>Vónir at fáa skotskar rýpur í 1974 vóru júst tá smáar, og tá eg setti lýsing í bløðini, vísti tað seg, at sera mong høvdu hug at <span type="quote">”ættleiða”</span> eitt rýpupar fyri kr. 400. Og alt fyri eitt, høvdu vit nóg mikið til at keypa rýpuungarnar fyri. Norsku <span type="quote">”dalrýpurnar”</span> (lirýpe) komu við flogfari 25. august, og húsaðust fyrst í innandurabúrunum í Hoydølum 72 <em type="bold">41 </em>. Longu dagin eftir, 26. august 1974, fluttu vit 18 ungar í búður í Hoyvíkshagan, og 10 fóru seinni í búður í Norðradali, sum varð sett opið um kvøldið 28. august. <em type="bold">42 </em>. Skotsk rýpa við 3 ungum var í økinum tá eg seinnapartin 27. august setti opið hjá teimum norsku. Hesir næstan vaksnu fuglar, sum høvdu verið í búri alt lívið, háttaðu sær heilt øðrvísi enn hóvligu skotsku hønurnar við ungum. Í ovfarakæti flákraðu tær í allar ættir, nú teir fyrstu ferð í lívinum vóru undir fríum himni. 73 <em type="bold">43 </em>. Úr at gera, at fáa rikið hetta <span type="quote">”pakkið”</span> aftur móti búrinum, men tá eg hevði rikið 3 ella 4 ferðir taldi eg 15 fuglar við búrið. Um kvøldið vóru bert tær 4 skotsku og tvær norskar inni. (Mynd: Kalmar Lindenskov). <em type="bold">44. </em>Men fekk tó samlað 8 ungar nærhendis og rikið teir til hinar. (Mynd: Kalmar Lindenskov). 74 <em type="bold">45. </em>Illveður og regn var 28. august, og um kvøldið vóru tær 4 skotsku og 6 norsku rípurnar inni. Eg fekk samlað 5 afturat, sum vóru spjaddar rættiliga víða. Onkur fuglur mátti <span type="quote">”handtakast”</span>. Í skýmingini fleyg allur flokkurin nakað burtur frá búrinum. (Mynd:Kalmar Lindenskov) <em type="bold">46. </em>Tá norsku rýpurnar vóru tevsaðar, gingu tær, eins og tær skotsku, friðarliga á biti í lendinum. 75 <em type="bold">47. </em>Men var okkurt óvanligt, dugdu hesar norsku <span type="quote">”búrhønurnar”</span> tó sanniliga eisini væl at <span type="quote">”frysta”</span> á staðnum. <em type="bold">48. </em>Hendan norska rýpan hevur hug at reisa knokkin, nú eg eri í so naskur við linsuni. 76 <em type="bold">49. </em>Skotsku og norsku rýpurnar fylgdust, og sýntust ikki á nakran hátt at halda annað, enn at tær vóru eitt og sama fuglaslag. <em type="bold">50. </em>Út á heystið í 1974 sóust bert 2 skotskir steggjar í fylgi við 7 norskum rýpum í hesum økinum í Hoyvíkshaganum. Tær norsku eru á hesi myndini næstan lidnar at kasta summarbúnan. 77 <em type="bold">51. </em>Her er ein sera <span type="quote" xml:lang="dan">”optimistisk”</span> lýsing í <span type="quote" xml:lang="dan">”Amtstidende for Færøerne”</span>, sum heitur á harumenn, ikki at skjóta rýpurnar. 78 <em type="bold">52. </em>Eg helt fram við at fylla fóður í automatirnar í búrunum, og her eru tær norsku, sum nú eru snjóhvítar, farnar inn at fáa sær eina tuggu av <span type="quote">”handilsfóðuri”</span>. <em type="bold">53. </em>Fuglunum dámdu væl at sita á gomlu kráunum, tá tær hvíldu seg. Eitt par av skotskum rýpum við 3 ungum og ein norsk høna vórðu sleptar inni í Dølum á Viðareiði. Jákup Petersen á Viðareiði hevði skotsku hønuna (5005362) á hondum 26. august 1977: ” ógvuliga spøk og sær út til at liva væl. Varð slept aftur á sama stað”. Fyrst í september sleptu vit einum tilkomnum unga (5005375) á hesi leið, og beint sum hann var sleptur, kom ein skotsk rýpa til hansara. 79 <em type="bold">54. </em>Eftir umbøn sendi eg ein steggja og 3 hønur av norska slagnum til rýpufarmin í Skotlandi, sum hevði stuðlað royndunum hjá okkum so óvanliga væl. Teir skuldu gera onkrar royndir at sammeta hesar norsku við skotsku rýpuna. 80 <em type="bold">55. </em>Tvær skotskar og tríggjar norskar, í hvør sínum heilt ymiska vetrarbúna. Umframt í Hoyvíkshaga og við Toftavatn vórðu skotskar rýpur sleptar í Norðradali, Við Loranstøðina á Eiði, inni í Dølum á Viðareiði, á Glyvradali og í Rituvík. Og norskar í Norðradali. <em type="bold">56. </em>Vakurt var í góðum kavaveðri at fylgjast í haganum við hesum snotuligu fuglum, sum royndu at bíta sær av tí sindrið av vøkstri, sum kom undan kavanum. Serliga løgdu rýpurnar eftir berjalyngi. Hesi árini vit sleptu rýpum, árini 1973-77, vóru tær at síggja víða um. Sum vera man, sóust flestar nærhendis har tær vóru sleptar. Í dølum og á flestu fjøllunum í Suðurstreymoy. Eisini løgdust tær víða um sunnarlaga í Eysturoy og norður til Norðskála og Fuglafjarðar, ja heilt eystur til Sørvágs og suður til Vágs vóru tær at síggja. <em type="bold">57. </em>Ilt er at síggja mun á dalrýpu og fjallarýpu hønu tá tær eru í vetrarbúna. Fjallarýpu steggin kennist tá av svørtu strikuni úr nevi til eygað. Í staðin fyri at nørast, sum vit høvdu vónað, longdist ímillum at vit frættu um rýpur, og seinast eg sá rýpur í Hoyvíkshaganum var í 1980. Tá eg sá eina skotska, og eina sum var blendingur millum skotska og norska rýpu. 81 <em type="bold">58. </em>í Harutíðini, tætt oman fyri bygdina á Velbastað, varð ein ungur steggi skotin 17. november 19??. Sera væl í holdum, 40 cm langur og vegaði 640 g (5005065). Í januar-februar mánað 1965 vigaðu norðmenn 374 liryper, og tær gomlu vigaðu í meðal 614 g og ungarnir frá árinum fyri 596 g. Fjallarýpurnar er smærri ávikavist: 488g og 458 g. Samanumtikið haldi eg, at hendan royndin at sleppa út heiða- og dalrýpu, var so <span type="quote">”væleydnað”</span>, at tað ikki loysur seg at royna aftur við hesum fuglasløgum. <em type="bold">59. </em>Írska rýpan er heldur ljósari á liti, enn tær á skotska meginlandinum, og fuglarnir á Hebridunum og Orknoyggjunum minna um hesar Írsku. Rýpa var upprunaliga ikki í Hetlandi, men er slept upp, og ein lítil stovnur trívist á Mainland. Liturin á hesum steggjanum, sum varð avmyndaður har í ár, minnir um írska slagið. 82 <em type="bold">60 </em>. Fjallavatn. Íðan, hvat hevur hetta við Rýpu at gera ? Ikki annað enn, at her sleppa vit grágásaungum. Frá vinstru: Andrias og Thóra, Annlot Rasmussen, Sigrun Joensen, Edmund Joensen og Sverri Joensen. ( Mynd: Bjarni Rasmussen).83 <em type="bold">9. Heimildir </em></p>
 <p>Magnussen, E. (2017). <em type="bold">Haruveiðan í Føroyum 2016 </em>. NVDrit 2016:02, p. 1 - 42. Kann lesast her. </p>
 <p>Magnussen, E. (2016). <em type="bold">Haruveiðan í Føroyum 2015 </em>. NVDrit 2016:02, p. 1 - 44. Kann lesast her. </p>
-<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku </em><em type="bold">haruna </em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
+<p>Magnussen, E. (2015). <em type="bold">Haruveiðan í Føroyum 2014 og annað tilfar um føroysku haruna </em>. NVDrit 2015:01, p. 1-75. Kann lesast her. </p>
 <p>Magnussen, E. (2014). <em type="bold">Haruveiðan í Føroyum 2013 </em>. NVDrit 2014:02, p. 1 - 57. </p>
 <p>Kann lesast her.</p>
 <p>Magnussen, E. (2013). <em type="bold">Haruveiðan í Føroyum 2012 </em>. NVDrit 2013:02, p. 1 - 44. </p>
@@ -295,8 +304,8 @@
 <p xml:lang="eng"><em type="bold">Bygd </em></p>
 <p><em type="bold">Hagapartur </em></p>
 <p xml:lang="eng"><em type="bold">Dato </em></p>
-<p><em type="bold">Tal av </em><em type="bold">harum </em></p>
-<p><em type="bold">Tal av </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Fugloy</p>
 <p>Øll oyggin</p>
 <p>Samlað tal av harum fyri alla oynna, skotnar á 7 túrum.31?</p>
@@ -305,7 +314,7 @@
 <p>Bergið</p>
 <p>Ikki skotið00</p>
 <p>Eysturhøvdi16‐112101‐121127‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">5 </em><em type="bold">4 </em></p>
+<p><em type="bold">Tilsamans54 </em></p>
 <p>Fyri handan Fjøll24‐1175</p>
 <p>Fyri handan Hálsar24‐1111</p>
 <p>Handantúnstriðingur ‐ Fyri norðan 22‐1212</p>
@@ -318,7 +327,7 @@
 <p>Hvannasund</p>
 <p>Í Oyruni13‐11112</p>
 <p>Úti á Rættini02‐116624‐111119‐124122‐126224‐1282</p>
-<p><em type="bold">Tilsamans </em><em type="bold">25 </em><em type="bold">12 </em></p>
+<p><em type="bold">Tilsamans2512 </em></p>
 <p>Yvir í Skorum20‐1161</p>
 <p>Yviri á Skarðhamri</p>
 <p>Ikki skotið00</p>
@@ -327,11 +336,17 @@
 <p>Tal av heimildarfólkum</p>
 <p><em type="italic">Upplýsingar um harutølini, sum vórðu savnaði fyri veiðitíðina 2018. </em></p>
 <p>Tal av skotnum harum Tal av harutúrum Tal av hagapørtum Tal av bygdum Tal av oyggjum</p>
-<p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2018 skipað eftir oyggj, bygd, hagaparti og dato. <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Úrslitini frá teimum einstøku harutúrunum í Føroyum í 2018 skipað eftir oyggj, bygd, hagaparti og dato.84</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Viðoy</p>
 <p>Viðareiði</p>
 <p>Bergsmunni19‐1111122‐128229‐12134</p>
-<p><em type="bold">Tilsamans </em><em type="bold">32 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans327 </em></p>
 <p>Eystur við Egg ‐ Eystastipartur</p>
 <p>Skotin saman við "Eysturi við Egg‐</p>
 <p>Vestastipartur"??</p>
@@ -339,12 +354,12 @@
 <p>Skotin saman við "Eysturi við Egg‐</p>
 <p>Eystastipartur"??</p>
 <p>Eystur við Egg ‐ Vestastipartur17‐1138810‐1214527‐1241</p>
-<p><em type="bold">Tilsamans </em><em type="bold">56 </em><em type="bold">14 </em></p>
+<p><em type="bold">Tilsamans5614 </em></p>
 <p>Fyri innan Leiti07‐114208‐11154</p>
 <p>Inni í Bergi</p>
 <p>Ikki skotið00</p>
 <p>Inni í Dølum03‐113217‐115219‐1212228‐1242</p>
-<p><em type="bold">Tilsamans </em><em type="bold">24 </em><em type="bold">8 </em></p>
+<p><em type="bold">Tilsamans248 </em></p>
 <p>Inni í Vík ‐ Heimaripartur</p>
 <p>Ikki skotið00</p>
 <p>Inni í Vík ‐ Uttaripartur</p>
@@ -358,25 +373,31 @@
 <p>Árnafjørður</p>
 <p>Bergið27‐11271</p>
 <p>Fýramarkahagi03‐122113‐122117‐123124‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">8 </em><em type="bold">4 </em></p>
+<p><em type="bold">Tilsamans84 </em></p>
 <p>Ognarhagin02‐119307‐116219‐115110‐1212124‐124127‐123129‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">41 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans4110 </em></p>
 <p xml:lang="dan">Depil</p>
 <p>Breytardalur17‐1222</p>
 <p>Norðaripartur05‐112112‐114110‐1241</p>
-<p><em type="bold">Tilsamans </em><em type="bold">10 </em><em type="bold">3 </em><em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans103 </em>85 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Borðoy</p>
 <p>Klaksvík</p>
 <p>Dalarnir29‐1161</p>
 <p>Fyri Heiman (í Gerðum)02‐115212‐1122721‐111117‐125218‐121120‐121122‐122327‐125229‐1234</p>
-<p><em type="bold">Tilsamans </em><em type="bold">45 </em><em type="bold">23 </em></p>
+<p><em type="bold">Tilsamans4523 </em></p>
 <p>Myrkjanoyrarhagi 01‐122210‐121217‐126224‐12133</p>
-<p><em type="bold">Tilsamans </em><em type="bold">22 </em><em type="bold">9 </em></p>
+<p><em type="bold">Tilsamans229 </em></p>
 <p>Uppsalahagi02‐1136717‐118722‐124128‐124329‐1294</p>
-<p><em type="bold">Tilsamans </em><em type="bold">61 </em><em type="bold">22 </em></p>
+<p><em type="bold">Tilsamans6122 </em></p>
 <p>Múli</p>
 <p>Múlahagi03‐113315‐111217‐114523‐111101‐124208‐121128‐123331‐1212</p>
-<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">19 </em></p>
+<p><em type="bold">Tilsamans1819 </em></p>
 <p>Norðoyri</p>
 <p>Fløturnar10‐116417‐1272</p>
 <p>Miðhagi05‐11214</p>
@@ -385,17 +406,24 @@
 <p>Ikki skotið00</p>
 <p>Skálatoftir</p>
 <p>Skáltoftahagi17‐115308‐1227310‐128222‐1217627‐12271229‐12188</p>
-<p><em type="bold">Tilsamans </em><em type="bold">102 </em><em type="bold">34 </em></p>
+<p><em type="bold">Tilsamans10234 </em></p>
 <p xml:lang="eng">Strond</p>
-<p>Strandarhagi09‐118117‐113224‐118210‐126219‐124128‐1212231‐1211 <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Strandarhagi09‐118117‐113224‐118210‐126219‐124128‐1212231‐1211</p>
+<p><em type="bold">Tilsamans4211 </em>86 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p xml:lang="eng">Kunoy</p>
 <p>Haraldssund</p>
 <p>Fyri Norðan18‐122127‐12214</p>
 <p xml:lang="eng">Kunoy</p>
 <p>Byrgið02‐113120‐115122‐116120‐128220‐122127‐1241</p>
-<p><em type="bold">Tilsamans </em><em type="bold">28 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans287 </em></p>
 <p>Fyri Norðan13‐1110120‐117124‐114119‐128127‐1262</p>
-<p><em type="bold">Tilsamans </em><em type="bold">35 </em><em type="bold">6 </em></p>
+<p><em type="bold">Tilsamans356 </em></p>
 <p>Norði í Dal</p>
 <p>Ikki skotið00</p>
 <p>Skarðdalur</p>
@@ -425,48 +453,60 @@
 <p>Eysturoy</p>
 <p>Eiði</p>
 <p>Breiðá og Teistavál02‐1116102‐117303‐112121‐111124‐1113404‐124108‐126129‐1242</p>
-<p><em type="bold">Tilsamans </em><em type="bold">53 </em><em type="bold">14 </em>03‐119301‐129215‐12103 </p>
-<p><em type="bold">Tilsamans </em><em type="bold">28 </em><em type="bold">8 </em>02‐116217‐1132724‐113105‐129220‐123121‐1273 </p>
-<p><em type="bold">Tilsamans </em><em type="bold">19 </em><em type="bold">6 </em></p>
+<p><em type="bold">Tilsamans5314 </em>03‐119301‐129215‐12103 </p>
+<p><em type="bold">Tilsamans288 </em>02‐116217‐1132724‐113105‐129220‐123121‐1273 </p>
+<p><em type="bold">Tilsamans196 </em></p>
 <p>Eiðiskollur (Partur av Norðurhelvt)</p>
-<p>Fyri Norðan Á (Partur av Norðurhelvt) <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Fyri Norðan Á (Partur av Norðurhelvt)87</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Eysturoy</p>
 <p>Eiði</p>
 <p>Suðurhelvt (Slættaratindur)02‐1154617‐117320‐113222‐115224‐112104‐129210‐127121‐124122‐122229‐1233</p>
-<p><em type="bold">Tilsamans </em><em type="bold">96 </em><em type="bold">23 </em></p>
+<p><em type="bold">Tilsamans9623 </em></p>
 <p>Elduvík</p>
 <p>Anfinsstovupartur09‐113110‐116212‐116317‐112117‐118419‐118413‐126620‐124127‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">45 </em><em type="bold">24 </em></p>
+<p><em type="bold">Tilsamans4524 </em></p>
 <p>Dalkinn03‐116517‐114220‐123424‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">15 </em><em type="bold">13 </em></p>
+<p><em type="bold">Tilsamans1513 </em></p>
 <p>Grønurnar10‐1142</p>
 <p>Ognarpartur (Múlin)15‐111117‐128219‐1282</p>
-<p><em type="bold">Tilsamans </em><em type="bold">17 </em><em type="bold">5 </em></p>
+<p><em type="bold">Tilsamans175 </em></p>
 <p>Fuglafjørður</p>
 <p>Fjalshagi20‐1143</p>
 <p>Gjógvaráhagi02‐114322‐1211</p>
 <p>Góðidalur08‐117120‐1153</p>
 <p>Innandalshagi08‐119124‐111122‐122129‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">13 </em><em type="bold">4 </em></p>
+<p><em type="bold">Tilsamans134 </em></p>
 <p>Kongsmørkin02‐1113</p>
 <p>Norður í Haga ‐ Heimaripartur (Klemman)27‐1221</p>
 <p>Funningur</p>
-<p>Botnar03‐1125605‐1113203‐127217‐1210621‐126229‐1255 <em type="bold">harum </em><em type="bold">byrsum </em></p>
-<p><em type="bold">Tilsamans </em><em type="bold">66 </em><em type="bold">23 </em></p>
+<p>Botnar03‐1125605‐1113203‐127217‐1210621‐126229‐125588</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
+<p><em type="bold">Tilsamans6623 </em></p>
 <p>Eysturoy</p>
 <p>Funningur</p>
 <p>Í Húsi09‐113227‐1211</p>
 <p>Inni í Haga ‐ Heimaripartur02‐117509‐111127‐111118‐121127‐1232</p>
-<p><em type="bold">Tilsamans </em><em type="bold">13 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans1310 </em></p>
 <p>Líðin ‐ Ytragonga02‐111113‐114127‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">7 </em><em type="bold">3 </em></p>
+<p><em type="bold">Tilsamans73 </em></p>
 <p>Gjógv</p>
 <p>Dalur02‐116421‐122529‐1235</p>
-<p><em type="bold">Tilsamans </em><em type="bold">11 </em><em type="bold">14 </em></p>
+<p><em type="bold">Tilsamans1114 </em></p>
 <p>Fløtur03‐119309‐113121‐112113‐122115‐126122‐122127‐122228‐125429‐1241</p>
-<p><em type="bold">Tilsamans </em><em type="bold">35 </em><em type="bold">15 </em></p>
+<p><em type="bold">Tilsamans3515 </em></p>
 <p>Fyri oman Rætt ‐ Ambadalur05‐125222‐124129‐1251</p>
-<p><em type="bold">Tilsamans </em><em type="bold">14 </em><em type="bold">4 </em></p>
+<p><em type="bold">Tilsamans144 </em></p>
 <p>Fyri oman Rætt ‐ Fjallið23‐119128‐1261</p>
 <p>Glyvrar</p>
 <p>Innan fyri Gjónna29‐1241</p>
@@ -479,42 +519,55 @@
 <p>Leirvík</p>
 <p>Navirnar28‐1232</p>
 <p>Ognarhagin17‐115119‐114111‐125324‐1272</p>
-<p><em type="bold">Tilsamans </em><em type="bold">21 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans217 </em></p>
 <p>Skarðhagi12‐1151</p>
 <p xml:lang="dan">Morskranes</p>
 <p>Neshagi ‐ Norðaripartur</p>
 <p>Ikki skotið00</p>
-<p>Neshagi ‐ Sunnaripartur02‐1117308‐12112 <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Neshagi ‐ Sunnaripartur02‐1117308‐1211289</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Eysturoy</p>
 <p>Norðragøta</p>
 <p>Uppi á Dal ‐ Innaripartur02‐117320‐113331‐1231</p>
-<p><em type="bold">Tilsamans </em><em type="bold">13 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans137 </em></p>
 <p>Yviri í Dal02‐117219‐124127‐122128‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">14 </em><em type="bold">5 </em></p>
+<p><em type="bold">Tilsamans145 </em></p>
 <p>Oyndafjørður</p>
 <p>Heltnin02‐1116621‐1111</p>
 <p>Knúkur02‐113213‐121113‐1244</p>
-<p><em type="bold">Tilsamans </em><em type="bold">8 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans87 </em></p>
 <p>Vatnsdalur08‐115110‐112319‐111128‐1213</p>
-<p><em type="bold">Tilsamans </em><em type="bold">9 </em><em type="bold">8 </em></p>
+<p><em type="bold">Tilsamans98 </em></p>
 <p>Oyri</p>
 <p>Oyrarhagi ‐ Miðjan02‐1112404‐1241</p>
 <p>Oyrarhagi ‐ Norðastipartur 02‐116205‐111113‐117224‐114128‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">20 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans207 </em></p>
 <p>Oyrarhagi ‐ Sunnastipartur24‐1135</p>
 <p>Rituvík</p>
 <p>Yvir í Haga ‐ Heimastipartur03‐113215‐112212‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">7 </em><em type="bold">5 </em></p>
+<p><em type="bold">Tilsamans75 </em></p>
 <p>Selatrað</p>
 <p>Garðahagi ‐ Innari02‐111312‐114224‐116314‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">13 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans1310 </em></p>
 <p>Garðahagi ‐ Uttari24‐1114212‐1282</p>
 <p>Grønabergsærnar14‐114105‐125129‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">11 </em><em type="bold">3 </em></p>
+<p><em type="bold">Tilsamans113 </em></p>
 <p>Miðjan24‐1112</p>
 <p>Miðjan29‐1221</p>
 <p>Skála</p>
-<p>Innan Gjógv02‐115205‐119214‐1181 <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Innan Gjógv02‐115205‐119214‐1181</p>
+<p><em type="bold">Tilsamans225 </em>90 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Eysturoy</p>
 <p>Skála</p>
 <p>Miðhagi ‐ Ytripartur27‐1262</p>
@@ -524,18 +577,18 @@
 <p>Skálafjall ‐ Ytripartur12‐1122524‐1142</p>
 <p>Søldafjørður</p>
 <p>Gøtuseyður og Bøseyður13‐116127‐127329‐1231</p>
-<p><em type="bold">Tilsamans </em><em type="bold">16 </em><em type="bold">5 </em></p>
+<p><em type="bold">Tilsamans165 </em></p>
 <p>Strendur</p>
 <p>Heygshagi ‐ Ognin02‐116207‐1110227‐111103‐122104‐121110‐120112‐1212217‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">33 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans3311 </em></p>
 <p>Svínáir</p>
 <p>Svínáhagi ‐ Norðarahelvt10‐110221‐114224‐111104‐120113‐123222‐120228‐120129‐1201</p>
-<p><em type="bold">Tilsamans </em><em type="bold">8 </em><em type="bold">12 </em></p>
+<p><em type="bold">Tilsamans812 </em></p>
 <p>Svínáhagi ‐ Sunnarahelvt20‐1132</p>
 <p>Syðrugøta</p>
 <p>Fyri oman Heiðar28‐1232</p>
 <p>Fyri uttan Hús09‐110123‐112127‐122231‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">5 </em><em type="bold">5 </em></p>
+<p><em type="bold">Tilsamans55 </em></p>
 <p>Valaknúkar02‐113108‐1122</p>
 <p>Toftir</p>
 <p xml:lang="eng">Saltnes</p>
@@ -545,38 +598,51 @@
 <p>Streymoy</p>
 <p>Haldarsvík</p>
 <p>Byrgið02‐115215‐116127‐1274</p>
-<p><em type="bold">Tilsamans </em><em type="bold">19 </em><em type="bold">8 </em></p>
-<p>Norðan Á02‐115208‐123113‐125224‐129228‐123231‐1221 <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans198 </em></p>
+<p>Norðan Á02‐115208‐123113‐125224‐129228‐123231‐1221</p>
+<p><em type="bold">Tilsamans2710 </em>91 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Streymoy</p>
 <p>Haldarsvík</p>
 <p>Sunnan Fossá24‐114226‐112129‐113108‐122228‐123229‐1231</p>
-<p><em type="bold">Tilsamans </em><em type="bold">17 </em><em type="bold">9 </em></p>
+<p><em type="bold">Tilsamans179 </em></p>
 <p>Hósvík</p>
 <p>Garðsendahagi03‐117322‐121231‐1214</p>
-<p><em type="bold">Tilsamans </em><em type="bold">9 </em><em type="bold">9 </em></p>
+<p><em type="bold">Tilsamans99 </em></p>
 <p>Toftahagi ‐ Frammistovupartur 02‐1112221‐115213‐124220‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans237 </em></p>
 <p>Toftahagi ‐ Heimistovupartur 02‐116105‐115112‐118317‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">21 </em><em type="bold">6 </em></p>
+<p><em type="bold">Tilsamans216 </em></p>
 <p>Hoyvík10‐1113313‐111117‐115423‐116230‐115108‐127727‐123331‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">41 </em><em type="bold">12 </em></p>
+<p><em type="bold">Tilsamans4112 </em></p>
 <p>Hvalvík</p>
 <p>Frammidalahagi (Ørvisfelli)02‐1111409‐113210‐112217‐117401‐124224‐1242</p>
-<p><em type="bold">Tilsamans </em><em type="bold">31 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans3116 </em></p>
 <p>Húsadalshagi02‐1118326‐1142</p>
 <p>Loðadalshagi02‐1121716‐114217‐128222‐122127‐122129‐1242</p>
-<p><em type="bold">Tilsamans </em><em type="bold">41 </em><em type="bold">15 </em></p>
+<p><em type="bold">Tilsamans4115 </em></p>
 <p>Miðdalahagi17‐1130729‐1211</p>
-<p>Hoyvíkshagi ‐ Norðari + Sunnaripartur (Vatnaskarðar) <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Hoyvíkshagi ‐ Norðari + Sunnaripartur (Vatnaskarðar)92</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Streymoy</p>
 <p>Hvalvík</p>
 <p xml:lang="eng">Rossabotnshagi02‐1114408‐1210226‐121229‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">26 </em><em type="bold">9 </em></p>
+<p><em type="bold">Tilsamans269 </em></p>
 <p>Toftadalshagi13‐113228‐1211</p>
 <p>Kaldbak</p>
 <p>Áarhagi ‐ Heimanfyri27‐1271</p>
 <p>Áarhagi ‐ Miðrøktin13‐1119610‐1230329‐1263</p>
-<p><em type="bold">Tilsamans </em><em type="bold">55 </em><em type="bold">12 </em></p>
+<p><em type="bold">Tilsamans5512 </em></p>
 <p>Bíggjarhagi ‐ Eystastipartur17‐1112204‐1271</p>
 <p>Bíggjarhagi ‐ Líðarseyður02‐117228‐1241</p>
 <p>Bíggjarhagi ‐ Vestastipartur02‐11154</p>
@@ -585,188 +651,238 @@
 <p>Samlað fyri 5 túrar22?</p>
 <p>Kirkjubøhagi ‐ Fyri Handan21‐1142</p>
 <p>Kirkjubøhagi ‐ Fyri Heiman08‐1211320‐126229‐12146</p>
-<p><em type="bold">Tilsamans </em><em type="bold">31 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans3111 </em></p>
 <p>Kollafjørður</p>
 <p>Hamrahagi ‐ Frammi við Gjógv01‐127313‐1262</p>
 <p xml:lang="dan">Kjalneshagi10‐11138</p>
 <p>Miðgerðahagi ‐ Frammi við Gjógv26‐1122</p>
 <p>Oyrareingjahagi08‐1110205‐121105‐121127‐127429‐1253</p>
-<p><em type="bold">Tilsamans </em><em type="bold">24 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans2411 </em></p>
 <p>Signabøshagi02‐1138610‐113123‐119108‐126129‐1292</p>
-<p><em type="bold">Tilsamans </em><em type="bold">65 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans6511 </em></p>
 <p>Sjóvarhagi ‐ Fremripartur08‐1216610‐1241</p>
 <p>Sjóvarhagi ‐ Niðaripartur29‐1273</p>
 <p>Kvívík</p>
-<p>Fjallið (partur av Ognarhaganum)10‐112204‐122308‐124615‐123222‐1277 <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Fjallið (partur av Ognarhaganum)10‐112204‐122308‐124615‐123222‐1277</p>
+<p><em type="bold">Tilsamans1820 </em>93 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Streymoy</p>
 <p>Kvívík</p>
 <p>Frammi í Haga (Presthagin)10‐1122524‐114326‐116120‐124128‐127129‐1214431‐1232</p>
-<p><em type="bold">Tilsamans </em><em type="bold">60 </em><em type="bold">17 </em></p>
+<p><em type="bold">Tilsamans6017 </em></p>
 <p>Fyri Heiman (í Gerðum)02‐11338</p>
 <p>Gásafellið (partur av 02‐1111710‐115308‐125317‐124228‐1271</p>
-<p><em type="bold">Tilsamans </em><em type="bold">32 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans3216 </em></p>
 <p>Norðuri í Haga (Junkarahagi)03‐1215529‐1211</p>
 <p>Úti í Haga</p>
 <p>Samlað fyri 5‐6 túrar37?</p>
 <p>Langasandur</p>
 <p>Langasandshagi02‐1116324‐1110329‐12114</p>
-<p><em type="bold">Tilsamans </em><em type="bold">37 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans3710 </em></p>
 <p>Leynar</p>
 <p>Leynahagi ‐ Uttan fyri Húsini02‐1122524‐115215‐1217622‐126228‐125631‐1273</p>
-<p><em type="bold">Tilsamans </em><em type="bold">62 </em><em type="bold">24 </em></p>
+<p><em type="bold">Tilsamans6224 </em></p>
 <p>Norðradalur</p>
 <p>Kongshagin (Úti í Haga)02‐118409‐113208‐124328‐1202</p>
-<p><em type="bold">Tilsamans </em><em type="bold">15 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans1511 </em></p>
 <p>Presthagin (Heimi í Haga)02‐1118605‐12113</p>
 <p>Saksun</p>
 <p>Dúvugarðahagi ‐ Heimanfyri 02‐1114617‐112124‐119319‐1210227‐125327‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">42 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans4216 </em></p>
 <p>Dúvugarðahagi ‐ Niðanfyri Glyvur27‐113106‐124122‐12152</p>
-<p><em type="bold">Tilsamans </em><em type="bold">22 </em><em type="bold">4 </em><em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans224 </em>94 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Streymoy</p>
 <p>Saksun</p>
 <p>Kvíggjarhamarshagi02‐1132817‐1113524‐1123515‐126122‐1225629‐12247</p>
-<p><em type="bold">Tilsamans </em><em type="bold">123 </em><em type="bold">32 </em></p>
+<p><em type="bold">Tilsamans12332 </em></p>
 <p>Svartáhagi ‐ Fyri Niðan02‐1123519‐112129‐1263</p>
-<p><em type="bold">Tilsamans </em><em type="bold">31 </em><em type="bold">9 </em></p>
+<p><em type="bold">Tilsamans319 </em></p>
 <p>Svartáhagi ‐ Fyri Uttan12‐1140522‐1283</p>
 <p>Skælingur</p>
 <p>Skælingshagi ‐ Norðaripartur17‐116522‐124628‐1213829‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">25 </em><em type="bold">20 </em></p>
+<p><em type="bold">Tilsamans2520 </em></p>
 <p>Skælingshagi ‐ Sunnaripartur</p>
 <p xml:lang="eng">Ikki alment??</p>
 <p xml:lang="eng">Streymnes</p>
 <p>Fyri Framman ‐ Fremripartur02‐1114217‐118124‐119203‐120108‐129110‐123117‐126122‐127129‐1212</p>
-<p><em type="bold">Tilsamans </em><em type="bold">57 </em><em type="bold">12 </em></p>
+<p><em type="bold">Tilsamans5712 </em></p>
 <p>Fyri Framman ‐ Heimaripartur02‐1112430‐118201‐121108‐129328‐1243</p>
-<p><em type="bold">Tilsamans </em><em type="bold">34 </em><em type="bold">13 </em></p>
+<p><em type="bold">Tilsamans3413 </em></p>
 <p>Heimarahelvt í Sundunum</p>
 <p xml:lang="eng">Ikki alment??</p>
 <p>Norðarahelvt í Sundunum24‐1222</p>
 <p xml:lang="eng">Sund</p>
 <p>Sundshagi ‐ Innaripartur02‐1143827‐118329‐1265</p>
-<p><em type="bold">Tilsamans </em><em type="bold">57 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans5716 </em></p>
 <p>Sundshagi ‐ Uttaripartur02‐1124713‐115310‐120328‐1243</p>
-<p><em type="bold">Tilsamans </em><em type="bold">33 </em><em type="bold">16 </em><em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans3316 </em>95 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Streymoy</p>
 <p>Tjørnuvík</p>
 <p>Fyri Sunnan (Fyri Sunnan Hús)</p>
 <p>Ikki skotið0003‐111117‐1116301‐122221‐123129‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">24 </em><em type="bold">9 </em></p>
+<p><em type="bold">Tilsamans249 </em></p>
 <p>Sjeyndir (Norðan Kamb)13‐114117‐1140524‐113221‐125127‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">54 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans5410 </em></p>
 <p>Tórshavn</p>
 <p>Flatnahagi og Húsahagi14‐111117‐112119‐123229‐1254</p>
-<p><em type="bold">Tilsamans </em><em type="bold">11 </em><em type="bold">8 </em></p>
+<p><em type="bold">Tilsamans118 </em></p>
 <p>Velbastaður</p>
 <p>Lambhagi05‐111108‐113120‐114127‐114110‐124119‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">6 </em></p>
+<p><em type="bold">Tilsamans186 </em></p>
 <p>Líðarhagi03‐115206‐113113‐113120‐112127‐112208‐123114‐121115‐122122‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">23 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans2311 </em></p>
 <p>Vestmanna</p>
 <p>Brekkurnar (Partur av Neshaga)02‐118624‐113112‐123328‐127929‐1212</p>
-<p><em type="bold">Tilsamans </em><em type="bold">22 </em><em type="bold">21 </em></p>
+<p><em type="bold">Tilsamans2221 </em></p>
 <p>Dalhagi ‐ Eystaripartur02‐113810</p>
 <p>Dalhagi ‐ Heimaripartur</p>
 <p>Ikki skotið00</p>
 <p>Fjallið (Partur av Fjalshaga)02‐11471006‐113124‐113104‐129608‐1210422‐122129‐121311</p>
-<p>Heiman Kamb (Miðjan &amp; Ytstitriðingur) <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans8734 </em></p>
+<p>Heiman Kamb (Miðjan &amp; Ytstitriðingur)96</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Streymoy</p>
 <p>Vestmanna</p>
 <p>Heimi í Haga á Bjørgum ‐ Eystari15‐121127‐121102‐11481109‐111117‐115501‐121108‐127429‐121410</p>
-<p><em type="bold">Tilsamans </em><em type="bold">76 </em><em type="bold">32 </em></p>
+<p><em type="bold">Tilsamans7632 </em></p>
 <p>Heygahagi ‐ Fremrahelvt17‐114411</p>
 <p>Heygahagi ‐ Innarahelvt23‐11187</p>
 <p>Kvívíksmerkur (Líðin)10‐112422‐127827‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">11 </em><em type="bold">14 </em></p>
+<p><em type="bold">Tilsamans1114 </em></p>
 <p>Norðurnesið (Partur av Neshaga)06‐116203‐123408‐1214410‐128524‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">33 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans3316 </em></p>
 <p>Reynið (Partur av Fjalshaga)10‐116313‐113117‐113308‐125319‐1210222‐122124‐124228‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">35 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans3516 </em></p>
 <p>Úti í Haga á Bjørgum02‐1133724‐1116308‐127122‐12145</p>
-<p><em type="bold">Tilsamans </em><em type="bold">70 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans7016 </em></p>
 <p>Vágar</p>
 <p>Bøur</p>
 <p>Kleivar22‐1261</p>
 <p>Tormanshagi02‐1149820‐114127‐12112</p>
-<p><em type="bold">Tilsamans </em><em type="bold">64 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans6411 </em></p>
 <p>Uttangarðshagi ‐ Eystaripartur 10‐1110515‐122128‐1262</p>
-<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">8 </em></p>
+<p><em type="bold">Tilsamans188 </em></p>
 <p>Uttangarðshagi ‐ Vestaripartur 05‐1118420‐114422‐113128‐12103</p>
-<p><em type="bold">Tilsamans </em><em type="bold">35 </em><em type="bold">12 </em></p>
-<p>Heimi í Haga á Bjørgum ‐ Vestari (Sjúrðarstovuhagi) <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans3512 </em></p>
+<p>Heimi í Haga á Bjørgum ‐ Vestari (Sjúrðarstovuhagi)97</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Vágar</p>
 <p>Gásadalur</p>
 <p>Garðshagi10‐1121529‐1294</p>
 <p>Líðin08‐1121717‐1112624‐112201‐121208‐1232</p>
-<p><em type="bold">Tilsamans </em><em type="bold">39 </em><em type="bold">19 </em></p>
+<p><em type="bold">Tilsamans3919 </em></p>
 <p>Rygsvíkshagi</p>
 <p>Ikki skotið00</p>
 <p>Uttanfyri í Víkum</p>
 <p>Ikki skotið00</p>
 <p>Víkahagi02‐1136818‐127119‐1271</p>
-<p><em type="bold">Tilsamans </em><em type="bold">50 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans5010 </em></p>
 <p>Miðvágur</p>
 <p>Dalurin05‐111212‐114217‐114404‐122122‐121127‐1211</p>
-<p><em type="bold">Tilsamans </em><em type="bold">13 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans1311 </em></p>
 <p>Eggin</p>
 <p>Samlað fyri 6 túrar17?</p>
 <p>Heimanhús á Fjøllum</p>
 <p>Samlað fyri 4 túrar41?</p>
 <p>Heimaraleiti05‐112109‐1118513‐112116‐112108‐1216322‐121128‐1212</p>
-<p><em type="bold">Tilsamans </em><em type="bold">42 </em><em type="bold">14 </em></p>
+<p><em type="bold">Tilsamans4214 </em></p>
 <p>Kvígandalur02‐1111208‐114124‐118410‐124128‐124129‐1252</p>
-<p><em type="bold">Tilsamans </em><em type="bold">36 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans3611 </em></p>
 <p>Nípan02‐111105‐111116‐113117‐112108‐123117‐121121‐122228‐123129‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">10 </em><em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans1810 </em>98 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Vágar</p>
 <p>Miðvágur</p>
 <p>Norðaraleiti24‐113108‐123110‐128217‐122129‐1222</p>
-<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">7 </em></p>
+<p><em type="bold">Tilsamans187 </em></p>
 <p>Tjørndalsegg02‐115412‐1110415‐114223‐113224‐111105‐123108‐123220‐122222‐1262</p>
-<p><em type="bold">Tilsamans </em><em type="bold">37 </em><em type="bold">20 </em></p>
+<p><em type="bold">Tilsamans3720 </em></p>
 <p>Uttanhús á Fjøllum02‐1115612‐1120613‐1118505‐124410‐1215722‐122127‐1284</p>
-<p><em type="bold">Tilsamans </em><em type="bold">82 </em><em type="bold">33 </em></p>
+<p><em type="bold">Tilsamans8233 </em></p>
 <p>Sandavágur</p>
 <p xml:lang="dan">Dalhagi08‐1115517‐113223‐111127‐111108‐124128‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">26 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans2611 </em></p>
 <p>Eyðansstovuhagi</p>
 <p>Samlað fyri 3 túrar15?</p>
 <p>Giljahagi</p>
 <p>Samlað fyri 4 túrar14?</p>
 <p>Gimbragonga08‐111212‐113117‐113229‐114111‐122220‐121122‐122129‐1231</p>
-<p><em type="bold">Tilsamans </em><em type="bold">19 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans1911 </em></p>
 <p>Oknadalur02‐1111617‐112530‐117420‐129427‐1212</p>
-<p><em type="bold">Tilsamans </em><em type="bold">30 </em><em type="bold">21 </em><em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans3021 </em>99 </p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Vágar</p>
 <p>Sandavágur</p>
 <p>Oyrargjáarhagi03‐1110412‐117217‐125124‐125127‐122131‐1242</p>
-<p><em type="bold">Tilsamans </em><em type="bold">33 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans3311 </em></p>
 <p>Rákarhagi28‐1244</p>
 <p>Rangagjáarhagi01‐1262</p>
 <p>Reyn</p>
 <p>Samlað fyri 2 túrar7?</p>
 <p>Slættaneshagi12‐1121413‐119316‐1110223‐1152</p>
-<p><em type="bold">Tilsamans </em><em type="bold">45 </em><em type="bold">11 </em></p>
+<p><em type="bold">Tilsamans4511 </em></p>
 <p>Sundshagi02‐1113813‐112219‐113128‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">80 </em><em type="bold">27 </em></p>
+<p><em type="bold">Tilsamans8027 </em></p>
 <p>Syðriseyður</p>
 <p xml:lang="eng">Dato 62</p>
 <p xml:lang="eng">Dato 43</p>
 <p>Sørvágur13‐1135804‐1212408‐1213420‐129331‐1292</p>
-<p><em type="bold">Tilsamans </em><em type="bold">78 </em><em type="bold">21 </em>17‐116520‐115223‐111103‐129404‐127320‐121121‐122129‐121131‐1231 </p>
-<p><em type="bold">Tilsamans </em><em type="bold">35 </em><em type="bold">19 </em></p>
+<p><em type="bold">Tilsamans7821 </em>17‐116520‐115223‐111103‐129404‐127320‐121121‐122129‐121131‐1231 </p>
+<p><em type="bold">Tilsamans3519 </em></p>
 <p>Suðurtriðingur ‐ Sunnaripartur10‐119620‐111124‐112105‐123128‐1221</p>
-<p><em type="bold">Tilsamans </em><em type="bold">17 </em><em type="bold">10 </em></p>
+<p><em type="bold">Tilsamans1710 </em></p>
 <p>Norðurtriðingur ‐ Norðaripartur (Norðurtriðingur ‐ Uttanfyri Ánnað)</p>
-<p>Norðurtriðingur ‐ Sunnaripartur (Vørðufelli) <em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p>Norðurtriðingur ‐ Sunnaripartur (Vørðufelli)100</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Vágar</p>
 <p>Sørvágur</p>
 <p>Suðurtriðingur ‐ Ytripartur10‐1110630‐115115‐1210319‐122122‐125224‐121127‐124229‐1262</p>
-<p><em type="bold">Tilsamans </em><em type="bold">43 </em><em type="bold">18 </em></p>
+<p><em type="bold">Tilsamans4318 </em></p>
 <p>Teigarnir16‐1118628‐1265</p>
 <p>Úttriðingur ‐ Heimaripartur02‐1120503‐113206‐113110‐1110217‐114219‐124129‐1233</p>
-<p><em type="bold">Tilsamans </em><em type="bold">47 </em><em type="bold">16 </em></p>
+<p><em type="bold">Tilsamans4716 </em></p>
 <p>Úttriðingur Selvíkar ‐ 01‐1284</p>
 <p>Skotin saman við 0?</p>
 <p xml:lang="eng">Mykines</p>
@@ -808,11 +924,18 @@
 <p>Skúgvoy</p>
 <p>Miðjan10‐1176</p>
 <p>Norðarihagi ‐ Heimaripartur10‐118615‐123320‐1274</p>
-<p><em type="bold">Tilsamans </em><em type="bold">18 </em><em type="bold">13 </em><em type="bold">harum </em><em type="bold">byrsum </em></p>
+<p><em type="bold">Tilsamans1813 </em></p>
+<p>Norðarihagi ‐ Norðaripartur10‐1186101</p>
+<p><em type="bold">Oyggj </em></p>
+<p xml:lang="eng"><em type="bold">Bygd </em></p>
+<p><em type="bold">Hagapartur </em></p>
+<p xml:lang="eng"><em type="bold">Dato </em></p>
+<p><em type="bold">Tal av harum </em></p>
+<p><em type="bold">Tal av byrsum </em></p>
 <p>Suðuroy</p>
 <p>Fámjin</p>
 <p>Allir 8 hagarnir í bygdini10‐1114810‐111121‐111101‐121122‐1241</p>
-<p><em type="bold">Tilsamans </em><em type="bold">21 </em><em type="bold">12 </em></p>
+<p><em type="bold">Tilsamans2112 </em></p>
 <p>Hvalba</p>
 <p>Fjórðingur05‐11123</p>
 <p>Sumba</p>
@@ -826,7 +949,7 @@
 <p xml:lang="eng">Ónevnd</p>
 <p>Ónevnd bygd</p>
 <p>Ónevndur hagi02‐1113502‐112103‐1149907‐112110‐117413‐1110423‐112207‐127214‐122215‐122128‐1274</p>
-<p><em type="bold">Tilsamans </em><em type="bold">103 </em><em type="bold">35 </em><em type="bold">5.136 </em><em type="bold">757 </em></p>
+<p><em type="bold">Tilsamans103355.136757 </em></p>
 <p><em type="bold">Tilsamans fyri allar Føroyar </em></p>
-<p>Klappjakt (4 hagar: Líðarhagi + Húsgarðshagi + Riddalshagi + Tvørhagi ‐ innaripartur)</p>
+<p>Klappjakt (4 hagar: Líðarhagi + Húsgarðshagi + Riddalshagi + Tvørhagi ‐ innaripartur)102</p>
 </body></document>

@@ -1,16 +1,16 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1288</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2013_12.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>1282</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/><language xml:lang="eng"/></multilingual><origFileName>nvdrit2013_12.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Túrfrágreiðing </em></p>
 <p>Úrslit frá yvirlitstrolingini á Føroyabanka 5.– 10. september 2013</p>
-<p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank </em><em type="italic">5-10 September 2013 </em></p>
+<p xml:lang="eng"><em type="italic">Cruise report: Results from the groundfish trawl survey on Faroe Bank 5-10 September 2013 </em></p>
 <p>Eyðfinn Magnussen</p>
 <p xml:lang="eng">NVD <em type="italic">Rit </em>2013:12 </p>
 <p xml:lang="eng">Heiti / Title</p>
-<p>Úrslit frá yvirlitstrolingini á Føroyabanka <em type="bold">5.- 10. september 2013 </em></p>
+<p xml:lang="dan"><em type="italic"></em><em type="bold">5.- 10. september 2013 </em></p>
 <p xml:lang="eng"><em type="italic">Results from the groundfish trawl survey on Faroe Bank 5-10th September 2013 </em></p>
 <p>Høvundur / Author</p>
 <p><em type="bold">Eyðfinn Magnussen </em></p>
 <p xml:lang="eng">Ritslag / Report Type</p>
 <p xml:lang="eng">Tøknifrágreiðing/Technical Report</p>
-<p xml:lang="eng">NVD <em type="bold">Rit </em>2013:12 © </p>
+<p xml:lang="eng"><em type="italic"></em><em type="bold">Rit </em>2013:12 © </p>
 <p>Náttúruvísindadeildin og høvundurin</p>
 <p>Útgevari / Publisher</p>
 <p>Náttúruvísindadeildin, Fróðskaparsetur Føroya</p>
@@ -23,10 +23,10 @@
 <p><em type="bold">Fyribilsúrslit </em></p>
 <p><em type="bold">Samlað veiða (kg) </em></p>
 <p><em type="bold">Tal av prøvum </em></p>
-<p><em type="bold">Fiskaslag </em><em type="bold">2013 2012 </em></p>
-<p><em type="bold">Munur </em><em type="bold">(%) </em></p>
-<p><em type="bold">Longdar- </em><em type="bold">mátað </em></p>
-<p><em type="bold">Stak- </em><em type="bold">vektir Nytrar </em></p>
+<p><em type="bold">Fiskaslag 2013 2012 </em></p>
+<p><em type="bold">Munur (%) </em></p>
+<p><em type="bold">Longdar- mátað </em></p>
+<p><em type="bold">Stak- vektir Nytrar </em></p>
 <p><em type="bold">Magar </em></p>
 <p>HAVMÚS 2.935 2.12038 245209</p>
 <p>GULLLAKSUR 1.655 1.37920 234177</p>
@@ -74,7 +74,7 @@
 <p xml:lang="eng">VØRPUSKEL 0 0‐100</p>
 <p>SKRAMBUL 0 52‐100</p>
 <p xml:lang="eng">SVARTBLETTUTA LANGASP. 0 12‐100</p>
-<p><em type="bold">Tilsamans </em><em type="bold">10.676 </em><em type="bold">9.232 </em><em type="bold">16 </em><em type="bold">5.076 </em><em type="bold">2.637 </em><em type="bold">538 </em><em type="bold">153 </em></p>
+<p><em type="bold">Tilsamans 10.676 9.232 16 5.076 2.637 538 153 </em></p>
 <p>Talva 1: Samlaða veiðan og tal av prøvum á Føroyabankatúrinum 5.-10. september 2013. Eisini verður samanborið við veiðuna heysttúrin árið fyri.</p>
 <p><em type="bold">Fiskasløg: </em>Fingin vórðu íalt 33 ymisk fiskasløg á túrinum ( <em type="italic">Talva 1 </em>). Hetta eru eitt slag minni enn á heysti 2012, tá vit fingu 34 ymisk fiskasløg. Talið av fiskasløgum, sum verða fingin á yvirlitstrolingunum á Bankanum, er rættiliga støðugt; vanliga 33 ellal 34 ymisk sløg. <em type="bold">Veiðan: </em>Samlaða veiðan hendan túrin var 10.676 kg. Hetta er 16 % meira enn fyri einum ári síðani, tá samlaða veiðan var 9.232 kg ( <em type="italic">Talva 1 </em>). Á <em type="italic">myndunum 1 – 6 </em>verður greitt frá veiðuni av toski, hýsu og upsa, og hvussu væl í holdum hesi fiskasløgini vóru. <em type="bold">Toskur: </em>Samlaða veiðan av toski á Føroyabankatúrinum var einans 32 toskar, sum tilsamans vigaðu 347 kg. Hetta er ein minking av veiðuni í vekt uppá 51% samanborið við í fjør, tá samlaða veiðan av toski var 703 kg. <em type="italic">Mynd 1 </em>vísir miðalkonditiónsfaktorin á toskinum. Konditiónsfaktorurin sigur okkum, hvussu feitur fiskurin er. Miðalkonditiónsfaktorurin hendan túrin var 1,17, sum er 10% hægri enn í fjør, tá konditiónsfaktorurin var 1,07. <em type="italic">Mynd 2 </em>vísir miðalveiðuna av toski í heyst-yvirlitstrolingunum á Føroyabanka árini 1991 og frameftir. Hendan túrin var miðalveiðan 12 kg pr. fiskitíma. Hetta er 51% minni enn árið fyri, tá veiðan var 24 kg fyri hvønn fiskitíma. Samanborið við onnur ár, var veiðan tó sera lítil. Í 2002 var miðalveiðan 249 kg pr. fiskitíma. </p>
 <p>Mynd 1 : Miðalkonditiónsfaktor (vekt/longd3) hjá toski á heyst-yvirlitstrolingini á Føroyabanka árini 1992-2013.</p>

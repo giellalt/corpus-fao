@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>21790</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2002.01 Alit um heildarpsykiatri í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">INNIHALDSYVIRLIT </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>21771</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2002.01 Alit um heildarpsykiatri í Føroyum.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">INNIHALDSYVIRLIT </em></p>
 <p xml:lang="dan"><em type="bold">INNGANGUR....................................................................................................... 4 </em></p>
 <p>Arbeiðssetningur ...........................................................................................................4 Arbeiðsgongdin .............................................................................................................4 Arbeiðsbólkar ................................................................................................................5</p>
 <p><em type="bold">BAKSÝNI............................................................................................................. 6 </em></p>
@@ -16,7 +16,7 @@
 <p><em type="bold">SJÚKRAHÚSPSYKIATRI ................................................................................. 16 </em></p>
 <p>Psykiatrisk sjúkrahús ..................................................................................................16</p>
 <p><em type="bold">Psykiatriska deild í framtíðini ....................................................................................17 </em></p>
-<p>Akut psykiatri...............................................................................................................18 Skipan av deildum.......................................................................................................19 Umbyggingar neyðugar...............................................................................................20</p>
+<p>Akut psykiatri...............................................................................................................18 Skipan av deildum.......................................................................................................19 Umbyggingar neyðugar...............................................................................................20 2</p>
 <p><em type="bold">Langtíðarsjúklingar .................................................................................................... 21 </em></p>
 <p><em type="bold">Viðgerðin á deildunum............................................................................................... 21 </em></p>
 <p><em type="bold">ØKISPSYKIATRI................................................................................................23 </em></p>
@@ -31,7 +31,7 @@
 <p>Uppleitandi arbeiði...................................................................................................... 34 Stuðuls- og samskiftispersónar .................................................................................. 34 Bústuðlar .................................................................................................................... 35 Hvør ávísir til bústuðlar og stuðuls-og samskiftispersónar? ....................................... 36</p>
 <p><em type="bold">Arbeiðsmarknaðurin .................................................................................................. 36 </em></p>
 <p><em type="bold">Bústaðartilboð ............................................................................................................ 38 </em></p>
-<p>Hvat er eitt bútilboð ? ................................................................................................. 38 Skulu íbúðir byggjast saman ella hvør sær ? ............................................................. 39 Byggja ella keypa hús ? ............................................................................................. 39</p>
+<p>Hvat er eitt bútilboð ? ................................................................................................. 38 Skulu íbúðir byggjast saman ella hvør sær ? ............................................................. 39 Byggja ella keypa hús ? ............................................................................................. 39 3</p>
 <p><em type="bold">Setan í verk..................................................................................................................41 </em></p>
 <p><em type="bold">BARNA- OG UNGDÓMSPSYKIATRI ............................................................... 42 </em></p>
 <p><em type="bold">GERONTOPSYKIATRI...................................................................................... 44 </em></p>
@@ -49,7 +49,7 @@
 <p><em type="bold">ARBEIÐSBÓLKAR ........................................................................................... 63 </em></p>
 <p>Sjúkrahúspsykiatri.......................................................................................................63 Økispsykiatri................................................................................................................64 Sosialpsykiatri .............................................................................................................65</p>
 <p><em type="bold">BRÚKARASJÓNARMIÐ ................................................................................... 66 </em></p>
-<p xml:lang="dan"><em type="bold">KELDUYVIRLIT................................................................................................. 69 </em></p>
+<p xml:lang="dan"><em type="bold">KELDUYVIRLIT................................................................................................. 69 </em>4 </p>
 <p xml:lang="dan">INNGANGUR</p>
 <p><em type="bold">Arbeiðssetningur </em></p>
 <p>Í januar mánaða 2001 setti landsstýrismaðurin í Almanna- og heilsumálum ein arbeiðsbólk, sum fekk uppgávuna at koma við einum uppskoti um hvussu tørvurin hjá teimum sálarsjúku, bæði á viðgerð, bústøðum, dagtilhaldum, verkstøðum og øðrum, kundi nøktast komandi árini.</p>
@@ -67,7 +67,7 @@
 <p>Settur varð ein stýrisbólkur umfatandi leiðsluna á psykiatriska deplinum og leiðsluna á Landssjúkrahúsinum.</p>
 <p>Samstundis varð settur ein samskipari at taka sær av tilrættaleggjanini.</p>
 <p>Við hugtakinum <em type="bold">Heildarpsykiatri </em>verður sipað til, at psykiatriska viðgerðin skal virka sum ein samanhangandi heild fyri tann, sum hevur tørv á viðgerð. </p>
-<p>Skipanarliga verður vanliga tosað um sjúkrahúspsykiatri, økispsykiatri og sosialpsykiatri.</p>
+<p>Skipanarliga verður vanliga tosað um sjúkrahúspsykiatri, økispsykiatri og sosialpsykiatri.5</p>
 <p><em type="bold">Arbeiðsbólkar </em></p>
 <p type="listitem">Avrátt varð, at tann arbeiðsbólkurin, sum hevði sitið á vári og arbeitt við bútilboðum til sálarsjúk, skuldi halda áfram við sínum arbeiði, og bólkurin varð víðkaður nakað. Hesin bólkurin hevur viðgjørt tann partin, sum snýr seg um sosialpsykiatri, og hevur havt til uppgávu at koma við uppskoti um</p>
 <p type="listitem">Hvussu gerandisdagurin, serliga hjá teimum sum ikki hava tilknýti tilarbeiðsmarknaðin, kann gerast so áhugaverdur sum gjørligt.</p>
@@ -85,7 +85,7 @@
 <p>Hetta er eitt boð upp á hvussu vit kunnu skipa eitt dygdargott viðgerðartilboð til sálarsjúk fólk í Føroyum, við atliti til, at tað eru ymiskar forðingar, bæði av fíggjarligum og menninskjansligum slagi, sum hædd skal takast fyri.</p>
 <p>Tað skerst tó ikki burtur, at skal hesari ætlan verða lív lagað, so krevst ein greið politisk støðutakan til, um tað er hetta viðgerðartilboð, sum landsins myndugleikar vilja bjóða, og um so er, verður eisini neyðugt at økja munandi um fíggjarligu játtanina til tey sálarsjúku.</p>
 <p>Politisk støðutakan er neyðug. Tað ringasta sum kann henda hesi ætlan er, at hon verður tagd burtur, goymd og gloymd.</p>
-<p>Tað er í áliti til, at hetta verður gjørt, at hendan ætlan er gjørd !</p>
+<p>Tað er í áliti til, at hetta verður gjørt, at hendan ætlan er gjørd !6</p>
 <p>BAKSÝNI</p>
 <p><em type="bold">Psykiatri higartil </em></p>
 <p>Í vesturheiminum eru seinastu fimti árini hendar stórar broytingar í viðgerð og viðgerðarhættunum av sálarsjúkum, sinnissjúkum, sinnisligum sjúkum, sinnisbrekum, psykiskum sjúkum, psykiatriskum sjúkum ella hvat tað nú verður nevnt.</p>
@@ -98,7 +98,7 @@
 <p>Tað varð so smátt farið undir hetta í áttatiárunum við skipan av sonevndari økispsykiatriskari tænastu og stovnsetan av búfelagsskapum til sálarsjúk, men steðgaði hetta arbeiði upp, einamest av fíggjarligum ávum.</p>
 <p><em type="bold">Psykiatriætlan fyri ár 2000 </em></p>
 <p>Í 1991 varð gjørd ein <span type="quote">”Psykiatriætlan fyri ár 2000”</span>, sum var ein tíggju ára ætlan, sum kom við boðum um hvussu psykiatriska viðgerðartilboðið kundi umleggjast, mennast og skipast. Hendan ætlan fekk ongantíð ta politisku viðgerð, sum varð neyðug, og tað hevur ikki verið møguligt at arbeiða miðvíst eftir henni. Ein av fyritreytunum var hægri politisk raðfesting, og hendan hevur ikki verið gjørd.</p>
-<p>Í <span type="quote">”Psykiatriætlan fyri ár 2000”</span> verður greitt neyvari frá psykiatriskari søgu, hugburðum og hugsanum bæði úti og heima, og fyri áhugaði verður víst til útgreiningarnar í hesi ætlan.</p>
+<p>Í <span type="quote">”Psykiatriætlan fyri ár 2000”</span> verður greitt neyvari frá psykiatriskari søgu, hugburðum og hugsanum bæði úti og heima, og fyri áhugaði verður víst til útgreiningarnar í hesi ætlan.7</p>
 <p>Uppskotini í 2000 ætlanini eru eisini tikin við í arbeiðið við hesi psykiatriætlan, men dentur verður lagdur á at fáa tað nýggjasta rákið við og at læra av teimum royndum, sum grannalond okkara hava gjørt í sambandi við umskipan og menning av psykiatrisku viðgerðartilboðunum. Serliga skal havast í huga, at vit mugu leggja okkum eftir at gera raðfestingina rætta, so at ein møgulig broyting av sjúkrahúsviðgerðini ikki hevur við sær, at fólk einki viðgerðartilboð hava.</p>
 <p>Tá farið varð undir hetta arbeiði varð avrátt, at tá tosast skuldi um mál fyri psykiatriska viðgerð, var eitt gott útgangsstøði at taka í teimum vegleiðingum, sum danska heilsustýrið (Sundhedsstyrelsen) hevur givið út í 90unum. Hugburðurin hevur verið, at hetta er væl úr hondum greitt arbeiði, og at eingin grund hevur verið til at gera hetta arbeiði umaftur. Tó hevur verið havt í huga, at arbeiðið alla tíðina skal lagast eftir okkara heimligu viðurskiftum.</p>
 <p><em type="bold">PSYKIATRISK VIÐGERÐ </em></p>
@@ -112,7 +112,7 @@
 <p type="listitem">at uppvenja tann virkisførleika sjúklingurin hevur og menna ónyttar møguleikar</p>
 <p type="listitem">at átaka sær ábyrgdina av umsorgan og røkt í tey tíðarskeið, har tann sjúki ikki erførur fyri at taka av øðrum tilboðum.</p>
 <p>Umráðandi er at gera vart við, at tá hendan víttfevnandi fatanin av viðgerð verður nýtt, krevja ymiskar <span type="quote">”fasur”</span> í viðgerðini ymiskar viðgerðarmátar. Hetta fyri at hava í huga, at tað skal verða ein samanhangur í viðgerðini, men at tað er ymiskt, sum verður gjørt ymsa staðni í skipanini.</p>
-<p>Ein viðgerð skal málrættast og tillagast tørvin hjá tí einstaka sjúklinginum. Hetta fer fram í einum tvørfakligum samstarvi, beinanvegin ein hevur nóg mikið av vitan um tann einstaka, til at ætlanir kunnu leggjast, og hesar skulu javnan dagførast, tá nýggir upplýsingar gera tað neyðugt.</p>
+<p>Ein viðgerð skal málrættast og tillagast tørvin hjá tí einstaka sjúklinginum. Hetta fer fram í einum tvørfakligum samstarvi, beinanvegin ein hevur nóg mikið av vitan um tann einstaka, til at ætlanir kunnu leggjast, og hesar skulu javnan dagførast, tá nýggir upplýsingar gera tað neyðugt.8</p>
 <p type="listitem">Sum nevnt, so skal psykiatrisk viðgerð skiljast sum ein viðgerð, ið umfatar viðgerðarhættirnar:</p>
 <p type="listitem">psykoterapeutisk/psykologisk viðgerð (psykodynamiska, atburðarterapeutiska,kognitiva –sum hvør sær hevur undirbólkar sum t.d. einstaklinga, pør/familju, bólka og <span type="quote" xml:lang="dan">”miljøterapi”</span> o.a.</p>
 <p type="listitem">biologisk viðgerð (psykofarmaka, ECT, ljósviðgerð, fysioterapi, ergoterapi o.a.)</p>
@@ -128,7 +128,7 @@
 <p type="listitem">viðgerðartilboðið hongur saman í tíð, - tvs. at tað ikki eru bíðitíðir fyri at koma fráeinum parti í skipanini til ein annan part, og at viðgerðartilboðið verður tillagað tørvinum hjá sjúklinginum</p>
 <p type="listitem">at viðgerðin skal leggjast til rættis fyri hvønn sjúkling sær og í samstarvi viðsjúklingin og avvarðandi</p>
 <p type="listitem">at viðgerðin verður sundurgreinað (t.d í psykiatriska viðgerð, sosialan stuðul, men-ing av førleika) eftir tørvinum hjá sjúklinginum</p>
-<p type="listitem">at viðgerðartilboðið er smidligt og kann broytast eftir skiftandi umstøðum hjásjúklinginum</p>
+<p type="listitem">at viðgerðartilboðið er smidligt og kann broytast eftir skiftandi umstøðum hjásjúklinginum9</p>
 <p type="listitem">at viðgerðartilboðið er lætt atkomuligt og er har, tá sjúklingurin hevur brúk fyri tí</p>
 <p type="listitem">at starvsfólkini skapa samstarv og gott samskifti við sjúklingin</p>
 <p><em type="bold">MÁL FYRI PSYKIATRISKA VIÐGERÐ </em></p>
@@ -142,7 +142,7 @@
 <p>Tað verður ikki í álitinum farið niður í smálutir við hvussu hetta skal tryggjast í hvørjum einstøkum pørtum av viðgerðini, men hetta verður greinað nærri í <span type="quote" xml:lang="dan">”Målsætninger for kvalitet i voksenpsykiatrien”</span>, <span type="quote" xml:lang="dan">”Målesætning for kvalitiet i distriktspsykiatrien”</span> og <span type="quote" xml:lang="dan">”Målsætninger for kvalitet i børne- og ungdomspsykiatrien”</span>, sum danska heilsustýrið (Sundhedsstyrelsen) hevur givið út fyri fáum árum síðani, og sum avrátt varð, skuldu verða okkara grundleggjandi málsetningar.</p>
 <p><em type="bold">MÁLBÓLKUR </em></p>
 <p>Í yvirordnaða málsetningunum um dygd í psykiatriska viðgerðartilboðnum verður nevnt, at skipanin skal veita hjálp til øll tey, sum hava brúk fyri hesi hjálp.</p>
-<p>Fyri nærri at greina hendan bólkin av fólki sum tørva hjálp, kann verða býtt upp í fýra undirbólkar:1. Ein kjarni av fólki, sum eru langtíðarsjúkmeginparturin við sjúkuni skizofreni, men eisini øðrum sinnissjúkum og ofta saman við alkoholismu ella evnismisnýtslu2. Rundan um kjarnuna er ein størri bólkur, sum til tíðir eru psykotisk, havadepressión, hava murubrek og/ella misnýtslu. Hesi eru ikki støðugt sjúk.3. Ein bólkur av fólki, sum koma í sálarliga kreppu í sambandi við hending-ar í lívinum, men sum so ikki eru psykisk sjúk. Í eina tíð kunnu tey tó hava brúk fyri bæði viðgerð og sosialum stuðli.4. Ein bólkur av fólki, sum ynskja hjálp til betur at náa persónligagleði og framgongd, sum sum ikki eru psykisk sjúk og ikki eri í kreppustøðu sum so, men eru ónøgd við lívsháttin.</p>
+<p>Fyri nærri at greina hendan bólkin av fólki sum tørva hjálp, kann verða býtt upp í fýra undirbólkar:1. Ein kjarni av fólki, sum eru langtíðarsjúkmeginparturin við sjúkuni skizofreni, men eisini øðrum sinnissjúkum og ofta saman við alkoholismu ella evnismisnýtslu102. Rundan um kjarnuna er ein størri bólkur, sum til tíðir eru psykotisk, havadepressión, hava murubrek og/ella misnýtslu. Hesi eru ikki støðugt sjúk.3. Ein bólkur av fólki, sum koma í sálarliga kreppu í sambandi við hending-ar í lívinum, men sum so ikki eru psykisk sjúk. Í eina tíð kunnu tey tó hava brúk fyri bæði viðgerð og sosialum stuðli.4. Ein bólkur av fólki, sum ynskja hjálp til betur at náa persónligagleði og framgongd, sum sum ikki eru psykisk sjúk og ikki eri í kreppustøðu sum so, men eru ónøgd við lívsháttin.</p>
 <p>Í psykiatrisku viðgerðarskipanini er orkan og fíggjarliga tilfeingið ikki óavmarkað, og tí er eisini neyðugt at gera raðfestingar av hvussu tænastan skal tillutast undirbólkunum.</p>
 <p>Psykiatriska skipanin skal hava orku til at umfata øll í bólkunum 1 og 2, og í ávísan mun eisini tey í bólki 3, sum eru ringast fyri, meðan lættari tilburðir í hesum bólki verða tilvíst aðrar viðgerðarmøguleikar (kommunulækna og praktiserandi psykologar). Bólkur 4 kemur at fella uttanfyri skipanina, men má leita sær hjálp aðrastaðni (praktiserandi psykologar, psykoterapeutar o.t.).</p>
 <p><em type="bold">TØRSVMETINGAR </em></p>
@@ -151,7 +151,7 @@
 <p>Soleiðis sum tørvurin hevur víst seg í Føroyum, bendir alt á, at títtleikin av psykiskari sjúku her ikki er størri enn aðrastaðni, kanska heldur minni ella mest sum tað sama.</p>
 <p>Í sambandi við ta broyting, sum er farin fram í vesturheiminum, frá asylkendari totalpsykiatri til at gera <span type="quote">”minst møguligt inntriv”</span>, er tørvurin á songjarplássum fallin munandi. Tá Statshospitalið her varð fyrireikað, varð tørvurin mettur til 100 songjarpláss, og var tá vanligt at rokna hendan tørv til 2-2,5 promillu av fólkatalinum. Nú verður aðrastaðni vanliga roknað við einum tørvi svarandi til 1 promillu av fólkatalinum, og sostatt eini 50 songjarpláss á psykiatrisku deild her. Treytin fyri hesi tørvsmeting er tó tann, at langtíðarsjúklingar hava onnur bútilboð, so sum bústovnar og sambýli, og at møguleiki er fyri viðgerð á dagdeildum og at tað er eitt ambulant ella økispsykiatriskt viðgerðartilboð.(Nærri útgreinan av tørvinum her heima finnst í <span type="quote">”Psykiatriætlan ár 2000”</span>, síða 7-12).</p>
 <p><em type="bold">FYRIBYRGJAN AV PSYKISKARI SJÚKU </em></p>
-<p>Tá tosað hevur verið um heilsupolitikk seinastu árini, er vorðið alsamt meiri vanligt at tosa um fyribyrgjan av sjúku, út frá sjónarmiðunum, at <span type="quote">”tað er betri at fyribyrgja enn at noyðast at viðgera”</span>.</p>
+<p>Tá tosað hevur verið um heilsupolitikk seinastu árini, er vorðið alsamt meiri vanligt at tosa um fyribyrgjan av sjúku, út frá sjónarmiðunum, at <span type="quote">”tað er betri at fyribyrgja enn at noyðast at viðgera”</span>. 11</p>
 <p>Í sambandi við fyribyrgjan eru trý hugtøk, sum eru galdandi: <em type="bold">1. Fyribyrgjan í fyrsta lagi </em>at forða fyri at sjúkan nakrantíð kemur. Dømi um hetta eru screeningskanningar av øllum nýføðingum fyri ávísar sjúkur, kanning av óføddum fyri ávísar sjúkur o.t. <em type="bold">2. Fyribyrgjan í øðrum lagi </em>har sjúka er íkomin ræður um at finna fram til hesa so skjótt sum gjørligt og byrja viðgerð so skjótt sum til ber. Dømi um hetta eru summar screeningskanningar, t.d. fyri krabbamein í lívmóðurhálsi og upplýsingartiltøk um sjálvskanningar fyri bróstkrabba og áheitanir um at venda sær tíðliga til lækna <em type="bold">3. Fyribyrgjan í triðja lagi </em>har sjúka er íkomin og hon ikki kann grøðast, at royna at byrgja fyri at hon versnar og dregur aðrar sjúkur afturat sær. Dømi um hetta er sukursjúka, at fyribyrgjast skal at sjúklingurin fær langtíðar árin. </p>
 <p>Omanfyristandandi dømi eru øll um somatiska sjúku, har tað í dag er púra vanligt at tosa um fyribyrgjan. Tað er vorðin vanlig mannahugsan, at t.d. viðvíkjandi krabbameinssjúkum, so ræður um at fara tíðliga til lækna, og millum tey, sum standa fyri viðgerðini er púra greitt, at tað er lættari at viðgera slíkar sjúkur, um sjúkan ikki hevur ment seg ov nógv.</p>
 <p>Tað hevur ikki verið so vanligt at hugsa soleiðis um psykiskar sjúkur, men tað er einki, sum talar ímóti, at hesi viðurskiftini eisini eru galdandi fyri psykiskar sjúkur.</p>
@@ -160,8 +160,8 @@
 <p>Eisini fyri aðrar av teimum psykisku sjúkunum er vælkent, at tað er umráðandi, at sjúklingurin kemur tíðliga í viðgerð, - áðrenn sjúkan tekur ræðið.</p>
 <p>Hetta ger, at tann psykiatriska viðgerðarskipanin skal verða soleiðis háttað, at tað er lætt hjá kommunulæknum og øðrum í viðgerðarskipanini at kunna ávísa sjúklingar til viðgerð. Skipanin skal vera opin fyri ambulantari sjúkuútgreinan og viðgerð, soleiðis at sjúklingar kunnu viðgerast langt áðrenn teir annars hava brúk fyri at verða innlagdir á songjardeild.</p>
 <p>Um hugt verður eftir ”tíðarperspektivinum“ í fyribyrgjan, - hetta at tað ikki má ganga ov long tíð, er eisini greitt, at eitt øki sum barna- og ungdómspsykiatri skal raðfestast høgt, so sálarsjúk børn og ung ikki skulu ganga og bíða eftir at tey gerast vaksin fyri at fáa viðgerð. Somuleiðis má tann ambulanta viðgerðin raðfestast høgt, so fólk ikki mugu ganga og bíða til tey eru so sjúk, at tey mugu innleggjast fyri yvirhøvur at fáa nakra viðgerð.</p>
-<p>Havast skal í huga, at hóast tað ofta verður tikið til, at <span type="quote">”tað er bíligari at fyribyrgja enn at viðgera”</span>, so er tað ikki er ókeypis at fyribyrgja, og peningur má setast av til hetta.</p>
-<p>Til at fyribyrgja psykiska sjúku er neyðugt við eini opnari skipan, sum eisini gevur góðar møguleikar fyri ambulantari viðgerð og umfatandi upplýsing til borgararnar um hvørji sjúkutekin ein skal verða varugur við.</p>
+<p>Havast skal í huga, at hóast tað ofta verður tikið til, at <span type="quote">”tað er bíligari at fyribyrgja enn at viðgera”</span>, so er tað ikki er ókeypis at fyribyrgja, og peningur má setast av til hetta.12</p>
+<p>Til at fyribyrgja psykiska sjúku er neyðugt við eini opnari skipan, sum eisini gevur góðar møguleikar fyri ambulantari viðgerð og umfatandi upplýsing til borgararnar um hvørji sjúkutekin ein skal verða varugur við.13</p>
 <p>SKIPANARLIG VIÐURSKIFTI</p>
 <p type="listitem">Sum nevnt í innganginum, so verður psykiatriska viðgerðarskipanin nú vanliga býtt í trý økir:</p>
 <p type="listitem">sjúkrahúspsykiatri</p>
@@ -175,7 +175,7 @@
 <p>Meðan omanfyristandandi snýr seg um hvar ella undir hvørjum umstøðum sjúklingurin skal viðgerast, so kann eisini verða talað um eina meira fakliga sundurgreinaða skipan av viðgerðini. Tað kann verða eftir aldri hjá sjúklinginum, ella eftir hvør trupulleikin er.</p>
 <p>Tosa vit um aldur, so verður vanliga býtt upp í <em type="bold">barna- og ungdómspsykiatri </em>, <em type="bold">vaksnamannapsykiatri </em>og <em type="bold">gerontopsykiatri </em>(eldri). </p>
 <p>Verður býtt upp eftir trupulleika, so eru fleiri serøki innan psykiatri, og her kunnu nevnast rættarpsykiatri, misbrúkspsykiatri, vanlukkupsykiatri, sexologi, neuropsykiatri, liaisonspsykiatri og oligofrenopsykiatri, meðan tann vanliga ella <span type="quote">”almenna”</span> psykiatriin tekur sær av mest vanligu sálarsjúkunum og fjøltáttaðu sjúkumyndunum.</p>
-<p>Í høvuðsheitum snýr hetta álit seg um viðgerð av vaksnamannapsykiatri, men eisini barna- og ungdómspsykiatri, gerontopsykiatri, rættarpsykiatri og misbrúkspsykiatri verða viðgjørd, meðan nomið verður við onnur øki.</p>
+<p>Í høvuðsheitum snýr hetta álit seg um viðgerð av vaksnamannapsykiatri, men eisini barna- og ungdómspsykiatri, gerontopsykiatri, rættarpsykiatri og misbrúkspsykiatri verða viðgjørd, meðan nomið verður við onnur øki.14</p>
 <p>LÓGGÁVA</p>
 <p>Á okkara leiðum hevur í mong ár verið serlig lóggáva, sum snýr seg um viðurskiftini hjá psykiatriskum sjúklingum og serliga umfatar tey viðurskiftið, har innleggjan á sjúkrahús og viðgerð verður givin móti sjúklingsins vilja. Grundarlagið fyri hesum samfelagsligu reglum hevur verið, at summar sálarsjúkur hava við sær, at sjúklingsins evni at hava innlit í sína sjúku til tíðir eru avmarkaði og at summir sjúklingar til tíðir kunnu hava ein atburð, sum kann vera til vanda fyri hann sjálvan ella onnur.</p>
 <p>Í Føroyum er galdandi lóg frá 1938, sum snýr seg um <span type="quote" xml:lang="dan">”Sindssyge personers hospitalsophold”</span> og sum serliga regulerar viðurskiftini í samband við innleggjan og viðgerð.</p>
@@ -193,7 +193,7 @@
 <p type="listitem">rætt hjá sjúklinginum at kæra um viðgerð við tvingsli</p>
 <p type="listitem">regulering av nýtslu av øðrum tvingsli á psykiatrisku deildunum</p>
 <p type="listitem">størri innlit hjá samfelagnum til viðgerðina á psykiatrisku deild/størri opinleika</p>
-<p type="listitem">óvildugan sjúklingaráðgeva í øllum málum, sum snúgva seg um tvingsil</p>
+<p type="listitem">óvildugan sjúklingaráðgeva í øllum málum, sum snúgva seg um tvingsil15</p>
 <p type="listitem">Lógin setir eisini krøv til viðgerðina:</p>
 <p type="listitem">at tað verður gjørd viðgerðarætlan</p>
 <p type="listitem">at sjúklingurin verður tikin við upp á ráð</p>
@@ -204,7 +204,7 @@
 <p>Tað verður mælt til at danska lógin <em type="bold"><span type="quote" xml:lang="dan">”Lov om frihedsberøvelse og anden tvang i psykiatrien”</span> </em>við broytingunum galdandi frá 1.1.1999, staðfest í <em type="bold"><span type="quote" xml:lang="dan">”Bekendtgørelse af lov om frihedsberøvelse og anden tvang i psykiatrien”</span> </em>verður sett í gildi í Føroyum við nøkrum tillagingum, sum okkara viðurskifti gera neyðug. </p>
 <p type="listitem">Hesar tillagingar kunnu verða, at:</p>
 <p type="listitem"><span type="quote" xml:lang="dan">”Lokale patientklagenævn”</span> falla burtur, men at talan verður um eitt psykiatrikstklaguráð fyri alt landið. Hetta verður myndað av trimum fólkum:  t.d.  Eitt umboð valt av lógardeildini í Landsstýrinum (løgfrøðingur), eitt umboð valt av kommunulæknafelagnum (lækni) og eitt umboð valt av Meginfelag teirra Brekaðu í Føroyum (MBF)/Sinnisbata.</p>
-<p type="listitem">Kærur um avgerðir hjá psykiatriska sjúklingaráðnum skulu, tá tað snýr seg um <span type="quote" xml:lang="dan">”fri-hedsberøvelse”</span> fyrileggjast Føroya Rætti meðan kærur um avgerðir um viðgerð og annan tvingsul, skulu viðgerast av almennu kærunevndini.</p>
+<p type="listitem">Kærur um avgerðir hjá psykiatriska sjúklingaráðnum skulu, tá tað snýr seg um <span type="quote" xml:lang="dan">”fri-hedsberøvelse”</span> fyrileggjast Føroya Rætti meðan kærur um avgerðir um viðgerð og annan tvingsul, skulu viðgerast av almennu kærunevndini.16</p>
 <p>SJÚKRAHÚSPSYKIATRI</p>
 <p><em type="bold">Psykiatrisk sjúkrahús </em></p>
 <p>Her um okkara leiðir hevur verið vanligt antin at hava serlig psykiatrisk sjúkrahús ella psykiatriskar deildir á somatisku sjúkrahúsunum. Allastaðni er skipað nøkunlunda eftir sama leisti.</p>
@@ -216,7 +216,7 @@
 <p type="listitem">hvør sjúklingur egið kamar.</p>
 <p type="listitem">Tað verður hildið vera sjálvsøgd rættindi hjá psykiatriskum sjúklingum, at teir undir innleggjan hava egið kamar á deildini. Royndirnar vísa, at hetta økir um tryggleikan og bøtir um viðgerðarumhvørvið, í mun til at fleiri sjúklingar liggja á sama kamari. (Í Danmark t.d. er politiski málsetningurin at allir sjúklingar á psykiatrisku deildunum skulu hava egið kamar undir innleggjan í seinasta lagi í 2005).</p>
 <p type="listitem">„kontinuitetur“ undir innleggjan.</p>
-<p type="listitem">Tað hevur verið  ógvuliga vanligt, at sjúklingar, tá teir verða innlagdir, koma á afturlatna deild fyrstu tíðina. Serliga sjúklingar, sum deildin ikki kennir og sjúklingar, sum eru vánaligir. Tá ein tíð er farin og sjúklingurin hevur fingið tað betri, verður hann fluttur á opna deild.  Hetta gevur brot í viðgerðina. Tá sjúklingurin á afturlatnu deildini hevur fingið neyðuga viðgerðarsambandi við starvsfólkini har, kennir seg tryggan og er í bata, verður hann fluttur á aðra deild, við øðrum starvsfólki og oftani øðrum viðgerðarhugburði ella viðgerðarmáta. Hetta kann elva til at sjúkan versnar aftur og innleggingartíðin verður longd. Eisini kann sjúklingur, sum er á opnari deild, um hann fær tað verri, verða fluttur á afturlatna deild, og sama brot í samanhanginum fer fram. Ikki er óvanligt, at summir sjúklingar undir eini og somu innleggjan koma at flyta aftur og fram millum afturlatnar og opnar deildir fleiri ferðir. Fyri at koma burturúr hesum, hevur rákið verið tann vegin at skipa sokallaða avskerman/skjólan (sí niðanfyri)</p>
+<p type="listitem">Tað hevur verið  ógvuliga vanligt, at sjúklingar, tá teir verða innlagdir, koma á afturlatna deild fyrstu tíðina. Serliga sjúklingar, sum deildin ikki kennir og sjúklingar, sum eru vánaligir. Tá ein tíð er farin og sjúklingurin hevur fingið tað betri, verður hann fluttur á opna deild.  Hetta gevur brot í viðgerðina. Tá sjúklingurin á afturlatnu deildini hevur fingið neyðuga viðgerðarsambandi við starvsfólkini har, kennir seg tryggan og er í bata, verður hann fluttur á aðra deild, við øðrum starvsfólki og oftani øðrum viðgerðarhugburði ella viðgerðarmáta. Hetta kann elva til at sjúkan versnar aftur og innleggingartíðin verður longd. Eisini kann sjúklingur, sum er á opnari deild, um hann fær tað verri, verða fluttur á afturlatna deild, og sama brot í samanhanginum fer fram. Ikki er óvanligt, at summir sjúklingar undir eini og somu innleggjan koma at flyta aftur og fram millum afturlatnar og opnar deildir fleiri ferðir. Fyri at koma burturúr hesum, hevur rákið verið tann vegin at skipa sokallaða avskerman/skjólan (sí niðanfyri)17</p>
 <p type="listitem">avskerman/skjólan.</p>
 <p>Her er talan um at gera broytingar í innrættingini á deildunum, soleiðis at tað ber til at býta deildirnar upp í smærri eindir, so at ein partur av deildini er <span type="quote">”afturlatin”</span>. Tankin er, at ein sjúklingur, sum t.d. er innlagdur á opnari deild, og sum brádliga fær tað vánaligari psykiskt, ikki skal flytast av deildini, men at partur av opnu deildini, t.d. hansara egna kamar og eitt granna kamar gerast ein minni <span type="quote">”afturlatin”</span> eind. Soleiðis ber til at skipa, at sjúklingurin ikki verður órógvaður av øðrum sjúklingum ella av færri sjúklingum – og teir av honum. Eyka starvsfólk kunnu setast burturav til taka sær av vánaliga sjúklinginum og sleppast kann undan at flyta burtur úr tí umhvørvinum, sum sjúklingurin kennir og frá teimum starvsfólkum hann hevur lært at kenna.</p>
 <p type="listitem">Hesin mátin við avskerman og skjólan kann gerast á ymsan hátt, og tað fara í løtuni fram nógvar ymiskar royndir hvussu hetta kann skipast á verandi psykiatrisku deildunum.</p>
@@ -228,7 +228,7 @@
 <p>Tá virksemi innan økispsykiatri og sosialpsykiatri er sett á stovn, ber til at útskriva langtíðarsjúklingar og málið frameftir er, at tað á deildunum ikki skulu verða langtíðarsjúklingar, sum eru innlagdir aftaná at sjúkrahúsviðgerðin er liðug. Tá ein partur av virkseminum hjá psykiatrisku sjúkrahúsunum á hendan hátt verður flutt út, ber samstundis til at minka um talið á songjarplássum á deildunum. Men tað er ein greið fyritreyt, at áðrenn tað ber til, mugu búpláss verða fingin til vega og eitt ambulant viðgerðartilboð standa hesum fólkum í boði.</p>
 <p><em type="bold">PSYKIATRISKA DEILD Í FRAMTÍÐINI </em></p>
 <p>Tað er ikki øll psykiatrisk viðgerð, sum kann fara fram ambulant, og nógvir sjúklingar hava tørv á tí tryggleika, sum ein innleggjan kann geva. Tað verður tí eisini í framtíðini brúk fyri eini psykiatriskari deild við songjarplássum. Eisini er tað so, at onnur lóggáva áleggur psykiatrisku deild, at nakrir sjúklingar skulu verða innlagdir (rættarpsykiatriskir sjúklingar).</p>
-<p>Í viðgerðini av tørvi og ynskjum um hvussu psykiatriski depilin á Landssjúkrahúsinum í framtíðini eigur at verða skipaður/uppbygdur, eru komin greið ynski frá starvsfólkum og avvarðandi, at tað eigur at verða farið undir nútímansger av deildunum, sum takaútgangsstøði í teimu broytingum, sum eru farnar fram aðrastaðni, og sum eru skitseraðar omanfyri.</p>
+<p>Í viðgerðini av tørvi og ynskjum um hvussu psykiatriski depilin á Landssjúkrahúsinum í framtíðini eigur at verða skipaður/uppbygdur, eru komin greið ynski frá starvsfólkum og avvarðandi, at tað eigur at verða farið undir nútímansger av deildunum, sum taka18útgangsstøði í teimu broytingum, sum eru farnar fram aðrastaðni, og sum eru skitseraðar omanfyri.</p>
 <p>Samstundis hevur verið eitt ógvuliga stórt ynski, at starvsfólkunum verður givin møguleiki fyri eftirútbúgving og at sett verða í verk tiltøk fyri at dygdarmenna viðgerðina á psykiatrisku deildunum.</p>
 <p><em type="bold">Akut psykiatri </em></p>
 <p>Í uppsettu málunum fyri góða psykiatri, verður dentur lagdur á, at sálarsjúk hava møguleika at koma í samband við viðgerðarskipanina, tá teimum tørvar tað. Hetta er tann parturin, sum verður nevndur <em type="bold">akut psykiatri </em>. Í grannalondunum er nógvastaðni skipaðar psykiatriskar skaðastovur, har ein kann venda sær til, um einum tørvar tað. Spurningurin um loysn av hesum málinum hevur verið viðgjørdur í arbeiðsbólkinum. </p>
@@ -244,7 +244,7 @@
 <p type="listitem">Umhvørvið á deildini skal vera hugnaligt</p>
 <p type="listitem">Venjingarkøk</p>
 <p type="listitem">Ítrivsrúm</p>
-<p type="listitem">Roykirúm við góðari útluftingarskipan</p>
+<p type="listitem">Roykirúm við góðari útluftingarskipan19</p>
 <p type="listitem">Tvær uppihaldsstovur</p>
 <p type="listitem">Góðan rímiligan garð</p>
 <p type="listitem">Góð starvsfólkarúm og skrivstovu</p>
@@ -261,7 +261,7 @@
 <p><em type="bold">Opin viðgerðardeild D </em>Deild við plássi til 10-12 sjúklingum. Almenn psykiatrisk deild við serligum kunnleika til viðgerð av sjúklingum við murubrekum og gerontopsykiatri. </p>
 <p><em type="bold">Opin viðgerðardeild E </em>Deild við plássi til 10-12 sjúklingum. Almenn psykiatrisk deild við serligum kunnleika til affektivar sjúkur (depressión/mani) </p>
 <p><em type="bold">Opin viðgerðardeild F </em>Deild við plássi til 10-12 sjúklingum. Almenn psykiatrisk deild við serligum kunnleika til ungdómspsykiatri og etingarólag. </p>
-<p>Umframt songjardeildir, skulu á psykiatrisk deplinum verða</p>
+<p>Umframt songjardeildir, skulu á psykiatrisk deplinum verða20</p>
 <p><em type="bold">Dagdeild G </em>Deild sum er opin í dagtímunum til eftirviðgerð av áður innløgdum sjúklingum og viðgerð av sjúklingum, sum ikki tørva innleggjan alt samdøgrið, men har vanlig ambulant viðgerð ikki er nóg mikið. Talan er um viðgerð og ikki ítriv ella tilhald. </p>
 <p><em type="bold">Ergo og fysioterapeutisk deild H </em>Deild sum til sjúklingar á øllum deildum á deplinum hevur eitt ergoterapeutiskt og eitt fysioterapeutiskt viðgerðartilboð. Miðast skal eftir at hesin parturin av viðgerðini inngongur í allar <span type="quote">”fasur”</span> av viðgerðini, - frá tí akutta til útslúsing undir innleggjan og í ambulantari eftirviðgerð. Deildin hevur eisini um hendi ítrivsvirksemi fyri langtíðarsjúklingar, so leingi tørvur er á hesum á deildunum. </p>
 <p>Deildin eigur at hava serligt tilboð til viðger av vekttrupulleikum og eigur at hava motiónsrúm og –tól og eigur at leggja dent á at menna tær royndir, sum eru við rørslu og ítrótti í psykiatriskari viðgerð.</p>
@@ -270,7 +270,7 @@
 <p><em type="bold">Umbyggingar neyðugar </em></p>
 <p>Í uppskotinum er ikki tikin neyv avgerð um hvussu nógv <em type="bold">songjarpláss </em>talan skal verða um á hvørjari deild, tá hetta velst nakað um rúmdina á deildunum og hvussu hesar kunnu innrættast eftir omanfyrinevnda leisti. </p>
 <p>Í sambandi við stóru umbyggingar- og viðlíkahaldsætlanina fyri Landssjúkrahúsið, sum partvís er í gongd, eru eisini gjørdar metingar av umvælingar- og viðlíkahaldstørvinum av teimum psykiatrisku deildunum. Her er tó bara tikin hædd fyri mest neyðturvuligu umvælingunum og støða er als ikki tikin til, at psykiatrisku deildirnar eisini hava tørv á nútímansgerð fyri at svara tíðarinnar krøvum.</p>
-<p>Tað verður <em type="bold">mælt til </em>, at tað beinanvegin verður settur ein arbeiðsbólkur við umboðum fyri psykiatriska depilin, sum saman við arkitektum/verkfrøðingum, sum hava gjørt tørvskanningar í sambandi við umvælingarnar, skal gera eitt uppskot um hvussu omanfyristandandi rammur kunnu skapast í verki og hvør neyvi kostnaðurin av hesum verður. Neyðugt verður at játtanin til umvæling og umbygging av Landssjúkrahúsinum verður dagførd samsvarandi hesum. </p>
+<p>Tað verður <em type="bold">mælt til </em>, at tað beinanvegin verður settur ein arbeiðsbólkur við umboðum fyri psykiatriska depilin, sum saman við arkitektum/verkfrøðingum, sum hava gjørt tørvskanningar í sambandi við umvælingarnar, skal gera eitt uppskot um hvussu omanfyristandandi rammur kunnu skapast í verki og hvør neyvi kostnaðurin av hesum verður. Neyðugt verður at játtanin til umvæling og umbygging av Landssjúkrahúsinum verður dagførd samsvarandi hesum.21 </p>
 <p><em type="bold">LANGTÍÐARSJÚKLINGAR </em></p>
 <p>Á psykiatrisku deildunum eru í dag fleiri sjúklingar, sum eru liðugt viðgjørdir og ikki hava tørv á at vera innlagdir á sjúkrahúsi, men eru har, tí ongir aðrir møguleikar eru. Tað er hvørki gott fyri sjúklingarnar ella viðgerðarumhvørvið, at teir eru innlagdir av hesum ávum.</p>
 <p>Tað er í álitinum <span type="quote">”Glotti fyri framman”</span> víst á tørvin, har mett verður, at um 40 sjúklingar á psykiatrisku deildunum ikki tørva innleggjan, men ein vardan bústað av onkrum slagi.</p>
@@ -285,10 +285,10 @@
 <p>Hølini kunnu seinni brúkast til virksemi hjá psykiatriska deplinum, t.d. kann pensionatið brúkast til útslúsingar íbúðir og hini hølini t.d. til undirvísingar hølir í sambandi við dygdarmenning á deildunum.</p>
 <p>Somuleiðis eigur sambýlið á Bóndaheygi, sum verður rikið av Landssjúkrahúsinum, at koma undir sosialpsykiatrisku skipanina.</p>
 <p><em type="bold">VIÐGERÐIN Á DEILDUNUM </em></p>
-<p>Viðgerðartilboðið á deildunum verður tilrættalagt eftir teimum prinsippum, sum nevnd eru aðrastaðni sum mál fyri viðgerð.</p>
+<p>Viðgerðartilboðið á deildunum verður tilrættalagt eftir teimum prinsippum, sum nevnd eru aðrastaðni sum mál fyri viðgerð.22</p>
 <p>Samskipandi liðurin í viðgerðini eru viðgerðarætlanir, sum farið eigur at verða undir at arbeiða við beinanvegin.</p>
 <p>Ein skjótt arbeiðandi arbeiðsbólkur fær til uppgávu at útarbeiða tann praktiska formin hesar skulu gerast eftir.</p>
-<p>Nærri verður greitt frá um viðgerðarinnihald og skipan aðrastaðni í hesi ætlan, bæði hvat viðvíkur málum, dygdarmenning og førleikamenning hjá starvsfólkunum.</p>
+<p>Nærri verður greitt frá um viðgerðarinnihald og skipan aðrastaðni í hesi ætlan, bæði hvat viðvíkur málum, dygdarmenning og førleikamenning hjá starvsfólkunum.23</p>
 <p>ØKISPSYKIATRI</p>
 <p>Við tí hugburðarbroyting, sum er farin fram í viðgerðina av sálarsjúkunum, har stóru psykiatrisku stovnarnir vórðu stongdir, kom fram hugtakið <span type="quote">”økispsykiatri”</span> (á donskum <span type="quote">”distriktspsykiatri”</span> og á enskum <span type="quote" xml:lang="dan">”community treatment”</span>). Her er hugburðurin, at viðgerðin skal fara fram aðrastaðni enn á sjúkrahúsum, nevniliga í nærumhvørvinum hjá sjúklinginum, og at viðgerðin skal fara fram eftir prinsippinum um minst møguliga inntrivið í lívið hjá sjúklinginum.</p>
 <p>Økispsykiatri er ikki tað øvugta av sjúkrahúspsykiatri, tí økispsykiatri og sjúkrahúspsykiatri eru tætt samantvinna og styðja hvørt annað. Sjúklingarnir eiga at uppliva psykiatriina sum eina heild, og tað eigur at vera sjúkan og sjúkutekini, sum eru útgangsstøði fyri hvar í skipanini viðgerðin eigur at fara fram.</p>
@@ -303,7 +303,7 @@
 <p>Viðgerðin kann tilrættaleggjast eftir tørvinum hjá sjúklinginum. Tvørfakliga viðgerðin og stuttur avstandur til samstarvsfelagar ger tað lættari at skapa smidligar loysnir. <em type="bold">9. Tvørfaklig viðgerð. </em></p>
 <p>Eitt økispsykiatriskt toymi skal bjóða viðtalu so ofta sum tað er neyðugt fyri sjúklingin. Viðgerðin er bæði psykologiskur og sosialur stuðul og vegleiðing, familjuráðgeving og -viðgerð, psykoterapi og heilivágur. <em type="bold">10. Samskipan. </em></p>
 <p>Ábyrgdin fyri at samskipa viðgerðina og tilboðini frá t.d. almannaverkinum, kommunulæknum, heimarøkt o.ø. liggur í økispsykiatriini. <em type="bold">11. Undirvísing, upplýsing og fyribyrgjan </em></p>
-<p>Umráðandi uppgáva er upplýsing og undirvísing í økinum, til avvarðandi og samstarvsfelagar. <em type="bold">12. Arbeiðshættir </em></p>
+<p>Umráðandi uppgáva er upplýsing og undirvísing í økinum, til avvarðandi og samstarvsfelagar.24 <em type="bold">12. Arbeiðshættir </em></p>
 <p>Arbeiðið er bæði beinleiðis samband við sjúklingin men eisini óbeinleiðis sum samskipan, undirvísing, ráðgeving og arbeiði við avvarðandi. <em type="bold">13. Dygdarmenning og gransking. </em></p>
 <p>Fakliga og skipanarliga menningin eigur at verða tryggjað gjøgnum dygdarmenning og førleikamenning. <em type="bold">14. Miðspjaðing og serkunnleiki. </em></p>
 <p>Økispsykiatri er miðspjaðing av tí vanliga psykiatriska viðgerðartilboðnum, men í flestu økjum er neyðugt at miðsavna serliga viðgerð á einum staði umfatandi fleiri øki (t.d viðgerð av etingarólagi, sjálvmorðsfyribyrgjan o.t.). <em type="italic">(úr <span type="quote" xml:lang="dan">”Målsætninger for kvalitiet i distriktspsykiatrien”</span> Sundhedsstyrelsen 1998) </em></p>
@@ -316,7 +316,7 @@
 <p>Hinvegin, so var viðgerðartilboðið <em type="bold">bert onkuntíð til staðar </em>, tað var <em type="bold">ikki nakað tvørfakligt </em>í viðgerðini og viðgerðartilboðið var í høvuðsheitum samtala við lækna og evt. heilivágur. </p>
 <p>Skipanin varð ongantíð útbygd og varð niðurløgd fyri nøkrum árum síðani, tá psykiatriska deild ikki hevði læknaliga orku at senda út í økini. Viðgerðin varð so aftur miðsavnað á psykiatrisku deild og í annan mun eisini skerd til serliga at vera eftirviðgerð av innløgdum sjúklingum.</p>
 <p>Í sambandi við hesa psykiatriætlan hevur verið hoyring millum tey sum arbeiða í primertænastuni, heimasjúkrasystrar og kommunulæknar og eisini avvarðandi, sum avgjørt kenna ein sakn eftir at hetta viðgerðatilboð varð tikið av.</p>
-<p>Aðrastaðni verður ofta ført fram, at um tað økispsykiatriska viðgerðartilboðið skal verða nøktandi og rúma neyðugu tvørfakligheitina, so er best um tað í økinum búgva eini 30.000 til 50.000 fólk. Í Danmark t.d. eru flestu <span type="quote">”økini”</span> á hesi stødd og nøkur væl størri.</p>
+<p>Aðrastaðni verður ofta ført fram, at um tað økispsykiatriska viðgerðartilboðið skal verða nøktandi og rúma neyðugu tvørfakligheitina, so er best um tað í økinum búgva eini 30.000 til 50.000 fólk. Í Danmark t.d. eru flestu <span type="quote">”økini”</span> á hesi stødd og nøkur væl størri.25</p>
 <p>Um hetta skal takast sum útgangsstøði, so verða allar Føroyar at rokna sum eitt øki. Skal býtast í fleiri økir, verður tvørfakligheitin í viðgerðartilboðnum minni, men tilboðið verður meira nærindis.</p>
 <p><em type="bold">TILMÆLI UM SKIPAN AV ØKISPSYKIATRI </em></p>
 <p>Tað verður hildið sera umráðandi, at verður farið undir at skipa eina økispsykiatri í Føroyum, so skal hetta verða ein varðandi loysn, sum ikki verður gjørd á ein hátt, at hon má takast av aftur eftir fáum árum.</p>
@@ -329,7 +329,7 @@
 <p>Viðgerðin skal skipast í toymi ella eftir <span type="quote" xml:lang="dan">”case manager”</span> prinsippinum, so at eitt starvsfólk hevur praktisku ábyrgdina av viðgerðini.</p>
 <p>Fyri at skapa enn betri samanhang í viðgerðini kann arbeiðið á ambulantu deildini skipast soleiðis, at nøkur av starvsfólkunum eru í starvi bæði á songjardeildunum og á ambulantu deildini, so starvsfólk, sum hava staðið fyri viðgerðini undir innleggjan, hava møguleika at fylgja sjúklinginum í ambulantu eftirviðgerðini.</p>
 <p>Sjúklingar tilknýttir ambulantu deildina hava eisini møguleika fyri viðgerð á ergo- og fysioterapideildini.</p>
-<p>Fyri at røkja sjónarmiðið um, at tað at fara á psykiatrisku deild, kann verða ein forðan fyri summar sjúklingar, kann umhugsast at ambulanta deildin ikki liggur á Landssjúkrahúsinum, men úti í býnum.</p>
+<p>Fyri at røkja sjónarmiðið um, at tað at fara á psykiatrisku deild, kann verða ein forðan fyri summar sjúklingar, kann umhugsast at ambulanta deildin ikki liggur á Landssjúkrahúsinum, men úti í býnum.26</p>
 <p>Tílík miðsavnan minkar um møguleikan at fylgja við hvat hendir í lokalsamfelagnum, og hugsast kann, at fleiri sjúklingar ikki koma til ætlaða eftirviðgerð og vandi er tá fyri, at teir detta burtur úr viðgerðarskipanini, sum fyri mong kann gerast stak óheppið.</p>
 <p>Tað er tí eisini neyðugt, at tað tilknýtt ambulantu deildina verður ein tænasta kring landið.</p>
 <p>Hetta eigur at verða gjørt á tann hátt, at tað verða sett størv sum <em type="bold">økispsykiatriskar sjúkrasystrar </em>um alt landið, svarandi til tey øki, sum eru fyri Heimarøktina. </p>
@@ -343,9 +343,9 @@
 <p>Við økispsykiatrisku sjúkrasystrunum verður sætt til nærindis hugtakið og hesar kunnu gerast umráðandi lið millum primeru heilsutænastuna og sekunderu tænastuna (psykiatriska depilin).</p>
 <p>Umráðandi er, at førleikamenningin verður raðfest høgt, so hetta arbeiðið kann dygdarmennast, so eftirviðgerðin fyri nógvar sjúklingar kann skipast soleiðis, at tað ikki tíðum verður neyðugt hjá teimum at flyta seg til ambulantu deildina til viðgerðar.</p>
 <p>Skipanin av arbeiðnum á ambulantu deildini eigur at verða so mikið smidlig, at fólk frá viðgerðartoyminum eisini í serligum førum kunnu fara út til sjúklingar í samráð við økispsykiatrisku sjúkrasystrarnar.</p>
-<p>Sum nevnt undir grundleggjandi hugtøkunum fyrst í hesum partinum, so er upplýsing, undirvísing og arbeiðið við avvarðandi ein partur av arbeiðnum í økispsykiatriini. Hetta er umfatandi arbeiði og eigur hjá okkum at verða samskipað við sjúkrahúspsykiatri og sosialpsykiatri, sum nærri greinað í partinum um avvarðandi og sjúkukunning.</p>
+<p>Sum nevnt undir grundleggjandi hugtøkunum fyrst í hesum partinum, so er upplýsing, undirvísing og arbeiðið við avvarðandi ein partur av arbeiðnum í økispsykiatriini. Hetta er umfatandi arbeiði og eigur hjá okkum at verða samskipað við sjúkrahúspsykiatri og sosialpsykiatri, sum nærri greinað í partinum um avvarðandi og sjúkukunning.27</p>
 <p>Á ambulantu/økispsykiatrisku deildini verður eisini sett á stovn eitt <em type="bold">barna- og ungdómspsykiatriskt toymi </em>og eitt <em type="bold">gerontopsykiatriskt toymi </em>(nærri um hetta í pørtunum um barna- og ungdómspsykiatri og gerontopsykiatri seinni í hesum álitinum) </p>
-<p>Um tilrættaleggjan av viðgerð annars, verður víst til partarnar um endamál og mál fyri viðgerð.</p>
+<p>Um tilrættaleggjan av viðgerð annars, verður víst til partarnar um endamál og mál fyri viðgerð.28</p>
 <p xml:lang="dan">PSYKIATRISKI DEPILIN</p>
 <p>SONGJARDEILDIR</p>
 <p xml:lang="dan">AMBULANT DEILD/</p>
@@ -365,7 +365,7 @@
 <p>DEILD D(opin deild)</p>
 <p>DEILD E(opin deild)</p>
 <p>ØKISPSYKIATRISKAR</p>
-<p>SJÚKRASYSTRAR</p>
+<p>SJÚKRASYSTRAR29</p>
 <p>SOSIALPSYKIATRI</p>
 <p><em type="bold">Hvat er sosialpsykiatri, og hvørjar uppgávur liggja í hesum? </em></p>
 <p>Sosialpsykiatriin vaks fram av praktiskum royndum við at skapa tilboð til sálarsjúk. Fyrr vóru sálarsjúk hildin at vera <span type="quote" xml:lang="dan">"kroniskt invalid"</span>, í dag verða tey mett sum brekað, ið hava tørv á at luttaka í samfelagnum.</p>
@@ -390,7 +390,7 @@
 <p type="listitem">at hava eitt trygdarnet</p>
 <p>Forðingar hjá sálarsjúkum, sum gera at innihaldið í gerandisdegnum ikki verður nøktandi</p>
 <p>At vera sálarsjúkur kann bera í sær at verða noyddur at liva gerandisdagin uttan samskifti við onnur og uttan at kunna taka stig til tað, ið neyðugt er. Sálarsjúk menniskju liva eitt lív, ið kann verða merkt av ringum og góðum tíðarbilum, ið ger tað torført at leggja ætlanir.</p>
-<p>Sálarsjúk stríðast ofta við angist, sum ger tað trupult hjá tí sjúka at taka neyðug stig og avgerðir. Eins og øll onnur hava sálarsjúk grundleggjandi likamligan og psykiskan tørv, t.e.: mat, svøvn, likamligt samband (samvera við onnur), tørv fyri at verða virðismettur og at verða ein partur av felagsskapi. Mong sálarsjúk hava av og á torført at siga frá teirra tørvi. Her mugu onnur t.d. starvsfólk í sosialpsykiatriini tulka tørv teirra.</p>
+<p>Sálarsjúk stríðast ofta við angist, sum ger tað trupult hjá tí sjúka at taka neyðug stig og avgerðir. Eins og øll onnur hava sálarsjúk grundleggjandi likamligan og psykiskan tørv, t.e.: mat, svøvn, likamligt samband (samvera við onnur), tørv fyri at verða virðismettur og at verða ein partur av felagsskapi. Mong sálarsjúk hava av og á torført at siga frá teirra tørvi. Her mugu onnur t.d. starvsfólk í sosialpsykiatriini tulka tørv teirra.30</p>
 <p>Hesar forðingar gera tað trupult at virka á vanligum arbeiðsplássum. Somuleiðis er trupult hjá teimum at liva ein vanligan gerandisdag í teirra egna heimi og saman við familjuni.</p>
 <p>Í partinum, ið snýr seg um gerandisdagin, vilja vit viðgera neyvari, hvørji tilboð eru hóskandi fyri sálarsjúk.</p>
 <p><em type="bold">MÁLBÓLKUR </em></p>
@@ -411,7 +411,7 @@
 <p>Arbeiði og arbeiðstilboð verður umrøtt aðrastaðni. Her skal verða roynt at greiða frá tiltøkum í einum tilhalds- og virknishúsið.</p>
 <p><em type="bold">VIRKNISHÚS </em></p>
 <p>Endamálið við einum virknishúsi er, at geva tí sálarsjúka eitt tilboð við samveru, virksemi og menning. Ein partur av virknishúsinum er, at onnur kunnu koma inn og nýta tað.</p>
-<p><em type="bold">Vit mæla til </em>, at virknishúsið er bæði eitt tilhaldsstað <em type="bold"></em>og virksemi . </p>
+<p><em type="bold">Vit mæla til </em>, at virknishúsið er bæði eitt tilhaldsstað <em type="bold"></em>og virksemi .31 </p>
 <p><em type="bold">Tilhaldsstað </em></p>
 <p>Eitt tilhaldsstað er eitt høli, har sálarsjúk kunnu koma, uttan at nøkur krøv verða sett teimum. Eitt stað, har tey kunnu fáa umsorgan, drekka ein drekkamunn, hugna sær saman við øðrum ella bara sita og hugna sær í frið og náðum.</p>
 <p>Tey, ið ynskja at nýta tilhaldstaðið, kunnu annaðhvørt koma har sjálvi ella, um møguleiki er tilstaðar, verða heintað á bústaði sínum og koyrd heimaftur um neyðugt.</p>
@@ -441,7 +441,7 @@
 <p type="listitem">Seyming</p>
 <p type="listitem" xml:lang="dan">Binding</p>
 <p type="listitem" xml:lang="dan">Brodering</p>
-<p type="listitem">Leirverkstaður</p>
+<p type="listitem">Leirverkstaður32</p>
 <p type="listitem">Leður</p>
 <p type="listitem" xml:lang="dan">EDV</p>
 <p type="listitem">Likamligt virksemi</p>
@@ -470,7 +470,7 @@
 <p>Vit meta tað at hava sera stóran týdning, at eitt vælskipað uppleitandi arbeiði verður gjørt fyri tey sálarsjúku, og at fólk verður sett burturav til hetta arbeiði.</p>
 <p>Ein stórur trupulleiki hjá sálarsjúkum er, at tey hava ilt við at koma heimanífrá og í samband við onnur.</p>
 <p>Mælt verður til at <span type="quote">"stuðuls-og samskiftispersónar"</span> skula arbeiða út frá virknishúsinum. (Meira um hetta í partinum, ið snýr seg um stuðulsskipanina).</p>
-<p><em type="bold">Mentunartilboð </em></p>
+<p><em type="bold">Mentunartilboð </em>33 </p>
 <p>Eitt virknishús kann eisini vera ein mentunarligur miðdepil, ið skipar fyri útgávu av blaði og øðrum smáritum. Møguliga eisini bókum.</p>
 <p>Tónleikur, myndlist, sangbólkar, sjónleikir og aðrir leikir eiga eisini at vera ein nátturligur partur av virknishúsinum.</p>
 <p>Húsið eigur eisini at hava samskifti við mentunarlívið í samfelagnum, bæði við at bjóða øðrum inn í húsið at framføra/sýna og somuleiðis við at fyriskipa túrar til mentunartiltøk uttan fyri húsið.</p>
@@ -489,7 +489,7 @@
 <p><em type="bold">Á hvønn hátt skal stuðulin gevast? </em></p>
 <p><em type="bold">Hvussu virkar ein skipan við stuðuls- og samskiftisfólkum? </em></p>
 <p><em type="bold">Hvussu er ein skipan við bústuðlum? </em></p>
-<p><em type="bold">Hvørjir fyrimunir eru við stuðuls-og samskiftispersónum og bústuðlum? </em></p>
+<p><em type="bold">Hvørjir fyrimunir eru við stuðuls-og samskiftispersónum og bústuðlum? </em>34 </p>
 <p>Stuðulsfólkaskipanin, sum vit kenna hana ídag, hevur í ein ávísan mun verið brúkt til at nøkta tørvin á stuðli til fólk, sum vegna teirra sálarsjúku tørva hjálp til ávísar uppgávur. Hesin stuðulin hevur verið játtaður sum persónligur stuðul gjøgnum pensjónslógina.</p>
 <p>Almanna- og heilsumálastýrið hevur ætlanir um at broyta alla skipanina við stuðulsfólkum í næstu framtíð. Tí er tað umráðandi, at hugsað verður um møguleikarnar fyri, at sálarsjúk fólk, sum tørva hjálp, framhaldandi fáa hesa hjálp undir eini komandi skipan.</p>
 <p>Nógv sálarsjúk fólk tørva hjálp til at klára gerandisdagin. Tørvurin kann ofta vera rættiliga ójavnur, hvat tíð og nøgd viðvíkur. Tí má hjálpin vera soleiðis, at hon til eina og hvørja tíð hóskar tørvinum hjá tí einstaka. Tað er av týdningi at stuðulin hvørki verður ov nógvur ella ov lítil. Tað er umráðandi at stuðulin ikki tekur ábyrgdina frá brúkaranum sjálvum, samstundis sum tað er neyðugt, at munagóð hjálp verður veitt tá ástendur.</p>
@@ -501,7 +501,7 @@
 <p>Í londunum rundanum okkum hava tey ymiskar skipanir at røkja hesar uppgávur. Í Danmark arbeiða tey við tveimum ymiskum skipanum. Onnur verður nevnd <span type="quote" xml:lang="dan">"Støtte- og kontaktpersoner"</span> og hin <span type="quote" xml:lang="dan">"bostøtter"</span>.</p>
 <p>Tann fyrra, sum verður nevnd <span type="quote" xml:lang="dan">”Støtte- og kontaktpersoner”</span>, er ein skipan, hvørs uppgáva er at seta seg í samband við sálarsjúk fólk, sum tørva hjálp til at koma víðari í lívi sínum. Sálarsjúk fólk hava ofta ilt við at koma frá húsum og at koma í samband við onnur fólk.</p>
 <p>Hesir stuðuls-samskiftispersónar eru í starvi hjá tí almenna, og hava til uppgávu at halda samband við fólk í tí psykiatrisku skipanini, soleiðis at hesi ikki verða uppgivin ella gloymd. Teirra uppgáva er at vera brúkaranum til taks, at vera til staðar, at vitja hesi regluliga, at ringja regluliga og annars vera til hjálpar og stuðla teimum, sum hava brúk fyri skipanini. Ein stuðuls- og samskiftispersónur er ikki ein persónur, sum ger heimahjálparaarbeiði, fastar pedagogiskar upplæringar, fastar sjúkrarøktaruppgávur ella sosialráðgevarauppgávur, men hann <em type="italic">kann </em>gera slíkar í eini byrjanarstøðu, um tað er tað, sum brúkarin ynskir og hevur mest brúk fyri beint í løtuni. </p>
-<p>Harafturímóti skal stuðulspersónurin hjálpa brúkaranum at leita sær hjálp frá ymisku fakpersónunum á teimum økjunum tørvur er, harímillum frá sjúkrahús- og økispsykiatriini, og annars stuðla undir at fáa skapt eitt sosialt umhvørvi rundan um brúkaran. Høvuðsuppgávan hjá einum stuðuls- og samskiftispersóni er at vera til staðar og kunna hjálpa við teimum menniskjansligu trupulleikunum, sum tann sálarsjúki hevur, og hjálpa viðkomandi í samband við tey fólk, sum viðkomandi hevur brúk fyri.</p>
+<p>Harafturímóti skal stuðulspersónurin hjálpa brúkaranum at leita sær hjálp frá ymisku fakpersónunum á teimum økjunum tørvur er, harímillum frá sjúkrahús- og økispsykiatriini, og annars stuðla undir at fáa skapt eitt sosialt umhvørvi rundan um brúkaran. Høvuðsupp35gávan hjá einum stuðuls- og samskiftispersóni er at vera til staðar og kunna hjálpa við teimum menniskjansligu trupulleikunum, sum tann sálarsjúki hevur, og hjálpa viðkomandi í samband við tey fólk, sum viðkomandi hevur brúk fyri.</p>
 <p>Í Danmark hava hesir samskiftispersónar ofta tilhald ella skrivstovu í <em type="italic">tilhaldinum </em>fyri sálarsjúk, har teir hava betri møguleikar at hava samband við fleiri brúkarar regluliga. Ofta er tað ein týdningamikil uppgáva, at teir royna at eggja brúkarunum til at koma heimanifrá hvønn dag. Tá er ofta best at byrja við at koma í <em type="italic">tilhaldið </em>, har viðkomandi samskiftispersónur er. </p>
 <p><em type="bold">TILMÆLI </em></p>
 <p>Um vit skipa eina slíka serliga tænastu í Føroyum fyri sálarsjúk, so er sjálvsagt at slík tænasta heldur til í tilhaldunum. Hetta kann verða sum ein partur av settu størvunum har, ella sum ein serlig skipan við heimild í nýggjari lóg.</p>
@@ -511,7 +511,7 @@
 <p>Ein onnur skipan sum verður nógv nýtt í teimum donsku kommununum og amtunum, er tann sokallaða <span type="quote" xml:lang="dan">"Bostøtte"</span>- skipanin. Hetta er tann skipanin, sum best kann sammetast við okkara stuðulsfólkaskipan. Her er talan um, at sálarsjúk fólk fáa skipaða hjálp til at kunna klára seg í egnum heimi og til tiltøk uttanfyri heimið.</p>
 <p>Her eru tað uppgávurnar í heiminum, sum viðkomandi skal hava hjálp til at klára. Endamálið er alla tíðina, at brúkarin skal læra at klára seg í egnum heimi við teimum førleikum, sum viðkomandi hevur ella fær lært seg til. Her er talan um hjálp til sjálvhjálp. Hjálpin skal verða givin eftir tørvi - hvørki ov lítil ella ov stór. Hjálpin skal gevast við medmenniskjaligari virðing fyri brúkarunum.</p>
 <p><em type="bold">TILMÆLI </em></p>
-<p>Um vit í Føroyum íbirta eina slíka skipan, so eigur skipanin fyrisitingarliga at hoyra undir Stuðulsfólkaskipanina (sum væntandi verður stovnsett sum sjálvstøðug eind undir Heimarøktini og Serforsorgini), men í tí dagliga arbeiðinum skal skipanin virka í neyvum samstarvi við <em type="italic">tilhaldini </em>fyri sálarsjúk og tey sambýli, sum verða stovnsett undir <span type="quote">"Serforsorgardeildini fyri sálarsjúk"</span> (sum væntandi eisini verður stovnsett sum sjálvstøðug eind undir Heimarøktini og Serforsorgini). </p>
+<p>Um vit í Føroyum íbirta eina slíka skipan, so eigur skipanin fyrisitingarliga at hoyra undir Stuðulsfólkaskipanina (sum væntandi verður stovnsett sum sjálvstøðug eind undir Heimarøktini og Serforsorgini), men í tí dagliga arbeiðinum skal skipanin virka í neyvum samstarvi við <em type="italic">tilhaldini </em>fyri sálarsjúk og tey sambýli, sum verða stovnsett undir <span type="quote">"Serforsorgardeildini fyri sálarsjúk"</span> (sum væntandi eisini verður stovnsett sum sjálvstøðug eind undir Heimarøktini og Serforsorgini).36 </p>
 <p>Vit ímynda okkum, at <em type="bold">bústuðlar </em>framhaldandi verða <em type="italic">játtaðir </em>av Almannastovuni, sum ein persónligur stuðul til hvønn einstakan brúkara, ímeðan stuðulsskipanin verður <em type="italic">umsitin </em>av eini Stuðulsfólkaskipan undir Heimarøktini og Serforsorgini. </p>
 <p>Tá viðmælt verður, at hendan <span type="quote">"Bústuðulsskipan"</span> verður samskipað við verandi sambýli og/ella tilhaldini fyri sálarsjúk, so er tað tí, at tað er ein fyrimunur, at bústuðulin kennir starvsfólk og brúkarar í verandi bú- og virknistilboðum, so hann kann fáa teir brúkarar, sum hann er stuðul hjá, at brúka hesar møguleikar. Í øðrum lagi er tað neyðugt hjá stuðlunum at hava tilknýti til aðrar starvsbólkar á sama øki, fyri at hava nakrar persónar at hava fakligt samstarv við. Samstundis er hetta ein háttur at gagnnýta starvsfólkamegina hjá hvørjum øðrum betur, tá vit vita, at tørvurin á stuðli hjá einum sálarsjúkum er sera skiftandi.</p>
 <p><em type="bold">Hvør ávísir til bústuðlar og stuðuls-og samskiftispersónar? </em></p>
@@ -524,7 +524,7 @@
 <p><em type="bold">Hvar finnast møguleikar - hvat er hóskandi? </em></p>
 <p>Arbeiði hevur stóran týdning fyri sjálvsvirðið og trivnaðin í gerandisdegnum hjá einum menniskja.</p>
 <p>Tað hevur týdning at hava okkurt innihaldsríkt at fara til. Hetta gevur møguleikar at samskifta við onnur, sjálvsvirði og samleika.</p>
-<p>Sálarsjúk hava eins og onnur brúk fyri einum skipaðum gerandisdegi, har tað ber til at koma heimanifrá partar av degnum.</p>
+<p>Sálarsjúk hava eins og onnur brúk fyri einum skipaðum gerandisdegi, har tað ber til at koma heimanifrá partar av degnum.37</p>
 <p>Men tað er ikki altíð so einfalt, serliga ikki fyri tey sálarsjúku.</p>
 <p>Krøvini á vanliga arbeiðsmarknaðinum eru høg, so fyri tey sálarsjúku kann arbeiði bæði skapa sosial sambond, men kann eisini gera, at tey kenna seg stoyttan út, um ikki hædd verður tikið fyri, at tey ikki altíð eru fult arbeiðsfør.</p>
 <p>Tað kann styrkja kensluna av sjálvsvirðing, men eisini niðurbróta sjálvsvirðingina.</p>
@@ -532,8 +532,8 @@
 <p>Nøkur sálarsjúk klára eitt arbeiðslív sjálvi, meðan onnur klára eitt arbeiðslív við stuðli frá familju ella starvsfelagum.</p>
 <p>Nøkur megna ikki eitt arbeiðslív, meðan onnur megna eitt arbeiðslív við fíggjarligum og sosialum stuðli. Stórur partur av fólki við langtíðar viðgerðarkrevjandi sálarsjúku fáa sum oftast pensjón.</p>
 <p>Møguleikar finnast fyri at stuðla fólki við avmarkaðum vinnuførleika í sosiallógávuni.</p>
-<p xml:lang="dan"><em type="bold">Forsorgarlógin § </em><em type="bold">18. </em>”Når det anses for påkrævet af hensyn til en persons mulighed for fremtidig at klare sig selv og sørge for sin familie, kan der ydes pågældende hjælp til uddannelse og erhvervsmæssig optræning eller omskoling.” </p>
-<p><em type="bold">Forsorgarlógin § </em><em type="bold">18a. </em>”Játtast kunnu vard størv, vinnuroyndir, umskúling v.m. til avlamin og onnur, sum av einhvørji orsøk eru vorðin avmarkað í sínum vinnuførleika. Lønarískoytið til vardu størvini kann veitast.” </p>
+<p xml:lang="dan"><em type="bold">Forsorgarlógin § 18. </em>”Når det anses for påkrævet af hensyn til en persons mulighed for fremtidig at klare sig selv og sørge for sin familie, kan der ydes pågældende hjælp til uddannelse og erhvervsmæssig optræning eller omskoling.” </p>
+<p><em type="bold">Forsorgarlógin § 18a. </em>”Játtast kunnu vard størv, vinnuroyndir, umskúling v.m. til avlamin og onnur, sum av einhvørji orsøk eru vorðin avmarkað í sínum vinnuførleika. Lønarískoytið til vardu størvini kann veitast.” </p>
 <p>Almanna- og heilsumálastýrið hevur gjørt eina nýggja leiðbeining um vard størv við lógarheimild í § 18a.</p>
 <p>Vard størv eru setanir í eitt ávíst arbeiði við tillagaðum arbeiðsuppgávum har tryggjað verður, at varandi niðursetta arbeiðsføri verður fullnýtt.</p>
 <p>Aðalsjónarmiðið er, at fólk við skerdum arbeiðsførleika, skulu hava møguleika fyri at vera virkin í arbeiðslívinum, og nýta teirra tøku arbeiðsevni.</p>
@@ -541,7 +541,7 @@
 <p>Almannastovan hevur skipað seg við eini arbeiðsmarknaðareind, sum skal taka sær av øllum tiltøkum viðvíkjandi arbeiðsmarknaðinum, har tørvur er á at stuðla fólki, eisini pensjonistum, sum ynskja at koma útaftur á arbeiðsmarknaðin.</p>
 <p><em type="bold">TILMÆLI UM ARBEIÐSMARKNAÐARVIÐURSKIFTI </em></p>
 <p>Fyri at skipanin við vardum størvum kann virka væl, er neyðugt at arbeiðsplássini fáa boðið hjálp frá eini vælvirkandi vegleiðingarskipan, ið kann vegleiða og hjálpa arbeiðsplássum, sum taka fólk í vart starv. Tað hevur týdning at arbeiðspláss og almannaskipanin eru í felag um uppgávuna at fáa skipanina við vardum størvum at virka í verki.</p>
-<p>Øll sálarsjúk í vinnuførum aldri kunnu ikki koma á vanliga arbeiðsmarknaðin, hóast vard størv verða skipað til teirra. Tí er eisini neyðugt at skapa vard arbeiðspláss fyri sálarsjúk.</p>
+<p>Øll sálarsjúk í vinnuførum aldri kunnu ikki koma á vanliga arbeiðsmarknaðin, hóast vard størv verða skipað til teirra. Tí er eisini neyðugt at skapa vard arbeiðspláss fyri sálarsjúk.38</p>
 <p>Vard størv kunnu útvegast á vardu verkstøðunum kring landi undir Serforsorgini. Tað finnast kortini ongi vard verkstøð ella arbeiðspláss fyri sálarsjúk burturav.</p>
 <p>Tey flestu sálarsjúku fáa pensjón. Higartil hevur tað víst seg at verða trupult at koma í arbeiðið fyri at nýta sín restvinnuførleika, um ein fyrst hevur fingið pensjón. Tí vilja vit mæla til at skipanin í Danmark við <span type="quote" xml:lang="dan">”skåne-job”</span> verður sett í verk, soleiðis at møguleiki er fyri at varðveita pensjónina, hóast tú ert í vardum starvi.</p>
 <p>Í Danmark og øðrum norðanlondum eru serlig dag- og arbeiðstilboð fyri sálarsjúk fingin tilvega við lógarheimild í Sevicelovens § 87: Beskæftigelse og Servicelovens § 88: Aktivitet og samvær.</p>
@@ -554,7 +554,7 @@
 <p>Støddin á íbúðini eigur at verða uml. 60-70 fermetrar, íroknað felagsrúm, meðan íbúðin hjá tí einstaka í minsta lagi eigur at vera umleið 35 – 40 fermetrar.</p>
 <p><em type="bold">Hvat er eitt bútilboð ? </em></p>
 <p>Eitt bútilboð kann verða ein íbúð, eitt sambýli ella eitt stað, har tann sálarsjúki kann lata hurðina aftur og fara inn til sín sjálvs.</p>
-<p>Fleiri ymiskir møguleikar eru fyri bútilboðum, men í hesum sambandi eigur at verða hugsað um hvørja støðu tey sálarsjúku eru í. Nøkur sálarsjúk eru soleiðis fyri, at teimum tørva hjálp í gerandisdegnum, meðan onnur ikki tørva so nógva hjálp.</p>
+<p>Fleiri ymiskir møguleikar eru fyri bútilboðum, men í hesum sambandi eigur at verða hugsað um hvørja støðu tey sálarsjúku eru í. Nøkur sálarsjúk eru soleiðis fyri, at teimum tørva hjálp í gerandisdegnum, meðan onnur ikki tørva so nógva hjálp.39</p>
 <p>Hjá teimum sálarsjúku sum hava verið innløgd á psykiatriskum deildum í fleiri ár, og eru so illa fyri, at tey ikki megna at búgva fyri seg sjálvan í einari íbúð, er eitt sambýli við hjálparfólkum besta tilboð til teirra.</p>
 <p>Hin bólkurin, sum er so mikið væl fyri, at tey klára seg í egnari íbúð, kunnu tó hava brúk fyri bústuðli ella einum stuðuls-og samskiftisfólki í egnum heimi.</p>
 <p><em type="bold">Skulu íbúðir byggjast saman ella hvør sær ? </em></p>
@@ -564,7 +564,7 @@
 <p><em type="bold">Byggja ella keypa hús ? </em></p>
 <p>Sum áður nevnt í álitinum <span type="quote">"Ein glotti fyri framman"</span> (apríl 2001) eru fleiri ymiskir hættir at útvega hús til stovnar og sambýlir. Higartil hevur landsstýrið sjálvt bygt ella keypt hús til endamálið, og er hetta tá fíggjað yvir løgtingsins fíggjarlóg.</p>
 <p>Í 1998 og 1999 setti Almanna-og heilsumálastýrið pening í ein sjálvsognarstovn, sum hevur til endamáls at eiga og reka hús, sum kunnu nýtast til sambýlið til brekað. Hesin sjálvsognarstovnur hevur eina eginogn, sum hann kann brúka at seta sum eginpening í keyp ella bygging av húsum, sum annars verða fíggjað ígjøgnum Íbúðargrunnin og Húsalánsgrunnin. Ein almennur Íbúðargrunnur er, sum verður umsitin av Húsalánsgrunninum. Hesin hevur til endamáls at fíggja íbúðir til fólk við serligum tørvi. Saman við Húsalánsgrunninum kann hesin grunnur fíggja upp til 85% av íbúðum til brekað, soleiðis at ein sjálvsognarstovnur skal fíggja 15% av kostnaðinum, um íbúðirnar annars ikki verða so dýrar, at leiguinntøkan frá leigarunum (íbúgvunum) kann rinda lánsgjaldið.</p>
-<p>Eisini ber tað til hjá øðrum feløgum og kommunum at fíggja íbúðir til brekað. Tá galda somu treytir, sum fyri sjálvsognarstovnar.(Hesum er nærri greitt frá í álitinum <span type="quote">”Glotti fyri framman”</span>)</p>
+<p>Eisini ber tað til hjá øðrum feløgum og kommunum at fíggja íbúðir til brekað. Tá galda somu treytir, sum fyri sjálvsognarstovnar.(Hesum er nærri greitt frá í álitinum <span type="quote">”Glotti fyri framman”</span>)40</p>
 <p><em type="bold">TILMÆLI UM SKIPAN </em></p>
 <p>Fleiri ymiskir hættir eru at skipa sosialpsykiatriina undir økinum hjá Almanna- og heilsumálastýrinum. Arbeiðsbólkurin hevur tosað nógv um teir ymisku møguleikarnar, og hava vit eisini fingið nógv góð ráð hesum viðvíkjandi á kunningarferð okkara í Danmark. Flestu støðini løgdu dent á, at tað var av týdningi at tað var greiður skilnaður ímillum sjúkrahúsog økispsykiatri og sosialpsykiatri.</p>
 <p><em type="bold">Nýggj deild fyri sálarsjúk </em></p>
@@ -582,7 +582,7 @@
 <p>Stovnar</p>
 <p>Sambýlir</p>
 <p>Onnur bútilboð</p>
-<p xml:lang="dan">Serforsorgardeild f. sálarsjúk</p>
+<p xml:lang="dan">Serforsorgardeild f. sálarsjúk41</p>
 <p>Longu nú eru nøkur fá tilboð til sálarsjúk, sum eru skipað á ymiskan hátt. Nøkur eru skipað sum sjálvsognarstovnar, t.d. Sambýlið í Eysturstræti 4, Bústovnurin á Sólteigi og Vistarheimini á Fugloyarvegi í Havn og við Toftavatn.</p>
 <p>Harafturat eru Vardar íbúðir í Vági, sum Almannastovan og Vágs Kommuna eru við í, og so Pensionatið á Eirargarði 4 og húsið á Bóndaheygi 3, sum Landssjúkrahúsið rekur. Av tí at fleiri av hesum tilboðum eru sjálvsognarstovnar ella riknir av øðrum myndugleikum, so verður í fyrstu syftu ikki talan um, at hesir stovnar verða riknir av nýggju deildini, men deildin eigur tó fáa eftirlitisuppgávuna litna í hendi frá Heimarøktini og Serforsorgini. Seinni eigur møguleiki at verða fyri, at deildin yvirtekur raksturin av tilboðum.</p>
 <p>Tað ber væl til, at sjálvsognarstovnar hoyra undir serforsorgardeildina fyri sálarsjúk, hóast teir ikki beinleiðis ikki verða riknir av hesu deild.</p>
@@ -594,7 +594,7 @@
 <p><em type="bold">Hvussu skal sosialpsykiatriin setast í verk? </em></p>
 <p>Sosialpsykiatriin kann setast í verk, so hvørt sum tann neyðuga fíggjarjáttanin er til taks. Heimarøktin og Serforsorgin eru samansettar av fleiri ymiskum deildum, sum hvør hevur sítt økið at røkja. Tí er tað eingin trupulleiki at skipa eina <span type="quote">”Serforsorgardeild fyri sálarsjúk”</span>, við sínum egnu uppgávum og sínari egnu leiðslu undir stjóranum á Heimarøktini og Serforsorgini.</p>
 <p>Fyrsta stigið á leiðini er at fáa ein leiðara til deildina við fakligum innliti á økinum og fyrisitingarligum royndum. Viðkomandi leiðari fær so til uppgávu at byggja deildina upp fyrisitingarliga og fakliga, so hvørt fíggjarjáttan til uppgávurnar er tøk. Deildin kann beinanvegin taka við uppgávunum, sum Heimarøktin og Serforsorgin hava viðvíkjandi teimum stovnum, sum longu nú eru til sálarsjúk.</p>
-<p>Skipanin kann so koma at virka eftir nøkrum árum, alt eftir hvussu stór orka verður løgd í økið frá politiskari síðu. Tað verður ein spennandi avbjóðing at seta hetta virksemið í verk og forma og raðfesta tilboðini eftir tí tørvi, sum er á økinum. Tað verður neyðugt at hugsa ótraditionelt og samstarva við allar bólkar á økinum fyri at skipa eina tænastu, sum gevur tað bestu tænastuna til tey fólkini, sum hava tænastuna fyri neyðini.</p>
+<p>Skipanin kann so koma at virka eftir nøkrum árum, alt eftir hvussu stór orka verður løgd í økið frá politiskari síðu. Tað verður ein spennandi avbjóðing at seta hetta virksemið í verk og forma og raðfesta tilboðini eftir tí tørvi, sum er á økinum. Tað verður neyðugt at hugsa ótraditionelt og samstarva við allar bólkar á økinum fyri at skipa eina tænastu, sum gevur tað bestu tænastuna til tey fólkini, sum hava tænastuna fyri neyðini.42</p>
 <p>BARNA- OG UNGDÓMSPSYKIATRI</p>
 <p>Hetta er eitt øki innan psykiatri, sum ikki hevur verið gjørt nógv burtur úr her heima.</p>
 <p>Læknafrøðiliga sæð, eru barna- og ungdómspsykiatri ein sergrein burturav, og umfatar hon viðgerð av sálarligum sjúkum í aldursbólkinum 0-18 ár (sumstaðni 21 ár)</p>
@@ -612,7 +612,7 @@
 <p>Talan er oftast um eitt tvørfakligt arbeiði, men eisini er sera umráðandi við tvørskipanarligum arbeiði, har bæði skúli, barnagarður, sernámsdepilin og psykiatri samstarva væl.</p>
 <p>Uppskotini í <span type="quote">”Psykiatriætlan fyri ár 2000”</span> um skipan av barna og ungdómspsykiatri vóru ikki fylgd, men síðani er komin í lag ein konsulentskipan, soleiðis at fólk frá Børnepsykiatrisk Hus á Odense Universitetshospitali, nakrar ferðir árliga koma til Føroya í sambandi við útgreinan, sjúkuavgerð og tilrættaleggjan av viðgerð. Stórur partur av útgreinani fer ofta fram á Sernámsdeplinum.</p>
 <p>Skipanin kann ikki nøkta tann tørv sum er, og málsligi trupulleikin er ikki uttan týdning.</p>
-<p>Bíðitíðin fyri at koma til útgreinan og síðani í viðgerð er órímuliga long (upp til ár), og psykiatriski depilin hevur seinasta árið fingið eitt vaksandi tal av psykiatriskum tilsýnum á Barnadeildini á Landssjúkrahúsinum. Tað er torført hjá kommunulæknum at ávísa børn til viðgerð, og bíðitíðin er long, so tað er ikki óvanligt, at børn verða innløgd á Barnadeildina vegna sálarligar trupulleikar, fyri á hendan hátt at koma skjótari í samband við psykiatrisku skipanina.</p>
+<p>Bíðitíðin fyri at koma til útgreinan og síðani í viðgerð er órímuliga long (upp til ár), og psykiatriski depilin hevur seinasta árið fingið eitt vaksandi tal av psykiatriskum tilsýnum á Barnadeildini á Landssjúkrahúsinum. Tað er torført hjá kommunulæknum at ávísa børn til viðgerð, og bíðitíðin er long, so tað er ikki óvanligt, at børn verða innløgd á Barnadeildina vegna sálarligar trupulleikar, fyri á hendan hátt at koma skjótari í samband við psykiatrisku skipanina.43</p>
 <p>Tað er umráðandi at fáa gjørt nakað munagott á hesum økinum komandi árini. Av tí at barna- og ungdómspsykiatri er eitt øki fyri seg, og sum so líka umfatandi sum vaksnamannapsykiatri, skal ikki verða gjørd ein neyvari útgreinan í hesi psykiatriætlanini, men gerast skal eitt tilmæli fyri at fáa sett meira gongd á menningina beinanvegin og sum eisini skal umfata eina neyvari tilrættaleggjan og tørvsmeting.</p>
 <p><em type="bold">TILMÆLI UM SKIPAN AV BARNA- OG UNGDÓMSPSYKIATRI </em></p>
 <p>At tað á psykiatriska deplinum verður sett á stovn eitt barna- og ungdómspsykiatriskt toymi, sum í fyrsta umfari fer undir ambulant virksemi og verður tilknýtt ambulantu deildina á deplinum. Tað barna- og ungdómspsykiatriska toymi eigur at verða mannað av einum barna- og ungdómspsykiatara, einum sálarfrøðingi við serkunnleika um børn og ung, einum <span type="quote" xml:lang="dan">”familjuterapeuti”</span>, sum kann vera sosialráðgevi, pedagogur ella annar fakpersónur við kunnleika um familjuviðurskifti og evt. eini sjúkrasystir við serkunnleika til børn og ung. Ásannandi, at eingin føroyingur er útbúgvin barna- og ungdómspsykiatari og at tað mangla barna- og ungdómspsykiatarar í stóran mun í grannalondum okkara, verður hetta starv ikki lætt at fáa sett, men eigur at verða normerað og lýst leyst. Til hetta eydnast, og eisini um tað ikki eydnast, eigur at verða hildið áfram við verandi konsulentskipan, har konsulentar frá barnapsykiatriskari deild í Danmark koma hendanvegin nakrar ferðir um árið.</p>
@@ -620,7 +620,7 @@
 <p>Toymið á psykiatriska deplinum skal skipa neyvt samstarv við pedagogisk-psykologisku skipanina innan skúlaverkið.</p>
 <p>Sum nevnt skal hetta arbeiði í fyrsta umfari fara fram ambulant. Helst verður sum frálíður neyðugt at skipa eitt slag av serligari dagdeild til observatión, kanning og viðgerð til ávikavist barna- og ungdómspsykiatriskar sjúklingar.</p>
 <p>Í tann mun innleggjan á songjardeild verður mett neyðug, eigur fyri barnapsykiatriskar sjúklingar at verða skipað samstarv við barnadeildina á Landssjúkrahúsinum og fyri ungdómspsykiatriskar sjúklingar, kann partur av vaksnamannadeild við fleksiblari innrættan brúkast til hesar sjúklingar (deild við serkunnleika til hetta økið).</p>
-<p>Tað eigur at verða gjørd ein serlig ætlan fyri útbygging og menning av barna- og ungdómspsykiatrisku tænastuni í Føroyum, eins og tað eigur at verða gjørt eitt miðvíst arbeiði fyri at eggja føroyskum lækna/læknum at fara undir serlæknaútbúgving á hesum øki.</p>
+<p>Tað eigur at verða gjørd ein serlig ætlan fyri útbygging og menning av barna- og ungdómspsykiatrisku tænastuni í Føroyum, eins og tað eigur at verða gjørt eitt miðvíst arbeiði fyri at eggja føroyskum lækna/læknum at fara undir serlæknaútbúgving á hesum øki.44</p>
 <p>GERONTOPSYKIATRI</p>
 <p>Gerontopsykiatri hevur til uppgávu at taka sær av sjúkuútgreinan og viðgerð av eldri fólki við psykiatriskum sjúkum. Likamligar aldursbroytingar og likamligar sjúkur saman við psykiskum sjúkum gera, at starvsfólk, ið fáast við viðgerð av hesum sjúklingabólki, mugu hava serligan førleika, fyri at viðgerðin skal verða dygdargóð.</p>
 <p>Tað er rættuliga ymiskt hvussu frammalaga gerontopsykiatri verður raðfest í grannalondum okkara og tær skipanir, sum eru settar í verk, eru rættuliga ymiskar. Eisini er ymiskt hvussu málbólkurin verður fastlagdur.</p>
@@ -633,7 +633,7 @@
 <p type="listitem">Greið avmarkan av málbólkinum</p>
 <p type="listitem">Neyðugt, tí gerontopsykiatri alla tíðina fær uppgávur, sum restin av viðgerðarskipanini, (bæði somatiskari og psykiatriskari), ikki hevur hug at taka sær av</p>
 <p type="listitem">Neyv visitatión áðrenn innleggjan</p>
-<p type="listitem">Ógvuliga umráðandi, tí eldri fólk eru serliga viðbrekin fyri umhvørvisskifti og ein óneyðug innleggjan kann í sær sjálvum verða sjúkuelvandi. Harumframt er vælkent, at gerontopsykiatri stríðist við innleggingarynski ella krøv, sum hava meira at gera við manglandi røktarheimstilboð enn nakran psykiatriskan viðgerðarmøguleika. Skal sjúklingur innleggjast, skal hetta vera til eina tíðaravmarkaða og samskipaða psykiatriska og somatiska viðgerð, uppvenjing, víðari visitatión og tilrættaleggjan av røkt.</p>
+<p type="listitem">Ógvuliga umráðandi, tí eldri fólk eru serliga viðbrekin fyri umhvørvisskifti og ein óneyðug innleggjan kann í sær sjálvum verða sjúkuelvandi. Harumframt er vælkent, at gerontopsykiatri stríðist við innleggingarynski ella krøv, sum hava meira at gera við manglandi røktarheimstilboð enn nakran psykiatriskan viðgerðarmøguleika. Skal sjúklingur innleggjast, skal hetta vera til eina tíðaravmarkaða og sam45skipaða psykiatriska og somatiska viðgerð, uppvenjing, víðari visitatión og tilrættaleggjan av røkt.</p>
 <p type="listitem">Dentur skal leggjast á ambulanta viðgerð i egnum heimi</p>
 <p>Økispsykiatriska prinsippið um viðgerð i heimligum umhvørvi, er av týdningi í gerontopsykiatri, og hildið verður, at best er um sjúklingurin verður viðgjørdur heima hjá sær sjálvum og ikki skal møta í nøkrum viðtaluhøli. Hetta lættir um, tí sjúklingarnir ofta eru lítið mobilir og viðgerð saman við heimarøktini er besti hátturin.</p>
 <p>Ein partur av arbeiðnum fer sostatt eisini fram á røktarheimunum.</p>
@@ -647,12 +647,12 @@
 <p>Undirstrikast skal, at talan skal verða um útgreinan og viðgerð av psykiatriskum sjúkuteknum.</p>
 <p>Mælt verður til, at gerontopsykiatriska viðgerðartilboðið í høvuðsheitum verður eitt <em type="bold">ambulant viðgerðartilboð </em>, skipað undir ambulantu deildini á psykiatriska deplinum. </p>
 <p>Her verður skipað eitt <em type="bold">gerontopsykiatriskt toymi </em>, sum at byrja við umfatar tvær sjúkrasystrar við gerontopsykiatriskum førleika og einum tilknýttum lækna við gerontopsykiatriskum førleika. Talan eigur at verða um eitt serlæknastarv við psykiatara, ið hevur gerontopsykiatriskan serkunnleika. </p>
-<p>Ásannandi, at tað er stórur tørvur á serlæknum í psykiatri, og serliga av gerontopsykiatarum, kann tað gerast trupult at fáa sett hetta starvið. Annar møguleiki er at mynda starvið sum eitt deildarlæknastarv til serlækna í almennum medisini, sum av psykiatriska deplinum fær skipaða førleikamenning í gerontopsykiatri.</p>
+<p>Ásannandi, at tað er stórur tørvur á serlæknum í psykiatri, og serliga av gerontopsykiatarum, kann tað gerast trupult at fáa sett hetta starvið. Annar møguleiki er at mynda starvið sum eitt deildarlæknastarv til serlækna í almennum medisini, sum av psykiatriska deplinum fær skipaða førleikamenning í gerontopsykiatri.46</p>
 <p>Tað verður ikki mett tørvur á eini songjardeild burturav til gerontopsykiatriskar sjúklingar, og tilmælt verður, at verandi demensdeild verður niðurløgd (jvnf. omanfyri, har umrøtt verður, at talan eru heldur um eina røktardeild við fáum gerontopsykiatriskum uppgávum).</p>
 <p>Ein av almennu psykiatrisku songjardeildunum skal upparbeiða serkunnleika í gerontopsykiatriskari røkt og viðgerð, og sjúklingar, sum gerontopsykiatriska toymið metir skulu innleggjast, verða í tann mun tað er gjørligt, innlagdir á hesa deild. Gerontopsykiatriska toymi hevur tá neyvt samstarv við deildina um viðgerðina.</p>
 <p>Deildin skal í síni innrættan verða skipað soleiðis, at til ber at halda gerontopsykiatriskar sjúklingar burturi frá øðrum sjúklingum, um hetta verður mett neyðugt.</p>
 <p>Gerontopsykiatriska toymið hevur neyvt samstarv við kommunulæknar, heimarøkt og røktarheim og virkar sum tilboð hjá hesum til vegleiðing, útgreinan og viðgerð av sjúklingum í egnum heimi ella á røktarheimi.</p>
-<p>Harumframt skal gerontopsykiatriska toymi skipað fyri tiltøkum við upplýsing og førleikamenning hjá primeru røktini og avvarðandi.</p>
+<p>Harumframt skal gerontopsykiatriska toymi skipað fyri tiltøkum við upplýsing og førleikamenning hjá primeru røktini og avvarðandi.47</p>
 <p>RÆTTARPSYKIATRI</p>
 <p>Tað verður í revsilógini álagt psykiatrisku viðgerðarskipanini at taka sær av kriminellum psykiatriskum sjúklingum. Hesin serligi bólkur av sjúklingum verður vanliga nevndur <em type="italic">rættarpsykiatriskir </em>sjúklingar. </p>
 <p>Rættarpsykiatriskir sjúklingar kunnu koma í psykiatriska viðgerð <em type="italic">áðrenn </em>teir fáa dóm (varðhaldsfongslaði við sálarsjúku og fólk til mentalkanningar) ella aftaná teir hava fingið dóm (fólk sum fáa dóm til at verða koyrd á psykiatriska deild, dóm við kravi um psykiatriska viðgerð ella fongslað, sum gerast sálarjúk). </p>
@@ -662,7 +662,7 @@
 <p>Rættarpsykiatriskir sjúklingar skulu grundleggjandi hava sama tilboð um viðgerð, sum allir aðrir psykiatriskir sjúklingar, men brúk er ofta fyri serligari viðgerðarætlan og tilrættaleggjan, av tí at ein partur av hesum sjúklingum ikki eru áhugaðir í nakrari viðgerð. Talan er eisini ofta um sálarsjúk, sum eisini hava eina misnýtslu.</p>
 <p>Á psykiatrisku songjardeildunum verður tað serliga afturlatna deildin, sum hevur við hesar sjúklingar at gera. Tað er tí í innrættan og í starvsfólkanormering neyðugt at taka hædd fyri, at deildin til tíðir kemur at hava sjúklingar innlagdar, sum kunnu vera serliga vandamiklir, og sum, um teir ikki vóru innlagdir, høvdu sitið fongslaðir.</p>
 <p><em type="bold">TILMÆLI: </em></p>
-<p>Aðrastaðni verða skipaðar serligar deildir til rættarpsykiatriskar sjúklingar, men mett verður ikki, at tað er tørvur fyri hesum her hjá okkum. Teir av sjúklingunum, sum eru innlagdir, og tey sum skulu mentalkannast, mugu rúmast á afturlatnu deildini, sum við smidligari innrættan kann leggja arbeiðið soleiðis til rættis, at hetta ber til.</p>
+<p>Aðrastaðni verða skipaðar serligar deildir til rættarpsykiatriskar sjúklingar, men mett verður ikki, at tað er tørvur fyri hesum her hjá okkum. Teir av sjúklingunum, sum eru innlagdir, og tey sum skulu mentalkannast, mugu rúmast á afturlatnu deildini, sum við smidligari innrættan kann leggja arbeiðið soleiðis til rættis, at hetta ber til.48</p>
 <p>MISBRÚKSPSYKIATRI</p>
 <p>Tað var í mong ár vanligt, at viðgerð av rúsdrekkamisnýtslu og rúsevnismisnýtslu fór fram á psykiatrisku deildunum, men gongdin seinastu árini hevur verið tann, at hesin parturin av viðgerðini er minkaður munandi.</p>
 <p>Her heima var í áttatiárunum avgjørt at leggja viðgerð av misbrúki til aðrar viðgerðarstovnar, og luturin hjá psykiatrisku deild hevur síðani, fyri tað mesta, verið viðgerð av abstinentum sjúklingum. Deildin hevur ikki havt serliga ávirkan á, um hesir sjúklingar aftaná abstinensviðgerðina hava fingið nakað viðgerðartilboð annars.</p>
@@ -672,7 +672,7 @@
 <p>Útgangsstøðið er áður tiknar politiskar avgerðir um, at misbrúksviðgerð fer fram á øðrum viðgerðarstovnum.</p>
 <p>Psykiatriski depilin hevur sum kjarnubólk á misbrúksøkinum sjúklingarnar við dupult diagnosunum og eigur at hava eitt misbrúks-viðgerðartilboð til hesar. Tilboðið eigur at verða miðsavnað á deplinum, allarhelst undir ambulantu deildini, men eigur at verða veitt sjúklingum bæði undir innleggjan og eftir útskrivan.</p>
 <p>Á móttøkudeildini fer eisini fram viðgerð av abstinensum, har talan er um delirøsa støðu ella hóttandi delir. Eisini kann fara fram onnur avrúsan og fylgjandi abstinensviðgerð, sum læknaliga verður mett má fara fram undir innleggjan. Avrúsan er sum so ikki serlig psykiatrisk uppgáva og tí eigur at vera gjørd neyv avtala við aðrar deildir á Landssjúkrahúsinum um viðgerðina av hesum trupulleikanum.</p>
-<p>Tað eigur at verða gjørd ein skipan við felags visitatión til viðgerðarstovnarnar fyri at brúka tilfongið á bestan hátt.</p>
+<p>Tað eigur at verða gjørd ein skipan við felags visitatión til viðgerðarstovnarnar fyri at brúka tilfongið á bestan hátt.49</p>
 <p>ONNUR SERØKI Í PSYKIATRIINI</p>
 <p>Psykiatri umfatar eisini fleiri onnur øki enn tey, sum nærri er nomið við í hesi ætlan. Her verður hugsað um m.a.</p>
 <p><em type="bold">Vanlukkupsykiatri </em>. Har psykiatri er partur av tilbúgvingini og tekur sær av teimum álvarsligu sálarligu meinunum, sum koma fyri. </p>
@@ -681,7 +681,7 @@
 <p><em type="bold">Oligofrenipsykiatri </em>. Tekur sær serliga av psykiskum trupulleikum hjá menningartarnaðum. </p>
 <p><em type="bold">Sexologi. </em>Tekur sær av fólki við torførum seksuellum trupulleikum, - eisini viðgerð av siðamisbroti </p>
 <p><em type="bold">Liaisonpsykiatri </em>. Viðgerð av psykiskum trupulleikum hjá sjúklingum, sum eru innlagdir á somatiskum deildum. </p>
-<p>Tað er ikki tí at hesi øki ikki eru av týdningi her hjá okkum, at tey ikki eru neyvari viðgjørd her, men hesi serøki verða, um ikki serligur kunnleiki er, í ávísan mun viðgjørd innan almennu psykiatriina, og mælast skal til, at psykiatriski depilin eisini hevur nærri greiningar av, hvussu hesi økini skulu røkjast.</p>
+<p>Tað er ikki tí at hesi øki ikki eru av týdningi her hjá okkum, at tey ikki eru neyvari viðgjørd her, men hesi serøki verða, um ikki serligur kunnleiki er, í ávísan mun viðgjørd innan almennu psykiatriina, og mælast skal til, at psykiatriski depilin eisini hevur nærri greiningar av, hvussu hesi økini skulu røkjast.50</p>
 <p>SJÚKUKUNNING OG AVVARÐANDI</p>
 <p>Hugtakið sjúkukunning (<span type="quote" xml:lang="dan">”psykoedukatión”</span>) hevur seinastu árini fingið alt størri rúmd í psykiatriini. Hetta merkir undirvísing (kunning) um psykisk viðurskifti, og at hetta hevur fingið rúmd, er eisini eitt tekin um eina hugburðarbroyting, sum er farin fram.</p>
 <p>Tað var innan heilsuverkið í mong ár siður at skána sjúklinginum fyri sannleikanum. Í bestu meining varð hildið, at best var fyri sjúklingin, at hann so seint sum gjørligt fekk at vita, at hann hevði álvarsliga sjúku. Hetta kann hava verið tí, at tað er kensluliga ein krevjandi uppgáva at boða einum fólki frá, at tað hevur eina álvarsliga, kanska deyðiliga sjúku. Hesin hugburður er broyttur. Tey fólk, sum hava álvarsliga sjúku, krevja í dag at verða tikin við upp á ráð hvørja viðgerð tey skulu hava ella ikki hava. Heilsustýrið hevur eisini álagt læknum at greiða sjúklingunum frá um sjúku teirra, um fyrimunir og vansar við viðgerð, og at sjúklingarnir aftaná at hava fingið hesar upplýsingar eisini skulu samtykkja í møguligari viðgerð. Upplýsingarnir skulu gevast á skynsaman hátt, og eingin skal tvingast upplýsingar, sum hann ikki vil hava. Hetta setir krøv til teirra, sum skulu geva upplýsingarnar. Tað er tørvur á skúling av teimum, sum skulu hava hesa uppgávuna.</p>
@@ -691,14 +691,14 @@
 <p>Vanligt er í dag at arbeiða opið við samskiftinum við bæði sjúklingar og teirra avvarðandi. Sjúklingurin hevur tørv á at vita hvat slag av sjúku talan er um, hvat finnst av vitan um hesa sjúku og hvussu sjúklingurin sjálvur kann vera við til at bøta um støðuna.</p>
 <p>Støðan hjá teimum avvarðandi er ofta trupul. Tað kennist altíð svárt tá ein av næstringunum er vorðin sjúkur, og í mongum førum svárari, tá talan er um sálarliga sjúku, tí hetta í samfelagnum er so tengt at fordómum og manglandi vitan. Ikki er óvanligt at skyldarkenslan er tung og svár at bera. Fyrr varð eisini hildið, at sjúklingurin hevði best av at verða skildur frá sínum avvarðandi og ikki var óvanligt at seta forboð fyri at avvarðandi vitjaðu sjúklingar undir innleggjan.</p>
 <p>Í dag er vanliga mannagongdin, at tey avvarðandi í stóran mun verða tikin við í viðgerðina, sum ein náttúrligur samstarvsfelagi heldur enn trupul mótstandari.</p>
-<p>Tað verður oftast, líka mikið hvør stuðulsskipan verður gjørd, tey avvarðandi, sum eru um sjúklingin, tá hann ikki er á viðgerðarstaðnum. Um hesi hava meiri vitan um sjúkuna og hvønn leiklut tey kunnu hava, so eru tey bæði við til at minka um títtleikan av afturfalli og kunnu verða við til at avlesa tekin um hóttandi afturfall, og sostatt kunna hjálpa tí sjúka til at koma fyrr í viðgerð. Hetta kann í mongum førum verða við til at minka um neyðuga inntrivið.</p>
+<p>Tað verður oftast, líka mikið hvør stuðulsskipan verður gjørd, tey avvarðandi, sum eru um sjúklingin, tá hann ikki er á viðgerðarstaðnum. Um hesi hava meiri vitan um sjúkuna og hvønn leiklut tey kunnu hava, so eru tey bæði við til at minka um títtleikan av afturfalli og kunnu verða við til at avlesa tekin um hóttandi afturfall, og sostatt kunna hjálpa tí sjúka til at koma fyrr í viðgerð. Hetta kann í mongum førum verða við til at minka um neyðuga inntrivið.51</p>
 <p>Flest øll eru samd um, at sjúklingarnir skulu hava størri vitan um sjúku og viðgerð og at tey avvarðandi eisini skulu verða tikin meira við. Men semja og orð gera tað ikki einsamøll. Tað vísir seg ofta torført at fáa hendan partin av viðgerðini og samskiftinum at rigga nóg væl, og tað er tí neyðugt at gera serligar skipanir fyri at seta hetta í verk.</p>
 <p>Tað finnast í dag nógvir ymiskir mátar at røkja hendan partin av viðgerðini. Talan kann verða um bólkar við fleiri familjum og sjúklingum saman, bólkar við fleiri sjúklingum, fundarrøðir fyri avvarðandi og sjúklingar, beinleiðis <span type="quote">”sjúklingaskúlar”</span>, kreppufundir við avvarðandi stutt aftaná innleggjan við psykosu o.a. Bestu royndirnar eru av samskipaðum tilboðum, sum standa við í longri tíð.</p>
 <p><em type="bold">TILMÆLI </em></p>
 <p>Á psykiatriska deplinum verður tikin avgerð um hvørja skipan við sjúkukunning og samstarvi við avvarðandi, depilin skal uppbyggja og skúla síni starvsfólk til at røkja.</p>
 <p>Hetta eigur at verða gjørt við at hyggja eftir skipanum, sum eru royndar aðrastaðni, og sum hava eina staðfesta ávirkan, og at laga hetta til okkara viðurskifti.</p>
 <p>Uppgávan at bera skipanina liggur á øllum starvsfólkum, men fyri at menna skipanina og tryggja at hon verður fylgd, skulu lyklapersónar útnevnst og fáa neyðugu skúlingina at standa fyri hesum.</p>
-<p>Í sosialpsykiatri er uppgávan við sjúkukunning og samstarvi við avvarðandi nakað annarleiðis, tí her er talan um fólk, sum oftast hava verið sjúk í longri tíð. Tað er tó neyðugt at gera eina skipan, sum tryggjar eitt neyvt samstarv og samskifti við avvarðandi. Sosialpsykiatriska skipanin eigur við sama útgangsstøði sum omanfyri, at taka avgerð um hvør skipan skal brúkast.</p>
+<p>Í sosialpsykiatri er uppgávan við sjúkukunning og samstarvi við avvarðandi nakað annarleiðis, tí her er talan um fólk, sum oftast hava verið sjúk í longri tíð. Tað er tó neyðugt at gera eina skipan, sum tryggjar eitt neyvt samstarv og samskifti við avvarðandi. Sosialpsykiatriska skipanin eigur við sama útgangsstøði sum omanfyri, at taka avgerð um hvør skipan skal brúkast.52</p>
 <p xml:lang="dan">DYGDARMENNING</p>
 <p>Innan alla sjúkuviðgerð er seinastu árini alsamt meiri vanligt at tosa um dygdarmenning (da. kvalitetsudvikling). Hetta, at ein alla tíðina hevur fyri eyga at viðgerðin er tann besta og fylgir við tíðini. Hetta at hyggja eftir, um vit í grundini gera tað, sum vit halda okkum gera. Eisini á hesum økinum er vert at hava í huga fíggjarliga partin, tí givið er, at fíggjarliga tilfongið er ikki óavmarkað, og havast skal í huga, um vit fáa tað fyri pengarnar, sum vit eiga, ella um vit kunnu fáa betri viðgerð fyri somu upphædd.</p>
 <p type="listitem">Tá tosað verður um dygdarmenning, eru fleiri grundleggjandi hugtøk, sum gera seg galdandi:</p>
@@ -712,7 +712,7 @@
 <p type="listitem">Samanhangur í viðgerðini og í samskiftinum við tey viðgerðarfólk, sum standafyri viðgerðini</p>
 <p type="listitem">Samskipan av teimum viðgerðartilboðum, sum sjúklinginum tørvar.</p>
 <p>Tað finnast nógvir mátar at skapa neyðugu dygdarmenningina í psykiatrisku viðgerðini. Ein partur av hesum er nærri viðgjørdur í hesum áliti, serliga har tað snýr seg um mál fyri viðgerðina og um at menna førleikan hjá starvsfólkunum (umtalað niðanfyri).</p>
-<p>Vit kunnu á hesum økinum læra nógv av okkara grannalondum og eisini nýta gott av tí arbeiði, sum har er gjørt.</p>
+<p>Vit kunnu á hesum økinum læra nógv av okkara grannalondum og eisini nýta gott av tí arbeiði, sum har er gjørt.53</p>
 <p>Tá tað snýr seg um sokallaðu <span type="quote">”referansuprogrammini”</span>, sum fastleggja hvat tann besta viðgerðin er, so verður í dag gjørt eitt stórt arbeiði fyri at gera tílík fyri teir ymisku sjúkubólkarnar. Treytin fyri at finna bestu viðgerðina er sjálvandi, at ein kennir til tað gransking, sum fer fram á økinum, og hon er í dag umfatandi. Vit kunnu og eiga at taka tað til okkum, sum onnur hava funnið fram til og tillaga hetta til okkara viðurskifti. Samstundis eiga vit eisini at geva møguleikar fyri egnari gransking á økinum, so vit eisini kunnu geva okkara íkast til at menna viðgerðina av sálarsjúkunum.</p>
 <p>Føroyar er í hesum samanhangi eitt áhugavert øki, har granskingarevnini eru mong, men har møguleikarnir higartil hava verið heldur avmarkaðir.</p>
 <p><em type="bold">TILMÆLI </em></p>
@@ -724,7 +724,7 @@
 <p>Samstundis skal forðast fyri, at starvsfólkini verða niðurslitin og útbrend, sum vandi alla tíðina er fyri, hjá starvsfólki, sum støðugt verða brúkt ógvuliga persónliga sum viðgerðaramboð.</p>
 <p>Í eini skipan við smærri deildum, ambulantum uppgávum, økispsykiatriskum arbeiði og persónligum stuðlum, verða sett stór krøv til starvsfólkið. Leggjast má í størri mun dentur á, at einstaka starvsfólkið kann arbeiða sjálvstøðugt í mun til tær settu uppgávurnar.</p>
 <p>Í arbeiðnum við sálarsjúkum er ikki nóg mikið at hava eina fakliga útbúgving. Tað er eisini neyðugt, at starvsfólkini hava nakrar persónligar eginleikar, sum ger tey egnað at arbeiða innan psykiatri. Tað snýr seg m.a. um at vera búgvin, hava snarræði, evni til at involvera seg uttan at yvirinvolvera seg og evnini til at hugsa og arbeiða í eini prosess við langtíðar málum.</p>
-<p>Tað verður í psykiatri arbeitt tvørfakliga, og fyri at hetta kann vera dygdargott, er neyðugt at hvør fakbólkur er sterkur í sínum faki og eisini arbeiðir við monofakligari menning.</p>
+<p>Tað verður í psykiatri arbeitt tvørfakliga, og fyri at hetta kann vera dygdargott, er neyðugt at hvør fakbólkur er sterkur í sínum faki og eisini arbeiðir við monofakligari menning.54</p>
 <p>Tá arbeiðast skal í toymum verður eisini neyðugt í stóran mun at lata avgerðir upp í hendur á tí einstaka. Í toyminum er umráðandi at halda fast í síni fakligheit, og samstundis taka sær av uppgávum, um vanliga liggja hjá øðrum fakbólkum. Tann einstaki skal eisini kunna taka avgerðir <span type="quote">”á staðnum”</span>, sum seinni kunnu eftirmetast og møguliga broytast av tvørfakligari konferansu.</p>
 <p>Hesi krøv til starvsfólkini gera, at starvsfólkamenning, menning av teirra førleika og útbúgving av starvsfólki eigur at verða raðfest ógvuliga ovarlaga í eini nýmótans framsóknari psykiatri.</p>
 <p>Tað er alla tíðina neyðugt at dagføra ta vitan starvsfólkið hevur. Psykiatri er eitt fak í stórari menning. Tað koma nýggir viðgerðarhættir innan heilivág, umhvørvis- og psykoterapi, ergo- og fysioterapi og viðvíkjandi sjúkrarøkt, sum neyðugt er at hava vitan um, um vit skulu hava eina psykiatriska viðgerð, sum fylgir við.</p>
@@ -740,7 +740,7 @@
 <p>Settur verður ein <em type="bold">arbeiðsbólkur </em>at tilrættaleggja innihald og praktiska partin av hesi felags eftirútbúgving. </p>
 <p>Hildið verður, ein partur av skipanini kann byggjast á innanhýsis kreftir, men neyðugt verður við neyvum samstarvi við uttanhýsis skipanir (t.d. okkurt danskt amt ella tilsvarandi í øðrum norðanlandi) fyri at skapa neyðuga innblásturin. Hugsast kann, at møguligt er at keypa onkrar eftirútbúgvingarloysnir uttanífrá og møguliga kunnu onkrir av smærri fakbólkunum koma við í skipaða eftirútbúgving uttanlands.</p>
 <p type="listitem">Tá hugsað verður um førleikamenning í dagligdegnum, eigur eisini at verða skaptur ein hugburður, har starvsfólk verða vand í einum spyrjandi hugsunarhátti um</p>
-<p type="listitem">Viðgerðarástøðið (hví gera vit so sum vit gera ? Ber til at hugsa og skilja øðrvísienn vit gera í dag ?)</p>
+<p type="listitem">Viðgerðarástøðið (hví gera vit so sum vit gera ? Ber til at hugsa og skilja øðrvísienn vit gera í dag ?)55</p>
 <p type="listitem">Skipanarlig eyðkenni (hvat er tað í skipanini, sum ger, at vit gera sum vit gera,hvat kann mennast/broytast, og hvørjar forðanir/fremjandi kreftir eru á tí skipanarliga økinum ?)</p>
 <p type="listitem">Grundarlagið undir viðgerðini (viðgerðarhættir, ið spretta úr ávísari hugsan umhví, hvat og hvussu)</p>
 <p type="listitem">Dagligdagurin ( hví er hann skipaður sum hann er og hvat kann gerast øðrvísi)</p>
@@ -749,7 +749,7 @@
 <p>Í sosialpsykiatriini verður sett eitt <em type="bold">útbúgvingarráð </em>við einum umboði fyri hvørja eind (bústovn, sambýli, virknishús) sum saman við leiðsluni gera langtíðarætlanir og raðfestingar. </p>
 <p>Ein <em type="bold">samskipanarbólkur </em>við umboðum fyri útbúgvingarráðini á deplinum og í sosialpsykiatri arbeiðir við praktiskari tilrættaleggjan, samskipan av útbúgvingartilboðnum, so at tilfeingið verður nýtt á skynsamasta hátt. </p>
 <p>At taka sær av praktiska partinum verður undir leiðsluni sett eitt <em type="bold">starvsfólk burturav </em>av taka sær av eftirútbúgvingarskipanini á psykiatriska deplinum. </p>
-<p>Tað skal undirstrikast enn einaferð, at tað er avgerandi neyðugt, at tað verður settur fleiri ferðir so nógvur peningur burturav til førleikamenning og undirvísing, enn vanligt hevur verið.</p>
+<p>Tað skal undirstrikast enn einaferð, at tað er avgerandi neyðugt, at tað verður settur fleiri ferðir so nógvur peningur burturav til førleikamenning og undirvísing, enn vanligt hevur verið.56</p>
 <p>EFTIRLIT OG EFTIRMETING</p>
 <p>Í sambandi við umleggingar av eini tænastu er altíð umráðandi, at man á ein ella annan hátt kann fylgja við og fáa greiðu á, um hesar umleggingar megna at liva upp til tey mál, sum eru sett, og um umleggingarnar hava tað ávirkan, sum ein hevði roknað við.</p>
 <p>Samstundis er eisini umráðandi, at ein á ein ella annan hátt, alla tíðina hevur møguleika at kunna staðfesta broytingar og finna øki, har viðgerðartørvurin ikki verður nøktaður.</p>
@@ -763,14 +763,14 @@
 <p>Seinastu árini er eisini vorðið alsamt meiri vanligt at gera brúkarakanningar, har sjúklingar í viðgerðarskipanini fáa høvi til at gera sínar metingar av tí tænastu, tey hava fingið.</p>
 <p>Hvussu nógv tað skal gerast burturúr eftirlitsuppgávunum og eftirmetingunum veldst um hvussu mikið av peningi verður settur av til hetta.</p>
 <p><em type="bold">TILMÆLI UM EFTIRLIT OG EFTIRMETING </em></p>
-<p>Psykiatriska tænastan, sum verður givin, verður rættuliga væl skrásett í dag, og til ber at gera árligar uppgerðir av tænastuni. Mælt verður til, at tað á deplinum verður gjørdur einleistur til árligar uppgerðir, sum umfata innleggingar, útskrivingar, ambulantar viðgerðir, tilsýn, akut arbeiði, tilrættalagt arbeiði, diagnosubólkar, nýtsla av tvingsli, nýtsla av heilivági, aldurs- og kynsbýti, neyvari greinan av tænastum, starvsfólkanormeringar og tað sum annars fyrigongur á deildunum. Leisturin skal gerast soleiðis, at tað ber til at gera samanberingar av tølunum ár fyri ár.</p>
+<p>Psykiatriska tænastan, sum verður givin, verður rættuliga væl skrásett í dag, og til ber at gera árligar uppgerðir av tænastuni. Mælt verður til, at tað á deplinum verður gjørdur ein57leistur til árligar uppgerðir, sum umfata innleggingar, útskrivingar, ambulantar viðgerðir, tilsýn, akut arbeiði, tilrættalagt arbeiði, diagnosubólkar, nýtsla av tvingsli, nýtsla av heilivági, aldurs- og kynsbýti, neyvari greinan av tænastum, starvsfólkanormeringar og tað sum annars fyrigongur á deildunum. Leisturin skal gerast soleiðis, at tað ber til at gera samanberingar av tølunum ár fyri ár.</p>
 <p>Samstundis verður mælt til, at tað verður tilrættaløgd ein <em type="bold">eftirmeting </em>av, um tiltøkini í hesi psykiatriætlan (um tey verða gjøgnumførd partvís ella fult) hava havt nakra ávirkan á psykiatrisku tænastuna í Føroyum. </p>
 <p>Hendan eftirmeting skal gerast av <em type="bold">uttanhýsis </em>kreftum. </p>
 <p>Ein møguleiki er at kanna, um til ber at gera eina avtalu við Samfelagsdeildina á Fróðskaparsetrinum, um tey hava møguleika og eru sinnaði at gera hesa eftirmeting.</p>
 <p>Um tað ikki ber til, eigur ein tílík eftirmeting at verða keypt frá onkrum av teimum fyritøkum, sum bjóða seg fram til tílíkt arbeiði (t.d. uttanlands).</p>
 <p>Undir øllum umstøðum er greitt, at tað má játtast peningur til hetta.</p>
 <p>Samstundis eigur á psykiatriska deplinum og í sosialpsykiatrisku tilboðunum at verða gjørdar eftirmetingar javnan, fyri at tryggja dygdina í viðgerðini (sí eisini partin um dygdarmenning)</p>
-<p>Tað eigur at verða gjørd eina størri <em type="bold">brúkarakanning </em>nakað skjótt og so aftur um nøkur ár. Tað finnast nógvir ymiskir mátar at gera hetta, men eingin, sum øll eru samd um at brúka. Mælt verður til, at brúka tann leistin, sum í 2001 varð nýttur í Århus Amt til eina umfatandi brúkarakanning, og sum á neyvan hátt lýsir tørv, ynskir og nøgd hjá brúkarunum. </p>
+<p>Tað eigur at verða gjørd eina størri <em type="bold">brúkarakanning </em>nakað skjótt og so aftur um nøkur ár. Tað finnast nógvir ymiskir mátar at gera hetta, men eingin, sum øll eru samd um at brúka. Mælt verður til, at brúka tann leistin, sum í 2001 varð nýttur í Århus Amt til eina umfatandi brúkarakanning, og sum á neyvan hátt lýsir tørv, ynskir og nøgd hjá brúkarunum.58 </p>
 <p>SAMANDRÁTTUR AV TILMÆLUM</p>
 <p><em type="bold">Lóggáva </em>At danska lógin <span type="quote" xml:lang="dan">”Lov om frihedsberøvelse og anden tvang i psykiatrien”</span> við broytingum staðfestar í <span type="quote" xml:lang="dan">”Bekendtgørelse af lov om frihedsberøvelse og anden tvang i psykiatrien”</span> frá 1.1.99 verður sett í gildi í Føroyum við tillagingum til føroysk viðurskifti. </p>
 <p><em type="bold">Sjúkrahúspsykiatri </em>At deildirnar á psykiatriska deplinum verða umbygdar og umvældar so hesar lúka krøvini til nútímans songjardeildir til sálarsjúk. Hetta inniber m.a. einakamar til allar sjúklingar, møguleika fyri skjólan og færri sjúklingar á hvørjari deild. </p>
@@ -783,7 +783,7 @@
 <p><em type="bold">Økispsykiatri </em>At tað á psykiatriska deplinum verður skipað ein serlig ambulant/økispsykiatrisk deild til ambulanta viðgerð av sálarsjúkum, sum ikki tørva innleggjan og til eftirviðgerð av áður innløgdum. </p>
 <p>Ambulanta deildin hevur serlig toymi til gerontopsykiatri og barna- og ungdómspsykiatri.</p>
 <p>At tað verða settar økispsykiatriskar sjúkrasystrar kring landið, allarhelst í samstarvi við Heimarøktina.</p>
-<p><em type="bold">Sosialpsykiatri </em>At tað verður skipað ein <em type="bold"><span type="quote">”Serforsorgardeild fyri sálarsjúk”</span> </em>undir Heimarøktini og Serforsorgini, sum hevur um hendi øll verandi og komandi sosialpsykiatrisk tilboð, herundir bútilboð, virknishús, skipaði arbeiðstilboð og dagtilboð. </p>
+<p><em type="bold">Sosialpsykiatri </em>At tað verður skipað ein <em type="bold"><span type="quote">”Serforsorgardeild fyri sálarsjúk”</span> </em>undir Heimarøktini og Serforsorgini, sum hevur um hendi øll verandi og komandi sosialpsykiatrisk tilboð, herundir bútilboð, virknishús, skipaði arbeiðstilboð og dagtilboð.59 </p>
 <p>At settur verður leiðari til deildina sum skjótast, sum fær til uppgávu at byggja deildina upp fakliga og fyrisitingarliga.</p>
 <p>At skipað verða virknishús fyri sálarsjúk við fjølbroyttum tilboði.</p>
 <p>At broytingar í verandi skipan við stuðulsfólkum taka hædd fyri, at sálarsjúk eisini kunnu fáa hjálp undir eini komandi skipan, sum skal umfata bæði stuðulss- og samskiftispersónar og bústuðlar.</p>
@@ -799,13 +799,13 @@
 <p>At tað verður gjørd ein felags visitatión til viðgerðarstovnarnar.</p>
 <p><em type="bold">Onnur øki </em>At psykiatriski depilin ger greiningar av hvussu økini vanlukkupsykiatri, kreppupsykiatri, neuropsykiatri, oligofrenipsykiatri, sexologi og liaisonpsykiatri skulu røkjast. </p>
 <p><em type="bold">Sjúkukunning og avvarðandi </em>At tað á psykiatriska deplinum verður tikin avgerð um, hvørja skipan við sjúkukunning og samstarvi við avvarðandi depilin vil nýta og menna. </p>
-<p>At í sosialpsykiatrisku skipanin verður tikin avgerð um, hvussu samstavið við avvarðandi skal skipast</p>
+<p>At í sosialpsykiatrisku skipanin verður tikin avgerð um, hvussu samstavið við avvarðandi skal skipast60</p>
 <p><em type="bold">Dygdarmenning </em>At tað á psykiatriska deplinum og í sosialpsykiatriini verður arbeitt við dygdarmenning og at lyklapersónar verða útnevndir og skúlaðir at ráðgeva og vegleiða á hesum øki, sum skal raðfestast frammalaga. </p>
 <p>At tað verður gjørt fíggjarligt rúm fyri psykiatriskari gransking bæði innan sjúkrahús-, økisog sosialpsykiatri.</p>
 <p><em type="bold">Førleikamenning og útbúgving </em>At tað á psykiatriska deplinum og í sosialpsykiatriini verður skaptur fíggjarligur møguleiki fyri at skipa eina málrættaða og væl tilrættalagda eftirútbúgving og førleikamenning fyri hvørt einstakt starvsfólk . </p>
 <p>At tað verður settur ein arbeiðsbólkur at tilrættaleggja eftirútbúgving og førleikamenningina.</p>
 <p><em type="bold">Eftirlit og eftirmeting </em>At tað á psykiatriska deplinum verða gjørdar samanberiligar uppgerðir yvir psykiatrisku tænastuna á hvørjum ári. </p>
-<p>At gjørd verður ein verkætlan fyri neyva eftirmeting av úrslitunum av hesi psykiatriætlan. Hetta arbeiði skal gerast av uttanhýsis kreftum.</p>
+<p>At gjørd verður ein verkætlan fyri neyva eftirmeting av úrslitunum av hesi psykiatriætlan. Hetta arbeiði skal gerast av uttanhýsis kreftum.61</p>
 <p>ÍVERKSETAN</p>
 <p>Í høvuðsheitum snýr hendan psykiatriætlan seg um at skunda undir ta umleggjan av psykiatrisku viðgerðarskipanini, sum partvís varð farið undir í áttatiárunum, men sum steðgaði upp í kreppuárunum. Tað snýr seg um, at fólk við sálarsjúkum skulu hava eitt trístreingjað viðgerðartilboð. Tey, sum ikki eru so illa fyri, skulu hava eitt ambulant viðgerðartilboð. Tey, sum eru illa fyri, skulu hava møguleika fyri viðgerð undir innleggjan, og síðani møguleika fyri ambulantari eftirviðgerð. Teir sjúklingar, sum av sjúkuávum ikki megna at liva og búgva fyri seg sjálvan, skulu hava bústaðartilboð og annan stuðul fyri at kunna liva eitt lív so nær tí vanliga, sum gjørligt. Hendan skipanin skal loysa trupulleikan har sjúklingar, sum ikki megnað eitt vanligt lív, stranda á psykiatrisku deildunum, tí eingi bú- og stuðulstilboð hava verið.</p>
 <p>Samstundis eigur at vera farið undir at nútímansgera tær psykiatrisku deildirnar á psykiatriska deplinum og at arbeiða miðvíst við dygdarmenning av viðgerðini og førleikamenning av starvsfólki.</p>
@@ -816,7 +816,7 @@
 <p>Umráðandi er við samskipan av hesum arbeiði, og tí eigur beinanvegin at verða stovnsett deild <span type="quote">”Serforsorgardeild fyri sálarsjúk”</span> undir Heimarøktini/Serforsorgini, sum fær hesa uppgávu í hendi. Neyðugt við eini meirjáttan til Heimarøktina/Serforsorgina og at játtanin til byggjan av sambýlum verður økt.</p>
 <p>Beinanvegin omanfyristandandi er sett í verk, verður gjørd umleggjan av tveimum av deildunum á psykiatriska deplinum, soleiðis at hesar gera sosialpsykiatriskir bústaðir og fyrisitingarliga liggja undir Serforsorgardeildini.</p>
 <p>Á psykiatriska deplinum verður farið undir fyrireikan av nútímansger av deildunum. Ein arbeiðsbólkur verður settur at fyrireika hetta arbeiði og gera neyvari kostnaðarmeting. Neyðugt at umvælingar og umbyggingarætlanin fyri Landssjúkrahúsið verður dagførd við hesum meirkostnaði.</p>
-<p>Gjørd verður ein neyvari íverksetanarætlan av umvælingum og umbyggingum.</p>
+<p>Gjørd verður ein neyvari íverksetanarætlan av umvælingum og umbyggingum.62</p>
 <p>Farið verður undir tilrættaleggjan av eftirútbúgvingarskipan fyri starvsfólkið á psykiatriska deplinum og teimum, ið starvast í sosialpsykiatriini. Kostnaðarmetingar mugu gerast og krevur ein skipan eina meirjáttan til depilin/játtan til sosialpsykiatriina.</p>
 <p>Meðan hetta arbeiði fer fram, verður tvørfakliga undirvísingartilboðið økt og verandi supervisiónsskipan verður ment.</p>
 <p>Á psykiatriska deplinum verður farið undir arbeiði við dygdarmenning og ein skipan við viðgerðarætlanum verður sett í verk. Avgerð verður tikin um hvør skipan skal brúkast til sjúkukunning og samstarv við avvarðandi og neyðugar fyrireikingar gjørdar.</p>
@@ -825,7 +825,7 @@
 <p>Almanna- og heilsumálastýrið eigur at leggja fyri Løgtingið uppskot um ígildissetan av <span type="quote" xml:lang="dan">”Lov om frihedsberøvelse og anden tvang i psykiatrien”</span> við neyðugu tillagingum til okkara viðurskifti.</p>
 <p><em type="bold">Tíðarfesting </em></p>
 <p>Hvussu tíðarfestingin til íverksetan verður, er tengt at fíggjarligu síðuni. Neyðugi vøksturin í játtanini til sosialpsykiatrisku skipanina og til psykiatriska depilin á Landssjúkrahúsinum er tengdur at eini politiskari raðfesting.</p>
-<p>Tá tann politiska viðgerðin av málinum hevur verið, má gerat ein neyv tíðarætlan fyri íverksetan av teimum ymisku pørtunum í ætlanini.</p>
+<p>Tá tann politiska viðgerðin av málinum hevur verið, má gerat ein neyv tíðarætlan fyri íverksetan av teimum ymisku pørtunum í ætlanini.63</p>
 <p>ARBEIÐSBÓLKAR</p>
 <p>Í sambandi við at henda verkæltanin varð sett í gongd, setti Landssjúkrahúsið ein stýrisbólk mannaður við</p>
 <p>Anne Grete Mikkelsen, læknastjóra</p>
@@ -850,7 +850,7 @@
 <p>Margretha Poulsen, Sinnisbati</p>
 <p>Maria Anderssen, deildarsjúkrasystir</p>
 <p>Marin Samuelsen, sjúkrasystir</p>
-<p>Oddbjørg Johansen, sjúkrasystir</p>
+<p>Oddbjørg Johansen, sjúkrasystir64</p>
 <p>Olga Kallsberg , fysioterapeutur</p>
 <p>Petricia Christiansen, sjúkrahjálpari</p>
 <p>Randi Petersen, fysioterapeutur</p>
@@ -878,7 +878,7 @@
 <p>Æna Reinert, deildarsjúkrasystir</p>
 <p><em type="bold">Skrivarar vóru: </em></p>
 <p>Ruby Danielsen, læknaskrivari</p>
-<p>Vivian M. Hansen, læknaskr.næm.</p>
+<p>Vivian M. Hansen, læknaskr.næm.65</p>
 <p><em type="bold">Sosialpsykiatri </em></p>
 <p>Arbeiðsbólkurin, ið hevur viðgjørt sosialpsykiatri, var partvís framhald av arbeiðsbólkinum, sum gjørdi álitið <span type="quote">”Glotti fyri framman”</span> men bólkurin varð víðkaður við nøkrum limum.</p>
 <p><em type="bold">Luttakarar í arbeiðsbólkinum hava verið: </em></p>
@@ -888,7 +888,7 @@
 <p>Súna Mørk, frá psykiatriska deplinum á LS</p>
 <p>Svenning av Lofti frá Sinnisbata</p>
 <p>Unn á Lað frá Almanna-og heilsumálastýrinum</p>
-<p>Hesin arbeiðsbólkurin var í oktobur 2001 á kunningarferð í Danmark og vitjaði á fleiri støðum fyri at vita hvussu sosialpsykiatrisku tilboðini har eru skipað.</p>
+<p>Hesin arbeiðsbólkurin var í oktobur 2001 á kunningarferð í Danmark og vitjaði á fleiri støðum fyri at vita hvussu sosialpsykiatrisku tilboðini har eru skipað.66</p>
 <p>BRÚKARASJÓNARMIÐ</p>
 <p>Tað er vorðið alsamt meira vanligt at gera sokallaðar brúkarakanningar, fyri at vita hvat brúkarin heldur um viðgerðina, sum stendur honum í boði og um hvat brúkarin kundi hugsa sær var annarleiðis.</p>
 <p>Tað eru ikki gjørdar nakrar størri brúkarakanningar um psykiatri her heima.</p>
@@ -897,16 +897,16 @@
 <p>Avgjørt var tó at gera eina minni kanning við nøkrum spurnarbløðum, sum vóru latin nøkrum sjúklingum og eisini varð hetta viðgjørt í bólkum á Dagdeildini á LS. Tilsamans 21 fólk vórðu spurd í hesi kanningini.</p>
 <p>Niðanfyri eru endurgivin spurningar og svar, sum givin vórðu:</p>
 <p><em type="bold">Spurningur 1 </em></p>
-<p>Um tú eina ferð skal innleggjast aftur, hvørji viðurskifti heldur tú so hava týdning fyri, at tú skalt kenna teg væl og fáa tað betri? <span type="quote">“At hava egið kamar, har ein ikki verður órógvaður í náttarsvøvni.”</span><span type="quote">“At hava kontaktpersón, sum fungerar væl við sjúklinginum. Aktivering er týðandi, so ein kennir seg verdigan aftur, so ein skjótari kann koma í heimligt umhvørvi og fungera saman aftur við familjuni.”</span><span type="quote">“Einastovu við egnum WC.”</span><span type="quote">“Telda við Interneti er tøk til sjúklingar. At tú kennir starvsfólkini.”</span><span type="quote">“Taka hensyn til, at eg eri veik, tá eg blívi innløgd, ikki tvinga meg til persónligt reinføri, um ein samrøða ger tað betri.”</span><span type="quote">“At starvsfólkini eru fyrikomandi, at ein kann kenna seg tryggan. At tað ikki verður gjørdur munur á, um tað eru eldri fólk, ið sýnast dement, at tey tó verða observerað og viðgjørd.”</span>“Um eg skal innleggjast aftur og føla meg betur, kundi eg hugsað mær at havt eitt einaverilsi. Eisini skuldi verið møguleiki fyri samtalum við <em type="italic">ein </em>lækna ella <em type="italic">eina </em>sjúkrasystir.” </p>
+<p><em type="italic"></em><span type="quote">“At hava egið kamar, har ein ikki verður órógvaður í náttarsvøvni.”</span><span type="quote">“At hava kontaktpersón, sum fungerar væl við sjúklinginum. Aktivering er týðandi, so ein kennir seg verdigan aftur, so ein skjótari kann koma í heimligt umhvørvi og fungera saman aftur við familjuni.”</span><span type="quote">“Einastovu við egnum WC.”</span><span type="quote">“Telda við Interneti er tøk til sjúklingar. At tú kennir starvsfólkini.”</span><span type="quote">“Taka hensyn til, at eg eri veik, tá eg blívi innløgd, ikki tvinga meg til persónligt reinføri, um ein samrøða ger tað betri.”</span><span type="quote">“At starvsfólkini eru fyrikomandi, at ein kann kenna seg tryggan. At tað ikki verður gjørdur munur á, um tað eru eldri fólk, ið sýnast dement, at tey tó verða observerað og viðgjørd.”</span>“Um eg skal innleggjast aftur og føla meg betur, kundi eg hugsað mær at havt eitt einaverilsi. Eisini skuldi verið møguleiki fyri samtalum við <em type="italic">ein </em>lækna ella <em type="italic">eina </em>sjúkrasystir.”67 </p>
 <p><em type="bold">Spurningur 2 </em></p>
 <p>Um broytingar skulu gerast á deildunum viðvíkjandi innrættingini, hvat heldur tú so er av størsta týdningi at fáa gjørt? <span type="quote">“Einakamar.”</span><span type="quote">”“At hava kamar fyri seg sjálvan.”“Einastovu við egnum WC.”“Skrivstovu fyri seg og deild fyri seg. Eitt felags rúm, so at næstan alt kann gerast “opið”</span><span type="quote">“At hava kamar fyri seg sjálvan.”</span><span type="quote">“Einastovu við egnum WC.”</span><span type="quote">“Skrivstovu fyri seg og deild fyri seg. Eitt felags rúm, so at næstan alt kann gerast “opið”</span>. Bert stongt, har medisinið stendur.”<span type="quote">“Fleiri einakømur, betri umstøður at hava vitjandi.WC og bað innifrá kamari.”</span><span type="quote">“Nógv kundi verið gjørt viðvíkjandi innrættingini, t.d. W.C./brúsu til hvønn einstakan.Tað skuldi verið meira enn eitt vitjunarrúm og um genta/ drongur ella kona/ maður kemur á vitjan, so skulu umstøðurnar verið eitt sindur meira privatar.”</span></p>
 <p><em type="bold">Spurningur 3 </em></p>
 <p>Hvat heldur tú er mest umráðandi at leggja dent á í viðgerðini? <span type="quote">“Aktivitet, ganga til ergoterapi, ganga túrar og luttaka í sosiallívi við ábyrgd. At sjúklingurin kann klára tær uppgávur, hann fær, so at hann ikki kennir seg uttanfyri. So hann ikki skal byrja av nýggjum aftan á hvørja innleggjan. Tað er so hart at byrja frá botninum aftur.”</span><span type="quote">“At tosa meir við lækna og psykolog.”</span><span type="quote">“At starvsfólkið roynir at kenna ein.”</span><span type="quote">“At royna at gjøgnumskoða sjúklingin, - ikki vera bangin at siga honum ímóti.”</span><span type="quote">“At kunna tosa við starvsfólk, og at tey vísa einum virðing. At kunna sita fyri seg sjálvan og tosa við vitjandi.”</span><span type="quote">“Tað, sum er mest umráðandi at leggja dent á, er m. a., at friður er um náttina, soleiðis at ein fær nóg mikið av svøvni; at ein ikki verður ovfyltur av medicini.”</span></p>
 <p><em type="bold">Spurningur 4 </em></p>
-<p>Hvat við tíðini aftan á útskrivan. Hvat er mest umráðandi, at psykiatriin kann bjóða tá? <span type="quote">“At koma til kontrol hjá psykiatara. At blíva aktiverað eisini heima og fáa stuðul av kontaktpersóni. Tað hevði verið gott, um vit á bygd fingu psykiatriska sjúkrasystir, sum tú kann tosa við, t.d.heilsusystir hjá børnum.”</span><span type="quote">“At kunna koma til psykolog.”</span><span type="quote">“Viðgerðarstovnar á bygd.”</span><span type="quote">“Ein fastan kontaktpersón, sum vitjar nakrar ferðir um vikuna, og sum ein kann tosa og ganga túr við.”</span><span type="quote">“At fáa ambulanta viðtalu við psykiatara. Psykiatri í heimarøktini, so viðgerðin kann verða fylgd upp.”</span><span type="quote">“At trivnaður við bústaði, kosti og heilivági verða fylgd upp við socialráðgeva, sjúkrasystir og lækna. Harafturat ítrivsmøguleikar, útbúgving og arbeiðið.”</span></p>
+<p>Hvat við tíðini aftan á útskrivan. Hvat er mest umráðandi, at psykiatriin kann bjóða tá? <span type="quote">“At koma til kontrol hjá psykiatara. At blíva aktiverað eisini heima og fáa stuðul av kontaktpersóni. Tað hevði verið gott, um vit á bygd fingu psykiatriska sjúkrasystir, sum tú kann tosa við, t.d.heilsusystir hjá børnum.”</span><span type="quote">“At kunna koma til psykolog.”</span><span type="quote">“Viðgerðarstovnar á bygd.”</span>68<span type="quote">“Ein fastan kontaktpersón, sum vitjar nakrar ferðir um vikuna, og sum ein kann tosa og ganga túr við.”</span><span type="quote">“At fáa ambulanta viðtalu við psykiatara. Psykiatri í heimarøktini, so viðgerðin kann verða fylgd upp.”</span><span type="quote">“At trivnaður við bústaði, kosti og heilivági verða fylgd upp við socialráðgeva, sjúkrasystir og lækna. Harafturat ítrivsmøguleikar, útbúgving og arbeiðið.”</span></p>
 <p><em type="bold">Spurningur 5 </em></p>
 <p><em type="bold">Hevur tað nakran týdning, at man kann koma til viðtalu aðrastaðni enn á psykiatrisku deild, t.d. úti á bygd? </em></p>
-<p>Øll svaraðu : <span type="quote">“Ja”</span>, og onkur skrivar <span type="quote">“sera umráðandi!”</span><span type="quote">“Ja, tað hevur stóran týdning, t.d., at ein sjúkrasystir kemur í heimið at kanna umstøðurnar hjá sjúklinginum. Haraftrat, um sjúklingurin etur rætt, reinførið er gott og heilivágurin virkar.”</span></p>
+<p>Øll svaraðu : <span type="quote">“Ja”</span>, og onkur skrivar <span type="quote">“sera umráðandi!”</span><span type="quote">“Ja, tað hevur stóran týdning, t.d., at ein sjúkrasystir kemur í heimið at kanna umstøðurnar hjá sjúklinginum. Haraftrat, um sjúklingurin etur rætt, reinførið er gott og heilivágurin virkar.”</span>69</p>
 <p xml:lang="dan">KELDUYVIRLIT</p>
 <p xml:lang="dan"><em type="bold">Akut psykiatri </em>; Joakim Knop, Hans Reitzels Forlag, København 2000. </p>
 <p xml:lang="dan"><em type="bold">Dansk gerontopsykiatri, nutid og fremtid </em>; Dansk Psykiatrisk Selskab 1995. </p>
@@ -928,7 +928,7 @@
 <p xml:lang="dan"><em type="bold">Omstilling på psykiatriområdet </em>, Afrapportering af temaplanrunde, Sundhedsstyrelsen 1991. </p>
 <p xml:lang="dan"><em type="bold">Opsøgende psykoseteam </em>; Per B. Vendsborg, Merete Nordentoft o.o.; Institut for Sundhedsvæsen 1999. </p>
 <p xml:lang="dan"><em type="bold">Psykiatri i Roskilde Amt </em>; Roskilde Amt 1990. </p>
-<p xml:lang="dan"><em type="bold">Psykiatriplan for Bergen kommune 1998-2001 </em>, Bergen 1998. </p>
+<p xml:lang="dan"><em type="bold">Psykiatriplan for Bergen kommune 1998-2001 </em>, Bergen 1998.70 </p>
 <p xml:lang="dan"><em type="bold">Psykiatriske patienters vilkår – en redegørelse </em>; Det Etiske Råd, København 1997. </p>
 <p><em type="bold">Psykiatriætlan fyri ár 2000 </em>, Arbeiðsbólkur settur av landsstýrismanninum í heilsumálum, Tórshavn 1991 </p>
 <p xml:lang="dan"><em type="bold">Referanceprogrammer – en vej til kvalitet </em>, Sundhedsstyrelsen 1992. </p>

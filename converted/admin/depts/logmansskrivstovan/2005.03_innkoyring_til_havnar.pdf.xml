@@ -1,4 +1,10 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4138</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2005.03 Innkoyring til Havnar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Frágreiðing um nýggja innkoyring til</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4151</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2005.03 Innkoyring til Havnar.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="listitem">Tinghúsvegi 5</p>
+<p type="listitem" xml:lang="dan">Postboks 78</p>
+<p type="listitem">FO-110 Tórshavn</p>
+<p type="listitem">lv@lv.fo</p>
+<p type="listitem">Tlf. +298 311333</p>
+<p type="listitem">Fax +298 314986</p>
+<p>Frágreiðing um nýggja innkoyring til</p>
 <p>Havnar</p>
 <p xml:lang="dan">Mars 20052</p>
 <p><em type="bold">Innihaldsyvirlit: </em>1 Inngangur .................................................................................................................................... 3 2 Alment.......................................................................................................................................... 3 <em type="bold">2.1 </em></p>
@@ -23,8 +29,8 @@
 <p>Grundarlagið undir hesum verður lýst niðanfyri: 2.1 Samferðsluviðurskifti</p>
 <p>Málið við landsvegum er at knýta saman bygdir og býir, grundað á verandi og væntaða tørvin.</p>
 <p>Seinastu árini er miðvíst arbeitt við at leggja ferðsluna uttan um bygd øki, fyri m.a. at tryggja betri framkomuleika, tí vegirnir, sum eru, eru vorðnir ótíðarhóskandi, av ferðslutrygdarorsøkum og møguleika fyri at dagføra vegirnar í framtíðini. Grundalagið fyri at leggja og dagføra landsvegir eru norðurlendskir normar, serliga teir norsku, ið vera hildnir at hóska til viðurskiftini í Føroyum.</p>
-<p><em type="italic">Uppskot til samtyktar </em><em type="italic">viðvíkjandi innkoyring til Havnar </em></p>
-<p><em type="italic">Heitt verður á Landsstýrið at kanna og leggja frágreiðing fyri Løgtingið um fyrimunir og </em><em type="italic">vansar at gera ein tunnil sum part av innkoyringarvegnum til Havnar av Hvítanesvegnum, har </em><em type="italic">dentur verður lagdur á bæði samferðsluviðurskifti, fíggjarlig-, umhvørvislig-, mentanarlig- og </em><em type="italic">sosial viðurskifti </em>4 </p>
+<p><em type="italic">Uppskot til samtyktar viðvíkjandi innkoyring til Havnar </em></p>
+<p><em type="italic">Heitt verður á Landsstýrið at kanna og leggja frágreiðing fyri Løgtingið um fyrimunir og vansar at gera ein tunnil sum part av innkoyringarvegnum til Havnar av Hvítanesvegnum, har dentur verður lagdur á bæði samferðsluviðurskifti, fíggjarlig-, umhvørvislig-, mentanarlig- og sosial viðurskifti </em>4 </p>
 <p>Í Føroyum eru, av teimum landafrøðiligu viðurskiftunum, nakrar avmarkingar, hvar vegir kunnu gerast. Tá ið ætlanir verða gjørdar um nýggjar vegir, eru nøkur vegatøknilig viðurskifti, ið eru serliga týdningarmikil, tey eru m.a. hallið á vegnum, íbindingar o.a. Hallið á vegnum verður sett í promillum, hetta merkir, at siga vit, at vegurin er 70 promillur, hækkar (ella lækkar) hann 70 millimetrar fyri hvønn metur, farið verður fram eftir vatnrøttum. Somuleiðis verður, tá ið ræður um hædd á vegi, nýtt orðið kota, t.d. merkir kota 69, at vit eru 69 metrar yvir sjógv á miðalvatni.</p>
 <p>Tá ið talan er um tunlar, er tað serliga tey jarðfrøðiligu viðurskiftini, ið seta avmarkingarnar. Ógvuliga nógvir trupulleikar hava víst seg at vera í sambandi við at halda tunlarnar, tí koyrast kann ikki í tunlunum, meðan arbeitt verður. Trygdarkrøvini seinastu árini eru sera nógv herd. At halda og dagføra verandi tunlar er fíggjarliga nógv tyngjandi afturímóti vegum annars. Játtanin til hetta er sera lítil, og stendur ikki mát við tørvin á økinum. Landsverk hevur tí ta greiðu fatan, at tunlar eiga bara at verða gjørdir, har annað ikki ber til.</p>
 <p>Í grannalondum okkara, serliga Noregi, verður hugsað um at fara burtur frá at gera tunlar, har aðrir møguleikar eru, av nýggjastu trygdarkrøvunum hjá ES. Hugsað verður heldur um at gera brúgvar (serliga um sund), hóast prísurin fyri meturin er 3-4 ferðir so høgur, sum fyri tunlar (samanlagt verður prísurin fyri brúgvar ofta á leið hin sami sum fyri tunlar, tí teinurin verður vanliga nógv styttri við brúm). 2.2 Fíggjarlig viðurskifti</p>
@@ -129,13 +135,13 @@
 <p>Verandi 2. byggisting</p>
 <p>Millum Gilja/Eystan Gil - Kaldbaksvegur 38,5 mió</p>
 <p>Kostnaðarmeting</p>
-<p><em type="bold">Verandi Innkomuvegur tilsamans </em><em type="bold">76,5 mió </em></p>
+<p><em type="bold">Verandi Innkomuvegur tilsamans 76,5 mió </em></p>
 <p>Kostnaðarmeting</p>
 <p>Broyting í 1. byggistigi flyta veg við Krákugjógv 2 mió</p>
 <p>Eykakostnaður fyri 100 metrar av vegi umframt umprosjektering</p>
 <p>Broyting 1. byggistig tunnil Villingardalsvegur -Krákugjógv 27 mió</p>
 <p>Upphæddin umfatar eykakostnað fyri tunnilin.</p>
-<p>Broyting og vegaføring 1. byggistig tunnil Krákugjógv – Marknagil og sambindingarvegur <em type="italic">40 mió </em><em type="italic">+7 mió </em>47 mió </p>
+<p>Broyting og vegaføring 1. byggistig tunnil Krákugjógv – Marknagil og sambindingarvegur <em type="italic">40 mió +7 mió </em>47 mió </p>
 <p>Upphæddin umfatar eykakostnað fyri tunnilin, 350 metur av sambindingarvegi og rundkoyring við Krákugjógv.</p>
 <p>Broyting í 2. byggistigi tunnil Millum Gilja - Kaldbaksvegurin 57 mió</p>
 <p>Upphæddin umfatar eykakostnað fyri tunnilin borið saman við vegaloysnina 22 <em type="bold">9 Tilmæli </em></p>

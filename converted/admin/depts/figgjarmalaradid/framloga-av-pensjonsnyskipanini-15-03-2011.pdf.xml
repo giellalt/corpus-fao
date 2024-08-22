@@ -1,21 +1,21 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1560</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>framløga-av-pensjónsnýskipanini-15-03-2011.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Pensjónsnýskipan 2012 </em>– ein haldfør pensjónsskipan 29. februar 2011 </p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1469</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>framløga-av-pensjónsnýskipanini-15-03-2011.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Pensjónsnýskipan 2012 </em>– ein haldfør pensjónsskipan 29. februar 2011 </p>
 <p><em type="italic">Talið av eldri fólki í Føroyum er skjótt veksandi, meðan talið av arbeiðsførum verður nærum óbroytt. Hetta fer at seta føroysku pensjónsskipanina og vælferðartænasturnar undir stórt trýst. </em></p>
 <p xml:lang="dan">Mars 2011</p>
 <p>Innihald <em type="bold">1 </em></p>
 <p><em type="bold">Framskrivingar </em></p>
-<p><em type="bold">Tí er ein nýskipan neyðug </em><em type="bold">1. Framskrivingar – Tí er ein nýskipan neyðug </em><em type="bold">2. Politisk viðgerð </em><em type="bold">3. Bundin persónlig samansparing </em><em type="bold">p </em><em type="bold">g </em><em type="bold">p </em><em type="bold">4. Almannapensjón </em><em type="bold">5. </em></p>
-<p><em type="bold">Fíggjarlig ávirkan hjá einstaka pensjónistinum </em><em type="bold">6. </em></p>
+<p><em type="bold">Tí er ein nýskipan neyðug1. Framskrivingar – Tí er ein nýskipan neyðug2. Politisk viðgerð3. Bundin persónlig samansparingpgp4. Almannapensjón5. </em></p>
+<p><em type="bold">Fíggjarlig ávirkan hjá einstaka pensjónistinum6. </em></p>
 <p><em type="bold">Búskaparliga ávirkanin av pensjónsnýskipanini </em>2 </p>
 <p xml:lang="dan">Demografiskar framskrivingargg</p>
 <p><em type="bold">Arbeiðsfør fyri hvønn pensjónist </em></p>
-<p><em type="bold">Arbeiðsfør fyri hvønn pensjóni </em><em type="bold">3 </em><em type="bold">4 </em><em type="bold">1 </em><em type="bold">2 </em><em type="bold">0 </em><em type="bold">2010 </em><em type="bold">2020 </em><em type="bold">2030 </em><em type="bold">2040 </em></p>
-<p><em type="bold">Væntað </em><em type="bold">livitíð hjá 60 </em><em type="bold">ára gomlum </em></p>
-<p><em type="bold">Ár sum </em><em type="bold">pensjónistur </em><em type="bold">ára gomlum </em><em type="bold">1971-75 </em>79,012,0 <em type="bold">2001-05 </em>82,015,0 <em type="bold">2045 50 </em>86 519 5 <em type="bold">2045-50 </em>86,519,3 </p>
+<p><em type="bold">Arbeiðsfør fyri hvønn pensjóni341202010202020302040 </em></p>
+<p><em type="bold">Væntað livitíð hjá 60 ára gomlum </em></p>
+<p><em type="bold">Ár sum pensjónisturára gomlum1971-75 </em>79,012,0 <em type="bold">2001-05 </em>82,015,0 <em type="bold">2045 50 </em>86 519 5 <em type="bold">2045-50 </em>86,519,3 </p>
 <p>Árliga hallið á fíggjarlógini verður 1,3 mia. kr.gggjg</p>
 <p><em type="bold">Eldraútreiðslur </em></p>
 <p><em type="bold">Í mió. kr. </em></p>
-<p><em type="bold">Eldraútreiðslur </em><em type="bold">í % av BTÚ </em></p>
-<p><em type="bold">Hall á FL </em><em type="bold">hvørt ár </em><em type="bold">2012 </em><em type="bold">1.359 </em><em type="bold">10,46 </em><em type="bold">- </em><em type="bold">2020 </em><em type="bold">1.658 12,76 </em><em type="bold">299 </em><em type="bold">2030 </em><em type="bold">2.088 16,06 </em><em type="bold">729 </em><em type="bold">2040 </em><em type="bold">2 577 </em><em type="bold">19 82 </em><em type="bold">1 217 </em></p>
+<p><em type="bold">Eldraútreiðslurí % av BTÚ </em></p>
+<p><em type="bold">Hall á FL hvørt ár20121.35910,46-20201.658 12,76299 20302.088 16,06729 20402 57719 821 217 </em></p>
 <p>Sk tt t ý tiðúl ið 50 %</p>
 <p type="listitem">BTÚ Ui kiðjtk20402.57719,821.217 20502.64220,331.283</p>
 <p type="listitem">Skattatrýstið er nú umleið 50 % av BTÚ. Um einki verður gjørt, so ve sur  skattatrýstið upp til 60 % av BTÚ.</p>
@@ -56,11 +56,11 @@
 <p type="listitem">Ígpj,samhaldsfasta. Í eini skiftistíð fram til 2017 verður ein minsta upphædd varðveitt, sum  ikki kann mótroknast í.</p>
 <p>SAMEG verður hækkaður frá 2.600 kr./mð. í dag til 3.000 kr./mð. frá 2011. Hækkingin verður goldin við at hækka gjaldið til SAMEG við 0 25%</p>
 <p>Hækkingin verður goldin við at hækka gjaldið til SAMEG við ,.</p>
-<p><em type="bold">Grund- </em><em type="bold">upphædd </em></p>
-<p><em type="bold">Viðbót Tils. </em><em type="bold">eftir </em><em type="bold">pp </em><em type="bold">/Minsta </em><em type="bold">upphædd </em><em type="bold">/Fólka- </em><em type="bold">pensjón </em></p>
-<p><em type="bold">Viðbót t. </em><em type="bold">áv. pens. </em></p>
+<p><em type="bold">Grund-upphædd </em></p>
+<p><em type="bold">Viðbót Tils. eftir pp/Minstaupphædd/Fólka-pensjón </em></p>
+<p><em type="bold">Viðbót t. áv. pens. </em></p>
 <p><em type="bold">SAMEG </em></p>
-<p><em type="bold">Tils. </em><em type="bold">um árið </em><em type="bold">skatt </em><em type="bold">um mð. </em></p>
+<p><em type="bold">Tils. um áriðskatt um mð. </em></p>
 <p>Stakur (Verandi)50.02838.2687.41632.280127.9929.695</p>
 <p>Stakur (Eftir)78.00057.240036.900172.1409.941</p>
 <p>Gift (Verandi)39.75629.6163.70832.280105.3608.020</p>
@@ -75,8 +75,8 @@
 <p type="listitem">Skiftisskipan fyri mótrokningina verður  galdandi frá 2011 til 2020.201445 %56.000201540 %54.000201640 %52 000</p>
 <p type="listitem">Frá 2020 er mótrokningarskipanin komin á  mál. Tá verður mótroknað við 30 % av  allari inntøku yvir 30.000 kr./ár.201640 %52.201740 %50.0002018‐201935 %40.0002020ffti30 %30 000</p>
 <p>Eitt lágt mótrokningarprosent tryggjar ein rímiligan marginalskatt hjá pensjónistum. Við verandi skipan er samlaða % Í2020 og frameftir30 %30.mótrokningar- og skattaprosentið 75 %. Í 2020 er samlaða mótrokningar- og skattaprosentið komið niður á 59%.11</p>
-<p><em type="bold">Samanseting av inntøku (stakur, 30% y 30t) </em>200.000250.000300.000 <em type="bold">n </em><em type="bold">in </em><em type="bold">g </em><em type="bold">(kr./ár) </em></p>
-<p><em type="bold">Samanseting av inntøku (stakur, 30% y 30t) </em>100.000150.000200.000 <em type="bold">tt og </em><em type="bold">mótr </em><em type="bold">ok </em><em type="bold">n </em>050.000 <em type="bold">ø </em><em type="bold">ka </em><em type="bold">ef </em><em type="bold">ti </em><em type="bold">r </em><em type="bold">sk </em><em type="bold">a </em><em type="bold">t </em></p>
+<p><em type="bold">Samanseting av inntøku (stakur, 30% y 30t) </em>200.000250.000300.000 <em type="bold">ning (kr./ár) </em></p>
+<p><em type="bold">Samanseting av inntøku (stakur, 30% y 30t) </em>100.000150.000200.000 <em type="bold">tt og mótrokn </em>050.000 <em type="bold">øka eftir skat </em></p>
 <p xml:lang="dan"><em type="bold">Innt </em></p>
 <p><em type="bold">Egininntøka áðrenn skatt (kr./ár) </em></p>
 <p>SAMEG eftir skatt</p>
@@ -88,13 +88,13 @@
 <p>Egininntøka eftir skatt</p>
 <p>So hvørt sum egininntøkan hjá pensjónistinum veksur(grøna arealið), so minkar (sólgula arealið). Pensjónisturin fær altíð fulla upphædd frá SAMEG(bláa arealið). Samlaða inntøkan hjá persónum veksur javnt og uttan lop – t.e. persónurin fær altíð vinning av at hava eina eyka inntøku frá arbeiði ella egnari eftirløn.12</p>
 <p><em type="bold">Broyting í tøku inntøkuni (støk </em>) 1.000 </p>
-<p><em type="bold">Broyting í tøku inntøkuni (støk </em>21% kommunuskatt- 500 <em type="bold">ø </em><em type="bold">ku (k </em><em type="bold">r./ </em><em type="bold">m </em><em type="bold">ð. </em><em type="bold">) </em>(500)020.00040.00060.00080.000100.000120.000140.000160.000180.000200.000220.000240.000260.000280.000300.000320.000340.000360.000 <em type="bold">g </em><em type="bold">í t </em><em type="bold">ø </em><em type="bold">kar </em><em type="bold">i innt </em><em type="bold">ø </em>(1.500) (1.000) </p>
-<p><em type="bold">H </em><em type="bold">æ </em><em type="bold">kki </em><em type="bold">n </em><em type="bold">g </em></p>
+<p><em type="bold">Broyting í tøku inntøkuni (støk </em>21% kommunuskatt- 500 <em type="bold">øku (kr./mð.) </em>(500)020.00040.00060.00080.000100.000120.000140.000160.000180.000200.000220.000240.000260.000280.000300.000320.000340.000360.000 <em type="bold">g í tøkari inntø </em>(1.500) (1.000) </p>
+<p><em type="bold">Hækking </em></p>
 <p><em type="bold">Egininntøka umframt fólkapensjón og SAMEG (kr./ár) </em></p>
 <p>Nýskipan - Verandi</p>
 <p>Teir bláu stabbarnir vísa, hvussu tøka inntøkan hjá einum pensjónisti broytist við pensjónsnýskipanini í 2012.13 600</p>
-<p><em type="bold">Broyting í tøku inntøkuni (gift </em>)21% kommunuskatt - 200 400 <em type="bold">u </em><em type="bold">( </em><em type="bold">k </em><em type="bold">r./mð.) </em>(600) (400) (200)020.00040.00060.00080.000100.000120.000140.000160.000180.000200.000220.000240.000260.000280.000300.000 <em type="bold">tøkari in </em><em type="bold">ntøk </em><em type="bold">u </em>(1 200) (1.000) (800) (600) </p>
-<p><em type="bold">Hæ </em><em type="bold">k </em><em type="bold">k </em><em type="bold">in </em><em type="bold">g í </em>(1.20 </p>
+<p><em type="bold">Broyting í tøku inntøkuni (gift </em>)21% kommunuskatt - 200 400 <em type="bold">u (kr./mð.) </em>(600) (400) (200)020.00040.00060.00080.000100.000120.000140.000160.000180.000200.000220.000240.000260.000280.000300.000 <em type="bold">tøkari inntøku </em>(1 200) (1.000) (800) (600) </p>
+<p><em type="bold">Hækking í </em>(1.20 </p>
 <p><em type="bold">Egininntøka umframt fólkapensjón og SAMEG (kr./ár) </em></p>
 <p>Nýskipan - Verandi</p>
 <p>Teir bláu stabbarnir vísa, hvussu tøka inntøkan hjá einum pensjónisti broytist við pensjónsnýskipanini 2012.14</p>
@@ -117,20 +117,20 @@
 <p><em type="bold">Pensjónsaldurin verður ikki viðgjørdur á hesum sinni. </em></p>
 <p><em type="bold">Pensjónsaldurin verður ikki viðgjørdur á hesum sinni. </em></p>
 <p>Politiska fylgibólkurin hevur gjørt soljóðandi semju:“ <em type="italic">Ætlanin er at politiski fylgibólkurin skal arbeiða víðari seinni við </em></p>
-<p><em type="italic">Ætlanin er, at politiski fylgibólkurin skal arbeiða víðari seinni </em><em type="italic">pensjónsaldrinum, m. a. at arbeiða við virknum eldrapolitikki og við at gera tað lættari hjá fólki at fáa eitt meira smidligt og stigvíst skifti frá arbeiðslívinum til pensjónistalívið. </em>” <em type="italic">p </em><em type="italic">j </em>17 </p>
+<p><em type="italic">Ætlanin er, at politiski fylgibólkurin skal arbeiða víðari seinni pensjónsaldrinum, m. a. at arbeiða við virknum eldrapolitikki og við at gera tað lættari hjá fólki at fáa eitt meira smidligt og stigvíst skifti frá arbeiðslívinum til pensjónistalívið. </em>” <em type="italic">pj </em>17 </p>
 <p><em type="italic">Eldraútreiðslurnar verða </em></p>
 <p><em type="bold">Eldraútreiðslur </em></p>
-<p><em type="italic">Eldraútreiðslurnar </em><em type="italic">1.283 mió. kr./ár størri um onki verður gjørt. </em></p>
-<p><em type="italic">Nýskipanin klárar at </em>2 2102.4702.730171921 <em type="italic">ý </em><em type="italic">minka útreiðsluvøksturin við uml. 700 mió. kr., so eldraútreiðslurnar eftir nýskipanina <span type="quote" xml:lang="dan">“bert”</span> veksa </em>1.6901.9502.210131517 <em type="bold">mió. kr </em><em type="bold">. </em></p>
-<p><em type="bold">Pro </em><em type="bold">sen </em><em type="bold">t </em><em type="italic">ý </em><em type="italic">p </em><em type="italic">við uml. 590 mió. kr. </em>1.1701.430911 </p>
+<p><em type="italic">Eldraútreiðslurnar 1.283 mió. kr./ár størri um onki verður gjørt. </em></p>
+<p><em type="italic">Nýskipanin klárar at </em>2 2102.4702.730171921 <em type="italic">ýminka útreiðsluvøksturin við uml. 700 mió. kr., so eldraútreiðslurnar eftir nýskipanina <span type="quote" xml:lang="dan">“bert”</span> veksa </em>1.6901.9502.210131517 <em type="bold">mió. kr. </em></p>
+<p><em type="bold">Prosent </em><em type="italic">ýpvið uml. 590 mió. kr. </em>1.1701.430911 </p>
 <p>Útreiðslur uttan tiltøk</p>
 <p>Uppsparing, skatt og mótr.</p>
-<p xml:lang="dan">Javning <em type="bold">2010 2020 </em><em type="bold">2030 </em><em type="bold">2040 </em><em type="bold">2050 </em></p>
+<p xml:lang="dan">Javning <em type="bold">2010 2020203020402050 </em></p>
 <p>Eldraútreiðslur áðrenn nýskipan1.3591.6582.0882.5772.642</p>
-<p>Vøkstur <em type="italic">299 </em><em type="italic">729 </em><em type="italic">1.217 </em><em type="italic">1.283 </em></p>
+<p>Vøkstur <em type="italic">2997291.2171.283 </em></p>
 <p>Netto inntøku- og útreiðslubroyting av nýskipan64227483692</p>
 <p>Eldraútreiðslur eftir nýskipan1.3581.5941.8622.0941.951</p>
-<p>Vøkstur <em type="italic">0 </em><em type="italic">234 </em><em type="italic">502 </em><em type="italic">734 </em><em type="italic">591 </em></p>
-<p><em type="bold">P </em><em type="bold">t </em><em type="bold">k t i </em><em type="bold">i k b </em><em type="bold">t </em><em type="bold">ið ý ki </em>22%31%40%54%18 </p>
+<p>Vøkstur <em type="italic">0234502734591 </em></p>
+<p><em type="bold">Ptk t ii k btið ý ki </em>22%31%40%54%18 </p>
 <p><em type="bold">Prosent av vøkstri sum minka burtur við nýskipan: </em>22%31%40% </p>
 </body></document>

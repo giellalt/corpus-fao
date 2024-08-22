@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>21199</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2008.11 Budgetanalyse sygehusvæsenet.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Budgetanalyse 20.11.2008 1</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>21141</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2008.11 Budgetanalyse sygehusvæsenet.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Budgetanalyse 20.11.2008 1</p>
 <p xml:lang="dan"><em type="bold">Budgetanalyse af sygehusvæsenet på Færøerne </em>20. november 2008 </p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 2</p>
 <p xml:lang="dan"><em type="bold">Overordnet sammenfatning </em></p>
@@ -394,11 +394,11 @@
 <p xml:lang="dan">Bevillingerne til sygehusvæsenet på Færøerne gives som rene rammebudgetter, hvor der laves selvstændige bevillinger for hvert sygehus samt særlige bevillinger til sygehusbehandling i udlandet (udlandspuljen) og apparatur. Der er ikke knyttet noget krav om aktivitetsniveau til bevillingerne, men udelukkende et krav om budgetoverholdelse og behandling af patienterne svarende til <span type="quote" xml:lang="dan">”nordisk standard”</span> – uden sidstnævnte er defineret nærmere.</p>
 <p xml:lang="dan">Sygehusene er ansvarlige for deres respektive bevillinger, mens driftsansvaret for udlandspuljen og apparaturbevillingen er placeret i Sundhedsministeriet. For sygehusbevillingerne gælder det desuden, at de udelukkende er opdelt i en lønramme og en øvrig driftsramme, mens det indenfor disse er op til sygehuset selv at fordele rammen mellem de direkte aktivitetsafhængige udgifter (løn, medicin m.v.) og de mere grundlæggende udgifter (husleje, bygningsvedligehold, energi m.v.).</p>
 <p xml:lang="dan">I tabellen nedenfor er udviklingen i bevillingerne til de tre sygehuse samlet set beskrevet.</p>
-<p xml:lang="dan"><em type="bold">Tabel 2.2: Udvikling i bevilling og regnskab for de 3 sygehuse 2003-2007 (tkr) </em>2003 2004 2005 2006 2007 a </p>
+<p xml:lang="dan"><em type="bold">Tabel 2.2: Udvikling i bevilling og regnskab for de 3 sygehuse 2003-2007 (tkr) </em>2003 2004 2005 2006 2007 </p>
 <p xml:lang="dan">Bevilling 338.528 361.594 376.969 389.403 406.877 b</p>
 <p xml:lang="dan">Ekstrabevilling 5.334 0 7.350 4.536 7.100 a+b</p>
-<p xml:lang="dan">Bevilling, i alt 343.862 361.594 384.319 393.939 413.977 c</p>
-<p xml:lang="dan">Forbrug, i alt 346.152 373.117 386.265 405.506 439.663 c-(a+b)</p>
+<p xml:lang="dan">343.862 361.594 384.319 393.939 413.977 c</p>
+<p xml:lang="dan">346.152 373.117 386.265 405.506 439.663 c-(a+b)</p>
 <p xml:lang="dan">Merforbrug 2.290 11.523 1.946 11.567 25.686 c-a</p>
 <p xml:lang="dan">Merforbrug, ekskl. ekstrabevilling 7.624 11.523 9.296 16.103 32.786 a/c-1 ∆Bevilling i pct. af forbrug året før - 4,5 % 1,0 % 0,8 % 0,3 %</p>
 <p xml:lang="dan">Kilde: Sundhedsministeriet.</p>
@@ -411,8 +411,8 @@
 <p xml:lang="dan"><em type="bold">Tabel 2.3: Udvikling i bevilling og regnskab for Landssygehuset 2003-2007 (tkr) </em>2003 2004 2005 2006 2007 </p>
 <p xml:lang="dan">Bevilling 259.272 277.421 290.434 301.469 315.143</p>
 <p xml:lang="dan">Ekstrabevilling 3.030 0 6.150 2.644 7.100</p>
-<p xml:lang="dan">Bevilling, i alt 262.302 277.421 296.584 304.113 322.243</p>
-<p xml:lang="dan">Forbrug, i alt 264.295 287.640 297.947 313.887 342.001</p>
+<p>262.302 277.421 296.584 304.113 322.243</p>
+<p>264.295 287.640 297.947 313.887 342.001</p>
 <p xml:lang="dan">Merforbrug 1.993 10.219 1.363 9.774 19.758</p>
 <p xml:lang="dan">Merforbrug, ekskl. ekstrabevilling 5.023 10.219 7.513 12.418 26.858 ∆Bevilling i pct. af forbrug året før - 5,0 % 1,0 % 1,2 % 0,4 %</p>
 <p xml:lang="dan">Kilde: Sundhedsministeriet.</p>
@@ -424,8 +424,8 @@
 <p xml:lang="dan"><em type="bold">Tabel 2.4: Udvikling i bevilling og regnskab for Klaksvig Sygehus 2003-2007 (tkr) </em>2003 2004 2005 2006 2007 </p>
 <p xml:lang="dan">Bevilling 45.787 48.034 49.406 49.618 51.598</p>
 <p xml:lang="dan">Ekstrabevilling 723 0 0 970 0</p>
-<p xml:lang="dan">Bevilling, i alt 46.510 48.034 49.406 50.588 51.598</p>
-<p xml:lang="dan">Forbrug, i alt 46.671 48.867 49.648 51.660 55.177</p>
+<p>46.510 48.034 49.406 50.588 51.598</p>
+<p>46.671 48.867 49.648 51.660 55.177</p>
 <p xml:lang="dan">Merforbrug 161 833 242 1.072 3.579</p>
 <p xml:lang="dan">Merforbrug, ekskl. ekstrabevilling 884 833 242 2.042 3.579 ∆Bevilling i pct. af forbrug året før - 2,9 % 1,1 % -0,1 % -0,1 %</p>
 <p xml:lang="dan">Kilde: Sundhedsministeriet.</p>
@@ -435,8 +435,8 @@
 <p xml:lang="dan"><em type="bold">Tabel 2.5: Udvikling i bevilling og regnskab for Suderø Sygehus 2003-2007 (tkr) </em>2003 2004 2005 2006 2007 </p>
 <p xml:lang="dan">Bevilling 33.469 36.139 37.129 38.316 40.136</p>
 <p xml:lang="dan">Ekstrabevilling 1.581 0 1.200 922 0</p>
-<p xml:lang="dan">Bevilling, i alt 35.050 36.139 38.329 39.238 40.136</p>
-<p xml:lang="dan">Forbrug, i alt 35.186 36.610 38.670 39.959 42.485</p>
+<p>35.050 36.139 38.329 39.238 40.136</p>
+<p>35.186 36.610 38.670 39.959 42.485</p>
 <p xml:lang="dan">Merforbrug 136 471 341 721 2.349</p>
 <p xml:lang="dan">Merforbrug, ekskl. ekstrabevilling 1.717 471 1.541 1.643 2.349 ∆Bevilling i pct. af forbrug året før - 2,7 % 1,4 % -0,9 % 0,4 %</p>
 <p xml:lang="dan">Kilde: Sundhedsministeriet.</p>
@@ -444,11 +444,11 @@
 <p xml:lang="dan">Budgetanalyse 20.11.2008 38 forbruget i 2005. Dette skyldes dog formentlig tillægsbevillingen på 1,2 mio.kr. i 2005.</p>
 <p xml:lang="dan"><em type="italic">Øvrige bevillinger </em></p>
 <p xml:lang="dan">Udover sygehusbevillingerne findes der som nævnt en separat bevilling til behandling i udlandet. I tabel 2.6 nedenfor er udviklingen i udgifter til denne pulje beskrevet. Samlet har der været en stigning på 28 pct. over perioden 2003-2007, hvor særligt transportudgifterne er steget meget. Den relative større stigning i transportudgifterne kan indikere en ændring i behandlingsmønstre, hvor der anvendes flere ambulante besøg i udlandet. Det kan desuden også være et udslag af praksis omkring, at man hjemtager patienterne til Færøerne, hvis der er mere end 14 dage mellem behandlinger.</p>
-<p xml:lang="dan"><em type="bold">Tabel 2.6: Udvikling i udgifter til behandling i udlandet, 2003-2007 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em><em type="bold">2003-07 </em></p>
+<p xml:lang="dan"><em type="bold">Tabel 2.6: Udvikling i udgifter til behandling i udlandet, 2003-2007 2003 2004 2005 2006 2007 2003-07 </em></p>
 <p xml:lang="dan">Behandlinger 68.174 70.220 70.878 74.610 81.201 19 pct.</p>
 <p xml:lang="dan">Transport 12.496 14.588 17.501 17.471 20.860 67 pct.</p>
 <p>Hotel 10.409 11.700 11.292 11.621 14.373 38 pct.</p>
-<p xml:lang="dan">Total 91.079 96.508 99.671 103.702 116.434 28 pct.</p>
+<p xml:lang="dan">91.079 96.508 99.671 103.702 116.434 28 pct.</p>
 <p xml:lang="dan">Kilde: Finansministeriet.</p>
 <p xml:lang="dan">Endelig er udgifterne til medicotekniske apparater beskrevet i tabel 2.7.</p>
 <p xml:lang="dan"><em type="bold">Tabel 2.7: Udvikling i udgifter til medicotekniske apparater 2003-2008 (tdkk) </em>2003 2004 2005 2006 2007 2008 </p>
@@ -468,7 +468,7 @@
 <p xml:lang="dan">At Færøerne er et samfund med ca. 50.000 indbyggere betyder, at den enkelte borger uvægerligt er meget tæt på den politiske proces. Hvis ikke fordi de selv er direkte involverede, så på grund af personlige bekendtskaber med politikere, eller fordi man mødes tilfældigt i det daglige. Dermed bliver beslutningstagerne også jævnligt konfronteret med konkrete historier og oplevelser fra borgerne, hvilket igen kan være med til at påvirke den politiske agenda. Det kan således være svært at argumentere for en ellers fornuftig budgetnedskæring, når man står overfor de folk, som det påvirker direkte.</p>
 <p xml:lang="dan"><em type="bold">Finanslovprocessen </em></p>
 <p xml:lang="dan">I det følgende afsnit gennemgås processen omkring forhandlingen af den årlige finanslov.</p>
-<p xml:lang="dan">Den færøske finanslov tager afsæt i de realiserede tal for de tre foregående år og det indeværende år samt bevillingerne for det kommende år. Der er således i høj grad tale om en tilbageskuende proces, hvor man tager udgangspunkt i resultaterne for tidligere år. Tilsvarende er sygehusenes budgetter også udelukkende fo- <span type="quote" xml:lang="dan">”Man møder jo tit ministeren eller andre politikere nede i supermarkedet…”</span> <span type="quote" xml:lang="dan">”Det er praktisk talt umuligt at afskedige medarbejdere, selv hvis de ikke leverer…”</span></p>
+<p xml:lang="dan">Den færøske finanslov tager afsæt i de realiserede tal for de tre foregående år og det indeværende år samt bevillingerne for det kommende år. Der er således i høj grad tale om en tilbageskuende proces, hvor man tager udgangspunkt i resultaterne for tidligere år. Tilsvarende er sygehusenes budgetter også udelukkende fo- <span type="quote" xml:lang="dan">”Det er praktisk talt umuligt at afskedige medarbejdere, selv hvis de ikke leverer…”</span></p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 40 kuserede på det kommende år. I figur 2.1 er processen for vedtagelse af den færøske finanslov illustreret.</p>
 <p xml:lang="dan"><em type="bold">Figur 2.1: Tidslinje for vedtagelse af finansloven </em></p>
 <p><em type="bold">Jan </em></p>
@@ -550,22 +550,22 @@
 <p xml:lang="dan"><em type="bold">Tabel 2.8: Realiseret overenskomsteffekt </em>2006/2007 2007/2008 </p>
 <p xml:lang="dan">Realiseret overenskomsteffekt 3,9 pct. 4,5 pct.</p>
 <p xml:lang="dan">Lønfremskrivningsfaktor 1,7 pct. 3,75 pct.</p>
-<p xml:lang="dan">Forskel 2,2 pct. 0,75 pct.</p>
+<p xml:lang="dan">2,2 pct. 0,75 pct.</p>
 <p xml:lang="dan">Kilde: Finansministeriet.</p>
 <p xml:lang="dan">Dette betyder, at for sygehusene, hvis budget i høj grad hviler på beregninger af det eksisterende personales forventede lønninger i det kommende år, vil effekterne af højere lønninger have vidtgående konsekvenser for budgetoverholdelsen.</p>
 <p xml:lang="dan">Således kan effekten illustreres med et simpelt regneeksempel:</p>
 <p xml:lang="dan"><em type="bold">Tabel 2.9: Eksempel på konsekvens af overenskomsteffekter </em></p>
 <p xml:lang="dan">Budget</p>
 <p xml:lang="dan">År 0</p>
-<p xml:lang="dan">Frem- skrivnings faktor</p>
+<p xml:lang="dan">skrivnings faktor</p>
 <p xml:lang="dan">Budget</p>
 <p xml:lang="dan">År 1</p>
-<p xml:lang="dan">Realiseret stigning</p>
-<p xml:lang="dan">Afledt budget år 1</p>
-<p xml:lang="dan">Overskri- delse</p>
+<p xml:lang="dan">stigning</p>
+<p xml:lang="dan">budget år 1</p>
+<p xml:lang="dan">delse</p>
 <p xml:lang="dan">Løn 75 2 pct. 76,5 4 pct. 78,0 1,5</p>
 <p xml:lang="dan">Øvrig drift 25 2 pct. 25,5 2 pct. 25,5 0,0</p>
-<p xml:lang="dan">I alt 100 - 102 - 103,5 1,5</p>
+<p>100 - 102 - 103,5 1,5</p>
 <p xml:lang="dan">I den skitserede situation har sygehuset tre valgmuligheder: man kan nedbringe lønnen gennem afskedigelser og/eller nedskæringer på arbejdstid, man kan hente det manglede beløb til løn på den øvrige drift, eller man kan bede om en tillægsbevilling. Allerede her skal man altså begynde at ombryde sit budget for at kunne imødegå effekter, som måske burde være forudset i budgetteringsfasen.</p>
 <p xml:lang="dan">Betragtes udelukkende årene 2006 til 2008 kan tabel 2.10 opstilles. Tabellen viser udviklingen i lønbudgetter og -udgifter, hvor regnskabstal for 2008 er opgjort som bevilling plus ekstrabevilling. De faktiske regnskabs- og budgettal fremgår, ligesom stigningen i forhold til det foregående år er opgjort i hhv. tkr. og i procent. Sidst i tabellen er lønfremskrivningsfaktoren sammenholdt med den realiserede overenskomsteffekt.</p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 46</p>
@@ -598,7 +598,7 @@
 <p xml:lang="dan">Som det fremgik af afsnittet om grundforudsætninger, har der i årerne 2003 og 2005-2007 været givet tillægsbevillinger til sygehusvæsenet. Disse bevillinger har typisk ligget i størrelsesordenen 1-2 pct. af den oprindelige bevilling, svarende til mellem 2,6 og 7,1 mio.kr. 16 Beregnet som (3,9 pct. – 1,7 pct.)* 3,465 mio. kr. = 7,6 mio. kr.</p>
 <p xml:lang="dan"><em type="bold">Konklusion og anbefaling </em></p>
 <p xml:lang="dan">De involverede ministerier har gennem en årrække underestimeret den faktiske overenskomsteffekt på sygehusområdet, hvilket har resulteret i løbende overskridelser af lønbudgetterne på de tre sygehuse. For den enkelte budgetansvarlige virker det hurtigt meget demotiverende, at det planlagte budget allerede tidligt på året sprænges, ligesom der kan blive en tendens til at forklare alle overskridelser på lønbudgettet med <span type="quote" xml:lang="dan">”overenskomsteffekt”</span>. Der kan dog samtidig være en stor politisk signalværdig i ikke at budgettere med for høje forventede lønstigninger på finansloven, da disse ellers uundgåeligt vil indgå i fagforeningernes forventninger og udspil til lønforhandlingerne. Det bør desuden bemærkes, at overenskomsteffekten kun i begrænset omfang kan forklare de samlede årlige budgetoverskridelser.</p>
-<p xml:lang="dan"><em type="italic">Valcon anbefaler derfor, at man indfører en <span type="quote" xml:lang="dan">”automatisk”</span> regulering af bevillingerne, som afspejler den faktiske effekt af overenskomsterne. Dermed vil man fjerne den uigennemsigtighed, der hviler over bevægelserne på lønbudgettet, ligesom det vil give arbejdsgiveren (Finansministeriet) et yderligere incitament til tilbageholdenhed, da højere lønstigninger umiddelbart kan aflæses på bevillingerne. I Danmark arbejder man i regionerne med forskellige metoder for sådanne reguleringer, disse kan muligvis bruges som inspiration for Færøerne, om end der skal tages højde for forskellene i den strukturelle rolle- og ansvarsfordeling. </em><span type="quote" xml:lang="dan">”Når man beder om en tillægsbevilling i Lagtinget, så får man den også…”</span> </p>
+<p xml:lang="dan">Valcon anbefaler derfor, at man indfører en <span type="quote" xml:lang="dan">”automatisk”</span> regulering af bevillingerne, som afspejler den faktiske effekt af overenskomsterne. Dermed vil man fjerne den uigennemsigtighed, der hviler over bevægelserne på lønbudgettet, ligesom det vil give arbejdsgiveren (Finansministeriet) et yderligere incitament til tilbageholdenhed, da højere lønstigninger umiddelbart kan aflæses på bevillingerne. I Danmark arbejder man i regionerne med forskellige metoder for sådanne reguleringer, disse kan muligvis bruges som inspiration for Færøerne, om end der skal tages højde for forskellene i den strukturelle rolle- og ansvarsfordeling. <span type="quote" xml:lang="dan">”Når man beder om en tillægsbevilling i Lagtinget, så får man den også…”</span></p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 48</p>
 <p xml:lang="dan">At tillægsbevillingerne falder så fast, og oven i købet ofte ansøges allerede i februar måned, tyder på en indgroet tilbøjelighed til at løse umiddelbare ressourceudfordringer ved yderligere tilførsel af budgetkroner.</p>
 <p xml:lang="dan">Såfremt den tidlige tillægsbevilling skyldes den tidligere nævnte udfordring med overenskomsteffekter, er det naturligvis forståeligt, men intet i de gennemførte interviews tydede på, at dette er den direkte årsag. En anden forklaring kunne være, at man på sygehusene ikke får taget fuldt højde for den endelige bevilling, der er resultatet af finanslovforhandlingerne, men fortsat agerer i forhold til det oprindelige budgetforslag, man udarbejdede. Dette kan ske mere eller mindre ufrivilligt, f.eks. som følge af den personalesammensætning man har – og som man ikke umiddelbart kan ændre på, jf. afsnittet om andre strukturelle forhold.</p>
@@ -620,12 +620,12 @@
 <p xml:lang="dan"><em type="bold">Den økonomiske udvikling – et overblik </em></p>
 <p xml:lang="dan">Dette afsnit beskriver kort og helt overordnet den samlede udvikling i sygehusøkonomien på Færøerne i perioden 2003 til 2007. Den samlede udvikling i driftsudgifter for Landssygehuset, Klaksvig Sygehus og Suderø Sygehus er opgjort i nedenstående tabel 3.1.</p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 51</p>
-<p xml:lang="dan"><em type="bold">Tabel 3.1: Samlede sygehusudgifter i mio.kr., 2003 til 2007 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em><em type="bold">2003-07 </em></p>
+<p xml:lang="dan"><em type="bold">Tabel 3.1: Samlede sygehusudgifter i mio.kr., 2003 til 2007 2003 2004 2005 2006 2007 2003-07 </em></p>
 <p xml:lang="dan">Løn 303.367 324.162 337.052 346.526 370.752 22 pct.</p>
-<p xml:lang="dan">Vare- og tjenesteydelser 95.911 103.670 108.239 116.081 131.382 37 pct. <em type="italic">- heraf medicin </em><em type="italic">14.406 </em><em type="italic">15.820 </em><em type="italic">18.150 </em><em type="italic">21.954 </em><em type="italic">25.048 </em><em type="italic">74 pct. </em></p>
+<p xml:lang="dan">Vare- og tjenesteydelser 95.911 103.670 108.239 116.081 131.382 37 pct. <em type="italic">- heraf medicin 14.406 15.820 18.150 21.954 25.048 74 pct. </em></p>
 <p xml:lang="dan">Andre driftsudgifter 10.146 10.652 7.231 9.897 6.233 -39 pct.</p>
 <p xml:lang="dan">Indtægter -63.272 -65.368 -66.257 -67.000 -68.703 9 pct.</p>
-<p xml:lang="dan">Forbrug, i alt 346.152 373.116 386.265 405.504 439.663 27 pct.</p>
+<p xml:lang="dan">346.152 373.116 386.265 405.504 439.663 27 pct.</p>
 <p xml:lang="dan">Note: Medicin har ikke været mulig at isolere på Suderø Sygehus.</p>
 <p xml:lang="dan">Tabellen viser de samlede udgifter til sygehusdriften fordelt på løn, vare- og tjenesteydelser, herunder udviklingen i medicinudgifterne, andre driftsudgifter samt indtægter. Endvidere er den procentvise ændring i udgifterne i perioden opgjort.</p>
 <p xml:lang="dan">Udviklingen i udgifterne er hovedsageligt drevet af en stigning i udgifterne til løn på 22 pct. og en stigning i vare- og tjenesteydelser på 37 pct., hvorunder andelen af udgifter til medicin er steget 74 pct. Den relativt større stigningstakt for vare- og tjenesteydelser betyder, at denne post udgør en stigende andel i det samlede regnskab.</p>
@@ -642,7 +642,7 @@
 <p xml:lang="dan"><em type="bold">Konklusion og anbefaling </em></p>
 <p xml:lang="dan">Det nuværende grundlag for intern økonomistyring må anses som værende problemfyldt for den fremadrettede økonomistyring for både sygehusledelse og afdelingsledelser. Den kvalitative analyse har ikke givet indtryk af bevidst dårlig økonomistyring, men der opretholdes dårlig budgetdisciplin samtidigt med, at ikke eksisterer et robust fundament for god fremadrettet økonomistyring.</p>
 <p xml:lang="dan"><em type="italic">Valcon anbefaler derfor, at man udarbejder klare retningslinjer, klar ansvarsfordeling, klare instrukser til de budgetansvarlige og vigtigst af alt skaber gennemsigtighed i økonomien – så det fremgår, hvad får man for pengene! </em></p>
-<p xml:lang="dan"><em type="italic">Mere herom i næste afsnit. </em><span type="quote" xml:lang="dan">”Det er svært at påvise, om udviklingen måske kunne være undgået …”</span> </p>
+<p xml:lang="dan">Mere herom i næste afsnit. <span type="quote" xml:lang="dan">”Det er svært at påvise, om udviklingen måske kunne være undgået …”</span></p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 53</p>
 <p xml:lang="dan"><em type="bold">Kritiske drivere for den økonomiske udvikling </em></p>
 <p xml:lang="dan">Analysen fokuserer i dette afsnit på at identificere og dokumentere de trends og kritiske drivere, der påvirker udviklingen i sygehusudgifterne. På baggrund af de gennemførte interviews og gennemgang af tilgængelige regnskabsoplysninger, beskrives de mest centrale drivere – fra den overordnede bevilligende myndighed over medicin og overenskomsteffekter til den daglige detailstyring på sygehuset.</p>
@@ -676,8 +676,8 @@
 <p xml:lang="dan">Ansættelsen af nye læger er beskrevet som værende netværksdrevet. Det vil sige, at det lægefaglige netværk aktivt bruges til at udsøge kandidater til fremtidige stillinger. Der er således en stor bevidsthed om hvilke læger, der typisk i Danmark kan tiltrækkes til stillinger på Færøerne – oftest flere år i forvejen. Dette må anses som en god og proaktiv måde at sikre rekrutteringen af nye læger. Men der er flere faktorer, der umiddelbart synes udeladt i udsøgnings- og ansættelsesproceduren, og som kan være relevante at inddrage.</p>
 <p xml:lang="dan">Der kan med fordel inddrages direkte konsekvensanalyser ved nyansættelser – både med hensyn til økonomi og patientgrundlag. Hvad koster det at ansætte ekstra personale? Ansættelser af nye læger kan medføre en række indirekte udgifter i form af investeringer i nyt apparatur og andet udstyr, men reelt også påvirke behandlingstærsklen for det enkelte speciale. Der er således givet udtryk for, at der ofte identificeres et nyt eller mere nuanceret sygdomsbillede som følge af nyansatte speciallæger. Endvidere kræver et fuldt beredskab for et givent speciale, at der typisk opretholdes tre lægestillinger.</p>
 <p xml:lang="dan">Dette skal ses i sammenhæng med, at nyansættelser kan ske uden direkte politisk indflydelse på, hvilke specialer eller behandlinger man på politisk niveau ønsker at stille til rådighed på Færøerne. Ønsker man således et fuldt udbygget sundhedsvæsen? Og kan man reelt opretholde en given specialiststilling med det eksisterende befolkningsgrundlag?</p>
-<p xml:lang="dan">Der er i interviewfasen peget på, at man ønsker at opretholde 20-25 specialer på Færøerne. Sundhedsstyrelsens i Danmark anbefaler i forhold til danske standarder, at: <em type="italic">”For at sikre et højt kvalitetsniveau i behandlingen har Sundhedsstyrelsen derfor – på baggrund af anbefalinger fra samtlige lægelige selskaber – som altovervejende hovedregel anbefalet et befolkningsunderlag på 200-250.000 indbyggere for ba- </em><span type="quote" xml:lang="dan">”Nyansættelser er en bombe under budgettet …”</span> <span type="quote" xml:lang="dan">”Specialedækningen er afhængig af hvem man kan få …”</span> </p>
-<p xml:lang="dan">Budgetanalyse 20.11.2008 57 <em type="italic">sisbehandlinger. For specialet intern medicin er det fagligt anbefalede befolkningsunderlag dog væsentligt lavere, nemlig 50-100.000 indbyggere </em><em type="italic">17”. </em></p>
+<p xml:lang="dan">Der er i interviewfasen peget på, at man ønsker at opretholde 20-25 specialer på Færøerne. Sundhedsstyrelsens i Danmark anbefaler i forhold til danske standarder, at: <span type="quote" xml:lang="dan">”For at sikre et højt kvalitetsniveau i behandlingen har Sundhedsstyrelsen derfor – på baggrund af anbefalinger fra samtlige lægelige selskaber – som altovervejende hovedregel anbefalet et befolkningsunderlag på 200-250.000 indbyggere for ba- ”Nyansættelser er en bombe under budgettet …”</span> <span type="quote" xml:lang="dan">”Specialedækningen er afhængig af hvem man kan få …”</span></p>
+<p xml:lang="dan">Budgetanalyse 20.11.2008 57 <em type="italic">sisbehandlinger. For specialet intern medicin er det fagligt anbefalede befolkningsunderlag dog væsentligt lavere, nemlig 50-100.000 indbyggere17”. </em></p>
 <p xml:lang="dan">Ansættelsesproceduren og den afledte specialeplanlægning betyder groft sagt, at den færøske sundhedspolitik på visse områder foregår på den enkelte sygehusafdeling! Og man bør politisk være bevidst om, hvorvidt de tilstedeværende behandlingstilbud og specialiststillinger er realistiske at opretholde i et lille samfund.</p>
 <p>Medicin</p>
 <p xml:lang="dan">Interviewfasen såvel som den efterfølgende regnskabsanalyse har givet et klart billede af medicin som en markant driver for udviklingen i sygehusøkonomien – særligt i forhold til budgetoverskridelser. Udgifter til medicin udgør en voksende andel af de samlede udgifter. Udgifterne er således steget med 74 pct. fra år 2003 til 2007 – og er den enkeltstående udgiftskomponent, der står for den mest iøjnefaldende stigning i analyseperioden. Samlet set udgør udgifterne til medicin kun en mindre andel af den samlede forbrug på sygehusene, men der er i flere interviews peget på udviklingen i medicinudgifterne som problematiske.</p>
@@ -686,7 +686,7 @@
 <p xml:lang="dan">Der er alment anerkendt, at der løbende kommer ny og mere såkaldt livsforlængende medicin på markedet – medicin der også er dyrere at behandle med. Det vurderes, at det særligt er ny medicin til behandling af kræft-, gigt- og sclerosepatienter, der påvirker de samlede medicinudgifter.</p>
 <p xml:lang="dan"><em type="italic">Behandlinger startet uden for Færøerne </em></p>
 <p xml:lang="dan">En anden markant faktor for udviklingen i medicinudgifterne vurderes at være dyre medicinske behandlinger startet i Danmark eller andre steder i udlandet, som fortsættes på Færøerne. Der er således ikke supervision eller anden form for <span type="quote" xml:lang="dan">”kontrol”</span> med de typer af medicinske behandlinger, der igangsættes, når færøske patienter behandles i udlandet – behandlinger der typisk fortsættes, når patienterne vender tilbage til Færøerne. Den samlede sygehusøkonomis beskedne størrelse gør den meget sårbar over for denne type patienter. Dette diskuteres yderligere nedenstående. 17 Kilde: <span type="quote" xml:lang="dan">”Danmark som foregangsland – Kvalitet, service og effektivitet i sygehusvæsenet”</span>,</p>
-<p xml:lang="dan">Sundhedsministeriet. I en senere anbefaling er også intern medicin sat til et befolknings-underlag på 200-250.000 indbyggere. <span type="quote" xml:lang="dan">”Medicinudgifterne er eksploderet …”</span> <span type="quote" xml:lang="dan">”Rigshospitalet igangsætter behandlinger, der fortsætter på Færøerne …”</span></p>
+<p xml:lang="dan">Sundhedsministeriet. I en senere anbefaling er også intern medicin sat til et befolknings-underlag på 200-250.000 indbyggere. <span type="quote" xml:lang="dan">”Rigshospitalet igangsætter behandlinger, der fortsætter på Færøerne …”</span></p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 58</p>
 <p xml:lang="dan"><em type="italic">Behandlingspraksis og disponering af indkøb </em></p>
 <p xml:lang="dan">Den gængse behandlingspraksis er, at ingen patient må stilles ringere end i andre nordiske lande. Det betyder, at der indkøbes medicin, så længe den er påviselig virkningsfuld, og at det suverænt er den enkelte overlæge, der beslutter, om der skal indkøbes særlig (dyr) medicin.</p>
@@ -695,12 +695,12 @@
 <p xml:lang="dan">Endvidere kan der med inspiration fra det danske sygehusvæsen oprettes en pulje for særlig dyr medicin. En sådan pulje vil skabe yderligere fokus på udvikling i medicinudgifterne og formentligt <span type="quote" xml:lang="dan">”udglatte”</span> udviklingen i basismedicin indkøbt og administreret lokalt på sygehuset.</p>
 <p xml:lang="dan">Vedligeholdelse af bygninger og arealer</p>
 <p xml:lang="dan">Vedligeholdelse af bygninger og arealer er blevet identificeret som en kritisk driver for de fremtidige driftsudgifter. De gennemførte interviews har antydet, at der afsættes meget få ressourcer til direkte vedligeholdelse af bygninger på Landssygehuset. Dette skal ses i sammenhæng med den centrale bevilling til udbygning af Landssygehuset, der er angivet i nedenstående tabel 3.2.</p>
-<p xml:lang="dan"><em type="bold">Tabel 3.2: Investeringsbevillinger 2003-2007, mio. DKK. </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em></p>
+<p xml:lang="dan"><em type="bold">Tabel 3.2: Investeringsbevillinger 2003-2007, mio. DKK. 2003 2004 2005 2006 2007 </em></p>
 <p xml:lang="dan">Medicoteknisk udstyr 2.881 1.993 10.045 13.380 7.927</p>
 <p xml:lang="dan">Landssygehuset 55.335 40.053 35.354 28.434 41.784</p>
 <p xml:lang="dan">Klaksvig Sygehus 0 0 1.995 -1.628 991</p>
 <p xml:lang="dan">Suderø Sygehus 0 0 0 0 0</p>
-<p xml:lang="dan">Total 58.216 42.046 47.394 40.186 50.702</p>
+<p>58.216 42.046 47.394 40.186 50.702</p>
 <p xml:lang="dan">Kilde: Finansministeriet.</p>
 <p xml:lang="dan">Tabellen viser, at der fra 2003 til 2007 årligt er anvendt mellem 28 og 55 mio.kr. på udbygningen af Landssygehuset. Samtidigt viser gennemgang af Landssyge- <span type="quote" xml:lang="dan">”Manglende vedligeholdelse kommer til at koste inden længe …”</span></p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 59 husets regnskaber, at driftsudgifter til direkte vedligehold18 udgør i omegnen af 5 mio.kr. i 2007. Dette beløb må ud fra en erfaringsmæssig betragtning anses som meget beskedent i forhold til sygehusbygningernes generelle tilstand, alder og størrelse. Vedligeholdelse af bygninger og arealer kræver typisk både en klar prioritering og en langsigtede planlægning af ressourceanvendelsen – som det er tilfældet med investeringer i udbygning af Landssygehuset. Interviewfasen har umiddelbart givet indtryk af en generel meget kortsigtet planlægning, hvad angår vedligeholdelse, hvad fraværet af flerårig budgettering også understreger.</p>
@@ -708,11 +708,11 @@
 <p xml:lang="dan">Behandling uden for Færøerne (udlandspuljen)</p>
 <p xml:lang="dan">Puljen til behandling af færøske patienter i udlandet har været et selvstændigt fokusområde i nærværende analyse. Fokus har været på den generelle udvikling i udgifterne til den såkaldte udlandspulje og de bagvedliggende drivere for denne udvikling. Puljen til behandlinger i udlandet er som beskrevet budgetmæssigt forankret under Sundhedsministeriet.</p>
 <p xml:lang="dan">Udviklingen i de samlede udgifter til behandling i udlandet er gengivet i nedenstående tabel 3.3.</p>
-<p xml:lang="dan"><em type="bold">Tabel 3.3: Udvikling i udgifter til behandling i udlandet, 2003-2007 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em><em type="bold">2003-07 </em></p>
+<p xml:lang="dan"><em type="bold">Tabel 3.3: Udvikling i udgifter til behandling i udlandet, 2003-2007 2003 2004 2005 2006 2007 2003-07 </em></p>
 <p xml:lang="dan">Behandlinger, kr. 68.174 70.220 70.878 74.610 81.201 19 pct.</p>
 <p>Transport, kr. 12.496 14.588 17.501 17.471 20.860 67 pct.</p>
 <p>Hotel, kr. 10.409 11.700 11.292 11.621 14.373 38 pct.</p>
-<p xml:lang="dan">Total 91.079 96.508 99.671 103.702 116.434 28 pct.</p>
+<p xml:lang="dan">91.079 96.508 99.671 103.702 116.434 28 pct.</p>
 <p xml:lang="dan">Behandlingsophold 1.499 1.774 1.972 1.975 2.277 52 pct.</p>
 <p xml:lang="dan">Raske ledsagere 1.080 1.137 1.452 1.415 1.759 63 pct.</p>
 <p xml:lang="dan">Kilde: Finansministeriet.</p>
@@ -745,12 +745,12 @@
 <p xml:lang="dan"><em type="italic">Patienter behandlet i Danmark 2005 til 2008 </em></p>
 <p xml:lang="dan">For en nærmere kvantitativ analyse af behandlingsaktivitet, behandlingstyper og den generelle udvikling i de samlede udgifter til behandlinger i udlandet, er der indhentet patientdata fra Sundhedsstyrelsen i Danmark. Data omfatter alle patienter med bopæl på Færøerne, der er behandlet på danske offentlige sygehuse i perioden 2005 til 200820. Grundet databrud har det ikke været muligt at indhente data for hele analyseperioden. Endvidere fokuseres der hovedsagelige på den stationære aktivitet.</p>
 <p xml:lang="dan">Nedenstående tabel 3.4 viser, at antallet af stationære kontakter på danske sygehuse har haft en svag faldende tendens siden 2005, mens der i samme periode har været en markant stigning i antallet af ambulante besøg. Denne udvikling er i interviewfasen ligeledes blevet bekræftet.</p>
-<p xml:lang="dan"><em type="bold">Tabel 3.4: Udvikling i antal behandlinger i Danmark, 2005-2008 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em><em type="bold">2008F </em><em type="bold">2005-08 </em></p>
+<p xml:lang="dan"><em type="bold">Tabel 3.4: Udvikling i antal behandlinger i Danmark, 2005-2008 2005 2006 2007 2008F 2005-08 </em></p>
 <p xml:lang="dan">Stationære kontakter 1.242 1.199 1.162 1.128 -9 pct.</p>
 <p xml:lang="dan">Ambulante kontakter 4.001 4.210 4.688 4.970 24 pct.</p>
 <p xml:lang="dan">Kilde: Sundhedsstyrelsen i Danmark.</p>
 <p xml:lang="dan">Tabel 3.5 viser udviklingen i antallet patienter under behandling i Danmark med henholdsvis én ambulant kontakt, 2-5 ambulante kontakter, 6-10 ambulante kontakter og mere end 10 ambulante kontakter i behandlingsforløbet. Tabellen viser, at særligt antallet patienter der har 2-5 ambulante kontakter i behandlingsforløbet har været stigende – ca. 35 pct. er denne gruppe steget fra 2003 til 200721.</p>
-<p xml:lang="dan"><em type="bold">Tabel 3.5: Udvikling i ambulante behandlinger pr. patient i Danmark, 2003-2007 </em><em type="bold">2003 </em><em type="bold">2004 </em><em type="bold">2005 </em><em type="bold">2006 </em><em type="bold">2007 </em>1 kontakt 704 732 776 772 825 2-5 kontakter 757 870 1.014 945 1.029 6-10 kontakter 218 287 297 327 242 10+ kontakter 226 346 309 388 245 </p>
+<p xml:lang="dan"><em type="bold">Tabel 3.5: Udvikling i ambulante behandlinger pr. patient i Danmark, 2003-2007 2003 2004 2005 2006 2007 </em>1 kontakt 704 732 776 772 825 2-5 kontakter 757 870 1.014 945 1.029 6-10 kontakter 218 287 297 327 242 10+ kontakter 226 346 309 388 245 </p>
 <p xml:lang="dan">Kilde: Sundhedsministeriet.</p>
 <p xml:lang="dan">Der er således tegn på en substitution fra stationær til ambulant behandling. Det er i den forbindelse nærliggende at trække en parallel til de totale transportudgifter til behandlinger i udlandet. Påvirker denne udvikling transportudgifterne i opadgå-20 Der er indsamlet data for første halvår 2008. Erfaringsmæssigt er der dog stor forsinkelse i sygehusenes registreringer af behandlinger, hvorfor 2008-tallene er forbundet med en vis usikkerhed. 21 Tabellen medtager årene 2003-2004, der er tilgængelige i Sundhedsministeriet, og hvor der er sket markant udvikling i antallet af patienter i de forskellige kategorier.</p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 64 ende retning? Betyder det, at der med fordel kan hjemtages ambulante behandlinger, således den ambulante del af behandlingen foregår på Færøerne?</p>
@@ -809,7 +809,7 @@
 <p xml:lang="dan">Fordelingen af behandlingerne gennemført i Danmark for de to udvalgte MDCgrupper viser, at der kun er meget lidt systematik omkring patientgrupper, der visiteres til Danmark. Dette behandlingsbillede kan skyldes forskellige faktorer som f.eks. manglende dækning af de aktuelle specialer, manglende kapacitet eller generelle ventelister for de givne diagnosegrupper.</p>
 <p xml:lang="dan"><em type="bold">Konklusion og anbefaling </em></p>
 <p xml:lang="dan">Behandlingsbilledet kan også betyde, at praksis omkring visitation til behandling i Danmark ikke er systematiseret, og at behandling i Danmark er at sidestille med at sende en patient til behandling på en <span type="quote" xml:lang="dan">”søsterafdelingen”</span>. Analysen har således ikke identificeret tilbagevendende problemer med kapacitet eller ventelister. Samtidigt er visitator som beskrevet ikke budgetansvarlig.</p>
-<p xml:lang="dan"><em type="italic">Valcon anbefaler, at denne simple analyse giver anledning til to overvejelser: Skal man helt droppe visse specialer og sende alle patienter til Danmark, eller skal alle patienter så vidt muligt hjemtages til behandling på Færøerne. Dette vil selvsagt have økonomiske konsekvenser i opad eller nedadgående retning for sygehusøkonomien og puljen til behandling i udlandet. </em><span type="quote" xml:lang="dan">”Man kan ikke opretholde beredskabet uden en vis form for aktivitet …”</span> </p>
+<p xml:lang="dan">Valcon anbefaler, at denne simple analyse giver anledning til to overvejelser: Skal man helt droppe visse specialer og sende alle patienter til Danmark, eller skal alle patienter så vidt muligt hjemtages til behandling på Færøerne. Dette vil selvsagt have økonomiske konsekvenser i opad eller nedadgående retning for sygehusøkonomien og puljen til behandling i udlandet. <span type="quote" xml:lang="dan">”Man kan ikke opretholde beredskabet uden en vis form for aktivitet …”</span></p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 68</p>
 <p xml:lang="dan"><em type="bold">Manglende redskaber for god økonomistyring </em></p>
 <p xml:lang="dan">Det er kendetegnende for de områder, der er identificeret på baggrund af interviews og regnskabsanalyse, at der er generel mangel på processer og redskaber for god styring – god økonomistyring er i sig selv den mest kritiske driver for udviklingen i økonomien. Hovedårsagen til de tilbagevendende budgetoverskridelser er, som beskrevet indledningsvist, manglende gennemsigtighed, som først og fremmest skal forbedres, hvis man ønsker en bedre og mere stram styring af sin økonomi – og undgå budgetoverskridelser.</p>
@@ -916,7 +916,7 @@
 <p xml:lang="dan">Udenlandspuljen</p>
 <p xml:lang="dan">Specialeplanlægning05100510</p>
 <p xml:lang="dan"><em type="bold">Tidshorisont </em></p>
-<p xml:lang="dan"><em type="bold">E </em><em type="bold">ff </em><em type="bold">e </em><em type="bold">k </em><em type="bold">t </em></p>
+<p xml:lang="dan"><em type="bold">Effekt </em></p>
 <p xml:lang="dan">Som eksempel er ressourceindsatsen ved indførelse af <em type="italic">udlandspuljen </em>vurderet som værende relativ ressourcetung, mens tidshorisonten er kort, og effekten vurderes også værende meget høj i forhold til både den interne økonomistyring og den generelle gennemsigtighed på både sygehusniveau og politisk niveau. Vurderingen er baseret på Valcons erfaringer samt de generelle indtryk og oplevelser interviews med klinikere, administratorer og politikere har givet. </p>
 <p xml:lang="dan">Budgetanalyse 20.11.2008 79</p>
 <p xml:lang="dan"><em type="bold">Bilag 1 </em></p>
