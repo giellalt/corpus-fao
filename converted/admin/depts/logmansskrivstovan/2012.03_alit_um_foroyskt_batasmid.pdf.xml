@@ -1,4 +1,6 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>10134</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2012.03 Álit um føroyskt bátasmíð.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Mars 2012</p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>10134</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2012.03 Álit um føroyskt bátasmíð.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="dan">Mars 2012</p>
 <p><em type="bold">Føroyskt bátasmíð </em></p>
 <p><em type="bold">Álit um at skapa føroyskum bátasmíði livilíkindi </em></p>
 <p>MENTAMÁLARÁÐIÐ2</p>

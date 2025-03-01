@@ -1,4 +1,6 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>12528</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.setur.fo/media/5057/arbeidsrit_8_2004.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">ISBN 99918-971-7-8 </em></p>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><wordcount>12528</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.setur.fo/media/5057/arbeidsrit_8_2004.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p><em type="bold">ISBN 99918-971-7-8 </em></p>
 <p><em type="bold">Fjarferðing í Føroyum </em></p>
 <p>Dennis Holm</p>
 <p><em type="italic">Granskingardepilin fyri Økismenning </em></p>
