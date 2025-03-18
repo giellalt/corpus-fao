@@ -1,0 +1,792 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><year>2011</year><wordcount>17546</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frodi-2011-nummar-2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="kal">I S S N1 3 9 5 - 0 0 4 597 7 1 3 9 5 0 0 4 6 9 0</p>
+<p xml:lang="nno">F R Ø Ð I</p>
+<p>Krøk hann í ein skiparabúk...</p>
+<p>Søga um ongul og húk2/ 2011 16. ÁRG</p>
+<p xml:lang="olo">KR. 48,-</p>
+<p><em type="bold">Umhvørvisstovan </em>fevnir eisini um gransking </p>
+<p><em type="bold">Fróðskaparsetrið </em>skal mennast </p>
+<p><em type="bold">Granskarar </em>skulu duga betur at miðla </p>
+<p><em type="bold">Útgávur </em>hjá </p>
+<p>Fróðskapi 2011</p>
+<p xml:lang="isl"><em type="bold">Bjarnardýr </em>í </p>
+<p>Føroyum</p>
+<p><em type="bold">Skúlin </em>og <em type="bold"></em>lívsvirðini hjá næmingum </p>
+<p><em type="bold">Gransking </em>á Søvnum Landsins </p>
+<p><em type="bold">Stingflugan </em>er í fjósunum í </p>
+<p>Føroyum</p>
+<p xml:lang="deu">FRØÐI 2/20112</p>
+<p><em type="bold">FØROYA FRÓÐSKAPARFELAG GEVUR FRØÐI ÚT </em>© Føroya Fróðskaparfelag og høvundarnir. </p>
+<p>Frøði er fólksligt vísindablað, sum kemur út tvær ferðir árliga.</p>
+<p xml:lang="swe">Upplag 1.200</p>
+<p xml:lang="kal">ISSN 1395-0045</p>
+<p><em type="italic">Loyvt er at endurgeva úr Frøði, um víst verður til heimildina. </em></p>
+<p><em type="italic">Verða heilar greinir endurgivnar, má avtala gerast. </em></p>
+<p xml:lang="isl"><em type="bold">AVGREIÐSLA </em>Jarðfeingi </p>
+<p xml:lang="isl">Brekkutún 1</p>
+<p xml:lang="pol">Postsmoga 3059</p>
+<p>FO-110 Tórshavn</p>
+<p xml:lang="nob">Tlf. 357000teldupostur: frodi@jf.fo</p>
+<p><em type="bold">RITSTUÐLAR </em>Fróðskaparsetur Føroya </p>
+<p>Føroya Fornminnissavn</p>
+<p>Føroya Landsbókasavn</p>
+<p>Føroya Landsskjalasavn</p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="nob">Havstovan</p>
+<p>Heilsufrøðiliga Starvsstovan</p>
+<p>Jarðfeingi</p>
+<p>Umhvørvisstovan <em type="bold">nýGGIR hALdARAR </em>kunnu tekna seg hjá avgreiðsluni. </p>
+<p><em type="bold">ELdRI ÚTGáVUR AV FRØÐI </em>fáast við at venda sær til avgreiðsluna. </p>
+<p>Teldutøkar útgávur eru á www.frodskaparfelag.fo/frodi</p>
+<p><em type="bold">GREInIR TIL bLAÐIÐ </em>Fólksligar, vísindaligar greinir kunnu sendast ritstjórnini. Skrivlig høvundsleið-beining fæst frá avgreiðsluni. </p>
+<p><em type="bold">LýSInGAR TIL FRØÐI </em>Er áhugi fyri at lýsa í blaðnum, setið tykkum tá í samband við samskiparan, Lena Reinert, telefon 514219teldupostur: frodi@jf.fo </p>
+<p xml:lang="nob"><em type="bold">LýSInGARPRíSUR </em>Heil síða: kr. 5.000,- </p>
+<p>Hálv síða: kr. 3.000,-</p>
+<p xml:lang="deu"><em type="bold">GRAFISK FRAmLEIÐSLA: </em></p>
+<p xml:lang="nno">Elisabeth Sande</p>
+<p xml:lang="vep"><em type="bold">PREnT: </em></p>
+<p xml:lang="fra">Føroyaprent</p>
+<p xml:lang="deu"><em type="bold">FORSíÐUmYnd: </em></p>
+<p>Kristfríð Tyril</p>
+<p><em type="bold">RITUmbOÐSRáÐIÐ </em>Símun V. Arge, fornfrøðingur </p>
+<p xml:lang="est">Anna Maria Fosaa, plantuvistfrøðingur</p>
+<p xml:lang="nob">Sámal T.F. Johansen, søgufrøðingur</p>
+<p xml:lang="nno">Erling Isholm, søgufrøðingur</p>
+<p xml:lang="isl">Gunnar Bjarnason, búnaðarfrøðingur</p>
+<p>Eilif Gaard, havlívfrøðingur</p>
+<p>Lis Mortensen, náttúrulandafrøðingur</p>
+<p>Maria Dam, evnafrøðingur</p>
+<p><em type="bold">SAmSKIPARI FYRI FRØÐI </em>Lena Reinert </p>
+<p><em type="bold">RITSTjÓRn </em>Firouz Gaini (ábyrgd) </p>
+<p xml:lang="est">Kristin Magnussen</p>
+<p xml:lang="nno">Karin Margretha Larsen</p>
+<p xml:lang="nob">William Simonsen</p>
+<p xml:lang="nob">Helgi Michelsen</p>
+<p xml:lang="nno">Oddagrein</p>
+<p xml:lang="nno">F R Ø Ð I2 / 2011</p>
+<p>Valla hevur nakað annað amboð havt størri týdning fyri føroyingar upp ígjøgnum øldirnar. Tað hevur, beint sum tað er sagt, skapt samband millum mann (og kvinnu) og fisk. Tað hevur, skaldsliga talað, skrykt og togað ríkidømi úr havsins veldiga búki og upp á soltin døgurðaborð hjá føroyskum familjum. Eisini, myndamálsliga, kann tiltikna amboðið tulkast sum fallossúmbol. Og ongastaðni kenna tey betur til hetta tól enn í Klaksvík. Klaksvík er jú okkara fiskivinnuhøvuðsstaður. Og sjálvandi tosa vit um húkin! At klaksvíkingar búgva í fiskivinnuháborgini, um nakar yvirhøvur ivaðist, varð sligið fast við sjeytummaseymi, tá heimskendi risahúkurin fyri nøkrum árum síðani varð reistur í eini rundkoyring í býnum. Eitt postmodernað projekt, sum skapti eitt drúgt og kensluborið kjak, sum rakk heilt inn í fínastu kontórkrókar í høvuðsstaðnum. Trupulleikin var kanska, at húkurin líktist alt ov nógv einum <span type="quote">“veruligum”</span> húki... Men, sum Jóan Pauli Joensen sigur í fólkalívsfrøðiligu greinini hjá sær um føroysku húkasøguna, so kunnu vit, eins og listamaðurin Magritte helst hevði gjørt, staðfesta, at tað (kanska) ikki er ein húkur. Vit kunnu í øllum førum vera samd um, uttan mun til hvørja listafatan vit annars umboða, at húkurin er óbrúkiligur. FRØÐI bjóðar hesaferð sínum lesarum eina sera áhugaverda lýsing av húkinum og onglinum, sum vekir serligar kenslur í føroyinginum á bygd og í bý. Høvundurin er Jóan Pauli Joensen, professari á Fróðskaparsetrinum, sum hevur skrivað fleiri stórverk um fisk og fiskimenn í Føroyum.</p>
+<p>Úr fiskivinnuhøvuðsstaðnum gongur leiðin til Havnar, tí FRØÐI inniheldur eisini tríggjar upplýsandi tekstir um samanlagdar almennar stovnar, sum fáast við gransking. Talan er um Søvn Landsins, Umhvørvisstovuna og Fróðskaparsetur Føroya. Nýtilnevndu stjórarnir fortelja um fjølbroytta virksemið og arbeiðið á stovnunum, ið allir eru í stórari broyting og menning. FRØÐI hevur sum vant eisini forvitnisligar greinar, sum geva lesaranum innlit í nýggj føroysk granskingarúrslit, og hesaferð kunnu tit m.a. lesa um børn, lívsvirði og javnstøðu. Tað er rættiliga sjáldan, vit hoyra ung siga sína meining um javnstøðu og kynsmunir, men tað kunnu vit í greinini hjá antropologinum Firouz Gaini, sum spyr, hvørja hugsan ungir dreingir hava til javnstøðu í samfelagnum. Tað vísir seg her, at meðan javnstøðukjakið hevur givið jalig úrslit á nøkrum økjum, serliga í mun til formligar reglur og skipanir, so eru virðini og hugburðurin hjá ungdóminum ikki broytt samsvarandi. Og føroysku úrslitini kunnu, samanborið við rákið í grannalondum okkara, tykjast eitt sindur skelkandi. Samanumtikið kann sigast, at FRØÐI inniheldur eitt sindur av hvørjum, men felagsnevnarin fyri greinirnar er eyðvitað, at alt tilfarið er við til at miðla vitan út til fólkið. Og júst hetta, at miðla vísindaliga vitan, so at hon ger mun í samfelagnum, er evnið í tekstinum um norska granskaran Jørn Hurum, sum vitjaði í Føroyum á Vísindavøkuni herfyri. Góðan lesihug !</p>
+<p xml:lang="vep"><em type="italic">Firouz Gaini </em>3 </p>
+<p xml:lang="deu">FRØÐI 2/201111363816</p>
+<p><em type="bold">Innihald </em>4 Gransking á Søvnum Landsins </p>
+<p>Andras Mortensen, Søvn Landsins 8 Fróðskaparsetrið skal mennast</p>
+<p>Sigurð í Jákupsstovu, Fróðskaparsetur Føroya10 Bloggur</p>
+<p>Firouz Gaini, Fróðskaparsetur Føroyar11 Umhvørvisstovan fevnir eisini um gransking</p>
+<p xml:lang="isl">Jóhanna Olsen, Umhvørvisstovan15 Útgávur hjá Fróðskapi 2011</p>
+<p>Fróðskapur16 Krøk hann í ein skiparabúk...</p>
+<p>Søga um ongul og húk</p>
+<p>Jóan Pauli Joensen, Søgu- og samfelagsdeildin, Fróðskaparsetur Føroya22 Bjarnardýr í Føroyum</p>
+<p xml:lang="isl">Birna V. Trygvadóttir, Havlívfrøðiliga royndarstøðin26 Granskarar skulu duga betur at miðla</p>
+<p>Sámal Soll31 Hvørja hugsan hava ungir føroyskir dreingir til javnstøðu í samfelagnum ?</p>
+<p>Firouz Gaini, Fróðskaparsetur Føroyar34 Stingflugan er í fjósunum í Føroyum</p>
+<p>Høgni Holm36 Meiri norðlýsi</p>
+<p>Lis E. Mortensen, Jarðfeingi38 Skúlin og lívsvirðini hjá næmingum</p>
+<p>Firouz Gaini, Fróðskaparsetur Føroyar43 Frøði næstu ferð</p>
+<p xml:lang="deu">FRØÐI 2/20114</p>
+<p>GranskinG á søvnum Landsins</p>
+<p><em type="bold">Andras mortensen </em>andrasm@savn.fostjóri, Søvn Landsins </p>
+<p>Tann 1. januar 2011 vóru fimm stovnar, sum allir hava tilknýti til gransking, lagdir saman í Søvn Landsins. Eitt meginendamál við saman leggingini var at rationalisera fyrisitingina til frama fyri fakligu umsitingina hjá stovnunum. Teir fimm stovnar nir vóru Føroya Landsbókasavn, Føroya Lands skjalasavn, Føroya Náttúrugripasavn, Havlívfrøði liga royndarstøðin og Føroya Fornminnissavn.</p>
+<p>Hvør sær lutfalsliga smáir stovnar, men samanlagt starvast har 64 fólk í 54 ársverkum. Av hesum hava 12 starvs fólk umframt umsitingarligar uppgávur eisini gransk ingaruppgávur. Eisini starvast 6 verkætlanar settir granskarar á Søvnum Landsins.</p>
+<p>Stovnarnir í Søvnum Landsins eru sonevndir sektor granskingarstovnar. Tað merkir, at teir fyri at kunna útinna umsitingarligu uppgávur sínar sambært løgtingslóggávu eisini mugu útinna gransking.</p>
+<p>Serliga eyðkent er hetta hjá teimum stovnunum, sum hava musealar uppgávur. Teir eru Forn minnissavnið og Náttúrugripasavnið, harundir eisini Hav lív frøðiliga royndarstøðin. Virksemi teirra er grundað á museumshugsjónina, sum sundurliðar musealt virksemi í 5 javnlíkar partar fyri at tryggja góðskuna í virkseminum. Hesir partar eru inn savning, skráseting, varðveiting, gransking og miðlan. Fyri at kunna innsavna og miðla skynsamt er neyð ugt bæði at hava skynsama skráseting, varðveiting og gransking. Er ikki javnvág millum allar partar, gongur tað út yvir góðskuna í samlaðu starvsuppgávuni.</p>
+<p xml:lang="isl">Gransking á</p>
+<p>Søvnum Landsins <em type="bold">bláa Svartaklukkan. TEKnInG </em>AstRId AndReAsen <em type="bold">handrit til skald søguna bábels tornið (FXXI) eftir Regin í Líð(R. Rasmussen) er á </em></p>
+<p xml:lang="isl"><em type="bold">Lands bóka savninum.mynd: Landsbókasavnið </em>5 </p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>GranskinG á søvnum Landsins <em type="bold">mYnd: </em></p>
+<p xml:lang="olo">Ámundu</p>
+<p xml:lang="nob">R nols</p>
+<p xml:lang="nno">Ø <em type="bold">bertákna </em></p>
+<p xml:lang="deu">FRØÐI 2/20116</p>
+<p>GranskinG á søvnum Landsins</p>
+<p>Eisini landsbókasavnið og landsskjalasavnið hava musealar uppgávur. Til dømis savnar og varðveitir lands bókasavnið handrit, sum verða mett at hava serligan bókmentaligan og siðsøguligan týdning fyri Føroyar, eins og tað savnar og varðveitir tað, sum kemur út á føroyskum ella er um Føroyar. Landsbóka savnið skrásetir eisini til tjóðbókaskránna. Á sama hátt savnar og varðveitir landsskjalasavnið skjala tilfar, sum verður mett at hava serligan týdning fyri føroyska samfelagið og søgu tess. At gera tílíkar metingar krevur, at tað eru fólk við gransk ingarførleika, ið umsita hesar uppgávur.</p>
+<p>Fremsta uppgávan hjá landsbókasavninum er kortini at veita bókasavnstænastur, bæði til onnur bókasøvn og til almenningin, og eisini at vera universi tetsbókasavn. Eisini til hesa umsiting krevst ástøðiligur granskingarførleiki, eitt nú innan serøkið kunn ingarfrøði, sum snýr seg um samskifti av dátum í nú tíðarsamfelagnum, eitt serøki, sum enn kortini liggur á láni at menna.</p>
+<p>Hjá landsskjalasavninum er fremsta uppgávan at hava eftirlit við og tryggja, at alt skjalatilfar, sum almenn fyrisiting og stovnar í Føroyum framleiða, verður varðveitt og í varðveitsluni handfarið skynsamt eftir løgtingslóggávuni um atgongd til tílíkt tilfar. Eisini til hesa umsiting krevst granskingarførleiki, eitt nú í serøkinum <span type="quote" xml:lang="isl">“almenn fyrisitingarsøga”</span>.</p>
+<p>Tær musealu granskingaruppgávurnar hjá</p>
+<p>Søvnum Landsins fevna sera víða, á lívfrøðiliga økinum úr fjallatindunum niður í djúphav í føroyskum sjóøki og á mentanarsøgufrøðiliga økinum úr elstu tíð fram til dagin í dag. Náttúrugripasavnið og Havlívfrøðiliga royndarstøðin, sum í 2012 fara at virka sum ein eind, varða museumsfakliga av trimum serøkjum, sum eru plantufrøði, lívfrøði á landi og lívfrøði í sjónum. Museumsfakliga virksemið hjá fornminnissavninum er skipað í eldri og yngri tíð, har vísindastarvsfólkini eru fornfrøðingar og ment an ar søgufrøðingar. Harumframt hevur fornminnis savnið eina bygningsantikvariska deild, <em type="bold">hvalastøðin við áir opin fyri almenninginumhvalastøðin skal sýnast framm </em></p>
+<p xml:lang="eng"><em type="bold">Ynd </em>WI ll </p>
+<p xml:lang="vep">IAm s</p>
+<p xml:lang="nob">Imonsen <em type="bold">m </em></p>
+<p xml:lang="eng"><em type="bold">Ynd </em>WI ll </p>
+<p xml:lang="vep">IAm s</p>
+<p xml:lang="eng">Imonsen7</p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>GranskinG á søvnum Landsins</p>
+<p><em type="bold">Tjaldurs børkubóndi </em></p>
+<p xml:lang="olo"><em type="bold">Lundaland, mykines m </em></p>
+<p xml:lang="eng"><em type="bold">Ynd </em>WI ll </p>
+<p xml:lang="vep">IAm s</p>
+<p xml:lang="nob">Imonsen <em type="bold">m </em></p>
+<p xml:lang="eng"><em type="bold">Ynd </em>WI ll </p>
+<p xml:lang="vep">IAm s</p>
+<p>Imonsensum savnar og varðveitir tilfar í sambandi við eldri bygg ing og bygningar. Granskingarligu upp gávur -nar eru sum nevnt knýttar at umsiting, ikki bara við atliti at framsýningum og miðlan, men eisini almennari fyrisiting. Tí har hevur tað víst seg, at eftir spurningurin er mestur. Á lívfrøðiliga øki num er tað í sambandi við almenna fyrisiting av náttúruverndarlóggávu, og á fornfrøðiliga og bygn ingafrøðiliga økinum í sambandi við fyrisiting av fornminna verndarlóggávu.</p>
+<p>Í mun til fjøltáttaðu umsitingarligu uppgávur-nar, sum Søvn Landsins hava, er talið av vísindastarvs fólki sera lítið, sjáldan meira enn ein á hvørjum øki og í onkrum føri eingin. Í mun til upp gávuna, at søvnini skulu vera vitanarstovnar ella eitt slag av samfelagsminni, er hetta tað allar minsta fyri at vera nøktandi. Av tí sama er skipanin eisini viðbrekin, serliga tá tað snýr seg um at tryggja framhald í vitanarupp byggingini. Hetta er eitt álvarsmál, sum í mong ár hevur verið lopið um í politisku raðfestingunum. Saman leggingin av stovnu num er kortini fyrsta stigið fram á nýggja leið. Megin endamálið við Søvnum Landsins er gjøgnum rationali sering av fyrisiting at leggja dent á fakliga menning.</p>
+<p><em type="bold">Stovnarnir í Søvnum </em></p>
+<p><em type="bold">Landsins eru sonevndir sektor granskingar stovnar. </em></p>
+<p><em type="bold">Tað merkir, at teir fyri atkunna útinna umsit ingarligu upp gávur sínar sambært løgtings lóggávueisini mugu útinna gransking </em></p>
+<p xml:lang="deu">FRØÐI 2/20118</p>
+<p>Fróðskaparsetrið skaL mennast</p>
+<p><em type="bold">Politiski viljin við lógini er, at </em><em type="italic">hægri útbúgvingar verða samskipaðar í ein lærdóms- og granskingarmið depil, sum skal tryggja samfelagnum og vinnulívinum viðkomandi útbúgvingar á hægsta altjóða stigi, eins og gransking verður raðfest og samskipað á hægsta stigi. Lógin vísir til visjón 2015 arbeiðið, har sagt varð, at allir lærustovnar, ið hava hægri (akademiskar) útbúgvingar, verða skipaðar í ein hægri lærustovn – t.e. eitt føroyskt universitet. Útbúgvingartilboðini skulu vera fleiri, fyrisitingin skal vera bæði sterkari, javnari og rasjonellari, og møguleikarnir at gagnnýta førleikar, útgerð, útbúnað og høli skulu gerast nógv betri. </em></p>
+<p><em type="italic">Fráboðað verður, at Føroyar taka undir við </em></p>
+<p type="listitem">Bologna  yvir lýsingini,  og  er  hetta  til  tess  at  tryggja  dygd  og  flyt føri.  Málið  er,  at  útbúgvingarøkið  í  Føroyum  skal  skipast  eftir  sama  leisti  sum  í  øðrum  evropeiskum londum til tess at tryggja:</p>
+<p type="listitem" xml:lang="isl">gjøgnumskygni,  kappingarføri  og  eftirlit  við útbúgv ingar dygdini</p>
+<p type="listitem">møguleikar hjá studentum og lærarum frítt at flyta millum útbúgvingarstøð</p>
+<p type="listitem">Fróðskaparsetrið         skal mennastseturslógin frá 2008 leggur upp til munandi broytingar í hægri  lestri í Føroyum. Útbúgvingarnar til námsfrøðing, lærara og  sjúkrarøktarfrøðing eru uppstigaðar til bachelor-stig og talið av  lesandi er meiri enn tvífaldað, nú hesir skúlar eru lagdir afturat  setrinum. Komandi árini skal broytti bygnaðurin leggja lunnar  undir eitt vaksandi universitetsumhvørvi, ið innir dagførda  samfelagsviðkomandi gransking og útbúgving.</p>
+<p type="listitem">samstarvsmøguleikar við aðrar hægri lærustovnar og granskingarumhvørvi</p>
+<p type="listitem" xml:lang="isl">at evropeiska dimensjónin verður styrkt</p>
+<p type="listitem">møguleikar fyri lívslangari læru1</p>
+<p><em type="bold">Burðardygg samfelagsmenning í 21. øld </em>er heitið á einum av satsingarøkjunum, ið Setrið hevur sett sær fyri, at serligur dentur skal leggjast á. Heimurin er í stórari broyting – í eini transformasjón, sum í dagligari talu verður nevnd globali sering – ella alheimsgerð. Fyri Føroyar hevur tað stóran týdning, at vit laga okkum til hesar broyttu umstøður og hendan broytta hugsunarhátt, soleiðis at okkara samfelag verður kapp ingarført. Kappingarføri skal her skiljast í breiðum høpi, t.e. kapping um fólkatilfeingi – um menniskjaligan kapital – til at skapa einar framtíðar Føroyar, ið </p>
+<p><em type="bold">Sigurð í jákupsstovu </em>sigurdj@setur.forektari, Fróðskaparsetur Føroya1 </p>
+<p>Brot úr viðmerkingum til Lóg nr. 58 frá 9. juni 2008 um Fróðskaparsetur</p>
+<p>Føroya516 fulltíðarlesandi, 41 parttíðarlesandi og 5 ph.d lesandi</p>
+<p xml:lang="isl"><em type="bold">Bygnaður </em></p>
+<p>Megindeildin fyri náttúruvísindi og heilsuvísindi Megindeildin fyri hugvísindi, samfelagsvísindi og námsvísindi9</p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Fróðskaparsetrið skaL mennasteru fjøltáttaðar og minni heftar at einum rávørugrundaðum búskapi.</p>
+<p>ST frágreiðingin „Vores Fælles Fremtid“, eisini nevnd Brundtland frágreiðingin, frá 1987, setti fyri fyrstu ferð fokus á hugtakið alheimsburðardygd. Frágreiðingin vísir á avleiðingarnar av ótálmaðari nýtslu av til feinginum í jagstran eftir vøkstri og búskaparligum vinningi – og ta ójavnvág, ið skapast av hesum millum ídnaðarlond og menningarlond, og ikki minst tær varandi avleiðingar, dálking og oyðing hava á heimsumhvørvið.</p>
+<p>Brundtlandfrágreiðingin er stílað til stjórnir, vinnu lív og borgaran, hvørs vælferð burðardygg menning tekur støði í. Frágreiðingin kastar ljós á umhvørvis trupulleikarnar, sum heimurin er komin í, og gevur boð upp á, hvussu vit møta hesum alheims vanda málum í mun til m.a. menniskjur, orkumál, mat vørur, umhvørvi, vistskipanir og lívfrøðiligt marg feldi. Í 1992 á ST ráðstevnuni í Rio de Janeiro sam dust 81 av heimsins londum um eina røð av vilja lýsingum og normum fyri burðardyggum umhvørvis samstarvi, t.d. um minking av útláti av veðurlagsgassum, um Agenda-21 ætlanina fyri burðar dygga menning og um sáttmálan um verju av lívfrøðiligum margfeldi.</p>
+<p><em type="bold">Leikluturin hjá Fróðskaparsetri Føroya </em>Hugsanin um burðardygga menning fær í dag nógv størri rúmd í samfelagskjakinum her heima enn bert fyri fáum árum síðan. Vit hava øll varhugan av, at tað er átroðkandi neyðugt við nýhugsan og ítøkiligum langtíðarætlanum fyri á hvønn hátt okkara samfelag skal mennast og brynjast til framtíðina. </p>
+<p type="listitem">Burðardygg  menning  krevur  eina  tvørfakliga tilgongd, har politikkur, vinna, vitan og vísindi taka  saman  tøk  at  møta  avbjóðingunum,  ið  framtíðin  ber  við  sær.  Altjóðagerðin  og  felags  avbjóðingar  orsakað  av  fátækradømi,  veðurlagsbroytingum  og  fíggjarkreppum  gera,  at  eitt  sonevnt  paradigmuskifti  hevur  tikið  seg  upp  innan  samfelagshugsan  og harvið eisini innan universitetsheimin. Vit flyta  frá  einum  lutfalsliga  stuttskygdum  tøkniligumbú skapar ligum  palli,  ið  leggur  høvuðsdentin  á  produktivitet  og  búskaparvøkstur,  til  ein  pall,  har  krav  um  burðardygga  menning  og  kreativitet  í einum  globalum  konteksti  fær  høvuðsleiklutin.  Alheims gerðin merkir fyri universitet m.a. at:</p>
+<p type="listitem">Gransking  og  útbúgving  vera  í  størri  mun  tvørfaklig og tematisk</p>
+<p type="listitem">Dygdartilfar og frálæra verða tøk á netinum</p>
+<p type="listitem">Talið av lesandi økist</p>
+<p type="listitem">Tilboð um parttíðarlestur og fjarlestur økjast</p>
+<p type="listitem">Lesandi og granskarar flyta seg í størri mun millum deildir, lærustovnar og lond</p>
+<p type="listitem">Marknaðurin fyri gjaldsskeið er vaksandi</p>
+<p type="listitem">Skipanir fyri góðskutrygging og meting av gransking og útbúgving verða kravd</p>
+<p>Umframt at granska og veita granskingargrundaða frálæru, er ein høvuðsuppgáva hjá Setrinum at verða ein aktivur og kritiskur aktørur í sam felags menningini. Setrið skal birta undir nýhugsan og ný skapan. Nútímans samfeløg standa við avbjóðingum, sum raka allan heimin, og har øll samfeløg stór sum smá eiga at taka ábyrgd og luttaka í loysnum. Smærri samfeløg hava møguleika fyri ávirkan, tí at broytingar og loysnir ofta eru lættari at seta í verk lokalt og kunnu tí fáa altjóða ávirkan. Slík menning setur nýggj krøv til okkara fróð skaparsetur, granskingarstovnar og vinnu lív um tvør fakligt sam starv. Eitt tílíkt sam starv gevur góðar møguleikar fyri at seta saman fak disiplinir tematiskt í útbúgvingar, ið hóska til okkara samfelagstørv, men sum eisini hava relevans langt út um Føroyar – t.d. kann hugsast, at vit fáa ein bachelor í burðardyggari fiski vinnuumsiting ella innan gagnnýtslu av varandi orkukeldum.</p>
+<p>Málið er at skapa eitt fróðskaparsetur, ið er fyrsta val hjá størsta partinum av teimum, ið lúka miðnáms prógv. Fremsta uppgávan hjá Setrinum er at skapa eitt livandi og eggjandi granskingar- og lestrarum hvørvi, sum áhaldandi setir spurningar til status quo og í breiðum samstarvi leggur dent á at framleiða sam felags gagnliga, granskingargrundaða vitan. Tað opna og fakliga kjakið leggur lunnar undir, at metast kann um okkara samfelagsavrik, so stig kunnu takast til góðar broytingar. Harumframt skal á Setrinum skapast eitt virkið umhvørvi fyri vísindafólk og lesandi úr øðrum londum og fyri lesandi, ið ynskja at troyta tilboð innan fjarlestur og parttíðarlestur.</p>
+<p>Setrið er í broyting, í vøkstri og í ferð við at menna seg til eitt universitet við meiri enn 1000 lesandi, - staðsett í Tórshavn. Tað hevur til endamáls at bjóða altjóða viðurkendar útbúgvingar á Bachelor- og Master-stigi umframt granskingarútbúgvingar á ph.d.-stigi. Ambitiónin er at skapa eitt ríkt og spennandi granskingar- og lestrarumhvørvi, har frálæran er grundað á dygdar góða gransking og sum tekur støði í føroyskum viður skiftum. Útbúgvingar, sum í dag kunnu takast á Fróð skaparsetrinum eru hesar:</p>
+<p xml:lang="isl">BSc í sjúkrarrøktarfrøði</p>
+<p xml:lang="isl">BA í samfelagsvísindum</p>
+<p>BA í søgu</p>
+<p xml:lang="isl">BSc í stjórnmálafrøði</p>
+<p xml:lang="nob">BEd Dipl. - Lærari</p>
+<p>BEd Dipl. - Námsfrøðingur</p>
+<p xml:lang="isl">BA og MA í føroyskum</p>
+<p xml:lang="isl">BSc í lívfrøði</p>
+<p>BSc í jarð- og havfrøði</p>
+<p>BSc í KT-verkfrøði</p>
+<p>Harumframt verður skipað verður fyri stakskeiðum og diplomskeiðum eftir tørvi. Verandi útbúgvingar geva eina sterka grund fyri víðari menning av Setrinum. Ætlanin er at styrkja og víðka hesar komandi árini, samstundis sum vit seta okkum ambitiøs mál um, hvussu Setrið skal mennast til framtíðar uppgávur og um hvønn leiklut Setrið skal hava í samfelagnum.</p>
+<p xml:lang="isl">BLoGGur</p>
+<p xml:lang="deu">FRØÐI 2/201110</p>
+<p>Føroya Fróðskaparfelag hevur í heyst tikið ein øðrvísi tátt upp í arbeiðinum fyri, sum sagt verður í miðum felagsins frá 1952, <span type="quote">“at fremja samstarv millum fólk, sum takast við vísindaligt starv”</span>.</p>
+<p>Tíðirnar eru nógv broyttar síðan átta fróðarmenn eitt myrkt desemberkvøld fyri 59 árum síðani settu felagið á stovn. Í dag er samskiftið millum føroysk vísindafólk sum eitt snarljós, sum broytir skap og innihald dag undan degi. At <span type="quote">“upplýsa alment um vísindalig viðurskifti”</span>, sum eisini verður sagt í miðum felagsins, krevur sostatt heilt nýggja <span type="quote" xml:lang="isl">“miðling”</span>, sum knýtir seg til framkomna tøkni, stovnararnir ongantíð høvdu kunnað droymt um. Og hóast vísindaligt útgávu- og fundarvirksemi helst ongantíð heilt verður avoldað, so er veruleikin tann, at alnetið við øllum sínum ídnu brúkarum er í ferð við at fara fram um øll hini í kappingini um at savna saman og býta út hugskot, vitan og myndir. Og Fróðskaparfelagið tekur eyðsæð stóra skiftið í størsta álvara. Tí er tað í heimliga vísindaumhvørvinum ein stórhending, at felagið nú hevur sett fyrsta føroyska vísindabloggin á stovn. Serliga hitt yngra ættarliðið av granskarum hevur saknað ein vísindablogg, sum kann vera við til at skapa eitt opið, tvørfakligt kjak um evni, sum føroyingar granska og arbeiða við.</p>
+<p>Fyrsta liðið av bloggarum – ein forvitnisligur hópur av kvinnum og monnum, sum gjarna vilja siga sína meining og fortelja um sína <span type="quote">“vísindaliga”</span></p>
+<p>Bloggurvitan – er mannað og farið til verka! Vónandi fara øll at taka væl ímóti blogginum, ið sjálvandi ikki einans er ætlað granskarum, men øllum við áhuga fyri vísindaligum arbeiði.</p>
+<p>Ein bloggur er ein stuttur og lutfalsliga lættur tekstur, sum í einum persónligum, hugleiðandi dámi viðger eitthvørt evni, ið hevur ein almennan áhuga. Bloggurin kann samanberast við eitt persónligt bræv. Øll eru vælkomin at skriva viðmerkingar til bloggar. Við hesum skal eg, vegna nevndina, bjóða øllum hjartaliga vælkomin til nýggja bloggin hjá felagnum. Góðan lesihug !</p>
+<p xml:lang="vep"><em type="italic">Firouz Gaini, </em></p>
+<p><em type="italic">Føroya Fróðskaparfelag </em></p>
+<p><em type="bold">Firouz Gaini </em>firouz@flsk.fo </p>
+<p>Fróðskaparsetur Føroya</p>
+<p><em type="bold">Rætting: </em>Greinin hjá Agnes Mols Mortensen í FRØÐI, sum kom út í juni 2011, var prentað uttan at síðstu rættingar høvundans vóru skrásettar. Vit biðja høvundan um umbering fyri mis takið. </p>
+<p><em type="italic">Firouz Gaini, nevndarformaður, Føroya </em></p>
+<p><em type="italic">Fróðskaparfelag </em>11 </p>
+<p>FRØÐI 2/2011umhvørvisstovan Fevnir eisini um GranskinG <em type="bold">m </em></p>
+<p xml:lang="deu"><em type="bold">Ynd </em>mARtIn sIRKovs </p>
+<p xml:lang="olo">Ky</p>
+<p>Umhvørvisstovan fevnir eisini um gransking <em type="bold">jóhanna Olsen </em>johannao@us.fostjóri, Umhvørvisstovan </p>
+<p>Granskingardeildin á umhvørvisstovuni telur ikki so nógv starvsfólk, men virksemið á deildini er sera umráðandi. Í dag hava okkara granskingarroyndir og før leikar serstakliga við kanningar av dálkandi evnunum í føroysku náttúruni at gera. serliga eru tað umhvørviseiturevni, ið verða seint niðurbrotin, og sum verða førd til okkum frá dálkingarkeldum, ið eru langt burturi, sum granskingardeildin arbeiðir við. møguleikarnir fyri at víðka um granskingarvirksemi á umhvørvisstovuni eru eyðsýndir, tí okkara servitan um eitt nú føroyskan viðarvøkstur, kortgerð, ognar- og jarðarviðurskifti kunnu verða grundarlag undir nýggjum granskingarverkætlanum.</p>
+<p xml:lang="deu">FRØÐI 2/201112</p>
+<p>Umhvørvisstovan fevnir eisini Um gransking</p>
+<p>Tað eru góð fýra ár síðani Umhvørvisstovan bleiv sett á stovn. Umhvørvisstovan er ein saman renn ing av Matri kul stovuni, Tinglýsingini, Lands fólka yvir litinum, Skógrøkt landsins og um hvørvis deildini á Heilsu frøðiligu starvs stovuni. Virkis økini á Umhvørvis stovuni eru sera fjøltáttað, og fevna m.a. um matri kuler ing, kort gerð, adressur, tinglýsing, lands fólka yvir lit, viðarvøkstur, umhvørvisfyrisit ing og gransk ing.</p>
+<p><em type="bold">Grundarlag fyri at breiðka granskingarvirksemið </em>Tað er týdningarmikið, at vit á Umhvørvisstovuni gera okkum greitt, hvussu vit arbeiða, tá talan er um gransking. Umhvørvisstovan er ikki ein gransk ing ar stovnur burturav, men ein stovnur, sum millum annað fæst við gransk ingar virksemi – ein sokallaður sektorgranskingarstovnur, og tað vil siga, at okkara granskingarvirksemi í størri ella minni mun er tongt at kjarnuvirkseminum á Um hvørvisstovuni, og tí kann stuðla upp undir myndug leikauppgávurnar hjá stovninum. </p>
+<p>Grundarlagið fyri at menna granskingararbeiðið til at fevna um onnur øki er upplagt, og tað er ein fyri munur, at vit hava granskingarroyndir, ið kunnu koma nýggjum granskingarverkætlanum til góðar. Í dag er granskingararbeiðið á Umhvørvisstovuni í</p>
+<p><em type="bold">Skulu vit hava vitan um føroysk viðurskifti, so eru tað vit sjálvi, ið mugu framleiða hesa vitan </em></p>
+<p><em type="bold">Sýni verða tikin av toski </em></p>
+<p><em type="bold">Okkara serkunnleiki fevnir nevniliga breitt, og okkara servitan innan eitt nú føroyskan viðarvøkstur, kortgerð, útskiftingar og annað kann verða grundarlag undir nýggjum gransk ingarverk ætlanum </em>13 </p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Umhvørvisstovan fevnir eisini Um granskingstóran mun avmarkað til at fevna um dálkandi evni í náttúruni. Verður hugt at á Umhvørvisstovuni, eru góðir møguleikar at víðka granskingararbeiðið á stovninum. Okkara ser kunn leiki fevnir nevni liga breitt, og okkara servitan innan eitt nú før oyskan viðarvøkstur, kortgerð, út skift ingar og annað kann verða grundarlag undir nýggjum gransk ingarverkætlanum. Sum dømi um nýtt gransk ingar virksemi kann nevnast gransking innan jarðar og ognar viðurskifti í Føroyum.</p>
+<p><em type="bold">Hví er neyðugt at granska? </em>Skulu vit hava vitan um føroysk viðurskifti, so eru tað vit sjálvi, ið mugu framleiða hesa vitan. Og tað er júst henda vitan, ið eisini kann geva myndugleikunum betri grundarlag at fyri sita ymisku málsøkini so gott sum gjørligt, so samfelags menningin kann verða burðardygg, eins og um sitingin av ymisku fakmálsøkjunum og denturin í fyri sitingini verða lagað til okkara viðurskifti. </p>
+<p>Sum stovnur við servitan og hollum førleika á høgum fakligum stigi, er tað okkara skylda at savna vitan saman, sum kann verða grundarlag fyri menn ing, nýhugsan og nútímansgerð av umsitingini av máls økjunum.</p>
+<p><em type="bold">Millumtjóða granskingarsamstarv </em>Umhvørvisstovan luttekur í fleiri granskingar netverkum, har granskarar kunnu leggja til rættis eina miðvísa kanningarætlan. Tað eru serliga arkt iska granskingarsamstarvið, Arctic Moni tor ing and Assessment Programme, stytt AMAP, og norður lendska umhvørvissamstarvið, ið hava týdn ing fyri granskingararbeiðið á Um hvørvis stovuni. Eisini hava vit gott samstarv við okkara grannalond, tá talan er um viðarvøkstur og kort. </p>
+<p>Í dag hava vit virkna luttøku í millum tjóða samstarvi um m.a. at leggja kanningarætlanir til rættis, og á tann hátt samskipa kanningar av teimum somu umhvørviseiturevnum í somu djórasløgum. Úrslitini kunnu tá samanberast millum lond, og møguleikin fyri at kortleggja útbreiðsluna av um hvørvis eitur evnunum gevur týðandi upplýsingar um, hvussu tey dálkandi evnini verða flutt frá dálk ingar kelduni – serliga tá talan er um dálkandi evni, hvørs dálkingarkelda er langt burturi.</p>
+<p>Umhvørvisstovan hevur seinastu nógvu árini eisini luttikið í felags norðurlendskum samstarvi, har dentur verður lagdur á at gera metingar av nýggjum dálkandi evnum, umframt at útbreiðslan av evnunum í náttúruni verður kortløgd.</p>
+<p><em type="bold">Uppmáting í sambandi við marknaseting í Trongisvági </em></p>
+<p><em type="bold">Fixpunkt, har positión og hædd er staðfest </em></p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="est">RtIn S</p>
+<p xml:lang="nob">IRkov</p>
+<p xml:lang="olo">Sky</p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="est">RtIn S</p>
+<p xml:lang="nob">IRkov</p>
+<p xml:lang="olo">Sky</p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="est">RtIn S</p>
+<p xml:lang="nob">IRkov</p>
+<p xml:lang="olo">Sky</p>
+<p xml:lang="deu">FRØÐI 2/201114</p>
+<p>Umhvørvisstovan fevnir eisini Um gransking</p>
+<p>Nú Føroyar eru vorðnar partur av ES granskingar samstarvinum, gera vit okkum til reiðar at vera við í granskingarverkætlanum, sum fevna um arbeiði, ið kann teingjast at arbeiðinum, sum Umhvørvisstovan arbeiðir við.</p>
+<p>Maria Dam, granskingarleiðari á Umhvørvisstovuni, er NCPumboð (National Contact Points) fyri Føroyar vegna Granskingarráðið fyri samstarvið innan umhvørvi og veðurlagsbroytingar. Uppgávan hjá NCPumboðnum er at kunna um møguleikar fyri føroyingar innan ESgransking, um møguleikar fyri ES innan føroyska gransking og at veita veg leiðing í hesum sambandi.</p>
+<p><em type="bold">Kanningar av umhvørviseiturevnum </em>Í dag fevnir virksemið á granskingardeildini í stóran mun um at gera kanningar av umhvørviseiturevnum í føroysku náttúruni. Kanningarnar verða gjørdar av ymiskum djórum, so sum grind, havhesti og øðrum fuglasløgum, ymiskum fiskasløgum og matvørum annars. Eisini fevna kanningarnar um mold, mosa og sediment. </p>
+<p>Tað er ein røð av umhvørviseiturevnum, ið kanningarnar fevna um, men serliga eru tað evnir, sum verða seint niðurbrotin, ið eru áhugaverd at kortleggja. Hesi evni kunnu hava óheppin árin á livandi verur. Um tey so harafturat hópa seg upp í vevnað inum á djórunum, kunnu tey flyta seg frá eini veru til aðra, og tí eisini hava árin á okkum menniskju.</p>
+<p>At hava vitan um dálkandi evni í føroysku náttúruni, og gera metingar av, hvørji árin dálkandi evnini hava, hevur týdning, tá vit skulu taka avgerðir, um tiltøk skulu setast í verk fyri at basa dálkingini.</p>
+<p><em type="bold">Ph.d.verkætlan á Umhvørvisstovuni </em>Á Umhvørvisstovuni hava vit nú ein ph.d. lesandi, og hetta hevur sera stóran týdning fyri granskingararbeiðið hjá okkum. Tað krevur eina miðvísa tilgongd at seta eina ph.d.verkætlan á stovn. Serliga hevur tað týdning, at vit sum stovnur meta, at hetta arbeiðið hevur týdning fyri okkara virkisøki, umframt at vit sum stovnur kunnu skipa verkætlanina við eginfígging og neyðugum og røttum kørmum. </p>
+<p>Tað er Katrin Hoydal, lívfrøðingur, sum nú fer undir ph.d.verkætlanina. Hon fer at granska, um dálkandi evni hava árin á grindahvalin. Í dag vita vit, at grindahvalur inniheldur nógv dálkandi evni. Orsøkin er tann, at grindahvalur liggur ovarlaga í føðiketuni, og dálkandi evnini hópa seg upp, serliga í feittvevnaðinum á grindahvali. Kanningar, sum deildin hevur gjørt, benda á, at grindahvalur er ávirkaður av dálkandi evnum, og tí er umráðandi at fáa hetta kannað enn meira. Endamálið við ph.d.verkætlanini hjá Katrini Hoydal er tí at lýsa og kanna árin av dálkandi evnunum á grindahval. Tað er við stuðli frá Granskingarráðnum, at ph.d. verk ætlanin er blivin til veruleika, og er arbeiðið samskipað saman við universitetinum í Tróndheimi og universitetinum í Barcelona.</p>
+<p><em type="bold">Virksemið á Gróðurstøðini í Miðhoydølum er eisini partur av virkisøkjunum á Umhvørvisstovuni </em></p>
+<p><em type="bold">Tað krevur eina miðvísa tilgongd at seta eina ph.d.verkætlan á stovn </em></p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="est">RtIn S</p>
+<p xml:lang="nob">IRkov</p>
+<p xml:lang="olo">Sky</p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="est">RtIn S</p>
+<p xml:lang="nob">IRkov</p>
+<p xml:lang="olo">Sky</p>
+<p><em type="bold">Ein neyv skráseting er sera týdningarmikil </em>15 </p>
+<p xml:lang="dan">FRØÐI 2/2011granskarar skUlU dUga betUr at miðla <em type="bold">“Danse og sanglege på Færøerne. </em></p>
+<p xml:lang="isl">Oprindelse – udbredelse – nutidig tradition” eftir Andreu Susanne Opielka. Bókin er 388 síður og kostar 348 kr.</p>
+<p>Føroysku dansispølini vórðu fyrstu ferð nevnd í 1616 og vóru í fleiri øldir ein týdningarmikil partur av føroysku dansimentanini. Millum granskarar hava tey tó altíð staðið í skugganum av føroyska dansinum.</p>
+<p>Bókin er fyrsta verkið, har dansispøl verða viðgjørd burturav. Tað eru 23 lýsingar av dansispølum og av nøkrum niðrispølum, av teimum eru fleiri, sum verða mett at vera útdeyð í dag. Doktararitgerðin byggir á feltarbeiði, og upplýsingar frá um leið 200 føroyingum úr ymsum bygdum og býum verða greinaðar. <em type="bold">“Konubrot. </em></p>
+<p>Greinasavn eftir Elin Súsonnu við 16 greinum í sam bandi við, at Elin Súsanna Jacobsen, søgufrøðingur, fylti 70 ár 6. mai. Ritstjórn: Bjørg Jacobsen et.al. Bókin er 223 síður og kostar 230 kr.</p>
+<p>Bókin er skipað eftir evnunum heilsa, rúsdrekkamentan, vælferð, kyn og ymiskt. Allar greinirnar hava verið á prenti áður. Yvirlit yvir bøkur, greinir o.a., sum Elin Súsanna hevur latið úr hondum, er at finna aftast í bókini. <em type="bold"><span type="quote" xml:lang="eng">“Among the Islanders of the North. An Anthro pology of the Faroe Islands.”</span> </em></p>
+<p xml:lang="isl">Firouz Gaini rit stjórnar. Bókin er 200 síður og kostar 240 kr.</p>
+<p>Enskt greinasavn um sentral evnir í nútíðar Føroyum úr ymsum antropo logiskum sjónar hornum. Hetta er fyrsta savnið av sínum slag um før oysk viðurskifti. Rithøvundar eru Jonathan Wylie, Christophe Pons og Firouz Gaini. <em type="bold"><span type="quote" xml:lang="deu">“Hentzasavn.”</span> </em></p>
+<p>Eivind Weyhe hevur ritstjórnað og skrivað inngang. Bókin er 228 síður og kostar 250 kr.</p>
+<p>Jóannes í Króki var ein av undangongu monnu num innan føroyska kvæðasavning. Sandoyarbók, sum Jóannes í Króki fór undir í 1821 og fullførdi 10 ár seinni, er uttan iva høvuðsavrik hansara. Frammanundan hevði hann skrivað eina aðra kvæðabók, sum millum fakfólk hevur verið nevnd <span type="quote" xml:lang="deu">“Hentzes savn”</span>. Tað er hetta handritið, sum nú er útgivið í stavrættari útgávu og við inngangi frá Eivindi Weyhe um savningarsøgu, innihald og málform. <em type="bold"><span type="quote" xml:lang="nob">“Vestnordisk språk gennem 1200 år.”</span> </em></p>
+<p>Greinasavn, sum Edit Bugge og Gunnstein Akselberg hava ritstjórnað. Bókin er 289 síður og kostar 300 kr.</p>
+<p>Bókin hevur fjúrtan greinar, sum byggja á fyrilestrar, hildnir á norðurlendskari ráð stevnu í november 2010. Her eru málslig og málsøgulig granskingarúrslit, sum varpa ljós á drúgva og neyva sambandið millum Ísland, Føroyar, Hetland og Vestur norra.</p>
+<p xml:lang="nob"><em type="bold">AndreA SuSAnne Opielk </em></p>
+<p xml:lang="nob"><em type="bold">Andre </em></p>
+<p xml:lang="sme"><em type="bold">Su </em></p>
+<p xml:lang="nob"><em type="bold">SAnne </em></p>
+<p xml:lang="olo"><em type="bold">Opielk </em></p>
+<p xml:lang="dan">Danse- og sanglege på Færøerne</p>
+<p xml:lang="nob">Færøske sanglege Dansespil</p>
+<p xml:lang="dan"><em type="bold">OprindelSe – udbredelSe – nutidig trAditiOn </em></p>
+<p xml:lang="nno">Faroe University Press</p>
+<p>Tórshavn 2011 <em type="bold">dansispøl </em></p>
+<p xml:lang="dan">Foruden færøsk dans kender færingerne også en anden type folkedans, de såkaldte <em type="italic">dansispøl </em>. Også disse danse- og sanglege ledsages af sungne ballader, men danseformen er en anden. Mens den middelalderlige kædedans danner grundlaget for den færøske dans, inddrager danse- og sanglegene mange forskellige figurer og formationer, som var på mode i Europa i renæssancen og de efterfølgende perioder. Denne brede forståelse af begrebet <em type="italic">dansispøl </em>medfører, at gruppen af danse- og sanglege omfatter meget forskelligartede fremtrædelsesformer, som lader sig opdele i to kategorier, der adskiller sig tydeligt fra hinanden. Den første gruppe består af danselege, som danses til vilkårlige ballader og sange og har bevægelsesmønstre, der minder om andre landes folkedanse. Den anden gruppe udgøres af sungne lege til tekstligt fikserede ballader, for hvilke begrebet sanglege hen mod slutningen af det 19. århundrede blev den gængse betegnelse i de nordiske lande. </p>
+<p xml:lang="dan">Den unikke færøke betegnelse <em type="italic">dansispøl </em>, som omfatter både danse- og sanglege, blev fast etableret i den gældende sprogbrug på Færøerne i løbet af det 20. århundrede og har ingen tilsvarende paralleller i de andre nordiske sprog. </p>
+<p xml:lang="dan">De færøske „dansispøl“(danse- og sanglege) blev første gang nævnt i 1616 og var i flere århundreder en vigtig del af den færøske folkedanstradition.</p>
+<p xml:lang="dan">Blandt forskere har de imidlertid altid stået i skyggen af den færøske dans, som anses for færingernes vigtigste kulturelle arv. Mens der findes mange videnskabelige afhandlinger om færøsk dans, har man ikke vist „dansispøl<span type="quote" xml:lang="dan">“ nogen særlig interesse. I 2004 begyndte forfatteren at skrive en ph.d.-afhandling om dette emne. Den blev godkendt i 2007 og udkom under titlen “Färöische Tanzspiele: Herkunft – Verbreitung – Tradition”</span> i</p>
+<p xml:lang="nob">Saarbrücken, Tyskland i 2009.</p>
+<p xml:lang="dan">Bogen er det første værk, der udelukkende tematiserer færøske danse- og sanglege. Den indeholder beskrivelser af 23 forskellige former, hvoraf mange allerede anses for at være uddøde. I bogen bliver alle danse- og sanglege sat i en nordisk kontekst, der beskrives udførligt i deres fællesnordiske oprindelse, der inddrages paralleller til lignende folkedanse i de andre nordiske lande. På denne måde bliver de færøske „dansispøl“ set i et nordisk perspektiv. Afhandlingen er bygget på feltarbejde og den analyserer informationer fra ca. 200 færinger fra forskellige bygder og øer.</p>
+<p xml:lang="nob">Dr. Andrea Susanne Opielka er født i</p>
+<p xml:lang="nob">Hagen (Tyskland) i 1975 og studerede musikvidenskab, kunsthistorie og tysk litteratur ved universiteterne i Heidelberg og Bochum. I vinteren 2002-2003 skrev hun hovedopgave om færøsk dans med</p>
+<p xml:lang="nob">Eyðun Andreassen professor i etnologi ved Færøernes Universitet som vejleder.</p>
+<p xml:lang="dan">Den blev fulgt af ph.d.-afhandlingen om dansespil og sanglege „Färöische Tanzspiele:</p>
+<p xml:lang="dan">Herkunft – Verbreitung – Tradition“, som er grundlaget for denne bogudgivelse.</p>
+<p xml:lang="nob">Andrea Susanne Opielka har siden 2004 været medlem i „Nordisk forening for folkedansforskning“ (Nff) og er fra 2008 knyttet til „Nordisk forskernetværk for vokal folkemusik“. Hun er medlem af Nff’s forfattergruppe, der i 2007 udgav bogen „Norden i Dans. Folk – Fag – Forskning“ på forlaget Novus, Oslo. For tiden arbejder</p>
+<p xml:lang="dan">Andrea Susanne Opielka med et Nff-projekt om børnesanglege, der bliver støttet af Nordisk Kulturfond.</p>
+<p xml:lang="sma"><em type="bold">Elin súsanna jacobsEn </em></p>
+<p xml:lang="olo">Konubrot</p>
+<p xml:lang="sme"><em type="bold">Elin súsanna jacobsen </em></p>
+<p xml:lang="olo"><em type="bold">Konubrot </em></p>
+<p><em type="italic">Konubrot </em>er heiðursrit til Elin Súsonnu Jacobsen, ph.d. í søgu, í sambandi við sjeyti ára dag hennara tann 6. mai 2011. Elin Súsanna hevur ríkað føroyska søguskriving við m.a. at taka upp sosialsøgulig evni. </p>
+<p>Tær 16 greinirnar í bókini eru valdar burtur úr rúgvuni, sum hon hevur latið úr hondum. Greinirnar eru skipaðar eftir evnunum heilsa, rúsdrekkamentan, vælferð, kyn og ymiskt.</p>
+<p xml:lang="nob">I S B N 978-99918-65-32-49 7 8 9 9 9 1 8 65 3 2 4</p>
+<p>Útgávur hjá Fróðskapi í 2011</p>
+<p xml:lang="eng"><em type="bold">Among the Islanders of the North </em></p>
+<p xml:lang="eng"><em type="bold">An Anthropology of the Faroe Islands </em></p>
+<p xml:lang="eng"><em type="bold">Edited by Firouz Gaini </em></p>
+<p xml:lang="eng"><em type="bold">This book presents new anthropological texts about the </em></p>
+<p xml:lang="eng"><em type="bold">Faroe Islands. The articles discuss culture and identity, social structure and rituals, religion and masculinity, etc. The aim of the book is to propose new perspectives – based on recent empirical research – on the culture of the insular society in the Northwestern corner of Europe. All the texts focus on the shift from tradition to modernity and from local to global in Faroese society. The book contributes to the scientific understanding of a small-scale society that is different from other Nordic societies, but still influenced by the same global processes of change.” </em></p>
+<p xml:lang="eng"><em type="bold">Among the Islanders of the North </em></p>
+<p xml:lang="eng"><em type="bold">An Anthropology of the Faroe Islands </em></p>
+<p xml:lang="nob">Faroe University</p>
+<p xml:lang="eng">Press</p>
+<p>Tórshavn 2011</p>
+<p xml:lang="nob">I S BN 978-99918-65-34-89 7 8 9 9 91 865 3 4 8</p>
+<p xml:lang="isl">Hentzasavn hjá Jóannesi í Króki frá 1819</p>
+<p xml:lang="nno">Faroe University Press</p>
+<p>Tórshavn 2011</p>
+<p><em type="bold">Jóannes í Króki á Sandi var umleið 25 ára gamal, tá ið hann eftir áheitan frá </em></p>
+<p><em type="bold">Hentze prósti skrivaði ta kvæðabókina, sum eftirtíðin gav navnið Hentzasavn. </em></p>
+<p><em type="bold">Stutt eftir fór Jóannes undir at skriva Sandoyarbók. Hesar bøkur eru varðar í føroyskari kvæðasavning. Hann brúkar sína egnu stavseting, sum er lagað eftir hansara úttalu, og hon endurspeglar tí hansara bygdamál, sum tað var á hansara døgum. </em></p>
+<p><em type="bold">Her verða tær elstu kvæðauppskriftirnar hjá Jóannesi í </em></p>
+<p><em type="bold">Króki útgivnar, og kvæðini verða prentaði við somu stavseting, sum hann brúkti. Kvæðasavnið er ein rík kelda til føroysk bygdamál, føroyska málsøgu og kvæðagransking. </em></p>
+<p><em type="bold">Útgevarin hevur skrivað inngang um savningarsøgu, innihald og málform í handritinum. </em></p>
+<p><em type="bold">Eivind Weyhe, sum hevur lagt útgávuna av Hentzasavni til rættis, er lektari í málfrøði á </em></p>
+<p><em type="bold">Føroyamáls deildini á Fróðskaparsetri Føroya. </em></p>
+<p xml:lang="nob">I S B N 978-99918-65-35-59 7 8 9 9 9 1 8 6 5355</p>
+<p xml:lang="deu">Hentzasavn</p>
+<p>FRØÐI 2/201116krøk hann í ein skiparabúk... søga Um ongUl og húk</p>
+<p>Krøk hann í einskiparabúk...</p>
+<p>Søga um ongul og húk</p>
+<p xml:lang="fin"><em type="bold">Jóan Pauli Joensen </em></p>
+<p>Søgu og samfelagsdeildin,</p>
+<p>Fróðskaparsetur Føroyajopajo@setur.fo</p>
+<p><em type="bold">Ongul og steinur á bekki </em></p>
+<p xml:lang="swe"><em type="bold">MYND </em>kRISFtFRíÐ ty </p>
+<p xml:lang="est">RIl17</p>
+<p>FRØÐI 2/2011krøk hann í ein skiparabúk... søga Um ongUl og húk</p>
+<p>Tað var ikki sørt, at onkur av okkara góðu, gomlu fiskimonnum kendi seg særdan, tá sangurin hjá Ann finni Nielsen <em type="italic">Í skúri </em>varð sungin av Jákup Marna Anthoniussen á sinni. Tí hesin sangur nertur ikki bert við eitt av teimum mest grundleggjandi virðunum í Klaksvíkini, nevniliga fiskivinnu og út róður, men hann setir tey í eitt provokativt ljós: </p>
+<p>Ja, gev mær fatur í tann mann, hann sum upp á húkin fann, so skal eg so buka hann, at hann aldri gloyma tað kann.</p>
+<p>Tí mangur maður hevur bannað, tað má ein og hvør ásanna, yvir henda lorta húk. Krøk hann í ein skiparabúk!</p>
+<p><em type="bold">Ongul og húkur </em>Hvør, ið hevur uppfunnið húkin, verður ikki lætt at siga, tí húkar í ymiskum líki eru at finna um allan heim langt aftur í tíðina, eisini her hjá okkum. At finna onglar og húkar í fornum útgrevstrum í Før oyum er sjáldsamt, men kortini eru hend inga onglar funnir, og teir hava havt ymiska stødd, og á summum hómast eisini agnhald, hóast teir eru illa farnir. </p>
+<p>Flestu av okkum kenna skjaldrið „Rógva út á Krabbaskel“, har tað verður sagt: <em type="italic">Misti burtur ongul og stein, ikki fekk eitt fiskabein </em>. Tað verður ofta sagt, at tey gomlu amboðini, ongul og steinur, ella vattarsteinur, tí við hvørt koyrdu teir stein í vøtt, gjørdu sítt, at gongd ikki kom á fiskivinnuna í Føroyum fyrr enn rættiliga seint. Jens Christian Svabo sigur í frágreiðing síni frá 1781 og 1782, sum kom út í bók í 1959, at føroyingar gjørdu mun á <em type="italic">ongli </em>og <em type="italic">húki </em>. Ongul var, hóast onglastøddirnar kundu vera ymiskar, størri enn húkur. Ongul smíðaðu menn sær vanliga sjálvir ella fingu onkran smið at smíða fyri seg. Teir smærru onglarnar brúktu teir, tá teir royndu eftir smáfiski og reyðfiski. Meðan ongul var heimagjørdur, var húkur handilsvøra í einahandlinum. Ein uppgerð frá 1709 yvir vørur á goymslu í einahandlinum, beint áðrenn hann gjørdist kongaligur, sigur okkum, at tá bar til at keypa bæði <em type="italic">hýsuhúkar, seiðahúkar og murtahúkar </em>í handlinum. Handilin hevði ikki færri enn 8075 hýsu húkar, 4655 seiðahúkar og 2330 murtahúkar á goymslu. </p>
+<p>Handilshúkarnar brúktu teir serliga til seið og smáfisk, tá teir fingu sær eitt kók inni á firðunum, tá teir dyrgdu ella stóðu á seiðabergi. Eisini brúktu teir lítlan húk, tá teir royndu eftir sílum við tráðu á vøtnunum. Á tekningunum á kortunum hjá Born frá 1793 og 1794 síggjast fólk standa á seiðabergi og menn dyrgja. Eisini er tekning av monnum, sum koma aftur av útróðri og hava roynt við <em type="italic">ongul </em>og <em type="italic">steini </em>. Ongul og steinur varð brúkt til stóran fisk á útróðri. Svabo helt ikki so nógv um summar av onglunum, sum hann ikki helt vera serliga funktionellar og helt ikki, at teir vóru nóg væl bukkaðir, og tískil sat agnið ikki so væl á summum av teimum. </p>
+<p>Eitt útróðrarsnøri, einar 70 favnar til longdar, varð spunnið av hampi og gjørt upp á eina snørissúlu ella vaðsúlu, vanliga bert nevnd <em type="italic">súla </em>. Tann niðasti parturin av snørinum, stykkið millum vaðstein og teym, varð nevndur <em type="italic">forsendi </em>. Ongulin, sum kundi vera einar tveir tummar víður millum agnhald og legg, varð bundin í eina stungu av neytahúð, og í stunguna varð teymurin bundin. Í vaðsteinin vóru høgdar furur, so snørið ikki gleið av honum. Vaðsteinur vigaði eini trý pund. Sjálvt snørið var bundið í teymin. Okkara fróði heimildarmaður, Svabo, veit at siga frá, at longu um 1780 – og </p>
+<p><em type="bold">Meðan ongul var heimagjørdur, var húkur handilsvøra í einahandlinum </em></p>
+<p xml:lang="isl"><em type="bold">Húkar í línuleypi. Mynd: </em></p>
+<p xml:lang="kal"><em type="bold">Gøtu fornminnissavn </em></p>
+<p xml:lang="swe"><em type="bold">MYND </em>kRIStFRíÐ ty </p>
+<p xml:lang="est">RIl</p>
+<p>FRØÐI 2/201118krøk hann í ein skiparabúk... søga Um ongUl og húkhelst væl áðrenn, eru havnarmenn farnir at brúka blýlodd undir snørinum. Hetta hava teir helst lært av útlendskum fiskimonnum.</p>
+<p>Umborð á báti høvdu teir eisini <em type="italic">sóknarjarn </em>og <em type="italic">klepp </em>, sum vóru gjørd føst í ein snørisstubba fyri at tey ikki skuldu verða mist. Bæði gjørdu somu nyttu, men kleppurin varð lagdur inn í eitt træhald, so hann ikki sakk. Í kleppinum var vanliga eitt jarneyga, ið kundi brúkast til at rætta ongulin upp aftur við, um tað var neyðugt. </p>
+<p>Sjálvt um føroyingar hava havt bæði stórar onglar og minni húkar at velja í langt aftur í tíðina, so dámdi teimum leingi best at brúka ongul og stein á útróðri, hóast teir væl vistu um minni húkar. Neyvan hevur hetta bert verið afturhald. Okkurt hevur ligið aftanfyri. Helst hevur tað verið tí, at teir bert vildu hava stóran fisk og ynsktu ikki at fiska tann smáa. Svabo greiðir frá, at miðalvektin fyri torrafisk og várfisk lá millum 10 og 16 pund og at fáa fisk, sum vigaði eini 36 pund, var ikki óvanligt. Hinvegin brúktu teir, tá teir royndu á miði, “ <em type="italic">smaa Fiskekroge tillige med de større, hvorved Yngelen selv opfiskes, inden den naar en nogenlundes Vækst </em>”, sum Svabo málber seg. </p>
+<p>Tað, sum er áhugavert í hesum, er tað, sum tað eisini verður sagt í øðrum høpi, at teir gomlu føroyingar hava havt eina fatan av, at veiða teirra, fyri at brúka nútíðarmál, skuldi verða <em type="italic">burðardygg </em>. Teimum dámdi ikki at fiska smáfiskin, men vildu hava, at hann varð stórur fiskur, áðrenn hann varð veiddur. Eins og tað í dag ikki verður hildið rætt at nýta trol við smáum meskum, so hildu teir tá, at tað ikki var rætt at nýta smærri húkar á útróðri – ein hugsanarháttur, sum eisini kom til sjóndar, tá føroyingar fóru at brúka línu. </p>
+<p>Svabo tykist at hava rættiliga góðan kunnleika til fiskiveiðu í Onglandi, Skotlandi og Hetlandi og ber ofta saman viðurskiftini har og í Føroyum. Eitt nú heldur hann, at stáltráðurin ella messingatráðurin, sum teir brúktu til dorg á seiðatráðuni, tá teir vóru á seiðabergi, ikki egnaði seg so væl til dorg, tí hann sakk so skjótt. Hann gevur okkum eisini eina góða lýsing av, hvussu menn sótu og bóru seg at, tá teir dyrgdu við fýramannafari.</p>
+<p>Um 1780 varð ikki gjørt nógv burtur úr agninum. Tað vanliga var at brúka <em type="italic">beitu </em>ella <em type="italic">foragn </em>. Beitan var eitt avlangt petti, ið varð skorið úr búkinum á fiskinum. Foragn varð skorið frammar<em type="italic">sløgir sær beitu og foragn sær sker </em>, sum Mikkjal á Ryggi sigur tað í sanginum <span type="quote">“Fiskurin bítur”</span>. Men teir kundu eisini egna við fiska hjarta ella einum kjøtbita av djóri ella fugli, tá teir royndu eftir reyðfiski. Tá teir fiskaðu síl, brúktu  laga á hálsinum á fiski, </p>
+<p><em type="bold">Helst hevur tað verið tí, at teir bert vildu hava stóran fisk og ynsktu ikki at fiska tann smáa </em></p>
+<p><em type="bold">Úr egningarskúri í Klaksvík 2011. Mynd: Norðoya fornminnissavn </em>19 </p>
+<p>FRØÐI 2/2011krøk hann í ein skiparabúk... søga Um ongUl og húkteir reyðmaðk til agn, men annars brúktu teir ikki annað agn enn beitu, og teir løgdu í 1617 klagu fram á ting um skotar, tí teir brúktu sild til agn og tískil gjørdu fiskin kræsnan, so at hann ikki tók so væl beitu.</p>
+<p><em type="bold">Nýggj veiðuamboð </em>Skotar fiskaðu nógv undir Føroyum í eldri tíð. Neyvan hevur verið nógv samband millum teir og føroyingar, sum vóru illa royndir av sjórænarum og fremmandum fiskimonnum. Tó tá hetlendingar byrjaðu at fiska við slupp undir Føroyum frá umleið 1850 rann saman millum føroyingar og hetlendingar, men tá hevði eisini Pløyen amtmaður og føroysku fylgisneytar hansara longu verið á teirri víðagitnu kanningarferðini til Hetlands í 1839. Føroyingar komu nógv í samband við hetlendingar. Hetta samband hevur óivað havt minst líka stóran týdning fyri hugburðsbroytingina hjá vanliga manninum sum hetlandsferð Pløyens. Tí ikki bert lærdu hetlendingar føroyingar at seta gággulínu til felags gagn, tí hetlendingar keyptu gággurnar til agn, men tað vóru eisini fleiri føroy<em type="italic">sperðlagreiðir, </em>har ein teinur varð stoyptur inn í loddið, og ein húkur bundin í endan á teinunum. Hetta alt ávegis til tað klassiska skipssnørið, sum eisini var at finna í smálíki sum t.d. skrubbulodd at nýta inni á firðunum.  ingar, sum fingu sær tjans um sumrarnar við het lendingum. Hetlendingar royndu mest við snøri undir Føroyum – einum snøri, sum ikki var ólíkt tí, sum kom at verða tað klassiska veiðuamboðið um borð á sluppunum – snørið við blýloddi við einum bogaðum teini tvørtur í gjøgnum og tveimum pilkum. Men áðrenn tað kom so langt, var ein tíð við ávirkan uttanífrá og egnum tillagaðum upp finningum við støði í teimum grundreglum, sum var galdandi fyri gomul amboð sum ongul og stein og tí nýggja, teir lærdu av hetlendingum. Havnar menn kendu longu til blýlodd í 1780, og í Klaks vík brúktu teir eitt amboð, sum teir nevndu </p>
+<p>Tað vanliga fyrr á útróðri og fram til umleið 1. heims bardaga eisini umborð á sluppunum var at halda snørið stilt niðri við botn. Tá var tað eisini vanligt at hava fýra húkar á fiskiloddinum. Tveir stert húkar vóru bundnir í ovarlaga á teyminum, meðan hinir báðir húkarnir vóru knýttir í endan á teyminum. Tað er hetta amboð, sum Mikkjal á Ryggi yrkir um í sanginum <span type="quote">“Fiskurin bítur”</span>:</p>
+<p>Fýra eru á. O, vælsignaða fløkja! Loddið við borðið! So lyfta vit teir inn. Stendur illa í? Ja! So mást tú teir krøkja; høgg teimum kleppin í nakka ella kinn. Syft teir inn um stokk, gev teimum á knokk, slagbeit og greið so, tí kurlað er tað nokk.</p>
+<p><em type="bold">Við vaðbeinið </em>Frá umleið 1. heimsbardaga lærdu føroyingar <em type="italic">at fíla </em>. Tað var, tá <em type="italic">pilkurin </em>, ella <em type="italic">franshúkurin, </em>kom at verða bundin í teymum. Helst er hetta komið av ávirkanini frá fronskum fiskimonnum. Øllum dámdi ikki pilkin og at fíla í fyrstanini, men menn vandust skjótt við hetta nýggja fiskilagið, sum skjótt kom at verða tað vanliga eisini á útróðri. Tað, sum var munur á einum vanligum húki og pilkinum, var, at tað var stoyptur ein blýfiskur um leggin á húkinum. Til hetta høvdu teir serligar pilkaformar úr fitisteini. </p>
+<p>Tað fiskisnørið, sum teir brúktu umborð á sluppunum, var úr hampi, og hvørt stykkið var 60 favnar. Á Suðurlandinum var snørið vanliga 1½ stykki, á Eysturlandinum 2½ stykki. Sjálvt loddið vigaði vanliga 7 pund. Tá teir fóru at fiska við Grønland, brúktu teir 6 pundslodd, tí har gekk fiskurin meira ovarlaga. Ungir dreingir høvdu lættari lodd. Tað var eitt við skipssnørinum og tað var, at longdin á teymunum var ymis, alt eftir hvar á lúnningini menn stóðu og fiskaðu. Longstu teymarnar høvdu teir, sum stóðu frammi á bógnum, har vóru teir 2 metrar. Teymurin skuldi vera so langur, at fiskurin skuldi kunna svimja í vatnskorpuni, tá loddið lá á dekkinum. Hetta fyri at teir kundu syfta hann innanborða á sjálvum teyminum, so hann ikki fór av húkinum.</p>
+<p>Sjálvdráttarskipanin, sum føroyingar lærdu av hetlendingunum, førdi nógva pátrúgv við sær, og tí gjørdu teir eisini mangt fyri at fáa størri fiskieydnu. Eitt nú við at koyra ymist <em type="italic">undir vavið </em>v.ø.o. har sum húkurin var rørdur upp í teymin. Eitt nú vóru tað teir, sum løgdu eitt sindur av hári frá skøpunum av konuni undir vavið fyri at fáa betri fiskieydnu. </p>
+<p><em type="bold">Um 1780 varð ikki gjørt nógv burtur úr agni num </em></p>
+<p xml:lang="isl"><em type="bold">Seymur í ermu á fiskimannaklæðum úr neytahúð. </em></p>
+<p><em type="bold">Mynd: Gøtu fornminnissavn </em></p>
+<p xml:lang="isl"><em type="bold">Úr egningarskúri í </em></p>
+<p><em type="bold">Klaksvík 2011. Mynd: </em></p>
+<p><em type="bold">Norðoya fornminnissavn </em></p>
+<p xml:lang="swe"><em type="bold">MYND </em>kRIStFRíÐ ty </p>
+<p xml:lang="est">RIl</p>
+<p>FRØÐI 2/201120krøk hann í ein skiparabúk... søga Um ongUl og húk</p>
+<p>Tað var ein tíð, tá blýlodd vórðu stoypt í Føroyum bæði til snøri og <em type="italic">snellu </em>. Tað var ikki fyrr enn í 1957, at tað kom ein nýskapan av týdningi, tí tá fóru teir at brúka snellu. Hetta veiðiamboðið hevði eitt lodd í endanum og fleiri húkar, men vanliga ikki tein, og snørið varð drigið upp á einum hjóli. Síðani tá hevur snellan ment seg nógv og er nú elektron isk og dátu stýrd, men tað gamla snørið verður enn nýtt til fiskiskap lið um lið við toskatráðu og onnur ný mótans veiðuamboð. </p>
+<p><em type="bold">Línan </em>Tað hoyrir til okkara søguliga barnalærdóm, at tað var Christian Pløyen, amtmaður, sum eftir at hava verið á kanningarferð í Hetlandi í 1839 hevði línu við sær aftur til Føroya. Til hetta er kortini at siga, at havnarmenn longu í 1777 plagdu at seta skrubbulínu við seiðahúkum. Hetta høvdu teir lært av fremmandum sjófólki, sum kom inn á Havnina. So havnarmenn vistu longu tá, hvussu lína varð brúkt. </p>
+<p>Línan kom at verða brúkt eftir Hetlandsferðina, men hon varð ikki dámd av øllum og hon elvdi eisini til stríð millum útróðrarmenn. Tað vóru tí fleiri, sum vildu hava sett bann móti línu, tí teir mettu, at línan og tað nógva agnið var til ampa fyri snørisfiskiskapin. Eisini hildu teir seg leggja til merkis, at eftir at lína var komin í brúk gjørdist fiskurin smærri, og hetta fekk línan við sínum smáu húkum skyldina fyri, tí nú varð eisini ungfiskurin fiskaður. Menn vóru ræddir fyri, at fiskurin varð avoyddur. Málið kom fyri Løgtingið, har tað var viðgjørt nágreiniliga úr fleiri sjónarmiðum, og endin varð, at ein nýggj fiskiveiðilóggáva kom í gildi í 1893. Skipað var nú soleiðis fyri, at tey einstøku kommunu stýrini gjørdu reglugerðir fyri, hvørji fiski amboð skuldu verða brúkt á firðum og sundum í kommununi. Hinvegin mentist línufiskiskapurin við árabátum alsamt, og tað var ikki ein heilt vandaleysur fiski skapur úti á víðum havi við borðfyltum báti.</p>
+<p>Línan kom serliga at fáa stóran týdning norðanfyri og vestanfyri. Eitt nú verður sagt úr Mykinesi í 1892, at har fiskaðu teir mestsum bert við línu. Í Suðuroy kom lína ikki av álvara í nýtslu fyrr enn fyrst í 1920unum.</p>
+<p>Ikki bert fingu árabátarnir ein serligan <em type="italic">línubekk </em>, men lutir sum <em type="italic">línuleypur </em>, <em type="italic">línutrog </em>og <em type="italic">kíkar </em>komu at verða vanlig. Mest vanligi kíkurin – grindakíkur – varð gjørdur av maganum á grindahvali, ið var blástur upp, turkaður og tjøraður, og kíkahjarta úr viði við holi í bæði til at blása í og hol til at binda enda í. Eisini gjørdu teir kík úr grindavælindi, úr kálvi, flettan í bjølg, og dømi er eisini um frens, flettan í bjølg  frensakík. </p>
+<p>Sjálvt um beita og foragn leingi vóru tað agn, teir brúktu mest, so fóru teir sum frá leið eisini at brúka annað agn, eitt nú krækling, øðu og fliðu, men tað sum kom at verða álitið, serliga tá teir royndu við línu, var sildin. At brúka gággu til agn og at seta gággulínu høvdu føroyingar lært av</p>
+<p><em type="bold">Ikki bert fingu árabátarnir ein serligan línubekk, men lutir sum línuleypur, línutrog og kíkar komu at verða vanlig </em></p>
+<p><em type="bold">Línubekkurin oman á bekkinum. Línuleypur í skutinum. Mynd: Gøtu fornminnissavn </em></p>
+<p xml:lang="swe"><em type="bold">MYND </em>kRIStFRíÐ ty </p>
+<p xml:lang="est">RIl21</p>
+<p>FRØÐI 2/2011krøk hann í ein skiparabúk... søga Um ongUl og húkhetlendingum. Tað var soleiðis nógv, sum broyttist upp undir aldarskiftið 1900 og aftaná, men so við og við fóru teir at brúka meira og meira útgerð, sum varð keypt. Hetta var galdandi bæði fyri flot og línu og línuleyp.</p>
+<p>Vanliga høvdu húkarnir ikki eyga, men vórðu rørdir upp í teymin, og línan varð løgd í línuleyp, men hetta varð seinni skift út við línustamp, og í staðin fyri at røra línuhúkarnar, vórðu teir nú rippaðir knýttir upp í teymarnar við einum bregdi um hornið á húkinum. Tað var sera vanligt, at fólk – eisini børn – fingu húkar og teymar heimvið at rippa fyri eina ávísa upphædd, og vunnu tey sær nøkur oyru á henda hátt, so teir altíð høvdu nóg mikið av teymum til línuna.</p>
+<p>Lína verður enn brúkt nógv bæði umborð á línubátum og á útróðri, men í dag brúka teir mestsum bert innfluttar altjóða <em type="italic">Mustad </em>húkar við eyga í, har teymurin varð bundin í. </p>
+<p>Eg standi her so kaldur og stúri og hyggi í ein fúlan fløkjustamp í einum skitnum og køldum egningarskúri. Jú, við línu kempa vit ein harðan kamp.</p>
+<p>Sárhentur og blóðið úr fingrum rennur, har stendur man og pressar allan dag, ímeðan agnaskræpan í fingrarnar brennur, og so í handskar, men hvat hjálpir tað.</p>
+<p>Soleiðis yrkir Annfinn Nielsen úr egningarskúri num. Men latum okkum enda hesa søguna um ongul og húk. Franski listamaðurin René Magritte gjørdi í 192829 eina mynd av eini pípu, og niðast á myndini skrivaði hann <em type="italic">Leci n´est pas une pipe </em>, sum merkir „Hetta er ikki ein pípa<span type="quote">“. Spurningurin er so, um húkurin, sum teir á sjómannadegnum í fjør settu upp í rundkoyringini í Klaksvík, er ein húkur ella ikki. Hetta er sjálvandi ein filosofiskur spurningur, sum kann diskuterast, tí í roynd og veru er tað ein yvirvaksin Mustadhúkur, sum tað ikki ber til at fiska við. Umframt at tað varð hildið, at húkurin stóð so, at hann var vandamikil fyri ferðsluna, skapti hann miklan orðadrátt, um talan er um list ella ikki list, og eitt slíkt orðaskifti er í sjálvum sær áhugavert. “Vit eru stoltir av húkinum og arbeiðinum, sum okkara menn hava lagt í hann. Eg tori at siga, at eingin annar húkur í hesari støddini er sum hesin, ið vit hava gjørt...”</span>, sigur ein av teimum, sum hava gjørt húkin í Norðlýsinum, og hvør hoyrir ikki fyri sær Jákup Weihe syngja: „Latið húkin standa“. </p>
+<p>Listalist ella fólkalist – latið bert orðaskiftið halda fram, tí húkurin er nú vorðin ein samantrýst ímynd av øllum tí, sum klaksvíkingar halda, at Klaksvíkin stendur fyri.</p>
+<p><em type="bold">At brúka gággu til agn og at seta gággulínu høvdu føroyingar lært av hetlendingum </em></p>
+<p><em type="bold">Húkurin í Klaksvík </em></p>
+<p xml:lang="swe"><em type="bold">MYND </em>kRIStFRíÐ ty </p>
+<p xml:lang="est">RIl</p>
+<p>FRØÐI 2/201122bjarnardýr í føroyUm - hvat er eitt bjarnardýr og hvar halda tey til?</p>
+<p>Hvat er eitt bjarnardýr, munnu tey flestu hugsa. Tað er ikki ein stór bjørn, nei, tvørturímóti. Hetta er eitt evarska lítið dýr, sum tó kann líkjast einari lítlari bjørn til tíðir. Hesu smáu og tó fleirkyknaðu dýr eru vanliga ikki meiri enn hálvan millimetur til longdar, og tí má sjóneyka til fyri at kanna hesi dýr.</p>
+<p><em type="bold">Lívfrøðin hjá bjarnadýrum </em>Bjarnardýr liva vanliga í mosa bæði á steinum og trøum, í vátum mosa í keldum, áarløkum og </p>
+<p xml:lang="isl"><em type="bold">Birna V. Trygvadóttir </em>birna@havbotnur.fo </p>
+<p>Havlívfrøðiliga royndarstøðin</p>
+<p>Bjarnardýr í Føroyum Hvat er eitt bjarnardýr og hvar halda tey til?vøtnum. Tað ber eisini til at finna bjarnardýr í mosa í eitt nú takrennum. Sløgini, sum liva í sjónum, halda til í skelsandi. Hóast tað finnast nógv sløg á landi, so er tað týdningarmesta fyri hesi smáu dýr at hava vatn kring seg at liva og virka í.</p>
+<p>Bjarnardýrini hoyra til sítt egna fylki, sum kallast <em type="italic">Tardigrada </em>á latíni (mynd 2). Tey eru bólkað í tveir flokkar <em type="italic">Heterotardigrada </em>og <em type="italic">Eutardigrada </em>. Til Hetero tardi gradarnar roknast øll tey sløgini, ið liva í sjógvi, um framt tey sløgini, sum hava skjøldur </p>
+<p xml:lang="eng"><em type="bold">Mynd 1. </em></p>
+<p><em type="italic"></em><em type="bold">, </em>♂ <em type="bold">. Hetta slagið er rovdýr og størri enn flest onnur sløg, etur m.a. onnur bjarnardýr og hjóldýr (Rotifera). Tað sæst, at hetta er kalldýr, tí onnur klógvin á fremstu beinunum er umskapað til ein krók (hvítir pílar), ið m.a. verður nýtt í sambandi við paring. Kvenndýrið hevur vanligar kløur. Mynd: Birna V. Trygvadóttir </em>23 </p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Bjarnardýr í Føroyum - Hvat er eitt Bjarnardýr og Hvar Halda tey til?(plátur) á kroppi num og liva á landi (mynd 5). Eutardigradar eru øll tey beru sløgini (mynd 1, 3 og 4). Tey hava ikki skjøldur á kroppinum og hesi liva flest øll á landi. Higartil eru funnin umleið 1000 sløg av bjarnardýrum tilsamans bæði í sjógvi og á landi.</p>
+<p>Bjarnardýrini hava avlangan kropp, sum kann býtast í 5 partar; høvd og fýra pør av beinum við klóm, soleiðis at tey kunnu halda sær føstum í undirlagnum, tey ganga á. Summi sløg hava eygu, onnur ikki. Bjarnardýrini hava eitt vælindi, ið m.a. umfatar oddhvassar píkar báðumegin við. Hesir kunnu førast út gjøgnum munnin so mikið, at teir</p>
+<p><em type="bold">Nøkur sløg eru kannibalar og eta onnur bjarnar dýr </em>kunnu seta hol á eitt nú plantukyknur, algur og slíkt, sum bjarnardýrini eta. Í vælindinum eru eisini nógvir vøddar, sum gera, at maturin kann súgvast inn í munnin. </p>
+<p>Nøkur sløg eru kannibalar og eta onnur bjarnardýr, sum t.d. <em type="italic">Milnesium tardigradum </em>(sí mynd 1). Hetta er eisini eitt av teimum størstu sløgunum, tey kunnu gerast yvir 1 millimetur til longdar. </p>
+<p>Eftir vælindið byrja garnarnir. Omanfyri liggur egg ella sáðbøllur, ið liggur sum ein sekkur oman fyri tarmin, sum hevur felags rás út við baktarmsopið. Eisini finnast smáir kertlar við baktarmin, ið virka sum nýru. Av tí at bjarnardýrini eru so smá, nýtist</p>
+<p><em type="bold">Mynd 3. Ljósmikroskopimynd av livandi feskvatnsbjarnardýri, </em></p>
+<p xml:lang="isl"><em type="italic"></em><em type="bold">, ið hoyrir til flokkin Eutardigrada. Hvítu pílarnir vísa óbúgvin egg í eggjabøllinum. Mynd: Birna V. Trygvadóttir </em></p>
+<p><em type="bold">Mynd 4 A &amp; B: Tekning av egginum hjá , ið er eitt nýtt slag fyri vísindini og funnið fyri fyrstu ferð í Føroyum. A: Eggið uttaná við útvøkstrum, B: Innaní sama eggi sæst eitt fostur. Tekningar eftir Birgitte Rubæk </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 5. </em></p>
+<p><em type="italic"></em><em type="bold">, </em>♀ <em type="bold">. Skanning-elektrónmikroskopi-mynd av heterotardigradi, ið livir í mosa. Pláturnar í skjøldrinum síggjast týðiliga á bakinum við ymsum útvøkstri á, so sum tenn, píkar og hár. </em>j <em type="bold">: kvennkyns-op. </em>lt <em type="bold">: síðu-enda pláta (latero-terminal plate) Mynd: Birna V. Trygvadóttir </em></p>
+<p><em type="bold">Mynd 2. Flokking av bjarnardýrum </em></p>
+<p xml:lang="isl"><em type="italic">Fylki: </em></p>
+<p xml:lang="vep">Tardigrada (Bjarnardýr)</p>
+<p xml:lang="isl"><em type="italic">Flokkur: </em></p>
+<p xml:lang="spa">Heterotardigrada</p>
+<p xml:lang="som">Eutardigrada</p>
+<p xml:lang="isl"><em type="italic">Hópur: </em></p>
+<p xml:lang="som">Arthrotardigrada</p>
+<p xml:lang="eng">Echiniscoidea</p>
+<p xml:lang="swe">Apochela</p>
+<p>Parachela (í sjógvi; 6 ættir) (í sjógvi, á landi, í feskvatni; 4 ættir) (á landi; 1 ætt) (á landi, í feskvatni, fá í sjógvi; 7 ættir)</p>
+<p xml:lang="nno">Elisabeth Sande 30.11.11 21:45 <em type="bold">Formatted: </em></p>
+<p xml:lang="eng">Centered</p>
+<p xml:lang="deu">FRØÐI 2/201124</p>
+<p>Bjarnardýr í Føroyum - Hvat er eitt Bjarnardýr og Hvar Halda tey til?píkar, trí hyrntar tenn ella long, tunn hár. Meira sjáld samt, sum hjá <span type="quote">“ballóndýrinum”</span>, ið er eitt slag, sum livir á botni úti á Føroya banka, eru fleiri ballónir, ið hanga fast á afturkroppinum (sí mynd 5, 6 og 7).</p>
+<p><em type="bold">Kunnu bjarnardýr livna upp frá deyðum? </em>Ein einastandandi eginleiki, bjarnardýrini hava, er, at tey kunnu fara í eitt slag av dvala, kallað crypto biosa, tá ið liviumstøðurnar versna munandi. Fleiri ytri viðurskifti kunnu seta hetta í gongd. Tað er serliga, um vatnið guvar burtur ella frystir. Súr evnistrot og broytingar í saltinnihaldi kunnu eisini ávirka. Hetta er ein eginleiki, ið bjarnardýr á landi hava ment til fulnar fyri at klára tær ógvusligu broytingarnar í teirra umhvørvi. Mosi broytist alt eftir árstíð. Vatnið guvar burtur um summarið og frystir um veturin. Fyri at koma livandi frá hesum byrjar bjarnardýrið at skilja vatnið úr kroppinum og tornar tí upp og gerst minni enn áður. Beinini og høvdið verða drigin inn í kroppin, sum verður flatur, og á henda hátt minka tey um yvirflatuna. Evna skiftið (metabolisman) í kyknunum minkar niður í nærum einki. Hetta stigið kallast tunnu stigið. Í hesum standinum tola bjarnardýrini nærum alt av ytri ávirkan. Verða </p>
+<p xml:lang="eng"><em type="bold">Mynd 6. </em></p>
+<p>gladiator <em type="bold">, ein heterotardigradur, ið livir í mosa. Hetta slagið er eyðkent við at hava ein langan pík mitt á bakinum Mynd: Birna V. </em></p>
+<p><em type="bold">Trygvadóttir </em>teimum ikki andingarskipan, tey anda gjøgnum húðina. </p>
+<p>Bjarnardýrini hava kynsliga nøring og eru einkynjað, tó finnast sløg, ið eru herma frodittar. Partheno genesa er eisini vanlig (t.e. eggið nørist uttan at verða gitt við sáðkyknu). Nøkur sløg víggja rund og sløtt egg í sambandi við hamskifti, og tey verða liggjandi eftir í gomlu húðini. Onnur sløg víggja egg við ymiskum útvøkstrum, ið hjálpa til, soleiðis at tey lættliga kunnu berast langa leið við vindi og soleiðis spjaða seg júst sum plantupollen (sí mynd 4).</p>
+<p>Heterotardigradar eru sum áður nevnt tey sløgini, ið hava plátur á bakinum. Hesar plátur eru ymiskar frá ætt til ætt. Á plátunum kunnu vera ymiskir útvøkstir, ið kunnu vera ógvuliga fjølbroyttir og eru eyðkendir fyri slagið, og tí sera hent í navngreining. Tey mest vanligu viðhangini eru smáir ella stórir</p>
+<p><em type="bold">Tey mest vanligu viðhangini eru smáir ella stórir píkar, tríhyrntar tenn ella long, tunn hár </em>25 </p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Bjarnardýr í Føroyum - Hvat er eitt Bjarnardýr og Hvar Halda tey til?</p>
+<p><em type="bold">Mynd 7. Tekning av einum nýggjum bjarnardýraslagi, , funnið á Føroyabanka. Hetta slagið hevur nakrar útvøkstir á bakkroppinum, ið líkjast ballónum. Hildið verður, at ballónirnar hjálpa dýrinum á flot, soleiðis at tað flýtur eitt lítið vet oman fyri sjálvan botnin. Tekning: Stine Elle </em>umstøðurnar aftur til vildar, livna tey uppaftur, og við hesum kunnu bjarnar dýrini leingja um lívið í upp til fleiri ára tíggjur. Granskarar hava funnið útav, at sukrið tre halosa hevur ein týðandi leiklut í kyknunum fyri at verja tær móti at torna upp. </p>
+<p>Nógvar royndir eru gjørdar við bjarnardýrum í tunnustigi fyri at vita, hvussu nógv tey tola. Tey eru t.d. koyrd í flótandi køvievni (196°C). Tey tola eisini nógvan hita og at verða útsett fyri røntgen og uv strálur. Eisini eru royndir gjørdar av bjarnardýrum, sum eru send út í rúmdina, har tey eru útsett fyri vakum og kosmiskari stráling og nærum absolutta nullpunktinum (273°C)  og alt hetta klára tey væl.</p>
+<p><em type="bold">Fleiri nýggj sløg fyri vísindini eru funnin í Føroyum, bæði á sjógvi og á landi </em>Fleiri nýggj sløg fyri vísindini eru funnin úti á Føroyabanka. Hetta var í samband við BIOFAR kann ingarnar, sum vórðu gjørdar fyrst í 1990<em type="italic">Tanarctus bubulubus </em>, heimsins løgnasta bjarnardýr við 18 ballónum á afturkroppinum (sí mynd 7), ið bleiv lýst av Aslak Jørgensen og Reinhardt Møbjerg Kristensen í 2001.  unum. Lýsingar av hesum sløgum eru útgivin í altjóða tíðarritum, sum t.d. </p>
+<p>Í Føroyum er ikki so nógv gjørt burturúr áður at kanna bjarnardýr á landi. Til fyri stuttum vóru 15 sløg av bjarnardýrum skrásett á landi og í vøtnum. Hesi sløg vórðu funnin av útlendskum granskarum í tíðarskeiðnum frá 1908 til 1987.</p>
+<p>Í sambandi við høvuðsuppgávu mína, har eg kannaði bjarnardýr í Føroyum, vórðu 34 nýggj sløg skrásett fyri Føroyar umframt tey 15. Kanningin fevndi um bjarnardýr í feskvatni og á landi, frá fjøruni og upp í 726 metra hædd. Í kanningini vóru eisini staðfest trý nýggj sløg fyri vísindini. Tey trý sløgini vóru nær skyld, og tey vóru so sermerkt, at tey kundu ikki bólkast saman við øðrum kendum ættum, og tí var neyðugt at lýsa eina nýggja ætt. Hesi dýr eru nú lýst í altjóða tíðarritinum <em type="italic">Zootaxa </em>saman við fyrrverandi vegleiðara mínum Reinhardt M. Kristensen, professara, frá Zoologisk Museum í Keypmannahavn. </p>
+<p><em type="bold">Nógvar royndir eru gjørdar við bjarnardýrum í tunnustigi fyri at vita, hvussu nógv tey tola </em></p>
+<p>FRØÐI 2/201126granskarar skulu duga Betur at miðla</p>
+<p>Granskarar skulu duga betur at miðla</p>
+<p>Jørn Hurum, fornverufrøðingur og sjálvlærdur serfrøðingur í vísindamiðling, var gestur og fyrsti fyrilestrarhaldari á ársins Vísindavøku, sum Gransk ingar ráðið skipaði fyri fjórða árið á rað. Kjarnin í hansara fyrilestri var, at granskarar hava eina skyldu at samskifta síni granskingarúrslit greitt og einfalt til almenningin, eitt nú av tí einføldu orsøk, at tað í flestu førum er skattgjaldarin, sum rindar fyri gransking teirra</p>
+<p xml:lang="isl"><em type="bold">Jørn Hurum, fornveru frøð ingur og sjálvlærdur serfrøð ingur í vísinda miðling </em></p>
+<p xml:lang="isl"><em type="bold">Eftir Sámal Soll </em>27 </p>
+<p>FRØÐI 2/2011granskarar skulu duga Betur at miðla</p>
+<p>Jørn Harald Hurum er føddur 4. november í 1967 í Drammen í Noregi. Hann fór at lesa fornverufrøði á Oslo universiteti í 1987. Eftir loknan lestur í 1993 fór hann undir eina doktararitgerð, sum hann læt inn í 1997. Síðani tá hevur hann starvast á Oslo universiteti og hevur staðið fyri nógvum av kendastu verkætlanum teirra. Hann er giftur Merethe Frøyland, sum eisini er granskari, og saman hava tey eina dóttir, Ida.</p>
+<p>Granskarar kunnu læra av fótbóltshetjum og poppstjørnum, tá tað snýr seg um at fáa talutíð í miðlunum, heldur Jørn Hurum. Serliga er tað ein trupulleiki, at granskarar og vísindafólk ikki tosa sama málið sum vanliga fólkið. “Granskarar og vísindafólk tosa eitt stammumál,” sigur Jørn Hurum. Tað er so torskilt fakmál, at mangan skilir eitt lið av granskarum ikki stammu málið hjá øðrum granskarum. Og hvussu skal so nakar annar skilja tað, sigur granskarin, sum eisini hevur hildið fleiri fyrilestrar fyri journalist lesandi í Noregi.</p>
+<p>Hetta stammumálið er kortini neyðugt í granskingar umhvørvinum, tí samskiftið skal vera so ná greiniligt sum gjørligt. Men hetta málið hóskar ikki til miðling út eftir, staðfestir Jørn Hurum.</p>
+<p><em type="bold">Uppmerksemi alneyðugt fyri fígging </em>Granskarum tørvar fígging til tær verkætlanir, sum teir standa fyri. Tí er mangan neyðugt at skapa um røðu um júst teirra verkætlan. Men møtið millum vísinda fólk og fjølmiðlafólk er mangan fult í mis skiljingum, heldur Jørn Hurum.<span type="quote">“Teir flestu granskararnir koma sera ernir aftur á granskingarstovnin eftir fyrstu samrøðuna við ein journalist,”</span> sigur Jørn Hurum, <span type="quote">“men tá greinin kemur í blaðið, finna teir eina villu fyri og aðra eftir. So verða teir hartaðir av starvsfeløgunum fyri at hava sagt okkurt skeivt.”</span> </p>
+<p>Mangan hevur hetta lítið uppá seg og stendst ofta av tí journalistiska arbeiðsháttinum, heldur Jørn Hurum. Journalistar noyðast at vinkla søgur soleiðis, at dentur verður lagdur á eitt avgerandi evni, meðan aðrir smálutir als ikki verða nevndir. <span type="quote">“Tú fært ikki broytt journalistarnar,”</span> sigur Jørn</p>
+<p xml:lang="isl">Hurum, <span type="quote">“tí er umráðandi, at granskarar gevast við at halda, at teir skulu miðla til aðrar granskarar. Skal man røkka vanliga fólkinum, so skal man fara heilt til markið til undirhaldsvinnuna. Boðskapurin skal vera einfaldur og stuttur, tí allar tær vísindaligu fótnoturnar sleppa ikki við í tíðindasøguna.”</span></p>
+<p><em type="bold">Ein miðlameistari </em>Kendast man Jørn Hurum vera fyri sonevnda Ida fossilið, ið hann uppkallaði eftir dóttur síni Idu, tí dóttirin var til aldurs við fornapuna, tá hendan doyði. Idafossilið fekk eyknevnið <span type="quote" xml:lang="eng">“the link”</span>, sum er eitt navn, ið leggur seg upp at kenda hugtakinum <span type="quote" xml:lang="eng">“the missing link”</span>, men sambært Hurum er tað ikki <span type="quote" xml:lang="eng">“missing”</span> longur, tí nevnir hann tað bert <span type="quote" xml:lang="eng">“the link”</span>. </p>
+<p><em type="bold">Ida-fossilið, ið Jørn Hurum uppkallaði eftir dóttur síni Idu<span type="quote">“Granskarar og vísindafólk tosa eitt stammu mál,”</span> sigur Jørn Hurum </em></p>
+<p>FRØÐI 2/201128granskarar skulu duga Betur at miðla“Tá man letur eina so stóra søgu frá sær sum Ida, tá fær tað skjótt sítt egna lív, men har gjørdu vit eitt umfatandi fyrireikingararbeiði fyri at tryggja okkum, at miðlaáhugin fór at vera so stórur sum gjørligt. Umframt sjálva vísindaligu greinina, ið skuldi leggjast fram, høvdu granskararnir eisini fyrireikað eina heimasíðu, eina bók og eina dokumentarrøð at nýta at marknaðarføra granskingarúrslitini. Somuleiðis høvdu teir skipað fyri stórum hátíðarhaldi í New York, har Bloomberg, borgarstjóri, avdúkaði fossilið fyri heimspressuni. Samstundis broytti Google sítt eyðkenda búmerki í ein dag til eitt sermerkt búmerki, ið nýtti Idafossilið sum part av bókstavunum í Googlenavninum. Hesi átøk góvu heimasíðuni hjá verkætlanini heili 1,2 milliardir klikk upp á 26 tímar.</p>
+<p>Hurum, sum í mong ár hevði havt áhuga í at miðla vísind til almenningin, eitt nú umvegis sendingar í norska kringvarpinum NRK, hevði frammanundan havt sera stóra eydnu at skapa umrøðu um eitt stórt ókent dinosaurfossil á Svalbard. Hann valdi at samstarva við History Channel, ið framleiddi ein dramatiskan dokumentarfilm við heitinum Predator X, sum var at síggja kring allan heim. “So við og við havi eg lært hvat riggar og hvat ikki riggar. Vilt tú hava okkurt á forsíðuna, so mást tú læna frá filmum, teknirøðum ella tónleiki. Við Idafundinum søgdu vit, at hetta var sum at finna <span type="quote" xml:lang="eng">“the lost ark”</span>, og tað var jú at sipa beinleiðis til Indiana Jones. Somuleiðis við Predator X, ið er ein superhetja í Marvel alheiminum,” sigur Jørn Hurum.</p>
+<p><em type="bold">Uppmerksemissøkjandi granskari </em>Spurdur, hvat hann svarar teimum, ið siga, at hann bert vil hava uppmerksemi og nýtir vísindi til egnan vinning, svarar Jørn Hurum bart út: <span type="quote">“Eg vil hava uppmerksemi, tað skal ongin ivi vera um tað. Uppmerksemi er alneyðugt fyri at draga fígging til verkætlanina og eisini at draga tey bestu fólkini til.”</span> </p>
+<p>Hann tvíheldur tó um, at hann fær ongan pening persónliga burtur úr granskingarverkætlanunum,</p>
+<p>Granskingarráðið skipar árliga fyri Vísindavøku. Tiltakið er partur av European Researchers’ Night, sum hvørt ár verður fyriskipað 4. fríggjakvøld í september og í døgunum frammanundan. Tiltakið verður hildið í býum kring alt Evropa. Endamálið við European Researchers’ Night er at økja um áhugan fyri gransking og fyri gransk ingarúrslitum í sam felagnum. Vísindavøkan 2011 varð hildin í Norður landahúsinum í døgunum 21 – 23. september.</p>
+<p>Vísindavøkan 2012 verður 26.28. september.sum hann stendur fyri, hvørki úr dinosaurunum á Svalbard ella Idafossilinum. Hetta er hann eisini blivin kannaður fyri.</p>
+<p>Uttanhýsis fíggjarligur stuðul  Hurum er tó ikki bangin fyri at nýta orðið ‘sponsorat’  er umráðandi, vilt tú sum granskari hava frælsi til at granska í tí, sum tú sjálvur metir er týdningarmikið. <em type="bold">“Eg vil hava uppmerksemi, tað skal ongin ivi vera um tað. </em></p>
+<p><em type="bold">Uppmerksemi er alneyðugt fyri at draga fígging til verkætlanina og eisini at draga tey bestu fólkini til.” </em>29 </p>
+<p>FRØÐI 2/2011granskarar skulu duga Betur at miðla</p>
+<p>Og tað hevur eisini eydnast Hurum væl at fáa sponsorar til sínar verkætlanir. Olju feløgini eru sera áhugað í tí uppmerksemi, sum Predator X dinosaurgranskingin á Svalbard gevur, og tær amerikonsku sjónvarpsrásirnar vilja fegin vera við at gera dramatiskar dokumentarsendingar um hesar risastóru og óhugnaligu dinosaurarnar, sum granskararnir finna.</p>
+<p><em type="bold">Finn gylta lutin </em>Jørn Hurum mælir granskarum, ið vilja út við sínum granskingarúrslitum, til eisini at granska journalistiska arbeiðsgongd. Eitt nú kanna, hvat kemur á forsíðuna, og hvussu tað verður orðað. Umframt at fylgja við, hvat eitt nú bloggarar á netinum taka upp. Somuleiðis er umráðandi at hava gott samband við ávísar journalistar, ið hava skil og áhuga fyri nettupp tí, sum mann tekst við. </p>
+<p>Spurdur um tað ikki er lættari hjá einum forn veru frøðingi, ið arbeiðir við sjónligum lutum, eitt nú við nøkrum so forkunnugum sum dino saurleivdum og øðrum fornverum at miðla hetta til almenningin, sigur hann, at søgufrøðingar og onnur innan hugvísindi eisini kunnu gera síni fak meira spennandi fyri almenn ingin. Granskar tú eitt nú í miðaldarsamfeløgum, kanst tú hava eina bøðilsøks við tær, tá tú skalt siga frá tínum úrslitinum, heldur Jørn Hurum. <span type="quote">“Tað snýr seg um at finna gylta lutin,”</span> sigur</p>
+<p xml:lang="isl">Hurum. <span type="quote">“Og at arbeiða við, hvussu hetta kann miðlast víðari á skilabesta hátt.”</span></p>
+<p>Jørn Hurum viðgongur tó, at ikki øll granskingar øki kunnu hava ágóða av hansara boðskapum um miðling. <span type="quote">“Tað sigur seg sjálvt, at tosa vit um gransking í heilivági og líknandi gransking, ið hevur við manna lív at gera, so er best ikki at veipa ov nógv við ørmunum,”</span> sigur Jørn Hurum. Hann heldur kortini, at granskingarstovnar og universitet gera alt ov lítið við at fortelja vanligum fólki, hvat teirra gransk ing snýr seg um.</p>
+<p xml:lang="isl"><em type="bold">History Channel framleiddi ein dramatiskan dokumentarfilm við heitinum Predator X, sum var at síggja kring allan heim </em></p>
+<p><em type="bold">Jørn Hurum viðgongur tó, at ikki øll gransk ingar -øki kunnu hava ágóða av hansara boðskapum um miðling </em></p>
+<p>FRØÐI 2/201130granskarar skulu duga Betur at miðla</p>
+<p><em type="bold">Setið samskiftiskrøv til granskarar </em>Granskingarstovnarnir hava tveir møguleikar at bøta upp á støðuna, heldur Jørn Hurum. Antin kunnu teir seta samsskiftisfólk í starv, sum kann arbeiða saman við granskarum um miðling soleiðis, at ein miðlastrategi liggur klár, hvørja ferð okkurt úrslit skal út, ella kunnu stovnarnir seta granskarum sínum samskiftiskrøv longu í starvssetanini. </p>
+<p>Granskingarstovnar og universitet hyggja nógv at, um eitt nú ph.d.umsøkjarar hava nakrar so nevndar ‘peerreviewed’ útgávur á ævi lýsingini. Hesar eru greinir útgivnar í viðurkendum tíðar ritum við fakligum ritstjórum. Men sambært Jørn Hurum áttu universitetini og stovnarnir eisini at hugt at, um við komandi er dugnaligur til at miðla sína gransking eisini uttan fyri granskingar umhvørvið.“Ein møguleiki er eisini at seta granskarum tey krøv, at hesi skulu nýta 90 prosent av síni tíð upp á <em type="bold"><span type="quote">“Tað snýr seg um at finna gylta lutin,”</span> sigur Hurum </em>og rættindi Hvørja hugsan hava ungir, føroyskir dreingir til javnstøðu í samfelagnum ?granskingarverkætlanina, og hini 10 prosent upp á miðling,” sigur Jørn Hurum. </p>
+<p>Í øllum førum, um granskarar vilja hava síni granskingarúrslit út, so mugu teir hugsa um, hvussu hetta best kann miðlast, og tá er umráðandi at skilja arbeiðsdagin og arbeiðslagið hjá journalistum.</p>
+<p>Jørn Hurum endar prátið við eini søgu, ið hann metir lýsir væl trupulleikan, sum granskarar hava í samskiftinum við journalistar. <span type="quote">“So seint sum seinnapartin í dag ringdi ein norskur journalistur til mín og spurdi, um eg ikki hevði okkurt til hansara. Hann ætlaði sær kanska at skriva eina hálva síðu um Idu. Men brádliga sigur hann: Tú, kann eg ikki ringja aftur um einar tveir tímar, tí her eru so nógv morð, sum skulu skrivast.”</span></p>
+<p>Vísindavøkan fór av bakkastokki mikukvøld við fyrilestrinum hjá Jørn H. Hurum. Eini 60 fólk, flest granskarar, vóru til hetta tiltakið. Hóskvøldið var granskingarpolitikkurin Vitan &amp; Vøkstur á skránni. Helena Dam á Neystabø, landsstýriskvinna í granskingarmálum, Annika Sølvará, stjóri, Sigurð í Jákupsstovu, rektari, John D. Olsen, NCP samskipari, Marita Rasmussen, stjóri, Ólavur Ellefsen, stjóri, og Rúni Weihe, menningarleiðari, høvdu framløgur um granskingarpolitikkin, og síðani var kjak millum tey umleið 40 fólkini á fundinum. Fríggjadagin høvdu allir granskingarstovnarnir framsýningar í forhøllini, og í Klingruni vóru ein røð av framløgum um ymisk øki frá aling og eldgosum til stoffskiftissjúkur og bókmentir. Umleið 400 fólk, flest miðnáms og NámXnæmingar, vóru til hesi tiltøkini. Fríggjakvøldið var eitt tiltak, har matur og matframleiðsla úr einum granskingar og menningarsjónarhorni var á skránni. Jóan Pauli Joensen, professari, Annika Waag, góðskuleiðari og Rólvur Djurhuus, verkætlanarleiðari, høvdu framløgur fyri gott 60 fólkum. Vísindavøkan 2011 endaði við einari royndarsmakking av mati og øli við tónleiki afturvið.</p>
+<p><em type="bold">Umleið 400 fólk vóru til hesi tiltøkini </em></p>
+<p><em type="bold">Frá fyrilestrinum hjá Jørn H. Hurum </em>31 </p>
+<p>FRØÐI 2/2011kyn, virði og rættindi - Hvørja Hugsan Hava ungir Føroyskir dreingir til javnstøðu í samFelagnum ?</p>
+<p>Kyn, virði og rættindi Hvørja hugsan hava ungir, føroyskir dreingir til javnstøðu í samfelagnum ?</p>
+<p><em type="bold">Firouz Gaini </em>firouz@flsk.fo </p>
+<p>Fróðskaparsetur Føroya</p>
+<p>Síðstu árini hevur rættiliga lívligt orðaskifti verið um javnstøðu, kanska serliga kvinnurættindi, í heimliga samfelagskjakinum. Tó er meira sjáldsamt at hoyra, hvørjar áskoðanir og hvørji virði yngra ættarliðið í landinum umboðar. Og spurningurin verður so, um nakar sjónligur munur er á ungdómi og vaksnum viðvíkjandi støðu til kyn og kynsmunir í Føroyum. Endurspeglar ungdómurin eldra ættarliðið, ella hevur hann heilt aðrar meiningar? Hesum skulu vit hyggja eitt sindur nærri at í hesi greinini, sum grundar á nýggja norðurlendska gransking.</p>
+<p>FRØÐI 2/201132kyn, virði og rættindi - Hvørja Hugsan Hava ungir Føroyskir dreingir til javnstøðu í samFelagnum ?</p>
+<p>Næstan helvtin av yngstu dreingjunum, sum vóru 1516 ár, tá kanningin fór fram, meina, at kvinnur eiga at vera heimagangandi og taka sær av børnum. Hjá hinum dreingjunum, í aldrinum 1720 ár, liggja samsvarandi úrslitini millum 35 og 47 prosent. Einans fjórðingurin av teimum 20 ára gomlu dreingjunum er púra ósamdur í, at kvinnur eiga at vera heimagangandi. Hetta er ein greið ábending um, at familjuvirðini í Føroyum ikki eru broytt nógv síðstu árini, hóast alt fleiri kvinnur taka hægri útbúgving og eru í arbeiði (niðursetta ella fulla tíð). Tað, sum kanningin eisini avdúkar, m.a.</p>
+<p><em type="bold">Talva 1 </em>. Samdur / ósamdur: Kvinnur eiga at vera heimagangandi og taka sær av børnum (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 15,2 11,9 14,4 10,1 10,0 9,7</p>
+<p xml:lang="isl">Samdur 30,2 27,2 32,4 24,5 31,7 21,0</p>
+<p>Ósamdur 18,2 28,0 29,7 27,3 33,3 24,8</p>
+<p>Púra ósamdur 36,4 32,9 23,5 38,1 25,0 44,5</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 2 </em>. Samdur / ósamdur: Menn eru betri leiðarar enn kvinnur (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 13,9 31,9 33,9 19,4 25,4 15,0</p>
+<p xml:lang="isl">Samdur 25,0 16,3 22,0 22,3 15,3 18,6</p>
+<p>Ósamdur 27,8 29,1 27,5 35,3 42,4 21,1</p>
+<p>Púra ósamdur 33,3 22,7 16,6 23,0 16,9 45,3</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 3 </em>. Samdur / ósamdur: Kvinnur og menn eiga at hava somu rættindi (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 50,0 43,2 42,3 39,0 43,3 58,6</p>
+<p xml:lang="isl">Samdur 8,8 15,6 18,9 14,7 10,0 10,6</p>
+<p>Ósamdur 32,4 29,1 28,9 34,5 30,0 22,1</p>
+<p>Púra ósamdur 8,8 12,1 9,9 11,8 16,7 8,7</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 1 </em>. Samdur / ósamdur: Kvinnur eiga at vera heimagangandi og taka sær av børnum (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 15,2 11,9 14,4 10,1 10,0 9,7</p>
+<p xml:lang="isl">Samdur 30,2 27,2 32,4 24,5 31,7 21,0</p>
+<p>Ósamdur 18,2 28,0 29,7 27,3 33,3 24,8</p>
+<p>Púra ósamdur 36,4 32,9 23,5 38,1 25,0 44,5</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 2 </em>. Samdur / ósamdur: Menn eru betri leiðarar enn kvinnur (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 13,9 31,9 33,9 19,4 25,4 15,0</p>
+<p xml:lang="isl">Samdur 25,0 16,3 22,0 22,3 15,3 18,6</p>
+<p>Ósamdur 27,8 29,1 27,5 35,3 42,4 21,1</p>
+<p>Púra ósamdur 33,3 22,7 16,6 23,0 16,9 45,3</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 3 </em>. Samdur / ósamdur: Kvinnur og menn eiga at hava somu rættindi (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 50,0 43,2 42,3 39,0 43,3 58,6</p>
+<p xml:lang="isl">Samdur 8,8 15,6 18,9 14,7 10,0 10,6</p>
+<p>Ósamdur 32,4 29,1 28,9 34,5 30,0 22,1</p>
+<p>Púra ósamdur 8,8 12,1 9,9 11,8 16,7 8,7</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 1 </em>. Samdur / ósamdur: Kvinnur eiga at vera heimagangandi og taka sær av børnum (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 15,2 11,9 14,4 10,1 10,0 9,7</p>
+<p xml:lang="isl">Samdur 30,2 27,2 32,4 24,5 31,7 21,0</p>
+<p>Ósamdur 18,2 28,0 29,7 27,3 33,3 24,8</p>
+<p>Púra ósamdur 36,4 32,9 23,5 38,1 25,0 44,5</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 2 </em>. Samdur / ósamdur: Menn eru betri leiðarar enn kvinnur (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 13,9 31,9 33,9 19,4 25,4 15,0</p>
+<p xml:lang="isl">Samdur 25,0 16,3 22,0 22,3 15,3 18,6</p>
+<p>Ósamdur 27,8 29,1 27,5 35,3 42,4 21,1</p>
+<p>Púra ósamdur 33,3 22,7 16,6 23,0 16,9 45,3</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Talva 3 </em>. Samdur / ósamdur: Kvinnur og menn eiga at hava somu rættindi (%) </p>
+<p>Dreingir (føðiár) 1993 1992 1991 1990 1989</p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 50,0 43,2 42,3 39,0 43,3 58,6</p>
+<p xml:lang="isl">Samdur 8,8 15,6 18,9 14,7 10,0 10,6</p>
+<p>Ósamdur 32,4 29,1 28,9 34,5 30,0 22,1</p>
+<p>Púra ósamdur 8,8 12,1 9,9 11,8 16,7 8,7</p>
+<p>Íalt 100 100 100 100 100 100 í talvu 1, er at føroysku kvinnurnar í stóran mun sjálvar taka undir við gomlu familjuvirðunum, sum knýta kvinnurnar at heiminum og arbeiðinum í húsinum. Næstan triðingurin av teimum spurdu – kvinnur og mennn – er samdur í, at kvinnurnar eiga at vera heimagangandi. Hetta tal er nakað hægri enn tað, vit síggja í grannalondum okkara.</p>
+<p>Í talvu 2 verður spurt, um menn eru betri leiðarar enn kvinnur. Umleið helvtin av 1620 ára gomlu dreingjunum meina, at menn eru betri leiðarar enn kvinnur. Og sostatt meinar hin helvtin, at menn ikki eru betri leiðarar enn kvinnur, uttan tó at beinleiðis siga, at kvinnur harvið eru betri leiðarar enn menn. Av teimum 17 ára gomlu dreingjunum er meira enn triðingurin <span type="quote">“púra samdur”</span> í, at menn duga best at vera leiðarar. Hyggja vit so at samlaða úrslitinum, so eru tveir triðingar av teimum ungu í Føroyum ósamdur í pastandinum. Ein stórur partur av hesum meinar helst, at kynið hevur minni at týða fyri almennar leiðsluførleikar.</p>
+<p>Talva 3 spyr beinleiðis, um kvinnur og menn eiga at hava somu rættindi. Sostatt verður kannað, hvørji etisk virði tey ungu hava, tá talan er um kyn og javnstøðu. Hvat tey ungu nágreiniliga leggja í hugtakið <span type="quote">“rættindi”</span> kann sjálvandi vera sera ymiskt, men sum mál fyri eitt <span type="quote" xml:lang="isl">“modernað”</span>, vesturlendskt samfelag eru javnrættindi sera umráðandi. Teir elstu dreingirnir, umleið 20 ára gamlir, eru mest ósamdir, tí 17 prosent av teimum siga seg vera <span type="quote">“púra ósamdar”</span> í, at kvinnur og menn eiga at hava somu rættindi. Tó meinar meirilutin í øllum aldursbólkum, at øll eiga at hava somu rættindi í samfelagnum. Næstan 70 prosent av teimum ungu, tá úrslitini hjá gentunum og dreingjunum eru samantald, meina, at øll eiga at njóta somu rættindi í Føroyum. Hóast hetta kann tykjast jaligt, so eru føroysku úrslitini sera langt frá rákinum í hinum Norðurlondunum viðvíkjandi kyni og javnstøðu.</p>
+<p><em type="bold">Av teimum 17 ára gomlu dreingjunum er meira enn triðingurin <span type="quote">“púra samdur”</span> í, at menn duga best at vera leiðarar </em>33 </p>
+<p>FRØÐI 2/2011kyn, virði og rættindi - Hvørja Hugsan Hava ungir Føroyskir dreingir til javnstøðu í samFelagnum ?</p>
+<p>Úrslitini stava frá norður lendskari kanning (Nordic Youth Research), sum fór fram ár 200910. Meira enn 13.000 ungfólk úr øllum Norðurlondum (íroknað Álandi, Grønlandi og Føroy um) tóku lut í verk ætlanini. Úr Føroyum luttóku 1.483 ung dómar, av teimum vóru 719 dreingir. Flestu før oysku luttakararnir vóru í aldurs bólkinum 1619 ár, tá spurna kanningin fór fram, tó vóru umleið 9 prosent av teimum spurdu eldri enn 20 ár. Skúlaspurnakanningin fór fram á 10 skúlum (9 mið náms skúlum og einum hægri lærustovni) í Føroyum á heysti 2009. Tað tók um leið ein tíma at svara spurnablaðnum. Í talvunum í hesum teksti eru tøl fyri dreingirnar (undir 21 ár) og fyri øll (dreingir og gentur í øllum aldrum). Eisini er ein talva (nr. 4) , sum samanber norðurlendsku úrslitini. Gransk arar á stovninum <span type="quote" xml:lang="isl">“Rann sóknir &amp; Greining”</span> á Universi tetinum í Reykjavík sam skipaðu verkætlanina, sum fekk stuðul úr Norður landa ráðnum.</p>
+<p>Taka vit talvu 3 og samanbera úrslitini við úrslitini úr hinum Norðurlondunum, so gerst føroyska myndin knappliga heilt serstøk – enntá eitt sindur skelkandi. Meðan danskar, norskar og íslendskar kvinnur við sera fáum undantøkum meina, at kvinnur eiga at hava somu rættindi sum menn, so meinar ein av fimm føroyskum kvinnum ikki, at kvinnur skulu hava somu rættindi sum menn. Við øðrum orðum so síggja vit týðiliga, at ungu, føroysku kvinnurnar í nógv minni mun enn sínar norðurlendsku systrar taka undir við <span type="quote">“stríðnum”</span> fyri javnrættindi. Her hevði sjálvandi verið áhugavert at hugt nærri at samleikanum og bakgrundini hjá kvinnunum, sum hoyra til hesi 20 prosentini í andstøðu. Myndin kann eisini tulkast sum ein ábending um, at tað <span type="quote" xml:lang="est">“maskulina”</span> í tí føroyska samfelagnum verður endurskapt av kvinnum og monnum í felag. Tó eru tað sjálvandi fyrst og fremst menninir, sum ikki ynskja kvinnum javnstøðu. Og í norðurlendskum høpi eru tað ungu, føroysku dreingirnir, sum fullkomiliga skilja seg frá norðulendsku brøðrunum. Einans 58 prosent av ungu monnunum eru samdir í, at kvinnur eiga at fáa somu rættindi sum menn. Hetta er eitt ómetaliga lágt tal, um vit samanbera við Danmark, Noreg og Ísland. 90 prosent av donsku og norsku monnunum meina, at kvinnur eiga at fáa somu rættindi sum menn. Úrslitið er undranarvert, tí ofta verður sagt, at tey ungu taka frástøðu frá gomlum, konservativum familjuvirðum.</p>
+<p>Talva 5 reisir spurningin, um menn eiga at taka avgerðir heldur enn kvinnur. Her er ein ávísur munur á aldurs bólkunum, tí yngstu dreingirnir tykjast ynskja at geva manninum meira vald enn elstu dreingirnir í kanningini gera. Næstan helvtin av teimum 16 ára gomlu tekur undir við pástandinum, meðan samsvarandi tal fyri teir 20 ára gomlu dreingirnar er ein triðingur. Hyggja vit síðan at samlaða úrslitinum, so er talan eisini um ein triðing av ungdóminum, sum tekur undir við pástandinum um, at menn eiga at taka avgerðir heldur enn kvinnur. 45 prosent av teimum spurdu – kvinnur og menn – eru púra ósamd. Hetta vísir okkum, at føroyingar í størri mun enn norðurlendsku grannarnir síggja <span type="quote">“leiðaran”</span> og <span type="quote" xml:lang="isl">“stjóran”</span> sum ein mann. Menn súmbolisera valdið og styrkina í samfelagnum, kann sigast, og hetta sæst aftur í úrslitunum av spurnakanningini.</p>
+<p>Kanningin vísir okkum, at hóast samfelagið sum heild er rættiliga modernað og tøkniliga framkomið, so eru nógv grundleggjandi virði í føroysku mentanini, sum knýta seg til eldri tíðarskeið, sum umboða eitt annað gerandislív við einum heilt øðrum arbeiðsbýti – heima og úti – enn tað, sum eyðkennir lívið hjá teimum flestu ár 2011. Hetta sæst til dømis tá vit, eins og í hesum teksti, seta kyn og rættindi í brennidepilin. Áskoðanirnar, sum koma fram, eru knýttar at serligum familjuvirðum, ið nógv fólk knýta beinleiðis til tað, sum tey rokna fyri <span type="quote">“føroyska mentan”</span>. Hetta setir eisini sín dám á kjakið um javnstøðu, sum vanliga snýr seg meira um formligar reglur og lógir enn um hugburð og virði.</p>
+<p><em type="bold">Talva 4 </em>.Samd/ur: Kvinnur og menn eiga at hava somu rættindi (%) </p>
+<p>Kvinnur</p>
+<p xml:lang="isl">Menn</p>
+<p>Føroyar 79,4 57,6</p>
+<p xml:lang="nob">Danmark 96,7 90,0</p>
+<p xml:lang="nno">Noreg 96,5 90,3</p>
+<p xml:lang="isl">Ísland 96,3 87,8</p>
+<p><em type="bold">Talva 5 </em>. Samdur / ósamdur: Tað er betri at menn heldur enn kvinnur taka avgerðirnar (%) </p>
+<p><em type="bold"></em>Dreingir (føðiár) 1993 1992 1991 1990 1989 </p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 11,5 21,4 22,9 16,5 20,0 10,7</p>
+<p xml:lang="isl">Samdur 37,1 27,9 33,9 27,3 15,0 24,6</p>
+<p>Ósamdur 25,7 27,1 27,6 30,3 30,0 20,0</p>
+<p>Púra ósamdur 25,7 23,6 15,6 25,9 35,0 44,6</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p><em type="bold">Menn súmbolisera valdið og styrkina í samfelagnum, kann sigast, og hetta sæst aftur í úrslitunum av spurnakanningini </em></p>
+<p><em type="bold">Talva 5 </em>. Samdur / ósamdur: Tað er betri, at menn heldur enn kvinnur taka avgerðirnar (%) </p>
+<p><em type="bold"></em>Dreingir (føðiár) 1993 1992 1991 1990 1989 </p>
+<p>Øll (Føroyar)</p>
+<p>Púra samdur 11,5 21,4 22,9 16,5 20,0 10,7</p>
+<p xml:lang="isl">Samdur 37,1 27,9 33,9 27,3 15,0 24,6</p>
+<p>Ósamdur 25,7 27,1 27,6 30,3 30,0 20,0</p>
+<p>Púra ósamdur 25,7 23,6 15,6 25,9 35,0 44,6</p>
+<p xml:lang="est">Íalt 100 100 100 100 100 100</p>
+<p xml:lang="deu">FRØÐI 2/201134</p>
+<p>Stingflugan er í fjóSunum í føroyum</p>
+<p>Samstundis sum innflutningurin til Føroya er vaksin tey seinastu árini, er mongdin av nýggjum djórum í Føroyum eisini vaksin. Stingflugan er eitt av hesum nýggju djórunum í Føroyum. Tað verður hildið, at stingflugan er komin til Føroya við farmi úr Danmark. Hon er nú at finna um nærum alt landið. Kanningar hava víst, at tað er einans í Suðuroynni, at hon ikki er funnin í stórum mongdum. Hon er sera torfør at koma til lívs, og tí kunnu vit rokna við, at hon er komin fyri at verða.</p>
+<p><em type="bold">Stingflugan er komin fyri at verða </em>Stingflugan varð funnin í Føroyum í 2001 á Velbastað, og haðani hevur hon síðani breitt seg um alt landið1. Hon er vanlig í øllum Evropa og í nógvum øðrum pørtum av heiminum. Upprunaliga er hon komin úr Norðurafrika til Evropa, og hevur síðani breitt seg2. Hon er eitt skaðadjór, ið kostar landbúnaðinum nógvar pengar hvørt ár. Harumframt er hon til stóran ampa fyri djórini, hon livir av. Tað skal sigast, at av tí at talan er um eina subtropiska </p>
+<p xml:lang="isl">Skaðadjór 13</p>
+<p><em type="bold">Høgni Holm </em>aliennizer@gmail.comumhvørvislívfrøðingur </p>
+<p>Stingflugan er í fjósunum í Føroyum</p>
+<p xml:lang="eng"><em type="bold">Mynd 1: </em></p>
+<p xml:lang="isl"><em type="bold">Stingflugan ( </em></p>
+<p xml:lang="fra">calcitrans <em type="bold">) </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="nno"><em type="bold">Wikipedia </em></p>
+<p xml:lang="eng"><em type="bold">Commons </em>35 </p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Stingflugan er í fjóSunum í føroyumflugu sum trívist best við 20 – 22 hitastig, so er tað sera óvanligt at finna hana uttandura í Føroyum.</p>
+<p><em type="bold">Lívið hjá eini stingflugu </em>Stingflugan hoyrir til somu ætt sum stovuflugan ( <em type="italic">Muscidae </em>), men er ein undirætt kallað Muscinae. Tann stingflugan, ið finst í Føroyum, eitur á latíni – <em type="italic">Stomoxys calcitrans </em>(Diptera: Muscidae) (sí mynd 1). Hon er ein haematophag fluga. Tað merkir, at hon livir av blóði. Hon hevur ein súgvitrant (sí mynd 2 og 3) til at súgva blóð við. Stingflugan er á umleið somu stødd sum húsflugan ( <em type="italic">Musca domestica </em>) 8 – 12 mm, men kennist aftur á fýra strípum hon hevur oman á framkroppinum (thorax). </p>
+<p>Mótsett mýggjabita, har bara kvennflugan sýgur blóð, súgva bæði kall- og kvenndýr hjá stingfluguni blóð. Hvør fluga skal hava eina blóðmáltíð hvønn dag, og aftaná víggja tær í vátt hoyggj. Best dámar teimum hoyggj blandað við eitt sindur av mykju og landi2. Eggini klekjast eftir 24 – 36 tímum, um hitin er nóg høgur. Ormverustigið er á leið 14 – 16 dagar, hareftir gerast tær til reivverur og verða til vaksnar flugur eftir 20 – 22 døgum3. Ein fluga kann víggja fleiri ferðir í sínum lívi. Henni dámar best at súgva blóð av neytum, men kann súgva av øllum súgdjórum, eisini menniskjum. Bitið er sera pínufult, so har er einki at ivast í, tá tú ert bitin. Eitt annað eyðkenni er eisini, at tú ikki hoyrir, tá stingflugan kemur flúgvandi, ein stovufluga hoyrist altíð. Tú varnast oftast ikki stingfluguna, fyrr enn tú ert bitin.</p>
+<p><em type="bold">Slepst av við stingfluguna? </em>Sigast kann, at stingflugan verður helst ikki nakar stórur trupulleiki hjá fólki, ið ikki býr tætt við neytafjós. Er stingflugan komin innandura, so er bara at nýta somu tól og mátar, sum ein vildi nýtt, um tað var eina vanliga flugu, ið talan var um. </p>
+<p>Fyri bøndurnar eru tað ein størri uppgáva. Til ber at sproyta við eitri, men hetta drepur einans tær vaksnu flugurnar. Eggini og ormverurnar verða ikki ávirkaðar av eitrinum, og harafturat so klekjast allar reivverurnar ikki samstundis. Tað merkir, at tann sama flugan fær vaksin avkom fleiri ferðir frá somu vígging. Bestu ráðini eru umfatandi reingerð av fjósinum eina til tvær ferðir um mánaðin. Um tað ikki er tíð til tað, kann eitur (pyrethrin I og II) og vanlig reingerð halda fluguni á einum stigi, har hon ikki er til ov stóran ampa. Saman við eitrinum kann mann nýta límpapír (flugupapír) til at halda flugunum niðri.</p>
+<p xml:lang="ita"><em type="bold">Bókmentir </em>1 </p>
+<p xml:lang="nob">Nielsen, S.A. and Bloch,</p>
+<p xml:lang="eng">D. 2005. The stable fly ( <em type="italic">Stomoxys calcitrans </em>) (Diptera: Muscidae) recorded from the Faroes. <em type="italic">Fróðskaparrit </em>53: 136 -140.3 </p>
+<p xml:lang="isl">Schoff, H.F, 1964;</p>
+<p xml:lang="nob"><em type="bold">Laboratory culture of </em>; <em type="italic">Bull. Org. Mond. Santé., Bull. Wld. Hlth. Org. 1964, 31, 539 – 544 </em>.2 </p>
+<p xml:lang="nob">Thomsen, Mathias, 1938; <em type="bold">176de beretning fra Forsøgslaboratoriet; Stuefluen () og Stikfluen ( Stomoxys calcitrans ), </em></p>
+<p xml:lang="isl"><em type="bold">Mótsett mýggjabita, har bara kvennflugan sýgur blóð, súgva bæði kall- og kvenndýr hjá stingfluguni blóð </em></p>
+<p><em type="bold">Mynd 3: Súgvitranturin á høvdinum (proboscis) </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 2: Stingflugan. </em></p>
+<p xml:lang="isl"><em type="bold">Legg merki tilsúgvitrantin. Mynd: diptera.info: TonyT </em></p>
+<p>FRØÐI 2/201136meiri norðlýSi</p>
+<p>Sjáldsama hugtakandi er at eygleiða norðlýsið við leikandi stríputum bogum og bondum, sum sveima yvir ein stjørnukláran náttarhimmal. Forsagnir vísa, at tær kreftir, sum elva til norðlýsi, fara at styrkna komandi tvey árini, og vit kunnu tí rokna við at síggja norðlýsi oftari komandi tíðina.</p>
+<p xml:lang="nob"><em type="bold">Lis E. Mortensen </em>lm@jf.fo </p>
+<p>Jarðfeingi</p>
+<p>Regluligar broytingar í sólini hava við sær, at norðlýsi fer at síggjast oftari í Føroyum komandi tíðina</p>
+<p>Hvat er norðlýsi? Hvar sæst tað? Og hví er tað í ferð við at styrkna?</p>
+<p><em type="bold">Norðlýsið og pátrúgv </em>Fyrr í tíðini var nógv pátrúgv knýtt at norðlýsinum. Glæman á náttarhimmalinum skapti ræðslu millum </p>
+<p xml:lang="isl">Meirinorðlýsi</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="olo">Ólavu</p>
+<p xml:lang="dan">Rede</p>
+<p xml:lang="fin">RIksen37</p>
+<p>FRØÐI 2/2011meiri norðlýSifólk í Evropa í miðøld. Illa roynd sum tey vóru av sjúku og kríggi, hildu fólk, at norðlýsi boðaði frá ólukku. Seinni hugsaðu fólk, at hetta mundi vera endurskin frá sólini, kanska av ísi og kava í luftini. Svenski fysikarin Ångstrøm (1814-1879) afturvísti hesum. Við tað, at sólarljós er bland av ljósi í øllum litum, má eisini eitt endurskin frá sólini hava nógvar litir í sær. Ångstrøm staðfesti, at norðlýsið hevur bara fáar litir, eitt nú grønt og reytt. Tí kann norðlýsið ikki vera endurskin av sólarljósi.</p>
+<p><em type="bold">Norðlýsi vísir sólstorm </em>Ein av fremstu norðlýsisgranskarunum, norðmaðurin Kristian Birkeland, sum doyði í 1917, kom nærri gátuni um norðlýsið. Hóast nógvir spurn ingar enn standa ósvaraðir, vita vit í dag, at fyri brigdið norðlýsi er ein avleiðing av sólvindi av bitlum, sum koma úr sólini. </p>
+<p>Sólin sendir alla tíðina út bitlar, sum fara sum sólvindar út í rúmdina. Viðhvørt eru stór gos á sólini. Hesi stóru gos síggjast sum svartir blettir á sólini. Undir einum sólgosi sendir sólin út serliga orkuríkar sólvindar, sum fara við ógvisligari ferð út í rúmdina. Vindferðin er 1 – 2 milliónir km/t.</p>
+<p><em type="bold">Norðlýsi og magnetiski norðpólurin </em>Um sólbletturin, tað vil siga sólgosið, peikar ímóti jørðini, kemur orkuríki sólvindurin hendan vegin. Tað tekur sólvindinum eini 2-5 samdøgur at røkka jørðini. Sólvindurin er sera orkuríkur og vandamikil, men tíbetur virkar magnetosferan hjá jørðini sum verjandi skjøldur fyri meginpartinum av hesum rúmdarillveðri. Ein lítil partur av sólvindunum røkkur inn í ytru atmosferuna, júst í einum øki uttan um tann magnetiska norðpólin og suður pólin. Her stoyta orkuríkir bitlar í sólvindinum saman við atom í ytra lofthavinum og fáa tey at lýsa. Hetta er tað, sum vit síggja sum norðlýsi um okkara leiðir og suðurlýsi á sunnaru hálvkúlu. </p>
+<p><em type="bold">Sólstormar harðna 11. hvørt ár </em>Gosvirksemið á sólini kann verða eygleitt við at fylgja við teim svørtu blettunum. Hetta má gerast við serligum brillum ella tólum, tí eygu tola ikki bein leiðis sólarljós. Eygleiðingar av sólblettum í eini 400 ár vísa, at summi ár er eingin sólblettur at síggja á sólini, men onnur ár síggjast einir 100 til 200 sólblettir. Talið av sólblettum broytist regluliga við eini ringrás upp á 11 ár frá friðarligum tíðum við fáum sólblettum til ófriðarligar tíðir við nógvum sólblettum. Í løtuni er virksemið á sólini í ferð við at harðna. Fram til 2013 fara vit at síggja alsamt fleiri sólblettir, sum standast av sólstormum. Nakrir av hesum sólstormum fara at raka jørðina, og tað er orsøkin, at vit komandi árini skulu vænta at síggja norðlýsi oftari. </p>
+<p><em type="bold">Sólvindar hóttan fyri hátøkni </em>Í miðøld ræddust fólk norðlýsi vegna pátrúgv. Veruleikin er, at í dag hava vit veruligar orsakir til at óttast sólvindin, sum gevur okkum norðlýsi. Orkuríki sólvindurin, sum rakar ytru partarnar av jarðaratmosferuni, kann nevniliga skaða til dømis hátøkniliga samskiftið, fylgisveinar og el-tól. Vandi er fyri, at harðir sólvindar kunnu skapa el-slit um allan heim. </p>
+<p xml:lang="isl"><em type="bold">Fylg við, nær norðlýsið sæst á náttarhimmalinum </em>http://spaceweather.com </p>
+<p>Norðlýsið sæst nøkur samdøgur eftir, at eitt stórt sólgos hevur sent sólvindar ímóti jørðini. Fleiri støðir á jørðini fylgja væl við sólgosunum og boða frá á heimasíðum og tíðindabrøvum, hvørji útlit eru fyri, at orkuríkir sólvindar raka jørðina og elva til norðlýsi.</p>
+<p>Fylg við, nær norðlýsið sæst í Føroyum. Á heimasíðuni http://spaceweather.com er daglig mynd, sum vísir forsøgn fyri, hvussu langt suður norðlýsið røkkur í kvøld.</p>
+<p>Omanfyri er lítil mynd av jørðini og norðlýsis-ovalinum. Vel Evropa á myndini og hygg, um norðlýsið røkkur suður til Føroyar, 62oN.</p>
+<p>Her ber til at tekna seg fyri tíðindabrævi, sum boðar frá sólgosi 1-2 samdøgur áðrenn norðlýsið er at síggja á náttarhimmalinum.</p>
+<p>Rúmdarveðurtíðindi verða lýst á amerikansku støðini SWPC, Space Weather Prediction Center. Her eru alskyns forsagnir at fáa, umframt hópur av myndatilfari og dátum. http://www.swpc.noaa.gov/</p>
+<p><em type="bold">Stór gos á sólini senda út orkuríkar sól vindar. Raka teir jørðina, fáa vit norðlýsi. </em>kelda: Partur av mynd hjá Janet kozyra grundað á myndir frá nasa, kurteisi frá Journal of Geophysical Research – space Physics <em type="bold">norðlýsi yvir Eystnes 5. februar 2011 </em></p>
+<p xml:lang="isl"><em type="bold">Les meir um norðlýsið: </em></p>
+<p xml:lang="nob">Bók: Lysfænomener i naturen. Om lys og farver nat og dag. Ritstjórnað hava Lars Lindberg Christensen, Anne Værnholt Olesen og Mike van der Poel. Forlagið Høst og Søn, Keypmannahavn 1998.</p>
+<p xml:lang="isl"><em type="bold">Sólin </em></p>
+<p xml:lang="isl"><em type="bold">Sólstormur </em></p>
+<p><em type="bold">Jørðin </em></p>
+<p xml:lang="vep"><em type="bold">Magnetosferan </em></p>
+<p xml:lang="deu">FRØÐI 2/201138</p>
+<p>Skúlin og lívSvirðini hjá næmingum39</p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Skúlin og lívSvirðini hjá næmingum</p>
+<p>Skúlin og lívsvirðini hjánæmingum</p>
+<p><em type="bold">Firouz Gaini </em>firouz@flsk.fo </p>
+<p>Fróðskaparsetur Føroyasamfelagið broytist við skjótari ferð, samstundis sum skúlin og inni haldið í skúla undirvísingini tykist stórt sæð óbroytt (Orlenius 2004). Í samfelags kjakinum hoyrast sterkar røddir tala fyri einum skúla, sum setir strangari krøv til næmingarnar viðvíkjandi atferð og <span type="quote" xml:lang="pol">“lýdni”</span>. Høvuðsorsøkin til, at hesir atfinnandi viðmerkjarar nú rópa varskó, er tann, at teir meta frælsi hins einstaka vera vorðið ov stórt innan skúlagátt. Rákið, vit síggja í skúlanum í dag, er tó eitt úrslit av størri samfelagsbroytingum í seinmodernaða tíðar skeiðnum, sum millum annað er merkt av sterkari mentanarligari individuali sering, ið umboðar nýggj virði og lívsfatanir. avbjóðingin hjá skúlanum er at megna at virða rættindi og tørv hins einstaka við støði í nýggjum fyri myndum, sum knýta seg til hugtøkini mentanarligt margfeldi og ymisleiki, men samstundis eisini at læra børnini og tey ungu at sýna samhaldsfesti mót vegis teimum veiku og <span type="quote">“øðrvísi”</span> í samfelagnum. við øðrum orðum, so snýr upp gávan seg í stóran mun um at finna eina javnvág millum individualitet og solidaritet í einum heimi, sum er eyðkendur av skjótum og óútrokniligum sosialum og mentanarligum rembingum. Hvat siga skúlanæmingar sjálvir um hesi viðurskifti? Hvørji etisk virði endurspeglast í avgerðum og valum teirra í gerandisdegnum í skúlanum? nýggj verkætlan, sum granskarar úr Føroyum, Íslandi og svøríki hava tikið stig til, roynir at lýsa lívsvirði hjá ungdóminum í sein modernaða samfelagnum.</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>kRIst </p>
+<p xml:lang="deu">FRÍ</p>
+<p xml:lang="pol">Ð ty</p>
+<p xml:lang="est">RIl</p>
+<p xml:lang="deu">FRØÐI 2/201140</p>
+<p>Skúlin og lívSvirðini hjá næmingum</p>
+<p><em type="bold">Samstarv </em>Um vit hyggja nærri at nøkrum av teimum føroysku úrslitunum, so eru áhugaverd mynstur at síggja, sum geva okkum eina ábending um virðini hjá ungdóminum í mun til kyn og aldur. Spurd, um samstarv sum heild er meira týðandi enn kapping, eru lutfalsliga fleiri gentur <span type="quote">“púra”</span> samdar enn dreingir í øllum aldursbólkum. Dreingirnir í níggjunda flokki eru mest ósamdir í hypotesuni, tí einans níggju prosent eru púra samdir, meðan heili 15 prosent siga samstarv als ikki vera meira týðandi enn kapping. Tað tykist, við tilvísing til talvu 1, sum at genturnar raðfesta samstarv nógv hægri enn dreingirnir, kanska serliga í fólkaskúlanum, og, sambært fleiri nýggjum kanningum, sum at tær eisini duga betur at samskifta og samstarva, tá tað gerst neyðugt fyri at røkka málum í skúlaarbeiði ella viðvíkjandi øðrum truplum avbjóðingum í gerandis degnum. </p>
+<p>Mynstrið í svarunum er nakað tað sama, tá tey ungu verða spurd, um tað <em type="italic">er </em>meira kapping enn samstarv í skúlanum. Tað kann í fyrstu atløgu tykjast undarligt, at kynsmunurin í lýsingunum av støðuni í skúlanum samsvarar við kynsbýtið viðvíkjandi áskoðanum um samstarv og kapping sum virði. Hetta kann tó eisini vera ein ábending um, at genturnar samstarva meira innanhýsis, meðan dreingirnir kappast meira innanhýsis. Tað vil siga, at úrslitini kanska ikki siga tað stóra um samskiftið sum heild á skúlastovninum. Úrslitið kann eisini tulkast sum, at fordómar, um at dreingjum dámar betur at kappast enn gentum, hevur hald í veruleikanum. Dreingirnir merkja kappingina og verja kappingina, tá teir skulu siga sína meining. Sambært talvu 2 er kyns munurin øgiliga stórur; einans átta prosent av gentunum í sætta flokki siga meira kapping enn sam starv vera í skúlanum, meðan samsvarandi tal fyri dreingirnar er 18 prosent. Eitt annað áhugavert mynstur í talvu 2 er, bæði gentur og dreingir samstarva nógv meira í sætta flokki enn í mið námsskúla. Tá aldurin hækkar, at økist kappingin. Hetta kann m.a. vera eitt úrslit av, at tey yngstu hava meira bólka arbeiði enn tey elstu í skúlanum. </p>
+<p>Samstarv kann, hóast tølini í talvunum ikki í sær sjálvum kunnu <span type="quote" xml:lang="hbs">“prógva”</span> tað, ofta knýtast til førleikar og eginleikar, sum seta álit, ábyrgd, tollyndi o.s.fr. í brenni depilin. Samhaldsfesti, eitt annað hugtak við nógvum týdningum, kann siga okkum nakað um etisk virði og moralsku ábyrgd hins einstaka. Hesi viðurskifti kunnu vit greina við at fara víðari til spurningar um javnstøðu og rættvísi í skúlanum og samfelagnum sum heild.</p>
+<p><em type="bold">Talva 1. Samstarv er meira týðandi kapping (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 23,7 26,3 47,4 0 2,6  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 5,3 39,5 52,6 0 2,6 100 20,7 38,2 38,2 2,9 0  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 8,7 32,6 43,5 15,2 0 100 30,2 41,5 28,3 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 22,2 22,2 55,6 0 0  </p>
+<p><em type="bold">Talva 2. Í skúlanum er meira kapping enn samstarv (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 0 7,9 34,2 36,8 21,1  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 2,6 15,4 43,6 20,5 17,9 100 5,9 14,7 29,4 26,5 23,5  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 4,3 23,9 34,8 17,4 19,6 100 7,5 18,9 45,3 22,6 5,7  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 22,2 33,3 11,1 22,2 11,2  </p>
+<p><em type="bold">Talva 3. Øll menniskju eru líka nógv verd (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki</p>
+<p><em type="bold">Dreingirnir merkja kappingina og verja kappingina, tá teir skulu siga sína meining </em></p>
+<p xml:lang="isl"><em type="bold">Mynd </em>kRIst </p>
+<p xml:lang="deu">FRÍ</p>
+<p xml:lang="pol">Ð ty</p>
+<p xml:lang="est">RIl</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>kRIst </p>
+<p xml:lang="deu">FRÍ</p>
+<p xml:lang="pol">Ð ty</p>
+<p xml:lang="est">RIl</p>
+<p><em type="bold">Talva 1. Samstarv er meira týðandi enn kapping (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 23,7 26,3 47,4 0 2,6  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 5,3 39,5 52,6 0 2,6 100 20,7 38,2 38,2 2,9 0  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 8,7 32,6 43,5 15,2 0 100 30,2 41,5 28,3 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 22,2 22,2 55,6 0 0 41 </p>
+<p xml:lang="deu">FRØÐI 2/2011</p>
+<p>Skúlin og lívSvirðini hjá næmingum</p>
+<p><em type="bold">Javnstøða og rættvísi </em>Spurd, um øll menniskju eru líka nógv verd, eru tað sera fá, sum beinleiðis eru ósamd í hypotesuni. Tey flestu, uttan mun til aldur ella kyn, taka fult undir við pástandinum. Tó er, eisini í hesum førinum, ein ávísur munur á gentum og dreingjum, tí lutfalsliga nógvir dreingir eru atfinnandi í sínum svari. Í níggjunda flokki, til dømis, eru allar genturnar, uttan nakað undantak, púra samdar í pástandinum, meðan minni enn tveir triðingar av dreingjunum siga seg vera eins samdar í hesum. Og heili 15 prosent av dreingjunum eru bara <span type="quote">“eitt sindur”</span> ella <span type="quote">“als ikki”</span> samdir í hesum. Genturnar tykjast, sambært talvu 3, meira tilvitaðar og sannførdar um javnvirði millum øll menniskju, uttan mun til hvørja bakgrund tey hava. </p>
+<p>Áhugavert er at hoyra, hvønn leiklut og hvørjar skyldur skúlin sum lærustovnur eigur at hava viðvíkjandi rættvísi og tollyndi, tá metingin verður grundað á meiningarnar hjá næmingunum. Lutfalsliga fleiri gentur enn dreingir halda, at skúlin eigur at ávirka næmingarnar at vera rættvísar og góðar mótvegis øðrum menniskjum. Dreingirnir taka sum heild undir við pástandinum, men teir eru meira ivasamir enn genturnar. Tó er munurin á kynunum heldur lítil í talvu 4. Dreingirnir í sætta flokki eru mest ivingarsamir, meðan genturnar í miðnámsskúla eru mest samdar. Eitt áhugavert mynstur í talvu 4, tó ikki serliga týðiligt, er, at sættiflokkarnir og miðnámsskúlaflokkarnir líkjast, meðan níggjundiflokkarnir skilja seg eitt sindur burturúr.</p>
+<p>Tað er púra greitt, at næmingarnir meta skúlan hava eina stóra ábyrgd og uppgávu, tá tað snýr seg um at fáa næmingarnar at vísa ein ábyrgdarfullan atburð, sum er rættvísur mótvegis øðrum menniskjum.</p>
+<p><em type="bold">Talva 1. Samstarv er meira týðandi kapping (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 23,7 26,3 47,4 0 2,6  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 5,3 39,5 52,6 0 2,6 100 20,7 38,2 38,2 2,9 0  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 8,7 32,6 43,5 15,2 0 100 30,2 41,5 28,3 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 22,2 22,2 55,6 0 0  </p>
+<p><em type="bold">Talva 2. Í skúlanum er meira kapping enn samstarv (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 0 7,9 34,2 36,8 21,1  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 2,6 15,4 43,6 20,5 17,9 100 5,9 14,7 29,4 26,5 23,5  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 4,3 23,9 34,8 17,4 19,6 100 7,5 18,9 45,3 22,6 5,7  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 22,2 33,3 11,1 22,2 11,2  </p>
+<p><em type="bold">Talva 3. Øll menniskju eru líka nógv verd (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 91,9 5,4 2,7 0 0  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 79,5 10,3 2,6 5,1 2,5 100 100 0 0 0 0  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 60,9 21,7 13,0 2,2 2,2 100 88,7 11,3 0 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 66,7 22,2 11,1 0 0  </p>
+<p><em type="bold">Talva 4. Skúlin skal ávirka næmingar at vera rættvísar/góðar mótvegis øðrum menniskjum (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 64,9 21,6 10,8 0 2,7  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 59,0 23,1 10,3 2,6 5,0 100 70,7 17,6 8,8 0 2,9  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 48,9 40,0 2,2 2,2 6,7 100 60,4 30,2 9,4 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 66,7 22,2 11,1 0 0  </p>
+<p><em type="bold">Talva 5. Skúlin eigur at ávirka næmingar, so teir geva sær far um órætt í samfelagnum (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki</p>
+<p xml:lang="isl"><em type="bold">Dreingirnir í sætta flokki eru mest ivingarsamir, meðan genturnar í miðnámsskúla eru mest samdar </em></p>
+<p xml:lang="isl"><em type="bold">Mynd </em>kRIst </p>
+<p xml:lang="deu">FRÍ</p>
+<p xml:lang="pol">Ð ty</p>
+<p xml:lang="est">RIl</p>
+<p xml:lang="deu">FRØÐI 2/201142</p>
+<p>Skúlin og lívSvirðini hjá næmingum</p>
+<p>Hetta sigur ikki bara nakað um, hvussu børn og ung lýsa tann <span type="quote" xml:lang="isl">“góða”</span> skúlan, men sanniliga eisini, at tey ikki eru eins líkasæl og sjálvsøkin, sum tað ofta verður sagt í almennum kjaki. Næmingarnir vilja hava skúlan at spæla ein virknan jaligan leiklut í mun til etisk virði og trivnað í bólkum í skúlanum.</p>
+<p><em type="bold">Uppgáva skúlans </em>Spurd, um skúlin eigur at ávirka næmingar, so teir geva sær far um órætt í samfelagnum (talva 5), svara dreingirnir og genturnar á nøkulunda sama hátt. Spurningurin, ið minnir nógv um spurningin í talvu 4, vísir okkum, at dreingirnir broyta áskoðan sum árini ganga. Dreingirnir í sætta flokki eru lutfalsliga ivingarsamir, tí næstan fimtingurin svarar, at skúlin <span type="quote">“als ikki”</span> eigur at ávirka næmingarnar. Einans ein av fýra dreingjum í hesum aldursbólki er <span type="quote">“púra”</span> samdur í hypotesuni. Dreingirnir í miðnámsskúlanum, hinvegin, eru allir <span type="quote">“púra”</span> ella <span type="quote">“rættiliga”</span> samdir í, at skúlin eigur at ávirka næmingarnar, so teir geva sær far um órætt í samfelagnum. Eisini genturnar broyta áskoðan ígjøgnum uppvøksturin. Helvtin av gentunum í sætta flokki eru rættiliga samdar í, at skúlin eigur at ávirka næmingarnar, meðan heili 87 prosent av gentunum í miðnámsskúlanum siga tað sama. Hetta er áhugavert, meini eg, og kann leysliga tulkast sum, at tey yngstu í skúlanum hava eina einfaldari og meira avmarkaða fatan av, hvat skúlin sum stovnur umboðar. Hetta kann sjálvsagt eisini vera ein endurspegling av tí, sum børnini og tey ungu læra í skúlanum. Hjá teimum trettan ára gomlu kann fyribrigdi <span type="quote">“órættur í samfelagnum”</span> ofta tykjast abstrakt og óskiljandi. </p>
+<p><em type="bold">Samanumtikið </em>Fyri at lýsa lívsvirðini hjá teimum ungu, sum ganga í skúla, er neyðugt at hyggja nærri at aldurs- og kynsbýtinum, umframt bústaðinum (t.d. møguligir munir á bygdar- og býarungdómi), tí annars er vandi fyri, at lýsingin gerst ov generaliserandi. At samanbera ung úr sætta og níggjunda flokki í fólkaskúlanum kann vera trupult, og tá studentaskúlanæmingar haraftrat taka lut í spurnakanningini, so sigur tað seg sjálvt, at samanberingin gerst sera viðbrekin. Ætlanin er tó, at spurnakanningin – tá alt tilfarið úr Svøríki, Íslandi og Føroyum verður greinað – skal geva okkum eina grundleggjandi vitan, sum kann brúkast til víðari gransking, til dømis í nýggjum kvalitativum samrøðum, sum fara meira í dýpdina í evninum. Á hendan hátt kunnu vit siga nakað um, hvørji virði broytast og hvønn týdning einstaklingurin og felagsskapurin hava fyri hin einstaka skúlanæmingin í praksis. </p>
+<p><em type="bold">Talva 4. Skúlin skal ávirka næmingar at vera rættvísar/góðar mótvegis øðrum menniskjum (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 64,9 21,6 10,8 0 2,7  <em type="bold">6. fl.  gentur  6. fl.  dreingir  </em>100 59,0 23,1 10,3 2,6 5,0 100 70,7 17,6 8,8 0 2,9  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 48,9 40,0 2,2 2,2 6,7 100 60,4 30,2 9,4 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 66,7 22,2 11,1 0 0  </p>
+<p><em type="bold">Talva 5. Skúlin eigur at ávirka næmingar, so teir geva sær far um órætt í samfelagnum (%) </em>  </p>
+<p><em type="bold">Eg eri samd/ur  </em></p>
+<p xml:lang="est">Íalt</p>
+<p xml:lang="pol">Púra</p>
+<p>Rættiliga</p>
+<p>Eitt sindur</p>
+<p>Als ikki</p>
+<p>Eg veit ikki 100 33,3 16,7 8,3 5,6 36,1  <em type="bold">6. fl.  gentur  6. fl.  Dreingir  </em>100 24,3 24,3 0 18,9 32,5 100 41,1 20,6 0 5,9 32,4  <em type="bold">9. fl.  gentur  9. fl.  dreingir  </em>100 37,8 22,2 24,4 6,7 8,9 100 46,1 40,4 13,5 0 0  </p>
+<p><em type="bold">Student.  gentur  Student.  dreingir  </em>100 44,4 55,6 0 0 0  </p>
+<p><em type="bold">Hjá teimum trettan ára gomlu kann fyribrigdið <span type="quote">“órættur í samfelagnum”</span> ofta tykjast abstrakt og óskiljandi </em></p>
+<p>Firouz Gaini og Poul F. Guttesen, sum eru knýttir at Føroya Læraraskúla á Fróðskaparsetri Føroya, stóðu fyri tí føroyska partinum av kanningini. Fýra før oyskir skúlastovnar luttóku. Ein stórur fólka skúli í Havn, ein miðalstórur fólkaskúli í Eysturoynni, um framt studentaskúlarnar og HF-skeiðini í Havn og á Kambsdali. 82 næmingar úr sætta flokki og 76 næmingar úr níggjunda flokki luttóku. 62 studentaskúlanæmingar luttóku. Spurnakanningin fór fram í mars 2011. Næmingarnir fingu umleið 1 tíma til at svara spurningunum.</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>kRIst </p>
+<p xml:lang="deu">FRÍ</p>
+<p xml:lang="pol">Ð ty</p>
+<p xml:lang="est">RIl43</p>
+<p>FRØÐI 2/2011ramsar sáttmálin <em type="bold">William Simonsen </em>Sáttmálin snýr seg um at verja vátøki sum búøki serstakliga hjá vatnfuglum. Øll øki, sum hava altjóða týdning fyri vatnfuglar, skulu verjast. Sáttmálin varð samtyktur í býnum Ramsar í Iran 1972. Sáttmálin kom í gildi 1975 og nú hava uml. 152 lond tikið undir við sáttmálanum, teirra millum øll Norðurlond. Á heysti 2010 tók innlendismálaráðið stig til at fáa gongd á Ramsar arbeiðið í Føroyum við tí í hyggju at fáa sett á stovn Ramsar-øki í Føroyum. Greinin snýr seg um tað arbeiðið, ið síðan er farið fram at lýsa øki, ið ætlandi skulu vera Ramsar-øki.n æ s t u f e r ð </p>
+<p>Sjáldsom tinnuhola undan kavi <em type="bold">Uni Árting, jarðfrøðingur og ph.d.-lesandi, Bartal Højgaard, jarðfrøðingur </em>Ein serstakliga vøkur kalsitthola er nýliga funnin í Føroyum. Arbeiðsfólk, sum gera tunnilin hjá SEV í sambandi við Eiði II verkætlanina, boraðu ígjøgnum eina rivu inni í fjallinum, sum vísti seg at vera lutvíst opin við vøkrum, vælvaksnum krystallum. Kalsitt, sum er vanligt steinslag í føroysku jarðfrøðini, hevur ikki beinleiðis tilknýtið til gosvirksemið, ið uppbygdi basaltháslættan. Hesar tinnur verða til, tá ið rivur og poknur koma í grótið, og vatn seyrar gjøgnum ella setist í. So vakrar og stórvaksnar krystallir sum tær í Eiðis-tunlinum eru sera sjáldsamar. </p>
+<p xml:lang="deu">FRØÐI</p>
+<p>Ummæli av Føroyskari bókmentasøgu 1 Nú í summar kom fyrsta bind av Føroyskari bókmentasøgu, sum Malan Marnersdóttir og Turið Sigurðardóttir hava skrivað.</p>
+<p xml:lang="isl">Í næsta Frøði ummælir Erik Skyum Nielsen bókina.</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="olo">FInnu</p>
+<p xml:lang="est">Just</p>
+<p xml:lang="fin">Inussen (F</p>
+<p xml:lang="est">OtOstud</p>
+<p xml:lang="hbs">IO)</p>
+</body></document>

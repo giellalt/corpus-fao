@@ -1,0 +1,718 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><year>2021</year><wordcount>18789</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frodi-2021-nummar-2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="kal">ISSN1395-00459 771395004003</p>
+<p xml:lang="nno">KANNINGAR AV <em type="bold">FISKA STOVNUM OG VIST SKIPANUM </em>Í HAVINUM VIÐ UM HVØRVIS-DNA </p>
+<p xml:lang="ron">HVUSSU FØROYAR KUNNU HAN D FARA BRÚKT <em type="bold">BATTARÍ FRÁ EL BILUM </em></p>
+<p>LEITAR OG FINNUR <em type="bold">SKÓGAR MOTTUR </em>Í FØROYUM </p>
+<p xml:lang="isl">FINNA FJALDAR FUGLAR: <em type="bold">SJÓ FUGLA  EYG LEIÐING </em>VIÐ DRONU2 / 2021 27. ÁRG.KR. 48,- </p>
+<p>Les eisini</p>
+<p xml:lang="deu"><em type="bold">HORVNA </em></p>
+<p xml:lang="vep"><em type="bold">VATNIÐ Í </em></p>
+<p xml:lang="kmr"><em type="bold">VÁGUM </em></p>
+<p xml:lang="deu">HORVNA</p>
+<p xml:lang="deu">FØROYA FRÓÐSKAPARFELAG</p>
+<p>GEVUR FRØÐI ÚT © Føroya Fróðskaparfelag og høvundarnir.</p>
+<p>Frøði er fólksligt vísindablað, sum kemur út tvær ferðir árliga.</p>
+<p xml:lang="swe">Upplag 1.300</p>
+<p xml:lang="kal">ISSN 1395-0045</p>
+<p xml:lang="isl">Forsíðumyndir: OPHFoto</p>
+<p><em type="italic">Loyvt er at endurgeva úr Frøði, um víst verður til heimildina. Verða heilar greinir endurgivnar, má avtala gerast. </em></p>
+<p xml:lang="isl">AVGREIÐSLA Jarðfeingi, J. Paturssonargøta 32-34</p>
+<p xml:lang="pol">Postsmoga 3059</p>
+<p>FO-110 Tórshavn</p>
+<p xml:lang="nob">Tlf. 357000teldupostur: frodi@jf.fo</p>
+<p>RITSTUÐLAR Fróðskaparsetur Føroya</p>
+<p>Tjóðskjalasavnið</p>
+<p>Tjóðsavnið</p>
+<p>Landsbókasavnið</p>
+<p xml:lang="nob">Havstovan</p>
+<p>Heilsufrøðiliga Starvsstovan</p>
+<p>Jarðfeingi</p>
+<p xml:lang="nno">Umhvørvisstovan</p>
+<p>NÝGGIR HALDARAR kunnu tekna seg hjá avgreiðsluni.</p>
+<p>ELDRI ÚTGÁVUR AV FRØÐI fáast við at venda sær til avgreiðsluna.</p>
+<p>GREINIR TIL BLAÐIÐ Fólksligar, vísindaligar greinir kunnu sendast ritstjórnini. Skrivlig høvundsleið-beining fæst frá avgreiðsluni.</p>
+<p>LÝSINGAR TIL FRØÐI Er áhugi fyri at lýsa í blaðnum, setið tykkum tá í samband við avgreiðsluna, telefon 357000fax 357001teldupostur: frodi@jf.fo</p>
+<p xml:lang="nob">LÝSINGARPRÍSUR Heil síða:kr. 5.000,-</p>
+<p>Hálv síða:kr. 3.000,-</p>
+<p>RITUMBOÐSRÁÐIÐ Erling Isholm, Fróðskaparsetur Føroya</p>
+<p>Erla Olsen, Fróðskaparsetur Føroya</p>
+<p>Sámal Tróndur Johansen, Tjóðskjalasavnið</p>
+<p>Bjørg Mikkelsen, Heilsufrøðiliga</p>
+<p>Starvsstovan</p>
+<p>Katrin Hoydal, Umhvørvisstovan</p>
+<p>Lis Mortensen, Jarðfeingi</p>
+<p>Eilif Gaard, Havstovan</p>
+<p>Unn Patursson, Føroya Landsbókasavn</p>
+<p xml:lang="deu">GRAFISK FRAMLEIÐSLA</p>
+<p xml:lang="nno">OG PRENT: Føroyaprent</p>
+<p xml:lang="isl">SAMSKIPARI Helgi Jacobsen</p>
+<p>RITSTJÓRN Erling Isholm, <em type="italic">ábyrgd </em></p>
+<p>Birgitta Andreasen</p>
+<p>Katrin Hoydal</p>
+<p xml:lang="isl">Kim Bergkvist</p>
+<p xml:lang="kal">FRÓÐSKAPARFELAG FØROYA Heimasíða: www.frodskaparfelag.fo</p>
+<p>Limagjald: 300 krónur um árið, at gjalda á kontu í Eik Banka 9181-495.171.0</p>
+<p xml:lang="eng">SWIFT code: EIKBFOTF,</p>
+<p xml:lang="nno">Iban-no: F056 9181 0004 9517 10</p>
+<p><em type="italic">Minnist til at viðmerkja navn. </em>2 / 2021 </p>
+<p><em type="bold">Vit royna í hesi útgávuni </em>av Frøði at geva lesarunum viðkomandi og upplýsandi vitan innan fleiri evni. Vit leggja fyri við grein, ið byggir á bæði søgn og jarðfrøði. Søgn er, at eitt vatn skal hava verið norðan fyri Fjallavatn í Vágum. Hetta hevur geodeturin Sigmund í Dal, sáli, í sínari tíð kannað nærri og skrivað um. Undir greinina stuðla sonur Sigmund, Jóhann í Dali, og Lis Mortensen, náttúrulandafrøðingur. </p>
+<p>Frá vøtnum fara vit upp í luftina. Vit hoyra um sjófuglaeygleiðing við dronu. Talan er um eina verkætlan, sum lívfrøðingarnir Johann Castenschiold og Sjúrður Hammer standa fyri. Johann hevur skrivað serritgerð um at brúka dronu í fuglateljingum, men avbjóðingarnar í føroysku bjørgunum eru nógvar.</p>
+<p>Tóta Árnadóttir hugleiðir um siðaarv og um føroyska dansin.</p>
+<p>Hon nevnir eitt nú, at siðaarvur ofta verður um rødd ur sum livandi mentan, men at tað undir flutning inum kann gerast ein avbjóðing at varðveita lívið í mentanini, um ikki serlig atlit verða tikin til tað, tú setur tær fyri at flyta.</p>
+<p>Vistfrøðin undir vatnskorpuni dansar eisini sín dans, men nú fer at bera til við vísindaligum rannsóknum at fylgja við vistfrøðiligu gongdini við umhvørvisDNA. Ian Salter, evna havfrøðingur, vísir á nýggja vitan, um at sjógvur hevur brot av DNA frá størri verum, og at hetta helst fer at kollvelta granskingina innan hav vist skipanir og djóralív undir vatnskorpuni.</p>
+<p>Jens-Kjeld Jensen hevur áður skrivað í Frøði um lærlitt loðmýggj, og nú upplýsingar eru komnar undan kavi um, at hetta flogkykt hevur verið í Føroyum fyrr enn hildið, viðgerð Jens-Kjeld eygleiðingar, ið m.a. eru gjørdar í Sumba og í Fugloy.</p>
+<p>Elbilamarknaðurin veksur í Føroyum, og spurningurin um endur nýtslu av bilbattaríum er tí vorðin viðkomandi. Súsanna Berg og onnur lýsa eina verkætlan, um hvussu brúkt battarí verða handfarin á tryggan hátt í londum, ið hava fáar bilar.</p>
+<p>Við grundarlag í skjølum hjá Thomsen á Tvøroyri roynir</p>
+<p>Rókur Tummasarson at leggja afturat vitanini um, hvussu virðið á veiddum fiski varð býtt millum menn, eftir at sluppfiskiskapurin tók seg upp. Skjøl vísa, at sjálvdrátturin helst byrjaði í 1880-unum.</p>
+<p>Lítið hevur verið gáað um, at tað var klaksvíksstríðið, Jens</p>
+<p>Pauli Heinesen viðgjørdi í teimum stóru skald søgu num Tú upphavsins heimur og Frænir eitur orm urin. Tær tykjast í fyrstu atløgu at vera um ein løgnan prest og lærara við óvanligum meiningum og í seinna førinum um ein dagførdan Sjúrð, sum bar gullið av heiði.</p>
+<p>Skrásetingar av skógarmottuni Ixodes ricinus seinastu 30 árini hava víst eina broyting í títtleika og útbreiðslu. Skógarmottan sæst nú á hægri hæddum, enn áður, og flytir seg norður eftir í stórum pørtum av Evropa, eisini í Føroyum. Spurningurin er, um skógarmotta verður innflutt regluliga til Føroya ella um hon hevur staðsett seg í búfjøldum her. Tann spurningin viðger William Simonsen, lívfrøðingur.</p>
+<p><em type="bold">Frøði </em>hesaferð! </p>
+<p xml:lang="isl"><em type="bold">Innihald </em>4 HORVNA VATNIÐ VIÐ FJALLAVATN </p>
+<p>Sigmund í Dali8 SJÓFUGLAEYGLEIÐING VIÐ DRONU</p>
+<p>Johan Castenschiold og Sjúrður Hammer14 MENTANARFLUTNINGUR MILLUM ÆTTARLIÐ</p>
+<p xml:lang="nno">Tóta Árnadóttir21 KANNING AV FISKASTOVNUM OG VISTSKIPANUM</p>
+<p xml:lang="isl">Í HAVINUM VIÐ UMHVØRVIS-DNA</p>
+<p xml:lang="isl">Ian Salter27 LÆRLITT LOÐMÝGGJ ER IKKI EIN „NÝGGJUR“</p>
+<p xml:lang="deu">FØROYINGUR</p>
+<p xml:lang="kal">Jens-Kjeld Jensen30 HVUSSU FØROYAR KUNNU HANDFARA BRÚKT</p>
+<p>BATTARÍ FRÁ ELBILUM</p>
+<p xml:lang="sme">Súsanna Berg34 VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN</p>
+<p xml:lang="isl">Rókur Tummasarson40 KLAKSVÍKSSTRÍÐID Í FØROYSKUM BÓKMENTUM</p>
+<p>Malan Marnersdóttir43 LEITAR OG FINNUR SKÓGARMOTTUR Í FØROYUM</p>
+<p xml:lang="nob">William Simonsen3427143 &gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p><em type="bold">Mynd 1: Útsýni suður á Fjallavatn, fløtuna norðanfyri vatnið og Reipsáfoss. Partur av fotomynd, Osvald P. Hansen, OPHfoto.com. </em></p>
+<p><em type="bold">Søgn í Vágum sigur frá einum stórum vatni, sum hvarv. Vatnið lá við Fjallavatn, kanska á grasfløtuni millum Mýrarnar og Munnan. Enn eru ongar kanningar gjørdar í landslagnum, sum kunnu staðfesta, um søgnin er sonn. Í hesi grein frá 1999 viðger Sigmund í Dali, geodetur, ymsar møguleikar, sum kunnu verða grundarlag fyri víðari kanningum. </em></p>
+<p><em type="bold">Sigmund í Dali </em>1918 - 2012 geodetur </p>
+<p xml:lang="vep">HORVNA <em type="bold">VATNIÐ </em></p>
+<p xml:lang="dan"><em type="bold">VIÐ FJALLAVATN „Saaledes skal der paa </em>den nord lige Deel af Vaagøe fordum have været en temmelig stor Søe, som nu er forsvunden, og har efterladt en græsrig Slette“. (Landt 1800, s. 18) </p>
+<p>Við hesum orðum frá 1800 sigur prest-ur in Jørgen Landt í bókini <em type="italic">Forsøg til en Beskrivelse over Færøerne </em>frá søgn hjá vágafólkum, at eitt vatn einaferð fanst uttan fyri Fjallavatn. Eitt vatn, sum á døgum hjá Jørgen Landt, ikki fanst longur. </p>
+<p>Í hesi grein verður roynt at lýsa broyt-ing ar av Fjallavatni, síðan økið lá undir ísi í glersetingini seinastu ístíð. Greinin byggir á søguligar keldur, kann ing ar av kortum og samanbering við lík nandi fjallalendi í Grønlandi.</p>
+<p>Økið, sum søgnin vísir til, er møguliga grasfløturnar Uttanhús Oyrar og Mýrarnar, sum liggja millum Fjallavatn og Munnan. Tað samsvarar við kunnleikan í 1800, at Jørgen Landt heldur, at hetta vatnið er horvið gjøgnum eina rivu, soleiðis sum hann greiðir orsøkina til, at Kirkjuvatn á</p>
+<p xml:lang="isl"><em type="bold">Jóhann í Dali </em>johannidali@hotmail.com sonur Sigmund í Dali </p>
+<p><em type="bold">Lis Mortensen </em>lis.mortensen@jardfeingi.fo Náttúrulandafrøðingur Jarðfeingi </p>
+<p>Suður oynni viðhvørt á merkiligan hátt fjarar óvanliga nógv. Vit kunnu kanska undrast á, at Landt ikki viðmerkir, hví so eingin farvegur er eftir eini strond, ella at áin rennur so javnt.</p>
+<p>Bretin Robert Chambers er tann fyrsti, sum á eini kanningarferð í Føroyum í 1855 ger vart við, at eisini Føroyar einaferð hava verið glersettar. Hetta hendir í tí tíðini, meðan vísindaliga ástøðið um ístíðir so líðandi vinnur frama millum granskarar.</p>
+<p>Ísskøvur og ísbrýnd hella vísa ísgongdina í einum øki. Kortlegging í Føroyum av slíkum fyri brigdum vísir, at ísurin er farin norður eftir út gjøgnum Fjallavatn. Sí mynd 2.</p>
+<p>Lítið skrivað tilfar er at finna um ná greini-ligu ísgongdina í norðara parti av Vágum, og hetta skal nomið verða við í hesi viðgerð. Ein tvørskurður av dalinum móti Reipsáfossi uttan fyri Fjallavatn, mynd 3, gevur ábending um, at ein jøkul hevur ferðast her. Á topografiska kortinum, mynd 4, sæst, at 140 m uttan fyri Fjallavatn er ein lítil heyggur, sum hækkar líðandi frá 92 m við Fjallavatn til 98 m fyri so brádliga at falla aftur. Heyggurin endar við øki við berari hellu og einum lítlum hamara tvørs á dalin. Hellan er týðiliga brýnd av einum ísjøkli, og skapið á heygnum vísir, at jøkulin hevur skriðið út gjøgnum dalin.</p>
+<p>Úti við Munnan er ein ryggur vestan fyri</p>
+<p>Reipsá tvørs á dalin. Áarbakkin er umleið 5 metrar høgur. Eystan fyri ánna er ein ryggur, sum liggur fram við ánna. Helst hava ryggirnir verið hægri.</p>
+<p>Tá ið jøkulin í dalinum bráðnaði, fekk tann ovari botnjøkulin í Hvilvtkinnabotni størri rásarúm, og skriðjøkulin, sum kom oman eftir Gullringsá, hevði eina morenu framman fyri sær og á báðum síðum. Henda morena, sum lá tvørtur um Reipsá, byrgdi upp fyri vatninum úr dalinum.</p>
+<p>Fjallavatn var størri ta fyrstu tíðina eftir ístíðina og fløddi heilt út á Munnan einar 200 metrar frá Reipsáfossi. Á botninum á</p>
+<p xml:lang="olo"><em type="italic">Fjallavatn </em></p>
+<p><em type="bold">Søgn í Vágum sigur frá einum stórum vatni, sum hvarv. Vatnið lá við Fjallavatn, kanska á grasfløtuni millum Mýrarnar og Munnan. Enn eru ongar kanningar gjørdar í landslagnum, sum kunnu staðfesta, um søgnin er sonn. Í hesi grein frá 1999 viðger Sigmund í Dali, geodetur, ymsar møguleikar, sum kunnu verða grundarlag fyri víðari kanningum. </em>5 &gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">HORVNA VATNIÐ VIÐ FJALLAVATN</p>
+<p xml:lang="deu">HORVNA VATNIÐ VIÐ FJALLAVATN</p>
+<p>FRØÐI 1/2021&gt;4hesum vatni legðist støðið undir Mýrarnar og Uttan-hús Oyrar.</p>
+<p>Eitt fyribrigdi sum hetta, har ísur byrgir upp eitt vatn, er kent í Grønlandi, millum annað við Maniitsoq (Sukkertoppen) í Vestur grønlandi. Vatnið Iluliagdlup Tasia liggur einar 55 km í ein landnyrðing úr Maniitsoq, sí mynd 6. Navnið merkir <em type="italic">Vatnið, sum kavar undir ísin. </em>Vestan fyri vatnið er ein jøkul. Fólk í Maniitsoq greiddu mær frá í 1949, hvussu vatnið fløðir og fjarar á ein serliga hátt. Vatnið fløðir meir og meir í umleið 6 ár. Tá er tað so stórt, at jøkulin </p>
+<p><em type="bold">Sigmund í Dali (1918 – 2012) </em>var landmálari (geodetur) og arbeiddi í Grønlandi og Danmark tey fyrstu 10 árini. Hann arbeiddi á Matrikulstovuni í Føroyum í góð 20 ár. Tey seinnu árini hevði Sigmund egið virkið, nevnt Geodata. </p>
+<p>Eitt frítíðarítriv hjá Sigmundi var at uppmáta vøtn kring allar Føroyar. Sigmund og hjálparfólk hansara sigldu við jollu ella gummibáti á vøtnum fyri at kortleggja skapið av vatnbotninum. Tað fyrsta vatnið, Fjallavatn, varð mátað við stálmátibandi í 1972 eftir eini mátiætlan, sum Sigmund legði fyri vatnið. Síðan fekk hann sær ekkolodd, so tað gjørdist skjótari og lættari at máta vatndýpið eftir ávísari mátiætlan.</p>
+<p>Hetta bleiv savnað til dátugrunn um føroysk vøtn. Partar av tilfarinum vórðu givnir út í greinum. Í tíðarskeiðnum frá 1975 til 1995 skrivaði Sigmund seks greinar í Fróðskaparriti, har hann vísti úrslitini av uppmátingum av 32 vøtnum á Streymoy, Eysturoy, Hesti, Vágum, Sandoy og Suðuroy.</p>
+<p>Handritið um tað horvna vatnið uttan fyri Fjallavatn í Vágum skrivaði Sigmund í Dali í 1999. Lis Mortensen og Jóhann í Dali, sonur Sigmund, hava ritstjórnað tekst og myndir, so handritið hervið kemur á prent. Í greinini tekur Sigmund aftur í søgnina um eitt vatn, sum skal hava ligið uttan fyri Fjallavatn, men sum hvarv. Hann ger eina roynd at lýsa gátuna um hetta vatnið við at hyggja at hæddarlinjum og meta um, hvat kann hava hent, sum hevði við sær, at vatnið hvarv. Á mynd 4 teknar Sigmund, hvar vatnið kann hava ligið.</p>
+<p>Kanska kunnu hesar áhugaverdu eygleiðingar eggja til, at kanningar verða gjørdar í økinum, sum kunnu staðfesta, um hald er í søgnini um vatnið, sum hvarv.</p>
+<p><em type="bold">Mynd 2. </em><em type="italic">Ísgongdin á Vágoynni. Heimsatlas fyri Heim og Skúla, s. 37 </em></p>
+<p xml:lang="isl"><em type="bold">Les víðari: </em></p>
+<p>Dali, Sigmund í. 1975 - 1995. Uppmáting av vøtnum í Føroyum.</p>
+<p xml:lang="isl">Fróðskaparrit 1975, vol. 23, pp 63 (Fjallavatn, Leynavatn, Stóravatn, Heygsvatn og Vatnið á Mølini, Eiði) Fróðskaparrit 1977, vol. 25, pp 155 – 173 (Saksunarvatn, Eiðisvatn, Mjáuvøtn, Toftavatn og Sørvágsvatn) Fróðskaparrit 1982, vol. 30, pp 23 – 38. (Vatnsdalsvatn, Hvilvtkinnavatn, Kirkjuvatn, Gásavatn, Vatnið í Skælings-skarði, Porkerisvatn and Kvíandalsvatn)</p>
+<p xml:lang="nno">Fróðskaparrit 1986-1987, vol. 34 – 35 (1986-87): 107 – 129. (Bessavatn, Rættarvatn, Nykavatn, Faradalsvatn,</p>
+<p xml:lang="isl">Hælsvatn, Víkarvatn and Pollurin í Saksun).</p>
+<p xml:lang="nno">Fróðskaparrit 1993, vol. 40: 123-137. (Sandsvatn, Gróthúsvatn, Heimara Hálsavatn, Heimara Lykkjuvatn,</p>
+<p>Norðara Lykkjuvatn og Heiðavatn).</p>
+<p xml:lang="nno">Fróðskaparrit 1995, vol. 43: 91 - 99. (Loftavatn, Faradalsvatn, Barkilsvatn, Heygatjørn, Nykurtjørn, Tjarnirnar Lítlu og Hælsvatn).</p>
+<p>Jacobsen, Óli, 2012. Sigmund í Dali: Var við í donsku mótstøðurørsluni móti týskarum. Partur 1. Sosialurin 2.mai 2012. https://in.fo/news-detail/sigmundur-dali-var-vi-donsku-m-tst-ur-rsluni-m-ti-t-skarum</p>
+<p>Jacobsen, Óli, 2002. Føroyingur í donsku mótstøðurørsluni. FFblaðið nr. 275, 15.august 2002.</p>
+<p xml:lang="eng">Jørgensen, Gunni og Rasmussen, Jóannes, 1988. Glacial Striae, Roches Moutonneés and ice movement in the</p>
+<p xml:lang="eng">Faeroe Islands. Geological Survey of Denmark, 1986.</p>
+<p xml:lang="nob">Landt, Jørgen 1800. <em type="italic">Forsøg til en Beskrivelse over Færøerne </em>. Einars Prent, Tórshavn, 1965. </p>
+<p><em type="bold">Mynd 5. </em><em type="italic">Fløtan við Reipsá uttan fyri Fjallavatn, har tað horvna vatnið (teknað við gulum) kanska lá (Kelda: kortal.fo). </em></p>
+<p><em type="bold">Mynd 3. </em><em type="italic">Tvørskurður av dalinum móti Reipsáfossi uttan fyri Fjallavatn </em></p>
+<p><em type="bold">Mynd 6: </em><em type="italic">Vatnið Iluliagdlup Tasia nær Maniitsoq í Grøn landi. Kort Grønland 1:250.000 frá Styrelsen for Data for syn ing og Effekt ivi ser ing, skannað november 2021. </em>vestan fyri flotnar. Hetta elvir til eina ógvusliga hending, har vatn kann renna úr, og vatnstøðan fjarar aftur. Vatnmongdin, sum rennur oman í Isortoq fjørðin, er so stór, at sjógvurin fløðir heilt úti við Maniitsoq. </p>
+<p>Nýta vit hesa samanbering til at skilja økið við</p>
+<p>Hvilvt kinna botn, kunnu vit ímynda okkum gongdina nakað soleiðis:</p>
+<p>Tá ið jøkulin í Hvilvtkinnabotni hvarv, fór Reipsá at máa seg niður ígjøgnum morenuna. Tá ið áarlegan úti við Munna var komin niður á 92 metra hædd, broyttist stóra Fjallavatn til tvey vøtn í dalinum:</p>
+<p>Fjallavatn og „Horvna vatnið“. Hetta verður roynt at lýsa á mynd 4, sum er gjørd eftir eini flogmynd og hæddar strikum á tekniska kortinum hjá Matrikulstovuni.</p>
+<p>Við tíðini máaði Reipsá seg longur nið ur í mo ren-una, og ein dag gjørdist ryggurin so lágur, at navn leysa uttara vatnið hvarv. Frá hesum degi fingu vit „en græs rig Slette“, sum Jørgen Landt greið ir frá í 1800, og sum vit kenna í dag í øki num Uttanhús Oyrar og Mýrarnar.</p>
+<p>Nær tað uttara vatnið hvarv vita vit ikki, men tað var enn á mannamunni um ár 1800.</p>
+<p><em type="bold">Mynd 4. </em><em type="italic">Horvna vatnið uttanfyri Fjallavatn (Sigmund í Dali) </em></p>
+<p><em type="italic">Sigmund í Dali </em>7 &gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">HORVNA VATNIÐ VIÐ FJALLAVATN &gt;6</p>
+<p><em type="bold">Johan Castenschiold </em>johanhfc@gmail.com MSc í lívfrøði – við serritgerð at brúka dronu í fuglateljing í Danmark </p>
+<p><em type="bold">Sjúrður Hammer </em>sjurdurh@us.fo PhD í lívfrøði granskari Umhvørvisstovan </p>
+<p><em type="bold">Dronur og sjófuglur </em>Fleiri og fleiri kanningar brúka fjarsýnistøkni so sum dronur til at telja og halda eyga við náttúruni í fjarskotnum støðum, ella har tað er trupult at sleppa til. Í samsvari við, at tøknin gerst betri við størri battarímegi og sensorum, sum geva eina betri fatan av umstøðunum, kann flúgvitíðin eisini gerast longri. Hetta hevur havt við sær, at granskarar alsamt meira brúka dronutøkni í Arktis, har nógvar stórar fløtur og høg fjøll eru. </p>
+<p>Í hesari forkanning eru vit í Føroyum komin fram at einum nýggjum markamóti við at brúka dronu í sjófuglayvirvøku, har tað er trupult ella ógjørligt at telja á siðbundnan hátt – nevniliga í fuglabjørgunum.</p>
+<p>Hóast sjófuglur kann sigast at vera eitt vørumerki fyri Føroyar, so eru tað nógvir og stórir fuglastovnar, sum vit hava ov avmarkaða vitan um. Vit kenna hvørki stødd ella gongd. Ein tann størsta avbjóðingin er helst tað illa atkomuliga lendið – fuglabjørgini – men nógvir stovnar eru eisini so stórir, at tað er ógjørligt við verandi tali av granskarum og játtaðu fíggingini at klára hesar avbjóðingar. Samstundis meta heimildarfólk ymsastaðni, at onkrir stovnar eru í minking. Tí hevur tað týdning at finna kostnaðar gagnlig amboð og smidligar hættir at meta um stovnsstødd og stovnsgongd, og harvið skapa eitt grundarlag fyri miðvísari fyrisiting og verju av fuglastovnum. Við hesum vitanargrundarlagi ber eisini til at seta eftirlit upp við tí endamáli at fylgja við teimum árinum, sum eitt nú veðurlagsbroytingar hava á nøringina hjá sjófugli. <em type="bold">– SJÓFUGLA </em></p>
+<p xml:lang="deu"><em type="bold">EYGLEIÐING </em></p>
+<p xml:lang="deu"><em type="bold">VIÐ DRONU </em></p>
+<p>At finna fjaldar stovnar</p>
+<p><em type="bold">Ólýst náttúra </em>Brøttu fuglabjørgini eru í veruleikanum ein stórur part ur av føroysku náttúruni. Staðfrøðin í bjørgunum er mangan grov og ósløtt, og tað hevur helst gjørt, at nógv av hesum økjunum eru púra ókannað og órørd av mannahond. Samstundis hevur tað týdning, at vit betur skilja ymisk viðurskifti í bjørgunum sum sjálv virknar vistskipanir, ið hava verið heimið hjá so nógv um sjófugli í hundrað- ella túsund tals ár. </p>
+<p>Vistfrøðiliga er tað serstakliga áhugavert og týd-ning ar mikið at kortleggja og greina nærri viðurskiftini millum plantur og kykt í bjørgunum og tey føðsluevni, sum fuglar draga inn av havinum. Fyri at læra hesa vist skipan ina betur at kenna verða dronur eitt al neyðugt amboð til at geva fotografiskar løtumyndir, sum kunnu endurtakast ár eftir ár.</p>
+<p><em type="bold">Forkanningin </em>Endamálið við okkara forkanning var at menna eina hóskandi mannagongd til etiskt og vísindaliga forsvarligt at hava dronu eftirlit við sjófugli í Føroyum. Í øðrum lagi hava vit roynt nýggjar hættir og háttaløg fyri at kanna, um drona kann brúkast í yvirvøku og at telja sjófugl í Fø royum. Høvuðsslagið í kanningini var náti ella hav hestur, sum er eitt tað talríkasta sjófuglaslagið í Føroyum. </p>
+<p><em type="bold">Hvar og nær </em>Verkætlanin, sum í veruleikanum eisini var ein for-9 &gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;8</p>
+<p xml:lang="nob">AT FINNA FJALDAR STOVNAR – SJÓFUGLA EYGLEIÐING VIÐ DRONU</p>
+<p>AT FINNA FJALDAR STOVNAR – SJÓFUGLA EYGLEIÐING VIÐ DRONUkann ing, fór fram frá mai til september 2021. Endamálið við forkanningini var at fáa neyva vitan um møgulig árin og um, hvørjar dronumannagongdir vóru hóskandi at brúka ymisk tíðarskeið í nøringini hjá havhestinum.</p>
+<p>Kanningin fór í høvuðsheitum fram í Koltri (mynd 1.), í ramsaroyggjunum Nólsoy og Skúvoy umframt aðrastaðni í Føroyum. Støðini vóru útvald til tess at geva fjølbroytni í staðfrøði og grótsløgum, ið var neyðugt fyri at menna leiðreglur fyri dronukanningar í øllum Føroyum.</p>
+<p>Verkætlanin hevði sæti á Tjóðsavninum og var samantvinnað við kanningararbeiði, sum Tjóðsavnið gjørdi í Koltri summarið 2021. Verkætlanin var fíggjað við stuðli frá Aage V. Jensen grunninum, Brødrene Hartmann grunninum og Føroya Fuglafrøðifelag.</p>
+<p><em type="bold">Týdningarmikið ikki at órógva </em>Tað eru tvinnar orsøkir til at órógva so lítið, sum til ber. Í fyrsta lagi skal gransking altíð etiskt miða eftir at vera til minst møguligan ampa fyri tað ella tey djór, sum verða granskað. Í øðrum lagi hevur granskarin sjálvur áhuga fyri, at teir fuglar, sum verða taldir ella kannaðir, eru so nær síni vanligu atferð sum gjørligt. </p>
+<p><em type="bold">Leiðreglur at minka um møguligan ampa av dronuflúgving </em>Í náttúrugransking royna vit altíð at menna mannagongdir fyri at minka um óneyðugan ampa og órógv á fugla lívið í sambandi við dronuflúgving. Allar okkara eyg leiðingar vórðu bygdar á sjónligar atferðar broyting ar í fuglinum. Fyri at skilmarka og telja, nær ein órógv an varð eygleidd, býttu vit okkara flúgv ing í ymisk umfør, har ið fuglurin kundi verða ávirk aður av dronuni. Vit gjørdu fleiri royndar flúgv ingar fyri at talfesta hesar atburðir. Sí mynd 3. </p>
+<p>Teir innleiðandi atburðirnir (a), sum kunnu síggj-ast, tá ið dronan verður send avstað, eru rættiliga tongd ir at, hvussu dronan flýgur inn í økið. Ávirkanin á fuglar nar kann avmarkast nógv, um tíð verður brúkt til at venja fuglin við nýggja ljóðið frá dronuni. Eisini er tað avgerandi, at flúgvimynstrið verður tillagað við umhugsni, tá ið flúgvast skal upp í ta valdu hæddina.</p>
+<p>Um flogið verður hóvliga og óbeinleiðis til staðið, gevur hetta fuglinum meiri tíð at venja seg við dronuna. Vit kannaðu, um atferðarbroytingar kundu síggjast frá fráfaringarstaðnum upp til 1 km frástøðu. Tað vísti seg, at í 250 metra frástøðu frá økinum, sum skuldi avmyndast, var atferðarbroytingin lítil og eingin.</p>
+<p>Síðani vórðu atferðarbroytingarnar mátaðar í kann-ing arøkinum út frá teimum upptøkum, sum dronan gjørdi (b). Tær vístu sera lítla atferðarbroyting, sum illa bar til at máta, tá ið flogið varð í yvir 40-50 metra frástøðu. Tá ið flogið varð nærri enn hetta, sóust ymisk stig av atferðarbroyting. Seinast varð sæddur ein munur á havhestum, sum reiðraðust, og teimum, sum ikki sýntust at reiðrast. Teir fuglarnir, sum ikki reiðraðust, tyktust árvaknari og høvdu eina greiðari atferðarbroyting ella sjónligari atburð mótvegis dronuni.</p>
+<p><em type="bold">At finna besta sjónarhorn </em>Eftir at hava gjørt eina árinsfría mannagongd at telja havhest kannaðu vit, hvat tað besta sjónarhornið var at gera álítandi teljingar í einum fuglabergi. At savna vitanina um hetta er rættiliga týdningarmikið, tí sum flest vita, eru fuglabjørg sera ósløtt og skurvut við nógv um smáum hillum, eygum og rókum hjá hav hesti at sita á. Um vinkulin ikki er rættur, er stórur møguleiki fyri, at fleiri fuglar ikki verða taldir við. </p>
+<p><em type="italic">Landafrøðiligt yvirlit av økjunum, har kanningar vórðu gjørdar í verk ætlanar tíðini. Kanningin fór í høvuðs heitum fram í Koltri og Nólsoy. </em></p>
+<p><em type="bold">Útbúnaður </em>Dronan, sum varð brúkt í hesari for kann ing ingini, var DJI Matrice 300 quadcopter við einum DJI H20T myndatóli. Henda dron an er í ovara prísflokki fyri miðalstórar dron ur. Tær verða mangan brúktar í bjarg ing ar arbeiði og hava nakað av tí fremstu og nýggjastu tøknini. Í arbeiðinum í Fø royum slapp dronan at royna seg í ser ligu fø roysku náttúru um støðunum, bæði í ymiskum veður lík ind um og í ymisk um stað frøðiliga av bjóðandi lendi. </p>
+<p><em type="bold">Árin av eygleiðingum </em>Árin og avleiðing í sambandi við dátainnsavning verður ofta rópt „observer effect“ ella eygleiðara árin. Hetta kann mátast og setast í ein skala, eftir hvussu nærgangandi ella rámandi eitt slíkt árin er. Eitt tað mest ógvisliga árinið má sigast at vera sokallað oyð andi sýnistøka, sum ber í sær, at tú tekur lívið av dýrinum ella plantuni, sum tú vilt kanna. Teir flestu náttúrugripir, sum finnast á náttúrugripasøvnum, eru innsavnaðir eftir hesum leistinum. Í hinum endanum av eygleiðaraárini finst nýggj tøkni og varisligar mannagongdir, har dátur verða savnaðar uttan at nærkast tí, ið verður granskað. </p>
+<p>Seinnu árini er nógv nýggj fjarsýningartøkni vorðin týðandi partur av amboðskassanum hjá náttúru granskarum. Dømi eru myndatólsfellur og GPSsporing. Fjarsýning kann á ymiskan hátt minka um tey árin, sum eygleiðingar ella kann ingar hava á tey djór, ið verða kannað. Sum ein nýggj slík tøkni til at eygleiða og telja villini djór hava loft myndir við dron um veruliga tikið dik á seg seinastu tíggju árini.</p>
+<p><em type="bold">Mynd 3. </em>Grafisk lýsing av teimum tveimum háttunum (a og b) at venja fugl við dronu og at avmarka óneyðuga órógv, ið elvir til broytta atferð. </p>
+<p><em type="bold">Mynd 2. </em><em type="italic">Dronan ávegis til eina fyriskipaða uppgávu. </em>11&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;10</p>
+<p xml:lang="nob">AT FINNA FJALDAR STOVNAR – SJÓFUGLA EYGLEIÐING VIÐ DRONU</p>
+<p xml:lang="nob">AT FINNA FJALDAR STOVNAR – SJÓFUGLA EYGLEIÐING VIÐ DRONU</p>
+<p>Við dronu høvdu vit nú søguligan møguleika at kanna og staðfesta teir bestu vinklarnar í ymsum sløgum av bjargalendi. Í flestu støðum var tann eyg leið ingarvinkulin, sum gav flest fuglar, 10-20 stig niður eftir. Hesin vinkul er tó tongdur at staði og skapi á berginum og broytist eisini við grasvøkstri eftir árstíðini.</p>
+<p>Eitt spennandi úrslit burtur úr einari slíkari lýsing av best møguliga eygleiðingarvinkli er nýtslan av søguligum sjófuglateljingum. Her kunnu tillagingar gerast av gomlum teljingum, alt eftir hvør vinkulin hevur verið hjá tí, sum hevur talt, og so kunnu vit javnmeta eina slíka teljing við tann besta staðbundna eygleiðingarvinkulin, sum dronukanning hevur givið okkum. Tað er væl hugsandi, at tær flestu av teimum søguligum teljingunum eru gjørdar úr báti, og har er hugsandi, at talið av ósæddum havhestum er stórt.</p>
+<p><em type="bold">At meta um nøringareydnuna hjá havhesti við myndaroyndum </em>Á sama hátt sum við vanligum myndatólsfellum eydn a ðist tað okkum at gera eitt fyribils dronu háttalag, sum gav okkum møguleika til endurtakandi at eygleiða nøringina, og har vit sóu, hvussu nøringin eydnaðist hjá havhesti við at flúgva eina fasta flogleið fram við berginum. Sí mynd 4. </p>
+<p>Møgulig reiður vórðu fyrst eyðmerkt við flúgv ing-um í mai og juni 2021. Av hesum støðunum vórðu síðani ávís støð útvald í juni. Eftir at ein flogleið var programmerað, vórðu hesar flogrutur endurtiknar við jøvnum millumbilum næsta hálvan triðja mánaðin, til havhestaungarnir fóru úr reiðr inum móti endanum av august.</p>
+<p>Hesi millumbil vórðu vald til at eygleiða tey ávísu umskiftini í nøringartíðarskeiðnum: 1. Verping, 2. Bøling av egginum, 3. Kleking og 4. Ungin verður floygdur. Tann programmeraða flogleiðin kann endurtakast fleiri ferðir í sama nøringarskeiðinum, men eisini í fleiri ymisk ár á rað. Hesin arbeiðshátturin gevur eitt spennandi og nýtt amboð til at kunna fylgja neyvt við nøringini hjá havhesti á ein sera ótarnandi og bíligan hátt. <em type="bold">3D kortlegging av tí steyrrætta klettinum </em>Eitt sera spennandi útlit við dronukanningum av fugla bjørg unum er møguleikin í trim um di men sjónum (3D) at endurskapa vertikalu bjørgini. Um hesi 3D-modell kunnu gerast neyvt og við nóg høgari upploysn til at eyðmerkja reiðrandi sjófuglin, so kann hetta kollvelta háttin, vit telja føroyska bústovnin, og tað fer at lata dyr upp fyri sera neyvum stovnsmetingum í fuglabjørgunum. </p>
+<p>Eftir nakrar royndir hevur tað eydnast okkum at endurskapa nøkur rættiliga góð og neyv 3D-modell. Hetta var gjørligt við flogleiðum, sum vóru skipaðar við lodd røttum mynstrum, soleiðis at bæði vinkul og hædd vóru røtt, sí mynd 5. Góða upploysnin á 3D-modell inum gjørdi tað møguligt at eyðmerkja bæði fuglar og reiður.</p>
+<p>Higartil eru fyribils kanning og 3D-modell bert</p>
+<p><em type="bold">Keldur: </em></p>
+<p xml:lang="est">Edney, A. J. and M. J. Wood. 2020.</p>
+<p xml:lang="eng">Applications of digital imaging and analysis in seabird monitoring and research. Ibis 163: 317–337.</p>
+<p xml:lang="eng">Jensen, J.-K. 2019. The fulmar on the Faroe Islands, 3rd edition.</p>
+<p xml:lang="nob">Jens-Kjeld Jensen, Nolsoy.</p>
+<p xml:lang="nob">Lee, W. Y., M. Park, and C.-U.</p>
+<p xml:lang="eng">Hyun. 2019. Detection of two</p>
+<p xml:lang="eng">Arctic birds in Greenland and an endangered bird in Korea using</p>
+<p xml:lang="eng">RGB and thermal cameras with an unmanned aerial vehicle ( UAV ).</p>
+<p xml:lang="fra">PLOS ONE 14: 1–16.</p>
+<p xml:lang="isl">Lyons, M., K. Brandis, C. Cal-laghan, J. McCann, C. Mills, S.</p>
+<p xml:lang="nob">Ryall, and R. Kingsford. 2018.</p>
+<p xml:lang="eng">Bird interactions with drones, from individuals to large colonies.</p>
+<p xml:lang="nob">Australian Field Ornithology 35: 51–56.</p>
+<p xml:lang="eng">McKellar, A. E., N. G. Shephard, and D. Chabot. 2021. Dual visible-thermal camera approach facilitates drone surveys of colo-nial marshbirds. Remote Sensing in Ecology and Conservation 7: 214–226.</p>
+<p xml:lang="eng">Weimerskirch, H., A. Prudor, and</p>
+<p>Q. Schull. 2018. Flights of drones over sub-Antarctic seabirds show species- and status-specific behavioural and physiological responses. Polar Biology 41: 259–266.gjørd í fáum avmarkaðum bjørgum. Okkara størsta av bjóðing er avmarkingin við upploysnini, har myndatóls sensorurin samstundis skal tryggja nóg stóra vídd fyri at kunna gera modellini. Um 3D-modell verða gjørd fyri størri økir, verður møguligt at kanna ókenda náttúru í Føroyum, sum ikki hevur sæð sín líka, hvørki í neyvleika ella stødd.</p>
+<p><em type="bold">Hugfangandi úrslit </em>Yvirskipað eydnaðist forkanningin í Føroyum væl. Vit hava innsavnað dátur, sum geva okkum greiða ábending um, hvussu vit skulu flúgva fyri at ávirka atferðina hjá havhesti sum minst. Tað hevur eydnast at innsavna dátur við nøktandi góðsku, sum gera tað gjørligt at seta í verk veruligar teljingar og miðvíst dronueftirlit av havhesti í Føroyum. Av tí at tøknin ger tað møguligt at hava sera neyva flúgving og flogleiðir, so kunnu hesar flúgvingarnar endurtakast á hvørjum ári. </p>
+<p><em type="bold">Framtíðarmøguleikar </em>Við hesari forkanningini hava vit vónandi lagt lunnar undir, hvussu dronur í framtíðini kunnu brúkast til at telja sjófugl í Føroyum. Vit mugu tó viðurkenna, at henda kanningini einans hevur givið okkum eina av mark aða og rættiliga grunna fatan av, hvussu dronu tøkni kann nýtast í gransking og eygleiðing av sjófugli. </p>
+<p>Tað er okkara vón, at hetta bara er byrjanin til eina størri verkætlan, sum kann stuðla undir mið vísa yvir vøku við neyvt sniðgivnum flogleiðum og mannagongd um, sum væntandi fer at gera tað møgu ligt at fáa neyvari meting av sjófuglastovnum í Føroyum. Tað fer somuleiðis at menna fyrisitingina av teimum.</p>
+<p>Serliga vóna vit, at forkanningin kann verða eitt byrjanarstig til eina størri kanning og PhD-verkætlan til Johan at granska havhestin í Føroyum. Í hesum sambandi er dronutøkni og fuglateljing ein týdningar mikil partur av arbeiðinum.</p>
+<p><em type="bold">Mynd 8. </em><em type="italic">Dømi um litmynd (ovast til vinstru) og varma elvda mynd (undir til vinstru) av 3Dmodellum í sam bandi við teljing av reiðrum. Bjørgini eru nakað norðan fyri Sumba í Suðuroy (1516/8). Tann siðvanda teljingin í økinum eyg leiðingar dagin vísti 64 reiður við nátum. Tann varmaelvda teljingin vísti 84 reiður. Við at taka myndina inn í einum parti av berginum síggjast væl tveir varmaelvdir fuglar (ovast til høgru). Ein samanbering við litmyndina á neyvt sama stað (niðanfyri til høgru) vísir, hvussu ringt tað er við litmyndum at síggja mun á veðurbarda berginum og gráum ungum. </em></p>
+<p>Mynd 7. Litmynd av vaksnum havhesti og ungum (ovast). Niðast sama mynd varmaelvd.</p>
+<p>Mynd 6 . Samanbering av tveimum 3Dmodellum av sama bjargalendi. Til vinstru ein litmynd og til høgru ein varmaelvd mynd. Kannaða økið yður av sjófugli.</p>
+<p><em type="bold">Mynd 4. </em>Grafisk <em type="italic">lýsing av fyribils dronu hátta lagnum, ið var brúkt til endurtakandi at eyg leiða nør ingina. </em></p>
+<p>Mynd 5. Dømi um 3Dmodell av ósløttum og skurvutum bjørgum. Tilsvarandi loddrøttu bláu mynstrini vísa myndatøkustøðurnar, har bæði vinklar og hædd vóru røtt. 13&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;12</p>
+<p xml:lang="nob">AT FINNA FJALDAR STOVNAR – SJÓFUGLA EYGLEIÐING VIÐ DRONU</p>
+<p xml:lang="nob">AT FINNA FJALDAR STOVNAR – SJÓFUGLA EYGLEIÐING VIÐ DRONU</p>
+<p><em type="bold">Sum adjunktur í skaldskapi </em>av mannamunni á </p>
+<p>Føroya máls deildini varði eg millum annað av tí part inum av okkara bókmentum, sum mangan verður um r øddur sum „mentanararvur“, nevniliga føroysku kvæðunum. Partur av mínum arbeiði hevur verið at kanna, hvussu kvæðini verða handfarin í samtíðarhøpi, og eg havi valt at leggja dent á støðuna hjá føroyska dansinum í dagsins samfelag.</p>
+<p>Hetta tóktist ikki minst viðkomandi, tí Føroyar stóðu á gáttini til at staðfesta UNESCO-sáttmálan um varðveitslu av siðaarvi, millum annað eftir áheitan frá landsdansifelagnum Sláið Ring (SR), sum metti, at hetta var alneyðugt fyri at bøta um framtíðarútlitini hjá føroyska dansinum. Í kjakinum í sambandi við UNESCO-sáttmálan varð føroyski dansurin kanska í uppaftur størri mun enn vanligt umrøddur sum „siðaarvur“ í ymsum høpi, og spurningurin um, hvussu hann eigur at verða handfarin og varðveittur, kom knappliga at vera sera aktuellur.</p>
+<p>Síðani sáttmálin varð staðfestur í 2018, er kortini lítið komið fram um júst á hvønn hátt, sáttmálin fer at virka og skal gera mun, og hetta er ikki eindømi í Føroyum. Tað fer áhaldandi kjak fram í altjóða høpi um, hvussu sáttmálin hjá UNESCO eigur at fatast og brúkast í verki, og úrslitini av átøkunum</p>
+<p><em type="bold">Tóta Árnadóttir </em>totaa@setur.fo Adjunktur í skaldskapi av mannamuni, Fróðskaparsetur Føroya (FMD) </p>
+<p xml:lang="vep"><em type="bold">MENTANAR </em></p>
+<p xml:lang="deu"><em type="bold">FLUTNINGUR </em></p>
+<p xml:lang="vep"><em type="bold">MILLUM ÆTTARLIÐ </em></p>
+<p><em type="bold">Ofta verður siðaarvur umrøddur sum „livandi mentan“, men tað at varðveita lívið í mentanini kann skjótt gerast ein avbjóðing undir „flutninginum“, um ikki serlig atlit verða tikin til tað, tú setur tær fyri at flyta. </em>– í leypi, lastbili ella lógvanum?hepnast ymiskt alt eftir samheingi. Ikki minst valdast tað eygað, sum sær, og fatan hjá ymiskum pørtum av, hvat tað í roynd og veru er, sum skal varðveitast og flytast óskalað til komandi ættarlið. </p>
+<p>Ofta verður siðaarvur umrøddur sum „livandi ment an“, og júst hetta við at varðveita lívið í mentan ini kann skjótt gerast ein av bjóðing undir „flutning inum“, um ikki serlig atlit verða tikin til tað, tú setur tær fyri at flyta.</p>
+<p>Myndarliga kanst tú siga, at meðan sumt uttan trupul leikar ber til at umskipa úr „leypinum í lastbilin“, so krevur tað størri atlit í teimum førum, har lutur in, sum skal flytast, er av vanvarum óítøkilig um slagi og kanska nóg illa kann haldast í lógva-num – og tí at nettupp viðkvæmi og átrokandi hóttan ofta verða tikin fram sum orsøkir til at seta átøk í verk fyri at varðveita ávís mentanarbrigdi, so sum føroyska dansin, kundi tú hugsað tær, at hetta fylti munandi meira í umrøðuni av sátt málanum.</p>
+<p><em type="bold">Hugtøkini „mentanararvur“ og „siðaarvur“ í vís inda ligum høpi </em>Føroyska heitið „siðarvur“ er týtt úr enska „In tangi ble Cultural Heritage“ (ICH), sum merk ir „óítøki lig ur mentanararvur“. Tað „óítøkiliga“ er, sum vera man, altíð eitt sindur hált at halda um, og hetta sæst eisini aftur í kjakinum um varð veitslu, bæði her heima og aðrastaðni. </p>
+<p><em type="italic">Føroyskur dansur og føroyskir búnar í føroyskari náttúru verða brúkt sum íkast til marknaðarføring av Føroyum sum serstakt ferðamál. Mynd Per á Hædd. (Myndin er av www.faroeislands.fo) </em></p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;1415&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">MENTANAR FLUTNINGUR MILLUM ÆTTARLIÐ</p>
+<p xml:lang="deu">MENTANAR FLUTNINGUR MILLUM ÆTTARLIÐ</p>
+<p>Í allýsingini av siðaarvi í UNESCO-sáttmálanum 2003 verður m.a. sagt, at:„Siðaarvur er týdningarmikil, tí hann gev ur okkum kenslu av samleika og at hoyra til og bindur gjøgnum samtíðina fortíðina saman við fram tíðina.“</p>
+<p>Sambært UNESCO er siðaarvur altso at meta sum „reyði tráðurin“ í okkara samleika, okkurt ið bindur okkara tilveru saman. Tað eru stór orð, og tað kann skjótt elva til høvuðbrýggj, tá ið nakað so grundleggjandi skal allýsast og varðveitast „úr erva“ eftir sama leisti fyri øll.</p>
+<p>Onkuntíð hoyrir tú lesandi á námskeiðum um ment anar arv spyrja góðvarið: „Hvussu kenna vit mun á „mentanararvi“ og „vanligari mentan“? Hvussu vita vit, at talan er um „siðaarv“ og ikki bara „sið“? Spurningurin er sera sigandi, tí hann lýsir tráanina eftir einfalda svarinum og samstundis avbjóðingina, at sjálvt siðaarvshugtakið er partur av einum ávísum máta at fata mentan, sum á mangan hátt er í stríð við tað, sum fakfólk annars skilja við ment anar hug takið í vísindaligum høpi.</p>
+<p>Fólkalívsfrøðingar, samfelagsfrøðingar og ikki minst tjóðfrøðingar hava í áratíggju stríðst við at loysa seg frá einum mentanarhugtaki, sum sá mentan sum greitt avmarkaðan og støðugan lut, móti tí at fata mentan sum fløktar tilgongdir millum menniskju, tilgongdir sum ikki kunnu skilmarkast og virðismetast á einfaldan hátt.</p>
+<p>Tað vóru annars vísindafólk innan fyri hesa somu frøðigrein, sum upprunaliga vóru við til at menna hugtøkini „fólkamentan“ og „mentanararv“ sum avmarkað fyribrigdi, ið kundu og skuldu kannast og greinast og skrásetast, ikki minst til gagns fyri eftirtíðina og greitt ásettar „mentanararvingar“, sum áttu at taka við hesum arvi – „fólkið“, sum átti „fólkamentanina“.</p>
+<p>Hugtakið „siðaarvur“ hongur tætt saman við fram komuni av modernaða samfelagnum og virksemi hjá tátíðar granskarum, sum tongdu ávís mentanar brigdi tætt saman við fatanini av tjóðskapi og týði liga avmarkaðum „tjóðarmentanum“.</p>
+<p>Hóast hetta á mangan hátt elvdi til lokala menn-ing og sjálvsmedvit hjá lægru stættunum so sást kortini, sum frá leið, ein grim skuggasíða av hesum virksemi – tjóðskaparrørslur, sum skuldu vera savnandi og frígerandi, kunnu eisini gerast kúgandi mót vegis innanhýsis minnilutum og grannum, dyrkan av ávísari tjóðarmentan kann fjóna aðra mentan, og granskingin av „fólkamentan“ kundi lætt liga nýtast til at skapa ímyndir av „fólkinum“, sum kundu misbrúkast politiskt. Tað er eingin tilvild, at tjóðfrøði sum vísindagrein hevði sera góðar dagar í Týsklandi í nazitíðini. Hóast virksemið á universitetunum sjáldan var beinleiðis politiskt, so tænti granskingin enda málinum at upphevja tað „serstaka og reina týska“ fram um alla aðra mentan.</p>
+<p>Eftir seinna heimsbardaga kom ein ógvuslig upp-gerð og sjálvrannsakan innan fyri alla tjóðfrøði í Europa, sum so líðandi førdi til niðurlegging av mestsum øllum granskingardeplum í siðbundari tjóðfrøði og elvdi til, at tey, sum fáast við „gamla mentan“ í dag, ofta verður sædd við eitt sindur ill gruna somum eygum. „Siðaarvur“ er eitt ana kronistiskt orð í vísindaligum høpi og fær nógvar granskarar at hveppa seg við at brúka tað. <em type="bold">„Siðaarvur“ sum politiskur veruleiki </em>Kortini hevur hugtakið framvegis góðar dagar í </p>
+<p><em type="italic">Framførslan av „tí føroyska“ flytir dansin út í nýggjar saman heingir, her sum part ur av „Wel coming event“ í sambandi við at ferða manna skip legði at í Runavík í 2018. (Myndin er av heimasíðuni hjá Runavíkar havn – www.portofrunavik.fo) </em></p>
+<p><em type="italic">Úti um landið leggja dansifeløg nógva orku í at skipa fyri barnadansi, har nýggj ættarlið fáa høvi at læra seg kvøðing og dans. Serstøk játtan er á fíggjarlógini til hetta virksemið, hóast tað fyri tað mesta er borið av sjálvbodnum arbeiði (Myndin er av lýsing fyri barnadans í Norðurlandahúsinum frá kunningarstovuni í Havn) </em></p>
+<p><em type="italic">Ofta verður dentur lagd ur á fornu Europeisku røtur nar hjá føroyska dansinum, tá hansara virði skal metast. Tað, at bera dansin víðari til komandi ættarlið, kennist sum ein skylda hjá nógvum dansifólki og øðrum sum umrøða dansin. (Myndin er av heimasíðuni www.solarmagn.fo) </em>17&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;16</p>
+<p xml:lang="deu">MENTANAR FLUTNINGUR MILLUM ÆTTARLIÐ</p>
+<p>MENTANAR FLUTNINGUR MILLUM ÆTTARLIÐ almenna rúminum; tá ið vit hoyra politikarar og onnur tosa um at varðveita siðaarv í dag, so er tað aloftast sum nakað eintýtt, lætt at skilgreina, sum øll eru samd um at virðismeta – ein hálv øld av fak ligari menning verður lættliga um lopin, kanska eisini nettupp tí at vísindafólk í langa tíð hava firnast hetta økið.</p>
+<p>Men tað eru eisini granskarar, sum bæði vísa á vandan við at „blaka barnið út við tváttaløginum“ við púra at sleppa áhuganum fyri gamla tilfarinum, samstundis sum tað, sum frá er liðið, ikki longur slepst undan at viðurkenna stóra leiklutin, „siðaarvur“ aftur hevur fingið í globaliseraða sam felagnum, ikki minst gjøgnum átøkini hjá UNESCO.</p>
+<p>Tá ið hugtakið brádliga verður sett inn í ein politiskan karm við kravi um íverksetan av átøkum, verða fakfólk tvingað at fyrihalda seg til tað, bæði sum undirvísarar, granskarar og samstundis mangan sum ábyrgdarhavar av hesum ymsu átøkunum, sum samfelagið bindur seg til at seta í verk – tjóðfrøðingar verða tíðum settir at mynda og skipa skráir og listar við „siða arvi“ eftir heilt ávísum ásetingum frá UNESCO, hóast tað er lættari sagt enn gjørt at sameina andan í sáttmálanum við politisku ynskini aftan fyri staðfestingina av honum. Sáttmálin ásetur nevniliga, at tað, sum skal varðveitast, ikki skal stuðla undir stereotypum fatanum av „tjóðar mentan“, meðan politiska ynskið snýr seg aloftast um júst tað – antin sum liður í einum ávísum tjóðskapar lig um mentanarpolitikki ella við endamálinum at „branda“ sítt egna øki sum serstakt við ferðavinnu í huga. <em type="bold">„Livandi mentan“? </em>Arbeiðið at eyðmerkja, skipa og varðveita siðaarv sum „livandi mentan“ er framvegis hvørki einfalt ella líkatil, heldur ikki viðvíkjandi føroyska dansinum, sum saman við føroyskum bátasmíði varð settur á føroysku skránna yvir siðaarv sum ein av fyribils tveimum „arvalutum“ at flyta framtíðar ættarliðum. Í báðum førum hevur tað verið fagnað sum stórtíðindi og gleðiboð, at hesi eru „komin á listan“, men í veruleikanum sigur tað einki uttan at – ja, „tey eru komin á listan“. </p>
+<p>Eingin veit, hvat tað merkir ella ber í sær fyri fram tíðina, at tey standa har. Dansurin fær longu framman und an dyggan fíggjarligan stuðul á hvørjum ári, sum avgjørt ger mun, við tað at tað lætt ir um hjá teimum, sum skipa fyri dansi úti um land ið. Tó meta eingi av mínum heimildarfólkum, at pengar í sjálvum sær hava mest at siga fyri varð veitslu av føroyska dansinum.</p>
+<p>Tey flestu vóna, at royndir aðrastaðni kunnu brúkast sum íblástur til munagóð átøk, og tað er ikki óhugsandi, at so er. Tað krevur bara, at vit kunna okkum við, hvørjar royndir onnur hava gjørt sær hesi skjótt 20 árini, sáttmálin hevur verið í gildi úti í heimi, og tær eru ikki bara góðar. Hóast tað kunnu vera fyrimunir, so eru eisini altíð møguligir vansar við inntrivum.</p>
+<p>Ein, sum hevur granskað í, hvussu tað at geva ávísum støðum og mentanarbrigdum leiklut sum „siðaarv“ ávirkar tað, sum roynt verður at varðveita, er amerikanska Barbara Kirshenblatt Gimblett, sum sigur, at eitt og hvørt inntriv so ella so ávirkar sjálvsfatan og samband við egna mentan:„… øll mentanararvsátøk – eins og trýstið frá globaliseringini, sum tey royna at virka ímóti – broyta sambandið hjá fólki við tað, sum tey fáast við. Tey broyta fatanina, fólk hava av síni mentan og sær sjálvum. (Kirshenblatt-Gimblett, 2004: 58-59)“</p>
+<p>Tað er sannlíkt, at tað at „bera mentanararv“ og „umboða tað serføroyska“ hevur verið partur av tí at dansa føroyskan dans, ið hvussu so er hesa seinastu øldina. Í so máta er tað at seta tað á ein lista yvir siðaarv í Føroyum kanska ikki at meta sum nakað stórt inntriv, sum fer at ávirka dansin stórvegis.</p>
+<p>Kortini haldi eg, at tað tykist, sum um javnvágin millum tann óeygleidda „livandi dansin,“ sum bert dansifólkið tekur lut í, og so dansin sum framførslu fyri onkrum slagi av áskoðara uttanífrá flytur seg líðandi mótvegis meira av tí seinna, og spurningurin er, um tað at seta dansin á UNESCO-listan fer at elva til meira av hesum, ella um tað fer at fáa fólk at spyrja, júst hvat tað er fyri dansur, sum er um ráðandi at varðveita, umráðandi fyri hvønn og hvat slag av átøkum – hvat slag av „flutnings fari“ er mest hóskandi fyri framtíðar mentanar flutning mill um ættarliðini, um ætlanin er at varðveita „livandi dansin“ á lívi.</p>
+<p xml:lang="ita"><em type="bold">Bókmentir: </em></p>
+<p xml:lang="nob">Andreassen, E. (1980) „Folkekulturen i nasjonalromantisk og nasjonalistisk tolkning“. í L. Honko (Ritstj.), <em type="italic">Folklore och Nationsbyggande i Norden </em>(s. 65–73). Nordiska institutet for folkdiktning. </p>
+<p xml:lang="nno">Anttonen, P. J. (2005). „Tradi-tion through Modernity“. <em type="italic">Studia Fennica </em></p>
+<p xml:lang="isl">Hafstein, V. T. (2018). <em type="italic">Making </em></p>
+<p xml:lang="nob"><em type="italic">Intangible Heritage </em>. Indiana University Press. </p>
+<p xml:lang="nob">Harrison, R. (2013). <em type="italic">Heritage – Critical Approaches </em>. Routledge Taylor &amp; Francis Group. </p>
+<p xml:lang="nob">Kirshenblatt-Gimblett, B. (2004). „Intangible Heritage as Metacultural Production“. <em type="italic">Museum International, vol. 56, </em>Blackwell Publishing, 9600 Garsington Road, Oxford, UK. </p>
+<p xml:lang="isl">Kurin, R. (2004). „Safeguarding</p>
+<p xml:lang="eng">Intangible Cultural Heritage in the 2003 Unesco Convention: a critical appraisal“. <em type="italic">Museum International, vol. 56 </em>. </p>
+<p xml:lang="deu">Kuutma, K. (2007) “ The Politics of Contested Representation: UNESCO and the Masterpieces of Intangible Cultural Heritage“ <em type="italic"></em>í <em type="italic">Prädikat „HERITAGE“: Wertschöpfungen aus kulturellen Ressourcen, Studien zur Kulturanthropologie/ Europäischen Ethnlogie 1 </em>, Lit verlag Dr.W.Hopf. </p>
+<p xml:lang="nob">Foster M. D. &amp; Gilman L. (2015)</p>
+<p xml:lang="eng"><em type="italic">Unesco on the ground – Encounters:Explorations in Folklore and Ethnomusicology, </em>Indiana University Press. </p>
+<p xml:lang="eng">Noyes, D. (2006) „The Judg-ment of Solomon: Global Protections for Tradition and the Problem of Community Ownership“, <em type="italic">Cultural Analyses </em>, 5, 27–56. </p>
+<p xml:lang="nob">Smith, L. (2006) <em type="italic">Uses of Heri-tage </em>. Routledge, Taylor &amp; Francis Group. </p>
+<p xml:lang="eng">UNESCO (2003). <em type="italic">Convention for the Safeguarding of the Intangible Cultural Heritage. </em>Leinki: https:// ich.unesco.org/en/convention </p>
+<p xml:lang="fin">Wylie, J., &amp; Margolin, D. (1981)</p>
+<p xml:lang="eng"><em type="italic">The ring of dancers. </em>University of Pennsylvania Press. </p>
+<p><em type="italic">Stóra luttøkan í dansi ring inum á ólavsøku, verður av summum nevnd sum dømi um at dansurin fram vegis má metast sum livandi partur av „føroyskum samleika“ (her áðrenn corona fór at arga) (Myndina eigur ANJCI ALL OVER) </em></p>
+<p><em type="italic">At <span type="quote">“varðveita”</span> okkurt á lívi, krevur atlit til heildina og samspæl við umhvørvið. Ein vansi við ov stórum denti á almennar listar við idealiseraðum <span type="quote">“serføroyskum fyribrigdum”</span> kann vera at livandi siðir sum frá líður missa sambandið við umhvørvið og heldur gerast fastfrystar ímyndir av onkrum hugsaðum farnum. Livandi lundin er tikin av Faroe photo v/Ólavur Frederiksen </em></p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;1819&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">MENTANAR FLUTNINGUR MILLUM ÆTTARLIÐ</p>
+<p xml:lang="deu">MENTANAR FLUTNINGUR MILLUM ÆTTARLIÐ</p>
+<p>At mýlsk tøkni kann brúkast at granska smáverur í sjónum er hvørki fremmant ella nýtt, og hetta hevur verið gjørt í fleiri áratíggju. Hinvegin er tað nýggj vitan, at sjógvur eisini hevur brot av DNA frá størri verum, og hetta fer helst at kollvelta granskingina innan havvistskipanir og størri djór, sum finnast har.</p>
+<p>Tørvurin at skilja vistskipanina í havinum er størri enn nakrantíð áður, tí mannavirksemi leggur ovurhonds stórt trýst á havið. Umhvørvis-DNA er vorðið eitt týdningarmikið amboð til at granska og skilja, hvussu havvistskipanir broytast í mun til framtíðar virksemi og fyrisitingarligar avgerðir, ið skulu royna at tálma tey negativu árinini.</p>
+<p xml:lang="nob"><em type="bold">Ian Salter </em>ians@hav.fo </p>
+<p xml:lang="isl">Evnahavfrøðingur, Ph.D.</p>
+<p xml:lang="nob">Havstovan</p>
+<p xml:lang="nno"><em type="bold">KANNING AV </em></p>
+<p xml:lang="vep"><em type="bold">FISKASTOVNUM </em></p>
+<p xml:lang="nno"><em type="bold">OG VISTSKIPANUM </em></p>
+<p xml:lang="isl"><em type="bold">Í HAVINUM VIÐ </em></p>
+<p xml:lang="deu"><em type="bold">UMHVØRVISDNA </em></p>
+<p xml:lang="nno">KANNING AV FISKASTOVNUM OG VISTSKIPANUM Í HAVINUM VIÐ UMHVØRVIS-DNA21&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p><em type="bold">Hvat er UmhvørvisDNA? </em>Umhvørvis-DNA (best kent sum eDNA – <em type="italic">environ mental DNA </em>) kann skilgreinast sum alt tað arva tilfar (DNA), ið kann finnast í einum um hvørvis sýni. Eitt slíkt sýni kann verða tikið úr einari á, vatni, mold ella av botni. Umhvørvis-DNA í sjógvi er bæði arvatilfar innan úr kyknum (intra cellular) á smáverum í sýn inum, sum til dømis virus, bakteriur og plantuæti, og eisini brotpartar av DNA (extracellular) av størri ver um í sjónum, eitt nú fiski og hvali. </p>
+<p>Hugskotið at mýlsk tøkni kann brúkast at granska smáverur í sjónum er hvørki fremmant ella nýtt, og hetta hevur verið gjørt í fleiri áratíggju. Men tað er nýggj vitan, at sjógvur eisini hevur brot av DNA frá størri verum, og hetta fer helst at kollvelta granskingina innan hav vistskipanir og størri djór, sum finnast har.</p>
+<p>Tað kemur í sjálvum sær ikki óvart á nakran, at havdjór lata frá sær eina slóð av arvatilfari, tí tað gera vit menniskju eisini. Í kanning av álvarsomum brotsverkum arbeiða løgreglu- og kriminalteknikarar út frá tí vón, at tann, sum hevur forbrotið seg, hevur latið eftir sær eina slóð av DNA, sum sostatt knýtir ein ávísan persón til staðið, har brotsverkið var framt.</p>
+<p>Á sama hátt er okkara arbeiðsháttur eitt slag av umhvørvisligum detektivarbeiði við at nýta DNAmýl sum prógv fyri, at eitt ávíst djór hevur verið á staðnum eina ávísa tíð. Verur í sjónum útloysa DNA í sínum umhvørvi á nógvan ymiskan hátt. Tað kann til dømis stava frá útláti frá sodningini, at kyknur í skræðuni áhaldandi verða skiftar út, úr blóðinum og tá ið verurnar lata út eggkyknur ella fáa ungar. Sjógvur er so at siga ein DNA-suppa frá alskyns verum, sum tær hava mist á ymiskan hátt. Við at kanna nakrar litrar av sjógvi kunnu vit sostatt savna og kanna hetta DNA-ið, við ymiskum mýlsk um kanningarháttum.</p>
+<p><em type="bold">Hvat kunnu vit nýta umhvørvisDNA til? </em>Tá ið vit kanna uDNA, kunnu vit brúka bæði miðvísa og passiva tilgongd. Tá ið vit miðvíst vilja kannað eitthvørt, leita vit eftir ávísum arvatilfari frá einum ávísum slagi, til dømis onkrari eitrandi algu, sum er vandamikil fyri alivirksemi. Tá nýta vit eina tøkni, sum verður rópt PCR (Polymerase Chain Reaction), sum flestu fólk hava hoyrt um í sambandi við COVID-19 kanningar. </p>
+<p>Í PCR-kanningum verður miðvíst farið eftir einum ávísum DNA-sekvensi, sum er serstakur fyri eitt ávíst slag, og so verður hesin sekvensurin margfaldaður fleiri milliónir ferðir. Tess fleiri DNAmýl eru í upp runa sýninum, tess fleiri margfaldað</p>
+<p>DNA-eintøk verða framleidd við PCR. Hetta ger tað møguligt bæði at siga, um ein vera hevur verið á tí staðnum, ið kannað verður, og gevur eisini eina ábending um, hvussu nógvar verur hava verið har – bara við at brúka uDNA.</p>
+<p>Passiva tilgongdin er eitt sindur øðrvísi, tí har ræður um at eyðmerkja øll tey DNA-mýlini, sum eru í einum um hvørvis sýni, uttan at mann framman undan veit, hvørjum mann leitar eftir. Til hetta verður ein tøkni brúkt, sum rópast <em type="italic">striku koting </em>( <em type="italic">meta bar coding </em>), har ávís kend støð á DNA-stronginum eru ymisk fyri tey ymsu sløgini av verum, sum tískil kann brúkast í eyðmerking og skilmarking av sløgum. </p>
+<p>Hetta verður rópt strikukoting, tí tað er í veru-leikanum sama skipan, sum verður brúkt til handilsvørur. Á hvørjari handilsvøru eru strikukotur, sum hava eitt serstakt tal, og tá ið kotan verður skannað við kassan, verða upplýsingar um vøruna og prís heintaðar í dátugrunni. Á sama hátt eru dátugrunnar við DNA-sekvensum við tilhoyrandi upplýsingum um alskyns verur.</p>
+<p>Hesir kendu DNA-sekvensir verða eisini róptir merkisílegur ( <em type="italic">marker genes </em>). Ymiskar merkisílegur verða brúktar fyri ymiskar verur (til dømis bakteriur, plantuæti og fisk), aðrar merkisílegur eru meira almennar. Ein slík ílega er Cytochrome Oxidasa 1 (CO1), sum verður nógv brúkt í heims umfat andi dátugrunninum BOLD (Barcode Of Life Data). Tá ið henda greinin verður skrivað, eru meira enn 10 milliónir strikukotur knýttar at 234.000 djórasløgum, 70.000 plantusløgum og 24.000 soppasløgum. Slíkir førleikar gera tað gjør ligt hjá okkum at eyðmerkja so at siga alt DNA, sum vit finna í umhvørvissýnum, og at eyð merkja, hvørjar verur tey hoyra til. </p>
+<p><em type="bold">Avbjóðingar við at leinkja DNAmýl til verurnar, sum finnast í sjónum </em>Hóast tað finnast góðir og álítandi hættir at eyðmerkja DNA-petti út frá teirra sekvensum, so eru tað framvegis ávísar avbjóðingar við at knýta DNA-mýl úr sjógvi til einstøk sløg. Avbjóðingin stavar frá, at tað er sera ymiskt, hvussu nógv av uDNA ymsar verur framleiða og lata út í umhvørvið. Um talan bara er um at fáa eitt svar, hvørt hetta djórið var í hesum økinum ella ikki, so er avbjóðingin ikki so stór, tí so hava nøgdirnar av uDNA, sum hvør vera fram-1<span type="quote" xml:lang="vep">"10"100"</span>1000<span type="quote" xml:lang="vep">"10000"</span> </p>
+<p>Vár<span type="quote" xml:lang="vep">"'"2018"</span></p>
+<p xml:lang="isl">Summar<span type="quote" xml:lang="vep">"'"2018"</span></p>
+<p>Vár<span type="quote" xml:lang="vep">"'"2019"</span></p>
+<p xml:lang="isl">Summar<span type="quote" xml:lang="vep">"'"2019"</span></p>
+<p xml:lang="est"><em type="bold">Log$CPUE$(kg/t)$(a)$Trawl$3$CPUE$ </em></p>
+<p>Toskur" Hýsa<span type="quote" xml:lang="vep">"0"0.25"</span>0.5<span type="quote" xml:lang="vep">"0.75"</span>1"</p>
+<p>Vár<span type="quote" xml:lang="vep">"+"2018"</span></p>
+<p xml:lang="isl">Summar<span type="quote" xml:lang="vep">"+"2018"</span></p>
+<p>Vár<span type="quote" xml:lang="vep">"+"2019"</span></p>
+<p xml:lang="isl">Summar<span type="quote" xml:lang="vep">"+"2019"</span> <em type="bold">!Fyrikoming!(%)!(b)!Trawl!3!Stød!Fyrikoming! </em></p>
+<p>Toskur" Hýsa"0.00#0.25#0.50#0.75#1.00#</p>
+<p>Vár#+#2018#</p>
+<p xml:lang="isl">Summar#+#2018#</p>
+<p>Vár#+#2019#</p>
+<p xml:lang="nno">Summar#+#2019# <em type="bold">!Fyrikoming!(%)!(d)!eDNA!3!Stød!Fyrikoming! </em></p>
+<p>Toskur# Hýsa#0.00#0.25#0.50#0.75#1.00#</p>
+<p>Vár#+#2018#</p>
+<p xml:lang="isl">Summar#+#2018#</p>
+<p>Vár#+#2019#</p>
+<p xml:lang="isl">Summar#+#2019# <em type="bold">!Posi&amp;v!endurtøkur!(%)!(c)!eDNA!7!Prøvi!PCR!úrslit! </em></p>
+<p>Toskur# Hýsa#</p>
+<p><em type="bold">Mynd 3. </em><em type="italic">Úrslit av toska og hýsuveiðu við troli á Føroyabanka (a, b) og uDNA (c, d). Mynd a vísir veiðu fyri hvørt skip (CPUE), kg.pr. troltíma og er ein meting fyri fiskanøgdina. Mynd b vísir, hvussu stórur partur í trolinum var toskur ella hýsa á kannaðu leiðunum (~20). Mynd c vísir, hvussu stórur partur av PCRend ur tøkunum hevur spjatt seg til uDNAsekvensir fyri tey bæði fiskasløgini. Mynd d vísir, hvussu stórur prosentpartur av uDNA slóð unum sæst aftur í teimum kannaðu leiðunum. Stórur prosentpartur gevur ábending um stóra fiska nøgd. </em></p>
+<p><em type="bold">Mynd 1 </em><em type="italic">. Leiðir, har kanningar av toskauDNA eru gjørdar. Litirnir á kortinum vísa veiðunøgdirnar av toski (kg/tíma) við botntroli á ymiskum leiðum seinastu 25 árini. Mesta veiðan hevur verið norðan fyri og vestan fyri og á Føroyabanka. Rundu merkini vísa, hvar sjógvsýnir vórðu tikin undir troling fyri at máta uDNA. </em></p>
+<p><em type="bold">Mynd 2. </em><em type="italic">Samanbering av trolveiðu og uDNA fyri tosk. Strikumyndin vísir positiva sambandið millum fiskanøgd veidd við botntroli (kg/tíma) og nøgdirnar av uDNA máldar í botnvatnsroyndum (kopi av toskaDNA pr. litur). </em></p>
+<p xml:lang="nno">KANNING AV FISKASTOVNUM OG VISTSKIPANUM Í HAVINUM VIÐ UMHVØRVIS-DNA</p>
+<p><em type="bold">Støð Fyrikoming </em></p>
+<p><em type="bold">Støð Fyrikoming </em></p>
+<p><em type="bold">PCR-úrslit </em>23&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;22</p>
+<p>KANNING AV FISKASTOVNUM OG VISTSKIPANUM Í HAVINUM VIÐ UMHVØRVIS-DNAleiðir, minni at siga. Men um endamálið við eini kanning er at seta tal á ella meta um nøgd av einum slagi, so er neyðugt at rokna uppá slíkar faktorar.</p>
+<p>Tað er viðurkent, at munur í sambandi við, hvussu ein vera finnur sær føði, nørist og møguliga verður etin av øðrum verum, spælir inn, tá ið vit hugsa um, hvussu nógv uDNA ein vera framleiðir og kastar av sær. Somuleiðis er stórur munur á, hvussu skjótt hesar verur framleiða uDNA ymisk tíðarskeið í síni lívsleið – millum larvustigið og fullvaksna stigið. Nógvar verur í sjónum nørast við at framleiða evarska lítið avkom, sum er á stødd við æti, og hetta verður ofta skrásett í umhvørvissýnum, eisini hóast smáar nøgdir av sjógvi verða tiknar.</p>
+<p>Tíðin, sum tað ber til at finna uDNA í sjónum, eftir at tað verður loyst frá einari veru, er eisini týdningarmikil at hava í huganum, bæði um roynt verður at tulka, um ein vera er í økinum ella ikki, og um mett verður um nøgd ella tal. Um DNAtilfarið niðurbrýtist ov skjótt, so er vandi fyri, at tað ikki sæst nóg væl í umhvørvissýnum. Um DNAtilfarið heldur sær leingi í sjónum, er vandi fyri, at slóðin gerst púra atskild frá veruni, bæði í tíð og stað.</p>
+<p>Tað eru nógv ymisk viðurskifti, sum ávirka, hvussu skjótt DNA upploysist, til dømis hiti, pH, oxygen, UV-stráling og smáverugróður. Starvsstovuroyndir hava roynt at máta, hvussu skjótt DNA upploysist, og hesar royndir benda á, at tað skiftir frá døgum til vikur. Tó skal sigast, at slíkar kanningar eru ofta gjørdar á einstøk sløg, og tað er tí ilt at siga, hvussu umboðandi tað er fyri alt lív í sjónum.</p>
+<p>Afturat tí evnafrøðiligu niðurbrótingini eru tað fleiri havfrøðilig fyribrigdi, ið ávirka, hvussu DNAslóðin ferðast frá kelduni, sum er livandi veran. Stórir bitlar við høgari evnisvekt søkka niður á botn, men minni bitlar verða møguliga verandi longur uppi í vatnsúluni og kunnu, alt eftir streymviðurskiftum og vindi, flytast langa leið.</p>
+<p>Ein væl tilrættisløgd kanning kann leggja upp fyri slíkum viðurskiftum við at nýta havfrøðilig modell til at rokna út, nær og hvaðani uDNA í ein um um -hvørvis sýni kann vera komið. Tó eru fram vegis nógvar óvissur um, hvussu útbreiðslan av bitla stødd um ávirkar uDNA, og hvussu hetta broytist frá slagi til slag.</p>
+<p>Tað er ofta sera torskilt at leggja upp fyri øllum hesum faktorum, tá ið mann vil knýta DNA-mýl til eina kelduveru. Tískil er neyðugt við uDNAkann ing um, sum samantvinna siðbundnan kanningarhátt við nýggjari tøkni. Hetta er tað, sum gransking á Havstovuni hevur slóðað fyri við serligum atliti til fiskiskap og stovnsmetingar. <em type="bold">uDNA og fiskiskapur </em>Kanningarhátturin við uDNA verður roknaður sum eitt tað mest kostnaðarnyttuliga amboðið til at betra um fiskastovnsmetingar og samstundis veita týdningar mikla vitan um vistskipanina. uDNA-hátt urin er tó avmarkaður, tí hann kann einki siga um aldur, kyn og búningarstig, sum eru alneyðug stig í vanligari stovnsmeting. </p>
+<p>Søguliga hava stovnsmetingar av botnfiski verið tongdar at yvirlitstrolingum, sum hava givið eitt rúgvismikið vitanargrundarlag til tey, ið umsita fiskastovnar nar. Kortini eru eisini ávísir vansar við yvirlitst rolingum, til dømis at tær eru kostnaðarmiklar, at rannsóknarskip ikki altíð eru tøk, at ymiskur reiðskapur fiskar ymiskt, og at botntroling eisini kann skaða botnin nakað.</p>
+<p>Tað eru ávís øki, har troling av ymsum orsøkum ikki ber til, so sum vard øki, inni á firðum ella í við breknum økjum, har korall botnur er. uDNAstovns metingar kunnu í slíkum førum stuðla undir sið bundnu stovnsmetingarnar. Fyri at skilja fullu nyttuna av at brúka uDNA í stovnsmetingum er neyðugt, at vit samanbera nýggja og gamla háttalagið.</p>
+<p>Tað hevur leingi verið altjóða viðurkent, at Føroyar eru eitt væl egnað royndarstað fyri at granska sambandið millum uDNA og fiskiskap. Í 2018 saman- tvinn aðu vit eina uDNA rannsókn við van ligu botnfiska yvirlitstrolingina á Landgrunninum. Hesa verkætlanina fíggjaðu Fiskivinnuroyndir (CodeDNA). Verkætlanin snúði seg í høvuðsheitum um tosk ( <em type="italic">Gadus morhua </em>) og var samskipað við regluligu yvirlitstrolingina hjá Havstovuni. </p>
+<p>Í hesari verkætlan tóku vit umhvørvissýnir (sjógv) nær við botn á 35 støðum á føroyska landgrunninum (Mynd 1) og leitaðu her eftir uDNA av toski við qPCR. Beint eftir at sýnini vóru tikin, gjørdi Magnus Heinason sítt vanliga hál í ein tíma, og fongurin varð gjørdur upp í veiðu (kg) per tíma.</p>
+<p>Vit sannaðu, at tað var ein eyðsýndur samanhangur millum nøgdina av toski í trolinum og nøgdina av toska-DNA í sjósýninum (Mynd 2). Hesi úrslit vístu fyri fyrstu ferð, at uDNA-kanningar kunnu fylgja útbreiðsluni av einum botnfiskaslag í náttúr uni og somuleiðis helst eisini nýtast til at gera eina meting av toskameinginum í einum øki.</p>
+<p>Tað positiva sambandið millum uDNA og nøgdina av toski gevur ábending um, at tað letur seg gera at fylgja stovnsstødd og sveiggjum í botn fiska stovnum við hesum nýggja kanningarháttinum. Fyri at víðka um okkara vitan er neyðugt gjøllari at kanna sambandið millum uDNA og nøgd ymisk tíðarskeið. Fyri at kanna hetta hava vit sjósett enn eina verkætlan, sum vit kallað <em type="italic">BankeDNA </em>(fíggjað av Fiski vinnuroyndum), ið hevur sum endamál at kanna tosk og hýsu á Føroyabanka. </p>
+<p>Til hesa kanning vórðu uDNA-sýnir tikin í sam-bandi við yvirlitstrolingarnar hjá Havstovuni í 2018 og 2019, bæði um várið og summarið. Úrslitini frá hesari verkætlan vístu, at nøgdin av hýsu var upp til tíggju ferðir størri enn av toski (Mynd 3a), og at hýsa varð funnin á fleiri trolstøðum enn toskurin (Mynd 3b).</p>
+<p>Líknandi ábending sóu vit í uDNA-úrslitunum, sum eisini góvu størri PCR-útslag (Mynd 3c) og víðfevndari útbreiðslu av hýsu-DNA samanborið við toska-DNA (Mynd 3d). Hesi úrslit vísa okkum,</p>
+<p xml:lang="rmu"><em type="bold">Garrick </em></p>
+<p xml:lang="eng"><em type="bold">Greater Forkbeard </em></p>
+<p xml:lang="eng"><em type="bold">Greenland Halibut </em></p>
+<p xml:lang="isl"><em type="bold">Gurnard </em></p>
+<p xml:lang="eng"><em type="bold">Minnows </em></p>
+<p xml:lang="eng"><em type="bold">Silvery Lightfish </em></p>
+<p xml:lang="olo"><em type="bold">Skulpin </em></p>
+<p xml:lang="sme"><em type="bold">Seagull </em></p>
+<p xml:lang="eng"><em type="bold">Pilot whale </em></p>
+<p xml:lang="fra"><em type="bold">Harbour porpoise </em></p>
+<p xml:lang="eng"><em type="bold">Arctic char </em></p>
+<p xml:lang="spa"><em type="bold">Zoarcales </em></p>
+<p xml:lang="smn"><em type="bold">Sculpin </em></p>
+<p xml:lang="deu"><em type="bold">Witch−Flounder </em></p>
+<p xml:lang="tur"><em type="bold">Pricklebacks </em></p>
+<p xml:lang="eng"><em type="bold">Bottle−nosed whale </em></p>
+<p xml:lang="eng"><em type="bold">European Conger </em></p>
+<p xml:lang="olo"><em type="bold">Skulpin_1 </em></p>
+<p xml:lang="deu"><em type="bold">Gudgeon </em></p>
+<p xml:lang="smj"><em type="bold">Gadidae </em></p>
+<p xml:lang="krl"><em type="bold">Cottioidei </em></p>
+<p xml:lang="fra"><em type="bold">Lcodes </em></p>
+<p xml:lang="eng"><em type="bold">Boar fish </em></p>
+<p xml:lang="fin"><em type="bold">Sea tadpole </em></p>
+<p xml:lang="nob"><em type="bold">Saritor spp. </em></p>
+<p xml:lang="eng"><em type="bold">Greenland shark </em></p>
+<p xml:lang="eng"><em type="bold">Ray−finned fishes </em></p>
+<p xml:lang="ron"><em type="bold">Clupeinae </em></p>
+<p xml:lang="fra"><em type="bold">Lycodes_2 </em></p>
+<p xml:lang="nob"><em type="bold">Black Scabbard </em></p>
+<p xml:lang="nob"><em type="bold">Angler </em></p>
+<p xml:lang="sme"><em type="bold">Cottidae </em></p>
+<p xml:lang="vep"><em type="bold">Gadoidei </em></p>
+<p xml:lang="nob"><em type="bold">Daubed Shanny </em></p>
+<p xml:lang="eng"><em type="bold">European Plaice </em></p>
+<p xml:lang="eng"><em type="bold">Turbot </em></p>
+<p xml:lang="som"><em type="bold">Goby </em></p>
+<p xml:lang="est"><em type="bold">Moustache Skulpin </em></p>
+<p xml:lang="nob"><em type="bold">Greater Argentine </em></p>
+<p xml:lang="nob"><em type="bold">Ling </em></p>
+<p xml:lang="eng"><em type="bold">Poor Cod </em></p>
+<p xml:lang="eng"><em type="bold">Common Dab </em></p>
+<p xml:lang="ron"><em type="bold">Capelin </em></p>
+<p xml:lang="nob"><em type="bold">Red Fish </em></p>
+<p xml:lang="nob"><em type="bold">Wolf Fish </em></p>
+<p xml:lang="rmy-rlo"><em type="bold">Mackrel </em></p>
+<p xml:lang="eng"><em type="bold">Norway Pout </em></p>
+<p xml:lang="olo"><em type="bold">Snailfish </em></p>
+<p xml:lang="fkv"><em type="bold">Lemon Sole </em></p>
+<p xml:lang="nob"><em type="bold">Gunnel </em></p>
+<p xml:lang="est"><em type="bold">Long−spinned bullhead </em></p>
+<p xml:lang="eng"><em type="bold">Haddock/Whiting </em></p>
+<p xml:lang="eng"><em type="bold">Ray−finned fish </em></p>
+<p xml:lang="nob"><em type="bold">Herring </em></p>
+<p xml:lang="eng"><em type="bold">Chirolophis </em></p>
+<p xml:lang="eng"><em type="bold">Shorthorn Sculpin </em></p>
+<p xml:lang="eng"><em type="bold">Lump fish </em></p>
+<p xml:lang="nob"><em type="bold">Cusk </em></p>
+<p xml:lang="eng"><em type="bold">Atlantic Cod </em></p>
+<p xml:lang="nob"><em type="bold">Blue Whiting </em></p>
+<p xml:lang="nno"><em type="bold">Sand Eel </em></p>
+<p xml:lang="swe"><em type="bold">Five−beard Rockling </em></p>
+<p xml:lang="eng"><em type="bold">Saithe0102030 </em></p>
+<p xml:lang="eng">Read abundance</p>
+<p xml:lang="hbs">MO</p>
+<p xml:lang="eng">TU name</p>
+<p><em type="bold">Mynd 5 </em><em type="italic">. Tekning av einum sjálvvirkandi vatnsýnistøkutóli (RAS500, McLane, USA), sum verður brúkt til at savna inn og goyma vatnsýnir til seinni uDNAgreining. Útgerðin kann programmerast til at savna inn sýnir ávísar dagar og klokkutíðir í upp til eitt ár, og kann arbeiða á fleiri túsund metra dýpi. </em></p>
+<p><em type="bold">Mynd 4. </em><em type="italic">Strikukotuúrslit fyri fisk á innaru land leiðini. Strikumyndin vísir prosent part av sekvensum fyri ymisk fiskasløg. Tess fleiri sekvensar fyri hvørt fiska slag, tess størri mongdir av uDNA eru í umhvørv inum. Tað bendir á nógvan fisk. Stórur munur er á uDNA mongdunum frá teimum ymisku fiskasløgunum. </em>25&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;24</p>
+<p xml:lang="nno">KANNING AV FISKASTOVNUM OG VISTSKIPANUM Í HAVINUM VIÐ UMHVØRVIS-DNA</p>
+<p>KANNING AV FISKASTOVNUM OG VISTSKIPANUM Í HAVINUM VIÐ UMHVØRVIS-DNAat uDNA eisini kann brúkast til at máta sveiggj í stovnsstøddum av ymsum fiskasløgum í einum ávísum havøki.</p>
+<p><em type="bold">Fiskavistskipan í víðum sveipi </em>Umframt at hesar verkætlanir serliga venda sær ímóti nøkrum av teimum fíggjarliga týdningarmiklu fiska sløg unum, so hava vit eisini sett í verk eina passiva sýnistøku fyri at lýsa ta breiðaru fiska vistskip anina. Ein verkætlan, sum Gransk ing a rráðið FAMEOS (Faroese Marine Ecosystem Observing Study) hevur fíggjað, er farin at savnað inn uDNAtíðar ser iur av sjónum kring Føroyar. Til hesa kanning nýta vit eina merkisílegu (12S), sum finst í øllum ryggdjórum (djór, sum hava ryggja geislar og nervalag), til at kanna árstíðarbroytingar í yms um fiska- og hvala sløgum, sum ferðast á innaru landleið ini. Higartil hava vit eyðmerkt yvir 50 ymisk fiskasløg við stórum sveiggjum av uDNA nøgd (Mynd 4). Av og á kemur tað eisini fyri, at vit finna uDNA frá stórum hav súgdjórum. </p>
+<p>Við at brúka eina meira umfatandi merkisílegu hava vit staðfest uDNA frá fleiri enn 450 sløgum av havverum, síðani vit fóru undir hesa kanning. Í løtuni royna vit so at samanbera DNA-tilfarið frá hesum verunum umframt ta vitan, sum er savnað á meira siðbundnan hátt kring Føroyar.</p>
+<p>Framhaldandi fer henda verkætlan at kunna hjálpa okkum at halda eyga við broytingunum í hav vist skipanini og til dømis fylgja útbreiðsluni av nýggjum sløgum til føroyskt havøki. Eitt gott dømi um hetta er, at uDNA neyvt kundi siga, nær lodna var á fø royska Landgrunninum. Hetta varð seinni staðfest í veiðu hagtølunum.</p>
+<p><em type="bold">Framtíðin </em>Av tí at tað er lutfalsliga lætt og bíligt at taka vatnsýnir, so er hetta ein sera góður møguleiki at granska hav vist skipanir nógv skjótari og neyvari, enn fyrr hevur verið gjørligt. Eitt serliga spennandi útlit er framhaldandi at menna uDNA-gransking saman við nýggjum hættum at eygleiða og taka sýnir av havinum. Sjálvvirkandi vatnsýnistøka (Mynd 5) kann programmerast til at innsavna og goyma uDNA-sýnir frá ymiskum umhvørvi. </p>
+<p>Vit hava sett út tílíka tøkni á flot á opnum havi í Arktis og kannað uDNA frá slíkum sýnum. Henda samanrenning av vísindum og verkfrøði hevur givið okkum nógv hugskot til at kanna, hvussu plantuætivist skipanin mennist undir ísinum teir partar av árinum, tá ið rannsóknarskip ikki sleppa framat. Tað er tí væl hugsandi, at slík útgerð kundi verið sett út á fiskigrunnar, stongdar leiðir ella til dømis nær við alibrúk.</p>
+<p>Sum liður í evropeiskt fíggjaðari gransk ing (JERICO-S3) ætla vit at festa eina sjálv virkandi sýnis tøku á Norrönu fyri at savna uDNA á hennara mongu ferðum millum Danmark, Føroyar og Ísland. Eisini menna granskarar í USA sjálv virk andi kavbátar, sum við tól menn um kunnu taka vatn sýnir til uDNA. Sum frá líður fara slík ar dronur iva leyst at kunna kanna sýn ini um borð og senda úrs litini til lands umvegis fylgi svein.</p>
+<p>Tørvurin at skilja vistskipanina í havinum er størri enn nakrantíð. Mannavirksemi leggur ovurhonds stórt trýst á havið. Stór altjóða sam størv sum Bio diversity Observatin Network (BON), Global Ocean Observing System (GOOS) og Inter government al Panel for Biodiversity and Eco sy stem Services) ið ST og UNESCO hava stuðlað, viðurkenna, at heilsan hjá havvistskipanum hevur al stóran týd ning fyri framtíðina á okkara gongu stjørnu. Umhvørvis-DNA er brádliga vorðið eitt tað mest henta am boðið til at granska og skilja, hvussu havvistskipanir broytast í sambandi við framtíðar virksemi og fyrisitingarligar av gerðir, ið skulu royna at tálma tey negativu árinini. <em type="italic">„Tað positiva sambandið millum uDNA og nøgdina av toski gevur eina ábending um, at tað letur seg gera at fylgja stovnsstødd og sveiggjum í botnfiskastovnum“ </em></p>
+<p><em type="bold">Viðkomandi lesnaður: </em></p>
+<p xml:lang="eng">Wietz, M., Bienhold, C., Metfies, K., Torres-Valdes, S., von Appen, W.J., Salter, I., Boetius, A. The polar night shift: Seasonal dynamics and drivers of Arctic Ocean microbiomes revealed by autonomous sampling. ISME Journal (2021). In press.</p>
+<p xml:lang="eng">NOAA White Paper NMFS-NWFSC-WP-2020-01. Implementation of Environmental DNA (eDNA) as a tool for Ecosystem Based Fisheries Management. National Marine Fisheries Service (2020). https://doi. org10.25923/e736-vn83</p>
+<p xml:lang="eng">Salter, I., Eliasen, S., Joensen, M., Kristiansen, R., Steingrund, P., Vesterdaard, P. Quantitative environmental DNA survey maps regional biomass of Atlantic cod in oceanic waters. Communications Biology (2019). https://doi.org/10.1038/s42003-019-0696-8</p>
+<p xml:lang="eng">Salter, I. Seasonal persistence of dissolved environmental DNA (eDNA) in a marine system: The role of microbial nutrient limitation. PLoSONE (2018). https://doi.org/10.1371/journal.pone.0192409</p>
+<p xml:lang="est"><em type="bold">LÆRLITT LOÐMÝGGJ </em></p>
+<p><em type="bold">ER IKKI EIN „NÝGGJUR </em></p>
+<p xml:lang="deu"><em type="bold">FØROYINGUR“ </em></p>
+<p><em type="bold">Lærlitt loðmýggj er ikki ein nýggjur føroyingur, men hevur helst verið her leingi. Lærlitt loðmýggj hevur til dømis verið vanligt í haganum uttan fyri Sumba síðan miðskeiðis í 1980árunum, og onnur hava staðfest hetta skordýrið norðanfjørðs í umleið 1990. </em></p>
+<p><em type="bold">Mynd 1 . </em>Lærlitt loðmýggj. Liturin á lørunum gav íblástur til navnið. </p>
+<p>LÆRLITT LOÐMÝGGJ ER IKKI EIN „NÝGGJUR FØROYINGUR“27&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;26</p>
+<p xml:lang="nno">KANNING AV FISKASTOVNUM OG VISTSKIPANUM Í HAVINUM VIÐ UMHVØRVIS-DNA</p>
+<p xml:lang="isl">Mynd 2. Lærlitt loðmýggj á mýrisólju (Caltha palustris).</p>
+<p xml:lang="isl"><em type="bold">Mynd 5. </em><em type="italic">Skerdar grágæs standa og taka lærlitt loðmýggj. </em></p>
+<p>Tórshavn í 2018 (https://www.youtube.com/ watch?v=wlWIFY1B32U) og aftur í 2020. Hetta kundi bent á, at tey finnast í stórum tali makað ár. Eingin kanning er gjørd av hesum, men í 2008, 2014, 2018 og 2020 vóru tey at síggja í stórum tali. Tað finnast onnur skordýr, sum einans síggjast ávís ár, sum til dømis bláberjavongur <em type="bold"></em><em type="italic">(Xestia alpicola) </em>(mynd 3). Áhugavert hevði tí verið at kannað hetta við makaðum árum nærri. </p>
+<p>Lærlittum loðmýggi viðvíkjandi er hetta higartil bert eitt ástøði. Tey fara á flog áðrenn hálvan juni, og seinast í juli eru tey ikki at síggja longur. Fyrstu ferð, eg sá tey í Havn, var í 2016.</p>
+<p>Í 2014 eygleiddu vit fýra skerdar grágæs í Trongis-vági, sum stóðu og tóku lærlitt loðmýggj í hundraðtali (mynd 4), og Sólfinn Kjærbo hevur sagt frá, hvussu hann hevur staðið við Akraberg og sæð kjógva staðið og tikið lærlitt loðmýggj. Lærlitt loðmýgg kann tí verða eitt gott ískoyti hjá kjógvanum, tá ið lítið er til av nebbasild – sum hann vanliga stjelur frá lunda, ternu og ritu.</p>
+<p>Familjan Bibionida telur higartil trý sløg í Føroyum. Lærlitt loðmýggj <em type="italic">(Bibio pomonae) </em>, sum hevur verið nógv umrøtt seinnu árini, bulsvart loðmýggj <em type="italic">(Bibio nigriventris) </em>og kambaloðmýggj <em type="italic">(Dilophus femoratus) </em>. Tvey tey seinnu sløgini eru helst at finna í lítl um tali at kalla allastaðni í Føroyum, men hes in greinastubbin fer einans at snúgva seg um lærlitt loðmýggj (mynd 1). </p>
+<p>Í 2016 smíðaðu Marjun Arge Simonsen, Jóhan</p>
+<p>Hendrik W. Poulsen, Leivur Janus Hansen og Jens-Kjeld Jensen nøvn til tey trý mýggjasløgini.</p>
+<p>Lærlitt loðmýggj varð fyrstu ferð skrásett í Suðuroy umleið 1865 av læknanum A. Bergh, sum hevði eitt eintak í savni sínum. Árini 1925-26 var ein stór skordýrainnsavning í Føroyum, men einki lærlitt loðmýggj varð savnað tá, og síðani havi eg ikki funnið nakað skrivligt um lærlitt loðmýggj í Føroyum. Men Sólfinn Kjærbo sigur, at lærlitt loðmýggj hevur verið vanligt í haganum uttan fyri Sumba síðan miðskeiðis í 1980-árunum. Sjálvur sá eg mítt fyrsta lærlitta loðmýggj í Fugloy umleið 1990. Seinastu 15-20 árini hava lærlitt loðmýggj verið til í hópatali í Suðuroy, og í 2008 vóru tey í milliónatali. Tá ið vit nú vita, at lærlitt loðmýggj hevur verið í Føroyum í meira enn 150 ár, uttan at vit hava givið tí stórvegis ans, og at talið nústani er vaksið so ómetaliga nógv, er nærliggjandi at hugsa, at veðurlagsbroytingar helst eru atvoldin til tað.</p>
+<p>Vaksnu lærlittu loðmýggini liva av plantunektari.</p>
+<p>Lær litt loðmýggj hevur stóran týdning sum plantudustari (mynd 2).</p>
+<p>Ormveran livir av deyðum bløðum, rotnandi lívrunnum tilfari og grasrótum. Hildið verður, at gongdin frá ormveru til mýggj tekur 3 ár, men her í Føroyum eru ábendingar um, at gongdin einans tekur 2 ár, tí lærlitt loðmýggj vóru í milliónatali í</p>
+<p><em type="bold">JensKjeld Jensen </em>nolsoy@gmail.com Heiðursdoktari á Fróðskaparsetri Føroya </p>
+<p><em type="bold">Keldur </em></p>
+<p xml:lang="nob">Hansen, H.J. (1881). Faunula Insectorum Færoeensis. Fortegnelse over de paa Færøerne hidtil samlede insekter. Naturhist. Tidsskrift 3: 229-280.</p>
+<p xml:lang="nob">Pedersen, B.V. (1971). Diptera Nematocera. In: Spärck, R.† and Tuxen, S.L. (eds). 1928-1971. The Zoology of the Faroes II(II) 42b: 1-71.</p>
+<p><em type="bold">Lærlitt loðmýggj </em>dug a væl at dusta plantur. Tey gera ongan skaða á fólk, hó ast tey kunnu vera ein stór plága. Veður lags broyt ing ar kunnu vera at v old in til, at tey nú síggj ast í størri tali enn nakran tíð. </p>
+<p xml:lang="isl"><em type="bold">Mynd 4 </em><em type="italic">. Kallmýggj vinstru megin og kvennmýggj høgru megin. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 3 </em><em type="italic">. Bláberjavongur. </em></p>
+<p xml:lang="nob"><em type="italic">Myndatakari: Roy Leverton. </em>29&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;28</p>
+<p>LÆRLITT LOÐMÝGGJ ER IKKI EIN „NÝGGJUR FØROYINGUR“</p>
+<p xml:lang="isl"><em type="bold">Mynd 2 </em><em type="italic">. Lærlitt loðmýggj á mýrisólju (Caltha palustris). </em></p>
+<p>LÆRLITT LOÐMÝGGJ ER IKKI EIN „NÝGGJUR FØROYINGUR“</p>
+<p><em type="bold">Súsanna Berg </em>sb@irf.fo Umhvørvisleiðari, IRF </p>
+<p>Elbilaídnaðurin hevur tikið dik á seg mangastaðni í heiminum. Føroyar eru einki undantak, og seinastu fáu árini er eyðsýnt, at okkurt er hent á landsins elbilamarknaði. Millum 2009 og 2017 vórðu bara einir fýra elbilar seldir árliga. Talið broyttist brádliga og ógvisliga millum 2018 og 2020, tá ið fleiri enn 80 elbilar vórðu seldir um árið, og í 2020 vóru teir 97. Í august 2020 byrjaði ein verkætlan, sum skal lýsa, hvussu brúkt battarí úr elbilum verða handfarin á tryggan hátt í smáum londum, sum ikki eru partar av meginøkinum og hava fáar elbilar. Hesi trý norðurlendsku oyggjalondini við fáum íbúgvum eru vald sum verkætlanarpláss: Føroyar, Ísland og Grønland.</p>
+<p xml:lang="deu"><em type="bold">HVUSSU FØROYAR </em></p>
+<p xml:lang="deu"><em type="bold">KUNNU HANDFARA </em></p>
+<p><em type="bold">BRÚKT BATTARÍ FRÁ </em></p>
+<p xml:lang="deu"><em type="bold">ELBILUM </em></p>
+<p xml:lang="vep">VERKÆTLAN</p>
+<p>Fleiri elbilar fara væntandi at hava við sær størri nøgdir av brúktum battaríum í næstu framtíð. Undir vanligum umstøðum kunnu battaríini halda í eini 8-10 ár, áðrenn tey verða skift, og vanliga hava fólk ikki ein bil í longri tíð enn tað. Kortini er tørvur longu á at útvega innlendis førleika at handfara brúkt battarí, tí at elbilar eisini eru fyri óhapp um, og tá er neyðugt, at onkur tekur sær av battarí unum.</p>
+<p><em type="bold">PROACTIVE verkætlanin </em>At elbilarnir verða alsamt fleiri um allan heim, eggjaði svensku granskingarfyritøkuni Chalmers Industri teknik at fara undir eina verkætlan at finna út av, hvussu gomul battarí úr elbilum verða handfarin á tryggan hátt í smáum londum, sum ikki eru í megin øki num og hava fáar elbilar. Tí vórðu trý norðurlendsk oyggjasamfeløg við fáum íbúgvum vald sum verk ætlanar pláss: Føroyar, Ísland og Grønland. Tankin er, at um tað ber til at fáa eina skipan at rigga á hesum støðum, ber eisini til at fáa hana at rigga í einum og hvørjum øðrum landi og landaøki. </p>
+<p>Endamálið við verkætlanini er at seta upp eina effektiva og trygga tilgongd til at handfara brúkt battarí frá elbilum. Verkætlanin fevnir um tilgongdir í sambandi við at savna, pakka og undanviðgera battarí úr elbilum, at skipa leiðreglur og at venja starvsfólk.</p>
+<p>Heitið á verkætlanini er PROACTIVE (Towards a <em type="bold">Pro </em>cess of Efficient and S <em type="bold">a </em>fe Ele <em type="bold">ct </em>r <em type="bold">i </em>c <em type="bold">Ve </em>hicle Battery Handling in the Island Nordic Countries). Hon byrjaði seinast í august 2020 og heldur fram til august 2022. Verkætlanin er fíggjað av Nordic Innovation (www.nordicinnovation.org). Tað eru níggju feløg við í verk ætlanini, sum síggjast í talvu 1. </p>
+<p xml:lang="kal"><em type="bold">Navn </em></p>
+<p xml:lang="eng"><em type="bold">Land </em></p>
+<p xml:lang="isl"><em type="bold">Lýsing </em></p>
+<p xml:lang="deu">IRF</p>
+<p>Føroyar</p>
+<p xml:lang="swe">Kommunalt renovatiónsfelag</p>
+<p xml:lang="olo">Kommunala</p>
+<p>Brenni støðin</p>
+<p>Føroyar</p>
+<p xml:lang="swe">Kommunalt renovatiónsfelag</p>
+<p xml:lang="est">ESANI A/S</p>
+<p xml:lang="nob">Grønland</p>
+<p xml:lang="swe">Landsrenovatiónsfelag</p>
+<p xml:lang="isl">Netpartar ehf.</p>
+<p xml:lang="isl">Ísland</p>
+<p>Bilasundurtøkufelag</p>
+<p xml:lang="isl">Hringras ehf.</p>
+<p xml:lang="isl">Ísland</p>
+<p>Metall endurvinningar felag</p>
+<p xml:lang="deu">Stena Recycling</p>
+<p xml:lang="est">A/S</p>
+<p xml:lang="nob">Danmark</p>
+<p xml:lang="isl">Endurvinningarfelag</p>
+<p xml:lang="ron">Destructor</p>
+<p xml:lang="eng">Consulting</p>
+<p>Svøríki</p>
+<p xml:lang="isl">Serfrøðingar í vanda miklum evnum og innpakningi</p>
+<p xml:lang="deu">Stena Recycling</p>
+<p xml:lang="nob">International AB Svøríki</p>
+<p xml:lang="isl">Endurvinningar/R&amp;Dfelag</p>
+<p xml:lang="nob">Stiftelsen</p>
+<p xml:lang="est">Chalmers Industriteknik</p>
+<p>Svøríki</p>
+<p xml:lang="isl">R&amp;Dstovnur, verkætlanarleiðari og samskipari</p>
+<p><em type="bold">Talva 1. </em><em type="italic">Her eru tey níggju feløgini, sum eru við í verkætlanini. </em></p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;3031&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p>HVUSSU FØROYAR KUNNU HANDFARA BRÚKT BATTARÍ FRÁ ELBILUM</p>
+<p>HVUSSU FØROYAR KUNNU HANDFARA BRÚKT BATTARÍ FRÁ ELBILUMbattarí, sum enn rigga, so at megin í slíkum battaríum kann verða endurnýtt. Til dømis kann talan vera um orkugoymslu til privata nýtslu, løði støðir og í sól- og/ ella vindparkum o.ø. Í Íslandi verða brúkt bilbattarí endurnýtt í orkugoymslu loysn um til vind turbinur (www.icewind.is), og í Niður londum (www.ecaraccu. nl) verða tey brúkt til privata nýtslu og virkir.</p>
+<p>Tó er enn eingin slík tilgongd skipað í Føroyum, og tí verða øll brúkt battarí í fyrstu atløgu send til endur-vinn ingar í Danmark. Eisini hóast battaríini kunnu vera í góðum standi og kundu verið nýtt til onnur endamál í Føroyum.</p>
+<p>Tá ið brúkt battarí skal endurnýtast, er fyrst og fremst neyðugt at fáa kunning um, hvørjum standi brúkta battaríið er í. Henda kunning fæst frá battarí um sit ingar skipanini, sum ger kanningar av bæði hardware og software. Battaríini verða tikin sundur, og neyðugt kann verða at skifta onkrar laðkyknur, áðrenn tað verður savnað aftur til nýggjar eindir.</p>
+<p>Skal battaríendurnýtsla gerast veruleiki, er neyðugt við nýggjum luttakarum á marknaðinum.</p>
+<p>Eisini er sannlíkt, at tørvur er á meiri gransking av ymiskum møguleikum við brúktum battaríum. Aðrir týðandi partar, sum skulu kannast, fevna um battaríkostnað, kostnaðin av at styrkja netverkið, handi lsligar tænastur og politikkir á økinum. Samstarv er umráðandi ímillum endurnýtslufeløg, virki, sum handfara elbilar og battarí, orkufeløgini í landinum og granskingarheimin.</p>
+<p>Viðvíkjandi lógarsmíði/ásetingum er gongd í. Eitt arbeiðsuppskot er frá desembur 2020 um at nú tíðar gera ES-lóggávu um battarí, sum eisini kann skunda undir at varðveita battaríini í teimum ymsu londunum heldur enn at flyta tey út sum burturkast.</p>
+<p>PROACTIVE verkætlanin heldur á eitt ár aftrat og skal lata úr hondum ein leist til tryggari og effektivari til gongd at handfara brúkt battarí úr elbilum í Føroyum, Íslandi og Grønlandi. Kortini eigur at verða nevnt, at gongdin og ymsu arbeiðsstigini kunnu vera ymisk í teimum trimum londunum, tí at arbeiðið er á ymsum menningarstigum, og ymist er, hvussu nógvir elbilar eru í londunum, og hvussu lóggáva/politikkur er í londunum.</p>
+<p xml:lang="isl">Bilainnflytari/</p>
+<p xml:lang="fkv">Bilasøla</p>
+<p xml:lang="isl">Bilabrúkari</p>
+<p xml:lang="isl">Endurvinning</p>
+<p xml:lang="deu">IRF</p>
+<p>Útflutningur</p>
+<p>Okkurt hendir við battarínum (bilóhapp, brek í battaríi o.a.)</p>
+<p>Bilaverkstaður</p>
+<p>Er tørvur á smávegis umvæling, verður tað gjørt á verkstaði. Er battaríið skatt, verður bilurin sendur til Danmarkar, har hann fær nýtt battarí og verður sendur aftur til Føroyar</p>
+<p xml:lang="isl">Endurvinning</p>
+<p xml:lang="vep">KB</p>
+<p>Bilar skrásettir uttan fyri</p>
+<p>Tórshavnar kommunu fara til</p>
+<p>IRF, annars beinleiðis til KB</p>
+<p>Í løtuni: sannlíkt at bilurin, við battaríi, verður sendur til Danmarkar</p>
+<p xml:lang="isl">Annað endurnýtslufelag</p>
+<p>Støðan, sum er</p>
+<p>Møgulig framtíðarstøða</p>
+<p>Battarí tikið úrakfarinum (KB)</p>
+<p><em type="bold">Virkandi partar í Føroyum </em>Fyri at fáa tilgongdina at rigga er tørvur á mongum ymiskum virkandi pørtum. Føroysku luttakararnir í verkætlanini, IRF og Kommunala brennistøðin (KB), væntast at vera virknir partar í handfaringini av brúktum battaríum – annaðhvørt frá skaddum bilum ella battaríum, sum eru um at ganga út. Hesir báðir kommunalu felags skapir samstarva longu sum er um at um hvørvisviðgera bilar, har gomul akfør verða savnað í Suðuroy, Sandoy, Klaksvík og Havn og flutt til Kommunalu brennistøðina á Hjalla. </p>
+<p>Her fáa tey ta fyrstu umhvørvisviðgerðina, sum fevnir um at tøma allan løg (bensin/diesel, køliløg, bremsu løg o.a.), taka stoytkoddar úr og taka úr og endur vinna kveikar og akkumulatorar (battarí). Gomlu akførini verða síðan mekaniskt trýst saman og endur vunnin sum blandað jarn. Higartil er ongin gamal elbilur komin inn til IRF ella KB.</p>
+<p>Aðrir føroyskir luttakarar, sum væntandi fara at hava týðandi leiklut í tilgongdini at handfara brúkt battarí úr elbilum, eru bilainnflytarar og bilasølur. Eisini bjargingarfeløg og sløkkilið eru týðandi, tí tey eru vanliga tey fyrstu at koma í samband við skadda bilin/battaríið. Uppaftur aðrir luttakarar eru sleipi feløg, sum flyta skaddar ella uppsteðgaðar bilar, verk støð og skipa- og flutnings feløg, bæði til innan- og uttanlands flutn ing. Longur frammi í tíðini er eisini møguligt, at endur-nýtslu feløg kunnu handfara og/ella umvæla battarí, so at tey kunnu verða endurnýtt í øðrum tólum (en: 2nd life application). Slík nýtsla kann t.d. vera orkugoymsluloysnir.</p>
+<p>Mynd 3 lýsir eina einfalda rás av nútíðar og framtíðar floymi av battaríum í Føroyum.</p>
+<p><em type="bold">Hvussu fyrireika Føroyar seg til at handfara brúkt battarí úr elbilum? </em>Av tí at váðin er stórur, og nógvar avbjóðingar eru í sambandi við battaríendurvinning, skal nógv vera fyrireikað fyri at fáa skipanina at virka. </p>
+<p>Fyrst og fremst er tað vandin fyri, at battaríið verður skatt í einum óhappi. Laðkyknurnar í battaríinum kunnu hava verið fyri mekaniskari, el- og hitaávirkan, sum kunnu fáa hitan í battaríinum at økjast. Økti hitin kann skunda undir ótilætlaðar kemiskar reaktión ir í laðkyknunum, sum enda við, at stórar orkunøgdir verða loystar, sum síðan aftur hevur við sær, at hitin veksur uppaftur meira. Hetta hevur við sær, at um hitin økist í einari laðkyknu, er vandi fyri, at hitin breiðir seg í øllum modulinum ella enntá í øllum battaríinum, og tað eigur ikki at verða undirmett. Tá ið hitin økist ótamdur í einum lithium battaríi, verður hydrogenfluorid, sum bæði er eitrandi og esjandi, leysgivið. Umframt tað verða, sum í øllum eldi, mong onnur gass gjørd, ið eru eitrandi og skaðilig at anda í seg.</p>
+<p>Av tí at vandi er fyri, at eldur kann koma í lithium battarí, tørvar bjargingarfeløgum og sløkkiliðum at hava mannagongdir at meta um standin á akfarinum/ battaríinum á skaðastaðnum. So kunnu tey skipa eina trygga handfaring, frá tí at akfarið verður flutt frá skaðastaðnum til viðgerðarstaðið. Háspenningur er í bilbattaríum, og tí er neyðugt, at vand og roynd fólk hand fara tey. Starvsfólkini hjá renovatións feløgunum, sum taka móti akfarinum, skulu tí hava grund leggjandi trygdarvenjingar, og starvsfólkini, ið taka bilarnar sundur hjá Kommunalu brennistøðini, hava kanska tørv á neyvari trygdarvenjing og ergo nom iskari venjing í, hvussu battaríini verða tikin úr bilum.</p>
+<p>Verkætlanin leggur í løtuni dent á at gera grund-leggjandi venjingartilfar um, hvussu battarí verða handfarin á tryggan hátt. Tilfarið fevnir um kravda verndarútgerð, amboð og innpakning til battarí (at nýta til at flyta battarí úr elbilum av landinum). Venjingartilfarið hevur eisini leiðreglur um, hvussu munur verður gjørdur á góðum og skaddum battar íum.</p>
+<p><em type="bold">Er møguligt at endurnýta brúkt battarí í </em></p>
+<p><em type="bold">Føroyum? </em>Tær samrøður, sum eru gjørdar í verkætlanini, hava víst á, at áhugi er í londunum fyri at varðveita brúkt </p>
+<p><em type="bold">Mynd 1: </em><em type="italic">Endamálið við verkætlanini er at seta upp eina effektiva og trygga tilgongd til at handfara brúkt battarí frá elbilum. Verkætlanin fevnir um tilgongdir í sambandi við at savna, pakka og undan viðgera battarí úr elbilum, at skipa leiðreglur og at venja starvsfólk. </em></p>
+<p><em type="bold">Mynd 2. </em><em type="italic">Føroysku lut takararnir í verkætlanini, IRF og Kommunala brenni støðin (KB), væntast at vera virknir partar í hand faringini av brúktum battaríum – annaðhvørt frá skadd um bilum ella battaríum, sum eru um at ganga út. Hesir báðir kommunalu felags skapir samstarva longu sum er um at umhvørvisviðgera bilar, har gomul akfør verða savnað í Suðuroy, Sandoy, Klaksvík og Havn og flutt til Kommunalu brennistøðina á Hjalla. </em></p>
+<p><em type="italic">Her fáa tey ta fyrstu um hvørvis við gerðina, sum fevnir um at tøma allan løg (bensin/diesel, køliløg, bremsuløg o.a.), taka stoytkoddar úr og taka úr og endurvinna kveikar og akkumulatorar (battarí). Gomlu akførini verða síðan mekaniskt trýst saman og endur vunnin sum blandað jarn. Higartil er ongin gamal elbilur komin inn til IRF ella KB. </em></p>
+<p><em type="bold">Mynd 3. </em><em type="italic">Einføld lýsing av nútíðar og framtíðar ringrás av battaríum í Føroyum. </em></p>
+<p><em type="bold">Mynd 4 </em><em type="italic">. Í Íslandi verða brúkt bilbattarí endurnýtt í orkugoymsluloysnum til vind turbinur (www. icewind.is), og í Niður londum (www.ecaraccu. nl) verða tey brúkt til privata nýtslu og virkir. Enn er tó eingin slík til gongd skipað í Føroyum, og tí verða øll brúkt battarí í fyrstu at løgu send til endurvinningar í Danmark. Eisini hóast battaríini kunnu vera í góðum standi og kundu verið nýtt til onnur endamál í Føroyum. </em>33&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;32</p>
+<p>HVUSSU FØROYAR KUNNU HANDFARA BRÚKT BATTARÍ FRÁ ELBILUM</p>
+<p>HVUSSU FØROYAR KUNNU HANDFARA BRÚKT BATTARÍ FRÁ ELBILUM</p>
+<p><em type="bold">Rókur Tummasarson </em>tummasarson@gmail.com – hevur sum ítriv at lýsa vinnu- og ættarsøguna hjá Thomsen á Tvøroyri. </p>
+<p>Í Frøði nr. 2-2019 skrivaði Jóan P. Joensen, professari, áhugaverda grein, ið var nevnd „Lippukassamentan og sjálvdráttur“. Í henni hugleiddi hann um upprunan til føroysku lippukassamentanina, sum enn tykist vekja undran, tí hon var so ósolidarisk og í andsøgn við, hvussu føroyingar høvdu býtt út róðra rfisk í øldir. Í hesi grein verður roynt at leggja aftrat vitanini um, hvussu virðið á veiddum fiski varð býtt millum menn, eftir at sluppfiskiskapurin hevði tikið seg upp í Føroyum.</p>
+<p xml:lang="sme">VEIÐIBÝTI OG</p>
+<p xml:lang="est">HÝRUSÁTTMÁLAR</p>
+<p><em type="bold">Veiðan undir Íslandi </em>Tað fyrsta vit vita um, at skip hjá T. F. Thomsen var til fiskiskap, var í 1849. Hetta var árið eftir, at hann var byrjaður sum keypmaður í Seyðisfirði. Talan var um sluppina <em type="italic">Prøven </em>, sum var 22½ lestir til støddar og heimahoyrandi í Reykjavík. Teir fóru úr Keypmannahavn til Vordingborg eftir vøru tann 21. mars, og haðani gekk leiðin víðari til Íslands. Manningin hagreiddur er ógreitt, men mest sannlíkt varð hann saltaður í tunnur. Ongar ábendingar eru um, at Thomsen turkaði klippfisk longu í 1849, tó at klippfiskur varð framleiddur av thomsensmonnum í Seyðisfirði, væl áðrenn íslendingar annars siga, at farið varð undir at turka fisk á Eysturlandinum. Men tað er ein onnur søga. </p>
+<p>Í Waterschouts-protokollunum á Ríkis skjala savn-inum í Keypmannahavn ber til at síggja, hvørja hýru danskar manningar fingu í 18. og 19. øld. Fyri tveir mánaðir fekk skiparin á <em type="italic">Prøven </em>200 ríkisdálar, stýrimaðurin 48, bøkjarin 28, ungmaðurin 16 og kokk urin 12. Harumframt varð staðfest í proto kollini at: </p>
+<p>Mandskabet faar Caffe istedetfor Brændevin. Bødkeren skal arbejde i land samt som ombord, taldi fimm mans. Skipari, stýrimaður, bøkjari, ungmaður og kokkur. At teir vóru so fáir komst ivaleyst av, at endamálið við túrinum til Íslands fyrst og fremst var at føra vøru til og frá handlinum í Seyðisfirði. Farið varð til fiskiskap, eftir at vøran var lossað í land, og til handilin hevði nokk av ull og aðrari íslendskari vøru at føra av landinum aftur.</p>
+<p>Hvussu gekk at fiska, og hvussu fiskurin varð</p>
+<p><em type="italic">Seyðisfjørður 1890. Tá ið Thomsen byrjaði handil her á Seyðisfirði í 1848, fiskaðu skipini hjá honum undir Íslandi. </em>35&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;34</p>
+<p xml:lang="sme">VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN</p>
+<p xml:lang="dan">VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN af hvert Storhundrede Torsk som styremanden selv fanger haver han 2 rd, og for hvert hundrede Torsk som enhver Mand selv fanger haver han 1 rd.</p>
+<p>Stórthundrað merkti 120. Tað vil siga, at um stýrimaðurin megnaði at draga til dømis 480 torskar, fekk hann 8 ríkisdálar í fiskipremiu og hinir av manningini fingu 4 ríkisdálar fyri sama stríð. Sostatt ber til at staðfesta, at í 1849 var vanligt, at partur av hýruni hjá donskum fiskimonnum, sum fóru undir Ísland at royna, varð útgoldin sum avriksløn. Menn drógu í sjálvdrátti.</p>
+<p><em type="bold">Veiða undir Føroyum </em>Í 1856 keypti Thomsen bygningarnar hjá Einahandlinum á Tvøroyri. Stutt eftir fór ein skonnart hjá hon um at royna undir Føroyum, men mett verður, at teir royndu einamest eftir hákelling. </p>
+<p>Í 1861 keypti Thomsen slupp úr Hetlandi <em type="italic">„for cargo and fishing“, </em>sum tikið var til í brævasamskiftinum við meklaran í Lerwick. Tað man ikki hava eydnast so væl við fiskarínum, tí sluppin bleiv longu seld aftur í 1863. Hildið verður, at verulig ferð kom ikki á havfiskiskapin hjá Thomsen fyrr enn í seinnu helvt av 1860-unum, tá ið skonnartin <em type="italic">Askur </em>og jaktin <em type="italic">Adam Wilhelm </em>gjørdu nakrar góðar túrar. Í mun til royndirnar undir Íslandi vita vit við vissu, at fiskurin varð turkaður í Føroyum, og at vanligt var, at nakrir føroyingar fingu hýru umborð hesar summar túrar á grunnunum. Talan var ikki um drúgvar túrar, og veiðan kundi liggja um nakrar túsund toskar. Virðið á fiskinum, sum varð nevndur <em type="italic">„jagtefisk“, </em>var hægri enn virðið á klippfiskinum, ið varð framleiddur úr útróðrarfiski. </p>
+<p>Hvussu virðið á fonginum varð býtt millum manning og reiðarí síggja vit fyrsta dømi um í 1870, tá ið ein heldur lítið umrødd, men stór hending í slupp søguni fór fram á Tvøroyri.</p>
+<p><em type="bold">Tærgesen keypti slupp </em>Í 1865 flutti Tærgesen til Tvøroyrar at arbeiða sum faktor hjá Thomsen. Hann man hava fingið gott innlit í, hvussu tær mongu útlendsku sluppirnar, ið vitjaðu á Tvøroyri um hetta mundið, fingu rakstur í sítt virksemi. Møguliga var tað hetta, ið gav honum áræði at keypa sluppina <em type="italic">Waterwitch </em>til fiskarí. Sluppin varð keypt úr Kirkwall í 1870 og fór til fiskiskap sama summar. Skipari og manning vóru føroysk. Hóast Thomsen ikki átti í sluppini, varð hon rikin sum partur av virkseminum hjá Thomsen. Tí ber til at staðfesta, at í septembur 1870 fekk manningin á <em type="italic">Waterwitch </em>útgoldið javnt stórar fiskipartar, 19,7 ríkisdálar. Parturin hjá skiparanum var 97 ríkis dálar. </p>
+<p>Sostatt ber til at siga, at fyrsta sluppin á Tvøroyri – og møguliga eisini í Føroyum – sum var keypt til fiskarí burturav, á sínum fyrsta túri rindaði javnt stórar fiskipartar til manningina. Menn drógu í felag.</p>
+<p>Tað finst ein hýrusáttmáli frá 1874, sum neyvt ásetti viðurskiftini millum skipara og manning á <em type="italic">Waterwitch </em>. Hann ljóðaði soleiðis: </p>
+<p xml:lang="dan">Forhyring-Contract Vi undertegnede Officerer og Mandskab ere antagne at fare med Skipper Carl Sommer førende Sluppen <em type="italic">Waterwitch </em>af Tveraa, for at drive fiskeri i Sommeren 1874 imod at avholde halv delen af Værdien af den Torsk, Langer og Brosmer vi i fælles skab fanger, som beregnet til 64 Skilling pr Lp god Saltfisk, uden at vi deltager i Udgifterne ved fiskens Saltn ing, saa erholder vi også halvdeen af flynderfisken samt alle fiskeredskaberne som ikke benyttes til Fiskeriet. Summaver og Lipper til hører Rhederiet ligesom ogsaa Lever af overnævnte Fisk. Al Fangst udenfor det almindelige fiskeri deles lige mellem Mandskabet og Rhederiet. </p>
+<p xml:lang="dan">Mand skabet afholder følgende Udgifter. Halvdelen af Provianten og halv delen af Fiskeredskaberne. Efter fradrag af disse ud gifter deles den Mandskabet til kommende Halv part af det eventuelle Overskud som nedenanført.</p>
+<p xml:lang="dan">Vi forbinder os til at være ombord med vort</p>
+<p xml:lang="dan">Tøi naar anfordret, samt at være anmeldte Captain ella hvilke anden Officer, som Commando betraas uden Modsigelse hørig og lydig udi i al Skibsgjerning og Arbejde som os befales, og saaveel til Lands som til Vands søge Rhederiets Gang og Beste.</p>
+<p xml:lang="dan">Vi forpligter os endvidere at arbejde om Natten saavel med Fiskeriet som med Losning og Ladning, hvor saadant findes fornødent, mod at erholde til svarende Søvn om dagen. Sluttligen forpligter vi os til efter endt fiskeri at rengjøre og aftakle Skibet samt fortøie det forsvarligt.</p>
+<p xml:lang="dan">Hvis ikke anderledes i denne Contract er be stemt bliver loven af 23. Februar 1866 Regel for Forholdet mellem Skipper og Mandskabet.</p>
+<p xml:lang="nob">Tveraa den 30th Marts 1874.</p>
+<p>Hesin sáttmálin líktist øðrum sáttmálum, sum mann ingar á skipum hjá Thomsen gjørdu um somu tíð, tó at ymisk frábrigdi vóru. Stundum rindaði mann ingin helvtina af saltinum og sín egna fiskireiðskap, men fekk hinvegin allan proviantin frá reiðarínum, umframt eyka vinning fyri hvønn tosk, ið var yvir 18 tummar. Aðrar tíðir fór 1/10 partur av virðinum hjá manningini til skiparaløn. Grundreglan tykist tó hava verið, at reiðarí og manning áttu hvør sína helvt av fonginum. Og menn drógu í felag.</p>
+<p><em type="bold">Hetlendskir hýrusáttmálar </em>Hesir fyrstu sáttmálarnir vóru eftir øllum at døma rættiliga líkir sáttmálunum, ið manningar gjørdu á hetlendskum sluppum, ið sum kunnugt veiddu nógv undir Føroyum og ofta høvdu føroyskar fiskimenn við. Har var býtt eftir sonevnda <em type="italic">„half catch system“, </em>sum í stuttum ásetti, at tá ið útreiðslurnar til millum annað agn, salt, turking og sølu vóru drignar frá, býtti manningin og reiðaríið vinningin helvt um helvt. Og sínámillum býttu menn javnt, men tó fekk hvør maður ein lítlan eykavinning fyri 20. hvønn tosk, hann hevði fingið. Hetlendingar nevndu henda eykavinning fyri „score money“, og ætlanin var, at eykavinningurin skuldi eggja monnum at fiska so nógv sum gjørligt. Av samlaðu lønini fyri ein túr var „score money“ vanliga 9-17 prosent. </p>
+<p xml:lang="vep"><em type="italic">Thomas Friedrich Thomsen (18141871). </em></p>
+<p><em type="italic">Hýrusáttmálin hjá Waterwitch í 1874 </em></p>
+<p><em type="bold">Ymiskir sáttmálar fyri </em></p>
+<p><em type="bold">Munkin og Plover í 1877 </em>Í 1877 hevði Thomsen tvær sluppir til fiskiskap. <em type="italic">Munkin </em>, sum Hansen skipari førdi, og <em type="italic">Plover, </em>sum Sommer skipari førdi. Báðir menn vóru danir, men gjørdu heilt ymiskar sáttmálar um hýrurnar hjá manningini. Á <em type="italic">Plover </em>býttu reiðarí og manning enn fongin javnt og avtalaðu ein fastan prís pr. lispund av saltfiski, umframt ein eykavinning fyri hvønn tosk yvir 18 tummar. </p>
+<p>Umborð á <em type="italic">Munkinum </em>fingu menn fasta hýru frá 30 til 48 krónur, umframt ein eykavinning á „ <em type="italic">2 øre pr. Maalsfisk de fisker“. </em>Sáttmálin við manningina á <em type="italic">Munkinum </em>minnir um sáttmálan, sum menn gjørdu á sluppini <em type="italic">Prøven </em>í 1849. Orsøkin til tað var helst, 37&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;36</p>
+<p xml:lang="sme">VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN</p>
+<p>VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN at Thomsen ofta nýtti <em type="italic">Munken </em>til at føra fisk hjá øðrum sluppum, sum vóru undir Íslandi, heim til Føroya. Tískil var minni tíð til fiskarí, og tí fekk mann- ing in á <em type="italic">Munkinum </em>helst eina fasta hýru um framt eina fiskipremiu fyri stórfiskin. </p>
+<p><em type="bold">Sjálvdráttur umborð á Plover í 1880 og 1882 </em>Fyrstu ferð vit síggja veruligan sjálvdrátt, soleiðis sum hann kom at virka umborð á føroyskum skipum í áratíggjur, var á vári 1880. Tá gjørdi manningin á sluppini <em type="italic">Plover </em>sáttmála við Madsen skipara um 12 oyru fyri hvønn tosk yvir 18 tummar, 3 oyru fyri minni tosk, umframt 3 oyru fyri longu, hýsu og brosmu, sum hvør maður dró við snøri. Fiskur, ið var fingin á línu, varð býttur javnt. Sáttmálin segði onki um, hvørt manningin átti helvtina ella ein triðing av fiskinum. </p>
+<p>Í 1882 varð annar sáttmáli gjørdur við manningina á <em type="italic">Plover </em>. Tá síggja vit fyrstu ferð sáttmála, har manning in átti ein triðing av veiðuni, harav skipari, bestimaður og kokkur áttu 4½ part, og restin av snørisfiskinum varð býtt eftir, hvussu nógv hvør hevði drigið av stórfiski. Línufiskur varð býttur javnt, eftir at skipari, bestimaður og kokkur høvdu fingið sín 4½ part. </p>
+<p>Sostatt bendir á, at eitthvørt hendi í umleið 1880-1882, sum hevði við sær, at manningarparturin fall til ein triðing, samstundis sum sjálvdrátturin bleiv ráðandi leisturin at býta partin eftir.</p>
+<p><em type="bold">Hví vann sjálvdrátturin í Føroyum? </em>Henda grein gevur onki endaligt svar um, hví fø royingar fóru frá solidariska býtinum á báti til sjálvdrátt in á slupp. Samanumtikið kann sigast, at sjálvdrátt ur var partur av hýruni á slupp hjá Thomsen í 1849. Eftir avtøkuna av Einahandlinum, tá ið skip hjá Thomsen vóru farin at taka føroyingar við til fiski skap, vóru hýruviðurskiftini lík teimum á hetlendsk um sluppum, har menn drógu í felag. Umleið 1880-82 varð sjálvdrátturin settur í verk, og manning ar parturin minkaði samstundis frá eini helvt til ein triðing. </p>
+<p>Hví tað hendi, og hví tað hendi júst tá, kann ein møgu liga seta í samband við gongdina hjá sluppfiski skapinum í Føroyum og hugleiða nakað soleiðis:</p>
+<p>Hóast ofta verður tikið til, at slupptíðin byrjaði við <em type="italic">Fox </em>í 1871, so var heldur talan um eina stigvísa gongd. Skonnartirnar og sluppirnar, ið fóru á grunnar nar áðrenn <em type="italic">Waterwitch </em>, <em type="italic">Fox </em>og <em type="italic">Plover, </em>vóru fyrst og fremst farmaskip hjá keypmonnum. Fiskiskapur var bert ein lítil partur av fíggjarliga grundarlagnum hjá hesum førum, og tey veiddu væl minni fong, enn talan bleiv um seinni. Samstundis vita vit, at til dømis hetlendskar manningar býttu fongin helvt um helvt við reiðaríið, og javnt millum mennirnar umborð. Vit vita eisini, at hetlendskar og enskar sluppir komu inn á Trongisvág eftir føroyskum fiskimonnum, og at tað kom fyri, at kapping var um hesar fiskimenn. Tí var møguliga onki grundarlag fyri ella ongin eggjan til at býta veiðuna øðrvísi, enn tey útlendsku skipini gjørdu. </p>
+<p>Sum árini gingu, dugdu føroyingar betur og betur at veiða, og tískil vaks virðið og støddin á fonginum. Men í 1880-unum vendi rákið. Fiskaprísurin fall munandi, og Spania, sum innflutti meginpartin av føroyska klippfiskinum, hækkaði tollin. So nú gjørdist enn truplari hjá teimum, ið høvdu gjørt íløgu í sluppir til fiskiskap, burturav at fáa endarnar at røkka saman. Tí mettu menn kanska tá, at einasti hátt ur at fáa rakstur í sluppfiskiskapin aftur var, um reiðaríið átti størri part av veiðuni enn helvtina, ið hevði verið siðvenjan. Og tí bleiv grundarlag fyri at minka partin hjá manningini til ein triðing, sam stundis sum sjálvdrátturin varð settur í verk til tess at ganga teimum røsku monnum á møti, ið ynsktu ein møguleika at ávirka sína úrtøku rætta vegin.</p>
+<p>Sum sagt er hetta seinasta mest ein hugleiðing og eitt git. Vónandi er greinin tó eitt brúkiligt íkast til vitan ina um, hvussu menn býttu fisk tá ið sluppfiski skapurin byrjaði í Føroyum.</p>
+<p><em type="bold">Keldur: </em></p>
+<p xml:lang="isl">Rigsarkivet. Waterschouts-protokollirnar. Páll J. Nolsøe. Føroya siglingarsøga II, bind 1. John Goodlad. The Cod Hunters. Erlendur Patursson. Fiskiveiða-Fiski menn. Hýrusáttmálin hjá Waterwitch í 1874, Munken í 1877 og Plover í 1877, 1880 og 1882. Ymisk brøv og handilsskjøl hjá T. F. Thomsen.</p>
+<p>royndi undir Føroyum í seinnu helvt av 1860'unum.</p>
+<p xml:lang="tur">bummarin Plover.</p>
+<p><em type="italic">Munkurin á Tvøroyri. </em>39&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;38</p>
+<p xml:lang="sme">VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN</p>
+<p xml:lang="sme">VEIÐIBÝTI OG HÝRUSÁTTMÁLAR HJÁ THOMSEN</p>
+<p><em type="bold">Malan Marnersdóttir </em>MalanM@setur.fo professari í bókmentum Føroyamálsdeildin Fróðskaparsetur Føroya </p>
+<p>Lítið hevur verið gáað um, at tað var klaksvíksstríðið, Jens Pauli Heinesen viðgjørdi í teimum stóru skaldsøgunum <em type="italic">Tú upphavsins heimur </em>og <em type="italic">Frænir eitur ormurin </em>. Tær tykjast í fyrstu atløgu at vera um ein løgnan prest og lærara við óvanligum meiningum og í seinna førinum um ein dagførdan Sjúrð, sum bar gullið av heiði. </p>
+<p xml:lang="vep">KLAKSVÍKSSTRÍÐIÐ</p>
+<p xml:lang="isl">Í FØROYSKUM</p>
+<p xml:lang="vep">BÓKMENTUM</p>
+<p>Tú upphavsins heimur (1962-66) er sam tíð ar-skald søga í trimum bindum, ið lýsa, hvussu ódemokratiskar rørslur koma fram og ogna sær valdið í avbyrgdum samfelag.</p>
+<p>Skaldsøgan er staðsett í eini føroyskari bygd eftir seinna kríggj. Í bygdini eru bæði atløgupláss og berghol, rundan um hana eru høg fjøll, og í bygdini framtaksfús fólk. Fyrsti partur lýsir bygdina undan nýskipanini, har samljóð ikki er tað, ið eyðkennir bygdar lívið. Mathias lærari lovar ikki skúlabørnunum í grind, og hann fær alla bygdina móti sær. Presthjúnini hava ser merktar vanar, og bygdin eigur sínar drykkju menn og lættlivandi kvinnur. Í øðrum og triðja parti stovnar høvuðspersónurin Balthasar felagið „Fram“ og stýrir tí við alt harðari hond fram móti at gera bygdina til eitt modernað samfelag. Limirnir binda seg til hvørki at roykja ella drekka og at halda tún síni ruddilig. Teir eru „viljinistar“ og skulu vera fullkomiliga samdir við felagsleiðsluna. Lýsingin av Balthasari og felagnum er ikki sørt speisk. tjóðina sum menn iskjans ríkidømi og kollektiva persónleika.</p>
+<p>Eitt annað er tað sera kenda eftir Rosu Luxem-bourg frá 1918, ið sigur, at frælsi er altíð frælsi fyri tann, ið hugsar øðrvísi, og at talu-, skrivi- og fundarfrælsi eru treytir fyri einum livandi sam felagi. Og Maxim Gorki er endurgivin fyri at siga, at uttan mun til hvør hevur valdið, heldur hann tað vera manna rætt sín at finnast at tí. Hesi sjónar mið hava báðir høvuð per sónarnir í skald søguni, Gudmundur og ein rit høvundur, og sipa til lýstu tilburðirnar, ið føra til, at tann ódemo krat iski Demokratiski Frælsisflokkurin brúkar sigur sín á løgtingsvali til at skerja júst hesi borgaraligu rættindini.</p>
+<p><em type="bold">Politiska søgan </em>Gongd kemur á søguna um Gudmund, tá ið hann fær at vita, at pápin varð tikin av døgum fyri politisku støðu sína, og setur sær fyri at hevna hann, eins og Sjúrður skal í kvæðinum. Gudmundur fær upp spurt, at størsti flokkurin, Demokratiski Frælsisflokk urin, hevur staðið fyri brotsgerðini. Skaldsøgan fylgir Gudmundi, frá hann er 12 ára gamal, og lýsir ung dóms lív í Havn. 17-18 ára gamal fer Gudmundur úr studenta skúlanum, tí at onkur hevur hótt hann og sagt, at hann átti at ansað sær, ið sipar til lagnuna hjá pápanum. Søgan endar, tá ið Gudmundur doyr umleið 30 ára gamal. </p>
+<p>Í einum bólki av intellektuellum, kommunistum og sosialistum, sum kallast „reiðrið“, hittir Gudmundur síni samsintu, sum venda sær ímóti Frælsisflokkinum og oddamanninum Tídrikki Tídriksen,</p>
+<p><em type="italic">Rithøvundurin Jens Pauli Heinesen (19322011) </em></p>
+<p><em type="italic">Skaldsøgan Tú upphavsins heimur </em></p>
+<p>Tey, sum eru ímóti felagnum og tí, sum Balthasar stílar fyri, eru tann intellektuelli og humanistiski skúlalærarin Mathias, dagdroymandi presturin og onnur, ið ikki akta felagsboðini, gloyma t.d. at hava merkið hjá felagnum uppi á sær á fundi. Mathias brestur saman við Balthasar í orðadrátti, og sama kvøld verður hann álopin og meiðslaður, tá ið hann er á veg til hús. Hann meldar tilburðin til løgregluna, og Balthasar heldur tað vera „ótrúliga frekt av ákæruvaldinum at fara við“ honum sum einum brotsmanni og setur hart móti hørðum, tá ið hann verður stevndur.</p>
+<p><em type="bold">Fimmarar og avbyrging </em>Fyrst verða telefonstøðin og bergholið stongd, síðani verður varðhald sett á havnarlagið og millum fjalla, so løgregla, tíðindafólk og onnur ikki skulu sleppa til bygdina. Einki má „leka út“. Harafturat verður kunngjørt, at „Sum støðan var, og sum tíðirnar vóru, kundu vissir menn ikki ganga leysir longur“, og teir fimm handtiknu „fingu hvør sítt rúm at búleikast í og hvør sína legu at liggja á. Men hendurnar aftan fyri bak vórðu ikki loystar“. </p>
+<p>Talið fimm, teir fastsettu mótstøðumenninir hjá</p>
+<p>Balthasari, stongsulin á havnarlagnum og varðhaldið í fjøll unum eru parallell við stríðið í Klaksvík í 1950’unum. Tað byrjaði sum ósemja um ein lækna, sum ikki fekk fast starv, tí hann hevði verið limur í danska nasistaflokkinum og varð koyrdur úr yrkisfelag num. Men tað varð til eitt stríð um, hvør skuldi ráða fyri læknasetanum í Klaksvík, myndugleikarnir í Havn og Keypmannhavn ella klaksvíkingar sjálvir. Hetta gjørdist eitt stríð um útjaðara og miðdepil, millum fólk í Klaksvík og myndugleikar í Havn og Danmark.</p>
+<p>Bygdarfólkið varð sagt at býta seg í tveir partar júst sum í skaldsøguni, 95%’arar fyri og 5%’arar ímóti, telefonsamrøður vórðu loynilurtaðar, varðhald varð sett fyri fjarðarmunnan og nót løgd um vágna at forða skipum at koma til bygdina. Politikarar og em bætis menn vórðu tiknir og av byrgd ir í ein um hús um. Stríðið í Klaksvík setti kíl ar mill um fólk, mill um rík og fátøk, millum makt og avmakt, embætis verk og fólkið, danskar og føroyskar politik arar. Tað setti spurnartekn við nýggja heimastýrið og styrki tess at skipa fyri í Føroyum.1</p>
+<p>Skaldsøgan vísir á henda hátt, hvussu ein óvitugur og ráðaríkur maður er førur fyri at seta rættar skipan ina úr gildi, skipa fyri hugsanar- og samkomufor boði og víðgongdum eftirliti við, hvat fólk hugsa og gera. Hon lýsir, hvussu samlívið á bygd kann verða skeiklað, tá ið ótolsemi, sjálvráðinskapur og snævur skygni valda og enda í sjálvtekt og øðrum lógarbrotum.</p>
+<p><em type="bold">Skaldsøga við politiskari rammu </em>Onnur stóra skaldsøgan eftir Jens Paula Heinesen er <em type="italic">Frænir eitur ormurin </em>. Hon kom út í 1973 og er kynstrigari skrivað enn <em type="italic">Tú upphavsins heimur </em>, men hon er eisini framhald, tí hon viðger, hvussu eitt avskeplað samfelag kann verða sett í verk á fólkaræðis ligari grund. </p>
+<p>Skaldsøgan er um unglingin Gudmund og ein rit høvund, ið skrivar bókina. Longu heitið á skaldsøguni og á fyrsta og øðrum parti, ávika vist „Gjøgnum royk og váðaloga“ og „Ríð tær ikki so niðar laga fram“, benda á skyldskap við <em type="italic">Sjúrðarkvæðini. </em>Harumframt er merkingin hjá skaldsøguni bundin gjøgnum fleiri sitat eftir kendar rithøvundar í 20. øld. Eitt sitat eftir Aleksander Solsjenitsyn er um <em type="italic">1 Hans Andrias Sølvará </em>„Uppreistur í Klaksvík – læknasetanin sum elvdi til uppreistur“, <em type="italic">Fróðskaparrit </em>2015: 10-52. </p>
+<p xml:lang="nno">Líggjas í Bø <em type="italic">Klakksvíksstríðið 19521955. </em>Status 2015. Frede Asgaard <em type="italic">Klaksvigstriden </em>I–II 1955. Hobro 1990. 41&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;40</p>
+<p xml:lang="isl">KLAKSVÍKSSTRÍÐIÐ Í FØROYSKUM BÓKMENTUM</p>
+<p xml:lang="isl">KLAKSVÍKSSTRÍÐIÐ Í FØROYSKUM BÓKMENTUM</p>
+<p>TT kallaður. Tað gongur lívliga fyri seg í felagsskapinum við nógvum orðaskifti og veitslulagi. Gudmundur verður blaðmaður á blaðnum <em type="italic">Sólarris </em>hjá flokkinum Vinstraradikala, og seinni er hann brátt vorðin løgtingsmaður og formaður í flokk inum. </p>
+<p>Privatu viðurskiftini hjá Gudmundi verða enn fløktari, tá ið hann fer í parlag við Maritu, dóttur TT. Hon býr saman við pápanum í Miðgarði í Havnar dali við høg ari girðing og vaktarhaldi. Hetta minnir ikki sørt um borgina og váðalogan, ið Buðli byggir til dóttur sína Brynhild í „Brynhildar tátti“. Orm urin Frænir, sum Sjúrður vinnur á og tekur gullið frá í kvæð inum, er í skaldsøguni kapital ist iska handils virkið hjá TT.</p>
+<p>Tá ið parlagið við Maritu kemur fram, krevur flokk urin, at Gudmundur antin slítur sambandið við hana ella fer frá sum floksformaður. Hann velur flokk in, eins og Sjúrður, stutt eftir at hann í kvæðinum hevur vunnið Brynhild, má fara eini ørindi. Seinni giftist Gudmundur við Hildur, dóttur ideolog iska leiðaran í flokkinum, ið er forkona í arbeiðskvinnu felagnum, har Sjúrður giftist við Guðrun, eftir at mamma hennara hevur orðnað henni at lata óminni í vínið, hon bjóðar honum.</p>
+<p>Marita er við barn, tá ið tey skiljast, og hon letur tað frá sær, eins og Brynhild í „Brynhildar tátti“ ger við dóttrina, sum hon fær saman við Sjúrði. Eitt annað, sum bindur tær báðar saman, er, at Marita og Hildur møtast í bili á eini brúgv um eina á, eins og Brynhild og Guðrun baða í somu á.</p>
+<p>Tað løgtingsvalið, sum kemur fyri í <em type="italic">Frænir eitur ormurin </em>, vinnur frælsisflokkurin hjá TT og skipar tí stjórn. Yrkisfeløgini fara í aðalverkfall fyri at fáa betri løn, men Vinstriradikali og Kommunistaflokk urin vilja brúka verkfallið til „ein sameindan upp reistur“ móti TT. Bumbur bresta í býnum. TT fær upp spurt, at ætlanin er at reka hann frá, og setur tí undan taks støðu í verk. Gudmundur verður settur í húsavarðhald, fundar- og skrivifrælsi verður sett úr gildi, bøkur hjá rithøvundinum verða brendar á Vaglinum, og at enda verður Gudmundur tikin av døgum – sum Sjúrður í kvæðinum. </p>
+<p>Løgtingsvalið, sum TT vinnur, og bóka brenn-ing in gera tað viðkomandi at nevna nazistaveldið í Týsk landi, sum júst kom til valdið í fólkaræðisligum vali í 1933 og stutt eftir skipaði fyri, at bøkur, ið ikki sam pakkaðu við nazismuna, vórðu brendar. Bumbur nar, sum bresta í skaldsøguni í Havn, sipa í hesi útleggingini av skaldsøguni til, tá ið Løgtingið varð bumbað í september 1945, og til bumburnar, ið brustu undir stríðnum í Klaksvík. Harafturat var aðalverkfall í Føroyum í 1951 og fleiri onnur verkføll og arbeiðaramótmælisgongur upp gjøgnum kreppu árini í 1950-unum.</p>
+<p><em type="bold">Skaldsøgurnar eru tala, har okkurt annað verður sagt </em>Hví mundi Jens Pauli Heinesen skriva hesa skaldsøg una sum eina dagføring av <em type="italic">Sjúrðarkvæðum, </em>og hví hevur ein rithøvundur, sum líkist Jens Paula, so stóran leiklut í henni? Hvussu skulu vit skilja tey ódemo krat isku tiltøkini, sum skaldsligu myndug leikarnir seta í verk? </p>
+<p>Av tí at persónarnir í skaldsøguni, sum fer fram í 20. øld, og teir í kvæðinum, sum fer fram í eini fjarari fortíð, bera seg at á sama hátt, fáa skaldsøguna at tala fyri, at menniskjan broytist ikki. Hon reagerar á sama hátt uttan mun til søguligar og sosialar broytingar.</p>
+<p>Til sip ingar til nevndar og ónevndar evropeiskar rit høvundar og meta frá søgnin um, hvussu skaldsøgan er vorðin til, gera hana til eina modernaða skaldsøgu. Alt hetta leggur seg út yvir og krógvar, at <em type="italic">Frænir eitur ormurin </em>og <em type="italic">Tú upp havsins heimur </em>eru allegoriir, altso eru tala, har okkurt annað verður sagt. Tað er eitt skaldsligt snið, ið m.a. hevur verið brúkt til at siga slíkt, sum ein kundi verða revsaður fyri at bera fram opið. Eitt kent dømi er <em type="italic">Fuglakvæðið </em>eftir Nólsoyar Páll. </p>
+<p>Tað hevur ongantíð verið bannað at tosa og skriva um Klaksvíksstríðið, men tað hevur verið tagt burtur. Tað er í roynd og veru hetta, Jens Pauli Heinesen við gjørdi í hesum skaldsøgunum, sam stundis sum tær lýstu listafólkaspurningar og meira alment, hvussu ódemokratisk rák kunnu gera seg galdandi.</p>
+<p><em type="bold">Mynd 4. </em>Mynd frá læknastríðnum í Klaksvík </p>
+<p><em type="italic">Skaldsøgan Frænir eitur ormurin </em></p>
+<p xml:lang="nob"><em type="bold">William Simonsen </em>wilsim@yahoo.com William Simonsen Lívfrøðingur Undirvísing, gransking Árinskanningar </p>
+<p>Skrásetingar av skógarmottuni <em type="italic">Ixodes ricinus </em>seinastu 30 árini hava víst eina broyting í títtleika og útbreiðslu. Skógarmottan sæst nú á hægri hæddum enn áður og flytur seg norðureftir í stórum pørtum av Evropa. Til dømis eru búfjøldir funnar í Norðursvøríki og í Norðurnoregi, har tær ikki hava verið sæddar áður. </p>
+<p xml:lang="sme">LEITAR OG FINNUR</p>
+<p xml:lang="vep">SKÓGARMOTTUR</p>
+<p xml:lang="isl">Í FØROYUM</p>
+<p xml:lang="ron"><em type="italic">Skógarmotta. Mynd: ecdc.europa.eu </em>43&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;42</p>
+<p>LEITAR OG FINNUR SKÓGARMOTTUR Í FØROYUM</p>
+<p xml:lang="isl">KLAKSVÍKSSTRÍÐIÐ Í FØROYSKUM BÓKMENTUM</p>
+<p>Tað er ikki óhugsandi, at skógarmottan kann skifta støðu frá at vera regluliga innflutt til at staðseta seg í búfjøldum. <em type="bold"></em>Endamálið við at eygleiða mottuna í Føroyum er tí at fáa eina størri vitan um tað, sum hendir, tá ið skógarmottan og borrelia breiða seg. Sjúku vandin ger tað eisini sera viðkomandi at fylgja við. Tí er áhugi fyri at fylgja gongdini í Norðuratlants havinum, bæði Íslandi, Føroyum og Grønlandi. </p>
+<p>Undirritaði søkti saman við Landssjúkrahúsinum pening frá Granskingarráðnum, so byrjast kundi upp á verkætlanina „NATS – North Atlantic Tick Study”. Granskingarráðið játtaði 90 000 kr., og Betri Banki játtaði 50 000 kr. Í fyrstu atløgu hava vit leitað eftir skógarmottuni á útvaldum støðum. Ætlanin er at halda fram við verkætlanini. T.d. er ætlanin at gera seriologiskar kanningar bæði av fólki og djórum. Seriologiskar kanningar kunnu t.d. vísa, um andevnir móti borrelia eru í blóðinum. Blóð er savnað inn frá harum á Tvøroyri/Trongisvági, men blóðið er ikki kannað enn.</p>
+<p><em type="bold">Lívsringrásin hjá skógarmottu </em>Mynd 1. Vísir lívsringrásina hjá skógarmottuni í fýra stigum. Larvan klekist úr egginum og má finna ein vert fyri at fáa føði (blóð), síðani dettur hon á jørðina og mennist til næsta stigið, dís-nymfustigið. Nymfan má eisini finna ein vert at súgva blóð á, so hon kann mennast til triðja stigið – adult. Dísar/ nymfur detta niður á jørðina, tá ið tær eru lidnar at súgva blóð, og her mennast tær til fjórða stigið, sum er vaksna mottan. </p>
+<p>Vaksna mottan kann ikki klára seg við smádjórum sum músasløgum ella smáfuglum, men má hava eitt djór av hjartaætt, Cervidae (ella djór av líknandi stødd) fyri at klára lívsringrásina. Tær vaksnu para seg á vertinum <em type="bold"></em>og fella á lendið fyri at víggja. Síðani doyggja tær. Hetta kann taka frá tveimum til seks ár. Í okkara grannalondum fyri vestan og sunnan er hjáveran av djórum av hjartaætt og seyður yvirhøvur tað, ið ger, at skógarmottur klára lívsringrásina og halda búfjøldini við líka. </p>
+<p>Skógarmottur verða ofta nevndar „deer ticks“ ella „sheep ticks“. Dømi eru tó um, at hara ( <em type="italic">Lepus timidus </em>) er endavertur í økjum, har stór ryggdjór ikki finnast. Í Føroyum hava vit haru og seyð. Til fyri fáum árum síðani var skógarmottan ikki skrásett á seyði, men seinastu fimm árini er skógarmottan skrásett nakrar fáar ferðir á seyði. Skógarmotta er ikki skrásett á haru enn. </p>
+<p><em type="bold">Innsavnan </em>Ein háttur at leita eftir skógarmottum er <em type="italic">flagging </em>. </p>
+<p>Mannagongdin er ein eftirgerð av atburðinum hjá mottum, tá ið tær vilja upp á næsta vertin, og nevnist <em type="italic">questing </em>. Tær klintra upp á onkran vøkstur og toyggja fram limirnar út og royna at krøkja klørnar í ein møguligan vert, ið kemur framvið. </p>
+<p>Til flagging varð eitt 1 m2 hvítt bummulsklæði brúkt, sí mynd 2. Bummulsklæðið verður drigið 5 m eftir vøkstrinum 45 ferðir. Um klæðið verður drigið yvir questandi mottur, kunnu tær krøkja seg á klæði, tí tær halda, at klæði er ein møguligur vertur. Flagging verður vanliga nýtt í eygleiðing av skógar mottum.</p>
+<p><em type="bold">Kanna harublóð </em>Ein háttur at staðfesta, um tað finnast skógar mottubú fjøldir í einum øki, er at taka blóðsýni frá møguligum vertum. Um blóðsýnini skulu vísa nakað, mugu tey innihalda andevnir móti borrelia ella and evnir móti skógarmottuni. Um slík andevnir verða funnin, kann tað siga nakað um, at skógarmottan er í økinum. Tí eru blóðsýnir tikin frá harum nær hendis Tvøroyri í Suðuroy. Um talan er um eina lítla búfjøld, og harurnar eru vertir, kunnu andevnir avdúka hetta. </p>
+<p>Harublóð varð savnað, tá ið harurnar blivu flettar.</p>
+<p>Harumenninir fingu plastrør gjørd til blóðsýni at lata blóð í. Blóð varð latið í 80 rør, ið verða goymd við -800C.</p>
+<p>Skógarmottan er kend fyri at kunna bera og breiða sjúkur, serliga sjúkur elvdar av bakterium, ið hoyra til ættina borrelia. Sjúkur kunnu eitt nú elva til borre liosu (Lyme borreliosis), borreliaútslett, borrelia gikt, borreliahjarta sjúku, borrelia heilabruna og borrelia nervalammilsi. Aftur at hesum kunnu skóga rmottur bera virus, ið elvir til heilabrunan TBE (Tick Born Encephalitis). Orsakað av sjúkuvandanum er sera stórur áhugi fyri útbreiðslubroytingum hjá skógar mottum.</p>
+<p>Veðurlagsbroytingar saman við broytingum í lendis-nýtslu eru høvuðsorsøkir til, at vektorbornar sjúkur breiða seg til nýggj økir. Hesar broytingar gera, at lendir verða nýtiligari hjá vektorunum og økja tí um møgu leikan hjá vektorunum at breiða seg. Lendini gerast nýtiligari, m.a. tí miðalhiti og vøkstur broyta st, tess longur norður og hægri vit koma. Djór, sum skógar mottan setist á, spjaða seg til nýggju økini, og soleiðis kunna vektorbornar sjúkur verða bornar til nýggj økir.</p>
+<p xml:lang="eng">Sambært IPCC (Intergovernmental Panel on</p>
+<p>Climate Change) er økt útbreiðsla av vektorbornum sjúk um ein av høvuðsavleiðingunum av veður lagsbroytingum. Smittur bornar við mottum eru van lig astu vektorbornu sjúkur í Evropa. Kort 1 vísir nú verandi útbreiðslu hjá skógarmottuni.</p>
+<p><em type="bold">Ósvaraðir spurningar um staðsetingar </em>Hvussu tað stundum eydnast skógarmottuni og sjúkuelvaranum borrelia at staðsetast og fullføra lívsringrásir, er ein torgreidd tilgongd. Tilgongdin er torgreidd, tí talan er um sínámillum ávirkan millum vektor <em type="italic">I. ricinus </em>, sjúkuelvara sum borrelia, <em type="italic"></em>og eina mongd av vertum, ið skógarmottan sýgur blóð frá, t.d. ymisk súgdjór, skriðdjór og fuglar. </p>
+<p>Tað er eisini ymiskt, hvussu væl borrelia yvirlivir í ymiskum vertum, og hvussu væl ein skógarmotta sjálv fær gagnnýtt ymisku ryggdjórini. Eisini hevur lendið nógv at siga, tí skógarmottan má ansa eftir ikki at missa vætu; tær tola ikki, at tað er ov turt. Tí eru økir við trøum og runnum góð fyri skógarmottuna. Her skapast rætta umhvørvið við hóskandi vætu, vøkstri og nógvum plantutilfari at fjala seg í. Skógarmottan finst eisini í lyngheiðum, har um hvørvið somuleiðis er gott. <em type="bold"></em>At tað eru so nógvir tættir, ið ávirka umstøðurnar, ger tað torført at meta um, hvørt skógarmottan kann vera á einum øki og um borrelia eisini kann vera har. </p>
+<p><em type="bold">Avmarkað tal av vertum í Føroyum </em>Útjaðaraøkir sum Føroyar, Ísland og Grønland hýsa færri vertum samanborið við meginlandaøkir í Evropa, Bretlandi og Írlandi. Avmarkaða talið á vertum ger, at sera góðir møguleikar eru fyri eftirliti, sum kunnu geva innlit í og fatan av teimum nógvu og samansettu umstøðum, ið mugu vera til staðar, <em type="bold"></em>tá ið nýggjar vektorbornar sjúkur verða stovnsettar á nýggjum stað. </p>
+<p xml:lang="isl"><em type="bold">Kort 1. </em>Núverandi útbreiðsla hjá skógar mottuni í Evropa. (European Centre for Disease Prevention and Control) </p>
+<p><em type="bold">Mynd 1. </em><em type="italic">Lívsringrásin hjá skógar mottuni. Tað kunnu vera fleiri vert ir at velja í hjá skógar mottuni, og myndin vísir nakrar (Mynd:www.cdc.gov) </em>45&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;44</p>
+<p>LEITAR OG FINNUR SKÓGARMOTTUR Í FØROYUM</p>
+<p>LEITAR OG FINNUR SKÓGARMOTTUR Í FØROYUM</p>
+<p><em type="bold">Úrslit </em>Í juni 2015 luttók eg í innsavning av skógarmottum við flagging saman við Tjóðsavninum og granskarum frá Public Health England undir leiðslu av Dr. Jolyon Medlock. Eftir ráðum frá granskarunum varð eisini gjørt av at leita í 2017 og 2018, tá ið veðrið var gott, og hitin lá um 10-15 C0. Mest varð leitað í viðar lundum á Tvøroyri, í Vági, Tórshavn, Hoyvík, Havnar dali, Norðuroyggjum, Leirvík, Hvalvík og við Gøtugjógv. Leitað varð eisini í Famará, har skógar motta var funnin á seyði. Skógarmottan er nú staðfest í flestu oyggjunum, fyri tað mesta á hundum og kettum, onkuntíð á fugli og nakrar ferðir á fólki. Yvirlit yvir skógarmottur, ið eru funnar við flagging, sæst á talvu 1. Aftur at skógarmottum, ið vórðu funnar við umrøddu mannagongd, vórðu 14 skógarmottur funnar í 2017 og 15 í 2018. (Tjóðsavnið 2021).Tjóðsavnið hevur 75 blóðmottur á goymslu, flestu eru skógarmottur og funnar á hundum og kettum; í Føroyum eru larvur einans funnar á flytifugli.mottu liva í Føroyum, er at vit finna larvur, ið royna at krøkja seg á møguligar vertir. Men higartil eru eingi dømi um, at vaksnar skógarmottur hava hitst á einum staðbundnum djóri, har tær kundu para seg og víggja egg. Heldur ongar larvur eru funnar, ið hava roynt at krøkja seg upp á djór. Tí benda okkara kanningar á, at ongar livandi búfjøldir eru í Føroyum enn. </p>
+<p>Skógarmotturnar, eg fann í viðarlundum saman við reglu ligu skrásetingunum av vaksnum skógarmottum <em type="bold"></em>og nymfum á kettum og hundum, og tey fáu fundini á bøi og uttangarðs økjum benda tí á reglu ligan innflutning. Ein forðing fyri, at skógarmottur kunna fullføra lívsringrásir í Føroyum, er at so fá djór eru her í hóskandi stødd. T.d. er seyður av byrgdur frá økjum við vøkstri, har flyti fuglar bú leikast; her kundu hundar og kettur kanska brúkst sum endavertar, men allarhelst verða skógarmotturnar funnar, áðrenn tær fáa møguleikan at makast. <em type="bold"></em>Harur eru ein møguleiki, ið eigur at kannast nærri. </p>
+<p>Møguliga er flagging ikki so væl egnað at finna skógarmottur. Royndir í Russlandi at flagga eftir <em type="italic">Ixodes persulcatus </em>vístu, at við hesi manna gongd vórðu bara vaksnar mottur fingnar. Tí kunnu serio log iskar kanningar kanska avdúka meira. (Kelda: Per Moestrup Jensen). </p>
+<p>Fyri at fáa meira vitan um hjáveruna hjá skógar-mottuni í Føroyum kann tað loysa seg at eygleiða flytifugl. Gransking í Noregi og Svøríki vísir, at uml. 2-3% av flytifuglum bera skógarmottuna. Hetta hendir bæði, tá ið fuglarnir koma um várið, og tá ið teir fara um heystið. Norsku og svensku kanningarnar vístu eisini, at umleið 3% av skógarmottunum vóru borreliaberarar. Helgoland-fellur bæði í Íslandi og Føroyum (Medlock et al, 2015 &amp; 2017) vísa, at flytifuglur ber skógarmottur til nýggj økir, men hvussu týðandi hesin flutningur er, vita vit ikki enn. Framhaldandi kanningar av flytifugli kunnu tí viðmælast, bæði av vísindaligum ávum, men eisini fyri almenna heilsu.</p>
+<p><em type="bold">Samanumtøka </em>Fyrsta skrásetingin av skógarmottuni í Føroyum var í 1990, men tað var ikki fyrr enn eftir 2000, at skráset ing ar nar øktust, sí t.d. Frøði 1, 2017. Saman lagt vórðu níggju skógarmottur funnar – vaksnar og nymfur – við at leita aktivt og við flagging. </p>
+<p>Úrslitini eru í samsvari við úrslit úr Íslandi. Har varð leitað eftir skógarmottum við flagging í sep tembur 2015 og summarið 2016. Tey funnu 26 skógar mottur, bara vaksnar og nymfur, ongar larvur. Flestar vórðu funnar seint á sumri.</p>
+<p>Skógarmottan er funnin á flytifugli bæði í Føroyum og Íslandi – og larvurnar, ið hava verið funnar, hava bara verið á flytifugli. Flytifuglar eru sostatt ein vegur hjá skógarmottuni til hesi útjaðaraøkir. Skógarmottur, ið royna at krøkja seg upp á møguligar vertir, kunnu vera komnar við flytifuglum. Tá ið flytifuglurin kemur til okkara økir, detta tær av og umskapast til næsta stig, sum síðani roynir at finna ein vert.</p>
+<p>Vaksnar skógarmottur og nymfur verða vanliga funnar á kettum og hundum, onkuntíð á fólki, bæði í Íslandi og Føroyum, men tað er ikki greitt, hvaðani tær koma. Innflutningur av plantutilfari er ein møguleiki – saman við flytifugli. Hundar og kettur verða sannlíkt fongdar við skógarmottum á økjum, har inn fluttur vøkstur er til sølu, í viðarlundum og støðum við hóskandi vøkstri. Hesi støð draga ferðandi fugl at sær. Skógarmotta á fugli er funnin í fellu í Føroyum, nevnd Helgoland-fella, sum verður brúkt at fanga fugl við. Henda Helgoland-fellan var umgird av runnum. Harumframt er skógarmottan funnin fáar ferðir, har runnar og trø ikki eru.</p>
+<p>Fyritreytin fyri at staðfesta, at búfjøldir av skógar-</p>
+<p xml:lang="isl"><em type="bold">Heimildir. </em></p>
+<p xml:lang="eng">Alfredsson. M., Olafsson.E., Eydal. M., Unnsteinsdottir. E.R., Hansford. K., Wint. W., Alexander. N. and Jolyon M. Medlock. 2017. Surveillance of Ixodes ricinus ticks (Acari: Ixodidae) in Iceland. Alfredsson et al. Parasites &amp; Vectors (2017) 10:466 DOI 10.1186/s13071-017-2375-2 Alfreðsson Mathias. Icelandic Institute of Natural History Andersen NS1,2 , Skarphédinsson S2 , Jensen PM3 , Olesen CR4 , Kolmos HJ 1. 2015. Nationwide seroprevalence study of Tick-borne encephalitis virus in Danish roe deer (C. capreolus). CCEVI – Clinical Center for Emerging and Vectorborne Infections. University of Southern Denmark.dk Gray, J., Kahl, O. and A. Zintl. 2021. What do we still need to know about Ixodes Ricinus? Ticks and Tick-borne Diseases. 12. https://doi.org/10.1016/j.ttbdis.2021.101682 Jaenson, T. G. T. &amp; Jens-Kjeld Jensen. 2007. Records of ticks (Acari, Ixodidae) from the Faroe Islands. Norw. J. Entomol. 54, 11-15. Jaenson, Thomas. G.T. and Elisabeth Lindgren. 2010. The rangeof Ixodes ricinus and the risk of contracting Lyme borreliosiswill increase northwards when the vegetation period becomes longer. Ticks and tick-borne Diseases. Journal homepage: www.elsevier.de/ttbdis. Jensen, Jens-Kjeld. 2017. Lundalús og skógarmotta – tvær blóðmottur. Frøði 1, 2017 Kjelland, V., Stuen, S., Skarpaas, T. And A. Slettan. 2010. <em type="italic">Borrelia burgdorferi </em>sensu lato in <em type="italic">Ixodes ricinus </em>ticks collected from migratory birds in Southern Norway. Acta, Veterinaria Scandinavica 2010, 52-59. Medlock, J.M., Hansford, K.M., Bormane, A., Derdakova, M., Estrada-Pena, A., George, J.C., Golovljova, I., Jaenson, T.G.T., Jensen, J.K., Jensen, P.M., Kazimirova, M., Oteo, J.A., Papa, A., Pfister, O., Plantard, O., Randolph, S.E., Rizzoli, A., Santos-Silva, M.M., Spong, H., Vial. L., Hendrickx., Zeller, H. And W. Van Bortel. 2013. Driving forces for changes in geographical distribution og <em type="italic">Ixodes ricinus </em>ticks in Europe. Parasites and Vectors 6:1. Medlock, J.M. and S. A. Leach. 2015, Effect of climate change on vector-borne disease risk in the UK. Lancet Infect Dis 2015; 15:721-30. Medlock, J.M., Hansford, K., Vaux, A.G.C., Simonsen, W., Jensen, J-K., Joensen, C., Versteirt, V and L. J. Hansen. 2017. Surveillance for <em type="italic">Ixodes ricinus </em>ticks (Acari, Ixodidae) on the Faroe Islands. Ticks and Tick-borne Diseases. 8(1):190-195. doi: 10.1016/j.ttbdis.2016.11.001. Epub 2016 Nov 4. Moestrup Jensen, Per. Københavns Universitet. Olsen, B., Jaenson, T.G.T. and S. Bergström. 1995. Prevalence of <em type="italic">Borrelia burgdorferi </em>Sensu Lato-Infected Ticks on Migrating Birds. Applied and Environmental Microbiology, aug 1995, p. 3082-3087. Talleklint, L. and Thomas, G. T. Jaenson. 1994. Transmission of <em type="italic">Borrelia burgdorferi </em>s.l. from Mammal Reservoirs to the Primary Vector of Lyme Borreliosis, <em type="italic">Ixodes ricinus </em>(Acari: Ixodidae), in Sweden. Section of Entomology, Department of Zoology, University of Uppsala, Villavagen 9, S-752 36, Uppsala, Sweden. Intergovernmental Panel on Climate Change www.ipcc.int Faroe Islands National Museum (Tjóðsavnið) www.tjodsavnid.fo </p>
+<p xml:lang="deu"><em type="bold">Viðarlund </em></p>
+<p><em type="bold">Tvøroyri </em></p>
+<p xml:lang="deu"><em type="bold">Viðarlund </em></p>
+<p><em type="bold">Vágur </em></p>
+<p><em type="bold">Viðarlund úti í Grøv Klaksvík </em>2015, 25. juni &amp; 12. august2 nymfur (juni), 1 vaksin hannur (august)2016, 3. sept2 vaksnir hannar, 1 vaksin hon2017, 23. juli1 vaksin hon2017, 21. august1 vaksin hannur 2018, 4. juni1 nymfa </p>
+<p><em type="bold">Talva 1. </em><em type="italic">Úrslit frá eyg leiðingum av skógar mottu við flagging. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 2. </em><em type="italic">Útgerð at leita eftir skógarmottum við (Mynd: William Simonsen). </em></p>
+<p xml:lang="isl"><em type="bold">Kort 2. </em><em type="italic">Reyðu ringarnir vísa, hvar skógarmottan er funnin við </em><em type="bold"></em><em type="italic">flagging háttinum </em><em type="bold"></em><em type="italic">(Map: Nations Online Project) </em>47&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2021</p>
+<p xml:lang="deu">FRØÐI 2/2021&gt;46</p>
+<p>LEITAR OG FINNUR SKÓGARMOTTUR Í FØROYUM</p>
+<p>LEITAR OG FINNUR SKÓGARMOTTUR Í FØROYUM økjum sum Føroyum og</p>
+<p>á, hvussu vektor bornar sjúk ur verða staðsettar, verða bornar yvir landa mørk, og hvussu veður lags broytingar ávirka“</p>
+<p xml:lang="deu"><em type="bold">MARNAR FEKK </em></p>
+<p xml:lang="deu"><em type="bold">MIÐLA HEIÐURS </em></p>
+<p xml:lang="fra"><em type="bold">LØNINA </em></p>
+<p>Marnar Fríðheim Kristiansen, lækni og ph.d.-lesandi á Setrinum, fekk ársins miðlaheiðurs løn á vísindavøkuni 24. sep tember.</p>
+<p>Heiðurin fekk hann fyri sítt áhaldandi kunning ararbeiði undir koronufarsóttini. Tað var Jón Brian Hvidtfeldt, formaður í Føroyskum Miðlafólkum, ið hand aði Marnari heiðurslønina. Við heiðurslønini fylgdi ein gáva upp á 5000 krónur. Marnar Fríðheim Kristiansen boðaði beinan vegin frá, at hann læt pening in víðari til COVAXsamstarvið um at fáa kopp setingar út í øll heimsins lond, eisini tey, sum ikki hava so góð ráð at keypa.</p>
+<p>Dómsnevndin segði í síni grundgeving, at Marnar Fríðheim</p>
+<p>Kristiansen hevur lagt nógva orku í gransk ing av koronufarsóttini, síðani hon rakti landið á vári í fjør. Umframt at granska sjálvur hevur hann tikið vitan frá aðrari gransking til sín og er farin út til almenningin við sínari vitan.</p>
+<p>Marnar hevur verið nógv frammi í miðlunum við nýggjastu vitanini og hevur verið íðin at vísa aftur falskunning um koronu. Hann hevur eisini tikið stig til beinleiðis ráðgeving á facebook, har hann saman við øðrum læknum hevur svarað ivamálum hjá fólki aftur við hollari vísindaliga grundaðari vitan.</p>
+<p>Granskingarráðið hevði fingið fleiri tilmælir um at geva Marnari</p>
+<p>Fríðheim Kristiansen miðla heiðurs lønina í ár, og felags fyri tey er, at fólk nevna hansara evni at greiða frá torskildum evnum, og at átakið á facebook hevur verið fakliga neyðugt í meldrinum av ófakligheit og konspiratiónsteorium.</p>
+<p xml:lang="isl"><em type="italic">Myndir: </em></p>
+<p><em type="italic">Ólavur Frederiksen </em></p>
+</body></document>

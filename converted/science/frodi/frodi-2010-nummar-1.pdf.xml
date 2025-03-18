@@ -1,0 +1,665 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><year>2010</year><wordcount>13603</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frodi-2010-nummar-1.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="kal">I S S N1 3 9 5 - 0 0 4 597 7 1 3 9 5 0 0 4 6 9 0</p>
+<p>Tá abbi var lítil Skaðadjór: Veggjalýs Útgávur frá forlagnum Fróðskapi</p>
+<p xml:lang="nno">F R Ø Ð I1 / 2010 15. ÁRG</p>
+<p xml:lang="olo">KR. 48,-</p>
+<p xml:lang="vep">NÁTTÚRAN</p>
+<p>Í HAVN– lívfrøðiligt margfeldi í bygdum øki</p>
+<p xml:lang="isl">GýTiNGARFeRðiNG HjÁ</p>
+<p>ToSKi á føroyska landgrunninum</p>
+<p>HVÍT-</p>
+<p>RAVNuRiN – hvør særtann næsta?</p>
+<p>Metylkyksilvur í</p>
+<p xml:lang="isl">GRiNdAHVAliuNG Í</p>
+<p xml:lang="rmf">TelduøldiNi</p>
+<p>Hvønn leiklut hevur teldan í gerandislívinum?</p>
+<p xml:lang="deu">FRØÐI 1/20102</p>
+<p><em type="bold">FØROYA FRÓÐSKAPARFELAG GEVUR FRØÐI ÚT </em>© Føroya Fróðskaparfelag og høvundarnir. </p>
+<p>Frøði er fólksligt vísindablað, sum kemur út tvær ferðir árliga.</p>
+<p xml:lang="swe">Upplag 1.200</p>
+<p xml:lang="kal">ISSN 1395-0045</p>
+<p><em type="italic">Loyvt er at endurgeva út Frøði, um víst verður til heimildina. </em></p>
+<p><em type="italic">Verða heilar greinir endurgivnar, má avtala gerast. </em></p>
+<p xml:lang="isl"><em type="bold">AVGREIÐSLA </em>Jarðfeingi </p>
+<p xml:lang="isl">Brekkutún 1</p>
+<p xml:lang="pol">Postsmoga 3059</p>
+<p>FO-110 Tórshavn</p>
+<p xml:lang="nob">Tlf. 357000teldupostur: frodi@jf.fo</p>
+<p><em type="bold">RITSTUÐLAR </em>Fróðskaparsetur Føroya </p>
+<p>Føroya Fornminnissavn</p>
+<p>Føroya Landsbókasavn</p>
+<p>Føroya Landsskjalasavn</p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="nob">Havstovan</p>
+<p>Heilsufrøðiliga Starvsstovan</p>
+<p>Jarðfeingi <em type="bold">nýGGIR hALdARAR </em>kunnu tekna seg hjá avgreiðsluni. </p>
+<p><em type="bold">ELdRI ÚTGáVUR AV FRØÐI </em>fáast við at venda sær til avgreiðsluna. </p>
+<p>Teldutøkar útgávur eru á www.frodskaparfelag.fo/frodi</p>
+<p><em type="bold">GREInIR TIL bLAÐIÐ </em>Fólksligar, vísindarligar greinir kunnu sendast ritstjórnini. Skrivlig høvundsleið-beining fæst frá avgreiðsluni. </p>
+<p><em type="bold">LýSInGAR TIL FRØÐI </em>Er áhugi fyri at lýsa í blaðnum, setið tykkum tá í samband við samskiparin, Lena Reinert telefon 514219teldupostur: frodi@jf.fo </p>
+<p xml:lang="nob"><em type="bold">LýSInGARPRíSUR </em>Heil síða: kr. 5.000,- </p>
+<p>Hálv síða: kr. 3.000,-</p>
+<p xml:lang="deu"><em type="bold">GRAFISK FRAmLEIÐSLA: </em></p>
+<p xml:lang="nno">Elisabeth Sande</p>
+<p xml:lang="vep"><em type="bold">PREnT: </em></p>
+<p xml:lang="fra">Føroyaprent</p>
+<p xml:lang="deu"><em type="bold">FORSíÐUmYnd: </em></p>
+<p xml:lang="nob">William Simonsen</p>
+<p><em type="bold">RITUmbOÐSRáÐIÐ </em>Símun V. Arge, fornfrøðingur </p>
+<p xml:lang="est">Anna Maria Fosaa, plantuvistfrøðingur</p>
+<p xml:lang="nob">Sámal T.F. Johansen, søgufrøðingur</p>
+<p xml:lang="nno">Elin Súsanna Jacobsen, søgufrøðingur</p>
+<p xml:lang="isl">Gunnar Bjarnason, búnaðarfrøðingur</p>
+<p>Eilif Gaard, havlívfrøðingur</p>
+<p>Lis Mortensen, náttúrulandafrøðingur</p>
+<p><em type="bold">SAmSKIPARI FYRI FRØÐI </em>Lena Reinert </p>
+<p><em type="bold">RITSTjÓRn </em>Maria Dam (ábyrgd) </p>
+<p xml:lang="vep">Firouz Gaini</p>
+<p xml:lang="nob">William Simonsen</p>
+<p xml:lang="isl">Kristin M. Magnussen</p>
+<p xml:lang="deu">Helgi D. Michesen</p>
+<p>Um hesa útgávuna</p>
+<p xml:lang="nno">F R Ø Ð I1 / 2010</p>
+<p>Í hesari útgávuni av Frøði hava vit lagt serligan dent á at hýsa greinum, sum lýsa partar av lívfrøðiliga margfeldinum í ella rundan um oyggjar okkara.</p>
+<p>Vit fáa eina lýsing av hvíta ravninum, sum var sjáldsamur fyrr, og sum ikki hevur verið sæð seinastu nógvu árini.</p>
+<p>Harafturat fáa vit eina lýsing av gýtingarferðingini hjá okkara kæra toski, og nýtt, um ikki endiliga gott, um kyksilvur í grindahvali.</p>
+<p>Ein grein um náttúruna í Havn er at lesa í blaðnum, eins og ein lýsing av nøkrum av teimum kyktum, sum geva okkum óynskt lívfrøðiligt margfeldi í sengur, køksskuffur og onnur støð, har vit annars eru væl foreint við einki lívfrøðiligt margfeldi at hava.</p>
+<p>Umframt hesir greinirnar eru greinir um mentanina hjá okkara unga ættarlið og um nakað sum vit merkja hvønn dag vit fara til handils, men sum vit helst ikki gera okkum far um - tað er prístalið...</p>
+<p xml:lang="isl">Góðan lesihug!3</p>
+<p>FRØÐI 1/20104 Gýtingarferðing hjá toski á føroyska landgrunninum</p>
+<p>Petur Steingrund, Havstovan8 Hvítravnurin – hvør sær tann næsta?</p>
+<p>Dorete Bloch, Føroya Náttúrugripasavn10 Náttúran í Havn – lívfrøðiligt margfeldi í bygdum øki</p>
+<p>William Simonsen og Herborg Nyholm Debess, Føroya Náttúrugripasavn15 Slóðbrótandi skráseting av omanlopum á vegir</p>
+<p>Lis E. Mortensen, Jarðfeingi16 Ung í telduøldini – Hvønn leiklut hevur teldan í gerandislívinum?</p>
+<p>Firouz Gaini, Fróðskaparsetur Føroya24 Metylkyksilvur í grindahvali</p>
+<p>Maria Dam, Umhvørvisstovan30 Skaðadjór 10: Veggjalýs eru komnar til Føroya</p>
+<p>Dorete Bloch, Føroya Náttúrugripasavn32 Útgávur frá forlagnum Fróðskapi 34 Tá abbi var lítil var ein króna nógvir pengar</p>
+<p>Eyðun Jakobsen, Hagstova Føroya38 So gjørdist hann loksins veruleiki</p>
+<p>Nevndin í Fróðskaparfelagnum39 Frøði næstu ferð</p>
+<p xml:lang="isl"><em type="bold">Innihald </em>102481634 </p>
+<p xml:lang="deu">FRØÐI 1/20104</p>
+<p>GýtinGarferðinG hjá toski á føroyska landGrunninum</p>
+<p>Gýtingarferðing hjá toski á føroyska landgrunninum</p>
+<p>Toskur frá øllum økjum á føroyska landgrunninum gýtir á Norðhavinum. Hinvegin kemur toskur, sum gýtir í Vágahavinum og á Mykinesgrunninum frá einum meira avmarkaðum øki. Eftir gýting fer tann einstaki toskurin heimaftur til sama økið, har hann helt til frammanundan.</p>
+<p>Toskur hevur átt lívið í mongum manni, og tiltik in er várróðurin á gýtingarleiðunum nærhendis Reykja vík og í Lofoten í Norðurnoregi. Fyri meira enn hundrað árum síðan komu norskir gransk arar fram til, at toskurin, sum gýtti í Lofoten, hevði sín uppruna í tí ovurstóra Barentshavinum. Tá í tíðini bar ikki til at fiska toskin, meðan hann var í Barents havinum, tí menn høvdu ikki nóg góð skip ella reiðskap. Øðrvísi var, tá toskurin savnaðist nær landi uttan fyri Lofoten. Tá kundi hvør maður fara út við smábáti og fiska av tí ovurstóra toskameing inum, sum varð savnað í sambandi við gýting. Her hjá okkum í Føroyum vóru møguleikarnir eisini avmark aðir at fiska tosk, sum stóð langt úr landi á vetrartíð, tá árarnar vóru álitið. Tá toskurin savnaðist nær landi á Norðhavinum í gýtingartíðini var søgan ein onnur, tí tá var stutt at rógva og nógv at fáa.</p>
+<p>Tá toskurin á landgrunninum er 34 ára gamal og 5560 cm langur, gerst hann gýtingarførur. Toskur savnast á teimum støðum at gýta, har toskalarvan hevur størstan møguleika at yvirliva. Ein kann undrast á, hvaðani toskurin kemur, sum gýtir á Norðhavinum. Kemur hann frá økinum norðan fyri Føroyar ella frá øllum økjum á landgrunninum? Og er nakað samband millum gýtingartosk í Vágahavinum og á Norðhavinum? Merkingarroyndir eru væl egnaðar at svara slíkum spurningum. Tá verður toskurin fiskaður og merktur við einum lítlum merki, sum kann sita framman fyri fremstu ryggfjøður ella á táknulokinum (gamlar merkingar). Síðan verður toskurin sleptur útaftur og fiskaður aftur seinni. Tá ber til at samanbera, hvar toskurin varð merktur og hvar hann varð fingin aftur. Síðan 1997 hevur Havstovan merkt út við 30000 toskar við Føroyar (Mynd 1), og umleið 9000 eru fingnir aftur.</p>
+<p><em type="bold">Úrslit frá merkingarroyndum </em>Tað eru tveir hættir at kanna gýtingarferðing. Ann ar er at merkja tosk á gýtingarøkinum um várið (mars). Tá fáast upplýsingar um spjaðingina frá gýtingarøkinum, t.v.s. til hvørji øki toskurin leitar eftir gýting. Hin hátturin er at merkja tosk á ymisk um støðum á landgrunninum uttan fyri gýtingartíðina (um heystið) og so síggja, hvørji </p>
+<p><em type="bold">Petur Steingrund </em>peturs@hav.fo </p>
+<p xml:lang="nob">Havstovan</p>
+<p>Petur Steingrund er útbúgvin fiskifrøðingur við universitetið í Bergen í 1993. Hann vardi doktararitgerð um føroyskan tosk við sama universitet í 2009. Hann hevur verið lærari á Studentaskúlanum og HFskeiðnum í Eysturoy frá 1993 til 1995 og eftir tað arbeitt á</p>
+<p>Havstovuni.5</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>GýtinGarferðinG hjá toski á føroyska landGrunninumgýtingarøki hann nýtir. Merking um heystið hevur tó ta avmark ing, at tað er nærum ómøguligt at merkja tosk í nóg stórum nøgdum á øllum økjum á landgrunn inum, og tí kemur ikki allur sannleikin fram. Merk ing um várið er munandi lættari, tí tað eru bert fá gýtingarøkir og vanliga er lætt at merkja nóg nógv ar toskar til eina merkingarroynd. Ein full fíggjað mynd av ferðingini fæst, tá úrslitini frá báðum merk ingarhættum verða sett saman.</p>
+<p>Toskur, sum er merktur á gýtingarøkinum á</p>
+<p>Norðhavinum í mars, er at finna í sama øki fyrstu 1-2 vikurnar eftir merking (Mynd 2). Í apríl/mai er toskurin framvegis norðan fyri Føroyar, tó at onkur er komin heilt suður á Munkagrunnin, sum er suður úr Suðuroynni. Í juni-desember eru fáir toskar at finna, har teir vórðu merktir, men eru spjaddir um allan landgrunnin. Hetta kemst av, at toskurin roynir at gagnnýta allan matin á landgrunninum. Nærum eingin toskur skifti gýtingarøki, t.v.s. gýtti í einum øðrum øki árið eftir.</p>
+<p>Toskur, sum var merktur um heystið í økinum eystan fyri Føroyar, hevði eitt rættiliga einfalt ferðingarmynstur: á Norðhavið at gýta og síðan heimaftur (Mynd 3). Ógvuliga fáir toskar fóru til økið vestan fyri Føroyar. Ferðingarmynstrið vestan fyri Føroyar var meira torgreitt. Toskur merktur vestan fyri Suðuroynna í oktober fór annaðhvørt í Vágahavið at gýta ella á Norðhavið (Mynd 4).</p>
+<p><em type="bold">Mynd 1. Toskur tikin úr einum kari við rennandi sjógvi verður merktur við einum reyðum merki á rygginum. </em></p>
+<p xml:lang="deu">FRØÐI 1/20106</p>
+<p>GýtinGarferðinG hjá toski á føroyska landGrunninum</p>
+<p>Ferðingarleiðin til Norðhavið kundi bæði vera vestur um Mykines ella eystur um Fugloynna.</p>
+<p><em type="bold">Kort yvir gýtingarferðing </em>Út frá Mynd 2-4 og mongum øðrum merkingarroyndum, sum ikki eru vístar í hesi grein, ber til at gera eitt kort yvir gýtingarferðing hjá toski á føroyska landgrunninum (Mynd 5). Myndin vísir gýtingarferðingina í høvuðsheitum og er at meta sum ein einføld útgáva av einum meira fløktum veru leika. </p>
+<p>Tann stóri blái ringurin norðan fyri Føroyar vísir gýtingarøkið á Norðhavinum. Haðani ganga tvær høvuðsferðingarleiðir, ein vestur á Mýlingsgrunnin/ Mykinesgrunnin og suður í Vágahavið, og hin eystur um Fugloynna og suður móti Lítlu Dímun. Nakrir fáir toskar fara so langt suður sum á Munkagrunnin (víst við klønum linjum). Tað eru eisini aðrar ferðingarleiðir frá Norðhavinum, og ganga tær longur út frá landi og út á djúpt, bæði eystanfyri og vestanfyri. Tað snýr seg mest um stóran tosk.</p>
+<p>Tann reyði ringurin vestan fyri Sandoynna vísir gýtingarøkið í Vágahavinum. Haðani ganga tvær høvuðsferðingarleiðir, ein stutt til økið vestan fyri Skúvoynna og ein long til økið vestan fyri Suðuroynna. Summir toskar fara heilt suður á Munkagrunnin og onkur til økið eystan fyri Suðuroynna. Fyri havnarmenn er tað kanska av áhuga at vita, at toskur í Nólsoyarfirði helst gýtir í Vágahavinum. Tann guli ringurin vestan fyri Mykines vísir gýtingarøkið á Mykinesgrunninum (á Bønum). Tað er av nógv minni týdningi enn hini bæði gýtingarøkini og savnar fisk frá einum nógv minni øki.</p>
+<p>Mynd 5 skal skiljast soleiðis, at tann einstaki toskurin ikki nýtist at fullføra eina ferðingarleið, men kann steðga á. Til dømis steðga nógvir <span type="quote">“Norðhavstoskar”</span> á, tá teir eru komnir á Mýlingsgrunnin (beint norður úr Mykinesi). Eisini steðga nógvir, tá teir eru komnir eystan fyri Svínoynna. Tú kanst sjálv(ur) royna at brúka Mynd 5. Hvar gýtir ein toskur, sum heldur til eystan fyri Nólsoynna? Svarið er, at teir flestu gýta á Norðhavinum, meðan fáir gýta í Vágahavinum og eingin á Mykinesgrunninum, sí talvuna.</p>
+<p><em type="bold">Mynd 2. Toskur, merktur á gýtingarøkinum norðanfyri í mars (blátt), og afturfingin í sambandi við gýting (mars: reytt), ávegis til/ frá gýting (apríl-mai/januar-februar: grátt), og uttan fyri gýtingartíð (juni-desember: svart). 100-600 m dýpdarkurvar eru vístar. </em></p>
+<p><em type="bold">Mynd 3. Toskur merktur í oktober eystanfyri (blátt) og afturfingin í sambandi við gýting (mars: reytt), ávegis til/frá gýting (apríl-mai/ januar-februar: grátt), og uttan fyri gýtingartíð (juni-desember: svart). 100-600 m dýpdarkurvar eru vístar. </em>7 </p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>GýtinGarferðinG hjá toski á føroyska landGrunninum</p>
+<p><em type="bold">Mynd 5. Gýtingarferðing hjá toski á føroyska landgrunninum við støði í øllum merkingarroyndum, sum gjørdar eru undir Føroyum. Tær bláu linjurnar vísa gýtingarferðing frá Norðhavinum, tær reyðu frá Vágahavinum og tær gulu frá Mykinesgrunninum. Tjúkkar linjur vísa týdningarmiklar ferðingarleiðir, og klænar linjur minni týdningarmiklar. Tær brotnu linjurnar vísa ferðing, sum byggir á sera lítið talgrundarlag. 100-600 m dýpdarkurvar eru vístar. </em></p>
+<p><em type="bold">Mynd 4. Toskur merktur í oktober vestan fyri Suðuroy (blátt) og afturfingin í sambandi við gýting (mars: reytt), ávegis til/frá gýting (apríl-mai/januar-februar: grátt), og uttan fyri gýtingartíð (juni-desember: svart). 100-600 m dýpdarkurvar eru vístar. </em></p>
+<p xml:lang="isl"><em type="bold">Heimstaður </em></p>
+<p><em type="bold">Gýtir á Norðhavinum </em></p>
+<p><em type="bold">Gýtir í Vágahavinum </em></p>
+<p xml:lang="isl"><em type="bold">Gýtir á Mykinesgrunni </em></p>
+<p>Eystan fyri Nólsoynna</p>
+<p>Flestu</p>
+<p xml:lang="isl">Fáir</p>
+<p>Eingin</p>
+<p>Eystan fyri Suðuroy</p>
+<p>Helmingurin</p>
+<p>Helmingurin</p>
+<p>Eingin</p>
+<p>Norðan fyri Mykines</p>
+<p>Flestu</p>
+<p xml:lang="isl">Fáir</p>
+<p xml:lang="isl">Fáir</p>
+<p>Vestan fyri Mykines</p>
+<p>Flestu</p>
+<p xml:lang="isl">Fáir</p>
+<p xml:lang="isl">Fáir</p>
+<p>Vestan fyri Suðuroy</p>
+<p xml:lang="isl">Fáir</p>
+<p>Flestu</p>
+<p>Eingin</p>
+<p>Sunnan fyri Suðuroy</p>
+<p>Helmingurin</p>
+<p>Helmingurin</p>
+<p>Eingin</p>
+<p>Á 500 m eystanfyri</p>
+<p>Helmingurin</p>
+<p>Helmingurin</p>
+<p>Eingin</p>
+<p xml:lang="deu">FRØÐI 1/20108</p>
+<p>Hvítravnurin – Hvør sær tann næsta?</p>
+<p>Hvítravnurin er ein vanligur ravnur, ið hevur tað ættarbregðið, at hann hevur hvítan lit ymsastaðni á kroppinum. Altíð á pørtum av skalla og nakka, bringu og veli, men ikki tveir ravnar eru eins. Ymiskt er, hvussu partarnir við hvítum og svørtum eru í stødd og vavi, sum myndirnar eisini vísa.</p>
+<p>Hvítravnurin er eitt serføroyskt fyribrigdi.</p>
+<p>Ílegubroytingin er hend einaferð fyri langt síðani, tí longu Ole Worm fekk í 1650 tveir hvítravnar sendar niður til sítt <em type="italic">Museum Wormianum </em>, sum Povl Skårup greiðir frá í Varðanum. </p>
+<p>Áðrenn tað hevði Peder Claussøn Friis hoyrt um hvítravnin frá einum føroyskum studenti, Jacob Oudensøn, ið helst var sonur prestin og próstin í Eysturoynni, Harra Eidin. Jacob Oudensøn var í 1592 í Stavanger og møtti her Claussøn Friis, ið tí hevur skrivað um hvítravnin í bók síni: <em type="italic">Norriges oc omliggende øers sande Beskrivelse </em>. </p>
+<p xml:lang="eng"><em type="bold">Dorete Bloch </em>doreteb@ngs.fo </p>
+<p>Føroya Náttúrugripasavn</p>
+<p>Síðani tá hava allar frágreiðingar um fugl í Føroyum nevnt hvítravnin, og Niels á Botni hevur skrivað <em type="italic">Hugskot um Hvítravnin </em>í 1. Bók av Fróðskaparriti. </p>
+<p>Finn Salomonsen hevur í <em type="italic">Zoology of the Faroes </em>skrivað eina langa frágreiðing um hvítravnin. Hann hevur gjøgnumgingið allar upplýsingar um litmynstrið á pørum við ungum. Út frá hesum gerst greitt, at tann hvíti liturin stendst av eini dvínandi ílegu, sí myndarøðina. Sum víst, kann ein svartur ravnur gott vera berari av tí hvítu dvínandi íleguni, og tí er tað ómøguligt at finna út av, um hvítravnurin er útruddaður í dag. Teir seinastu hvítravnarnir vórðu sæddir soleiðis: <em type="italic">Ein varð sæddur 2. november 1902 í Mykinesi. Á heysti 1916 varð ein sæddur á Velbastað og úti í Koltri. </em></p>
+<p>Hvítravnurin – hvør sær tann næsta?</p>
+<p><em type="bold">Mynd úr brævasavni eftir Niels á Botni, sum Føroya </em></p>
+<p><em type="bold">Náttúrugripasavn eigur (ókendur myndamaður) </em>9 </p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Hvítravnurin – Hvør sær tann næsta?</p>
+<p><em type="italic">Kavaveturin 1947 og aftur seint í 1948 varð ein sæddur í Nólsoynni. Áðrenn páskir 1965 varð ein sæddur í Sandvík. </em></p>
+<p>Ein fuglur, ið er so sjáldsamur, hevur tilvitað verið savnaður og seldur uttanlands til søvn og privatar savnarar. Í 19. øld var tað hægsti móti at hava privat søvn. Meginparturin varð útfluttur um miðja 19. øld. Sýslumaðurin H.C. Müller seldi t.d. seinast í 19. øld ein skotnan hvítravn úr Nólsoynni fyri 2 Ríkisdálar.</p>
+<p>Tað hevur verið leitað víða um fyri at kanna, hvussu nógvir hvítravnar eru til og standa á ymiskum søvnum kringum í heiminum. Og fyribils er 24 hvítravnar funnir, og her sær listin soleiðis út:</p>
+<p>Eisini í dag verður selt og flutt millum søvn, t.d. vórðu teir fýra hvítravnarnir í New York keyptir úr Tring í Suðuronglandi, og hvítravnurin í Braunschweig varð keyptur úr París. At ikki fleiri er funnir, er millum annað tí, at fleiri er forfarnir, t.d. etnir av smádjórum. Men eisini hevur nevtollurin gjørt sítt til, at ravnastovnurin varð troyttur so nógv, at bara heilt fáir ravnar vóru eftir um ár 1900. Um nevtollin verður greitt frá í næsta <em type="italic">Frøði </em>. </p>
+<p><em type="bold">Keldur </em></p>
+<p xml:lang="nob">Bloch, D. og Van Grouw, H. 2010. <em type="italic">Hvítravnurin </em>. Føroya Náttúrugripasavn. </p>
+<p xml:lang="isl">Botni, N. á. 1952. Hugskot um Hvítravnin. <em type="italic">Fróðskaparrit </em>1: 114-121. </p>
+<p xml:lang="nob">Salomonsen, F. 1934a. Aves. In: Jensen, Ad.S., Lundbeck, W.†, Mortensen, Th. and Spärck, R. (eds). 1935-1942. <em type="italic">The Zoology of the Faroes </em>III(II): LXIV. 1-277. </p>
+<p>Skårup. P. 1966. Føroyskir lutir í Museum Wormianum. <em type="italic">Varðin </em>37: 135-141. </p>
+<p>Talva 2. Her eru bæði bøga og steggi svartir ravnar, men bæði eru berarar av tí hvítu, dvínandi íleguni. Tríggir fjórðingar av ungunum verða svartir, men helvtin eru berarar av tí hvítu dvínandi íleguni, og tann seinasti fjórðingurin verður hvítravnur.</p>
+<p xml:lang="ita"><em type="bold">Steggi </em></p>
+<p><em type="bold">Bøga </em></p>
+<p xml:lang="olo"><em type="bold">Sh </em></p>
+<p xml:lang="olo"><em type="bold">Shhh </em></p>
+<p xml:lang="olo"><em type="bold">Shh </em></p>
+<p xml:lang="nob"><em type="bold">SS </em></p>
+<p>Talva 3. Her er steggin ein hvítravnur og bøgan ein svartur ravnur, ið er berarar av tí hvítu, dvínandi íleguni. Helvtin av ungunum verða svartir og berarar av tí hvítu, dvínandi íleguni, meðan hin helvtin verða hvítravnar.</p>
+<p xml:lang="ita"><em type="bold">Steggi </em></p>
+<p><em type="bold">Bøga </em></p>
+<p xml:lang="olo"><em type="bold">Shhhhh </em></p>
+<p xml:lang="olo"><em type="bold">Shh </em></p>
+<p xml:lang="olo"><em type="bold">Shh </em></p>
+<p>Talva 1. Her er steggin ein hvítravnur og bøgan ein vanligur svartur ravnur. Allir ungarnir verða svartir, men eru allir berarar av tí hvítu, dvínandi íleguni, ið tó ikki sæst vegna ta ráðandi svørtu íleguna.</p>
+<p xml:lang="ita"><em type="bold">Steggi </em></p>
+<p><em type="bold">Bøga </em></p>
+<p xml:lang="olo"><em type="bold">Sh </em></p>
+<p xml:lang="olo"><em type="bold">Sh </em></p>
+<p xml:lang="olo"><em type="bold">Shh </em></p>
+<p><em type="bold">Shh </em>6 á Zoologisk Museum, Keypmannahavn, Danmark 1 á Jagt- og Skovbrugsmuseet, Hørsholm, </p>
+<p xml:lang="nob">Danmark 2 á Zoologiska Museet, Uppsala, Svøríki 4 á American Museum of Natural History, New York, USA 1 á Nationaal Natuurhistorisch Museum,</p>
+<p xml:lang="isl">Leiden, Háland 1 á Staatliches Naturhistorisches Museum, Braunschweig, Týskland 1 á Staatliches Museum für Tierkunde,</p>
+<p xml:lang="isl">Dresden, Týskland 1 á Übersee-Museum, Bremen, Týskland 2 á Brüssel Museum, Belgia 1 á Musenum í Wien, Eysturríki 1 á Tring Museum, Ongland 2 á Manchester Museum, Ongland 1 á Cambridge Museum, Ongland</p>
+<p xml:lang="deu">FRØÐI 1/201010</p>
+<p>NÁTTÚRAN Í HAVN – lÍVfRøðiligT mARgfeldi Í bygdum øki</p>
+<p>NÁTTÚRAN Í HAVN – lívfrøðiligt margfeldi í bygdum øki</p>
+<p>Heilt stutt snýr lívfrøðiligt margfeldi seg um alt tað livandi fjølbroytnið, ið náttúran rúmar.</p>
+<p>Hugsjónin um, at lívfrøðiligt margfeldi í bygdum øki hevur týdning fyri fjølbroytnið sum heild og fyri trivnaðin hjá borgarunum, stavar fyri ein stóran part frá Rio-sáttmálanum um lívfrøðiligt margfeldi frá 1992 (www.cbd.int). Síðani samdust nógvir av heimsins borgarstjórum í 2007 um eina yvirlýsing viðvíkjandi lívfrøðiligum margfeldi í bygdum øki. Yvirlýsingin ásannar tørvin á at verja plantur, djór og grøn øki í býnum, bæði fyri at bøta um lívfrøðiliga margfeldið og fyri trivnaðin hjá borgarunum.</p>
+<p><em type="bold">Verkætlanin </em>Í Umhvørvisvikuni 2009 hjá Tórshavnar kommunu varð stuðul latin Føroya Náttúrugripasavni til eina verkætlan, ið snúði seg um at gera tríggjar faldarar, har trý ymisk lívøki innan býarmarkið vórðu lýst. Hesi vóru strandarøki, lyngøki og viðarlundir. </p>
+<p>Endamálið við faldarunum var við orðum og myndum at varpa ljós á býarnáttúruna og á hendan hátt økja tilvitanina um, at lívfrøðiligt margfeldi eisini hevur týdning í bygdum øki. Endamálið við faldarunum var somuleiðis at samantvinna økta tilvitan um tað neyðuga í at varðveita, røkja og bøta um verandi býarnáttúru og at menna almenna vitan um náttúru yvirhøvur.</p>
+<p><em type="bold">Strandarøki </em>Av einum bygdum øki at vera hevur Havnin eitt víðfevnt strandarøki, ið ikki er lagt undir betong ella asfalt. Her er gjørligt at ganga ein túr og njóta alt, ein sær av plantum og djórum, við eini kenslu av at vera í náttúruni. Hesin faldarin nevnir smádjóralív og ymiskan vøkstur, ið kann síggjast fram við sjónum úr Sandágerði og yvir á Boðanesgjógv. </p>
+<p>Men serliga sigur hann frá tí fugli, ið er at síggja í sjóvarmálanum – nakrir mestsum altíð og aðrir</p>
+<p xml:lang="nob"><em type="bold">Herborg Nyholm Debess </em></p>
+<p xml:lang="eng">Sustainable Environment Managerherborgnd@ngs.fo</p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="nob"><em type="bold">William Simonsen </em></p>
+<p xml:lang="nob">Lívfrøðingur, Cand. scient</p>
+<p xml:lang="nob">Williams@ngs.fo</p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="eng"><em type="bold">My </em></p>
+<p xml:lang="kal"><em type="bold">ND </em></p>
+<p xml:lang="eng">Ill</p>
+<p xml:lang="nob">Iam S</p>
+<p xml:lang="eng">Imon</p>
+<p xml:lang="vep">Sen11</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>NÁTTÚRAN Í HAVN – lÍVfRøðiligT mARgfeldi Í bygdum økisjáldnari. Strandarøkið í Havn er eisini mett sum áhugavert, tí nógv másafuglasløg eru at síggja her.</p>
+<p>Stórur partur av fjøruni er hella við steinum og klettum, ið ikki eru serliga merktir av at vera so tætt við eitt býarøki. Eisini finnast støð við sandi og smásteinum t.d. í Sandágerði og í smærri blettum frá Skansanum yvir ímóti Boðanesgjógv. Eitt eyðkenni eru mongu vakurt grønu hyljarnir, har kombikk eru í flestu teirra. Á einum gongutúri sæst skjótt, at hellan ikki er ber, men full av ymiskt littum skónum, ið tíðum fáa helluna at tykjast lodna. Svarti liturin á helluni tættast við sjóvarmálan stendst av skónini vanlig svartaskón <em type="italic">Verrucaria maura </em>. Nógvar aðrar skónir eru eisini. </p>
+<p xml:lang="isl"><em type="bold">Mynd 1. Fiskimási ( </em></p>
+<p><em type="italic"></em><em type="bold">) sæst alt árið; hevur gráligt høvd um veturin. </em></p>
+<p><em type="bold">Mynd 2 og 3. Í fleiri av hyljunum á strandarøkinum í Havn finnast kombikk. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 4. Skónir á steini. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 5. Likka ( </em></p>
+<p><em type="italic"></em><em type="bold">) kemur til landið 6. apríl og fer avstað aftur 17. september. Tó er ein partur av likkunum her alt árið. </em></p>
+<p>Vónandi fer faldarin at vekja áhuga fyri at ganga fram við sjónum og eygleiða, síggja og merkja. Og ikki minst – hugsa.</p>
+<p><em type="bold">Lyngøki </em>Harafturímóti hevur bygging av ymsum slag og menning av undirstøðukervinum oytt stóran part av lyngøkjunum í Havn. Tó - í mun til støddina á býnum - má sigast, at Havnin er rík við lyngøkjum. T.d. fram við Hoydalsá og niðri í Hoydølum og annars í smáum blettum nógvastaðni í býnum. </p>
+<p>Um ein er tilvitaður um hetta fyribrigdið, ansar ein eftir, at lyngur er t.d. framvið R.C.Effersøes gøtu, millum Nóatún og V.U.Hammershaimbs gøtu, í Gundadali og nógva aðrastaðni.</p>
+<p>Tað er møguliga eitt sindur nasadjarvt at siga, at økið, ið Havnin er bygd á, hevur verið eitt víðfevnt lyngheiðaøki, tí so vítt vit vita, er tað ongantíð staðfest í frásøgnum ella kanningum. Men við tað at so nógvir lyngblettir eru nógva, nógva staðni</p>
+<p><em type="bold">Tekningar </em></p>
+<p xml:lang="est">Ast</p>
+<p xml:lang="deu">RId And</p>
+<p xml:lang="deu">ReAsen</p>
+<p><em type="bold">Strandarøkið í Havn er eisini mett sum áhugavert, tí nógv másafuglasløg eru at síggja her </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="eng">Ill</p>
+<p xml:lang="deu">IAm sImonsen</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>Rodmund á Keldun </p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="eng">Ill</p>
+<p xml:lang="deu">IAm sImonsen</p>
+<p xml:lang="deu">FRØÐI 1/201012</p>
+<p>NÁTTÚRAN Í HAVN – lÍVfRøðiligT mARgfeldi Í bygdum økiímillum nútíðarbyggingina, er tað kanska ikki langt av leið – hóast alt.</p>
+<p>Hesin faldarin hevur plantuvøksturin sum høvuðsevni – bæði tey trý lyngsløgini, ið vit hava í Føroyum, og aðrar blómuplantur.</p>
+<p>Faldarin nertir somuleiðis við týdningin av góðari urtagarðsrøkt við fyriliti til lyngøkini.</p>
+<p>Lyngsløgini hava tørv á mold, sum ein urtagarðsrøktari vildi nevnt vánaliga  súra. Bert fáar aðrar plantur hava tørv á slíkari mold. Tí er lyngurin hóttur ímillum teir urtagarðarnar, ið verða taðaðir. Um taðingin ikki verður gjørd við fyriliti fyri tí, sum er uttan fyri urtagarðin, er lyngurin í vanda. Lynginum dámar als ikki tøð!</p>
+<p>Lyngøkini í Havn eru týdningarmikil búøki hjá nógvum plantum, eins og skordjóra og fuglasløg hava nyttu av teimum. Vónandi fer faldarin at vekja økt ansni fyri og øktan alsk til lyngøkini innan býarmarkið.</p>
+<p><em type="bold">Viðarlundir </em>Faldarin um viðarlundir hevur undiryvirskriftina: lívið í, ímillum og undir trøunum. </p>
+<p>Sostatt er hann als ikki um viðarvøksturin, sum annars er tað eyðmerkta við viðarlundunum.</p>
+<p>Í faldaranum verður roynt at gera vart við ta ørgrynnu av lívi, sum finst umframt trøini: smákykt, fuglur og vøkstur.</p>
+<p>Serliga nógv er gjørt burtur úr fuglinum í faldaranum, tí hann er nógvur í tali.</p>
+<p>Viðarlundirnar mugu sigast at økja um fuglameingið í Føroyum. Fleiri av fuglunum, ið eru vorðnir búfuglar seinastu árini, eru tongdir at trøum og runnum. T.d. turkadúgvan, ið bert finnist í Havn, kom í Norðuratlantshav fyri 40 – 50 árum síðan. Hon er tongd at urtagørðum og viðarlundum. Eisini kvørkveggjan hevur klárað at búsett seg í Føroyum orsakað av planting. Seinastu árini hevur bringureyði átt regluliga, mest í viðarlundum. Bringureyðin er mest vanligur í Havn, men eigur nú</p>
+<p><em type="bold">Mynd 7. Nærmynd av heiðalyngi ( </em></p>
+<p xml:lang="sme">vulgaris <em type="bold">). </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 6. Føroyskur klokkulyngur ( </em></p>
+<p xml:lang="ron">cinerea <em type="bold">). </em></p>
+<p><em type="bold">Viðarlundirnar mugu sigast at økja um fuglameingið í Føroyum </em></p>
+<p xml:lang="rmf"><em type="bold">Tek </em></p>
+<p xml:lang="isl"><em type="bold">NiNgar </em></p>
+<p xml:lang="est">Ast</p>
+<p xml:lang="deu">RId And</p>
+<p xml:lang="deu">ReAsen</p>
+<p xml:lang="eng"><em type="bold">My </em></p>
+<p xml:lang="vep"><em type="bold">Nd </em></p>
+<p xml:lang="eng">Ill</p>
+<p xml:lang="deu">IAm sImonsen</p>
+<p xml:lang="eng"><em type="bold">My </em></p>
+<p xml:lang="vep"><em type="bold">Nd </em></p>
+<p xml:lang="eng">Ill</p>
+<p xml:lang="deu">IAm sImonsen13</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>NÁTTÚRAN Í HAVN – lÍVfRøðiligT mARgfeldi Í bygdum økiaðrastaðni eisini. Vanligt er at síggja nógvan smáfugl í viðarlundini tá flytitíð er, t.d. barrígður ( <em type="italic">Corduelia spinus </em>). Eisini er vanligt at síggja krossnev ( <em type="italic">Loxia curvirostra </em>) um summarið, hetta er aftan á bútíð teirra. </p>
+<p>Sjónarmiðini viðvíkjandi tí at seta niður trø í Føroyum eru ymisk. Hetta kemst av, at vøksturin í viðarlundum ikki er upprunaligur í Føroyum.</p>
+<p>Tó skerst ikki burtur, at viðarlundirnar í Føroyum – og annar viðarvøkstur (urtagarðar m.a.) – økja um lívfrøðiliga margfeldið í Føroyum yvirhøvur, bæði viðvíkjandi plantum, skordjórum og fugli.</p>
+<p>Soppavøkstur í viðarlundum er áhugaverdur, tí fleiri sløg hava tørv á hesum serliga búøki. Eisini í viðarlundum eru soppasløg funnin, ið ikki vaksa aðrastaðni í landinum. Hetta verður tó ikki viðgjørt í faldaranum, men er vert at hava í huga í sambandi við lívfrøðiliga margfeldið.</p>
+<p><em type="bold">Tekningar </em></p>
+<p xml:lang="est">Ast</p>
+<p xml:lang="deu">RId And</p>
+<p xml:lang="deu">ReAsen ·</p>
+<p xml:lang="isl"><em type="bold">Myndir </em></p>
+<p><em type="bold">Tekningar </em></p>
+<p xml:lang="est">Ast</p>
+<p xml:lang="deu">RId And</p>
+<p xml:lang="deu">ReAsen</p>
+<p xml:lang="isl"><em type="bold">Mynd 12. Sjáldsama plantan veitarbládepla ( </em></p>
+<p><em type="italic"></em><em type="bold">) er eisini at finna í viðarlundini. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 11. Sigursskúvur ( </em></p>
+<p xml:lang="vep"><em type="italic"></em><em type="bold">). </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 8. Turkadúgva ( </em></p>
+<p xml:lang="spa">decaocto <em type="bold">). </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 9. Bringureyði ( </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 10. kvørkveggja, steggi ( </em></p>
+<p xml:lang="fkv">merula <em type="bold">) </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="nob">He</p>
+<p xml:lang="kmr">Rbo</p>
+<p xml:lang="pol">Rg ny</p>
+<p xml:lang="nob">Holm debess</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="eng">Ill</p>
+<p xml:lang="deu">IAm sImonsen</p>
+<p xml:lang="deu">FRØÐI 1/201014</p>
+<p>NÁTTÚRAN Í HAVN – lÍVfRøðiligT mARgfeldi Í bygdum øki</p>
+<p>Viðmerkjast skal, at viðar lundirnar eru eyðmerktar við at geva øðrvísi liviumstøður enn Føroyar annars kunnu veita: lívd, skugga, frið (einki seyðabit) og vætu.</p>
+<p>Hesi viðurskifti hava veitt fleiri plantum, soppum og djórum eitt friðskjól til at mennast í størri mun, enn tað hevði verið møguligt við vanligu føroysku viðurskiftunum – t.d. sigursskúvur ( <em type="italic">Epilobium angustifolium </em>) trívist sera væl í viðarlundini í Gunda dali. </p>
+<p><em type="bold">Mynd 13. Trøllakampar trívast sera væl í viðarlundini, á myndini sæst ekstur blóðkampur ( </em></p>
+<p><em type="italic"></em><em type="bold">), sum er ein av vanligastu kampunum í viðarlundum og lyngøkjum – her saman við føroyskum klokkulyngi og vanligum heiðalyngi. </em></p>
+<p>Viðarlundir í Havn eru vitjaðar ymiskliga.</p>
+<p>Gunda dalur er mest atkomiligur, tí har eru gøtur. Tó eru hinar viðarlundirnar ikki minni spennandi – helst orsakað av, at tær ikki eru eins atkomuligar. Plantu og djóraheimurin har hava havt frið at mennast.</p>
+<p>Faldarin um lívið í, ímillum og undir trøunum í viðarlundum gevur vónandi borgarum eitt innlit í týdningin av vist og lívfrøðini í økinum. Tað er prógvað nógvar ferðir, at trivnaðurin hjá býarborgarum er neyvt tongdur at grønum økjum.</p>
+<p><em type="bold">Nýggj verkætlan </em>Tórshavnar Kommuna hevur játtað umhvørvisstuðul til framhald av verkætlanini: Náttúran í Havn  lívfrøðiligt margfeldi í bygdum øki. Sostatt verða í 2011 somuleiðis faldarar at síggja um vegjaðarar, vátøki og áir/áarbakkar. </p>
+<p><em type="bold">Gunda dalur er mest atkomiligur, tí har eru gøtur </em></p>
+<p><em type="bold">Náttúran í Havn – Lyngøki. </em>William Simonsen og Herborg Nyholm Debess. Føroya Náttúrugripasavn 2010. Stuðlað hevur Tórshavnar kommuna og prentað hevur Prenta. </p>
+<p><em type="bold">Náttúran í Havn – Viðarlundir, lívið undir, í og ímillum trø og runnar. </em>William Simonsen og Herborg Nyholm Debess. Føroya Náttúrugripasavn 2010. Stuðlað hevur Tórshavnar kommuna og prentað hevur Prenta. </p>
+<p><em type="bold">Náttúran í Havn – Strandarøki. </em>William Simonsen og Herborg Nyholm Debess. Føroya Náttúrugripasavn 2010. Stuðlað hevur Tórshavnar kommuna og prentað hevur Prenta. </p>
+<p><em type="bold">Fuglar í Norðurhøvum. </em>Søren Sørensen og Dorete Bloch. Føroya Skúlabókagrunnur. 1990. </p>
+<p><em type="bold">Keldur </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="nob">He</p>
+<p xml:lang="kmr">Rbo</p>
+<p xml:lang="nno">Rg Ny</p>
+<p xml:lang="sma">Holm Debess15</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Slóðbrótandi SkráSeting av omanlopum á vegir</p>
+<p xml:lang="nob"><em type="bold">Lis E. Mortensen </em>lm@jf.fo </p>
+<p>Jarðfeingi</p>
+<p>Slóðbrótandi skráseting avomanlopum á vegir</p>
+<p>Tann 18. september 2000 telist sum ein vandamikil dagur í Føroya søgu. Í glopraregninum henda seinnapartin lupu fleiri hundrað skriður í einum smølum øki frá Gravardali og undir Kjøli í Klaksvík, tvørturum suðurendan á Kunoynni og sunnaru helvt á Kalsoynni. Beltið við skiðulopum helt fram úr Oyndarfirði í Eysturoynni til alt økið við Saksun og Saksunardal á Streymoynni.</p>
+<p>Í raktu økjunum hendi nógvur skaði á hús, bø og vegir, men tíbetur mest sum eingin fólkaskaði. Vandafulla hendingin gjørdist ein ávaring um, at trupuleikin við omanlopum í Føroyum eigur at takast í fullum álvara. Nógvar verkætlanir eru settar í verk at kanna hesi fyribrigdi betur, so trygdin fyri fólk, fæ og ognir kann økjast.</p>
+<p>Ein av hesum verkætlanum er ein ph.d.-verkætlan í samstarvi millum Jarðfeingi, Roskilde Universitet og Norsk Geoteknisk Institut, har Mads-Peter Dahl kannar ítøkiligar umstøður kring skriðulop í Føroyum. Bjarni Petersen á vegadeildini hjá Landsverk, Mads-Peter og onnur hava bygt upp eina skrásetingarskipan, har vegaformenn hjá Landsverki hava ein GPS’ara og merkja upp øll lop á vegir, har neyðugt er at rudda. Einstøku hendingarnar verða lýstar og upplýsingarnar verða skipaðar í ein dátugrunn og lagdar á eitt teldutøkt kort.</p>
+<p>Skrásetingarnar hava verið skipaðar á henda hátt í stutta tíð. Upplýsingarnar verða koyrdar saman við</p>
+<p>Vit hoyra javnan um vandamikil omanlop á Víkarvegnum, Viðareiðisvegnum og aðrastaðni í Føroyum. Landsverk hevur í samstarvi við Jarðfeingi tikið stig til skipaða skráseting av omanlopum á vegakervið. Skrásetingarnar eru partur í kanningum at styrkja trygdina á vandamiklum vegastrekkjum.tulking av lendi, jarðfrøði og veðurviðurskiftum, og tær tekna longu nú eina mynd av, hví lop henda, har og tá tey henda.</p>
+<p>Tað sær út til, at skipanin hjá Landsverki kann gerast enn betri enn skipanir, sum vit kenna til í grannalondunum. Upplýsingarnar um skriðulopini og GPS-skrásetingarnar leiða longu nú til virðismikla nýggja vitan, sum innan stutta tíð kann økja trygdina á onkrum vegastrekki í Føroyum. Skrásetingarnar hava høga góðsku, og tað kann væl henda, at hetta virksemið fer at føra við sær slóðbrótandi vitan um omanlop, sum vit als ikki høvdu roknað við, og sum fer at verða eitt virðismikið íkast úr Føroyum til gransking av skriðulopum í Evropa.</p>
+<p xml:lang="deu">FRØÐI 1/201016</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?</p>
+<p>Ung í telduøldini</p>
+<p>Hvønn leiklut hevur teldan í gerandislívinum?</p>
+<p><em type="bold">Firouz Gaini </em>firouz@flsk.fo </p>
+<p>Fróðskaparsetur Føroya</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY17</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?</p>
+<p xml:lang="deu">FRØÐI 1/201018</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?</p>
+<p><em type="bold">Inngangur </em>Nógv hevur verið sagt og skrivað um teldur og alnet síðstu árini. Serliga hevur kjakið snúð seg um børn og ung, sum vaksa upp í einum tíðarskeiði, tá næstan alt virksemi, bæði heima og í skúla, er knýtt at talgildari samskiftis- og kunningartøkni. Hóast almenna kjakið í føroysku miðlunum er livandi, so er fakliga kjakið, sum grundar á vísindaligar kanningar, næstan ikki at hóma. Víst verður javnan til útlendskar kanningar, serliga úr Danmark og Norðurlondum, tá ljós verður varpað á teldunýtsluna hjá yngra ættarliðnum, men sjáldan verður viðkomandi føroyskt tilfar lagt á borðið. Spurningurin um leiklutin, teldan hevur í gerandislívi ungdómsins í dag, er áhugaverdur hjá teimum, ið ynskja at fáa betri innlit í sosialu, mentanarligu og útbúgvingarligu viðurskiftini í landinum. Námsfrøðingar og lærarar ávara viðhvørt um, at vandi er á ferð. Tó eru teir sera ósamdir um, hvørja ávirkan teldur og alnet hava á læring og menning hins einstaka. Orðaskiftið, sum um stríddu PISA- kanningarnar í føroyskum fólkaskúlum elvdu til, hevur avgjørt eisini vakt ein nýggjan almennan áhuga fyri kunningar- og samskiftistøkni í undirvísingarhøpi. </p>
+<p><em type="bold">Háttalag </em>Í hesi grein fari eg at leggja nøkur útvald úrslit av nýggjari norðurlendskari kanning um ung og vælferð fram. Umleið 14.000 ung úr øllum Norðurlondum (íroknað Føroyar, Grønland og Áland) luttóku í stóru spurnakanningini, sum fór fram á vetri 2009-2010. Úr Føroyum luttóku 1.472 ung úr tíggju skúlum kring alt landið. Talan var um miðnámsskúlar og útvaldar hægri lærustovnar. Luttakararnir vóru í 16-22 ára aldri – tó var ein minniluti eldri enn 22 ár. Kvinnurnar umboðaðu 56 prosent av luttakarunum. Spurnakanningin fór fram í skúlastovunum og tók umleið tveir skúlatímar. Í hesi grein hyggja vit einans at føroysku úrslitunum. Ein onnur spurnakanning, sum eisini verður nevnd í hesi grein, er kanningin um KT og alnetnýtslu í føroyska fólkaskúlanum, sum Dátueftirlitið gjørdi í januar 2010. Í hesi kanningini vóru 349 luttakarar úr triðja, fjórða, áttanda og níggjunda flokki. Eisini her umboðaðu kvinnurnar 56 prosent av luttakarunum. Sostatt verða nøkur rættiliga nýggj úrslit viðgjørd í hesum teksti, sum vónandi kann geva eina ábending um, hvørji rák og mynstur eyðkenna ungdómin og samfelagið í dag. </p>
+<p><em type="bold">Hóast almenna kjakið í føroysku miðlunum er livandi, so er fakliga kjakið, sum grundar á vísindaligar kanningar, næstan ikki at hóma </em>19 </p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?</p>
+<p>Har einki annað er viðmerkt, so eru tølini tikin úr fyrstnevndu kanning.</p>
+<p><em type="bold">Úrslit og framløga </em>Spurningurin um at hava atgongd til alnetið er ikki longur serliga forvitnisligur, eftirsum at næstan øll, sum búgva í Føroyum, hava skjóta og ómakaleysa atgongd til netið í dag. 96 prosent av teimum spurdu siga seg hava væl nøktandi atgongd til alnetið í gerandisdegnum. Og enn fleiri svara tað sama viðvíkjandi atgongdini til teldur í gerandisdegnum. </p>
+<p>Tað, sum ung ofta sakna, er skjótari og bíligari alnet. Menningin á økinum gongur við rúkandi ferð, og eingin fylgir gongdini neyvari enn yngra ættarliðið. Serliga tey mongu, ið brúka teldur til spøl og filmar, krevja nógv av hátøkniliga, talgilda tólinum. Føroysku miðnámsskúlarnir eru eftirhondini lutfalsliga væl útgjørdir, tá talan er um samskiftis- og kunningartøkni. Heili 70 prosent av teimum spurdu siga skúlarnar hava góðar telduhentleikar. Og 79 prosent svara, at atgongdin til alnetið í skúlunum er góð. Hetta fortelur okkum</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY</p>
+<p xml:lang="deu">FRØÐI 1/201020</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?tó ikki, hvat teldurnar á lærustovnum í grundini verða brúktar til. Amboðini eru har, men verða tey brúkt til upplýsing og læring? Ella til okkurt heilt annað? Tað, vit vita fyri vist, er, at børn og ung eru nógv <span type="quote">“á netinum”</span>.</p>
+<p>Føroyskir ungdómar eru stórnýtarar av sjónvarpi og DVD. Hóast vit liva í eini sonevndari telduøld, so er sjónvarpið als ikki farið í søguna. Sjónvarpið sum miðil flytir seg eisini inn í nýggja talgilda rákið. Um vit kanna eftir, hvussu nógva tíð tey ungu brúka til sjónvarp og DVD (umframt VCR og blue ray), so fáa nógv foreldur ein skelk. Næstan ein fimtingur – 17 prosent – brúkar meira enn fimm tímar um dagin til sjónvarp og DVD. Hetta er norðurlendskt met. Helvtin av ungdóminum brúkar meira enn tríggjar tímar um dagin til hesi ítrivini. Tølini er munandi hægri enn tey, sum fleiri grannalond okkara kunnu vísa. Einans 13 prosent av teimum spurdu siga seg næstan ongantíð hyggja í sjónvarp ella DVD. Vit kunnu sláa fast, at teldurnar ikki hava avloyst sjónvarpið, men heldur økt um miðlanýtsluna hjá ungum føroyingum. Tey ungu í Føroyum brúka sum heild ikki minni tíð til teldur og alnet enn onnur ung í Norðurlondum. Flestu húsarhaldini í Føroyum hava atgongd til alskyns útlendskar sjónvarsprásir umvegis Televarpið ella parabol. Sjónvarpið kann viðhvørt vera ímyndin av einum sosialum, <span type="quote">“hugnaligum”</span> miðli enn til dømis alnetið, hóast sjónvarpshyggjarin eyðsæð er sera passivur í mun til tólið, hann situr og hyggur inn í.</p>
+<p>Telduspøl, hóast ofta umrødd í kenslubornum almennum kjaki, fylla lutfalsliga lítið í miðlanýtsluni hjá vanligum føroyingum í 16-22 ára aldri. Dreingir hava sum heild størri áhuga fyri telduspølum á alnetinum enn gentur. Meira enn helvtin av ungdóminum sigur seg næstan ongantíð spæla spøl á alnetinum. Einans sjey prosent brúka meira enn fimm tímar um dagin til ítrivið. Í hesum bólkinum av stórspælarum er ein minni bólkur – lutmentan – sum brúkar upp til 10 tímar um dagin til spøl. Hesi síðstnevndu ungu eru í vanda fyri at liva eitt lív uttan sterk sosial sambond í frítíð og skúla. Næstan 15 prosent av ungdóminum brúkar meira enn tríggjar tímar um dagin til telduspøl. Tað er heilt klárt, at spølini ikki eru tað, sum lokkar flest fólk út á netið. Tá vit hyggja nærri at kendum samskiftisrásum (t.d. MSN, Facebook og Twitter), so koma heilt onnur úrslit fram. Heili 48 prosent av ungdóminum brúka meira enn tríggjar tímar um dagin til hesi ítrivini. Einans átta prosent siga seg næstan ongantíð brúka hesar rásirnar á alnetinum. Sum heild, so brúka umleið 70 prosent av ungdóminum teldur heima hvønn dag.</p>
+<p>Um vit nú fara til føroyska fólkaskúlan og seta sjóneykuna á nøkur úrslit úr kanningini hjá Dátueftirlitinum, so síggja vit beinanvegin, at ung í framhaldsdeildini eisini hava eina stóra teldunýtslu í gerandisdegnum. 64 og 74 prosent av næmingunum í ávikavist áttanda og níggjunda flokki brúka alnetið hvønn dag. Eingin í níggjunda flokki brúkar alnetið færri enn 4-5 ferðir um vikuna. Tá tey ungu eru á alnetinum, so brúka</p>
+<p><em type="bold">Føroyskir ungdómar eru stórnýtarar av sjónvarpi og </em></p>
+<p xml:lang="nob"><em type="bold">DVD </em></p>
+<p><em type="bold">Dreingir hava sum heild størri áhuga fyri telduspølum á alnetinum enn gentur </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY21</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?33 og 44 prosent av teimum í ávikavist áttanda og níggjunda flokki meira enn tveir tímar til endamálið. Meira enn 70 prosent av næmingunum í níggjunda flokki eru í minsta lagi ein tíma á alnetinum í senn. Altjóða samskiftisrásir eru ómetaliga væl umtóktar í hesum aldursbólkinum. So at siga øll úr áttanda og níggjunda flokki hava ein <span type="quote" xml:lang="ron">“profil”</span> á alnetinum. Næstan øll – meira enn 95 prosent – eru skrásettir luttakarar á Facebook. Eisini MSN hóskar til ynskini hjá ungdóminum: heili 93 og 91 prosent av ungdóminum í ávikavist áttanda og níggjunda flokki hevur profil her. Síðan kemur danska rásin Arto. Aðrar kendar rásir eru t.d. YouTube og MySpace. Longu í triðja og fjórða flokki hava nógv føroysk børn royndir á alnetinum. Tey 9-10 ára gomlu hava í nógvum førum egna teldu við alnetsambandi, ið foreldrini loyva teimum at brúka í frítíðini.</p>
+<p>Um vit síðan fara aftur til miðnámsskúlarnar og hyggja nærri at sosiala samskiftinum millum vinfólk og kenningar á alnetinum, so verður týðiliga staðfest, at alnetið er ein sera týðandi samskiftismiðil í okkara tíð. Kvinnur eru, sambært kanningini, raskari enn menn at brúka alnetið til at røkja vinarbond. 48 og 41 prosent av ávikavist kvinnum og monnum hava dagligt – ella næstan dagligt – samband við vinir umvegis alnetið. 6 og 11 prosent av ávikavist kvinnum og monnum hava næstan ongantíð samskifti við vinir á alnetinum. Alnetið verður, sum kunnugt, bæði brúkt til samskifti við persónar, ein kennir frammanundan, og persónar, ið eru fremmandir. Serliga á kjattrásum hjá ungdómi er vanligt at <span type="quote" xml:lang="fkv">“hitta”</span> persónar, sum ein annars ikki hevur havt nakað samband við í lívinum. Hvussu vanligt er at hitta ein persón í veruliga lívinum, eftir at fyrst hava fingið samband á alnetinum? Meira enn helvtin av ungdóminum – bæði kvinnur og menn – siga seg ongantíð hava lært nakran at kenna á alnetinum, sum tey síðan hava hitt í veruliga lívinum. 15 og seks prosent av ávikavist monnum og kvinnum hava roynt hetta í minsta lagi fýra ferðir. Hesi tølini samsvara nøkunlunda við úrslitini úr grannalondum okkara.</p>
+<p><em type="bold">Greining og niðurstøður </em>Tað er lætt at staðfesta, at teldan og alnetið umboða ein ómissandi part av gerandislívinum hjá flest øllum føroyingum yvir átjan ár í dag. Eisini er greitt, at teldurnar í stóran mun verða brúktar til spæl, undirhald og sosiala samveru. Børn heilt niður í 9-10 ára aldur eru von at brúka alnetið til mangt og hvat. Samstundis vísa tølini úr nýggju kanningunum, at ung brúka rættiliga nógva tíð til sjónvarp og DVD, ið annars ofta verða lýst sum <span type="quote" xml:lang="isl">“eldri”</span> útgávur av elektroniskari samskiftistøkni. Vit hava eisini fingið at vita, at tey ungu meta skúlarnar hava góða nútímans telduútgerð. Tað, vit kanska eru í iva um, er á hvønn hátt tey ungu brúka teldur </p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY</p>
+<p xml:lang="deu">FRØÐI 1/201022</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY23</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Ung í teldUøldini - Hvønn leiklUt HevUr teldan í gerandislívinUm?og alnet á undirvísingarstovnum kring landið. Tað er stórur munur á at eiga teldu og at brúka teldu (til ávíst fakligt endamál). Fleiri norðurlendskar kanningar hava víst, at hóast ung brúka teldur fleiri tímar um dagin, bæði heima og í skúla, so er ongin trygd fyri, at teldan verður brúkt sum námsfrøðiligt og fakligt hjálparamboð í skúlastovuni. Tað er onki beinleiðis samband millum góðar næmingar (góð úrslit) og nýtslu av samskiftistøkni í skúla. Viðhvørt kunnu teldurnar vera meira til fortreð enn gagn í skúlahøpi.</p>
+<p>Danski útbúgvingargranskarin Arnt L. Vestergaard, sum hevur kanna teldunýtsluna hjá lesandi á HHXútbúgvingum, sigur: <em type="italic">“En under visningssituation skulle jo gerne være et fælles rum for dialog, men hvis halvdelen af eleverne er lukket inde i skærmen, kan det jo ikke lade sig gøre, og der må opstå en underlig læringssituation” </em>. Hetta er ein lýsing, sum eins væl kundi víst til føroyskar miðnámsskúlar. Nógv lesandi í stórum skúlaflokkum, sigur hann, krógva seg aftan fyri skíggjan – eru friðarlig, men læra heldur einki. Tað er ein mýta, staðfestir Arnt, at ung skulu vera føddir KTserfrøðingar. Tey ungu sakna tvørturímóti vegleiðing og stýring í mun til teldunýtslu í skúlaflokkinum. Ofta gloyma lærararnir eisini, at teldan skal brúkast námsfrøðiliga. Tey ungu kunnu lættliga finna tilfar á alnetinum, men hvat skal tað brúkast til? Nógvir miðnámsskúlalærarar hava eisini uppdagað, tá teir standa aftast í skúlastovuni, at tær flestu tendraðu teldurnar á borðunum sýna fjølbroytt óviðkomandi tilfar fram: Facebook, Arto, YouTube, ítróttartíðindi, fotoalbum o.s.fr. Hví ikki lata tey lesandi viðhvørt vísa læraran fakligu notatini á telduni, spyr danski útbúgvingargranskarin. </p>
+<p>Ung liva í eini telduøld, ið broytist ár undan ári.</p>
+<p>Upplýsingar um teldunýtsluna ár 1995 ella 2000 eru lítið verdir í dag. Rákini og mynstrini hava stutta livitíð. Stóra avbjóðingin fyri samfelagið er at fáa børn og ung at brúka teldur og alnet á ein námsfrøðiliga og fakliga skynsaman hátt á øllum útbúgvingarstovnum. Hetta krevur, at lærarar og námsfrøðingar eru fyrireikaðir til uppgávuna, ið er meira krevjandi, enn tey flestu geva sær far um. Haraftrat er neyðugt at tora at siga, at viðhvørt er líka gott at sløkkja telduna og taka eitt reint pappírsblað fram. Tað snýr seg í stóran mun um at brúka telduna, tá hon stuðlar, og at skúgva hana til síðis, tá hon forðar.</p>
+<p><em type="bold">Ung liva í eini telduøld, ið broytist ár undan ári </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">Ma</p>
+<p xml:lang="vep">RtIn SIRKOVSKY</p>
+<p xml:lang="deu">FRØÐI 1/201024</p>
+<p>Metylkyksilvur í grindahvali</p>
+<p xml:lang="olo">Metylkyksilvur ígrindahvali</p>
+<p>Nógv hava hoyrt um kyksilvurið í grindahvali, men færri vita kanska, at kyksilvur er ikki alt líka, men kemur fyri í fleiri tilbrigdum. Tá ið vit tosa um kyksilvur í mati, er tað serliga tað slagið, sum vit nevna metylkyksilvur, sum vit eru áhugað í.</p>
+<p xml:lang="eng"><em type="bold">Maria Dam </em>mariad@us.fo </p>
+<p xml:lang="nno">Umhvørvisstovan</p>
+<p xml:lang="kmr"><em type="bold">Myn </em></p>
+<p xml:lang="olo">Ka</p>
+<p xml:lang="vep">TRIN</p>
+<p>Hoydal25</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Metylkyksilvur í grindahvali</p>
+<p>Lat tað vera sagt, at tá ið vit tosa um mat í sama viðfangi sum metylkyksilvur, er tað fyrst og fremst í fiski og havsúgdjórum, at hetta er áhugavert, tí tað eru hesi føðievnini, sum innihalda ella rættari, sum kunnu innihalda, høgar nøgdir av metylkyksilvuri (sí kassan til høgru). Kyksilvurinnihaldið í fiski og havsúgdjórum er natúrliga høgt, men kann sjálvandi hækka, um kyksilvur verður latið út í umhvørvið. Tað ber eisini til at fáa høgt kyksilvurinnihald í øðrum matvørum, men so er tað tí, at tey eru framleidd við ella úr dálkaðum tilfari.</p>
+<p>Kyksilvur er natúrligt. Tað er eitt grundevni, sum bleiv skapað saman við øðrum metalum og grundevnum, sum jarðarknøtturin er gjørdur av. Kyksilvur kann tó fáast í ringrás í vistskipanini, tá ið vit taka kyksilvurið upp úr undirgrundini og sleppa</p>
+<p>Tá ið serfrøðingar tosa ella skriva um dálkingarevni í einum ella øðrum, antin tað er matur ella ikki, so nýta teir heitið konsentratión. Konsentratiónin lýsir nøgd av einum evni per mongdareind av onkrum. Sostatt er talan um eitt mát, sum ikki er tongt at, hvussu stór tilfarsmongdin er, sum dálkingarevnið er í. Tað ber til at samanbera nøgdina av dálkingarevni í einum kilo av fiski við ta, sum er í t.d. einum kilo av tomatum. Heitið nøgd merkir rætt og slætt konsentratión * massi. Ofta kann heitið nøgd tó eisini nýtast tá ið man av røttum átti at brúkt konsentrasjón, serliga tá móttakararnir ikki eru serfrøðingar sum so, tí flest okkara hava lætt við at síggja, at nøgdin av dálkingarevni í einum ella øðrum er tongd at, hvussu stóra rúgvu av tilfari talan er um.</p>
+<p xml:lang="deu">FRØÐI 1/201026</p>
+<p>Metylkyksilvur í grindahvalití leyst. Hetta kann antin vera tí, at tað er blandað upp í okkurt annað tilfar sum verður tikið upp, t.d. tilfar til metalídnaðin, kol, ella tí vit skulu brúka kyksilvurið sjálvt. Tó, eisini aðrar tilgongdir loysa kyksilvur. Bæði sovorðnar, sum vit onga ávirkan kunnu hava á, sum tá ið eldgos eru, ella sum tá ið stórar nøgdir av lívfrøðiligum tilfari verður brent. Hetta kann sjálvandi eisini vera nakað, sum vit onga ávirkan hava á, men ofta snýr tað seg um tilvitaðar tilgongdir. Í 2010 mettu granskarar, sum samstarva í arktiska AMAP bólkinum, um hvussu stórt samlaða útlátið var av kyksilvuri um allan jørðina í 2005. Tey komu fram til, at samlaða mannaelvda útlátið av kyksilvuri var umleið 2000 tons um árið (Wilson et al., 2010). Hetta svarar til umleið ein triðing av samlaði útlátinum, sum er mett at vera um 7000 tons árliga. Hinir báðir triðingarnir stava frá natúrligum tilgongdum, sum vit onga ávirkan hava á.</p>
+<p>Kyksilvur er eitt heilt serligt metal, tí tað er flótandi við stovuhita og hevur sostatt eisini eitt rættuliga stórt guvutrýst í vanligum hita. Tað merkir, at kyksilvur, sum guvar upp í luftina, kann flytast langar leiðir við lofthavinum, áðrenn tað verður deponerað á jarðarskorpuna aftur. Tá ið kyksilvur kemur inn í vistskipanina, verða partar av tí umskapað av m.ø. bakterium til metylkyk silvur. Metyl kyksilvur verður upptikið og fasthildið í livandi verum í størri mun enn ólívrunnið kyk silvur og fer inn í heilan, har tað elvir til skaða. Markvirðini, sum m.a. ES og Føroyar hava samtykt fyri nøkur sløg av matvøru, eru fastsett við støði í tí eiturárini, sum metylkyksilvur hevur. Men ofta verður metylkyksilvur ikki kannað fyri seg, heldur er tað tann samlaða mongdin av kyksilvuri, sum verður kannað, tí tað kann gerast við einum nógv lættari kanningarhátti, sum krevur minni arbeiði í kanningarstovuni.</p>
+<p>Fyrstu ferð, almenningurin í Føroyum varð kunnaður um møguligan vanda við kyksilvuri og DDT í grindahvali, man hava verið í eini grein, sum Andrias Reinert skrivaði í Magn í oktobur 1976. Í greinini vórðu kanningarúrslit av einum úrvali av skordýraeiturevnum umframt PCB og kyksilvuri í sjófugli og grindahvali úr Føroyum løgd fram. Kanningarnar vórðu gjørdar í Skotlandi og fevndu um spik og livrasýni av 4 grindahvalum, men eingi tvøstsýni.</p>
+<p>Í 1977 blivu 10 hvalir úr drápinum í Hvalba í juni mánaði kannaðir fyri kyksilvur og metylkyksilvur umframt selen og eitt úrval av øðrum metalum. Í 1978 vórðu grindahvalir úr drápinum í Hvanna sundi í mars mánaði kannaðir; tá vórðu 18 hvalir umframt tveir óføddir hvølpar kannaðir. Úrslitini frá hesum báðum grindunum eru almannakunngjørd í Juelshamn <em type="italic">et al. </em>1987. </p>
+<p>Fyrstu ferð metylkyksilvur varð kannað í grindatvøsti varð í sýnum, sum vóru tikin í 1977 og 1978. Aðru ferð var í 2009. Í tíðini millum hesar metylkanningar eru sjálvandi ein ørgrynna av grindahvalasýnum kannað fyri kyksilvur, kadmium, PCB og skordýraeiturevni, men tað verður ikki umrøtt her. Úrslitini frá hesum kanningum eru millum annað savnað í <span type="quote">“Føroya Umhvørvi í tølum 2003”</span>, og fleiri úrslit eru til taks á alnetinum á heimasíðuni hjá Umhvørvisstovuni (far inn undir ENVOFAR, og fylg síðani slóðini).</p>
+<p><em type="bold">Kyksilvur er eitt heilt serligt metal, tí tað er flótandi við stovuhita og hevur sostatt eisini eitt rættuliga stórt guvutrýst í vanligum hita </em></p>
+<p><em type="bold">FO og ES markvirði </em></p>
+<p>ES reglugerðin <span type="quote" xml:lang="dan">“KOMMISSIONENS FORORDNING (EF) Nr. 1881/2006 af 19. december 2006 om fastsættelse af grænseværdier for bestemte forurenende stoffer i fødevarer”</span> varð sett í gildi í Føroyum 1. desember 2009.</p>
+<p>Har eru millum annað hesi markvirði fyri kyksilvur ásett:</p>
+<p xml:lang="est">Kostískoyti: 0.1 mg/kg</p>
+<p xml:lang="est">Fiskur I*: 0.5 mg/kg</p>
+<p>Fiskur II**: 1.0 mg/kg*Fiskur I: Fiskur og fiskavørur yvirhøvur, uttan teir, sum eru nevndir í Fiski II. **Fiskur II: Til dømis kongafiskur, hávur, tunfiskur, állur og kalvi.</p>
+<p><em type="bold">Kyksilvurtilbrigdi </em></p>
+<p><em type="bold">Ólívrunnið kyksilvur: </em>Hg0 metylkyksilvur ion </p>
+<p xml:lang="nno">Hg22+ ion-form (mercurous)</p>
+<p xml:lang="swe">Hg2+ ion-form (mercuric) mest vanligt</p>
+<p><em type="bold">Lívrunnið kyksilvur: </em></p>
+<p xml:lang="nno">CH3Hg+ metylkyksilvur ion</p>
+<p xml:lang="est">CH3HgCH3 dimetylkyksilvur</p>
+<p xml:lang="est">CH3CH2Hg+ etylkyksilvur ion</p>
+<p xml:lang="nno">C6H5Hg+ fenylkyksilvur ion27</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Metylkyksilvur í grindahvali</p>
+<p><em type="bold">Úrslit </em>Innihaldið av metylkyksilvur eins og samlað kyksilvur í grindatvøsti er víst í talvu 1. Vit síggja, at í miðal var innihaldið av samlaðum kyksilvuri í hesum fýra bólkunum úr 3.3 mg/kg í sýnunum, sum vórðu tikin í Hvalba í 1977 og niður í 0.8 mg/kg í sýnunum, tikin í Hvalvík í 2009. Hetta skal tó ikki tulkast sum um kyksilvurinnihaldið er minkað, tí tað kunnu vit ikki nýta hesi úrslitini til at staðfesta. Orsøkin til, at vit ikki kunnu nýta hesi úrslitini til at siga nakað um gongdina í kyksilvuri í grindahvali yvirhøvur, er, at til at gera tað, so er neyðugt at fara munandi neyvari til verka, til dømis við bara at hyggja at hvali í einum ávísum aldursbólki og kanska eisini bert av antin kall- ella kvennfiski, ikki báðum. Hetta er neyðugt, tí vit vita, at kyksilvurmongdin í grindahvali veksur við aldrinum á hvalinum - um so er, at hvalurin heldur á at eta javnan somu føði við sama innihaldi av kyksilvuri. Harumframt eru eisini ábendingar um, at kall- og kvennfiskar ikki eta somu føðina alt lívið, men at úrvalið av føði broytist bæði við kyni og aldri (Desportes og Mouritsen 1993). Nú er tað ikki so lætt at kanna aldur á hvali, men kenna vit longdina, ber til at ætla um, hvussu gamal grindahvalurin var, tá ið hann legði beinini. Hetta kunnu vit gera, tí at tær nógvu og neyvu kanningarnar, sum blivu gjørdar av grindunum í 1986-1988, hava víst á eitt samband millum aldur, sum lisið úr hvalatonnum og longdina av hvalinum </p>
+<p><em type="bold">Talva 1. Metylkyksilvur og samlað kyksilvur í grindahvali. </em></p>
+<p xml:lang="isl">Keldur: 1977 og 1978 úrslit eru úr Juelshamn <em type="italic">et al. </em>1987. 2009 úrslit er frá Umhvørvisstovuni. </p>
+<p xml:lang="isl"><em type="bold">Ár 1977 1978 2009 2009 </em></p>
+<p>Grindavág</p>
+<p>Hvalba Hvannasund Hvannasund</p>
+<p>Hvalvík</p>
+<p xml:lang="nno">Dagfesting grindadráp jun-77 mar-78 5. jan-2009 23. mai-2009</p>
+<p>Tal av hvalum kannaðir 10 18 15 15*</p>
+<p xml:lang="nob">Miðal samlað kyksilvur, mg/kg tvøst (standard frávik) 3.3 (1.7) 1.5 (0.7) 1.4 (0.8) 0.9 (0.6)</p>
+<p xml:lang="nob">Miðal metylkyksilvur, mg/kg tvøst (standard frávik) 1.6 (0.4) 0.8 (0.4) 1.4 (0.7) 1.2 (0.6)</p>
+<p>Miðal lutfall ml. metylkyksilvur og samlað kyksilvur, % 48 52 101 104</p>
+<p><em type="bold">Kann metylkyksilvur vera meira enn 100% av kyksilvuri? </em></p>
+<p>Lutfallið millum metylkyksilvur og samlað kyksilvur í 2009 sýnunum er roknað til at vera meir enn 100 %. Tað kann sjálvandi ikki vera rætt, so hetta er eitt úttrykk fyri, at her er ein ávís mátióvissa. Samlað kyksilvur er mátað á eini kanningarstovu (Heilsufrøðiligu starvsstovuni) og metylkyksilvur er mátað á einari aðrari (IVL, Gøteborg), og starvsstovurnar hava vanliga ein mátióvissu, sum er um 10% fyri sovorðnar kanningar. Undir óhepnum umstøðum togar óvissan sama veg, og tá kunnu vit fáa upp í 20% skeivleika. Afturat óvissuni, sum stavar frá evnafrøðiligu kanningunum sjálvum, er eisini ein óvissa, sum stavar frá, hvussu sýnið varð tikið, ella rættari býtið millum blóð, vætu og vevnað í sýninum.</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="olo">Kat</p>
+<p>RIn Hoydal</p>
+<p><em type="bold">Mynd 1. Sýnistøka í Hvalvík 23. mai 2009. </em></p>
+<p xml:lang="deu">FRØÐI 1/201028</p>
+<p>Metylkyksilvur í grindahvali</p>
+<p><em type="bold">Keldur </em></p>
+<p xml:lang="eng">Bloch, D., Lockyer, C. og Zachariassen, M. 1993. Age and growth parameters of the long-finned pilot whale off the Faroe Islands. In: Donovan, G.P., Lockyer, C.H., Martin, A.R., Biology of Northern Hemisphere Pilot Whales. International Whaling Commission, Special issue no 14, 163-207.</p>
+<p xml:lang="eng">Desportes, G. og Mouritsen, R. 1993. Preliminary results on the diet of long-finned pilot whales of the Faroe Islands. In: Donovan, G.P., Lockyer, C.H., Martin, A.R., Biology of Northern Hemisphere Pilot Whales. International Whaling Commission, Special issue no 14, 305-324.</p>
+<p xml:lang="eng">Juelshamn, K., Astrup, A., Ringdal, O. og Mørkøre, J. 1987. Trace elements intake in the Faroe Islands I. Element levels in edible parts of pilot whales (Globicephalus meleanus). The Science of the Total Environment 65, 53-62.</p>
+<p xml:lang="nno">Wilson, S., Munthe, J., Sundseth, K., Kindbom, K., Maxson, P., Pacyna, J. and Steenhuisen, F. 2010. Updating Historical Global Inventories of Anthropogenic Mercury Emissions to Air. AMAP Technical Report No. 3 (2010), Oslo, Norway. (www.amap.no)sum verður mátað við einum málibandi, í hvussu so er upp til eitt vist (Bloch et al., 1993).</p>
+<p>Hetta er nøkulunda tað sama sum við okkum menniskjum. Vita vit hæddina, kunnu vit í ein vissan mun ætla um aldurin á einum barni - ella einum ungdómi, tá ið vit vita, hvørt tað snýr seg um gentu ella drong. Tá ið fólkið er vaksið og gamalt, ber tað sjálvandi ikki longur til at siga nakað um aldurin út frá einum hæddarmáti. Hjá hvali er eitt sindur øðrvísi, við tað at hvalurin, kallfiskurin serliga, heldur á at vaksa, eisini aftan á at hann er vorðin tilkomin, so málibandshátturin til at meta um aldur er bara ein grov meting, sum riggar best, tá ið longdartilvøksturin er upp á tað mesta hjá hvalinum, tað vil siga meðan hann er ungur.</p>
+<p>Tilfarið, sum er til taks her í talvu 1, er ófullfíggjað í mun til at staðfesta neyvt, hvat aldur og kyn hvalirnir í talva 1 høvdu. Til dømis kenna vit bara miðalinnihaldið av dálkingarevnum fyri 10 hvalir í grindin frá juni 1977, og vit vita einki um kyn og aldur ella longd. Hvalirnir úr Hvannasundi í 1978 eru lýstir við skinna tølum, men einki kyn er tilskilað. Í sýnum frá somu grindavág í 2009 vita vit bæði longd og kyn, men á grindahvalunum úr Hvalvík 2009 kenna vit skinnatølini og kyn, men ikki longdirnar. Skinnatalið kann vera svikaligt, bæði tí tað krevur nógv av metingarførleikanum hjá metingarmonnum at áseta eitt skinnatal, sum líkist tí, sum verður brúkt aðrastaðni í landinum fyri ein javnstóran hval, serliga tí, at tað kann vera annað enn longdin av hvalinum, sum avger, hvat skinnatal verður ásett. Tó fyri stuttleika kann innihaldið av metylkyksilvuri sammetast við skinnatalið á hvalinum, sum gjørt í mynd 3. Áhugavert er, at tað tykist vera stórt samsvar millum innihaldið av metylkyksilvuri í mun til skinnatal í sýnunum frá 1978 og teimum, sum vórðu tikin 31 ár seinni í Hvalvík 2009. Ein stórur munur er tó millum sýnini, sum vórðu tikin í 1977 og 1978, og tey, sum vórðu tikin í 2009, og tað er, at lutfalsliga innihaldið av metylkyksilvur yvirhøvur er nógv hægri í 2009 enn í teimum fyrru sýnunum. Tað sæst týðiliga í talvu 1, har lutfallið av metylkyksilvuri í mun til samlaða inni haldið av kyksilvuri er um 50% í 1977/1978, í 2009 var tað 100% (sí kassi <span type="quote">”Kann metylkyksilvur vera meira enn 100% av kyksilvuri”</span>).</p>
+<p>Um hetta, at metylkyksilvur í 2009 var dupult so høgt sum í 1977/78 er eitt mynstur, sum er galdandi eisini fyri hval úr øðrum grindum, vita vit ikki. Grindasýni frá 1970unum eru neyvan til taks, men sýni úr stóru grindakanningunum í 1980unum eru á goymslu á Føroya Náttúrugripasavni. Eisini eru sýni á goymslu á Umhvørvisstovuni, tikin frá mitt í 1990unum. So tað hevði borið til at kanna hetta nærri.</p>
+<p>Metylkyksilvur, sum er í grindatvøsti, stavar frá tí, sum hvalurin hevur etið. Grindahvalur etur høgguslokk, men eisini fisk; Geneviéve Desportes og Rógvi Mouritsen (1993) kannaðu magainnihaldið í 857 hvalum, sum vórðu tiknir úr 44 grindum í tíðarskeiðinum 1986-1989, og hesi sýnini umboðaðu føðiúrvalið hjá grindahvali allar ársins mánaðir. Frøðingarnir funnu, at grindahvalur í høvuðsheitum át agnhøgguslokk ( <em type="italic">Todarodes sagittatus </em>) og minni høgguslokkasløg, sum nevnast </p>
+<p xml:lang="eng"><em type="bold">Mynd 2. </em></p>
+<p><em type="bold">Sýni, sum skulu kannast fyri kyksilvur og PCB verða tikin á sama stað á hvalinum. Tá ið ein lítil fýrakantur manglar, sum her á myndini, so er tað tí vit á Umhvørvis stovuni hava tikið sýni til at kanna fyri dálkingarevni. </em></p>
+<p><em type="bold">Myndin er tikin í Vestmanna 24-6-2010. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="olo">Kat</p>
+<p>RIn Hoydal29</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Metylkyksilvur í grindahvali</p>
+<p><em type="italic">Gonatus sp. </em>. Okkurt slag av høgguslokki varð funnið í heili 92,5% av hvalamagum, har ávísast kundi leivdir av føði, og týðiligt var, at grindahvalur tekur agnhøgguslokk fram um annað, um hann hevur nakað val. Fiskur var tó eisini funnin í 24,3 % av magunum, og tá helst gulllaksur ( <em type="italic">Argentina silus </em>) og svartkjaftur ( <em type="italic">Micromesius poutassou </em>). Tað er væl kent, at tað kyksilvurið, sum er í fiski, er serliga metylkyksilvur. Vit vita minni um, hvat slag av kyksilvuri er í agnhøgguslokki. Hinvegin so eru fáar ella ongar kanningar gjørdar av kyksilvuri í gulllaksi og svartkjafti um okkara leiðir, so ikki ber til at gera </p>
+<p xml:lang="eng"><em type="bold">Mynd 3. </em></p>
+<p><em type="bold">Innihaldið av metylkyksilvuri í tvøsti er víst sum funksjón av støddini á hvalinum í skinnum. Tað hevði borið til at býtt hvalirnar úr Hvalvík 2009 í kallfiskar og kvennfiskar, men ikki hvalirnar úr Hvannasundi í 1978, tí hesar upplýsingar eru ikki tøkar. </em></p>
+<p xml:lang="isl"><em type="bold">Keldur: 1978 úrslit eru úr Juelshamn </em>et al. <em type="bold">1987. 2009 úrslit eru frá Umhvørvisstovuni. </em></p>
+<p xml:lang="eng">Mynd 1</p>
+<p>Innihaldið av metylkyksilvuri í tvøsti er víst sum funksjón av støddini á hvalinum í skinnum. Tað  hevði borið til at býtt hvalirnar úr Hvalvík 2009 í kallfiskar og kvennfiskar, men ikki hvalirnar úr  Hvannasundi í 1978, tí hesar upplýsingar eru ikki tøkar.  Keldur:  1978 úrslit eru úr Juelshamn  <em type="italic">et al. </em> 1987. 2009 úrslit eru frá Umhvørvisstovuni. nakrar metingar, hvørt broytingar í føðival millum hesi mest vanligu føðievnini kann hava nakra ávirkan á kyksilvurinnihaldið - og enn minni so á innihaldinum av metylkyksilvuri. Vónandi fer at bera til at fáa gjørt nakrar sovorðnar kanningar um ikki so drúgva tíð. </p>
+<p>Týðandi tænastur, tá tær tørvar</p>
+<p xml:lang="sme">TINGLÝSING FÓLKAYVIRLIT DÁLKING OG VERND GRANSKING VIÐARVØKSTUR OG FRÍLENDI MATRIKUL OG ÚTSKIFTING KORT OG ADRESSUR</p>
+<p xml:lang="deu">FRØÐI 1/201030</p>
+<p>Veggjalýs eru komnar til Føroya</p>
+<p>Veggjalýs eru komnar til Føroya</p>
+<p>Føroyingar ferðast nógv í dag. Tískil er vandin stórur fyri at fáa óynskt djór, sum t.d. veggjalýs heim við sær aftur. Fyrstu ferð, ið Náttúrugripasavnið hoyrdi um veggjalýs, var í 1999. Tað eydnaðist tíbetur at beina fyri teimum við alla, áðrenn tær vóru komnar út um gátt. Men í oktober 2009 fekk Djóradeildin fráboðan um veggjalýs í tveimum støðum í Tórshavn, og kanska einum triðja við – og alt innanfyri eina viku.</p>
+<p><em type="bold">Veggjalúsin er eitt gamalt evropeiskt djór </em>Hildið verður, at veggjalúsin er eitt djór, ið hevur fylgt menniskjanum frá tí, vit livdu sum hellisbúgvar (sí mynd 1). Tey djórini, ið eisini liva í hellum, flogmýs, svalir og sveimarar, hava øll veggjalýs, ið líkjast okkara, og viðhvørt kunnu teirra veggjalýs eisini bíta menniskju. Roknað verður við, at veggjalýs frá hinum hellisdjórunum hava broytt seg við tíðini til okkara veggjalýs. At veggjalýs koma úr tí gamla heiminum, verður grundað við, at øll tey indoeuropeisku málini hava eitt navn fyri veggjalýs, men ikki málini í tí nýggja heiminum. </p>
+<p><em type="bold">Lívið hjá eina veggjalús </em>Veggjalúsin er eina teka og ikki ein lús, og á latíni eitur hon <em type="italic">Cimex lectularius </em>. Sum aðrar tekur hevur veggjalúsin súgvinev (sí mynd 2). Flestar tekur súgva plantusevju, men veggjalúsin livir bara av blóði. </p>
+<p>Veggjalúsin er ein reyðbrún teka, ið sum vaksin er upp móti 1 cm til longdar. Hon dugir ikki at flúgva, hevur bert smá veingjaskapilsi, eins og ektaðar lýs og fuglaloppur1. Kvennveggjalúsin víggjar 4-5 egg um dagin innanfyri nakrar mánaðir, um hitin er hægri enn umleið 10°C. Eggini eru 1 mm long og klistra</p>
+<p xml:lang="isl">Skaðadjór 10</p>
+<p><em type="bold">Veggjalúsin er eina teka og ikki ein lús, og á latíni eitur hon Cimex lectularius </em></p>
+<p xml:lang="eng"><em type="bold">Dorete Bloch </em>doreteb@ngs.fo </p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="eng"><em type="bold">Mynd 1 </em>31 </p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Veggjalýs eru komnar til Føroyaføst til staðið, har tey eru víggjað. Tá tey eru klakt, verða tey ikki til ormverur eins og t.d. fýrur2, men til eina pikkulítla veggjalús, ið líkist hini vaksnu, eins og t.d. ringrásin hjá tvístertum3. Hendan pikkulítla veggjalúsin er ein nymfa, ið skiftir ham fimm ferðir, og hvørja ferð krevur hamskiftið ein verð av blóð. Men tá veggjalúsin fyrst er vaksin, kann hon liva í mánaðir uttan blóð. Hon er ljósskjar og fjalir seg um dagin í t.d. rivum og aftan fyri gerikt og myndir á vegginum. Um náttina kemur veggjalúsin fram at súgva blóð úr fólki, ið liggur og svevur, og síðan fjalir hon seg aftur.</p>
+<p><em type="bold">Hvussu er tær komin hendan vegin? </em>Veggjalýs eru ikki óvanligar uttanlands, bæði hjá privatum fólki og ikki minst á hotellum, og vilt tú forða fyri at fáa veggjalýs við tær heim, skalt tú ikki seta kuffertið ella ferðataskuna undir seingina ella lata tey standa opin, tí so kunnu veggjalýs ganga ella detta niður í kuffertið og leggja seg millum klæðini. Hetta er helst tann vanligasti mátin at fáa veggjalýs fluttar millum lond. Hevur tú varhuga av, at tú hevur sovið á einum stað, har veggjalýs eru, eru eini góð ráð at kanna kuffertið nágreiniliga, so skjótt tú ert komin heim, vaska klæðini, koyra tey í turkitrumluna við 50 hitastigum ella frysta tey í 2-3 samdøgur. </p>
+<p>Ikki øll fólk eru ovurviðkvom fyri bitum frá veggja lúsum, og koma veggjalýs í eitt sovorðið hús, kunnu tær liva í friði og spjaða seg runt í húsunum, uttan at nakar varnast. Og tey kunnu kanska eisini ganga inn í grannaíbúðina fram við t.d. hitarørum, um tú býrt í raðhúsum. Men summi fólk hovna av bitunum og enda hjá læknanum (sí mynd 3). Veggjalýsnar bíta tann partin av kroppinum, ið hevur verið undan dýnuni, armar, bak og øklar.</p>
+<p><em type="bold">Hvussu sleppur tú av við djórini aftur? </em>Hevur tú fyrst fingið veggjalýs inn um gátt, er neyðugt at fara í hernað móti teimum beinanvegin fyri at basa teimum. Tú kanst sproyta skordýraeitur í rúmini, har ið tær eru at síggja. Madrassur skulu kannast væl. Seingjarklæði kunnu frystast ella leggjast í turkitrumluna, tí veggjalýs tola hvørki hita ella kulda. </p>
+<p>Rúmini, har veggjalýs eru funnar, skulu sproytast við eiturevni, ið inniheldur pyrethrum / pyrethrin. Uttan á dósini stendur, hvussu nógv sekund ið sproytast skal pr. kubikk. Tað er umráðandi at endurtaka kurin 14 dagar seinni, tí ikki øll eggini verða dripin, men tá tey eru klakt, doyggja tær nýklaktu veggjalýsnar av næsta umfari av eitran.</p>
+<p>Tað er ikki ávíst, at veggjalýs kunnu spjaða smittu millum fólk.</p>
+<p><em type="bold">Keldur </em>1 </p>
+<p xml:lang="nob">Bloch, D. 2005. Føroysk skaðadjór 4. Staraloppa. Frøði 11,1: 28-29.2</p>
+<p xml:lang="swe">Bloch, D. 2004. Føroysk skaðadjór 2. Fýrur. Frøði 10,1: 28-30.3</p>
+<p xml:lang="dan">Bloch, D. 2006. Føroysk skaðadjór 6. Tvísterta. Frøði 12,1: 24-25.</p>
+<p><em type="bold">Veggjalýs eru ikki óvanligar uttanlands, bæði hjá privatum fólki og ikki minst á hotellum </em></p>
+<p><em type="bold">Hevur tú fyrst fingið veggjalýs inn um gátt, er neyðugt at fara í hernað móti teimum beinanvegin fyri at basa teimum </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2 </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 </em></p>
+<p xml:lang="deu">FRØÐI 1/201032</p>
+<p xml:lang="deu">BÓKAUMMÆLI</p>
+<p>Í ritinum hesa ferð eru seks hugvísindaligar og níggju náttúruvísindaligar greinar.</p>
+<p>Povl Skårup hevur skrivað grein við heitinum</p>
+<p>Dicuil um Føroyar.</p>
+<p>Aage Jørgensen hevur dagført ískoyti til bókmentaskrá sína um William Heinesen. Harum framt eru ískoyti til bókmentir um Jens Paula Heinesen og Jørgen Frantz Jacobsen.</p>
+<p xml:lang="isl">Helgoland og Norðurhavsoyggjar er grein eftir</p>
+<p>Zakarias Wang. Hann viðger samráðingarnar í Kiel, sum endaðu við friðarsáttmálanum í 1814, og har eitt av úrslitunum var, at Svøríki fekk Noreg frá Danmark, men ikki Grønland, Ísland og Føroyar.</p>
+<p>Majbritt Pauladóttir hevur grein, ið nevnist Kyn og málsligur hugburður til føroyska dagliga talaða frábrigdið  nakrar ábendingar. Greinin byggir m.a. á eina minni kanning frá 2009 um munir í orðavali og málbúna hjá monnum og kvinnum.</p>
+<p>Firouz Gaini nevnir grein sína Dreymar um bilar á oyggjum. Hon er um ungdóm, bilar, mentanarlig virði og samleika og er eitt íkast til at skilja leiklutin, sum bilurin hevur millum ung.</p>
+<p>Ein onnur grein, sum eisini viðger kyn, er greinin hjá Kirsten Brix: Menningarástøði og hugmyndafrøði, við undirheitinum „Brotmynd í 4 pørtum um vald og kyn við støði í bókmentaligari viðgerð“.</p>
+<p xml:lang="nno">Jóhannis Danielsen og Sven Axel Bengtson hava skrivað eina grein um ynglaatburð hjá havhestum: Year round video surveillance of individual nest site attendance of Northern Fulmars ( <em type="italic">Fulmarus glacialis </em>) in the Faroe Islands. </p>
+<p>Náttúrugripasavnið gjørdi kanningar í Útnyrðingseysturoy í sambandi við Eiði 2ætlanina hjá SEV. William Simonsen hevur skrivað um eitt nýtt klukkuslag, sum varð funnið tá, og er tað greitt frá tí í greinini: <em type="italic">Agonum fuliginosum </em>(Panzer, 1809). A New Record from the Faroe Islands. </p>
+<p>Janus Hansen og Garth N. Foster skrivaðu um eitt nýtt klukkuslag afturat, men helst snýr tað seg um, at djórið fyrr hevur verið ranggreint, sí: <em type="italic">Elodes psedominuta </em>(Coleoptera: Scirtidae) in the Faroe Islands. </p>
+<p xml:lang="isl">Marcela Skuhravá og Václav Skuhrav skrivaðu grein um djór, ið gera plantuvølir á trøum og runnum: Plant galls and gall midges (Diptera: Cecidomyiidae) of the Faroe Islands in the Atlantic Ocean.</p>
+<p xml:lang="isl">Hans Guldager og Anna Maria Fosaa skrivaðu grein um elstu røktarplantur okkara: Færøernes ældste kulturplanter.</p>
+<p>Útgávur frá</p>
+<p xml:lang="deu">FORLAGNUM FRÓÐSKAPI</p>
+<p xml:lang="sme"><em type="bold">Fróðskaparrit nr. 57 </em></p>
+<p xml:lang="isl">Tíðarritið er 212 síður og kostar 270 kr.</p>
+<p xml:lang="nno">Elin Súsanna Jacobsen (hugvísindi) og Dorete</p>
+<p xml:lang="isl">Bloch (náttúruvísindi) eru ritstjórar.</p>
+<p xml:lang="sms">ISBN: 978 99918 65 27 033</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p xml:lang="deu">BÓKAUMMÆLI</p>
+<p>Brot úr Føroya søgu er eitt savn av 10 greinum um Føroya søgu. Greinirnar fevna í tíð frá 16. øld til 20. øld. Evnini, sum verða viðgjørd, fevna eisini vítt. Í trimum greinum verða einahandilin og privatur handil viðgjørd. Persónsøga er umboðað av so ymiskum fólkum, sum tí ókendu Maren Jeremiasdatter og einum av best kendu føroyingunum, Magnusi Heinasyni. Eisini elsta jarðarbókin frá 1584 og livikor í Føroyum í 1800- talinum verða viðgjørd. Úr nýggjari tíð eru evnini stovnsetanin av Landsskjalasavninum, arbeiðara og</p>
+<p>Bókin viðger mannarættindi úr mentanarligum, sosialum, búskaparligum, politiskum og løgfrøðiligum sjónarhornum. Bókin er tann fyrsta av sínum slagi á føroyskum, og kann hon tí verða eitt týdningarmikið íkast til føroyska kjakið um mannarættindi framyvir. Greinirnar eru skrivaðar av føroyskum serfrøðingum, ið hava fakligar og praktiskar royndir í altjóða mannarættindaspurningum. Heldur enn at týða útlendska bókaútgávu, hevur Amnesty International Føroya deild valt at skapa eitt sjálvstøðugt verk, ið hóskar til føroyskar lesarar og føroysk samfelagsviðurskifti anno 2009.</p>
+<p>Átta partar eru í bókini, og teir taka lesaran á ferð ígjøgnum ST stovnin og útvaldar mannarættindasáttmálar.</p>
+<p>Bókin er serliga ætlað teimum, ið eru á hægsta stigi í miðnámsskúlum og á byrjanarstigi á hægri lærustovnum. Eisini er bókin væl hóskandi sum støðislesnaður hjá miðlafólki og starvsfólki í umsitingini, ið starvast við mannarættindum.</p>
+<p>Greinasavnið er harumframt kærkomið hjá øllum, ið vilja ogna sær størri og neyvari innlit um altjóða mannarættindaviðurskifti.</p>
+<p>Frá Havlívfrøðiligu Royndarstøðini hava vit fingið tvær greinar: Fyrsta greinin viðger tilfar frá BioFar verkætlanini, og er skrivað av Jan Sørensen og Galena Vantsetti Vasiljevna Murina: The Occurrence of two species of the family Priapulidae in Faroese Waters. Onnur greinin lýsir úrslit av kanningararbeiðnum av føroysku firðunum, og er skrivað av Jan Sørensen, Jákupi K. Bærentsen, Jógvani F. Hansen, Ámundi Nolsø og Birnu V. Trygvadóttur. Greinin hevur heitið: Organic content, Zink and Copper concentrations, pH and Redox potential values from sediments in Faroese fjords.</p>
+<p>Eyðfinn Magnussen og Jens-Kjeld Jensen hava skrivað grein um arbeiðið, sum er gjørt gjøgnum nógv ár við at ringmerkja gráspurvar, og hava viðgjørt úrslitini harfrá í: Ringing recoveries of house sparrow ( <em type="italic">Passer domesticus </em>) in the Faroe Islands. </p>
+<p>Seinasta greinin í Fróðskaparrit 57 viðger hag-tølini um springarnar. Tað eru Dorete Bloch og Bjarni Mikkelsen, sum hava skrivað um: Catch history and distribution of White-sided dolphin ( <em type="italic">Lagenorhynchus acutus </em>) in the Faroe Islands. </p>
+<p>Eins og í Fróðskaparritum frammanundan verða tey nevnd, ið hava fingið doktaraheiti í 2008 (Nýtt innan vísindi í 2008). Eisini er yvirlit yvir tað, sum granskarar innan og uttanlands hava útint av vísindaligum avrikum av ymsum slag um føroysk viðurskifti í 2008 (Vísindaritverk 2008).fakfelagsrørsla og politisku viðurskiftini undir 2. veraldarbardaga.</p>
+<p>Greinirnar eru grundaðar á fyrilestrar, sum vórðu hildnir í sambandi við 75 ára haldið hjá Landsskjalasavninum. Tá heitti stovnurin á ymiskar granskarar um at halda fyrilestur um evnir úr Føroya søgu, sum teir høvdu granskað í, har granskingin í høvuðsheitum er grundað á skjøl, sum eru í varðveitslu á Landsskjalasavninum.</p>
+<p>Bókin er væl egnað til skúlabrúks, men er ætlað øllum við áhuga fyri føroyskari søgu. Hon fæst til keyps í bókabúðunum.</p>
+<p><em type="bold">Brot úr Føroya Søgu </em></p>
+<p>Lena Nolsøe, savnvørður á</p>
+<p xml:lang="isl">Landsskjalasavninum, er ritstjóri.</p>
+<p xml:lang="isl">Bókin er 166 síður og kostar 200 kr.</p>
+<p xml:lang="sms">ISBN: 978 99918 65 29 4</p>
+<p><em type="bold">Greinasavn um Sameindu Tjóðir og Mannarættindi </em></p>
+<p>Amnesty International Føroya deild hevur ritstjórnað</p>
+<p xml:lang="isl">Bókin er 159 síður og kostar 198 kr.</p>
+<p xml:lang="sms">ISBN: 978 99918 65 28 7</p>
+<p xml:lang="deu">FRØÐI 1/201034</p>
+<p>Tá abbi var líTil var ein króna nógvir pengar</p>
+<p>Seinastu góðu sjúti árini hava vit í Føroyum gjørt upp brúkaraprístal. Sostatt er prístalið ein av teimum eldru talrøðunum í nýggjari tíð. Framvegis verður brúkaraprístalið gjørt upp fýra ferðir árliga og sjálvt um talið ikki fyllir nógv í gerandisdegnum, so hevur tað stóran áhuga og týdning, at vit gera brúkaraprístalið upp.</p>
+<p><em type="bold">Hvat vísir eitt brúkaraprístal? </em>Brúkaraprístalið er mát fyri prísgongdina av nýtsluni, sum húsarhaldini hava. Eitt húsarhald brúkar fleiri hundraðtals vørur í ymsum mongdum, og prístalið sigur okkum miðalprísbroytingina í prosentum. Við øðrum orðum vísir brúkaraprístalið, hvussu nógv meir vit skulu rinda fyri at fylla sama beriposa. </p>
+<p>Hugtakið keypiorka sigur okkum, hvussu nógv lønin er verd í vøru. Tá prístalið fer upp, merkir tað,</p>
+<p>Tá abbi var lítil var ein króna nógvir pengarat vørurnar eru dýrkaðar, so vit fáa minni vøru fyri somu pengar (pengarnir hava minni keypiorku), og tá gerst lønin minni verd.</p>
+<p>Fyri at útrokna eitt brúkaraprístal skulu tvær fyritreytir verða uppfyltar. Tann fyrra er sjálvt grundarlagið, sum er samansetingin av nýtsluni. Seinna fyritreytin er at fylgja við prísgongdini á vørunum. Í Føroyum verður grundarlagið eftirmett umleið tíggjunda hvørt ár, meðan fyritøkur og líknandi lata inn galdandi prísir fýra ferðir árliga.</p>
+<p>Í Europa í miðøld vórðu prístøl roknað fyri korn og aðra landbúnaðarvøru. Hetta varð brúkt sum grundarlag fyri at áseta uppsitara- ella festileigu. Í Norðurlondum hava smásøluprístøl verið gjørd síðan 1914 og vórðu hesi brúkt til at javna lønina samsvarandi broytingunum í livikostnaðinum.</p>
+<p><em type="bold">Eyðun Jakobsen </em>ej@hagstova.fo </p>
+<p>Hagstova Føroya35</p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Tá abbi var líTil var ein króna nógvir pengar</p>
+<p><em type="bold">Anton Degn var grundarlagið </em>Tað var eisini eitt ynski í Føroyum um at fáa prístal, so til bar at javna lønina. Í 1939 heitti løgtingið á amtmannin, stjóran á løgtingsskrivstovuni og formenninar í Føroya fiskimannafelag, Føroya arbeiðsmannafelag, Havnar arbeiðsmannafelag og Havnar arbeiðsgevarafelag um at greiða prístalsmálið. </p>
+<p>Húskið hjá Anton Degn hevði við nærlagni skrásett sína nýtslu í seinnu helvt av tríatiárunum, og hesar skrásetingar vórðu grundarlagið undir fyrsta prístalinum. Í fyrsta prístalinum vóru 40 vørusløg. Nærum helmingurin av livikostnaðinum fór til matvørur.</p>
+<p>Av tí at prístalið skuldi brúkast til at javna lønir við, varð dentur lagdur á, at grundarlagið svaraði til nýtsluna hjá barnaríkum familjum. Hetta gjørdi, at lønarvøksturin samsvaraði við keypiorkuna hjá løntakarum við børnum. Nýtslan varð tí mett við støði í eini familju, sum svaraði til, at 5 fólk vóru í húskinum. Her taldi maðurin sum eitt fólk, meðan konan og børnini taldu frá 0,9 til 0,15 ferðir lutfallið av fólki.</p>
+<p>Longu í 1941 varð prísansingarráð sett á stovn.</p>
+<p>Annar veraldarbardagi herjaði og stórt trýst var á vøruprísunum. Prísansingarráðið yvirtók prístalið og ansaði somuleiðis eftir, at prísvøksturin ikki var ov stórur. <em type="bold">25 eskjur av skósvertu, barnaansing og alnet </em>Í 1948 varð nýtt prístalsgrundarlag gjørt og hetta varð fyrstu ferð brúkt í 1951. 15 húski skrásettu sína nýtslu, og vørusløgini vóru nú 132 í tali, samstundis minkaði miðalfamiljan, so hon svaraði til 3,7 fólk. </p>
+<p>Verður hugt at, hvat eitt húski brúkti árliga, sæst m.a., at tey brúktu 25 eskjur av skósvertu og</p>
+<p><em type="bold">Talva 1. Grundarlagið </em></p>
+<p>Føroyar</p>
+<p>Danmark Ísland1948-1971* 1972 1998 2007 1996 2000</p>
+<p>Matur og drekka 49,0 42,1 21,3 19,7 15,1 17,2</p>
+<p>Rúsdrekka og tubbak 6,5 5,6 5,9 4,8 6 3,2</p>
+<p>Klædnavørur og fótbúnaður 18,8 10,2 5,4 6,3 5,4 5,3</p>
+<p xml:lang="ita">Býli 19,1 21,5 20,2 17,8 27,7 19,1</p>
+<p xml:lang="isl">Húsbúnaður, húsarhaldstól o.t. 1,9 8,2 6,0 7,8 6 5,3</p>
+<p xml:lang="fin">Heilsa - 1,6 2,8 2,0 2 3,1</p>
+<p>Flutningur - 3,2 13,1 14,0 15,7 19,3</p>
+<p xml:lang="isl">Samskifti - 1,0 4,6 5,1 2,1 2,6</p>
+<p>Frítíð og mentan - 1,9 11,9 11,3 7,7 12,2</p>
+<p xml:lang="dan">Útbúgving - - 0,1 0,2 0,9 1,0</p>
+<p xml:lang="nno">Hotell og matveitarar - - 3,6 2,9 5,8 5,3</p>
+<p>Ymiskar vørur og tænastur 4,7 4,7 5,3 7,8 6,4 6,4 * Tað vórðu gjørdar tillagingar í hetta grundarlag av og á.</p>
+<p>Vísta grundarlagið varð brúkt seinastu ferð í 1975 3 tons av kol. Matur var nú tað, sum húskið brúkti mest upp á, og her sæst, at døgverðin fyri tað mesta var sjóføði. 225 kg av fiski, 1 skinn av grind og 100 kg av hvalatvøsti, afturvið varð etið 500 kg av eplum og eitt sindur av gularótum og káli. Av kjøti varð etið mest neytakjøt, og viðskerin var 15 kg av speigupylsu og 50 eskjur av livurposteik. Av fitivørum varð mett, at eitt húski át 20 kg av smøri, 50 kg av margarini og 15 kg av feitti.</p>
+<p>Prístalsgrundarlagið frá 1948 varð eftirmett tíggju ár seinni, og í 1971 til 1972 varð nýggj húsarhaldskanning gjørd. Kanningin umfataði nú 47 húski við tveimum til átta børnum. Hetta grundarlagið varð sett í verk í 1975. Sjálvt um prístalið varð kunngjørt hvønn ársfjórðing, so var</p>
+<p><em type="bold">Nærum helmingurin av livikostnaðinum fór til matvørur </em></p>
+<p xml:lang="deu">FRØÐI 1/201036</p>
+<p>Tá abbi var líTil var ein króna nógvir pengarongin eftirmeting av sjálvum grundarlagnum gjørd í meira enn 25 ár. Prísráðið varð avtikið mitt í nítiárunum og Hagstova Føroya yvirtók uppgávuna. Í 1999 var verkfall á arbeiðsmarknaðinum og feløgini vóru rúkandi ósamd um, hvat veruligi prísvøksturin var í Føroyum. Álitið á prístalið var burtur.</p>
+<p>Tað var ikki so løgið, tí nýtslumynstrið hjá húsarhaldinum var nógv broytt frá 1972 til 1999. Í 1972 var barnaansing á stovni óvanlig, men nú á døgum eru flestu børn ansað á stovni. Sjónvarp fingu við í áttatiárunum og alnetið kom í nítiárunum. Hetta gjørdi, at grundarlagið frá 1972 var vorðið avskeplað, og løgtingið samtykti at endurskoða prístalið.</p>
+<p><em type="bold">Frá einum húski til samlaðu privatu nýtsluna </em>Í 2001 kom eitt nýtt prístalsgrundarlag, sum var gjørt eftir samlaðu privatu nýtsluni í 1998. Við at brúka innflutnings- og mvg-skráir og upplýsingar frá føroyskum veitarum um sølu til húsarhald eydnaðist at fáa samlað yvirlit yvir nýtsluna í Føroyum, og tí var farið burtur frá húsarhaldskanningum. Síðan 2001 er prístalið sostatt eitt miðalprístal fyri hvønn einstakling. Í dag verða 300 fyritøkur spurdar um 10.000 prísupplýsingar fýra ferðir árliga. Grundarlagið varð eftirmett og tillagað eftir nýtsluni í 2007. </p>
+<p><em type="bold">Ein króna í 1940 samsvarar nú við 33 krónur </em>Tá abbi var lítil, var ein króna nógvir pengar. Verður hugt at brúkaraprístalinum sæst, at fyri tað, sum abbi kundi keypa fyri eina krónu í 1940, skulu 33 krónur til at keypa í dag. Kortini verður tað neyvan sama vøra, abbi og tú keypa. Orsøkin er, at okkara húsarhaldsnýtsla er farin burtur frá innløgu til at umfata frítíð og mentan. Í 1948 fór góð helvtin av inntøkuni til matvørur, og meginparturin av restini fór til klæðir og býli. Hetta er munandi broytt nú. Fyri hvørja krónu, húsarhaldið brúkti í 2010, fóru bara smá 20 oyru til matvørur. Hinvegin fóru eisini nærum 20 oyru til flutning og samskifti. Í mun til í gomlum døgum fer eisini ein stórur partur av inntøkuni til frítíð og mentan. Hetta er á leið sama nýtslubýtið sum vit síggja í grannalondum okkara. </p>
+<p><em type="bold">Mynd 1. Prísvøksturin frá 1940 og fram. Myndin vísir, hvussu virðið á einari krónu er broytt fram til 2009. Ein króna í 1940 samsvaraði við fimm krónur í 1971, 10 kr í 1981 og 25 kr í 1995. </em></p>
+<p><em type="bold">Tá abbi var lítil, var ein króna nógvir pengar </em></p>
+<p xml:lang="deu">BOKS3</p>
+<p><em type="bold">Inflasjón </em>At hava tamarhald á heildarinflasjónini er vanliga eitt høvuðsmál í búskaparpolitikki. Brúkaraprístalið er ikki eitt mát fyri heildarinflasjón, tí tað mátar prísbroytingar á nýtsluvørum og tænastum hjá húsarhaldum. Kortini verður brúkaraprístalið ofta tulkað sum eitt heildarmát fyri inflasjón. Roknað verður við at gongdin í brúkaraprístalinum samsvarar væl við heildargongdina. <em type="bold">Prísvøksturin árliga í %, árini 1940 til 2009 </em>37 </p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Tá abbi var líTil var ein króna nógvir pengar</p>
+<p><em type="bold">Inflasjón </em>At hava tamarhald á heildarinflasjónini er vanliga eitt høvuðsmál í búskaparpolitikki. Brúkaraprístalið er ikki eitt mát fyri heildarinflasjón, tí tað mátar einans prísbroytingar á nýtsluvørum og tænastum hjá húsarhaldum. Kortini verður brúkaraprístalið ofta tulkað sum eitt heildarmát fyri inflasjón. Roknað verður við, at gongdin í brúkaraprístalinum samsvarar væl við heildargongdina. </p>
+<p><em type="bold">Mynd 2. Prísvøksturin árliga í %, árini 1940 til 2009. Høga inflasjónin undir krígnum og oljukreppurnar í sjeytiárunum síggjast týðiliga. Prísvøksturin sveiggjar millum 0 og 5% árliga, vanlig ár. Tað er bara komið seks ferðir fyri, at vit hava havt príslækking. Tann seinasta var í 2009. </em></p>
+<p><em type="bold">Mynd 3. Brúkaraprístalið og prístalið fyri brenniolju til upphiting 2007 til 2010 í ársfjórðingum. 1. ársfj. 2007 = 100. </em></p>
+<p><em type="bold">Hvussu ávirkaði oljuprísurin í 2006 til 2009 </em>Í 2008 hækkaði oljuprísurin munandi. Við at hyggja at brúkaraprístalinum og prístalinum fyri brenniolju til upphiting av húsum sæst, at annan ársfjórðing í 2008 vaks oljuprísurin meira enn 20%. Kortini vaks brúkaraprístalið bert góð 2%. Hetta var tí, at aðrar vørur gjørdust bíligari í sama tíðarskeiði og at olja til upphiting bert er ein lítil partur av samlaðu húsarhaldsnýtsluni. Tann øvugta gongdin sæst í fyrsta ársfjórðingi í 2009, tá oljuprísurin fall 25%. Prístalið minkaði bert 1,2%. </p>
+<p xml:lang="nob"><em type="bold">Anton Degn (1871 – 1950) </em></p>
+<p>Hann var føddur í Havn 6/10-1871. Aftan á skúlagongd í millum- og realskúlanum í Havn kom hann at arbeiða í M. C. Restorffs handli í Vágsbotni.</p>
+<p>Hann hevði álitisstørv bæði sum býráðslimur í Havn og sum løgtingsmaður umboðandi Sambandsflokkin í Suðurstreymoy 1906-08.</p>
+<p>Tá Føroya Amtskommunala Telefonverk varð sett á stovn frá 1906, varð hann av løgtinginum kosin telefonstjóri, og hann røkti hetta starv fram til 1912.</p>
+<p>Farin um fimmti ára aldur varð Anton Degn settur skjalavørður í Føroyum, og tað er á hesum øki, hann gjørdi vart við seg í bókmentum, fyrst og fremst við bókini um føroyskar bøndur »Færøske kongsbønder 1584-1884« (1945) og við ritum um viðurskifti einahandlinum viðvíkjandi. Hann doyði 3/9-1950.kelda: www.snar.fo</p>
+<p><em type="bold">Keldur </em></p>
+<p>Løgtingstíðindi 1941, 1942, 1951, 1974, 1975 og 1997</p>
+<p>Tórður Jóansson. Saman tí standið. 1975</p>
+<p>Hagstova Føroya, Brúkaraprístalið. 2002</p>
+<p xml:lang="deu">BOKS3</p>
+<p><em type="bold">Inflasjón </em>At hava tamarhald á heildarinflasjónini er vanliga eitt høvuðsmál í búskaparpolitikki. Brúkaraprístalið er ikki eitt mát fyri heildarinflasjón, tí tað mátar prísbroytingar á nýtsluvørum og tænastum hjá húsarhaldum. Kortini verður brúkaraprístalið ofta tulkað sum eitt heildarmát fyri inflasjón. Roknað verður við at gongdin í brúkaraprístalinum samsvarar væl við heildargongdina. <em type="bold">Prísvøksturin árliga í %, árini 1940 til 2009 </em></p>
+<p>Høga inflasjónin undir krígnum og oljukreppurnar í sjeytiárunum síggjast týðiliga. Prísvøksturin sveiggjar millum 0 og 5% árliga vanlig ár. Tað er bara komið seks ferðir fyri at vit hava havt príslækking. Tann seinasta var í 2009. BOKS4</p>
+<p><em type="bold">Hvussu ávirkaði oljuprísurin í 2006 til 2009 </em>Í 2008 hækkaði oljuprísurin munandi. Vit at hyggja eftir brúkaraprístalinum og prístalið fyri brenniolju til upphiting av húsum, sæst at annan ársfjórðing 2008 vaks oljuprísurin meira enn 20%. Kortini vaks brúkaraprístalið bert góð 2%. Hetta var tí at aðrar vørur gjørdust bíligari í sama tíðarskeiðið og at olja til upphiting bert er ein lítil partur av samlaðu húsarhaldsnýtsluni. Tann øvugta gongdin sæst í fyrsta ársfjórðingi 2009 tá oljuprísurin fall 25%. Prístalið minkaði bert 1,2% <em type="bold">Brúkaraprístalið og prístalið fyri brenniolju til upphiting 2007 til 2010 í ársfjórðingum. 1. ársfj. 2007 = 100 </em></p>
+<p xml:lang="nob"><em type="bold">BOKS5 Anton Degn (1871 – 1950) </em></p>
+<p>Hann var føddur í Havn 6/10-1871. Aftan á skúlagongd í millum- og realskúlanum í Havn kom hann at arbeiða í M. C. Restorffs handli í Vágsbotni.</p>
+<p>Hann hevði álitisstørv bæði sum býráðslimur í Havn og sum løgtingsmaður umboðandi Sambandsflokkin í Suðurstreymoy 1906-08.</p>
+<p>Tá Føroya Amtskommunala Telefonverk varð sett á stovn frá 1906, varð hann av løgtinginum kosin telefonstjóri, og hann røkti hetta starv fram til 1912.</p>
+<p>Farin um fimti ára aldur varð Anton Degn settur skjalavørður í Føroyum, og tað er á hesum øki, hann gjørdi vart við seg í bókmentum, fyrst og fremst við bókini um føroyskar bøndur »Færøske kongsbønder 1584-1884«, 1945, og við ritum um viðurskifti einahandlinum viðvíkjandi. Hann doyði 3/9-1950.</p>
+<p><em type="bold">Keldur Løgtingstíðindi 1941, 1942, 1951, 1974, 1975 og 1997 </em></p>
+<p xml:lang="deu">FRØÐI 1/201038</p>
+<p>So gjørdiSt hann lokSinS veruleiki</p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p>SJÚRÐUR HAMMER - sáttmálin millum Føroyar og ES, um at føroyskar granskarar og føroyskt vinnulív kunnu fáa atgongd til ES granskingar- og menningarpengar, sum liggja í teirri sonevndu 7. rammuskránni, ofta bara nevnd FP7. Onkur hevur hildið fyri, at ringt man fara at vera at fáa pengarnar aftur hendavegin, sum vit gjalda fyri at sleppa upp í part í FP7 – í miðal um 9 mió. um árið. Onkur heldur, at betri og tryggari vinningur hevði fingist burturúr, um pengarnir vóru nýttir her heima til at menna okkara førleikar við. Og tað er vist og satt, at her manglar fitt í til, at vit hava veruligt kappingarføri á nógvum økjum, sum vit granska, ella hava hug til at granska, í. Tí er tað alneyðugt, at ressursir nú verða lagdar í at menna okkara granskaraumhvørvi, fyri at náa upp á eitt fakligt stig, har vit kunnu vera millum tey fremstu innan okkara øki, tí tað, skulu vit rokna við, eru krøvini fyri at fáa granskingarstuðul úr ES. FP7 er ikki menningarstuðul fyri at styrkja føroyska granskingarumhvørvi ella onnur sum yvirhøvur hevur stuðul fyri neyðini. Stuðulin verður veittur eftir, hvat vit kunnu bjóða og ikki eftir, hvussu ússalig vit eru. Og snýr tað seg um serføroysk áhugamál, sum granskingarætlanir sum í fyrstu syftu bara hava endamál og áhuga í Føroyum, ja, so skulu vit frameftir eins og higartil rokna við, at tey skulu fíggjast umvegis okkara egnu granskingarpengar, t.e. sovorðið sum Granskingarráðið hevur at umsita. Men skulu vit hava (meira  ) gransking í heimsklassa, er neyðugt at fara upp í part og samstarva við onnur, og tá er FP7 eitt hóskandi amboð. Vit mugu smoyggja upp um armar og leggja í vaðið, um ikki annað so við at leggja ætlanir fyri, hvussu vit best fáa gagnnýtt</p>
+<p>So gjørdist hann loksins veruleikimøguleikarnar, sum nú eru atkomuligir fyri okkum. Vit skulu ikki rokna við at fáa pengarnar heimaftur í bræði, men hesin møguleikin eigur at fáa okkum at tora at hugsa kanska bæði størri og longri enn vit vanliga gera, tá ið vit snikka saman verkætlanir. Og nýta vit stuðulin vit kunnu fáa úr okkara umboðum til ES granskingarsamstarvið, tey sonevndu National Contact Points, og seta okkum saman við samstarvi í huganum, so fáa vit helst okkurt gott burturúr.</p>
+<p>At hyggja tvørtur um fakmørk er ofta sera gevandi og hjálpir okkum at fáa breiðari perspektiv upp á okkara part av samfelagskervinum. Tí skipar Føroya Fróðskaparfelag í samstarvi við Føroya Lívfrøðifelag og Føroya Náttúrugripasavn fyri eini røð av almennum fyrilestrum í ár, har margfeldi frá lívfrøðiligum sjónarhorni eins og hugvísindaligum sjónarhorni verður viðgjørt. Til dømis hava ein prestur og ein antropologur viðgjørt evnið margfeldi frá ávikavist teologiskum og antropologiskum sjónarmiðum, meðan lívfrøðingar somu kvøldini hava viðgjørt margfeldið sæð við lívfrøðiligum eygum. Hetta hevur ríkað upplivilsið hjá okkum, sum vanliga bert síggja fakøkið haðani frá sum vit standa, og hevur opnað hurðar inn til áhugaverdar etiskar spurningar, sum náttúruvísindafólk ofta hava lyndi til ikki at varnast. Og hinvegin eru vónandi sentral hugtøk og samanhangir, sum lívfrøðingar nýta, tá ið tey skilja og greina lívfrøðiligt margfeldi, vorðin meira atkomilig hjá nøkrum. Almennir fyrilestrar eftir sama leisti verða eisini í heyst, og vónandi fáa nógv hug til at leggja leiðina framvið at ríka sær sjónarringin hesar løturnar.</p>
+<p><em type="italic">Nevndin í Fróðskaparfelagnum </em>39 </p>
+<p xml:lang="deu">FRØÐI 1/2010</p>
+<p>Ung og sosialur trivnaður</p>
+<p><em type="bold">Firouz Gaini, Læraraskúlin </em></p>
+<p>Firouz Gaini hevur eina grein um tey ungu í Føroyum og hvussu tey trívast sosialt. Greinin byggir á nýggja, samanberandi, norðurlendska spurnakanning.n æ s t u f e r ð</p>
+<p>Skúgvur á St.Kilda</p>
+<p><em type="bold">Sjúrður Hammer </em>- Hvat er betri at vera spesialistur ella generalistur? - Hvørjar umstøður gera seg galdandi, fyri at tað loysir seg hjá einum pari av skúgvi einans at eta fugl og egg, meðan eitt annað par, beint við síðuna av, etur eitt sindur av hvørjum? - Og hvørji pør megna best at fáa gott og burdardygt avkom? - Er talan um veruliga spesialisering, ella er hetta bert ein endurspegling av tí skiftandi umhvørvinum tann pragmatiski skúgvin livir í? </p>
+<p>Hetta vóru nakrir av teimum spurningunum, ið Sjúrður Hammer gjørdi eina roynd at svara upp á við ein felt-verkætlan á St.Kilda (57⁰49’N, 08⁰35’W) í samband við masterritgerð sína í havvistfrøði við Glasgow University.</p>
+<p>Stovnurin av skúgvi á St.Kilda bregður frá øðrum líknandi stovnum í Bretlandi. Ein stórur partur livir í stóran mun bert av fugli, eggum og ungum, meðan aðrastaðni, so sum í Hetlandi, eta teir í høvuðsheitum fisk. Ein stórur partur av fuglinum, ið verður tikin, er sýldur drunnhvíti <em type="italic">Oceanodroma leucorhoa </em>, og ein vaksandi ótti er fyri, at skúgvastovnurin á St.Kilda tekur somikið nógvan drunnhvíta (upp til 20.000 um árið), at tad hevur neilig árin á stovnin. Tí er týdningarmikið at skilja hesa spesialisering sum hendir, og finna út av, hvørt hesir sjófuglaserfrøðingarnir eru vaksandi í tali. </p>
+<p xml:lang="deu">FRØÐI</p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="deu">SJÚRÐUR HAMMER</p>
+<p xml:lang="smn">Nevtollur</p>
+<p><em type="bold">Dorete Bloch, Føroya Náttúrugripasavn </em></p>
+<p>Dorete Bloch greiðir frá um nevtollin, sum fyrr var lagdur á menn, og sum troytti ravnastovnin nógv.</p>
+<p xml:lang="rmf"><em type="bold">Tek </em></p>
+<p xml:lang="kal"><em type="bold">NiNG </em></p>
+<p xml:lang="nob">St</p>
+<p xml:lang="deu">RId And</p>
+<p xml:lang="deu">REASEn</p>
+<p type="listitem">Granskingarráðið hevur tvey høvuðsarbeiðsøki:</p>
+<p type="listitem">at ráðgeva landsstýri og vinnu í granskingarpolitiskum spurningum</p>
+<p type="listitem">at umsita Granskingargrunnin, sum veitir fígging til gransking og menning</p>
+<p>Granskingarráðið · Postrúm 259 · FO-110 Tórshavn</p>
+<p>Tel 56 78 00 · www.gransking.fo · gransking@gransking.fo</p>
+<p xml:lang="nno">Stuðul til gransking</p>
+<p>Nú kanst tú søkja um</p>
+<p type="listitem">Stuðul verður latin:</p>
+<p type="listitem">føroyskum granskarum og granskara- lesandi</p>
+<p type="listitem">gransking og menning á ella í tilknýti til føroyskar granskingar stovnar og vinnu-  fyritøkur</p>
+<p type="listitem">gransking og menning, ið hava týdning í føroyskum høpi</p>
+<p type="listitem">Stuðul verður latin til ymisk sløg av  verkætlanum:</p>
+<p type="listitem" xml:lang="isl">Ph.D.-verkætlanir</p>
+<p type="listitem">post grad. ella post doc. verkætlanir, ið ganga um fleiri ár</p>
+<p type="listitem" xml:lang="isl">smærri verkætlanir við styttri tíðarætlan</p>
+<p type="listitem">granskingarverkætlanir, sum fevna um vinnumenning og vinnugransking</p>
+<p type="listitem">Tað er ein fyrimunur at:</p>
+<p type="listitem">verkætlanin fevnir um samstarv millum fleiri granskarar</p>
+<p type="listitem">verkætlanin fevnir um samstarv millum granskarar, granskingarumhvørvi og  vinnuna</p>
+<p><em type="bold">Tað verður kravt at: </em>í minsta lagi 1/3 verður fíggjaður av øðrum enn Granskingargrunninum. Undantak kann tó gerast fyri Ph.D. verkætlanir. </p>
+<p>Minstamark fyri stuðli til verkætlanir er 80.000 kr.</p>
+<p>Umsóknir skula skrivast á skandinaviskum ella enskum máli á serligt oyðublað, ið fæst á skrivstovu ráðsins og kann heintast á heimasíðuni. Skrivlig vegleiðing fæst á somu støðum.</p>
+<p>Gevið gætur, at umsóknir skulu sendast við telduposti. Sí nágreinilig krøv á gransking.fo.</p>
+<p><em type="bold">Umsóknarfreist er: </em>1. september 2010, kl. 12.00 føroyska tíð. (Í 2011 verður árliga umsóknarfreistin flutt fram til 15. februar) </p>
+<p>Umleið 7 mió kr. eru tøkar til nýggjar verkætlanir.sansir.fo</p>
+</body></document>

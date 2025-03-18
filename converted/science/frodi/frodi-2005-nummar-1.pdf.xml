@@ -1,0 +1,642 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><year>2005</year><wordcount>15668</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frodi-2005-nummar-1.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="isl"><em type="bold">1/2005 11. árg. kr. 48,00 </em></p>
+<p type="listitem" xml:lang="nno">Heimadoktarar</p>
+<p type="listitem">Mølheyggjar á Sandi eru friðaðir</p>
+<p type="listitem" xml:lang="spa">Staraloppan</p>
+<p type="listitem" xml:lang="isl">Hitin á Landgrunninum sett nýtt met</p>
+<p><em type="bold">Kann ein raka Føroyar </em></p>
+<p><em type="bold">Kann ein raka Før tsunami </em></p>
+<p>Seinasta árið (frá januar 2004 til februar 2005) hava val og valúrslit javnan verið á tíðindabreddanum. Her heima hava vit havt løg-tingsval, kommunuval og fólka tingsval, og úti í heimi hava m.o. evrope-ar ar valt Evropating, og amerikanar og ukrainar hava valt forseta.</p>
+<p>Felags fyri hesi val er, at tú sum borgari fert á valstaðin, fær ein atkvøðuseðil í hondina, fer inn í ein kliva, setur ein kross við eitt valevni ella ein lista og koyr ir seðilin í ein lok aðan kassa. Atkvøður í tús undatali verða so taldar upp, og eftir ásett ari mannagongd verður funnið fram til tey val evni, sum manna eitt ting, ella til tað val evnið, sum gerst forseti.</p>
+<p>Í hesi grein verður greitt frá teimum út rokn-ing arháttum, sum verða nýttir, tá ið býtið av umboðum í einum lóggávutingi skal finn-ast út frá atkvøðubýtinum, soleiðis sum vit kenna tað frá londum í Evropa og aðrastaðni í heiminum.</p>
+<p>Ymsir grundleggjandi hættir og leistir til at gera eitt umboðsbýti eftir givnum atkvøðubýti verða lýstir, bæði við taldømum og við val skip-</p>
+<p><em type="italic">Á løgtingsvalinum í januar 2004 hendi tað óhepna, at flokkurin, sum fekk flest løgtingsumboð í sín part, bert var nummar trý í atkvøðutali. Hetta er ikki fyrstu ferð, galdandi valskipan hevur givið úrslit, sum av mongum verðu hildin at vera órættvís. Í greinini verður við søguligum valtølum og gjørdum dømum víst á vansar við føroysku løgtingsvalskipanini, og boð verða givin um betur hóskandi útrokningarhátt. </em></p>
+<p><em type="bold">Val, val, val </em><em type="italic">– nú tingið mannast skal </em></p>
+<p xml:lang="vep"><em type="bold">PETUR ZACHARIASEN NÁTTÚRUVÍSINDADEILDIN </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem">4an  um í ymsum londum. Og mangar valskipanir finn  ast, alt eftir hvussu londini skipa seg við eitt nú valdømum, eykaumboðum og tinggáttum.</p>
+<p>Serstakliga verður hugt at tí føroysku løg tings-val skipanini. Hvussu verður býtið funnið av teimum 32 tingsessunum, so hetta samsvarar við at kvøð urnar hjá teimum uppstillaðu flokkunum í teimum 7 valdømunum? Valskipanirnar til lóg gávutingini í Norðurlondum verða eisini um røddar.</p>
+<p>Við søguligum valtølum og gjørdum døm-um verður víst á, at vansar eru í føroysku løg-tings valskipanini. Nýggjar kanningar vísa, at tað ber til at finna ein útrokningarhátt, sum á fleiri økjum er betri enn útrokningarhátturin í gald andi vallóg.</p>
+<p><em type="bold">Ein grundleggjandi trupulleiki </em></p>
+<p>Høvuðsendamálið í flestøllum valskipanum er, at floksbýtið í tinginum skal vera í best møgu-lig um samsvari við atkvøðubýtið hjá listunum.</p>
+<p>Hetta er tað, vit rópa lutfalsval. Men tað vísir seg, at tað finst eingin býtisháttur, sum í allar mát ar kann metast sum tann rætti – ella tann besti – til endamálið. Tískil hava ymsir hættir verið í brúki.</p>
+<p>Atkvøðutølini til eitt val eru oftast stór tøl (upp í milliónir), og tingsessirnir fáir til tað (upp í 500 ella so). Eitt fullkomið umboðsbýti í mun til atkvøðubýtið er tí at kalla ógjørligt – utt an í onkrari heilt óvanligari støðu. Hugsa vit okk-um eitt val við 1000 atkvøðum og 3 listum við at kvøðubýtinum 522+337+141 er trupult at fáa eitt fullkomið samsvar í umboðsbýtinum.</p>
+<p>Skulu t.d. 10 umboð býtast eftir hesum at kvøðubýtinum eru fleiri møguleikar, sum tykj ast rímiligir: 5+3+2, 5+4+1 ella 6+3+1. Er at kvøðubýtið í staðin 501+296+203, er lítið at iv ast í, at umboðsbýtið má verða 5+3+2.</p>
+<p><em type="bold">Býtishættir: d’Hondt - S-Laguë - Størsta brot </em></p>
+<p>Vit hugsa okkum eina bygd, har tveir listar (A og B) til eitt kommunuval fáa ávikavist 28 og 13 atkvøður. 5 fólk skulu veljast í bygdarráðið. Skal býtið verða 4+1 (A+B) ella 3+2? Tað er ikki heilt greitt, hvat av hesum báðum být um er tað betra.</p>
+<p>Við atkvøðubýtinum 28+13 eru um boðsbýtini 4+1 og 3+2 úrslit av tveim um klass iskum býtishættum, ið vanliga verða nevnd ir ávika vist d’Hondt og S-</p>
+<p>Laguë (úttalað S-La´gy).</p>
+<p>Í <em type="italic">talvu 1 </em>sæst, hvussu útrokningin verður framd fyri hesar hættir. Atkvøðutølini verða býtt við deilarunum 1,2,3,... fyri d’Hondt og 1,3,5,... fyri S-Laguë. 5 tey størstu býtistølini geva tá rætt til hvør sítt umboð. Hættirnir virka, sama hvussu nógvir listar og hvussu nógv umboð eru (her ávikavist 2 og 5). Í ser-støk um føri kann stígur koma í útrokningina vegna javnvág; tá verður oftast kastað lut fyri at fáa eina niðurstøðu. </p>
+<p>Viðhvørt geva hættirnir sama umboðsbýti.</p>
+<p>Er t.d. atkvøðubýtið 25+16, so geva báðir být is hættir umboðsbýtið 3+2. Tá ið munur er mill um d’Hondt-býtið og S-Laguë-býtið – sum í <em type="italic">talvu 1 </em>– er tað altíð so, at við d’Hondt fáa størstu listarnir fyrimun fram um teir smæstu list arnar. S-Laguë javnvigar sum heild væl mill-um stórar og smáar listar. </p>
+<p>Býta vit samlaða umboðstalið 5 sundur í júst sama lutfall, sum er í atkvøðunum, fáast so nevndar <em type="italic">kvotur </em>, sum í hesum førinum eru 3.41 (=28/41*5) hjá lista A og 1.59 hjá lista B. </p>
+<p>Taka vit heiltalspartin av kvotunum, fáast 3+1 um boð (3.41 ➘ 3 og 1.59 ➘ 1). Tað umboðið, sum restar í einum fullmannaðum bygdarráði, fær tann list in, sum hevur størsta avlopið – ella størsta brotið – eftir, tá ið heiltalsparturin er drigin frá kvot uni. Í hesum førinum hevur listi</p>
+<p xml:lang="isl">A brotið 0.41 eftir, og B brotið 0.59 eftir, so listi</p>
+<p>B fær fimta umboðið. Endaliga umboðsbýtið verður tí 3+2, sum er tað sama, sum fekst við</p>
+<p xml:lang="isl">S-Laguë býtisháttinum. 13 atkv.kvota 1.59</p>
+<p><em type="bold">Tveir býtishættir </em>5 umboð skulu býtast til tveir listar A og B, ið hava fingið ávikavist 28 og 13 atkvøður. Niðanfyri sæst úrslitið av at brúka býtishættirnar, ið nevnast d’Hondt og S-Laguë. Mannagongdin er henda: Atkvøðutølini verða býtt við deilarunum 1,2,3,... fyri d’Hondt og 1,3,5,... fyri S-Laguë. 5 tey størstu býtistølini geva tá listunum eitt samsvarandi tal av umboðum. Umboðsbýtið við hesum hættunum er ávikavist 4+1 og 3+2 (A+B).28 atkv.kvota 3.41 </p>
+<p xml:lang="isl"><em type="bold">A </em>ëugaL-S ðiv ðitýbsðobm </p>
+<p xml:lang="hbs">U tdno</p>
+<p>H’d ðiv ðitýbsðobm</p>
+<p>Uðitýbuðøvkt</p>
+<p xml:lang="nob">A d’Hondt</p>
+<p xml:lang="est">S-Laguë</p>
+<p><em type="bold">TALVA 1 </em>5 umboð skulu býtast til tveir listar A og B, ið hava fingið ávikavist 28 og 13 atkvøður. Niðanfyri sæst úrslitið av at brúka býtishættirnar, ið nevnast d’Hondt og S-Laguë. Mannagongdin er henda: Atkvøðutølini verða býtt við deilarunum 1,2,3,... fyri d’Hondt og 1,3,5,... fyri S-Laguë. 5 tey størstu býtistølini geva tá listunum eitt samsvarandi tal av umboðum. Umboðsbýtið við hesum hættunum er ávikavist 4+1 og 3+2 (A+B). </p>
+<p type="listitem" xml:lang="isl">Tveir býtishættir 5</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p>Talva 2 vísir valtøl í Valvík, har 11 umboð skulu veljast í bygdarráðið. Her hendir tað, at fýra kendir býtishættir geva ymisk umboðsbýti.</p>
+<p>Umframt teir tríggjar omanfyri nevndu být-ishættirnar er Broytti S-Laguë hátturin eisini brúktur – hesin býtisháttur hevur verið nýttur í teimum skandinavisku londunum síðani tíð-liga í 1950-árunum, tá ið ynski var um at fáa ein ’javnari’ býtishátt enn d’Hondt, sum varð brúktur frammanundan.</p>
+<p><em type="bold">Valdømi og valdømisumboð </em></p>
+<p>Við heilt fáum undantøkum, sum eitt nú Grøn-land og Ísrael, skipa lond síni val til lóggávu-tingið soleiðis, at landið er skift sundur í fleiri valdømi, grundað onkursvegna á landafrøðilig, fyrisitingarlig ella søgulig viðurskifti. Tað kunnu vera valdømi við einum umboði – sonevnd einmansvaldømi – ella valdømi við fleiri umboðum – sonevnd fleirmannavaldømi.</p>
+<p>Størsta valdømi í Norðurlondum, roknað í umboðum, er ’Stockholms län’ við 34 umboðum; sí <em type="italic">talvu 3 </em>við høvuðsupplýsingum um tær norðurlendsku valskipanirnar. </p>
+<p><em type="bold">Viðvíkjandi valdømum eru tveir høvuðsleistir: </em>1. valskipanir, sum einans hava <em type="italic">einmansval-dømi </em>, og 2. valskipanir, sum hava <em type="italic">fleirmannavaldømi </em>(og vanliga einki ella bert einstøk einmans-valdømi). </p>
+<p>Fara vit góð hundrað ár aftur í tíðina, var 1-leisturin vanligur – hvørt valdømi átti eittans umboð, og tann maðurin, sum fekk flest-ar atkvøður frá monnunum, tann fyrstvaldi, umboðaði valdømið í tinginum. Tá varð atkvøtt fyri einum persóni, sum kundi umboða bygd-ina ella býin á tingi.</p>
+<p>Eftir aldamótið 1900 mentist politiska flokkaskipanin, sum kom at seta stóran dám á, hvussu vallógir vóru snikkaðar til. Nú ráddi um at geva bæði valdømum og flokkum lutfalsliga umboðan. 2-leisturin gjørdist vanligur, og neyðugt var við býtisháttum, sum í hvørjum valdømi sær gav flokkunum eina lutfalsliga umboðan so frægt sum til bar.</p>
+<p>Ein fyrimunur við einmansvaldømum er, at tá stendst eingin trupulleiki av at áseta ein býtishátt, men ein eyðsýndur vansi er, at í tílíkum valskipanum er umboðsbýtið mangan ikki í góðum samsvari við atkvøðubýtið fyri alt landið. Hetta er serliga sjónskt í valskipanini til</p>
+<p>Undirhúsið í Stórabretlandi (House of Comm-ons); har eru 646 einmansvaldømi, og til valið í 2005 fekk Arbeiðaraflokkurin (Labour) 356 sessir (55% av umboðunum), men flokkurin fekk ’bara’ 35% av atkvøðunum.</p>
+<p>Flestallar valskipanir nú á døgum nýta 2-leistin við fleirmannavaldømum, har hvørt val-dømi hevur sítt egna val, so at siga. Uppstilling til valið, uppteljing av atkvøðum og uppgerð av valinum í valdøminum eru í meginregluni óheft av valunum í øðrum valdømum. Í summ-um londum verður alt tingið mannað við val-dømisumboðum vald á henda hátt. T.d. hevur tingið í Finnlandi, Eduskunta, 200 sessir, sum allir eru settir við millum 6 og 33 beinleiðis valdum umboðum úr 14 fleirmannavaldømum (við undantaki av einum umboði úr Álandi).</p>
+<p>Spurningurin um hvussu valdømini skulu skipast – bæði viðvíkjandi landafrøði og ser-stakliga umboðstali – hevur mangan elvt til kjak og politiskar toganir. Í fleiri Norðurlondum hevur stríð verið um umboðanina millum bygd og bý, eitt nú í Íslandi og Noregi, og vit síggja, at tunt fólkað øki fáa fyrimun í umboðsbýtingini. Í íslendsku valskipanini t.d. ’kostaði’ ein alþingslimur til valið í 2003 í mið-al 3894 atkvøður á Suðureysturlandinum, men 1871 atkvøður á Norðureysturlandinum.</p>
+<p>Í valsøguligum høpi er umboðsbýtingin eftir statum til amerikanska Umboðsmannatingið (House of Representatives) áhugaverd. Í eini 200 ár hava amerikanar kjakast um hesa umboðan (apportionment) og hava í fleiri umførum broytt mannagongd og býtishátt fyri at áseta umboðstalið hjá teimum nú 50 statunum og tilsamans 435 sessunum í Umboðsmannatingin-um. Áðurnevndu klassisku býtishættirnir hava sín uppruna í hesari søgu, har býtishættirnar vanliga hava hesi nøvn/heiti: Jefferson, Webster</p>
+<p xml:lang="vep"><em type="bold">TALVA 2 </em></p>
+<p>Í bygdini Valvík skal bygdarráðið mannast við 11 sessum, og til valið hava fýra listar: A,</p>
+<p xml:lang="isl">B, C og D stillað upp. 108 veljarar greiddu atkvøðu og atkvøðubýtið og kvoturnar vóru</p>
+<p><em type="bold">Valvík – har fýra býtishættir geva ymisk umboðsbýti </em></p>
+<p>Fýra kendir býtishættir: d’Hondt, Størsta brot, S-Laguë og Broytt S-Laguë eru nýttir til akvøðubýtið í Valvík. Í hesum førinum geva allir hættir ymisk býti av teimum 11 umboðunum í bygdarráðnum.d’Hondt og S-Laguë hættirnir eru vístir í TALVU 1. Størsta brot fæst við at hækka tær kvotur, sum hava størsta avlop, tá ið heiltalsparturin er drigin frá (t.d. 0.65 fyri lista B). Broytt S-Laguë virkar sum S-Laguë við tí muni, at deilarin 1.4 verður nýttur í staðin fyri 1.</p>
+<p xml:lang="vep"><em type="bold">TALVA 2 </em></p>
+<p>Í bygdini Valvík skal bygdarráðið mannast við 11 sessum, og til valið hava fýra listar: A, B, C og D stillað upp. 108 veljarar greiddu atkvøðu, og atkvøðubýtið og kvoturnar vóru</p>
+<p>Fýra kendir býtishættir: d’Hondt, Størsta brot, S-Laguë og Broytt S-Laguë eru nýttir til atkvøðubýtið í Valvík. Í hesum førinum geva allir hættir ymisk býti av teimum 11 umboðunum í bygdarráðnum.d’Hondt og S-Laguë hættirnir eru vístir í talvu 1. Størsta brot fæst við at hækka tær kvotur, sum hava størst avlop, tá ið heiltalsparturin er drigin frá (t.d. 0.65 fyri lista B). Broytt S-Laguë virkar sum S-Laguë við tí muni, at deilarin 1.4 verður nýttur í staðin fyri 1.</p>
+<p><em type="bold">Valvík – har fýra býtishættir geva ymisk umboðsbýti </em></p>
+<p>Í bygdini Valvík skal bygdarráðið mannast við 11 sessum, og til valið hava fýra listar: A,</p>
+<p xml:lang="isl">B, C og D stillað upp. 108 veljarar greiddu atkvøðu og atkvøðubýtið og kvoturnar vóru</p>
+<p><em type="bold">Valvík – har fýra býtishættir geva ymisk umboðsbýti </em></p>
+<p>Fýra kendir býtishættir: d’Hondt, Størsta brot, S-Laguë og Broytt S-Laguë eru nýttir til akvøðubýtið í Valvík. Í hesum førinum geva allir hættir ymisk býti av teimum 11 umboðunum í bygdarráðnum.d’Hondt og S-Laguë hættirnir eru vístir í TALVU 1. Størsta brot fæst við at hækka tær kvotur, sum hava størsta avlop, tá ið heiltalsparturin er drigin frá (t.d. 0.65 fyri lista B). Broytt S-Laguë virkar sum S-Laguë við tí muni, at deilarin 1.4 verður nýttur í staðin fyri 1.</p>
+<p xml:lang="vep"><em type="bold">TALVA 2 </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem">6og Hamilton fyri ávikavist d’Hondt, S-Laguë og</p>
+<p>Størsta brot.</p>
+<p>Í tí føroysku løgtingsvalskipanini eru 7 val dømi, sum velja 4+5+2+8+2+2+4 (=27) um boð bein leiðis. Suðuroyggin t.d. er eitt val dømi við 4 valdømisumboðum, sum verða funn in utt an mun til, hvat úrslitið er aðrastaðni í land inum. Men, sum flestøllum kunnugt, sita 32 umboð í løgtinginum, og tey 5, sum koma aftr at teimum 27 valdømisumboðunum, verða funn in eftir einum leisti, har roknað verður upp á úrslitið í øllum valdømum undir einum.</p>
+<p><em type="bold">Eykavald umboð til at viga upp móti skeivleikum </em></p>
+<p>Sjálvt valskipanir við fleirmannavaldømum kunnu geva skeivleikar í umboðsbýtinum fyri list arnar, tá ið einans valdømisumboð verða nýtt. Tí hava nógv lond nú á døgum einhvørja skip an við eykaumboðum til at viga upp ímóti hesum skeivleikum. Hevur ein listi t.d. fingið færri valdømisumboð, enn samlaða at kvøðutalið gevur honum rætt til, fær hesin listi eitt ella fleiri eykaumboð, so betri samsvar fæst millum umboðsbýtið í tinginum og at kvøðubýtið millum veljararnar.</p>
+<p>Flestu Norðurlond hava skipanir við eyka-um boðum, sum í tali eru frá 5 (av 32) í løg tingsvalskipanini upp til 40 (av 175) í donsku fólkatingsvalskipanini (tá eru tey 4 norð uratlantsumboðini ikki við).</p>
+<p type="listitem">Ymsir  mátar  eru  at  áseta,  hvørjir  flokkar skulu eiga eykaumboð, og í hvørjum valdømi um boðini skulu finnast. Vit kunnu taka val skip-an irnar  í  Føroyum,  Íslandi  og  Danmark  sum dømi um ymsar mannagongdir:</p>
+<p type="listitem">Í løgtingsvalskipanini fara eykaumboðini (í mesta lagi 5 í tali) í fyrstu atløgu til teir flokkar, sum hava undirskot í valdømisumboðum. Í øðr um  lagi  fer  eitt  vunnið  eykaumboð  til tað  valdømi,  har  flokkurin  hevur  flestar ’av lopsatkvøður’,  uttan  mun  til,  um  tað val dømið  annars  er  væl  ella  minni  væl um boðað. Men aloftast falla eykaumboðini til tey valdømi, ið frammanundan eru lut-fals liga illa umboðað.</p>
+<p type="listitem">Valskipanin til Alþingið ásetur, at hvørt av teim um 6 valdømunum hevur 9 val døm is-um boð  og  eitt  fast  tal  av  eyka umboðum, sum antin er 1 ella 2. Tískil er eitt fast tal av um boðum (10 ella 11) frá hvørjum valdømi.</p>
+<p type="listitem">Í Alþinginum eru 63 umboð tilsamans, 54 val dømisumboð og 9 eykaumboð.</p>
+<p type="listitem">Valskipanin til Fólkatingið ásetir, at fyri sit ingin 5. hvørt ár eftir fyriskrivaðum regl um býtir tey 135  valdømisumboðini  út  á  17  valdømi, og tey 40 eykaumboðini út á 3 landspartar.</p>
+<p>Í løtuni hevur t.d. Jyl land 20 eykaumboð (um framt 64 val døm is umboð), sum so verða býtt eftir ’tørvi’ mill um flokkarnar og tey 7 val dømini í tí lands partinum. 1) 5 er størsta talið av eykavaldum umboðum (øll valini síðani 1978 hava givið 5 eykavald umboð) 2) Óneyðugt við einans eittans valdømi 3) Valdur í Álandi, ið eisini hevur egið lóggávuting við 30 sessum 4) Valdir í Føroyum (2) og í Grønlandi (2) 5) 17 valdømi (stor- eller amtskredse) og 103 uppstillingarøki 6) Brúkt til býtið av eykavaldum millum flokkarnar 7) Brúkt til býtið av eykavaldum millum landspartar 8) Brúkt til býtið av eykavaldum millum valdømi 9) Verður eftir eitt val býtt upp í <em type="italic">Lagting </em>(41 sessir) og <em type="italic">Odelsting </em>(124 sessir) 10) Vallógin varð broytt í 2003, so Stortinget fær 169 sessir (150 valdømisumboð og 19 eykaumboð) </p>
+<p><em type="bold">Valskipanir í Norðurlondum– nøkur høvuðseyðkenni </em></p>
+<p><em type="bold">Føroyar </em></p>
+<p><em type="bold">Løgting 32 </em>7 4.6 2-8 27 51) <em type="italic">d’Hondt </em>3.7% </p>
+<p><em type="italic">Størsta brot </em></p>
+<p xml:lang="nob"><em type="bold">Grønland </em></p>
+<p xml:lang="dan"><em type="bold">Landsting 31 </em>1 - - 31 02) <em type="italic">d’Hondt </em>(3-4%) </p>
+<p xml:lang="isl"><em type="bold">Ísland </em></p>
+<p xml:lang="nob"><em type="bold">Alþing 63 </em>6 10.5 10-11 54 9 <em type="italic">d’Hondt </em>(5-6%) </p>
+<p xml:lang="deu"><em type="bold">Finnland </em></p>
+<p xml:lang="fin"><em type="bold">Eduskunta 199 </em>14 14.3 6-33 199 0 <em type="italic">d’Hondt </em>(5-6%) <em type="bold">+13) </em>+1 </p>
+<p xml:lang="nob"><em type="bold">Danmark </em></p>
+<p xml:lang="est"><em type="bold">Folketing 175 </em>17 10.3 2-14 135 40 <em type="italic">Broytt S-Laguë </em>2% <em type="bold">+44) </em>1035) +4 </p>
+<p><em type="italic">Størsta brot6) </em></p>
+<p xml:lang="est"><em type="italic">S-Laguë7) 1-4-78) </em></p>
+<p xml:lang="nno"><em type="bold">Noreg </em></p>
+<p xml:lang="est"><em type="bold">Storting9) 165 </em>19 8.7 4-15 157 810) <em type="italic">Broytt S-Laguë </em>4% </p>
+<p><em type="bold">Svøríki </em></p>
+<p xml:lang="est"><em type="bold">Riksdag 349 </em>29 12.0 2-34 310 39 <em type="italic">Broytt S-Laguë </em>4% </p>
+<p><em type="bold">Føroyar </em></p>
+<p><em type="bold">Løgting 32 </em></p>
+<p><em type="bold">Føroyar </em></p>
+<p><em type="bold">Løgting </em></p>
+<p xml:lang="nob"><em type="bold">Danmark </em></p>
+<p xml:lang="nob"><em type="bold">Folketing 175 </em></p>
+<p xml:lang="nob"><em type="bold">Danmark </em></p>
+<p xml:lang="nob"><em type="bold">Folketing </em></p>
+<p xml:lang="nob"><em type="bold">Grønland </em></p>
+<p xml:lang="dan"><em type="bold">Landsting 31 </em></p>
+<p xml:lang="nob"><em type="bold">Grønland </em></p>
+<p xml:lang="dan"><em type="bold">Landsting </em></p>
+<p xml:lang="isl"><em type="bold">Ísland </em></p>
+<p xml:lang="est"><em type="bold">Al </em></p>
+<p xml:lang="isl"><em type="bold">Ísland </em></p>
+<p xml:lang="nno"><em type="bold">Noreg </em></p>
+<p xml:lang="eng"><em type="bold">Storting </em></p>
+<p xml:lang="nno"><em type="bold">Noreg </em></p>
+<p><em type="bold">Svøríki </em></p>
+<p xml:lang="est"><em type="bold">Riksdag 349 </em></p>
+<p><em type="bold">Svøríki </em></p>
+<p xml:lang="est"><em type="bold">Riksdag </em></p>
+<p xml:lang="deu"><em type="bold">Finnland </em></p>
+<p xml:lang="fin"><em type="bold">Eduskunta 199 </em></p>
+<p xml:lang="deu"><em type="bold">Finnland </em></p>
+<p xml:lang="fin"><em type="bold">Eduskunta </em></p>
+<p xml:lang="fra">LAND</p>
+<p xml:lang="vep">TING</p>
+<p xml:lang="deu">SESSIR VALDØMI</p>
+<p xml:lang="vep">MIÐAL</p>
+<p xml:lang="vep">TAL</p>
+<p xml:lang="vep">MINST</p>
+<p xml:lang="est">A-STØRST</p>
+<p xml:lang="deu">VALDØMISUMBOÐ</p>
+<p xml:lang="deu">EYKA</p>
+<p xml:lang="hbs">UMBOÐ</p>
+<p xml:lang="deu">ÚTROKNINGARHÁTTUR</p>
+<p xml:lang="est">TINGGÁTTmett tal íklombrum ( )</p>
+<p type="listitem" xml:lang="vep">TALVA 3 7</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p><em type="bold">Tinggáttir </em></p>
+<p>Hvussu nógvar atkvøður skal ein listi hava fyri at fáa umboð á ting? Tað veldst um ymiskt, m.a. í hvørjum valdømum listin stillar upp, hvussu tað gongst hjá øðrum listum, og hvussu nógvir veljarar greiða atkvøðu – og kanska fær tað eisini týdning, hvussu veðrið er valdagin.</p>
+<p>Til løgtingsvalið í 2004 vóru 31711 gildigar atkvøður. Fyri at sleppa upp í part til at fáa eitt eykaumboð sigur vallógin, at listin skal hava í minsta lagi 1/27 (um 3.7%) av atkvøðunum, t.e. 31711/27 = 1175 atkvøður. Men stillar listin bara upp í t.d. Sandoynni, er kanska nóg mikið við 300 atkvøðum fyri at fáa eitt valdømisumboð.</p>
+<p>Fleiri valskipanir hava tinggáttir, sum minna um tær í løgtingsvalskipanini, har listin antin skal hava</p>
+<p>A. eitt minstalutfal av atkvøðum fyri alt landið (til at fáa eykaumboð) ella</p>
+<p>B. eitt minstamark av atkvøðum fyri at fáa eitt valdømisumboð,og sleppur listin um aðra gáttina, fær hann umboð á tingi. Bert til eitt løgtingsval síðani seinna heimsbardaga (í 1954) er ein listi komin upp um B-tinggáttina, men ikki um A-tinggáttina. Til øll hini løgtingsvalini eru allir listar, sum hava fingið umboð á ting, komnir upp um A-tinggáttina. Fleiri ferðir er komið fyri, at teir smáu listarnir ikki koma upp um</p>
+<p>B-tinggáttina, men hava tá fingið umboðan á tingi við eykaumboðum.</p>
+<p>A-tinggáttin er í fleiri londum ásett sum eitt prosenttal, oftast millum 2 og 5. Í Danmark er hon 2%, og í Noregi og Svøríki 4%, men er ikki ásett í tí finsku og íslendsku valskipanini.</p>
+<p>B-tinggáttin er bundin at býtisháttinum, og sum heild er tann gáttin hægri við d’Hondt háttinum enn við S-Laguë háttinum.</p>
+<p type="listitem">Men tað hevur eisini týdning, hvussu aðrir listar standa seg til valið. Vit hugsa okkum t.d. tríggjar listar við 100 atkvøðum tilsamans, sum skulu býta 3 umboð við d’Hondt:</p>
+<p type="listitem">24+26+50 atkvøður geva 0+1+2 umboð</p>
+<p type="listitem">24+30+46 atkvøður geva 1+1+1 umboð</p>
+<p>Fyrsti listi fær sama atkvøðutal í báðum førum, men í fyrra førinum fær hann einki umboð og í seinna førinum eitt umboð, so har er ein ’grá’ leið av prosentum, sum viðhvørt lyftir listan upp um B-tinggáttina og viðhvørt ikki.</p>
+<p><em type="bold">Løgtingsvalskipanin </em></p>
+<p>Sambært áðurnevndu lýsingum um býtishættir, valdømi v.m. kunnu vit lýsa valskipanina til</p>
+<p>Føroya løgting soleiðis:a. eitt løgtingsval er eitt lutfalsval, har roynt verður at fáa sum best samsvar millum atkvøðubýtið hjá listunum og teirra umboðan í løgtinginumb. landið er skift í 7 fleirmannavaldømi við tilsamans 27 = 4+5+2+8+2+2+4 valdømis-umboðumc. í hvørjum valdømi sær verða valdømisum-boðini býtt út á listarnar við d’Hondt-býtis-háttinumd. listin, ið hevði lægsta miðaltal av atkvøðum upp á valdømisumboðini, og listar við minni enn 1/27 av atkvøðunum fáa ikki lut í eykaumboðunume. roknað verður út, hvussu nógv eykaumboð skulu til, fyri at allir listar fáa í miðal sama atkvøðutal fyri tingmannin, sum tann listin, ið hevði lægsta miðaltal av atkvøðum upp á valdømisumboðini – býtisháttur ’vanlig runding’f. í mesta lagi 5 eykaumboð verða býtt út á listarnar – býtisháttur ’Størsta brot’g. listar fáa síni eykaumboð í teimum valdømum, har listin hevur flestar ’avlopsatkvøður’ – býtisháttur ’Størsta brot’</p>
+<p>Í høvuðsheitum stavar bygnaðurin í galdandi løgtingsvalskipan frá broytingini í vallógini, sum varð framd í 1923, tá ið vit fingu skipanina við eykavaldum umboðum (og próstur hevði ikki longur fast sæti á tingi, og amtmaður hevði ikki atkvøðurætt og var ikki formaður longur).</p>
+<p xml:lang="vep"><em type="bold">TALVA 4 </em></p>
+<p xml:lang="vep">Matrikulstovan 2001</p>
+<p>Norðoyavaldømi</p>
+<p xml:lang="sme">Dømi:</p>
+<p xml:lang="isl">Vallógin ásetur, at í Norðurstreym-oyar valdømi skulu veljast tvey valdømisumboð, sum til løgtings-valið í 2004 fullu til lista B og lista E. Harumframt fekk listi A eitt eykaumboð í valdøminum.</p>
+<p>Atkvøðurnar í valdøminum vóru 2492, sum svara til 7.86% av til-samans 31711 atkvøðum í øllum landinum.</p>
+<p>Kvotan hjá Norðurstreymoyar val-dømi verður tí 7.86% av 32 ting-sessum = 2.51 <em type="bold">21.9921.0344.1043.545+26.942+12.518+211.88 </em></p>
+<p>Eysturoyarvaldømi</p>
+<p>Norðstreymoyarvaldømi</p>
+<p xml:lang="olo">Vágavaldømi</p>
+<p xml:lang="isl">Suðurstreymoyarvaldømi</p>
+<p xml:lang="vep">Sandoyarvaldømi</p>
+<p>Suðuroyarvaldømi</p>
+<p xml:lang="est"><em type="bold">Valdømis- </em></p>
+<p xml:lang="swe"><em type="bold">Eyka- </em></p>
+<p xml:lang="spa"><em type="bold">Kvota </em></p>
+<p><em type="bold">Valdømisbýtið á løgtingsvalinumjanuar 2004umboðumboð+ </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">8</p>
+<p type="listitem">Broytingar í vallógini hava síðani einamest verið  um  valrætt,  valaldur,  tinggátt  og atkvøðuhátt (listi/valevni), umframt áseting av talinum á valdømisumboðum (b.) og mestatal-inum  á  eykaumboðum  (f.),  sum  eru  broytt  til løgtingsvalini hesi árini:</p>
+<p type="listitem">1924:   20 +  3   (valdømisumboð + eykaumboð)</p>
+<p type="listitem" xml:lang="vep">1930:   20 +  5</p>
+<p type="listitem" xml:lang="vep">1944:   20 + 10</p>
+<p type="listitem" xml:lang="vep">1978:   27 +  5</p>
+<p xml:lang="nno"><em type="bold">Skeivleikar </em></p>
+<p>Talva 4 vísir býtið av valdømisumboðum, sum tað er ásett við vallógini frá 1978, og býtið av 5 eykaumboðum út á valdømini til løgtings-valið í januar 2004, umframt kvoturnar, sum eru 32 býttar lutfalsliga eftir atkvøðubýtinum í valdømunum. Fyri trý valdømi (Norðoyggjar,</p>
+<p>Eysturoy, Vágar) er gott samsvar millum umboð og kvotur. Suðurstreymoy hevur umleið 2 umboð í undirskoti, svarandi til yvirskot við einum umboði í Sandoyar valdømi og umleið einum hálvum umboði í Norðurstreymoy og í</p>
+<p>Suðuroy.</p>
+<p>Talva 5 vísir tingmannabýtið og (lista)kvotur fyri tey 9 løgtingsvalini árini 1978-2004. Sum heild samsvara kvotur og tingsessir heilt væl.</p>
+<p type="listitem">Í allarflestum  førum er talið á  tingsessum eitt heiltal, ið er næst við kvotuna antin niðanfyri ella  omanfyri,  t.d.  kvotan  5.73  gevur  antin  5 ella 6 sessir. Trý undantøk eru:</p>
+<p type="listitem" xml:lang="isl">listi C í 1990:  kvota 8.79 ➙ 10 sessir</p>
+<p type="listitem" xml:lang="isl">listi A í 1998:  kvota 6.81 ➙  8 sessir</p>
+<p type="listitem" xml:lang="isl">listi E í 2004:  kvota 6.95 ➙  8 sessir</p>
+<p>Hetta kann t.d. koma fyri, um ein listi/flokk-ur tryggjar sær valdømisumboð í øllum val-dømum og tvey (ella fleiri) valdømisumboð í einstøkum valdømum. Í 1990 fekk listi C trý valdømisumboð í Suðuroy og tvey í Suður-streymoy, umframt eitt umboð í hvørjum av hinum 5 valdømunum. Í tílíkari støðu fáa hesir listar onki eykaumboð, men tey 5 eykaumboð-ini røkka ikki til at javna fult út.</p>
+<p>Í 1998 hendi eisini tað, at listi A, sum hevði triðistørstu kvotuna (6.81), fekk fleiri sessir (8) enn listi C, sum fekk 7 sessir við kvotuni 7.01.</p>
+<p>Somuleiðis í 2004, tá ið listi E við triðistørstu kvotuni fekk fleiri sessir enn B og C við størri kvotum.</p>
+<p type="listitem">Tað, at hesi fyribrigdi kunnu henda:</p>
+<p type="listitem" xml:lang="isl">ein  listi verða ’yvirumboðaður’  (og harvið aðrir listar ’undirumboðaðir’)</p>
+<p type="listitem">samsvar  er  ikki  í  raðfylgjuni  á  kvotum  og tingsessummá  roknast  sum  ein  vansi  í  vallógini.  Oftast snýr tað seg um frávik upp á ein sess, so onk-ur kann spyrja, hvussu stórur hesin vansin er.</p>
+<p>Men tá ið hugsað verður um, at onkur lands-stýrissamgonga hevur havt ein meiriluta við 17 av 32 tinglimum, so hevur hetta ikki einki at týða.</p>
+<p xml:lang="vep"><em type="bold">TALVA 5 </em></p>
+<p><em type="bold">Løgtingsvalini 1978-2004– kvotur, tingsessir og S-Laguë býtið </em>Niðanfyri eru hesar upplýsingar um tey 9 løgtingsvalini árini 1978-2004: - <em type="bold">Bókstavir </em>fyri flokkar/listar, har A,B,C,D,E svara til teir gomlu ‘heimastýrisflokkarnar’. </p>
+<p>F,G,... svara til yngri flokkar/listar (tó er ikki altíð samsvar millumbókstavir, sum her verða nýttir og teir, sum flokkarnir hava havt á valunum).- <em type="bold">Kvotur </em>, sum svara til, at 32 verður býtt sundur í júst sama lutfall sumatkvøðurnar hjá flokkunum/listunum.- <em type="bold">Tingsessir </em>, sum flokkar/listar fingu á valinum sambært galdandi vallóg.- <em type="bold">S-Laguë </em>, býtið av tingsessum sambært S-Laguë, sum vanliga verður mettur sum tann frægasti býtishátturin. Her er eingin ásett tinggátt nýtt. </p>
+<p xml:lang="vep"><em type="bold">TALVA 5 </em></p>
+<p type="listitem">Niðanfyri eru hesar upplýsingar um tey 9 løgtingsvalini árini 1978-2004:</p>
+<p type="listitem">Bókstavir fyri flokkar/listar, har A,B,C,D,E svara til teir gomlu ‘heimastýrisflokkarnar’. F,G,... svara til yngri flokkar/listar (tó er ikki altíð samsvar millum bókstavir, sum her verða nýttir, og teir, sum flokkarnir hava havt á valunum).</p>
+<p type="listitem">Kvotur, sum svara til, at 32 verður býtt sundur í júst sama lutfall sum atkvøðurnar hjá flokkunum/listunum.</p>
+<p type="listitem">Tingsessir, sum flokkar/listar fingu á valinum sambært galdandi vallóg.</p>
+<p><em type="bold">S-Laguë </em>, býtið av tingsessum sambært S-Laguë, sum vanliga verður mettur sum tann frægasti býtishátturin. Her er eingin ásett tinggátt nýtt. </p>
+<p type="listitem" xml:lang="isl">Løgtingsvalini 1978-2004– kvotur, tingsessir og S-Laguë-býtið 9</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p><em type="bold">Eitt tilgjørt valúrslit </em></p>
+<p><em type="italic">Talva 6 </em>vísir eitt tilgjørt løgtingsval, har ein stór-ur flokkur (MH) og 4 smærri javnstórir flokkar (A-D) stilla upp. Í øllum valdømum uttan Suð-urstreymoy er atkvøðubýtið hjá lista MH og lista A í prosentum: 50.5 og 12.6. Við tað, at býtistalið hjá MH við deilaranum 4 er 50.5/4 =12.625, ið er størri enn 12.6 (fyrsta býtistalið hjá lista A), gevur d’Hondt-hátturin lista MH tey fyrstu 4 valdømisumboðini, áðrenn listi A fær sítt fyrsta umboð. </p>
+<p>Á tann hátt fáa MH, A-D við galdandi vallóg 18+4+4+3+3 sessir, eitt býti, sum passar stak illa við kvoturnar: 10.14+5.56+5.48+5.43+5.39. Skeivleikar eru eisini í valdømisbýtinum, har m.a. Suðurstreymoy við kvotuni 11.88 fær ’einans’ 8 umboð. Vert er at leggja til merkis, at varð S-Laguë-hátturin brúktur í staðin fyri d’Hondt til at finna valdømisumboðini, hevði býtið hjá listunum verið 12+5+5+5+5, ið er á heilt góðari leið, men Suðurstreymoyar val-dømi fær framvegis ’einans’ 8 umboð.</p>
+<p><em type="italic">Talva 6 </em>vísir eisini býtið av tingsessum sam-bært einum nýggjum ’tvílutfalsligum’ býtishátti nevndur Balinski hátturin. Listarnir MH, A-D fáa býti sambært S-Laguë-býtisháttinum, sum verður 10+6+6+5+5. Krav er her sett um sama minstatal av umboðum til valdømini, sum val-lógin ásetur. Annars er býtið upp á valdømi við Balinski háttinum í góðum samsvari við valdømiskvoturnar. </p>
+<p><em type="italic">Rithøvundurin eigur myndir og talvur. </em></p>
+<p><em type="bold">PETUR ZACHARIASEN </em>er útbúgvin við cand. scient.-prógvi í støddfrøði og hagfrøði við Århus </p>
+<p>Universitet í 1969. Starvast sum lektari á Fróðskaparsetri Føroya síðan 1974. Petur hevur m.a. verið við til at skipa fyri veljarakanningum og fyrireika telduskipanir til útrokning av valúrslitum í Føroyum.teldupostur: peturz@setur.fo</p>
+<p xml:lang="vep"><em type="bold">TALVA 6 </em></p>
+<p>Vit hugsa okkum eitt løgtingsval, har 5 flokkar/listar stilla upp: MH (‘Móti</p>
+<p xml:lang="nob">Havnini’) og A-D.</p>
+<p>Í øllum valdømum uttan Suðurstreymoy (SS) fáa listarnir sama prosentbýtið: 50.5, 12.6, 12.4, 12.3 og 12.2. Í SS er prosentbýtið: 0, 25.5, 25.1, 24.8 og 24.6. Samlaðu atkvøðurnar í teimum 7 valdømunum eru tær somu sum til løgtingsvalið 2004.</p>
+<p><em type="bold">Eitt tilgjørt valúrslit – har galdandi vallóg virkar stak illa </em></p>
+<p>Niðanfyri sæst býtið av tingsessum sambært <em type="bold">galdandi vallóg; </em>eykaumboðini er markað við +. Listarnir MH og A-D fáa ávikavist 18, 4, 4, 3 og 3 sessir, eitt býti, sum passar stak illa við kvoturnar. </p>
+<p>Serliga fyri lista MH er munurin stórur – 18 sessir móti kvotuni 10.14 – og orsøkin er, at MH fær allar valdar sum valdømisumboð uttan fyri SS-valdømi. Bert eitt valdømisumboð uttan fyri SS fer til annan lista (til A í</p>
+<p>EY). Eisini í býtinum upp á valdømi eru skeivleikar, m.a. fær SS við kvotuni 11.88 ‘einans’ 8 umboð, sum øll eru valdømisumboð. Útrokningin vísir, at fyri at fáa eitt tingmannabýti, sum er í samsvari við atkvøðurnar ella kvoturnar, krevjast 19 eykaumboð, men loftið er sum kunnugt 5.</p>
+<p>Niðanfyri sæst býtið av tingsessum sambært einum ‘tvílutfalsligum’ útrokn-ingarhátti nevndur <em type="bold">Balinski </em>hátturin. Listarnir MH og A-D býta tingsessirnar sambært S-Laguë býtisháttinum (sí talvu 1). Krav er her sett um sama minstatal av umboðum til valdømini, sum vallógin ásetir. Annars er býtið upp á valdømi í góðum samsvari við valdømiskvoturnar. </p>
+<p xml:lang="vep"><em type="bold">TALVA 6 </em></p>
+<p><em type="bold">Eitt tilgjørt valúrslit – har galdandi vallóg virkar stak illa </em></p>
+<p>Niðanfyri sæst býtið av tingsessum sambært <em type="bold">galdandi vallóg </em>; eykaumboðini er markað við +. Listarnir MH og A-D fáa ávikavist 18, 4, 4, 3 og 3 sessir, eitt býti, sum passar stak illa við kvoturnar. </p>
+<p>Serliga fyri lista MH er munurin stórur – 18 sessir móti kvotuni 10.14 – og orsøkin er, at MH fær allar valdar sum valdømisumboð uttan fyri SS-valdømi. Bert eitt valdømisumboð uttan fyri SS fer til annan lista (til A í EY). Eisini í býtinum upp á valdømi eru skeivleikar, m.a. fær SS við kvotuni 11.88 ‘einans’ 8 umboð, sum øll eru valdømis-umboð. Útrokningin vísir, at fyri at fáa eitt tingmannabýti, sum er í samsvari við atkvøðurnar ella kvoturnar, krevjast 19 eykaumboð, men loftið er sum kunnugt 5.</p>
+<p>Vit hugsa okkum eitt løgtingsval, har 5 flokkar/listar stilla upp: MH (‘Móti Havnini’) og A-D.</p>
+<p>Í øllum valdømum uttan Suðurstreymoy (SS) fáa listarnir sama prosentbýtið: 50.5, 12.6, 12.4, 12.3 og 12.2. Í SS er prosentbýtið: 0, 25.5, 25.1, 24.8 og 24.6 . Samlaðu atkvøðurnar í teimum 7 valdømunum eru tær somu sum til løgtingsvalið 2004.</p>
+<p>Niðanfyri sæst býtið av tingsessum sambært einum ‘tvílutfalsligum’ útrokningarhátti nevndur <em type="bold">Balinski </em>hátturin. Listarnir MH og A-D býti sambært S-Laguë býtisháttinum (sí TALVU 1). Krav er her sett um sama minstatal av umboðum til valdømini, sum vallógin ásetir. Annars er býtið upp á valdømi í góðum samsvari við valdømiskvoturnar. <em type="bold">góllav idnadla </em></p>
+<p xml:lang="est"><em type="bold">GiksnilaB </em></p>
+<p xml:lang="vep"><em type="bold">TALVA 6 </em></p>
+<p><em type="bold">Eitt tilgjørt valúrslit – har galdandi vallóg virkar stak illa </em></p>
+<p>Niðanfyri sæst býtið av tingsessum sambært <em type="bold">galdandi vallóg </em>; eykaumboðini er markað við +. Listarnir MH og A-D fáa ávikavist 18, 4, 4, 3 og 3 sessir, eitt býti, sum passar stak illa við kvoturnar. </p>
+<p>Serliga fyri lista MH er munurin stórur – 18 sessir móti kvotuni 10.14 – og orsøkin er, at MH fær allar valdar sum valdømisumboð uttan fyri SS-valdømi. Bert eitt valdømisumboð uttan fyri SS fer til annan lista (til A í EY). Eisini í býtinum upp á valdømi eru skeivleikar, m.a. fær SS við kvotuni 11.88 ‘einans’ 8 umboð, sum øll eru valdømis-umboð. Útrokningin vísir, at fyri at fáa eitt tingmannabýti, sum er í samsvari við atkvøðurnar ella kvoturnar, krevjast 19 eykaumboð, men loftið er sum kunnugt 5.</p>
+<p>Vit hugsa okkum eitt løgtingsval, har 5 flokkar/listar stilla upp: MH (‘Móti Havnini’) og A-D.</p>
+<p>Í øllum valdømum uttan Suðurstreymoy (SS) fáa listarnir sama prosentbýtið: 50.5, 12.6, 12.4, 12.3 og 12.2. Í SS er prosentbýtið: 0, 25.5, 25.1, 24.8 og 24.6 . Samlaðu atkvøðurnar í teimum 7 valdømunum eru tær somu sum til løgtingsvalið 2004.</p>
+<p>Niðanfyri sæst býtið av tingsessum sambært einum ‘tvílutfalsligum’ útrokningarhátti nevndur <em type="bold">Balinski </em>hátturin. Listarnir MH og A-D býti sambært S-Laguë býtisháttinum (sí TALVU 1). Krav er her sett um sama minstatal av umboðum til valdømini, sum vallógin ásetir. Annars er býtið upp á valdømi í góðum samsvari við valdømiskvoturnar. <em type="bold">góllav idnadla </em></p>
+<p xml:lang="est"><em type="bold">GiksnilaB </em></p>
+<p xml:lang="vep"><em type="bold">TALVA 6 </em></p>
+<p><em type="bold">Eitt tilgjørt valúrslit – har galdandi vallóg virkar stak illa </em></p>
+<p>Niðanfyri sæst býtið av tingsessum sambært <em type="bold">galdandi vallóg </em>; eykaumboðini er markað við +. Listarnir MH og A-D fáa ávikavist 18, 4, 4, 3 og 3 sessir, eitt býti, sum passar stak illa við kvoturnar. </p>
+<p>Serliga fyri lista MH er munurin stórur – 18 sessir móti kvotuni 10.14 – og orsøkin er, at MH fær allar valdar sum valdømisumboð uttan fyri SS-valdømi. Bert eitt valdømisumboð uttan fyri SS fer til annan lista (til A í EY). Eisini í býtinum upp á valdømi eru skeivleikar, m.a. fær SS við kvotuni 11.88 ‘einans’ 8 umboð, sum øll eru valdømis-umboð. Útrokningin vísir, at fyri at fáa eitt tingmannabýti, sum er í samsvari við atkvøðurnar ella kvoturnar, krevjast 19 eykaumboð, men loftið er sum kunnugt 5.</p>
+<p>Vit hugsa okkum eitt løgtingsval, har 5 flokkar/listar stilla upp: MH (‘Móti Havnini’) og A-D.</p>
+<p>Í øllum valdømum uttan Suðurstreymoy (SS) fáa listarnir sama prosentbýtið: 50.5, 12.6, 12.4, 12.3 og 12.2. Í SS er prosentbýtið: 0, 25.5, 25.1, 24.8 og 24.6 . Samlaðu atkvøðurnar í teimum 7 valdømunum eru tær somu sum til løgtingsvalið 2004.</p>
+<p>Niðanfyri sæst býtið av tingsessum sambært einum ‘tvílutfalsligum’ útrokningarhátti nevndur <em type="bold">Balinski </em>hátturin. Listarnir MH og A-D býti sambært S-Laguë býtisháttinum (sí TALVU 1). Krav er her sett um sama minstatal av umboðum til valdømini, sum vallógin ásetir. Annars er býtið upp á valdømi í góðum samsvari við valdømiskvoturnar. <em type="bold">góllav idnadla </em></p>
+<p xml:lang="est"><em type="bold">GiksnilaB </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">10 11</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p>Kann ein <em type="bold">tsunami </em>raka <em type="bold">Føroyar </em><em type="italic">Vanlukkan í Asia 26. desember 2004 reisir spurningin, um ein tsunami-vanlukka kann henda í Atlantshavi? Kanningar vísa, at slíkt er hent í Føroyum, og at smáar tsunami-aldur eru ikki óvanligar. </em></p>
+<p>Um morg un in tann 26. desember hendi ein jarð-skjálvti út fyri Indo nesia á einum øki, har jarðskjálvtar eru sera van ligir. Fólk á staðn um greiddu frá, at tey merktu jarð skjálvtan, men vístu hon um ikki stór an ans í fyrstu at løgu, tí jarð skjálvtar henda so ofta.</p>
+<p><em type="bold">Sera harður jarð skjálvti í Indonesia </em></p>
+<p>Jarðskjálvtamátarar um allan heim boð aðu frá stóra skjálvt an um í Indo nesia. Skjálvt in varð máld ur at vera 9,0 á Richt er stiganum. Hetta er harð asti jarðskjálvti sein astu 40 árini, og ein av teimum harðastu jarð skjálvtunum, sum vit yvirhøvur kenna til. Jarð skjálvtin elvdi til stóra órógv í havinum og eina óvan liga stóra aldu, sum breiddi seg sum ringar í vatn inum og skolaði inn yvir strend urnar í lond un um kring Indiahav. Ein slík alda hevur fingið jap-anska heitið tsunami. Tsunami-aldan henda morg unin var so mikið sterk, at hon rakk heilt til strondina á Eysturafrika. Skelkandi frá sagn-ir nar frá oyðileggingunum í Asia komu inn í flestallar stovur við sjónvarpi, útvarpi og bløð-um í Føroyum. Fyrst í februar 2005 var talið á deyðum aftan á vanlukkuna gjørt upp til næst an 300.000 fólk, og harvið er hetta nógv tann ringasta tsunami-vanlukkan, sum heim ur-in nakrantíð hevur upplivað.</p>
+<p>Í døgunum aftan á 26. desember var ein long røð av skjálvtum og eftirskjálvtum, við hvørt yvir 20 um dagin. Av teimum vóru nógvir rætti liga harðir, – yvir 6 á</p>
+<p>Richterstiganum – men eingin av teimum elvdi til ovurstórar tsunami-aldur, eins og tann fyrsti skjálvtin.</p>
+<p><em type="bold">Samanstoytur av plátum í Indonesia </em></p>
+<p>Í Indonesia stoyta tvær jarð skorpuplátur sam an, og tí eru jarð skjálvtar og eld gos so van lig har. Í sam an stoyt-inum varð tann eina jarð skorpu-plát an trýst inn und ir hina jarð-skorpu plátuna.</p>
+<p>Tann 26. des em -ber 2004 varð onn ur plát an drig in so harð-liga nið ur í jørð ina, at sjálv ur havbotnurin lyft ist upp og skap-aði ógv isliga røring í sjógvin. Henda rør-ing elvdi til hørðu tsu nami-ald una, sum rakti lond ini í</p>
+<p>India havi.</p>
+<p xml:lang="vep"><em type="bold">LIS MORTENSEN JARÐFRØÐISAVNIÐ </em></p>
+<p>Í døgunum aftan á 26. desember var ein long røð av skjálvog eftirskjálvtum, við hvørt 20 um dagin. Av teimum nógvir rætti liga harðir, – yvir</p>
+<p>Richterstiganum – men eingin av teimum elvdi til ovurstórtsunami-aldur, eins og tann</p>
+<p type="listitem">Í Indonesia stoyta tvær jarð skorpuplátur ber 2004 varð onn ur plát an drig in so harð-plát an drig in so liga nið ur í jørð ina, at sjálv ur  havbotnurin lyft ist  upp  og  skap-aði  ógv isliga  røring í sjógvin. Henda rør-ing  elvdi  til  hørðu tsu nami-ald una, sum  rakti  lond ini  í  11</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/200</p>
+<p>bæði veikir og harðir jarðskjálvtar, og har eru eisini nógv virkin eldgos. Hvat er serstakt við hesum økinum? Fyri at svara hesum spurn ingi er neyðugt at hyggja at, hvussu jørðin er uppbygd.</p>
+<p>Hví eru so nógvir jarðskjálvtar í Sumatra</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">12</p>
+<p>Jørðin</p>
+<p><em type="bold">Jørðin er ein gongustjørna, og innast í henni er ein glóðheitur kjarni, ið er einar 5.0000C. Hitin frá heita kjarnanum leitar sær leið út til køldu jarðarskorpuna. Tað er við til at skapa røring í sjálva jarðarskorpuna og hevur havt við sær, at jarðarskorpan í løtuni er býtt sund ur í einar 10 stórar skorpuplátur, sum ferðast hvør ímillum aðra. </em></p>
+<p xml:lang="isl">Skorpuplátur</p>
+<p><em type="bold">Har, sum plátur fara sundur, kemur hiti úr und ir grundini, og eldgos og jarðskjálvtar koma í, t.d. sum í Íslandi. Har sum plátur stoyta sam an, verður ofta onnur plátan trýst undir hina. Hvørja ferð, onnur plátan verður trýst eitt petti afturat inn í jørðina, merkist tað sum ein jarðskjálvti. Á støðum, har tvær plátur stoyta saman, fáa vit harðar jarðskjálvtar og eld gos. </em></p>
+<p xml:lang="isl">Jarðskjálvtar um allan heim</p>
+<p><em type="bold">Um vit hyggja at, hvar á jørðini jarðskjálvtar og eld-gos koma í, síggja vit, at hesi øki mynda lang ar linj ur út fyri nøkrum megin lond um og úti á heims høv un um. </em></p>
+<p><em type="bold">Hes ar longu linj urnar mynda mørkini ímillum all ar jarð skorpu pláturnar á jørðini. Hetta vísir, at flest all ir jarðskjálvtar og eldgos á jørðini eru á mark in um mill-um jarðskorpupláturnar. Fyri brigdið kalla vit plátu-vond. </em></p>
+<p><em type="bold">Føroyar liggja uttan fyri gosvirkið øki </em></p>
+<p>Føroyar liggja eystan fyri eina rivu, har tvær plát-ur flyta seg burtur hvør frá aðrari. Jarðskjálvtar og eldgos henda fram við allari hesi rivu. Hetta øki kenna vit sum Miðatlantsryggin, og Ísland liggur júst á rygginum. Føroyar eru bygdar upp av grótbræðingum frá eldgosum, sum vóru fyri næstan 60 milliónum árum síðan, tá ið henda rivan byrjaði at skilja sundur Evropa og Norðuramerika. Alt gosvirksemi er sloknað í Føroyum fyri langari tíð síðan, og í dag er føroyska økið púra óvirkið viðvíkjandi eld-gosum og hørðum jarðskjálvtum. Vit skulu tí ikki vænta tsunami-aldur í Føroyum av somu orsøk sum tann, sum rakti Indiahav annan jóladag, nevnliga ein harðan jarðskjálvta tætt við Føroyar.</p>
+<p><em type="bold">Kunnu tsunami-aldur raka Føroyar? </em></p>
+<p>Um Føroyar liggja uttan fyri skjálvta- og gos-virkið øki, kunnu vit spyrja, um Føroyar kanska ongantíð verða raktar av tsunami-aldum? So einfalt er tað ikki, tí tað eru nevnliga aðrar hendingar enn jarðskjálvtar, sum kunnu elva til tsunami.</p>
+<p><em type="bold">Hvat kann elva til tsunami? </em></p>
+<p>Ein tsunami, sum ofta misvísandi verður kallað ein flóðalda, verður skapað av ógvisligum náttúruhendingum í sjónum. Hendingar sum spreingigos, ovurstór omanlop av landi út á hav, ovurstór skriðulop á havbotninum ella at ein stórur loftsteinur úr rúmdini dettur í havið kunnu eins og jarðskjálvtar skapa tsunami-aldur. Ógvisliga órógvin fær røring í allan sjógvin, og aldurnar breiða seg sum ringar í sjónum, júst sum tá vit kasta ein stóran stein í eina tjørn.</p>
+<p><em type="bold">Fingramerki frá tsunami-alduni </em></p>
+<p>Tá ið risaaldan nærkast landi, sæst tað ofta við, at sjógvurin fløðir ella fjarar óvanliga skjótt. Tá ið tsunami-aldan stutta løtu seinni skolar inn yvir landið, kemur nógv tilfar frá havbotninum við, so sandur og steinar skola inn yvir landið saman við vatninum. Nakað av hesum tilfari liggur eftir, tá ið aldan tekur seg aftur. Ein tsunami-alda setur soleiðis sítt fingramerki á landslagið, sum kann finnast aftur við jarðfrøðiligum kanningum nógv ár seinni. Jarðfrøðiligar kanningar kunnu avdúka, hvar tsunami-aldur hava verið, hvussu stórar tær hava verið, og nær tær hava verið.</p>
+<p xml:lang="isl"><em type="bold">Tsunami-aldur í Atlantshavi </em></p>
+<p>Jarðfrøðiligar kanningar á atlantiska økinum hava víst, at tsunami-aldur eru sjáldsamar, men als ikki ókendar. Orsakirnar til tær flestu atlantisku tsunami-aldurnar hava verið oman-lop av landi út á havið og skriðulop á land-grunshellingini út fyri øll meginlondini, men eisini tsunami-aldur elvdar av jarðskjálvtum kennast frá miðjarðarhavsøkinum.</p>
+<p><em type="bold">Ovurstór tsunami í Føroyum fyri meir enn 7000 árum síðan </em></p>
+<p>Eisini í Føroyum eru fingramerki eftir ovurstórar tsunami-aldur funnin. Eitt stórt skriðulop, kallað Storegga, hendi út fyri norsku land-grunshellingini fyri yvir 7.000 árum síðan, og hendingin elvdi til eina tsunami-aldu, sum rakti alt tað norðuratlantiska økið. Storegga-skriðan setti gongd á eina ovurstóra tsunami-aldu, sum gjørdist einar 16 metrar høg í Nor-egi, og hon var einar 10 m høg í Íslandi og 5 m høg í Skotlandi. Tekin eftir hesa tsunami-aldu eru funnin í vatninum á Vágseiði í Suð-uroy og á Eiði, og mett verður, at aldan, sum skolaði inn yvir Føroyar, hevur verið einar 10-12 metrar høg.</p>
+<p><em type="bold">Lítlar tsunami-aldur eru ikki óvanligar í Føroyum </em></p>
+<p type="listitem">Lítlar tsunami-aldur koma stundum fyri, tá ið berglop  henda  í  bjørgunum,  og  grótskriður  13</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p><em type="bold">Aftan á tsunami-alduna28. desember 2004 </em></p>
+<p><em type="italic">Oyðileggingar av tsunami-alduni síggjast á fylgisveinamyndum(Kelda: Digital Globe) </em></p>
+<p><em type="bold">Áðrenn tsunami-alduna </em>skola út á sjógv í einum. Ein slík hending er kend frá Gjógv. Tann 9. juni 1953 hendi eitt stórt berglop sunnan fyri Borgaran norðarlaga í Kalsoynni. Lopið brast út á sjógv og elvdi til eina tsunami í Djúpunum, sum breiddi seg sum ringar í sjónum og rakti Gjógv løtu seinni. </p>
+<p>Ebba Joensen greiðir frá hesi hending í „Jóla-boðum“ 1987, og Petur Jacob Sigvardsen lýsir eisini hendingina í bókini „Úr Gjáar søgu 2“ frá 1998. Sagt verður frá, at ein maður mundi druknað, og at tað var um reppið, at ikki fleiri fólk fingu stóran skaða.</p>
+<p>Ein møgulig onnur frásøgn er úr Sørvági í bókini „Sørvágur og sørvingar II“ eftir Sonna</p>
+<p>Jacobsen. Her verður greitt frá, at góðveðurs-dagin tann 14. august 1916 reistist ein stór alda av marbakkanum og skolaði inn yvir all-an sandin niðan á kirkjugarðin. Tíbetur vóru børnini júst farin av sandinum niðan at eta døgurða, so eingin fekk skaða av hesi aldu.</p>
+<p>Tað er ikki óhugsandi, at fleiri slíkar frásagnir finnast í Føroyum, og at hesar hendingar eru ábendingar um tsunami-aldur, elvdar av stórum omanlopum í bjørgunum nærhendis.</p>
+<p>Hvussu vanligar slíkar smáar tsunami-aldur eru í Føroyum, vita vit ikki, men arbeitt verður við at kanna hetta.</p>
+<p><em type="bold">Einasta verjan móti tsunami er fyrivarni </em></p>
+<p>Einki kann gerast fyri at fyribyrgja náttúruvan-lukkum, tá ið stóru náttúrumáttirnir leika á sum harðast. Men aftan á hendingina í Asia hava vit møguleika til at taka við læru og gerast betri til at avmarka missin av mannalívum.</p>
+<p>Her kemur spurningurin um ávaringarskipanir inn í myndina. Higartil hevur einans Kyrrahav havt ávaringarskipan ímóti tsunami-aldum.</p>
+<p>Tað er ikki so løgið, tí hetta økið verður rakt nógv oftast av tsunami-aldum. Vanlukkan í</p>
+<p>Asia hevur tó reist spurningin, um ikki øll strandarlond í heiminum áttu at luttikið í eini ávaringarskipan.</p>
+<p><em type="bold">Ávaringarskipan í Atlantshavi </em></p>
+<p>Spurningurin um ávaringarskipanir fyri atl-antiska økið verður viðgjørdur í altjóða høpi í løtuni. Slíkar skipanir byggja á, at boyur festar á havbotnin senda inn dátur um m.a. alduhæddir til dátumiðstøðir. Grundað á hesar upplýsingar ber til at meta um, um ein tsunami-alda er á veg, og síðan seta neyðuga tilbúgving í verk saman við ávaringum. Um stórar náttúrukreftir, sum t.d. omanlop ella skriðulop á atlantiska økinum, seta í verk eina tsunami, eins og tað er hent áður á hesum øki, kunnu slíkar aldur eftir fáum tímum ferðast tvørtur um vítt hav. Ráðini, ið tá eru at taka til, eru at senda út ávaringar, skipa fyri at flyta fólk burtur og á tann hátt avmarka missin av mannalívum. Hetta treytar, at ein ávaringarskipan er fingin at virka fyri økið.</p>
+<p><em type="italic">Omanlop í Kalsoynni elvdi til eina tsunami-aldu í 1953 </em></p>
+<p><em type="italic">Storegga-skriðan leyp fyri uml. 7.200 árum síðan </em></p>
+<p><em type="italic">Tsunami-alda rakar við miklari ferð </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">14</p>
+<p><em type="bold">LIS MORTENSEN </em>er útbúgvin cand.scient. í náttúrulandafrøði á Geografisk Institut, </p>
+<p>Københavns Universitet, í 1990. Síðan tá hevur hon starvast á</p>
+<p>Jarðfrøðisavninum</p>
+<p>Teldupostur: lismor@jfs.fo</p>
+<p>rakti Føroyar fyri 7.200 árum síðan</p>
+<p>Fyrispurningur:</p>
+<p><em type="italic">Um lesarar kenna til t.d. berglop í Føroyum, sum hava elvt til stórar aldur, eri eg áhugað at frætta um tað. </em></p>
+<p>Skriva til: ella ring 35 70 00.</p>
+<p>Teldupostur: lismor@jfs.fo.</p>
+<p>Keldur:</p>
+<p xml:lang="nno"><em type="italic">Grauert, M., Bjørck, S. og Bondevik, S. 2001. Storegga tsunami deposits in a coastal lake on Suðuroy, the Faroe Islands. </em>Boreas <em type="italic">, vol 30, pp 263 – 271. Oslo. </em></p>
+<p><em type="bold">Fyri umleið 7.200 árum síðan hendi eitt ovurstórt skriðu lop á norsku hell-ing ini, har einir 1700 km3 av leiri og eyri ruddu út í Norska havið. </em></p>
+<p><em type="bold">Hend ingin elvdi til eina røð av tsunami-aldum, sum raktu øll londini í </em></p>
+<p><em type="bold">Norð ur atlants havi. </em></p>
+<p><em type="bold">Útrokningar vísa, at Før-oy ar vórðu raktar av tsu-nami-aldu einar tveir tím-ar aft an á hendingina. </em></p>
+<p><em type="bold">Borikjarnurnar vísa, hvussu tsunami-aldurnar, sum skolaðu inn yvir vatnið á Vágseiði, skræddu alt upp framman fyri sær. Gras, mold og alt tað leysa á vatnbotninum varð skrætt upp nið ur á hellu á leiðini. Samstundis blakaði ovur stóra aldan havsand og smásteinar inn yv ir vatnið. Vavsturin av sandi, smásteinum, skelj um frá havinum og lívrunnum tilfari frá landi datt sum fráleið niður á botn í vatn inum aftur. Oman á hesum eyðkenda tsu nami-tilfarinum liggja upp til nakrir metrar av van ligari vatnmóru, sum eru botnfallin hesi farnu 7.200 árini. </em></p>
+<p><em type="bold">Granskarar úr Svøríki, </em></p>
+<p xml:lang="isl"><em type="bold">Dan mark, Noregi og </em></p>
+<p type="listitem">Onglandi  hava  leitað í  nøkur  ár  eftir  ábend-ingum kring Føroyar, sum kunnu  siga  nakað  um, hvussu  høgt  tsunami-aldurnar  skolaðu  inn yvir  landið.  Í  boringum í  vatn inum  á  Vágseiði í  Suðuroy  eydn aðist teimum  at  staðfesta og  dagfesta  jarðløg  frá tsunami-ald unum. 15</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem">Tá ið leitað verður eftir kolvetni í und ir grund-ini, eru ym iskar fortreytir, ið eiga at vera upp-fyltar, fyri at kolvetni kann verða funnið í rakstr-arverdum nøgd um. Tær eru í høv uðs heit um:</p>
+<p type="listitem">Eru fláir, ið kunnu framleiða kolvetni?</p>
+<p type="listitem" xml:lang="isl">Er goymslugrýti?</p>
+<p type="listitem">Eru  hóskandi  fellur,  ið  kunnu  fanga  og goyma kolvetni?</p>
+<p type="listitem">Vóru  hesar  treytir  til  staðar  á  sama  staði sam stundis?</p>
+<p>Henda greinin viðger tær jarðfrøðiligu prosessurnar, ið skapa fortreytir fyri at finna kolvetni í rakstr arverdum nøgdum.</p>
+<p xml:lang="olo"><em type="bold">Kolvetni </em></p>
+<p>Fyri at finna kolvetni í undirgrundini krevst, at legugrýti er til staðar, ið inniheldur stórar nøgd ir av lívrunnum evni. Lívrunna evnið eru verur, sum doyggja og søkka niður á hav botn-in á einum øki, har onki súrevni er, ið kann fremja rot av tí lívrunna evninum. Við tíð ini leggj ast nýggjar fláir av ymiskum slag om aná.</p>
+<p>Tá ið fláirnar, sum innihalda lívrunna evnið, eru komnar niður í eina ávísa dýpd, har hiti og trýst eru tað rætta, byrjar hetta at um skapast til olju. Mest olja verður framleidd, tá ið hitin er mill um 60 og 120 oC. Um lívrunna evnið síðan kem ur enn djúpari, verður meira gass framleitt, og mest gass verður vanliga fram leitt, um hitin er millum 120 og 250 oC. Tó er nýliga komið fram, at kolvetni møguliga kann framleiðast við hægri hita, um trýstið er nóg høgt. Um flá irnar fara niður um eina ávísa dýpd, byrja tær at framleiða koltvísúrni og vatn í staðin fyri kol vetni. Fláirnar, sum fram leiða kolvetni verða nevnd ar móðurgrýti. Á <em type="italic">1. mynd </em>sæst tulkað dømi úr føroyska økinum, har ið móðurgrýtið (reytt) liggur á ymiskari dýpd. Her kann hugsast, at tað framleiðir olju, har tað er grynst, og vatn og koltvísúrni, har tað er djúpast, og tað fram-leiðir gass har í millum. </p>
+<p>Um móðurgrýti innan lutfalsliga stutta tíð fær nógvar tjúkkar fláir oman á seg, kann henda, at tað einans framleiðir olju og gass í eitt lutfalsliga stutt tíðarskeið, kanska bara nakr ar heilt fáar milliónir ár, áðrenn tað kemur so djúpt at liggja, at tað ikki framleiðir kol vetni long ur. Nærri verður greitt frá týdninginum av hes um seinni í hesi grein.</p>
+<p xml:lang="isl"><em type="bold">Goymslugrýti </em></p>
+<p>Grót, ið inniheldur kolvetni, nevnist goymslu-grýti. Tað mest vanliga goymslugrýtið er sand-stein ur, har kolvetnið liggur í poknunum mill um sandkornini, eins og <em type="italic">2. mynd </em>vísir. Eitt annað grót slag, ið ofta virkar sum goymslugrýti, er kálk. Í Danmark eru fleiri dømi um stór olju-felt, har goymslugrýtið er kálk. Enn eru ongar ábend ingar um annað enn sandstein sum goymslu grýti um okkara leiðir. </p>
+<p>Felagsnavnið fyri eginleikar hjá gróti við-víkjandi goymslu av kolvetni er „goymslugrýtis-eg in leikar“. Ein av høvuðseginleikunum er por øsitetur (poknustig). Por øsiteturin er tann mongd in av einum steini, sum er poknur. Hin høv uðs eginleikin er permeabiliteturin (gjøgn-um stroymi). Tað sigur nakað um, hvussu lætt tað er hjá kolvetni at renna gjøgnum stein in.</p>
+<p>Um lítið og onki samband er millum pokn ur-nar, er tað sera torført ella kanska ógjørligt hjá vætu at renna gjøgnum steinin, og hevur stein urin tá ein sera lágan permeabilitet. Er hin-veg in gott samband millum poknurnar, er lætt hjá vætu at renna gjøgnum steinin, og hev ur hann sostatt ein høgan permeabilitet. Sam-band er millum permeabilitet og por øsitet, so leið is at lágur por øsitetur vanliga merkir, at permeabiliteturin eisini er lágur, tí eru færri og smærri poknur, so er eis ini meira ósannlíkt, at tað er gott samband mill um poknurnar.</p>
+<p>Hvat framleiðslu viðvíkur er ymiskt, hvar ein setur markið fyri, um tað loysir seg at út vinna kolvetni. Um tað snýr seg um gass, so er møguligt at framleiða úr gróti við lutfals liga vána ligum goymslugrýtisegin leik um. Hetta kemst av, at gass er tuntflótandi og seyrar tí betur gjøgnum grótið. Um tað snýr seg um tunga olju, ella eins og á Clair-feltinum um sera tunga olju, so seyrar oljan næstan ikki gjøgnum, og tí krevjast rættiliga góðir goymslu grýtiseginleikar, áðrenn tað lønar seg at útvinna slíka olju.</p>
+<p xml:lang="deu"><em type="bold">HERI ZISKA JARÐFRØÐISAVNIÐ </em></p>
+<p><em type="bold">Kolvetni í undirgrundini </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">16 17</p>
+<p type="listitem" xml:lang="isl">FRØÐI 1/20051. mynd:</p>
+<p>ymiskum dýpdum.</p>
+<p xml:lang="isl">brúnt: takgrýti, svart/ grátt : gosgrýti. 2. mynd:</p>
+<p xml:lang="isl">Goymslugrýti.</p>
+<p xml:lang="nob">Gult: Sandkorn,</p>
+<p>Reytt: Kolvetni</p>
+<p><em type="bold">Fellur </em></p>
+<p>Tað, at goymslugrýti er til staðar, og olja seyr-ar upp ígjøgnum undirgrundina, er ikki nóg mikið. Neyðugt er eisini við fellum, ið kunnu fanga kolvetni í slíkum mongdum, at tað loysir seg at fara undir framleiðslu. Hugsað dømi um fellur síggjast á <em type="italic">3. mynd </em>, og dømi úr føroyska økinum eru á <em type="italic">1. mynd </em>. </p>
+<p>Kolvetni seyrar uppeftir gjøgnum undir-grundina, tí at tað er lættari enn vatn. Um onki fangar kolvetni á vegnum, so endar tað við, at tað kemur upp gjøgnum havbotnin ella upp á landjørðina. Tað fyrra fyribrigdið er rættiliga týðiligt út fyri californisku strondina, har tað altíð liggur ein litfagur oljufilmur á sjónum, sum stendst av, at olja lekur úr undirgrundini.</p>
+<p>Seinna fyribrigdið er eisini kent, har sokallaðir tjøruhyljar síggjast á landjørðini. Hyljarnir standast av, at kolvetni lekur upp gjøgnum undirgrundina og at enda legst sum ein hylur.</p>
+<p>Gass og tann lættara oljan fordampa skjótt, og tí verður einans tjøra eftir.</p>
+<p>Um permeabiliteturin er heilt lágur, kann kolvetni ikki seyra ígjøgnum og verður tí antin stýrt ein annan veg, ella verður tað fangað.</p>
+<p>Tær fláir, ið eru so tættar, at kolvetni ikki megnar at seyra ígjøgnum, verða nevndar takgrýtisfláir. Mest vanliga takgrýtisfláin um okkara leiðir er leirsteinur.</p>
+<p>Um undirgrundin háttar seg so, at oljan ikki sleppur longri upp, so er tað ein kolvetnis-fella.</p>
+<p>Fellur verða vanliga býttar sundur í tvey høvuðssløg, annaðhvørt strukturellar ella stratigrafiskar ( <em type="italic">3. mynd </em>). Tó eru ofta bæði stratigrafiskir og strukturellir komponentar til staðar. Slíkar fellur verða nevndar kombina-tiónsfellur ( <em type="italic">3. mynd </em>). </p>
+<p xml:lang="isl"><em type="bold">Strukturellar fellur </em></p>
+<p>Skap í undirgrundini verða nevnd strukturar, til dømis eru heyggjar og forberg strukturar.</p>
+<p>Strukturellar fellur eru fellur, har skapið í und-irgrundini er avgerandi fyri, um olja verður fangað ella ikki. <em type="italic">3. mynd </em>vísir, hvussu strukturellar fellur kunna vera háttaðar. Tann fyrsta er ein bukla í undirgrundini. Hesar buklur kunnu t.d. stand-ast av, at fláir verða kroystar saman frá síð-uni, og tí bukla partar niður, meðan aðrir partar bukla upp. Tann seinna er ein sokallað umskaringarfella. Her er tað so, at oljan verð-ur fangað, tí goymslugrýtið er brotið av um miðjuna, og fellan íkomin. </p>
+<p>Tað eru strukturellar fellur, sum hava fangað oljuna ella gassið í flestu stóru olju- og gassfelt-unum í heiminum. Sum dømi úr Norðsjónum kunnu nevnast Ekofisk, Statfjord og Brent.</p>
+<p xml:lang="isl"><em type="bold">Stratigrafiskar fellur </em></p>
+<p>Stratigrafi kemur av orðinum „strata“, ið merk-ir lag, ella tá ið tað snýr seg um jarðfrøði: ein flá. Tað nevnist ein stratigrafisk fella, um løgini (fláirnar) spæla ein avgerandi leiklut í, hvussu oljan verður fangað. <em type="italic">3. mynd </em>vísir, hvussu goymslugrýtið gerst tynri og tynri, til fláirnar, sum liggja undir og yvir goymslugrýtinum, at enda møtast. Sostatt sleppur oljan, ið rennur upp gjøgnum goymslu-grýtið, ikki longri og verður tí fangað. </p>
+<p>Stratigrafiskar fellur mynda einstøk lutfalsliga stór og kend felt, tó ikki eina mongd ella stødd, ið kann samanberast við tær strukturellu fellurnar. Tær mest kendu stratigrafisku fellurnar um okkara leiðir eru Foin-aven og Schiehallion, sum eru í Judd-lægdini nærhendis landsynningshorninum á føroyska markinum. Her skal tó nevnast, at báðar fell-urnar hava ein strukturellan komponent eisini og eru tí kombineraðar fellur.</p>
+<p xml:lang="eng"><em type="bold">Timing </em></p>
+<p>Sum longu nevnt, so krevst, at olja er í skip-anini, at grót við hóskandi goymslugrýtisegin-leikum er til staðar, og at ein fella er, ið kann fanga kolvetni. Afturat tí krevst, at allar tær nevndu fyritreytir eru uppfyltar og samvirka samstundis á einum og sama stað. Tað er nevniliga so, at um fellan ikki er til staðar, tá ið kolvetni kemur framvið, so steðgar tað ikki á, fyrr enn tað er komið allan vegin upp gjøgn-um undirgrundina. <em type="italic">4. mynd </em>vísir munin á gjøgnumrenslinum av olju, alt eftir hvussu undirgrundin er dánað. </p>
+<p>Myndin til vinstru lýsir eitt stað, har ongin fella er til staðar, og rennur oljan beinleiðis gjøgn-um tað. Í miðjuni er fella íkomin, við tað at ein umskaring hevur forskotið goymslugrýtið.</p>
+<p>Oljan fyllir nú felluna, til hon er full, og síðan rennur hon fram við felluni og víðari upp gjøgnum undirgrundina, eins og tað sæst á myndini uttast til høgru.</p>
+<p>Um móðurgrýtið var komið so djúpt, at tað einans framleiddi koltvísúrni og vatn, tá ið fellan íkom, var onki kolvetni eftir at fylla felluna við, - tískil er timing ein sera týðandi partur av allari kolvetnisskipanini.</p>
+<p><em type="bold">Leitingarváði </em></p>
+<p type="listitem">Nógvir ymiskir faktorar eru, ið kunnu forkoma møguleikanum  fyri,  at  kolvetni  kann  verða funnið á einum ávísum stað, og tí er vanligt, at váðin í sambandi við eitt ávíst leitimið ofta verður  sundurskildur  í  ein  váða  fyri  hvønn faktor  sær,  ið  skal  vera  til  staðar. T.e.  at  ein váði er fyri:</p>
+<p type="listitem" xml:lang="isl">at kolvetni er framleitt á staðnum</p>
+<p type="listitem">at goymslugrýti er til staðar</p>
+<p type="listitem">at fellan er til staðar</p>
+<p type="listitem">at timing var til vildar</p>
+<p>Um eitt ávíst leitimið verður tikið sum dømi, so kann vera, at tað verður mett at vera mikið sannlíkt, at kolvetni er til staðar (90%), goymslugrýti er meira váðaligt (50%), fellan er góð (80%) og timing er ivasom (50%).</p>
+<p>Um vit falda hesi tølini, so kenna vit váðan fyri hetta leitimiðið (90%x50%x80%x50% = 18%). T.e. at um fimm leitimið við hesum váðanum vórðu borað, so høvdu fýra teirra væntandi verið turr, meðan tað fimta møgu-liga eydnaðist.</p>
+<p>Váðin er størri á einum leitiøki, har lítið og onki er leitað áður, í mun til eitt øki, har leitað hevur verið leingi. Tað kemst av, at ivamálið viðvíkjandi teimum nevndu fýra faktorunum minkar við hvørjari boring. Tað er tó eisini so, at har, ið leitað hevur verið leingi, eru boringar gjørdar á teimum stóru leitimiðunum, og tí eru tey stóru oljufeltini allarhelst longu funnin.</p>
+<p>Á einum nýggjum øki, sum t.d. á føroyska landgrunninum, eru tey stóru leitimiðini ikki roynd, og tí eru sannlíkindini fyri at gera stórar fundir lutfalsliga størri.</p>
+<p>Fyri hvørt einstakt felag er tað tí ein meting, um tað vil royna at finna nógv smá ella fá stór felt, og er tað henda avgerð, sum ger, at eitt felag leitar í t.d. Norðsjónum, har váðin er lítil, og sannlíkindini fyri at gera stórar oljufundir er lítil, meðan eitt annað leitar á føroyskum øki, har váðin er størri, men sann-líkindini fyri at gera stórar oljufundir eisini eru somikið størri.</p>
+<p>Hesin háttur, greiddur er frá omanfyri, er nakað einfaldaður, men gevur tó eina mynd av, hvussu arbeitt verður, og hvørji atlit verða tikin, tá ið møguleikin fyri at finna kolvetni í einum ávísum leitimiði verður eftirmettur.</p>
+<p xml:lang="isl"><em type="bold">Samandráttur </em></p>
+<p>Sum tað sæst, so eru nógv fyribrigdi, ið skulu koma fyri á sama stað samstundis, fyri at ein oljufundur skal spyrjast burturúr. Tað krevst, at kolvetni verður framleitt, samstundis sum at fellur eru til staðar, ið kunnu fanga kolvetni í gróti, sum hevur nøktandi goymslugrýtiseg-inleikar. Kolvetnisleiting er tí í høvuðsheitum ein spurningur um at meta um, hvussu hesar ymisku fortreytir laga seg í hvørjum einstøkum leitimiði.</p>
+<p>Á føroyska økinum er tað so í dag, at ein heldur, at kolvetnisskipanin er virkin, og fellur eru eisini kortlagdar. Tað, sum í løtuni tykist verða mest trupult at spáa um, er, um grót við góðum goymslugrýtiseginleikum er til staðar á rætta stað. Harafturat er tað torført at meta um, hvussu timing hevur lagað seg í mun til tað einstaka leitimiðið.</p>
+<p><em type="bold">HERI ZISKA </em>tók prógv sum cand.scient. í jarðalisfrøði á Aarhus Universitet í 1994. Hann hevur starvast á Jarðfrøðisavninum í Tórshavn og hjá </p>
+<p>Amerada Hess í London. Hann starvast í løtuni sum kanningarleiðari á</p>
+<p>Jarðfrøðisavninum. Hann er serkønur í jarðalisfrøði og oljuleiting.teldupostur: hziska@jfs.fo 4. mynd:</p>
+<p>av olju, alt eftir hvussu undirgrundin er háttað, og um fellan er til staðar 3. mynd:</p>
+<p>Fellur.</p>
+<p type="listitem" xml:lang="nno">reytt: gass, grønt: olja og blátt: vatn   19</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">18</p>
+<p xml:lang="isl"><em type="bold">Strukturellar fellur </em></p>
+<p xml:lang="isl"><em type="bold">Stratigrafisk fella </em></p>
+<p><em type="bold">Kombinerað fella </em>tá ið læknarnir vóru fáir, og ferðasambandið inn anoyggjað var tvørligt, tíðarkrevjandi og tíð um vandamikið. </p>
+<p>Besta mið at finna frásagnir um fólk, ið vóru kend fyri serligar gávur og hegni at lekja, er í yms um siðsøguligum tilfari í bókum og bløð-um. Oftast verður tikið fram, hvussu beinasom og ósjálvsøkin tey hava verið. Hjálpin var ein góð gerð. Fingu tey nakað afturfyri, var tað meira meint sum samsýning ella gáva. Parturin av „lønini“ man í mongum førum hava verið at síggja gott úrslit, og at kenna takksemi fyri at kunna gera nyttu og veita hjálp. Vit hava eis-ini dømi um, at hesi fólk kundu kenna tað sum eina byrðu. Ikki bert tað, at tey kundu koma í støður, har tey kendu seg hjálparleys, men eis ini tí, at fólk væntaðu av teimum sum eina sjálv fylgju, at tey altíð vóru tøk og til reiðar at hjálpa til.</p>
+<p>Tað, sum hesi fólk tóku sær av, var fyri ein stór an part sár, svullir og annað uttanholda.</p>
+<p>Summi dugdu væl at taka sær av beinbrotum og øðrum skurðlæknaarbeiði. Tey høvdu eisini ráð fyri øðrum sjúkum og veikleikum, sum stav aðu frá innanholda ólagi. Í bókini „Gomul før oysk heimaráð“ eftir R.K. Rasmussen síggja vit t.d. heimaráð fyri lungnabruna, tarmalop, gikt o.m.a. Evnini, tey brúktu at lekja við, vóru fyri ein stóran part ymist úr náttúruni, úr bæði djóra- og plantuheiminum. Har er eis ini ymist nevnt um tann mátt, tey hildu vera í steinum og metali, sjógvi og mold, t.d. kirkjugarðsmold. Millum heimaráðini eru eis ini apoteksvørur, og tá ið slík evni vórðu brúkt, hoyrdi ofta eitthvørt ritual við. T.d. taka 3 skeiðir ella gera okkurt 3 ferðir, og at smyrja sálvu á við lekifingri.</p>
+<p>Kanska hugsa vit okkum heimaráð „fyrr í tíð-ini“ meira gandakend, enn tey í veruleikanum vóru, og at tey mest bygdu á pátrúgv og ókunn leika. Nógv av heimaráðunum byggja á gamlar fatanir av mannakroppinum, og hvussu hann virkar, og á arvaðar kunnleikar um ráð, ið plagdu at hjálpa. Dømi um hetta er æðraláting, ið varð hildið at hjálpa móti al skyns sjúkum og veikleikum leingi eftir, at lækna frøðin var farin frá tí. Sambært tí vit vita um heimadoktarar í 19. øld og inn í 20. øld, var tað rættiliga ymist og fjølbroytt, hvaðan tey høvdu sínar kunnleikar, og hvørji heiliráð tey brúktu. Summi áttu læknabøkur, onnur brúktu niðurarvað ráð og løgdu afturat tað, tey høvdu lært av egnum royndum. Eyðvitað broytt ist hetta eisini við tíðini, so hvørt sum tey fingu atgongd til fleiri evni enn tað, sum fekst úr náttúruni av urtum o.ø.„Det er mig bekendt, at PJM i sygdomstilfælde begæres rundt omkring på Suderø, selv til præst og sysselmand, dels for at kurere, dels for at ple je de syge, og skønt jeg har grund til at antage, at han for tiden ikke gør det til noget egentligt erhverv, men endog hellere ønskede sig fri-ta get derfor, skal han dog som naturligt er på forskellig måde lade sig sin tid og ulejlighed efter sagen at godtgøre. Han er en meget fornuftig mand, som forstår sig på at årelade, forbinde og behandle et simpelt sår, og har noget begreb om, hvorledes en syg skal behandles og ple-jes … Han er endog den mand, jeg i reglen selv må henholde mig til for at få mine lægeanvisninger rigtigt forstået og bragt i udførelse.“ <em type="italic"></em>„Marin tók av nýrumørinum og smeltaði tað upp á sín máta, so tað bleiv sum fløt. So koyrdi hon nakað í frá apotekinum fyri at tað ikki skuldi trána. So koyrdi hon tað í smáar krukkur, og altíð hevði hon roð útyvir. So bleiv tað sett upp á eina hill í erva í hjallinum, har tað var kalt. Tað brúkti hon at lekja við.“ <em type="italic">(Maud Heinesen uppskrivað um mikla dalskonu f. 1838). </em></p>
+<p>Ein heimadoktari, hvat er tað? Sambært Føroysku orða bók ini ein ólærdur lækni ella fólk við gávum at lekja. Tey, sum hava lisið skaldskapin hjá Mart-ini Joensen, koma kanska í tankar um søgu hansara „Heimadoktarin“. Tað er ein stutt lig søga um mann, ið ferðaðist millum bygd ir og lekti fólk við gulum dropum og øðr um ivasomum ráðum. Søgan er skrivað við ein um manni, ið hevur livað, sum fyrimynd.</p>
+<p>Men annars er ’heimadoktari’ einki vanligt orð og hevur neyvan nakrantíð verið tað.</p>
+<p>Nógv ar søgur og frásagnir eru um menn og kvinn ur við gávum at lekja, uttan at tey har-fyri vórðu nevnd heimadoktarar. Hetta var jú einki starv ella yrki, men ein eginleiki ella kunn leiki, sum tey kundu hjálpa øðrum við, tá ið heitt varð á tey. Okkum nýtist ikki at fara so langt aftur í tíðina fyri at síggja, at ein stórur part ur av fólki okkara hjálptust ógvuliga langt við sínum ólærdu ella rættari sagt sjálvlærdu lekj arum. Tað kom væl við at hava slík fólk,</p>
+<p xml:lang="nno"><em type="bold">Heimadoktarar </em></p>
+<p xml:lang="dan"><em type="bold">ELIN SÚSANNA JACOBSEN SØGU- OG SAMFELAGSDEILDIN </em>„Han har gjort kvaksalveri til sit levebrød. Han er en i højeste grad uoplyst og uvidende almuemand, som ved sin uforskammede ind-bildske og dristige optræden har formået at dupere sine ligeså uvidende og uoplyste landsmænd, med en temmelig udbredt praxis. </p>
+<p xml:lang="dan">Hvad der måske især har bidraget hertil er, at de af hans landsmænd, der gælder for de mest oplyste og dannede bønder på landet, desværre ved ord og gerning understøtter hans autoritet.“ <em type="italic">(Amtmaðurin 1854) </em></p>
+<p xml:lang="isl"><em type="italic">Æðralátingartól(Mynd: Slóðir í heilsuverkssøguni) </em></p>
+<p xml:lang="nno"><em type="bold">Heimadoktarar </em></p>
+<p xml:lang="dan"><em type="bold">SØGU- OG SAMFELAGSDEILDIN </em>„Han har gjort kvaksalveri til sit levebrød. Han er en i højeste grad uoplyst og uvidende almuemand, som ved sin uforskammede ind-bildske og dristige optræden har formået at dupere sine ligeså uvidende og uoplyste landsmænd, med en temmelig udbredt praxis. </p>
+<p xml:lang="dan">Hvad der måske især har bidraget hertil er, at de af hans landsmænd, der gælder for de mest oplyste og dannede bønder på landet, desværre <em type="italic">(Amtmaðurin 1854) </em></p>
+<p><em type="italic">Grøðisteinur(Mynd: Gomul føroysk heimaráð) </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">20 21</p>
+<p type="listitem">FRØÐI 1/2005hava  umstøður  og  áneyðir  ikki  altíð  verið  at ráð føra seg við lækna. Mangar kvinnur, bæði ljós møður og aðrar, hava verið rættiliga kønar, og nógv hevur hvílt á teimum, ikki minst tann meira hvønndagsliga sjúkrarøktin.</p>
+<p>R.K. Rasmussen vil vera við, at tað fyrst og fremst vóru menn, t.d. bøndur, prestur ella sýslu maður, ið fólk leitaðu til og høvdu mest álit á, tí teir høvdu mestan lærdóm og upp lýs-ing í bygdini.</p>
+<p>Um prestar er at siga, at við embætinum fylgdu skyldur umframt tær, ið teir høvdu sum sál ar hirðar. Leingi var tað teirra uppgáva at boða landslæknanum frá heilsustøðuni í teirra presta gjaldi. Ofta høvdu teir heilivág at umsita og lata fólki eftir tørvi.</p>
+<p>Í fyrru helvt av 19. øld hava vit dømi um tveir prest ar, sum vóru tiltiknir góðir lekjarar, Petur</p>
+<p>Hentze og Jóhan H. Schrøter, sum vóru prestar í Sandoy og Suðuroy. Báðir vóru teir farnir at lesa læknafrøði, men høvdu síðan sum so mang ir av samtíðarmonnum sínum ásannað, at tryggasta leiðin fram til lønt starv var at lesa til prest. Um báðar hesar menn varð sagt, at fólk komu langvegis frá at leita sær hjálp fyri sjúk ur og løstir. Aðrir læknakønir prestar vóru, eis ini seint í 19. øld, og tað tykist sum, at tað varð væntað av teimum, at teir sum lærdir menn eisini kundu hjálpa upp á sjúkur – eins og teir áttu at duga at mana. Í 1888 skrivaði lands læknin, ið tá var, at fólk ofta vendu sær til prestarnar, sum vórðu noyddir at virka sum kvak salvarar. Ein teirra skuldi hava gramt seg um, at tað bar illa til at bera seg undan, tí fólk tá lokkaðu hann at koma sum sálarhirði, men tá ið samanum kom, væntaðu tey prestin at hjálpa upp á teirra likamligu brek.</p>
+<p>Gongdin í 19. øld er tó, at sjúkrarøkt meira og meira verður roknað sum eitt kvinnu yrki.</p>
+<p>Frá 1870-árunum og fram bóru læknar og onn ur upp á mál, at tað hevði verið hent at havt sjúkrasystrar úti um landið. Um alda-skiftið 1900 finna vit í bløðunum tank ar um at fáa ungar gentur á hospitalið í sjúkra systra-læru, bæði fyri at bøta um sjúkra røktina á hospitalinum, men ikki minni fyri at tær seinni í lívinum kundu gera gagn í bygdini, har tær komu at búgva. (Inntil 1938 var ikki loyvt giftum sjúkrasystrum at arbeiða á sjúkra húsum) Eisini varð skotið upp at geva ljós møðrunum upplæring, so tær kundu virka sum sjúkrasystrar. Einki kom tó burturúr enn á sinni at fáa eina skipaða sjúkrarøktarskipan við løn frá tí almenna. Eitt stig á leiðini var í 1920-ár unum, tá ið Føroya felag móti tuberklasjúku og Reyði Krossur Føroya settu sjúkrasystrar at ferðast um landið eftir tørvi. Tórshavnar komm una setti í 1897 meinigheitssjúkrasystir, og aðra staðni í landinum vórðu stovnað privat sjúkra røktarfeløg, sum kundu fáa eitt ávíst pen ingaískoyti frá kommunum ella stati til at løna eini sjúkrasystur. Hesi feløg doyðu tó ofta burtur, tá ið ein tíð var farin; men nógvar sjúkra systralærdar og ljósmøður komu at fáa ta uppgávu at vera tann, sum heitt varð á um hjálp og leiðbeining, og sum tóku hetta upp á seg. „Løn fingu ljósmóðirin og eg ikki, hóast tað valla var dagur, at ikki okkurt skuldi gerast, sum kravdi, at vit fóru út, ella fólk komu til okk ara. Men tað, eg fekk av naturalia, var góð hjálp, t.d. ein fiskateggja, nøkur egg, og so ein kjøtbita fyri ikki um at tala,“ segði ein sjúkrasystir, sum búði í Fuglafirði frá 1920-árunum og fram. Og hetta hevur verið tann sjálvbodna lønarskipan, sum eisini hevði verið vanlig í undanfarnum ættarliðum.</p>
+<p>Framvegis vóru tó boð eftir sjálvlærdum lekj arum, og kvinnuyrki burturav gjørdist tað ong antíð at taka sær av sjúk um og løst um. Her kunnu vit bert hugsa um okk ara fiskiskip, sum høvdu (ella áttu at hava) med-is inkistu umborð, eins og kunnleiki um sjúkur og sjúkra røkt eftir-hond ini gjørd-ist læru grein í út búgv ingini hjá sjó monn-um.</p>
+<p xml:lang="isl"><em type="bold">Heimildir: </em></p>
+<p>Jacobsen, Elin Súsanna: <em type="italic">Slóðir í heilsuverkssøguni </em>. Tórshavn 2004. </p>
+<p xml:lang="nob">Jákupsstovu, Beinta í: <em type="italic">Kunnskap og makt i færøysk helsepolitikk 1820-1970 </em>. </p>
+<p>Petersen, Wanja: <em type="italic">Frá diakonissuni til sjúkrasystrina </em>. Tórshavn 1998. </p>
+<p xml:lang="nob">Pløyen, C: Færøiske Trylleformularer, skrivað 1845. Í V.U. Hammers-haimb: <em type="italic">Savn úr Annaler for Nordisk Oldkyndighed og Historie og </em></p>
+<p xml:lang="nob"><em type="italic">Anti quarisk Tidsskrift </em>. Tórshavn 1969. </p>
+<p>Rasmussen, R.K.: <em type="italic">Gomul føroysk heimaráð </em>. Tórshavn 1959. </p>
+<p xml:lang="dan">Bekendtgørelse 30.12.1921 ang. Tilskud af Statskassen til Syge pleje-sagens Fremme paa Færøerne.</p>
+<p>R.K. Rasmussen var lækni á Eiði frá 1923 til 1952, og hann savnaði heimaráð frá fólki, sum vóru á lívi tá. Eini 100 ár frammanundan vóru eisini menn, ið savnaðu leivdir av fornum før-oysk um siðum og trúgv. Ein teirra var Pløyen, amt maður 1837-48. Hann segði seg hava roynt at fáa fólk at siga gandaørindi og rímur, m.a. til at lesa sjúkur burtur, men fekk lítið burt urúr, tí fólk vóru varin, serliga um tað vóru em bætismenn, ið forvitnaðust eftir slíkum.</p>
+<p>Tað eydnaðist honum at fáa eitt gandaørindi at lesa burtur syftilsi (gandaður sjúkdómur) og eitt um at lesa burtur skyrbjóg. Í øðrum er heilagi andin nevndur, í hinum bæði Gud,</p>
+<p>Guds sonur og Heilagi andin.</p>
+<p>Tað varsemi, sum Pløyen nevnir, kom ikki av ong um. Eitt var tann aldagamla (men neyvan ser liga miðvísa) herferðin frá kirkjuni móti pátrúgv og gandi. Eitt annað, at frá 1820 varð roynt at hava eftirlit við, um nakað kvak-salv aravirksemi var. Og um nakar kundi leggj-ast undir slíkt virksemi, kundi hann ella hon verða sektað.</p>
+<p>Í 19. øld kom tað nakrar ferðir fyri, at menn og kvinnur vórðu løgd undir skaðiligt kvak salvaravirksemi. Summi fingu átalu fyri at hava verið ov djørv við sínum læknakynstri, og nakrir menn vórðu tiknir til forhoyr, tí við-gerð teirra varð hildin at hava verið atvold til, at sjúklingurin var versnaður ella deyður. Tað kom tó ongantíð so langt sum, at nakar varð dømd ur. Í fyrsta lagi tí tá tað kom til skarp sker-ingar, vóru ongar lógir at døma eftir gald andi í Føroyum. Í øðrum lagi tí at fólk hildu hond-ina yvir teimum, sum vóru komin í kløtur við hægri myndugleikar av hesum ávum, og eing-in fekst at vitna ímóti teimum.</p>
+<p>Av tí sama er sera lítið at finna t.d. í skjølum frá læknum og øðrum embætismonnum, um hvørji evni og hvørjar viðgerðir leikfólk hava brúkt. Í summum førum vita teir, at heima dokt-arar hava brúkt heilivág, sum onkur hev ur ligið inni við, og sum var keyptur frá lækna ella apoteki. Í øðrum førum nevna teir urta-úr dráttir; men ongantíð nevna teir nakað um gandaráð. Tað kann hugsast, at læknar hava mett gandaráð sum meinaleys og tí ikki hava lagt í at nevnt tey. Og tó so: summir læknar vóru, sum mettu heimadoktarar at gera skaða við tað, at teir billaðu fólki inn at kunna lekja tey, og harvið hava hildið tey frá ella seinkað teim um at leita sær køna læknahjálp. – Her kunnu vit so aftur spyrja, um tað var, tí læknin ikki vildi hava kappingarneytar og kendi seg hótt an upp á sítt livibreyð. Vissuliga vóru summ ir, ið tykjast hava hugsað so, men aðrir, og kanska teir flestu, vóru meira lagaligir og ásannaðu, at leikmanna sjúkuhjálp var al neyðugt ískoyti til tað, ið teir kundu koma upp fyri í hesum ótætt bygda oyggjalandi.</p>
+<p>Summ ir læknar løgdu úrvaldum fólkum lag á at veita bráðfeingis hjálp og brúktu tey sum álit is fólk. Mest hoyra vit um menn, ið fingu slíka upplæring, og minni um kvinnur. Tó varð so tíðliga sum í 1828 álagt ljósmøðrum skylda at ganga læknanum til handa „fyri rími liga løn“. Tað skal skiljast sum, at hon bert skuldi hjálpa upp á sjúk undir læknans eftir liti og ikki av sínum eintingum. Eftir tí, vit vita um ljósmøður bæði í 19. og 20. øld, „Tað var ikki bara at vera jarðarmóðir, tað var so nógv annað at taka hond í, bæði fólk og fæ. Var nakar dottin og hevði fingið løst, so komu tey til mín. Men tað, sum man gjørdi við dýr og við fólk annars, tað bleiv ikki fráboðað til læknan.“ <em type="italic">(Ljósmóðir í Mykinesi til uml. 1940). </em>„Omman gekk sum ein doktari um alla oynna. Hon gjørdi lík í stand, koppsetti, og dugdi sera væl at ugga nervaveik.“ <em type="italic">(Um ljósmóður í starvi fyrst í 20. øld) </em>„Óli á Bø (1874-1955) kundi viðgera mangar sjúkur, t.d. blóðeitran, sár og svullir. Hann hevði altíð sárbind við hús, og hann hevði eina gamla lækna bók, sum hann hugdi í, um hann ivaðist í onkrum. Mangan sótu fólk á beinkinum og bíðaðu at fáa viðgerð fyri eitthvørt, tá ið hann kom aft ur av útróðri, og ongantíð fór nakar óhjálptur frá honum.“ <em type="italic">(Sonni </em></p>
+<p><em type="italic">Jacobsen: Sørvágur og sørvingar bd. 2). </em></p>
+<p><em type="bold">ELIN SÚSANNA JACOBSEN </em>er útbúgvin sum søgufrøðingur á Fróðskaparsetri Føroya í 1992; í 1996 fekk hon ph.d.-heiti á Aarhus Universitet fyri bókina <em type="italic">Rúsdrekka – sið ir og ósið ir </em>. Hon er lektari í søgu á Søgu- og samfelagsdeildini á Fróð skap ar setr-inum og gav í 2004 út bókina <em type="italic">Slóðir í heilsuverkssøguni. </em></p>
+<p>Teldupostur: elinsj@setur.fo</p>
+<p><em type="bold">Sjálvur Jesus sjúkur lá, </em></p>
+<p xml:lang="isl"><em type="bold">Har kom hans móðir og sá hará </em></p>
+<p><em type="bold">Hví liggur tú so, mín sæli son? </em></p>
+<p><em type="bold">Tí liggi eg so, </em></p>
+<p><em type="bold">At mær gongur skyrbjóg bæði til og frá. </em></p>
+<p><em type="bold">Statt tú upp og fylg tú mær </em></p>
+<p><em type="bold">Ikki skal skyrbjóg saka tær! </em></p>
+<p><em type="bold">Tá komu tríggir dropar </em></p>
+<p><em type="bold">Av himli niður,jomfrú Maria tók teim viðhon smurdi teir bæði á bringu og lið. </em></p>
+<p><em type="bold">Og so signi eg teg </em></p>
+<p><em type="bold">Í navn Gud faðir </em></p>
+<p xml:lang="nob"><em type="bold">Son og hellig-and. </em></p>
+<p>At lesa burtur skyrbjógsjúkrasystir, sum búði í Fuglafirði frá 1920-árunum og fram. Og hetta hevur verið tann sjálvbodna lønarskipan, sum eisini hevði verið vanlig í undanfarnum ættarliðum.</p>
+<p>Framvegis vóru tó boð eftir sjálvlærdum lekj arum, og kvinnuyrki burturav gjørdist tað ong antíð at taka sær av sjúk um og løst um. Her kunnu vit bert hugsa um okk ara fiskiskip, sum høvdu (ella áttu at hava) med-is inkistu umborð, eins og kunnleiki um sjúkur og sjúkra røkt eftir-hond ini gjørd-ist læru grein í</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">22 23</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p>Størsti partur av fjøru okk-ara er klettur og berg. Inn-ast í summ um firðum, har bakk in gongur heilt út á sjógv, er strandar ong, og bert á heilt fá um støðum er sandstrond. Einans heima á Sandi eru rættiligir sandheyggjar. Teir nevnast Møl-heyggjar. (1. mynd)</p>
+<p>Sambært kunngerð frá Yvirfriðingarnevndini dag fest 18. juli 1983 eru Mølheyggjar friðaðir við tí endamáli, at økið <span type="quote">“skal varðveitast í sínum nat úrliga líki og við varðveitslu av plantum, djór um og jarðfrøðisligum fyribrigdum”</span>.</p>
+<p>Friðingin setur forboð fyri bygging og øðrum inntrivi, ið misprýða økið, samstundis sum hon eisini setur forboð fyri at taka grót, mold, sand, eyr, leir, plantur og dýr. (2. mynd)</p>
+<p xml:lang="isl"><em type="bold">Plantusløg binda sandin </em></p>
+<p>Mølheyggjar eru vorðnir til í einum samspæli ímill um plantuvøkstur og sand, ið verður førd-ur á staðið við vindinum. Fyritreytin fyri, at sand heyggjar kunnu koma í, er, at nóg nógv er til av sandi, og at tey plantusløgini, ið kunnu geva lívd, eru til staðar, soleiðis at sandurin, ið legg ur seg uttan um planturnar, verður bundin við teirra rótgreining.</p>
+<p xml:lang="vep"><em type="bold">ANNA MARIA FOSAA FØROYA NÁTTÚRUGRIPASAVN </em></p>
+<p><em type="bold">Mølheyggjar á Sandi eru friðaðir </em></p>
+<p>náttúruøkjum okkara, ið er friðað.</p>
+<p>sínum endamáli, soleiðis at sermerktu plantu- og djórasløgini, ið eyðkenna hetta búøki, verða varðveitt, ella um friðingin ongan virknað hevur. Í greinini verður greitt frá fjølbroytta vøkstrinum og nomið verður við, hvussu økið kann varðveitast í sínum natúrliga líki. 7. Mynd:</p>
+<p><em type="italic">Grønligt hjúnagras </em>(Coeloglossum viride) <em type="italic">. </em></p>
+<p xml:lang="isl"><em type="italic">Mynd: Magnus Gaard. </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">24 25</p>
+<p type="listitem" xml:lang="isl">FRØÐI 1/20051. Mynd:</p>
+<p><em type="italic">Mølheyggjar (Mynd: Símun Arge)2. Mynd </em></p>
+<p><em type="bold">ANNA MARIA FOSAA </em>er útbúgvin plantuvistfrøðingur við cand.scient-prógvi frá Uni versi-tetinum í Keypmannahavn og ph.d.-heiti frá Universitetinum í Lund. </p>
+<p>Granskingarøkið er árin á fjallvøkstur í Føroyum av veð ur lags broyt ing-um. Anna Maria starvast sum deildarleiðari á plantudeildini á Nátt úru-gripa savninum.</p>
+<p>Teldupostur: anmarfos@ngs.fo</p>
+<p>Vøksturin á sandheyggjum broytist frá sjón-um og inneftir. Tað kemst av, at nøgdin av føðslu evnum økist inneftir. Vøkst urin verður fjøl broyttari, og um hvørvið verður minni órógvað frá sjón um, og plantu sløg, sum binda sand in bet ur, trívast.</p>
+<p xml:lang="isl"><em type="bold">Hægri plantur </em></p>
+<p>Framman fyri Mølheyggjar út ímóti sjónum er fløt sandstrond. Frá sjóvarmálanum og inneftir skift ir vøksturin alt eftir teirra tolsemi fyri sjórá-an um. Niðast við sjógvin eru viðurskiftini sera óstøð ug, við tað at økið er undir í sjógvi, tá ið tað fløðir, og tískil trívast hægri plantur ikki her. Longri uppi, har árinið frá sjónum ikki er so stórt, finna vit tær fyrstu hægru planturnar.</p>
+<p>Vøkst urin er knýttur at uppløgstum tara, har tað tískil er føðsluríkari, og jørðin hevur størri evni at binda vætu (da. markkapacitet). Tann fyrsta plantan, ið vit møta á leiðini inn eftir, er sandfjørukál ( <em type="italic">Cakile arctica </em>). Sand fjøru kál er ársplanta, og ymist er, hvussu stór bú fjøldin hjá hesi plantu er frá ári til ár. Tað er knýtt at, hvussu stór frænøgd er og at vakstr ar um-støð unum á staðnum. Sandfjørukál er ein av okk ara sjáldsomu strandarplantum. Hon finst bert á 9 ymiskum plássum her á landi, og hon átti helst at verið á lista yvir hótt plantu sløg. </p>
+<p>Saman við sandfjørukáli veksur sand dunnu ber ( <em type="italic">Honckenya peploides </em>). (3. mynd) </p>
+<p><em type="bold">Tillagingar </em></p>
+<p>Felags fyri sandfjørukál og sanddunnuber er, at hes ar plantur vaksa skjótt, eru krúpandi, hava tjúkk og sevjumikil bløð og djúpgangandi rót. Alt hetta eru tillagingar, sum gera, at plant urnar eru førar fyri at liva í harðføra um hvørvinum niðri í fjøruni. Tann skjóti vøkst-urin ger, at plantan kann verja seg fyri sand-áløgu. Tann krúpandi vøksturin og tjúkku bløð ini gera, at plantan kann verja seg fyri sliti frá sandkornum, ið fúka yvir plantuna.</p>
+<p>Tann djúpgangandi rótin ger, at plantan er før fyri at halda sær fastari og kann økja um vatn-upp tøkuna. Og tey sevjumiklu bløðini virka til, at plantan betur er før fyri at standa ímóti upp turking og øktum saltmegni.</p>
+<p><em type="bold">Størri fjølbroytni </em></p>
+<p>Á leiðini nakað inneftir gerast sløgini fleiri, vøksturin tættari og fjølbroytni størri. So smátt byrja vit eisini at síggja tey stórvaksnu grøsini, sum eru sermerkt fyri Mølheyggjar.</p>
+<p>Vit finna vanligar strandarplantur sum gásamuru ( <em type="italic">Potentilla anserina </em>), hálshvíta baldursbrá og ta heldur sjáldsamaru skotsku meistaraurtina ( <em type="italic">Ligusticum scoticum </em>) (4. mynd). Skrykkjukrøkja ( <em type="italic">Vicia cracca </em>) (5. mynd), ið er vanligari í bønum, veksur her. </p>
+<p xml:lang="nno"><em type="bold">Hótt plantusløg </em></p>
+<p>Longri inni aftur eru sandheyggjarnir. Har teir eru hægstir, eru teir fleiri metrar høgir. Tær plantur, ið seta dám á Mølheyggjar, eru tey stórvaksnu grøsini sandsmarhálmur <em type="italic">(Ammo-phila arenaria) </em>, breitt sævarkorn <em type="italic">(Leymus aren-ari us) </em>og sevkendur kveiki <em type="italic">(Elymus farctus) </em>(6. mynd). Hesi grøsini finna vit á bert fáum pláss-um í Føroyum, og eru tey tí sett á lista yvir hótt plantusløg í Før oy um, sí www.ngs.fo/redlist/ </p>
+<p>Á flata økinum innan fyri Mølheyggjar gerst margfeldið størri, her finna vit ein hóp av ymiskum urtum. Vit varnast serliga ymisk sløg av stórvaksnum børkubónda av slagnum reyð ur børkubóndi ( <em type="italic">Dactylorrhiza purpurella </em>) og grønligt hjúnagras ( <em type="italic">Coeloglossum viride </em>) (7. mynd). Hesar plantur kunnu gerast upp í 25-30 cm høgar. </p>
+<p><em type="bold">Friðing </em></p>
+<p>Ein kann undrast á, hví Mølheyggjar eru frið að-ir, tá ið eingi tekin um tað eru at síggja, tá ið ein kemur á staðið. Tískil er ivingarsamt, um fólk vita av, at økið er friðað, og at ein skal vera varin, soleiðis at náttúran verður órógvað sum minst. Tað er okkurt, sum bendur á, at so er, tí í sandinum eru týðiligar slóðir eftir ferðslu av motorakførum. Ein kann ivast í, um hetta er í samsvari við friðingina av økinum.</p>
+<p>Um ein veruliga ynskir at varðveita økið í sín um natúrliga líki við varðveitslu av plantum, djór um og jarðfrøðiligum fyribrigdum, átti økið í minsta lagi at verið hegnað inni, so leiðis at ein bert sleppur inn á økið til gongu. Harumframt átti skelti at verið sett upp við kunnandi upplýsingum um friðingina og eisini um tær plantur og dýr, ið har eru. <em type="italic">5. Mynd: </em></p>
+<p xml:lang="spa"><em type="italic">Skrykkjukrøkja </em>(Vicia cracca). <em type="italic"></em></p>
+<p xml:lang="isl"><em type="italic">Mynd: Magnus Gaard.6. Mynd: </em></p>
+<p><em type="italic">Mølheyggjar. </em></p>
+<p xml:lang="isl"><em type="italic">Mynd: Anna Maria Fosaa.4. Mynd: </em></p>
+<p xml:lang="isl"><em type="italic">Skotsk meistara urt </em>(Ligusticum scoticum) <em type="italic">. </em></p>
+<p><em type="italic">Mynd: Jóhannis Jóhansen.3. Mynd: Fremst á myndini sæst sanddunnuber </em>(Honckenya peploides) <em type="italic">og eitt sindur longur upp sandfjørukál </em>(Cakile arctica) <em type="italic">við hvítum og ljósareyðum blómum. Aftast á myndini síggjast tey stórvaksnu grøsini sandsmarhálmur </em>(Ammophila arenaria) <em type="italic">, breitt sævarkorn </em>(Leymus arenarius) <em type="italic">og sevkendur kveiki </em>(Elymus farctus) <em type="italic">, ið seta dám á Mølheyggjarnar. </em></p>
+<p xml:lang="isl"><em type="italic">Mynd: Jóhannis Jóhansen. </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">26 27</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p>Ein lækni fekk einaferð vitjan av eini mammu við einum illa bitnum ný-føðingi. Læknin segði, at barnið hevði loppur.</p>
+<p>Mamman at barninum gjørdist ill – í hennara húsi vóru ongar loppur! Men rætt hevði lækn-in, tí staraloppur vóru dotnar niður í vøgguna undan festingini til loftsljósið. Tá ið vøggan varð flutt, varð barnið ikki bitið longur.</p>
+<p><em type="bold">Lívshátturin hjá staraloppum </em></p>
+<p>Tað er á henda hátt, at tey flestu av okkum koma í samband við fuglaloppur, ið er bólkur-in, sum staraloppur hoyra til.</p>
+<p>Fuglaloppur liva í fuglareiðrum, serliga í reiðrum, ið eru turr. Tað vil siga, at eitt stara-reiður undir væðingini ella í takskegginum á eini húsatekju kann húsa heilt nógvum fuglaloppum. Ormveran hjá staraloppuni livir av ymiskum lívrunnum tilfari, ið liggur í reiðr-unum, og tann vaksna staraloppan livir av at súgva blóð úr búfuglinum. Seinni, tá ið stara-ungarnir eru floygdir, hava loppurnar vetursetu í reiðrum, har tær liggja sum reivverur.</p>
+<p><em type="bold">Staraloppa er eitt vártekin </em></p>
+<p>Tá ið várar, kemur staraloppan út úr reivinum.</p>
+<p>Loppan setur seg út í ljósið, og fer ein fuglur framvið og skuggar fyri loppuni, ger hon eitt lop og ætlar at raka fuglin. Rakar loppan ikki, roynir hon seg aftur seinni. Tað er á henda hátt, at loppan finnur sær eitt vertsdjór. Tó kunnu staraloppur eisini fara til stroks í hús-um, um fuglur ikki kemur aftur í reiðrið.</p>
+<p>Soleiðis var tað, tá ið barnið varð bitið.</p>
+<p>Fólk kunnu eisini fáa fuglaloppur á seg, um tey royna at taka burtur fuglareiður undan væð-ingini. Tað ber eisini til at fáa loppur á seg, um ein gongur fram við har, ið loppur sita.</p>
+<p>Fuglaloppur eru sostatt eitt týðiligt vártekin, og stabbamyndin yvir fráboðanir hjá Føroya</p>
+<p>Náttúrugripasavni1 vísir eina háárstíð frá mars til juli við hægsta tali í maimánaði. Hinar frá-boðanirnar uttan fyri hetta tíðarskeið kunnu koma frá fólki, ið rudda reiður burtur undan væðingini. Hava fólk starahús í garðinum og ætla sær at rudda tey, skal tað gerast uttan-dura, tí annars kann ein fáa fuglaloppur við sær inn. Í hundraðtali av loppum kunnu sita eftir í einum gomlum reiðri.</p>
+<p>Fuglaloppur kunnu eisini fara á hundar og kettur og á tann hátt fara víðari yvir á fólk.2</p>
+<p><em type="bold">Hvussu sær eina staraloppa út? </em></p>
+<p>Tann vanligasta fuglaloppan eitur á latíni <em type="italic">Cera-tophyllus gallinae </em>. Hon líkist eini vanligari loppu, tað vil siga, at hon er lítil, svørt og fløt frá síðuni. Undir sjóneyku er tað tó rímiliga lætt at síggja mun á teimum ymisku vanligu loppusløgunum, so sum hunda-, kettu-, og fuglaloppum.3 </p>
+<p><em type="bold">Til hvussu stóran ampa eru staraloppur? </em></p>
+<p>Staraloppur bíta eins og aðrar loppur, og stend-ur staraloppa sum nr. 8 á listanum yvir tær van-ligastu fráboðanirnar. Koma fuglaloppur inn í húsini, kann ein ugga seg við, at tær ikki liva leingi innandura.</p>
+<p><em type="bold">Hvussu ber til at basa staraloppu? </em></p>
+<p>Fær ein staraloppur inn í húsini, er tað skila-best at taka starareiðrið heilt burtur, tá ið staraungarnir eru floygdir. Tað skal eisini ger-ast, um reiðrið er undir væðingini og kann vera ringt at sleppa til. Tá ið reiðrið er beint burtur, ber til at forða fyri, at loppur verða til ampa várið eftir við at sproyta væl undir væð-ingini við t.d. eitri, ið drepur smákykt. Vil ein nýta eitur, ið brýtist niður skjótt og ikki verður verandi í mong ár, er best at nýta eitt slag av eitri, ið inniheldur evnið pyrethrum/pyrethrin.</p>
+<p>Hetta eitur er vunnið úr eini plantu, og tað brýtist skjótt niður og er ikki vanda-mikið hvørki fyri hundar, kettur ella børn.0246810121416</p>
+<p><em type="bold">Staraloppur gjøgnum árið </em>januarfebruarmarsaprílmaijunijuliaugustseptemberoktobernovemberdesember </p>
+<p><em type="bold">DORETE BLOCH </em>tók náttúruvísindaligt embætisprógv í djórafrøði við serligum atliti at vist-frøði antarfuglanna 1970 við Aarhus Universitet. Hon gjørdist fyristøðari á Djóradeildini á Náttúrugripasavninum í 1980 og stjóri á Náttúrugripa-savninum í 1997. Í 1994 fekk hon doktaraheitið fil.dr. í djóravistfrøði við grindahvalum sum evni við Lunds Universitet. Dorete hevur harumframt síðan 1974 verið lektari í lívfrøði á Fróðskaparsetri Føroya, og í 2001 fekk hon professaratign á sama stovni. </p>
+<p>Teldupostur: doreteb@ngs.fo</p>
+<p xml:lang="ita"><em type="bold">Bókmentir </em>1. </p>
+<p xml:lang="eng">Bloch, D. and Mourier, H. 1994. Pests recorded in the</p>
+<p xml:lang="eng">Faroe Islands, 1986-1992. <em type="italic">Fróðskaparrit 41 </em>(1993): 69-82.2. </p>
+<p xml:lang="nob">Hallas, T. og Mourier, H. 1987. <em type="italic">Stik og Kløe </em>. </p>
+<p xml:lang="nno">Polyteknisk Forlag.3.</p>
+<p xml:lang="nno">Mourier, H. 1995. <em type="italic">Husets dyreliv </em>. Gads Forlag. København. </p>
+<p><em type="italic">Mynd við fráboðanum um staraloppur gjøgnum árið. </em></p>
+<p xml:lang="isl">Skaðadjór 4</p>
+<p xml:lang="spa"><em type="bold">Staraloppan </em></p>
+<p>Ein greinarøð um skaðadjór</p>
+<p xml:lang="deu"><em type="bold">DORETE BLOCH FØROYA NÁTTÚRUGRIPASAVN </em></p>
+<p xml:lang="olo"><em type="italic">Staraloppa </em>(Ceratophyllus gallinae) </p>
+<p xml:lang="sme"><em type="italic">Mynd: Astrid Andreasen </em></p>
+<p><em type="bold">Stutt um tjøruklukku </em></p>
+<p>Finnur tú nakrar 2 mm langar svartar, avlangar klukkur, ið lukta av tjøru ella sum tað, seyðurin varð vaskaður í fyri lýs til fyri nøkrum árum síðan, hevur tú funnið tjøruklukkur. Lesið meira í næstu útgávu av <em type="italic">Frøði. </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">28 29</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p>Fiskirannsóknarstovan hevur síðan 1991 mátað hitan í sjónum við Oyrargjógv. 1. mynd vísir miðalhitan fyri hvønn mánað hesi árini, og vit síggja, at summarið 2003 var tað heitasta, síð-an hesar mátingar byrjaðu, og summarið 2004 var tað næstheitasta. Eisini er veturin 2002-2003 tann heitasti hetta tíðarskeiðið.</p>
+<p><em type="bold">Sjógvurin á Landgrunninum </em></p>
+<p>Sjógvurin, ið er innast á Landgrunninum, er lut-víst avbyrgdur frá sjónum uttanfyri. Tað hevur við sær, at hesin sjógvur ikki líkist sjónum utt-anfyri. T.d. er hitin á Landgrunninum næstan altíð lægri enn hitin uttanfyri. Hetta sæst á 2. mynd, ið vísir vatnskorpuhita á sjónum við</p>
+<p>Føroyar. Á myndini sæst, at sjógvurin innast á Landgrunninum, innan fyri 100-150 m, er umleið eitt stig kaldari enn sjógvurin útiá. Eitt hitamót skilir sjógvin inniá frá sjónum útiá.</p>
+<p>Tá ið vit tosa um sjógvin á Landgrunninum í hesi grein, meina vit við sjógvin, ið er inn-an fyri mótið. Vit síggja eisini á 2. mynd, at hesin sjógvur er væl blandaður, tí hitin er næstan tann sami allastaðni innan fyri mótið á Landgrunninum, serliga í norðaru helvtini.</p>
+<p>Útiá er sjógvurin heitari vestan fyri Landgrunn-in enn eystanfyri.</p>
+<p>Umframt henda munin millum sjógvin útiá og inniá, er eisini munur á, hvussu hitin broytist við dýpi. Á Landgrunninum er nógv-ur røringur í sjónum, og hann er tí sera væl blandaður, og tað hevur við sær, at hitin er tann sami úr vatnskorpu og niður á botn.</p>
+<p>Orsøkin er tað harða sjóvarfallið inni á grunn-um, ið alla tíðina blandar sjógvin. Útiá er sjóvarfallið ikki so hart, og tí kann sjógvurin har vera lagskipaður við heitum sjógvi í erva og køldum í neðra. Eitt dømi um hetta er víst á 3. mynd.</p>
+<p><em type="bold">Hitin </em>á <em type="bold"></em></p>
+<p xml:lang="isl"><em type="bold">Landgrunninum </em>sett <em type="bold">nýtt met </em></p>
+<p><em type="italic">Hitin í sjónum innast á Landgrunninum var í 2003 óvanliga høgur. </em></p>
+<p><em type="italic">Í fleiri mánaðir var sjógvurin heitari, enn hann nakrantíð fyrr er mátaður at vera á Landgrunninum. Ein av orsøkunum er helst, at hitin í luftini eisini var methøgur í 2003, men enn er ov tíðliga at siga, um hetta er ein avleiðing av alheims upphitingini.2. mynd. </em></p>
+<p><em type="italic">Fylgisveinamynd av havinum kring </em></p>
+<p><em type="italic">Føroyar. Myndin vísir vatnskorpuhitan tann 18. apríl 2003. </em></p>
+<p><em type="italic">Litstigin undir myndini vísir hitan, men tey hvítu økini á myndini eru skýggj. 200 m dýpdarlinjan er teknað við hvítum. </em></p>
+<p xml:lang="nob"><em type="italic">Mynd: Peter Miller, </em></p>
+<p xml:lang="eng"><em type="italic">Plymouth Marine </em></p>
+<p xml:lang="kal"><em type="bold">KARIN MARGRETA LARSEN </em></p>
+<p xml:lang="vep"><em type="bold">FISKIRANNSÓKNARSTOVAN </em></p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">30 31</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/20055.01991199219931994199519961997199819992000200120022003200420056.07.08.09.010.011.012.08.48.89.29.61010.4</p>
+<p>Hiti (°C)100806040200 <em type="italic">1. mynd. Myndin vísir sjóvarhita við Oyrargjógv í miðal fyri hvønn mánað, grundað á mátingar í tíðarskeiðinum juni 1991 - desember 2004. 3. mynd. Hitamáting á eini støð á Landgrunninum (grønt) og á eini støð uttan fyri Landgrunnin (reytt). </em></p>
+<p xml:lang="isl">Hiti (0</p>
+<p xml:lang="eng">C)</p>
+<p xml:lang="nno">Dýpi (m)</p>
+<p xml:lang="isl"><em type="bold">Sjóvarhitin á Landgrunninum </em></p>
+<p>Hyggja vit aftur at 1. mynd, síggja vit, at hitin í sjónum hevur eina regluliga árstíðarbroyting.</p>
+<p>Sjógvurin er kaldastur í februar ella mars og heitastur í august ella september. Munurin millum summar og vetur er uml. 4°C.</p>
+<p>Árstíðarbroytingar í sjógvi og luft verða stýrdar av, hvussu nógv sólin skínur, og hvussu høgt sólin stendur á himni. Men hitin í luftini ávirkast nógv skjótari av sólini, og luftin ger tí sítt til at hita ella køla sjógvin. 4. mynd vísir miðalhitan í sjónum við Oyrargjógv fyri hvønn mánað frá 1991 til 2004 saman við mið-alhitanum í luftini mátað í Tórshavn. Vit síggja, at hitabroytingin í luftini millum summar og vetur er størri enn í sjónum, uml. 8°C. Um veturin er hitin í luftini lægri enn í sjónum, og hitin er hægri í luftini um summarið. Tað vil siga, at longu tíðliga um summarið, tá ið luftin er vorðin heitari enn sjógvurin á Landgrunn-inum, verður varmi fluttur úr luftini í sjógvin.</p>
+<p>Á henda hátt verður sjógvurin hitaður av luftini. Í august, tá ið summarið fer at halla, byrjar luftin at kólna aftur. Tá ið luft og sjógvur aftur eru líka heit, hitnar sjógvurin ikki meira, men fer at kólna. Av tí, at luftin kólnar skjótari enn sjógvurin, verður sjógvurin um veturin køldur av luftini.</p>
+<p>Luftin kølir tó ikki bara sjógvin inniá, men eisini sjógvin útiá. Og her er rættiliga stórur munur. Inniá er, sum kunnugt, rættiliga grunt, og tí er lutfalsliga nógv minni av sjógvi enn útiá. Tá ið røringur kemur í sjógvin útiá um veturin eitt nú av vindi, blandast hesin sjógv-ur heilt niður á 400-500 metra dýpi, so tað er sjálvsagt, at her er meiri sjógvur, ið skal kølast.</p>
+<p>Tí megnar luftin at køla sjógvin inniá nógv meira enn sjógvin útiá. Sum nevnt, er munurin millum summar og vetur inni á Landgrunn-inum o.u. 4°C, men útiá er munurin bert o.u. 2°C. Útiá er hetta tó bert galdandi, um vit rokna miðalhitan úr vatnskorpu og niður á o.u. 100 m dýpi. Sum nevnt omanfyri, kann sjógvurin útiá vera lagskipaður um summarið, og tá kann vatnskorpulagið gerast væl heitari enn sjógvurin niðriundir.</p>
+<p>Omanfyri er greitt frá, hvussu luftin hitar og kølir sjógvin á Landgrunninum. Men hóast eitt hitamót er millum sjógvin inniá og útiá, er sjógvurin inniá ikki heilt avbyrgdur. Tað bland-ast alla tíðina nakað av sjógvi uttanífrá upp í sjógvin inniá. Og av tí, at tað er lutfalsliga lítið av sjógvi inniá, kann sjógvurin uttanífrá gera mun og ávirka hitan inniá. Um veturin er sjógvurin útiá uml. 2°C heitari enn inniá, og tí kann sjógvur uttanífrá hita sjógvin á Landgrunn-1991199219931994199519961997199819992000200120022003200420050.02.04.06.08.010.012.014.0inum, samstundis sum hann verður køldur av luftini. Tá ið sjógvurin útiá hitar sjógvin inniá líka nógv, sum luftin kølir, stendur hitin á</p>
+<p>Landgrunninum í stað. Um summarið er sjógv-urin útiá – í miðal úr vatnskorpu og niður á uml. 100 m dýpi – líka heitur sum sjógvurin á Landgrunninum. Tí er tað serliga hitin í luftini, ið ger av, hvussu heitur sjógvurin á</p>
+<p>Landgrunninum verður á sumri.</p>
+<p><em type="bold">Heitt tíðarskeið </em></p>
+<p>Nú sjóvarhitin á Landgrunninum hevur sett met, er tað kanska freistandi at halda, at nógv umrødda alheimsupphitingin eisini er farin at ávirka viðurskiftini við Føroyar. Fyribils eru tað tó bara trý ár, ið hava verið óvanliga heit.</p>
+<p>Tí ber ikki til at staðfesta enn, um tað snýr seg um alheimsupphiting, ella um hesi árini bara eru natúrlig frávik frá miðalheitum árum.</p>
+<p>Í øllum førum ber tó til at siga, at vit í løtuni eru í einum heitum tíðarskeiði. Vitapassarin í</p>
+<p>Mykineshólmi mátaði hitan í sjónum dagliga í tíðarskeiðinum 1914-1969, (sí „Hitamátingar á</p>
+<p>Landgrunninum“ niðanfyri) og 5. mynd vísir miðalhitan fyri hvørt ár mátað við Mykineshólm og Oyrargjógv.</p>
+<p>Vit síggja á myndini, at trý tey síðstu árini hava verið óvanliga heit, harav 2003 er tað heitasta, ið er mátað. Heitastu mánaðirnir frá mátingunum við Mykineshólm eru vístir í 1. talvu saman við miðalhitanum við Oyrargjógv fyri hvønn mánað frá januar 2003 til desember 2004. Talvan vísir, at av hesum 24 mánaðunum við Oyrargjógv eru teir 14 líka heitir ella heitari enn tilsvarandi heitastu mánaðirnir mátaðir við Mykineshólm í árunum 1914-1969. Eisini eiga mátingarnar við Oyrargjógv metið fyri heitasta mánað í sjey av ársins 12 mánaðum (eitt av hesum mánaðarmetum er frá 2002).</p>
+<p>Sostatt var september 2003 við miðalhitanum 11.1°C tann heitasti mánaðurin, vit vita um á</p>
+<p>Landgrunninum.</p>
+<p>Hetta tíðarskeiðið, vit eru í nú, er tó ikki tað einasta heita tíðarskeiðið, vit vita um.</p>
+<p>Sambært mátingunum við Mykineshólm vóru árini 1959, 1960 og 1961 eisini óvanliga heit og umleið líka heit sum árini 2002, 2003 og 2004 (5. mynd). Hetta er eisini ein orsøk til, at vit ikki kunnu siga, um trý tey seinastu árini eru ein avleiðing av alheimsupphitingini, hó-ast fleiri hitamet eru sett hesi árini.191019201930194019501960197019801990200020106.87.27.68.08.48.8 <em type="italic">4. mynd. Reyða linjan vísir sjóvarhita við Oyrargjógv 1991-2004. Bláa linjan er hitin í luftini í miðal fyri hvønn mánað mátað í Tórshavn 1991-2004. Tølini fyri hita í luftini eru fingin til vegar av heimasíðuni hjá Danmarks Meteorologisk </em></p>
+<p><em type="italic">Institut (www.dmi.dk).5. mynd. Myndin vísir miðalhita fyri hvørt ár við </em></p>
+<p><em type="italic">Mykineshólm (1914-1969) og við Oyrargjógv (1991-2004). </em></p>
+<p xml:lang="isl">Hiti (0</p>
+<p xml:lang="eng">C)</p>
+<p xml:lang="isl">Hiti (0</p>
+<p xml:lang="eng">C)</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem" xml:lang="vep">32</p>
+<p xml:lang="isl"><em type="bold">September heitasti mánaður </em></p>
+<p>Vanliga er august ella september heitasti mán-að ur í sjónum á okkara leiðum. Hyggja vit nærri at mátingunum við Oyrargjógv (1. mynd), síggja vit, at september er heitasti mánaður á</p>
+<p>Landgrunninum í 13 av teimum 14 árunum, ið mát ingarnar hava verið. Tað eru 93%. Bera vit sam an við mátingarnar frá Mykineshólmi, eru tað fyri tíðarskeiðið tá einans 45% av árunum, at septembermánaður er heitari enn august.</p>
+<p>Hyggja vit so at vetrinum, so er tað eitt sindur fløkt ari. Frá mátingunum við Mykineshólm er kald asti mánaður á vetrinum januar, februar, mars ella apríl. Tó er tað oftast februar ella mars, ið er kaldastur, og fyri hesi árini er tað um leið helvtin, har mars er kaldastur. Frá tí nýggja tíðarskeiðinum, mátað við Oyrargjógv, er tað hinvegin umleið 70% av árunum, at mars er kaldasti mánaður á vetrinum, men rest ina av árunum er tað februarmánaður, ið er kaldastur. Higartil hava hvørki januar ella apríl verið kaldastir í nýggju mátingunum við</p>
+<p>Oyr argjógv.</p>
+<p>Torført er at siga nágreiniliga, hvør ella hvørj ar orsakirnar eru til hetta skifti í heitasta og kaldasta mánað, men vit kunnu her stutt greiða frá einum møguleika, hóast hann kann tykj ast nakað torskildur og neyvan heldur er tann einasta orsøkin. Sjógvurin uttan fyri Landgrunnin, serliga vestanfyri, stavar frá Norðuratlantsstreyminum, ofta nevndur</p>
+<p>Golf streymurin. Longri suðuri og vesturi er</p>
+<p>Norð uratlantsstreymurin á markinum mill um tveir stórar meldrar: Tann subpolara meld-ur in og tann subtropiska meldurin. Tann sub polari meldurin er í Irmingar- og Labra-dor høvunum og hevur kaldan sjógv. Tann subtropiski meldurin er í Norðuratlantshavi frá Irmingar- og Labradorhøvunum og suður móti ekvator; hann hevur heitan sjógv. Av tí at</p>
+<p>Norðuratlantsstreymurin er á markinum mill-um hesar meldrar, fær hann sjógv frá teimum báð um og ávirkast av báðum meldrunum.</p>
+<p>Meldr arnir broytast tó eisini sínámillum, og tí er tað ymist, hvussu nógvan sjógv Norð-ur atlantsstreymurin fær frá hvørjum meldri.</p>
+<p>Tað kann vera ein orsøk til henda munin mill-um heitasta og kaldasta mánað, eins væl og tað kann vera orsøk til heitar og kaldar tíð ir við Føroyar. Tey seinastu árini hevur Norð-ur atlantsstreymurin verið nógv ávirkaður av tí subtropiska meldrinum. Hetta hevur ført óvanliga heitan sjógv til okkara leiðir og eisini víðari inn í Norðurhøv. Tó er neyðugt við nærri útgreiningum av mátingunum til tess at siga nakað um, um hetta eisini hevur ávirk an á, nær sjógvurin á Landgrunninum er heit astur.</p>
+<p><em type="bold">Hitamátingar á Landgrunninum </em></p>
+<p>Tað fyrsta, vit vita um av regluligum hita mát ing-um á Landgrunninum, eru hitamátingar úr Tórs-havn, mátaðar í tíðarskeiðinum 1875-1919. Í 1914 byrjaði vitapassarin í Mykineshólmi at gera dagligar mátingar av sjónum, og helt tað fram til 1969. Fiskirannsóknarstovan fór undir hita mátingar við Oyrargjógv í 1991, og í 2002 varð eisini farið undir at máta sjóvarhitan við</p>
+<p>Lív fiskastøðina í Skopun. Ongar av hesum mát-ingum hava tó verið heilt regluligar. Mát ing-arnar úr Tórshavn hava av ymsum ávum víst seg at verið heldur óálítandi; í øllum før um kunnu <em type="italic">1. talva. Talvan vísir (ovast) miðalhitan fyri hvønn mánað, grundað á mátingar við Mykineshólm í tíðarskeiðinum 1914-1969. Onnur reglan vísir tann heitasta mánaðin hetta sama tíðarskeið. Síðan er miðalhitin vístur fyri hvønn mánað við </em></p>
+<p><em type="italic">Oyrargjógv fyri tíðarskeiðið januar 2003-desember 2004. Fyri hesi bæði árini eru tað 14 mánaðir, ið eru heitari ella líka heitir sum teir heitastu mánaðirnir við Mykineshólm. </em><em type="bold">januar februar mars apríl mai juni juli august sept. okt nov. des. </em></p>
+<p xml:lang="olo"><em type="bold">Mykines 1914-1969 </em></p>
+<p xml:lang="isl"><em type="bold">Miðal hiti 6.3 6.0 6.0 6.3 7.1 8.2 9.3 9.9 9.8 9.1 8.0 7.0 </em></p>
+<p xml:lang="fin"><em type="bold">Heitasti mán. 7.3 6.8 7.0 7.2 8.1 9.2 10.1 10.7 10.7 10.1 9.1 8.0 </em></p>
+<p type="listitem">Oyrargjógv  2003 7.4 6.7 7.2 7.6 8.1 9.1 10.1 10.9 11.1 10.0 9.1 8.1  2004 7.2 6.5 6.6 7.3 8.0 8.9 9.8 10.7 10.8 10.1 9.0 8.0 33</p>
+<p type="listitem">FRØÐI 1/2005tær ikki sigast at umboða hitan á Landgrunn-inum.  Mátingarnar  við  Mykineshólm  fóru fram  á  tann  hátt,  at  vitapassarin  dagliga  fylti eina spann við sjógvi frá ávísum stað, og síð-an mátaði hann hitan við hitamátara. Hetta er tó ikki gjørt hvønn dag frá 1914 til 1969, og tí  eru  nøkur  hol  í  mátirøðini. Tey  flestu  árini eru  tó  meiri  enn  350  mátingar,  men  summi ár, serliga mitt í 1950-árunum og síðst í 1960-árunum, eru færri enn 300 mátingar um árið.</p>
+<p>Á 5. mynd eru ársmiðaltølini fyri øll árini við</p>
+<p>Mykineshólm tikin við, men nøkur av teimum eru helst ikki umboðandi fyri árið, tí flestu mát-ingarnar antin hava verið um summarið ella um veturin. Hetta er tó ikki galdandi fyri tað heita tíðarskeiðið 1959-1961.</p>
+<p>Í 1991 var tøknin munandi meiri framkomin, og Fiskirannsóknarstovan kundi tí leggja elek-troniskar hitamátarar við Oyrargjógv. Valt varð at leggja mátararnar við Oyrargjógv, tí mett varð, at sjógvurin har er væl blandaður av sjóvarfalli og tí er umboðandi fyri sjógvin á</p>
+<p>Landgrunninum. Hesir mátarar eru battaríriknir, og teir máta hitan við jøvnum millumbilum.</p>
+<p>Hvørja ferð ein máting er gjørd, verður hon goymd í minninum, sum mátarin hevur. Fyri at tryggja mátingarnar, eru tað støðugt tveir ella tríggir hitamátarar við Oyrargjógv, um tað skuldi hent, at ein av mátarunum gongur fyri. Tvær til tríggjar ferðir um árið verða mát-ararnir tiknir upp, og mátingarnar verða lisnar inn á teldu. Tíverri er tøknin ikki betri enn so, at tað onkuntíð er hent, at mátingarnar partvís eru farnar fyri skeytið. Tískil eru eisini hol í hesi mátirøðini.</p>
+<p><em type="bold">KARIN MARGRETA LARSEN </em>er útbúgvin BS í ravmagnsverkfrøði frá Fróðskaparsetri Føroya í 1995 og cand. scient. í havfrøði frá Universitetinum í Bergen í 2003. Síðan 1997 hevur hon starvast á Fiskirannsóknarstovuni fyrst sum verkfrøðingur og seinni sum havfrøðingur. Á heysti 2004 byrjaði hon ph.d.-lestur við heit-inum „Circulation and exchange of water masses on the Faroe Shelf“. </p>
+<p>Teldupostur: karinl@frs.fo</p>
+<p type="listitem" xml:lang="deu">FRØÐI 1/2005</p>
+<p type="listitem">346. mynd. Hitamátararnir við Oyrargjógv verða skiftir. Mátararnir eru heftir í eina rammu, ið er fest í kaiina við</p>
+<p><em type="italic">Oyrargjógv. </em></p>
+</body></document>

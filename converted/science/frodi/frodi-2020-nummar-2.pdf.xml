@@ -1,0 +1,915 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><year>2020</year><wordcount>21044</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frodi-2020-nummar-2.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="kal">ISSN1395-00459 771395004003</p>
+<p xml:lang="nno"><em type="bold">TEY ELDRU </em>OG KORONUTÍÐIN <em type="bold">SEINÁRIN AV </em>KORONU </p>
+<p xml:lang="deu"><em type="bold">BOTNDJÓRASAMFELAGIÐ </em>ÁVEGIS ALTJÓÐA KRØVUM <em type="bold">FØROYSKIR </em>FÓLKANAVNASIÐIR </p>
+<p xml:lang="sme"><em type="bold">KETTAN </em>OG SMÁFUGLURIN <em type="bold">HERVILIGU </em>ORMAÁRINI </p>
+<p xml:lang="deu"><em type="bold">HEIÐURSKVØÐUR </em></p>
+<p xml:lang="isl"><em type="bold">TIL JENS-KJELD </em>2 / 2020 26. ÁRG.KR. 48,- </p>
+<p><em type="italic">úr øllum heiminum </em></p>
+<p xml:lang="deu">FØROYA FRÓÐSKAPARFELAG</p>
+<p>GEVUR FRØÐI ÚT © Føroya Fróðskaparfelag og høvundarnir.</p>
+<p>Frøði er fólksligt vísindablað, sum kemur út tvær ferðir árliga.</p>
+<p xml:lang="swe">Upplag 1.300</p>
+<p xml:lang="kal">ISSN 1395-0045</p>
+<p>Forsíðumynd: Jens-Kjeld Jensen við Bøsdalafoss.</p>
+<p xml:lang="isl">Mynd: Marita Gulklett</p>
+<p><em type="italic">Loyvt er at endurgeva út Frøði, um víst verður til heimildina. Verða heilar greinir endurgivnar, má avtala gerast. </em></p>
+<p xml:lang="isl">AVGREIÐSLA Jarðfeingi, J. Paturssonargøta 32-34</p>
+<p xml:lang="pol">Postsmoga 3059</p>
+<p>FO-110 Tórshavn</p>
+<p xml:lang="nob">Tlf. 357000teldupostur: frodi@jf.fo</p>
+<p>RITSTUÐLAR Fróðskaparsetur Føroya</p>
+<p>Tjóðskjalasavnið</p>
+<p>Tjóðsavnið</p>
+<p>Landsbókasavnið</p>
+<p xml:lang="nob">Havstovan</p>
+<p>Heilsufrøðiliga Starvsstovan</p>
+<p>Jarðfeingi</p>
+<p xml:lang="nno">Umhvørvisstovan</p>
+<p>NÝGGIR HALDARAR kunnu tekna seg hjá avgreiðsluni.</p>
+<p>ELDRI ÚTGÁVUR AV FRØÐI fáast við at venda sær til avgreiðsluna.</p>
+<p>GREINIR TIL BLAÐIÐ Fólksligar, vísindaligar greinir kunnu sendast ritstjórnini. Skrivlig høvundaleið-beining fæst frá avgreiðsluni.</p>
+<p>LÝSINGAR TIL FRØÐI Er áhugi fyri at lýsa í blaðnum, setið tykkum tá í samband við avgreiðsluna, telefon 357000fax 357001teldupostur: frodi@jf.fo</p>
+<p xml:lang="nob">LÝSINGARPRÍSUR Heil síða:kr. 5.000,-</p>
+<p>Hálv síða:kr. 3.000,-</p>
+<p>RITUMBOÐSRÁÐIÐ Erling Isholm, Fróðskaparsetur Føroya</p>
+<p>Erla Olsen, Fróðskaparsetur Føroya</p>
+<p>Sámal Tróndur Johansen, Tjóðskjalasavnið</p>
+<p>Bjørg Mikkelsen, Heilsufrøðiliga</p>
+<p>Starvsstovan</p>
+<p xml:lang="sma">Maria Dam, Umhvørvisstovan</p>
+<p>Lis Mortensen, Jarðfeingi</p>
+<p>Eilif Gaard, Havstovan</p>
+<p xml:lang="deu">GRAFISK FRAMLEIÐSLA</p>
+<p xml:lang="nno">OG PRENT: Føroyaprent</p>
+<p xml:lang="isl">SAMSKIPARI Helgi Jacobsen</p>
+<p>RITSTJÓRN Zakaris Svabo Hansen <em type="italic">ábyrgd </em></p>
+<p>Birgitta Andreasen</p>
+<p xml:lang="nno">Erling Isholm</p>
+<p>Katrin Hoydal</p>
+<p xml:lang="isl">Kim Bergkvist</p>
+<p xml:lang="kal">FRÓÐSKAPARFELAG FØROYA Heimasíða: www.frodskaparfelag.fo</p>
+<p>Limagjald: 300 krónur um árið, at gjalda á konto í Eik Banka 9181-495.171.0</p>
+<p xml:lang="eng">SWIFT code: EIKBFOTF,</p>
+<p xml:lang="nno">Iban-no: F056 9181 0004 9517 19</p>
+<p><em type="italic">Minnist til at viðmerkja navn. </em>2 / 2020 </p>
+<p>Tað fer sjálvandi ikki aftur við borðinum hjá rit sjórn ini á Frøði, at Jens-Kjeld Jensen í heyst fekk Norður lendsku um hvørvisvirðis løn ina. Jens-Kjeld hev ur sum fáur dugað at miðla eyg leið ing, vitan og gransking og ikki minst at gera vart við av leiðing ar nar, tað fær, tá ið vit gera okkum inn á natúrina. Jens-Kjeld hevur somuleiðis verið sera trúgvur høvundur í Frøði, altíð klárur fleiri mánaðir áðrenn útgávudag við eini nýggjari grein - í hesum blaðnum við grein um grøðiskel av sepiahøgguslokki. Tí er tað við virðing fyri viðurkenningini, at Sjúrður Hammer hesaferð skrivar um Jens-Kjeld og at vit somuleiðis geva rúm fyri heilsanum úr alskyns heraðshornum. Hjartaliga til lukku, Jens-Kjeld.</p>
+<p>Í kjalarvørrinum á koronufarsóttini eru longu fleiri granskingarverkætlanir gjørdar og aðrar eru ávegis. Eina Eliasen skrivar grein um gransk ing, ið hon hevur gjørt av um støð unum hjá teimum eldru í koronu tíðini. Maria Skaalum Petersen hevur tikið saman um kanning, sum hon hevur staðið fyri um seinárin av koronu. Grein um evnið var almannakunngjørd 30. november 2020 í altjóða tíðarritinum Clinical Infectious Disease.</p>
+<p>Bæði í 1923 og aftur í 2018 funnu fólk grøðiskeljar í fjøruni í fleiri bygdum. Talan er um skel av sepiahøgguslokki, sum ikki er vanligur um okkara leiðir. Jens-Kjeld Jensen skrivar um hesar merkisverdu eygleið ingar, har vit fáa at vita, at eisini í umleið 1850 lógu fólk í Føroyum inni við slíkum grøðiskelum.</p>
+<p>Fyrsta stigið er nú tikið at hava um hvørvis- eftir ans ing á fø roy sku firð un um. Tað snýr seg um botn djóra sam felag ið. Heidi S. Mortensen skrivar grein um verk ætlan, har málið er at fáa um hvørvis eftir ans ing, ið lýkur altjóða krøv.</p>
+<p>Gamalt var, at eingin fekk fleiri enn eitt navn. Men í 18. øld tók seg líðandi upp siðurin at geva fleiri nøvn, í fyrstani oftast bara tvey nøvn. Sum frá leið fingu vit ymsar fólka navna siðir. Anfinnur Johansen hevur granskað í teimum ymisku navna siðunum og hevur gjørt navnasaman beringar í 1851-55 og 1951-1955.</p>
+<p>Óvist er, hvussu stóra ávirkan kettan í</p>
+<p>Føroyum hevur á smáfuglastovnin. Nógvir fuglar doyggja, áðrenn teir røkka kynsbún an aldur. Diana Krossá Kongsbak skrivar grein um, hvat kortini kann gerast fyri at tálma veiðuni hjá kettu.</p>
+<p>Vit hava hoyrt um hervilig ormaár, tá ið so nógv avkom av ormafirvaldi var í bø og haga, at seyður og neyt doyðu í hungri. Helgi Jacobsen hevur skrivað grein um hetta fyribrigdi. Hann setur árstøl á fleiri av teim um ringastu ormaárunum og letur sýslu menn og føroysku bløðini siga okkum, hvussu stóran skaða orm ur in gjørdi.</p>
+<p>Makrelur er heilsu góður fisk ur, ið fólk fegin vilja hava á matar lepan. Men smáveran kudoa kann við sínari hjá veru órógva makrel rættin, ið tú hevði ætlað tær. Makrel urin gerst bleytur. Dánjal Petur Høj gaard hevur kannað upp runan til kudoa og vísir á, at umrødda smávera eisini er í øðrum fiskasløgum.</p>
+<p>Í seinastu greinini venda vit aftur til koronu, men nú snýr tað seg um kyn og bend ing ar hátt hjá innlæntum navnorðum sum t.d. koronu. Tað er Hjalmar P. Petersen, sum skrivar grein um hetta, og hann spyr, um formar sum <em type="italic">koronain og koron aini </em>er heilbregðin grammatikk, ella um hetta er fullkomin órøkt og snertur fyri føroyska mállæru. </p>
+<p>Frøði ber lesarum sínum nógvan vísan lesnað í løttum hami, og vit ynskja øllum góðan lesihug.</p>
+<p><em type="bold">Frøði </em>hesaferð! </p>
+<p xml:lang="sme"><em type="bold">Innihald </em>4 HEIÐURSKVØÐA TIL JENS-KJELD JENSEN </p>
+<p xml:lang="nob">Sjúrður Hammer 10 TEY ELDRU OG KORONUTÍÐIN</p>
+<p>Eina Eliasen 15 SEINÁRIN AV KORONU</p>
+<p>Maria Skaalum Petersen 16 GRØÐISKEL FRÁ SEPIAHØGGUSLOKKI</p>
+<p xml:lang="nob">Jens-Kjeld Jensen19 BOTNDJÓRASAMFELAGIÐ – DÁLKINGARKELDUR OG</p>
+<p xml:lang="vep">VISTFRØÐILIGAR BROYTINGAR</p>
+<p xml:lang="sme">Heidi S. Mortensen24 FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55</p>
+<p>Anfinnur Johansen32 ÁVIRKANIN HJÁ HÚSKETTUNI Á SMÁFUGLIN</p>
+<p xml:lang="nob">Diana Krossá Kongsbak36 TEY HERVILIGU ORMAÁRINI</p>
+<p xml:lang="isl">Helgi Jacobsen42 KUDOA Í FISKI – SO FÆRT TÚ SÚPAN!</p>
+<p>Dánjal Petur Højgaard44 ORÐGRUNDAÐ BENDING OG KORONA</p>
+<p>Hjalmar P. Petersen16321543 &gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p><em type="bold">Sjúrður Hammer </em>SjurdurH@us.fo Lívfrøðingur Umhvørvisstovan </p>
+<p xml:lang="sme"><em type="bold">HEIÐURSKVØÐA TIL </em></p>
+<p xml:lang="vep"><em type="bold">JENS-KJELD JENSEN </em></p>
+<p>Eitt tað fyrsta, sum vert er at leggja til merkis, tá ið hugt verður at granskingini, sum Jens-Kjeld hevur latið eftir seg, er, at hon er sera fjølbroytt og fevnir breitt. Tað er sera óvanligt hjá granskarum at hava so breiðan áhuga og framvegis vera opin fyri nýggjum áhugaverdum hypotesum. Tony Martin, pro fessari úr Skotlandi, nevnir, at <em type="italic">„Jens-Kjeld er ein av sera fáum vísindafólkum, sum tykjast at vita alt um alt; hvør annar kundi so lyriskt tosað líka nógv um blómuflugur sum lunda?“ </em></p>
+<p>Hetta fylgir eisini hansara persónleika, tí at hann hevur mangan sagt, at alt við náttúruni hevur hansara áhuga. Høg sum lág hava verið á gátt hjá honum fyri at bera honum onkran eiturkopp ella okkurt kykt.</p>
+<p>Nágreiniligu orsøkina, hví og hvussu hesin danin á sinni avgjørdi at seta seg niður í Nólsoy, kenni eg ikki, men tilvild var tað ikki. Tað eru fá onnur støð í Føroyum, har tað er eitt tílíkt andaligt frælsi at vera og trúgva tí, tú vilt, og har tú hevur eina so potenta blanding av hámentan og siðvenju sum í Nólsoy. Er tað hugsandi, at í Nólsoy fær ein frið at nørdast í tí, sum hugurin stendur til? <em type="italic">„Seint á vári í 1976 vitjaði eg Føroyar orsakað av fuglaáhuga. Niels á Botni hevði longu tá kunnað meg við sín sannlíka eftirfylgjara úr Køge, Jens-Kjeld Jensen. Hann var eftir stuttari tíð blivin ein høvuðspersónur í føroyskari náttúrufrøði. Tá ið eg vitjaði hann í Nólsoy, hevði Jens-Kjeld fingið ein mása, sum var deyður umborð á einum fiskiskipi á Føroya banka. Vit vóru skjótt samdir um, at talan var um ein Heygsmása (Leucophaeus pipixcan), ein fugl sum eg kendi úr Amerika, men ein sera sjáldsamur gestur í Norðurevropa. Hesin fuglurin nørist í norð uramerikansku preriuni og flytur í ein út synn ing og er vanliga á vetrarvist í Kyrra hav inum fram við suðuramerikonsku strondini. So hvussu var hesin fuglurin endaður í Føroyum? Jens-Kjeld og eg skiftu orð um hetta aftur og fram, og til endans vóru vit samdir um, at helst var hann farin ov langt suður og var komin yvir til atlantisku síðuna av Suðuramerika og var síðan byrjaður sína vanligu ferð í ein landnyrðing og endaði sostatt í Føroyum og á verkstaðnum hjá Jens-Kjeld. Løgið, at 26 ár seinni kom ein annar Heygsmási til Føroya og at hann akkurát kom í Nólsoyar havn at liggja, har hann hitti Jens-Kjeld. Eg skilji, at Jens-Kjeld dámdi betur at møta tí livandi fuglinum, tó at tað tók mong ár, at hesin sjáldsami gesturin kom fram við Føroyum. Tveir serstakir ein staklingar møttust í Nólsoy.“ – Philippe Grand jean, professari, USA. </em></p>
+<p><em type="bold">Vísindaligar greinar </em>Seinastu árini er tað blivið alsamt vanligari, at trýst verður lagt á granskarar at leggja fram sína gransking í vísindaligum greinum, og tað er eitt drúgt kjak um, hvat er rætt og rímiligt at vænta av granskarum í mun til avrik. Innan náttúrugransking hevur Jens-Kjeld Jensen gingið á odda at fáa givið út smærri greinar um føroyska náttúru, bæði í Fróðskaparritum, men eisini í mongum fjølbroyttum tíðarritum. Um leið 60 vísindaligar greinar er tað blivið til gjøgnum </p>
+<p>Náttúrunørdur, fuglafrøðingur, útstappari, lúsasamlari, ringmerkjari, eiturkoppasamlari, fossilsamlari, músafangari, plantufrøðingur – mong eru arbeiðsheitini hjá Jens-Kjeld Jensen. Í sambandi við stóra heiðurin, tá ið Jens-Kjeld Jensen fekk tillutað Norðurlendsku umhvørvisvirðislønina í heyst, verður sjóneykan sett á Jens-Kjeld og hansara gransking innan føroyska náttúru. Og vit hava vent okkum til ymsar granskarar um allan heim, sum geva sítt perspektiv á lívlanga arbeiðið hjá bæði Jens-Kjeld Jensen og Maritu Gulklett.</p>
+<p><em type="italic">Tony Martin, professari, Skotlandi </em></p>
+<p xml:lang="est"><em type="italic">Philippe Grandjean, professari, USA </em>5 &gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;4</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p>HEIÐURSKVØÐA TIL JENS-KJELD JENSEN árini, altso vísindaligar greinar, sum hann ofta hevur skrivað saman við øðrum granskarum. <em type="italic">„Okkara arbeiðssamband og vinalag gongur heili 30 ár aftur í tíðina, tá ið ein starvsfelagi bað Jens-Kjeld savna fuglalýs og senda tær til mín at eyðkenna. Ikki bara var Jens-Kjeld førur fyri at gera tað, men eftir umbøn frá mær lærdi hann seg eisini at fyrireika og montera tær á glasplátur. Tað gjørdi hann sera hegnisliga og hetta gav eitt framúr gott úrslit. Eftir nógv ár av lúsapakkum aftur og fram millum Føroyar og Ný Sæland høvdu vit í 2005 nóg mikið av tilfari til at skriva ein fullkomnan lista yvir øll lúsasløgini, sum eru funnin í Føroyum.“ – Ricardo Palma, ph.d., Ný Sælandi. </em></p>
+<p>Eitt er so tað, at arbeiðssemi hjá granskaranum kann mátast í, hvussu nógvar vísindaligar greinar koma út. Men vilja vit vita, hvussu viðkomandi ella spennandi henda granskingin er, so er at spyrja, hvussu nógv ella ofta verður hendan granskingin siterað? Sambært Google Scholar er granskingin hjá Jens-Kjeld siterað 1433 ferðir. <em type="italic">„Teirra heimasíða, sum verður røkt av Maritu, gevur eitt gott yvirlit yvir teirra fjøl broyttu áhugamál og servitan. Jens-Kjeld er ein serstakur náttúrufrøðingur, sum gleðiliga deilir sína vitan við onnur. Hansara styrki er eftir mínari meining fokusið at granska vanliga fauna og flora í Føroyum, har tað áhaldandi er tørvur á meir vitan til eitt nú náttúruverju, tó at sjáld samir gestir eisini fanga hansara áhuga. Eyg leið ing ar hjá Jens-Kjeld eru brúkiligar fyri eina breiða fjøld, ikki bara í Føroyum, men eisini í út lond um ígjøgnum fruktagóð samstørv við ymisk ar granskarar, samstørv sum hava spent seg yvir 35 ár. Føroyar eru serstakliga hepnar at hava ein so arbeiðssaman granskara, sum ikki bara savnar inn og økir um vitanina um føroyska náttúru, men eisini deilir tað út til ágóða hjá nógv um øðrum.“ – Ævar Petersen, ph.d., Íslandi. </em></p>
+<p>Runt roknað kann tað sigast, at seinastu árini er gransking hjá Jens-Kjeld annað ella triðja hvønn dag siterað í onkrum tíðarriti úti í heimi. Tað er soleiðis, at náttúruvísindi áhaldandi vaksa og víðka um okkara fatan fyri náttúruni. <em type="italic">„Mítt samstarv við Jens-Kjeld byrjaði fyri yvir 10 árum síðani ígjøgnum ein felags vin, Kaj Nissen, sum spurdi, um eg var áhugaður at eyðmerkja nakrar føroyskar eiturkoppar. Hetta førdi við sær eitt gott samskifti við Jens-Kjeld, sum yvir nógv ár hevur sent nógvar pakkar við eiturkoppum, sum antin hann ella onnur av hansara stóra netverki í Føroyum hava funnið. Serliga Rodmund á Kelduni og Dánial Jespersen standa framúr sum ídnir samlarar, men eisini er tilfar, innsavnað av Náttúrugripasavninum av Leivi Janusi Hansen og William Simonsen, blivið kannað. Eg vitjaði sjálvur í Føroyum í 2010, 2012 og 2014 fyri at savna inn fleiri sløg. Tá havi eg notið gott av gestablídni frá Jens-Kjeld og Maritu. Tó var tað avbjóðandi hjá mær at fylgja við høgu gonguferðini hjá Jens-Kjeld, tá ið vit vóru útferðir til at savna eiturkoppar. Hetta innsavningararbeiðið bleiv til vísindaliga útgávu av føroyska kekklistanum av eiturkoppum. Okkara kanningar løgdu 15 sløg aftrat, sum higar til vóru ókend í Føroyum, og talið av eitur koppasløgum í Føroyum gjørdist sostatt 90, umframt at 24 sløg helst vóru innflutt av ósketni. Alt hetta arbeiðið hevði ikki verið gjørligt uttan tann fasiliterandi leiklutin hjá Jens-Kjeld, sum samstundis var drivin av einum ídnum áhuga fyri náttúruverju.“ – Jørgen Lissner, ph.d., Danmark </em></p>
+<p><em type="bold">Samskifti og gestablídni </em>Tað er longu sagt ofta, men tað at tað hevur borið til hjá einum glaðum amatøri úti í Nólsoy at vinna umhvørvisvirðisløn Norðurlandaráðsins er eitt úrslit av óvanligum arbeiðssemi og forvitni. Men tað er týdningarmikið ikki at gloyma, at hetta arbeiðið í stóran mun hevur verið eitt samstarv við aðrar granskarar um allan heim. Eitt samstarv, sum bara hevur verið gjørligt orsakað av einum álitisvekjandi og seriøsum sambandi, sum er uppbygt við brævasamskifti, gjøgnum telefon og seinnu árini við telduposti og heimasíðuni, sum serliga Marita Gulklett hevur staðið fyri og sniðgivið. <em type="italic">„Jens-Kjeld og Marita hava víst mær sera stórt gesta blídni, tá ið eg havi verið í Føroyum og kannað havhest fyri plast. Hetta vóru langir dagar í kjallar anum á Náttúrugripasavninum. Eg havi sera djúpa virðing fyri tí lívlanga áhuganum, sum hetta parið hevur víst fyri at granska náttúruna og at verja hana og í sínum treytaleysa stuðli til ein fremmandan sum meg. Skjótt fari eg frá við eftirløn úr mínum formliga starvi á Wageningen Marine Research í Niðurlond um. Men sum eftirløntur vóni eg at halda samskifti og vitja Jens-Kjeld og Maritu í nógv ár afturat. Vit hava arbeitt saman um fleiri vísindaligar greinar og nógvar aðrar eru á veg!“ – Jan Andries van Franeker, ph.d., Niðurlondum. „Eg eri so sera fegin at frætta um væl uppibornu virðis lønina til Jens-Kjeld. Hann er ein náttúrufrøðingur við einari ógloymandi og smittandi entusiasmu og einum eldhuga fyri at læra og skilja, sum sera fá eru vælsignað við. Tað eru nógv ár, síðani eg var í Nólsoy, men eg minnist tað, sum var tað í gjár, at Marita og Jens-Kjeld bjóðaðu mær inn í sítt heim, áðrenn vit fóru at síggja legendariska og rúnabindandi drunn hvítabølið í Nólsoy.“ – Tony Martin, professari, Skotlandi. „Eg var ein dag í mars 2017 úti við Jens-Kjeld og gekk fram við havhestaklettunum og drunnhvíta bølinum í Nólsoy. Vit tosaðu um fugl, oynna og mangt annað. Hansara vitan var ótrú lig eins og hansara ynski at verja oynna og henn ara fuglalív.“ – Alex Bond, ph.d., Ong landi. </em></p>
+<p><em type="bold">At leggja lunnar undir framtíðar gransking </em>Tó at vísindaligar útgávur sum greinar og bøkur eru tað, sum fólk síggja og leggja til merkis, so eru slík avrik eitt úrslit av sera nógvum inn savn ingararbeiði – bæði sum notat ella innsavning av náttúrugripum, og hetta grundleggjandi arbeiði sær Jens-Kjeld sum sítt serliga stóra íkast til granskingina. Umframt at eiga sín lut í teimum flestu kekklistunum av ymiskum smádýrum og øðrum í Føroyum seinastu mongu árini, so hevur hann uppbygt eitt tað størsta savnið av lúsum, sum ivaleyst fara at koma framtíðar gransk arum til góða. </p>
+<p xml:lang="est"><em type="italic">Ricardo Palma, ph.d., Ný Sælandi. </em></p>
+<p xml:lang="nob"><em type="italic">Jørgen Lissner, ph.d., Danmark </em></p>
+<p xml:lang="nob"><em type="italic">Alex Bond, ph.d., Onglandi. </em></p>
+<p><em type="italic">Í 2013 gjørdi filmsframleiðarin Mike Day filmar úr Føroyum. Her filmar hann Jens-Kjeld Jensen á Sjósavninum. Mynd: Marita Gulklett </em>7 &gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;6</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p>HEIÐURSKVØÐA TIL JENS-KJELD JENSEN <em type="italic">„Hann er náttúrusamvitskan í Føroyum. Hann kennir plantu- og djóralívið í oyggjunum sum eingin annar og hevur altíð lagt í teirra lagnu og teirra hóttanir. Uttan hansara arbeiði í nógv ár hevði villa náttúran í Føroyum heilt avgjørt verið fátækari.“ – Lech Stempniewitz, professari, Póllandi </em><em type="bold">„Náttúran í Føroyum hevur ikki brúk fyri enn einari virðisløn“ </em>Tá man kennir støðuna, sum Jens-Kjeld hevur til náttúruverju, so skerst ikki burtur, at hesin heiður og tann eldhugur, sum hann umboðar, stendur í einari rættiliga sterkari andsøgn við almennu og politisku líkasæluna við náttúruna í Føroyum. Náttúran og umhvørvið hava verið ein politisk kastibløka, sum hevur verið løgd saman við og gloymd burtur í tungum og stórum málsøkjum so sum mentamálum, heilsumálum og nú vinnumálum. <em type="italic">„Jens-Kjeld er ein maður, sum er góður við fólk og djór. Hann roknar ymisk djórasløg sum sambúgvar á hesari lítlu og viðbreknu gongustjørnuni. Hann viðurkennir, at veiða og heysting av náttúruni er ein fortreyt fyri mannalívi, og at eitt samband við náttúruna er alneyðugur partur í tí at trívast sum menniskja. Hann er skeptiskur um menniskjans virksemi, sum hóttir lívið hjá verum í náttúruni, men viðurkennir, at onkur sløg mugu haldast í skák fyri vælferðina hjá øðrum – eisini tá hetta merkir at avmarka tað frælsa lívið hjá hesum.“ – Maria Dam, ph.d., Føroyum </em></p>
+<p>Tí man heiðringin av Jens-Kjeld kennast rættiliga ørkymlandi, tí uttan mun til vinstra ella høgra, loys ing ella samband, so mugu vit bara staðfesta, at Føroya løgting og Landstýrið hava ikki verið og eru framvegis ikki nóg búgvin til at síggja týdningin at verja náttúruna. Tað er einki, sum bendir á, at norður lendska virðislønin hevur ført til, at nakar politikari hevur broytt hugsan og fer at taka náttúruvernd í størri álvara. Vit hava framvegis í Føroyum ikki eina funktionella náttúru vernd ar lóg ella náttúru fyri siting. Lundin er framvegis ikki frið aður, graslíki verður framvegis brúkt til park er ings pláss og verður onkra staðni tyrvt sum best ber til, tó at man veit, at graslíki og gummi partiklar eru ein stór dálkingarkelda. Og vit innflyta fremmand invasiv kykt og plantur sum ongantíð fyrr. Gretha Thunberg segði í 2019 nei takk til norðurlendsku um hvørvisvirðis lønina. Henn ara boð til norður lendsku politikararnar var: „veður lagið hevur ikki brúk fyri fleiri virðislønum“.</p>
+<p>Boðskapurin frá Jens-Kjeld er og verður tann sami til føroysku politikararnar. Náttúran í Føroyum ella Jens-Kjeld hava ikki brúk fyri fleiri herðaklappum. Náttúran hevur brúk fyri, at politikarar og myndugleikar verja hana. Men er tað nakar, sum hoyrir ella leggur í tað, sum Jens-Kjeld hevur sagt? <em type="italic">„Vit vóru hugtikin av ídninum hjá Jens-Kjeld at bjarga og verja djór og plantur í Føroyum, so mikið, at hann hevur fleiri hóttar plantur í varðveitslu frá seyði í tí vón, at hansara kæra oyggj (Nólsoy) einaferð kann blíva eitt veruligt náttúrureservat. </em></p>
+<p><em type="italic">Jens-Kjeld er ein náttúrufrøðingur og verji, sum hevur arbeitt ótroyttiliga mesta partin av sínum lívi fyri at økja um okkara vitan um náttúruna í Føroyum og til at fremja umhvørvisliga tilvitsku og at verja jørðina til framtíðar ættarlið uttan nakran peningaligan ágóða. Tað eru sera fá fólk av hansara slag á hesari gongustjørnuni!“ – Ricardo Palma, ph.d., Ný Sælandi </em></p>
+<p>Mongu heilsanirnar kunnu lesast óumsettar og í fullari longd á jenskjeld.info <em type="italic">„Eg kendi fyrst bara Jens-Kjeld sum eitt navn á einari fjarskotnari oyggj. Starvsfelagin hjá mær Nicola Hemmings og eg vóru í gongd við eina kanning av sáðkyknum á eggjablommunum hjá sjófugli og vildu sera fegin kanna drunnhvítaegg. Vit høvdu frætt, at í ringmerking kann tað koma fyri, at drunnhvíti verpur í fuglaposarnar, og vit hugsaðu, at hetta var ein upplagdur máti at fáa hendur á nøkrum eggum. Jens-Kjeld kláraði at skaffa ikki færri enn seks slík egg, og blomman á teimum var fyrireikað nágreiniliga, sum vit høvdu biðið hann um. Eg møtti honum í 2019, og eg má siga, at eg havi ongantíð møtt nøkrum heilt sum honum; sjarmerandi, sera væl vitandi og spentur at samstarva, við handalagi sum hjá einum vísindamanni og áræði sum hjá einum skúladreingi. Hann er ein serstakur maður, sum uppiheldur sær á einari næstan einstakari nisju í Føroyum og er eitt satt vitanarsavn av fuglafrøðiligari vitan. Eg vóni, at hann hevur ein ella tveir eftirfylgjarar í hølunum!“ – Tim Birkhead, professari, Onglandi </em></p>
+<p>Heimasíðan, sum Marita hevur bygt upp og røkt øll árini, hevur hvørja viku um leið 2500 vitjanir. Heimasíðan er sostatt blivin teirra vangi út í heimin við túsundtals myndum og teirra regluligu støðumetan av, hvussu náttúran í Nólsoy og Føroyum hevur tað. <em type="italic">„Eg eri imponeraður av hansara lívlanga áhaldni at halda eyga við nøringini og vælveruni hjá sjófugli í Føroyum, og at hann áhaldandi breiðir út sínar eygleiðingar og væl grundaðu hugsanir um hóttanir, bæði fyri almenningin og fyri vísindini. Í mongum av hansara nágreiniligu kanningum um føroyskan sjófugl hevur hann veitt bæði okkum og tí vísindaliga umhvørvinum sum heild sera virðismiklar kanningar og náttúrudátur, sum uttan iva fara at hava stórt virði langa tíð eftir at vit eru farin foldum av. Av serligum týdningi eru hansara nágreiniligu og gjølligu kanningar av sjófugli, sum kemur úr Noregi, Bretlandi og aðrastaðni, og sum er í Føroyum um veturin. Slík vitan er serstøk og hevur lagt lunnar undir kanningar, sum annars høvdu verið ógjørligar hjá okkum“ – Tycho Anker Nielsen, ph.d., Noregi </em></p>
+<p>Ein stórur partur av tí grundarbeiðinum, sum er gjørt innan fuglagransking í Føroyum, er ringmerking, sum Jens-Kjeld hevur umsitið í Føroyum í mong ár. Hann hevur sjálvur ringmerkt yvir 25.000 drunnhvítar, sum man vera heimsmet ella nærum tað. <em type="italic">„Jens-Kjeld hevur ringmerkt tíggjutúsundatals av fuglum í Føroyum og nógv mest av drunnhvíta í Nólsoy. Hesin stóri innsatsurin hevur verið eitt stórt íkast til okkara fatan av drunnhvíta nøringini og verjuni av teimum. Jens-Kjeld er somuleiðis tann persónurin, sum hevur givið mest til fatan ina av, hvussu spurvafuglar koma til Føroya við tí stóru Helgolandsrúsuni í Nólsoy. Vit á Zoologisk museum í Keypmannahavn eru sera takksom fyri tað stóra arbeiðið, sum Jens-Kjeld hevur gjørt“ – Jesper J. Madsen, Danmark </em></p>
+<p><em type="bold">Frá granskara til aktivist </em>Jens-Kjeld kennir seg ivaleyst aftur í sitatinum frá heimskenda apugranskaranum Dr. Jane Goodall sum herfyri segði: „eg fór út sum vísindafólk, men kom aftur sum aktivist“. Tað er kanska ikki so undran ar vert, at ein áhugi fyri náttúruni mennist til at ynskja at verja hana. Og eisini á hesum økinum hevur Jens-Kjeld verið fyrimyndarligur at varpa ljós á av bjóð ingar og hóttanir móti náttúruni, á dálking og hvussu innflutt djór og plantur hótta náttúruna. </p>
+<p><em type="italic">Tom Birkhead, professari, Onglandi </em></p>
+<p xml:lang="nob"><em type="italic">Jan Andries van Franeker, ph.d., Niðurlondum. </em>9 &gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;8</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p><em type="bold">Eina H. Eliasen </em>eina@health.fo PhD-lesandi á Deildini fyri Arbeiðs- og Almannaheilsu </p>
+<p>Á grækarismessu 2020 trein løgmaður fram á sjónvarps skíggjan og boðaði føroyingum frá, at Føroyar stongdu. COVID-19, sum fyrstu ferð varð staðfest í kinesiska stórbýnum Wuhan í desember 2019, var nú komið ta longu leið til Føroya.</p>
+<p>COVID-19 er ein sjúka, sum stavar frá einum nýggjum koronuvirusi, og síðani sjúkan varð skrásett fyrstu ferð, er talið av smittaðum fólkum í heiminum vaksið við rúkandi ferð. Serliga eldri fólk og fólk við varandi sjúkum sum diabetes, høgum blóðtrýsti og hjarta-æðrasjúku tykjast vera í størri vanda at fáa eina álvarsliga og møguliga deyðiliga sjúkugongd av nýggja koronuvirusinum.</p>
+<p>Fyri at verja okkara veiku og eldru og okkara heilsuverk móti ovbyrjan, vórðu verjugarðar laðaðir fyri at halda óbodna gestinum burturi. Almenn til mæli</p>
+<p xml:lang="vep"><em type="bold">KORONU- </em></p>
+<p xml:lang="vep"><em type="bold">TÍÐIN </em></p>
+<p>Annar veraldarbardagi, ógvusligar fíggjarkreppur og farsóttir sum tuberklar og Hong Kong-sjúkan. Hetta er nakað av tí, sum eldri føroyingar hava møtt á lívsleiðini. Og nú, tey eru í sínum gyltu árum, uppliva tey enn eina ferð, at gerandisdagurin verður endavendur av einum ósjónligum gesti úr Kina. Á Deildini fyri Arbeiðs- og Almannaheilsu hava vit kannað, um heilsustøðan hjá eldri føroyingum í áttatiárunum er ávirkað av koronutíðini. um sosiala avbyrging og ikki at savnast í bólk um vórðu sett í verk fyri at tálma smittuspjaðingini av koronuvirus inum.</p>
+<p>Fyri eldri fólk merkti hetta, at tey hildu seg heima, ikki sóu familju og vinir og ikki longur luttóku í tænastum og tiltøkum, sum styrkja um kropsligu og sálarligu heilsustøðuna. Gerandisdagurin var endavendur, og spurningurin er, hvussu tað góða endamálið at verja tey eldru móti COVID-19 ávirkar teirra heilsustøðu?</p>
+<p><em type="bold">Kanningin </em>Sum part av einari ph.d.-verkætlan hava vit á Deildini fyri Arbeiðs- og Almannaheilsu kannað, hvussu eldri fólk í áttatiárunum hava megnað koronutíðina. Í alt 227 føroyingar í aldrinum 82–86 ár luttóku í kanningini. Tey búgva øll í egnum heimi, og kognitivi før leikin er góður. Í tele fon samrøðu hava luttakararnir svarað spurn ing um um heilsu støðuna um framt spurn-ing um, sum snúgva seg um COVID-19. Tele fon samrøður nar vórðu gjørdar í tíðar skeið inum 8. juni –15. juli 2020. </p>
+<p>Hesa tíðina høvdu Føroyar verið koronu fríar síðani 22. apríl, burtursæð frá einum tilburði hjá einum útlendskum ferðafólki tann 4. juli 2020. Har um framt hava tey eldru svarað somu spurningum um heilsustøðuna í einari størri granskingarverkætlan í 2018 á Deildini fyri Arbeiðs- og Almannaheilsu. Soleiðis er møgu ligt hjá okkum at samanbera heilsu støðuna áðrenn koronatíðina við, hvussu heilsustøðan er, nú ko rona herjar um allan heim.</p>
+<p><em type="bold">Lýsing av luttakarunum </em>Í alt 227 eldri persónar um 84 ára aldur, sum búgva í egnum heimi, játtaðu at vera við í kanningini. Av hesum vóru 52% kvinnur, og á leið 40% av lut takararunum búðu einsamallir. Eingin av teimum spurdu hevði fingið stað fest COVID-19, og nøkur fá høvdu onkran í familjuni, sum hevði fingið staðfest smittuna. </p>
+<p>Tey flestu av teimum eldru í kanningini høvdu sjálv-boðin hildið seg avbyrgd heima við hús, tá harð ast leikaði á í mars og apríl mánaði. Meðan 37% mettu seg at vera í størri vanda fyri at gerast illa sjúk ella doyggja av koronu, segði umleið fimti hvør persónur seg vera bangnan fyri at gerast sjúkur av COVID-19. Tey flestu av teimum eldru høvdu ikki verið sjúk av beinkrími ella lungnabruna síðani COVID-19 breyt út (Talva 1).</p>
+<p><em type="bold">Einsemi </em>Bæði í 2018 og nú koronufarsóttin ger um seg, vórðu luttakararnir spurdir um einsemi, og um tey kundu hugsað sær meira sosiala samveru í gerandisdegnum. Sum heild vóru tað bert fá av teimum eldru, sum kendu seg einsom í 2018. Men okkara kanning vísir greitt, at einsemi millum tey eldru er hækkað mun andi undir </p>
+<p xml:lang="vep"><em type="bold">TEY </em></p>
+<p xml:lang="nob"><em type="bold">ELDRU </em><em type="italic">og </em></p>
+<p xml:lang="deu">EINSEMI</p>
+<p xml:lang="vep">LÍVSGÓÐSKA 0%10%20%30%40%50%60%70%80%90%100%</p>
+<p>Áðrenn korona í 2018</p>
+<p>Koronatíðin</p>
+<p>Einsemi áðrenn og aftaná korona breyt út</p>
+<p>Nei, kendi ikki einsemi</p>
+<p>Ja, kendi einsemi050100150200250</p>
+<p>Vánalig</p>
+<p>Hvørki góð ella vánalig</p>
+<p>Góð ella sera góð</p>
+<p>Tal av persónum"Hvussu vilt tú meta at tín lívsgóðska er?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018020406080100120</p>
+<p>Als ikki</p>
+<p>Eitt sindur</p>
+<p xml:lang="tur">Nøkulunda</p>
+<p>Fyri tað mesta</p>
+<p>Heilt avgjørt</p>
+<p>Tal av persónum"Hevur tú havt møguleika at hava frítíðarítriv?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018</p>
+<p>Einsemi áðrenn og aftan á korona breyt út</p>
+<p>Áðrenn koronu í 2018</p>
+<p>Koronutíðin11&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;10</p>
+<p xml:lang="sme">TEY ELDRU OG KORONUTÍÐIN</p>
+<p>TEY ELDRU OG KORONUTÍÐINkoronufarsóttini. Heili 21,8% av teimum spurdu kendu einsemi í koronutíðini samanborið við 6,8% í 2018.</p>
+<p>Harumframt vísti kanningin, at 18,6%, sum ikki kendu einsemi áðrenn koronu, nú kendu seg einsom. Tey eldru greiddu millum annað frá, at tey høvdu saknað at vera saman við familju og ommu- og abbabørnunum, og at tey høvdu saknað felagsskapin við javnaldrar í pensjónistafeløgunum. Hinvegin vóru tað eisini tey, sum søgdu seg vera von við at vera einsa møll, og at henda tíðin undir koronu ikki nerv aði stórvegis.</p>
+<p>Hóast tað higartil ikki finst nógv gransking, sum hevur kannað og samanborið heilsu støð una hjá heimabúgv andi eldri fólkum áðrenn og aftan á koronu, benda ávís úrslit á, at eisini í øðr um lond um er talið av eldri fólkum, sum kenna einsemi, hækkað, síðani ko rona farsóttin breyt út. Niður støðan í einari há lendskari kanning staðfestir millum annað, at einsemi millum heimabúgvandi eldri fólk um 65 ára aldur og eldri var hægri í mai 2020 undir koronaufar sóttini saman borið við í oktober og november 2019.</p>
+<p>Sama rák sæst í kanning gjørd í Eysturríki, har granskarar sóu eina lítla øking í einsemi millum heimabúgvandi eldri fólk í koronutíðini í mun til van liga gerandisdagin í 2019. Okkara kanningarúrslit um ein semi er sostatt í samsvari við útlendskar kann ingar, sum eru gjørdar higartil.</p>
+<p><em type="bold">Lívsgóðska </em>Vit kunnu ímynda okkum, at lívsgóðskan hjá teimum eldru versnar av teimum stóru inntrivinunum í gerandis dagin, har tey noyðast at liva avbyrgd av ótta fyri at fáa COVID-19. </p>
+<p>Í okkara kanning vísir tað seg, at tey flestu eldru meta lívsgóðkuna sum heild vera góða ella sera góða. Tó sæst, at tey eldru meta lívsgóðskuna at vera eitt lítið vet verri, aftan á at korona gjørdi sína innrás í gerandis dagin. Serliga er tað veikari kropslig heilsa og verri um støður at luttaka í ymiskum frí tíð ar virksemi, sum hava ávirkað lívsgóðskuna neiliga.</p>
+<p>Tey eldru greiddu millum annað frá, at tað ikki var møguligt at fara til fimleik, at svimja og vera við í øðrum frítíðarvirksemi, sum tey vanliga plaga. Hetta var ein stórur saknur, tí tey kendu á sær, at kroppurin viknaði. Hinvegin vóru tað eisini eldri, sum framvegis hildu seg í gongd við at ganga túrar, passa seyð, arbeiða í urtagarðinum og fáast við hond arbeiði, júst sum áðrenn korona gjørdi innrás.</p>
+<p>Á sálarliga økinum vóru tey eldru millum annað spurd um, hvussu oftani tey høvdu havt ringar kenslur – til dømis tung í huga, vónloysi og angist – og hvussu nógv tey njóta lívið. Kanningin fann onga broyting í júst hesum, og sum heild sæst, heldur óvæntað, at</p>
+<p xml:lang="fin"><em type="bold">Kyn, kvinna, n (%) </em><em type="italic">118 (52.0) </em></p>
+<p xml:lang="nno"><em type="bold">Aldur, miðalaldur ± SD (Range) </em><em type="italic">84.4 ± 1.04 (82.6-86.5) </em></p>
+<p xml:lang="isl"><em type="bold">Útbúgving, n (%) </em><em type="italic">10. flokk ella styttri113 (49.8) </em></p>
+<p xml:lang="isl"><em type="italic">Miðnám, yrkisútbúgving51 (22.5) </em></p>
+<p xml:lang="nno"><em type="italic">Styttri útbúgving (BA, diplom)53 (23.3) </em></p>
+<p><em type="italic">Longri útbúgving (Master, PhD)10 (4.4) </em></p>
+<p xml:lang="isl"><em type="bold">Hjúnastøða, n (%) </em></p>
+<p><em type="italic">Gift/ur ella í parlagi137(60.4) </em></p>
+<p><em type="italic">Fráskild/ur ella sundurlisin6 (2.6) </em></p>
+<p xml:lang="isl"><em type="italic">Ongantíð gift/ur5 (2.2) </em></p>
+<p><em type="italic">Einkja/einkjumaður79 (34.8) </em></p>
+<p xml:lang="isl"><em type="bold">Bústaðarstøða, n (%) </em></p>
+<p><em type="italic">Saman við hjúnafelaga/í parlagi ella familju136 (59.9) </em></p>
+<p><em type="italic">Einsamallur/einsamøll91 (40.1) </em></p>
+<p><em type="bold">Ja til „eg havi fingið staðfest COVID-19“, n (%) </em><em type="italic">0 (0.0) </em></p>
+<p><em type="bold">Ja til „onkur í familjuni hevur fingið staðfest COVID-19“, n (%) </em><em type="italic">9 (4.0) </em></p>
+<p><em type="bold">Í størri vanda fyri at gerast illa sjúk ella doyggja av COVID-19, n (%) </em></p>
+<p><em type="italic">Ja, eg eri í størri vanda84 (37.0) </em></p>
+<p><em type="italic">Ja, ein av mínum nærmastu í størri vanda13 (5.7) </em></p>
+<p><em type="italic">Nei, hvørki eg ella ein av mínum nærmastu í størri vanda123 (54.2) </em></p>
+<p><em type="italic">Veit ikki7 (3.1) </em></p>
+<p><em type="bold">Heilsustøðan viðvíkjandi krím og lungnabruna, n (%) </em></p>
+<p><em type="italic">Eg havi ikki verið sjúk/ur yvirhøvur195 (85.9) </em></p>
+<p><em type="italic">Eg eri frísk/ur av krím/lungnabruna22 (9.7) </em></p>
+<p><em type="italic">Eg eri sjúk/ur í løtuni av krím/lungnabruna8 (3.5) </em></p>
+<p xml:lang="eng"><em type="italic">Missing2 (0.9) </em></p>
+<p><em type="bold">Ja til „verið í kravdum sóttarhaldi“, n (%) </em><em type="italic">5 (2.2) </em></p>
+<p><em type="bold">Ja til „sjálvboðið hildið seg avbyrgdan heima við hús“, n (%) </em><em type="italic">201 (88.5) </em></p>
+<p><em type="bold">Bangin fyri at gerast sjúk/ur av COVID-19 </em></p>
+<p xml:lang="smj"><em type="italic">Ja44 (19.4) </em></p>
+<p xml:lang="nno"><em type="italic">Nei176 (77.5) </em></p>
+<p><em type="italic">Veit ikki7 (3.1) </em></p>
+<p><em type="bold">Talva 1. </em><em type="italic">Lýsing av luttakarunum (n = 227) </em></p>
+<p xml:lang="vep">LÍVSGÓÐSKA 050100150200250</p>
+<p>Vánalig</p>
+<p>Hvørki góð ella vánalig</p>
+<p>Góð ella sera góð</p>
+<p>Tal av persónum"Hvussu vilt tú meta at tín lívsgóðska er?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018020406080100120</p>
+<p>Als ikki</p>
+<p>Eitt sindur</p>
+<p xml:lang="tur">Nøkulunda</p>
+<p>Fyri tað mesta</p>
+<p>Heilt avgjørt</p>
+<p>Tal av persónum"Hevur tú havt møguleika at hava frítíðarítriv?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018</p>
+<p xml:lang="vep">LÍVSGÓÐSKA 0%</p>
+<p>Áðrenn korona í 2018</p>
+<p>Koronatíðin</p>
+<p>Nei, kendi ikki einsemi</p>
+<p>Ja, kendi einsemi050100150200250</p>
+<p>Vánalig</p>
+<p>Hvørki góð ella vánalig</p>
+<p>Góð ella sera góð</p>
+<p>Tal av persónum"Hvussu vilt tú meta at tín lívsgóðska er?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018020406080100120</p>
+<p>Als ikki</p>
+<p>Eitt sindur</p>
+<p xml:lang="tur">Nøkulunda</p>
+<p>Fyri tað mesta</p>
+<p>Heilt avgjørt</p>
+<p>Tal av persónum"Hevur tú havt møguleika at hava frítíðarítriv?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018</p>
+<p xml:lang="deu">LÍVSGÓÐSKA KROPSLIG HEILSA 020406080100 120 140 160 180</p>
+<p>Sera ónøgd/ur</p>
+<p>Hvørki nøgd/ur ella ónøgd/ur</p>
+<p xml:lang="nno">Rættiliga nøgd/ur</p>
+<p>Sera nøgd/ur</p>
+<p>Tal av persónum"Hvussu nøgd/ur ert tú við tann stuðul tú fært frá familju og vinum?"</p>
+<p>Koronatíðin</p>
+<p>Áðrenn korona í 2018</p>
+<p>Koronutíðin</p>
+<p>Koronutíðin</p>
+<p>Koronutíðin</p>
+<p>Áðrenn koronu í 2018</p>
+<p>Áðrenn koronu í 2018</p>
+<p>Áðrenn koronu í 2018"Hvussu vilt tú meta, at tín lívsgóðska er?"13&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;12</p>
+<p xml:lang="sme">TEY ELDRU OG KORONUTÍÐIN</p>
+<p xml:lang="sme">TEY ELDRU OG KORONUTÍÐIN</p>
+<p><em type="bold">Keldur: </em></p>
+<p xml:lang="eng"><em type="bold">Clotworthy A </em>, <em type="bold"></em>Dissing AS, Nguyen TL, Jensen AK, Andersen TO, Bilsteen JF, et al. 'Standing together – at a distance': Documenting changes in mental-health indicators in Denmark during the COVID-19 pandemic. Scand J Public Health. 2020:1403494820956445. <em type="bold">Heidinger T </em>, <em type="bold"></em>Richter L. The Effect of COVID-19 on Loneliness in the Elderly. An Empirical Comparison of Pre-and Peri-Pandemic Loneliness in Community-Dwelling Elderly. Front Psychol. 2020;11:585308. <em type="bold">van Tilburg TG </em>, Steinmetz S, Stolte E, van der Roest H, de Vries DH. Loneliness and mental health during the COVID-19 pandemic: A study among Dutch older adults. J Gerontol B Psychol Sci Soc Sci. 2020. <em type="bold">Petersen MS </em>, Strøm M, Christiansen DH, Fjallsbak JP, Eliasen EH, Johansen M, et al. Seroprevalence of SARS-CoV-2-Specific Antibodies, Faroe Islands. Emerg Infect Dis. 2020;26(11):2761-3. </p>
+<p>Í alt 180 av teimum 187 føroyingunum, sum høvdu koronu í vár, luttóku í granskingarverkætlanini. Luttakararnir vórðu uppringdir millum tvær og fimm ferðir í nakrar vikur av lækna og læknalesandi frá granskingartoyminum. Tey, ið høvdu havt koronu í vár, vórðu spurd, um tey framvegis høvdu sjúkueyðkenni, sum tey hildu stavaði frá koronu.</p>
+<p>Kanningin vísir, at 95 persónar ella 53% høvdu í minsta lagi eitt sjúkueyðkenni við seinastu tele fonsamrøðu, sum var í miðal 125 dagar eftir, at tey fingu fyrstu sjúkueyðkennini. Tey mest vanligu sjúku eyðkenn ini, tá tey vóru sjúk av koronu, var møði, fepur og høvuð pína, meðan tey mest varandi sjúku eyð-kennini vóru møði og vantandi smakki- og luktisansur (Mynd 1).</p>
+<p>Seinárin av koronu verður kannað nógva staðni runt í heiminum, men ofta kanna tey bert fólk, sum hava verið innløgd. Í mun til aðrar kanningar er okkara kanning øðrvísi, tí hon vísir, hvørji seinárini kunnu vera hjá øllum, sum hava havt koronu, eisini hjá teimum, sum ikki hava verið álvarsliga sjúk.</p>
+<p>Maria Skaalum Petersen, granskari, hevur saman við Pál Weihe, yvirlækna og professara, staðið fyri hesi granskingarverkætlanini um sjúkutekin og seinárin av koronu í Føroyum. Kanninging er fíggjað av p/f Krúnborg and Bortartún.</p>
+<p xml:lang="kal"><em type="bold">Maria Skaalum Petersen, </em></p>
+<p xml:lang="eng"><em type="bold">MSc, PhD </em>maria@health.fo </p>
+<p xml:lang="rmy-rka">Lektari</p>
+<p>Deildin fyri Arbeiðs- og</p>
+<p xml:lang="est">Almannaheilsu</p>
+<p xml:lang="nno"><em type="bold">SEINÁRIN AV KORONU </em></p>
+<p>Fleiri teirra, ið fingu koronu fyri einum hálvum ári síðani, eru enn ávirkað av sjúkuni. Tað vísir kanning av seinárinum av koronu, ið føroyskir granskarar hava gjørt. Kanningin, sum kallast „Long COVID in the Faroe Islands – a longitudinal study among non-hospitalized patients“, var almannakunngjørd 30. november 2020 í altjóða tíðarritinum Clinical Infectious Disease.</p>
+<p><em type="bold">Talva: Yvirlit yvir sjúkueyðkenni, meðan luttakarar vóru sjúkir við korona og við seinastu uppfylging. </em></p>
+<p>Mynd 1. Títtleikin av sjúkueyðkennum hjá persónum við korona í Føroyum í prosent, meðan persónar vóru sjúkir (appelsingul strika) og við seinastu uppfylging (blá strika) 26463911229582415580295212326262635374040414856585963667301020304050607080</p>
+<p xml:lang="swe">Úrslett</p>
+<p>Tryst fyri bringuna</p>
+<p xml:lang="est">Kvalma</p>
+<p>Hosta við slím</p>
+<p>Leyst lív</p>
+<p xml:lang="isl">Andaneyð</p>
+<p xml:lang="isl">Liðapínu</p>
+<p>Ilt í hálsinum</p>
+<p xml:lang="isl">Manglandi hug til mat</p>
+<p>Tipta nøs</p>
+<p>Turran hosta</p>
+<p xml:lang="olo">Vøddapínu</p>
+<p>Væntandi lugtisans</p>
+<p>Væntandi smaksans</p>
+<p>Kuldagysningar</p>
+<p>Høvuðpínu</p>
+<p>Febur</p>
+<p>Møði</p>
+<p>Procent av persónum við sjúkueyðkennum</p>
+<p>Undir sjúku Seinasta uppfylging</p>
+<p><em type="bold">Mynd 1. </em><em type="italic">Títtleikin av sjúkueyðkennum hjá per sónum við koronu í Føroyum í prosentum, meðan per sónar vóru sjúkir (appelsin gul strika) og við seinastu uppfylging (blá strika) </em>lívsgóðskan innan sálarliga økið var hækkað eitt vet í mun til tíðina áðrenn koronu. </p>
+<p>Eisini vóru tey eldru meira nøgd við stuðul, tey fáa frá familju og vinum í koronutíðini, enn tey søgdu seg vera í 2018. Ein kvinna greiddi frá, at hon hevði hildið seg heima í seks vikur, og alt varð borið til dyrnar, sum hon hevði tørv á, so stuðulin var góður.</p>
+<p>Í Danmark hava granskarar við jøvnum millumbili síðani 20. mars til 16. apríl 2020 kannað sálarligu heilsustøðuna hjá millum annað einum bólki av eldri dønum, sum vóru 65 ár og eldri. Kanningin, sum er almanna kunngjørd í tíðarritinum „Scandi nav ian Journal of Public Health“, er ikki ólík úrs lit unum í okkara kanning.</p>
+<p>Høvuðsniðurstøðan hjá donsku granskarunum er, at sálarliga heilsustøðan hjá dønum sum heild var lítið nervað í fyrstu bylgju av koronufarsóttini, og at lívsgóðskan hjá teimum eldru minkaði eitt vet tær fyrstu tríggjar vikurnar og hækkaði síðani aftur.</p>
+<p><em type="bold">Samanumtøka </em>Í Føroyum hava vit megnað at hildið ósjónliga gestinum úr Kina nærum burturi við at kanna fólk í hópatali fyri smittu, við neyvari smittuuppsporing og við avbyrging. Higartil hava verjugarðarnir hildið, og </p>
+<p xml:lang="deu">LÍVSGÓÐSKA KROPSLIG HEILSA</p>
+<p>Máting av lívsgóðskuni grundað á kropsligu heilsustøðuna 0 til 100 stig. Hægri stig vísir betri lívsgóðsku.</p>
+<p>X = miðalstig. Miðalstig áðrenn korona = 73.8. Miðalstig koronatíðin = 71.7 - ein lækking á 2.1%. 50% av luttakarunum liggja í litaða økinum, 25% liggja yvir og 25% undir litaða økið.</p>
+<p>Lívsgóðska stig 0 til 1000102030405060708090100</p>
+<p xml:lang="isl">Lívsgóðska - kropslig heilsa</p>
+<p>Áðrenn korona í 2018</p>
+<p>Koronatíðin</p>
+<p xml:lang="deu">LÍVSGÓÐSKA SÁLARLIG HEILSA</p>
+<p>Máting av lívsgóðskuni grundað á sálarligu heilsustøðuna 0 til 100 stig. Hægri stig vísir betri lívsgóðsku.</p>
+<p>X = miðalstig. Miðalstig áðrenn korona = 77.1. Miðalstig koronatíðin = 80.5 - ein hækking á 3.4%. 50% av luttakarunum liggja í litaða økinum, 25% liggja yvir og 25% undir litaða øki.</p>
+<p>Lívsgóðska stig 0 til 1000102030405060708090100</p>
+<p>Lívsgóðska - sálarlig heilsa</p>
+<p>Áðrenn korona í 2018</p>
+<p>Koronatíðin</p>
+<p><em type="italic">Máting av lívsgóðskuni grundað á kropsligu heilsustøðuna 0 til 100 stig. Hægri stig vísir betri lívsgóðsku. X = miðalstig. Miðalstig áðrenn koronu = 73.8. Miðalstig koronutíðin = 71.7 – ein lækking á 2.1%. 50% av luttakarunum liggja í litaða økinum, 25% liggja yvir og 25% undir litaða økið. </em></p>
+<p><em type="italic">Máting av lívsgóðskuni grundað á sálarligu heilsustøðuna 0 til 100 stig. Hægri stig vísir betri lívsgóðsku. X = miðalstig. Miðalstig áðrenn koronu = 77.1. Miðalstig koronutíðin = 80.5 – ein hækking á 3.4%. 50% av luttakarunum liggja í litaða økinum, 25% liggja yvir og 25% undir litaða øki. </em>smittan er ikki sloppin fram at okkara eldru borgarum. Til henda dag (03.11.20) hava bert fimm fólk í aldrinum 80 ár og eldri fingið stað fest COVID-19 (corona. fo), og eingin í Føroyum er deyð ur av sjúkuni. </p>
+<p>Somuleiðis vísti ein kanning av skuggatalinum í</p>
+<p>Føroyum seint í vár, at eingin í aldursbólkinum 80 ár og eldri hevði andevni í blóðinum móti koronu. Tað merkir, at helst eingin tá var smittaður við ko ronuvirusinum. Men hvat er prísurin fyri at halda óbodna gestinum burtur? Sum heild benda okkara úrs lit á, at eldri heimabúgvandi føroyingar hava megnað koronutíðina væl, har lívsgóðskan í minni mun er ávirkað, men at nøkur eldri hava merkt einsemi í hesi óvanligu tíðini. – Møði og vantandi luktisansur</p>
+<p>Koronutíðin</p>
+<p>Koronutíðin</p>
+<p>Áðrenn koronu í 2018</p>
+<p>Áðrenn koronu í 2018</p>
+<p>Møði</p>
+<p>Fepur</p>
+<p>Høvuðpínu</p>
+<p xml:lang="smj">Kuldaskjálvta</p>
+<p xml:lang="isl">Vatnandi smakksans</p>
+<p>Vantandi luktisans</p>
+<p xml:lang="olo">Vøddapínu</p>
+<p>Turran hosta</p>
+<p>Tipta nøs</p>
+<p xml:lang="isl">Manglandi hug til mat</p>
+<p>Ilt í hálsinum</p>
+<p xml:lang="isl">Liðapínu</p>
+<p xml:lang="isl">Andaneyð</p>
+<p>Leyst lív</p>
+<p>Hosta við slími</p>
+<p xml:lang="est">Kvalma</p>
+<p>Trýst fyri bringuni</p>
+<p xml:lang="swe">Úrslett</p>
+<p>Prosent av persónum við sjúkueyðkennum15&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;14</p>
+<p xml:lang="nno">SEINÁRIN AV KORONU – MØÐI OG VANTANDI LUKTISANSUR</p>
+<p xml:lang="sme">TEY ELDRU OG KORONUTÍÐIN</p>
+<p xml:lang="nob"><em type="bold">Jens-Kjeld Jensen </em>jkjensen@olivant.fo </p>
+<p>Náttúrufrøðingur</p>
+<p xml:lang="isl">Heiðursdoktari á</p>
+<p>Fróðskaparsetri Føroya</p>
+<p xml:lang="deu"><em type="bold">FUNNU GRØÐISKEL </em></p>
+<p><em type="bold">FRÁ SEPIA HØGGU- </em></p>
+<p xml:lang="isl"><em type="bold">SLOKKI Í FJØRUNI </em></p>
+<p>Sepiahøgguslokkur (Sepia officinalis) heldur vanliga ikki til um okkara leiðir. Men bæði í 1923 og aftur í 2018 funnu fólk grøðiskeljar í fjøruni í fleiri bygdum. Ein maður borin í heim í 1845 hevur eisini greitt frá, at tá hann var smádrongur, goymdi mamma hansara tílíka skel, og hon nevndi hana grøðiskel. Hetta bendir á, at tílíkar skeljar eisini fyrr hava rikið upp á land í Føroyum. Talan kann hava verið um broytingar í norðurevropeisku havstreymunum hesi tíðarskeiðini. 2. mai 2018 ringdi Hans Eli Sivertsen til mín. Hann hevði verið í Leynum og fiskað, og á sandinum hevði hann funnið ein ryggskjøldur frá sepiahøgguslokki, eisini nevndur grøðiskel.</p>
+<p>Hans Eli spurdi, um eg visti nakað um, at slíkir skjøldrar vóru funnir í Føroyum, men tað einasta, eg visti um slíkar ryggskjøldrar, var, at teir kunnu keypast sum kálkískoyti til búrfuglar, og at eg, tá eg var barn, hevði funnið ein á jútsku vesturstrondini.</p>
+<p>Nakrar dagar seinni, 6. mai, hevði Hans Eli funnið tilsamans tríggjar grøðiskeljar, tvær í Leynum og eina í Kaldbaksbotni. Vit skrivaðu um hetta á heima- síðu okkara (www.jenskjeld.info), har vit eftir lýstu aðrar fundir av hesum høggu slokka rygg skjøldr unum, og aðrar heimasíður skrivaðu eisini um hetta. 23. juni 2018 hevði eg fingið upplýsingar um tilsamans 36 grøðiskeljar, sum vóru funnar í hesum støðum:</p>
+<p xml:lang="eng"><em type="bold">Mynd 2. </em><em type="italic"></em></p>
+<p xml:lang="vep"><em type="italic">Sepiahøgguslokkur (Sepia officinalis). ©José </em></p>
+<p xml:lang="fkv"><em type="italic">Salmerón, https://www.instagram.com/salmeron-casanova/ </em></p>
+<p>Í sama tíðarskeiði tosaði eg við fleiri eldri fólk og Havstovuna, men eingin hevði sæð ella hoyrt um, at nakar hevði funnið grøðiskel av sepiahøgguslokki millum 1923 og 2018.</p>
+<p><em type="bold">Tíggjuermdur høgguslokkur </em>Sepiahøgguslokkur er ein tíggjuermdur høgguslokkur. Hann heldur til frá eystur strondini í Suður afrika og allan vegin fram við atlants havs strond ini í Afrika og Evropa norður til Mið noreg, umframt í Mið jarðarhav inum. Hann er van ligur á suður- og vesturstrondini á bretsku oyggjunum og í sunnara parti av Norðsjónum. Sjáld samur er hann í norðara parti av Norðsjónum. Sepia høggu slokkur livir einans 1-2 ár, og slagið verð ur vanliga fiskað í Miðjarðarhavinum, m.a. Grikka landi og Spania, har hann verður havdur </p>
+<p><em type="bold">Mynd 1. </em><em type="italic">Grøðiskeljar, sum allar eru merktar av at hava ligið eina tíð í sjónum. Hanna Joensen hevur funnið hesar við Mølheyggjarnar á Sandi </em></p>
+<p>FUNNU GRØÐISKEL FRÁ SEPIA HØGGU SLOKKI Í FJØRUNI17&gt;</p>
+<p>FRØÐI 2/20201 í Hvannasundi 1 í Norðdepli 1 í Syðrugøtu3 í Árnafirði 1 í Skálabotni 2 í Kaldbaksbotni1 í Sandágerði 4 í Kirkjubø 7 í Leynum 1 í Vestmanna9 á Sandi 3 í Sandavági 2 í Sørvági</p>
+<p>FUNNU GRØÐISKEL FRÁ SEPIA HØGGU SLOKKI Í FJØRUNI</p>
+<p>FUNNU GRØÐISKEL FRÁ SEPIA HØGGU SLOKKI Í FJØRUNI</p>
+<p>FRØÐI 2/2020&gt;16til matna. Grøðiskeljar verða vanliga seldar í kelidjóra vinnuni, har tær verða nýttar sum kálkkelda til fugl ar og til at geva fuglunum møguleika at hvessa nevið.</p>
+<p>Sepia høggu slokkur hevur eins og aðrir høggu slokkar blátt blóð, sum fyrr í tíðini varð nýtt at skriva við. Bláa blóð ið gav skrift ini ein brúnan lit, ið var høgt í metum.</p>
+<p>Ryggskjøldurin frá sepiahøgguslokki, grøðiskel, hev-ur eftir øllum at døma verið kendur í Føroyum í fleiri øld ir, tí Rasmus Kristen Rasmussen skrivar: <em type="italic">„Müller sýslumaður sigur, at høgguslokkaskeljar, nevndar grøðiskeljar, vórðu nýttar í Føroyum til sár. Hetta bendir avgjørt á, at tílíkar skeljar eisini fyrr munnu hava rikið upp á land her, – og ivaleyst man so vera. Ein maður borin í heim í 1845, greiddi í 1923 frá, at hann mintist, tá ið hann var 6-8 ára gamal, at mamma hansara goymdi tílíka skel, og hann mintist orðið grøðiskel. Hevði onkur í húsinum sár, varð tjúkkari endin av skelini brankaður yvir eldinum, og eitt sindur av hesum brúna og turra varð skavað fint sum dust beint niður í sárið. Maðurin, sum í 1923 greiddi frá hesum, hevði onga tíð seinni sæð, hoyrt um ella funnið tílíka skel; men hann kendi hana beinan veg in, tá ið hann hetta árið sá hana aftur.“ </em></p>
+<p>Grøðiskel hevur eisini verið nýtt í nýggjari tíð, tí fyrr verandi landsapotekarin Heri Mørkøre sigur frá, at tá hann var í læru í Danmark, seldu tey grøðiskel á apotek inum.</p>
+<p><em type="bold">Frágreiðing í 1923 </em>R. Spärck, sum starvaðist á Zoologisk Museum í Dan mark, skrivaði í 1923 greinina: „Ein knapplig hóp fyri kom ing av Sepia-skeljum“. (Stytt útgáva): <em type="italic">„Zoologisk museum fekk á vári 1923 fleiri fyri spurningar um, hvørjar hesar løgnu skelj ar mundu vera, sum í stórum tali róku í land á fleiri pláss um í Føroyum. Ein kanning av skelj unum vísti, at tær stavaðu frá Sepia officinalis. </em></p>
+<p><em type="italic">Av tí at skeljarnar sambært øllum heimildar monn-um vóru púra ókendar hjá føroyingum, og heldur einki stóð skrivað nakrastaðni um, at slíkar skeljar vóru funnar í Føroyum, helt eg, at ein nærri kanning av fyri brigdinum mundi hava áhuga fyri summi. </em></p>
+<p><em type="italic">Eg vendi mær til fleiri teirra, sum høvdu sent fyrispurning til savnið, og bað tey royna at fáa nærri upplýsingar um, hvar og nær skeljarnar vóru riknar í land, í hvussu stórum nøgdum o.s.fr. Frá harrunum R. K. Rasmussen, lækna, Eiði, og P. Effersøe, yvir rættarsakførara, Tórs havn, hev ur savnið fingið fleiri sera virðismiklar upp lýs ingar, sum eru grundarlag undir niðan fyri stand andi frágreiðing. </em></p>
+<p><em type="italic">Sambært frágreiðing frá Rasmussen lækna eru fyrstu skeljarnar riknar í land í víkini norð an fyri Eiði 13. februar, seinasta skelin rak í land 25. mai 1923. Eg havi heldur ikki aðra staðni fingið upplýsingar um, at skeljarnar eru riknar í land áðrenn ella aftan á nevndu dagar. </em></p>
+<p><em type="italic">Frá víkini norðan fyri Mølina á Eiði hevur Ras-muss en lækni fingið serliga nágreiniligar upp lýsingar. Í hesi lítlu víkini eru riknar í land fleiri enn 105 skeljar. Sambært frásøgn frá P. Effersøe, yvir rættar sakførara, eru skeljar riknar í land nær við Tórshavn, í Nólsoy (uml. 300). </em></p>
+<p><em type="italic">Mett eftir nevndu tølunum munnu í øllum øki num tilsamans vera fleiri túsund skeljar, serliga av tí at ein stórur partur sambært ymisk um frá sagn um verður knústur í briminum og sostatt ikki rekur í land.“ </em></p>
+<p><em type="italic">Spärck skrivar víðari: „Henda knappliga fyri koming-in av fleiri túsund skeljum í Føroyum av hesum suður- og vestur evropeiska slagnum hevur neyvan aðra frá-greið ing enn, at vit mugu rokna við, at ein mun andi broyt ing hevur verið í norður evro peisku hav streymunum hetta árið.“ </em></p>
+<p>Og sama mugu vit siga í dag, 95 ár seinni, tó uttan at hava nakað prógv fyri tí.</p>
+<p><em type="bold">Mynd 3. </em><em type="italic">Grøðiskelin, sum er at finna í rygginum á sepia høgguslokkinum, gerst upp í 18 cm til longdar. </em></p>
+<p><em type="bold">Keldur: </em></p>
+<p>Rasmussen, Rasmus K. 1959. Gomul Føroysk Heima ráð. Tórshavn: Føroya Fróðskaparfelag. Print. Annales Societatis Scientiarum Færoensis Supple mentum 3. pp 148.</p>
+<p xml:lang="dan">Spärck, R. 1923. En pludselig masseforekomst af sepia-skaller ved Færøerne i foråret 1923. Viden skabelige meddelelser fra Dansk Naturhistorisk For ening (769 pp. 141-146).</p>
+<p xml:lang="nno"><em type="bold">Takk: </em></p>
+<p>Hanna Joensen, Hans Eli Sivertsen, Petur Steingrund, Poul Johannes Simonsen og Rodmund á Kelduni, sum øll hava latið týdningarmiklar upplýsingar til hesa greinina.</p>
+<p xml:lang="deu"><em type="bold">BOTN DJÓRA- </em></p>
+<p xml:lang="deu"><em type="bold">SAMFELAGIÐ </em></p>
+<p>Fyri at kunna meta um um djórasamfelagið á botninum á einum firði er ávirkað, er neyðugt at vita, hvussu natúrliga botndjórasamfelagið sær út, tá ið botnurin ikki er ávirkaður. Tí er neyðugt at hava eitt sammetingargrundarlag. Fyrsta stigið er nú tikið á leiðini at hava umhvørviseftiransing á føroysku firðunum, sum lúka altjóða krøv.</p>
+<p>Flestøll hugsa um aling, tá ið tosað verður um møguliga dálking á firðunum. Aling er tó bara ein av fleiri dálkingarkeldum, sum kunnu ávirka vist frøð ina á teimum føroysku firðunum. Ein stór dálk ingar kelda stavar m.a. frá ymiskum virksemi á landi frá okkum menniskjum. Eitt nú verður alt spilli vatn frá bæði vanligum húsarhaldum og frá virkjum ofta leitt út í firðir nar, og kunnu tøð evni, sum stava frá landbún aðinum, eisini enda úti í firð unum og ávirka vist frøðina har.</p>
+<p>Vistfrøðin á firðunum kann broytast av hesum dálk ing ar keld um, tí umframt kemikaliir, metallir og onnur eitur evni, sum mangan taka langa tíð at niðurbróta og sum samstundis kunnu skaða og eitra umhvørvið, innihalda hesar dálkingarkeldur eisini føðsluevni og lívrunnið tilfar.</p>
+<p>Føðsluevni, serliga køvievni og fosfat, kunnu virka sum tøðevni fyri algur og kunnu føra við sær eina uppblóming av algum. Tá hesar algur doyggja, søkka tær á botn, har bakteriur á botninum niðurbróta deyðu algurnar saman við øðrum lívrunnum tilfari, sum stavar frá dálkingarkeldunum. Í hesi tilgongd</p>
+<p xml:lang="nob"><em type="bold">Heidi S. Mortensen </em>heidi@fiskaaling.fo </p>
+<p>Lívfrøðingur, MSc</p>
+<p>Fiskaaling</p>
+<p>Hini, sum hava verið við í verkætlanini, eru: Gunnvør á</p>
+<p xml:lang="nob">Norði, lívfrøðingur, PhD,</p>
+<p>Fiskaaling. Birgitta Andreasen, evnafrøðingur, PhD, Fiskaaling.</p>
+<p>Tróndur T. Johannesen, støddfrøðingur, Fiskaaling.– dálkingarkeldur og vistfrøðiligar broytingar</p>
+<p xml:lang="nob"><em type="bold">Mynd: </em>Ingi Sørensen </p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;1819&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="sme">BOTNDJÓRASAMFELAGIÐ – DÁLKINGARKELDUR OG VISTFRØÐILIGAR BROYTINGAR</p>
+<p>FUNNU GRØÐISKEL FRÁ SEPIA HØGGU SLOKKI Í FJØRUNI</p>
+<p>Síðani verða lívfrøðilig indeks nýtt til hesar upp lýsingar. Lívfrøðilig indeks eru støddfrøðiligar líkning ar, sum lýsa tal av djórum og sløgum, og javnleikan ímillum sløgini og lutfallið millum viðkvom/mót støðu før botndjór</p>
+<p>Ymiskt er millum lond, hvørji lívfrøðilig in deks tey nýta, men felags fyri øll indeksini er, at lík ningarnar inni halda omanfyri nevndu upplýsingar. Talva 2 vísir lív frøði lig indeks, sum grannalond okkara nýta á økj um, sum kunnu samanberast við føroysku firð ir nar. Danmark, Svøríki og Stórabretland nýta eitt in deks, meðan Noreg nýtir heili fimm ymisk lív frøði lig indeks, tá metast skal um, um botnurin er ávirk aður.</p>
+<p><em type="bold">Flokkingarskipan fyri lívfrøðiligu indeksini </em>Fyri ES limalond og EFTA lond er krav, sambært Vatnrammudirektivinum, at mennast skal ein 5 stiga flokkingarskipan fyri lívfrøðiligu indeksini, sum tey nýta. Hesar flokkingarskipanirnar eru mentar út frá, hvussu natúrliga botndjórasamfelagið sær út. Alt eftir, hvussu indeksvirðini frá einari botn djóra kann ing víkja frá ella eru eins við indeksvirðið hjá tí na túr liga og óávirkaða botninum, kann botnurin og harvið vistfrøðiliga støðan á fjørðinum, har kanningin er gjørd, flokkast sum ávikavist sera góð, góð, tolulig, vána lig ella sera vánalig. </p>
+<p>Sambært Vatnrammudirektivinum skulu londini eisini seta sær sum mál, at ein botndjórakanning skal altíð í minsta lagi blíva flokkað sum góð. Um støðan er verri, t.e. víkur ov nógv frá tí natúrligu støð uni, skulu neyð ug tiltøk setast í verk fyri at røkka hesi flokk ing (Mynd 2).</p>
+<p><em type="bold">Manglaðu vitan um natúrligu støðuna á føroysku firðunum </em>Í Føroyum verða eisini botndjórakanningar gjørdar á føroysku firðunum. Eitt nú hava alifeløgini sum part av umhvørviseftiransingini síðani 1998 gjørt botndjórakanningar á firðunum. </p>
+<p>Trupult hevur tó verið at tulka úrslitini frá hesum botndjórakanningum vegna vantandi vitan um, hvussu natúrliga botndjórasamfelagið sær út á teimum føroysku firðunum. Tað merkir, at einki sammet ing ar grundarlag hevur verið, og tískil hevur heldur ikki borið til at ment eina flokkingarskipan fyri at meta um ella hvussu nógv ein botnur er ávirk aður.</p>
+<p>Hetta er óheppið, og tískil tóku Fiskaaling og</p>
+<p>Umhvørvisstovan, sum er umhvørvismyndugleiki á økinum, í 2018 stig til eina verkætlan, har endamálið var at fáa lýst ta natúrligu vistfrøðiligu støðuna hjá botndjórunum á føroysku firðunum, so leiðis at ein føroysk flokkingarskipan kann mennast í samsvar við altjóða krøv eins og krøvini hjá Vatn rammu direk tivinum.</p>
+<p><em type="bold">Talva 1. </em><em type="italic">Lívfrøðilig indeks, sum grannalond okkara nýta </em>nýta bakteriurnar súrevni, og jú meiri lívrunnið tilfar er til taks hjá bakteriunum, jú meiri súrevni verður nýtt. Eisini er vandi fyri, at eitrandi evni sum ammonium og sulfat hópa seg upp, og tað saman við minni av súrevni á botninum kann hava neiliga ávirkan á djóralívið á botninum. Í ringasta føri kann henda ávirkan køva alt botndjóralív. </p>
+<p><em type="bold">Botndjórakanningar eitt hent umhvørvisamboð </em>Um dálkingin gerst ov stór og livikorini hjá djórunum á botninum gerast trupul, vilja djór, ið eru flytifør, flýggja burtur frá økinum. Hetta er tó ikki gjørligt hjá ryggleysum botndjórum, sum sita føst á ella í botninum. Tá talan er um dálking, er tað ymiskt, hvussu mótstøðufør tey ymisku ryggleysu botn djórasløgini eru. Summi eru sera mótstøðufør og klára at liva leingi í einum dálkaðum umhvørvi, meðan onnur eru viðbreknari og hvørva, so hvørt sum dálkingin økist. </p>
+<p>Botndjórakanningar av slíkum ryggleysum djórum eru tí eitt hent umhvørvisamboð, sum flest øll lond nýta í sambandi við árinsmetingar. Kanningarnar siga nógv um dálkingarstøðuna á botninum, alt eftir nøgd og samanseting av hesum botndjórum.</p>
+<p><em type="bold">Vitanin um natúrligu botndjórasamansetingina er alneyðug </em>Fyri at vita um vistfrøðin á einum firði er ávirkað av dálking, út frá botndjórakanningum, er neyðugt at vita, hvussu natúrliga botndjórasamfelagið sær út, tá ið botnurin ikki er ávirkaður. Tí er neyðugt at hava eitt sammetingargrundarlag. </p>
+<p>Hvussu natúrliga botndjórasamfelagið sær út er m.a. treytað av dýpinum, botnslagnum, inni haldinum av lív runnum tilfari og teimum lokalu streym- og aldu við ur skift unum.</p>
+<p>Føroysku firðirnir víkja t.d. frá firðunum í granna-lond um okkara, við tað at teir eru smáir og hava eina veika lagdeiling, ið javnan verður niðurbrotin av vindi. Henda javna umrøring ger, at føðsluevni frá botn inum koma upp og geva góð gróðrarlíkindi. Primerframleiðslan er tí tvær til tríggjar ferðir hægri í føroysku firðunum, samanborið við eitt nú firðirnar í Noregi og Íslandi.</p>
+<p>Hetta førir við sær, at meiri lívrunnið tilfar úr erva sum frá líður søkkur á botn í føroysku firðunum. Sum áður nevnt kann ov nógv lívrunnið tilfar á botn inum broyta botnsdjórasamfelagið, og ofta verð ur tikið til, at botndjórafjølbroytni natúrliga er lægri á føroysku firðunum samanborið við grannalondini.</p>
+<p><em type="bold">Botndjórakanningar og lívfrøðilig indeks </em>Tá ein botndjórakanning verður gjørd, verður ein grabbi við eini vídd upp á 0,1 m2 loraður niður á botn. Hann grabbar bleyta botnin upp. Botnurin verður sílaður gjøgnum eina 1 mm sílu, og talt verður, hvussu nógv ryggleys botndjórasløg størri enn 1 mm eru til staðar í grabbanum og hvussu nógv djór eru av hvørjum slagi. </p>
+<p><em type="bold">Mynd 1. </em><em type="italic">Ein grabbi júst tikin upp við einum sýni av bleytum botni í sambandi við eina botndjórakanning. Myndin er tikin av Biofar. </em></p>
+<p xml:lang="eng"><em type="bold">Land </em></p>
+<p xml:lang="deu"><em type="bold">DKI </em></p>
+<p xml:lang="isl"><em type="bold">H´ </em></p>
+<p xml:lang="deu"><em type="bold">ES100 </em></p>
+<p xml:lang="kal"><em type="bold">NSI </em></p>
+<p xml:lang="eng"><em type="bold">ISI2012 </em></p>
+<p xml:lang="kal"><em type="bold">NQI1 </em></p>
+<p xml:lang="ita"><em type="bold">BQI </em></p>
+<p xml:lang="eng"><em type="bold">IQI </em></p>
+<p xml:lang="nob">Danmark</p>
+<p xml:lang="nno">Noreg</p>
+<p><em type="italic">Svøríki </em></p>
+<p xml:lang="isl"><em type="italic">Stóra Bretland </em></p>
+<p xml:lang="hbs">UMHVØRVISMÁL</p>
+<p xml:lang="deu">ROKKIÐ</p>
+<p>Einki</p>
+<p xml:lang="isl">Lítið</p>
+<p xml:lang="est">Toluligt</p>
+<p>Týðandi</p>
+<p>Sera týðandi</p>
+<p xml:lang="deu">SERA GÓÐ</p>
+<p xml:lang="smj">GÓÐ</p>
+<p xml:lang="vep">TOLULIG</p>
+<p xml:lang="vep">VÁNALIG</p>
+<p xml:lang="deu">SERA</p>
+<p xml:lang="vep">VÁNALIG</p>
+<p>TILTØK neyðug fyri at røkka umhvørvismáli</p>
+<p><em type="bold">Frávik frá náttúrligu støðuni </em></p>
+<p><em type="bold">Flokking </em></p>
+<p><em type="bold">Mynd 2. </em><em type="italic">Yvirlit yvir, hvussu ein botn djóra kanning, sambært Vatn rammu -direk tiv inum hjá ES, kann flokkast í 5 ymisk stig, og nær umhvørvismálini ikki eru rokkin og neyðug tiltøk sostatt mugu setast í verk. Kelda: Tillagað mynd frá Direktoratgruppens Vanndirektivet 2018. Veileder 2:2018 Klassifisering. </em></p>
+<p xml:lang="isl">Frávik frá</p>
+<p xml:lang="isl">Frávik frnatúrligu støðuninatúrligu st21&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;20</p>
+<p xml:lang="sme">BOTNDJÓRASAMFELAGIÐ – DÁLKINGARKELDUR OG VISTFRØÐILIGAR BROYTINGAR</p>
+<p xml:lang="sme">BOTNDJÓRASAMFELAGIÐ – DÁLKINGARKELDUR OG VISTFRØÐILIGAR BROYTINGAR</p>
+<p><em type="bold">Nýttu eldri dátur at staðfesta natúrligu støðuna </em>Atgongd varð givin til botndjórakanningarnar, sum alifeløgini hava gjørt síðani 1998 og sum innihildu úrslit frá 870 grabbum til samans. Hesar kanningar eru tó ikki gjørdar við tí endamáli at lýsa ta natúrligu vist frøði ligu støð una, og tí var ikki vist, at hesar kanning ar vóru egn aðar at um boða natúr liga botn djórasam felagið. Tískil var neyðugt at seta umfatandi góðskukrøv til, hvørjar kanningar kundi nýtast fyri at tryggja, at kanningarnar í størst møguligan mun um boða ein óávirkaðan botn, og fyri at tryggja, at allar kanningarnar eru gjørdar á sama hátt og kunnu saman berast. </p>
+<p>Aftan á góðskukrøvini var niðurstøðan tann, at 196 botndjórakanningar, tiknar um alt landið (mynd 3), vórðu mettar egnaðar at umboða ein óávirkaðan botn.</p>
+<p>Av tí at einki lívfrøðiligt indeks er ment fyri Føroyar, vórðu tey lívfrøðiligu ideksini, sum granna lond okkara hava ment, t.e. Noreg, Svøríki, Danmark og Stóra</p>
+<p>Bretland (talva 1), nýtt á tær 196 botn djóra kann ingar nar fyri at kanna, hvat natúr liga indeks virðið er fyri botndjórakanningar tiknar á føroysku firðunum.</p>
+<p><em type="bold">Botndjórasamfelagið natúrliga øðrvísi samanborið við grannalondini </em>Botndjórakanningar tiknar á óávirkaðum botnum á føroyskum firðum hava lægri indeksvirði saman borið við indeks virðini hjá óávirkaðum botnum, sum eru kann aðir í Danmark, Svøríki og Stóra Bret landi. Hóast natúrliga botndjórasamfelagið á føroysku firðunum eisini vísti seg at vera øðrvísi samanborið við Noreg í mun til indeksvirðini, eru føroysku indeksvirðini mest eins og tey á norsku firðunum. </p>
+<p><em type="bold">Botnslag, dýpi og innihald stóra ávirkan á indeksvirðini </em>Greiningin av teimum 196 botndjórakanningunum, sum umboðaðu ein óávirkaðan botn á føroysku firðunum, vísti, at botnslag og dýpi, har kanningin er tikin, og inni haldið av lívrunnum tilfari í botninum hevur stóra ávirkan á, hvussu botndjórasamfelagið er sett saman. </p>
+<p>Í mun til botnslag hava sand-/grúsbotnar munandi hægri indeksvirðir samanborið við leir-/siltbotnar. Hetta hongur helst saman við, at sand-/grúsbotnar kunnu rúma fleiri botndjór og sløg samanborið við leir-/siltbotnar (mynd 4).</p>
+<p>Jú hægri innihaldið av lívrunnum tilfari (gløðitap) var í botninum, jú lægri var indeksvirðið. Hetta var væntað, tí tess meira lívrunnið tilfar er til taks, størri verður súrevnisnýtslan og framleiðslan av eitrandi evnum hjá bakterium á botninum, t.v.s. at livilíkindini hjá botndjórunum versna (mynd 5).</p>
+<p>Greiningin vísti haraftrat, at tess djúpari sýnini eru tikin, tess lægri gerast indeksvirðini (mynd 6). Hetta hongur helst saman við, at samband er millum dýpi og innihald av lívrunnum tilfari, har innihaldið av lívrunnum tilfari gerst hægri tess djúpari sýnini eru tikin (mynd 7).</p>
+<p>Næsta stig er at menna eina serføroyska flokk ing ar-skipan fyri botndjór</p>
+<p>Við fígging frá Havbúnaðarfelagnum og Um hvørvis-stovuni verður nú farið undir at menna eina flokk ingar skip an fyri botndjór á føroysku firð unum, sum tekur útgangsstøði í tí na túr liga botn djóra samfelagnum á føroysku firðunum, so leiðis sum hetta er lýst í hesari verk ætlanini. Flokk ing ar skipanin verður ment í samsvari við altjóða krøvini hjá Vatn rammu direktiv inum hjá ES. Tí eru vit nú komin eitt fet nærri eini um hvørviseftiransing á føroysku firðunum, sum lýkur altjóða krøv.</p>
+<p><em type="italic">Verkætlanin varð fíggjað av Granskingarráðnum. </em></p>
+<p xml:lang="eng"><em type="bold">Keldur: </em>1. Directive 2000/60/EC of the European </p>
+<p xml:lang="eng">Parliament and of the Council establishing a framework for the Community action in the field of water policy. No Title.2. Josefson AB, Blomqvist M, Hansen JLS,</p>
+<p xml:lang="eng">Rosenberg R, Rygg B. Assessment of marine benthic quality change in gradients of disturbance: Comparison of different Scandinavian multi-metric indices. Mar Pollut Bull. 2009;58(9):1263-1277. doi:10.1016/j. marpolbul.2009.05.0083. Leonardsson K, Blomqvist M, Rosenberg R.</p>
+<p xml:lang="eng">Theoretical and practical aspects on benthic quality assessment according to the EU-Water Framework Directive – Examples from Swedish waters. Mar Pollut Bull. 2009;58(9):1286-1296. doi:10.1016/j.marpolbul.2009.05.0074. Pearson TH, Rosenberg R. Macrobenthic suc-cession in relation to organic enrichment and pollution of the marine environment. Oceanogr Mar Biol An Annu Rev. 1978;16:229-331.5. Gaard E, Norði GÁ, Simonsen K. Environ-mental effects on phytoplankton production in a Northeast Atlantic fjord, Faroe Islands. J Plankton Res. 2011;33(6):947-959. doi:10.1093/plankt/fbq1566. á Norði G, Glud RN, Simonsen K, Gaard E. De-position and benthic mineralization of organic carbon: A seasonal study from Faroe Islands. J Mar Syst. 2018;177:53-61. doi:10.1016/j. jmarsys.2016.09.0057. Hyland J, Balthis L, Karakassis I, et al. Organic carbon content of sediments as an indicator of stress in the marine benthos. Mar Ecol Prog Ser. 2005;295:91-103. doi:10.3354/ meps2950918. Gislason H, Bastardie F, Dinesen GE, Egekvist</p>
+<p xml:lang="eng">J, Eigaard OR. Lost in translation? Multi-metric macrobenthos indicators and bottom trawling. Ecol Indic. 2017;82(July):260-270. doi:10.1016/j.ecolind.2017.07.0049. Carstensen J, Krause-Jensen D, Josefson AB.</p>
+<p xml:lang="nob">Development and Testing of Tools for Intercalibration of Phytoplankton, Macrovegetation and Benthic Fauna in Danish Coastal Areas.; 2014. http://dce.au.dk/en.10. Direktoratsgruppen Vanndirektivet. Veileder 02:18. Klassifisering av miljøtilstand i vann. 2018:222. http://www.vannportalen.no/ globalassets/nasjonalt/dokumenter/veiledere-direktoratsgruppa/Klassifisering-av-miljotilstand-i-vann-02-2018.pdf.11. Rosenberg R, Blomqvist M, Nilsson HC,</p>
+<p xml:lang="eng">Cederwall H, Dimming A. Marine quality assessment by use of benthic species-abundance distributions: A proposed new protocol within the European Union Water Framework Directive. Mar Pollut Bull. 2004;49(9-10):728-739. doi:10.1016/j.marpolbul.2004.05.01312. Water Framework Directive – United Kingdom</p>
+<p xml:lang="eng">Advisory Group (WFD-UKTAG). UKTAG Coastal Water Assessment Method: benthic invertebrate fauna. Invertebrates in soft sediments (Infaunal Quality Index (IQI)). 2008:17pp.</p>
+<p><em type="bold">Mynd 3. </em><em type="italic">Yvirlit yvir, hvar tey 196 sýnini, sum eru partur av verkætlanini, eru tikin í Føroyum. </em></p>
+<p><em type="bold">Mynd 4 </em><em type="italic">vísir eina Boksplot fyri úrslitini av indeks útrokn ingunum, tá ið tey 196 sýnini eru flokkað í mun til botnslag. Bókstavirnir a og b vísa, at talan er um ein týðandi hagfrøðiliga mun. </em></p>
+<p><em type="bold">Mynd 5 </em><em type="italic">vísir, at samband er millum innihaldið av lívrunnum tilfari, víst sum gløðitap, og indeks úrs litini. Brotastrikan vísir, hvønn veg sambandið er. Har sæst, at tess hægri innihald er av lívrunnum tilfari (gløðitap), tess lægri gerast indeksvirðini. </em></p>
+<p><em type="bold">Mynd 6 </em><em type="italic">vísir, at samband er millum dýpi, har sýnið er tikið, og indeksúrslitini. Brotastrikan vísir, hvønn veg sambandið er. Har sæst, at tess djúpari sýnið er tikið, tess lægri gerast indeksvirðini. </em></p>
+<p><em type="bold">Mynd 7 </em><em type="italic">vísir, at samband er millum innihaldið av lív runnum tilfari, víst sum gløðitap, og dýpið. Brotastrikan vísir, hvønn veg sambandið er, og tað sæst, at tess djúpari sýnið er tikið, tess hægri gerst innihaldið av lívrunnum tilfari. </em>23&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;22</p>
+<p xml:lang="sme">BOTNDJÓRASAMFELAGIÐ – DÁLKINGARKELDUR OG VISTFRØÐILIGAR BROYTINGAR</p>
+<p xml:lang="sme">BOTNDJÓRASAMFELAGIÐ – DÁLKINGARKELDUR OG VISTFRØÐILIGAR BROYTINGAR</p>
+<p>Føroyska fólkanavnafeingið í miðøld var einamest av norrønum uppruna. Men eftir siðaskiftið gjørdust kirkjulig nøvn, t.e. bíbliu- og halgimennisnavn, at kalla einaráðandi. Men við sprettandi tjóð skaparkenslu og sigrandi tjóðskaparrørslu í 19. og 20. øld gjørdust líkindi til at vekja upp aftur burturdeyð gomul føroysk og norrøn nøvn. Leitað varð til kvæði, sagnir, staðanøvn og norrønar fornsøgur eftir nøvn um. Men saman við føroyskum og norrønum nøvn um treivst eisini ørgrynni av út lendsk um nøvnum úr øllum ættum. Tvínevni nørdust til fleirnevni, og ikki var óvanligt at kalla upp burturgingnar bátsmanningar. Vóru tað gentur, ið soleiðis vórðu skírdar, kundi úrslitið vera nøvn av slagnum <em type="italic">Hansina, Jacoba, Olina, Petrina, Simona </em>o.s.fr. </p>
+<p>Í hesi kanning, sum fevnir um fornøvnini á øll-um fødd um og doyptum/navngivnum børnum í Fø royum í tveim um fimmára tíðarskeiðum við ein um tíðar muni á eina øld, nevniliga 1851-55 (tíð ar skeið 1) og 1951-55 (tíðarskeið 2), fari eg at kanna navna týdd, uppkallingarsiðir, t.e. upp kall ing eftir fríggja- og sunnu degi, upp kall ing eftir álmanakka døgum og høg-/há tíðum.</p>
+<p>Í hesi grein verða nevnd orðini <em type="italic">leitnøvn, heildar-nøvn </em>og <em type="italic">navnasnið </em>. Eitt leitnavn er tað sjálvstøðuga navnið eins og leitorðið í eini orðabók, t.e. at eitt leit navn kann hava nógv ymisk avbrigdi, sum verða markað til eitt og sama leitnavn. Tað leitnavnið í føroyskari navnasøgu, ið hevur flest avbrigdi, er navn ið <em type="italic">Meinhard </em>við til samans 29 ymiskum av brigd um. Tað navnið hevur tessvegna 29 ymisk navnasnið. </p>
+<p><em type="bold">Anfinnur Johansen </em>anfinnurj@setur.folektari í málfrøði </p>
+<p>Føroyamálsdeildin</p>
+<p xml:lang="deu"><em type="bold">FØROYSKIR </em></p>
+<p xml:lang="sme"><em type="bold">FÓLKANAVNASIÐIR 1851-55 OG 1951-55 </em></p>
+<p><em type="bold">Gamalt var, at eingin fekk fleiri enn eitt navn. Men í 18. øld fer so smátt at taka seg upp tann siður at geva fleiri enn eitt navn, í fyrstuni oftast bert tvey. Tá ið hesin siðurin vant upp á seg, varð ofta annað navnið tikið uttaneftir, t.d. uppkallað eftir føðingardegi, um hann var fríggjadagur ella seinni eisini sunnudagur, nøvn sum Frederik og Sofie. Eisini varð leitað í álmanakkanum, og vanligt gjørdist at kalla barn upp eftir navninum á føðingardegnum. Soleiðis er t.d. navnið Pauli komið í við at kalla upp pálsmessudag, 25. januar, sum í danska álmanakkanum nevndist Pauli omvendelse, latínskt Paulus í hvørsfalli. </em></p>
+<p><em type="italic">Í allar tíðir hava vit givið børnum nøvn, men navna sið ir nir hava verið ymiskir. Til vildar liga vald mynd av fa miljum í Funningi í hoyggj hús hurð ini hjá Sonnu Juul. Natmus.dk </em>25&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="sme">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;24</p>
+<p xml:lang="nno">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55navn, t.e. 291 bera 2 fornøvn, 30 bera 3 fornøvn, 1 ber 4 fornøvn: <em type="italic">Villius Carl Ferdinand Emil. </em>56,1% av dreingjunum bera meir enn eitt fornavn, 50,7% bera 2 fornøvn, 5,2% bera 3 fornøvn og 0,2% bera 4 fornøvn. </p>
+<p type="listitem">Gentur Av teimum 546 gentunum, sum eru føddar í árunum  1851-55, bera 532 meira enn eitt fornavn, t.e. 428  bera 2 fornøvn, 89 bera 3 fornøvn, 6 bera 4 fornøvn:</p>
+<p type="listitem" xml:lang="nob">Amalia Charlotte Caroline Mathilde</p>
+<p type="listitem" xml:lang="nob">Anna Sophia Frederikke Margretha</p>
+<p type="listitem" xml:lang="nob">Anna Elisabeth Cathrine Sophie</p>
+<p type="listitem" xml:lang="sma">Ellen Marie Sofie Frederikke</p>
+<p type="listitem" xml:lang="nob">Ellen Maria Susanne Christine</p>
+<p type="listitem">Else Thomasia Maria Sophie95,8% av gentunum bera meira enn eitt for navn,  78,4% bera 2 fornøvn, 16,3% bera 3 for nøvn og  1,1% bera 4 fornøvn.2.2. Uppkalling eftir fríggjadegi og sunnudegi Fríggjadagsnøvnini byrja sum nevnt við F og sunnudags  nøvnini  við  S. Allir teir dreingir og tær gentur,  sum eru fødd ávikavist ein fríggjadag og ein sunnudag  og sum hava fingið eitt F-navn og eitt S-navn, eru  tik in við í hesum uppkallingarsiði. Tí skal ein hava  í huga, at tað hjá onkrum við einum F-navni ella  S-navni ikki er ein ætlað uppkalling, men kann vera  til vild, serstakliga um tað bert snýr seg um barn við  ein nevni. Fríggjadags- og sunnudagsnøvn eru sjáldan  ein nevni ella fyrra/fyrsta navn.2.2.1. Fríggjadagsnøvn Dreingir 76 dreingir eru føddir ein fríggjadag. 33 teirra hava  nøvn, sum byrjar við F, t.d.:</p>
+<p type="listitem" xml:lang="nob">13.10.1854 Hans Ferdinand</p>
+<p type="listitem" xml:lang="nob">18.06.1852 Peder Christian Frederik</p>
+<p>Viðvíkjandi fríggjadagsnøvnunum hjá dreingjunum, so eru tað bert hesi bæði, <em type="italic">Ferdinand </em>og <em type="italic">Frederik </em>, sum telja tey 5,8%. </p>
+<p><em type="italic">Gentur </em>78 gentur eru føddar ein fríggjadag. 43 teirra hava nøvn, sum byrjar við <em type="italic">F </em>, t.d.: 21.09.1855 Cathrina Malena <em type="italic">Frederikka </em></p>
+<p type="listitem">Hjá gentunum telja fríggjadagsnøvnini 7,9%. Tað  er bert navnið Frederikka, sum verður nýtt sum  fríggja dags navn.2.2.2. Sunnudagsnøvn Dreingir 91 dreingir eru føddir ein sunnudag. 7 hava navn,  sum byrjar við S, t.d.:</p>
+<p type="listitem" xml:lang="fin">02.02.1851 Simon</p>
+<p type="listitem" xml:lang="nob">21.12.1851 Jacob Zacharias</p>
+<p type="listitem">Sunnudagsnøvnini hjá dreingjunum, sum eru</p>
+<p><em type="italic">Sam uel, Simon </em>og <em type="italic">Zacharias </em>, telja 1,2%. Eins og sæst, so er síðstnevnda navn <em type="italic">Zacharias </em>tikið við, sjálvt um bókstavurin ikki er <em type="italic">S </em>. </p>
+<p type="listitem">Gentur 67 gentur eru føddar ein sunnudag. 47 teirra hava  navn, sum byrjar við S, t.d.:</p>
+<p type="listitem" xml:lang="nob">18.04.1852 Elsa Thomasia Maria Sophie</p>
+<p type="listitem">Sunnudagsnøvnini hjá gentunum, sum eru</p>
+<p><em type="italic">Sara </em>(1 ferð), <em type="italic">Sigga </em>(2 ferðir), <em type="italic">Sophie </em>(31 ferðir), <em type="italic">Sunniva </em>(1 ferð), <em type="italic">Susanne </em>(1 ferð) og <em type="italic">Sybille </em>(1 ferð) telja 8,6%. <em type="bold">2.3. Uppkalling eftir álmanakkanøvnum og eftir hátíðum </em>Í fyrru helvt av 18. øld kom tann navnasiðurin í at kalla <em type="italic">3. Úr Eysturoyar kirkjubók. Johan G. Mikkelsen hevur avskrivað kirkjubøkurnar, sum Forlagið Varðin gav út í 2020. </em></p>
+<p><em type="bold">Navnið Meinhard </em></p>
+<p xml:lang="isl"><em type="italic">Mainar </em></p>
+<p xml:lang="nno"><em type="italic">Majnhard </em></p>
+<p xml:lang="nno"><em type="italic">Meinhart </em></p>
+<p xml:lang="vep"><em type="italic">Mainard </em></p>
+<p xml:lang="isl"><em type="italic">Meinar </em></p>
+<p xml:lang="isl"><em type="italic">Mejnar </em></p>
+<p xml:lang="deu"><em type="italic">Mainer </em></p>
+<p xml:lang="deu"><em type="italic">Meinard </em></p>
+<p xml:lang="vep"><em type="italic">Mejnard </em></p>
+<p xml:lang="vep"><em type="italic">Mainert </em></p>
+<p xml:lang="nno"><em type="italic">Meinart </em></p>
+<p xml:lang="nno"><em type="italic">Mejnart </em></p>
+<p xml:lang="vep"><em type="italic">Mainhard </em></p>
+<p xml:lang="deu"><em type="italic">Meinarth </em></p>
+<p xml:lang="yid"><em type="italic">Mejnert </em></p>
+<p xml:lang="vep"><em type="italic">Mainhardt </em></p>
+<p xml:lang="deu"><em type="italic">Meiner </em></p>
+<p xml:lang="nno"><em type="italic">Mejnhard </em></p>
+<p xml:lang="nno"><em type="italic">Mainhart </em></p>
+<p xml:lang="deu"><em type="italic">Meinert </em></p>
+<p xml:lang="yid"><em type="italic">Mejnhardt </em></p>
+<p xml:lang="est"><em type="italic">Majnard </em></p>
+<p xml:lang="deu"><em type="italic">Meinerth </em></p>
+<p xml:lang="isl"><em type="italic">Meynard </em></p>
+<p xml:lang="yid"><em type="italic">Majner </em></p>
+<p xml:lang="nno"><em type="italic">Meinhard </em></p>
+<p xml:lang="nno"><em type="italic">Meynhardt </em></p>
+<p xml:lang="yid"><em type="italic">Majnert </em></p>
+<p xml:lang="nno"><em type="italic">Meinhardt </em></p>
+<p>Heildarnøvn er tað samlaða talið av øllum teim um ymisku navnasniðunum.</p>
+<p><em type="bold">Fólkatalið í Føroyum í báðum tíðar skeiðum er hetta: </em></p>
+<p><em type="bold">Tíðarskeið 1 </em></p>
+<p><em type="bold">Tíðarskeið 2 </em><em type="italic">1850: 8137 fólk1950: 31781 fólk1855: 8651 fólk1955: 32505 fólk </em></p>
+<p>Eins og sæst er fólkatalið fýrfaldað úr tíðarskeiði 1 til tíðar skeið 2. <em type="bold">1.1. Tíðarskeið 1. Fornøvn </em>1120 børn eru fødd og doypt í hesum tíðarskeiði, t.e. 574 dreingjabørn og 546 gentubørn. </p>
+<p><em type="bold">Dreingir </em></p>
+<p><em type="bold">Gent ur </em><em type="italic">111 leitnøvn98 leit nøvn905 heildarnøvn1069 heild ar nøvn126 ymisk navnasnið131 ymisk navnasnið </em></p>
+<p>Samlaða talið av leitnøvnum er 209 býtt út á 1974 heildarnøvn. Samlaða talið av ymiskum navnasniðum er 257. <em type="bold">1.2. Topp 10 listar 10 tey vanligastu dreingjanøvnini í tíðar skeiðinum eru: </em><em type="italic">1. Jacob748,2%2. Joen717,9%3. Hans677,4%4. Peder525,8%5. Johannes475,2%6. Ole465,1%7. Johan455,0%8. Frederik374,1%9. Pauli343,8%10. Andreas293,2% </em></p>
+<p xml:lang="isl"><em type="bold">Til samans50255,7% </em></p>
+<p>Teir, ið eita hesi topp 10 nøvnini, eru 502 í tali. Tey telja 55,5% av øllum dreingjanøvnunum. <em type="italic"></em><em type="bold">10 tey vanligastu gentunøvnini í tíðarskeiðinum eru: </em><em type="italic">1. Maria1039,6%2. Anna1009,4%3. Sofie898,3%4. Cathrine868,1%5. Malena605,6%6. Susanne595,5%7. Elsebeth585,4%8. Frederikke514,8%9. Johanna454,2%10. Elisabeth/Maren373,5% </em></p>
+<p xml:lang="isl"><em type="bold">Til samans72567,9% </em></p>
+<p>Tær, ið eita hesi topp 10 nøvnini, eru 502 í tali. Tey telja 67,9% av øllum gentunøvnunum. <em type="bold">2. Navnasiðir </em>Dreingir Av teimum 574 dreingjunum, sum eru føddir í ár unum 1851-55, bera teir 322 meiri enn eitt for- <em type="italic">29 ymiskir stavingarhættir </em></p>
+<p><em type="italic">Nøvnini í hesi kanning eru fingin til vega úr kirkjubók um. </em>27&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;26</p>
+<p xml:lang="sme">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55</p>
+<p>FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55álmannaka nøvn upp – eyðvitað úr donskum álmanakkum – og eisini tað at kalla høgtíðir upp, og tá ser stak liga jólini. Hesi nøvnini eins og fríggja dags- og sunnu dags nøvnini síggjast sjáldan sum ein nevni ella sum fyrra/fyrsta navn í fleirnøvnum, men eru oftast síðsta navnið. <em type="italic"></em><em type="bold">15 dreingir eru uppkallaðir eftir álmanakka deg num, tá ið teir eru føddir. Tað telur 2,6%. Álmanakka -nøvn ini standa í skákskrift. </em>01.03.1854 </p>
+<p xml:lang="nob">Jacob <em type="italic">Albinus </em>18.03.1853 </p>
+<p xml:lang="nob">Jacob <em type="italic">Alexander </em>23.07.1853 </p>
+<p xml:lang="nob">Ole <em type="italic">Appolinaris </em>10.04.1855 </p>
+<p xml:lang="nob">Joen Peter <em type="italic">Ezechiel </em>16.03.1854 </p>
+<p xml:lang="deu">Morten <em type="italic">Gudmund </em>12.041855 </p>
+<p xml:lang="fin">Joen <em type="italic">Julius </em>25.08.1854 </p>
+<p xml:lang="nob">Christian <em type="italic">Ludvig </em>10.11.1855 </p>
+<p xml:lang="nob">Jens Christian <em type="italic">Luther </em>29.09.1851 </p>
+<p xml:lang="nob">Jacob <em type="italic">Michael </em>29.06.1853 </p>
+<p xml:lang="nob"><em type="italic">Peter </em>09.04.1853 </p>
+<p xml:lang="nob">Herman <em type="italic">Procopius </em>21.02.1851 </p>
+<p xml:lang="nob"><em type="italic">Samuel </em>Frederik05.01.1851 </p>
+<p xml:lang="fin"><em type="italic">Simon </em>Pauli28.05.1854 </p>
+<p xml:lang="vep">Gudmund <em type="italic">Vilhelm </em>15.06.1854 </p>
+<p xml:lang="sme">Johan <em type="italic">Vitus </em></p>
+<p><em type="italic">Gentur </em><em type="bold">6 gentur eru uppkallaðar eftir álmanakkadegnum, tá ið tær eru føddar. Tað telur 1,1%. Álmanakka nøvn ini standa í skákskrift. </em>24.07.1855 </p>
+<p xml:lang="nob">Johanne <em type="italic">Christine </em>19.11.1853 </p>
+<p xml:lang="sme">Malene <em type="italic">Elisabeth </em>Johanne21.05.1855 </p>
+<p xml:lang="nob">Else <em type="italic">Helene </em>15.05.1855 </p>
+<p xml:lang="nob">Anne <em type="italic">Sophie </em>16.07.1851 </p>
+<p xml:lang="sme"><em type="italic">Susanne </em>Marie14,02.1855 </p>
+<p xml:lang="vep">Jacobine Sophia <em type="italic">Valentina </em></p>
+<p>Álmanakkadagurin 14.02. eitur <em type="italic">Valentinus </em>, og tí má síðst nevnda álmanakkanavn vera ein kvenn kynsmyndan til tað navnið. <em type="bold">3. Tíðarskeið 2. Fornøvn </em>3768 børn eru fødd og doypt í hesum tíðarskeiði, 1951-55, t.e. 1904 dreingjabørn og 1864 gentubørn, t.e. 2648 fleiri enn í fyrra tíðarskeiði. </p>
+<p><em type="bold">Dreingir </em></p>
+<p><em type="bold">Gentur </em><em type="italic">539 leitnøvn579 leitnøvn3069 heildarnøvn2961 heildarnøvn717 ymisk navnasnið809 ymisk navnasnið </em></p>
+<p>Samlaða talið av leitnøvnum er 1118, sum eru 909 fleiri enn í fyrra tíðarskeiði. Tey eru býtt út á 6030 heild ar nøvn, sum er 4056 fleiri enn í fyrra tíðarskeiði. Saml aða talið av ymiskum navna sniðum er 1526, sum er 1269 fleiri enn í fyrra tíð ar skeiði. <em type="bold">3.1. Topp 10 listar 10 tey vanligastu dreingjanøvnini í tíðarskeiðinum eru: </em><em type="italic">1. Jákup1284,2%2. Petur882,9%3. Hans852,8%4. Martin732,4%5. Jóhan722,4%6. Kristian652,1%7. Poul571,9%8. Jógvan551,8%9. Súni501,6%10. Jóhannes / Pauli461,5% </em></p>
+<p xml:lang="isl"><em type="bold">Til samans76525,1% </em></p>
+<p>Teir, ið eita hesi topp 10 nøvnini, eru 765 í tali. Tey telja 24,9% av øllum dreingjanøvnunum. Í fyrra tíðar skeið inum taldu tey 55,5%. Navnið <em type="italic">Jákup </em>telur í hesum tíð ar skeiði 4,2% ímóti 8,2% í fyrra tíðar skeiði. </p>
+<p><em type="bold">Tey 10 vanligastu dreingjanøvnini í báðum tíðarskeiðum eru hesi:1851-551951-551 </em></p>
+<p xml:lang="eng"><em type="italic">Jacob </em></p>
+<p><em type="italic">Jákup </em><em type="bold">2 </em></p>
+<p xml:lang="sma"><em type="italic">Joen </em></p>
+<p><em type="italic">Petur </em><em type="bold">3 </em></p>
+<p xml:lang="nob"><em type="italic">Hans </em></p>
+<p xml:lang="nob"><em type="italic">Hans </em><em type="bold">4 </em></p>
+<p xml:lang="deu"><em type="italic">Peder </em></p>
+<p xml:lang="nno"><em type="italic">Martin </em><em type="bold">5 </em></p>
+<p xml:lang="est"><em type="italic">Johannes </em></p>
+<p><em type="italic">Jóhan </em><em type="bold">6 </em></p>
+<p xml:lang="nno"><em type="italic">Ole </em></p>
+<p xml:lang="vep"><em type="italic">Kristian </em><em type="bold">7 </em></p>
+<p xml:lang="sme"><em type="italic">Johan </em></p>
+<p xml:lang="eng"><em type="italic">Poul </em><em type="bold">8 </em></p>
+<p xml:lang="nob"><em type="italic">Frederik </em></p>
+<p><em type="italic">Jógvan </em><em type="bold">9 </em></p>
+<p xml:lang="est"><em type="italic">Pauli </em></p>
+<p xml:lang="isl"><em type="italic">Súni </em><em type="bold">10 </em></p>
+<p xml:lang="est"><em type="italic">Andreas </em></p>
+<p><em type="italic">Jóhannes / Pauli </em>7 av nøvnunum í tí fyrra tíðarskeiðinum (við reyðum) eru við í tí seinna tíðarskeiðinum. Í báð um tíðarskeið um er <em type="italic">Jákup </em>á einum 1. plássi. Hini fimm felagsnøvnini eru <em type="italic">Petur, Hans, Jóhan, Jógvan, Jóhannes </em>og <em type="italic">Pauli </em>. Meðan nøvnini í tí fyrra tíðarskeið inum bert høvdu ein dansk an skrift búna, hava tey í tí seinna tíð ar skeið inum bæði ein danskan og føroyskan skriftbúna – tann føroyski skriftbúnin í seinna tíð ar skeiðinum er bert tikin við her. <em type="italic">3.1.2. Gentunøvn </em><em type="bold">Tey 10 vanligastu gentunøvnini í tíðar skeiðinum eru hesi: </em><em type="italic">1. Maria1224,1%2. Anna1143,9%3. Jóhanna752,5%4. Elisabet632,1%5. Suffía531,8%6. Kristina471,6%7. Súsanna431,5%8. Katrina / Marjun 381,3%9. Marita361,2%10. Jórun / Katrin331,1% </em></p>
+<p xml:lang="isl"><em type="bold">Til samans69523,5% </em></p>
+<p>Tað samlaða talið av heildarnøvnum hjá gentunum millum tey 10 vanligastu nøvnini er 695, sum telur 23,5%. Í tí fyrra tíðarskeiðinum taldu tey 67,9%. Navnið <em type="italic">Maria </em>telur 4,1% í hesum tíðarskeiðinum ímóti 9,6% í tí fyrra tíðarskeiðinum. </p>
+<p><em type="bold">Tey 10 vanligastu gentunøvnini í báðum tíðarskeiðum eru hesi: </em><em type="italic">1851-551951-55 </em><em type="bold">1 </em></p>
+<p xml:lang="est"><em type="italic">Maria </em></p>
+<p xml:lang="est"><em type="italic">Maria </em><em type="bold">2 </em></p>
+<p xml:lang="isl"><em type="italic">Anna </em></p>
+<p xml:lang="isl"><em type="italic">Anna </em><em type="bold">3 </em></p>
+<p xml:lang="fkv"><em type="italic">Sofie </em></p>
+<p xml:lang="isl"><em type="italic">Jóhanna </em><em type="bold">4 </em></p>
+<p xml:lang="nob"><em type="italic">Cathrine </em></p>
+<p xml:lang="fin"><em type="italic">Elisabet </em><em type="bold">5 </em></p>
+<p xml:lang="nob"><em type="italic">Malene </em></p>
+<p xml:lang="isl"><em type="italic">Suffía </em><em type="bold">6 </em></p>
+<p xml:lang="sme"><em type="italic">Susanne </em></p>
+<p xml:lang="vep"><em type="italic">Kristina </em><em type="bold">7 </em></p>
+<p xml:lang="eng"><em type="italic">Elsebeth </em></p>
+<p><em type="italic">Súsanna </em><em type="bold">8 </em></p>
+<p xml:lang="dan"><em type="italic">Frederikke </em></p>
+<p xml:lang="olo"><em type="italic">Katrina / Marjun </em><em type="bold">9 </em></p>
+<p><em type="italic">Johanna </em></p>
+<p xml:lang="sme"><em type="italic">Marita </em><em type="bold">10 </em></p>
+<p xml:lang="nob"><em type="italic">Elisabeth / Maren </em></p>
+<p><em type="italic">Jórun / Katrin </em></p>
+<p type="listitem">Eins og viðvíkjandi dreingjanøvnunum eru tað eisini  7 gentunøvn, sum eru á báðum top 10 listunum í  báðum tíðarskeiðum. Fyrsta og annað plássið eru í  báðum førum ávikavist nøvnini Maria og Anna.  Hini fimm felagsnøvnini eru Jóhanna, Elisabet, Sofía,  Súsanna og Katrina. Nøvnini í tí seinna tíðar skeiðinum eru skrivað í einum føroyskum skriftbúna.4. Navnasiðir 4.1. Fleirnavnasiðurin Dreingir Av teimum 1904 dreingjunum, føddir í árunum  1951-55, bera teir 1164 fleiri enn eitt fornavn, t.e.</p>
+<p type="listitem" xml:lang="nno">952 bera 2 fornøvn, 187 bera 3 fornøvn, 21 bera 4 fornøvn og 4 bera 5 fornøvn.</p>
+<p type="listitem">61,1% (56,1%) av dreingjunum bera fleiri enn eitt fornavn, 50% (50,7%) bera 2 fornøvn, 9,8% (5,2%) bera 3 fornøvn, 1,1%  (0,2%) bera 4 fornøvn og 0,5% bera 5 fornøvn. Prosenttalið í klombrunum vísir til tað  fyrra tíðarskeiðið.</p>
+<p type="listitem">Gentur Av teimum 1864 gentunum, sum eru fødd ar í ár u num  1951-55, bera tær 1119 fleiri enn eitt for navn, t.e.</p>
+<p type="listitem" xml:lang="nno">913 bera 2 fornøvn, 183 bera 3 fornøvn, 18 bera 4 fornøvn og 5 bera 5 fornøvn.</p>
+<p type="listitem">60% (95,8%) av gentunum bera fleiri enn eitt fornavn, 49% (78,4%) bera 2 fornøvn,  9,8% (16,3%) bera 3 fornøvn, 1% (1,1%) 2. Kirkjubøkurnar eru  høvuðsheimildir til fólkanøvnini. 29&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;28</p>
+<p xml:lang="sme">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55</p>
+<p type="listitem">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55bera 4 fornøvn og 0,3% bera 5 fornøvn.  Prosenttalið í klombrunum vísir til tað fyrra  tíðarskeiðið.4.2. Uppkalling eftir fríggjadegi og sunnudegi 4.2.1. Fríggjadagsnøvn Dreingir 265 dreingir eru føddir ein fríggjadag. 80 teirra eita  nøvn, sum byrja við F, t.e.:</p>
+<p type="listitem">20 eita eitt F-navn sum 1. fornavn</p>
+<p type="listitem">33 eita eitt F-navn sum 2. fornavn</p>
+<p type="listitem">24 eita eitt F-navn sum 3. fornavn</p>
+<p type="listitem">3 eita eitt F-navn sum 4. fornavn</p>
+<p xml:lang="nno">Dømi: x x <em type="italic">Fredag </em>. </p>
+<p>Fríggjadagsnøvnini hjá dreingjunum telja 4,2% í tí seinna tíðarskeiðinum ímóti 5,8% í tí fyrra tíðarskeiðinum.</p>
+<p>Til samans eru tað 30 ymisk <em type="italic">F </em>-navnasnið: Ferdinand, Finn, Finnbjørn, Finnbogi, Finnleif, </p>
+<p xml:lang="kal">Finnur, Finnurin, Flemming, Flóvent, Frank, Frants, Fredag, Frederik, Fríðálvur, Fríðbjørn, Fríðfinn, Fríðin, Fridleif, Fridleivur, Fríðolvur, Fríðrik, Fríðrikur, Fríðu, Friman, Frimand, Frimod, Frímund, Fritjof, Fritleif, Fritleiv, Frits (9), Fróði (9) og Fróðin.</p>
+<p>Tey bæði mest nýttu fríggjadagsnøvnini eru <em type="italic">Frits </em>og <em type="italic">Fróði </em>, hvørt teirra við 9 dømum. </p>
+<p type="listitem">Gentur 260 gentur eru føddar ein fríggjadag. 63 teirra eita  nøvn, sum byrja við F, t.e.</p>
+<p type="listitem">9 eita eitt F-navn sum 1. fornavn</p>
+<p type="listitem">31 eita eitt F-navn sum 2. fornavn</p>
+<p type="listitem">22 eita eitt F-navn sum 4. fornavn</p>
+<p xml:lang="est">Dømi: x x x <em type="italic">Frimona </em></p>
+<p>Fríggjadagsnøvnini hjá gentunum telja 3,4% í tí seinna tíðarskeiðinum ímóti 7,9% í tí fyrra tíðarskeiðinum.</p>
+<p>Til samans eru tað 30 ymisk <em type="italic">F </em>-navnasnið: Fanny, </p>
+<p xml:lang="isl">Finn gerð, Frederikka, Friborg, Frida, Frimona, Fríbjørg, Fríða (8), Fríðbjørg (9), Fríðvør, Frígerð, Fríhild, Fríun, Frívør, Fryda, Frynhild og Fuglbjørg.</p>
+<p type="listitem">Tey bæði mest nýttu fríggjadagsnøvnini eru Fríð-bjørg við 9 dømum og Fríða við 8 dømum.4.2.2. Sunnudagsnøvn Dreingir 282 dreingir eru føddir ein sunnudag. 96 teirra eita  eitt navn, sum byrjar við S, t.e.:</p>
+<p type="listitem">20 eita eitt S-navn sum 1. fornavn</p>
+<p type="listitem">35 eita eitt S-navn sum 2. fornavn</p>
+<p type="listitem">23 eita eitt S-navn sum 3. fornavn</p>
+<p type="listitem">1 eitur eitt S-navn sum 4. fornavn</p>
+<p type="listitem">1 eitur eitt S-navn sum 5. fornavn</p>
+<p xml:lang="nob">Dømi: x x <em type="italic">Suni. </em></p>
+<p>Sunnudagsnøvnini hjá dreingjunum telja 5% í tí seinna tíðarskeiðinum ímóti 1,2% í tí fyrra tíðarskeiðinum.</p>
+<p>Til samans eru tað 42 ymisk <em type="italic">S </em>-navnasnið: Sam, </p>
+<p xml:lang="nno">Samson, Sámal, Severin, Sigfinn, Siggert, Signar, Sigurd, Sigvald, Sigvard, Símun, Sjúrður, Snorri, Snæbjørn, Sofus, Sonnie, Sólbjørn, Sólfinnur, Stein, Steinar, Steingrim, Steingrím, Steintór, Sune, Suni, Sunleif, Súne, Súni, Sunleif, Sunnleif, Sunvar, Svein, Sveinlif, Svenn, Svenning, Sverre, Sverri, Sylverius, Sylvi, Sølvi, Søndór og Sønrad.</p>
+<p>Tey tvey mest nýttu sunndagsnøvnini eru Súni (Sune: 11, Suni: 6, Súne: 1, Súni: 11) = 29 dømi og Sofus við 8 dømum.</p>
+<p type="listitem">Gentur 259 dreingir eru føddar ein sunnudag. 109 teirra  eita eitt navn, sum byrjar við S, t.e.:</p>
+<p type="listitem">40 eita eitt S-navn sum 1. fornavn</p>
+<p type="listitem">43 eita eitt S-navn sum 2. fornavn</p>
+<p type="listitem">23 eita eitt S-navn sum 3. fornavn</p>
+<p type="listitem">2 eitur eitt S-navn sum 4. fornavn</p>
+<p type="listitem">1 eitur eitt S-navn sum 5. fornavn</p>
+<p xml:lang="nob">Dømi: x x x x <em type="italic">Sunbjørt </em></p>
+<p>Sunnudagsnøvnini hjá gentunum telja 5,9% í tí seinna tíðarskeiðinum ímóti 8,6% í tí fyrra tíð arskeið inum.</p>
+<p>Til samans eru tað 56 ymisk <em type="italic">S </em>-navnasnið: Saloma, </p>
+<p xml:lang="nob">Sanna, Saroya, Sára, Sedea, Selinda, Sigga, Signa, Sign hild, Signy, Sigrid, Sigrið, Sigrun, Sigvør, Silvurbjørt, Sofia, Sofie, Sofía, Solbjørg, Solveug, Solvejg. Sonja, Sólbjørg, Sólborg, Sólfríð, Sólfríða. Sólgerd, Sólgerð, Sólrun, Sólrún, Sólva, Sólvá, Sólveig, Sólvør, Suffía, Sun, Suna, Sunbjørt, Sunnfríð, Sunniva, Sunnuva, Sunnuvá, Sunnvá, Sunrid, Sunrit, Sunvá, Susan, Susanna, Susanne, Súsanna, Svana, Svanbjørg, Svanhild, Svanna, Sylvia og Sølvør.</p>
+<p>Tað mest nýtta sunnudagsnavnið er <em type="italic">Sofia </em>við 11 dømum. <em type="bold">4.3. Uppkalling eftir álmanakkanavni og eftir høgtíðum 4.3.1. Álmanakkanøvn </em>Dreingir 8 dreingir eru í hesum tíðarskeiði ímóti 15 í fyrra tíðar skeiði vorðnir uppkallaðir eftir álmanakka navninum. Tað eru 0,4% í hesum tíðarskeiði sammett við 2,6% í fyrra tíðarskeiði. Álmanakka nøvnini eru nevnd í stavraði: 01.03. <em type="italic">Albin </em>29.07. </p>
+<p><em type="italic">Ólavur </em>24.06. <em type="italic">Jóannes </em>10.01. </p>
+<p xml:lang="isl"><em type="italic">Páll </em>29.07. <em type="italic">Ole </em>12.01. </p>
+<p><em type="italic">Reinholdt </em>29.07. <em type="italic">Ólavur </em>23.12. </p>
+<p><em type="italic">Tollakur </em></p>
+<p><em type="italic">Gentur </em>6 gentur eru eins og í fyrra tíðarskeiðinum uppkallaðar eftir álmanakka degnum. Tað svarar til 0,3% í hes um tíðar skeiði ímóti 1,1% í fyrra tíðar skeið inum. Álmanakka nøvnini standa í stavraði: 02.09. <em type="italic">Elisa </em>08.09. </p>
+<p><em type="italic">Maria </em>26.02. <em type="italic">Ingigerð </em>08.12. </p>
+<p xml:lang="fin"><em type="italic">Maria </em>19.07. <em type="italic">Justa </em>16.04. </p>
+<p><em type="italic">Marianna </em></p>
+<p>Ein genta er eisini uppkallað eftir augustmánaði. Hon er fødd í august og fekk navnið <em type="italic">Augusta </em>sum triðja navn. <em type="bold">4.3.2. Uppkalling eftir høgtíðum </em>Í hesum tíðarskeiði eru tað bæði føroyskir og (hálv) danskir navnaformar. </p>
+<p><em type="italic">Hagstova Føroya hevur eisini hagtøl yvir mest brúktu fólka nøvnini. </em></p>
+<p><em type="italic">Dreingir </em>6 dreingir eru í hesum tíðarskeiði uppkallaðir eftir høgtíðini jólum ímóti 2 í tí fyrra tíðarskeiðinum. Nøvnini standa í stavraði: 25.12. <em type="italic">Jólsvein </em>25.12. </p>
+<p xml:lang="isl"><em type="italic">Juleif </em>25.12. <em type="italic">Jólsvein </em>24.12. </p>
+<p xml:lang="nob"><em type="italic">Julius </em>27.12. <em type="italic">Juhlert </em>27.12. <em type="italic">Juul </em></p>
+<p><em type="italic">Gentur </em>Ein genta er eins og í tí fyrra tíðarskeiðinum uppkallað eftir høgtíðini jólum. 25.12. <em type="italic">Julisa </em></p>
+<p>Áður var ikki óvanligt at rúgva fleiri nøvn saman á eitt barn, men soleiðis er ikki longur, nú nøvnini eru fækkað niður í bert eitt ella tvey ella sjáldan trý. Uppkallingareglurnar eru tí ikki eins ásýniligar og áður, tí nú verður mangan bert onkur bókstavur ella partur av navni uppkallaður. Fríggjadags-, sunnudags- og álmanakkanøvn eru at kalla burturdottin vegna fánevnini. Men samanumtikið er ættaruppkallingin kortini hin týdningarmesti navngávuhátturin enn á døgum.31&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;30</p>
+<p xml:lang="sme">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55</p>
+<p xml:lang="sme">FØROYSKIR FÓLKANAVNASIÐIR 1851-55 OG 1951-55</p>
+<p>Hóast nógv kjak, eru í dag eingi vísindalig prógv fyri, at húskettan elvir til nakra munandi minking í stovns støddunum hjá smáfuglunum. Hinvegin vita vit, at flestu smá fuglar kortini doyggja, áðrenn teir røkka kyns búnan aldur, serliga vegna svongd, sjúku ella tí at onnur djór enn ketta taka teir. Hetta er púra vanligt. Nógv verður tó gjørt fyri at royna at minka um veiðuna hjá kettuni, og mest nýtti háttur til tess er at lata hana bera háls band við klokku á. Kanningar úr Onglandi hava eisini víst, at hesi hálsbond hava við sær, at kettur nar fanga 41% minni av fugli enn kettur, ið bera háls bond uttan klokku. Ein nýggjur møguleiki er tó nú komin til at minka um veiðuna. Tað er ein sonevndur „klovnakragi“, ið er eitt litfagurt toy, sum verður sett uttan á vanliga hálsbandið.</p>
+<p>Kanning av hesum klovnakraga úr Avstralia vísti, at tøkan av fuglum, skriðdýrum og froskdýrum minkaði heili 54%, tá ið ketturnar vóru í klovnakraga saman borið við uttan kraga.</p>
+<p><em type="bold">Støðan í dag </em>Hóast eingi tøl eru fyri kettur í Føroyum í dag, vita vit, at ketturnar eru nógvar í tali og eitt tað vanligasta kelidjórið í føroyskum húskjum. Í Danmark er bara ein kanning gjørd av tali á kettum, og hon varð gjørd í 2000. Tey komu tá fram til, at talið á húskettum lá um 650.000 (Danmarks statistik, 2000). Felagið ‘Kattens Værn’ kom um somu tíð fram við metingum um tølini á útiløgukettum, sum tá vórðu mettar at </p>
+<p xml:lang="vep"><em type="bold">ÁVIRKANIN </em></p>
+<p><em type="bold">HJÁ HÚSKETTUNI </em></p>
+<p xml:lang="isl"><em type="bold">Á SMÁFUGLIN </em></p>
+<p xml:lang="nob"><em type="bold">Diana Krossá Kongsbak </em>dianakongsbak@gmail.com Lívfrøðingur </p>
+<p><em type="bold">Á hvørjum ári verður tosað nógv um húsketturnar í Føroyum og um tær skulu sleppa at ganga leysar úti ella verða hildnar sum innikettur. Summi vilja enntá vera við, at kettur eru eitt innræsið djóraslag og áttu tí als ikki at verið í Føroyum. Grundarlagið undir kjakinum er í stóran mun tann neiliga ávirkanin húskettan tykist hava á smáfuglastovnarnir í Føroyum. </em></p>
+<p><em type="bold">Mynd 1. </em><em type="italic">Kettan er ótrúliga dugnalig at veiða, og tekur nógvan smáfugl hvørt ár </em>vera líka nógvar í tali sum hús kett ur nar. Í Onglandi vísti ein kanning, at tær 9,2 milliónir húsketturnar, ið har eru, tóku 27 milliónir fuglar í stutta tíðarskeiðinum frá apríl til august sama ár. Í Danmark hevði hetta svarað til 2 milliónir fuglar (Nielsen, 2006). Harafturat koma teir fuglarnir, sum útiløgukett ur nar taka, og her vita vit, at útiløgu kett ur nar taka uppaftur nógv fleiri fuglar enn hús kettur nar. Í USA vísti ein kanning frá 2012, at úti løgu kettur nar stóðu fyri umleið 69% av øllum fuglatøkum og hús kettan tí bert 31% (Loss <em type="italic">et al </em>., 2013). </p>
+<p>Hóast tølini fyri fugl, sum ketta ger av við, eru sera høg, er tað sannlíkt, at flestu smáfuglarnir høvdu doyð áðrenn næstu bútíð, sama um kettan var í føroysku náttúruni ella ikki. So statt kann hugsast, at hús kettan ikki hevur stórvegis ávirkan á smáfuglastovnin (RSPB, n.d.). Til at undirbyggja hetta eru gjørdar kanningar av húskettum og vanligastu fuglasløgunum, ið kettan tekur. Í Stóra Bretlandi sæst, at vanligastu fuglasløgini í garðum enntá økjast í tali hóast ketturnar. Blátítan ( <em type="italic">Parus caeruleus </em>), ið er næstvanligasti fuglurin, ið tikin verður av kettum í Stóra Bretlandi, er økt í tali við meir enn 25% síðan 1966, og bara starin og spurvurin hava verið fyri minking seinastu 6 árini (RSPB, n.d.). </p>
+<p>Kortini eru tað tó ikki bert beinleiðis tøkan av smá-fugl unum, sum er trupulleikin, tí smáfuglurin kann eisini ávirkast óbeinleiðis av kettum. Vit vita nevniliga, 33&gt;</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;32</p>
+<p xml:lang="isl">ÁVIRKANIN HJÁ HÚSKETTUNI Á SMÁFUGLIN</p>
+<p>ÁVIRKANIN HJÁ HÚSKETTUNI Á SMÁFUGLINat tá ið fuglur kennir á sær, at vandi er á ferð, kann hetta hava neiliga ávirkan á fruktbari, hóast eingin veruligur vandi er (Beckerman <em type="italic">et al. </em>, 2007). Í eini roynd hjá Bonnington <em type="italic">et al. </em>(2013) funnu teir útav, at fuglar, ið vórðu útsettir fyri eini modell av eini kettu, eftir tað góvu ein triðing minni av føði til ungarnar – ein reaktión, ið kann føra til eina minking í vøkstri num hjá fuglaungunum upp á heili 40%. Aftur at hes um økir tað, at ein ketta er í nánd av einum fugla reiðri í so lítið sum 15 minuttir, munandi um vandan fyri at fuglaungar verða tiknir av kráku og tílíkum fuglum teir næstu 24 tímarnar vegna øktu ávaringarrópini hjá smáfuglunum. </p>
+<p><em type="bold">Hálsbond við klokku á </em>Við munadyggu klokkuni á hálsbandinum síggjast sera góð úrslit. Til dømis kann vísast á tær 650.000 hús kett ur nar í Danmark. Um tær allar bóru háls bond við klokku í, kundi ein millión smáfuglar sloppið undan kettuni á hvørjum ári (Nielsen, 2006). </p>
+<p>Í kanningini hjá Ruxton <em type="italic">et al. </em>(2002) úr Onglandi lat man 21 kettur bera hálsband við klokku á í 4 vikur og síðan hálsband uttan klokku í 4 vikur. Her vísti kanningin, at hvør einstøk ketta í miðal kom heim við 5,5 djórum í teimum 4 vikunum uttan klokku á háls bandinum, meðan tær bert komu heim við 2,9 djórum, tá ið tær bóru klokku á háls band inum. Úrs litið av hesi kanning var sostatt, at um kettan ber klokku á háls band inum, kann tøkan av smá fuglum og øðrum djórum, ið verða borin til hús, mink ast við umleið 50%. </p>
+<p>Nógvir kettueigarar vilja tó vera við, at tað er synd fyri kettuna at bera klokku um hálsin. Hetta kemst serliga av, at kettan hevur 8 ferðir betri hoyrn enn menniskju. Kanningar hava eisini verið gjørdar av hesum, og í einari av hesum kanningum vístu tey á, at hoyrnin hjá kettu er óávirkað av at verða útsett fyri áhaldandi ljóði yvir longri tíð, um ljóðið bert er undir 80dB. Vanliga kettuklokkan gevur eitt ljóð á umleið 50-60dB, so hoyrnin hjá kettuni er so statt ikki útsett á nakran hátt av at bera klokku. Har aftur at benda summi úrslit eisini á, at júst sum hjá menn iskjum venur kettan seg skjótt við ljóð, sum eru rutina ella á annan hátt løtt at spáa um, og so líðandi gerst kettan órørd av hesum (Gourévitch, 2015).</p>
+<p><em type="bold">Klovnakragi </em>Afturat kanningini úr Avstralia er ein kanning gjørd við klovnakraganum í USA. Her kannaðu tey bæði um várið og um heystið og funnu stóran mun ímillum árstíðirnar. Um heystið tóku húsketturnar 3.4 ferðir fleiri fuglar, tá ið tær ikki bóru kragan, samanborið við tá tær bóru hann. Um várið tóku húsketturnar tó heili 19 ferðir fleiri fuglar, tá ið tær ikki bóru kragan (Willson <em type="italic">et al. </em>, 2015). </p>
+<p>Flottu úrslitini av kraganum leggja seg upp at góðu litsjónini hjá smáfuglunum. Litfagru kragarnir lýsa burturúr í landslagnum og geva fuglunum góða ávaring um, at kettan er í nánd. Klovnakragin er sostatt sera munagóður, men tó bert um dagin, tá ið fuglarnir hava møguleika at geva honum ans. Fuglar nir eru tískil í serligum vanda í lýsing og ským ing, tá ið sýnið er ringt, so tað er týdningarmikið at hava kettuna inni tá (Hall <em type="italic">et al. </em>, 2015). Hetta er serliga umráðandi um veturin, tá ið ein ketta á veiðu kann merkja, at smáfuglarnir hava ringt við at savna sær nóg mikið av føði til at klára seg gjøgnum eina langa og kalda nátt ella gjøgnum teir fyrstu ljósu tímarnar, tí teir heldur brúka hesa virðismiklu tíð upp á at halda eyga við kettuni (Nielsen, 2006). Leggjast kann afturat, at til eru úrslit, sum benda á, at um kettan ikki megnar at fanga fongin, sum hon ætlaði sær, leggur hon minni og minni í at veiða, og tískil minkar tøkan av smáfugli og øðrum djórum (Calver <em type="italic">et al </em>., 2007). </p>
+<p><em type="bold">Aktivering og gelding </em>Allar kettur hava natúrliga stóran tørv á at veiða og somuleiðis eitt stórt orkustig. Hetta er serliga galdandi fyri kynsbúnar kettur, ið kunnu hava so stórt orkustig, at tað kann tyngja og stressa bæði kettu og eigara. Hetta kann bøtast um við at aktivera kettuna sum mest heima við hús, so kettan fær nøktað tørvin at veiða. Harumframt mink ar orkutørvurin hjá kettuni við umleið 25-30%, tá ið hon verður geld (Hoenig and Ferguson, 2002). Hetta gevur kettuni eitt róligari lyndi og tískil minni veiðu tørv, kettan heldur seg meira heima við hús, og í summ um førum eru ábending ar um, at kettan enntá knýtir sterkari bond til sín ar eigarar. Ikki minst hava geldar kettur eisini fyri at liva longur (myVet, n.d.). Fyrimunirnir við at gelda kettuna kunnu tí vera stórir, ikki bert fyri kettu og eigara, men eisini fyri smáfuglin. </p>
+<p><em type="bold">Hvat ger man so? </em>Nógvir eru faktorarnir, tá ið tað kemur til húskettuna og smáfuglin, og nógv er at hugsa um. Hvat ið er rættast at gera sum kettueigari má tískil verða upp til hvønn einstakan eigara. </p>
+<p type="listitem">Tó eru nøkur ráð góð at hava í huga:</p>
+<p type="listitem">Hav kettuna inni sum mest í bútíðini hjá fugl-inum og serliga í lýsing, skýming og um náttina</p>
+<p type="listitem">Lat kettuna bera hálsband við klokku á, ella lat kett una í klovnakraga, so smáfuglurin verður  ávar aður um kettuna</p>
+<p type="listitem">Um hugsa at gelda kettuna</p>
+<p type="listitem">Royn at aktivera kettuna við ymsum spølum, so hon fær nøktað tørvin at veiða</p>
+<p><em type="bold">Keldur </em></p>
+<p xml:lang="eng">Beckerman, A.P., Boots, M. and Gaston, K.J. (2007). Urban bird declines and the fear of cats. <em type="italic">Animal Conservation, 10 </em>, 320-325. https://doi.org/10.1111/j.1469-1795.2007.00115.x Bonnington C., Gaston K.J. and Evans, K.L. (2013). Fearing the feline: domestic cats reduce avian fecundity through traitmediated indirect effects that increase nest predation by other species. <em type="italic">Journal of Applied Ecology, 50 </em>, 15–24. https://doi.org/10.1111/1365-2664.12025 Calver, M., Thomas, S., Bradley, S., and McCutcheon, H. (2007). Reducing the rate of predation on wildlife by pet cats: the efficacy and practicability of collar-mounted pounce protectors. <em type="italic">Biological Conservation, 137 </em>(3), 341–348. https://doi.org/10.1016/j.biocon.2007.02.015 Danmarks Statistik. (2000, 13. Desembur). <em type="italic">Familiernes kæledyr. </em>Danmarks Statistik. http://www.dst.dk/ pukora/epub/Nyt/2000/NR499.pdf Gourévitch, B., Edeline, J.M., Occelli, F., and Eggermont J.J. (2015). Is the din really harmless? Long-term effects of non-traumatic noise on the adult auditory system. <em type="italic">Nature Reviews Neuroscience, 15 </em>(7), 483-491. DOI: 10.1038/nrn3744 Hall, C.M., Fontaine, J.B., Bryant, K.A., &amp; Calver, M.C. (2015). Assessing the effectiveness of the Birdsbesafe® anti-predation collar cover in reducing predation on wildlife by pet cats in Western Australia. <em type="italic">Applied Animal Behaviour Science, 173 </em>, 40-51 <em type="italic">Hoenig, M., and Ferguson, D.C. (2002). Effects of neutering on hormonal concentrations and energy requirements in male and female cats. American Journal of Veterinary Research, 63(5), 634-639. </em>https://doi. org/10.2460/ajvr.2002.63.634 Loss, S.R., Will, T., and Marra, P.P. (2013). The impact of free-ranging domestic cats on wildlife of the United States. <em type="italic">Nature Communications, 4 </em>. https://doi.org/10.1038/ncomms2380 myVet. (n.d.) 500.000 herreløse katte – kastration af katte er vejen frem? myVet.dk. http://www.myvet. dk/500-000-herrelose-katte-hvordan-kan-du-vaere-med-til-at-lose-problemet/ Nielsen, A.G. (2006, 10. august) <em type="italic">Klokker på katte kan redde millioner af fugle </em>. Dansk Ornitologisk Forening. BirdLife Danmark. https://www.dof.dk/om-dof/nyheder?nyhed_id=291 RSPB. (n.d.) <em type="italic">Are cats causing bird declines? </em>The RSPB Wildlife Charity: Nature Reserves and Wildlife Conservation. https://www.rspb.org.uk/birds-and-wildlife/advice/gardening-for-wildlife/animal-deterrents/cats-andgarden-birds/are-cats-causing-bird-declines/ Ruxton, G.D., Thomsa, S., &amp; Wright, J.W. (2002). Bells reduce predation of wildlife by domestic cats (Felis catus). Willson, S.K., Okunlola, I.A., &amp; Novak, J.A. (2015). Birds be safe: Can a novel cat collar reduce avian mortality by domestic cats (Felis catus)? <em type="italic">Global Ecology and Conservation </em>, <em type="italic">3 </em>, 359-366. </p>
+<p><em type="bold">Mynd 4. </em><em type="italic">Snildi klovnakragin kann bjarga lívið á nógvum smáfuglum, og er ikki til nakran ampa fyri kettuna </em></p>
+<p><em type="bold">Mynd 5. </em><em type="italic">Ein góð leika aktiverar kettuna og letur hana liva út sína veiðutrongd </em></p>
+<p><em type="bold">Mynd 2. </em><em type="italic">Blátítan (Parus caeruleus) er ein av van ligastu smáfuglum, ið kettan tekur í Stóra Bretlandi. Hóast hetta, er blátítu stovnurin í framgongd </em></p>
+<p><em type="bold">Mynd 3. </em><em type="italic">Vanligt er, at kettan ber hálsband við klokku á. Hetta hevur eisini góðar royndir, og minkar munandi um tøkuna av smáfugli </em>35&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;34</p>
+<p xml:lang="isl">ÁVIRKANIN HJÁ HÚSKETTUNI Á SMÁFUGLIN</p>
+<p xml:lang="isl">ÁVIRKANIN HJÁ HÚSKETTUNI Á SMÁFUGLIN</p>
+<p xml:lang="isl"><em type="bold">Helgi Jacobsen </em>helgi@ritstarv.fo Journalistur og rithøvundur </p>
+<p>Fyri fimmti árum síðani skrivaði norski universitetslektarin Brynjulf Alver bók við heitinum <em type="italic">Dag og merke </em>. Við bókini vildi hann prógva, at á bygd í Noregi hava fólk roknað hendingar eftir ávísum árum. Hann nevnir stóran kavavetur í Kvås í 1877, ódnarveður á Sunnmøre í 1896, tá 13 bátar sorlaðust, skógfall í Kvam í 1837 og so framvegis. </p>
+<p>Saktans kundu fleiri bøkur verið skrivaðar um líkn andi fyribrigdi í Føroyum. Men helst er tað ikki neyð ugt hjá okkum at prógva, at fólk rokna hendingar eftir á vísum árum, tí í Føroyum hevur tað verið sera fastgrógvið í tíðarrokningini at brúka ávísar hendingar fyri at nágreina, nær okkurt fór fram.</p>
+<p>Í nýggjari tíð er vanligt at siga, at hetta ella hatta hendi beint eftir kríggið. Fólk kunnu eisini taka til, at okkurt ávíst hendi, tá ið spanska sjúka gekk í Føroyum. Ella at okkurt fór fram tað árið, Hong Kong-sjúkan gjørdi um seg. Onkur annar kundi siga, at hann hevði verið fyri einum óhappi í meslingagrind ini í Gøtu.</p>
+<p>Á líknandi hátt hevur tað verið heilt vanligt at siga um okkurt, sum hendi fyri óminniliga nógvum árum síðani, at hetta var áðrenn ormaárið. Eingin spyr tá eftir, nær ormaárið var, tí tað hava so fá vitað. Og leita vit í keldunum, so síggja vit, at talan var um fleiri ormaár, summi verri enn onnur. Mangan verður helst sipað til ormaárið í 1844, sum skuldi vera tiltikið ringt. At siga, at okkurt hendi áðrenn ormaárið, merkir sum oftast bara, at tað er øgiliga langt síðani.</p>
+<p>Í seðlasavninum á Føroyamálsdeildini eru nakrir seðlar við <em type="italic">ormaári </em>. Á einum av seðlunum verður víst til, at ormaár er eitt ávíst ár við nógvum grasormi og at ofta varð tikið til: árið fyri ella eftir ormaárið. </p>
+<p>Í skaldsøguni <em type="italic">Feðgar á Ferð </em>skrivar Heðin Brú um, tá ið meslingarnir aftur fóru at ganga: <em type="italic">„Tað var sorgarmorgun í Ketilshúsi, øll mistu málið. Konan ripaði hurðina aftur: – Eg vil ikki hava menniskjans bein inn um mína gátt, tað skulu tit vita, vit skýggja. Her hava ikki verið meslingar síðan ormaárið, nú eini hálvthundrað ár, staðurin verður oyðin…“ (Feðgar á ferð, Bókagarður 1976, bls. 141). </em></p>
+<p>Í skaldsøguni sipar Ketilskona helst til teir tiltiknu mes ling ar nar í 1846, tá ið donsku læknarnir Pan um og Manicus vórðu sendir til Føroya at hjálpa fø roying um.</p>
+<p>Eitt ormaár var sum nevnt í 1844. Onnur ring ormaár vóru bæði í 1853 og 1854, og í 1891 og 1892 vóru somuleiðis hervilig ormaár. 1919 var eitt ringt ormaár onkustaðni, tí í Føroyatíðindum stóð, at „tað krykir av ormi í ymsum høgum. Har, sum so er statt, leika bæði seyður og neyt vitleys um hagan, av tí at tey vamlast við gras og vatn, sum yður av hesum djórum.“ (Føroyatíðindi 7. juli 1919). <em type="bold">36 grasormar á hvørjum fermetri </em>Í bløðunum í 1935 lesa vit eisini um eitt umfatandi ormaár, har menn søgdu, at summir hagar vóru sólgulir, sum var tað um veturin. Eisini søgdu bøndur í fleiri bygdum frá, at ein stórur partur av tí gamla seyðinum var deyður. Landbúnaðarráðgevin Hans Jacob Jacobsen ( <em type="italic">Heðin Brú </em>) hevði kannað málið og var komin til tað úrslit, at í miðal vóru 36 grasormar á hvørjum fermetri. Tað var nóg mikið til, at grasormarnir kundu eta allan grasvøksturin av. </p>
+<p>Fyribrigdið legði eisini staðanøvn eftir sær á ferðini.</p>
+<p>Við Gjógv er eitt hampiliga stórt gil, ið nevnist Ormagilið. Sagt verður, at ormaárið var tað fult av ormi, og at hetta er upprunin til navnið.</p>
+<p>Á staðanavnasíðuni hjá Sunda kommunu er Orma-gil ið merkt á kortinum og henda frágreiðingin stendu r um upprunan:</p>
+<p xml:lang="deu"><em type="bold">TEY HERVILIGU </em></p>
+<p xml:lang="vep"><em type="bold">ORMAÁRINI </em></p>
+<p>Ormaár við stórum seyða- og neytafelli hava verið so hervilig, at fólk í langa tíð brúktu ormaár sum eina tíðarfesting – við ongum árstali. Tað kundi vera antin áðrenn ella aftan á ormaárið. Árstalið var sum so óneyðugt, tí talan var bara um eina tilvísing um onkra hending fyri langari tíð síðani. Við ymiskum keldum, ikki minst sýslumansfrágreiðingum, hevur seinni borið til at tíðarfesta fleiri av ormaárunum.</p>
+<p><em type="italic">Føringatíðindi umrøddu ormaárið í 1892. </em></p>
+<p>Skurðurin var vánaligur tey ringastu ormaárini. Tilvildarlig mynd úr Gøtu. Natmus.dk</p>
+<p><em type="italic">Ormafirvaldur (Cerapteryx graminis) er eitt slag av heygsmanni. </em>37&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;36</p>
+<p xml:lang="vep">TEY HERVILIGU ORMAÁRINI</p>
+<p>TEY HERVILIGU ORMAÁRINI <em type="italic">„Frá Barmsbrekkuni og omaneftir nevnist gilið Barmsbrekkugil, meðan tað eitur Ormagilið frá Barms brekkuni og niðaneftir. Er tað kalt og turt í mai og juni mánaði, so er nógvur grasormur víða hvar. Fleiri hava óivað hoyrt um tey ringu ormaárini í 1844 og 1855. Tá var grasormur allastaðni. Hagin var líka berur fyri gras sum um veturin. Foldin var so væl fjald av ormi, at tú sást slóðina eftir tær – sum í kavafølvi. Ringast var í hyljum og giljum, og kanska hevur so nógvur grasormur verið í hesum gilinum tá, at tað hevur fingið navnið Ormagilið. Lagt kann verða aftrat, at tey gomlu plagdu at siga, at gilið fyltist av ormi, men tá man vera gjørt í meira lagi burtur úr.“ (Heini Andreas Joensen, f. 1889 o.a.). </em>14. november 1934 bar gjáarmaður tíð indi í Tingakrossi um eitt ringt ormaár við Gjógv. Skurðurin var allur tikin, og tað sá ikki gott út: <em type="italic">„Skorist hevur illa yvirhøvur, væl niðan fyri meðal ár, so áseyðurin hevur ikki nógv hold til at taka ímóti vetrinum. Ein høvuðsorsøkin til, at seyður in er soltin, er tann, at hagin uddi í ormi á mið sumri. Tílík ormaár verða altíð rakár. Ikki hevur heldur tornað av skinn inum alt heystið, so at støður nar hava verið ringar hjá seyðinum.“ </em></p>
+<p><em type="bold">Grasormur kemur frá ormafirvaldi og grindalokki </em>Grasormur er oftast ormvera av heygsmanni ella tí firvaldinum, sum lærarin Theodor Hansen í síni lærubók kallar ormafirvaldur ( <em type="italic">Cerapteryx graminis) </em>. Hesir firvaldarnir kunnu vera bæði morreyðir, gulmor reyðir ella reyðmorreyðir. (Theodor Hansen: Náttúru søga, Dýr og plantur, 2005). </p>
+<p>Teir vaksnu ormafirvaldarnir flúgva frá juli til miðjan september. Í hesum tíðarbilinum víggja teir ella leggja egg síni í jørðina niður við grasstráunum. Eggini liggja har til um várið, tá ið tey verða klakt. Tann lítla ormveran grevur seg niður til grasrøturnar, sum hon etur. Tá ið ormveran er fullvaksin, umskapast hon til reivveru, sum eftir einum mánaði klekist til ormafirvald. Eru umstøðurnar tær røttu, kann gerast talan um sonn ormaár. Røttu umstøðurnar eru, at langur kuldaturkur er í mai, juni og viðhvørt eisini í juli. Turt og kalt várveður gera, at reivveran klekist seint og legst tí á tað, sum er etandi í bø og haga.</p>
+<p>Á einum av orðaseðlunum á Føroyamálsdeildini verður víst til søgn um, at tá ið trý grøðilig ár fylgdu hvørt eftir annað, og tá síðsti kavin tað triðja árið tánaði burtur av sól, skuldi ormaár koma.</p>
+<p>Jens-Kjeld Jensen og Hans Eli Sivertsen skriva í bók ini <em type="italic">Firvaldar </em>(2010) um orma fir vald in, at hann er bú fastur og ógvuliga vanligur í Føroyum. Orm veran livir ser liga av grasrótum, skriva teir, og vísa til máliskuna „Um krossmessutíð legst grasormurin á grasið“ og „Á jóansøku hvørvur grasormurin – fer í jørðina“ – t.e. hann umskapast til reivveru, og á gomlu jóansøku „fer hann á flog“. Teir nevna eisini, at ormafirvaldar flúgva bæði um náttina og um dagin. </p>
+<p>Andreas Weihe skrivar í <em type="italic">Úr Søgu og søgn </em>(1933), at tey sonevndu grasormaár koma, tá ið langur kuldaturkur er, serliga í mai og juni, men eisini juli kann hava eina nøgd av ormi. Tá ið nátt in fer at leingj ast, og ser liga tá ið regn eisini er, brestur orm urin, og kyktið fer at flúgva. </p>
+<p>Hann nevnir 1844 og 1855 sum tvey ár við ør grynnu av gras ormi. Tann, ið gekk eftir gøtuni, kundi síggja slóð eftir seg av grasormi, eins og tú sært slóð eftir fóta ferð ini í kavafølvi. Og setti tú stav tín niður í ein hyl, í eitt gil ella í eina á, varð pík ur in brátt fjaldur av gras ormi, ið lá á botninum.</p>
+<p>Tann forni bøurin var so at siga heilt fyri ongum; hagin var enn verri. Serliga brekkur og heyggjar vóru so ber fyri gras, sum kundi tað verið um veturin, skrivar Andreas Weihe.</p>
+<p xml:lang="dan"><em type="bold">Føroyingar høvdu sjálvir skyldina </em>Presturin H. J. J. Sørensen, ið varð føddur á Viðareiði, skriv ar í 1859 um ormaár í 1844 og í 1853. Søren sen hevði hug at geva føroyingum sjálvum skyldina. Hann helt, at heiðafuglarnir áður høvdu hildið gras orm unum niðri, og at ormaárini komu, tí at fólk løgd ust á heiðafuglarnar og at ólag tí kom í um hvørvið: „Ormene ere stundom en sand Landeplage. For nogle Aar siden vare næsten alle Øerne saa overfyldte med Insektlarver, som lignede noget Kaalormen, at man ikke kunde sætte Foden paa Jorden, uden at træde paa flere af dem; i hver Aa og Bæk laae de druknede i Mængde, saa man kunne ikke faae en Drik Vand, medmindre man traf paa Kilden ved dens Udspring. De ellers saa grønne Hauger fik et sørgeligt gulagtigt Udseende, thi Ormene havde afædt græsset. Mange Steder hjemsøgte de ogsaa Bøen. De begyndte at vise sig først paa Sommeren og da højt oppe paa Fjeld siderne; derfra udbredte de sig til Siderne og skred nedefter i lige Linje; man kunde i lang Frastand se, hvorlangt de var komme ned paa deres Vei, Fjeldsiden blev guul efterhaanden som de vare skredne længere ned. Man ville have lagt Mærke til, at de kun kom frem efter kolde og tørre Foraar, at dersom den sidste Snee smelter bort ved Regnskyl, ville de ikke vise sig den paafølgende Sommer. </p>
+<p xml:lang="dan">Dog er det kun i Aarene 1944 og 1853 at de have viist sig i foruroligende Mængde. I ældre Tid kjendte man ikke denne Landeplage, sikkerlig af den Grund, at der den gang vare flere Fugle i haugerne, som aarlig rens ede, saa ormene ikke kunne faa Over haand. Fær ingen vilde derfor gjøre vel i at frede om Haugefuglen …“ (H. J. J. Sørensen: Endnu nogle be mærk ning er om Færøerne, 1859).</p>
+<p><em type="bold">Veðurstýrt natúrfyribrigdi </em>Sum vit skilja av teimum endurgivnu keldunum, er ormaár eitt natúrfyribrigdi, sum fyrst og fremst er stýrt av veðurlagnum. Tá øll hildu, at væl stóð til, voldu orma ár ini landbúnaðinum, seyðinum og neytahald inum eitt slíkt afturstig, at tað kundi taka fleiri ár at koma aftur á beint. </p>
+<p>Sam bært bókini <em type="italic">Firvaldar </em>er ormafirvaldur fyrstu ferð skrásettur í Føroyum í 1863. Tað merkir neyvan, at hann ikki var her áður. Fyrstu eygleiðingarnar tykjast at vera gjørdar í 1843-44, men talan kann eisini hava verið um orm av øðrum flogkykti enn ormafirvaldinum. </p>
+<p>Í <em type="italic">Frøði </em>1993/2 er ein stutt grein um grasormar, og har verður grindalokkur eisini nevndur sum eitt flog kykt, ið víggjar við grasrøtur. „Bæði kynini eru ikki einvorðin. Kvenndýrið er spískt aftantil, og kalldýrið er meira kubbut. Kynsgøgnini eru aftantil. Tey eru ógvuliga samansett og hóva saman sum lykil í lási. Lykilin á kalldýrinum gongur bert í lásið á kvenndýrum av sama slag. </p>
+<p>Kvenndýrið hevur víggingarbrodd, sum tað stingur niður í moldina, tá ið víggini verða vorpin – eini 100 í tali. Úr vígginum kemur <em type="italic">ormveran </em>, ið ger seg inn á grasrøtur og annan plantuvøkstur. Av hesum hevur ormveran fingið navnið <em type="italic">grasormur </em>...Annað føroyskt heiti á ormveruni undan grindalokki er <em type="italic">nígil </em>. </p>
+<p><em type="bold">Sýslumansfrágreiðingar í 1843-44 </em>Tær hálvárligu sýslumansfrágreiðingarnar eru góðar keldur til upplýsingar um ormaár í 1800-árunum. Ein av uppgávunum hjá sýslu monn unum var at skriva frágreiðingar um støðuna í sýsl unum. Frágreið ing arnar skuldu skrivast eftir boð um frá amtinum og komu í fastu legu frá 1830. Í frá greiðingunum til amt mannin greiddu sýslumenninir frá um heilsustøð una í sýsl unum, um seyða- og neyta hald, fiskiskap, veður, van lukk ur og annað tí líkt. Rolf Guttesen hevur trans skriberað frá greið ing arnar frá sýslu monnunum frá umleið 1830-1904. Hesar frágreiðingar eru í dag lætt atkomuligar og liggja á history.fo. </p>
+<p>Hava vit havt ormaár í 1843-1844 og aftur í 1850-unum og 1890-unum, er lítið at ivast í, at ormaár eisini hava verið í Føroyum í eldri tíðum. Mær vitandi</p>
+<p><em type="italic">Ormaárini vóru ring bæði fyri neyt og seyð. Natmus. dk </em></p>
+<p><em type="italic">Firvaldsormvera </em></p>
+<p><em type="italic">Ormvera undan grindalokki </em></p>
+<p><em type="italic">Ormagilið við Gjógv. Sunda kommuna/Ásfinn Sigvardsen </em></p>
+<p xml:lang="isl"><em type="italic">Fjallið </em></p>
+<p><em type="italic">Uppi á Barmi </em></p>
+<p><em type="italic">Ormagilið </em></p>
+<p><em type="italic">Á Vegnum </em></p>
+<p xml:lang="isl"><em type="italic">Neytakonusessirnir </em></p>
+<p xml:lang="isl"><em type="italic">Gráisteinur </em></p>
+<p><em type="italic">Nøvin </em>39&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;38</p>
+<p xml:lang="vep">TEY HERVILIGU ORMAÁRINI</p>
+<p>TEY HERVILIGU ORMAÁRINIer tað onga staðni skrivað, nær ormaár fyrstu ferð eru umrødd í føroyskum keldum.</p>
+<p xml:lang="dan">Men í sýslumansfrágreiðingunum eru ormaár fyrstu ferð umrødd í 1843. Tað er M. A. Winther, sýslumaður á Sandi, ið skrivar til Pløyen, amtmann, um at eitt løgið fyribrigdi hevði gjørt seg galdandi í fleiri hagapørtum í Sandoynni: <em type="italic">„Imidlertid indtraf en Omstændighed som vil gjøre det betænkeligt at tilsætte mange Lam i Eftera aret, nemlig den usædvanlige Mængde Græsorm, der lige siden Midten at Juli Maaned gjorde hele Stræk ninger i Haverne, ja endog hele Haveparter, især paa Østsiden af Sandøen, ganske golde, først i Slutningen af August Maaned vare disse Steder igjen begroede med Græs, men denne sildig op skudte Spire vil sandsynligvis, i Tilfælde af en tid lig ind trædende Frost, snart tilintetgjøres og Faar enes Vinter haver, der vare noget fordærvede af Orm, saaledes snart igjen være blottede for Græs. </em></p>
+<p xml:lang="dan"><em type="italic">Hornquægets Antal har været en betydelig Deel større i Aar end forrige Aar, men det Udbytte af Mælk de have givet i Sommer, har paa sine Steder, været meget ubetydeligt paa Grund af den omtalte Orm i Haverne.“ </em></p>
+<p>M. A. Winther skrivar somuleiðis í 1844 um ormar í høgunum á Sandi, men tá var skaðin sambært honum ikki so stórur sum í 1843.</p>
+<p xml:lang="nno">Bara ein annar av sýslumonnunum, Zachariassen í Sanda vági, skrivar í 1843 um grasormar. Lýsingin er stutt: <em type="italic">„Græsvæxten var ualmindelig ringe; baade Ud‐ og Indmarken var en lang Tid i Sommer næsten overalt i Sysselet bedækket, og Græsset ganske fortæret eller be skadiget af Orme.“ </em></p>
+<p xml:lang="isl">Um framt Winther á Sandi eru tað bara Zacharias sen í Vágum og Absalon Matras í Norð oyggj um, ið umrøða grasormar í 1844. Her eru brot úr tí, sum Zachariassen og Matras skriva í 1844: <em type="italic">„Græsset var lidet i Indmarken, og fortæredes paa mange Steder i Ind mark en af Orm, ja, hvoraf hele Hauge parter, i Maj og indtil i Juli Maaned, be dækk edes.“ (Zachariassen).“...for medelst det kolde tørre Foraar og Somm er, hvormed adskillige Steder i Marken for dærvedes af Orm.“ (Matras). </em></p>
+<p>Tað kann tykjast eitt sindur løgið, at aðrir av sýslumonn unum ikki umrøða gras orm in í 1843 og 1844. Okkurt bendir á, at orma fyri brigdið var meira út breitt, men at tað kanska var ókent, tí hóast fleiri sýslu menn ikki skriva um orm, nevna teir, at sera lítið gras var hesi árini. Ormur kann hava verið or søkin, men kunn leiki hevur kanska ikki verið um, at talan var um gras orm. Ein annar møguleiki er, at gras ormar bara vóru í summ um av oyggjunum í 1843 og 1844.</p>
+<p><em type="bold">Sum ringastu fellisár </em>Sambært sýslumansfrágreiðingunum, sum røkka fram til 1903, vóru ormaár eisini í 1850-unum og 1890-unum. Seinni kunnu vit lesa í føroysku bløð unum um ormaár fyrst í 1900 og síðani eitt nú í 1930-unum. </p>
+<p>Umframt at fáa staðfest, nær ormaárini vóru, lýsa sýslumenninir væl, hvussu stóran skaða grasormarnir gjørdu á gróðurin. Onkuntíð var skaðin líka stórur sum tey ringastu fellisárini við nógvum kava ella nógvum regni og áarføri.</p>
+<p>Nøkur brot úr sýslumansfrágreiðingum eftir 1844 geva eina mynd av støðuni hjá seyða- og neyta haldinum tey herviligastu ormaárini:</p>
+<p xml:lang="dan"><em type="italic">Men formedelst den i Foraaret og Begyndelsen af Sommeren, i de fleste ind‐ og Udmarker, indtrufne usædvanlige Mængde Græsorme og Tørke overalt i Sysselet, leed Faar og Quæg stor Mangel. Som følge der af var ogsaa Græsvæxten paa mange Steder usæd vanlig ringe, og Høet meget mindre end det plejer. (Zachariassen, sýslumaður í Vágum, 1853) „Faareavlen…er i det Hele taget kun i maade-lig Stand, da der af adskillige haugers Besætning i af vigte Foraaret og Sommer døde ikke saa u betyde ligt. Med Hen syn til Slagte aalet vil dette Aar imid ler tid, overhovedet kunde kaldes et godt Middel aar, men Slagtet vil der imod efter sandsyn lig hed ikke blive godt, da de fleste Hauger i afvigte Sommer vare aldeles fordærvede af Græsorm, og forsaavidt det hidtil er prøvet, tegner det til at blive af det Aller ringeste.“ (Absalon Matras, sýslumaður í Norð oyggjum, 1854) „Kvægavlen er i en daarlig Forfatning. Den store Ødelæggelse, som den saakaldte Græsorm an rettede i Fjor, bevirkede at Kvæget kom paa Stald i en temme lig mager Stand.“ (Norðoya sýslumaður, 1892) „Faarebesætningen er i god Stand, men man frygter for at den ved Græsormen i Sommer afædte Udmark vil have Indflydelse paa Vinter græs ning en. Kvæg besæt ningen er betydelig reduceret, da mange Køer ere blevne slagtede, eftersom Høhøsten overalt har været ringe, for det meste foraarsaget ved den Skade Græs ormen i Sommer har for aarsaget paa den dyrk ede Jord.“ (H.C. Müller, 1991)„Da imidlertid er Deel af Haugerne, især de bratte Fjeld sider, i Forsommeren bleve afædte af Græsorme, er det at vente, at de Faar som gaar saadanne Steder, ikke ville finde tilstrækkelig Føde i Vinter. (D. Daniel sen, sýslumaður í Eystur oy, 1891) „Paa Grund af de senere gode Aar er Antallet af Moderfaar </em></p>
+<p><em type="bold">Keldur </em></p>
+<p><em type="italic">Hálvárligu sýslumansfrágreiðingar, </em>1830-1903. History.fo Heðin Brú: <em type="italic">Feðgar á ferð </em>. Bókagarður, 1976. Jens-Kjeld Jensen og Hans Eli Sivertsen: <em type="italic">Firvaldar, 155 ymiskir firvaldar í Føroyum </em>. Føroya Skúlabókagrunnur, 2010. H. J. J. Sørensen: <em type="italic">Endnu nogle bemærkninger om Færøerne, </em>1859. </p>
+<p>Andreas Weihe: <em type="italic">Úr Søgu og søgn </em>, 1933. Frøði 1993/2: <em type="italic">Grasormar </em>, 1993. Theodor Hansen: <em type="italic">Náttúrusøga. Dýr og plantur </em>, 2005. Sunda kommuna. Sunda.fo Føringatíðindi, 1892. Tingakrossur, 1934. Dagblaðið 1935 og 1970. </p>
+<p xml:lang="isl"><em type="italic">Daniel Danielsen var sýslumaður í Eysturoy. </em></p>
+<p xml:lang="isl"><em type="italic">H.C. Müller var sýslumaður í Streymoy. </em></p>
+<p xml:lang="dan"><em type="italic">Oliver Effersøe var sýslumaður í Suðuroy.stort, men disse ere næppe i videre god Stand. Græsvækstens ødelæggelse ved Larver i For sommer en og den meget fugtige Eftersommer og Høst er Aarsag hertil og til, at Slagtefaarene, der haves i temmelig stort Antal, ikke ere gode. – Køerne ere gjennemgaaende i høj Grad af magrede og flere døde paa Grund af Foder mangel.“ (Oliver Effersøe 1891-92) </em></p>
+<p><em type="bold">Samanumtøka </em>Sambært sýslumansfrágreiðingunum 1830-1903 og føroyskum bløðum eftir 1900 hava tað verið eini 10 ring ormaár. Tað fyrsta vit vita um, var í 1843 og tað seinasta í 1935. Talan var í fleiri førum um landa plágur við oyðileggingum. Stígur kom í seyða- og neytahaldið, tí ormar frá ormafirvaldi og grindalokki ótu bø og haga, so kríatúrini fingu ov lítið at eta. Síðani 1935 vita vit ikki um umfatandi ormaár. </p>
+<p>og heldur einki var at hoyggja tey ringu ormaárini. Natmus.dk</p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;40</p>
+<p xml:lang="vep">TEY HERVILIGU ORMAÁRINI</p>
+<p xml:lang="vep">TEY HERVILIGU ORMAÁRINI</p>
+<p>Fiskasúpan er vorðin vælumtóktur rættur í føroyskari matgerð seinastu fáu árini. Hyggja vit nakað aftur í tíðina, var hetta ikki so. Kókaði tú fisk, fór soðið vanliga til kúnna – so hon kundi mjólka betur.</p>
+<p>Í dag blása aðrir vindar innan matgerðina – kanska ser liga, tá ið fiskur stendur á matarlepanum. Fø royingar veiða nógv ymisk fiskasløg, ið eru væl umtókt á matstovum kring heimin.</p>
+<p>Eitt fiskaslag, ið føroyingar av álvara eru farnir at útflyta til kræsnar gómar – ella til vanliga brúkaran, ið ger mat heima við hús – er makrelurin.</p>
+<p>Hetta fiskaslag er vælumtókt, bæði vegna góðan smakk og heilsugóðar eginleikar. Føroyski út flut ing urin av makreli er nógv vaksin seinnu árini – og hevur alt hetta sína søgu, ið ikki verður viðgjørd í hesi grein. Í Evropa eru eisini onnur lond, ið fram leiða ymsar makrelvørur – ella útflyta fiskin heilan – frystan. Hetta seinna hava føroyingar higar til eisini gjørt fyri tað mesta.</p>
+<p><em type="bold">Bleytur makrelur </em>Tá ið tú framleiðir frystar fiskavørur, er alneyðugt, at øll framleiðslulið eru toppoptimerað, líka frá varisligari veiðu í sjónum, snarkøling umborð og til snarfrysting í landi. Keyparar, ið taka ímóti tílíkari hágóðskaðari, frystari fiskavøru sum makreli, hava tó ein felags trupulleika. Viðhvørt gerst makrelurin fullkomiliga bleytur (Mynd 1) og uttan tann vanliga fastleikan. </p>
+<p>Hví hendi hetta? Vánalig viðferð umborð ella í landi?</p>
+<p>Svarið er nei! Orsøkin vísir seg at vera ein elalítil verað, av slektini (genus) <em type="italic">Kudoa </em>. Kannar tú tann bleyta makrelin undir sjóneyku, finnur tú eitt slag, ið nevnist <em type="italic">Kudoa thyrsites </em>(Mynd 2). Hetta slag kemur á gátuføran hátt inn í makrelin og endar í vødd unum. Fer at nørast, og tá ið mongd in av sporum er vorðin stór, er vandi á ferð. Hetta hendir mest hjá stórum makreli (omanfyri umleið 400 g, 6-8 ára gamal). Sjálvt tann væl hagreiddi og væl frysti makrelurin, sum er fongdur við <em type="italic">Kudoa thyrsites </em>, gerst so mikið bleytur á matstovuborðinum ella køksborðinum, at her býður ikki bøtur: her sæst meira fiskasúpan heldur enn vakrir fiskavøddar! </p>
+<p><em type="bold">Hvat ger Kudoa við fiskin? </em>Tá ið frysti fiskurin tiðnar aftur – og ávís mongd av <em type="italic">Kudoa thyrsites </em>er í vøddunum – byrjar sjálvsodningin av vøddunum. Ensym, t.e. kveikar, sodna fiskin spakuliga, soleiðis at pH'ið (súrleikin) lækkar. Tá ið pH'ið er komið niður um 5,5, fer kveikin cathepsin í <em type="italic">Kudoe thyrsites </em>í gongd (Arne Levsen: The <em type="italic">Kudoa thyrsites </em>-problem, framløga) Hesin kveiki sundurliðar proteinini í vøddanum. Bygnaðurin fer skjótt – og knappliga hevur tú tjúkka „fiska-súpan“ á borðinum! Hetta er ein ikki ókendur trupulleiki, tí fyribrigdið er kannað hjá makreli í langt áramál. Í Noreg hevur dr. Arne Levsen síðani 2003 staðið fyri slíkum kann ing um. Í Føroyum hevur Havstovan kannað makrel úr føroysku veiðuni frá 2015. Úrslitini minna nógv um norsku úrslitini: á einstøkum økjum eru millum 1 og 14 % av fiskinum infiserað við <em type="italic">Kudoa thyrsites </em>. Makrelvinnan kann tí av og á fáa endur gjalds krøv fyri ávísan part av selda fiskinum, men higartil hevur føroyska vinnan tó ikki fingið stórvegis mein av hesum. </p>
+<p><em type="bold">Hvussu við øðrum fiskasløgum? </em>Tað er ikki bert makrelur, ið fær slektina <em type="italic">Kudoa </em>í seg. Upp runaliga varð tað fiskaslagið „snoek“ ( <em type="italic">Thyrsites autun </em>), sum m.a. verður veitt kring Suður afrika, ið av fyrstantíð vísti seg at hava <em type="italic">Kudoa thyrsites </em>í sær. – Fisk urin gjørdist bleytur. Onnur fiskasløg kring allan heim in hava síðani víst seg at hava onnur sløg av slekt ini <em type="italic">Kudoa Meglitsch, 1947 </em>í sær. Funnin eru hig ar til oman fyri 100 ymisk sløg. Av hesum kunnu nevn ast <em type="italic">K. hexapunctata </em>og <em type="italic">K. septempunctata </em>(Mynd 3). Hesi bæði sløg hava elvt til magailsku hjá fólki í Japan. Hig ar til eru ikki dømi um, at <em type="italic">K. thyrsites </em>hevur elvt til sjúku hjá fólki. </p>
+<p>Eisini rognk elsi, liri og steinbítur í Íslandi eru fongd við ein um nýliga lýstum slag: <em type="italic">Kudoa islandica n.sp. </em>(Mynd 4), sum Kristmundsson og Freeman (2014) hava funnið. </p>
+<p><em type="bold">Kudoa thyrsites er eisini funnin í aldum laksi </em>Kyrrahavsmegin í Kanada hava verið stórir trupulleik ar við <em type="italic">Kudoa thyrsites </em>í aldum laksi. Í Evropa hevur hetta tíbetur ikki víst seg at koma í aldan laks; men møgu leik in vil altíð vera til staðar. Av tí at t.d. alilaksur van liga er bert stutta tíð í sjónum (1-1½ ár), eru tó sann líkindini lág, tí vanliga skal <em type="italic">K </em>. <em type="italic">thyrsites </em>hava meira enn fimm ár fyri at gera um seg í t.d. makreli. Mynd 5 sýnir, hvar á jørðin <em type="italic">i Kudoa thy </em>rsites er funnin í fiski. </p>
+<p><em type="bold">Kanningar av føroyskum makreli </em>Í árunum 2017 og 2018 kannaði Havstovan føroyskt veiddan makrel fyri <em type="italic">K. thyrsites </em>. Munur er á teim ymsu veiði økju num, eins og árstíðin eisini sýnist at hava týdning. Við tað, at ferðamynstrið hjá makrel inum ikki er heilt tað sama frá ári til ár, er væntandi, at <em type="italic">Kudoa </em>-infektiónin eisini fer at vera skiftandi. Men fáa vit ein bleytan makrel á tallerkin, vita vit nú og í framtíðini, hví soleiðis er! </p>
+<p xml:lang="isl"><em type="italic"></em><em type="bold">Í FISKI </em></p>
+<p>Makrelur er heilsugóður fiskur, ið fólk fegin vilja hava á matarlepan. Men smáveran <em type="italic">Kudoa </em>kann við sínari hjáveru órógva makrelrættin, ið tú hevði ætlað tær. </p>
+<p xml:lang="isl"><em type="bold">Heimildir: </em></p>
+<p xml:lang="eng">Árni Kristmundsson, Á og Mark Andrew Freeman, M.A. (2014): Negative effects of <em type="italic">Kudoa islandica n. sp </em>. (Myxosporea: Kudoidae) on aquaculture and wild fisheries in Iceland <em type="italic">International Journal for Parasitology: Parasites and Wildlife 3 (2014) 135–146 </em>Højgaard, D.P. (2016): Kudoa í Makreli, <em type="italic">Sjóvarmál 2016, s. 10-11 </em>Højgaard, D.P.; Salter, I. &amp; í Homrum, E. 2020 Investigations on <em type="italic">Kudoa thyrs </em>ites (Cnidaria), from the Faroese fishery on mackerel, <em type="italic">Scomber scombrus </em>Grein, í umbúna til Fróðskaparrit, í 2020 Levsen, A. 2015. A review of <em type="italic">Kudoa </em>species (Myxozoa, Multivalvulida) affecting seafood quality, with emphasis on <em type="italic">K. thyrsite </em>s in Atlantic mackerel ( <em type="italic">Scomber scombrus </em>). Levsen, A. The <em type="italic">Kudoa thyrsites </em>-problem. Framløga. National Institute of Nutrition and Seafood Research (NIFES) <em type="italic">Journal of Fisheries Science and Technology. Special Issue, </em>pp. 3-9. Nha Thrang University. Levsen, A., Jørgensen, A og Mo, T.A. 2008. Occurrence of postmortem myoliquefactive kudoosis in Atlantic mackerel, <em type="italic">Sombrus scombrus </em>L., from the North Sea. <em type="italic">Journal of Fish Diseases </em>31:601-611 </p>
+<p><em type="bold">Mynd 1: </em><em type="italic">Til vinstru nýveiddur makrelur, har pH liggur millum 7,0-6,5. Til høgru bleytur makrelur, har pH er niðanfyri 5,5. Kelda: Arne Levsen </em></p>
+<p><em type="bold">Mynd 2: </em><em type="italic">Kudoa thyrsites. Ferhyrnta spora-hylkið sæst. Inni í hylkinum eru fýra sporar, har tann eini er væl størri enn hinir tríggir. Mikroskop-mynd. Arne Levsen </em></p>
+<p><em type="bold">Mynd 3: </em><em type="italic">Ovast Kudoa hexapunctata, har seks sporar eru í hvørjum hylki; funnin í tunfiski Thunnus orientalis. Niðara myndin er av K. septempunctata, í aldum flatfiski úr Japan, Paralichthys olivaceus. </em></p>
+<p><em type="bold">Mynd 4: </em><em type="italic">Kudoa islandica, ið er funnin í rognkelsi, lira og steinbíti. Her síggjast 4 eins stórir sporar í hvørjum spora-hylki. Kelda: Árni Kristmundsson </em></p>
+<p><em type="bold">Mynd 5: </em><em type="italic">Yvirlitið vísir hvar Kudoa thyrsites er funnin í heimshøvunum. </em></p>
+<p><em type="bold">Dánjal Petur Højgaard </em>danjalph@gmail.com lívfrøðingur, ph.d.– so fært tú súpan!43&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;42</p>
+<p xml:lang="isl">KUDOA Í FISKI – SO FÆRT TÚ SÚPAN!</p>
+<p xml:lang="isl">KUDOA Í FISKI – SO FÆRT TÚ SÚPAN!</p>
+<p>Tvey heiti eru grundleggjandi í hesum stubbanum. Annað er stovnsbending og hitt er orðgrundað bending. Fyri fyrst skal bara sigast, at stovnsbending er í „arm-“, har -ur, -0, -i, -ar, -um endingarnar eru lagdar aftur at stovninum í bending. Her er „arm-“ tann eindin, tann stovnurin el. grundvøllurin, sum bending ar end ing ar nar eru lagdar afturat, og „arm-“ kann ikki standa einsa malt. Í orðaformi sum „koronaini“ er alt orðið tað, sum verður brúkt í bending; tað merkir, at bend ing ar end ing ar nar verða lagdar aftur at orðinum „korona-“, og hetta er orð grundað bending. Hetta orðið kann tó hava stovns bend ing, sum í „koron-u-na“ har stovnurin er „koron-“.</p>
+<p><em type="bold">Korona. Kvennkyn ella hvørkikyn? </em>Kyn kemur bara fram á teimum viðsettu orðunum, (Hocket 1958: 231). Hoyrir tú /ur/ einsamalt, so kann hetta vera „ur„ ella „urð“. Standa kenniorðini, „ein„/„eitt“, og lýsingarorð frammanfyri, sæst alt fyri eitt, at /ur/ er kvennkyn í „ein nýlopin urð“ og hvørkikyn í „eitt nýtt ur“. Tað eru orðini frammanfyri, sum vísa kynið, og tað vísir, at kynið bert kemur fram við teimum viðsettu orðunum. </p>
+<p>Fremmand orð kunnu hava fleiri enn eitt kyn eina tíð, men tað er allarhelst soleiðis, at sami málbrúk arin bara hevur eitt kyn av orðinum. Zieseler (2017) vísir eitt áhugavert dømi frá teldusamskifti á netinum. Tvey skifta orð um millum annað orðið <em type="italic">patch </em>. Fyrst hevur persónur A hvørkikyn av orðinum <em type="italic">patch </em>. Í samrøðuni nýtir persónur B kallkyn, og A skiftir yvir til kallkyn, <em type="italic">patchin </em>, men seinni í samrøðuni nýtir A aftur hvørkikyn, sum hann brúkti upprunaliga. Tað merk ir, at viðkomandi hevur veruliga hvørki kyn í hes um orði, men hevur lagað seg til B bara ta einu ferð ina og brúkt kallkyn. </p>
+<p>Í fyrstuni orðið <em type="italic">korona </em>kom inn í føroyskt, sóust form ar sum hesir: (1)a. Tiltøk í samband[i] við korona. (1)b tiltøkini móti korona. </p>
+<p>Her sæst ikki, hvat kyn orðið hevur, tí einki viðsett orð vísir kynið. Enn eru ikki nógv dømi av netinum, har tað kemur fram, hvat kyn orðið hevur, men hesi eru so: (2)a. Korona er gjørt av teimum, fyri at krýna anti.christ (14. apr. 2020; fkj.fo). (2)b. Latið nú „Koronaina“ fjara burtur (2. apríl, 2020; dagur.fo) (2)c. Men av koronaini er programmið... (2. juli, 2020; vp.fo) (2)d. ...at taka dystin upp við koronuna (19. juni, 2020; dimma.fo)</p>
+<p>Í (2)a er týðliga talan um hvørkikyn, tí „gjørt“ <em type="italic"></em>stendur í hvørki kyni og er umsagnarliður til grund lið in „korona“. Í dømunum (2)b til (2)d er „korona“ <em type="italic"></em>kvennkyn, sum sæst á teirri bundnu bending ar end ing ini, til dømis (2)c „korona+ini“, har „-ini“ er tann bundna endingin í hvørjumfalli í eintali í kvennkyni. </p>
+<p>Tað er ikki løgið, at nýggj orð kunnu hava ymisk kyn í eini skiftistíð eins og „korona“, sum skiftir millum hvørkikyn og kvennkyn. Hetta er víst við „patch“ omanfyri, síggj eisini Zieseler (2017).</p>
+<p><em type="bold">Eyðkenni við bending </em>Tað, sum kemur í hesum pettinum, er av týdningi fyri, hví bendingar sum „koronaina, koronaini“ eru líka so rættar sum veik bending, t.e. „koronuna, koronuni“. Hetta merkir, at um eyðkenni, ið eru við bending, ganga við formum sum „koronaina“ og „koronaini“, eru hesir formar ikki tekin um málsligt forfall, men tekin um eina dynamiska grammatikk, sum virkar. Og týdningarmiklari: form ar nir skulu góðkennast! </p>
+<p>Bending er tað avmarkaða talið av formum, sum eitt leksem hevur. Hetta kann sigast eitt sindur einfaldari, hóast tað ikki er fullkomiliga eftir bókini. Men hugsa um eitt leksem sum orðabókaformin TÍÐ, og hetta leksemið hevur avmarkaðar formar sum [tíð, tíðin, tíðina, tíðini, tíðir, tíðirnar, tíðum, tíðunum].</p>
+<p>Bending er obligatorisk. Í hesum liggur, at syn-taksin krevur av til dømis navnorði sum „tíð“, at tað skal hava tal, fall, kyn og vera bundið ella óbundið. Er talan um sagnorð, so er kravið, at tey skulu hava „persón“, „tíð“ og „hátt“ millum annað.</p>
+<p>Bending er systematisk og reglulig, og tað sæst í tí, at allir puntarnir í bendingardøminum eru fyltir, sbr. dømið við „tíð“, sum hevur puntarnar [tíð, tíðin, tíðina, tíðini, tíðir, tíðirnar, tíðum, tíðunum] fyltar út.</p>
+<p>Bending er produktiv, og tað vil siga, at nýggj orð í vissum flokki (t.d. „pitsa„), fara at fáa allar tær bendingarendingar, sum eru í hesum flokki (tað bendist sum „tíð“, „náð„). T.v.s., at vit hava talbær navnorð, sum enda við einum sjálvljóði sum „tíð“ /tui/, „náð“ /noa/. Hesi hoyra til triðja flokki í kvennkyni, og hava formin „tíðir“, „náðir“ í fleirtali. Nýggj orð, sum enda við sjálvljóði eins og „pitsa“ fáa somu bending sum „tíð“ /tui/ og „náð“ /noa/. Tí hevur orð ið „pitsa“ bendingarformar sum „pitsaina“ = „náð ina“ og „pitsairnar“ = „náðirnar“. Tað er í hesum skiln ingi, at bending er produktiv.</p>
+<p>Bending er gjøgnumskygd, soleiðis at skilja, at sjálvt um vit hava óregluliga bending sum „tonn“ <em type="italic"></em>: <em type="italic"></em>„tenn“, so er [TAL:FLEIRTAL] gjøgnumskygt, tí hetta teljandi navnorðið skal hava fleir tals form (Spencer 2013: 40-41). </p>
+<p><em type="bold">Føroysk stovnsbending, bendingar-stovnar og orðgrundað bending </em>Føroyskt hevur stovnsbending. Tað skal skiljast soleiðis, at vit hava vissar bendingarendingar t.d. í kall kyni fyri fyrstu bending. Talan er um -ur, -0, -i í ein tali og -ar, -um í fleirtali í óbundnum formum. Hesar bendingarendingar hava ein stovn „arm-“, sum verður brúktur sum grund, altso stovnur, undir bending. Stovnurin er tað, sum verður nýtt at byggja á, tá ið bent verður, og bending kann broyta stovnin sum „arm+ur“ og „ørm+um“. Her hava vit tveir bendingarstovnar, „arm-“ og „ørm-“. Stovnurin er eitt relationelt heiti, tí eitthvørt er bara stovnur í sambandi við eina morfologiska reglu. </p>
+<p>Eitt eyðkenni við føroyskari bending er, at vit hava mangan fleiri bendingarstovnar, sum teir júst nevndu. Annað dømi er „oyggj-“ og „oy-“ sum eru í „oygg+in“, „oy+nna“ <em type="italic">, </em>„oy+nni“. <em type="italic"></em></p>
+<p>Í dømunum í (2)b til (2)d eru form ar nir „koron-aina“, „koronaini“ og „koronuna“. Talan er um tvey bendingarmynstur. Í „koronaina, koronaini“ bendist orðið, sum fram fer at koma týðiligari seinni, sum eitt navnorð í triðja flokki í kvennkyni. Í (2)c bendist „koronuna“ veikt, t.e. sum „konuna“. Eitt annað kemur eisini fram í hesum formum. Í „koronaina“, „koronaini“ er talan um orðgrundaða bending, sum merkir, at alt orðið er grundvøllurin undir bending, t.d. „korona+ini“. Í (2)d, „koronuna“ er talan um stovnsbending, sum merkir, at stovnurin er „koron-“, sbr. stovnin „kon-“ í „kona“. Tað er aftur at stovninum „koron-“, at bendingarendingin er løgd í „koron+u+na“.</p>
+<p>Zieseler (2019) hevur kannað innlænt orð, sum enda við sjálvljóði, t.e. orð eins og „pitsa, burka, analogi haiku... “ og mong onnur. Hon vísir, hvussu tey verða stavað í netsamskifti, og hvussu tey verða tikin upp í bendingarskipanina. Hon fann fram til,</p>
+<p xml:lang="deu"><em type="bold">HEILBREGÐIN </em></p>
+<p xml:lang="deu"><em type="bold">GRAMMATIKK </em></p>
+<p xml:lang="sma"><em type="bold">ELLA FORFALL? </em></p>
+<p>Í hesum lítla stubbanum verður komið inn á innlænt navnorð, sum enda við sjálvljóði. Teirra millum eru „liga“, „burka“, „pitsa“ og „korona“. Eg umrøði mest navnorðið „korona„; hugt verður at, hvat fyri kyn, hetta orðið hevur, og síðani skal eg stutt koma inn á stovnsbending og bendingarstovnar, tí hetta er tað, sum vit vanliga hava í føroyskum. Eg skal siga nakað um, hvat eyðkennir bending, og so neyvari viðgera formar sum „koronaina“, „koronaini“, har sum spurt verður, um hetta er heilbregðin grammatikk, ella um hetta er fullkomin órøkt og snertur fyri føroyska mállæru.</p>
+<p><em type="bold">Hjalmar P. Petersen </em>hjalmar@setur.fo professari í málvísindum Føroyamálsdeildin </p>
+<p xml:lang="isl">Orðgrundað bending og <em type="italic">korona </em>45&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;44</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p>HEIÐURSKVØÐA TIL JENS-KJELD JENSEN at fólk kundu nýta stavi hættir sum „pizza’ini’, „liga’ini“, men eisini við -ð sum „ligaðini“, „ligaðir“, og fólk hava bindi striku „pitsa-um“ og „burka-um“. Eisini eru form ar uttan nakað ímillum bend ing arend ing ina og orðið, t.e. „koronaini“, sbr. dømini í (2)b og (2)c. Ein høvuðsniðurstøða hennara var, at fólk yvir høv ur nýta orðgrundaða bending, t.e. júst form ar sum „pitsairnar“, har grundvøllurin aftan fyri bend ing er alt orðið: „pitsa“, og hon nevnir, hvussu týd ning ar mikið tað er at góðtaka hesar formar. Tað er t.d. gjørt í Petersen (2020).</p>
+<p><em type="bold">Fyrst „korona-“ síðan „koron-a“ </em>Tá ið fyrst varð tosað um „korona“, vóru fleiri samanset ingar, og millum teirra finna vit „koronakonsert“ og „korona virus“. Í hesum seinna føri er saman setingin enn tá ikki skrivað sum eitt orð. Hesi orð kunnu vera bein leiðis lán eins og „sjokulátapláta“ og „sofaborð“, sum ikki hava tann vanliga formin í kvennkyni. Tað er, at eins og „gent+u+bátur“ skuldu vit havt „sof+u+borð“, „sjokulát+u+plátu“. </p>
+<p>Í hesum saman setingunum, „korona konsert, korona virus, sofaborð, sjokulátapláta“ er alt orðið (t.e. tað fyrra) brúkt í samansetingini, og tað sæst týðiliga í „…av koronaávum“. Hetta kann ikki vera ein kopiering av donskum ella enskum, sum „koronavirus, koronakonsert“ møguliga kann vera, tí orð ið „áv um“ er bara til í føroyskum og eina ferð í norrønum í Lokasennu 3 í Edduni (Petersen, 2013). Tað merkir, at „koronaávum“ er ein samanseting, sum er gjørd eftir reglum fyri samanseting í fø roy skum.</p>
+<p>Í „koronaávum“ og bendingardømum sum „latið nú koronaina...“ og “... men av koronaini“ er talan um orð grundaða bending, t.e., at alt orðið er aftanfyri: „korona-ina“, „korona-ini“, og fólk hava her ikki nýtt stovnsbending: „koron-u-na“, „koron-u-ni“.</p>
+<p>Hvønn form hevur orðið so havt í huganum á fólki upprunaliga?</p>
+<p>Tað er avmarkað, hvat er at finna á netinum, men tann 16. mars 2020 tosar Málráðið um „koronuna“. Eg taki ikki hesar formar heilt fyri fult í hes um greinarstubba, tí talan er um tilvitaða broyting inn í veika bending. Tann 2. apríl skrivar onkur „koron aina“ og 2. juli sæst formurin „koronaini“.</p>
+<p>Hetta bendir á, at fólk hava brúkt orð grund aða bend ing, áðrenn tey tilvitað fara at brúka veika kvennkyns orða bending. Orðið bendist júst sum navnorð, sum enda við sjálvljóði. Talan er um triðja flokk í kvennkyni.</p>
+<p>Ein stutt viðmerking til, hví klombur er um (v) í „Ending“. Í <em type="italic">náð </em>er -j og -v blivið partur av stovninum, sum merk ir, at bend ing ar stovn ar nir eru / noaj-/ (náðin, náðina ...) og /noav-/ (náðum). Her er talan um stovnsbending, men í „korona“ er alt orðið brúkt, t.e. orðgrundað bending, og hetta er alt í sama bendingarflokki. Tá ið vit hava /koronajin/, /pitsavum/, so eru [j] og [v] innskotini ein nýggj, fonologisk regla í føroyskum. Hendan regla er, at hesi ljóð koma inn í ljóðglopp eftir herðingarveikt sjálvljóð framman fyri -i ella -u. </p>
+<p type="listitem">Málforfall ella heilbregðin grammatikk?  Um vit nú taka afturíaftur sumt av tí, sum eyðkennir  bending, er tað:</p>
+<p type="listitem">at nýggj orð í vissum flokki fáa allar tær bend-ing ar end ing ar, sum eru í hesum flokki, og  annars formar, ið hetta bendingardømi hevur.  Tað merkir, at bending er produktiv.</p>
+<p type="listitem">bendingin er systematisk og reglulig, sum sæst við at allir puntar í bendingardøminum  hava vissan form.</p>
+<p>Tann orðgrundaða bendingin í mynd 1 er produktiv, tí hon fer í vissan flokk, og hon fær allar tær bending ar end ing ar, sum eru í hesum flokki. Hon er systematisk og reglulig. Tað sæst týðiliga, tá ið farið verður ígjøgnum allar bendingarnar, ið settar eru upp í mynd 1.</p>
+<p>Um orðgrundað bending av hesum orði verður borin saman við stovnsbending, so sæst, at tann orðgrundaða bendingin er gjøgnumskygdari:</p>
+<p>Tann orðgrundaða bendingin í mynd 2 (og mynd 1) er sostatt dømi um eina heilbrigda grammatikk, sum virkar eins og hon skal. Gev gætur, at tað eru end ing ar nar, sum hava áhuga! Fólk nýta gjøgnumskygd ar formar (og tí orðgrundaða bending), og tey nýta triðja flokk í kvennkyni, tí hesin flokkur er opin og produktivur, tá ið talan er um kvennkynsorð. Tí ber ikki til at tosa um hesar formar sum málsligt for fall. Í øllum førum eru tær røttu bend ing ar ending arnar, sum verða lagdar afturat, og tað er tað, sum hevur størstan týdning. <em type="bold">ð-bendingin </em>Millum dømini frá arbeiðinum hjá Zieseler (2019) vóru <em type="italic">ligaðir </em>, og har vóru dømi við apostroff, <em type="italic">pitsa’ini </em>og bindistriku, <em type="italic">liga-ini </em>. </p>
+<p>Spurningurin er so, hvat gerast skal við hesar formar. Bókstavurin -ð er søguliga treytaður í fø royskum, og tí kann stavihátturin ikki vera í <em type="italic">ligaðir </em>. Her er tað ljóðið /j/, sum ger, at fólk skriva - <em type="italic">ð </em>. Tey vita, at vit hava <em type="italic">náðir </em>og skriva tí <em type="italic">ligaðir </em>. </p>
+<p>Hesar orðgrundaðu bendingar, sum eg her havi umrøtt, eru partar av føroyskum. Tað er fult av dømum við slíkum bendingum, so hetta er ikki tikið úr leysum lofti. Formarnir eru í málinum og skulu ikki lúkast burtur. Tað er serliga, tí fólk skulu kenna seg aftur í sínum egna máli. Men ein fastur staviháttur skal veljast. André Niclasen (1992) hevði ein týd ning armiklan boðskap um, at „tað ikki skal vera nakar tvingsil í málrøktini“, og tað er av stórum týdningi, at hesar bendingar verða góðtiknar, og tað ber væl til at hava bæði mynstrini, sum eru í mynd 2.</p>
+<p xml:lang="isl"><em type="bold">Orðgrundað bending </em></p>
+<p xml:lang="nob"><em type="bold">Stovnsbending </em></p>
+<p xml:lang="fin"><em type="italic">Hvrf.korona+inkoron+a+n </em></p>
+<p xml:lang="hbs"><em type="italic">Hvnnf.korona+inakoron+u+na </em></p>
+<p xml:lang="kal"><em type="italic">Hvmf.korona+inikoron+u+ni </em></p>
+<p><em type="bold">Tilvísingar </em></p>
+<p xml:lang="isl">Hocket, C.F. 1958. <em type="italic">A Course in Modern Linguistics. </em>Macimillian: New York. Niclasen, A. 1992. Hin skeiva málrøktarakósin. <em type="italic">Málting 4: 2-11. </em>Petersen, H. P. 2013. <em type="italic">Ávum </em>i færøsk og <em type="italic">áfu </em>i norrønt. <em type="italic">Íslenskt mál </em>35: 155-160. Petersen, H. P. 2020. <em type="italic">Føroysk mállæra I. Kyn, orðmyndan og bending </em>. Nám: Tórshavn. </p>
+<p xml:lang="eng">Spencer, A. 2013. <em type="italic">Lexical Relatedness. A Paradigm-based Model </em>. Oxford University Press: Oxford. Zieseler, L. 2017. Hey nørder! Investigating Faroese-English Language Contact in Computer-Mediated Communication. <em type="italic">Fróðskaparrit </em>64: 35-66. Zieseler, L. 2019. <em type="italic">On the Integration of Non-Native Nouns in Faroese. </em>Doktararitgerð. Universitetið í Greifswald. </p>
+<p xml:lang="olo"><em type="bold">Kvennkyn </em></p>
+<p xml:lang="olo"><em type="bold">Kvennkyn </em></p>
+<p xml:lang="olo"><em type="bold">Kvennkyn </em></p>
+<p xml:lang="eng"><em type="bold">Ending </em></p>
+<p xml:lang="fin"><em type="italic">Eint. Hvrf.pitsainkoronainnáðin/(j)in/ </em></p>
+<p xml:lang="fin"><em type="italic">Hvnnf.pitsainakoronainanáðina/(j)ina/ </em></p>
+<p xml:lang="kal"><em type="italic">Hvmf.pitsainikoronainináðini/(j)ini/ </em></p>
+<p xml:lang="deu"><em type="italic">Flt. </em></p>
+<p xml:lang="smn"><em type="italic">Hvrf./hvnnf.pitsairnáðir/(j)ir/ </em></p>
+<p xml:lang="nno"><em type="italic">Hvmf.pitsaumnáðum/(v)un/ </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 1 </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 2. </em><em type="italic">Orðgrundað bending og stovnsbending. </em>47&gt; </p>
+<p xml:lang="deu">FRØÐI 2/2020</p>
+<p xml:lang="deu">FRØÐI 2/2020&gt;46</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p xml:lang="sme">HEIÐURSKVØÐA TIL JENS-KJELD JENSEN</p>
+<p xml:lang="deu"><em type="bold">ÁRSINS MIÐLAHEIÐURSLØN </em></p>
+<p xml:lang="sme"><em type="bold">TIL DEBES H. CHRISTIANSEN </em></p>
+<p>Eingin ivi var hjá dómsnevndini: Debes Hammershaimb Christiansen, deildarleiðari á Heilsufrøðiligu Starvsstovuni og granskari, hevur uppiborið miðlaheiðurslønina hjá Gransk ingar ráðnum 2020.</p>
+<p>Heiðurin varð latin honum 6. november í Kongshøll, har vísindavøka var allan dagin.</p>
+<p xml:lang="isl">Bergur D. Hansen, dekanur á Setrinum, sat í dómsnevndini saman við Jón Brian Hvidtfeldt, formanni í Føroyskum Miðlafólkum og Dagmar Joensen-Næs frá Granskingarráðnum.</p>
+<p>Bergur nevndi gávumildni í síni grundgeving fyri at geva</p>
+<p>Debes Christiansen heiðurslønina. Debes Christiansen hevur ikki bara gjørt stóran mun í stríðnum móti koronusmittuni, hann hevur eisini gávumilt greitt almenninginum frá í føroyskum og alheims miðlum, segði hann.</p>
+<p>Debes Christiansen sigur, at dreymurin er at kunna lata landslæknanum lisnan arvastrong av einstøku smitturoyndunum innan 12 tímar. - Um vit innan 12 tímar kunnu siga við landslæknan, at ein smitta er nýkomin ella longu var her frammanundan, so seta vit ferð á sporingina og gera hana nógv neyvari og við minni arbeiðsorku, sigur hann.</p>
+<p>Brynhild Thomsen, kunningarfólk á Fróðskaparsetri Føroya, spurdi Debes Christiansen um tað passaði, sum hon hevði hoyrt, at tað var hann, sum bjargaði Føroyum á vári 2020.</p>
+<p>Debes smílist eitt sindur ivasamt og suffaði. Men so ressaðist hann við.- Jú, tað passar á tann hátt, at høvdu vit ikki havt kann ing ar-skipanina klára, so høvdu vit verið noydd at sent royndirnar til danska Serumstovnin, og tað hevði havt seinkingar og avleiðingar við sær. Serliga tá vit so fingu nokk so nógva smittu, sigur hann.</p>
+<p>Altjóða miðlar hava skrivað nógv um Debes Christiansen seinastu mánaðirnar. Tað er ein góð søga, at ein veterinerur – hann arbeiðir vanliga við sjúkum í alilaksi – í pinkulingalandi í Norðuratlantshavi megnaði at stápla koronukanningarskipan upp, meðan stór lond stríddust fyri at fáa tað at rigga.</p>
+<p>Hann kundi gera hetta, tí hann hevði royndirnar frá ILA-sjúkuni í laksi stutt eftir aldaskiftið.</p>
+<p><em type="italic">Tekstur: Úr tíðindagrein hjá Brynhild Thomsen Myndir: Brynhild Thomsen </em></p>
+</body></document>

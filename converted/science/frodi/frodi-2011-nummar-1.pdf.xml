@@ -1,0 +1,954 @@
+<document xml:lang="fao" id="no_id"><header><title/><genre code="science"/><author><unknown/></author><year>2011</year><wordcount>16538</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>frodi-2011-nummar-1.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="kal">I S S N1 3 9 5 - 0 0 4 597 7 1 3 9 5 0 0 4 6 9 0</p>
+<p>Ferðing og støðufesti hjá kópi</p>
+<p xml:lang="nno">F R Ø Ð I1/ 2011 16. ÁRG kR. 48,-</p>
+<p>Føroyskt</p>
+<p>FlytiFuGla-atlas á vegtrímæltur gerandisdagur</p>
+<p xml:lang="isl">Fornar bústaðaleivdir og víkingaaldar bein-</p>
+<p>FundiR5 ár við</p>
+<p>FøRoya sjósavni smæRumottanýggj taRasløG funnin í Føroyum Geva vit</p>
+<p>Fiskinum av heili -vágnum og røktarevnunum?</p>
+<p xml:lang="deu">FRØÐI 1/20112</p>
+<p><em type="bold">FØROYA FRÓÐSKAPARFELAG GEVUR FRØÐI ÚT </em>© Føroya Fróðskaparfelag og høvundarnir. </p>
+<p>Frøði er fólksligt vísindablað, sum kemur út tvær ferðir árliga.</p>
+<p xml:lang="swe">Upplag 1.200</p>
+<p xml:lang="kal">ISSN 1395-0045</p>
+<p><em type="italic">Loyvt er at endurgeva úr Frøði, um víst verður til heimildina. </em></p>
+<p><em type="italic">Verða heilar greinir endurgivnar, má avtala gerast. </em></p>
+<p xml:lang="isl"><em type="bold">AVGREIÐSLA </em>Jarðfeingi </p>
+<p xml:lang="isl">Brekkutún 1</p>
+<p xml:lang="pol">Postsmoga 3059</p>
+<p>FO-110 Tórshavn</p>
+<p xml:lang="nob">Tlf. 357000teldupostur: frodi@jf.fo</p>
+<p><em type="bold">RITSTUÐLAR </em>Fróðskaparsetur Føroya </p>
+<p>Føroya Fornminnissavn</p>
+<p>Føroya Landsbókasavn</p>
+<p>Føroya Landsskjalasavn</p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="nob">Havstovan</p>
+<p>Heilsufrøðiliga Starvsstovan</p>
+<p>Jarðfeingi <em type="bold">nýGGIR hALdARAR </em>kunnu tekna seg hjá avgreiðsluni. </p>
+<p><em type="bold">ELdRI ÚTGáVUR AV FRØÐI </em>fáast við at venda sær til avgreiðsluna. </p>
+<p>Teldutøkar útgávur eru á www.frodskaparfelag.fo/frodi</p>
+<p><em type="bold">GREInIR TIL bLAÐIÐ </em>Fólksligar, vísindarligar greinir kunnu sendast ritstjórnini. Skrivlig høvundsleið-beining fæst frá avgreiðsluni. </p>
+<p><em type="bold">LýSInGAR TIL FRØÐI </em>Er áhugi fyri at lýsa í blaðnum, setið tykkum tá í samband við samskiparan, Lena Reinert telefon 514219teldupostur: frodi@jf.fo </p>
+<p xml:lang="nob"><em type="bold">LýSInGARPRíSUR </em>Heil síða: kr. 5.000,- </p>
+<p>Hálv síða: kr. 3.000,-</p>
+<p xml:lang="deu"><em type="bold">GRAFISK FRAmLEIÐSLA: </em></p>
+<p xml:lang="nno">Elisabeth Sande</p>
+<p xml:lang="vep"><em type="bold">PREnT: </em></p>
+<p xml:lang="fra">Føroyaprent</p>
+<p xml:lang="deu"><em type="bold">FORSíÐUmYnd: </em></p>
+<p xml:lang="nob">J. Herluf Sørensen</p>
+<p><em type="bold">RITUmbOÐSRáÐIÐ </em>Símun V. Arge, fornfrøðingur </p>
+<p xml:lang="est">Anna Maria Fosaa, plantuvistfrøðingur</p>
+<p xml:lang="nob">Sámal T.F. Johansen, søgufrøðingur</p>
+<p xml:lang="nno">Elin Súsanna Jacobsen, søgufrøðingur</p>
+<p xml:lang="isl">Gunnar Bjarnason, búnaðarfrøðingur</p>
+<p>Eilif Gaard, havlívfrøðingur</p>
+<p>Lis Mortensen, náttúrulandafrøðingur</p>
+<p><em type="bold">SAmSKIPARI FYRI FRØÐI </em>Lena Reinert </p>
+<p><em type="bold">RITSTjÓRn </em>Firouz Gaini (ábyrgd) </p>
+<p xml:lang="est">Kristin Magnussen</p>
+<p xml:lang="nno">Karin Margretha Larsen</p>
+<p xml:lang="nob">William Simonsen</p>
+<p xml:lang="isl">Helgi Michelsenoddagrein</p>
+<p xml:lang="nno">F R Ø Ð I1 / 2011</p>
+<p>Kjakið um málið, tað føroyska og øll hini, er kvæði, ið alla tíðina fær nýggj ørindi. Nógvar endurtøkur eru, eisini misskiljingar, og rættiliga sjáldan fær lívliga og kensluborna orðaskiftið eitt vísindaligt støði, har víst verður til veruligar empiriskar kanningar. Og vit sakna at fáa meira at vita um sambandið millum gerandismálið hjá føroyingum og tað mál, ið í ymiskum málpolitiskum búnum verður lýst sum hitt <span type="quote" xml:lang="krl">“rætta”</span> føroyska málið. Sosiologiska sjónarhornið, har málið verður knýtt at einum samfelag og einum tíðarskeiði, eigur at fáa størri pláss í kjakinum í Føroyum. Karin Jóhanna L. Knudsen, granskari á Granskingardeplinum fyri Samfelagsmenning, hevur í blaðnum, tit nú sita við, skriva eina áhugaverda grein um <span type="quote">“trímælta gerandisdagin”</span> hjá føroyingum, ið eisini er høvuðsevni á ráðstevnu um málpolitiskar avbjóðingar fyri framtíðina, sum verður í Havn í august 2011. Eitt annað viðkomandi evni, ið verður viðgjørt í blaðnum, er kemisk evni í samfelagnum. Árið 2011 er, sambært felagsskapinum Sameindu Tjóðum (ST), altjóða evnafrøðiár. Í hesum sambandi verður nógv gjørt burtur úr evnafrøði – bæði í vísindaligum, politiskum og etiskum høpi – kring allan heim. Maria Dam, evnafrøðingur og leiðari á granskingardeildini á Umhvørvisstovuni, hevur skrivað grein undir heitinum <span type="quote">“Geva vit fiskinum av heilivágnum og røktarevnunum?”</span>. Maria Dam hevði eina framløgu um sama evni á fyrilestrakvøldinum hjá Fróðskaparfelagnum 23. mars 2011. Annars inniheldur blaðið, eins og altíð, fleiri stuttar forvitnisligar tekstir um djóra- og plantulívið í Føroyum – t.d. hevur Agnes Mols-Mortensen eina grein um nýggj tarasløg, sum eru funnin í Føroyum. Og tarin er í grundini eitt dult tilfeingi, ið kann fara at fáa stóran týdning fyri føroyska búskapin í framtíðini. Tarin hevur t.d. stóran áhuga fyri altjóða heilivágsídnaðin.</p>
+<p xml:lang="isl"><em type="italic">Góðan lestrarhug! </em>3 </p>
+<p xml:lang="deu">FRØÐI 1/201125</p>
+<p><em type="bold">Innihald </em>32384344 um fornar bústaðaleivdir og víkingaaldar beinfundir á bønhúsfløtu í nesi í Hvalbasímun v. arge og Helgi d. michelsen, Føroya Fornminnissavn15 trímæltur gerandisdagurkarin jóhanna l. knudsen, Granskingardepilin fyri samfelagsmenning20 Ferðing og støðufesti hjá kópibjarni mikkelsen, Føroya náttúrugripasavn26 Føroyskt flytifuglaatlas á vegsjúrður Hammer, statens naturhistoriske museum í keypmannahavn30 smærumottadorete bloch, Føroya náttúrugripasavn32 5 ár við Føroya sjósavnimagnus Gaard, Føroya studentaskúlibjørki Geyti og símun berg, Føroya sjósavn38 vís mær ílegurnar og eg skal siga tær, hvør tú ert - nýggj tarasløg funnin í Føroyumagnes mols-mortensen, university of new Hampshire43 Geva vit fiskinum av heilivágnum og røktarevnunum?maria dam, umhvørvisstovan47 Frøði næstu ferð </p>
+<p xml:lang="deu">FRØÐI 1/2011 4</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p xml:lang="vep"><em type="bold">Símun V. Arge </em></p>
+<p xml:lang="isl">Føroya Fornminnissavn <em type="bold">helgi d. michelsen </em></p>
+<p>Føroya Fornminnissavnum fornar bústaðaleivdir og víkingaaldar beinfundir Á bønHÚsFløtu í nesi í Hvalba</p>
+<p>Nýggja skrásetingin hjá Føroya Fornminnissavni hevur víst, at tað á Bønhúsfløtu finnast nógv fleiri fornar bústaðaleivdir enn bert tað, ið hildið var at vera eitt bønhús, soleiðis sum søgur hava gingið frá. Sannlíkt er, at tær bústaðaleivdir, ið her eru skrásettar, eru partar av einum frágingnum garði har kirkjugarður og kirkja hava verið tongd at. Kolevnis 14 tíðarfesting av mannabeini, saman við hitasprongdum malargróti funnið í bakkanum, eins og bygningaleivdirnar sjálvar geva ábending um víkingaøld. Hetta er fyrstu ferð, ein kolevnis 14 tíðarfesting er tongd at einum staði við navnaliðinum <span type="quote">“bønhús”</span>.5</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p xml:lang="deu">FRØÐI 1/2011 6</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p><em type="bold">Boð úr Hvalba um hóttar bústaðarleivdir </em>Tað hevur leingi verið Føroya Fornminnissavni greitt, at sjónligar bústaðaleivdir eru niðast á bakkanum á Bønhúsfløtu í Nesi. Tó, nú tykist havið av álvara at máa bakkan, og tí eru hesar leivdir rættiliga hóttar. Tíverri, hetta eru fleiri dømi um ymsa staðir í landinum, og vit standa rættiliga hjálparleys. </p>
+<p>Á vári 2008 boðaði eigarin av Bønhúsfløtuni</p>
+<p>Fornminnissavninum frá, at tað í februar hevði verið nógvur landnyrðingsuppgangur - hegn og ein gomul smoga, var farið og slættað niður. Nú stóð bakkin manshøgur frá mølini upp á svørðin. Eisini varð sagt, at ymist var at síggja í bakka num, ið helst mundi vera gjørt av mannahond, um framt tað, at har var eitt hol inn í bakkan, einar 1-1,5 m undir svørðinum, ið var fylt við fliðum og onkrum beinum. Tað var serliga tann innari parturin av bakkanum, har líkt var til, at eitthvørt fjaldi seg undir svørðinum, og sum kundi vera ein toft, ið mest var máað burtur av.</p>
+<p>Í mai mánað 2008 vóru fólk av Fornminnis-savninum suðuri á Bønhúsfløtu og kunnaðu okkum um teir skaðar nógva brimið hevði gjørt á bakkan. Nú vit vitjaðu staðin, kundu vit staðfesta tað, ið greitt hevði verið frá. Í fyrstu atløgu kunnaðu vit okkum um støðuna, og av tí, at vit mettu, at har vóru bústaðaleivdir, ið vóru í stórum vanda at hvørva av brimi, so hvørt tað máar bakkan, avgjørdu vit - sum tað minsta vit kunnu gera móti hesum hóttu fornminnum - at venda aftur til staðin fyri at gera eina neyvari skráseting av sjónligu bústaðaleivdunum í lendinum og í sjálvum bakkanum.</p>
+<p><em type="bold">Beinfundir </em>Áðrenn farið varð suður, hevði enn ein hvalb ingur ringt á Fornminnissavnið. Hesin boðaði frá, at abba sonurin hevði funnið nøkur bein í bakkanum úti á Fløtuni. Hvalbingurin hevði sjálvur verið og grivið tey út úr bakkanum, og fólk har á staðnum mettu, at talan mundi vera um mannabein. Tá hetta seinni vísti seg at vera rætt, varð okkum greitt, at skrá setingar arbeiðið mátti setast í verk skjótast til bar. Tó, áðrenn greitt verður meiri frá um tað, ið arbeiði okkara avdúkaði um hesar bústaðaleivdir, latum okkum so hyggja eitt sindur neyvari at, hvat vit vita um staðin úti á Bønhúsfløtu. </p>
+<p><em type="bold">Staðurin </em>Lendið, ið nevnt verður á Bønhúsfløtu, matr. nr. 1b, liggur uttan fyri býlingin í Nesi í Hvalba. Lendið liggur niðan frá bakkanum, vestur frá Fleksá. Í 1905 varð lendið, ið lá uttangarðs, lagt inn til eina trøð. Garðar vórðu laðaðir bæði niðan við Fleksá, eystan fyri Fløtuna og niðan við einum áar løki í einum gili fyri vestan. Sethúsini, har fólk settust á trøðna, standa enn uppi ovarlaga í lendinum. Hildið varð, at henda fløtan, sum tá lá í haga, var nakað fyri seg – eins og mannahond hevði verið á. Søgur ganga eisini frá í Hvalba, at tá fólk fyri umleið hundrað árum síðani settust á Fløtuna og skuldu til at nýta lendið, nýttist teimum als ikki at velta upp úr nýggjum – tey kundu bert fara undir at sláa bøin, ið var har frammanundan! Enn verður Fløtan hoyggjað, og er hesin parturin í dag hegnaður við stiki. </p>
+<p><em type="bold">Upplýsingar um fornminni og sagnir á staðnum </em>Elstu upplýsingar um fornminni á staðnum, ið eru til skjals á Føroya Fornminnissavni, eru upplýsingar, ið fyrrverandi landsantikvararnir báðir, Sverri Dahl og Arne Thorsteinsson, hava savnað inn, tá teir hava vitjað og arbeiddu har suðuri í 1960 og seinni við. Til er ein skitsa av eini toft, ið Sverri hevur <em type="bold">mynd1. á bønhúsfløtu. Uppmátingararbeiðið við totalstatión. </em></p>
+<p><em type="bold">Tosar tú við fólk í dag, greiða tey øll frá somu søgu - at navnið Bønhúsfløtan merkir, at har hava írskir munkar búð, og at har hevur verið kirkja.mYnd: </em></p>
+<p xml:lang="est">S. V. ARge7</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalbateknað. Óvist er tó, hvør toftin er, men helst er talan um toftina, ið er miðskeiðis í toftahópinum niðast á bakkanum, og sum vit fara at venda aftur til seinni. Í 1970-80-árunum hevur aftur verið vitjað á staðnum nakrar ferðir fyri at kunna okkum um staðin og tað, har hevur verið at sæð.</p>
+<p>Tað, sum fólk flest hava heft seg við, er staðarnavnið, ið inniheldur navnaliðin <span type="quote">“bønhús”</span>. Tosar tú við fólk í dag, greiða tey øll frá somu søgu - at navnið Bønhúsfløtan merkir, at har hava írskir munkar búð, og at har hevur verið kirkja. Tað vil siga, at her hevur verið búleikað longu framman undan víkingaøldini. Eisini eru søgur um, at fólk har í bygdini, ið doyðu av herviligu sóttini Svartadeyða, ið sigst hava herjað í Føroyum um miðju 14. øld, vórðu flutt út higar við báti og jarðað her. Somu søgur eru eisini knýttar at bønhústoftini í Leirvík, har tað sigst at fólk vórðu jarðað undir Svartadeyða.</p>
+<p>Men latum okkum nú hyggja eitt sindur neyvari at tí, ið skrásetingin avdúkaði.</p>
+<p><em type="bold">Fornminnaskrásetingin í 2009 </em>Í lendinum vestur frá Fleksá niðast á bakkanum eru fleiri bústaðaleivdir sjónligar. Har er stór toft, áføst tvær smærri, ið saman eru eins og ein heyggur í lendinum. Okkurt garðlag sæst við hendan heyggin. Beint innan fyri hesar toftir er annað fornt, eitt nú eitt garðlag niðast á bakkanum, ið gongur nakað niðan frá, haðani tað bendir oman aftur á bakkan. Allar toftirnar og garðløgini eru vallað. </p>
+<p>Skrásetingin fór fram í tíðarskeiðinum 15. og 16. juni og 28. og 29. september 2009. Endamálið var at fáa eitt yvirlit yvir, hvussu umfatandi bústaðaleivdirnar vóru og at lýsa hesar leivdir fyri betur at fáa eina mynd av, hvat har finst í lendinum, og hvussu leivdirnar skulu skiljast uttan at grivið varð niður í lendið. Stuttorðað lýsing varð gjørd av tí, ið var sjónligt í bakkanum, og myndir vórðu tiknar at stuðla uppmáting og lýsing.</p>
+<p>Skrásetingin av sjónligu leivdunum í lendinum, varð gjørd við totalstatión (Leica Builder R200M) saman við teldu (Allegro MX field PC) við <em type="bold">mynd 2. Yvirlitskort yvir fornar bústaðaleivdir á bønhúsfløtu. Innsetta kortið vísir sama økið í reyðum ferhyrningi. Loftmynd ©FdS og innsett kort ©munin. Kortgerð: h. d. michelsen </em></p>
+<p xml:lang="isl"><em type="bold">Í lendinum vestur frá </em></p>
+<p><em type="bold">Fleksá niðast á bakkanum eru fleiri bústaðaleivdir sjónligar. </em></p>
+<p xml:lang="deu">FRØÐI 1/20118</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p>FieldGenius forriti. Allar upmátingarnar vórðu lagdar inn í telduna, sum serstøk løg við egnum heiti. Lendið varð skrásett við at leggja út eitt net av punktum, umleið 1500 punkt á 3000 m². Har frávik vóru í lendinum, t.d. smáar høvdir og lægdir, vórðu punktini mátað tættari, so bæði toppur og botnur komu við. Alt í lendinum, so sum stik, veitir og ein rætt, varð teknað inn sum linjur. Í bakkan vórðu sett nøkur <span type="quote" xml:lang="nob">“fotopunkt”</span>, sum vórðu mátað inn, so til ber at javnmeta myndirnar, ið tiknar vórðu av bakkanum, við uppmátingarnar. Eisini vórðu grótlaðingar, holið har fliður og annað var at síggja, eins og holið, har mannabeinini vórðu funnin, mátað inn, mynd 11. <em type="bold">4. Lýsing av bústaðaleivdunum </em></p>
+<p><em type="bold">Øki A </em>Í sambandi við skrásetingina varð lendið við bú staða leivdunum býtt upp í eitt eystara og eitt vestara øki  ávikavist Øki A og Øki B, ið verða skild sundur av einum lítlum gili – sí yvirlits kortið, mynd 2. Í Øki A síggjast ymiskar leivdir eftir gras grónum veggjum og garðsleivdum – fleiri sum hægri og lægri túgvur, og er her talan um fornar toftir. </p>
+<p>Toft 1 vendir uml. eysturvestur. Í mun til toftirnar 2 og 3 bendir hon tó nakað í ein landnyrðing – tvs. oman móti bakkanum, mynd 3.</p>
+<p>Toftin er um 10 m long, 4 m breið. Veggirnir eru vallaðir, tó sæst grót stinga upp úr ymsastaðni.</p>
+<p>Suðurveggurin er 1,7 m breiður, og stendur hann uppi í um 50 cm hædd, grót sæst á út síðuni. Norður veggurin er 2 m breiður, er vallaður, og á út síðuni er grót í støðum. Eysturveggurin er 1,2 m breiður og er avrundaður.</p>
+<p>Beint eystan fyri Toft 1 sæst ein annar veggur ella garðlag. Hetta sæst ganga út frá land nyrðings horni num, suðureftir/niðaneftir, niðan um og vestur eftir fram við Toft 1. Hesin veggur ella garðlag er um 1,5 m breitt.</p>
+<p>Longur sunnan/oman fyri Toft 1 er eitt vallað garð lag, 1,201,30 m breitt, og grót sæst at vera í støð um. Henda garðsleivd sæst gyrða eitt øki, ið er</p>
+<p><em type="bold">Mynd 3. Øki A, Toft 1, sæð vestureftir. Leggið til merkis lágu vallaðu garðløgini framman fyri og fram við ovaru síðu á toftini. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge9</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba11,5 m langt. Breiddin er ógreið oman móti Toft 1. Økið liggur í lendi, ið tykist vera velt einaferð í tíðini, og kann tí vera skalað nakað av hesum virksemi.</p>
+<p><em type="bold">Mynd 4. Øki A, Toft 2, sæð vestureftir. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge</p>
+<p>Vallaða toftin, Toft 2, er rættiliga greið og vendir eysturvestur. Víddin innan sæst sum djúp lægd. Toftin er 4,9 m long og 2,7 m breið, mynd 4.</p>
+<p>Norðurveggurin er 1,2 m breiður, og grót sæst bæði á út og innsíðuni. Suðurveggurin er 1,4 m breiður, og grót sæst í støðum, serliga á inn síðuni. Eystur veggurin er 1,4m breiður. Hesin veggur er hin sami sum vesturveggurin í Toft 1. Toftirnar standa sostatt áfastar, men eingin durur sæst vera í veggju num.</p>
+<p><em type="bold">Mynd 5. Øki A, Toft 3, sæð vestureftir. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge</p>
+<p>Toft 3 vendir eysturvestur og er øll vallað, sum hon er. Vestantil stingur hon seg rættiliga upp úr lendi num, mynd 5. Toftin er heldur óreglulig, og tí ikki heilt greið. Innan er hon um 4,9 m long og 2,8 m breið. Grót sæst í enda vegginum fyri vestan – annars ikki.</p>
+<p>Norðurveggurin er 1,71,8 m breiður, tó tykist hann vera rættiliga útflánaður. Vesturveggurin er 1,8 m breiður.</p>
+<p>Spurningur er, hvørt Toft 2 og 3 eru ein og sama toft, ella um talan er um tvey rúm heldur enn tveir bygningar. Kanska hevur verið opið ímillum teirra, tí at eitt op tykist vera í vegginum millum tær.</p>
+<p><em type="bold">Øki B </em>Í øki B beint vestan fyri gilið tekur ein grasgrógvin ryggur seg upp á bakkatromini, ið gongur eins og í ein boga um 25 m niðan í lendið, haðani hann sneiðir oman at bakkanum aftur – sí <span type="quote" xml:lang="isl">”garðsleivd”</span> á yvirlitskortinum, mynd 2 . Ryggurin – helst ein garðsleivd – er rættiliga flatur og breiður, og er um 50 cm høgur, har hann er hægstur. Víddin á hesi árundaðu garðsleivd fram við bakkanum er 37m, mynd 6. </p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge</p>
+<p><em type="bold">Mynd 6. Øki B, garðsleivdin, ið kann hava verið girðing um fornan kirkjugarð, sæð vestureftir. </em></p>
+<p><em type="bold">Lýsing av sjálvum bakkanum </em></p>
+<p><em type="bold">Øki A </em>Frá Fleksá og vestureftir fram við fjøruni – fram til upp mátaðu túgvurnar og toftirnar oman á vølli num á sjálvum bakkanum  tykist lendið vera rætti liga grunt, og smærri grót sæst fram við bakkanum. </p>
+<p>Ikki fyrr enn við eystaru túgvuna, beint niðan fyri Toft 1 á yvirlitskortinum, síggjast rættiligar kultur fláir. Benið varð reinsað í tveimum støðum, og har sóust uml. 1 m tjúkkar øskukonsentratiónir, ið liggja niður á leirbotn. Fláirnar eru tunnar, ymist littar við trækola og torvmoldabitum í. Eisini</p>
+<p><em type="bold">Spurningur er, hvørt Toft 2 og 3 eru ein og sama toft, ella um talan er um tvey rúm heldur enn tveir bygningar. </em></p>
+<p xml:lang="deu">FRØÐI 1/201110</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalbasíggjast fleiri hitasprongdir malasteinar, frá beint undir svørðinum og nakað niður í bakkan. Hetta er beint við høvdina, har leivdir eftir bygningum eru mest sjónligar. Tí er líkt til, at her hava verið enn fleiri bygningaleivdir, sum brimið nú hevur máað burtur, mynd 7.</p>
+<p>Einar 15 m vestur frá hesum staði, tykist ein uppundirlaðing vera fram við bakkanum, ið tó í støðum er burturskolað. Helst er talan um ein fjørugarð í sambandi við nýggjara traðarbrúkið har á staðnum. Á hesum strekki sæst tískil ikki nógv til nakrar eldri bústaðaleivdir ella fláir. Haðan uppundirlaðingin nú eru burtur og vestur í lítla gilið, vestur við Øki B, er mest náttúra at síggja í bakkanum.</p>
+<p><em type="bold">Øki B </em>Ryggurin ella garðsleivdin, sum tekur seg upp beint vestan fyri gilið, er rættiliga flatur og breiður. </p>
+<p>Tó sæst eingin rættilig uppbygging av garðinum í sjálvum beninum í bakkanum, og er lendið her grunt, mynd 8.</p>
+<p>Vestur frá garðsleivdini síggjast brádliga kulturfláir aftur, og gerast tær nú tjúkri. Tað er júst</p>
+<p><em type="bold">Mynd 7. Partur av bakkanum undir øki A - beint undir túgvunum niðan fyri toftirnar í lendinum uppi á bakkanum sjálvum. Í bakkanum síggjast fláir við brendum tilfari og hitasprongdum malar steinum niður at leirbotni. Tummastokkurin mátar 1 m. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge</p>
+<p><em type="bold">Mynd 8. Bakkin undir øki B, sæddur eystureftir. Maðurin stendur á vestara enda á garðinum niðast á bakkanum. Heygurin, ið dagar móti himni, er vesturendin av Toft 3. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge11</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalbaá hesum staði, at grivnu <span type="quote">“holini”</span> eru, har áður umrøddu mannabein vórðu funnin, og har holið við fliðuskeljunum eisini er, mynd 9. Fláirnar her eru um 1 m tjúkkar niður á týðuliga døkka, svarta flá, ið liggur niður at morenutilfari.</p>
+<p>Um 14 m longur vesturi verða kulturfláirnar kom paktar við gróti, 11,5 m tjúkkar. Hesar leivdir eru í dag heilt sjónligar, og stendst hetta av, at tað er serliga her, at brimið hevur máað sum mest.</p>
+<p>Einar 45 m eystur frá vestaru garðsleivd verða kultur fláirnar nærum burtur aftur. Hetta er júst har, garðsleivdin kemur oman í sjálvt benið í bakkanum. Vestan fyri hesa leivd rennur áarløkur, ið avmarkar lendið við fornleivdum vestureftir.</p>
+<p><em type="bold">Mannabein úr víkingaøld og møguligur grevstur </em>Sum nevnt at byrja við í hesi grein, ringdi hvalb ingur til Fornminnissavnið í mai 2009. Hesin boðaði frá, at líkt var til, at mannabein vóru funnin har í bakkanum. </p>
+<p>Vit avráddu, at hann tók beinini við sær til</p>
+<p>Havnar, nú hann kom norður sama kvøldið. Vit fingu lækna at hyggja at beinunum, hann var tó í iva, hvørt hetta vóru mannabein eftir støddini at døma. Fólk høvdu longu frætt um forvitnisliga beinafundin, og hann varð eisini umrøddur í Kringvarpi Føroya 13. og 14. juni.</p>
+<p>Tó – um talan veruliga var um mannabein, hevði hetta verið sera áhugaverdur upplýsingur. Fyri at fáa hetta staðfest, vórðu beinini send til neyvari kanningar hjá beinaserfrøðinginum Niels Lynne rup, professara á Antropologisk Laboratorium á universitetinum í Keypmannahavn. 25. juni kom svar frá Lynnerup: beinini vóru av vaksnum fólki av óvissum kyni, og talan var um partar av vinstra legg og skinnabeini umframt brot av fótrótsbeini, mynd 10.</p>
+<p>Nú staðfest varð, at talan veruliga var um manna bein, mettu vit, at tað átti at borið til at fingið stað fest, hvørjum tíðarskeiði hesi bein vóru frá. Bein eru lívrunnin evni, og slíkt ber til at tíðarfesta við kolevnis14 háttinum. Farið varð tí víðari við máli num – umsókn um tíðarfesting varð skrivað, eitt sýni, ið Lynnerup boraði úr einum beini, sendi hann í september Jan Heinemeier, lektara og granskara á Institut for fysik og astronomi við universitetið í Århus, har kolevnis tíðarfestingar verða gjørdar. Sýnið av Bønhúsfløtu varð góðtikið til tíðarfest ingar, og í desember sama árið komu endaligu boðini: tíðar festingin vísti greitt, at beinið er frá tíðini um ár 1000. Beinini vórðu sera væl varðveitt, eisini tey evnini í beinvevnaðinum, ið eru ein fortreyt fyri, at tíðar festingin verður so eftirfarandi sum gjørligt. Hetta ger hesa tíðarfestingina ógvuliga neyva.</p>
+<p>Mannabeinini vórðu funnin innanfyri garðsleivd ina í Øki B, og tískil er hugsandi, at garðsleivdin er partur av gomlum kirkjugarði, har meginparturin nú er máaður burtur av brimi.</p>
+<p><em type="bold">Mynd 9. Holini inn í bakkan undir øki B, har mannabein og fliður vórðu funnin. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="deu">S. V. A</p>
+<p xml:lang="deu">Rge</p>
+<p><em type="bold">Mynd 10 a. Mannabein – partar av leggi og skinnabeini – funnin vórðu í bakkanum undir Bønhúsfløtu. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 10 b. Beinagrind, har bein-partarnir á mynd 8 eru settir inn. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd: </em></p>
+<p xml:lang="nob">H. D. M</p>
+<p xml:lang="eng">Ic</p>
+<p xml:lang="nno">Hel</p>
+<p xml:lang="vep">Sen</p>
+<p xml:lang="eng"><em type="bold">Mynd: </em>c </p>
+<p xml:lang="nob">AtAlog.</p>
+<p xml:lang="vep">Apl</p>
+<p xml:lang="eng">SHoppe.co</p>
+<p><em type="bold">Sýnið av </em></p>
+<p><em type="bold">Bønhúsfløtu varð góðtikið til tíðarfest ingar, og í desember sama árið komu endaligu boðini: tíðarfestingin vísti greitt, at beinið er frá tíðini um ár 1000. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 10 a. </em></p>
+<p xml:lang="nno"><em type="bold">Mynd 10 b. </em></p>
+<p xml:lang="deu">FRØÐI 1/201112</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p><em type="bold">Fyrsta tíðarfesting knýtt at bønhús staðarnavni </em>Hetta var bæði spennandi og áhugavert. Tí, hóast tað finnast fleiri sonevndar bønhústoftir og staðir við bøn hús<em type="italic">bønhús </em>”. Somikið størri týdning hevur henda tíðar festingin. staðanavninum tongdum at sær, so vóru ongi skjalprógv um neyvari tíðar fest ingar av hesum toftum ella støðum. Tað finnast bert sagnir, ið siga frá, at írskir munkar, ið vit tó eingi ítøkilig skjal prógv hava um her í oyggjunum, skuldu halda til á slíkum støðum  eisini hóast onkrar royndir fra faklig ari síðu hava verið gjørdar, við tí fyri eyga at staðfesta hesar útsagnir. Hetta er fyrstu ferð, at ein tíðar festing er gjørd, sum er tongd at einum av plássunum, ið hava samband við staðanavnið “ </p>
+<p><em type="bold">Mynd 11. yvirlitstekning av bústaðaleivdunum á Bønhúsfløtu. </em></p>
+<p><em type="bold">Hæddarmunurin millum kurvarnar er 10 cm. Bakgrundin er gjørd til raster við <span type="quote" xml:lang="eng">“natural neighbour”</span> í ArcGis. <span type="quote" xml:lang="nob">“Hillshade”</span> z faktorur er 0,8 og <span type="quote" xml:lang="eng">“Standard deviation”</span> n:3. Uppmáting &amp; kortgerð: </em></p>
+<p><em type="bold">Hvussu eiga vit at skilja hesar bústaðaleivdir? </em>Hóast vit ikki hava grivið nakrar kanningarveitir í lendið fyri neyvari at kanna fornfrøðiligu leivdirnar, ið liggja undir svørðinum, so meta vit, at sammett við tað, vit annars síggja kring um í oyggjunum, er mest sannlíkt, at tær grasgrónu bygningaleivdir, ið her eru skrásettar, toftirnar 13 í øki A, eru partar av einum garði – einum garði við fleiri bygningum – ið einaferð í tíðini er frágingin. Líkt er til, at tað, ið sæst oman á vøllinum, ikki er frá einum og sama tíðarskeiði – hetta, tí at toftirnar sjónliga liggja oman á og inn undir hvørja aðra. Búleikað má tí eisini hava verið á staðnum eitt longri tíðarskeið, mynd 11. </p>
+<p>Eingir gripir eru funnir á staðnum, ið kundu givið eina ábending um, úr hvørjum tíðarskeiði hesin garðurin stavar. Tó so, grundað á skap og byggihátt á toftunum, ið staðfestar eru, er mest sannlíkt, at talan er um leivdir, ið stava frá einaferð í víkingaøld ella tíðliga í miðøld. Eina ábending um, at so er, geva eisini teir hitasprongdu malasteinarnir, ið funnir vóru, tá vit skrásettu sjálvan bakkan. Slíkir hitasprongdir malasteinar hava víst seg at vera greið tala, tá um fornar</p>
+<p><em type="bold">Hetta er fyrstu ferð, at ein tíðar festing er gjørd, sum er tongd at einum av plássunum, ið hava samband við staðanavnið <span type="quote">“bønhús”</span>. </em></p>
+<p xml:lang="deu">H. An</p>
+<p xml:lang="nob">DReASen &amp; H. D. M</p>
+<p xml:lang="eng">Ic</p>
+<p xml:lang="nno">Hel</p>
+<p xml:lang="vep">Sen13</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p xml:lang="eng"><em type="bold">Mynd 12. </em></p>
+<p><em type="bold">Bønhúsfløtan sæð vestureftir. </em></p>
+<p><em type="bold">Bústaðaleivdirnar liggja niðast á bakkanum beint innan-/vestanfyri seyðahúsið fremst til høgru á myndini. </em>bústaðaleivdir ræður. Henda tíðarfesting er í góðum samsvari við úrslitið av kolevnis 14 tíðarfestingini av mannabeinunum, ið enntá peikar aftur í tíð heldur enn fram í tíð. Hinvegin, nær garðurin er frágingin, vita vit av góðum grundum einki um. </p>
+<p>Mannabeinini, funnin vórðu í bakkanum, geva sum nevnt ábending um ein fornan grevstur ella kirkjugarð. Kanska stóð kirkja ella bønhús í kirkjugarðinum, soleiðis sum staðanavnið kundi bent á. Um so er, eru fornminnini á Bønhúsfløtu mest ítøkiliga dømi her í oyggjunum um ein garð við grevstri ella kirkjugarði við kirkju ella bønhúsi, har búleikað hevur verið um ár 1000 – t.e. seint í víkingaøld. Hetta er ein mynd, vit kenna dømi um frá avtoftaðum bústøðum í hinum norrønu búsetingunum í Útnorðri, har lítlar kirkjur ella bønhús sum hesi í klingrutum kirkjugørðum vórðu tongd at garðinum eins og hini húsini, áðrenn kirkjurnar vórðu skipaðar í sóknir í miðøldini.</p>
+<p>Úr búsetingarsøguligum sjónarhorni er staðurin eisini áhugaverdur, tí hann liggur uttan fyri kenda forna búsetingarmynstrið – búsetingarskipan ina við býling um, soleiðis sum vit kenna hana í landi num yvir høvur. Tá til ber at tíðarfesta bústaðin so tíðliga sum til tíð ar skeiðið um ár 1000, eru hesar bústaðaleivdir eisini tekin um, at búsetingar mynstrið er broytt upp gjøgn um øldirnar. Hetta kundi verið ábending um, at av fyrstan tíð hevur búsetingar mynstrið verið meir spjatt, við spjaddum gørðum, og síðan er tað broytt til mynstrið við býlingum, sum vit kenna frá miðøldini og fram at okkara døgum, mynd 12.</p>
+<p>Sum nevnt í innganginum, eru áhugaverdu bústaðaleivdirnar á Bønhúsfløtu í stóran mun hóttar av, at havið máar lendið har á staðnum. Eins og á so mongum øðrum støðum kring um í oyggjunum, verður neyðugt við ítøkiligum tiltøkum at verja fjøru og lendið, fyri at ikki dømi sum hesi, har eldri mentanararvur okkara forferst, skal halda áfram. Nú hevur hetta skund.</p>
+<p xml:lang="nob"><em type="bold">MYND: </em></p>
+<p xml:lang="est">S.V. ARGE</p>
+<p xml:lang="deu">FRØÐI 1/201114</p>
+<p>Um fornar bústaðaleivdir og víkingaaldar beinfUndir Á bØnHúsflØtU í nesi í Hvalba</p>
+<p><em type="bold">Eftirviðgerð í GIS </em>Dáturnar, ið fingnar vórðu til vega við totalstatiónini, vórðu á Føroya Fornminnissavni lagdar inn í eina størri teldu (work station) við GIS forriti til greining av dátunum. GIS (Geographic Information System ella Geospatial Information System) gerst alsamt meira neyðugur liður í fornfrøðini. Fornminnissavnið hevur í eina tíð brúkt nýggju tøknina, bæði innan fornfrøðilgar útgrevstrar og til skrásetingar av jarðføstu fornminnunum kring landið. GIS er ein skipan, ið savnar, goymir, greinar og framførir staðsettar dátur. Ein kann siga, at GIS er ein samanrenning av kortlegging, statistiskari greining og dátugrunna tøkni. GIS er væl egnað innan fornfrøðina, tí alt, sum verður innsavnað og skrásett, er tongt at ávísum staði, t.v.s. at hetta kann skrásetast við ávísum x, y og z krosstølum ella longd, breidd og hædd. </p>
+<p>Fornminnissavnið brúkar ArcGis skipanina hjá fyritøkuni ESRI. Í Arcmap, sum er partur av ArcGis skipanini, vórðu innsavnaðu dáturnar georefereraðar, t.v.s. lagdar inn á rætta stað, í mun til føroysku landskrosstølini. Onnur løg, sum eisini eru georefererað, eru topografisk kort og loftmyndir. Við at samanbera nýggjari og eldri tilfar, ber til at skilja, hvussu lendið og nýtslan av lendinum broytist við tíðini og eitt nú hvussu nógv verður máað av bakkanum. Sostatt er endamálið við okkara uppmátingum eisini at eygleiða lendið og at hava haldgott samanberingartilfar í framtíðini.</p>
+<p>Tað eru ymiskir hættir at endurskapa lendið, alt eftir hvør støddfrøðilig ella geostatistisk útrokning verður vald, ella um lendið verður bygt upp í <span type="quote" xml:lang="nob">”raster”</span>- ella <span type="quote" xml:lang="nno">”vektor”</span>-lendi. <span type="quote" xml:lang="nob">”Raster”</span> er talgild mynd, sett saman av heilt smáum fýrakantum, <span type="quote" xml:lang="kal">”pixlum”</span>. ArcGis, forritar pixlini og setur tey saman, soleiðis at tey mynda lendið. <span type="quote" xml:lang="spa">“Vector”</span><span type="quote">”-lendið verður gjørt við TIN (Triangulated Irregular Network), har linjur verða gjørdar millum mátaðu punktini og skapa eitt net av trýkantum í ymiskum støddum, mynd 13. Tá lendið er endurskapað ber til at gera talgild hæddarkort ella “DEM”</span><span type="quote" xml:lang="deu">“DEM”</span> (Digital Elevation Map), sum við litum geva eina góða mynd av lendinum, mynd 14. Tá lendið er endurskapað talgilt, kunnu ymiskar greiningar gerast av tí í ArgGis 3D Analyst, sum t.d. at seta ljós á frá ymiskum vinklum fyri at skapa skuggaárin (hillshade), ella har forritið varpar ljós á tey støðini í lendinum, har hæddarmunurin er størstur (slope). Hesar greiningar kunnu nýtast til at finna frávik í lendinum, sum kunnu vísa á fornleivdir, sum t.d. toftir og garðløg.</p>
+<p xml:lang="isl"><em type="bold">Mynd 14. Dømi um <span type="quote" xml:lang="nob">“Raster”</span><span type="quote">”- lendi, gjørt við framferðarháttinum “Natural Neighbor”</span><span type="quote" xml:lang="est">“Natural Neighbor”</span>. Úr <span type="quote" xml:lang="nob">“Raster”</span><span type="quote">”-lendinum er gjørt eitt talgilt 5 cm hæddarkurvakort (“DEM”</span><span type="quote" xml:lang="deu">“DEM”</span>) við litum í løgum. Kortgerð: H. D. Michelsen </em></p>
+<p><em type="bold">Mynd 13. Dømi um <span type="quote" xml:lang="vep">“TIN”</span>- lendi, gjørt í ArcGis 3D Analyst </em></p>
+<p xml:lang="fkv">Ko</p>
+<p xml:lang="nob">RtGERÐ: H. D. M</p>
+<p xml:lang="eng">Ic</p>
+<p xml:lang="isl">HElSEn</p>
+<p xml:lang="fkv">Ko</p>
+<p xml:lang="nob">RtGERÐ: H. D. M</p>
+<p xml:lang="eng">Ic</p>
+<p xml:lang="isl">HElSEn15</p>
+<p xml:lang="isl">FRØÐI 1/2011trímæltUr gerandisdagUr</p>
+<p>Trímæltur gerandisdagur</p>
+<p>Er núverandi málpolitikkurin hjá føroysku myndugleikunum ein gongd leið at varðveita og verja føroyskt sum eitt livandi mál? Kanning millum føroysk ung vísir eina konflikt ímillum eina puristiska rørslu, ið vil stýra føroyskum, og einum gerandisdegi, sum førkar seg ímóti trímæli. Vit kunnu vænta, at enskt fer at hava stóra ávirkan á føroyskt talumál, og at gjógvin ímillum talu- og skriftmálið fer at økjast, velja føroysku myndug leik ar nir ikki at broyta málpolitisku kósina.</p>
+<p><em type="bold">Karin Jóhanna L. Knudsen </em>karinj@setur.fo </p>
+<p xml:lang="isl">Mál og samfelagsfrøðingur</p>
+<p>Granskingardepilin fyri</p>
+<p xml:lang="nob">Samfelagsmenning</p>
+<p xml:lang="nob"><em type="bold">MYND </em></p>
+<p xml:lang="isl">J. HERlUF SØREn</p>
+<p xml:lang="deu">SEn</p>
+<p xml:lang="isl">FRØÐI 1/201116trímæltUr gerandisdagUr</p>
+<p><em type="bold">Ein føroyskur málpolitikkur </em>Høvuðseyðkennini í føroyskum málpolitikki eru purisma og ynskið um at gera føroyskt øðrvísi enn danskt. Danskt hevur verið so leingi í Føroyum. Tískil er føroyskt mál sjálvsagt nógv ávirkað av donsk um. Røktin og verjan av føroyskum máli hevur í høvuðs heitum snúð seg um, hvussu vit kunna lúka tað, ið verður kallað málspillur, úr føroyskum máli og um konservativa korpusplanlegging. Korpus plan legging sipar til orðatilfeingi, bendingar lag, setningsbygnað o.s.fr. Serliga veitan av nýyrðum hevur havt stóran týdning. Ymiskt bendir á, at gjógvin ímillum føroyskt skrift og talu mál økist. </p>
+<p>Purisma er oftani eitt hjáárin av nationalismu. Í gerandisdegnum kemur puristiski málpolitikkurin til sjóndar sum eitt slag av sjálvreinsan. Fólk reinsa seg sjálvi málsliga, tí tey kenna seg ikki at duga tað alment viðurkenda málið, sum er ein reinsað útgáva av føroyskum. Úrslitið er, at fólk kúga seg sjálvi málsliga, og at fólk gerast sera upptikin av at meta og viga um málið bæði hjá sær sjálvum og øðrum føroyingum.</p>
+<p>Í 2005 gjørdi Føroya landsstýri av at seta eina málstevnunevnd at orða ein føroyskan málpolitikk. Ein av grundgevingunum fyri at seta hesa nevnd var ein kanning frá 2004, ið bendi á, at tað er trupult at ogna sær føroyska skriftmálið. Niðurstøðan í kanningini var, at villutalið hjá næmingum í før oyskum mið náms skúlum var rættiliga høgt samanborið við úrslit aðrastaðni. Ðvillur vóru flestar. Umframt at hava ein málsligan týdning í føroyska skriftmálinum, hevur Ð eisini ein symbolskan týdning. Tað skilir føroyskt frá donskum.</p>
+<p>Síðani tá eru aðrar kanningar gjørdar, sum benda á tað sama – at tað er trupult at ogna sær før oyska skriftmálið. Sambært PISA kanningunum er lesiførleikin hjá føroyskum skúlanæmingum ikki nøktandi. Avvarðandi myndugleikar ásanna, at tað eru trupulleikar í føroyska skúlaverkinum, og teir hava sett ymisk tiltøk í verk fyri at betra um støðuna.</p>
+<p><em type="bold">Um kanningina </em>- 40 skúlar eru við í í kanningini- 615 næmingar í 7. flokki hava svarað- Kanningin fór fram í november 2007- Svarprosentið er 89% </p>
+<p>Tiltøkini hava í høvuðsheitum snúð seg um undir vísingarhættir, og hvussu ein kann betra um møgu leikarnar hjá næmingunum at ogna sær føroyska skrift málið. Spurningur verður ikki settur við skrift málið sjálvt.</p>
+<p>Málstevnunevndin ger í sínari frágreiðing greitt, at tey ikki mæla til broytingar í skriftmálinum. Hetta er í andsøgn til tað, Málstevnunevndin í aðrar mátar staðfestir í síni frágreiðing um vantandi máls ligu førleikarnar millum føroyingar. Nevndin vísir til dømis á, at 13 ára skúlagongd ikki gevur øllum neyðugu førleikarnar í móðurmálinum – tað vil siga í føroyskum. Alment kunnu vit siga, at Mál  stevnunevndin leggur høvðsdentin á formin í før oyskum máli, og hvussu myndugleikar og onnur kunnu betra um støðuna ella teir vantandi mál før leik ar nar hjá fólki. Serligur dentur verður lagdur á fjøl miðlar og skúlaverkið.</p>
+<p>Somuleiðis verður mælt til at broyta núverandi málnevnd til eitt málráð. Samstundis skal nýggja ráðið hava fleiri resursur at arbeiða við. Hetta fer, sam bært nevndini, eisini at bøta um vantandi før leikar nar í føroyskum millum fólk. Í fjør setti lands stýriskvinnan arbeiðsbólk at orða eitt uppskot til lóg um málráð. Ein grundleggjandi broyting, ið arbeiðsbólkurin mælir til í sínum uppskoti, er, at almennir stovnar skulu fygja teimum tilmælum, sum koma frá ráðnum. Núverandi málnevnd, hinvegin, hevur einans ráðgevandi heimildir. Hvørjar møgu ligar avleiðingar verða, um stovnar ikki vilja fylgja teimum ráðum, ið fara at koma haðani, vita vit ikki. Tað nevnir uppskotið einki um.</p>
+<p>Í uppskotinum til ein nýggjan føroyskan málpoli tikk mælir Málstevnunevndin til at strika danskt sum alment mál í Føroyum, soleiðis sum Heima stýris lógin staðfestir, og at geva føroyskum støðu sum tjóðarmál í Føroyum. Hetta hevur sjálv sagt symbolskan týdning og er ein staðfesting av, at ein meiriluti av fólkinum í føroyska samfelagnum hevur føroyskt sum sítt fyrsta mál. Men vit sita fram vegis eftir við spurningum um, hvørji mál føroyingar hava brúk fyri at duga fyri at klára seg væl í mun til skúla, út búgving, arbeiði og hvat hvør einstakur nú eina ferð heldur er eitt gott lív.</p>
+<p>Kanningin millum føroysk ung vísir, at hóast ein býr í fjarskotnum og málsliga rættiliga homogenum økjum, sum eitt nú í Føroyum, er fleirmæli neyð ugt.</p>
+<p><em type="bold">Fólk reinsa seg sjálvi málsliga, tí tey kenna seg ikki at duga tað alment viðurkenda málið, sum er ein reinsað útgáva av føroyskum. </em>17 </p>
+<p xml:lang="isl">FRØÐI 1/2011trímæltUr gerandisdagUr</p>
+<p><em type="bold">Føroyingar førka seg ímóti trímæli </em>Tá vit skulu lýsa og greina málprofilar – hetta bæði í mun til einstaklingin og samfelagið sum heild – er um ráðandi at hava greiðu á, hvussu vit skilja tær ymisku funktiónirnar, eitt mál hevur fyri einstaklingin og í einum samfelag. </p>
+<p>Talva 1 lýsir tær definitiónir, sum næmingarnir fingu at halda seg til, tá teir skuldu svara spurn ingi num, um málini føroyskt, danskt og enskt vóru móðurmál, mál nummar 2, grannamál ella fremmandamál. <em type="italic"></em></p>
+<p>Úrslitið av hesum partinum av kanningini síggja vit í talvu 2.</p>
+<p>Tað kemur ikki óvart á okkum, at ein greiður meiriluti gevur føroyskt upp sum móðurmál, og ber hetta eisini boð um, at føroyskt hevur stóran týdning fyri tey ungu. Tølini vísa somuleiðis, at vit í Føroyum hava eitt serligt slag av tvímæli, við tað at einans ein sera lítil partur av næmingunum lýsir danskt sum móðurmál, men kortini vísir ein meiriluti av teimum á danskt sum mál nummar 2. Á sama hátt vísir nærum helmingurin av teimum á enskt sum mál nummar 2. Hetta vísir okkum, at týdningurin av enskum økist millum tey ungu, og at enskt vinnur fram á donskum.</p>
+<p>At einans ein sera lítil partur av næmingunum lýsir danskt og enskt sum fremmandamál (ávikavist 3% og 10%) er prógv um, at bæði málini hava ein sera týðandi leiklut í gerandisdegnum hjá teimum. Vit síggja, at føroyskur ungdómur virkar í einum at kalla trímæltum umhvørvi.</p>
+<p>Vit eiga eisini at bíta merki í, at ein meiriluti av næmingunum staðfestir danskt sum mál nummar 2 og ikki sum fremmandamál. Hetta er øvut av tí, ið vit stundum hoyra í almennum høpi, har danskt verður kallað fremmandamál. Tað vísir okkum, at leik luturin hjá donskum millum føroyskan ung dóm fram vegis hevur stóran týdning, hóast enskt vinnur fram.</p>
+<p>Tey ungu møta og nýta føroyskt, danskt og enskt á ymsum gerandisligum økjum. Myndin er fjøl táttað.</p>
+<p><em type="bold">Trímæltur gerandisdagur </em>Myndirnar 1, 2 og 3 vísa úrslitið av spurninginum: <em type="italic">Hvørji mál brúkar tú, tá tú skalt...? </em>Vit síggja eina fjøl broytta mynd av málnýtsluni hjá hesum ungu </p>
+<p><em type="bold">Hvat er… </em></p>
+<p><em type="bold">Føroyskt </em></p>
+<p xml:lang="swe"><em type="bold">Danskt Enskt </em></p>
+<p xml:lang="isl">Móðurmál 89% 9% 5%</p>
+<p>Mál nummar 2 6% 57% 41%</p>
+<p xml:lang="isl">Grannamál 1% 25% 38%</p>
+<p xml:lang="isl">Fremmandamál / / / / / / 3% 10%</p>
+<p xml:lang="isl">Annað 1% 1% 1%</p>
+<p>Vantar/Ikki svarað 3% 5% 5%</p>
+<p xml:lang="est"><em type="bold">Talva 2. </em></p>
+<p xml:lang="kal"><em type="bold">Hugtak </em></p>
+<p xml:lang="spa"><em type="bold">Definitión </em></p>
+<p xml:lang="isl">Móðurmál</p>
+<p>Móðurmál er tað málið, sum tú lærir fyrst og kennir teg tætt knýtta/n at. Tað ber væl til at hava fleiri móðurmál.</p>
+<p>Mál nummar 2</p>
+<p>Mál nummar 2 er eitthvørt mál, sum tú lærir aftaná títt móðurmál.</p>
+<p>Hesi mál kanst tú læra bæði í og uttan fyri skúlan.</p>
+<p xml:lang="isl">Grannamál</p>
+<p>Grannamál eru mál, sum fólk í teimum londunum, ið liggja kring</p>
+<p>Føroyar tosa. Málini kunnu vera skyld við føroyskt, men nýtast ikki at vera tað.</p>
+<p>Fremmandamál Fremmandamál eru mál, ið tú lærir í ella uttan fyri skúlan. Tó tosar tú ikki hesi mál í gerandisdegnum í Føroyum við fólk, sum hava málini sum teirra móðurmál.</p>
+<p xml:lang="est"><em type="bold">Talva 1. </em></p>
+<p><em type="bold">Kanningin millum føroysk ung vísir, at hóast ein býr í fjarskotnum og málsliga rættiliga homogenum økjum, sum eitt nú í Føroyum, er fleirmæli neyð ugt. </em></p>
+<p xml:lang="deu">FRØÐI 1/201118</p>
+<p>TrímælTur gerandisdagur <em type="bold">1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p xml:lang="nob"><em type="bold">Danskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2 1,54 1,78 2,50 2,50 2,74 3,59 4,07 4,22 4,55 4,76 </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p><em type="bold">Lesur bløð ella teknirøðir </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Føroyskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 1 </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2.1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p xml:lang="nob"><em type="bold">Danskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2 1,54 1,78 2,50 2,50 2,74 3,59 4,07 4,22 4,55 4,76 </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p><em type="bold">Lesur bløð ella teknirøðir </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Føroyskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 1 </em></p>
+<p><em type="bold">Mynd 3. </em>fólkum. Myndirnar vísa um somu tíð tað, ið eyð kennir málsliga gerandisdagin hjá føroyingum. At før oyskt, danskt og enskt verða nýtt meira og minni á ymiskum økjum. </p>
+<p><em type="bold">Tey samskifta elektroniskt á føroyskum </em>Tey senda smsboð og teldupostar á føroyskum fyri tað mesta. Her síggja vit, at føroyskt er móður mál hjá teimum flestu og ráðandi málið í vanligum sam skifti. </p>
+<p><em type="bold">Tey lesa á donskum og føroyskum </em>Tey ungu lesa teknirøðir og bløð á donskum, meðan tey lesa bæði føroyskar og danskar bøkur. Hetta vísir okkum, at danskt og føroyskt eru bæði týðandi mál í gerandisdegnum hjá næmingunum bæði í mun til mentanarforbrúk og tá tey skulu ogna sær nýggja vitan. </p>
+<p>Tá vit skulu lýsa og greina mentanarforbrúk og mál nýtslu, er ein av høvuðsspurningunum, hvørji tilboð standa teimum í boði á teimum ymsu málu num og serliga á føroyskum.</p>
+<p>Eitt øki, har útboðið er avmarkað á føroyskum, er tað, vit á gerandismáli kalla kiosklitteraturur (vikubløð, mánaðarbløð, teknirøðir, lættisoppa bøkur, o.s.fr.) og dagbløð.</p>
+<p>Tað er ósannlíkt, at tað fer at løna seg at útgeva nógvan kiosklitteratur á einum marknaði við einans 48.000 fólkum. Á sama hátt vita vit, at føroysk dag og mánaðarbløð hava trupult við at bera seg.</p>
+<p><em type="bold">Tey eru ung á enskum </em>Samanumtikið síggja vit, at tað nógva av tí, ið eyðkennir ungdómsmentan í dag, er á enskum máli – filmar, telduspøl, sjónvarpsrøðir og tónleikur. Tey hyggja at sjónvarpi og DVD, lurta eftir tónleiki og spæla telduspøl á enskum. </p>
+<p>Hyggja vit at føroyskari sjón og útvarpsframleiðslu hjá Kringvarpi Føroya, vísir støðan seg at vera, at nærum einki sjónvarp verður framleitt til hendan</p>
+<p><em type="bold">Tey ungu lesa teknirøðir og bløð á donskum, meðan tey lesa bæði føroyskar og danskar bøkur. </em></p>
+<p><em type="bold">Tey senda sms-boð og teldupostar á føroyskum fyri tað mesta. </em></p>
+<p>Sambært hagtølum frá Hagstovu Føroya influttu vit í árinum 2000 185 tons av kiosklitteraturi, í 2005 385 tons, meðan vit innfluttu 298 tons í 2010. Sum vit vita, er tað mesta av hesum tilfari á donskum.</p>
+<p xml:lang="eng"><em type="bold">Mynd 1.1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p xml:lang="nob"><em type="bold">Danskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2 1,54 1,78 2,50 2,50 2,74 3,59 4,07 4,22 4,55 4,76 </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p><em type="bold">Lesur bløð ella teknirøðir </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Føroyskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 1 1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir 1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir 1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir 1,72 1,80 2,09 2,10 2,18 3,34 4,07 4,50 4,64 4,77 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p xml:lang="isl"><em type="bold">Hyggar at sjónvarpi </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p xml:lang="swe"><em type="bold">Enskt </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 3 1.81 2.25 2.57 2.75 3.06 3.14 3.33 3.46 3.59 4.19 </em></p>
+<p xml:lang="isl"><em type="bold">Lurtar eftir útvarpi </em></p>
+<p xml:lang="isl"><em type="bold">Sendir sms </em></p>
+<p><em type="bold">Sendir teldupost </em></p>
+<p><em type="bold">Lurtar eftir tónleiki </em></p>
+<p xml:lang="nno"><em type="bold">Hyggur at video/DVD </em></p>
+<p><em type="bold">Spælir telduspøl </em></p>
+<p><em type="bold">Er á internetinum </em></p>
+<p><em type="bold">Hyggur at sjónvarpi </em></p>
+<p><em type="bold">Lesur bøkur </em></p>
+<p><em type="bold">Lesur bløð og teknirøðir </em>19 </p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>TrímælTur gerandisdagurmál bólkin á føroyskum. Og tó, ein ungdómssend ing var á skránni í sjónvarpinum í 2008 og nú trý ár seinni (2011) eru 6 ungdómssendingar á skránni í før oyska sjónvarpinum. Vit vita ikki, um fleiri ungdómssendingar eru í væntu. Hinvegin so eru tvær føroyskar ungdómssendingar í útvarpinum um vikuna í løtuni.</p>
+<p>Alment kunnu vit siga, at politikkurin hjá Kringvarpi num sýnist at vera, at tey velja at nýta nakað av resursum upp á málbólkin børn og so vóna, at tey sum vaksin ‘venda aftur til føroyskt sjón og útvarp’.</p>
+<p>Sambært upplýsingum frá Kringvarpi Før oya vóru í 2004 á leið ein fjórðingur av øllum sjónvarps sendingunum á føroyskum, ein fjórðingur á øðrum norður lendskum málum og restin á øðrum málum – fyrst og fremst á enskum. Viðmerkjast skalat Kring varp Føroya ikki hevur haldgóð hagtøl, ið vísa, hvussu støðan veruliga er í dag. Málstevnunevndin mælir í sínari frágreiðing til, at allar útlendskar sendingar til børn og ung, ið Kringvarp Føroya sendir, antin verða tekstaðar ella lisnar inn á føroyskum.</p>
+<p><em type="bold">Á internetinum eru nógv mál </em>Tá tey eru á netinum (kjatta, flyta yvir á egnu teldu, leita og spæla telduspøl) vísir tað seg sum um, at tey nýta tey trý málini nærum eins nógv. Hvussu skiftið er ímillum tey trý málini (og ivaleyst onnur við) er ilt at siga. Ein nærri kanning av skiftinum ímillum før oyskt og ymisk onnur mál á internetinum hevði givið okkum eitt virðismikið innlit í leiklutin og funktiónina, sum tey ymsu málini hava. Eitt nú hvørjar grundgevingar eru og hvat eggjar teimum til at nýta tað eina málið fram um onnur  hetta serliga í mun til føroyskt. </p>
+<p><em type="bold">Endi </em>Kanningin millum føroyska ungdómin vísir, at leikluturin hjá enskum í gerandisdegnum økist, og at enskt bjóðar donskum av á summum økjum í føroyska samfelagnum. Nærum helmingurin av næmingunum vísa á enskt sum mál nummar 2. Henda broyt ing fer fram samstundis sum útboðið av før oyskum mentanarforbrúksvørum til ungdómin er sera avmarkað – bæði í loftbornum og prentaðum miðlum. </p>
+<p>Við førda málpolitikkinum í huga, har so stórur dentur verður lagdur á at reinsa føroyskt fyri tí fremmanda og korpusplanlegging, kunnu vit vænta, at fjarstøðan ímillum talaða og skrivaða málið fer at økjast. Enskt fer at hava størri ávirkan á talumálið. Vandi er fyri, at konfliktin ímillum førda málpolitikkin og tann málsliga veruleika, sum føroyingar liva og virka í, fer at økjast enn meira.</p>
+<p>Úrslitini frá kanningini millum tey ungu vísa, at hóast ein býr í fjarskotnum økjum, sum eitt nú Føroyum, er neyðugt at duga nógv mál. Tey ungu liva og virka í einari sera umskiftiligari tíð. Ivasamt er, um førdi málpolitikkurin er ein gongd leið at røkja og verja føroyskt í framtíðini.</p>
+<p xml:lang="isl"><em type="bold">Framferðarháttur til myndirnar </em></p>
+<p>Valmøguleikarnir til teir ymsu gerandsligu aktivitetirnar (hyggur at sjónvarpi o.s.fr.) vóru:</p>
+<p><em type="italic">Sera ofta, ofta, av og á, sjáldan </em>og <em type="italic">ongantíð </em>.- Svarini til aktivitetirnar fáa eitt virði. Tað hægsta virðið ( <em type="italic">sera ofta </em>) fær 5 og tað lægsta virðið ( <em type="italic">ongantíð </em>) fær 1.- Eitt miðaltal verður roknað út og úrslitini skipað sum víst á myndunum 1, 2 og 3. </p>
+<p><em type="bold">Keldur </em></p>
+<p>Hagstova Føroya. www.hagstova.fo</p>
+<p xml:lang="eng">Karin Jóhanna L. Knudsen (2010). ”Language use and linguistic nationalism in the Faroe Islands.” International Journal of Multilingualism, Volume 7 Issue 2 2010: 128-146).</p>
+<p>Kringvarp Føroya. www.kringvarp.fo</p>
+<p><em type="bold">Tey hyggja at sjónvarpi og DVD, lurta eftir tónleiki og spæla telduspøl á enskum. </em></p>
+<p xml:lang="deu">FRØÐI 1/201120</p>
+<p>Ferðing og sTøðuFesTi hjá kópi</p>
+<p xml:lang="isl"><em type="bold">Bjarni Mikkelsen </em>bjarnim@ngs.fo </p>
+<p>Føroya Náttúrugripasavn</p>
+<p>Kópurin er avdúkaður at vera heimkærur og siðbundin í síni atferð. Kópur nýtir nógva tíð á heimstaði sínum, har hann stundum eisini liggur uppi á landi. Tá ið útlongsil kemur á hann, so vitjar hann somu øki uppaftur. Kópi dámar best at ferðast fram við sjóvarmálanum, og hann leitar sær sjáldan langt úr landi.</p>
+<p>Ferðing ogstøðufesti hjá kópi21</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Ferðing og sTøðuFesTi hjá kópi</p>
+<p><em type="bold">Fylgisveinar lurta og rokna </em></p>
+<p>Fylgisveinar, ið sveima 850 km uppi í luftini, taka ímóti signalum frá sendaranum og rokna út, hvar kópurin er staddur. Sendarin er forritaður at byrja at senda klokkan sjey á morgni. Eitt signal verður sent hvørji 45 sekund, tó bert um kópurin er undan, inntil hann hevur rokkið 250 signal. Henda mannagongd verður nýtt fyri at fáa battaríið í sendaranum at vara sum longst. Hetta hevur við sær, at tað hvønn dagin bert fáast nakrar fáar positiónir fyrrapart. Hvør fylgisveinur er yvir kópinum bert í 10 minuttir hvørja ferð. Hesa tíðina skal hann móttaka minst fýra signal fyri at rokna eina neyva positión. Og tess fleiri signal koma, neyvari verður positiónin. Upplýsingar um kóparnar verða sendir til støðir á landi, og Náttúrugripasavnið kann heinta hesar á alnetinum sama dag. Bert positiónir neyvari enn 1000 metrar verða nýttar til at seta farleiðina hjá kópunum á kort. Sendararnir virkaðu úr 123 til 286 dagar.</p>
+<p>Ein lýsing av ferðing og støðufesti hjá kópi tekur støði í tíggju føroyskum láturkópum, ið hava fingið sendara, ið samskiftir við fylgisvein, festan á grúkin. Og hvussu háttaðu so kóparnir sær? Jú, heildarmyndin vísir, at teir javnan ferðast millum oyggjarnar og nakað út á landgrunnin (Mynd 1). Men verður hugt nærri at atburðinum hjá teimum einstøku kópunum, so verður myndin meira fjølbroytt. Tí tað er rættiliga stórur munur á, hvussu teir einstøku kóparnir tíggja sær. Hvør kópur hevur sítt egna háttalag, bæði tá hann ferðast, og tá hann støðast. Tað er sjáldan, at tveir kópar tíggja sær líkt. Heildarmyndin lærir okkum, at kópur er trúfastur móti teimum tilhaldum, honum yndar, og hann er rættiliga siðbundin í tí, hann ger. <em type="bold">17 fjórðingar úr landi </em>Kanska eitt tað fyrsta, ein bítur merki í, tá farleiðin hjá kópunum er stungin út í kort, er, at kópurin fer ikki langt úr landi (Mynd 1). Nei, fyri tað mesta støðast teir í sjóvarmálanum. Teir reika lítið um firðir og sund, men halda seg fyri tað mesta at brimbardu klettunum, burtur frá fólki. </p>
+<p xml:lang="eng"><em type="bold">Mynd 1 </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 2 </em></p>
+<p>Tað kemur nærum ikki fyri, at teir fara útfrá har dýpið er meir enn 100 metrar. Bert tríggir av tíggju kópum reika nakrantíð út á slík dýpi. Tað longsta, nakar kópur var úr landi, var 17 fjórðingar. Hví man so vera? Helst er tað tí, at kópurin ómakar sær ikki óneyðugt, heldur ikki tá hann leitar eftir føði. Láturkópur, ið vanliga veiðir fisk á botni, er kringur at leita eftir føði og kavar lættliga niður á fleiri hundrað metra dýpi. Men velur hann hesa framferð, so brúkar hann bæði meira tíð og meira orku enn neyðugt er. Eygleiðir tú ein kóp, so tykist hann altíð makligur og hevur lítlan skund. Kópurin nýtir nokk ikki nógva tíð hvørt samdøgur at finna tað, honum tørvar til matna, og hann hevur ikki fyri neyðini at fara hvørki langt ella djúpt eftir føði. Men hvagar leita so kóparnir?</p>
+<p><em type="bold">Í Mykinesi er gott at vera </em>Undir Svínoynni merkti Náttúrugripasavnið tveir kópar – hetta var sama dag og á júst sama stað (Mynd 2). Hesir kópar vóru somuleiðis teir minstu, ið bóru sendara. Tað vísti seg, at tá kóparnir ferðast </p>
+<p><em type="bold">Tað er sjáldan, at tveir kópar tíggja sær líkt. </em></p>
+<p><em type="bold">Tað longsta, nakar kópur var úr landi, var 17 fjórðingar. </em></p>
+<p xml:lang="deu">FRØÐI 1/201122</p>
+<p>Ferðing og sTøðuFesTi hjá kópifrá Svínoynni, ja, so enda teir altíð í Mykinesi. Og aftur til Svínoyar fara teir eisini altíð. Hin størri, ið eisini er árið eldri, er longri um ferðina og steðgar ofta á undir Ennibergi ella á Víkum.</p>
+<p>Harafturímóti brúkar ársungin bert ein dag um túrin, ella tveir dagar, um hann steðgar á við Lítlu Dímun. Farleiðin til Mykinesar er kortini ymisk. Størri kópurin ferðast á trimum túrum hvørja ferð norðan fyri oyggjarnar, meðan hin minni á sínum fimm ferðum altíð ferðast sunnan fyri meginøkið. Helst vóru hetta farleiðirnar, ið førdu teir báðar til Mykinesar á fyrsta sinni. Nú teir hava lært, at í Mykinesi er gott at vera, so halda teir seg til kendar farvegir, tá teir ferðast til og frá oynni. Gud viti, um teir nakrantíð læra, at fleiri vegir føra til Mykinesar?</p>
+<p>Tann minni kópurin ferðast upp í 50 fjórðingar um samdøgrið, ella í meðal fýra kilometrar um tíman. Hetta møðir so ikki ein lítlan kóp, kanska tí at hann dugir at passa sær sjóvarfallið. Báðir kóparnir ferðast í eitt tíðarskeið upp á seks  sjey mánaðir javnan til hitt sama økið í ein landsynning úr Svínoynni, so har er okkurt gott til matna. Minni kópurin veiðir yvirhøvur bert í hesum øki, meðan hin størri harumframt støðast norður úr Viðoynni og við Mykines. Hesin kópurin er jú árið eldri, og fleiri lívsroyndir gera kanska, at hann kennir til fleiri góð pláss at leita sær føði.</p>
+<p><em type="bold">Einans til Fugloyar og Stóru Dímun </em>Tilsamans fimm kópar vórðu merktir eystan fyri Nólsoynna (Mynd 3). Tveir av kópunum høvdu </p>
+<p><em type="bold">Einasta kópaslag í 150 ár </em></p>
+<p>Láturkópur er einasta kópaslag í Føroyum. Fyri knapt tvey hundrað árum síðani doyði steinkópurin út, og hann hevur ongantíð megnað at taka oyggjarnar aftur, hóast at hann búleikast í grannalondunum. Hesir eru einastu kópar hjá okkum síðan landnám. Men kanska onnur kópasløg hava búleikast í oyggjunum áðrenn hetta? Av sjáldsomum kópagestum kunnu nevnast grønlandskópur, ringkópur, roysningur og ikki minst granarkópur, ið hóast hann hevur sítt tilhald í Íshavinum, hevur verið rættiliga títtur í Føroyum seinastu árini.</p>
+<p xml:lang="eng"><em type="bold">Mynd 3 </em></p>
+<p xml:lang="eng"><em type="bold">Mynd 4 </em></p>
+<p><em type="bold">Nú teir hava lært, at í Mykinesi er gott at vera, so halda teir seg til kendar farvegir, tá teir ferðast til og frá oynni. </em>23 </p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Ferðing og sTøðuFesTi hjá kópi</p>
+<p><em type="bold">Í gummibáti við garni og lími </em></p>
+<p>Kóparnir eru fingnir við at seta garn fyri teir á grunnum vatni. Komnir í garnið, vórðu teir alt fyri eitt tiknir inn í gummibát og fingnir niður í tættmeskaðan netaposa, so at teir ikki fingu bitið frá sær. Síðan vórðu teir vaskaðir um grúkin við acetone og spritt, fyri at reinsa og fáa sendaranum gott festi. Sendarin varð límaður á tætta feldin á grúkinum. Og einar tíggju minuttir seinni var sendarin fastur og kóparnir vórðu lirkaðir fyri borð og fingu frælsið aftur.</p>
+<p>Kópur loðsar um veturin, kanska í tíðarbilinum januar til mars, eins og í Bretlandi. Tá losnar sendarin av, og sambandið við kópin slitnar. Flestu sendarar tagnaðu frá januar og nakað út í mars. Kortini slitnaði sambandið við tvær opnur í desember. Kanska kópurin í Føroyum loðsar nakað fyrr enn í Bretlandi? Sambandið slitnaði sum oftast fyrri við kvennkópin, og tað passar væl, tí kvennkópurin loðsar áleið ein mánað fyrr enn kallkópurin.sermerktan atburð. Eini kópurin bar av øllum í at vera støðufastur. Tí teir 184 dagarnar við slóð var hann bert eystan fyri Nólsoynna, burtursæð frá einum túri vestur um oynna. Hin kópurin fór til Fugloyar sama dag, hann var merktur, og hann vendi ongantíð aftur (víst á Mynd 2). Hesin kópurin hevði helst sín uppruna í Fugloy, men var av tilvild undir Nólsoynni tann dagin, hann var fingin og merktur. Hinir tríggir kóparnir ferðast javnan av oynni. Atferðin hjá hesum kópum má sigast at vera rættiliga lík, tí teir ferðast so at siga bara til Fugloyar og Stóru Dímun. Ein kópur ferðast til báðar oyggjarnar, meðan annar fylgir honum bert til Fugloyar og hin bert til Stóru Dímun. Nógv góð pláss eru á farleiðini, har teir kunnu steðga á, men kortini so fara teir altíð beina kós til hesar báðar fjarskotnu oyggjar. Her er friður og gott at vera, so hví steðga á? Merkisvert er, at kóparnir báðir, ið fara til Stóru Dímun, ongantíð fara um fjørðin til Lítlu Dímun.</p>
+<p><em type="bold">Hittast eittans stað </em>Tríggir kópar vórðu merktir fyri vestan, harav tann eini var fingin á Víkum norðantil á Vágoynni (Mynd 4). Hesin kópur er støðufastur og heldur seg tætt undir landi. Hann er fimm túrar í Mykinesi, teir 214 dagarnar, slóðin varð fylgd. Men hann fer ongan túr eystur á Slættanestanga, hóast teinurin hagar bert er tveir fjórðingar. Og hann vitjar í sjálvum Mykineshólmi bert ta einu ferðina. Kanska eitt sindur óvæntað, tí hólmurin var annars tilhald hjá øðrum kópum, ið slóðaðu hagar. Hesin kópur helt seg tískil innanfyri eitt rættiliga avmarkað øki í góðar sjey mánaðir. </p>
+<p>Hinir báðir kóparnir vórðu merktir sama stað vestantil á Sandoynni (Mynd 4). Tann størri kópurin ferðast yvirhøvur til Mykinesar, meðan minni kópurin javnan ferðast mótsetta kós, móti</p>
+<p><em type="bold">Heimsins minsti stovnur </em></p>
+<p>Føroyski stovnurin av láturkópi er mettur at telja um 2-3.000 kópar, og er allarhelst minsti sjálvstøðugi stovnur yvirhøvur. Ætlandi verður stovnurin mettur vísindaliga í næstum. Gjarna verður láturkópastovnurin mettur við at telja nósar og rokna stovnin við støði í lutfalli millum nósar og eldri kóp. At telja kóp á og framvið landi er ikki neyvt, tí ein ókendur partur av kópunum er altíð burtur frá landi. Størsta avbjóðingin, tá nósar skulu teljast, vil verða óstøðuga veðrið seint á heysti, tá kópurin makast, og atkoma til pláss, har kópur látrast.</p>
+<p>Til ber eisini at meta um kópastovnin við at taka vangamynd av opnum. Hesar hava sermerkt litspæl á vanganum og kunnu eyðmerkjast. Við at vitja øki og oyggjar uppaftur ber til sum frá líður at hava skrásett flestu opnurnar, og sostatt hava eina góða meting av samlaða talinum av opnum. Stovnurin verur so roknaður við støði í lutfallinum av opnum í stovninum.</p>
+<p>Føroyski kópastovnurin er ávirkaður frá fleiri síðum. Størstu ávirkan hevur veiða í samband við aling á sjónum. Kópur ger seg inn á alifisk, og tí er loyvi givið at skjóta kóp við alibrúkini. Ætlandi verður skipað skráseting av veiðuni, so neyv hagtøl vera tøk. Illveður í látratíð kann eisini ávirka stovnin, um nósar skola av látrunum og doyggja. Fækkast talið av góðum látrum vegna berglop og annað, so kann hetta eisini ávirka stovnin. Bóghvítuhvalur er vorðin árligur gestur um okkara leiðir. Ætlanin er at kanna, hvørja ávirkan bóghvítuhvalur kann hava á stovnin av láturkópi.</p>
+<p xml:lang="deu">FRØÐI 1/201124</p>
+<p>Ferðing og sTøðuFesTi hjá kópi</p>
+<p>Lítlu Dímun. Av tí sama so møtast teir bert eittans stað, og tað er um leiðina, har teir vórðu merktir. Tá atburðurin er so ymiskur, so ber væl til siga, at teir læra so einki av hvørjum øðrum, tá teir hittast. Tann minni heldur seg undir landi og heldur altíð beina kós á sínum túrum til og frá Dímun. Hin størri, aftur ímóti, er nógv útiá, og tann eina dagin er hann so farin 17 fjórðingar úr landi.</p>
+<p><em type="bold">Ungur nemur gamal fremur </em>Tað er ein ávísur munur á atburðinum hjá minnu og størru kópunum. Teir smáu kóparnir reika meira og ferðast eisini longur úr landi. Men sum kópurin eldist, so fer hann at støðast longri og longri tíð á heimstaðnum. Teir størstu kóparnir ferðast heldur minni, hava færri pláss, teir vitja, og fara heldur ikki so langt úr landi. Gomlu kóparnir hava drúgvar lívsroyndir, og tað tykist sum um kópur gerst meiri siðbundin og støðufastur sum hann eldist. Teir minnu kóparnir, ið yvirhøvur farta meira og eru meir útiá, hava kanska minni frið á sær og reika runt sum ein liður í at ogna sær lívsroyndir. </p>
+<p><em type="bold">Kópur avdúkar </em>Veðrið er stundum ótýdligt í Føroyum. Kortini tykist hetta ikki at nerva kópin. Merktu kóparnir leitaðu sær ikki skjól fyri illveðri, men stóðu hinvegin fastir við brimbardu strendurnar. Tað er eyðsæð, at tað er á teimum fjarskotnu útoyggjunum, at kópurin trívist best. Her ræður eisini friður. Einstøku kóparnir vístu ymiskan atburð, men heildarmyndin avdúkar kortini eitt </p>
+<p><em type="bold">Tað er eyðsæð, at tað er á teimum fjarskotnu útoyggjunum, at kópurin trívist best. </em>25 </p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Ferðing og sTøðuFesTi hjá kópiávíst mynstur. Kópur úr Svínoy ferðast oftast til Mykinesar, kópur úr Nólsoy ferðast til Stóru Dímun og Fugloyar og kópur við Sandoynna ferðast til Mykinesar og á Dímunarleiðina. Mest vitjaðu oyggjar vóru Mykines, Fugloy og Stóru Dímun. Vitjandi kóparnir í Mykinesi hildu mest til á flesjunum vestan fyri hólmin og norðan fyri oynna. Hetta er yvirhøvur nokk so týðiligt, at kópur er mest á einum staði, og ferðast ikki ofta runt um oyggjarnar.</p>
+<p>Myndin, sum kóparnir her hava málað við slóð síni, er nakað kám, tí talan er bert um tíggju kópar. Somuleiðis speglar myndin bert atburð fyrrapart á degi. Myndin hevði klárnað, um fleiri kópar</p>
+<p xml:lang="isl"><em type="bold">Kvidnar opnur </em></p>
+<p>Gamalt er, at kópur byrjar at látrast á mikkjalsmessu. Hetta samsvarar væl við atburðin hjá trimum opnum, ið vórðu kvidnar og bóru hvølp í lívi. Tí júst á mikkjalsmessu, 29. september, slitnaði sambandið við einu opnuna. Tá er hon helst farin inn á okkurt látur, soleiðis at tað skuggaði fyri sambandið til fylgisvein. Hinar opnurnar fóru á látrini ávikavist 10. oktober og 6. november. Hetta vísir, at tað er eitt vist spenn í makingartíðini hjá láturkópi. Opnurnar vóru á látrunum í ávikavist 22, 17 og 15 dagar. Nósin sýgur opnuna í knappar tríggjar vikur, so tíðarbilini passa væl. Opnurnar vóru allar nærhendis staðnum, har tær vórðu merktar beint fyri og eftir tíðina uttan samband, so mest sannlíkt er nósin lagdur nærhendis.</p>
+<p><em type="bold">Gomlu kóparnir hava drúgvar lívsroyndir, og tað tykist sum um kópur gerst meiri siðbundin og støðufastur sum hann eldist. </em>vórðu merktir, serliga á nýggjum økjum norðan og sunnantil í Føroyum. Við fleiri slóðum hevði borið til at sammett atburð hjá kópi av ymiskum kyni og stødd og frá fleiri økjum. Sendararnir eru mentir nógv, so nú ber til at fáa fleiri og neyvari positiónir frá kópunum. Tá kundi verðið kannað, um ferðing og atburður broytist alt eftir tíðini á samdøgrinum, og um kópurin í gerandisdegnum tekur atlit til sjóvarfall og veður. Mest átrokandi fyri láturkópin í Føroyum er at fáa gjørt eina stovnsmeting. </p>
+<p xml:lang="deu">FRØÐI 1/201126</p>
+<p>Føroyskt FlytiFuglaatlas á veg</p>
+<p>Aage V. Jensen grunninum fyri at takka fekk ringmerkingarstøðin á Zoologisk Museum í Keypmannahavn í samstarvi við Náttúrugripasavnið í Føroyum høvið til at savna alt tað søguliga flytifuglatilfarið, sum er uppbygt av sjálvbodnum eldsálum, ið hava ringmerkt fugl í Føroyum í næstan 100 ár. Atlasið verður givið út á donskum og enskum og verður eitt gott ískoyti til tær útgávurnar, sum frammanundan eru komnar út, millum aðrar tann grønlendska í 2003 og tann danska í 2006. Tað serliga við hesum atlasinum er, at øll ringmerkingarhagtølini eru telduskrásett líka aftur til 1912, soleiðis at útgávan gevur møguleika fyri víðari gransking. Ætlandi kemur atlasið út í vár.</p>
+<p xml:lang="nob"><em type="bold">Ringmærkningscentralen, Zoologisk Museum, Københavns Universitet, ringing@snm.ku.dk </em></p>
+<p>Føroyskt flytifuglaatlas á veg</p>
+<p xml:lang="isl"><em type="bold">Mynd 1. Ringmerkt likka </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="spa">ANs El</p>
+<p xml:lang="eng">I sIVERTsEN</p>
+<p><em type="bold">Sjúrður Hammer </em>shammer@snm.ku.dk </p>
+<p xml:lang="nob">Statens Naturhistoriske Museum í Keypmannahavn27</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Føroyskt FlytiFuglaatlas á veg</p>
+<p>Fuglalívið í Føroyum hevur í langa tíð verið eitt týdningarmikið tilfeingi, bæði mentanarliga og fíggjarliga. Vit hava helst størri kunnleika til okkara fugl enn fólk á meginlandinum, og vit gleðast um at kunna vísa útlendingum okkara náttúru og serliga okkara fuglabjørg. Hvussu flytifuglar koma og fara hevur í øldir verið ein áminning um skiftandi árstíðir, og nær, ið ávísu sløgini koma til landið, verður enn nevnt í álmanakkum og miðlum. Serliga nú er tíðin, tá ið flytifuglar trúfastir koma aftur til Føroya, og er hetta ein áminning um, at summarið er í nánd. Men hvar er fuglurin, tá ið hann ikki er í Føroyum? Ferðast allir somu leið? Halda teir til úti á havinum? Hvussu gamlir gerast teir? Koma teir aftur til somu bøli ár um ár?</p>
+<p>Okkara fjarskotna støða í Norðuratlants havi ger</p>
+<p>Før oyar serliga spennandi, tá ið sjáldsamir, út lúgv aðir smá fuglar finna sær onkran urtagarð ella seta seg á skip í før oyskum sjógvi. Men flytifuglar eru samstundis ein týdningarmikil áminning um, at Føroyar eru ikki einsamallar í heiminum. At náttúran, sum vit ynskja at njóta og gagnnýta, ikki altíð er avmarkað av landa mørkum, og hvussu vit velja at røkta okkara náttúru eisini hevur ávirkan aðrastaðni og umvent. Tað finnast eisini undirsløg av fuglum, sum antin einans finnast í Føroyum og møguliga hjá okkara tætt astu grannum, og hetta eru stovnar, sum vit á ein serl igan hátt hava ábyrgd av at verja. Tað er tí, at tað hevur týdning at kenna flytingina hjá fugli millum lond, men eisini millum ávís støð í Føroyum. Serliga eru føroysku stovnarnir av drunnhvíta, havhesti, skrápi og lomviga stórir og týdningarmiklir stovnar í altjóða høpi. Zoologisk Museum í Keypmannahavn stendur fyri fyriskipanini av ringmerking í Danmark, Grønlandi og Føroyum, og tað er her, at fráboðanir verða skrásettar og goymdar. Í Danmark finnast ymiskir ringmerkingarbólkar, og ringmerkingin í Føroyum hevur við JensKjeld Jensen á odda seinastu 34 árini virkað sum ein slíkur bólkur við luttøku av bæði føroyingum og útlendingum.</p>
+<p>Av og á hava verið gjørdar fleiri útferðir til Føroya, bæði úr Danmark, Onglandi og Týsklandi. Týskarin, Hans Rudolphi, gjørdi tær fyrstu ringmerkingarnar í Føroyum í 1912. Tað var í sambandi við eina landafrøðiliga útferð í Føroyum, at hann ringmerkti 45 likkur við týskum ringum. Tríggir ringar vórðu afturboðaðir, og hetta var við til at geva tær fyrstu ábendingarnar um ferðingina hjá likku fram við strondini í Marokko og Portugal. Síðani hava ymisk fólk, bólkar og stovnar ringmerkt fugl í Føroyum.</p>
+<p>Enskar rannsóknarferðir hava eisini verið í Føroyum, har millum annað granskarar í 1930árunum vóru her fyri at kanna, hvussu skrápur mundi klára at finna heim aftur eftir at vera fluttur frá sínum</p>
+<p><em type="bold">Serliga eru føroysku stovnarnir av drunnhvíta, havhesti, skrápi og lomviga stórir og týdningarmiklir stovnar í altjóða høpi. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 2. Ringmerkt stórtíta og gráspurvur </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">JENs-K</p>
+<p xml:lang="isl">JEld J</p>
+<p xml:lang="deu">ENsEN</p>
+<p>Samskiparin av verkætlanini er Sjúrður Hammer, og afturat sær hevur hann Jens-Kjeld Jensen og Doretu Bloch í Føroyum, og í Keypmannahavn Jesper J. Madsen, Kasper Thorup, Kjeld T. Pedersen, Mikkel Lausten, Jette Fredslund, Mathilde Lerche-Jørgensen og Rune Tjørnløv.</p>
+<p><em type="bold">Mynd 3. Fráboðanarbræv um stara, sum varð funnin í Onglandi. Hetta var samstundis tann einasti starin, sum nakrantíðer fráboðaður uttanlands frá. Mest sannlíkt er kortini, at tað ikki er talan um ein upprunaligan føroyskan stara. </em></p>
+<p xml:lang="deu">FRØÐI 1/201128</p>
+<p>Føroyskt FlytiFuglaatlas á vegheimstaði. Úr Danmark hevur Nordvestjysk Ring mærkningsgruppe verið regluliga í Føroyum síðan 1983, og tann bólkurin hevur serliga ringmerkt drunnhvíta, spógva og kjógva. Hetta hevur millum annað givið fráboðanir um spógva úr GuineaBissau í Vesturafrika, og tveir kjógvar hava verið fráboðaðir úr Suðurafrika.</p>
+<p>Í 1994 bygdi JensKjeld Jensen við fígging frá</p>
+<p>Nordisk Ministerråd eina sokallaða Helgolandsrúsu mitt í bygdini í Nólsoy, sum er gjørd til at fanga smáfugl við. Føroya Náttúrugripasavn hevur átikið sær raksturin av henni, og hon hevur fingið stóran týdning fyri ringmerking í Føroyum, serliga við atliti til sjáldsamar flytifuglar. Fellan er opin alt árið, og umleið 300500 fuglar verða fangaðir og ringmerktir hvørt ár. Til dømis eru bringureyði og leyvljómari fangaðir, sum báðir vórðu ringmerktir tætt við Stokkhólm tað sama heystið og høvdu upp á hálvan annan mánað flogið 1.300 kilometrar í ein útnyrðing til Nólsoyar. Vanliga flytur svenskur bringureyði seg í ein útsynning um heystið, og leyvljómari flytur seg suðureftir.</p>
+<p>Tað er bert við góðum sam starvi við almenn ingin og vegna sjálv boðin fólk, sum ring merkja, at hetta flyti fuglaatlasið letur seg gera. Ring merk ingar krevja ikki bert nógv sjálv boðið arbeiði, men frá boðanir av ringum ella deyðum fugli eru sera týdn ingar miklar at fáa innsavnaðar. Fyri ávís fuglasløg er lutfallið fyri fráboðanir mótvegis tali av ringmerkingum undir 1%, so hvør fráboðan hevur stóran týdning. Ring merking av vanligu veiðu fugla sløgunum, so sum hav hesti og lunda, hevur verið gjørd í tøttum sam starvi við fleygingar fólk kring landið. Hetta gevur serligt høvi til at granska hesi sløgini sammett við nógv av okkara granna londum, har ið fuglurin er friðaður.</p>
+<p><em type="bold">Drunnhvíti </em>Eitt av heimsins størstu drunnhvítabølum er at finna í Nólsoy, mett til 100.000 pør. Føroyski stovnurin er samanlagt mettur til 250.000 pør. Tað er eisini í Nólsoy, at flestu drunnhvítar er merktir. Teir verða fangaðir í neti, sum verður sett upp í bølinum ella aðrastaðni á oynni um náttina. Nógvar áhugaverdar </p>
+<p><em type="bold">Mynd 4. Jens-Kjeld Jensen ringmerkir lundapisu </em></p>
+<p xml:lang="isl"><em type="bold">Mynd 5. Ringmerkt terna </em></p>
+<p><em type="bold">Ring merking av vanligu veiðu fuglasløgunum, so sum havhesti og lunda, hevur verið gjørd í tøttum sam starvi við fleygingar fólk kring landið. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="spa">ANs El</p>
+<p xml:lang="eng">I sIVERTsEN</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="deu">Esb</p>
+<p xml:lang="isl">ERN í Ey</p>
+<p xml:lang="vep">ÐANsTo</p>
+<p xml:lang="olo">Vu29</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Føroyskt FlytiFuglaatlas á veg010020030040050060005000100001500020000250001911-19151916-19201921-19251926-19301931-19351936-19401941-19451946-19501951-19551956-19601961-19651966-19701971-19751976-19801981-19851986-19901991-19951996-20002001-20052006-2009</p>
+<p xml:lang="isl">Mærkninger (n = 99.563) genmeldinger (n = 3.108)</p>
+<p><em type="bold">Tíðarbýti av ringmerking og fráboðanum býtt sundur í fimm ára tíðarskeið </em></p>
+<p><em type="bold">Fráboðanarstøð av drunnhvíta, sum er ringmerktur í Føroyum, og ringmerkingarstøð av útlendskum drunnhvíta, sum er fráboðaður í Føroyum. </em></p>
+<p><em type="bold">Talva við drunnhvítahagtølum </em>upp lýsingar eru komnar orsakað av hesum arbeiði num, millum annað fimm fráboðanir úr syðra Afrika og ein skotskur drunnhvíti, ið varð fangaður bert eitt samdøgur eftir, at hann varð ringmerktur í Skotlandi, 443 kilometrar burturi. Ein av heimsins elsti kendi drunnhvítum varð fangaður í Nólsoy, 31 ár eftir at hann varð merktur á Foula í Hetlandi. </p>
+<p><em type="bold">Flytifuglaatlasið </em>Síðani 1912 og til og við 2009 eru 99.563 fuglar og 124 fuglasløg ringmerkt í Føroyum. Talríkastu sløgini eru drunnhvíti við 37.530 fuglum, terna við 12.728, havhestur við 8.762, lundi við 6.394 og lomvigi við 6.357 fuglum. Millum teir meiri sjáld somu fuglarnar kunnu nevnast amerikanskur fjall vákur, velblái, siljuljómari, skallabláur ljómari og kaukasusljómari, sum einans var tann triðja skrá setingin í Evropa. </p>
+<p>Til og við 2009 eru fleiri enn 3.100 afturboðanir av fugli ringmerktur í Føroyum. Fráboðanir eru komnar frá øðrum evropeiskum, afrikanskum og amerikanskum ringmerkingarstøðum, og samanlagt eru fleiri enn 1.800 útlendskir fuglar fráboðaðir í Føroyum. Flestar fráboðanir eru av lomviga (799), lunda (443), drunnhvíta (299), likku (281) og stara (216). Samanlagt eru fráboðanir av 52 fuglasløgum ring merktum í Føroyum og av 34 fuglasløgum ring merktum uttanlands og fráboðaðum í Føroyum.</p>
+<p>Føroyska flytifuglaatlasið fer at líkjast donsku útgávuni í bygnaði og skrivihátti. Hvørt fugla slag, sum vit hava afturboðanir frá, fær eina gjøgnum gongd, og tað verður eisini høvi til eina djúpari hag reiðing av teimum sløgunum, har ið nógv tilfar</p>
+<p><em type="bold">Hvat er ringmerking? </em></p>
+<p>Ringmerking er ein yvir 100 ára gamal háttur, ið verður nýttur at kanna flytingina hjá fugli. Ein lítil stál- ella aluminiumsringur verður festur um beinið á fuglinum við nummari og bústaði á. So verður vónað, at nakrir av fuglunum, sum møguliga doyggja ella verða veiddir, verða fráboðaðir hjá Zoologisk Museum í Keypmannahavn. Sjálvt um bert ein brotpartur av ringunum, sum verða ásettir, kemur afturíaftur, so gevur hetta tilfar eina góða ábending um ferðingina hjá fugli, og tað er tí av alstórum týdningi, at fólk, sum finna slíkar ringar, boða frá á røttum staði.</p>
+<p>Fyrstu ringmerkingarnar vórðu gjørdar av dananum H.C.C. Mortensen, vanliga kallaður <span type="quote" xml:lang="nob">”fugle-Mortensen”</span>, í 1899, har hann merkti starar á skrivstovu sínari á Viborg Katedralskole. Í langa tíð hevur ringmerking verið einasti háttur at kanna flytingina hjá fugli, og sjálvt um ymisk hátøknilig amboð, so sum fylgisveinasendarar og GPS-loggarar, nú eru tøk fyri fuglagranskarar, so hevur ringmerking givið eina stóra nøgd av vísindaligum tilfari um fuglar kring allan heim, sum vit ikki vildu verið fyriuttan. Tað er hetta, ið føroyska flytifuglaatlasið skal savna saman og útgeva, soleiðis at tað kann liggja sum grundarlag fyri víðari gransking innan fuglalívfrøði í Norðuratlantshavi.finst, merkingarhagtøl, afturmeldingarorsakir, vetrarsummarfráboðanir og so framvegis. Ætlanin er, at atlasið verður klárt á vári 2011, og at tað verður útgivið sum serprent av einum tíðarriti og sum internetútgáva, har tað skal vera gjørligt sjálvur at taka niður tær upplýsingar, sum ein er áhugaður í. Hetta kann vónandi vera við til at styrkja føroyska fuglafrøði og gransking í framtíðini.</p>
+<p>Hevur tú áhuga fyri ringmerkingararbeiði, ella møguliga hevur funnið ella sæð fugl við ringi á, so vilja Sjúrður Hammer, JensKjeld Jensen, Før oya Náttúrugripsavn ella Ringmerkingarstøðin á Zoo logisk Museum í Keypmannahavn sera fegin frætta. Nærri fæst at vita við at venda sær til Sjúrð Hammer.</p>
+<p xml:lang="krl">FRØÐI 1/201130sMÆruMotta</p>
+<p>Ein várdag við sól kanst tú fáa eygað á smá reyð til reyðbrún djór sitandi í vindeygakarmunum. Hetta eru smærumottur, ið hava funnin sær veg inn gjøgnum rivur ella líknandi framvið vindeyganum. Smærumotturnar gera tó ongan skaða, tær eru bara vilstar, og tær doyggja skjótt innandura, tí har er ov turt.</p>
+<p><em type="bold">Útsjónd </em>Smærumottan – á latíni <em type="italic">Bryobia praetiosa </em>– er ein pikkulítil motta, bert ein trífjórðingsmillimetur til støddar. Mottur eru ikki skordjór, men hoyra saman við millum annað eiturkoppum til spunararnar. Hetta hevur við sær, at smærumottan hevur 8 bein og ongan veingir. Tey fremstu beinini eru dupult so long sum hini seks, og tey verða brúkt til at nema við. Av liti er smærumottan reyð ella reyðbrúnlig, men liturin er ikki elvdur av, at hon sýgur blóð. Smærumottan livir av at súgva plantusevju. </p>
+<p><em type="bold">Lívið hjá smærumottunum </em>Hjá smærumottuni verður bert funnin kvenndjór, eins og hjá vakstrahústrantklukkuni1. Hetta hevur við sær, at smærumottan hevur moyarføðing (partenogenesis) og víggjar síni blóðreyðu egg niður í moldina ella í rivur í húsavegginum. Ein smærumotta víggjar umleið 70 egg og syrgir fyri, at tey hava tað turt og so heitt, at tey yvirliva veturin. Tær nýklaktu smærumotturnar líkjast teimum vaksnu, og tær skunda sær beinan vegin oman í </p>
+<p>Skaðadjór 12 <em type="bold">dorete Bloch </em>doreteb@ngs.fo </p>
+<p>Føroya Náttúrugripasavn</p>
+<p xml:lang="vep"><em type="bold">TEKn </em></p>
+<p xml:lang="eng"><em type="bold">In </em></p>
+<p xml:lang="est">AsTRId</p>
+<p xml:lang="vep">ANd</p>
+<p xml:lang="deu">REAsEN</p>
+<p><em type="bold">Smærumotturnar gera tó ongan skaða, tær eru bara vilstar, og tær doyggja skjótt innandura, tí har er ov turt. </em></p>
+<p xml:lang="krl">Smærumotta</p>
+<p><em type="bold">Mottur eru ikki skordjór, men hoyra saman við millum annað eiturkoppum til spunararnar. </em>31 </p>
+<p>FRØÐI 1/2011sMÆruMottagrasið at súgva plantusevju og annars krógva seg millum gras, bløð og grót. Tær skifta ham einar tríggjar ferðir, áðrenn tær eru vaksnar eftir einum tveimum vikum. Eitt ættarlið varir umleið ein mánað. Vanliga doyr smærumottan um heystið, og næsta ættarlið kemur fram úr egginum várið eftir. Tó ber til at finna smærumottur alt árið. Um várið fara tær ofta til stroks og sita í sólini á húsavegginum og kunnu tá koma inn í húsini.</p>
+<p><em type="bold">Útbreiðsla </em>Smærumottur eru at finna í øllum heimspørtum við fleiri sløgum, og hvørt slag er knýtt at hvør síni matarplantu. </p>
+<p><em type="bold">Hvussu forðar tú fyri, at smærumottan kemur innandura? </em>Smærumottan livir í grasi. Tá tær kunnu koma inn í húsini, er tað tí, at grasið veksur heilt inn til húsagrundina. Verður skervur lagdur á túnið runt húsini, bara ein hálvan metur, sleppa smærumotturnar ikki inn. Eisini er tað møguligt at gera eitt blómubeð upp á ein metur framvið januar februar mars april mai juni juli august september oktober november desember8.06.04.02.00.0grundini. Skerv og mold fáa smærumotturnar ikki gingið framvið. </p>
+<p>Eru smærumottur fyrst slopnar inn, er tað betri at dustsúgva enn at vaska fyri at fáa tær burtur aftur. Brúkar tú ein lappa at turka við, verður bert reyðar strípur at síggja. Sita nógvar á húsagrundini, ber eisini til at dustsúgva her.</p>
+<p><em type="bold">Tær nýklaktu smærumotturnar líkjast teimum vaksnu, og tær skunda sær beinan vegin oman í grasið at súgva plantusevju og annars krógva seg millum gras, bløð og grót. </em></p>
+<p><em type="bold">Keldur </em>1 </p>
+<p xml:lang="swe">Bloch, D, 2010.</p>
+<p xml:lang="isl">Skaðadjór 11. Vakstrarhús trantklukka. <em type="italic">Frøði </em>15,2: 38-39. </p>
+<p><em type="bold">Tá tær kunnu koma inn í húsini, er tað tí, at grasið veksur heilt inn til húsagrundina. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="som"><em type="bold"></em>Goo </p>
+<p xml:lang="eng">GlE.Co</p>
+<p>FRØÐI 1/2011325 ár við Føroya sjósavni</p>
+<p><em type="bold">Ólavsøkan 2006 </em>Á ólavsøku í 2006 var forkunnug framsýning í íshúsinum á Argjum. Ikki tí, Sjósavnið var ikki liðugt, og einans fýra mánaðir vóru gingnir síðani ein áhugabólkur við Bjørka Geyti á odda var sloppin inn at innrætta íshúsið til endamálið, og eitt sindur av peningi var eisini játtaður. Arbeiðið við at seta akvarium saman og gera hølini til reiðar gekk stak væl. Avrátt varð tí at hava eina framsýning á ólavsøku. Tá vóru rættiliga nógvir føroyingar longu varugir við Sjósavnið, tí ikki færri enn 23.000 fólk vitjaðu framsýningina hesa ólavsøkuna. Eitt hálvt ár seinni lat Sjósavnið alment upp og skipaði seg </p>
+<p xml:lang="nno"><em type="bold">Símun Berg </em>sjosavn@gmail.com </p>
+<p>Føroya Sjósavn</p>
+<p xml:lang="smn"><em type="bold">Bjørki Geyti </em>bjorki@gmail.com </p>
+<p>Føroya Sjósavnsum ein sjálvsognarstovnur við nevnd og dagligum leiðara.</p>
+<p>Fremsta endamálið hjá stovninum var tá, og er framvegis, at kunna almenningin um lívið í sjónum. 5 ár við</p>
+<p>Føroya Sjósavni</p>
+<p xml:lang="fkv"><em type="bold">Føroya Sjósavn www.sjosavn.net. </em></p>
+<p><em type="bold">Fremsta endamálið hjá stovninum var tá, og er framvegis, at kunna almenningin um lívið í sjónum. </em></p>
+<p><em type="bold">Magnus Gaard </em>magnus.gaard@skulin.fo </p>
+<p>Føroya Studentaskúli og HF skeið</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="sme">N b</p>
+<p xml:lang="deu">ERG33</p>
+<p>FRØÐI 1/20115 ár við Føroya sjósavni</p>
+<p><em type="bold">Við og uttan rygg </em>Nú munnu flest øll fólk, sum hava verið og vitjað akvarium í øðrum londum, seta akvarium í samband við litfagrar fiskar og kanska hávar og skøtur eisini. </p>
+<p>Men um vit hyggja at allari náttúrusøguni, so er lívið byrjað í sjónum fyri okkurt um 3,7 milliardum árum síðani. Ein týðandi partur av náttúrusøguni og menningini av dýrum eru allir teir ryggleysu dýrabólkarnir. Ætlanin við Sjósavninum var at sýna umboð úr so nógvum ryggleysum dýrabólkum fram sum møguligt. Vit hildu hetta hóskaði seg væl, tí nógv av ryggleysu dýrunum eru løtt at fáa fatur á í Føroyum, og samstundis ger tað framsýningina vælegnaða til undirvísing í náttúrusøgu.</p>
+<p xml:lang="isl">Holadýr <em type="italic">Cnidaria </em>, lindýr <em type="italic">Mollusca </em>, tindadýr </p>
+<p><em type="italic">Echinodermata </em>og krabbadýr <em type="italic">Crustacea </em>eru bert nakrir av teimum dýrabólkunum, sum hava havt ein fastan sýnisglugga á Sjósavninum hesi 5 árini, sum Sjósavnið hevur verið til. </p>
+<p><em type="bold">Rað úr bróski ella beini </em>Av tí at akvariumið er ætlað til undirvísing, hevur allatíðina verið roynt at hava so nógv fiskasløg úr øllum fiskabólkunum sum møguligt. Her verður bæði hugsað um mest upprunaligu fiskasløgini, sum súgari og súgállur. Bróskfiskarnir eru ringir at fáast við í fangaskapi, og hóast nógv háva og skøtusløg hava verið á Sjósavninum hesi 5 árini, so eru tað fá teirra, sum hava havt lív lagað serliga leingi. Einasta hávaslagið, sum hevur verið á Sjósavninum alla tíðina, er smáblettuti reyðhávurin, sum hevur trivist væl. </p>
+<p><em type="bold">Lívsringrásin hjá smáblettuta reyðhávinum </em>Smáblettuti reyðhávurin nørist eins og nógv onnur hávasløg á tann hátt, at kall og kvennhávur makast, og egg verða gitin í kvennhávinum. Kvennhávurin leggur eggini, og ungin búnast í teimum í einar 10 mánaðir. Tað ber væl til at lýsa ígjøgnum eggini </p>
+<p><em type="bold">Á savnsfagnaðinum plaga børnini at fiska krabbar. </em></p>
+<p><em type="bold">Ein týðandi partur av náttúrusøguni og menningini av dýrum eru allir teir ryggleysu dýrabólkarnir. </em></p>
+<p><em type="bold">Reyðhávur við eggum. </em></p>
+<p><em type="bold">Reyðhávaungi kemur úr egginum. </em></p>
+<p xml:lang="isl"><em type="bold">Reyðhávaungi. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">AGNus G</p>
+<p xml:lang="deu">AARd</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="est">AGNus G</p>
+<p xml:lang="deu">AARd</p>
+<p>FRØÐI 1/2011345 ár við Føroya sjósavniog á tann hátt síggja ungan, so hvørt sum hann mennist, og hóast eingin ungi livdu meir enn ein mánað á Sjósavninum, so hava vit havt høvi at fylgja lívsringrásini hjá hesum áhugaverda fiskaslagi inni í framsýningini hjá okkum.</p>
+<p><em type="bold">Nýggj fiskasløg í føroyskum øki </em>Umframt at vanlig fiskasløg sum toskur, hýsa og upsi hava verið í framsýningini alla tíðina, so hava eisini heldur sjáldsamari fiskasløg verið í framsýningini av og á. T.d. onkur av teimum ymisku hornabrosmusløgunum, vanlig hornabrosma, reyð hornabrosma og blettut hornabrosma. </p>
+<p>Multa, eisini kallað pusalaknektur, hava vit havt leingi, og trívast tær væl. Fiskaaling ætlar í ár at gera kanningar við multu, við tí endamáli at royna tær sum lúsatýnarar í laksaalingini. Í tí sambandi var starvsfólk frá Fiskaaling saman við okkum í Sørvági fyri at síggja, hvussu vit bera okkum at, tá vit veiða hetta stygga fiskaslagið.</p>
+<p>Vit hava fingið nakrar kjaftsvartar kongafiskar, sum línu báturin Kallanes fekk á 180 favna dýpi. Hesir komu mestsum allir undan, tí teir vístu seg ikki at hava nakran sundmaga. Størsti trupul leikin hjá okkum við teimum fiskasløgum, ið hava sundmaga, er at fáa fiskin skaðaleysan upp úr dýpinum. Trupulleikin við luftini kann sum frálíður eisini vísa seg við at luftbløðrur seta út í eyguni á fiskunum.</p>
+<p>Í 2010 eydnaðist tað okkum at fáa fatur í tvíprikkuta stubba, sandstubba og, sum nakað nýtt, sprøkluta stubba <em type="italic">Pomatostichus pictus </em>, sum ikki áður er skrásettur í Føroyum. </p>
+<p>Í løtuni hava vit 30 ymisk fiskasløg í kørunum.</p>
+<p>Onkuntíð hava fleiri verið, og er tað okkara vón, at vit framyvir megna at skapa umstøður til at økja um talið.</p>
+<p>Í fjør summar var nógvur makrelur millum oyggjarnar, og royndu vit at koyra einar 1520 í tvey 7tons kør. Sum væntað, bar ikki so væl til, tí pelagiskir fiskar yvirhøvur krevja nógv størri kør.</p>
+<p>Í 2007 og 2008 var sera nógvur sjóprónur til undir Føroyum, og vit høvdu støðugt nógvar av hesum margháttliga fiskaslagi, sum er í ætt við sjóhest. Seinastu tvey árini hevur tó lítil og eingin sjóprónur verið at fingið, og eingin er í løtuni á Sjósavninum.</p>
+<p><em type="bold">Vitjandi í 5 ár </em>Tey 5 árini, Sjósavnið hevur verið opið, hava skúlaflokkar, barnagarðsbørn og almenningurin sum heild verið ófør at vitja á savninum. </p>
+<p>Vitjanartalið hevur alla tíðina ligið omanfyri 10.000 gestir um árið  og harafturat millum 100 og 250 skúla og barnagarðsflokkar. Harumframt fáa vit eisini vitjan av fólkum frá m.a. ymsum eldrabýlum og øðrum stovnum.</p>
+<p>Á hvørjum ári luttekur Sjósavnið í sokallaða savnsfagnaðinum, og hóast vit sum einasta savnið noyðast at krevja atgongugjald, hevur áhugin at vitja verið ovurstórur. Í fjør vitjaðu 1811 fólk í teir 5</p>
+<p><em type="bold">Trøllahummari. </em></p>
+<p><em type="bold">Kjaftsvarti kongafiskur og hýsa. </em></p>
+<p xml:lang="isl"><em type="bold">Upsi og lýrur. </em></p>
+<p><em type="bold">Fiskaaling ætlar í ár at gera kanningar við multu, við tí endamáli at royna tær sum lúsatýnarar í laksaalingini. </em></p>
+<p xml:lang="fkv"><em type="bold">Multa. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG35</p>
+<p>FRØÐI 1/20115 ár við Føroya sjósavnidagarnar, og vikuna eftir til Skúlafagnaðin vitjaðu einir 20 skúlaflokkar.</p>
+<p><em type="bold">Framtíðin </em>Í 2010 hendi tað gleðiliga, at Sjósavnið eisini fekk rakstrarstuðul frá landinum. Játtaðar eru 300.000 kr. á fíggjarlógini til raksturin av Føroya Sjósavni. Í 2010 játtaði mentamálaráðið okkum eisini ein savnslærara, ið tekur sær av bólkavitjanum og øðrum. </p>
+<p>Annars hevur Tórshavnar kommuna stuðla væl við at lata kr. 400.000 árliga, umframt at lata okkum hølini ókeypis. So nú skuldi grundarlagið verið tryggjað fyri framhaldandi rakstri av Føroya Sjó savni, og er eitt hjálparfólk nú eisini sett í part tíðar starv.</p>
+<p>Sjósavnið er farið í holt við at innrætta eitt høli í erva, sum er ætlað til eina skúlastovu, har møguleiki verður at gera ymsar royndir við sjódýrum. Tá</p>
+<p xml:lang="isl"><em type="bold">Síl og multa. </em></p>
+<p><em type="bold">Høgguslokkur. </em></p>
+<p xml:lang="isl"><em type="bold">Sandstubbi. </em></p>
+<p><em type="bold">Tey 5 árini, </em></p>
+<p><em type="bold">Sjósavnið hevur verið opið, hava skúlaflokkar, barnagarðsbørn og almenningurin sum heild verið ófør at vitja á savninum. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p>FRØÐI 1/2011365 ár við Føroya sjósavnihølið er liðugt, fara vit at bjóða fram ymisk undirvísingartilboð til skúlar og onnur áhugað.</p>
+<p>Ein annar av kongstankunum hjá Sjósavninum hevur alla tíðina verið at givið lesandi og granskarum møgu leika at granska lívvirkið hjá lívverum í sjónum. Við rennandi sjógvi og umstøðum at seta kør og mátitól upp, eigur hetta at gerast ein møgu leiki í framtíðini. Men tá má tíð og peningur verða tøkur til tess at leggja hetta til rættis. Ein annar menningarmøguleiki av virkseminum á Sjó savninum er í størri mun at skipa fyri summar skeiðum fyri vaksin. Tá verður serliga hugsað um námsfrøðingar, ferðaleiðarar og lærarar. Sjósavnið hevur góðar karmar at skipa fyri tílíkum skeiðum, har megininnihaldið er føroyska náttúrusøgan.</p>
+<p>Í framtíðini vónar stýrið fyri Føroya Sjósavn, at møgu leikar verða fyri at víðka um talið av kørum og á tann hátt økja um tilboðini til tey vitjandi. Her má havast í huga, at fleiri kør og fiskar eisini førir við sær eina útbygging av tí tøkniligu skipanini. Nakað av tí fyrsta, sum neyðugt er at bøta um, er til dømis møguleikan fyri at køla og stýra sjóhitanum. Slík skipan er kostnaðarmikil, men ætlanin er, at kølingin av sjónum skal sameinast við eina hitavekslaraskipan, sum so veitir heita luft til framsýningarhølini, og sostatt minkar um oljurokningina.</p>
+<p xml:lang="isl"><em type="bold">Lýrur. </em></p>
+<p xml:lang="est"><em type="bold">Sprøkluti stubbi. </em></p>
+<p><em type="bold">Tvíprikkuti stubbi. </em></p>
+<p><em type="bold">Høvd á kjaftsvarta kongafiski. </em></p>
+<p><em type="bold">Í 2010 hendi tað gleðiliga, at Sjósavnið eisini fekk rakstrar stuðul frá landinum. </em></p>
+<p><em type="bold">Savnsfagnaðurin í 2010 eydnaðist væl, bæði við góðum veðri og nógvum vitjandi. </em></p>
+<p><em type="bold">Føroya Sjósavn. </em></p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG</p>
+<p xml:lang="isl"><em type="bold">Mynd </em>síMu </p>
+<p xml:lang="vep">N bERG37</p>
+<p>FRØÐI 1/20115 ár við Føroya sjósavni</p>
+<p><em type="bold">Seinastu tvey árini hevur Hans Eli Sivertsen havt framsýning av fuglamyndum á Føroya Sjósavni </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="spa">ANs El</p>
+<p xml:lang="eng">I sIVERTsEN</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="spa">ANs El</p>
+<p xml:lang="eng">I sIVERTsEN</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="spa">ANs El</p>
+<p xml:lang="eng">I sIVERTsEN</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="spa">ANs El</p>
+<p xml:lang="eng">I sIVERTsEN</p>
+<p>FRØÐI 1/201138vís MÆr ílegurnar og eg skal siga tÆr, hvør tú ert - nýggj tarasløg Funnin í FøroyuM</p>
+<p><em type="bold">Mynd 1. Purpurhinnusløg í Føroyum. A. </em></p>
+<p xml:lang="isl"><em type="italic"></em><em type="bold">. Á. Porphyra dioica . B. Porphyra linearis . d. Porphyra </em>purpurea <em type="bold">. E. Porphyra umbilicalis (nalva purpurhinna). F. Porphyra sp. (Purpurhinna FO). G. Pyropia elongata . H. Pyropia leucosticta . I. Pyropia njordii (Purpurhinna njarðar). Í. Wildemania amplissima . J. Wildemania miniata . </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="sme">GNEs Mols-Mo</p>
+<p xml:lang="est">RTENsEN39</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Vís mær ílegurnar og eg skal siga tær, hVør tú ert - nýggj tarasløg funnin í føroyum</p>
+<p>Tvey nýggj tarasløg eru funnin í Føroyum (Mynd 1, F og I). Annað slagið hevur júst fingið navnið er júst navngivið Purpurhinna Njarðar ( <em type="italic">Pyropia njordii </em>á latíni). Hitt taraslagið hevur ikki fingið nakað navn enn, men fyribils kalla vit tað Purpurhinna FO. Bæði sløgini hoyra til ein bólk av reyðtarum, vit kalla purpurhinna. Hesin bólkur er mest kendur fyri víðagitna og vælsmakkandi Noritaran, ið millum annað verður brúktur til sushi. Purpurhinnusløg eru vanlig tarasløg í Føroyum og veksa á gróti, kræklingi, gjari ella øðrum tarasløgum í fjøruni, eins og djypri (Myndir 2 og 3). </p>
+<p>Danin Lyngbye skrásetti fyrstu purpurhinnu—sløgini í Føroyum í 1819. Purpurhinna Njarðar og Purpurhinna FO prógva, at enn, næstan 200 ár seinni, ber til at avdúka fjølbroytni í føroysku náttúruni. Purpurhinna Njarðar varð fyrstu ferð staðfest á Trongisvágsfirði og er síðani skrásett í Íslandi, Grønlandi, í landsynningspartinum av Kanada og í landnyrðingspartinum av USA. Purpurhinna FO er enn bert staðfest á Trongisvágsfirði. Í alt eru nú ellivu purpurhinnusløg skrásett í Føroyum (Mynd 1 og talva 1).</p>
+<p><em type="bold">Ílegur avdúka fjølbroytni </em>Purpurhinnusløg eru trupul at kenna hvørt frá øðrum. Bæði litur og skap kunnu vera sera umbroytilig, og ofta verður slaggreiningin ikki </p>
+<p>Vís mær ílegurnar og eg skal siga tær, hvør tú ert</p>
+<p>Nýggjtarasløg funnin í Føroyum</p>
+<p xml:lang="est"><em type="bold">Agnes Mols-Mortensen </em>agnes.mols@unh.edu </p>
+<p xml:lang="eng">University of New Hampshire</p>
+<p><em type="bold">Mynd 2. Purpurhinna í fjøruni. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="nob">Agnes Mols-Mo</p>
+<p xml:lang="deu">Rtensen</p>
+<p xml:lang="deu">FRØÐI 1/201140</p>
+<p>Vís mær ílegurnar og eg skal siga tær, hVør tú ert - nýggj tarasløg funnin í føroyumannað enn eitt vælgrundað boð. Hesin trupulleikin hevur merkt granskingina av purpurhinnusløgum nógv, og serliga hevur tað verið torført at mett um fjølbroytni og útbreiðslu av sløgunum bæði lokalt og globalt.</p>
+<p>Ílegukanningar hava tey seinastu 15 til 20 árini kollvelt purpurhinnugransking. Granskarar hava nú eitt amboð, ið objektivt og eftirfarandi skilir ímillum sløgini. Ílegurnar hava eisini latið dyrnar upp til ein heim av fjaldum fjølbroytni. Við ílegukanningum er nú møguligt at meta um fjølbroytni, finna nýggj sløg, lýsa tey einstøku sløgini betur og at samanbera fjølbroytni úr ymiskum pørtum av heiminum. Purpurhinna Njarðar og Purpurhinna FO vóru longu savnaðar á Trongisvágsfirði í ávikavist 2006 og 2005, men ikki fyrr enn ílegukanningarnar vórðu gjørdar nakað seinni, gjørdist greitt, at talan var um nýggj sløg.</p>
+<p><em type="bold">Hví kanna fjølbroytni? </em>Øll núlivandi sløg á jørðini eru til, tí tey hava klárað seg í hørðu kappingini, ið áhaldandi er ímillum sløgini, og tey hava megnað at tillaga seg til umstøðurnar. Tey hava stríðst fyri at yvirliva, og í stríðnum hava tey funnið sína nissju í stóru heildini, ið vit kalla vistskipanin. Øll sløg, stór sum smá, kend sum ókend, eru eins stórur partur av fjølbroytninum og eiga sín lut í vistskipanini. Jú størri vitan vit hava um náttúrunnar fjølbroytni, betur eru vit før fyri at skilja samanhang og síggja broytingar. </p>
+<p><em type="bold">Slagnøvn á latíni </em></p>
+<p><em type="bold">Slagnøvn á føroyskum </em></p>
+<p xml:lang="tur"><em type="italic">Boreophyllum birdiae </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="pol"><em type="italic">Porphyra dioica </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="olo"><em type="italic">Porphyra linearis </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="pol"><em type="italic">Porphyra purpurea </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="spa"><em type="italic">Porphyra umbilicalis </em></p>
+<p xml:lang="kal">Nalva purpurhinna</p>
+<p xml:lang="pol"><em type="italic">Porphyra sp. </em></p>
+<p>Einki føroyskt navn (Purpurhinna FO)</p>
+<p xml:lang="spa"><em type="italic">Pyropia elongata </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="spa"><em type="italic">Pyropia leucosticta </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="olo"><em type="italic">Pyropia njordii </em></p>
+<p xml:lang="isl">Purpurhinna Njarðar</p>
+<p xml:lang="kal"><em type="italic">Wildemania amplissima </em></p>
+<p>Einki føroyskt navn</p>
+<p xml:lang="est"><em type="italic">Wildemania miniata </em></p>
+<p>Einki føroyskt navn</p>
+<p><em type="bold">Talva 1. Purpurhinnusløg í Føroyum. Enn hava bert </em></p>
+<p xml:lang="nob"><em type="italic"></em><em type="bold">og </em></p>
+<p><em type="italic"></em><em type="bold">fingið føroysk nøvn. </em></p>
+<p><em type="bold">Mynd 3. Purpurhinna í fjøruni. </em></p>
+<p><em type="bold">Øll núlivandi sløg á jørðini eru til, tí tey hava klárað seg í hørðu kappingini, ið áhaldandi er ímillum sløgini, og tey hava megnað at tillaga seg til umstøðurnar. </em></p>
+<p><em type="bold">Purpurhinnusløg eru trupul at kenna hvørt frá øðrum. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="nob">Agnes Mols-Mo</p>
+<p xml:lang="deu">Rtensen41</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Vís mær ílegurnar og eg skal siga tær, hVør tú ert - nýggj tarasløg funnin í føroyum</p>
+<p xml:lang="olo"><em type="bold">Purpurhinna. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="nob">Agnes Mols-Mo</p>
+<p xml:lang="deu">Rtensen</p>
+<p>FRØÐI 1/201142geVa Vit fiskinum aV heiliVágnum og røktareVnunum?</p>
+<p xml:lang="vep"><em type="bold">Maria dam </em>mariad@us.fo </p>
+<p xml:lang="nno">Umhvørvisstovan</p>
+<p>Í 2010 var farið undir at skipa fyri eini kanningarætlan at kanna heilivágsleivdir og evni, sum eru í kremi, sápu og øðrum vørum til persónliga røkt. Kanningarnar verða gjørdar í samstarvi við Ísland og Grønland, soleiðis at vit fáa saman beri lig úrslit fyri hesi trý londini. Fígging er fingin til vega frá Norðurlendska Ráðharraráðnum og frá luttakandi stovnunum. Hetta snýr seg um kann ingar, sum ikki eru vanligar og sum ikki eru partur av vanliga úrvalinum av kanningum, sum starvsstovur bjóða fram. Tískil verða kanningarnar gjørdar av starvs-stovum í Noregi og Svøríki, tí har hava tey longu roynt kanningarhættirnar at kanna hesi evnini, í hvussu er at kanna tey flestu av evnunum.</p>
+<p><em type="bold">Hvussu ber tað til, at farið verður undir slíkar kanningar? </em>Fyri nøkrum árum síðani varð sjóneykan sett á alivinnuna, og kanningar vórðu gjørdar av umumhvørvisárinunum og dálkandi evnum, sum stava frá ali brúkum (Gustavson o.fl. 2009). Í tí sambandinum varð eisini farið undir eina kanning av </p>
+<p>Geva vit fiskinum av heilivágnum og røktarevnunum?</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="deu">MARIA DAM43</p>
+<p>FRØÐI 1/2011geVa Vit fiskinum aV heiliVágnum og røktareVnunum?heili vágs leivdum frá alibrúkum, og eitt alibrúk í Før oyum var <span type="quote">“royndarstøð”</span>. Tá varð funnið, at antibiotika, sum oxolinsýra, lá eftir á botninum, eisini har sum einki alibrúk var longur. Tað, sum verður mett at vera størsta hóttanin frá antibiotika, er, at bakteriur, sum eru mótstøðuførar móti antibiotika, skulu breiða seg í umhvørvinum. Hesar kanningar bendu á, at har vóru bakteriur, sum vóru vorðnar mótstøðuførar ímóti serliga oxytetracycline. Síðani er tørvurin á og harvið eisini nýtslan av hesum slagi av heilivági í alifiski minkað burtur í lítið og einki, og harvið fara eisini hesar heilivágsleivdir at niðurbrótast og hvørva við tíðini.</p>
+<p>Annað, sum nógv hevur verið gjørt burturúr í umhvørviseftiransingar- og granskingarhøpi, er, at fiskur, sum livir har, sum nógv spillivatnsútlát er, fær árin av tí nógva innihaldinum av kvennkynshormoni og evnum, sum hava kvennkynshormonvirknað. Hetta er sjálvandi bæði náttúrligt østrogen og p-bolla hormon, men harumframt er eisini talan um fleiri sløg av evnum, sum verða nýtt til røkt, sum hava sovorðnar eginleikar. Tey evnini, sum talan tá er um, eru serliga tey, sum eru at finna í vaski- og reinsievni. Eitt dømi er nonylfenol. Kanningar av fiski av Havnarvág hava fyrr bent á, at týðandi árin av østrogen-hermandi evni kann ikki staðfestast. Tó hava evnafrøðiligar kanningar víst, at innihaldið av millum annað nonylfenol og nonylfenoletoxyatum (talva 1) í yvirflatuvatni á Havnarvág eru í eini kon sentratión, sum liggur á markinum ella er ájøvn við tað, sum verður mett at verða eitrandi fyri fisk (0.004 mg/l), um eksponeringin er støðug (kronisk). Eiturárinið av nonylfenoletoxylatum er nakað minni, men hesi evnini kunnu umskapast til tær meira eitrandi nonylfenolirnar í reinsiverkinum. EU hevur bannað nýtsluni av nonylfenol og nonylfenoletoxylatum frá og við januar 2005 (Direktiv 2003/52/EC frá 18 juni 2003).</p>
+<p>Seinastu árini hava kanningar verið framdar av heilivágsleivdum frá viðgerð av bæði djórum og fólki í umhvørvinum í øðrum Norðurlondum. Fyri framman er nú ein ætlan um at gera eina størri frágreiðing, har hugt verður at støðuni við hesum slagnum av dálking í øllum Norðurlondum. Uttan úrslit frá hesari kanning, sum nú fevnir um Grønland, Ísland og Føroyar, kemur hendan frágreiðing at vera heldur tóm fyri tann partin av Norðurlondum, sum liggur vestanvert Noreg.</p>
+<p><em type="bold">Hvussu er farið fram? </em>Tá ið heilivágur verður tikin, er skamturin settur eftir, hvat neyðuga virkna skamtanin er um dagin, men tá ið evnafrøðiligar kanningar av hesum somu heilivágsevnum verða gjørdar, er ofta lættast at finna tey evnini, sum koma fyri í størstu nøgd. Tískil varð byrjað við at fáa eitt yvirlit til vega frá Landsapotekaranum yvir 20 tey fyrstu av teimum heilivágssløgum, sum vórðu seld í størstari nøgd í Føroyum. Hetta yvirlitið varð síðani endurskoðað við atliti at nýtsluni í 2010 og samanborið við tað, sum varð brúkt av heilivági í Grønlandi og Íslandi sama ár. Harumframt varð skeitt at einari afturlítandi frágreiðing, sum hevði gjørt eina um- <em type="bold">mg/kg te. el. mg/l sýnisslag </em></p>
+<p xml:lang="kal"><em type="bold">NP </em></p>
+<p xml:lang="kal"><em type="bold">NP1EO </em></p>
+<p xml:lang="isl"><em type="bold">Ref* </em></p>
+<p xml:lang="isl">Húsahagi mold 0.047 0.0023 3</p>
+<p xml:lang="isl">Havnardalur mold nd 0.0009 3</p>
+<p>Landssjúkrahúsið evja (gamalt) 1.6 &lt;0.2 1</p>
+<p>Landssjúkrahúsið evja (nýtt) 23 57 1</p>
+<p>Landssjúkrahúsið evja 1.460</p>
+<p xml:lang="vep">Na 3</p>
+<p xml:lang="isl">Landssjúkrahúsið vatn út 0.0022</p>
+<p xml:lang="vep">Na 3</p>
+<p>Sersjantavíkin reinsiv. evja 2.388 3</p>
+<p xml:lang="isl">Sersjantavíkin reinsiv. vatn út 0.0002 0.0016 3</p>
+<p xml:lang="nno">Havnarvág´06 sediment 0.340 0.0014 3</p>
+<p xml:lang="nno">Havnarvág´02 sediment BÁ &lt;0.1 -3.3 &lt;0.07 2</p>
+<p xml:lang="isl">Havnarvág vatn 0.004 0.00006 3</p>
+<p xml:lang="nno">Pollurin, Klaksvík sediment 0.015</p>
+<p xml:lang="vep">Nd 3</p>
+<p>Klaksvík, marina vatn &lt;0.000002 &lt;0.000002 3</p>
+<p xml:lang="nno">Gøtuvík, Bakkafr. sediment 0.0136</p>
+<p>Nd 3*1. Evja frá Landssjúkrahúsinum í Tórshavn 20012. Dam og Danielsen. 2003. Kanningar av Havnarvág 20023. Hansen og Lassen. 2008. Screening av nye miljøgifter 2006</p>
+<p xml:lang="isl"><em type="bold">Talva 1 nonylfenol og nonylfenoletoxylater í vatni, evju og sedimenti. nP= nonylfenoler, nP1EO=nonylfenolmonoetoxylater </em></p>
+<p><em type="bold">Tað, sum verður mett at vera størsta hóttanin frá antibiotika, er, at bakteriur, sum eru mótstøðuførar móti antibiotika, skulu breiða seg í umhvørvinum. </em></p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="deu">MARIA DAM</p>
+<p>FRØÐI 1/201144geVa Vit fiskinum aV heiliVágnum og røktareVnunum?</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="deu">MARIA DAM45</p>
+<p>FRØÐI 1/2011geVa Vit fiskinum aV heiliVágnum og røktareVnunum?hvørvisvandameting fyri Norðurlond (uttan Føroyar og Grønland) av heilivágsnýtsluni, sum hon hevði verið í tíðarskeiðnum 1997-2007 (Woldegiorgis o.fl. 2009). Sambært hesari kanning var serligur vandi fyri danska umhvørvinum knýttur at nýtsluni av hormonum (estradiol1 og ethinylestradiol), og hareftir av pínustillandi (paracetamol, ibuprofen, dichlofenac og acetyl sali cyl sýru) og av eydnubollum (sertalin)! Har um framt er vandi knýttur at nýtsluni av blóð trýst lækkandi evnum sum beta-blokkarum, angio tensinreceptor-blokkarum og kalciumkanalblokkarum, sum eru umboðað av millum øðrum meto prolol, candestartan og amlodipin í ætlaðu kann ingini (talva 2 og talva 3).</p>
+<p>Í mun til evni, sum verða nýtt til persónliga røkt, varð serliga hugt eftir váðametingini, sum Schlabach o.fl. 2009 gjørdu vegna Veðurlags- og dálkingardirektoratið í Noregi. Funnið varð fram til, at kationisk tensid (cetrimonium - sum millum annað verður nýtt til sóttreinsing) og ftalat umboða størstu hóttanina ímóti lívinum í recipientinum, meðan vandi eisini stendst av evnum, sum eru í vaskievni, sum t.d. EDTA, sodiumdodecyl sulfate (SDS) og sodium laureth sulfate (SDSEO) umframt butyl paraben, sum verður nýtt sum haldevni í kremi o.l.</p>
+<p><em type="bold">Heilivágur og evni úr røktarevni </em>Paracetamol acetylsalicylic acid Ibuprofen Zopiclon Metformin Dipyridamole Simvastatin Metoprolol Sulfamethizol esomeprazol+omeprazol Amlodipine Lidocaine Candestartan Gliclazid Ethinylestradiol EDTA SDS SDSEO Nonylphenols and –etoxylats Cetrimonium cocoamidopropyl betaine butyl-parabenes diethyl-phthlates </p>
+<p><em type="bold">Talva 2. Upprunaligi listin yvir heilivág og evni, sum verða nýtt til persónliga røkt, sum ætlanin var at kanna. Listin yvir heilivág er gjørdur við støði í 20 teimum mest brúktu (í nøgd) sløgunum av heilivági í Føroyum í 2008. Úrvalið av evnum, sum eru í tilfari, sum verður brúkt til persónliga røkt, er gjørt við støði í eini kanning úr noregi, sum vísti, at júst hesi evnini eru atvoldin til størsta vandan fyri umhvørvisárini. Leggið til merkis, at nøkur sløg av antibiotika (benzylpenicillin og phenoxymethylpenicillin) eru ikki við. Hetta er tí, at sýnini kunnu ikki koma vegin fram til starvsstovuna, sum skal gera kanningar so skjótt sum neyðugt er, tá ið sovorðin evni skulu kannast - tí tey niðurbrótast so skjótt. </em>1 </p>
+<p>Estradiol er nattúrligt hormon, sum serliga verður gjørt í konufólki, men sum eisini verður brúkt sum heilivágur. Ein meting, sum er endurgivin í Woldegiorgis v.fl. er, at meira enn 75% av estradiolinum hevur sín uppruna í fólki, meðan ein minni partur, v.ø.o. &lt; 25%, stavar frá heilivágsnýtslu. Við etinylestradiol er støðan øðrvísi, tí hetta er eitt tilevnað hormon, sum ikki verður gjørt í mannakroppinum.</p>
+<p><em type="bold">Sambært hesari kanning var serligur vandi fyri danska umhvørvinum knýttur at nýtsluni av hormonum (estradiol1 og ethinylestradiol), og hareftir av pínustillandi (paracetamol, ibuprofen, dichlofenac og acetylsali cyl sýru) og av eydnubollum (sertalin)! </em></p>
+<p><em type="bold">Í nøkrum londum er støðan tann, at spillivatn verður ført í vøtn, sum sam stundis er drekki vatn fyri onnur. </em>hvørvisvandameting fyri Norðurlond (uttan Føroyar og Grønland) av heilivágsnýtsluni, sum hon hevði verið í tíðarskeiðnum 1997-2007 (Woldegiorgis o.fl. 2009). Sambært hesari kanning var serligur vandi fyri danska umhvørvinum knýttur at nýtsluni av hormonum (estradiol1 og ethinylestradiol), og hareftir av pínustillandi (paracetamol, ibuprofen, dichlofenac og acetyl sali cyl sýru) og av eydnubollum (sertalin)! Har um framt er vandi knýttur at nýtsluni av blóð trýst lækkandi evnum sum beta-blokkarum, angio tensinreceptor-blokkarum og kalciumkanalblokkarum, sum eru umboðað av millum øðrum meto prolol, candestartan og amlodipin í ætlaðu kann ingini (talva 2 og talva 3). </p>
+<p>Í mun til evni, sum verða nýtt til persónliga røkt, varð serliga hugt eftir váðametingini, sum Schlabach o.fl. 2009 gjørdu vegna Veðurlags- og dálkingardirektoratið í Noregi. Funnið varð fram til, at kationisk tensid (cetrimonium - sum millum annað verður nýtt til sóttreinsing) og ftalat umboða størstu hóttanina ímóti lívinum í recipientinum, meðan vandi eisini stendst av evnum, sum eru í vaskievni, sum t.d. EDTA, sodiumdodecyl sulfate (SDS) og sodium laureth sulfate (SDSEO) umframt butyl paraben, sum verður nýtt sum haldevni í kremi o.l.</p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="deu">MARIA</p>
+<p xml:lang="deu">DAM</p>
+<p>FRØÐI 1/201146geVa Vit fiskinum aV heiliVágnum og røktareVnunum?</p>
+<p><em type="bold">Keldur </em></p>
+<p>Dam, M. og Danielsen, J. 2003. Havnarvág 2002 – ein kanning av dálkingarstøðuni á Havnarvág og Yviri við Strond á sumri 2002. Heilsufrøðiliga Starvsstovan, pp. 75 (sí eisini www. torshavn.fo).</p>
+<p xml:lang="nno">Gustavson, K. Petersen, G.I., Jørgensen, C., Magnussen, M.P., Dam, M., Yngvadottir, E., Fieler, R. og Solbakken, J. 2009. Chemicals from marine fish farms. TemaNord 2009:516, pp. 82 (http://www.norden. org/en/publications/ publications/2009-516).</p>
+<p xml:lang="nno">Hansen, A.B. og Lassen, P. 2008. Screening of phenolic substances in the Nordic environments. TemaNord 2008:530 (sí eisini www. nordicscreening.org).</p>
+<p xml:lang="eng">Schlabach, M., Dye, C., Kaj, L., Klausen, S., Langford, K., Leknes, H., Moe, M.K., Remberger, M., Schøyen, M., Thomas, K. og Vogelsang, C. 2009. Environmental screening of selected organic compounds 2008. Human and hospitaluse pharmaceuticals, aquaculture medicines and personal care products. Norwegian pollution control authority (nú Klif) TA- 2508/2009.</p>
+<p xml:lang="eng">Woldegiorgis, A., Wiklund, P., Moe, M. 2009. Retrospective environmental risk assessment of human pharmaceutivcals in the Nordic countries in 1997-2007. TemaNord 2009:587, pp 110 (sí eisini www. norden.org)</p>
+<p><em type="bold">At enda </em>Uttan mun til hvat vit finna ella ikki finna, so kunnu vit vera glað fyri, at vit hava skipað okkum soleiðis, at spillivatn verður ført út á sjógv. Tí skulu vit ikki rokna við, at heilivágsleivdir vera at finna aftur í drekki vatninum hjá okkum. Soleiðis er støðan tó ikki allastaðni. Í nøkrum londum er støðan tann, at spillivatn verður ført í vøtn, sum sam stundis er drekki vatn fyri onnur. Spillivatnið verður sjálv andi reinsað, áðrenn tað verður koyrt út, men reinsiverk yvirhøvur eru ikki innrættað til at fanga vatn loysi lig evni, men meira til at binda og partvís niður bróta tey evnini, sum bindast til bitlar. </p>
+<p xml:lang="nob">Grønland</p>
+<p>Føroyar*</p>
+<p xml:lang="isl">Ísland</p>
+<p xml:lang="isl">C09AA02 Enalapril</p>
+<p xml:lang="vep">Amlodipin</p>
+<p xml:lang="ron">Acidum acetylsalicylicum</p>
+<p xml:lang="est">C08CA01 Amlodipin</p>
+<p xml:lang="ron">Enalapril</p>
+<p>Simvastatinum</p>
+<p xml:lang="est">C10AA01 Simvastatin</p>
+<p xml:lang="rmy-rlo">Acetylsalicylsyre</p>
+<p>Zopiclonum</p>
+<p xml:lang="eng">A02BC01 Omeprazol</p>
+<p xml:lang="est">Simvastatin</p>
+<p xml:lang="nob">Omeprazolum og esomeprazolum</p>
+<p xml:lang="vep">N02BE01 Paracetamol</p>
+<p xml:lang="ron">Paracetamol</p>
+<p>Ibuprofenum</p>
+<p xml:lang="nob">C03AB01 Bendroflumethiazid og kalium  Bendroflumethiazid og kalium</p>
+<p xml:lang="ron">Citalopramum/escitalopramum</p>
+<p xml:lang="nob">B01AC06 Acetylsalicylsyre</p>
+<p xml:lang="est">Furosemid</p>
+<p>Amlodipinum</p>
+<p xml:lang="nob">G03AC08 Etonogestrel</p>
+<p xml:lang="rmn">Omeprazol</p>
+<p>Losartanum</p>
+<p xml:lang="nob">G03AA09 Desogestrel og estrogen</p>
+<p xml:lang="eng">Metoprolol</p>
+<p xml:lang="ron">Enalaprilum</p>
+<p xml:lang="smn">A11DA01 Thiamin (vitamin b1)</p>
+<p xml:lang="rmu">Candesartan</p>
+<p xml:lang="pol">Hydrochlorothiazidum</p>
+<p xml:lang="nno">M01AE01 Ibuprofen</p>
+<p xml:lang="vep">Gliclazid</p>
+<p xml:lang="est">Amilorid</p>
+<p xml:lang="nob">N06AB04 Citalopram</p>
+<p xml:lang="est">Atorvastatin</p>
+<p xml:lang="deu">Prógestógen</p>
+<p xml:lang="nob">A11AA03 Multivitaminer og andre  mineraler, incl. komb.</p>
+<p xml:lang="ron">Citalopram</p>
+<p xml:lang="ron">Paracetamolum</p>
+<p xml:lang="nob">C07AB02 Metoprolol</p>
+<p xml:lang="rmn">Esomeprazol</p>
+<p xml:lang="isl">Furosemidum</p>
+<p xml:lang="isl">G03AA07 Levonorgestrel og estrogen</p>
+<p xml:lang="eng">Zopiclon</p>
+<p>Levothyroxinum natrium</p>
+<p xml:lang="nob">D07AB02 Hydrocortisonbutyrat</p>
+<p xml:lang="eng">Ibuprofen</p>
+<p xml:lang="vep">Atenololum</p>
+<p xml:lang="nob">R03BA02 Budesonid</p>
+<p>Levothyroxinnatrium</p>
+<p xml:lang="isl">Levonorgestrelum og estrógen</p>
+<p xml:lang="kal">R03AC03 Terbutalin</p>
+<p xml:lang="nno">Sertralin</p>
+<p>Sertralinum</p>
+<p xml:lang="nob">C09CA01 Losartan</p>
+<p xml:lang="eng">Isosorbidmononitrat</p>
+<p xml:lang="ron">Diclofenacum</p>
+<p xml:lang="est">C03CA01 Furosemid</p>
+<p xml:lang="olo">Felodipin</p>
+<p>Nicotinum</p>
+<p xml:lang="nob">G03AA10 Gestoden og estrogen</p>
+<p xml:lang="nno">Metformin</p>
+<p xml:lang="est">Atorvastatinum</p>
+<p xml:lang="nob">H02AB06 Prednisolon</p>
+<p xml:lang="est">Budesonid</p>
+<p xml:lang="eng">Isosorbid mononitrat</p>
+<p xml:lang="vep">N05AH03 Olanzapin</p>
+<p xml:lang="vep">Kaliumchlorid</p>
+<p xml:lang="eng">Metoprolol</p>
+<p xml:lang="nob">N05CF01 Zopiclon</p>
+<p xml:lang="som">Venlafaxin</p>
+<p>Fluoxetinum</p>
+<p xml:lang="nno">B03AE10 Diverse kombinationer</p>
+<p xml:lang="tur">Perindopril</p>
+<p xml:lang="vep">Chlorohexidine</p>
+<p xml:lang="nob">D07AC01 Betamethason</p>
+<p xml:lang="olo">Cetirizin</p>
+<p>Venlafaxinum</p>
+<p xml:lang="fin">A06AD11 Lactulose</p>
+<p xml:lang="kal">Losartan</p>
+<p>Paraoxetinum *Leggið til merkis, at av tí at upprunaligi listin fyri Føroyar varð gjørdur við nøgd og ikki tali av skamtanum, so eru p-bollar ikki við.</p>
+<p><em type="bold">Talva 3. yvirlit yvir mest brúkta (í tali av skamtanum) heilivág í Grønlandi, Føroyum og Íslandi í 2010. nøkur heilivágssløg eru litað við serligum liti fyri at lætta um samanberingina av nýtsluni landanna millum. Kelda: Landsapotekararnir í Grønlandi, Íslandi og Føroyum. Kodurnar, sum standa fremst í hvørjari røð, eru sonevndu ATC kodurnar (Anatomical Therapeutic Chemical Classification System) fyri evnini. </em></p>
+<p>Sostatt er serliga nakað av krabbameinstýnandi heilivágnum ein møguligur vandi hjá teimum, sum drekka úr spilli vatns-recipientinum, tí hetta slagið av heili vági er ætlað at beina fyri livandi kyknum, sum vaksa. Hetta merkir, at sjálvt um vit eru uttan fyri vanda, so er tað framvegis onkur, sum vit hava ábyrgd fyri, sum ikki er tað - fiskurin og annað lív fram við strendur okkara.47</p>
+<p xml:lang="deu">FRØÐI 1/2011</p>
+<p>Bjarnadýr í Føroyum <em type="bold">Birna Vár Trygvadóttir </em>Hvat er eitt bjarnadýr, hugsa tey flestu allarhelst. Tað er ikki ein stór bjørn, nei, tvørturímóti. Hetta er eitt evarska lítið dýr, sum kann líkjast einari lítlari bjørn til tíðir. Hesi smáu og tó fleirkyknaðu dýr eru vanliga ikki meiri enn hálvan millimetur til longdar. Sjóneyka má til fyri at kanna hesi dýr. Tey kunnu liva í mosa, t.d. í mosapútum á steinum. Teimum dámar eisini sera væl vátan mosa í keldum, áarløkum og vøtnum. Vatn má vera til staðar fyri at bjarnadýrini kunnu liva.n æ s t u f e r ð </p>
+<p>Lívsvirðir hjá børnum <em type="bold">Firouz Gaini </em>Hóast nógv hevur verið tosað um trivnaðin og heilsuni hjá børnum í skúlaaldri seinastu árini, so hevur ongin kanning hugt nærri at lívsvirðunum hjá børnum í dag. Hvussu síggja børnini upp á framtíðina? Hugsa tey samhaldsfast? Ella hugsa tey mest um seg sjálvi? Ein nýggj spurnakanning í Føroyum, Íslandi og Svøríki varpar ljós á etisku, sosialu og mentanarligu virðunum hjá børnum úr 6. og 9. flokki fólkaskúlans, umframt næmingum í útvaldum miðnámsskúlum. Úrslitini siga okkum nakað um, hvussu almennar broytingar í samfelagnum ávirka virðini hjá einstaklinginum.samfelagsviðurskiftini í seinmiðøld – eitt nú um samband føroyinga við útheimin og handilsviðurskifti. Grundað á hesi skjalprógv er líkt til, at tað júst er í hesum tíðarskeiði, at búleikast hevur verið á Krambatanga. Sagnir eru um, at hanseatar ella hálendingar handlaðu her. Men ber til at siga nakað neyvari um, hvat virksemi fór fram har á staðnum, og hvørji fólkini vóru, ið búleikaðust har? </p>
+<p>Við at seta staðin og tað, ið funnið varð undir rannsóknini, inn í eitt størri høpi, eitt nú viðurskiftini í oyggjunum kring um okkum, verður roynt at svara hesum áhugaverda loynidómi.</p>
+<p xml:lang="deu">FRØÐI</p>
+<p>Krøk hann í ein skiparabúk <em type="bold">Jóan Pauli Joensen </em>Jóan Pauli Joensen, professari í fólka lívs frøði, hugleiðir í forvitnisligu grein ini um ein part av fiskivinnusøgu okkara, ið ljós sjáldan verður varpað á. Fiski reiðskapurin, serliga húkur og ongul, men eisini snøri og lína, verður lýstur á einum sera livandi máli, ið bæði vísir til sangir og yrkingar, og endar, sjálv sagt, við heimskenda húkinum í Klaksvík. </p>
+<p xml:lang="eng"><em type="bold">Mynd </em></p>
+<p xml:lang="nno">Jan Eg</p>
+<p xml:lang="est">Il K</p>
+<p xml:lang="est">RIst</p>
+<p xml:lang="fra">Ians</p>
+<p xml:lang="spa">En</p>
+</body></document>
