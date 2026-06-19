@@ -1,4 +1,4 @@
-<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2010</year><wordcount>21882</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2010.11 Sjúklinganøgdsemiskanningin.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<document xml:lang="fao" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2010</year><wordcount>21634</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="dan"/></multilingual><origFileName>2010.11 Sjúklinganøgdsemiskanningin.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
 <body>
 <p><em type="bold">SjúklinganøgdSemiSkanningin2010millum 886 innlagdar sjúklingar </em></p>
 <p>Spurnakanning</p>
@@ -654,34 +654,34 @@
 <p><em type="bold">Spurnarblað um innlegging á &lt;&lt;afdelingsnavn&gt;&gt; á &lt;&lt;sygehus&gt;&gt; </em></p>
 <p xml:lang="dan"><em type="bold">PARTUR A </em></p>
 <p>Bráðfeingis (akutt)</p>
-<p>Avtalað (innkallað/ur frammanundan) <em type="bold">1. Hvussu varð tú innløgd/innlagdur á sjúkrahúsið? </em> <em type="bold">(Far til spurning 3) </em> </p>
+<p>Avtalað (innkallað/ur frammanundan) <em type="bold">1. Hvussu varð tú innløgd/innlagdur á sjúkrahúsið? (Far til spurning 3) </em></p>
 <p><em type="bold">Fyri innleggingina og við móttøkuna á deildini </em></p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
 <p>Sera vánaligt <em type="bold"></em></p>
 <p>Tað minnist eg ikki</p>
-<p>Svara bert uppá spurning 2, um tú hevði avtalu um innlegging: <em type="bold">2. Hvussu metir tú, at tú vart kunnað/ur um longdina á bíðitíðini, frá tú varð ávíst/ur á deildina, til tú varð innløgd/innlagdur? </em>     </p>
+<p>Svara bert uppá spurning 2, um tú hevði avtalu um innlegging: <em type="bold">2. Hvussu metir tú, at tú vart kunnað/ur um longdina á bíðitíðini, frá tú varð ávíst/ur á deildina, til tú varð innløgd/innlagdur? </em></p>
 <p>Ja, long bíðitíð</p>
 <p>Ja, stutt bíðitíð</p>
 <p>Nei, eingin bíðitíð</p>
-<p>Tað minnist eg ikki <em type="bold">3. Upplivdi tú, at tað var bíðitíð, tá tú varð móttikin á deildini? </em>    </p>
+<p>Tað minnist eg ikki <em type="bold">3. Upplivdi tú, at tað var bíðitíð, tá tú varð móttikin á deildini? </em></p>
 <p><em type="bold">Starvsfólk </em></p>
 <p>Ja, ein kontaktpersónur</p>
 <p>Ja, fleiri kontaktpersónar</p>
-<p>Nei <em type="bold">4. Upplivdi tú, at ein ella fleiri kontaktpersónar á deildini høvdu serliga ábyrgd av tíni viðgerðargongd? </em>(Ein kontaktpersónur er ein heilsupersónur, sum skal kunna teg og tryggja samanhang í tíni viðgerðargongd)   </p>
+<p>Nei <em type="bold">4. Upplivdi tú, at ein ella fleiri kontaktpersónar á deildini høvdu serliga ábyrgd av tíni viðgerðargongd? </em>(Ein kontaktpersónur er ein heilsupersónur, sum skal kunna teg og tryggja samanhang í tíni viðgerðargongd) </p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
 <p>Sera vánaligt <em type="bold"></em></p>
-<p>Tað kann eg ikki meta um <em type="bold">5. Hvussu metir tú, at starvsfólkini á deildini høvdu sett seg inn í tína sjúkugongd undir avtalaðu samtalunum? </em>     </p>
+<p>Tað kann eg ikki meta um <em type="bold">5. Hvussu metir tú, at starvsfólkini á deildini høvdu sett seg inn í tína sjúkugongd undir avtalaðu samtalunum? </em></p>
 <p>Ov nógv</p>
 <p>Hóskandi</p>
-<p>Ov lítið <em type="bold">6. Í hvønn mun varð tú tikin við í tær avgerðir, sum skuldu takast um tína viðgerð og røkt? </em>   </p>
+<p>Ov lítið <em type="bold">6. Í hvønn mun varð tú tikin við í tær avgerðir, sum skuldu takast um tína viðgerð og røkt? </em></p>
 <p>Ov nógv</p>
 <p>Hóskandi</p>
 <p>Ov lítið</p>
-<p>Ikki aktuelt fyri meg <em type="bold">7. Í hvønn mun vórðu tíni avvarðandi tikin við í tær avgerðir, ið skuldu takast um tína viðgerð og røkt? </em>    </p>
+<p>Ikki aktuelt fyri meg <em type="bold">7. Í hvønn mun vórðu tíni avvarðandi tikin við í tær avgerðir, ið skuldu takast um tína viðgerð og røkt? </em></p>
 <p><em type="bold">Raðtal: <span type="quote">«lobnr»</span> </em></p>
 <p xml:lang="dan">Færøske_sygehuse_FO_2010.indd 5814/10/10 11.41</p>
 <p type="listitem" xml:lang="dan">Bilag A</p>
@@ -689,42 +689,42 @@
 <p><em type="bold">Viðgerðargongd 8. Hevði tú varhugan av, at mistøk vórðu gjørd í sambandi við, at tú varð innløgd/innlagdur? </em>(set vinarliga ein kross í hvørt rað) </p>
 <p>Ja</p>
 <p>Nei</p>
-<p>Eg fekk ikki útflýggjað heilivág a. Útflýggjað skeivan heilivág? ..................................................................b. Skaði íkomin undir kanning/skurðviðgerð?............................................c. Umsitingarlig mistøk (horvin journal, skeiv skráseting v.m.)?...............d. Annað:__________________________________________________</p>
+<p>Eg fekk ikki útflýggjað heilivág a. Útflýggjað skeivan heilivág? ..................................................................b. Skaði íkomin undir kanning/skurðviðgerð?............................................c. Umsitingarlig mistøk (horvin journal, skeiv skráseting v.m.)?...............d. Annað:__________________________________________________</p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
 <p>Sera vánaligt</p>
 <p>Starvsfólkini varnaðust ikki mistakið</p>
-<p>Svara bert uppá spurning 9, um tú upplivdi mistøk: <em type="bold">9. Hvussu heldur tú samanumtikið, at starvsfólkini handfóru mistakið, eftir at tey varnaðust tað? </em>    <em type="bold"></em> <em type="bold"></em></p>
+<p>Svara bert uppá spurning 9, um tú upplivdi mistøk: <em type="bold">9. Hvussu heldur tú samanumtikið, at starvsfólkini handfóru mistakið, eftir at tey varnaðust tað? </em></p>
 <p>Ja, í stóran mun</p>
 <p>Ja, í ávísan mun</p>
 <p>Nei, bert í minni mun</p>
 <p>Nei, als ikki</p>
-<p>Tað kann eg ikki meta um <em type="bold">10. Upplivdi tú, at tað var óneyðug bíðitíð til kanningar ella viðgerðir, sum longdi um títt uppihald á sjúkrahúsinum? </em>     </p>
+<p>Tað kann eg ikki meta um <em type="bold">10. Upplivdi tú, at tað var óneyðug bíðitíð til kanningar ella viðgerðir, sum longdi um títt uppihald á sjúkrahúsinum? </em></p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
 <p>Sera vánaligt</p>
-<p>Eg varð ikki fluttur millum deildir <em type="bold">11. Hvussu metir tú, at tín flyting millum ymsar deildir varð løgd til rættis? </em>     </p>
+<p>Eg varð ikki fluttur millum deildir <em type="bold">11. Hvussu metir tú, at tín flyting millum ymsar deildir varð løgd til rættis? </em></p>
 <p xml:lang="dan"><em type="bold">Kunning </em></p>
 <p>Ja, áðrenn innlegging</p>
 <p>Ja, meðan eg var innløgd/innlagdur</p>
-<p>Nei <em type="bold">12. Hevur tú í sambandi við, at tú varð innløgd/innlagdur, fingið skrivliga kunning um tína sjúku og viðgerð? </em>(Set møguliga fleiri krossar)   <em type="bold">(Far til spurning 14) </em></p>
+<p>Nei <em type="bold">12. Hevur tú í sambandi við, at tú varð innløgd/innlagdur, fingið skrivliga kunning um tína sjúku og viðgerð? </em>(Set møguliga fleiri krossar) <em type="bold">(Far til spurning 14) </em></p>
 <p>Sera góð</p>
 <p>Góð</p>
 <p>Vánalig</p>
 <p>Sera vánalig</p>
 <p>Eg las hana ikki</p>
-<p>Svara bert uppá spurning 13, um tú fekk skrivliga kunning: <em type="bold">13. Hvat metir tú, samanumtikið, um ta skrivligu kunningina, tú fekk ? </em>     </p>
+<p>Svara bert uppá spurning 13, um tú fekk skrivliga kunning: <em type="bold">13. Hvat metir tú, samanumtikið, um ta skrivligu kunningina, tú fekk ? </em></p>
 <p>Sera góð</p>
 <p>Góð</p>
 <p>Vánalig</p>
-<p>Sera vánalig <em type="bold">14. Hvat metir tú samanumtikið um ta munnligu kunningina, tú fekk, ímeðan tú varð innløgd/innlagdur? </em>    </p>
+<p>Sera vánalig <em type="bold">14. Hvat metir tú samanumtikið um ta munnligu kunningina, tú fekk, ímeðan tú varð innløgd/innlagdur? </em></p>
 <p xml:lang="dan"><em type="bold">Útskriving </em></p>
 <p>Sera trygg/ur</p>
 <p>Trygg/ur</p>
 <p>Ótrygg/ur</p>
-<p>Sera ótrygg/ur <em type="bold">15. Vart tú trygg/ur ella ótrygg/ur um at skula heim frá deildini? </em>    </p>
+<p>Sera ótrygg/ur <em type="bold">15. Vart tú trygg/ur ella ótrygg/ur um at skula heim frá deildini? </em></p>
 <p type="listitem" xml:lang="dan">Færøske_sygehuse_FO_2010.indd   5914/10/10   11.4160</p>
 <p type="listitem" xml:lang="dan">Patienters oplevelser på færøske sygehuse</p>
 <p>Sera væl</p>
@@ -732,32 +732,32 @@
 <p>Vánaligt</p>
 <p>Ógvuliga vánaligt</p>
 <p>Tað kann eg ikki meta um</p>
-<p>Ikki aktuelt fyri meg <em type="bold">16. Hvussu heldur tú, at deildin og heimarøktin/heimasjúkrarøktin samstarvaðu um tína útskriving? </em>      </p>
+<p>Ikki aktuelt fyri meg <em type="bold">16. Hvussu heldur tú, at deildin og heimarøktin/heimasjúkrarøktin samstarvaðu um tína útskriving? </em></p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
 <p>Ógvuliga vánaligt</p>
-<p>Tað kann eg ikki meta um <em type="bold">17. Hvussu metir tú, at deildin kunnaði tín kommunulækna um tína viðgerðargongd? </em>     </p>
+<p>Tað kann eg ikki meta um <em type="bold">17. Hvussu metir tú, at deildin kunnaði tín kommunulækna um tína viðgerðargongd? </em></p>
 <p>Ja, í stóran mun</p>
 <p>Ja, í ávísan mun</p>
 <p>Nei, bert í minni mun</p>
 <p>Nei, als ikki</p>
-<p>Ikki aktuelt fyri meg <em type="bold">18. Hevur tú, aftaná at tú varð útskrivað/ur frá deildini, verið í iva um, hvønn týdning tín lívsstílur hevur fyri tína heilsu (t.d. rørsla, matur, royking og rúsdrekka)? </em>     </p>
+<p>Ikki aktuelt fyri meg <em type="bold">18. Hevur tú, aftaná at tú varð útskrivað/ur frá deildini, verið í iva um, hvønn týdning tín lívsstílur hevur fyri tína heilsu (t.d. rørsla, matur, royking og rúsdrekka)? </em></p>
 <p><em type="bold">Heildarfatan </em></p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
 <p>Sera vánaligt</p>
-<p>Tað kann eg ikki meta um <em type="bold">19. Hvussu metir tú, samanumtikið, at tín viðgerðargongd var løgd til rættis (áðrenn, ímeðan og eftir tú var innløgd/innlagdur)? </em>     </p>
+<p>Tað kann eg ikki meta um <em type="bold">19. Hvussu metir tú, samanumtikið, at tín viðgerðargongd var løgd til rættis (áðrenn, ímeðan og eftir tú var innløgd/innlagdur)? </em></p>
 <p>Sera góð</p>
 <p>Góð</p>
 <p>Vánalig</p>
-<p>Sera vánalig <em type="bold">20. Hvat er tín heildarfatan av tíni innlegging á deildini? </em>    <em type="bold">21. Skriva her, um tú heldur, at deildin kundi gjørt okkurt betur, og/ella um tú heldur, at deildin gjørdi okkurt serliga gott. </em>(Skriva í teigin niðanfyri) <em type="bold"></em></p>
+<p>Sera vánalig <em type="bold">20. Hvat er tín heildarfatan av tíni innlegging á deildini? 21. Skriva her, um tú heldur, at deildin kundi gjørt okkurt betur, og/ella um tú heldur, at deildin gjørdi okkurt serliga gott. </em>(Skriva í teigin niðanfyri) <em type="bold"></em></p>
 <p><em type="bold">Spurningur 22 skal bert svarast, um tú á vári 2010 hevur fingið serviðgerð uttanlands. </em></p>
 <p>Sera væl</p>
 <p>Væl</p>
 <p>Vánaligt</p>
-<p>Sera vánaligt <em type="bold">22. Hvussu upplivdi tú, at samlaða gongdin í sambandi við serviðgerð tína uttanlands varð løgd til rættis? </em>(t.d. ferð, fylgjaraskipan, uppihald, kanning, viðgerð, eftirviðgerð o.a.)    </p>
+<p>Sera vánaligt <em type="bold">22. Hvussu upplivdi tú, at samlaða gongdin í sambandi við serviðgerð tína uttanlands varð løgd til rættis? </em>(t.d. ferð, fylgjaraskipan, uppihald, kanning, viðgerð, eftirviðgerð o.a.) </p>
 <p xml:lang="dan">Færøske_sygehuse_FO_2010.indd 6014/10/10 11.41</p>
 <p type="listitem" xml:lang="dan">Bilag A</p>
 <p type="listitem">61</p>
@@ -766,42 +766,42 @@
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">23. Í hvønn mun tosaðu læknarnir við teg á ein slíkan hátt, at tú skilti teir? </em>     </p>
+<p>Í sera stóran mun <em type="bold">23. Í hvønn mun tosaðu læknarnir við teg á ein slíkan hátt, at tú skilti teir? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">24. Í hvønn mun hevur tú álit á fakliga dugnaskapin hjá læknunum? </em>     </p>
+<p>Í sera stóran mun <em type="bold">24. Í hvønn mun hevur tú álit á fakliga dugnaskapin hjá læknunum? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">25. Í hvønn mun hevur tú álit á fakliga dugnaskapin hjá røktarstarvsfólkunum? </em>     </p>
+<p>Í sera stóran mun <em type="bold">25. Í hvønn mun hevur tú álit á fakliga dugnaskapin hjá røktarstarvsfólkunum? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">26. Í hvønn mun upplivdi tú, at røktarstarvsfólkini vístu umsorgan fyri tær? </em>     </p>
+<p>Í sera stóran mun <em type="bold">26. Í hvønn mun upplivdi tú, at røktarstarvsfólkini vístu umsorgan fyri tær? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">27. Í hvønn mun upplivdi tú, at læknarnir og røktarstarvsfólkini vóru áhugað í tíni frágreiðing av tínari egnu støðu? </em>     </p>
+<p>Í sera stóran mun <em type="bold">27. Í hvønn mun upplivdi tú, at læknarnir og røktarstarvsfólkini vóru áhugað í tíni frágreiðing av tínari egnu støðu? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">28. Í hvønn mun heldur tú, at tú fekk ta neyðugu kunningina um, hvussu royndir og kanningar skuldu gerast? </em>     </p>
+<p>Í sera stóran mun <em type="bold">28. Í hvønn mun heldur tú, at tú fekk ta neyðugu kunningina um, hvussu royndir og kanningar skuldu gerast? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">29. Í hvønn mun vóru røktin og viðgerðin, tú fekk á sjúkrahúsinum, samanumtikið nøktandi? </em>     </p>
+<p>Í sera stóran mun <em type="bold">29. Í hvønn mun vóru røktin og viðgerðin, tú fekk á sjúkrahúsinum, samanumtikið nøktandi? </em></p>
 <p>Als ikki</p>
 <p>Í minni mun</p>
 <p>Í ávísan mun</p>
 <p>Í stóran mun</p>
-<p>Í sera stóran mun <em type="bold">30. Í hvønn mun heldur tú, at tað á nakran hátt, vórðu framd mistøk í tí viðgerð tú fekst? </em>     </p>
+<p>Í sera stóran mun <em type="bold">30. Í hvønn mun heldur tú, at tað á nakran hátt, vórðu framd mistøk í tí viðgerð tú fekst? </em></p>
 <p><em type="bold">Vinarliga send spurnarblaðið í hjálagda brævbjálva. Postgjaldið er goldið. </em></p>
 <p><em type="bold">Takk fyri tína luttøku! </em></p>
 <p><em type="bold">Raðtal: <span type="quote">«lobnr»</span> </em></p>
@@ -811,34 +811,34 @@
 <p xml:lang="dan"><em type="bold">Spørgeskema om indlæggelse på &lt;&lt;afdeling&gt;&gt; på &lt;&lt;sygehus&gt;&gt; </em></p>
 <p xml:lang="dan"><em type="bold">DEL A </em></p>
 <p>Akut</p>
-<p xml:lang="dan">Planlagt (indkaldt på forhånd) <em type="bold">1. Hvordan blev du indlagt på sygehuset? </em> <em type="bold">(gå til spørgsmål 3) </em> </p>
+<p xml:lang="dan">Planlagt (indkaldt på forhånd) <em type="bold">1. Hvordan blev du indlagt på sygehuset? (gå til spørgsmål 3) </em></p>
 <p xml:lang="dan"><em type="bold">Inden indlæggelsen og ved modtagelsen på afdelingen </em></p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
 <p xml:lang="dan">Det husker jeg ikke</p>
-<p xml:lang="dan">Besvar kun spørgsmål 2, hvis du blev planlagt indlagt: <em type="bold">2. Hvordan vurderer du, at du blev informeret om længden af ventetiden, fra du blev henvist til afdelingen, til du blev indlagt? </em>     </p>
+<p xml:lang="dan">Besvar kun spørgsmål 2, hvis du blev planlagt indlagt: <em type="bold">2. Hvordan vurderer du, at du blev informeret om længden af ventetiden, fra du blev henvist til afdelingen, til du blev indlagt? </em></p>
 <p xml:lang="dan">Ja, lang ventetid</p>
 <p xml:lang="dan">Ja, kort ventetid</p>
 <p xml:lang="dan">Nej, ingen ventetid</p>
-<p xml:lang="dan">Det husker jeg ikke <em type="bold">3. Oplevede du, at der var ventetid ved din modtagelse på afdelingen? </em>    </p>
+<p xml:lang="dan">Det husker jeg ikke <em type="bold">3. Oplevede du, at der var ventetid ved din modtagelse på afdelingen? </em></p>
 <p xml:lang="dan"><em type="bold">Personale </em></p>
 <p xml:lang="dan">Ja, én kontaktperson</p>
 <p xml:lang="dan">Ja, flere kontaktpersoner</p>
-<p xml:lang="dan">Nej <em type="bold">4. Oplevede du, at én eller flere kontaktpersoner på afdelingen havde særligt ansvar for dit forløb? </em>(En kontaktperson er en sundhedsperson, der skal informere dig og sikre sammenhæng i dit forløb)    </p>
+<p xml:lang="dan">Nej <em type="bold">4. Oplevede du, at én eller flere kontaktpersoner på afdelingen havde særligt ansvar for dit forløb? </em>(En kontaktperson er en sundhedsperson, der skal informere dig og sikre sammenhæng i dit forløb) </p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
-<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">5. Hvordan vurderer du, at afdelingens personale havde sat sig ind i dit sygdomsforløb ved de planlagte samtaler? </em>     </p>
+<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">5. Hvordan vurderer du, at afdelingens personale havde sat sig ind i dit sygdomsforløb ved de planlagte samtaler? </em></p>
 <p xml:lang="dan">For meget</p>
 <p xml:lang="dan">Passende</p>
-<p xml:lang="dan">For lidt <em type="bold">6. I hvilket omfang blev du inddraget i de beslutninger, der skulle træffes om din behandling og pleje? </em>   </p>
+<p xml:lang="dan">For lidt <em type="bold">6. I hvilket omfang blev du inddraget i de beslutninger, der skulle træffes om din behandling og pleje? </em></p>
 <p xml:lang="dan">For meget</p>
 <p xml:lang="dan">Passende</p>
 <p xml:lang="dan">For lidt</p>
-<p xml:lang="dan">Ikke aktuelt for mig <em type="bold">7. I hvilket omfang blev dine pårørende inddraget i de beslutninger, der skulle træffes om din behandling og pleje? </em>    </p>
+<p xml:lang="dan">Ikke aktuelt for mig <em type="bold">7. I hvilket omfang blev dine pårørende inddraget i de beslutninger, der skulle træffes om din behandling og pleje? </em></p>
 <p xml:lang="dan"><em type="bold">Løbenr.: <span type="quote">«lobnr»</span> </em></p>
 <p xml:lang="dan">Færøske_sygehuse_FO_2010.indd 6214/10/10 11.41</p>
 <p type="listitem" xml:lang="dan">Bilag B</p>
@@ -846,42 +846,42 @@
 <p xml:lang="dan"><em type="bold">Behandlingsforløb 8. Oplevede du, at der skete fejl i forbindelse med dit indlæggelsesforløb? </em>(sæt venligst et kryds i hver række) </p>
 <p>Ja</p>
 <p xml:lang="dan">Nej</p>
-<p xml:lang="dan">Jeg fik ikke udleveret medicin a. Udleveret forkert medicin? .....................................................................b. Skade opstået under undersøgelse/operation?.........................................c. Administrativ fejl (bortkommen journal, fejlregistrering m.v.)? ............d. Andet?__________________________________________________</p>
+<p xml:lang="dan">Jeg fik ikke udleveret medicin a. Udleveret forkert medicin? .....................................................................b. Skade opstået under undersøgelse/operation?.........................................c. Administrativ fejl (bortkommen journal, fejlregistrering m.v.)? ............d. Andet?__________________________________________________</p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
 <p xml:lang="dan">Personalet havde intet kendskab til fejlen(e)</p>
-<p xml:lang="dan">Besvar kun spørgsmål 9, hvis du oplevede fejl: <em type="bold">9. Hvordan synes du alt i alt, at personalet tog hånd om fejlen/fejlene, efter den/de blev opdaget? </em>    <em type="bold"></em> <em type="bold"></em></p>
+<p xml:lang="dan">Besvar kun spørgsmål 9, hvis du oplevede fejl: <em type="bold">9. Hvordan synes du alt i alt, at personalet tog hånd om fejlen/fejlene, efter den/de blev opdaget? </em></p>
 <p xml:lang="dan">Ja, i høj grad</p>
 <p xml:lang="dan">Ja, i nogen grad</p>
 <p xml:lang="dan">Nej, kun i mindre grad</p>
 <p xml:lang="dan">Nej, slet ikke</p>
-<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">10. Oplevede du, at der opstod unødig ventetid på undersøgelser eller behandlinger, der forlængede dit ophold på sygehuset? </em>     </p>
+<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">10. Oplevede du, at der opstod unødig ventetid på undersøgelser eller behandlinger, der forlængede dit ophold på sygehuset? </em></p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
-<p xml:lang="dan">Jeg blev ikke flyttet mellem afdelinger <em type="bold">11. Hvordan vurderer du, at din overflytning mellem forskellige afdelinger var tilrettelagt? </em>     </p>
+<p xml:lang="dan">Jeg blev ikke flyttet mellem afdelinger <em type="bold">11. Hvordan vurderer du, at din overflytning mellem forskellige afdelinger var tilrettelagt? </em></p>
 <p xml:lang="dan"><em type="bold">Information </em></p>
 <p xml:lang="dan">Ja, før indlæggelsen</p>
 <p xml:lang="dan">Ja, mens jeg var indlagt</p>
-<p xml:lang="dan">Nej <em type="bold">12. Har du i forbindelse med dit indlæggelsesforløb modtaget skriftlig information om din sygdom og behandling? </em>(Sæt eventuelt flere kryds)   <em type="bold">(gå til spørgsmål 14) </em></p>
+<p xml:lang="dan">Nej <em type="bold">12. Har du i forbindelse med dit indlæggelsesforløb modtaget skriftlig information om din sygdom og behandling? </em>(Sæt eventuelt flere kryds) <em type="bold">(gå til spørgsmål 14) </em></p>
 <p xml:lang="dan">Virkelig god</p>
 <p xml:lang="dan">God</p>
 <p xml:lang="dan">Dårlig</p>
 <p xml:lang="dan">Virkelig dårlig</p>
 <p xml:lang="dan">Jeg læste den ikke</p>
-<p xml:lang="dan">Besvar kun spørgsmål 13, hvis du modtog skriftlig information: <em type="bold">13. Hvordan vurderer du alt i alt den skriftlige information, du fik? </em>     </p>
+<p xml:lang="dan">Besvar kun spørgsmål 13, hvis du modtog skriftlig information: <em type="bold">13. Hvordan vurderer du alt i alt den skriftlige information, du fik? </em></p>
 <p xml:lang="dan">Virkelig god</p>
 <p xml:lang="dan">God</p>
 <p xml:lang="dan">Dårlig</p>
-<p xml:lang="dan">Virkelig dårlig <em type="bold">14. Hvordan vurderer du alt i alt den mundtlige information, du fik, mens du var indlagt? </em>    </p>
+<p xml:lang="dan">Virkelig dårlig <em type="bold">14. Hvordan vurderer du alt i alt den mundtlige information, du fik, mens du var indlagt? </em></p>
 <p xml:lang="dan"><em type="bold">Udskrivelse </em></p>
 <p xml:lang="dan">Meget tryg</p>
 <p>Tryg</p>
 <p xml:lang="dan">Utryg</p>
-<p xml:lang="dan">Meget utryg <em type="bold">15. Var du tryg eller utryg ved at skulle hjem fra afdelingen? </em>    </p>
+<p xml:lang="dan">Meget utryg <em type="bold">15. Var du tryg eller utryg ved at skulle hjem fra afdelingen? </em></p>
 <p type="listitem" xml:lang="dan">Færøske_sygehuse_FO_2010.indd   6314/10/10   11.4164</p>
 <p type="listitem" xml:lang="dan">Patienters oplevelser på færøske sygehuse</p>
 <p xml:lang="dan">Virkelig godt</p>
@@ -889,32 +889,32 @@
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
 <p xml:lang="dan">Det kan jeg ikke vurdere</p>
-<p xml:lang="dan">Ikke aktuelt for mig <em type="bold">16. Hvordan vurderer du, at afdelingen og hjemmeplejen/hjemmesygeplejen samarbejdede om din udskrivelse? </em>      </p>
+<p xml:lang="dan">Ikke aktuelt for mig <em type="bold">16. Hvordan vurderer du, at afdelingen og hjemmeplejen/hjemmesygeplejen samarbejdede om din udskrivelse? </em></p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
-<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">17. Hvordan vurderer du, at afdelingen orienterede din praktiserende læge om dit behandlingsforløb? </em>     </p>
+<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">17. Hvordan vurderer du, at afdelingen orienterede din praktiserende læge om dit behandlingsforløb? </em></p>
 <p xml:lang="dan">Ja, i høj grad</p>
 <p xml:lang="dan">Ja, i nogen grad</p>
 <p xml:lang="dan">Nej, kun i mindre grad</p>
 <p xml:lang="dan">Nej, slet ikke</p>
-<p xml:lang="dan">Ikke aktuelt for mig <em type="bold">18. Har du, efter du blev udskrevet fra afdelingen, været i tvivl om din livsstils betydning for dit helbred (fx motion, ernæring, rygning og alkohol)? </em>     </p>
+<p xml:lang="dan">Ikke aktuelt for mig <em type="bold">18. Har du, efter du blev udskrevet fra afdelingen, været i tvivl om din livsstils betydning for dit helbred (fx motion, ernæring, rygning og alkohol)? </em></p>
 <p xml:lang="dan"><em type="bold">Samlet indtryk </em></p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
 <p xml:lang="dan">Virkelig dårligt</p>
-<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">19. Hvordan vurderer du alt i alt, at dit samlede behandlingsforløb var tilrettelagt (før, under og efter indlæggelsen)? </em>     </p>
+<p xml:lang="dan">Det kan jeg ikke vurdere <em type="bold">19. Hvordan vurderer du alt i alt, at dit samlede behandlingsforløb var tilrettelagt (før, under og efter indlæggelsen)? </em></p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
-<p xml:lang="dan">Virkelig dårligt <em type="bold">20. Hvad er dit samlede indtryk af din indlæggelse på afdelingen? </em>    <em type="bold">21. Skriv her, hvis du synes, afdelingen kunne gøre noget bedre, og/eller hvis du synes, afdelingen gjorde noget særligt godt. </em>(Skriv i feltet nedenfor) <em type="bold"></em></p>
+<p xml:lang="dan">Virkelig dårligt <em type="bold">20. Hvad er dit samlede indtryk af din indlæggelse på afdelingen? 21. Skriv her, hvis du synes, afdelingen kunne gøre noget bedre, og/eller hvis du synes, afdelingen gjorde noget særligt godt. </em>(Skriv i feltet nedenfor) <em type="bold"></em></p>
 <p xml:lang="dan"><em type="bold">Spørgsmål 22 besvares kun, hvis du i foråret 2010, har modtaget specialbehandling i udlandet. </em></p>
 <p xml:lang="dan">Virkelig godt</p>
 <p xml:lang="dan">Godt</p>
 <p xml:lang="dan">Dårligt</p>
-<p xml:lang="dan">Virkelig dårligt <em type="bold">22. Hvordan oplevede du, at dit samlede forløb ved din specialbehandling i udlandet, var tilrettelagt? </em>    </p>
+<p xml:lang="dan">Virkelig dårligt <em type="bold">22. Hvordan oplevede du, at dit samlede forløb ved din specialbehandling i udlandet, var tilrettelagt? </em></p>
 <p xml:lang="dan">Færøske_sygehuse_FO_2010.indd 6414/10/10 11.41</p>
 <p type="listitem" xml:lang="dan">Bilag B</p>
 <p type="listitem">65</p>
@@ -923,42 +923,42 @@
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">23. I hvilken grad talte lægerne med dig på en sådan måde, at du forstod dem? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">23. I hvilken grad talte lægerne med dig på en sådan måde, at du forstod dem? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">24. I hvilken grad har du tillid til lægernes faglige dygtighed? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">24. I hvilken grad har du tillid til lægernes faglige dygtighed? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">25. I hvilken grad har du tillid til plejepersonalets faglige dygtighed? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">25. I hvilken grad har du tillid til plejepersonalets faglige dygtighed? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">26. I hvilken grad oplevede du, at plejepersonalet viste omsorg for dig? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">26. I hvilken grad oplevede du, at plejepersonalet viste omsorg for dig? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">27. I hvilken grad oplevede du, at lægerne og plejepersonalet var interesserede i din beskrivelse af din egen situation? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">27. I hvilken grad oplevede du, at lægerne og plejepersonalet var interesserede i din beskrivelse af din egen situation? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">28. I hvilken grad synes du, at du fik den nødvendige viden om, hvordan prøver og undersøgelser skulle foregå? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">28. I hvilken grad synes du, at du fik den nødvendige viden om, hvordan prøver og undersøgelser skulle foregå? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">29. I hvilken grad var plejen og behandlingen, du modtog på sygehuset, alt i alt, tilfredsstillende? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">29. I hvilken grad var plejen og behandlingen, du modtog på sygehuset, alt i alt, tilfredsstillende? </em></p>
 <p xml:lang="dan">Slet ikke</p>
 <p xml:lang="dan">I mindre grad</p>
 <p xml:lang="dan">I nogen grad</p>
 <p xml:lang="dan">I høj grad</p>
-<p xml:lang="dan">I meget høj grad <em type="bold">30. I hvilken grad mener du, at du på nogen måde blev fejlbehandlet (ud fra hvad du selv kan bedømme)? </em>     </p>
+<p xml:lang="dan">I meget høj grad <em type="bold">30. I hvilken grad mener du, at du på nogen måde blev fejlbehandlet (ud fra hvad du selv kan bedømme)? </em></p>
 <p xml:lang="dan"><em type="bold">Returnér venligst skemaet i vedlagte svarkuvert. Portoen er betalt. </em></p>
 <p xml:lang="dan"><em type="bold">Tak for din medvirken! </em></p>
 <p xml:lang="dan"><em type="bold">Løbenr.: <span type="quote">«lobnr»</span> </em></p>
